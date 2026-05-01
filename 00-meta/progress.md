@@ -16,6 +16,7 @@ Phase 0 完成,等待 Phase 1(S1 端到端 POC)启动指令
 - [x] `books_to_buy.md` 完整购书清单
 - [x] 2 份样本转 v3 yaml(SRC-001, SRC-002, K-MILE-S5-001, K-MECH-CROSS-001)
 - [x] git init + 首次 commit
+- [x] 工具栈安装(2026-04-30):pandoc / poppler / tesseract+lang / calibre + venv(markitdown / ocrmypdf)→ 见 `tooling.md`
 
 ### Phase 1 (未开始)
 - [ ] S1 探索:Tier 1 全部 S1 相关页面 URL 验证

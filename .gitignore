@@ -2,9 +2,19 @@
 .DS_Store
 ._*
 
-# Tier 3 用户合法购买的 PDF 不入仓(版权 + 体积),只追踪提取后的 notes/
+# Tier 3 用户合法购买的书 + 格式转换产出物不入仓(版权 + 体积),只追踪提取后的 notes/
 10-sources/tier3-books/raw_pdfs/*.pdf
 10-sources/tier3-books/raw_pdfs/*.epub
+10-sources/tier3-books/raw_pdfs/*.azw3
+10-sources/tier3-books/raw_pdfs/*.mobi
+10-sources/tier3-books/raw_pdfs/*.md
+10-sources/tier3-books/raw_pdfs/*.txt
+10-sources/tier3-books/raw_pdfs/*.html
+
+# Python venv (本项目 tooling)
+.venv/
+__pycache__/
+*.pyc
 
 # Tier 5 大体积音视频不入仓,只追踪转录/notes
 10-sources/tier5-video-podcast/raw/*.mp4
