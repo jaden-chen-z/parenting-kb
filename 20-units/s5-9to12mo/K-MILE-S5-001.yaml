@@ -1,0 +1,83 @@
+unit_id: K-MILE-S5-001
+node_name: 9 月龄发展里程碑(CDC LTSAE 标准)
+node_type: 里程碑
+stages: [S5]
+domains: [社交情绪, 语言, 认知, 大动作, 精细动作]
+evidence_level: A
+status: pending_user_review
+tags: [red_flag]
+created: 2026-04-30
+updated: 2026-04-30
+
+# 核心论点
+core_claims:
+  - CDC LTSAE 使用 75% 通过率阈值(不是平均值)—— 到 9 月龄 75% 以上孩子做不到这些事就要警觉
+  - 9 月龄是 AAP 推荐的 standardized developmental screening 节点之一(9-18-30 月)
+  - LTSAE 不是诊断工具,只是"提醒去筛查"工具 —— 未达成就走筛查 → 必要时转介专科
+  - regression(失去之前已掌握的技能)是和"未达成"同等的红旗信号
+
+# 来源
+sources:
+  primary:
+    - source_id: SRC-001
+      verbatim_quote: |
+        "Developmental milestones are things most children (75% or more) can do by a certain age."
+        "You know your child best. Don't wait. If your child is not meeting one or more milestones,
+        has lost skills he or she once had, or you have other concerns, act early."
+  cross_validation_pending:                   # Phase 1 抓
+    - AAP Bright Futures 9-month visit guidance
+    - WHO motor milestones — 9 月龄独坐窗口 P1-P99 = 3.8-9.2 月
+    - 中国《0-6 岁儿童发育行为评估量表》(DST) 9 月龄条目
+
+# 流派立场
+schools:
+  RIE: 不主动推动里程碑达成,但不反对监测
+  Pikler: 强调按自然节奏,反对外力推动大动作
+  Montessori: 强调环境准备促成自发达成,不反对监测
+  Brazelton: 兼容(Touchpoints 本身就是节点框架)
+
+# 关联节点(Phase 1 创建后回填实际 ID)
+related_units:
+  - K-MOTOR-S5-*       # 大动作分项
+  - K-LANG-S5-*        # 前语言
+  - K-COGN-S5-*        # 物体永久性 / 客体恒存
+  - K-SOCIAL-S5-*      # 陌生人焦虑 / 依恋形成行为表征
+  - K-MECH-CROSS-001   # Serve and Return —— 多个 9 月里程碑的支撑机制
+
+# 落地动作
+actions:
+  - 月度自检(9 月龄前后): 对照 4 域 13 个里程碑逐项核对
+  - 出现"未达成"或"regression"中任一: 主动联系儿科医生
+  - 早产儿: 按矫正月龄评估,不按出生月龄
+  - 与儿科医生沟通时使用 CDC 提问框架(SRC-001 verbatim 5 个问题)
+
+# 失败模式
+failure_modes:
+  - 把 LTSAE 当诊断工具 → 自我吓坏 / 错过专业筛查
+  - 用平均值标准看待(以为多数 9 月孩子都能做) → 给孩子贴落后标签 / 给自己施压
+  - 早产儿不矫正月龄 → 误判为"发育迟缓"
+  - 看到一项落后立即焦虑 → 过度反应(单项延迟不等于发育问题,但要走筛查路径)
+
+# 测量指标
+metrics:
+  - 4 域 13 项: 已达成 / 未达成 / 即将达成
+  - regression 监控: 之前能做的事是否还能做
+  - 与儿科医生沟通频次
+
+# 冲突 / 争议
+conflicts:
+  - CDC 2022 年大改版将多个里程碑后移(从 50% 阈值改为 75%)—— 受过批评:可能漏诊早期发展问题
+  - AAP 推荐 9 月龄做正式 standardized screening,不依赖里程碑清单
+  - 与 WHO motor milestones / 中国 DST 量表的对照 Phase 1 完成
+
+# 应用注解
+application_notes: |
+  针对你家大宝(7 月龄 → 9 月龄):
+  接下来 2 个月观察点:
+  - 是否开始"找掉落物体"(物体永久性即将上线)
+  - 是否区分熟人/陌生人(陌生人焦虑窗口启动)
+  - 是否出现 mamamama / bababababa 重复音节
+  - 是否能从趴/侧位自己坐起
+  - 是否会两手互倒物体
+  重要:75% 通过率不是平均,某项暂未出现不焦虑,提前 2 个月观察即可。
+  二宝(待出生)9 月龄到达约在 2027 年,届时 CDC 标准可能再次更新,需重新核对页面。

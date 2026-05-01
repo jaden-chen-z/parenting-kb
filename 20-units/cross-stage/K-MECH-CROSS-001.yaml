@@ -1,0 +1,100 @@
+unit_id: K-MECH-CROSS-001
+node_name: Serve and Return(应答式互动 / 来回回应)
+node_type: 核心机制
+stages: [S1, S2, S3, S4, S5]    # 0-36 月通用,本知识库覆盖 S1-S5
+domains: [语言, 社交情绪, 认知, 依恋, 脑发育]
+evidence_level: A
+status: pending_user_review
+tags: []
+created: 2026-04-30
+updated: 2026-04-30
+
+# 核心论点
+core_claims:
+  - 婴幼儿发出"球"(咿呀、手势、哭闹)后,成人用眼神/语言/拥抱"回球",这种来回互动构建脑神经连接
+  - 给孩子正在看/做/感受的事命名,是建立语言通路的关键,即使在他们能说话或理解词语之前
+  - 持续缺位的 serve and return 不仅剥夺刺激,还激活 toxic stress 通路,损伤发育中脑结构
+  - 系统性诱因(财务压力、社会孤立、慢性疾病、政策性歧视、气候压力)是个体能力之外的限制 —— 卡片设计要避免"父母失败"叙事
+
+# 来源
+sources:
+  primary:
+    - source_id: SRC-002
+      verbatim_quote: |
+        "When an infant or young child babbles, gestures, or cries, and an adult responds with
+        eye contact, words, or a hug, this back-and-forth interaction—known as serve and return—
+        helps to build and strengthen neural connections in the child's brain."
+        "Naming what a young child is seeing, doing, or feeling helps make important language
+        connections, even before they can talk or understand words."
+  supporting_working_papers:           # 全部 via SRC-002 引用,Phase 1 可独立抓 PDF 升级到 Tier 1
+    - title: "Young Children Develop in an Environment of Relationships"
+      year: 2004
+      via: SRC-002
+    - title: "Children's Emotional Development Is Built into the Architecture of Their Brains"
+      year: 2004
+      via: SRC-002
+    - title: "The Timing and Quality of Early Experiences Combine to Shape Brain Architecture"
+      year: 2007
+      via: SRC-002
+    - title: "Excessive Stress Disrupts the Architecture of the Developing Brain"
+      year: 2005
+      via: SRC-002
+    - title: "InBrief: The Science of Neglect"
+      year: 2013
+      via: SRC-002
+  pending_fetch:
+    - '"5 Steps for Brain-Building Serve and Return" PDF (Phase 1 抓 → 落地动作 verbatim)'
+
+# 流派立场
+schools:
+  Universal: 全部主流流派接受这个机制
+  RIE: 兼容(强调"真实自然",反对表演式互动)
+  Pikler: 兼容(强调 responsive caregiving)
+  Montessori: 兼容("absorbent mind"概念与之对应)
+  Brazelton: 兼容(Touchpoints 强调 cue reading)
+
+# 关联节点(Phase 1 创建后回填实际 ID)
+related_units:
+  - K-ATTACH-S1-*    # 安全依恋形成
+  - K-LANG-CROSS-*   # 前语言发展 / joint attention
+  - K-EMO-CROSS-*    # 情绪共调节
+  - K-STRESS-CROSS-* # toxic stress 反向链路
+  - K-MILE-S5-001    # 9 月里程碑(SR 是其支撑机制)
+
+# 落地动作 —— ⚠️ 占位,待 5 Steps PDF 抓取后用 verbatim 替换
+actions:
+  - 注意"发球":看她在看什么 / 听她在发什么音
+  - 回球:用眼神 / 表情 / 声音 / 动作回应
+  - 命名:把她注意到的东西 / 动作 / 情绪用词说出来
+  - 来回 + 等待:给她回球的时间
+  - 觉察结束信号:她转头 / 打哈欠就停
+  # 注:上述基于 SR 概念的二手概述,Phase 1 拿到 PDF 后必须 verbatim 替换 → gaps.md G2
+
+# 失败模式 —— 全部 verbatim 自 SRC-002
+failure_modes:
+  - inconsistent_response: |
+      "When an adult's responses to a child are inconsistent, harmful, or simply absent,
+      developing brain architecture may be disrupted, potentially leading to long-term impacts
+      on health and well-being."
+  - persistent_absence: |
+      "The persistent absence of serve and return interactions not only deprives the brain of
+      the positive stimulation it needs but also activates the body's toxic stress response,
+      which can flood the developing brain with harmful stress hormones."
+  - 系统性诱因(非父母个体过失): 财务压力、社会孤立、慢性疾病、政策性歧视、气候压力
+
+# 测量指标
+metrics:
+  6 月内: 宝宝 babble 之后照护者回应延迟 < 3 秒的比例
+  9 月内: 共同注意(joint attention) 发生频次/小时
+  12 月内: 命名词的接收性词汇量
+
+# 冲突 / 争议
+conflicts:
+  - 暂无主流流派反对此机制
+  - 待 Phase 1 处理:东亚文化"含蓄回应" vs 西方"显性回应"的跨文化讨论(可能写入 conflicts.md)
+
+# 应用注解
+application_notes: |
+  跨段机制,任何 stage 都适用。
+  落地动作 v0.1 是占位,Phase 1 必须用 5 Steps PDF verbatim 替换。
+  RIE / Pikler 两派的"真实自然 vs 表演式互动"区分,是落地时的关键 caveat。

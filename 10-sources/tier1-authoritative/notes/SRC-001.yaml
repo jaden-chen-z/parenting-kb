@@ -1,0 +1,84 @@
+source_id: SRC-001
+title: Milestones by 9 Months | Learn the Signs. Act Early.
+org: CDC NCBDDD
+source_type: webpage
+url: https://www.cdc.gov/act-early/milestones/9-months.html
+doi: null
+isbn: null
+tier: 1
+language: en
+paywall: false
+captcha: false
+accessed: 2026-04-30
+fetch_method: search_then_fetch
+local_file: null            # raw HTML 未保留,见 00-meta/gaps.md G1
+file_size_bytes: null
+
+metadata:
+  first_published: 2025-09-05
+  last_reviewed: 2026-02-17
+  authors: ["CDC NCBDDD subject matter experts"]
+
+# verbatim 关键内容(全部直接引用 CDC 原文,不改写)
+verbatim_content:
+  milestone_definition: |
+    "Developmental milestones are things most children (75% or more) can do by a certain age."
+
+  social_emotional_milestones:
+    - "Is shy, clingy, or fearful around strangers"
+    - "Shows several facial expressions, like happy, sad, angry, and surprised"
+    - "Looks when you call her name"
+    - "Reacts when you leave (looks, reaches for you, or cries)"
+    - "Smiles or laughs when you play peek-a-boo"
+
+  language_communication_milestones:
+    - 'Makes a lot of different sounds like "mamamama" and "bababababa"'
+    - "Lifts arms up to be picked up"
+    # 注:CDC 把"举手要抱"列在语言/沟通,因为这是前语言交流
+
+  cognitive_milestones:
+    - "Looks for objects when dropped out of sight (like his spoon or toy)"  # 物体永久性指标
+    - "Bangs two things together"
+
+  movement_physical_milestones:
+    - "Gets to a sitting position by herself"
+    - "Moves things from one hand to her other hand"
+    - 'Uses fingers to "rake" food towards himself'
+    - "Sits without support"
+
+  act_early_quote: |
+    "You know your child best. Don't wait. If your child is not meeting one or more milestones,
+    has lost skills he or she once had, or you have other concerns, act early.
+    Talk with your child's doctor, share your concerns, and ask about developmental screening."
+
+  doctor_question_framework:
+    - "What are some things you and your baby do together?"
+    - "What are some things your baby likes to do?"
+    - "Is there anything your baby does or does not do that concerns you?"
+    - "Has your baby lost any skills he/she once had?"
+    - "Does your baby have any special healthcare needs or was he/she born prematurely?"
+
+  important_disclaimer: |
+    '"Learn the Signs. Act Early." materials are not a substitute for standardized,
+    validated developmental screening tools.'
+
+# 给单元层用的精简摘要
+summary: |
+  CDC LTSAE 9 月龄里程碑使用 75% 通过率阈值(不是平均)。
+  4 域共 13 个里程碑:社交情绪 5 / 语言沟通 2 / 认知 2 / 大动作精细动作 4。
+  Act Early 框架强调 regression 和未达成都是去筛查的信号。
+  AAP 推荐 9-18-30 月节点做 standardized screening。
+  重要免责:LTSAE 不是诊断工具。
+  CDC 2022 年大改版后将多个里程碑后移,曾受批评(可能漏诊早期发展问题)。
+
+# 此源支撑的单元
+referenced_by_units:
+  - K-MILE-S5-001
+
+notes: |
+  Phase 0 转换自附录 B 实抓样本(2026-04-30)。
+  raw HTML 未保留,Phase 1 启动时考虑补抓 → gaps.md G1。
+  Phase 1 待 cross-validate:
+    - AAP Bright Futures 9-month visit guidance
+    - WHO motor milestones(已知 9 月龄独坐窗口 P1-P99 = 3.8-9.2 月)
+    - 中国《0-6 岁儿童发育行为评估量表》(DST) 9 月龄条目

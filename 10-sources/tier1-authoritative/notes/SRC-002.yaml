@@ -1,0 +1,84 @@
+source_id: SRC-002
+title: "Serve and Return: Back-and-forth exchanges"
+org: Harvard Center on the Developing Child
+source_type: webpage
+url: https://developingchild.harvard.edu/key-concept/serve-and-return/
+doi: null
+isbn: null
+tier: 1
+language: en
+paywall: false
+captcha: false
+accessed: 2026-04-30
+fetch_method: search_then_fetch
+local_file: null            # raw HTML 未保留,见 00-meta/gaps.md G1
+file_size_bytes: null
+
+metadata:
+  first_published: null     # Harvard CDC 该 key-concept 页面未标注首次发布日期
+  last_reviewed: null
+  authors: ["Harvard Center on the Developing Child editorial team"]
+
+# verbatim 关键内容(全部直接引用 Harvard CDC 原文)
+verbatim_content:
+  core_mechanism: |
+    "When an infant or young child babbles, gestures, or cries, and an adult responds with eye contact,
+    words, or a hug, this back-and-forth interaction—known as serve and return—helps to build and
+    strengthen neural connections in the child's brain."
+
+  language_priming: |
+    "Naming what a young child is seeing, doing, or feeling helps make important language connections,
+    even before they can talk or understand words."
+
+  failure_consequence: |
+    "When an adult's responses to a child are inconsistent, harmful, or simply absent,
+    developing brain architecture may be disrupted, potentially leading to long-term impacts
+    on health and well-being."
+
+  toxic_stress_pathway: |
+    "The persistent absence of serve and return interactions not only deprives the brain of the
+    positive stimulation it needs but also activates the body's toxic stress response, which can
+    flood the developing brain with harmful stress hormones."
+
+# 同源 Harvard CDC 出品的 working papers / in briefs(本页面引用)
+supporting_working_papers:
+  - title: "Young Children Develop in an Environment of Relationships"
+    type: working_paper
+    date: 2004-04-13
+  - title: "Children's Emotional Development Is Built into the Architecture of Their Brains"
+    type: working_paper
+    date: 2004-04-14
+  - title: "The Timing and Quality of Early Experiences Combine to Shape Brain Architecture"
+    type: working_paper
+    date: 2007-05-28
+  - title: "Excessive Stress Disrupts the Architecture of the Developing Brain"
+    type: working_paper
+    date: 2005-05-14
+  - title: "InBrief: The Science of Neglect"
+    type: in_brief
+    date: 2013-05-20
+
+# 待二级抓取
+related_resources:
+  - type: pdf
+    title: "5 Steps for Brain-Building Serve and Return"
+    url: https://harvardcenter.wpenginepowered.com/wp-content/uploads/2017/06/HCDC_ServeReturn_for_Parents_Caregivers_2019.pdf
+    status: pending_secondary_fetch    # Phase 1 抓 → gaps.md G2
+
+# 给单元层用的精简摘要
+summary: |
+  Serve and Return 是 Harvard CDC 提出的"成人响应婴幼儿信号"核心机制框架,
+  适用 0-36 月,直接构建脑神经连接。
+  相反:持续缺位会激活 toxic stress 通路,损伤脑结构。
+  落地动作详见 5 Steps PDF(待 Phase 1 抓取)。
+  系统性诱因(财务压力、社会孤立、慢性疾病、政策性歧视、气候压力)是父母个体能力之外的限制 ——
+  卡片设计要避免"父母失败"叙事。
+
+# 此源支撑的单元
+referenced_by_units:
+  - K-MECH-CROSS-001
+
+notes: |
+  Phase 0 转换自附录 B 实抓样本(2026-04-30)。
+  raw HTML 未保留,Phase 1 启动时考虑补抓 → gaps.md G1。
+  Phase 1 优先二级抓:5 Steps PDF(K-MECH-CROSS-001 的 actions 字段需要 verbatim 替换)。

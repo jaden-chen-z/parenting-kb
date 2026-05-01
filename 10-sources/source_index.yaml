@@ -1,0 +1,29 @@
+# 全部源的索引(单文件,便于 grep / yq 检索)
+# Phase 0 初始化只含 2 份样本,Phase 1 起批量填充
+# Schema: source_id / title / org / tier / source_type / url / accessed / language / notes_path / referenced_by_units
+
+sources:
+  - source_id: SRC-001
+    title: Milestones by 9 Months | Learn the Signs. Act Early.
+    org: CDC NCBDDD
+    tier: 1
+    source_type: webpage
+    url: https://www.cdc.gov/act-early/milestones/9-months.html
+    accessed: 2026-04-30
+    language: en
+    notes_path: tier1-authoritative/notes/SRC-001.yaml
+    referenced_by_units: [K-MILE-S5-001]
+
+  - source_id: SRC-002
+    title: "Serve and Return: Back-and-forth exchanges"
+    org: Harvard Center on the Developing Child
+    tier: 1
+    source_type: webpage
+    url: https://developingchild.harvard.edu/key-concept/serve-and-return/
+    accessed: 2026-04-30
+    language: en
+    notes_path: tier1-authoritative/notes/SRC-002.yaml
+    referenced_by_units: [K-MECH-CROSS-001]
+
+# 下一个可用 ID(Phase 1 起从这开始递增)
+next_src_id: SRC-003

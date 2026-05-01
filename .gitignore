@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+._*
+
+# Tier 3 用户合法购买的 PDF 不入仓(版权 + 体积),只追踪提取后的 notes/
+10-sources/tier3-books/raw_pdfs/*.pdf
+10-sources/tier3-books/raw_pdfs/*.epub
+
+# Tier 5 大体积音视频不入仓,只追踪转录/notes
+10-sources/tier5-video-podcast/raw/*.mp4
+10-sources/tier5-video-podcast/raw/*.mp3
+10-sources/tier5-video-podcast/raw/*.wav
+10-sources/tier5-video-podcast/raw/*.m4a
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+*~
+
+# 临时
+*.tmp
+*.bak
