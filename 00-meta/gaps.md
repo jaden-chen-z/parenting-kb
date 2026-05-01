@@ -6,15 +6,19 @@
 
 ## G1:SRC-001 / SRC-002 raw HTML 缺失
 
+**Status: 已计划修复 — Phase 1 第一批 fetch 任务**
+
 **背景**:附录 B 的 2 份样本 yaml 是 verbatim 整理版,但没有保留对应的 raw HTML 文件。
 
 **影响**:source yaml 中 `local_file: null`,审计追溯路径不完整(虽然 URL 能再访问到当前版本,但页面可能更新)。
 
-**处理**:见 `questions_for_user.md` Q1 —— 候选方案 B(Phase 1 启动时顺手补抓)。
+**处理**:Q1 已确认方案 B —— Phase 1 启动时顺手补抓。
 
 **对应源**:
-- SRC-001 https://www.cdc.gov/act-early/milestones/9-months.html
-- SRC-002 https://developingchild.harvard.edu/key-concept/serve-and-return/
+- SRC-001 https://www.cdc.gov/act-early/milestones/9-months.html → 落地到 `10-sources/tier1-authoritative/raw/cdc_ltsae_9months.html`
+- SRC-002 https://developingchild.harvard.edu/key-concept/serve-and-return/ → 落地到 `10-sources/tier1-authoritative/raw/harvard_serve_and_return.html`
+
+**抓取后回填**:source yaml 的 `local_file` + `file_size_bytes` + 必要时 `metadata.last_reviewed`
 
 ---
 

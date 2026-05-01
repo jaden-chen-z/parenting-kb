@@ -47,13 +47,25 @@ Phase 0 完成,等待 Phase 1(S1 端到端 POC)启动指令
 
 ## 待用户回答的问题
 
-见 `questions_for_user.md`(共 3 条)
+见 `questions_for_user.md`(0 条 pending,3 条已 resolved 2026-04-30)
+
+## 已确认的关键决策(影响 Phase 1)
+
+- **Q1 → B**: Phase 1 第一批 fetch 顺手补抓 SRC-001/002 raw HTML 到 `tier1-authoritative/raw/`
+- **Q2 → A**: Phase 1 仅用 Tier 1+2 跑通,书后买
+- **Q3 → B**: 卡片 schema 本地扩展为 v3.1 —— 卡面中文 + verbatim 英文 + 中译参考(详见 questions_for_user.md Q3 新增字段约定)
 
 ## 上次 session 结束时间
 
-2026-04-30(Phase 0 完成)
+2026-04-30(Phase 0 完成 + Q1-3 已确认)
 
 ## 下次 session 起点
 
 > 启动 Phase 1:先做 S1 探索 — Tier 1 / S1 主题相关 URL 全部验证 + 候选清单
 > S1 主题清单见任务书 §2:喂养建立 / 安抚哭闹(Karp 5S/PURPLE) / 原始反射 / 黄疸 / 安全睡眠(SIDS) / 新生儿筛查 / 产后妈妈 / 第一次儿保 / 脐带护理 / 胎记 / 体温警戒线
+>
+> Phase 1 第一批 fetch 任务包含:
+> - SRC-001 raw HTML 补抓(Q1 决定)
+> - SRC-002 raw HTML 补抓(Q1 决定)
+> - Harvard "5 Steps SR" PDF(gaps.md G2)
+> - S1 关键 Tier 1 入口页(CDC LTSAE 0-1月 / AAP HealthyChildren / WHO / NICHD / NHC 等)
