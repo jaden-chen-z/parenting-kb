@@ -47,7 +47,11 @@
 
 ## Q3:卡片正反面语言策略
 
-**Status: ✅ RESOLVED 2026-04-30 — Decision: B(卡面中文 + verbatim 英文 + 中译参考)**
+**Status: ⚠️ SUPERSEDED 2026-05-01 — 旧决定 B 被 `PHASE1_KARP.md` §2 覆盖**
+
+**新决定(v3.2)**:卡片**全中文**,只对**难翻译/首次出现的专业术语**用"中文 + (English)"格式。Verbatim 原文只留 source yaml,**不进卡片**。详见 `PHASE1_KARP.md` §2.1。
+
+**~~原决定 (2026-04-30, 已废)~~: B(卡面中文 + verbatim 英文 + 中译参考)**
 
 **背景**:任务书 §4.3 schema `language: zh` 默认中文卡面,但 verbatim 引用是英文。Phase 1 验收点之一是"引用语言偏好"。家庭语言:你 + 太太均能阅读英文,但日常用中文。
 

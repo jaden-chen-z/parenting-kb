@@ -18,14 +18,22 @@ Phase 0 完成,等待 Phase 1(S1 端到端 POC)启动指令
 - [x] git init + 首次 commit
 - [x] 工具栈安装(2026-04-30):pandoc / poppler / tesseract+lang / calibre + venv(markitdown / ocrmypdf)→ 见 `tooling.md`
 
-### Phase 1 (未开始)
-- [ ] S1 探索:Tier 1 全部 S1 相关页面 URL 验证
-- [ ] S1 探索:Tier 2 主题论文候选清单
-- [ ] S1 提取:source yamls(目标 30-50)
-- [ ] S1 卡片:知识单元(目标 30-50)
-- [ ] S1 卡片:卡片(目标 80-100)
-- [ ] Phase 1 checkpoint
-- [ ] 用户审核 5 张随机抽样卡片
+### Phase 1 (任务书已就绪,待新 session 执行)
+**任务书**:`00-meta/PHASE1_KARP.md`(v1.0,2026-05-01)
+**第一本书**:Karp《卡普新生儿安抚法》中译本
+**卡片规范**:v3.2(覆盖 v3.1 双语)— 全中文 + 难翻译术语括注英文 + 论文式引用脚注
+**字数上限**:每张卡片背面正文 ≤310 字(不含 citation)
+
+- [ ] 新 session 读 PHASE1_KARP.md + 总任务书
+- [ ] 浏览 karp_happiest_baby_zh.md 结构
+- [ ] 识别 Karp 涵盖的 S1 知识点(预估 20-40)
+- [ ] subagent 提取每个知识点
+- [ ] 生成 SRC-003.yaml + 索引更新
+- [ ] 生成 20-40 张 C-S1-NNN.yaml
+- [ ] checkpoint MD
+- [ ] 用户抽 5 张审核(4+ 张满意 = POC 通过 → 进下一本书)
+
+**后续**:Karp 完成后,逐步把其他 20 本书覆盖到 S1-S5 各阶段。
 
 ## 已抓源数
 
