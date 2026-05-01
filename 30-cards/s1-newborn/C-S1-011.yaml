@@ -1,0 +1,46 @@
+card_id: C-S1-011
+stages: [S1]
+tags: []
+
+front:
+  title: 胀气不是哭闹元凶,别狂拍嗝
+  hook: 拍嗝救不了哭
+
+back:
+  why_matters: |
+    1954 年 Illingworth 用 X 光对比腹绞痛宝宝和平和宝宝的肠部——
+    气体含量没差异。多项研究也证明打嗝药水(二甲基硅油)效果
+    和白水一样。哭闹的原因不是肚子胀气。
+  what_to_do:
+    - 喂奶时让宝宝半坐位,不平躺(少吞气)
+    - 中途停一次,打 1-2 次嗝就够,不必拍 30 分钟
+    - 母乳建立期不要急着换"防胀气奶粉"
+    - 哭起来先排查别的(困/过度刺激/温度),再上 5S
+  failure_mode: |
+    一哭就归因"肯定胀气" → 拍 30 分钟,错过 5S 窗口。
+    频繁换奶粉 / 喂打嗝药水 → 浪费钱,影响母乳建立。
+  evidence_level: B
+
+citation:
+  book_title_en: "The Happiest Baby on the Block: The New Way to Calm Crying and Help Your Newborn Baby Sleep Longer"
+  book_title_zh: "卡普新生儿安抚法 0-1岁"
+  authors: ["Harvey Karp"]
+  publisher_en: "Bantam Books"
+  publisher_zh: "浙江人民出版社"
+  year: 2002
+  year_zh: 2013
+  edition: "Revised"
+  translator_zh: "陈楠"
+  location: "第 4 章《腹绞痛之缘由》理论 1 段, 约页 31-32(引 Illingworth 1954 X 光研究 + 二甲基硅油打嗝药水多项研究)"
+  source_id: SRC-003
+
+unit_ids: []
+related_cards:
+  - C-S1-006      # 听不懂哭声(都是误解纠正)
+  - C-S1-009      # 5S 必须组合
+  - C-S1-012      # 妈妈焦虑非元凶
+
+language: zh
+status: draft
+created: 2026-05-01
+updated: 2026-05-01

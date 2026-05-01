@@ -1,0 +1,46 @@
+card_id: C-S1-010
+stages: [S1]
+tags: [philosophy]
+
+front:
+  title: 镇静反射:婴儿的"关闭按钮"
+  hook: 不是哄,是按开关
+
+back:
+  why_matters: |
+    Karp 说,胎儿在子宫里有一个"自动关机反射"——
+    避免他在肚子里乱踢扯断脐带、撞伤胎盘。
+    出生后这个反射还在,5S 就是用来按这个开关的。
+  what_to_do:
+    - 把 5S 当成"按按钮",不是"温柔哄"
+    - 强度要够,模拟子宫的紧、响、晃
+    - 反射激活后,通常几秒到 2 分钟内见效
+    - 没效说明强度/同步没到位,不是反射不存在
+  failure_mode: |
+    把 5S 做得"温柔" → 力度不够,激活不了反射。
+    试一两次没用就放弃 → 错过反射的入口期。
+  evidence_level: C
+
+citation:
+  book_title_en: "The Happiest Baby on the Block: The New Way to Calm Crying and Help Your Newborn Baby Sleep Longer"
+  book_title_zh: "卡普新生儿安抚法 0-1岁"
+  authors: ["Harvey Karp"]
+  publisher_en: "Bantam Books"
+  publisher_zh: "浙江人民出版社"
+  year: 2002
+  year_zh: 2013
+  edition: "Revised"
+  translator_zh: "陈楠"
+  location: "第 7 章《宝宝哭闹的关闭按钮》, 约页 73-74"
+  source_id: SRC-003
+
+unit_ids: []
+related_cards:
+  - C-S1-001      # 第四产程
+  - C-S1-002      # 子宫四感官
+  - C-S1-009      # 5S 必须组合
+
+language: zh
+status: draft
+created: 2026-05-01
+updated: 2026-05-01

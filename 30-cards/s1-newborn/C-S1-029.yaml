@@ -1,0 +1,46 @@
+card_id: C-S1-029
+stages: [S1]
+tags: []
+
+front:
+  title: 5S 怎么按顺序慢慢淡出
+  hook: 别一夜断,按顺序撤
+
+back:
+  why_matters: |
+    Karp 给的撤离顺序:吸吮先停(满月后)→
+    摇晃(2-3 月)→ 包裹(3-6 月)→ 嘘声(3-12 月)。
+    早撤宝宝会反弹哭闹,晚撤无害——他迟早自己不需要。
+  what_to_do:
+    - 满月后:让他不含奶嘴入睡,清醒一会儿再放床
+    - 2-3 月:秋千降到最慢档,几天后停
+    - 4 月:试着包一只手在外,若睡得好就停包
+    - 嘘声最后撤,2 周内逐渐降音量到 0
+  failure_mode: |
+    一夜全撤 5 招 → 宝宝惊醒哭闹,父母前功尽弃。
+    4 月后还硬包紧 → 限制翻身,SIDS 风险反而增加。
+  evidence_level: B
+
+citation:
+  book_title_en: "The Happiest Baby on the Block: The New Way to Calm Crying and Help Your Newborn Baby Sleep Longer"
+  book_title_zh: "卡普新生儿安抚法 0-1岁"
+  authors: ["Harvey Karp"]
+  publisher_en: "Bantam Books"
+  publisher_zh: "浙江人民出版社"
+  year: 2002
+  year_zh: 2013
+  edition: "Revised"
+  translator_zh: "陈楠"
+  location: '第 15 章 / "5S 法的慢慢消退"段'
+  source_id: SRC-003
+
+unit_ids: []
+related_cards:
+  - C-S1-009      # 5S 必须组合
+  - C-S1-013      # 包裹关键
+  - C-S1-027      # 包裹+白噪音延长睡眠
+
+language: zh
+status: draft
+created: 2026-05-01
+updated: 2026-05-01

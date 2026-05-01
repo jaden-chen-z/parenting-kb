@@ -1,0 +1,44 @@
+card_id: C-S1-022
+stages: [S1]
+tags: [philosophy, controversy]
+
+front:
+  title: 奶嘴别太早,3-4 周再用
+  hook: 母乳建立期先避开
+
+back:
+  why_matters: |
+    Karp 说:母乳建立前 2-3 周用奶嘴会让宝宝"混淆乳头",
+    以后吸妈妈奶变难。
+    建议母乳建立后 3-4 周再引入。但太晚(6-8 周后)他可能拒绝。
+  what_to_do:
+    - 0-2 周:不用奶嘴,只让宝宝吸妈妈乳头
+    - 母乳稳了后(约 3 周):可以引入奶嘴
+    - 选正畸奶嘴(鸭嘴形,模仿乳头)
+    - 配方奶喂养无此顾虑,可早用
+  failure_mode: |
+    出生第一周就给奶嘴 → 混淆乳头,母乳难建立。
+    6 周后才引入 → 宝宝可能拒绝任何奶嘴。
+  evidence_level: C
+
+citation:
+  book_title_en: "The Happiest Baby on the Block: The New Way to Calm Crying and Help Your Newborn Baby Sleep Longer"
+  book_title_zh: "卡普新生儿安抚法 0-1岁"
+  authors: ["Harvey Karp"]
+  publisher_en: "Bantam Books"
+  publisher_zh: "浙江人民出版社"
+  year: 2002
+  year_zh: 2013
+  edition: "Revised"
+  translator_zh: "陈楠"
+  location: '第 12 章 第 5 个"S":吸吮 / "混淆乳头"段'
+  source_id: SRC-003
+
+unit_ids: []
+related_cards:
+  - C-S1-021      # 非营养吸吮先天需求
+
+language: zh
+status: draft
+created: 2026-05-01
+updated: 2026-05-01

@@ -1,0 +1,45 @@
+card_id: C-S1-026
+stages: [S1]
+tags: []
+
+front:
+  title: 别强逼宝宝白天不睡
+  hook: 累过头反而睡不好
+
+back:
+  why_matters: |
+    Karp 反对"白天累点晚上睡得好"这种思路。
+    硬是让困倦的宝宝保持清醒只会让他过度疲劳,
+    晚上反而睡得更差——神经系统会紊乱。
+  what_to_do:
+    - 白天他困了就让他睡,别故意逗醒
+    - 用秋千/弹簧椅给他持续摇摆 + 白噪音
+    - 用背兜带着他走,他睡觉时也在"动"
+    - 晚上调暗灯光,逐步建立日夜节律
+  failure_mode: |
+    白天硬撑不让他睡 → 过度疲劳,神经系统崩溃。
+    晚上醒得更频繁,父母自己也累垮。
+  evidence_level: B
+
+citation:
+  book_title_en: "The Happiest Baby on the Block: The New Way to Calm Crying and Help Your Newborn Baby Sleep Longer"
+  book_title_zh: "卡普新生儿安抚法 0-1岁"
+  authors: ["Harvey Karp"]
+  publisher_en: "Bantam Books"
+  publisher_zh: "浙江人民出版社"
+  year: 2002
+  year_zh: 2013
+  edition: "Revised"
+  translator_zh: "陈楠"
+  location: '第 15 章 第 6 个"S":睡个好觉 / "在白天拥抱和摇摆婴儿"段'
+  source_id: SRC-003
+
+unit_ids: []
+related_cards:
+  - C-S1-027      # 包裹+白噪音延长睡眠
+  - C-S1-029      # 5S 慢慢淡出
+
+language: zh
+status: draft
+created: 2026-05-01
+updated: 2026-05-01

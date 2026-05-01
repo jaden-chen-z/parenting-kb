@@ -1,0 +1,46 @@
+card_id: C-S1-015
+stages: [S1]
+tags: [safety]
+
+front:
+  title: 包裹 5 个最常见错误
+  hook: 哭越凶包越紧
+
+back:
+  why_matters: |
+    Karp 列了 5 个高频错误。包错不仅无效,还有窒息风险——
+    值得每次包前花 30 秒自检。
+  what_to_do:
+    - 太松 → 每步都收紧,从距肩 90-120cm 起包
+    - 手臂未垂直 → 双臂伸直贴身,不弯肘
+    - 毯子碰脸 → 误启动根寻反射,远离面颊
+    - 留松散布料 → 可能盖脸窒息,完全收尾
+    - 力度不够 → 哭越凶包越紧,不要犹豫
+  failure_mode: |
+    "怕勒疼"包太松 → 一挣就开 + 毯子盖脸窒息风险。
+    毯子边缘碰脸颊 → 误启动根寻反射,反而更哭。
+  evidence_level: B
+
+citation:
+  book_title_en: "The Happiest Baby on the Block: The New Way to Calm Crying and Help Your Newborn Baby Sleep Longer"
+  book_title_zh: "卡普新生儿安抚法 0-1岁"
+  authors: ["Harvey Karp"]
+  publisher_en: "Bantam Books"
+  publisher_zh: "浙江人民出版社"
+  year: 2002
+  year_zh: 2013
+  edition: "Revised"
+  translator_zh: "陈楠"
+  location: '第 8 章 第 1 个"S":包裹 / "纠正最常见的包裹错误"'
+  source_id: SRC-003
+
+unit_ids: []
+related_cards:
+  - C-S1-013      # 包裹关键
+  - C-S1-014      # 6 误解
+  - C-S1-024      # 5S 力度匹配
+
+language: zh
+status: draft
+created: 2026-05-01
+updated: 2026-05-01

@@ -1,0 +1,46 @@
+card_id: C-S1-014
+stages: [S1]
+tags: [philosophy]
+
+front:
+  title: 关于包裹的 6 种常见误解
+  hook: 别让误解挡住最有效的招
+
+back:
+  why_matters: |
+    Karp 列了父母不敢包的 6 个理由,逐条反驳。
+    这些误解会让你在最有效的工具面前犹豫,错过安抚窗口。
+  what_to_do:
+    - "原始?" → 进食和睡眠也原始,有效就用
+    - "他不舒服?" → 他挣扎是因为含不到手指
+    - "禁闭感?" → 新生儿主动渴望被裹住
+    - "惯坏?" → 4 个月后自然不需要,临时工具
+    - "妨碍吮指/认识世界?" → 减手干扰反而专注
+  failure_mode: |
+    把成年人的"自由偏好"投射到新生儿 → 不敢包。
+    用"大宝/朋友家不爱包"否定 → 没试就放弃。
+  evidence_level: C
+
+citation:
+  book_title_en: "The Happiest Baby on the Block: The New Way to Calm Crying and Help Your Newborn Baby Sleep Longer"
+  book_title_zh: "卡普新生儿安抚法 0-1岁"
+  authors: ["Harvey Karp"]
+  publisher_en: "Bantam Books"
+  publisher_zh: "浙江人民出版社"
+  year: 2002
+  year_zh: 2013
+  edition: "Revised"
+  translator_zh: "陈楠"
+  location: '第 8 章 第 1 个"S":包裹 / "当代父母对包裹法的 6 种多余担心"'
+  source_id: SRC-003
+
+unit_ids: []
+related_cards:
+  - C-S1-007      # 不会惯坏(都是误解纠正)
+  - C-S1-013      # 包裹关键
+  - C-S1-015      # 包裹错误
+
+language: zh
+status: draft
+created: 2026-05-01
+updated: 2026-05-01

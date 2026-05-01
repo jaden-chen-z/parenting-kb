@@ -1,0 +1,46 @@
+card_id: C-S1-016
+stages: [S1]
+tags: [safety, red_flag]
+
+front:
+  title: 侧抱只能安抚,睡觉禁止
+  hook: 入睡只能仰躺
+
+back:
+  why_matters: |
+    趴睡和侧睡都会增加 SIDS(婴儿猝死综合征)风险。
+    严格仰睡后,美国 SIDS 死亡数从每年 6000 降到 3500。
+    侧抱只用于清醒时安抚,绝对不能让宝宝侧/趴入睡。
+  what_to_do:
+    - 清醒时可以侧抱/趴抱(安抚效果好)
+    - 入睡 100% 仰躺,无松散卧具,无枕头
+    - 侧躺也别用 — 容易翻成趴卧
+    - 这条是底线,别因为"他更愿意趴睡"妥协
+  failure_mode: |
+    侧抱有效 → 夜里也让他侧/趴睡 → SIDS 风险翻倍。
+    用枕头/卷布固定姿势 → 反而增加窒息风险。
+  evidence_level: A
+
+citation:
+  book_title_en: "The Happiest Baby on the Block: The New Way to Calm Crying and Help Your Newborn Baby Sleep Longer"
+  book_title_zh: "卡普新生儿安抚法 0-1岁"
+  authors: ["Harvey Karp"]
+  publisher_en: "Bantam Books"
+  publisher_zh: "浙江人民出版社"
+  year: 2002
+  year_zh: 2013
+  edition: "Revised"
+  translator_zh: "陈楠"
+  location: '第 9 章 第 2 个"S":侧躺/趴卧, 约页 103-104(SIDS 警告段)'
+  source_id: SRC-003
+
+unit_ids: []
+related_cards:
+  - C-S1-009      # 5S 必须组合
+  - C-S1-020      # 摇晃 vs SBS
+  - C-S1-026      # [第三部分] 包裹睡眠 SIDS 预防
+
+language: zh
+status: draft
+created: 2026-05-01
+updated: 2026-05-01

@@ -1,0 +1,47 @@
+card_id: C-S1-003
+stages: [S1]
+tags: []
+
+front:
+  title: 哭闹是求生工具不是失败
+  hook: 他在召唤你,不是抗议你
+
+back:
+  why_matters: |
+    宝宝哭是他百万年进化来的"求救信号"。
+    他敢这么大声哭,是因为他知道身边有大人——
+    这是他安全感的证明,不是你做错了什么。
+  what_to_do:
+    - 听见哭别先想"我是不是没做好"
+    - 把哭当成宝宝目前唯一的"说话方式"
+    - 优先排查需求(饿/困/不舒服),再用 5S
+    - 自己快崩溃时把宝宝放回安全床,出去 5 分钟
+  failure_mode: |
+    把哭解读成"他有问题/我没做好" → 你越焦虑,他哭越凶。
+    一个人硬撑几小时不喘气 → 容易做出剧烈摇晃等危险动作。
+  evidence_level: B
+
+citation:
+  book_title_en: "The Happiest Baby on the Block: The New Way to Calm Crying and Help Your Newborn Baby Sleep Longer"
+  book_title_zh: "卡普新生儿安抚法 0-1岁"
+  authors: ["Harvey Karp"]
+  publisher_en: "Bantam Books"
+  publisher_zh: "浙江人民出版社"
+  year: 2002
+  year_zh: 2013
+  edition: "Revised"
+  translator_zh: "陈楠"
+  location: "第一部分 第 2 章《号响大哭——婴儿最古老的求生工具》, 约页 17-18"
+  source_id: SRC-003
+
+unit_ids: []
+related_cards:
+  - C-S2-001      # 哭闹峰
+  - C-S2-002      # 撑过峰非失败
+  - C-S1-006      # 听不懂哭声 ≠ 不细心
+  - C-S1-008      # 你心跳加速是天然反射
+
+language: zh
+status: draft
+created: 2026-05-01
+updated: 2026-05-01

@@ -1,0 +1,46 @@
+card_id: C-S1-012
+stages: [S1]
+tags: [philosophy]
+
+front:
+  title: 妈妈焦虑不会让宝宝更哭闹
+  hook: 他读不懂你的心思
+
+back:
+  why_matters: |
+    Karp 明确说:出生头几个月,宝宝根本感受不到妈妈的焦虑。
+    "婴儿只是婴儿,可不是生下来就会读心术的。"
+    宝宝手颤、下颌抖动是神经发育不完全的正常现象,3 月后会自动消失。
+  what_to_do:
+    - 别因为情绪低落就觉得"我让宝宝哭得更凶"
+    - 焦虑会间接影响下奶/耐心 → 找原因(吃饱/休息/求助)
+    - 家人说"你太紧张影响宝宝" — 可以反驳:婴儿读不懂
+    - 累到极限就求助,不要硬撑
+  failure_mode: |
+    把宝宝哭归因"我太焦虑" → 自责加重,陷恶性循环。
+    强迫"假装平静" → 错过休息和求助的机会。
+  evidence_level: B
+
+citation:
+  book_title_en: "The Happiest Baby on the Block: The New Way to Calm Crying and Help Your Newborn Baby Sleep Longer"
+  book_title_zh: "卡普新生儿安抚法 0-1岁"
+  authors: ["Harvey Karp"]
+  publisher_en: "Bantam Books"
+  publisher_zh: "浙江人民出版社"
+  year: 2002
+  year_zh: 2013
+  edition: "Revised"
+  translator_zh: "陈楠"
+  location: "第 4 章《腹绞痛之缘由》理论 3 段《母亲焦虑并非腹绞痛的诱因》, 约页 39-40"
+  source_id: SRC-003
+
+unit_ids: []
+related_cards:
+  - C-S2-002      # 撑过峰非失败
+  - C-S1-008      # 心跳加速是天然反射
+  - C-S1-011      # 胀气非元凶(都是误解纠正)
+
+language: zh
+status: draft
+created: 2026-05-01
+updated: 2026-05-01

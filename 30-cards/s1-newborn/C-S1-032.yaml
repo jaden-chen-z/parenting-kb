@@ -1,0 +1,46 @@
+card_id: C-S1-032
+stages: [S1]
+tags: []
+
+front:
+  title: 按摩 / 热水浴 = 5S 辅助
+  hook: 早产儿按摩 +47% 体重
+
+back:
+  why_matters: |
+    Tiffany Field 1986 RCT:早产儿每天 3 次每次 15 分钟按摩,
+    10 天后体重 +47%,智商一年后高出对照组。
+    按摩 / 热水浴 / 戴帽 / 散步是 5S 之外的辅助安抚。
+  what_to_do:
+    - 按摩:进食后 1 小时,温暖房间,从足部到全身
+    - 腹部顺时针 + 自行车式蹬腿(消化助力)
+    - 热水浴 + 戴小帽(头部失热占 25%)
+    - 散步:户外刺激 + 摇晃节奏
+  failure_mode: |
+    按摩用力错误 → 宝宝抗拒(力度参考成人按肩)。
+    热水温度过高 → 烫伤(婴儿皮肤敏感)。
+  evidence_level: B
+
+citation:
+  book_title_en: "The Happiest Baby on the Block: The New Way to Calm Crying and Help Your Newborn Baby Sleep Longer"
+  book_title_zh: "卡普新生儿安抚法 0-1岁"
+  authors: ["Harvey Karp"]
+  publisher_en: "Bantam Books"
+  publisher_zh: "浙江人民出版社"
+  year: 2002
+  year_zh: 2013
+  edition: "Revised"
+  translator_zh: "陈楠"
+  location: "第 14 章《其他腹绞痛疗法》(引 Tiffany Field 1986 早产儿按摩 RCT 研究)"
+  source_id: SRC-003
+
+unit_ids: []
+related_cards:
+  - C-S1-002      # 子宫四感官
+  - C-S1-009      # 5S 必须组合
+  - C-S1-023      # 拥抱疗法
+
+language: zh
+status: draft
+created: 2026-05-01
+updated: 2026-05-01

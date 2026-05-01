@@ -1,0 +1,46 @@
+card_id: C-S1-009
+stages: [S1]
+tags: [philosophy]
+
+front:
+  title: 5S 必须组合用,单招效果差
+  hook: 单招就像半吊子蛋糕
+
+back:
+  why_matters: |
+    5S 五招分两组:包裹和侧抱让宝宝先停下乱动,
+    嘘声+摇晃+吸吮才能"按下关闭按钮"(镇静反射)。
+    少做一组,另一组也起不到效果。
+  what_to_do:
+    - 五招同时上,不要"先试试某一招"
+    - 顺序:包裹 → 侧抱 → 嘘声 → 摇晃 → 吸吮
+    - 哭得越凶,每一招的强度都要相应加大
+    - 见效后 1-2 分钟内别撤,免得反弹
+  failure_mode: |
+    只包裹或只放白噪音 → 单招激活不了反射,以为"5S 没用"。
+    动作太轻、嘘声太小 → 强度不够,匹配不上哭闹烈度。
+  evidence_level: B
+
+citation:
+  book_title_en: "The Happiest Baby on the Block: The New Way to Calm Crying and Help Your Newborn Baby Sleep Longer"
+  book_title_zh: "卡普新生儿安抚法 0-1岁"
+  authors: ["Harvey Karp"]
+  publisher_en: "Bantam Books"
+  publisher_zh: "浙江人民出版社"
+  year: 2002
+  year_zh: 2013
+  edition: "Revised"
+  translator_zh: "陈楠"
+  location: "第 7 章《宝宝哭闹的关闭按钮——镇静反射和 5S 法》, 约页 75-78"
+  source_id: SRC-003
+
+unit_ids: []
+related_cards:
+  - C-S1-001      # 第四产程
+  - C-S1-002      # 子宫四感官
+  - C-S1-010      # 镇静反射
+
+language: zh
+status: draft
+created: 2026-05-01
+updated: 2026-05-01

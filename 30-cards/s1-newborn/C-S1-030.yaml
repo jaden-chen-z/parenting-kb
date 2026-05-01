@@ -1,0 +1,46 @@
+card_id: C-S1-030
+stages: [S1]
+tags: [safety]
+
+front:
+  title: 牛奶蛋白可能是肠绞痛元凶
+  hook: 10% 哭闹是这个原因
+
+back:
+  why_matters: |
+    约 10% 肠绞痛宝宝是食物过敏。
+    最常见的元凶:牛奶 + 乳制品。母乳妈妈喝牛奶后,
+    蛋白会通过乳汁传给宝宝(8-12 小时达峰)。
+    排除 2-4 周看是否好转,再吃 4-5 天验证症状复发。
+  what_to_do:
+    - 母乳妈妈先停乳制品 2 周观察
+    - 配方奶宝宝可换豆奶(但 10% 牛奶过敏儿对豆奶也过敏)
+    - 妈妈停乳制品要补钙(椰菜/绿叶菜/红糖/橘子汁)
+    - 注意伴随症状:湿疹/腹泻/血便 → 加速就医
+  failure_mode: |
+    因为"听说"就长期忌口 → 自己营养不良。
+    忽视血便/反复呕吐等危险信号 → 延误诊断。
+  evidence_level: B
+
+citation:
+  book_title_en: "The Happiest Baby on the Block: The New Way to Calm Crying and Help Your Newborn Baby Sleep Longer"
+  book_title_zh: "卡普新生儿安抚法 0-1岁"
+  authors: ["Harvey Karp"]
+  publisher_en: "Bantam Books"
+  publisher_zh: "浙江人民出版社"
+  year: 2002
+  year_zh: 2013
+  edition: "Revised"
+  translator_zh: "陈楠"
+  location: '第 14 章《其他腹绞痛疗法》/ "防止食物过敏"段'
+  source_id: SRC-003
+
+unit_ids: []
+related_cards:
+  - C-S1-011      # 胀气不是元凶
+  - C-S1-031      # 红旗信号
+
+language: zh
+status: draft
+created: 2026-05-01
+updated: 2026-05-01

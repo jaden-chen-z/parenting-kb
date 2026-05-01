@@ -1,0 +1,48 @@
+card_id: C-S1-024
+stages: [S1]
+tags: []
+
+front:
+  title: 5S 力度要匹配哭闹烈度
+  hook: 越凶越用力,不是越温柔
+
+back:
+  why_matters: |
+    Karp 反复强调:宝宝哭得越凶,5S 五招力度都要越大——
+    包得越紧、嘘声越大、摇得越快。
+    "温柔哄"是父母最常见的误区,达不到激活镇静反射的强度。
+  what_to_do:
+    - 哭得"撕心裂肺"时,不降低力度,反而加大
+    - 嘘声 ≥ 哭声音量
+    - 摇晃保持 30-60cm 振幅 + 每秒 2-3 次
+    - 见效后再"换慢舞节奏",慢慢降下来
+  failure_mode: |
+    把"温柔=好"投射到新生儿 → 力度不够,父母自责"5S 没用"。
+    哭得猛吓得不敢用力 → 错过激活反射的窗口。
+  evidence_level: B
+
+citation:
+  book_title_en: "The Happiest Baby on the Block: The New Way to Calm Crying and Help Your Newborn Baby Sleep Longer"
+  book_title_zh: "卡普新生儿安抚法 0-1岁"
+  authors: ["Harvey Karp"]
+  publisher_en: "Bantam Books"
+  publisher_zh: "浙江人民出版社"
+  year: 2002
+  year_zh: 2013
+  edition: "Revised"
+  translator_zh: "陈楠"
+  location: '第 7 章《关闭按钮》/ "力度:安抚抓狂哭闹宝宝的基础"段'
+  source_id: SRC-003
+
+unit_ids: []
+related_cards:
+  - C-S1-009      # 5S 必须组合
+  - C-S1-015      # 包裹错误(力度不够)
+  - C-S1-018      # 嘘声音量
+  - C-S1-019      # 摇晃要点
+  - C-S1-025      # 头几次更哭
+
+language: zh
+status: draft
+created: 2026-05-01
+updated: 2026-05-01

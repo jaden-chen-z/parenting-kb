@@ -25,5 +25,54 @@ sources:
     notes_path: tier1-authoritative/notes/SRC-002.yaml
     referenced_by_units: [K-MECH-CROSS-001]
 
+  - source_id: SRC-003
+    title: "卡普新生儿安抚法 0-1岁(中译本)"
+    title_en: "The Happiest Baby on the Block: The New Way to Calm Crying and Help Your Newborn Baby Sleep Longer"
+    org: null
+    tier: 3
+    source_type: book_chapter
+    url: null
+    isbn: "978-7-213-05158-6"
+    accessed: 2026-05-01
+    language: zh
+    notes_path: tier3-books/notes/SRC-003.yaml
+    referenced_by_units: []         # Phase 1 暂不建单元层,卡片直接挂 source
+    referenced_by_cards:             # Phase 1 完成时填,33 张(详见 SRC-003.yaml + 30-cards/INDEX_BY_SOURCE.md)
+      # S1(31 张)
+      - C-S1-001
+      - C-S1-002
+      - C-S1-003
+      - C-S1-006
+      - C-S1-007
+      - C-S1-008
+      - C-S1-009
+      - C-S1-010
+      - C-S1-011
+      - C-S1-012
+      - C-S1-013
+      - C-S1-014
+      - C-S1-015
+      - C-S1-016
+      - C-S1-017
+      - C-S1-018
+      - C-S1-019
+      - C-S1-020
+      - C-S1-021
+      - C-S1-022
+      - C-S1-023
+      - C-S1-024
+      - C-S1-025
+      - C-S1-026
+      - C-S1-027
+      - C-S1-028
+      - C-S1-029
+      - C-S1-030
+      - C-S1-031
+      - C-S1-032
+      - C-S1-033
+      # S2(2 张,从 Karp 第 3 章哭闹峰析出 — 任务书 §2 S2 主题清单含"哭闹峰值")
+      - C-S2-001
+      - C-S2-002
+
 # 下一个可用 ID(Phase 1 起从这开始递增)
-next_src_id: SRC-003
+next_src_id: SRC-004

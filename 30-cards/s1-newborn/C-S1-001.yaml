@@ -1,0 +1,46 @@
+card_id: C-S1-001
+stages: [S1]
+tags: [philosophy]
+
+front:
+  title: 头 3 个月是"第四产程"
+  hook: 他其实早产了 3 个月
+
+back:
+  why_matters: |
+    人类的头长得太大,妈妈生孩子已经到极限。
+    所以宝宝其实是"早产 3 个月"被赶出来的——
+    出生后头 3 个月,他还在补完"该在子宫里过的那段"。
+  what_to_do:
+    - 把"新生儿"看成"还没出生足月的人"
+    - 主动给他造一个像子宫的环境:暖+紧+响+晃
+    - 3 月内的手抖、惊跳都正常,会自动消失
+    - 他"难带"是因为还没满月,3 月后再评估
+  failure_mode: |
+    用 6 月大宝宝的标准看新生儿 → 觉得他"难带""有问题"。
+    不模拟子宫环境,只靠抱抱哄哄 → 安抚效率很低。
+  evidence_level: C
+
+citation:
+  book_title_en: "The Happiest Baby on the Block: The New Way to Calm Crying and Help Your Newborn Baby Sleep Longer"
+  book_title_zh: "卡普新生儿安抚法 0-1岁"
+  authors: ["Harvey Karp"]
+  publisher_en: "Bantam Books"
+  publisher_zh: "浙江人民出版社"
+  year: 2002
+  year_zh: 2013
+  edition: "Revised"
+  translator_zh: "陈楠"
+  location: "第 5 章《缺失的第四期》, 约页 50-58"
+  source_id: SRC-003
+
+unit_ids: []
+related_cards:
+  - C-S1-002      # 子宫四感官
+  - C-S1-009      # 5S 必须组合
+  - C-S1-010      # 镇静反射
+
+language: zh
+status: draft
+created: 2026-05-01
+updated: 2026-05-01

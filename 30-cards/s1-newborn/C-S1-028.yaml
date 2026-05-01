@@ -1,0 +1,47 @@
+card_id: C-S1-028
+stages: [S1]
+tags: [philosophy, controversy, safety]
+
+front:
+  title: 共同入睡的 10 步安全要点
+  hook: 不是绝对禁止,是严格规则
+
+back:
+  why_matters: |
+    美国 CPSC 1999 报告反对所有成人床共睡。
+    Karp 立场:报告里 80% 死亡案例可避免——
+    只要严格遵守 10 步安全。
+    这是父母选择题,不是绝对禁忌。
+  what_to_do:
+    - 床上无枕头/玩具/松散卧具
+    - 床垫紧贴墙(防卡头),不睡水床/沙发
+    - 整晚包裹紧 + 仰睡
+    - 父母不抽烟、不喝酒、不肥胖
+    - 5 月前共睡较易,5 月后转单独睡较难
+  failure_mode: |
+    抽烟/喝酒/沙发睡 + 共睡 → SIDS 风险翻倍以上。
+    没遵守 10 步硬照做 → 婴儿窒息致死。
+  evidence_level: C
+
+citation:
+  book_title_en: "The Happiest Baby on the Block: The New Way to Calm Crying and Help Your Newborn Baby Sleep Longer"
+  book_title_zh: "卡普新生儿安抚法 0-1岁"
+  authors: ["Harvey Karp"]
+  publisher_en: "Bantam Books"
+  publisher_zh: "浙江人民出版社"
+  year: 2002
+  year_zh: 2013
+  edition: "Revised"
+  translator_zh: "陈楠"
+  location: '第 15 章《与宝宝同睡的 10 步安全措施》段(Karp 反 CPSC 1999 立场)'
+  source_id: SRC-003
+
+unit_ids: []
+related_cards:
+  - C-S1-016      # 侧抱 SIDS
+  - C-S1-027      # 包裹+白噪音
+
+language: zh
+status: draft
+created: 2026-05-01
+updated: 2026-05-01

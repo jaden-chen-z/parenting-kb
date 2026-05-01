@@ -1,0 +1,46 @@
+card_id: C-S1-023
+stages: [S1]
+tags: []
+
+front:
+  title: 拥抱疗法 = 5S 同时上
+  hook: 不是单点,是组合拳
+
+back:
+  why_matters: |
+    Karp 把 5S 五招同时上叫"拥抱疗法":
+    侧抱 + 嘘声 + 摇晃 + 吸吮,加上事先包好。
+    这是 5S 的"全功率版本",几乎所有崩溃哭闹都能几分钟内见效。
+  what_to_do:
+    - 步骤:先包裹好 → 抱到肩侧位 → 同时嘘+摇+给吸
+    - 一手撑头颈,身体接近水平贴妈妈胸口
+    - 嘘声紧贴耳朵 5-10cm
+    - 见效后慢慢减弱所有动作,但别立刻撤
+  failure_mode: |
+    一招一招试 → 每招都不到位,以为"5S 没用"。
+    见效就立刻撤所有动作 → 立即反弹。
+  evidence_level: B
+
+citation:
+  book_title_en: "The Happiest Baby on the Block: The New Way to Calm Crying and Help Your Newborn Baby Sleep Longer"
+  book_title_zh: "卡普新生儿安抚法 0-1岁"
+  authors: ["Harvey Karp"]
+  publisher_en: "Bantam Books"
+  publisher_zh: "浙江人民出版社"
+  year: 2002
+  year_zh: 2013
+  edition: "Revised"
+  translator_zh: "陈楠"
+  location: "第 13 章 拥抱疗法——将 5S 法完美结合的婴儿福音"
+  source_id: SRC-003
+
+unit_ids: []
+related_cards:
+  - C-S1-009      # 5S 必须组合
+  - C-S1-010      # 镇静反射
+  - C-S1-024      # 力度匹配
+
+language: zh
+status: draft
+created: 2026-05-01
+updated: 2026-05-01

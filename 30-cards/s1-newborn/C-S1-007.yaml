@@ -1,0 +1,45 @@
+card_id: C-S1-007
+stages: [S1]
+tags: [philosophy, controversy]
+
+front:
+  title: 前 3 月怎么回应都不会惯坏
+  hook: 6 个月前没有"惯坏"这回事
+
+back:
+  why_matters: |
+    Karp 明确说:出生前 3 个月,你怎么回应都不会惯坏宝宝。
+    出生前他在子宫里 24 小时被"抱着",
+    出生后你一天抱 12 小时,对他已经是大幅减少了。
+  what_to_do:
+    - 听见家人说"别老抱""哭一会没事" — 默默忽略
+    - 前 3 月别想"立规矩",这是 6 月后再说的事
+    - 想抱就抱,想哄就哄,不需要克制
+    - 把这条贴冰箱上,扛住外界压力
+  failure_mode: |
+    听老人/书本说"别惯着" → 哭不抱,延误安抚。
+    用 1 岁后的标准看新生儿(立规矩) → 错时机,毁安全感。
+  evidence_level: C
+
+citation:
+  book_title_en: "The Happiest Baby on the Block: The New Way to Calm Crying and Help Your Newborn Baby Sleep Longer"
+  book_title_zh: "卡普新生儿安抚法 0-1岁"
+  authors: ["Harvey Karp"]
+  publisher_en: "Bantam Books"
+  publisher_zh: "浙江人民出版社"
+  year: 2002
+  year_zh: 2013
+  edition: "Revised"
+  translator_zh: "陈楠"
+  location: '第 1 章《父母的福音》"5S 不会惯坏宝宝"段, 约页 14-15'
+  source_id: SRC-003
+
+unit_ids: []
+related_cards:
+  - C-S2-002      # 撑过峰非失败
+  - C-S1-008      # 心跳加速是天然反射
+
+language: zh
+status: draft
+created: 2026-05-01
+updated: 2026-05-01

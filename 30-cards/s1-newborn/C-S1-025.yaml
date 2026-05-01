@@ -1,0 +1,45 @@
+card_id: C-S1-025
+stages: [S1]
+tags: []
+
+front:
+  title: 5S 头几次可能更哭,别放弃
+  hook: 给他几秒适应时间
+
+back:
+  why_matters: |
+    Karp 说:首次用 5S,宝宝可能没立刻平静,甚至哭得更凶。
+    三个原因:大脑切注意力慢 / 反射延迟 / 神经系统"余震"。
+    重复 5-10 次"哭→平静"循环才会彻底稳定。
+  what_to_do:
+    - 试 5S 后没立刻好转,别立刻判定"没用"
+    - 持续 5-10 个"哭闹→平静"循环,他会逐渐稳定
+    - 像钓鱼:鱼挣扎是正常的,继续耐心
+    - 见效后维持 1-2 分钟,别立刻放手
+  failure_mode: |
+    试一两次没用就放弃 → 错过反射的入口期。
+    "余震"阶段以为"没救了" → 错过几分钟后的平静。
+  evidence_level: B
+
+citation:
+  book_title_en: "The Happiest Baby on the Block: The New Way to Calm Crying and Help Your Newborn Baby Sleep Longer"
+  book_title_zh: "卡普新生儿安抚法 0-1岁"
+  authors: ["Harvey Karp"]
+  publisher_en: "Bantam Books"
+  publisher_zh: "浙江人民出版社"
+  year: 2002
+  year_zh: 2013
+  edition: "Revised"
+  translator_zh: "陈楠"
+  location: '第 7 章《关闭按钮》/ "婴儿对 5S 法反应延迟的三个原因"段'
+  source_id: SRC-003
+
+unit_ids: []
+related_cards:
+  - C-S1-009      # 5S 必须组合
+  - C-S1-024      # 力度匹配
+
+language: zh
+status: draft
+created: 2026-05-01
+updated: 2026-05-01

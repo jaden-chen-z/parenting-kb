@@ -1,0 +1,46 @@
+card_id: C-S1-019
+stages: [S1]
+tags: []
+
+front:
+  title: 摇晃要小幅快速,不大幅缓慢
+  hook: 抖一抖,像晃奶瓶
+
+back:
+  why_matters: |
+    Karp 说:摇晃宝宝最常见误区是"大幅缓慢"。
+    子宫里宝宝一直被妈妈走路颠簸,他需要小幅快速节奏
+    (振幅 30-60cm,每秒 2-3 次)才能激活镇静反射。
+  what_to_do:
+    - 振幅 30-60 厘米(像晃奶瓶)
+    - 频率每秒 2-3 次
+    - 撑住头部和脖子,头与身体保持直线
+    - 见效后慢慢降低速度,转为催眠式轻摆
+  failure_mode: |
+    大幅缓慢摇 → 没节奏,激活不了反射。
+    摇时头乱晃 → 危险,可能伤颈椎(见 020 SBS)。
+  evidence_level: B
+
+citation:
+  book_title_en: "The Happiest Baby on the Block: The New Way to Calm Crying and Help Your Newborn Baby Sleep Longer"
+  book_title_zh: "卡普新生儿安抚法 0-1岁"
+  authors: ["Harvey Karp"]
+  publisher_en: "Bantam Books"
+  publisher_zh: "浙江人民出版社"
+  year: 2002
+  year_zh: 2013
+  edition: "Revised"
+  translator_zh: "陈楠"
+  location: '第 11 章 第 4 个"S":来回摇摆 / "成功实施摇摆的三个关键点"'
+  source_id: SRC-003
+
+unit_ids: []
+related_cards:
+  - C-S1-002      # 子宫四感官
+  - C-S1-020      # 摇晃 vs SBS
+  - C-S1-024      # 5S 力度匹配
+
+language: zh
+status: draft
+created: 2026-05-01
+updated: 2026-05-01

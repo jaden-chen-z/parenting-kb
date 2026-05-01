@@ -1,0 +1,47 @@
+card_id: C-S1-027
+stages: [S1]
+tags: [safety]
+
+front:
+  title: 包裹 + 白噪音 = 延长睡眠 1-2 小时
+  hook: 5S 法过夜不放手
+
+back:
+  why_matters: |
+    Karp 实战:整晚保持包裹+白噪音,
+    睡眠时段从 3 小时 → 4 小时,夜醒减少 1-2 次。
+    关键是"整晚",不是只入睡时。
+  what_to_do:
+    - 整晚保持包裹紧度,不要入睡后松开
+    - 白噪音整晚开着,别只在入睡时放
+    - 仰睡 + 婴儿床无松散物(SIDS 预防)
+    - 黎明早醒加遮光窗帘 + 白噪音遮鸟叫狗叫
+  failure_mode: |
+    入睡后撤掉包裹/关白噪音 → 转换刺激,惊醒。
+    以为"夜里太吵会吵醒他" → 错过白噪音的过夜效果。
+  evidence_level: B
+
+citation:
+  book_title_en: "The Happiest Baby on the Block: The New Way to Calm Crying and Help Your Newborn Baby Sleep Longer"
+  book_title_zh: "卡普新生儿安抚法 0-1岁"
+  authors: ["Harvey Karp"]
+  publisher_en: "Bantam Books"
+  publisher_zh: "浙江人民出版社"
+  year: 2002
+  year_zh: 2013
+  edition: "Revised"
+  translator_zh: "陈楠"
+  location: '第 15 章 第 6 个"S":睡个好觉 / "帮助宝宝入睡的方法"段'
+  source_id: SRC-003
+
+unit_ids: []
+related_cards:
+  - C-S1-013      # 包裹关键
+  - C-S1-016      # 侧抱 SIDS
+  - C-S1-017      # 嘘声白噪音
+  - C-S1-026      # 别强逼白天不睡
+
+language: zh
+status: draft
+created: 2026-05-01
+updated: 2026-05-01

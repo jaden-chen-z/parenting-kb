@@ -1,0 +1,46 @@
+card_id: C-S2-001
+stages: [S2]
+tags: []
+
+front:
+  title: 哭闹峰:6 周达峰,3 月回落
+  hook: 6 周不是终点,是分水岭
+
+back:
+  why_matters: |
+    Brazelton 1962 年跟踪 82 个健康宝宝:
+    哭闹从 2 周开始,6 周达到顶峰(25% 的宝宝每天哭超 3 小时),
+    3 个月后基本降到 1 小时以内。这是发育曲线,不是病。
+  what_to_do:
+    - 把 2-12 周看成"已知困难期",提前安排支援
+    - 6 周突然哭得更凶不是病情恶化,是峰值
+    - 用 app 记录每天哭闹时长,看趋势曲线
+    - 12 周后仍每天 ≥3 小时 → 排查肠绞痛/食物过敏
+  failure_mode: |
+    把 6 周高峰当病变 → 反复跑医院、过度检查。
+    觉得"会一直这样下去" → 父母崩溃,容易放弃喂养或情绪失控。
+  evidence_level: B
+
+citation:
+  book_title_en: "The Happiest Baby on the Block: The New Way to Calm Crying and Help Your Newborn Baby Sleep Longer"
+  book_title_zh: "卡普新生儿安抚法 0-1岁"
+  authors: ["Harvey Karp"]
+  publisher_en: "Bantam Books"
+  publisher_zh: "浙江人民出版社"
+  year: 2002
+  year_zh: 2013
+  edition: "Revised"
+  translator_zh: "陈楠"
+  location: "第一部分 第 3 章《令人心烦的腹绞痛》, 约页 24(引 Brazelton 1962)"
+  source_id: SRC-003
+
+unit_ids: []
+related_cards:
+  - C-S1-003      # 哭闹是求生工具
+  - C-S2-002      # 撑过峰非失败(原 C-S1-005)
+  - C-S1-006      # 听不懂哭声 ≠ 不细心
+
+language: zh
+status: draft
+created: 2026-05-01
+updated: 2026-05-01

@@ -1,0 +1,45 @@
+card_id: C-S1-006
+stages: [S1]
+tags: []
+
+front:
+  title: 听不懂哭声不代表你不细心
+  hook: 听声辨意 ≈ 抛硬币
+
+back:
+  why_matters: |
+    1990 康涅狄格大学研究:母亲分辨"宝宝是不是饿"准确率仅 25%。
+    芬兰研究 80 名儿科护士:50% 准确率(几乎和抛硬币一样)。
+    所以听不懂不是你不细心——这事人类本来就分不清。
+  what_to_do:
+    - 别试图听声辨意,直接按清单逐项排查
+    - 顺序:尿布 → 饿(看上次喂奶)→ 困 → 刺激过度 → 不舒服
+    - 都不是 → 启动 5S 安抚
+    - 还无效 → 换人接手,可能就是过峰值
+  failure_mode: |
+    死盯哭声辨意半小时不动手 → 宝宝越哭越焦虑。
+    觉得"妈妈应该听得懂"自我加压 → 听不懂时极度自责。
+  evidence_level: B
+
+citation:
+  book_title_en: "The Happiest Baby on the Block: The New Way to Calm Crying and Help Your Newborn Baby Sleep Longer"
+  book_title_zh: "卡普新生儿安抚法 0-1岁"
+  authors: ["Harvey Karp"]
+  publisher_en: "Bantam Books"
+  publisher_zh: "浙江人民出版社"
+  year: 2002
+  year_zh: 2013
+  edition: "Revised"
+  translator_zh: "陈楠"
+  location: "第一部分 第 2 章《哭闹的三种声音》, 约页 22(引康涅狄格大学 1990 + 芬兰儿科护士研究)"
+  source_id: SRC-003
+
+unit_ids: []
+related_cards:
+  - C-S1-003      # 哭闹是求生工具
+  - C-S2-002      # 撑过峰非失败
+
+language: zh
+status: draft
+created: 2026-05-01
+updated: 2026-05-01

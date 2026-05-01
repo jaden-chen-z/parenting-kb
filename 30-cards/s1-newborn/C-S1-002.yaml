@@ -1,0 +1,47 @@
+card_id: C-S1-002
+stages: [S1]
+tags: [philosophy]
+
+front:
+  title: 子宫四感官:温暖紧裹响动摇
+  hook: 安静婴儿房 ≠ 舒服环境
+
+back:
+  why_matters: |
+    宝宝在妈妈肚子里待了 9 个月——那里又暖又紧,
+    声音很大(85 分贝,比吸尘器还响),还一直在晃。
+    你给他准备的安静婴儿房,他反而觉得陌生。
+  what_to_do:
+    - 温度:保暖到位 + 戴小帽(头部失热占 25%)
+    - 紧裹:模仿子宫壁紧贴感,把双臂裹进去
+    - 声音:全天开白噪音,不要刻意安静
+    - 摇晃:抱着多走动,别让他长时间静止
+  failure_mode: |
+    营造"安静、宽敞、亮堂"的环境 → 宝宝反而焦虑。
+    4 项里只做 1-2 项 → 5S 没法完整起效。
+  evidence_level: C
+
+citation:
+  book_title_en: "The Happiest Baby on the Block: The New Way to Calm Crying and Help Your Newborn Baby Sleep Longer"
+  book_title_zh: "卡普新生儿安抚法 0-1岁"
+  authors: ["Harvey Karp"]
+  publisher_en: "Bantam Books"
+  publisher_zh: "浙江人民出版社"
+  year: 2002
+  year_zh: 2013
+  edition: "Revised"
+  translator_zh: "陈楠"
+  location: "第 5 章《缺失的第四期》, 约页 52-56"
+  source_id: SRC-003
+
+unit_ids: []
+related_cards:
+  - C-S1-001      # 第四产程
+  - C-S1-009      # 5S 必须组合
+  - C-S1-012      # [第二部分] 嘘声白噪音
+  - C-S1-014      # [第二部分] 摇晃要点
+
+language: zh
+status: draft
+created: 2026-05-01
+updated: 2026-05-01

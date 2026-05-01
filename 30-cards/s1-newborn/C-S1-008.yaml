@@ -1,0 +1,46 @@
+card_id: C-S1-008
+stages: [S1]
+tags: []
+
+front:
+  title: 宝宝哭你心跳加速是天然反射
+  hook: 这是生理反射,不是软弱
+
+back:
+  why_matters: |
+    Karp 引研究:宝宝尖叫时,你的焦虑系统反应强度等同"电休克"——
+    心跳加快、出冷汗、胃部紧缩。
+    这是大脑被进化设计成这样的,不是你软弱或没爱心。
+  what_to_do:
+    - 知道这是生理反射,不是性格问题
+    - 出汗、心跳加速时,先深呼吸 3 次再行动
+    - 失眠/焦虑/经济压力会放大反应,提前求支援
+    - 累到极限把宝宝放回安全床,出去 5 分钟稳定情绪
+  failure_mode: |
+    把生理反应当成"我不是好父母"的证据 → 自责加重压力。
+    在崩溃边缘硬撑不停手 → 容易做出剧烈摇晃等危险动作。
+  evidence_level: B
+
+citation:
+  book_title_en: "The Happiest Baby on the Block: The New Way to Calm Crying and Help Your Newborn Baby Sleep Longer"
+  book_title_zh: "卡普新生儿安抚法 0-1岁"
+  authors: ["Harvey Karp"]
+  publisher_en: "Bantam Books"
+  publisher_zh: "浙江人民出版社"
+  year: 2002
+  year_zh: 2013
+  edition: "Revised"
+  translator_zh: "陈楠"
+  location: "第一部分 第 2 章《为什么我们关注婴儿哭泣?》, 约页 19-20"
+  source_id: SRC-003
+
+unit_ids: []
+related_cards:
+  - C-S1-003      # 哭闹是求生工具
+  - C-S2-002      # 撑过峰非失败
+  - C-S1-007      # 不会惯坏
+
+language: zh
+status: draft
+created: 2026-05-01
+updated: 2026-05-01

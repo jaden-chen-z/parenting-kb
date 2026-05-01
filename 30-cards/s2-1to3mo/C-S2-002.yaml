@@ -1,0 +1,48 @@
+card_id: C-S2-002
+stages: [S2]
+tags: []
+
+front:
+  title: 撑过哭闹峰不是父母失败
+  hook: 你不糟糕,他在过峰值
+
+back:
+  why_matters: |
+    Karp 说哭闹宝宝的父母都是"英雄"。
+    哭闹无法被"消除",但能被有效缓解。
+    重要的是别一边哄一边自责——自责会让你状态更差,
+    照护质量也跟着下降。
+  what_to_do:
+    - 反复对自己说:"是他在过峰值,不是我没做好"
+    - 哭闹时优先做 5S,接受"不能立刻止哭"的现实
+    - 和伴侣轮班,保证至少一人有 4 小时连续睡眠
+    - 30 分钟无效就换人接手,不是你能力问题
+  failure_mode: |
+    "他是不是疼?我是不是糟糕母亲?" — 这种问句会瞬间击垮信心。
+    一个人硬撑不求助 → 产后抑郁加重 + 摇晃综合征风险。
+  evidence_level: B
+
+citation:
+  book_title_en: "The Happiest Baby on the Block: The New Way to Calm Crying and Help Your Newborn Baby Sleep Longer"
+  book_title_zh: "卡普新生儿安抚法 0-1岁"
+  authors: ["Harvey Karp"]
+  publisher_en: "Bantam Books"
+  publisher_zh: "浙江人民出版社"
+  year: 2002
+  year_zh: 2013
+  edition: "Revised"
+  translator_zh: "陈楠"
+  location: "第一部分 第 1 章《父母的福音》, 约页 4-5"
+  source_id: SRC-003
+
+unit_ids: []
+related_cards:
+  - C-S1-003      # 哭闹是求生工具
+  - C-S2-001      # 哭闹峰(原 C-S1-004)
+  - C-S1-007      # 前 3 月不会惯坏
+  - C-S1-008      # 心跳加速是天然反射
+
+language: zh
+status: draft
+created: 2026-05-01
+updated: 2026-05-01

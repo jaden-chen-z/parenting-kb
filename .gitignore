@@ -10,6 +10,8 @@
 10-sources/tier3-books/raw_pdfs/*.md
 10-sources/tier3-books/raw_pdfs/*.txt
 10-sources/tier3-books/raw_pdfs/*.html
+# OCR 后的分块中间产物不入仓(原书已屏蔽,chunks 是派生品,§10.1 工程步骤)
+10-sources/tier3-books/raw_pdfs/*_chunks/
 
 # Python venv (本项目 tooling)
 .venv/
@@ -31,3 +33,4 @@ __pycache__/
 # 临时
 *.tmp
 *.bak
+*.log
