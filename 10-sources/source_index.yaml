@@ -484,5 +484,234 @@ sources:
       - C-S6-071
       - C-S6-072
 
-# 下一个可用 ID(SRC-011 Bowlby Vol 1 Phase 3 第三本完成 2026-05-03 补登记)
-next_src_id: SRC-012
+  - source_id: SRC-012
+    title: "依恋三部曲 · 第二卷:分离(中译本)"
+    title_en: "Attachment and Loss, Volume 2: Separation, Anxiety and Anger"
+    org: null
+    tier: 3
+    source_type: book
+    url: null
+    isbn: "978-7-5192-2926-9"
+    accessed: 2026-05-03
+    language: zh
+    notes_path: tier3-books/notes/SRC-012.yaml
+    referenced_by_units: []
+    referenced_by_cards:                 # Phase 4 第一本(并行)— 32 张知识卡
+      # === S5 9-12 月(4 张)===
+      - C-S5-086
+      - C-S5-087
+      - C-S5-088
+      - C-S5-089
+      # === S6 12-24 月(18 张)===
+      - C-S6-082
+      - C-S6-083
+      - C-S6-084
+      - C-S6-085
+      - C-S6-086
+      - C-S6-087
+      - C-S6-088
+      - C-S6-089
+      - C-S6-090
+      - C-S6-091
+      - C-S6-092
+      - C-S6-093
+      - C-S6-094
+      - C-S6-095
+      - C-S6-096
+      - C-S6-097
+      - C-S6-098
+      - C-S6-099
+      # === S7 24-36 月(10 张)===
+      - C-S7-034
+      - C-S7-035
+      - C-S7-036
+      - C-S7-037
+      - C-S7-038
+      - C-S7-039
+      - C-S7-040
+      - C-S7-041
+      - C-S7-042
+      - C-S7-043
+
+  - source_id: SRC-013
+    title: "婴儿大脑跃迁 10 周(神奇周)"
+    title_en: "The Wonder Weeks: How to Stimulate Your Baby's Mental Development"
+    org: null
+    tier: 3
+    source_type: book
+    url: null
+    isbn_en: "978-90-79208-12-1"
+    accessed: 2026-05-03
+    language: en
+    notes_path: tier3-books/notes/SRC-013.yaml
+    referenced_by_units: []
+    referenced_by_cards:                 # Phase 4 第二本(并行)— 35 张知识卡(含自审补 5)
+      # === S1 0-1 月(5 张:4 + 自审补 1)===
+      - C-S1-178
+      - C-S1-179
+      - C-S1-180
+      - C-S1-181
+      - C-S1-182      # 自审补:大脑跃迁 ≠ 身体长高
+      # === S2 1-3 月(6 张:5 + 自审补 1)===
+      - C-S2-121
+      - C-S2-122
+      - C-S2-123
+      - C-S2-124
+      - C-S2-125
+      - C-S2-126      # 自审补:跃迁后是黄金陪练期
+      # === S3 3-6 月(4 张)===
+      - C-S3-129
+      - C-S3-130
+      - C-S3-131
+      - C-S3-132
+      # === S4 6-9 月(6 张:5 + 自审补 1)===
+      - C-S4-124
+      - C-S4-125
+      - C-S4-126
+      - C-S4-127
+      - C-S4-128
+      - C-S4-129      # 自审补:6 月起绝不偷溜走
+      # === S5 9-12 月(4 张)===
+      - C-S5-126
+      - C-S5-127
+      - C-S5-128
+      - C-S5-129
+      # === S6 12-24 月(8 张:6 + 自审补 2)===
+      - C-S6-122
+      - C-S6-123
+      - C-S6-124
+      - C-S6-125
+      - C-S6-126
+      - C-S6-127
+      - C-S6-128      # 自审补:14-17 月模仿一切坏事也学
+      - C-S6-129      # 自审补:跃迁有 EEG 物理证据
+      # === S7 24-36 月(2 张)===
+      - C-S7-074
+      - C-S7-075
+
+  - source_id: SRC-014
+    title: "蒙特梭利的小宝宝(0-1岁)"
+    title_en: "The Montessori Baby: A Parent's Guide to Nurturing Your Baby with Love, Respect, and Understanding"
+    org: null
+    tier: 3
+    source_type: book
+    url: null
+    isbn_en: "978-1-5235-0693-7"
+    accessed: 2026-05-03
+    language: en
+    notes_path: tier3-books/notes/SRC-014.yaml
+    referenced_by_units: []
+    referenced_by_cards:                 # Phase 5 Davies 完成 — 47 张知识卡(36 + 2次审计补 11 张)
+      # === S0 孕期(4 张:3 + 二审补 1)===
+      - C-S0-008
+      - C-S0-009
+      - C-S0-010
+      - C-S0-011      # 二审补:蒙氏育儿就是慢(going slow)
+      # === S1 0-1 月(8 张)===
+      - C-S1-183
+      - C-S1-184
+      - C-S1-185
+      - C-S1-186
+      - C-S1-187
+      - C-S1-188
+      - C-S1-189
+      - C-S1-190
+      # === S2 1-3 月(8 张:5 + 一审补 1 + 二审补 2)===
+      - C-S2-127
+      - C-S2-128
+      - C-S2-129
+      - C-S2-130
+      - C-S2-131
+      - C-S2-132      # 一审补:哭闹 5 步回应法
+      - C-S2-133      # 二审补:OPOL 双语家庭一人一语
+      - C-S2-134      # 二审补:嘴是宝宝探索器官 0-14 月
+      # === S3 3-6 月(5 张)===
+      - C-S3-133
+      - C-S3-134
+      - C-S3-135
+      - C-S3-136
+      - C-S3-137
+      # === S4 6-9 月(5 张)===
+      - C-S4-130
+      - C-S4-131
+      - C-S4-132
+      - C-S4-133
+      - C-S4-134
+      # === S5 9-12 月(8 张:5 + 二审补 3)===
+      - C-S5-130
+      - C-S5-131
+      - C-S5-132
+      - C-S5-133
+      - C-S5-134
+      - C-S5-135      # 二审补:不偷溜 + 告别仪式
+      - C-S5-136      # 二审补:选 day care 8 条
+      - C-S5-137      # 二审补:6-16 月黏人是健康
+      # === S6 12-24 月(9 张:3 + 一审补 1 + 二审补 5)===
+      - C-S6-130
+      - C-S6-131
+      - C-S6-132
+      - C-S6-133      # 一审补:温柔但清晰的边界
+      - C-S6-134      # 二审补:1 岁打咬扔 4 步翻译
+      - C-S6-135      # 二审补:1 岁不强迫分享(turn-taking)
+      - C-S6-136      # 二审补:老大迎二宝
+      - C-S6-137      # 二审补:跟老人/伴侣不同步(NVC 沟通)
+      - C-S6-138      # 二审补:蒙氏父母先照顾自己(49 ideas)
+
+  - source_id: SRC-015
+    title: "摇篮里的科学家:心智、大脑与儿童学习(中译本)"
+    title_en: "The Scientist in the Crib: What Early Learning Tells Us About the Mind"
+    org: null
+    tier: 3
+    source_type: book
+    url: null
+    isbn: "978-0-688-17783-1"
+    accessed: 2026-05-03
+    language: en
+    notes_path: tier3-books/notes/SRC-015.yaml
+    referenced_by_units: []
+    referenced_by_cards:                 # Phase 6 — 35 张知识卡(认知科学经典)
+      # === S1 0-1 月(7 张)===
+      - C-S1-240
+      - C-S1-241
+      - C-S1-242
+      - C-S1-243
+      - C-S1-244
+      - C-S1-245
+      - C-S1-246
+      # === S2 1-3 月(4 张)===
+      - C-S2-181
+      - C-S2-182
+      - C-S2-183
+      - C-S2-184
+      # === S3 3-6 月(4 张)===
+      - C-S3-187
+      - C-S3-188
+      - C-S3-189
+      - C-S3-190
+      # === S4 6-9 月(6 张)===
+      - C-S4-184
+      - C-S4-185
+      - C-S4-186
+      - C-S4-187
+      - C-S4-188
+      - C-S4-189
+      # === S5 9-12 月(4 张)===
+      - C-S5-180
+      - C-S5-181
+      - C-S5-182
+      - C-S5-183
+      # === S6 12-24 月(5 张)===
+      - C-S6-179
+      - C-S6-180
+      - C-S6-181
+      - C-S6-182
+      - C-S6-183
+      # === S7 24-36 月(5 张)===
+      - C-S7-125
+      - C-S7-126
+      - C-S7-127
+      - C-S7-128
+      - C-S7-129
+
+# 下一个可用 ID(SRC-015 Gopnik 摇篮里的科学家完成 2026-05-03 补登记)
+next_src_id: SRC-016
