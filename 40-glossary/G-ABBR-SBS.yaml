@@ -1,0 +1,61 @@
+glossary_id: G-ABBR-SBS
+type: abbreviation
+display_name: SBS
+
+full_name_en: Shaken Baby Syndrome
+full_name_zh: 摇晃婴儿综合征
+
+one_liner: |
+  用力摇晃婴儿造成的脑出血 / 视网膜出血,可能终身脑损伤或死亡。美国每年数百例,致死率 ~25%。现代医学也叫 AHT(虐待性头部创伤)。
+
+detail: |
+  ## 定义
+  暴力摇晃婴儿(尤其 < 1 岁)造成大脑相对头骨剧烈晃动,撕裂脑表血管 + 视网膜出血 + 神经轴索损伤。
+  现代医学术语 AHT(Abusive Head Trauma)更广,含摇 + 撞 + 摔。
+
+  ## 为什么婴儿特别脆弱
+  - 头部占体重 1/4(成人 1/12)
+  - 颈部肌肉极弱,无法稳定头部
+  - 大脑含水量高 + 髓鞘未发育完全
+  - 即使你觉得"没摇多重"也可能伤
+
+  ## 流行病学
+  - 美国每年数百例(漏诊率高,实际可能更多)
+  - 致死率 ~25%
+  - 幸存者 80% 终身脑损伤(智力 / 视力 / 运动)
+  - 高峰月龄 2-4 月(同 SIDS 一致 — 哭闹高峰期)
+  - 加害者多是父亲 / 男友 / 男性看护人(70%)
+
+  ## 触发场景
+  - 大人崩溃时(尤其面对持续哭闹无效安抚)
+  - 醉酒 / 吸毒后
+  - 缺睡 + 经济压力 + 精神病史
+
+  ## AAP 救命建议
+  详见 C-S1-049:崩溃时放下宝宝离开 10-15 分钟,绝不摇晃。
+  美国法律:SBS 可被起诉为虐待儿童或谋杀。
+
+key_facts:
+  - 美国每年数百例,致死率 ~25%
+  - 婴儿头部占体重 1/4 + 颈肌弱
+  - 高峰月龄 2-4 月(同哭闹峰)
+  - 加害者 70% 是男性看护人
+  - AAP 协议:崩溃放下离开 10-15 分钟
+
+related_glossary:
+  - G-ABBR-AHT
+  - G-ABBR-AAP
+  - G-ABBR-SIDS
+
+related_cards:
+  - C-S1-020     # Karp 安全摇晃 vs SBS
+  - C-S1-049     # AAP 崩溃时放下宝宝离开 10-15 分钟
+
+sources:
+  - source_id: SRC-005
+  - external: National Center on Shaken Baby Syndrome / CDC / 综合儿科常识
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

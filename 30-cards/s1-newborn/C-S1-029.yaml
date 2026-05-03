@@ -8,9 +8,11 @@ front:
 
 back:
   why_matters: |
+    5S 不是永久工具,3 月后宝宝逐渐不需要。
     Karp 给的撤离顺序:吸吮先停(满月后)→
-    摇晃(2-3 月)→ 包裹(3-6 月)→ 嘘声(3-12 月)。
+    摇晃(2-3 月)→ 包裹(3-6 月,翻身后必须停)→ 嘘声(3-12 月)。
     早撤宝宝会反弹哭闹,晚撤无害——他迟早自己不需要。
+    **4 月翻身后还包是 SIDS 高风险,这是底线。**
   what_to_do:
     - 满月后:让他不含奶嘴入睡,清醒一会儿再放床
     - 2-3 月:秋千降到最慢档,几天后停
@@ -20,6 +22,12 @@ back:
     一夜全撤 5 招 → 宝宝惊醒哭闹,父母前功尽弃。
     4 月后还硬包紧 → 限制翻身,SIDS 风险反而增加。
   evidence_level: B
+
+glossary_refs:
+  - G-TERM-five-s
+  - G-PERSON-Karp
+  - G-TERM-swaddle
+  - G-ABBR-SIDS
 
 citation:
   book_title_en: "The Happiest Baby on the Block: The New Way to Calm Crying and Help Your Newborn Baby Sleep Longer"
@@ -43,4 +51,4 @@ related_cards:
 language: zh
 status: draft
 created: 2026-05-01
-updated: 2026-05-01
+updated: 2026-05-02

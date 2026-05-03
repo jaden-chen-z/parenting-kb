@@ -1,0 +1,54 @@
+glossary_id: G-TERM-cruising
+type: term
+display_name: cruising (扶走)
+
+full_name_en: Cruising
+full_name_zh: 扶走 / 巡航
+
+one_liner: |
+  婴儿 11 月起扶着家具或墙边走的过渡技能,是独立走路前的最后阶段。
+
+detail: |
+  ## 定义
+  婴儿用手扶着家具 / 沙发 / 茶几等支撑物,沿着支撑物侧步走动。
+  这是从"扶站"到"独走"的过渡,是宝宝学习平衡和迈步协调的关键阶段。
+
+  ## 时机(AAP 节奏)
+  - **9-10 月**:扶物站起(pulls to standing)
+  - **11 月**:**cruising**(扶物侧走)+ 偶尔松手再抓
+  - **12 月左右**:独立第一步(脚分宽 + 高举手保持平衡)
+  - **13-15 月**:独走熟练
+  - **18 月仍不会独走** → 找医生评估
+
+  ## 怎么帮助宝宝练
+  - 把家具排成可扶的"轨道"(沙发 → 茶几 → 矮柜)
+  - 在 cruise 路径上放玩具吸引
+  - 不催不全程扶,让他自己练
+  - 第一步不要"教",自然来
+
+  ## 与学步车的关系
+  Cruising 是独走必经之路(神经协调建立)。**baby walker 学步车跳过这个阶段**,反而推迟独走 — AAP 强烈反对(C-S4-005)。
+
+key_facts:
+  - 11 月起出现
+  - 扶家具侧走
+  - 是独走前最后阶段
+  - 跳过(用学步车)会推迟独走
+
+related_glossary:
+  - G-ABBR-AAP
+  - G-TERM-baby-walker
+  - G-TERM-tripod-sit
+
+related_cards:
+  - C-S5-002     # 第一步 ~1 岁,脚分宽是正常
+  - C-S4-005     # 学步车 AAP 强烈反对
+
+sources:
+  - source_id: SRC-007
+  - external: AAP Movement Milestones 8-12 Months
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

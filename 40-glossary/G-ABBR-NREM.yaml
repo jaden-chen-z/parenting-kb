@@ -1,0 +1,62 @@
+glossary_id: G-ABBR-NREM
+type: abbreviation
+display_name: NREM
+
+full_name_en: Non-Rapid Eye Movement (sleep)
+full_name_zh: 非快速眼动睡眠(quiet sleep / 安静睡眠)
+
+one_liner: |
+  深睡阶段,眼球不动 + 身体放松 + 呼吸规律。新生儿 NREM 期约 50%(成人 75%)。婴儿在 NREM 期较难叫醒。
+
+detail: |
+  ## 定义
+  非快速眼动睡眠(NREM)= 深睡眠阶段,与 REM 交替。
+  特征:眼球不动 + 身体放松 + 心率呼吸规律 + 脑电波慢波。
+
+  ## NREM 子阶段
+  - **N1**:浅睡眠 / drowsy(易醒)
+  - **N2**:中度睡眠
+  - **N3**:深睡眠(slow-wave sleep)— 婴儿在此期最难叫醒
+
+  ## 新生儿 NREM 占比
+  - 新生儿:~50%(其余 50% 是 REM)
+  - 成人:~75-80%
+
+  ## 婴儿 NREM 期表现
+  - 眼球不动
+  - 呼吸规律,心率稳定
+  - 身体放松,不抖动
+  - 不易叫醒(放下不容易醒)
+  - 大人喂完 / 安抚完最好等 NREM 期再放下
+
+  ## 实操:何时放婴儿
+  Karp 5S 后 / 喂奶后,等待 5-10 分钟让婴儿进入 NREM 期(深睡,不抖动 / 不眨眼),再轻放婴儿床 → 减少惊醒。
+  俗称"瘦死的骆驼比马大测试":轻举一只胳膊,如果落下不抖,说明已进 NREM 深睡。
+
+  ## 与 REM 的循环
+  - 新生儿睡眠周期 45-60 分钟(REM + NREM 各半)
+  - 成人睡眠周期 90 分钟
+  - 周期切换时易短暂醒(婴儿表现尤为明显)
+
+key_facts:
+  - 新生儿 NREM 约 50%(成人 75%)
+  - N3 深睡期最难叫醒
+  - 等 NREM 期再放婴儿床(不易惊醒)
+  - 与 REM 交替,周期 45-60 min
+
+related_glossary:
+  - G-ABBR-REM
+  - G-ABBR-AAP
+
+related_cards:
+  - C-S2-006     # AAP 婴儿呼吸暂停 5-10s 是正常的(REM 期)
+  - C-S2-005     # AAP "睡整觉"真定义
+
+sources:
+  - source_id: SRC-004
+  - external: 综合睡眠医学常识
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

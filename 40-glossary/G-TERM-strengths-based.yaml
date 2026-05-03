@@ -1,0 +1,58 @@
+glossary_id: G-TERM-strengths-based
+type: term
+display_name: 优势视角 (strengths-based model)
+
+full_name_en: Strengths-Based Model
+full_name_zh: 优势视角育儿/医疗模型
+
+one_liner: |
+  Brazelton 流派标志性临床方法。专家工作不是诊断父母不足,而是让父母看见自己已经做对的事 — 反对传统医学"找病灶"模式。
+
+detail: |
+  ## 定义
+  与传统医学训练的"deficit-based"(找缺陷)模式相对。Brazelton 主张:每个家庭都有优势,临床工作的起点是发现并放大这些优势,而非诊断不足。
+
+  ## 临床应用
+  - 接触新家庭时,先观察父母自然做对的事并明确指出
+  - 把父母的"做错"翻译成"在乎过头"(care too much, not too little)
+  - 用积极的语言框架描述孩子的"问题行为"(如把负向期描述为"健康的自主萌发")
+  - 把医生 / 专家从"评判者"位置移到"伙伴"位置
+
+  ## 与 Selma Fraiberg 的"育儿室鬼魂"理论结合
+  - 父母犯错不是因为不在乎,是因为太在乎
+  - 过度的爱激活自己童年未处理的伤痕
+  - 把鬼魂带到意识层面就能解除其力量
+
+  ## Touchpoints Center 推广
+  - 全国 70+ 合作机构(2006 年数据)
+  - 哈林区 / 普吉特海湾各种社会经济背景家庭
+  - 改变医疗 / 儿保 / 早教从业者的临床互动模式
+
+  ## 在本知识库中
+  - C-S1-087 是这个模型的总览卡
+  - SRC-010 全书的临床方法论基础
+
+key_facts:
+  - Brazelton 流派标志性临床方法
+  - 反对 deficit-based 医学传统
+  - 与 Fraiberg 鬼魂理论结合
+  - Touchpoints Center 全国推广
+  - 改变医生-家庭关系范式
+
+related_glossary:
+  - G-PERSON-Brazelton
+  - G-PERSON-Fraiberg
+  - G-TERM-touchpoint
+  - G-TERM-ghosts-nursery
+
+related_cards:
+  - C-S1-087
+
+sources:
+  - source_id: SRC-010
+  - external: Brazelton Touchpoints Center 官网
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

@@ -1,0 +1,61 @@
+glossary_id: G-TERM-tantrum
+type: term
+display_name: 发脾气 (tantrum)
+
+full_name_en: Tantrum
+full_name_zh: 发脾气
+
+one_liner: |
+  1-3 岁普遍现象。Brazelton 把 tantrum 解读为"内部冲突"的外溢:孩子被自己的情绪淹没,无法靠成人解决,只能让孩子自己穿过。家长越介入越激烈。
+
+detail: |
+  ## 定义
+  Tantrum 指 1-3 岁幼儿失控的剧烈情绪爆发:大哭、躺地、踢腿、尖叫,常常持续几分钟到半小时不等。
+  Brazelton 把它从"行为问题"重新定义为**发展信号**——是自主性(autonomy)与现实约束之间的"内部冲突"被外化。
+
+  ## Brazelton 的核心解读
+  - Tantrum **不是恶意挑战**,是孩子被自己情绪淹没后的"短路"反应
+  - 孩子需要**自己穿过**这场情绪风暴,这是自我边界形成的练习
+  - 家长越介入越激烈——因为家长的焦虑成了第二层情绪负荷
+  - 处方:**安全的距离 + 平静的在场**,让孩子知道"你失控时,我没失控"
+
+  ## 经典临床观察
+  - 俄勒冈五胞胎案例:Brazelton 观察五胞胎家庭——越安慰越凶,放任则停
+  - 公共场合的 tantrum 通常比家中更剧烈:观众 = 更强的"反应反馈"
+
+  ## 与 negativism 的关系
+  - 18 月负向期(说 "No!")是认知层面的自主性表达
+  - Tantrum 是情绪层面的同一过程——自主意愿被现实压回时的崩溃
+  - 两者一起标记 1-3 岁"自我"的形成期
+
+  ## 在本知识库中
+  - C-S1-078 早期信号
+  - C-S4-021 6-9 月情绪雏形
+  - C-S5-025 9-12 月暴脾气前兆
+  - C-S6-020 18 月典型 tantrum 应对(本知识库主战场)
+
+key_facts:
+  - 1-3 岁普遍现象,18 月-2 岁达峰
+  - Brazelton 解读:不是恶意,是内部冲突外溢
+  - 家长越介入越激烈
+  - 公共场合通常比家中更剧烈
+  - 与 negativism 是认知/情绪两面
+
+related_glossary:
+  - G-PERSON-Brazelton
+  - G-TERM-discipline
+  - G-TERM-negativism
+
+related_cards:
+  - C-S1-078
+  - C-S4-021
+  - C-S5-025
+  - C-S6-020
+
+sources:
+  - source_id: SRC-010
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

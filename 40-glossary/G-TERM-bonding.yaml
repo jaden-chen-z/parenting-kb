@@ -1,0 +1,74 @@
+glossary_id: G-TERM-bonding
+type: term
+display_name: 亲子联结 (bonding)
+
+full_name_en: Bonding
+full_name_zh: 亲子联结
+
+one_liner: |
+  1970s Klaus + Kennell 提出,强调出生即刻肌肤接触。被产程教育者过度解读。Brazelton 反对教条:bonding 是长期过程,错过头一小时不影响,NICU 父母完全可以建立同样深厚依恋。
+
+detail: |
+  ## 定义与起源
+  Bonding 指**父母对新生儿的情感联结建立过程**。
+  - 1976 年 Marshall Klaus + John Kennell 在《Maternal-Infant Bonding》中提出"敏感期"假说:
+    出生后的头一小时是 bonding 的关键窗口,肌肤接触决定了后续亲子关系质量。
+
+  ## Klaus-Kennell 假说的影响
+  - 推动产房改革:鼓励即刻肌肤接触、延迟洗浴、母婴同室
+  - 推动剖腹产改进:让父亲早期接触宝宝
+  - 一时间被产程教育者奉为圭臬
+
+  ## Brazelton 的关键修正
+  Brazelton **反对把 bonding 教条化**:
+  > "Bonding 是一个**长期过程**,不是头一小时的'敏感期窗口'。
+  > 错过即刻肌肤接触不会伤害亲子关系——
+  > 收养父母、NICU 早产儿父母都能建立同样深厚的依恋。
+  > 把 bonding 当作'必须在第一小时完成'的迷思,只会让没机会肌肤接触的父母自责。"
+
+  - Bonding 在出生前就开始(孕期对话、胎动反应)
+  - Bonding 在出生后数月内**持续构建**——每一次回应都是一次 bonding
+  - 跟 attachment(依恋)的关系:bonding 是父母→孩子的方向,attachment 是孩子→父母的方向
+  - 收养 / NICU / 剖腹产母亲麻醉昏睡 都不影响最终联结
+
+  ## 临床意义
+  - 早产 NICU 父母不必为"错过头一小时"焦虑
+  - 收养家庭可以建立完全等同的亲子联结
+  - "肌肤接触有益"是真的,但"必须在 X 时间内"是迷思
+  - 强调过程,而非时间点
+
+  ## 与 attachment 的区分
+  | 维度 | bonding | attachment |
+  |------|---------|-----------|
+  | 方向 | 父母→孩子 | 孩子→父母 |
+  | 提出者 | Klaus & Kennell 1976 | Bowlby & Ainsworth 1950s-70s |
+  | 时间 | 出生前-3 月 | 6 月-3 岁形成 |
+  | 评估 | 主观感受 | Strange Situation |
+
+  ## 在本知识库中
+  - C-S1-077 新生儿早期 bonding
+  - C-S4-020 6-9 月延展
+
+key_facts:
+  - Klaus & Kennell 1976 提出
+  - Brazelton 反对"头一小时窗口"教条
+  - 是长期过程,不是时间点
+  - NICU / 收养父母完全可以建立
+  - bonding(父母→孩) ≠ attachment(孩→父母)
+
+related_glossary:
+  - G-PERSON-Klaus-Kennell
+  - G-PERSON-Brazelton
+  - G-TERM-attachment
+
+related_cards:
+  - C-S1-077
+  - C-S4-020
+
+sources:
+  - source_id: SRC-010
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

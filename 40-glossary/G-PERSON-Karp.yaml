@@ -1,0 +1,84 @@
+glossary_id: G-PERSON-Karp
+type: person
+display_name: Karp
+
+full_name_en: Harvey Karp
+full_name_zh: 哈维·卡普
+
+one_liner: |
+  美国儿科医生,《The Happiest Baby on the Block / 卡普新生儿安抚法》作者。提出"5S 安抚法"和"第四产程"概念,是新生儿安抚领域流派原典作者。
+
+detail: |
+  ## 个人背景
+  - 1951 年生,美国儿科医生
+  - UCLA 医学院儿科助理教授
+  - 在洛杉矶私人执业 30+ 年(主要客户是 Hollywood 演艺圈父母)
+  - 妻子 Nina Montée Karp 是合作开发者
+
+  ## 主要贡献
+
+  ### 1. 第四产程(Fourth Trimester)概念
+  人类婴儿生理上"早产 3 个月"(相比其他灵长类),出生后头 3 月仍是孕期延续。
+  这解释了为什么模拟子宫环境(温暖紧裹响动摇)能安抚新生儿。
+
+  ### 2. 5S 安抚法
+  - **Swaddle** 包裹
+  - **Side / Stomach** 侧抱(只清醒安抚,睡觉禁止)
+  - **Shush** 嘘声(白噪音,80-90 分贝)
+  - **Swing** 摇晃(小幅快速)
+  - **Suck** 吸吮(奶嘴或拇指)
+
+  顺序使用,刺激"镇静反射"(calming reflex)。
+
+  ### 3. 商业产品 SNOO
+  - 自动化智能 bassinet,内置白噪音 + 自动摇晃 + 安全包裹
+  - 价格 ~1700 美元(月租 ~150 美元)
+  - 临床研究显示能延长新生儿睡眠 1-2 小时
+  - 2024 年 FDA 认证为"医疗设备"(防 SIDS 用)
+
+  ## 主要著作
+  - The Happiest Baby on the Block (2002, Bantam Books)
+    中译:卡普新生儿安抚法 0-1 岁(浙江人民出版社, 2013, 陈楠译)
+  - The Happiest Toddler on the Block (2004)
+  - The Happiest Baby Guide to Great Sleep (2012)
+
+  ## 学术评价
+  - 5S 法有部分 RCT 支持(B 级证据)
+  - 第四产程是流派概念,无外部循证(C 级)
+  - AAP 整体认可 5S 作为安抚技巧,但不推荐 Karp 的"共睡 10 步"(立场对立)
+  - 与 RIE / 依恋育儿派别有张力(过度安抚 vs 自我调节)
+
+  ## 在本知识库中
+  - Phase 1 选 Karp 中译本作为第一本提取,产 33 张卡(SRC-003)
+  - 是 S1(0-1 月)主战场流派原典
+  - Phase 2 AAP 卡多次与 Karp 立场对照(C-S1-022/028 等 controversy 标签)
+
+key_facts:
+  - 美国儿科医生,UCLA 助理教授
+  - 5S 安抚法 + 第四产程概念创始人
+  - SNOO 智能 bassinet 商业开发者
+  - Phase 1 Karp 单本提取产 33 张卡(SRC-003)
+
+related_glossary:
+  - G-TERM-five-s
+  - G-TERM-fourth-trimester
+  - G-TERM-swaddle
+  - G-PERSON-Brazelton    # Karp 引用过 Brazelton 1962 哭闹峰研究
+
+related_cards:
+  # Karp 33 张全引用此人(SRC-003 全部)— 列代表性几张
+  - C-S1-001     # 头 3 个月是"第四产程"
+  - C-S1-002     # 子宫四感官
+  - C-S1-009     # 5S 必须组合用
+  - C-S1-013     # 包裹必须紧
+  - C-S1-022     # 奶嘴别太早
+  - C-S1-028     # 共同入睡的 10 步安全要点
+
+sources:
+  - source_id: SRC-003           # Karp 中译本
+  - external: Karp 官网 / Wikipedia / SNOO 商业资料 / 综合公开信息
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

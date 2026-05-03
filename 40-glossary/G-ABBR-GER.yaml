@@ -1,0 +1,62 @@
+glossary_id: G-ABBR-GER
+type: abbreviation
+display_name: GER
+
+full_name_en: Gastroesophageal Reflux
+full_name_zh: 胃食管反流(生理性)
+
+one_liner: |
+  胃内容物反流到食管的生理现象。**正常婴儿都有**(因食管下括约肌不成熟),多数 12 月内自然好。区别于 GERD(病理性,需治疗)。
+
+detail: |
+  ## GER vs GERD 关键区别
+  - **GER**(无 D 字):生理性,不影响生长 / 不痛苦,12 月内多数自然好
+  - **GERD**(有 D 字):病理性,影响进食 / 增重 / 引起并发症,需医学评估
+
+  ## 为什么婴儿都有 GER
+  食管下括约肌(下食管 + 胃连接处的肌肉)在婴儿期发育不成熟 → 胃内容物易反流。
+  正常表现:吐奶 / spit-up,但宝宝舒服 + 增重正常。
+
+  ## 加重 GER 的因素
+  - 过度喂养(填太满)
+  - 喂后立即翻趴(肚子受压)
+  - 配方奶吞气(选错奶嘴流速)
+  - 母乳妈妈饮食(若 CMPA 共病)
+
+  ## 减少 spit-up 5 招
+  - 小量多次喂养
+  - 喂中喂后多拍嗝
+  - 喂后竖抱 20-30 分钟
+  - 配方奶宝宝可问医生换深度水解配方
+  - 母乳妈妈试 elimination diet(去奶 + 豆)
+
+  ## AAP 立场
+  - GER 是正常,不必焦虑
+  - 即使吐多 + GERD 也要仰睡(C-S1-034)— "airway 解剖 + gag reflex 防呛"
+  - 别给"垫高"或侧睡 — 增 SIDS 风险
+
+key_facts:
+  - 正常婴儿都有(生理性)
+  - 因食管下括约肌不成熟
+  - 12 月内多数自然好
+  - 加重原因:过度喂养 + 喂后翻趴
+  - 即使吐多也要仰睡
+
+related_glossary:
+  - G-ABBR-GERD
+  - G-ABBR-CMPA
+  - G-ABBR-AAP
+  - G-TERM-pyloric-stenosis
+
+related_cards:
+  - C-S1-034     # AAP 仰睡每次都要(GERD/GER 也仰)
+  - C-S1-054     # AAP 吐奶 vs GERD vs 喷射呕
+
+sources:
+  - source_id: SRC-006
+  - external: NASPGHAN 儿科消化学会指南 / 综合儿科常识
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

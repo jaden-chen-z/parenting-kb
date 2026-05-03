@@ -1,0 +1,48 @@
+glossary_id: G-ABBR-FDA
+type: abbreviation
+display_name: FDA
+
+full_name_en: Food and Drug Administration
+full_name_zh: 美国食品药品监督管理局
+
+one_liner: |
+  美国食品 / 药品 / 医疗器械 / 化妆品 / 婴幼儿用品的联邦监管机构,负责安全和有效性审批。
+
+detail: |
+  ## 简介
+  - 美国卫生与公众服务部下属机构
+  - 1906 年《纯净食品和药品法》后逐步建立
+  - 监管范围:食品 / 药品 / 医疗器械 / 化妆品 / 烟草 / 兽医产品 / 辐射设备
+  - 与儿科相关:婴儿配方奶 / 出牙产品 / 婴儿食品(重金属) / 疫苗
+
+  ## 与本知识库相关的关键警告
+  - **2018 年 12 月 琥珀牙链官方警告**:18 月婴儿勒颈致死案例 + 多起珠子噎住报告
+  - **婴儿食品重金属**:多次召回(arsenic / lead),要求企业减低水平
+  - **benzocaine 凝胶**:警告 2 岁以下不用(罕见但严重血液中毒)
+  - **婴儿配方奶**:严格审批 + 召回机制
+
+  ## 与 AAP 的关系
+  - 2017 年 NIH/NIAID(联邦)+ FDA 共同采纳 LEAP 立场,AAP 同步更新指南
+
+key_facts:
+  - 美国联邦食药监管机构
+  - 2018 琥珀牙链官方警告(18 月致死)
+  - 婴儿食品重金属持续召回 + 监管
+  - 2017 与 NIH 共推早期过敏原引入
+
+related_glossary:
+  - G-ABBR-AAP
+  - G-ABBR-CDC
+  - G-TERM-amber-teething-necklace
+  - G-TERM-benzocaine
+
+related_cards:
+  - C-S3-013     # 琥珀牙链禁,teething gel 也禁
+
+sources:
+  - external: FDA 官网 / Wikipedia / FDA 2018 Amber Teething Necklace Warning
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

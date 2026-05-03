@@ -1,0 +1,61 @@
+glossary_id: G-TERM-periodic-breathing-of-infancy
+type: term
+display_name: 婴儿期周期性呼吸 (periodic breathing of infancy)
+
+full_name_en: Normal Periodic Breathing of Infancy
+full_name_zh: 婴儿期正常周期性呼吸
+
+one_liner: |
+  新生儿 REM 睡眠中正常的呼吸模式:5-10 秒呼吸暂停 + 50-60 次/分钟 burst,然后规律呼吸。皮肤颜色不变 = 正常,6 月内自然消失。
+
+detail: |
+  ## 定义
+  新生儿 REM 睡眠期(active sleep)中的特有呼吸模式:
+  - 短暂呼吸暂停 5-10 秒
+  - 接着突然 burst 50-60 次/分钟(快速呼吸 10-15 秒)
+  - 然后规律呼吸 → 循环
+
+  ## 与 apnea 的区别(关键!)
+  - **periodic breathing**:暂停 < 10 秒 + **皮肤颜色不变** + 6 月内消失 = **正常**
+  - **apnea**:暂停 > 20 秒 / 皮肤变青紫 / 心率下降 = **病理,立刻送医**
+
+  ## AAP 解释(C-S2-006)
+  > "Breathing is often irregular and may stop for 5 to 10 seconds—a condition called normal periodic breathing of infancy—then start again with a burst of rapid breathing at the rate of 50 to 60 breaths a minute for 10 to 15 seconds. The baby's skin color does not change with the pauses in breathing and there is no cause for concern (in contrast with apnea). Babies generally outgrow periodic breathing by about the middle of the first year."
+
+  ## 父母实操
+  - 看到呼吸暂停 5-10 秒不必恐慌
+  - 看皮肤颜色:颜色不变 = periodic breathing(正常)
+  - 颜色变青紫 / 暂停 > 20 秒 = apnea(立刻送医)
+  - 6 月内逐渐消失,不必干预
+  - 不要买家用心率/呼吸监测器(C-S1-036)— 给虚假安心
+
+  ## 中文家长视角
+  - 中文社交圈一旦谈到 SIDS,父母焦虑放大
+  - "宝宝呼吸不规律好可怕" → 90% 是 normal periodic breathing
+  - 必须知道这个常识才能晚上睡好觉
+
+key_facts:
+  - 5-10 秒暂停 + 50-60 burst
+  - 皮肤颜色不变 = 正常
+  - 6 月内自然消失
+  - 鉴别 apnea:看颜色 + 暂停时长
+  - 别买家用呼吸监测器
+
+related_glossary:
+  - G-ABBR-REM
+  - G-ABBR-NREM
+  - G-ABBR-SIDS
+  - G-ABBR-AAP
+
+related_cards:
+  - C-S2-006     # AAP 婴儿呼吸暂停 5-10s 是正常的
+  - C-S1-036     # AAP 平面 + 认证床(含家用呼吸监测器警告)
+
+sources:
+  - source_id: SRC-004
+  - external: 综合新生儿生理学常识
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

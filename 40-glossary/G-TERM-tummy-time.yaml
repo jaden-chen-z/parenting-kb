@@ -1,0 +1,65 @@
+glossary_id: G-TERM-tummy-time
+type: term
+display_name: 趴卧练习 (tummy time)
+
+full_name_en: Tummy Time / Prone Play
+full_name_zh: 趴卧练习
+
+one_liner: |
+  婴儿清醒时趴着玩(大人在旁监督)。AAP:出院当天起,7 周龄达每天 15-30 分钟。防扁头 + 加颈部肌肉 + 帮以后翻身。
+
+detail: |
+  ## 定义
+  婴儿清醒时,在硬平面(地垫)上趴着,大人在旁强制监督。
+  对应:仰睡(入睡时强制)+ tummy time(清醒时强制)— 配套设计。
+
+  ## 为什么需要
+  自从 1992 AAP "Back to Sleep" 推广仰睡后,扁头综合征(positional plagiocephaly)发病率上升。
+  Tummy time 是配套设计,平衡仰睡造成的颈部和后脑发育不足。
+
+  ## AAP 推荐节奏
+  - 出院当天就可开始(每次几分钟)
+  - 每天累加,**7 周龄达每天 15-30 分钟**
+  - 必须**清醒 + 大人监督**
+  - 在硬平面(地垫)上,不在沙发 / 床
+  - 喂奶后 30 分钟避免(防吐奶)
+
+  ## 益处
+  - 防扁头综合征(positional plagiocephaly)
+  - 加强颈部 / 肩 / 背肌肉
+  - 帮助以后翻身 / 爬 / 坐
+  - 视觉发育(从不同角度看世界)
+
+  ## 风险(若错误执行)
+  - 在沙发上趴让他自己玩 → SIDS 高危(沙发是死亡热区)
+  - 在大人怀里趴睡 → SIDS 高危
+  - 喂奶后立即趴 → 加重吐奶 + 中耳炎
+
+  ## 宝宝抗拒怎么办
+  - 起初宝宝可能哭闹(短时间趴不喜欢)
+  - 大人趴下面对面 + 唱歌 / 玩具 → 渐进
+  - 短时间多次 > 长时间一次
+
+key_facts:
+  - 出院当天起
+  - 7 周龄达每天 15-30 min
+  - 清醒 + 大人监督
+  - 防扁头 + 加颈肌
+  - 沙发上趴 = SIDS 高危
+
+related_glossary:
+  - G-ABBR-SIDS
+  - G-ABBR-AAP
+  - G-TERM-back-sleep
+
+related_cards:
+  - C-S2-003     # AAP 7 周起每天 15-30 分钟 tummy time
+
+sources:
+  - source_id: SRC-004
+  - external: AAP HealthyChildren.org / 综合儿科常识
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

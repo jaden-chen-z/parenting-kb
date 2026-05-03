@@ -1,0 +1,49 @@
+glossary_id: G-ABBR-CPSC
+type: abbreviation
+display_name: CPSC
+
+full_name_en: Consumer Product Safety Commission
+full_name_zh: 美国消费品安全委员会
+
+one_liner: |
+  美国联邦独立机构(1972 成立),负责婴儿床、bassinet、玩具等消费品的强制性安全标准。AAP Safe Sleep 立场依赖 CPSC 标准。
+
+detail: |
+  ## 组织
+  - 1972 年成立,联邦独立机构
+  - 总部马里兰
+  - 制定强制性产品安全标准 + 召回管理 + 事故调查
+
+  ## 在婴儿安全的关键标准
+  - **2011 Crib Standards**:全美所有婴儿床必须 4 边固定,不能 drop-side(因 2009 召回 210 万张 drop-side 床后立法)
+  - **2017 Inclined Sleeper Recall**:Fisher-Price Rock 'n Play 等数百万倾斜睡眠器召回(致死案例后)
+  - **2021 Final Rule on Infant Sleep Products**:所有"婴儿睡眠用产品"必须符合 crib/bassinet/portable crib/play yard 之一标准 — AAP 2022 Policy 引用
+
+  ## 父母实操
+  - 买婴儿床 / bassinet 前查 CPSC 网站,确认未召回
+  - 二手床更要查
+  - "声称防 SIDS"的产品大多不符合 CPSC 标准
+  - 床栏间距必须 < 2-3/8 英寸(约 6 cm)
+
+key_facts:
+  - 1972 年成立,联邦独立机构
+  - 2011 Crib Standards 禁止 drop-side
+  - 2009 drop-side 召回 210 万张
+  - 2021 Final Rule 全面规范婴儿睡眠产品
+
+related_glossary:
+  - G-ABBR-AAP
+  - G-ABBR-FDA
+  - G-ABBR-SIDS
+
+related_cards:
+  - C-S1-035     # AAP 婴儿床只一张床单
+  - C-S1-036     # AAP 平面 + 认证床 + 这些产品别买
+
+sources:
+  - external: CPSC 官网 cpsc.gov / AAP Safe Sleep Policy 引用 / Wikipedia
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

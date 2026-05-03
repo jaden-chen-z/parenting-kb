@@ -1,0 +1,61 @@
+glossary_id: G-ABBR-NBAS
+type: abbreviation
+display_name: NBAS
+
+full_name_en: Neonatal Behavioral Assessment Scale
+full_name_zh: 新生儿行为评估量表
+
+one_liner: |
+  Brazelton 1973 年发表的新生儿行为评估工具,28 项行为 + 18 项反射,全球儿科 / 心理学评估标准之一,Brazelton 主要学术贡献。
+
+detail: |
+  ## 定义
+  NBAS 是评估足月新生儿(出生 48 小时-2 月)行为反应的标准化工具,**测的不是平均表现,而是宝宝的最佳表现**。
+
+  ## 历史
+  - 1973 年 Brazelton 在哈佛医学院 + Children's Hospital Boston 开发
+  - 当时主流观点是"新生儿是被动的",NBAS 颠覆性地把宝宝当成主动参与者
+  - 经过 30+ 年迭代成为全球标准
+
+  ## 评估内容
+  - **28 项行为**:对人脸 / 拨浪铃 / 球的视觉追踪、对声音的转头、对触碰的反应、状态切换能力等
+  - **18 项反射**:Moro 惊跳、握持、踏步、吸吮等
+  - **6 种意识状态**:深睡 / 浅睡 / 瞌睡 / 安静警觉 / 烦躁 / 哭闹(评估状态切换)
+  - **习惯化(habituation)**:面对反复刺激能否减少反应
+
+  ## 临床用途
+  - 早产儿 / 高危儿评估
+  - 帮助父母认识自己宝宝的独特个性
+  - 预测早期发育问题(听力 / 视觉 / 神经系统)
+  - 跨文化比较婴儿气质
+
+  ## 在本知识库中
+  - C-S1-073 直接讲 NBAS 的核心理念
+  - C-S1-074(习惯化)是 NBAS 评估项之一
+  - Brazelton 作为 NBAS 创始人的权威性是 SRC-010 的科学基础
+
+key_facts:
+  - 1973 年 Brazelton 发表
+  - 全球儿科评估标准之一
+  - 28 项行为 + 18 项反射
+  - 测最佳表现而非平均
+  - 颠覆"新生儿被动"的旧观念
+
+related_glossary:
+  - G-PERSON-Brazelton
+  - G-TERM-six-states
+  - G-TERM-habituation
+  - G-TERM-quiet-alert
+
+related_cards:
+  - C-S1-073
+  - C-S1-074
+
+sources:
+  - source_id: SRC-010
+  - external: Brazelton 1973 NBAS manual / Wikipedia
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

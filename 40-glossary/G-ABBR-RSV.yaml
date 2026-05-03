@@ -1,0 +1,63 @@
+glossary_id: G-ABBR-RSV
+type: abbreviation
+display_name: RSV
+
+full_name_en: Respiratory Syncytial Virus
+full_name_zh: 呼吸道合胞病毒
+
+one_liner: |
+  1 岁内婴儿住院主因。秋末至早春流行,几乎所有 2 岁内婴儿都会感染过。2023 起新方案:孕妇 Abrysvo 或婴儿 nirsevimab 2 选 1 保护。
+
+detail: |
+  ## 简介
+  - 全名:Respiratory Syncytial Virus(呼吸道合胞病毒)
+  - 1957 年首次发现,因感染细胞融合(syncytia)而得名
+  - **AAP 原话:"the most common cause of hospitalization in infants under 1 year of age"**
+  - 美国年均 ~58000 婴儿因 RSV 住院,200-300 例死亡
+  - 几乎所有 2 岁内婴儿都感染过
+
+  ## 流行规律
+  - 季节:**10 月至 3 月**(北半球温带)
+  - 通过咳嗽 / 喷嚏 / 接触面传播
+  - 表面存活数小时
+
+  ## 症状
+  - 大多数儿童:类似感冒(流涕 / 咳嗽 / 低烧)
+  - 婴儿 / 早产 / 心肺病:可发展为细支气管炎(bronchiolitis)/ 肺炎
+  - 严重信号:呼吸急促 / 喘鸣 / 喂奶减少 / 嗜睡
+
+  ## 2023 起新预防方案(AAP 推荐 2 选 1)
+  ### 方案 1:孕妇 Abrysvo 疫苗
+  - 怀孕 32-36 周接种
+  - 限 9 月-1 月怀孕末期
+  - 母传抗体保护婴儿约 6 月
+
+  ### 方案 2:婴儿 nirsevimab(单克隆抗体)
+  - < 8 月在 RSV 季节接种
+  - **防住院 90%**
+  - 持续 ≥ 5 月
+
+  不需 2 个都打,2 选 1。
+
+key_facts:
+  - 1 岁内住院主因(AAP)
+  - 季节 10 月-3 月
+  - 美国年均 ~58000 婴儿住院
+  - 2023 起 nirsevimab + Abrysvo 双方案
+  - nirsevimab 防住院 90%
+
+related_glossary:
+  - G-ABBR-AAP
+
+related_cards:
+  - C-S1-063     # RSV 保护 2 选 1
+  - C-S1-064     # 0-12 月疫苗时间表
+
+sources:
+  - source_id: SRC-008
+  - external: AAP RSV Immunization Article 2024 / CDC RSV data
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

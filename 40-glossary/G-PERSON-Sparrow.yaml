@@ -1,0 +1,51 @@
+glossary_id: G-PERSON-Sparrow
+type: person
+display_name: Sparrow
+
+full_name_en: Joshua D. Sparrow, M.D.
+full_name_zh: 约书亚·D. 斯帕罗
+
+one_liner: |
+  美国儿童精神科医生,Brazelton Touchpoints Center 高级主管,Brazelton 钦点的《Touchpoints》修订版合著者(2006 年起)。
+
+detail: |
+  ## 个人背景
+  - 美国儿童精神科医生
+  - Brazelton Touchpoints Center 高级主管(Senior Director)
+  - 哈佛医学院儿童精神科教师
+
+  ## 主要贡献
+  - 《Touchpoints: Birth to Three》(2006 修订版)合著者
+  - 《Touchpoints: Three to Six》合著者
+  - 接续 Brazelton 推广 Touchpoints 模型到全国 70+ 合作机构
+  - 婴儿心理健康 + 家庭中心照护研究方向
+
+  ## 与 Brazelton 的关系
+  - Brazelton 在 1990s 开始邀请 Sparrow 共同工作
+  - Brazelton 在 Introduction 自述:"我邀请 Joshua Sparrow 帮我修订这本书"
+  - Sparrow 接班后将 Touchpoints 体系系统化、循证化
+
+  ## 在本知识库中
+  - 是 SRC-010 全 70 张卡的合著作者(citation 必引)
+
+key_facts:
+  - Brazelton Touchpoints Center 高级主管
+  - 2006 修订版合著者
+  - 儿童精神科背景(强化心理动力学视角)
+  - 哈佛医学院儿童精神科教师
+
+related_glossary:
+  - G-PERSON-Brazelton
+  - G-TERM-touchpoint
+  - G-TERM-strengths-based
+
+related_cards: []
+
+sources:
+  - source_id: SRC-010
+  - external: Brazelton Touchpoints Center 官网 / Wikipedia
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

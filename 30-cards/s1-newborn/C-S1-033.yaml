@@ -8,9 +8,12 @@ front:
 
 back:
   why_matters: |
-    40% 妈妈产后几周有"Baby Blues"(轻度哭泣/焦虑/失眠)。
-    5% 是真正产后抑郁(深度悲伤+伤害自己/宝宝幻想)。
-    1‰ 产后精神病(幻听幻视语无伦次,2 周内,立即就医)。
+    产后抑郁(PPD)是产后女性的抑郁症状谱,不是软弱是医学疾病。
+    Karp 在附录 B 给的 3 阶段:
+    **Baby Blues(40%)**:轻度哭泣 / 焦虑 / 失眠,几周自然过。
+    **真正 PPD(5%)**:深度悲伤 + 伤害自己/宝宝幻想 → 必须就医。
+    **产后精神病(0.1%)**:幻听幻视语无伦次,2 周内多见 → 立即就医。
+    Karp 强调"和过敏症一样,是病不是失败",鼓励主动求医。
   what_to_do:
     - Baby Blues:几周内自然过去,有家人支持就够
     - 真正 PPD:出现"伤害自己/宝宝幻想"立即就医
@@ -20,6 +23,11 @@ back:
     自责"我不是好妈妈"沉默不求助 → 拖延加重。
     产后精神病拖到出现幻觉才就医 → 危险窗口已过。
   evidence_level: A
+
+glossary_refs:
+  - G-TERM-postpartum-depression
+  - G-PERSON-Karp
+  - G-ABBR-AAP
 
 citation:
   book_title_en: "The Happiest Baby on the Block: The New Way to Calm Crying and Help Your Newborn Baby Sleep Longer"
@@ -44,4 +52,4 @@ related_cards:
 language: zh
 status: draft
 created: 2026-05-01
-updated: 2026-05-01
+updated: 2026-05-02

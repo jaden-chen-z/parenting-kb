@@ -1,0 +1,70 @@
+glossary_id: G-TERM-gatekeeping
+type: term
+display_name: 门卫现象 (gatekeeping)
+
+full_name_en: Gatekeeping
+full_name_zh: 门卫现象
+
+one_liner: |
+  所有爱宝宝的成人(母亲/父亲/祖父母/保姆/医生)都会本能竞争"独占"或"做得比别人好"。Brazelton:这不是病,是关心的另一面。处方是命名它,不是消灭它。
+
+detail: |
+  ## 定义
+  Gatekeeping 指**多个照顾者中,某一方(常是母亲)有意/无意地控制其他照顾者(常是父亲、祖辈、保姆)**接近孩子的方式与频率,
+  本质上是"我才是真正懂这个孩子的人"的本能竞争。
+
+  ## Brazelton 的命名与去病理化
+  Brazelton 在 Touchpoints 里把这个现象**命名出来**,这是去除尴尬的第一步:
+  > "所有爱这个宝宝的成年人都会本能地和其他爱宝宝的成年人竞争——
+  > 这不是病,是关心的另一面。承认它,然后想办法不让它伤害关系。"
+
+  - 是**爱**的副产物,不是**坏**
+  - 母亲对父亲、祖辈对年轻父母、保姆对家长之间——同一机制
+  - 表现:挑刺、纠正、抢着抱、否定对方做法、"重做一遍"
+  - 越爱、越焦虑,gatekeeping 越强烈
+
+  ## 中国语境下的特殊性
+  - 三代同堂的家庭结构使 gatekeeping 高频出现
+  - 婆婆 vs 妈妈、奶奶 vs 姥姥、母亲 vs 月嫂 都是经典 gatekeeping 场域
+  - 文化"长辈权威"叠加 gatekeeping 本能,会更难被命名讨论
+  - 父亲 involvement 在中国家庭常被 gatekeeping 阻挡(母亲/祖辈不放手)
+
+  ## 处方(Brazelton 流派)
+  1. **命名它**:全家一起承认这是正常的、谁都会有的反应
+  2. **不消灭它**:试图让任何人"完全不在意"会失败
+  3. **轮值原则**:特定时间窗内,某一人是唯一决策者
+  4. **专属仪式**:让每个照顾者有"自己和宝宝的事"——爸爸的洗澡时间、奶奶的散步时间
+  5. **欣赏不同**:不同照顾者的不同风格让孩子学会适应多样化
+
+  ## 在本知识库中
+  - C-S0-003 孕期父亲角色
+  - C-S1-081 / C-S1-088 / C-S1-089 / C-S1-090 新生儿期家庭分工
+  - C-S3-030 / C-S3-031 3-6 月协作模式
+
+key_facts:
+  - Brazelton 命名,去病理化
+  - 是"爱"的副产物,不是缺陷
+  - 中国 3 代同堂语境下高频
+  - 父亲 involvement 常被 gatekeeping 阻挡
+  - 处方:命名 + 轮值 + 专属仪式
+
+related_glossary:
+  - G-PERSON-Brazelton
+  - G-TERM-father-involvement
+
+related_cards:
+  - C-S0-003
+  - C-S1-081
+  - C-S1-088
+  - C-S1-089
+  - C-S1-090
+  - C-S3-030
+  - C-S3-031
+
+sources:
+  - source_id: SRC-010
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

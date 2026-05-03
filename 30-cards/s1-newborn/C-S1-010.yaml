@@ -8,9 +8,11 @@ front:
 
 back:
   why_matters: |
-    Karp 说,胎儿在子宫里有一个"自动关机反射"——
-    避免他在肚子里乱踢扯断脐带、撞伤胎盘。
-    出生后这个反射还在,5S 就是用来按这个开关的。
+    镇静反射 = Karp 假设的胎儿期遗存反射(C 级证据,无神经学正式定义)。
+    Karp 推测:胎儿在子宫里乱踢会扯断脐带或撞伤胎盘 → 致死。
+    自然选择压力 → 进化出"被子宫感官刺激就关机"的反射。
+    出生后这个反射还在,但需要持续、足够强度的子宫刺激才能激活。
+    5S 安抚法就是出生后激活这个"关闭按钮"的开关组合。
   what_to_do:
     - 把 5S 当成"按按钮",不是"温柔哄"
     - 强度要够,模拟子宫的紧、响、晃
@@ -20,6 +22,12 @@ back:
     把 5S 做得"温柔" → 力度不够,激活不了反射。
     试一两次没用就放弃 → 错过反射的入口期。
   evidence_level: C
+
+glossary_refs:
+  - G-TERM-calming-reflex
+  - G-PERSON-Karp
+  - G-TERM-five-s
+  - G-TERM-fourth-trimester
 
 citation:
   book_title_en: "The Happiest Baby on the Block: The New Way to Calm Crying and Help Your Newborn Baby Sleep Longer"
@@ -43,4 +51,4 @@ related_cards:
 language: zh
 status: draft
 created: 2026-05-01
-updated: 2026-05-01
+updated: 2026-05-02

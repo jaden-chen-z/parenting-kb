@@ -8,9 +8,12 @@ front:
 
 back:
   why_matters: |
-    Karp 说:摇晃宝宝最常见误区是"大幅缓慢"。
-    子宫里宝宝一直被妈妈走路颠簸,他需要小幅快速节奏
-    (振幅 30-60cm,每秒 2-3 次)才能激活镇静反射。
+    摇晃(swing)是 5S 第四招。
+    Karp 说最常见误区是"大幅缓慢"——
+    父母直觉"温柔慢摇"对宝宝好,实际激活不了镇静反射。
+    子宫里宝宝一直被妈妈走路颠簸,他需要小幅快速节奏:
+    振幅 30-60cm,频率每秒 2-3 次。
+    与 SBS(摇晃婴儿综合征)关键区别在加速度,不在频率(详见 020)。
   what_to_do:
     - 振幅 30-60 厘米(像晃奶瓶)
     - 频率每秒 2-3 次
@@ -20,6 +23,12 @@ back:
     大幅缓慢摇 → 没节奏,激活不了反射。
     摇时头乱晃 → 危险,可能伤颈椎(见 020 SBS)。
   evidence_level: B
+
+glossary_refs:
+  - G-TERM-five-s
+  - G-PERSON-Karp
+  - G-TERM-calming-reflex
+  - G-ABBR-SBS
 
 citation:
   book_title_en: "The Happiest Baby on the Block: The New Way to Calm Crying and Help Your Newborn Baby Sleep Longer"
@@ -43,4 +52,4 @@ related_cards:
 language: zh
 status: draft
 created: 2026-05-01
-updated: 2026-05-01
+updated: 2026-05-02

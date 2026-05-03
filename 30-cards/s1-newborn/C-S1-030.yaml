@@ -8,9 +8,11 @@ front:
 
 back:
   why_matters: |
-    约 10% 肠绞痛宝宝是食物过敏。
-    最常见的元凶:牛奶 + 乳制品。母乳妈妈喝牛奶后,
-    蛋白会通过乳汁传给宝宝(8-12 小时达峰)。
+    肠绞痛(colic)= 健康婴儿无明显原因剧烈哭闹,Wessel 1954 "3-3 规则"诊断。
+    病因不明,但 Karp 引研究:**约 10% 肠绞痛宝宝是食物过敏**。
+    最常见元凶:牛奶 + 乳制品。
+    母乳妈妈喝牛奶后,蛋白通过乳汁传给宝宝(8-12 小时达峰)。
+    严重的牛奶蛋白过敏(CMPA)需要深度水解配方治疗。
     排除 2-4 周看是否好转,再吃 4-5 天验证症状复发。
   what_to_do:
     - 母乳妈妈先停乳制品 2 周观察
@@ -21,6 +23,13 @@ back:
     因为"听说"就长期忌口 → 自己营养不良。
     忽视血便/反复呕吐等危险信号 → 延误诊断。
   evidence_level: B
+
+glossary_refs:
+  - G-TERM-colic
+  - G-PERSON-Karp
+  - G-ABBR-CMPA
+  - G-PERSON-Wessel
+  - G-TERM-protein-hydrolysate-formula
 
 citation:
   book_title_en: "The Happiest Baby on the Block: The New Way to Calm Crying and Help Your Newborn Baby Sleep Longer"
@@ -43,4 +52,4 @@ related_cards:
 language: zh
 status: draft
 created: 2026-05-01
-updated: 2026-05-01
+updated: 2026-05-02

@@ -8,18 +8,28 @@ front:
 
 back:
   why_matters: |
-    摇晃综合征(SBS)是儿童虐待级别的剧烈摇晃,
-    会撕裂颅内血管致命。安全摇晃和 SBS 的关键区别:
+    SBS(摇晃婴儿综合征)= 用力摇晃造成的脑出血 / 视网膜出血,
+    可能终身脑损伤或死亡。美国年数百例,致死率 ~25%,
+    幸存者 80% 终身神经损伤。2-4 月高发(同哭闹峰一致)。
+    加害者 70% 是男性看护人(尤其崩溃面对持续哭闹时)。
+    Karp 的"安全摇晃"是 5S 之一,与 SBS 关键区别:
     头与身体保持直线 = 安全;头猛甩、扭向反方向 = SBS。
+    振幅严格 30-60cm,频率每秒 2-3 次。
   what_to_do:
     - 一手撑头颈,头与身体保持一条直线
     - 振幅严格 30-60cm,不超
     - 自己累/愤怒时立刻把宝宝放回安全床
-    - 出门 5 分钟,情绪稳了再回来
+    - 出门 5-10 分钟,情绪稳了再回来
   failure_mode: |
     因为崩溃乱摇 → 颅内出血,可能致命。
     没撑头颈,头甩动 → 已经接近 SBS 边缘。
   evidence_level: A
+
+glossary_refs:
+  - G-ABBR-SBS
+  - G-PERSON-Karp
+  - G-TERM-five-s
+  - G-TERM-calming-reflex
 
 citation:
   book_title_en: "The Happiest Baby on the Block: The New Way to Calm Crying and Help Your Newborn Baby Sleep Longer"
@@ -40,8 +50,9 @@ related_cards:
   - C-S1-008      # 心跳加速(生理反射)
   - C-S1-016      # 侧抱 SIDS
   - C-S1-019      # 摇晃要点
+  - C-S1-049      # AAP 崩溃放下离开 10-15 分钟(立场一致)
 
 language: zh
 status: draft
 created: 2026-05-01
-updated: 2026-05-01
+updated: 2026-05-02

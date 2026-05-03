@@ -1,0 +1,67 @@
+glossary_id: G-PERSON-Illingworth
+type: person
+display_name: Illingworth
+
+full_name_en: Ronald S. Illingworth
+full_name_zh: 罗纳德·依林沃斯
+
+one_liner: |
+  英国儿科医生(1909-1990),Sheffield 大学儿科教授,英国战后儿科教育奠基人之一。
+  1954 年用 X 光对比腹绞痛 vs 平和宝宝肠部气体含量——首次证伪"胀气是哭闹元凶"。
+
+detail: |
+  ## 个人背景
+  - 1909-1990,英国儿科医生
+  - Sheffield 大学儿科首任教授(1947-1975)
+  - 经典儿科教材《The Normal Child》作者(15 版,1953-1991)
+  - 英国战后儿科教育奠基人之一
+
+  ## 主要贡献
+
+  ### 1. 1954 腹绞痛 X 光研究 ⭐(Karp 引用)
+  - 用 X 光成像对比腹绞痛宝宝(哭得最凶时)和平和宝宝的肠部气体含量
+  - 关键发现:**两组宝宝肠内气体含量没有差异**
+  - 即使腹绞痛宝宝哭得最凶时,腹部胀气也不比平和宝宝多
+  - 这是首次用客观影像学证据**证伪"胀气是哭闹元凶"**
+
+  ### 2. 后续打嗝药水否定研究
+  - 多项实验证明二甲基硅油(simethicone)打嗝药水**对哭闹宝宝无效**
+  - 效果与白水(安慰剂)无差异
+  - Illingworth 是这个证据链的早期推手
+
+  ### 3. 婴儿正常发育模式研究
+  - 《The Normal Child》系统总结了"什么是正常婴儿行为"
+  - 反对过度医学化常见现象(如新生儿手颤、轻度反流)
+
+  ## 在 Karp 体系中的位置
+  - Karp 把 Illingworth 1954 研究作为**反驳"胀气元凶论"的核心证据**
+  - C-S1-011 卡(胀气不是哭闹元凶,别狂拍嗝)的循证基础
+  - 这也是为什么 Karp 转向"第四产程缺失"作为腹绞痛根本诱因的解释
+
+  ## 学术评价
+  - 1954 X 光研究是儿科文献经典
+  - 后续多项研究(包括 Cochrane 综述)反复确认其结论
+  - 但中国家长普遍仍信"胀气导致哭闹"——70 年的循证传播仍未到位
+
+key_facts:
+  - 1909-1990,Sheffield 大学
+  - 《The Normal Child》15 版作者
+  - 1954 X 光研究证伪胀气元凶
+  - 推动二甲基硅油否定研究
+  - 反对过度医学化儿童常见现象
+
+related_glossary:
+  - G-PERSON-Karp
+  - G-TERM-colic
+
+related_cards:
+  - C-S1-011     # 胀气不是哭闹元凶,别狂拍嗝
+
+sources:
+  - source_id: SRC-003           # Karp 引用
+  - external: Sheffield 大学官网 / Wikipedia / 综合儿科文献史
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

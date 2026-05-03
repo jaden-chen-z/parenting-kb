@@ -8,9 +8,12 @@ front:
 
 back:
   why_matters: |
-    Karp 反复强调:宝宝哭得越凶,5S 五招力度都要越大——
+    5S 力度匹配是 Karp 反复强调的核心原则:
+    宝宝哭得越凶,5 招力度都要越大——
     包得越紧、嘘声越大、摇得越快。
     "温柔哄"是父母最常见的误区,达不到激活镇静反射的强度。
+    原理:子宫感官刺激必须达到一定阈值才能激活反射,
+    低于阈值就像"按按钮没按到底"。这是 5S 失败的头号原因。
   what_to_do:
     - 哭得"撕心裂肺"时,不降低力度,反而加大
     - 嘘声 ≥ 哭声音量
@@ -20,6 +23,11 @@ back:
     把"温柔=好"投射到新生儿 → 力度不够,父母自责"5S 没用"。
     哭得猛吓得不敢用力 → 错过激活反射的窗口。
   evidence_level: B
+
+glossary_refs:
+  - G-TERM-five-s
+  - G-PERSON-Karp
+  - G-TERM-calming-reflex
 
 citation:
   book_title_en: "The Happiest Baby on the Block: The New Way to Calm Crying and Help Your Newborn Baby Sleep Longer"
@@ -45,4 +53,4 @@ related_cards:
 language: zh
 status: draft
 created: 2026-05-01
-updated: 2026-05-01
+updated: 2026-05-02

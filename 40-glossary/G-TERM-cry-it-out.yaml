@@ -1,0 +1,63 @@
+glossary_id: G-TERM-cry-it-out
+type: term
+display_name: 哭着入睡训练 (cry-it-out)
+
+full_name_en: Cry-It-Out (CIO) / Extinction Sleep Training
+full_name_zh: 哭着入睡训练法 / 消退法睡眠训练
+
+one_liner: |
+  让婴儿独自哭一段时间自己学会入睡的睡眠训练流派(4-6 月后才适用)。AAP:不反对也不强推,看家庭选择;0-6 月不该用。
+
+detail: |
+  ## 定义
+  把宝宝放婴儿床后,父母不立即响应,让宝宝学会自我安抚入睡。
+  对应:回应式喂养 / 安抚(每次哭就立即响应)。
+
+  ## 流派分类
+  - **完全 CIO(Extinction)**:放下后完全不响应,直到入睡
+  - **渐进消退(Ferber Method / Graduated Extinction)**:间隔时间响应,逐步延长(3 / 5 / 10 / 15 分钟)
+  - **椅子法(Chair Method)**:坐婴儿床旁逐步远离
+
+  ## AAP 立场
+  - **0-6 月不适用** — AAP 明确:头几月 "You cannot spoil a young baby with attention"(C-S1-043)
+  - 6 月后:不反对也不强推,看家庭选择
+  - 多数 RCT 显示 CIO 不会造成长期心理伤害(2016 Pediatrics 研究)
+
+  ## 与 PURPLE / SBS 的关系
+  - 4 月内宝宝哭闹高峰期不该用 CIO(PURPLE 阶段)
+  - 但 4 月内大人崩溃放下宝宝离开 10-15 分钟(C-S1-049)≠ CIO,这是单次应急
+
+  ## C-S1-046 的细节
+  AAP "都不行就放婴儿床让他哭一会"是单次应急,不是 CIO 训练。
+  - 单次应急:某次安抚不成,放下让他哭 5-15 分钟
+  - CIO 训练:系统化让宝宝学会自我入睡,通常 4-6 月起
+
+  ## 中文家长视角
+  - 国内"哭声免疫法"等被妖魔化
+  - 实际国际主流接受 4-6 月后渐进消退
+  - 但 0-6 月强行 CIO 是错误,违反 AAP 立场
+
+key_facts:
+  - 0-6 月不适用
+  - 4-6 月后渐进消退是国际主流
+  - AAP 不反对不强推
+  - 与 C-S1-046 单次应急不同
+
+related_glossary:
+  - G-ABBR-AAP
+  - G-TERM-responsive-feeding
+  - G-PERSON-Karp
+
+related_cards:
+  - C-S1-043     # AAP 头 6 月不会宠坏 — 答应反而少哭
+  - C-S1-046     # AAP 都试过不行,放婴儿床让他哭(controversy)
+  - C-S2-005     # AAP "睡整觉"真定义
+
+sources:
+  - source_id: SRC-005
+  - external: 2016 Pediatrics CIO 长期影响 RCT / 综合婴儿睡眠研究
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

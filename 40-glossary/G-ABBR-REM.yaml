@@ -1,0 +1,62 @@
+glossary_id: G-ABBR-REM
+type: abbreviation
+display_name: REM
+
+full_name_en: Rapid Eye Movement (sleep)
+full_name_zh: 快速眼动睡眠(active sleep / 活跃睡眠)
+
+one_liner: |
+  睡眠 5 阶段中的一个,做梦阶段。新生儿 50% 是 REM(成人 25%),所以容易抖动 / 眨眼 / 呼吸不规律。这是正常的,不是病。
+
+detail: |
+  ## 定义
+  快速眼动睡眠(REM)= 大脑活跃但身体瘫痪的睡眠阶段。
+  特征:眼球快速移动 + 脑电波类似清醒 + 大肌群瘫痪 + 做梦。
+  对应 NREM(非快速眼动睡眠 / quiet sleep)= 深睡。
+
+  ## 新生儿 REM 占比 vs 成人
+  - 新生儿:50% REM + 50% NREM(approx)
+  - 1 岁:30% REM
+  - 成人:20-25% REM
+
+  ## 新生儿 REM 期表现(都正常)
+  - 抖动 / 眨眼 / 嘴角微笑 / 哼哼
+  - 呼吸不规律 + periodic breathing(5-10s 暂停 + 50-60 burst)
+  - 看着像浅睡 / 易醒
+
+  ## 为什么婴儿 REM 多
+  推测:大脑快速发育需要 REM("信息整合 + 突触修剪")。
+  早产儿 REM 占比更高(80%),足月后逐步降。
+
+  ## 与睡眠训练的关系
+  - 婴儿"频繁醒"很大程度因为 REM 比例高 + 睡眠周期短(45-60 min,成人 90 min)
+  - "睡整觉"真定义:能频繁醒 + 自己回睡(C-S2-005)
+  - 不要期望像成人那样连睡 8h
+
+  ## AAP 解释
+  - 新生儿"看着像浅睡"是 REM 主导,不是睡不着
+  - periodic breathing(5-10s 呼吸暂停)≠ apnea,不必恐慌(C-S2-006)
+
+key_facts:
+  - 新生儿 50% REM(成人 25%)
+  - REM 期抖动 / 眨眼 / 不规则呼吸都正常
+  - 睡眠周期 45-60 min(成人 90 min)
+  - "频繁醒"是生理,不是病
+
+related_glossary:
+  - G-ABBR-NREM
+  - G-ABBR-AAP
+  - G-TERM-periodic-breathing-of-infancy
+
+related_cards:
+  - C-S2-006     # AAP 婴儿呼吸暂停 5-10s 是正常的
+  - C-S2-005     # AAP "睡整觉"真定义
+
+sources:
+  - source_id: SRC-004
+  - external: 综合睡眠医学常识
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

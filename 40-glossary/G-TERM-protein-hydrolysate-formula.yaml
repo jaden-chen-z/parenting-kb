@@ -1,0 +1,65 @@
+glossary_id: G-TERM-protein-hydrolysate-formula
+type: term
+display_name: 深度水解配方 (protein hydrolysate formula)
+
+full_name_en: Protein Hydrolysate Formula / Hydrolyzed Formula
+full_name_zh: 深度水解配方 / 水解蛋白配方
+
+one_liner: |
+  牛奶蛋白被酶解为短肽的低致敏配方,用于 CMPA(牛奶蛋白过敏)宝宝。常见品牌:Nutramigen / Alimentum / Pregestimil。
+
+detail: |
+  ## 定义
+  把牛奶 / 大豆蛋白通过酶解(hydrolysis)切成短肽 / 氨基酸,降低致敏性。
+  根据水解程度分:
+  - **部分水解(partial hydrolysate)**:轻度,只缓和症状
+  - **深度水解(extensive hydrolysate)**:中重度 CMPA 用,致敏极低
+  - **氨基酸配方(amino acid formula)**:最严重 CMPA 用,完全去蛋白
+
+  ## 适用情况
+  - CMPI / CMPA(牛奶蛋白不耐受 / 过敏,5% 婴儿)
+  - 持续吐奶 + 不增重 / 异常烦躁的宝宝
+  - 母乳妈妈 elimination diet 无效时
+
+  ## 常见品牌
+  - **Nutramigen**(Mead Johnson)— 深度水解,大陆有售
+  - **Alimentum**(Abbott)— 深度水解
+  - **Pregestimil**(Mead Johnson)— 深度水解 + 中链甘油三酯
+  - **Neocate**(Nutricia)— 氨基酸配方,最严重 CMPA 用
+  - **Elecare**(Abbott)— 氨基酸配方
+
+  ## 注意
+  - 价格比普通配方贵 3-5×
+  - 味道比普通配方苦(部分宝宝需要适应)
+  - 必须医生处方/建议,不要自行换
+  - 试 1-2 周看效果,无效问医生换氨基酸配方
+
+  ## AAP 立场
+  - "rare cases" 配方奶宝宝可受益于 protein hydrolysate(R3 starting solid foods 文)
+  - 不要自行换 — 误判 + 营养风险
+  - 50% CMPA 宝宝同时对大豆配方过敏(交叉反应),所以不要直接换大豆
+
+key_facts:
+  - 牛奶蛋白被酶解为短肽
+  - 深度水解 / 氨基酸两级
+  - 用于 CMPA(5% 婴儿)
+  - 价格 3-5× 普通配方
+  - 必须医生指导,不自行换
+
+related_glossary:
+  - G-ABBR-CMPA
+  - G-ABBR-GERD
+  - G-ABBR-AAP
+
+related_cards:
+  - C-S1-030     # Karp 牛奶蛋白可能元凶
+  - C-S1-054     # AAP 吐奶 vs GERD vs 喷射呕
+
+sources:
+  - source_id: SRC-006
+  - external: 综合儿科消化营养常识 / 各厂商产品资料
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

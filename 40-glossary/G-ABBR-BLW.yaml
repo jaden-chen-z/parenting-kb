@@ -1,0 +1,67 @@
+glossary_id: G-ABBR-BLW
+type: abbreviation
+display_name: BLW
+
+full_name_en: Baby-Led Weaning
+full_name_zh: 宝宝主导自主进食
+
+one_liner: |
+  6 月起让宝宝自喂家庭餐(finger food),不用泥糊或勺喂。AAP 立场:不偏 BLW 也不偏勺喂,可结合无 guilt。
+
+detail: |
+  ## 定义
+  跳过传统泥糊阶段,直接给宝宝可抓的 finger food(切成长条形),让宝宝自喂。
+  名字来自英国注册护士 Gill Rapley(2008)。
+
+  ## 优势
+  - 自我饱腹调节(防过度喂养 + 长期防肥胖)
+  - 接触多种 textures + 口味(可能减少挑食)
+  - 训练手眼协调 + 抓握 + 自主性
+  - 父母吃什么宝宝吃什么(简化餐饮)
+
+  ## 风险
+  - **窒息风险**(尤其切错形状,如圆片葡萄)
+  - 营养间隙(可能 calorie / 铁不够)
+  - 桌面更乱(食物到处掉)
+
+  ## 安全要点
+  - 6 月起(看 readiness:头控 + 13 lbs + 伸手抓)
+  - 切**长条形**(像小胡萝卜,不切圆片)
+  - 葡萄 / 小番茄切 4 等份
+  - 坐高椅 + 系安全带 + 大人在场
+  - 知道急救法(婴儿哈姆立克)
+  - 母乳 / 配方奶继续填(BLW 不是替代,是补充)
+
+  ## AAP 立场
+  - 不偏 BLW 也不偏勺喂,可结合无 guilt
+  - 泥糊也是营养的(尤其含铁强化米粉)
+  - 早产 / 坐不稳 / 嚼吞难 → 推迟 BLW
+
+  ## 中文家长视角
+  - 国内传统是泥糊主导,BLW 较新颖
+  - 老人可能反对"让宝宝自己吃"(觉得不卫生 / 浪费)
+  - 国内一线城市 BLW 接受度逐年上升
+
+key_facts:
+  - 6 月起,自喂家庭 finger food
+  - 切长条不切圆片(防 choking)
+  - AAP 不偏不倚,可结合勺喂
+  - choking 是婴儿意外死亡主因之一
+  - 母乳/配方奶继续填营养
+
+related_glossary:
+  - G-ABBR-AAP
+  - G-TERM-finger-food
+
+related_cards:
+  - C-S4-001     # AAP BLW vs 泥糊不偏可结合
+  - C-S4-002     # AAP BLW 切法长条不切圆片
+
+sources:
+  - source_id: SRC-006
+  - external: Gill Rapley "Baby-Led Weaning" (2008) / AAP HealthyChildren.org
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

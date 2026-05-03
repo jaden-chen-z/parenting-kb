@@ -1,0 +1,60 @@
+glossary_id: G-ABBR-GERD
+type: abbreviation
+display_name: GERD
+
+full_name_en: Gastroesophageal Reflux Disease
+full_name_zh: 胃食管反流病
+
+one_liner: |
+  病理性反流 — 胃内容物频繁反流到食管,影响生长 / 出血 / 严重不适。区别于 GER(生理性反流,正常婴儿都有)。
+
+detail: |
+  ## GER vs GERD 区别
+  - **GER**(无 D,生理性):正常婴儿都有,因为食管下括约肌不成熟。表现:吐奶,但不影响生长 / 不痛苦。多数 12 月内自然好。
+  - **GERD**(有 D,病理性):反流频繁严重,影响进食 / 增重 / 引起不适或并发症(食管炎 / 气道问题)。需要医学评估和治疗。
+
+  ## GERD 红旗(找医生)
+  - 喷射性呕吐(可能是 pyloric stenosis,需手术)
+  - 吐物含血(食管或胃出血)
+  - 频繁吐 + 不增重 / 体重下降
+  - 拒食 / 异常烦躁
+  - 反复呼吸道感染(反流误吸)
+
+  ## 治疗
+  - 喂养调整:小量多次,半直立喂,喂后竖抱 20-30 min
+  - 配方奶宝宝可试深度水解配方(若 CMPA 共病)
+  - 母乳妈妈试 elimination diet
+  - 严重时医生开 PPI(质子泵抑制剂)
+  - 极少数手术
+
+  ## AAP 立场
+  - 即使 GERD 宝宝也要仰睡(C-S1-034)— "airway 解剖 + gag reflex 防呛奶"
+  - 别给"垫高"或侧睡作为 GERD"治疗"(增 SIDS 风险)
+
+key_facts:
+  - GER 正常,GERD 病理
+  - 多数 GER 12 月内自然好
+  - GERD 可能影响生长 / 引起并发症
+  - 即使 GERD 宝宝也要仰睡(AAP)
+  - 喷射性吐 + 含血 = 立刻送医
+
+related_glossary:
+  - G-ABBR-GER
+  - G-ABBR-CMPA
+  - G-ABBR-AAP
+  - G-TERM-pyloric-stenosis
+  - G-TERM-protein-hydrolysate-formula
+
+related_cards:
+  - C-S1-034     # AAP 仰睡每次都要(GERD 也仰)
+  - C-S1-054     # AAP 吐奶 vs GERD vs 喷射呕
+
+sources:
+  - source_id: SRC-006
+  - source_id: SRC-004
+  - external: NASPGHAN 儿科消化学会指南 / 综合儿科常识
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

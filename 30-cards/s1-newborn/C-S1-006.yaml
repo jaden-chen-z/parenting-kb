@@ -8,9 +8,12 @@ front:
 
 back:
   why_matters: |
-    1990 康涅狄格大学研究:母亲分辨"宝宝是不是饿"准确率仅 25%。
-    芬兰研究 80 名儿科护士:50% 准确率(几乎和抛硬币一样)。
-    所以听不懂不是你不细心——这事人类本来就分不清。
+    听不懂哭声不是你不细心,Karp 引研究证明:
+    1990 年康涅狄格大学:母亲辨识"宝宝是否饿"准确率仅 25%。
+    芬兰 80 名儿科护士辨识哭声原因:50% 准确率(和抛硬币一样)。
+    新生儿大脑发育不全,只能发 3 种声音(呜咽 / 哭泣 / 尖叫),
+    不像 3 月+ 的宝宝能精细分类需求。
+    所以这事人类本来就分不清,别自我加压。
   what_to_do:
     - 别试图听声辨意,直接按清单逐项排查
     - 顺序:尿布 → 饿(看上次喂奶)→ 困 → 刺激过度 → 不舒服
@@ -20,6 +23,11 @@ back:
     死盯哭声辨意半小时不动手 → 宝宝越哭越焦虑。
     觉得"妈妈应该听得懂"自我加压 → 听不懂时极度自责。
   evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Karp
+  - G-TERM-five-s
+  - G-TERM-responsive-feeding
 
 citation:
   book_title_en: "The Happiest Baby on the Block: The New Way to Calm Crying and Help Your Newborn Baby Sleep Longer"
@@ -42,4 +50,4 @@ related_cards:
 language: zh
 status: draft
 created: 2026-05-01
-updated: 2026-05-01
+updated: 2026-05-02

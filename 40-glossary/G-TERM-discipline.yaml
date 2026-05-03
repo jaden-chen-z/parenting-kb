@@ -1,0 +1,71 @@
+glossary_id: G-TERM-discipline
+type: term
+display_name: 管教 (discipline)
+
+full_name_en: Discipline (as Teaching, not Punishment)
+full_name_zh: 管教(教导而非惩罚)
+
+one_liner: |
+  Brazelton 流派核心立场:Discipline 词源 = "teaching",目标是教孩子最终自我管理,**不是惩罚**。明确反对体罚,主张 time-out + 抱住 + 解释三步。
+
+detail: |
+  ## 定义重塑
+  Brazelton 强调 discipline 在拉丁语词源中是"teaching"(教导),不是 punishment(惩罚)。
+  目标是**长期教孩子自我管理**(self-discipline),不是短期压制行为。
+
+  ## 与每次设限的核心叙事
+  对孩子说:"我必须每次都阻止你这样做,直到你能自己阻止自己。"
+
+  ## 反对体罚的 4 个 Brazelton 论据(原书 18 月章原话)
+  1. 体罚说"我比你大,我能压倒你" — 但等他长大,这就不成立了
+  2. 体罚说"我这样对你,因为你是坏孩子" — 它不教导
+  3. 最重要的反对理由:体罚说"我不尊重你"
+  4. 研究显示频繁体罚的孩子更具攻击性 + 更焦虑
+
+  ## 替代方案
+  - **Time-out**(冷静用,**非惩罚**):
+    - 紧紧抱住几秒
+    - 移到房间 / 椅子
+    - 时间用来双方冷静
+  - 管教完后 hug + 解释
+  - 看到孩子做对时主动表扬(reinforce positive)
+
+  ## 6 阶段年龄菜单(C-S5-025)
+  - 4-5 月咬奶头 → 破吸 + 不夸张反应
+  - 8-10 月抓头发 → 抓住手 + 平静 No
+  - 12-14 月跑开 → 不追,等他回来
+  - 16-24 月打人 → 移开 + 提供同等玩伴
+  - 18-30 月发脾气 → 保护安全后离开
+  - 3-6 岁愤怒砸物 → 让他参与解决方案
+
+  ## 父母常见两种症结
+  - 怕过严压抑孩子精神
+  - 怕过松养出"被宠坏"的孩子
+  Brazelton 答:**重要事坚定,日常事放手**
+
+key_facts:
+  - 词源 = teaching,不是 punishment
+  - 反对体罚 4 个论据
+  - Time-out 用于冷静非惩罚
+  - 长期目标 = self-discipline
+  - 6 阶段年龄菜单
+
+related_glossary:
+  - G-PERSON-Brazelton
+  - G-TERM-tantrum
+  - G-TERM-negativism
+  - G-TERM-biting
+
+related_cards:
+  - C-S5-027
+  - C-S6-021
+  - C-S5-025
+  - C-S6-020
+
+sources:
+  - source_id: SRC-010
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

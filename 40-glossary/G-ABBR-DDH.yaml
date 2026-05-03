@@ -1,0 +1,62 @@
+glossary_id: G-ABBR-DDH
+type: abbreviation
+display_name: DDH
+
+full_name_en: Developmental Dysplasia of the Hip
+full_name_zh: 髋关节发育不良
+
+one_liner: |
+  婴儿髋关节脱位 / 发育异常,可能终身影响。常见原因:遗传 + 包裹太紧 + 臀位出生。早期发现可保守治疗(吊带),晚发现需要手术。
+
+detail: |
+  ## 定义
+  髋关节(股骨头 + 髋臼)发育不充分 / 不稳定 / 脱位的统称,从轻度松弛到完全脱位都算。
+
+  ## 流行病学
+  - 1-3 / 1000 出生婴儿(西方数据)
+  - 女婴 5-10× 男婴(雌激素影响关节松弛)
+  - 长子 / 臀位出生 / 家族史 → 风险显著升
+  - 用绑带把腿绑直的文化(传统中东 / 高山部落 / 中国传统"打蜡烛包")发病率高 5-10×
+
+  ## 与包裹的关系(AAP 重点)
+  AAP 明确警告:婴儿包裹时,髋部必须保持"蛙腿位"(自然外展屈曲),不能强行绑直。
+  - 错误包裹(髋绑直)→ DDH 风险显著升
+  - 正确包裹(髋松、能蛙腿位)→ 不增风险
+
+  ## 早期筛查
+  - 出生时 + 每次儿保查 Ortolani / Barlow 试验(医生手法检查)
+  - 高危(臀位 / 家族史)4-6 周做超声
+  - 6 月后用 X 光
+
+  ## 治疗
+  - < 6 月:Pavlik 吊带(穿戴式支架,保持髋外展)— 90%+ 治愈
+  - 6-18 月:闭合复位 + 石膏
+  - > 18 月:开放性手术
+  - **越早发现,效果越好**
+
+key_facts:
+  - 1-3 / 1000 出生婴儿
+  - 女婴 5-10× 男婴
+  - 包裹错误是可控风险因子
+  - < 6 月发现:Pavlik 吊带 90%+ 治愈
+  - 中国传统"打蜡烛包"(腿绑直)是高风险
+
+related_glossary:
+  - G-ABBR-AAP
+  - G-TERM-swaddle
+  - G-TERM-frog-leg-position
+
+related_cards:
+  - C-S1-013     # Karp 包裹必须紧 + 双臂在内
+  - C-S1-014     # Karp 包裹 6 种常见误解
+  - C-S1-015     # Karp 包裹 5 个最常见错误
+  - C-S1-038     # AAP 包裹不防 SIDS
+
+sources:
+  - source_id: SRC-004
+  - external: International Hip Dysplasia Institute / AAP Hip Surveillance guideline / 综合儿科常识
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

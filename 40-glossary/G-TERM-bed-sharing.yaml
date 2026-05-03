@@ -1,0 +1,63 @@
+glossary_id: G-TERM-bed-sharing
+type: term
+display_name: 同床睡 (bed-sharing)
+
+full_name_en: Bed-Sharing / Co-Sleeping in the Same Bed
+full_name_zh: 同床睡 / 床共睡
+
+one_liner: |
+  父母与婴儿在同一张床上睡。AAP 任何情况下都不推荐 — 沙发同睡 SIDS 风险 67×、impaired 大人 10×、< 4 月宝宝 5-10×。
+
+detail: |
+  ## 定义
+  父母 + 婴儿同一张床睡(包括 bedside / in-bed sleeper 部分情况)。
+  对应 room-sharing(同房不同床,AAP 推荐)。
+
+  ## AAP 立场(2022 Policy)
+  - **任何情况下都不推荐**(包括双胞胎)
+  - 推荐替代方案:room-sharing(crib 在床边伸手可及)
+  - bedside / in-bed sleeper:证据不足,AAP 不表态
+
+  ## 风险倍数(AAP 2022 数字)
+  - 沙发 / 扶手椅 / 软椅:**SIDS 死亡 67×**
+  - impaired 大人(酒 / 药 / 累)与宝宝同床:**10×**
+  - < 4 月宝宝同床:**5-10×**
+  - 早产 / 低体重儿同床:**2-5×**
+  - 抽烟者与宝宝同床:特别高(具体数字未量化)
+
+  ## 中文家长视角(立场对立 Karp)
+  - 中国传统育儿"母婴同床"很普遍
+  - Karp 给"10 步安全 bed-sharing"立场(C-S1-028 controversy)
+  - AAP 立场更刚硬:不推荐
+  - 后期整合时需要 conflicts.md 澄清两派立场
+
+  ## 实操替代:room-sharing(C-S1-037)
+  - crib / bassinet 放卧室,伸手可及
+  - 至少 6 月,最好 1 年
+  - 降 SIDS 50%
+
+key_facts:
+  - AAP 任何情况下都不推荐
+  - 沙发同睡 SIDS 67× 风险
+  - 与 Karp 立场对立(controversy)
+  - 替代:room-sharing 降 SIDS 50%
+
+related_glossary:
+  - G-ABBR-SIDS
+  - G-ABBR-AAP
+  - G-TERM-room-sharing
+  - G-TERM-back-sleep
+  - G-PERSON-Karp
+
+related_cards:
+  - C-S1-028     # Karp 共同入睡 10 步(立场对立)
+  - C-S1-037     # AAP 同房不同床到 6 月,降 SIDS 50%
+
+sources:
+  - source_id: SRC-004
+  - external: AAP 2022 SIDS Policy
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

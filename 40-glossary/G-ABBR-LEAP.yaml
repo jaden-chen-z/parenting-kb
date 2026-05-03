@@ -1,0 +1,71 @@
+glossary_id: G-ABBR-LEAP
+type: abbreviation
+display_name: LEAP
+
+full_name_en: Learning Early About Peanut Allergy
+full_name_zh: 早期接触花生研究
+
+one_liner: |
+  2015 年 NEJM 发表的随机对照试验,证明 4-11 月起每周给 6g+ 花生酱,5 岁时花生过敏率比对照组低 81%。
+  推翻了"推迟引入花生预防过敏"的老建议,改写了一代育儿指南。
+
+detail: |
+  ## 研究背景
+  2000-2015 年期间,西方建议"推迟引入易过敏食物到 1-3 岁",理由是免疫系统需成熟。
+  但同期儿童花生过敏率从 0.5% 升到 2%(20 年翻 4 倍)。
+  以色列儿童 4 月起就吃 Bamba(花生小食),花生过敏率仅西方 1/10。
+  → 假设:"早接触反而预防过敏"。
+
+  ## 研究设计
+  - 2008-2014 年在英国进行,640 名 4-11 月有湿疹 / 蛋过敏(高风险)的婴儿
+  - 随机分组:
+    - **介入组**:每周 ≥ 6g 花生酱(分多次)
+    - **对照组**:5 岁前避免一切花生
+  - 60 月时测过敏率
+
+  ## 结果
+  - 对照组 5 岁花生过敏率:**13.7%**
+  - 介入组 5 岁花生过敏率:**1.9%**
+  - **相对风险降低 81%**(p < 0.001)
+  - 已经对花生敏感的(skin test +)介入组也降 70%
+
+  ## 后续影响
+  - 2015 年 Du Toit G et al. 在 NEJM 发表(372:803-813)
+  - 2017 年美国 NIH / NIAID 发布新指南:**4-6 月就引入花生**
+  - 2019-2022 年 AAP 全面采纳:Starting Solid Foods + BLW 文章都加入"4-6 月引入易过敏食物"立场
+  - 一代育儿建议被推翻
+
+  ## 现行 AAP 立场
+  - 4-6 月起辅食时,引入 8 类易过敏食物(蛋 / 奶 / 大豆 / 花生酱 / 鱼 / 小麦 / 树坚果 / 贝类)
+  - 形态必须软泥酱状(整粒花生 = 窒息死亡)
+  - 高风险家族(已知严重过敏)先咨询医生
+
+  ## 中文家长常见误区
+  - 老观念"花生 / 蛋 / 鱼推迟到 1-3 岁"已过时
+  - "宝宝小不能吃发物"= 文化偏见,无医学依据
+  - 推迟反而害了一代人的过敏率
+
+key_facts:
+  - 2015 年 NEJM 发表
+  - 640 名高风险婴儿 RCT
+  - 介入 = 每周 ≥ 6g 花生酱
+  - 5 岁过敏率降 81%
+  - 推翻"推迟预防过敏"老建议
+
+related_glossary:
+  - G-ABBR-AAP
+  - G-ABBR-NEJM
+  - G-ABBR-RCT
+
+related_cards:
+  - C-S3-002     # AAP 过敏食物 4-6 月就引入
+  - C-S1-030     # Karp 牛奶蛋白可能元凶
+
+sources:
+  - source_id: SRC-006
+  - external: Du Toit G et al. "Randomized Trial of Peanut Consumption in Infants at Risk for Peanut Allergy." NEJM 2015;372:803-813 / NIH-NIAID Addendum 2017
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

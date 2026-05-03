@@ -1,0 +1,57 @@
+glossary_id: G-TERM-peekaboo
+type: term
+display_name: peekaboo (躲猫猫)
+
+full_name_en: Peekaboo
+full_name_zh: 躲猫猫
+
+one_liner: |
+  全球各文化通用的"藏脸 → 露脸"游戏,是教婴儿物体永久性的最佳认知发展工具。
+
+detail: |
+  ## 定义
+  大人用手 / 布 / 物体把脸或宝宝的脸藏起,然后突然露出说"peekaboo!"(躲猫猫!)的游戏。
+  全球各文化都有(中文"躲猫猫" / 英文 peekaboo / 日语 いない いない ばあ),证明这是普世认知发展工具。
+
+  ## 为什么这个游戏重要
+  Peekaboo 是教婴儿**物体永久性**(object permanence)的最佳工具:
+  - 8 月前:看不见 = 不存在,不会找
+  - 8-10 月:看不见但可能存在(开始掀布找)
+  - 10 月+:确信存在(藏起还会持续找)
+
+  通过反复"消失 → 出现",宝宝学会"东西不见不等于消失"— 这是分离焦虑的认知基础(C-S4-003 / C-S5-004)。
+
+  ## AAP 推荐 4 玩法
+  1. **布盖头**:把软布盖到宝宝头上,问"宝宝在哪?",让他自己拉开
+  2. **抬腿挡脸**:换尿布时把宝宝双腿抬起挡住你的脸,然后放下喊"peekaboo!"
+  3. **躲家具后**:躲门后 / 沙发后,故意露出脚 / 手做线索,让他来找
+  4. **互相蒙巾**:你和宝宝轮流拉毛巾盖头再开
+
+  ## 怎么玩才有效
+  - 8 月起开始(认知刚萌芽时最有趣)
+  - 每天几次,每次 1-2 分钟(注意力短)
+  - 不强求,看反应,玩开心了就停
+  - 变化花样保持新鲜感
+
+key_facts:
+  - 全球各文化通用游戏
+  - 8 月起最有效
+  - 教物体永久性的最佳工具
+  - AAP 推荐 4 玩法
+
+related_glossary:
+  - G-ABBR-AAP
+  - G-TERM-object-permanence
+  - G-PERSON-Piaget
+
+related_cards:
+  - C-S4-003     # 物体永久性 8-10 月,peekaboo 教
+
+sources:
+  - source_id: SRC-007
+  - external: AAP Cognitive Development 8-12 Months / 综合发展心理学
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

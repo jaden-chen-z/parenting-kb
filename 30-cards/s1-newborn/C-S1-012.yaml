@@ -8,9 +8,12 @@ front:
 
 back:
   why_matters: |
-    Karp 明确说:出生头几个月,宝宝根本感受不到妈妈的焦虑。
+    很多妈妈自责"我焦虑害得宝宝哭得更凶"——
+    这是母婴店、长辈、传统文化最爱说的话。
+    Karp 在第 4 章明确反驳:出生头几个月,宝宝根本感受不到妈妈的焦虑。
     "婴儿只是婴儿,可不是生下来就会读心术的。"
-    宝宝手颤、下颌抖动是神经发育不完全的正常现象,3 月后会自动消失。
+    宝宝手颤、下颌抖动是神经发育不完全的正常现象,
+    3 月后自动消失,与妈妈情绪无关。
   what_to_do:
     - 别因为情绪低落就觉得"我让宝宝哭得更凶"
     - 焦虑会间接影响下奶/耐心 → 找原因(吃饱/休息/求助)
@@ -20,6 +23,10 @@ back:
     把宝宝哭归因"我太焦虑" → 自责加重,陷恶性循环。
     强迫"假装平静" → 错过休息和求助的机会。
   evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Karp
+  - G-TERM-postpartum-depression
 
 citation:
   book_title_en: "The Happiest Baby on the Block: The New Way to Calm Crying and Help Your Newborn Baby Sleep Longer"
@@ -39,8 +46,9 @@ related_cards:
   - C-S2-002      # 撑过峰非失败
   - C-S1-008      # 心跳加速是天然反射
   - C-S1-011      # 胀气非元凶(都是误解纠正)
+  - C-S1-033      # 产后抑郁
 
 language: zh
 status: draft
 created: 2026-05-01
-updated: 2026-05-01
+updated: 2026-05-02

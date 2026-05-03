@@ -1,0 +1,49 @@
+glossary_id: G-ABBR-NEJM
+type: abbreviation
+display_name: NEJM
+
+full_name_en: New England Journal of Medicine
+full_name_zh: 《新英格兰医学杂志》
+
+one_liner: |
+  全球医学顶刊(IF ~158,2026),1812 年创刊。在本知识库中,LEAP(C-S3-002 / G-ABBR-LEAP)的 2015 年论文就发在这里。
+
+detail: |
+  ## 期刊概况
+  - 1812 年创刊(全球最早医学期刊之一)
+  - 出版方:Massachusetts Medical Society
+  - Impact Factor ~158(2026)— 全球医学期刊最高
+  - 周刊,每年 ~200 篇原创研究
+
+  ## 在本知识库中
+  - **LEAP 研究**(2015):Du Toit G et al. "Randomized Trial of Peanut Consumption in Infants at Risk for Peanut Allergy." NEJM 2015;372:803-813
+  - 证明 4-11 月起每周给 6g+ 花生酱,5 岁时花生过敏率比对照组低 81%
+  - 推翻"推迟引入花生预防过敏"的老建议
+  - 2017 年 NIH-NIAID 因此发布新指南
+  - 2019-2022 年 AAP 全面采纳
+
+  ## 育儿相关 NEJM 经典研究
+  - LEAP 2015(花生过敏)
+  - DRACMA 2010(牛奶蛋白过敏诊治指南)
+  - 多项 SIDS 流行病学论文
+
+key_facts:
+  - 1812 年创刊,全球医学最早期刊之一
+  - Impact Factor ~158(全球最高)
+  - LEAP 2015 论文颠覆性改写过敏建议
+
+related_glossary:
+  - G-ABBR-LEAP
+  - G-ABBR-RCT
+  - G-ABBR-AAP
+
+related_cards:
+  - C-S3-002     # AAP 过敏食物 4-6 月就引入(LEAP 立场)
+
+sources:
+  - external: NEJM 官网 nejm.org / Wikipedia
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

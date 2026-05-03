@@ -8,18 +8,28 @@ front:
 
 back:
   why_matters: |
-    包裹本身止不了哭,但是 5S 的基石——它锁住手臂,
-    让宝宝不会被自己的莫罗反射(惊跳)干扰其他 4 招。
+    包裹(swaddle)= 用薄布把宝宝紧裹成蚕蛹状,模拟子宫感,是 5S 第一招。
+    其本身止不了哭,但是 5S 的基石——锁住手臂,
+    让宝宝不会被自己的莫罗反射(惊跳反射)干扰其他 4 招。
     松散等于没包,他一挣就破功。
+    髋部要松(蛙腿位),否则可能导致 DDH(髋发育不良,可能终身影响)。
   what_to_do:
     - 双臂垂直贴身侧,不弯肘
     - 用大方巾,每一步都拉紧再压下一步
-    - 髋部和膝盖留弯曲空间(防髋发育不良)
+    - 髋部和膝盖留弯曲空间(防 DDH)
     - 用到 4 个月或宝宝开始翻身就停
   failure_mode: |
     上松下紧或包成"卷饼" → 一挣就开。
-    髋部包太直 → 增加髋发育不良风险(Karp 没充分提)。
+    髋部包太直 → DDH 风险(Karp 没充分提)。
   evidence_level: B
+
+glossary_refs:
+  - G-TERM-swaddle
+  - G-TERM-five-s
+  - G-TERM-Moro-reflex
+  - G-PERSON-Karp
+  - G-ABBR-DDH
+  - G-TERM-frog-leg-position
 
 citation:
   book_title_en: "The Happiest Baby on the Block: The New Way to Calm Crying and Help Your Newborn Baby Sleep Longer"
@@ -40,8 +50,9 @@ related_cards:
   - C-S1-009      # 5S 必须组合
   - C-S1-014      # 包裹 6 误解
   - C-S1-015      # 包裹 5 错误
+  - C-S1-038      # AAP 包裹不防 SIDS
 
 language: zh
 status: draft
 created: 2026-05-01
-updated: 2026-05-01
+updated: 2026-05-02

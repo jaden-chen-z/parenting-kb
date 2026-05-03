@@ -1,0 +1,79 @@
+glossary_id: G-PERSON-Spitz
+type: person
+display_name: Spitz
+
+full_name_en: René Árpád Spitz
+full_name_zh: 勒内·施皮茨
+
+one_liner: |
+  奥地利-美国精神分析师 (1887-1974),最早系统研究**孤儿院婴儿(机构剥夺)**的人。
+  提出"八月焦虑"和"依附性抑郁"(anaclitic depression),但其依恋发展理论被 Bowlby 反驳,认为他错把"陌生人焦虑"当作"真正客体关系"的开始。
+
+detail: |
+  ## 个人背景
+  - 1887 年生于维也纳,1928 年精神分析训练完成
+  - 1939 年移民美国(逃离纳粹)
+  - 1962 起科罗拉多大学精神分析教授
+  - 1974 年去世
+
+  ## 核心贡献(影响 + 局限)
+
+  ### 1. 孤儿院婴儿研究(1940s)
+  Spitz 首次拍摄记录**机构内婴儿的发育灾难**:
+  - 营养充足、医疗照顾良好的孤儿院婴儿
+  - 但缺乏个人化照料(护士换人多 / 不抱不哄 / 无情感互动)
+  - 结果:发育迟滞、情感淡漠、有些早夭
+  - **创造"hospitalism"(医院综合征)概念**
+  - 后被 Bowlby 1951 WHO 报告引用,推动现代孤儿院改革
+
+  ### 2. "依附性抑郁"(Anaclitic Depression, 1946)
+  6-12 月婴儿如果突然失去主要照顾人(住院 / 母亲离开 / 寄养转换):
+  - 抗议 → 绝望 → 退缩
+  - 这成为 Bowlby 1960 论文《分离焦虑》的前身
+  - **Bowlby 三阶段(抗议-绝望-超脱)在 Vol 2《分离》中正式提出**
+
+  ### 3. "八月焦虑"(Eight-Month Anxiety, 1965)
+  Spitz 名言:"婴儿在 8 月大时首次出现陌生人焦虑,这是真正客体关系的开始"。
+
+  **Bowlby 反驳**(Vol 1 第 15 章):
+  - Spitz 错误假定恐惧只能来自"曾经的不愉快经历"
+  - 实际**陌生人本身就是恐惧来源**(进化保留的生存机制)
+  - **婴儿区分熟悉 vs 陌生的能力远早于 8 月**(气味/嗓音 几天,面孔 14 周)
+  - 陌生人焦虑 ≠ 分离焦虑(两套不同行为系统)
+  - 8 月大不是"真客体关系开始",最多是"陌生人焦虑达到识别水平"
+
+  ## 影响
+  - 推动孤儿院 / 寄养改革(20 世纪中期重大公共健康成就)
+  - 但其理论框架被 Bowlby + Ainsworth 系统性更新
+  - **当代不再使用"八月焦虑"作为依恋开始的标志**(用 Strange Situation 4 类型替代)
+
+  ## 在本知识库中
+  - C-S4-068(8 月怕陌生人)直接反驳 Spitz 的"焦虑期"误读
+  - C-S6-070(被打的孩子有特殊创伤模式)间接呼应 Spitz 机构剥夺研究
+
+key_facts:
+  - 奥地利-美国精神分析师(1887-1974)
+  - 首次系统研究孤儿院婴儿发育灾难
+  - 依附性抑郁概念提出者(Bowlby 三阶段前身)
+  - 八月焦虑概念提出者(被 Bowlby 反驳)
+  - 推动 20 世纪中期孤儿院 / 寄养改革
+
+related_glossary:
+  - G-PERSON-Bowlby
+  - G-PERSON-Ainsworth
+  - G-TERM-attachment
+  - G-TERM-stranger-anxiety
+  - G-TERM-separation-anxiety
+
+related_cards:
+  - C-S4-068     # 8 月怕陌生人 = 依恋形成证据(反驳 Spitz)
+  - C-S6-070     # 被打的孩子有特殊创伤模式(机构剥夺呼应)
+
+sources:
+  - source_id: SRC-011
+  - external: "Spitz R (1965) The First Year of Life / Spitz (1946) Anaclitic Depression / Bowlby Vol 1 第 15 章反驳"
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

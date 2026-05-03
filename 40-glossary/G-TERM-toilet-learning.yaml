@@ -1,0 +1,69 @@
+glossary_id: G-TERM-toilet-learning
+type: term
+display_name: 厕所学习 (toilet learning)
+
+full_name_en: Toilet Learning (vs Toilet Training)
+full_name_zh: 厕所学习(反对训练教条)
+
+one_liner: |
+  Brazelton 反对"toilet training"提法,主张"toilet learning"——孩子主导,父母只示范。强烈反对 18 月强制训练或"出生就训"等早教教条。
+
+detail: |
+  ## Brazelton 立场原话
+  > "我们这个社会对推早厕所训练的焦虑严重过头。我甚至不喜欢'toilet training'这个说法 — 应该叫'toilet learning'。"
+
+  ## 反对的训练方式
+  - **"elimination communication"**(出生就训):只对全职在家头一年管用,娃 1 岁后会反抗
+  - **18 月 / 20 月强制训练**:孩子还在 negativism 顶峰,不可能成功
+  - **强迫坐马桶等成功**:几乎必导致憋便、便秘、肛裂
+  - **学校"2.5 岁前必须学会"政策**:找尊重孩子节奏的学校
+
+  ## Brazelton 8 步法的核心 = 让孩子主导
+  1. 给他**他的**小便盆(贴他的名字)
+  2. 几周后,**穿着衣服**坐在便盆上,跟你坐你的同步
+  3. 再几周,问他能不能脱掉尿布(不能强迫)
+  4. 把脏尿布放到便盆里 → 让他理解"产物属于这里"
+  5-8. 让他自己决定下一步,完全不施压
+
+  ## 准备好的 5 个信号(同时具备)
+  - 跨过 18 月 negativism 高峰
+  - 走路稳了不再痴迷走
+  - 模仿父母行为强烈
+  - 能听懂 2-3 步指令
+  - 开始喜欢"把东西放回原处"
+
+  通常出现在 24 月以后。
+
+  ## 男孩特殊建议
+  - 先坐着学,再让爸爸示范站姿
+  - 避免一开始就玩水柱
+
+  ## 憋便陷阱(constipation cycle)
+  Brazelton 认为几乎全是被父母焦虑制造出来的。任何阶段抗拒立刻退回尿布,**不施压不羞辱**。
+
+  ## 夜训
+  完全等他主动 — 通常 3-5 岁,白天干了 4-6 小时才考虑。
+
+key_facts:
+  - 反对"training",主张"learning"
+  - 反对 elimination communication
+  - 反对 18-20 月强制训练
+  - 8 步法 = 孩子主导
+  - 准备 5 信号通常 24 月后
+  - 男孩先坐着学
+
+related_glossary:
+  - G-PERSON-Brazelton
+  - G-TERM-negativism
+  - G-TERM-autonomy
+
+related_cards:
+  - C-S7-018
+
+sources:
+  - source_id: SRC-010
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

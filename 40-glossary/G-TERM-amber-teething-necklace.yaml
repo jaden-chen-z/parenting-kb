@@ -1,0 +1,67 @@
+glossary_id: G-TERM-amber-teething-necklace
+type: term
+display_name: 琥珀牙链 (amber teething necklace)
+
+full_name_en: Amber Teething Necklace
+full_name_zh: 琥珀牙链
+
+one_liner: |
+  声称体温让琥珀释放止痛物质的婴儿牙链。FDA 2018 警告 + 18 月勒颈死亡案例 + 完全无科学证据。AAP:婴儿不戴任何首饰。
+
+detail: |
+  ## 简介
+  欧美 2010 年代起流行的"出牙缓解"产品。声称体温会让琥珀释放微量"琥珀酸"(succinic acid)进入血液,达到止痛效果。
+  类似产品还有木 / 大理石 / 硅胶牙链。
+
+  ## 致死案例
+  - **2018 年 12 月 FDA 官方警告**
+  - 18 月婴儿因琥珀牙链睡眠中**勒颈死亡**
+  - 多起"珠子断裂宝宝噎住"案例
+  - AAP 明确立场:**不推荐婴儿佩戴任何首饰**(jewelry of any kind)
+
+  ## 为什么完全无科学证据
+  - 体温(37°C)远不足以让固态琥珀释放任何化学物质(琥珀熔点 200°C+)
+  - "琥珀酸"被皮肤吸收量微乎其微
+  - 整合医学专家 Dr. Andrew Weil:"不被现代科学支持"
+  - 没有任何同行评议研究证明有效
+
+  ## 危险机制
+  - **Strangulation**(勒颈):睡眠时绳带缠脖
+  - **Choking**(窒息):珠子断裂被噎住
+  - 婴儿窒息是 1 岁内主要死因,1-4 岁前 5 大死因之一
+
+  ## 安全替代(AAP 推荐)
+  - 塑料 / 橡胶咬胶
+  - **湿冰毛巾**(不冰冻 — 太硬反伤牙龈)
+  - 牙龈按摩(用干净手指)
+  - 必要时 acetaminophen(扑热息痛)— 医生指导剂量
+  - **避**:benzocaine 凝胶 / homeopathic teething tablets / 任何牙链
+
+  ## 中国市场注意
+  国内电商仍有大量琥珀 / "蜜蜡"牙链销售,营销话术夸张。
+  无论叫"琥珀"还是"蜜蜡",FDA / AAP 立场都是不推荐。
+
+key_facts:
+  - FDA 2018 官方警告
+  - 18 月勒颈死亡案例
+  - AAP:婴儿不戴任何首饰
+  - 无任何科学证据有效
+  - 国内"蜜蜡"同类产品
+
+related_glossary:
+  - G-ABBR-AAP
+  - G-ABBR-FDA
+  - G-TERM-benzocaine
+
+related_cards:
+  - C-S3-013     # 琥珀牙链禁,teething gel 也禁
+  - C-S3-012     # 出牙 4-7 月,> 38.3°C 不是出牙
+
+sources:
+  - source_id: SRC-007
+  - external: FDA Safety Communication 2018-12 / AAP Teething Necklaces and Beads
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

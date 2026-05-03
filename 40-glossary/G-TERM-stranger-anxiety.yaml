@@ -1,0 +1,61 @@
+glossary_id: G-TERM-stranger-anxiety
+type: term
+display_name: 陌生人焦虑 (stranger anxiety)
+
+full_name_en: Stranger Anxiety
+full_name_zh: 陌生人焦虑
+
+one_liner: |
+  婴儿 ~8 月起对陌生人产生紧张 / 退缩 / 哭闹的发展阶段。是健康认知里程碑,不是性格问题。
+
+detail: |
+  ## 定义
+  婴儿对不熟悉的人产生紧张反应:躲进父母怀里、哭闹、转头不看、拒绝被抱。
+  AAP 直接说:"即使是亲戚和常见保姆在靠得太近时也会躲藏或哭泣" — 这是正常发展信号。
+
+  ## 时机
+  - **8 月起**:出现(与物体永久性同期)
+  - **10-12 月**:可能加强
+  - **18-24 月**:逐渐消退(与分离焦虑同步)
+
+  ## 为什么这是健康发展
+  陌生人焦虑表示宝宝的认知发展到能"分类人":熟悉 vs 陌生。
+  对未知谨慎是生存本能(进化保留下来的保护机制)。
+  不是性格弱 / 不亲老人 / 性格问题。
+
+  ## 怎么应对(AAP 建议)
+  - 让陌生人保持距离,让宝宝主动接近
+  - 老人 / 保姆见面前先视频"预热"(熟悉脸和声音)
+  - 陌生人不直接抱,先和父母聊熟,宝宝看着
+  - 不强迫宝宝跟陌生人(强迫加重焦虑 + 损伤安全感)
+  - 给时间和耐心,几个月内自然过渡
+
+  ## 与分离焦虑的区别
+  - **陌生人焦虑**:对"新面孔"的反应(8 月起)
+  - **分离焦虑**:对主要养育人离开的反应(10-18 月峰值)
+  - 两者认知基础都是物体永久性 + 健康依恋
+
+key_facts:
+  - ~8 月起出现
+  - 是健康认知里程碑(不是性格问题)
+  - 18-24 月自然消退
+  - 不强迫,让宝宝主动接近
+
+related_glossary:
+  - G-ABBR-AAP
+  - G-TERM-separation-anxiety
+  - G-TERM-attachment
+  - G-TERM-object-permanence
+
+related_cards:
+  - C-S4-004     # 陌生人焦虑 ~8 月,健康发展
+  - C-S5-004     # 分离焦虑
+
+sources:
+  - source_id: SRC-007
+  - external: AAP Emotional and Social Development 8-12 Months
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

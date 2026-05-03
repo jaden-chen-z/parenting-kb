@@ -1,0 +1,76 @@
+glossary_id: G-PERSON-Field
+type: person
+display_name: Field
+
+full_name_en: Tiffany Field
+full_name_zh: 蒂芙尼·菲尔德
+
+one_liner: |
+  美国心理学家,迈阿密大学米勒医学院 Touch Research Institute(触摸研究所)创始主任。
+  1986 早产儿按摩 RCT 是 Karp 引用的关键研究——每天 3×15 分钟按摩,10 天后体重 +47%,智商一年后高出对照组。
+
+detail: |
+  ## 个人背景
+  - 美国心理学家,1942 年生
+  - 迈阿密大学米勒医学院 Touch Research Institute(触摸研究所)创始主任
+  - 婴儿按摩研究领域开创人之一
+  - APA(美国心理学会)杰出贡献奖获得者
+
+  ## 主要贡献
+
+  ### 1. 1986 早产儿按摩 RCT ⭐(Karp 引用)
+  - 设计:让护士给一组早产儿按摩,每天 3 次,每次 15 分钟,连续 10 天
+  - **结果**:
+    - 体重比对照组多增 **47%**
+    - 提前 1 周出院
+    - 1 年后智商比对照组高出显著
+  - 这是首个证明"婴儿按摩有客观医学效益"的 RCT
+  - 被儿科界广泛引用,改变了 NICU(新生儿重症监护室)实践
+
+  ### 2. Touch Research Institute(触摸研究所)
+  - 1992 年创立,迈阿密大学
+  - 专门研究"触摸对人类各阶段的影响"(从早产儿到老年人)
+  - 累计发表 100+ 篇研究
+
+  ### 3. 后续婴儿按摩研究
+  - 健康足月婴儿按摩:减少哭闹、提高警觉性、应激激素降低
+  - 母亲产后抑郁干预:每天给宝宝按摩 → 妈妈抑郁评分下降
+  - 推广"双向受益":按摩既助宝宝,也助父母
+
+  ## 在 Karp 体系中的位置
+  - Karp 把 Field 的研究作为**5S 之外辅助安抚的循证依据**
+  - C-S1-032 卡(按摩 / 热水浴 = 5S 辅助)直接引用
+  - 这是 Karp 33 张卡里少数有 RCT 直接背书的论点
+
+  ## 学术评价
+  - 1986 RCT 至今仍被引用为婴儿按摩奠基性研究
+  - 后续 Cochrane 综述部分支持(早产儿按摩 B 级证据)
+  - 健康足月婴儿按摩益处证据较弱(C 级)
+
+  ## 在中文家长视角
+  - 中国传统也有婴儿抚触习俗(月嫂、爷爷奶奶常做)
+  - 现代版"婴儿按摩"在国内母婴店流行,但科学性参差不齐
+  - 关键:进食后 1 小时,温暖房间,从足部到全身,顺时针腹部 + 自行车蹬腿
+
+key_facts:
+  - 迈阿密大学心理学家
+  - Touch Research Institute 创始人
+  - 1986 早产儿按摩 +47% 体重 RCT
+  - 婴儿按摩研究开创人
+  - APA 杰出贡献奖
+
+related_glossary:
+  - G-PERSON-Karp
+  - G-TERM-five-s
+
+related_cards:
+  - C-S1-032     # 按摩 / 热水浴 = 5S 辅助
+
+sources:
+  - source_id: SRC-003           # Karp 引用
+  - external: 迈阿密大学 Touch Research Institute 官网 / Wikipedia / 综合儿科文献
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

@@ -1,0 +1,74 @@
+glossary_id: G-TERM-negativism
+type: term
+display_name: 负向期 (negativism)
+
+full_name_en: Negativism / Negativistic Phase
+full_name_zh: 负向期
+
+one_liner: |
+  18 月-2 岁孩子狂说 "No!" 的发展阶段。Brazelton 观点:这是健康的自主萌发,不是叛逆。"没有强烈负向期的孩子可能变成被动 + 内心矛盾"。
+
+detail: |
+  ## 定义
+  Negativism 指 18 月-2 岁幼儿对几乎一切提议的本能反对反应——"不要!" "No!" "我自己!"
+  Brazelton 把它列为**touchpoint 之一**,是自主性(autonomy)发展的标志事件,而非"管教问题"。
+
+  ## Brazelton 的反主流立场
+  > "没有经历强烈负向期的孩子,日后可能变成被动型,内心带着未解决的矛盾。"
+
+  - 说 "No" 是孩子第一次用语言**划定自我边界**
+  - 是 "我" 这个概念在认知层面的**首次外化**
+  - 抑制它 = 抑制自主性 = 抑制完整人格的形成
+
+  ## 行为表现
+  - 对所有问题先说 "不",哪怕是想要的东西
+  - 拒绝穿衣 / 吃饭 / 离家 / 进门
+  - 一边说 "不" 一边做你建议的事(自主性的滑稽体现)
+  - 经常伴随 tantrum 共同出现
+
+  ## 应对原则(Brazelton 流派)
+  - **不当作权力斗争**:不和"不"较劲
+  - **给假选择**:"穿红的还是蓝的?"——绕开 yes/no 框架
+  - **接住情绪、坚持框架**:边界不让步,语气不对抗
+  - **欣赏它**:这是孩子在说"我是一个人"
+
+  ## 与 autonomy 的关系
+  - Negativism 是 autonomy(自主性)的同一硬币两面
+  - 自主性 = 想自己做的内在动力
+  - Negativism = 外部世界推不动我的外在表现
+  - Erikson 的 autonomy vs. shame and doubt 阶段对应
+
+  ## 在本知识库中
+  - C-S1-080 早期个性信号
+  - C-S5-022 9-12 月雏形
+  - C-S6-022 / C-S6-026 18 月典型期
+  - C-S7-017 / C-S7-018 / C-S7-019 2-3 岁延伸
+
+key_facts:
+  - 18 月-2 岁普遍发展阶段
+  - Brazelton:健康标志而非问题
+  - 没有强烈 negativism 的孩子可能变被动
+  - 是 "我" 的首次语言外化
+  - 与 tantrum 共同标记自我形成
+
+related_glossary:
+  - G-PERSON-Brazelton
+  - G-TERM-autonomy
+  - G-TERM-tantrum
+
+related_cards:
+  - C-S1-080
+  - C-S5-022
+  - C-S6-022
+  - C-S6-026
+  - C-S7-017
+  - C-S7-018
+  - C-S7-019
+
+sources:
+  - source_id: SRC-010
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

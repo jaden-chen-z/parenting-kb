@@ -1,0 +1,70 @@
+glossary_id: G-ABBR-PURPLE
+type: abbreviation
+display_name: PURPLE
+
+full_name_en: "Period of PURPLE Crying (Peak / Unexpected / Resists soothing / Pain-like face / Long-lasting / Evening)"
+full_name_zh: PURPLE 哭闹周期(6 字母对应 6 个特征)
+
+one_liner: |
+  美国 NCSBS(摇晃婴儿综合征预防中心)推广的概念,描述新生儿 2 周-3 月的"正常哭闹高峰期"。6 字母对应 6 个特征,旨在让父母接受"哭多不是父母失败"。
+
+detail: |
+  ## PURPLE 6 字母对应
+  - **P** — **Peak** of Crying:哭闹高峰在 2 月龄(2-4 月退)
+  - **U** — **Unexpected**:突然开始,突然停止,无明显原因
+  - **R** — **Resists soothing**:试什么方法都安抚不下来
+  - **P** — **Pain-like face**:看起来像疼,实际不是疼
+  - **L** — **Long-lasting**:每次可持续 30-40 分钟,每天总计可达 5 小时
+  - **E** — **Evening**:傍晚特别多发(俗称"witching hour")
+
+  ## 起源
+  - 概念由加拿大儿科医生 Ronald Barr 提出(2000s)
+  - 美国 National Center on Shaken Baby Syndrome(NCSBS)2008 年起推广
+  - 与 Karp 的"PURPLE 哭闹"概念关联
+
+  ## 核心信息
+  - 新生儿哭多是正常发展阶段,不是父母失败
+  - 高峰在 6-8 周(每天 ~3 小时)
+  - 3-4 月自然退
+  - 撑过去 = 关键(防 SBS)
+
+  ## PURPLE vs Colic 区别
+  - **PURPLE**:描述所有新生儿都经历的哭闹高峰(普适)
+  - **Colic**:特指哭闹严重的少数(Wessel 3-3 规则:每天 ≥ 3h × 每周 ≥ 3 天 × ≥ 3 周)
+  - 两者部分重叠
+
+  ## 防 SBS 的关键宣教
+  PURPLE 推广目的:让父母明白哭多不是失败 → 减少崩溃 → 减少 SBS 发生。
+  对应 AAP 救命协议(C-S1-049):崩溃放下宝宝离开 10-15 分钟。
+
+  ## 中文家长视角
+  - 国内对 PURPLE 概念知晓率低
+  - "宝宝总哭"通常被归因为奶不足 / 胀气 / 妈妈焦虑
+  - 实际可能就是正常 PURPLE 阶段
+
+key_facts:
+  - 6 字母对应 6 特征
+  - 高峰 2 月龄(每天 ~3 小时)
+  - 3-4 月自然退
+  - 主要目的:防 SBS
+  - 与 colic 部分重叠
+
+related_glossary:
+  - G-ABBR-SBS
+  - G-PERSON-Wessel
+  - G-PERSON-Karp
+
+related_cards:
+  - C-S2-001     # Karp 哭闹峰:6 周达峰,3 月回落
+  - C-S2-002     # Karp 撑过哭闹峰非父母失败
+  - C-S2-004     # AAP Colic 是神经敏感
+
+sources:
+  - source_id: SRC-003
+  - source_id: SRC-005
+  - external: National Center on Shaken Baby Syndrome (NCSBS) / Ronald Barr 研究
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

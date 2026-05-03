@@ -8,9 +8,12 @@ front:
 
 back:
   why_matters: |
-    宝宝天生需要频繁吸吮,远超喂养所需的次数。
-    这种吸吮不是为了奶,是为了激活镇静反射 + 释放安抚激素。
-    一天可能上百次,母乳建立期妈妈乳头就是最好的"奶嘴"。
+    吸吮(suck)是 5S 第五招(Karp 称"蛋糕上的糖霜")。
+    宝宝天生需要频繁吸吮,远超喂养所需——
+    这种"非营养性吸吮"不是为奶,
+    而是为了激活镇静反射 + 释放安抚激素。
+    一天可能上百次。母乳建立期妈妈乳头就是最好的"奶嘴",
+    但也可以用安抚奶嘴(注意时机,见 022 卡)。
   what_to_do:
     - 把"宝宝吸吮 ≠ 饿了"区分清楚
     - 5S 完成后给奶嘴/手指作"糖霜"(收尾激活反射)
@@ -20,6 +23,12 @@ back:
     觉得吸吮 = 饿 → 频繁喂奶,过度喂养 / 反流加重。
     强行夺奶嘴/手指 → 错过最好的收尾安抚。
   evidence_level: B
+
+glossary_refs:
+  - G-TERM-five-s
+  - G-PERSON-Karp
+  - G-TERM-calming-reflex
+  - G-TERM-cuddle-cure
 
 citation:
   book_title_en: "The Happiest Baby on the Block: The New Way to Calm Crying and Help Your Newborn Baby Sleep Longer"
@@ -43,4 +52,4 @@ related_cards:
 language: zh
 status: draft
 created: 2026-05-01
-updated: 2026-05-01
+updated: 2026-05-02

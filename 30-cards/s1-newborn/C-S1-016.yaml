@@ -8,9 +8,13 @@ front:
 
 back:
   why_matters: |
-    趴睡和侧睡都会增加 SIDS(婴儿猝死综合征)风险。
-    严格仰睡后,美国 SIDS 死亡数从每年 6000 降到 3500。
-    侧抱只用于清醒时安抚,绝对不能让宝宝侧/趴入睡。
+    SIDS(婴儿猝死综合征)= 1 岁内婴儿睡眠中无明显原因猝死,
+    美国年约 3500 例,1 岁内主要死因之一,2-4 月最高发。
+    趴睡 / 侧睡都会显著增加 SIDS 风险(约 6× 风险)。
+    1992 年 AAP 推 "Back to Sleep" 运动后,
+    美国 SIDS 死亡数从每年 6000 降到 3500(降 ~40%)。
+    Karp 的"侧抱"是 5S 之一,只用于清醒时安抚——
+    **绝对不能让宝宝侧 / 趴入睡**。
   what_to_do:
     - 清醒时可以侧抱/趴抱(安抚效果好)
     - 入睡 100% 仰躺,无松散卧具,无枕头
@@ -20,6 +24,13 @@ back:
     侧抱有效 → 夜里也让他侧/趴睡 → SIDS 风险翻倍。
     用枕头/卷布固定姿势 → 反而增加窒息风险。
   evidence_level: A
+
+glossary_refs:
+  - G-ABBR-SIDS
+  - G-PERSON-Karp
+  - G-TERM-five-s
+  - G-TERM-back-sleep
+  - G-ABBR-AAP
 
 citation:
   book_title_en: "The Happiest Baby on the Block: The New Way to Calm Crying and Help Your Newborn Baby Sleep Longer"
@@ -38,9 +49,10 @@ unit_ids: []
 related_cards:
   - C-S1-009      # 5S 必须组合
   - C-S1-020      # 摇晃 vs SBS
-  - C-S1-026      # [第三部分] 包裹睡眠 SIDS 预防
+  - C-S1-026      # 别强逼宝宝白天不睡
+  - C-S1-027      # 包裹 + 白噪音延长睡眠
 
 language: zh
 status: draft
 created: 2026-05-01
-updated: 2026-05-01
+updated: 2026-05-02

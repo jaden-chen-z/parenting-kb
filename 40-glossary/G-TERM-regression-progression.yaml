@@ -1,0 +1,65 @@
+glossary_id: G-TERM-regression-progression
+type: term
+display_name: 退步即前进 (regression-progression)
+
+full_name_en: Regression as Precursor to Progression
+full_name_zh: 退步是前进的前奏
+
+one_liner: |
+  Brazelton 触点理论的核心机制:发展跃进前必有暂时性的行为退步(吃睡乱、夜醒、易哭闹),这是大脑重组的健康信号,不是问题。
+
+detail: |
+  ## 定义
+  在 Brazelton Touchpoints 模型中,**每条发展线**(运动 / 认知 / 情绪 / 语言)在重大跃进前会出现可预测的"行为崩盘期"。
+
+  原文(Introduction):
+  > "Just before a surge of rapid growth in any line of development, for a short time, the child's behavior seems to fall apart… disorganization an inevitable precursor for reorganization at a new and more complex level."
+
+  ## 机制
+  1. 旧的稳态被打破(disorganization)
+  2. 大脑重新连接神经元(brain reorganization)
+  3. 新的更复杂能力上线(new complex level)
+
+  ## 典型例子
+  - 学步前夜醒增多(浅睡比例上升,大脑在浅睡中刷题步态)
+  - 4 月喂奶分心(认知爆发期,视力第一次能聚焦远距离)
+  - 9 月吃睡情绪同时倒退(站 + 爬 + 物体永久性同时上线的整体瓦解)
+  - 18 月狂说 No(自主意志觉醒)
+  - 2 岁假装游戏 + 性别认同 + 模仿同步爆发
+
+  ## 父母最常见误解
+  - 把退步当倒退("以前那么乖,现在被谁带坏了")
+  - 把退步当问题去管教(强行训练 / 加奶粉 / 送医)
+  - 错过把退步理解为"窗口期"的视角
+
+  ## 临床应用
+  - 儿科医生在触点前与父母会面,预告退步即将到来
+  - 父母减少焦虑、停止控制斗争
+  - 反而能识别真正的发展异常(持续超 2-4 周不缓解 → 需评估)
+
+key_facts:
+  - Brazelton Touchpoints 核心机制
+  - 13 个触点都有预可预测的退步窗口
+  - 大脑 reorganization 的外在表现
+  - 父母焦虑高峰 = 退步窗口
+  - 误读为问题 → 强化退步成习惯
+
+related_glossary:
+  - G-TERM-touchpoint
+  - G-PERSON-Brazelton
+  - G-TERM-strengths-based
+  - G-TERM-developmental-spurt
+
+related_cards:
+  - C-S1-086
+  - C-S3-027
+  - C-S5-020
+  - C-S7-022
+
+sources:
+  - source_id: SRC-010
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

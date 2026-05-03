@@ -1,0 +1,57 @@
+glossary_id: G-ABBR-MMR
+type: abbreviation
+display_name: MMR
+
+full_name_en: Measles, Mumps, Rubella vaccine
+full_name_zh: 麻腮风三联疫苗
+
+one_liner: |
+  防护麻疹 / 腮腺炎 / 风疹的经典三联疫苗。AAP 推荐 12-15 月打第 1 剂,4-6 岁打第 2 剂。"MMR 致自闭症"网传是 1998 年伪造研究,已被独立否定。
+
+detail: |
+  ## 三联疫苗简介
+  - **Measles**(麻疹)— 高传染性病毒,可致脑炎 / 失明 / 死亡
+  - **Mumps**(腮腺炎)— 腮腺肿胀,可致脑膜炎 / 男性不育
+  - **Rubella**(风疹)— 母亲怀孕时感染可致胎儿严重缺陷
+
+  1971 年合并三联,1980s 起广泛接种。
+
+  ## AAP 时间表
+  - **12-15 月**:第 1 剂(MMR 1)
+  - **4-6 岁**:第 2 剂(MMR 2)
+  - 单剂效力 ~93%,两剂 97%
+
+  ## 麻疹消除与反弹
+  - 2000 年美国宣布麻疹消除(本土传播零例)
+  - 2014 起因不打疫苗反弹
+  - **2025 年美国多州爆发**,部分死亡案例
+  - 群体免疫需要 ≥ 95% 接种率
+
+  ## "MMR 致自闭症"误解
+  - 1998 年 Wakefield 等 12 例小研究宣称关联
+  - 2010 年 Lancet **正式撤回**该论文(数据伪造)
+  - Wakefield 医师执照被吊销
+  - 后续 1.5+ 亿样本独立研究**反复否定**关联
+  - 2025 年仍是最持久的疫苗谣言
+
+key_facts:
+  - 12-15 月第 1 剂 / 4-6 岁第 2 剂
+  - 两剂效力 97%
+  - 麻疹 2000 年宣布消除,2014 起反弹
+  - "致自闭症"是已撤回的伪造研究
+
+related_glossary:
+  - G-ABBR-AAP
+
+related_cards:
+  - C-S1-064     # 0-12 月疫苗时间表
+  - C-S5-007     # 12 月疫苗
+
+sources:
+  - source_id: SRC-008
+  - external: AAP Vaccine Schedule / CDC MMR / 2010 Lancet retraction
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

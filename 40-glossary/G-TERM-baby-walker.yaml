@@ -1,0 +1,54 @@
+glossary_id: G-TERM-baby-walker
+type: term
+display_name: 学步车 (baby walker)
+
+full_name_en: Baby Walker
+full_name_zh: 学步车
+
+one_liner: |
+  让 6-12 月婴儿坐在带轮架子里"走"的器具。AAP 强烈反对 — 不帮反而推迟走路 + 楼梯翻倒事故每年数千件急诊。
+
+detail: |
+  ## 定义
+  带轮架子 + 中间有座椅,让还不会独走的婴儿(6-12 月)坐着用脚蹬地"走"。
+  中文家庭传统认为是"练走路"的工具。
+
+  ## AAP 立场
+  原话:"The American Academy of Pediatrics strongly urges parents not to use baby walkers."
+
+  AAP 反对的 3 个原因:
+  1. **不帮反而推迟正常走路**:走路靠平衡 + 重心感建立,学步车给宝宝错误的"我能动"假象,反而抑制神经协调发展
+  2. **楼梯翻倒事故**:美国每年数千件急诊(滚下楼梯 + 撞家具 + 坠落)
+  3. **错误重心感**:坐在车里时重心比真站立靠后,神经记忆错的姿势
+
+  ## 历史
+  - 1990 年代美国学步车事故年均 ~25000 件急诊
+  - 2010 年起部分国家(加拿大)立法禁售
+  - 2018 年新设计"防楼梯"型号,但 AAP 仍不推荐
+
+  ## AAP 推荐替代
+  - **stationary exercise saucer**(固定不动的玩耍站,坐里面玩,不能滑动)
+  - **sturdy push toys**(真扶走的推车,宝宝自己扶 + 真用脚走)
+  - 让宝宝自然爬 + 扶站 + 扶走(都不需要工具)
+
+key_facts:
+  - AAP 强烈反对(原话 strongly urges)
+  - 美国年急诊数千件(楼梯翻倒主因)
+  - 不帮反而推迟走路
+  - 替代:stationary saucer / push toys / 自然爬扶
+
+related_glossary:
+  - G-ABBR-AAP
+  - G-TERM-cruising
+
+related_cards:
+  - C-S4-005     # 学步车 AAP 强烈反对,别买
+
+sources:
+  - source_id: SRC-007
+  - external: AAP Movement 8-12 Months / Wikipedia Baby Walker / 综合儿科常识
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

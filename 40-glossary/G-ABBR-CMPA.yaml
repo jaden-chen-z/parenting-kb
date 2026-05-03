@@ -1,0 +1,60 @@
+glossary_id: G-ABBR-CMPA
+type: abbreviation
+display_name: CMPA
+
+full_name_en: Cow Milk Protein Allergy (与 CMPI = Cow Milk Protein Intolerance 紧密相关)
+full_name_zh: 牛奶蛋白过敏(CMPI = 牛奶蛋白不耐受)
+
+one_liner: |
+  约 5% 婴儿不耐 / 过敏牛奶蛋白(配方奶 + 母乳妈妈饮食里的乳制品都可能触发)。可用深度水解配方(hydrolyzed formula)缓解。
+
+detail: |
+  ## CMPI vs CMPA 区别
+  - **CMPI**(Intolerance):非 IgE 介导,消化系统反应(吐 / 拉肚子 / 哭闹 / 血便),症状慢、轻
+  - **CMPA**(Allergy):IgE 介导,免疫系统反应(皮疹 / 荨麻疹 / 喘鸣 / anaphylaxis),症状快、重
+  - 临床上常合称,治疗策略相似
+
+  ## 流行病学
+  - 约 5% 婴儿(配方奶 + 母乳都可能)
+  - 多数 3-5 岁后耐受(自愈)
+  - 与 colic / GERD / 顽固吐奶 / 血便常重叠
+
+  ## 触发物
+  - 配方奶宝宝:配方里的牛奶蛋白
+  - 母乳宝宝:妈妈饮食里的乳制品(牛奶 / 奶酪 / 黄油 / 酸奶)+ 大豆(交叉反应)
+
+  ## 治疗
+  - 配方奶宝宝:1-2 周试 hydrolyzed(深度水解)配方;无效再试 amino acid 配方
+  - 母乳宝宝:妈妈完全去乳制品 + 大豆,试 2-4 周看效果
+  - 严重 CMPA:可能需要 EpiPen(肾上腺素注射笔)
+
+  ## AAP 立场
+  - 持续吐奶 + 不增重 / 异常烦躁 → 找医生测 CMPA
+  - 不要自行换配方 — 可能误判 + 营养风险
+
+key_facts:
+  - 约 5% 婴儿
+  - 多数 3-5 岁自愈
+  - 配方奶 + 母乳都可能触发
+  - 治疗:深度水解配方 / 妈妈去奶豆
+  - 与 colic + GERD 常重叠
+
+related_glossary:
+  - G-ABBR-GERD
+  - G-ABBR-AAP
+  - G-TERM-protein-hydrolysate-formula
+
+related_cards:
+  - C-S1-030     # Karp 牛奶蛋白可能元凶
+  - C-S1-048     # AAP 哭闹试 2 周排除母乳饮食
+  - C-S1-054     # AAP 吐奶 vs GERD vs 喷射呕(CMPI/CMPA 5%)
+
+sources:
+  - source_id: SRC-005
+  - source_id: SRC-006
+  - external: AAP HealthyChildren.org / 综合儿科消化学常识
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

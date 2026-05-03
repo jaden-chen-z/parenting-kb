@@ -1,0 +1,66 @@
+glossary_id: G-TERM-pyloric-stenosis
+type: term
+display_name: 幽门狭窄 (pyloric stenosis)
+
+full_name_en: Hypertrophic Pyloric Stenosis
+full_name_zh: 肥厚性幽门狭窄
+
+one_liner: |
+  胃出口(幽门)肌肉肥厚阻塞,典型表现是 2-8 周龄起的喷射性呕吐。需手术,但治愈率 100%。约 1-3/1000 婴儿。
+
+detail: |
+  ## 定义
+  幽门(胃和十二指肠之间的肌肉环)肥厚,阻塞胃内容物排空。
+  奶吃进去 → 卡在胃 → 喷射性呕出。
+
+  ## 流行病学
+  - 1-3 / 1000 出生婴儿
+  - 男婴 4× 女婴
+  - 长子风险高
+  - 白人 > 亚洲人 > 黑人
+
+  ## 典型表现
+  - **喷射性呕吐**(从口里"喷出来",可达 1 米远)— 与普通吐奶完全不同
+  - 用力时全身肌肉紧绷
+  - 吐后立即饿(还想吃)
+  - 起病 2-8 周龄(出生时正常)
+  - 不增重 / 体重下降
+  - 脱水 / 黄疸可能合并
+
+  ## 与 GER / GERD 区别
+  - **GER**:被动反流,小量,不痛苦
+  - **GERD**:频繁反流,影响生长
+  - **幽门狭窄**:**喷射性 + 用力 + 起病急 + 进行性加重**
+
+  ## 诊断 + 治疗
+  - 超声诊断(简单 + 无创)
+  - **幽门肌肉切开术**(pyloromyotomy)— 微创手术,治愈率 100%
+  - 术后 24-48 小时即可正常喂奶
+  - 不手术 → 脱水 / 营养不良 / 致死
+
+  ## AAP 救命警告(C-S1-054)
+  喷射性吐 + 用力 → **立刻找医生**,可能是幽门狭窄,需手术。
+  不能等 / 不能"再观察"。
+
+key_facts:
+  - 1-3 / 1000 出生婴儿
+  - 男婴 4× 女婴
+  - 起病 2-8 周龄
+  - 喷射性吐 + 用力 + 不增重
+  - 手术治愈率 100%
+
+related_glossary:
+  - G-ABBR-GERD
+  - G-ABBR-GER
+
+related_cards:
+  - C-S1-054     # AAP 吐奶 vs GERD vs 喷射呕
+
+sources:
+  - source_id: SRC-006
+  - external: 综合儿科消化外科常识 / NIH GeneReviews
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

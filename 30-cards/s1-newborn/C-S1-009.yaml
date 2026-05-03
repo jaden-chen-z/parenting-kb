@@ -8,8 +8,11 @@ front:
 
 back:
   why_matters: |
-    5S 五招分两组:包裹和侧抱让宝宝先停下乱动,
-    嘘声+摇晃+吸吮才能"按下关闭按钮"(镇静反射)。
+    5S = Karp 的新生儿安抚 5 招组合:
+    包裹 / 侧抱 / 嘘声 / 摇晃 / 吸吮(Swaddle/Side/Shush/Swing/Suck)。
+    对中重度哭闹有部分 RCT 支持(B 级),AAP 整体认可作为安抚技巧。
+    关键是"必须组合":前两招(包裹+侧抱)让宝宝先停下乱动,
+    后三招(嘘声+摇晃+吸吮)激活"镇静反射"(Karp 假设的胎儿期遗存反射)。
     少做一组,另一组也起不到效果。
   what_to_do:
     - 五招同时上,不要"先试试某一招"
@@ -20,6 +23,16 @@ back:
     只包裹或只放白噪音 → 单招激活不了反射,以为"5S 没用"。
     动作太轻、嘘声太小 → 强度不够,匹配不上哭闹烈度。
   evidence_level: B
+
+glossary_refs:
+  - G-TERM-five-s
+  - G-PERSON-Karp
+  - G-TERM-calming-reflex
+  - G-TERM-swaddle
+  - G-TERM-Moro-reflex
+  - G-TERM-cuddle-cure
+  - G-ABBR-AAP
+  - G-ABBR-RCT
 
 citation:
   book_title_en: "The Happiest Baby on the Block: The New Way to Calm Crying and Help Your Newborn Baby Sleep Longer"
@@ -43,4 +56,4 @@ related_cards:
 language: zh
 status: draft
 created: 2026-05-01
-updated: 2026-05-01
+updated: 2026-05-02

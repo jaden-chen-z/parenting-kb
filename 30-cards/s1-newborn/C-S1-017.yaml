@@ -8,9 +8,11 @@ front:
 
 back:
   why_matters: |
-    子宫里血流声大约 80-90 分贝,比真空吸尘器还响。
-    宝宝哭闹时,嘘声必须够大才能模仿子宫,激活镇静反射。
-    安静的"嘘嘘"没用——他听不到。
+    嘘声(shush)是 5S 第三招,模仿子宫白噪音激活镇静反射。
+    子宫里血流声大约 80-90 分贝(实测,比真空吸尘器还响)。
+    宝宝在子宫里 9 个月已经习惯这种声音环境。
+    所以哭闹时,嘘声必须够大才能模仿子宫,激活镇静反射——
+    安静的"嘘嘘"没用,他听不到,也激活不了反射。
   what_to_do:
     - 嘴贴宝宝耳边 5-10 厘米,大声"嘘——"
     - 音量要等于或大于他的哭声(70-80 分贝)
@@ -20,6 +22,12 @@ back:
     怕吵着宝宝小声"嘘嘘" → 强度不够,无效。
     把"安静=好"投射到新生儿 → 反而焦虑。
   evidence_level: B
+
+glossary_refs:
+  - G-TERM-five-s
+  - G-TERM-calming-reflex
+  - G-PERSON-Karp
+  - G-TERM-fourth-trimester
 
 citation:
   book_title_en: "The Happiest Baby on the Block: The New Way to Calm Crying and Help Your Newborn Baby Sleep Longer"
@@ -39,8 +47,9 @@ related_cards:
   - C-S1-002      # 子宫四感官
   - C-S1-009      # 5S 必须组合
   - C-S1-018      # 嘘声音量
+  - C-S1-027      # 包裹+白噪音延长睡眠
 
 language: zh
 status: draft
 created: 2026-05-01
-updated: 2026-05-01
+updated: 2026-05-02

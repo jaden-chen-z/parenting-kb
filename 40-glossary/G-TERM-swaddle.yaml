@@ -1,0 +1,86 @@
+glossary_id: G-TERM-swaddle
+type: term
+display_name: 包裹 (swaddle)
+
+full_name_en: Swaddling
+full_name_zh: 包裹 / 襁褓
+
+one_liner: |
+  用薄布把婴儿紧裹成蚕蛹状,模拟子宫的包裹感,帮助安抚和延长睡眠。源自全球数千年育儿传统(中文叫"打蜡烛包")。AAP 立场:想包就包,但不会降 SIDS。
+
+detail: |
+  ## 定义
+  用 receiving blanket 或专门 swaddle 产品(zip-up 拉链型 / Velcro 魔术贴型)将婴儿包成"蚕蛹状"。
+
+  典型方法:
+  - 双臂包在身体内(防 Moro 惊跳反射干扰睡眠)
+  - 髋部松松的(必须能蛙腿位)
+  - 胸口能塞 2-3 根手指
+
+  ## 历史与文化
+  - 全球各文化几千年都有类似习俗(中文"打蜡烛包" / 阿拉伯 swaddling / 美洲原住民 cradleboard)
+  - 1700-1800 年代欧洲一度反对包裹(认为限制发育)
+  - Karp 2002 年《The Happiest Baby》重新推广(5S 之一)
+  - 2010 年代 AAP 立场:"想包就包,但不会降 SIDS"
+
+  ## 益处(部分有 RCT 支持,B 级)
+  - 减少 Moro 惊跳反射造成的自我惊醒
+  - 安抚哭闹(尤其新生儿)
+  - 可能延长睡眠 1-2 小时
+  - 模拟子宫触感(第四产程概念)
+
+  ## 风险
+  - **窒息死亡**:3-4 月会翻身后还包 → 翻成趴卧 → 风险骤增
+  - **DDH(髋发育不良)**:包太紧 / 髋部固定不能蛙腿位 → 髋关节发育异常
+  - **过热**:包多层 + 室温高 → 增 SIDS 风险
+  - **不会防 SIDS**(AAP 明确反驳常见误解)
+
+  ## AAP 安全指南
+  - 包了仰睡(包+趴更危险)
+  - 髋部松,自然蛙腿位
+  - 胸口 2-3 指空隙
+  - 试图翻身立刻停包(常 3-4 月)
+  - 不用加重的包裹 / 米袋 / 沙袋
+
+  ## 中文家长注意
+  - 中国传统"打蜡烛包"通常把腿也绑直 → DDH 高风险!
+  - 现代正确包裹:髋部要松,腿能自由蛙腿
+  - 别为了"宝宝乖"包到睡到大,4 月翻身就要停
+
+key_facts:
+  - 全球数千年育儿传统
+  - Karp 5S 之一
+  - AAP:不防 SIDS
+  - 风险:DDH + 翻身后窒息
+  - 中国"打蜡烛包"传统危险(腿绑直 → DDH)
+
+related_glossary:
+  - G-PERSON-Karp
+  - G-TERM-five-s
+  - G-TERM-fourth-trimester
+  - G-TERM-frog-leg-position
+  - G-TERM-Moro-reflex
+  - G-ABBR-DDH
+  - G-ABBR-SIDS
+
+related_cards:
+  # Karp 卡(SRC-003)
+  - C-S1-002     # Karp 子宫四感官(包裹模拟子宫紧贴感)
+  - C-S1-013     # Karp 包裹必须紧 + 双臂在内
+  - C-S1-014     # Karp 包裹 6 种常见误解
+  - C-S1-015     # Karp 包裹 5 个最常见错误
+  - C-S1-023     # Karp 拥抱疗法(先包好再 5S)
+  - C-S1-027     # Karp 包裹+白噪音 = 延长睡眠
+  - C-S1-029     # Karp 5S 淡出顺序(包裹 3-6 月停)
+  # AAP 卡(SRC-004)
+  - C-S1-038     # AAP 包裹不防 SIDS
+
+sources:
+  - source_id: SRC-003           # Karp
+  - source_id: SRC-004           # AAP Safe Sleep cluster
+  - external: 全球育儿史综合 / 国际髋发育不良协会 / 综合医学常识
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

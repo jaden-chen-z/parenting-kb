@@ -8,8 +8,10 @@ front:
 
 back:
   why_matters: |
-    Karp 列了 5 个高频错误。包错不仅无效,还有窒息风险——
-    值得每次包前花 30 秒自检。
+    包裹(swaddle)是 5S 第一招,但包错不仅无效还有风险:
+    毯子盖脸窒息 / 上松下紧导致挣脱 / 髋部太紧导致 DDH(髋发育不良)。
+    Karp 在第 8 章列了 5 个高频错误,值得每次包前花 30 秒自检。
+    同时记住:**4 月会翻身后必须停包**(否则翻成趴卧 → SIDS 风险)。
   what_to_do:
     - 太松 → 每步都收紧,从距肩 90-120cm 起包
     - 手臂未垂直 → 双臂伸直贴身,不弯肘
@@ -20,6 +22,13 @@ back:
     "怕勒疼"包太松 → 一挣就开 + 毯子盖脸窒息风险。
     毯子边缘碰脸颊 → 误启动根寻反射,反而更哭。
   evidence_level: B
+
+glossary_refs:
+  - G-TERM-swaddle
+  - G-PERSON-Karp
+  - G-ABBR-DDH
+  - G-ABBR-SIDS
+  - G-TERM-rooting-reflex
 
 citation:
   book_title_en: "The Happiest Baby on the Block: The New Way to Calm Crying and Help Your Newborn Baby Sleep Longer"
@@ -39,8 +48,9 @@ related_cards:
   - C-S1-013      # 包裹关键
   - C-S1-014      # 6 误解
   - C-S1-024      # 5S 力度匹配
+  - C-S1-038      # AAP 包裹不防 SIDS
 
 language: zh
 status: draft
 created: 2026-05-01
-updated: 2026-05-01
+updated: 2026-05-02

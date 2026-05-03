@@ -1,0 +1,51 @@
+glossary_id: G-TERM-cooing
+type: term
+display_name: cooing (咿呀)
+
+full_name_en: Cooing
+full_name_zh: 咿呀 / 咕咕声
+
+one_liner: |
+  婴儿 2-4 月起发出的元音音节 ("ooo" "aahh"),是语言发展的第一个非哭闹声音里程碑。
+
+detail: |
+  ## 定义
+  婴儿 2-4 月起,会发出 "ooo"、"aahh"、"goo" 等元音类音节 — 这是语言发展从"只会哭"到"主动发声"的关键转折。
+  顺序:cooing(咿呀,2-4 月)→ babbling(咿呀+辅音,如 "ba ba ba",6 月起)→ first words(第一个有意义词,~12 月)。
+
+  ## AAP 节奏(2-12 月语言里程碑)
+  - **2 月**:发声(非哭闹)+ 听响声反应
+  - **4 月**:cooing("ooo aahh")+ 回应大人说话 + 听声转头
+  - **6-8 月**:babbling 出现可识别音节(ba/da/ga/ma)
+  - **12 月**:第一个有意义词 ~2-3 个常见
+
+  ## 父母怎么应对
+  - 重复宝宝的声音(双向对话教学,AAP 推荐)
+  - 一边洗澡 / 喂 / 换尿布边描述发生什么
+  - 不强求,也不全部纠正(婴语本身是练习)
+
+  ## 红旗
+  - 4 月仍完全无 cooing → 找医生(可能听力 / 神经发育问题)
+
+key_facts:
+  - 2-4 月起出现
+  - 元音音节为主("ooo aahh")
+  - 是 cooing → babbling → first words 阶梯第一步
+  - 4 月仍无 cooing → 找医生
+
+related_glossary:
+  - G-ABBR-AAP
+  - G-TERM-attachment
+
+related_cards:
+  - C-S2-007     # 2-4 月里程碑全维度
+  - C-S5-003     # 第一个真词 ~1 岁
+
+sources:
+  - source_id: SRC-007
+  - external: AAP Developmental Milestones / 综合发展心理学
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

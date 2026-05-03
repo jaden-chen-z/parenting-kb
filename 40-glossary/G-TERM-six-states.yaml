@@ -1,0 +1,62 @@
+glossary_id: G-TERM-six-states
+type: term
+display_name: 婴儿六种意识状态 (six states)
+
+full_name_en: Six States of Consciousness
+full_name_zh: 婴儿意识六状态分类
+
+one_liner: |
+  Brazelton 把新生儿意识分为深睡/浅睡/瞌睡/安静警觉/烦躁/哭闹 6 种状态,父母识别这些状态及其切换是理解宝宝的"操作手册"。
+
+detail: |
+  ## 6 种状态定义
+
+  1. **深睡 (Deep Sleep)**:不动 / 不易唤醒 / 呼吸深而规律
+  2. **浅睡 (Light Sleep / REM)**:眼皮跳动 / 偶尔肢体抽动 / 易醒 / 呼吸不规律
+  3. **瞌睡 (Drowsy)**:介于醒和睡之间 / 眼睑半开半闭
+  4. **安静警觉 (Quiet Alert)**:**互动黄金窗口** — 眼神聚焦 / 全身平静 / 呼吸规律 / 主动观察环境
+  5. **烦躁 (Fussy / Active Alert)**:开始扭动 / 肢体活跃 / 呼吸加快 / 即将哭闹的预警
+  6. **哭闹 (Crying)**:持续大哭 / 无法被互动
+
+  ## 关键启示
+  - **安静警觉**是和宝宝交流的黄金窗口,通常一天只有几次,每次几分钟
+  - 父母学会识别"烦躁"前期可在崩溃前介入
+  - 不要在哭闹状态硬塞奶,效果差且强化负面联结
+  - 状态切换速度因个体而异(慢切换 vs 快切换)
+
+  ## 在 NBAS 中的位置
+  状态切换能力是 NBAS 评估的重要项,差的状态控制能力提示神经系统不成熟或受刺激。
+
+  ## 临床应用
+  - 父母用状态分类理解"为什么宝宝有时反应有时不反应"
+  - 选择喂奶 / 互动 / 安抚的正确时机
+  - 高敏婴儿的状态切换更剧烈,需更细心识别
+
+  ## 在本知识库中
+  - C-S1-073(新生儿是独立的人) 提到状态分类
+  - C-S1-074(习惯化) 涉及深睡时的屏蔽能力
+
+key_facts:
+  - Brazelton 标志性框架
+  - 安静警觉 = 互动黄金窗口
+  - NBAS 评估核心项
+  - 取代"睡-吃-哭"三档简化
+  - 高敏婴儿状态切换更剧烈
+
+related_glossary:
+  - G-PERSON-Brazelton
+  - G-ABBR-NBAS
+  - G-TERM-quiet-alert
+  - G-TERM-habituation
+
+related_cards:
+  - C-S1-073
+  - C-S1-074
+
+sources:
+  - source_id: SRC-010
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

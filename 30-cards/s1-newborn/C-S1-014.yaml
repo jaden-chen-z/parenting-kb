@@ -8,18 +8,26 @@ front:
 
 back:
   why_matters: |
-    Karp 列了父母不敢包的 6 个理由,逐条反驳。
+    包裹(swaddle)是 5S 第一招,模拟子宫感安抚新生儿。
+    但中国家长常受老一辈影响,对包裹有 6 个常见误解,
+    导致犹豫不敢用。
+    Karp 在《卡普新生儿安抚法》第 8 章逐条反驳,
     这些误解会让你在最有效的工具面前犹豫,错过安抚窗口。
   what_to_do:
-    - "原始?" → 进食和睡眠也原始,有效就用
-    - "他不舒服?" → 他挣扎是因为含不到手指
-    - "禁闭感?" → 新生儿主动渴望被裹住
-    - "惯坏?" → 4 个月后自然不需要,临时工具
-    - "妨碍吮指/认识世界?" → 减手干扰反而专注
+    - '"原始?" → 进食和睡眠也原始,有效就用'
+    - '"他不舒服?" → 他挣扎是因为含不到手指'
+    - '"禁闭感?" → 新生儿主动渴望被裹住'
+    - '"惯坏?" → 4 个月后自然不需要,临时工具'
+    - '"妨碍吮指/认识世界?" → 减手干扰反而专注'
   failure_mode: |
     把成年人的"自由偏好"投射到新生儿 → 不敢包。
     用"大宝/朋友家不爱包"否定 → 没试就放弃。
   evidence_level: C
+
+glossary_refs:
+  - G-TERM-swaddle
+  - G-TERM-five-s
+  - G-PERSON-Karp
 
 citation:
   book_title_en: "The Happiest Baby on the Block: The New Way to Calm Crying and Help Your Newborn Baby Sleep Longer"
@@ -43,4 +51,4 @@ related_cards:
 language: zh
 status: draft
 created: 2026-05-01
-updated: 2026-05-01
+updated: 2026-05-02

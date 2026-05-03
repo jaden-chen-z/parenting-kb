@@ -1,0 +1,56 @@
+glossary_id: G-ABBR-AAP
+type: abbreviation
+display_name: AAP
+
+full_name_en: American Academy of Pediatrics
+full_name_zh: 美国儿科学会
+
+one_liner: |
+  美国儿科医生专业组织 + Tier 1 权威机构,67000+ 会员。其 healthychildren.org portal 是全球 0-21 岁循证育儿建议的主流来源。
+
+detail: |
+  ## 组织概况
+  - 1930 年成立,总部 Itasca, Illinois(芝加哥郊区)
+  - 67000+ 会员(主要美国儿科医生)
+  - 每年发布 Policy Statements、Clinical Reports、Technical Reports
+
+  ## 主要产品(本知识库引用)
+  - **healthychildren.org**:面向父母的循证育儿网站(Tier 1,Phase 2 主源)
+  - **Bright Futures**:0-21 岁标准化儿保指南
+  - **Pediatrics 期刊**:全球儿科顶刊
+  - **Policy Statements**:任务组(如 Task Force on SIDS)发布的权威立场
+
+  ## 关键 Policy 时间线
+  - 1992 Back to Sleep(SIDS 预防奠基)
+  - 2011 / 2016 / 2022 SIDS Safe Sleep Policy(逐步加强)
+  - 2017 起接受 LEAP 立场(早引入易过敏食物)
+  - 2022 强化 bed-sharing 反对立场 + 引用 2021 CPSC rule
+
+  ## 在本知识库中
+  - SRC-004 / SRC-005 / SRC-006 都是 AAP healthychildren.org 文章
+  - 37 张 AAP 卡几乎都引此机构
+
+key_facts:
+  - 1930 年成立,67000+ 会员
+  - healthychildren.org 是 Tier 1 portal
+  - 1992 Back to Sleep 奠基现代 SIDS 预防
+  - 2022 SIDS Policy 是当前最新
+
+related_glossary:
+  - G-ABBR-CDC
+  - G-ABBR-WHO
+  - G-ABBR-CPSC
+  - G-ABBR-SIDS
+
+related_cards:
+  - C-S1-034     # AAP 仰睡每次都要
+  - C-S1-038     # AAP 包裹不防 SIDS
+  - C-S3-002     # AAP LEAP 立场
+
+sources:
+  - external: AAP 官网 healthychildren.org / Wikipedia / 综合医学机构常识
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

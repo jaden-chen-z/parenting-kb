@@ -1,0 +1,67 @@
+glossary_id: G-TERM-parentese
+type: term
+display_name: 父母语 (parentese / motherese)
+
+full_name_zh: 父母语 / 母语
+full_name_en: Parentese / Motherese / Infant-Directed Speech (IDS)
+
+one_liner: |
+  父母对婴儿说话的全球共有语调模式:声调高、语速慢、句子短、词重复、停顿长。
+  研究表明这种说话方式最匹配婴儿大脑听觉处理频段,是语言习得加速器。
+
+detail: |
+  ## 定义
+  父母对 0-3 岁婴幼儿说话时,自然出现的特殊语言模式 — 不是逗弄性"婴儿语"(baby-talk gibberish),而是结构化的语调强化。
+
+  ## 5 大特征(全球文化共性)
+  - **音调高**(基频 +50%)— 适配婴儿听觉敏感频段
+  - **语速慢**(50% 正常语速)— 留出认知处理时间
+  - **句子短**(3-5 词)— 减少处理负担
+  - **词汇重复**("宝宝/妈妈/娃娃")— 强化记忆
+  - **停顿长**(句间 1-2 秒)— 留出回应机会
+
+  ## 神经科学背景
+  - 婴儿耳蜗对 200-1000 Hz 高频最敏感(妈妈语调 ~250 Hz vs 爸爸 ~120 Hz)
+  - fMRI 显示婴儿听 parentese 时左脑语言区激活 > 听成人对话
+  - 14 月龄前 parentese 越多 → 24 月龄词汇量越大(Ramirez-Esparza 2014)
+
+  ## 鲍秀兰强调
+  - "全世界的父母和小婴儿说话似乎都用相似的方法" — 跨文化共性
+  - "妈妈语声 vs 爸爸语声,婴儿更喜欢妈妈"(高频更适配)
+  - 是"建立母婴关系" + "促进语言加工" 的双重工具
+
+  ## 不要混淆
+  - **Parentese ≠ baby-talk gibberish**
+    - Parentese:正确语法 + 简化结构(✓ 推荐)
+    - Baby-talk:故意发错音 / 编造词("饭饭""瓶瓶")(过度使用伤标准发音)
+  - 现代立场:用 parentese 语调,但发音和语法保持标准
+
+  ## 中文家长注意
+  - 用 parentese 语调:升调 / 慢速 / 重复 / 停顿
+  - 但不要长期用"宝宝叠词"代替正常词("吃饭饭"→ "吃饭")
+  - 1 岁后逐渐过渡到正常语速 + 标准词汇
+
+key_facts:
+  - 全球文化共性的婴儿对话模式
+  - 5 特征:高音调/慢/短/重复/停顿
+  - 加速 0-3 岁词汇量发展
+  - 妈妈语调更适配婴儿(高频)
+  - 与 baby-talk gibberish 不同
+
+related_glossary:
+  - G-PERSON-Bao
+  - G-TERM-turn-taking
+  - G-TERM-cooing
+
+related_cards:
+  - C-S2-012     # 跟宝宝说话 5 共性
+  - C-S2-013     # 母婴交谈链
+
+sources:
+  - source_id: SRC-009           # 鲍秀兰
+  - external: Fernald 1985 / Ramirez-Esparza 2014 / Kuhl 2007 等发展心理学综合
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

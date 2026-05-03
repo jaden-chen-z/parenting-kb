@@ -1,0 +1,65 @@
+glossary_id: G-TERM-back-sleep
+type: term
+display_name: 仰睡 (back sleep)
+
+full_name_en: Back Sleep / Supine Sleep Position
+full_name_zh: 仰睡 / 仰卧位睡眠
+
+one_liner: |
+  AAP 1992 年起推的 "Back to Sleep" 运动核心 — 每次入睡都仰躺。美国 SIDS 死亡数因此从 6000/年 降到 3500/年(降 ~40%)。
+
+detail: |
+  ## 定义
+  婴儿入睡时的体位:背朝下,脸朝上(supine position)。
+  对应趴睡(prone)+ 侧睡(side)。
+
+  ## 历史
+  - 1970-1990 年代:西方育儿主流是"趴睡防呛奶"(假设)
+  - 1991 年荷兰发起 "Sleep Safe" 运动 → 2 年 SIDS 死亡数降 40%
+  - 1992 年 AAP 跟进发起 "Back to Sleep" 运动
+  - 美国 SIDS 死亡数 1992 ~6000/年 → 2000 ~3500/年(降 ~40%)
+  - 2011 年 AAP 改名 "Safe to Sleep"(扩展到更广建议)
+
+  ## 为什么仰睡安全
+  - 上呼吸道开放性更好
+  - 婴儿 airway 解剖 + gag reflex 会防呛奶(包括 GERD 宝宝)
+  - 趴睡 / 侧睡 → CO2 重吸入 + 闷热风险
+  - 趴睡 SIDS 风险 6×
+
+  ## AAP 现立场(2022)
+  - 每次入睡都仰躺(白天 nap + 夜睡)
+  - 1 岁内强制
+  - 唯一例外:已能自主双向翻身(背→趴、趴→背),可让保持自然睡姿
+  - 即使 GERD 宝宝也仰睡
+
+  ## 中文家长常见误区
+  - "我家宝宝喜欢趴睡才睡得好" — 不是理由,SIDS 风险翻倍
+  - "侧睡防呛奶" — AAP 反驳:airway 解剖会防,侧睡反而易翻趴
+  - "用枕头 / 卷布固定" — 增窒息风险
+
+key_facts:
+  - 1992 AAP "Back to Sleep" 运动起点
+  - 美国 SIDS 死亡数因此降 ~40%
+  - 趴睡 SIDS 风险 6×
+  - 即使 GERD 宝宝也仰睡
+  - 已能双向翻身后可保持自然睡姿
+
+related_glossary:
+  - G-ABBR-SIDS
+  - G-ABBR-AAP
+  - G-ABBR-GERD
+  - G-TERM-bed-sharing
+  - G-TERM-tummy-time
+
+related_cards:
+  - C-S1-016     # Karp 侧抱只能安抚,睡觉禁止
+  - C-S1-034     # AAP 仰睡每次都要 — 包括 GERD
+
+sources:
+  - source_id: SRC-004
+  - external: AAP 1992 Back to Sleep campaign / Wikipedia / CDC
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

@@ -1,0 +1,61 @@
+glossary_id: G-TERM-pincer-grasp
+type: term
+display_name: pincer grasp (拇食指对捏)
+
+full_name_en: Pincer Grasp
+full_name_zh: 拇食指对捏 / 钳形抓握
+
+one_liner: |
+  婴儿 9 月起用拇指和食指对捏小颗粒物体的精细动作里程碑。pincer 后必须立刻清空地板小物件防窒息。
+
+detail: |
+  ## 定义
+  用拇指和食指像钳子一样捏起小物体的能力(一粒葡萄干 / 米粒 / 小积木)。
+  这是精细动作发展的关键里程碑,标志手指肌肉和神经协调进入新阶段。
+
+  ## 抓握进化阶梯(AAP 节奏)
+  - **3-4 月**:大手抓 + 把物体送到嘴边
+  - **4-7 月**:claw / raking grip(爪状,整只手扒)
+  - **6-8 月**:hand-to-hand transfer(双手互传物体)
+  - **9 月**:**pincer grasp**(拇食指对捏)
+  - **12 月**:精细 pincer(能捏更小颗粒)
+
+  ## 安全:pincer 后必须清地板
+  9 月起宝宝能捏起 < 1 cm 的小物 — 所有这类物件必须从地板移除,否则会塞嘴 = **窒息高危**。
+  典型危险物:
+  - 纽扣 / 硬币 / 电池(尤其纽扣电池!)
+  - 小积木 / 小玩具零件
+  - 药片 / 维生素颗粒
+  - 葡萄 / 蓝莓(整粒不能给)
+  - 糖纸碎 / 气球碎
+
+  ## 怎么帮助宝宝练
+  - 给训练玩具:布书 / 软球 / finger holds 摇铃 / 大颗粒积木
+  - 让他自己抓食物(BLW 风格,但形状要安全)
+  - 不喂"喂手"(让他自己用手吃)
+
+  ## 红旗
+  - 9-10 月仍只 claw 抓,完全不会 pincer → 找医生评估精细动作
+
+key_facts:
+  - 9 月起出现
+  - 拇食指对捏小颗粒
+  - pincer 后立刻清地板小物(防窒息)
+  - 9-10 月仍不会 → 找医生
+
+related_glossary:
+  - G-ABBR-AAP
+  - G-TERM-tripod-sit
+
+related_cards:
+  - C-S3-011     # 抓握:claw → 9 月 pincer
+  - C-S3-004     # 1 岁内 11 类 choking 食物清单
+
+sources:
+  - source_id: SRC-007
+  - external: AAP Movement Milestones 4-7 Months
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

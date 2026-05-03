@@ -1,0 +1,61 @@
+glossary_id: G-ABBR-RCT
+type: abbreviation
+display_name: RCT
+
+full_name_en: Randomized Controlled Trial
+full_name_zh: 随机对照试验
+
+one_liner: |
+  循证医学最高证据等级。把人随机分组(干预 vs 对照)→ 测结果差异。"随机"消除选择偏倚,"对照"控制混杂,因此因果推断最可靠。
+
+detail: |
+  ## 设计核心
+  - **随机分组**:把研究对象随机分到干预组 vs 对照组
+  - **对照**:对照组接受现有标准 / 安慰剂 / 不干预
+  - **盲法**:研究者 / 受试者不知分组(双盲),减少偏倚
+  - **结果测量**:预设主要终点(如 LEAP = "5 岁花生过敏率")
+  - **统计**:计算干预组 vs 对照组差异的统计显著性(p < 0.05)
+
+  ## 证据等级金字塔(由高到低)
+  1. **系统综述 + meta-analysis**(整合多个 RCT)
+  2. **RCT**(单个高质量随机对照试验)
+  3. 队列研究(cohort,无随机)
+  4. 病例对照研究(case-control)
+  5. 病例报告 / 专家意见(最低)
+
+  ## 育儿领域经典 RCT
+  - **LEAP 2015**:早期接触花生 vs 推迟,5 岁过敏率降 81%
+  - **DRACMA 2010**:CMPA 诊治
+  - **Back to Sleep 自然实验**(非 RCT,但因果显著):仰睡推广 → SIDS 死亡降 40%
+
+  ## 育儿领域 RCT 难点
+  - 伦理(很多干预不能随机,如不能让一组孩子被虐待)
+  - 长周期(LEAP 跟踪 5 年)
+  - 大样本(食物过敏只 8% 婴儿)
+  - 高成本
+
+  ## 在本知识库
+  - LEAP 是 RCT 的代表(C-S3-002 / G-ABBR-LEAP)
+  - Karp 的 5S 法有部分 RCT 支撑(B 级证据)
+  - AAP 多数立场基于 RCT + 系统综述
+
+key_facts:
+  - 循证医学最高证据等级
+  - 随机分组 + 对照 + 盲法
+  - 育儿 RCT 难做(伦理 + 长周期 + 大样本)
+  - LEAP 是育儿 RCT 经典
+
+related_glossary:
+  - G-ABBR-NEJM
+  - G-ABBR-LEAP
+
+related_cards:
+  - C-S3-002     # AAP 过敏食物 4-6 月就引入(LEAP RCT 立场)
+
+sources:
+  - external: 综合循证医学常识 / Cochrane Handbook
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

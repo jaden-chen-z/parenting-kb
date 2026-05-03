@@ -1,0 +1,194 @@
+# Glossary · 知识库共享术语表
+# 用途:卡片 yaml 的 `glossary` 字段从此处复制需要的项作为自包含注释
+# 维护:每加新术语,先在主词典登记;卡片 glossary 块直接引用
+# Phase:2(2026-05-02 创建)
+
+# === 缩写(英文 → 全称 + 中文)===
+abbreviations:
+  AAP:
+    en_full: American Academy of Pediatrics
+    zh: 美国儿科学会
+    note: Tier 1 权威机构,健康儿童 portal healthychildren.org
+  CDC:
+    en_full: Centers for Disease Control and Prevention
+    zh: 美国疾控中心
+  CPSC:
+    en_full: Consumer Product Safety Commission
+    zh: 美国消费品安全委员会
+    note: 婴儿床、bassinet、玩具的强制性安全标准制定者
+  FDA:
+    en_full: Food and Drug Administration
+    zh: 美国食品药品监督管理局
+  WHO:
+    en_full: World Health Organization
+    zh: 世界卫生组织
+  NEJM:
+    en_full: New England Journal of Medicine
+    zh: 《新英格兰医学杂志》
+    note: 全球医学顶刊
+
+  # === 病症 / 综合征 ===
+  SIDS:
+    en_full: Sudden Infant Death Syndrome
+    zh: 婴儿猝死综合征
+    note: 1 岁内婴儿无明显原因突然死亡,睡眠相关,2022 AAP Policy 给完整预防建议
+  SBS:
+    en_full: Shaken Baby Syndrome
+    zh: 摇晃婴儿综合征
+    note: 用力摇晃婴儿造成的脑出血/视网膜出血,可能终身脑损伤或死亡
+  AHT:
+    en_full: Abusive Head Trauma
+    zh: 虐待性头部创伤
+    note: SBS 的现代医学术语
+  GERD:
+    en_full: Gastroesophageal Reflux Disease
+    zh: 胃食管反流病
+    note: 病理性反流(影响生长 / 出血 / 哭闹严重)
+  GER:
+    en_full: Gastroesophageal Reflux
+    zh: 胃食管反流
+    note: 生理性反流(无病字),正常婴儿都有,自然成熟会好
+  CMPI:
+    en_full: Cow Milk Protein Intolerance
+    zh: 牛奶蛋白不耐受
+  CMPA:
+    en_full: Cow Milk Protein Allergy
+    zh: 牛奶蛋白过敏
+    note: 约 5% 婴儿,可用深度水解配方(hydrolyzed formula)缓解
+  DDH:
+    en_full: Developmental Dysplasia of the Hip
+    zh: 髋关节发育不良
+    note: 包裹太紧、髋部固定可能导致的婴儿髋关节脱位/发育异常,可能终身影响
+
+  # === 喂养 / 育儿方法 ===
+  BLW:
+    en_full: Baby-Led Weaning
+    zh: 宝宝主导自主进食
+    note: 6 月起让宝宝自喂家庭餐(finger food),AAP 不偏 BLW 也不偏勺喂
+  LEAP:
+    en_full: Learning Early About Peanut Allergy
+    zh: 早期接触花生研究
+    note: 2015 NEJM 关键 RCT,证明 4-11 月起每周给 6g+ 花生酱,5 岁时花生过敏率比对照组低 81%
+  PURPLE:
+    en_full: "Period of PURPLE Crying (Peak / Unexpected / Resists / Pain-like / Long-lasting / Evening)"
+    zh: PURPLE 哭闹周期
+    note: NCSBS(美国摇晃婴儿综合征预防中心)推广的概念,描述 2-12 周哭闹高峰特征
+
+  # === 睡眠 ===
+  REM:
+    en_full: Rapid Eye Movement
+    zh: 快速眼动睡眠(active sleep)
+  NREM:
+    en_full: Non-Rapid Eye Movement
+    zh: 非快速眼动睡眠(quiet sleep)
+
+  # === 剂量 / 单位 ===
+  IU:
+    en_full: International Unit
+    zh: 国际单位(剂量单位)
+  mcg:
+    en_full: microgram
+    zh: 微克
+  mg:
+    en_full: milligram
+    zh: 毫克
+  oz:
+    en_full: ounce
+    zh: 盎司
+    note: 1 oz ≈ 28.35 g(重量)或 ≈ 29.57 ml(液体)
+  lb:
+    en_full: pound
+    zh: 磅
+    note: 1 lb ≈ 0.454 kg
+  ml:
+    en_full: milliliter
+    zh: 毫升
+
+  # === 育儿流派 ===
+  RIE:
+    en_full: Resources for Infant Educarers
+    zh: RIE 育儿法
+    note: 尊重婴儿能力的流派(Magda Gerber 创立,源自 Pikler 法)
+
+
+# === 人名(姓 → 全名 + 身份)===
+people:
+  Karp:
+    full_name: Harvey Karp
+    role_zh: 美国儿科医生,《The Happiest Baby on the Block / 卡普新生儿安抚法》作者(5S 法 + 第四产程概念)
+  Brazelton:
+    full_name: T. Berry Brazelton
+    role_zh: 美国儿科医生,新生儿行为评估量表(NBAS)创始人,Touchpoints 育儿法作者
+  Wessel:
+    full_name: Morris A. Wessel
+    role_zh: 美国儿科医生,1954 年首次系统定义肠绞痛"3-3 规则"(每天哭 ≥3h × 每周 ≥3 天 × ≥3 周)
+  Illingworth:
+    full_name: Ronald S. Illingworth
+    role_zh: 英国儿科医生,1954 年 X 光研究证伪"胀气是哭闹元凶"
+  Field:
+    full_name: Tiffany Field
+    role_zh: 美国心理学家,1986 年起婴儿按摩研究开创人
+  Pikler:
+    full_name: Emmi Pikler
+    role_zh: 匈牙利儿科医生,Pikler 育儿法(尊重运动发展)创始人
+  Piaget:
+    full_name: Jean Piaget
+    role_zh: 瑞士心理学家,认知发展阶段理论奠基人
+  Gerber:
+    full_name: Magda Gerber
+    role_zh: 匈牙利出生美国教育家,RIE 育儿法创始人
+
+
+# === 专有名词(英 → 中文 + 解释)===
+terms:
+  hindmilk:
+    zh: 后奶
+    explanation: 一次哺乳后段的母乳,脂肪含量高
+  foremilk:
+    zh: 前奶
+    explanation: 一次哺乳前段的母乳,水分高、脂肪低
+  colostrum:
+    zh: 初乳
+    explanation: 产后头几天分泌的浓稠乳汁,免疫物质极丰富
+  swaddle:
+    zh: 包裹
+    explanation: 用薄布把婴儿紧裹成蚕蛹状,模拟子宫包裹感
+  rooting reflex:
+    zh: 寻乳反射
+    explanation: 触碰宝宝脸颊,他会转头寻找乳头的本能(0-4 月)
+  Moro reflex:
+    zh: 惊跳反射
+    explanation: 突然失去支撑或听到响声时,宝宝双臂外展再收回的本能(0-4 月)
+  pyloric stenosis:
+    zh: 幽门狭窄
+    explanation: 胃出口肌肉肥厚阻塞,典型表现是喷射性呕吐(2-8 周龄起,需手术)
+  hair tourniquet syndrome:
+    zh: 头发止血带综合征
+    explanation: 头发或细线缠绕婴儿手指/脚趾,可能切断血流甚至坏死
+  fourth trimester:
+    zh: 第四产程
+    explanation: Karp 提出的概念,出生后头 3 月仍是孕期延续(子宫外适应期)
+  five S's / 5S:
+    zh: 5S 安抚法
+    explanation: Karp 的 5 招:Swaddle 包裹 / Side 侧抱 / Shush 嘘声 / Swing 摇晃 / Suck 吸吮
+  responsive feeding:
+    zh: 回应式喂养
+    explanation: 根据宝宝饥饿/饱腹信号决定是否喂,不按时间表
+  cry-it-out:
+    zh: 哭着入睡训练法
+    explanation: 让婴儿独自哭一段时间自己学会入睡的睡眠训练流派(4-6 月后才适用)
+  baby bottle tooth decay:
+    zh: 奶瓶蛀牙
+    explanation: 长期含奶瓶睡(尤其睡前)导致牙齿浸在糖中产生的早期儿童龋齿
+  protein hydrolysate formula / hydrolyzed formula:
+    zh: 深度水解配方
+    explanation: 牛奶蛋白被酶解为短肽的低致敏配方,用于 CMPA 宝宝
+  oatmeal cereal:
+    zh: 燕麦米粉
+    explanation: AAP 现推荐替代 rice cereal(因 rice 砷高)
+  wearable blanket / sleeping sack:
+    zh: 睡袋(穿戴式毯子)
+    explanation: 替代普通毯子的安全睡眠产品,不会松散闷面
+  periodic breathing of infancy:
+    zh: 婴儿期周期性呼吸
+    explanation: 5-10 秒呼吸暂停 + 50-60 次/分钟 burst 的正常 REM 睡眠现象,6 月内自然消失

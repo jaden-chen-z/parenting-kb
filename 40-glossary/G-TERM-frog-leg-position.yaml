@@ -1,0 +1,57 @@
+glossary_id: G-TERM-frog-leg-position
+type: term
+display_name: 蛙腿位 (frog-leg position)
+
+full_name_en: Frog-Leg Position / Hip Abduction Position
+full_name_zh: 蛙腿位 / 髋外展屈曲位
+
+one_liner: |
+  婴儿髋部自然外展、双腿弯曲张开的姿势(像青蛙)。包裹时髋部必须松到能蛙腿位,否则风险 DDH(髋发育不良)。
+
+detail: |
+  ## 定义
+  髋部:外展(abduction,腿往外打开)+ 屈曲(flexion,膝盖弯曲)。
+  整体看像青蛙四肢张开的姿势。
+
+  ## 为什么重要
+  婴儿髋关节(股骨头 + 髋臼)在出生时还没完全成型,需要通过自然运动促进发育。
+  - 蛙腿位:股骨头压在髋臼正中,促进正常发育
+  - 髋部绑直(腿伸直):股骨头偏离髋臼,可能脱位 / 发育异常 → DDH
+
+  ## 正确包裹的关键
+  - 上半身可以紧裹(防 Moro 反射)
+  - 髋部以下必须**松**,腿能自由蛙腿位
+  - 包裹产品应留髋部空间(zip-up swaddle 通常做对)
+
+  ## 错误案例
+  - 中国传统"打蜡烛包"通常把腿也绑直 → DDH 高风险
+  - 美洲原住民 cradleboard 把婴儿绑在板上(腿直)→ 历史 DDH 高发
+  - 现代研究显示这些文化的 DDH 发病率比对照高 5-10×
+
+  ## 临床检查
+  - 出生时 + 每次儿保查 Ortolani / Barlow 试验(医生手法 + 蛙腿位评估)
+  - 高危(臀位 / 家族史)4-6 周做髋关节超声
+
+key_facts:
+  - 髋外展 + 屈曲 = 蛙腿位
+  - 包裹时髋必须能蛙腿位
+  - 绑直腿 → DDH 高风险
+  - 中国"打蜡烛包"传统危险
+
+related_glossary:
+  - G-ABBR-DDH
+  - G-TERM-swaddle
+  - G-TERM-Moro-reflex
+
+related_cards:
+  - C-S1-013     # Karp 包裹必须紧 + 双臂在内
+  - C-S1-038     # AAP 包裹不防 SIDS
+
+sources:
+  - source_id: SRC-004
+  - external: International Hip Dysplasia Institute / 综合儿科常识
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

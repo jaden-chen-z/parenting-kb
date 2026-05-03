@@ -1,0 +1,62 @@
+glossary_id: G-TERM-symbolic-play
+type: term
+display_name: 符号游戏 (symbolic play)
+
+full_name_en: Symbolic Play
+full_name_zh: 符号游戏
+
+one_liner: |
+  15 月起出现,娃娃开始"代表"一个人,小积木变成电话。是语言的必备前置——能用一物代表另一物,才能用一个声音代表一件事。
+
+detail: |
+  ## 定义
+  Symbolic play(符号游戏)指儿童在游戏中**用一个物体代表另一个物体或情境**的能力——
+  娃娃代表婴儿,香蕉代表电话,木棍代表剑。
+  Piaget 把它列为感觉运动期到前运算期的过渡里程碑(约 18-24 月)。
+
+  ## 发展阶段
+  - **12-15 月**:模仿动作(假装喝奶,假装睡觉)——还不是 symbolic
+  - **15-18 月**:第一个符号——把娃娃当婴儿喂奶
+  - **18-24 月**:符号扩展——用积木代表电话、用香蕉代表枪
+  - **24-36 月**:角色扮演——"我是妈妈,你是宝宝"
+  - **3-5 岁**:复杂叙事——发明剧情、想象朋友(见 G-TERM-imaginary-friend)
+
+  ## Brazelton 的临床意义
+  > "看孩子的 symbolic play 复杂度可以预判语言发展。"
+
+  - Symbolic play 与语言共享同一认知底层:**用一物代表另一物**
+  - 能玩"假装"游戏的孩子,通常语言发展也在轨道上
+  - 18 月还完全不会假装游戏,需要评估是否有交流/认知发展迟缓
+  - 自闭谱系儿童的 symbolic play 通常显著迟滞(临床筛查指标之一)
+
+  ## 与语言的连接
+  - 假装喝奶 = "这个动作代表喝奶" = 一种符号操作
+  - 说 "奶" = "这个声音代表奶" = 另一种符号操作
+  - 两者认知机制相通——所以 symbolic play 是语言的可观测前置
+
+  ## 在本知识库中
+  - C-S6-019 18 月符号游戏典型
+  - C-S7-016 2-3 岁延展(角色扮演)
+
+key_facts:
+  - 15 月起出现,Piaget 划定的关键里程碑
+  - 用一物代表另一物——语言的认知前置
+  - Brazelton:可预判语言发展轨迹
+  - 自闭谱系临床筛查指标
+  - 3-5 岁发展为复杂叙事/想象朋友
+
+related_glossary:
+  - G-PERSON-Brazelton
+  - G-TERM-touchpoint
+
+related_cards:
+  - C-S6-019
+  - C-S7-016
+
+sources:
+  - source_id: SRC-010
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

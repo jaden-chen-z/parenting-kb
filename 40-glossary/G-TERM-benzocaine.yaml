@@ -1,0 +1,61 @@
+glossary_id: G-TERM-benzocaine
+type: term
+display_name: benzocaine (苯佐卡因)
+
+full_name_en: Benzocaine
+full_name_zh: 苯佐卡因
+
+one_liner: |
+  局部麻醉药,常见于 OTC 牙痛 / 出牙凝胶。FDA 警告 2 岁以下不用 — 罕见但严重的血液中毒(高铁血红蛋白血症)。
+
+detail: |
+  ## 定义
+  Benzocaine 是局部麻醉药(local anesthetic),通过阻断神经信号产生短暂麻木感。
+  常见 OTC 产品:Anbesol / Orajel / Hurricaine / Topex 等品牌的牙痛 / 出牙 / 喉痛凝胶。
+
+  ## 为什么婴幼儿禁用
+  Benzocaine 在罕见但严重的情况下会引起 **methemoglobinemia**(高铁血红蛋白血症):
+  - 血红蛋白被氧化为 methemoglobin
+  - 失去正常携氧功能
+  - 血液不能向全身组织输送氧气
+  - 可能致死或永久脑损伤
+
+  ## FDA 警告时间线
+  - **2006**:FDA 首次警告 benzocaine 凝胶引起 methemoglobinemia
+  - **2011**:FDA 加强警告 — 2 岁以下避用
+  - **2018**:FDA 要求所有 OTC benzocaine 凝胶包装加 black box 警告
+  - **AAP / FDA 当前立场**:**2 岁以下绝对不用 benzocaine 凝胶**
+
+  ## AAP 替代建议(出牙缓解)
+  - 手指按摩牙龈
+  - 硬橡胶咬胶(不冰冻)
+  - 湿冰毛巾给宝宝咬
+  - 必要时口服 acetaminophen(扑热息痛,医生指导剂量)
+  - **避免**:benzocaine 凝胶 / homeopathic 片 / 琥珀牙链
+
+  ## 中国市场注意
+  国内有售类似牙痛 / 出牙凝胶,要看成分表是否含 benzocaine 或类似 -caine 类(lidocaine / tetracaine 同样需谨慎)。
+  网购 OTC 美国产品(Orajel 等)也是 benzocaine 主成分。
+
+key_facts:
+  - FDA 警告 2 岁以下不用
+  - 致 methemoglobinemia(血液无法携氧)
+  - 常见 OTC 品牌:Anbesol / Orajel
+  - 中国类似产品同样需查成分表
+
+related_glossary:
+  - G-ABBR-AAP
+  - G-ABBR-FDA
+  - G-TERM-amber-teething-necklace
+
+related_cards:
+  - C-S3-013     # 琥珀牙链禁,teething gel 也禁
+
+sources:
+  - source_id: SRC-007
+  - external: FDA Drug Safety Communication 2018 / AAP Teething 4-7 Months
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

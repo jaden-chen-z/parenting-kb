@@ -1,0 +1,53 @@
+glossary_id: G-ABBR-DTaP
+type: abbreviation
+display_name: DTaP
+
+full_name_en: Diphtheria, Tetanus, acellular Pertussis vaccine
+full_name_zh: 白喉破伤风百日咳三联疫苗
+
+one_liner: |
+  防护白喉 / 破伤风 / 百日咳的三联疫苗。AAP 推荐 0-6 岁共打 5 剂(2/4/6/15-18 月 + 4-6 岁)。百日咳对 < 1 岁婴儿尤其致命。
+
+detail: |
+  ## 三联疫苗简介
+  - **Diphtheria**(白喉)— 细菌感染,产生毒素影响心脏 / 神经
+  - **Tetanus**(破伤风)— 伤口感染细菌产神经毒素,导致肌肉痉挛
+  - **acellular Pertussis**(百日咳)— "100 天咳"的高传染性细菌感染,< 1 岁婴儿死亡率高
+
+  acellular(无细胞)是 1990s 改进版,副作用比老版 DTwP 少。
+
+  ## AAP 时间表(0-6 岁共 5 剂)
+  - **2 月**:第 1 剂
+  - **4 月**:第 2 剂
+  - **6 月**:第 3 剂
+  - **15-18 月**:第 4 剂
+  - **4-6 岁**:第 5 剂
+
+  之后 11-12 岁打 Tdap(成人版加强),孕妇每次怀孕也打 Tdap。
+
+  ## 为什么 < 6 月对百日咳特别危险
+  - < 6 月婴儿免疫不成熟 + 气道窄
+  - 百日咳可致呼吸暂停 / 肺炎 / 脑病
+  - **死亡 50% 集中在 < 3 月婴儿**
+  - "Cocooning" 策略:孕妇 + 家人都打 Tdap 保护新生儿(婴儿自身 2 月才有第 1 剂保护)
+
+key_facts:
+  - 2/4/6/15-18 月 + 4-6 岁共 5 剂
+  - acellular 是改进版(副作用少)
+  - 百日咳 < 6 月死亡率最高
+  - Cocooning:家人接种保护新生儿
+
+related_glossary:
+  - G-ABBR-AAP
+
+related_cards:
+  - C-S1-064     # 0-12 月疫苗时间表
+
+sources:
+  - source_id: SRC-008
+  - external: AAP Vaccine Schedule / CDC DTaP / Cocooning strategy
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

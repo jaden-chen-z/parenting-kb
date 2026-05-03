@@ -1,0 +1,81 @@
+glossary_id: G-PERSON-Ainsworth
+type: person
+display_name: Ainsworth
+
+full_name_en: Mary Dinsmore Salter Ainsworth
+full_name_zh: 玛丽·爱因斯沃思
+
+one_liner: |
+  美国发展心理学家 (1913-1999),Bowlby 长期合作者,**陌生情境实验 (Strange Situation) 创立人**。
+  把婴儿依恋分 4 类(安全 B / 焦虑回避 A / 焦虑抗拒 C / 混乱 D),为依恋理论提供实证基础。
+
+detail: |
+  ## 个人背景
+  - 1913 年生于俄亥俄,1939 年多伦多大学博士
+  - 1950s 跟 Bowlby 在伦敦塔维斯托克诊所合作研究
+  - 1954-1955 在乌干达干达地区做 28 位婴儿一年纵向研究(《Infancy in Uganda》1967)
+  - 1960s-70s 美国马里兰州巴尔迪摩市 23 对母婴一年纵向 + 实验室
+  - 1978 出版 《Patterns of Attachment: Assessed in the Strange Situation and at Home》(与 Blehar / Waters / Wall)
+  - 1989 美国心理学会终身成就奖
+  - 弗吉尼亚大学教授(1975-1984)
+
+  ## 核心贡献:陌生情境实验 (Strange Situation, 1969)
+
+  ### 设计
+  - 12 月大婴儿带母亲进陌生玩具房间
+  - 8 个 3 分钟片段:母亲在 / 母亲离开 / 陌生人加入 / 母亲回来 / 二次离开 / 重聚
+  - 重点观察 **母亲第一次回来时婴儿反应**
+  - 总时长 20 分钟
+
+  ### 4 种依恋分类
+  - **B 安全型 (Secure)** ~60-65%:回来易安抚,继续探索 — 健康
+  - **A 焦虑回避型 (Anxious-Avoidant)** ~20%:母亲回来漠然回避,假装无所谓 — 不安全
+  - **C 焦虑抗拒型 (Anxious-Resistant/Ambivalent)** ~10%:既要拥抱又推开,愤怒 — 不安全
+  - **D 混乱型 (Disorganized)** ~5-10%(后期 Main 1990 补充):无一致模式,身体僵硬,创伤指标 — 高危
+
+  ### 影响因素(Ainsworth 综合)
+  Ainsworth 12 月依恋质量主要由 4 项母亲行为决定:
+  1. **频繁持久身体接触**(尤其前 6 月)
+  2. **对婴儿信号的敏感度**(读懂 + 及时回应)
+  3. **可预测的环境**(婴儿感到自己行为有效果)
+  4. **共享愉悦**(母婴双方都享受相处)
+
+  ## 实践影响
+  - 让 Bowlby 抽象的依恋理论变成可量化的科学(几乎所有后续依恋研究都用此实验)
+  - 推动"敏感回应教养"(sensitive responsive parenting)成为主流
+  - 影响 RIE / 蒙台梭利 / 鲍秀兰等多个流派的"敏感期+回应"原则
+  - Strange Situation 至今仍是发展心理学黄金标准
+
+  ## 在本知识库中
+  - Bowlby Vol 1 第 18 章核心贡献(1982 第二版才完整加入)
+  - SRC-011 (Bowlby) 卡片如 C-S5-070..073 都基于 Ainsworth 4 类型
+  - 鲍秀兰"8 月前抱抱不会宠坏"(C-S4-016)= Ainsworth 频繁身体接触论的中文化
+  - **未来候选源**:Ainsworth et al. (1978) Patterns of Attachment 是 Phase 4 候选
+
+key_facts:
+  - 美国发展心理学家(1913-1999)
+  - Bowlby 长期合作者,1969 创立陌生情境实验
+  - 把婴儿依恋分 4 类(B 安全 / A 回避 / C 抗拒 / D 混乱)
+  - 4 项母亲行为指标 = 依恋安全的关键预测因子
+  - 1989 APA 终身成就奖
+
+related_glossary:
+  - G-PERSON-Bowlby
+  - G-TERM-attachment
+  - G-TERM-strange-situation
+  - G-TERM-internal-working-model
+  - G-TERM-secure-base
+  - G-TERM-stranger-anxiety
+  - G-TERM-separation-anxiety
+
+related_cards:
+  - C-S4-016     # 鲍秀兰 8 月前抱抱不宠坏 — 与 Ainsworth 频繁接触论一致
+  - C-S1-043     # AAP 头 6 月不会宠坏 — Ainsworth 敏感回应论的临床落地
+
+sources:
+  - external: "Ainsworth MDS et al. (1978) Patterns of Attachment: Assessed in the Strange Situation and at Home / Ainsworth (1967) Infancy in Uganda / Bowlby Vol 1 第 18 章"
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

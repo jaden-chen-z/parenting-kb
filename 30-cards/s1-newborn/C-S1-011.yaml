@@ -8,9 +8,12 @@ front:
 
 back:
   why_matters: |
-    1954 年 Illingworth 用 X 光对比腹绞痛宝宝和平和宝宝的肠部——
-    气体含量没差异。多项研究也证明打嗝药水(二甲基硅油)效果
-    和白水一样。哭闹的原因不是肚子胀气。
+    "胀气导致哭闹"是几千年来父母 + 老一辈最坚信的解释。
+    但 1954 年 Illingworth 发表的 X 光研究证伪:
+    腹绞痛宝宝和平和宝宝的肠部气体含量**没差异**。
+    后续多项 RCT 也证明二甲基硅油打嗝药水效果**等同安慰剂**。
+    哭闹的真正原因不是胀气
+    (可能是第四产程缺失 / 肠绞痛 / 食物过敏 / 神经发育)。
   what_to_do:
     - 喂奶时让宝宝半坐位,不平躺(少吞气)
     - 中途停一次,打 1-2 次嗝就够,不必拍 30 分钟
@@ -20,6 +23,13 @@ back:
     一哭就归因"肯定胀气" → 拍 30 分钟,错过 5S 窗口。
     频繁换奶粉 / 喂打嗝药水 → 浪费钱,影响母乳建立。
   evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Illingworth
+  - G-PERSON-Karp
+  - G-TERM-colic
+  - G-TERM-fourth-trimester
+  - G-ABBR-RCT
 
 citation:
   book_title_en: "The Happiest Baby on the Block: The New Way to Calm Crying and Help Your Newborn Baby Sleep Longer"
@@ -39,8 +49,9 @@ related_cards:
   - C-S1-006      # 听不懂哭声(都是误解纠正)
   - C-S1-009      # 5S 必须组合
   - C-S1-012      # 妈妈焦虑非元凶
+  - C-S1-030      # 牛奶蛋白可能元凶
 
 language: zh
 status: draft
 created: 2026-05-01
-updated: 2026-05-01
+updated: 2026-05-02

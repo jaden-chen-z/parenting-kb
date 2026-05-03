@@ -1,0 +1,104 @@
+glossary_id: G-TERM-strange-situation
+type: term
+display_name: 陌生情境实验 (Strange Situation)
+
+full_name_en: Strange Situation Procedure (SSP)
+full_name_zh: 陌生情境实验
+
+one_liner: |
+  Ainsworth 1969 设计的实验程序,测 12 月大婴儿对母亲的依恋类型。
+  让婴儿经历"母亲在 / 离开 / 陌生人在场 / 重聚"等 8 段,**重点看母亲第一次回来时婴儿的反应**,把依恋分 4 类(B/A/C/D)。
+
+detail: |
+  ## 背景
+  Bowlby 提出的依恋理论是抽象的(婴儿天生有依附本能),需要可测量的实证工具。
+  Ainsworth 1969 设计陌生情境实验,把"依恋质量"变成 20 分钟实验室能测的事。
+  之后 50 年成为发展心理学**黄金标准**。
+
+  ## 实验设计
+
+  ### 8 段(每段 3 分钟,总 20 分钟)
+  1. 母婴进陌生玩具房间(布置友好,有大量玩具)
+  2. 母亲坐着,婴儿玩 — 看探索基础
+  3. 陌生人(实验者)进来,先沉默,后跟母亲对话,再尝试跟婴儿玩
+  4. **母亲第一次离开**(婴儿+陌生人) — 看分离反应
+  5. **母亲回来**,陌生人离开 — ⭐**关键观察点**:婴儿如何反应?
+  6. 母亲再次离开,婴儿独留 — 高强度压力
+  7. 陌生人进来安慰
+  8. **母亲第二次回来** — 第二次重聚反应
+
+  ### 关键看什么
+  不是"哭多少"。是 **重聚行为**。
+  - 回来后能不能被安抚?
+  - 安抚后能不能继续玩?
+  - 还是装作没看到母亲?
+  - 还是又抱又推、愤怒?
+  - 还是身体僵硬、行为混乱?
+
+  ## 4 类依恋分类(Ainsworth 1978)
+
+  - **B 安全型 (Secure)** ~60-65%
+    - 母亲走会哭(健康反应)
+    - 母亲回来立刻迎接,要抱抱
+    - 安抚后几分钟就重新玩
+    - 母亲在场时很自在地探索
+    - **母亲行为**:敏感、可预测、及时回应
+
+  - **A 焦虑回避型 (Anxious-Avoidant)** ~20%
+    - 母亲走似乎不在意
+    - 母亲回来漠然 / 转身 / 玩玩具
+    - 看似"独立",实际心率升高(伪装的不安)
+    - **母亲行为**:不喜欢身体接触、推开婴儿信号、限制亲密
+
+  - **C 焦虑抗拒型 (Anxious-Resistant / Ambivalent)** ~10%
+    - 母亲走非常崩溃
+    - 母亲回来既要又推 — 抱起来又挣脱、愤怒
+    - 长时间无法被安抚,无法回到玩
+    - **母亲行为**:不一致(有时回应有时不回应),给孩子混乱的预期
+
+  - **D 混乱型 (Disorganized)** ~5-10%(Main & Solomon 1990 补充)
+    - 同时表现 A 和 C 矛盾行为
+    - 身体僵硬、动作中断、表情木然
+    - 多见于受虐 / 父母严重抑郁 / 家庭暴力背景
+    - **创伤指标**,高心理病理风险
+
+  ## 在中国家长视角
+  - **不是测"妈妈好不好"**,是测"母婴互动模式"
+  - 90% 中产家庭婴儿是 B 安全型,小部分中国奶奶 / 月嫂式照顾(只满足生理需求,不读情绪)可能催生 A 回避型
+  - **不要拿 SST 自己测**,需要受训观察者评估细微反应
+
+  ## 历史影响
+  - 50 年后仍是发展心理学测依恋的标准
+  - 衍生 AAI (Adult Attachment Interview, George/Kaplan/Main 1985) 测成人版
+  - 跨文化研究:日本 / 德国 / 以色列集体农庄略有差异(B 仍占多数,但 A/C 比例差)
+
+key_facts:
+  - Ainsworth 1969 设计,12 月大婴儿
+  - 8 段 / 20 分钟实验室程序
+  - 重点看母亲第一次回来时婴儿反应
+  - 4 类:B 安全 60-65% / A 回避 20% / C 抗拒 10% / D 混乱 5-10%
+  - 50 年发展心理学黄金标准
+
+related_glossary:
+  - G-PERSON-Ainsworth
+  - G-PERSON-Bowlby
+  - G-TERM-attachment
+  - G-TERM-secure-base
+  - G-TERM-internal-working-model
+  - G-TERM-separation-anxiety
+  - G-TERM-stranger-anxiety
+
+related_cards:
+  - C-S5-070     # Strange Situation 概览
+  - C-S5-071     # B 安全型
+  - C-S5-072     # A 焦虑回避型
+  - C-S5-073     # C 焦虑抗拒型
+
+sources:
+  - source_id: SRC-011
+  - external: Ainsworth, Blehar, Waters & Wall (1978) Patterns of Attachment / Main & Solomon (1990) D 混乱型补充
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

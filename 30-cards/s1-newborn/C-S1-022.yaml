@@ -8,9 +8,12 @@ front:
 
 back:
   why_matters: |
-    Karp 说:母乳建立前 2-3 周用奶嘴会让宝宝"混淆乳头",
-    以后吸妈妈奶变难。
-    建议母乳建立后 3-4 周再引入。但太晚(6-8 周后)他可能拒绝。
+    混淆乳头(nipple confusion)= 母乳建立前过早用奶嘴 / 奶瓶,
+    宝宝学会"省力吸"(橡皮乳头流速快、含起来不费劲),
+    回头吸妈妈奶就用力不够 → 妈妈奶变少。
+    Karp:母乳建立前 2-3 周用奶嘴会触发这个,
+    建议母乳建立后 3-4 周再引入(太晚 6-8 周后宝宝可能拒绝)。
+    AAP 立场略不同:奶嘴可降 SIDS 风险,1 月后可在 nap/bedtime 用。
   what_to_do:
     - 0-2 周:不用奶嘴,只让宝宝吸妈妈乳头
     - 母乳稳了后(约 3 周):可以引入奶嘴
@@ -20,6 +23,12 @@ back:
     出生第一周就给奶嘴 → 混淆乳头,母乳难建立。
     6 周后才引入 → 宝宝可能拒绝任何奶嘴。
   evidence_level: C
+
+glossary_refs:
+  - G-TERM-five-s
+  - G-PERSON-Karp
+  - G-ABBR-AAP
+  - G-ABBR-SIDS
 
 citation:
   book_title_en: "The Happiest Baby on the Block: The New Way to Calm Crying and Help Your Newborn Baby Sleep Longer"
@@ -37,8 +46,10 @@ citation:
 unit_ids: []
 related_cards:
   - C-S1-021      # 非营养吸吮先天需求
+  - C-S1-039      # AAP 睡前给奶嘴(立场对比)
+  - C-S1-051      # AAP 奶嘴使用
 
 language: zh
 status: draft
 created: 2026-05-01
-updated: 2026-05-01
+updated: 2026-05-02

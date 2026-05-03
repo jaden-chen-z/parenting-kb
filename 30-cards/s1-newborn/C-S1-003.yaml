@@ -8,9 +8,11 @@ front:
 
 back:
   why_matters: |
-    宝宝哭是他百万年进化来的"求救信号"。
-    他敢这么大声哭,是因为他知道身边有大人——
-    这是他安全感的证明,不是你做错了什么。
+    哭泣反射 = 婴儿无法说话之前的唯一沟通方式,百万年进化来的"求救信号"。
+    人类婴儿出生即会哭(多数哺乳动物幼崽悄无声息以避天敌),
+    因为人类祖先有"洞穴妈妈"保护——大声哭反而是安全的证明。
+    所以宝宝敢这么大声哭,是因为他知道身边有大人——
+    这是安全感的证明,不是你做错了什么。
   what_to_do:
     - 听见哭别先想"我是不是没做好"
     - 把哭当成宝宝目前唯一的"说话方式"
@@ -20,6 +22,10 @@ back:
     把哭解读成"他有问题/我没做好" → 你越焦虑,他哭越凶。
     一个人硬撑几小时不喘气 → 容易做出剧烈摇晃等危险动作。
   evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Karp
+  - G-ABBR-SBS
 
 citation:
   book_title_en: "The Happiest Baby on the Block: The New Way to Calm Crying and Help Your Newborn Baby Sleep Longer"
@@ -44,4 +50,4 @@ related_cards:
 language: zh
 status: draft
 created: 2026-05-01
-updated: 2026-05-01
+updated: 2026-05-02

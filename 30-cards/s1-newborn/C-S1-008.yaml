@@ -8,18 +8,26 @@ front:
 
 back:
   why_matters: |
-    Karp 引研究:宝宝尖叫时,你的焦虑系统反应强度等同"电休克"——
-    心跳加快、出冷汗、胃部紧缩。
-    这是大脑被进化设计成这样的,不是你软弱或没爱心。
+    婴儿尖叫对成人焦虑系统的刺激,Karp 引研究测得**强度等同电休克**——
+    心跳加快、血压上升、掌心出汗、胃部痉挛紧缩。
+    这是百万年进化设计:让父母无法忽视婴儿求救信号。
+    叠加压力源(疲劳 / 经济 / 婚姻 / 抑郁)时反应更剧烈,
+    甚至可能让父母失控触发 SBS(摇晃婴儿综合征)。
+    所以崩溃不是你软弱,是大脑被设计成这样。
   what_to_do:
     - 知道这是生理反射,不是性格问题
     - 出汗、心跳加速时,先深呼吸 3 次再行动
     - 失眠/焦虑/经济压力会放大反应,提前求支援
-    - 累到极限把宝宝放回安全床,出去 5 分钟稳定情绪
+    - 累到极限把宝宝放回安全床,出去 5-10 分钟稳定情绪
   failure_mode: |
     把生理反应当成"我不是好父母"的证据 → 自责加重压力。
     在崩溃边缘硬撑不停手 → 容易做出剧烈摇晃等危险动作。
   evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Karp
+  - G-ABBR-SBS
+  - G-TERM-postpartum-depression
 
 citation:
   book_title_en: "The Happiest Baby on the Block: The New Way to Calm Crying and Help Your Newborn Baby Sleep Longer"
@@ -39,8 +47,11 @@ related_cards:
   - C-S1-003      # 哭闹是求生工具
   - C-S2-002      # 撑过峰非失败
   - C-S1-007      # 不会惯坏
+  - C-S1-020      # 摇晃 vs SBS
+  - C-S1-049      # AAP 崩溃放下宝宝离开 10-15 分钟
+  - C-S1-033      # 产后抑郁
 
 language: zh
 status: draft
 created: 2026-05-01
-updated: 2026-05-01
+updated: 2026-05-02

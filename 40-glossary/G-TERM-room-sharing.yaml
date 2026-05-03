@@ -1,0 +1,60 @@
+glossary_id: G-TERM-room-sharing
+type: term
+display_name: 同房不同床 (room-sharing)
+
+full_name_en: Room-Sharing without Bed-Sharing
+full_name_zh: 同房不同床
+
+one_liner: |
+  父母 + 婴儿同一房间但不同床(crib / bassinet 在床边伸手可及)。AAP 推荐至少 6 月,降 SIDS 50%。
+
+detail: |
+  ## 定义
+  父母与婴儿共睡同一卧室,但婴儿在自己的 crib / bassinet / portable crib / play yard 中(不进父母床)。
+  位置:床边伸手可及(便于喂养 + 监测)。
+
+  ## AAP 立场(2022 Policy)
+  - 推荐至少 6 月,最好 1 年
+  - 降 SIDS 风险 50%
+  - 比 bed-sharing 安全得多
+  - 比独立房间安全(婴儿前 6 月单独房风险也升)
+
+  ## 实操要点
+  - crib / bassinet 在床边,伸手能摸到
+  - 婴儿床上只一张床单(C-S1-035)
+  - 喂奶 / 安抚后立即移回 crib(绝不在父母床睡过去)
+  - 父母床:无松散物,以防意外滚下来
+
+  ## 与 bed-sharing 区别
+  - **room-sharing**(推荐):同房,**不同床**
+  - **bed-sharing**(不推荐):同房,**同床**
+
+  ## 中文家长视角
+  - 国内传统母婴同床(bed-sharing)
+  - Room-sharing 是国际主流推荐,但需要额外购买 crib / bassinet
+  - 一线城市接受度上升,二三线仍以同床为主
+  - 与中国"婴儿床闲置率高"问题相关
+
+key_facts:
+  - AAP 推荐至少 6 月,最好 1 年
+  - 降 SIDS 50%
+  - crib 在床边伸手可及
+  - 比 bed-sharing 安全得多
+
+related_glossary:
+  - G-ABBR-SIDS
+  - G-ABBR-AAP
+  - G-TERM-bed-sharing
+  - G-TERM-back-sleep
+
+related_cards:
+  - C-S1-037     # AAP 同房不同床到 6 月,降 SIDS 50%
+
+sources:
+  - source_id: SRC-004
+  - external: AAP 2022 SIDS Policy
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

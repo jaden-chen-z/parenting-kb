@@ -1,0 +1,66 @@
+glossary_id: G-TERM-object-permanence
+type: term
+display_name: 物体永久性 (object permanence)
+
+full_name_en: Object Permanence
+full_name_zh: 物体永久性
+
+one_liner: |
+  婴儿理解"看不见的物体仍存在"的认知里程碑。Piaget 提出,8 月起萌芽,10 月坚信。也是分离焦虑的认知基础。
+
+detail: |
+  ## 定义
+  婴儿理解"物体即使不在视线里仍然存在"的认知能力。
+  在掌握之前,婴儿觉得"看不见 = 不存在"(因此不会主动找消失的玩具)。
+
+  ## 概念起源
+  瑞士心理学家 **Jean Piaget(1896-1980)**1936 年提出,作为认知发展理论的核心。
+  Piaget 把 0-2 岁定为"感知运动期"(sensorimotor stage),物体永久性是这阶段最重要的成就。
+
+  ## 发展时间线(AAP 节奏)
+  - **8 月之前**:看不见的玩具 = 不存在,不会找
+  - **8 月起**:萌芽 — 掀布找玩具(知道布下还在)
+  - **10 月**:坚信 — 即使把玩具藏起后悄悄拿走,他仍继续找(确信存在)
+  - **12 月**:复杂藏匿能找(藏在多层之下)
+  - **18-24 月**:理解符号代表("电话"= 听筒到耳边)
+
+  ## 与分离焦虑的关系
+  分离焦虑(separation anxiety)10-18 月达峰,**认知基础就是物体永久性**:
+  - 没掌握物体永久性时:你不在 = 不存在 = 不焦虑
+  - 掌握物体永久性后:你不在 = 存在但暂时不见 = 担心 = 焦虑
+
+  这解释了为什么分离焦虑在 8-10 月才开始,跟物体永久性发展同步。
+
+  ## 教学方法
+  最佳游戏:**peekaboo**(躲猫猫)。AAP 推荐 4 玩法:
+  1. 布盖头("宝宝在哪?")
+  2. 抬腿挡脸再开
+  3. 躲家具后(留脚 / 手作线索)
+  4. 互相蒙巾
+
+  也可以藏部分露出的玩具让宝宝找。
+
+key_facts:
+  - Piaget 1936 提出
+  - 8 月起萌芽,10 月坚信
+  - 分离焦虑的认知基础
+  - peekaboo 是最佳教学游戏
+
+related_glossary:
+  - G-PERSON-Piaget
+  - G-TERM-peekaboo
+  - G-TERM-separation-anxiety
+  - G-ABBR-AAP
+
+related_cards:
+  - C-S4-003     # 物体永久性 8-10 月,peekaboo 教
+  - C-S5-004     # 分离焦虑
+
+sources:
+  - source_id: SRC-007
+  - external: Piaget 1936 / Wikipedia Object Permanence / 综合发展心理学
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

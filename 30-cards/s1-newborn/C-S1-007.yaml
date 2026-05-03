@@ -8,9 +8,13 @@ front:
 
 back:
   why_matters: |
-    Karp 明确说:出生前 3 个月,你怎么回应都不会惯坏宝宝。
+    "惯坏论"是中国家庭最大育儿压力源之一。
+    Karp 明确反驳:出生前 3 月(第四产程期)怎么回应都不会惯坏。
+    1972 年 Bell & Ainsworth 在 Child Development 发表的研究证实:
+    及时回应哭闹的婴儿,1 岁时反而**更少哭、更平静、更有耐心**——
+    与"惯坏论"相反。
     出生前他在子宫里 24 小时被"抱着",
-    出生后你一天抱 12 小时,对他已经是大幅减少了。
+    出生后一天抱 12 小时对他已经是大幅减少了。
   what_to_do:
     - 听见家人说"别老抱""哭一会没事" — 默默忽略
     - 前 3 月别想"立规矩",这是 6 月后再说的事
@@ -20,6 +24,12 @@ back:
     听老人/书本说"别惯着" → 哭不抱,延误安抚。
     用 1 岁后的标准看新生儿(立规矩) → 错时机,毁安全感。
   evidence_level: C
+
+glossary_refs:
+  - G-PERSON-Karp
+  - G-TERM-fourth-trimester
+  - G-TERM-cry-it-out
+  - G-TERM-responsive-feeding
 
 citation:
   book_title_en: "The Happiest Baby on the Block: The New Way to Calm Crying and Help Your Newborn Baby Sleep Longer"
@@ -38,8 +48,9 @@ unit_ids: []
 related_cards:
   - C-S2-002      # 撑过峰非失败
   - C-S1-008      # 心跳加速是天然反射
+  - C-S1-021      # 非营养性吸吮(回应需求)
 
 language: zh
 status: draft
 created: 2026-05-01
-updated: 2026-05-01
+updated: 2026-05-02

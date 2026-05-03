@@ -1,0 +1,68 @@
+glossary_id: G-TERM-lovey
+type: term
+display_name: 安抚物 (lovey)
+
+full_name_en: Lovey / Transitional Object
+full_name_zh: 安抚物 / 过渡客体
+
+one_liner: |
+  婴儿 6-9 月起对特定毛绒/毯子的依恋。Winnicott 称"过渡客体",连接"完全依赖"与"独立"两阶段。Brazelton 反主流观点:破破烂烂的 lovey 不是被忽视,是"被良好滋养"的标志。
+
+detail: |
+  ## 定义
+  Lovey(也叫 transitional object,Winnicott 1953)指婴幼儿在 6-9 月起对**某一特定物件**(毛绒玩具、毯子、衣物边角)产生的强烈依恋,在分离/入睡/紧张时依靠它自我安抚。
+
+  ## Winnicott 的过渡客体理论
+  - 婴儿从"与母亲完全融合"到"独立个体"是一个漫长心理过程
+  - Lovey 介于"完全依赖" 和 "完全独立" 之间——既属于"我",又有"她"的味道
+  - 是孩子第一次使用"象征"——一个物体代表一种情感关系
+  - 是后续 symbolic play / 想象朋友 / 创造力的心理前体
+
+  ## Brazelton 的反主流立场
+  传统观点(尤其某些祖辈):破破烂烂的小毯子是"宠坏"或"被忽视"的迹象。
+  Brazelton 反向解读:
+  > "破破烂烂的 lovey 不是孩子被忽视的标志,反而是他被良好滋养的证据——
+  > 自我安抚能力是被滋养出来的,不是被剥夺出来的。"
+
+  - 孩子能依恋一个物件 = 已经形成了"内化的安全感"
+  - 反复磨损 = 反复被使用 = 反复自我调节成功
+  - 替换/扔掉 lovey 不会培养独立,只会延缓自我安抚能力的形成
+
+  ## 临床观察
+  - 不是所有孩子都有 lovey——这本身没问题
+  - 拇指吮吸是另一种自我安抚替代
+  - Lovey 通常在 4-6 岁自然淡出,不需要"戒断"
+
+  ## 在本知识库中
+  - C-S4-022 6-9 月 lovey 出现
+  - C-S5-021 9-12 月成型
+  - C-S6-025 / C-S6-026 18 月深度依恋
+  - C-S7-021 / C-S7-022 2-3 岁继续陪伴
+
+key_facts:
+  - 6-9 月起出现,Winnicott 1953 命名
+  - 是"过渡客体"——独立性的心理脚手架
+  - Brazelton:破破烂烂 = 被良好滋养
+  - 不是所有孩子都需要,无 lovey 也健康
+  - 4-6 岁自然淡出,不需戒断
+
+related_glossary:
+  - G-PERSON-Winnicott
+  - G-PERSON-Brazelton
+  - G-TERM-self-soothing
+
+related_cards:
+  - C-S4-022
+  - C-S5-021
+  - C-S6-025
+  - C-S6-026
+  - C-S7-021
+  - C-S7-022
+
+sources:
+  - source_id: SRC-010
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

@@ -8,9 +8,11 @@ front:
 
 back:
   why_matters: |
-    Karp 把 5S 五招同时上叫"拥抱疗法":
-    侧抱 + 嘘声 + 摇晃 + 吸吮,加上事先包好。
-    这是 5S 的"全功率版本",几乎所有崩溃哭闹都能几分钟内见效。
+    拥抱疗法(Cuddle Cure)= Karp 把 5S 五招同时实施的"全功率版本"。
+    对崩溃哭闹宝宝(尖叫不止 / 5S 单招试过没用)几分钟内见效。
+    做法:先包裹好 → 抱到肩侧位 → 同时嘘声 + 摇晃 + 给吸吮。
+    关键是 5 招同步、力度足够、姿势正确。
+    Karp 临床观察:这是 5S 的"高阶组合",对最难安抚的宝宝有效。
   what_to_do:
     - 步骤:先包裹好 → 抱到肩侧位 → 同时嘘+摇+给吸
     - 一手撑头颈,身体接近水平贴妈妈胸口
@@ -20,6 +22,13 @@ back:
     一招一招试 → 每招都不到位,以为"5S 没用"。
     见效就立刻撤所有动作 → 立即反弹。
   evidence_level: B
+
+glossary_refs:
+  - G-TERM-cuddle-cure
+  - G-TERM-five-s
+  - G-PERSON-Karp
+  - G-TERM-calming-reflex
+  - G-TERM-swaddle
 
 citation:
   book_title_en: "The Happiest Baby on the Block: The New Way to Calm Crying and Help Your Newborn Baby Sleep Longer"
@@ -39,8 +48,9 @@ related_cards:
   - C-S1-009      # 5S 必须组合
   - C-S1-010      # 镇静反射
   - C-S1-024      # 力度匹配
+  - C-S1-025      # 头几次更哭
 
 language: zh
 status: draft
 created: 2026-05-01
-updated: 2026-05-01
+updated: 2026-05-02

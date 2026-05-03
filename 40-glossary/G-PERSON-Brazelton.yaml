@@ -1,0 +1,61 @@
+glossary_id: G-PERSON-Brazelton
+type: person
+display_name: Brazelton
+
+full_name_en: T. Berry Brazelton
+full_name_zh: T. 贝里·布拉泽尔顿
+
+one_liner: |
+  美国儿科医生(1918-2018),Touchpoints 育儿法作者,新生儿行为评估量表(NBAS)创始人。Karp 引用过 Brazelton 1962 哭闹峰研究。
+
+detail: |
+  ## 个人背景
+  - 1918 年生 - 2018 年逝世
+  - 美国儿科医生,哈佛医学院教授
+  - 主要在波士顿儿童医院执业 50+ 年
+  - "Touchpoints" 育儿法创始人
+
+  ## 主要贡献
+
+  ### 1. NBAS(Brazelton 新生儿行为评估量表)
+  - 1973 年发表
+  - 评估新生儿对环境的行为反应(28 项行为 + 18 项反射)
+  - 全球儿科 / 心理学评估标准之一
+
+  ### 2. Touchpoints 育儿法
+  - 0-3 岁发展中的可预测"触点"(touchpoints)
+  - 主张:关键发展节点会暂时退步(回归 / 烦躁),这是健康前进的信号
+  - 著作《Touchpoints: Birth to Three》(1992)
+  - 《Touchpoints: Three to Six》(2001)
+
+  ### 3. 1962 哭闹峰研究
+  - 首次系统记录新生儿哭闹"6 周达峰、12 周回落"曲线
+  - Karp 在《卡普新生儿安抚法》中多次引用
+
+  ## 在本知识库中
+  - Karp 卡(C-S2-001/002 哭闹峰)的 B 级证据来自 Brazelton 1962
+  - Phase 2-3 候选下本书可能是 Brazelton《Touchpoints》
+
+key_facts:
+  - 1918-2018,哈佛儿科教授
+  - NBAS(1973)新生儿行为评估
+  - Touchpoints 育儿法创始人
+  - 1962 哭闹峰研究(Karp 引用)
+  - Phase 2-3 候选下本书
+
+related_glossary:
+  - G-PERSON-Karp
+  - G-ABBR-NBAS
+
+related_cards:
+  - C-S2-001     # Karp 哭闹峰:6 周达峰,3 月回落
+  - C-S2-002     # Karp 撑过哭闹峰非父母失败
+
+sources:
+  - source_id: SRC-003
+  - external: Brazelton Touchpoints Center / Wikipedia / 综合儿科史
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

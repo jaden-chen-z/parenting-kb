@@ -8,9 +8,12 @@ front:
 
 back:
   why_matters: |
-    Karp 实战:整晚保持包裹+白噪音,
-    睡眠时段从 3 小时 → 4 小时,夜醒减少 1-2 次。
-    关键是"整晚",不是只入睡时。
+    Karp 实战经验:整晚保持包裹 + 白噪音的婴儿,
+    睡眠时段从 3 小时延长到 4 小时,夜醒减少 1-2 次。
+    关键是"整晚",不是只入睡时——
+    入睡后撤掉刺激,宝宝在浅睡阶段会因环境变化惊醒。
+    必须配仰睡 + 婴儿床无松散物(SIDS 预防底线,详见 016/038)。
+    4 月翻身后必须停包(否则窒息风险骤增)。
   what_to_do:
     - 整晚保持包裹紧度,不要入睡后松开
     - 白噪音整晚开着,别只在入睡时放
@@ -20,6 +23,13 @@ back:
     入睡后撤掉包裹/关白噪音 → 转换刺激,惊醒。
     以为"夜里太吵会吵醒他" → 错过白噪音的过夜效果。
   evidence_level: B
+
+glossary_refs:
+  - G-TERM-five-s
+  - G-TERM-swaddle
+  - G-PERSON-Karp
+  - G-ABBR-SIDS
+  - G-TERM-back-sleep
 
 citation:
   book_title_en: "The Happiest Baby on the Block: The New Way to Calm Crying and Help Your Newborn Baby Sleep Longer"
@@ -40,8 +50,9 @@ related_cards:
   - C-S1-016      # 侧抱 SIDS
   - C-S1-017      # 嘘声白噪音
   - C-S1-026      # 别强逼白天不睡
+  - C-S1-038      # AAP 包裹不防 SIDS
 
 language: zh
 status: draft
 created: 2026-05-01
-updated: 2026-05-01
+updated: 2026-05-02

@@ -1,0 +1,93 @@
+glossary_id: G-TERM-colic
+type: term
+display_name: 肠绞痛 (colic)
+
+full_name_en: Infant Colic
+full_name_zh: 肠绞痛 / 腹绞痛
+
+one_liner: |
+  健康婴儿无明显原因剧烈哭闹的统称,Wessel 1954 定义"3-3 规则"(每天 ≥3 小时 / 每周 ≥3 天 / 持续 ≥3 周)。
+  约 10-25% 婴儿,2 周起,6 周达峰,3 月自然回落,病因至今不明。
+
+detail: |
+  ## 定义
+  健康婴儿(无器质性病因)的反复剧烈哭闹综合征。
+  病因不明 — 有"胃肠 / 神经 / 食物过敏 / 母亲焦虑 / 气质"等多种假说,均未确证。
+
+  ## Wessel 1954 "3-3 规则"
+  Morris Wessel 在 Pediatrics 期刊首次给出诊断标准(详见 G-PERSON-Wessel):
+  - 每天哭闹 ≥ 3 小时
+  - 每周 ≥ 3 天
+  - 持续 ≥ 3 周
+
+  60+ 年作为临床金标准。2016 Rome IV 修订去掉"3 周"门槛,但学界仍多用 Wessel 规则。
+
+  ## 流行病学
+  - **发病率**:10-25%(因诊断标准而异)
+  - **起点**:2 周龄
+  - **达峰**:6 周龄(Brazelton 1962 N=82 经典数据)
+  - **回落**:3 月龄末几乎全部消失
+  - **与早产 / 性别 / 母乳 vs 配方 / 父母年龄收入教育**:**无相关**(机会均等)
+
+  ## 病因假说(Karp 总结的 5 种)
+  1. **轻度胃肠问题**(胀气 / 便秘 / 过度肠蠕动) — Illingworth 1954 X 光证伪
+  2. **严重胃肠问题**(食物过敏 / 胃反酸) — 仅解释 5-15%
+  3. **母亲焦虑** — Karp 反驳:婴儿读不懂(详见 C-S1-012)
+  4. **大脑发育不完全** — 部分解释,但不能解释为什么 3 月停
+  5. **挑战性气质** — 部分解释,但同样有早产儿不哭闹反例
+
+  Karp 自己的解释:**第四产程缺失**(出生后头 3 月需类子宫刺激,缺则哭闹)。
+
+  ## 主流处理
+  - **5S 安抚法**(Karp 流派)— B 级证据,部分有效
+  - **食物过敏排查**(母乳妈妈停乳制品 2-4 周)— 10% 有效
+  - **probiotics(益生菌)** — Cochrane 证据弱
+  - **simethicone 打嗝药水** — 多项 RCT 证伪(等同安慰剂)
+  - **AAP 立场**:无特效疗法,撑过去 + 父母支持
+
+  ## 红旗信号(必须就医)
+  - 喷射性呕吐
+  - 血便 / 黑便
+  - 体重不增或减轻
+  - 持续发烧
+  - 反复呼吸困难
+
+  这些不是肠绞痛,是其他疾病(详见 C-S1-031)。
+
+  ## 在本知识库中
+  - Karp 流派核心议题(SRC-003 第 3-5 章专门讨论)
+  - Phase 2 AAP 也有专门 colic 卡(C-S2-004)
+
+key_facts:
+  - 10-25% 婴儿
+  - 6 周达峰,3 月回落
+  - Wessel 1954 "3-3 规则"诊断
+  - 病因不明(Karp:第四产程缺失)
+  - 与父母条件无关(机会均等)
+
+related_glossary:
+  - G-PERSON-Wessel
+  - G-PERSON-Brazelton
+  - G-PERSON-Illingworth
+  - G-PERSON-Karp
+  - G-TERM-fourth-trimester
+  - G-TERM-five-s
+  - G-ABBR-PURPLE
+  - G-ABBR-CMPA
+
+related_cards:
+  - C-S1-011     # Karp 胀气不是元凶
+  - C-S1-030     # Karp 牛奶蛋白可能元凶
+  - C-S1-031     # Karp 红旗信号
+  - C-S2-001     # Karp 哭闹峰
+  - C-S2-002     # Karp 撑过哭闹峰
+
+sources:
+  - source_id: SRC-003           # Karp 中译本
+  - source_id: SRC-005           # AAP Crying & Soothing
+  - external: Wessel MA. Pediatrics 1954;14:421 / Cochrane reviews / 综合儿科文献
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

@@ -1,0 +1,63 @@
+glossary_id: G-TERM-attachment
+type: term
+display_name: 依恋 (attachment)
+
+full_name_en: Attachment
+full_name_zh: 依恋
+
+one_liner: |
+  婴儿与主要养育人之间形成的情感联结,是后续社会情感发展的基础。健康依恋反而让分离焦虑更早出现但通过更快。
+
+detail: |
+  ## 定义
+  婴儿对主要养育人(通常是妈妈)形成的稳定情感联结。
+  AAP 原文:"她对你的渴望是她与你这第一位和最伟大的爱的附着证据"。
+
+  ## 概念起源
+  - **John Bowlby**(1907-1990):英国精神病学家,1950s 提出 attachment theory
+  - **Mary Ainsworth**(1913-1999):美国心理学家,1970 年 "Strange Situation" 实验,定义安全 vs 不安全依恋类型
+
+  ## 4 种依恋类型(Ainsworth 分类)
+  - **Secure attachment**(安全型):大人离开痛苦,回来后立刻被安抚 — 健康
+  - **Anxious-avoidant**(回避型):大人离开无反应,回来不亲近 — 不健康
+  - **Anxious-resistant**(矛盾型):大人离开痛苦,回来反而推开 — 不健康
+  - **Disorganized**(混乱型):无一致反应模式 — 创伤指标
+
+  ## 安全依恋的形成因素
+  - 0-12 月主要养育人**及时响应**婴儿需求(C-S1-043 头 6 月不会宠坏)
+  - 一致 + 可预测的回应
+  - 身体接触(skin-to-skin / 抱 / 亲)
+  - 通过哭闹召唤大人时大人来 — 这建立"我有需要,大人会来"的信任
+
+  ## 关键洞察
+  AAP 在 8-12 月情感社交里说:**"strong, healthy attachment actually causes separation anxiety to appear earlier and pass through faster"**
+  — 健康依恋反而让分离焦虑早出现 + 快度过(不是没有焦虑)。
+
+  ## 文化注意
+  中文文化的"宠坏"焦虑跟依恋理论冲突 — 头 6 月及时回应不会"宠坏",反而建立健康依恋。
+
+key_facts:
+  - Bowlby + Ainsworth 提出
+  - 4 类型:安全 / 回避 / 矛盾 / 混乱
+  - 安全依恋反而让分离焦虑早现快通过
+  - 头 6 月及时回应是核心建立期
+
+related_glossary:
+  - G-ABBR-AAP
+  - G-TERM-separation-anxiety
+  - G-TERM-stranger-anxiety
+  - G-PERSON-Brazelton
+
+related_cards:
+  - C-S1-043     # 头 6 月不会宠坏 — 答应反而少哭
+  - C-S4-004     # 陌生人焦虑
+  - C-S5-004     # 分离焦虑
+
+sources:
+  - source_id: SRC-007
+  - external: Bowlby 1969 / Ainsworth 1978 / Wikipedia Attachment Theory / 综合发展心理学
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

@@ -8,9 +8,11 @@ front:
 
 back:
   why_matters: |
-    Karp 反对"白天累点晚上睡得好"这种思路。
-    硬是让困倦的宝宝保持清醒只会让他过度疲劳,
-    晚上反而睡得更差——神经系统会紊乱。
+    "白天累点晚上睡得好"是中国家长常见思路,但 Karp 反对。
+    原理:新生儿神经系统尚未发育完全,缺乏自我调节能力,
+    过度疲劳会让神经系统紊乱(over-tired)→ 反而难以入睡。
+    硬是让困倦的宝宝保持清醒只会让晚上睡得更差。
+    6 月前应"困了就睡",通过白噪音 + 摇晃维持白天睡眠质量。
   what_to_do:
     - 白天他困了就让他睡,别故意逗醒
     - 用秋千/弹簧椅给他持续摇摆 + 白噪音
@@ -20,6 +22,10 @@ back:
     白天硬撑不让他睡 → 过度疲劳,神经系统崩溃。
     晚上醒得更频繁,父母自己也累垮。
   evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Karp
+  - G-TERM-five-s
 
 citation:
   book_title_en: "The Happiest Baby on the Block: The New Way to Calm Crying and Help Your Newborn Baby Sleep Longer"
@@ -38,8 +44,9 @@ unit_ids: []
 related_cards:
   - C-S1-027      # 包裹+白噪音延长睡眠
   - C-S1-029      # 5S 慢慢淡出
+  - C-S1-052      # AAP 日夜颠倒
 
 language: zh
 status: draft
 created: 2026-05-01
-updated: 2026-05-01
+updated: 2026-05-02

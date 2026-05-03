@@ -1,0 +1,76 @@
+glossary_id: G-TERM-turn-taking
+type: term
+display_name: 母婴交谈链 (turn-taking)
+
+full_name_zh: 母婴交谈链 / 轮流对话
+full_name_en: Turn-Taking / Conversational Turn-Taking / Serve-and-Return
+
+one_liner: |
+  母婴间"我说-你回应-我再说"的早期对话节奏,是宝宝学语言、建依恋、发展认知的核心机制。
+  哈佛 "Serve and Return" 理论的中文家长版本,鲍秀兰称之为"母婴交谈链"。
+
+detail: |
+  ## 定义
+  父母对宝宝说话 → 留 1-2 秒停顿 → 等宝宝任何反应(咕噜声 / 表情 / 手脚动)→ 父母再回应 → 形成"球来球往"的对话节奏。
+
+  即使宝宝还不会说话,这种"伪对话"也建立了语言交流的神经回路。
+
+  ## 鲍秀兰描述
+  "妈妈和婴儿说话时,如果发现婴儿发出似应答的声音,这时妈妈应停顿片刻,以增加婴儿参加到母亲-婴儿的'交谈链'中的机会。这种母婴间的言语交流对刺激婴儿神经系统的语言加工能力是必需的。"
+
+  ## 等同概念
+  | 流派 | 术语 | 同义性 |
+  |---|---|---|
+  | 鲍秀兰 | 母婴交谈链 | 中文版本 |
+  | Harvard Center on Developing Child | Serve and Return | 国际通用 |
+  | 早期语言学 | Conversational Turn-Taking | 学术术语 |
+  | Reggio Emilia 教育 | Reciprocal Communication | 教育学版本 |
+
+  ## 神经科学背景
+  - **大脑镜像神经元**:宝宝看父母面部表情 → 自己神经被同步激活
+  - **互惠激活**:母婴 fMRI 同步研究显示 5 月龄起母婴脑波同步性 > 路人
+  - **关键时间窗**:0-3 岁 turn-taking 经验越丰富 → 5 岁词汇量、推理能力越强(Romeo 2018 MIT 研究)
+  - 关键不是"父母说话量",而是"轮流次数"(conversational turns)
+
+  ## 操作要点
+  - **停顿** = 关键。说完一句等 1-2 秒,看宝宝反应再继续
+  - **回应任何信号** — 咕噜声、笑、皱眉、手挥都算"回应"
+  - **眼神接触** — 增强 turn-taking 效果
+  - **不打断**宝宝的"发言"(即使是无意义发音)
+  - **0-3 月**:父母说-宝宝看;**4-12 月**:父母说-宝宝咕噜回应;**1 岁+**:渐成真正对话
+
+  ## 失败模式
+  - 父母自顾自说话 / 看手机 → 单向输出无 turn-taking
+  - 不留停顿 → 宝宝没机会"发言"
+  - 觉得"宝宝小不会回应"→ 错过早期交谈链建立
+
+  ## 中文家长常见误区
+  - "等宝宝会说话再开始对话" — 错过 0-12 月关键期
+  - 把"对宝宝说很多话"等同于"对话" — 不一样,关键是 turn-taking 节奏
+
+key_facts:
+  - 0-3 岁建立的语言交流神经回路核心
+  - "我说-你回应-我再说"节奏(关键是停顿)
+  - 哈佛 Serve and Return 理论
+  - Romeo 2018 MIT:turn-taking 比单向说话更重要
+  - 鲍秀兰称为"母婴交谈链"
+
+related_glossary:
+  - G-PERSON-Bao
+  - G-TERM-parentese
+  - G-TERM-cooing
+  - G-TERM-attachment
+
+related_cards:
+  - C-S2-013     # 母婴交谈链:停顿等回应
+  - C-S2-012     # 跟宝宝说话 5 共性
+
+sources:
+  - source_id: SRC-009           # 鲍秀兰
+  - source_id: SRC-002           # Harvard Center on Developing Child Serve and Return
+  - external: Romeo et al. 2018 MIT / Kuhl 2007 / 综合发育心理学
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

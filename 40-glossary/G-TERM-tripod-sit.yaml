@@ -1,0 +1,51 @@
+glossary_id: G-TERM-tripod-sit
+type: term
+display_name: tripod sit (三脚架坐姿)
+
+full_name_en: Tripod Sit
+full_name_zh: 三脚架坐姿
+
+one_liner: |
+  婴儿 6-8 月学习独坐时的过渡姿势:身前两手撑地像三脚架第三只脚,学习平衡。
+
+detail: |
+  ## 定义
+  婴儿身前倾 + 两手撑在前方地面(像三脚架),帮助身体保持平衡的坐姿。
+  这是从"扶坐"过渡到"独坐"的中间阶段。
+
+  ## 时机(AAP 节奏)
+  - **6-8 月**:tripod sit 出现 — 身前倾 + 两手撑前方
+  - **8 月**:独坐但偶尔倒(还会用手撑住防摔)
+  - **9 月**:稳定独坐(双手可同时玩玩具不倒)— **9 月仍不能独坐就找医生**
+
+  ## 怎么帮助宝宝练
+  - 6 月起扶坐 + 前方放玩具吸引宝宝专注 + 自然身前倾
+  - 用枕头垫背防摔倒
+  - 不抢着扶,让他自己练
+  - 不用 sit-me-up 椅子(限制自然练习)
+
+  ## 为什么重要
+  Tripod sit 锻炼的是"身体核心 + 平衡感",这是后续爬 / 站 / 走的基础。
+  跳过这个阶段(全程被椅子托着)会延迟独坐和走路。
+
+key_facts:
+  - 6-8 月出现
+  - 身前倾 + 两手撑地像三脚架
+  - 独坐过渡阶段
+  - 9 月仍不能独坐 → 找医生
+
+related_glossary:
+  - G-ABBR-AAP
+  - G-TERM-cruising
+
+related_cards:
+  - C-S3-010     # 坐姿:6 月 tripod,9 月独坐
+
+sources:
+  - source_id: SRC-007
+  - external: AAP Movement Milestones 4-7 Months
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

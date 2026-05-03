@@ -8,9 +8,12 @@ front:
 
 back:
   why_matters: |
-    父母最常见的错误是嘘声太小。
-    宝宝耳膜厚 + 内耳液体多,听觉是受阻的——
-    他听到的没你以为的那么响。哭得越凶,你越要大声。
+    父母最常见的嘘声错误是**音量太小**,以为"温柔安静"才好。
+    其实新生儿耳膜厚 + 内耳液体多,听觉是受阻的——
+    他听到的没你以为的那么响。
+    Karp 强调:哭得越凶,你越要大声。
+    嘘声音量要 ≥ 宝宝哭声音量(70-80 分贝)。
+    这是 5S "力度匹配哭闹烈度"原则在嘘声上的具体应用。
   what_to_do:
     - 哭声越大,嘘声同步加大,不要保持温柔
     - 调到合适音量后通常几秒到 1-2 分钟见效
@@ -20,6 +23,11 @@ back:
     觉得"在哭闹宝宝耳边大声嘘很粗鲁" → 嘘太小,无效。
     见 1-2 次没见效就放弃 → 其实是音量没到位。
   evidence_level: B
+
+glossary_refs:
+  - G-TERM-five-s
+  - G-PERSON-Karp
+  - G-TERM-calming-reflex
 
 citation:
   book_title_en: "The Happiest Baby on the Block: The New Way to Calm Crying and Help Your Newborn Baby Sleep Longer"
@@ -42,4 +50,4 @@ related_cards:
 language: zh
 status: draft
 created: 2026-05-01
-updated: 2026-05-01
+updated: 2026-05-02

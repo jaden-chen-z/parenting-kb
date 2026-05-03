@@ -8,9 +8,12 @@ front:
 
 back:
   why_matters: |
-    Brazelton 1962 年跟踪 82 个健康宝宝:
-    哭闹从 2 周开始,6 周达到顶峰(25% 的宝宝每天哭超 3 小时),
-    3 个月后基本降到 1 小时以内。这是发育曲线,不是病。
+    哭闹峰值 = 健康婴儿出生后头 3 月哭闹时长的发育曲线,**不是疾病**。
+    Brazelton 1962 N=82 经典研究:
+    哭闹从 2 周开始,**6 周达到顶峰**(25% 宝宝每天哭超 3 小时),
+    3 月末几乎全部回落到 < 1 小时/天。
+    这与 NCSBS 的 PURPLE crying 概念一致(Peak / Unexpected / Resists / Pain-like / Long-lasting / Evening)。
+    撑过 6 周到 3 月这个窗口,大部分宝宝会自然好转。
   what_to_do:
     - 把 2-12 周看成"已知困难期",提前安排支援
     - 6 周突然哭得更凶不是病情恶化,是峰值
@@ -20,6 +23,12 @@ back:
     把 6 周高峰当病变 → 反复跑医院、过度检查。
     觉得"会一直这样下去" → 父母崩溃,容易放弃喂养或情绪失控。
   evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Brazelton
+  - G-PERSON-Karp
+  - G-ABBR-PURPLE
+  - G-TERM-colic
 
 citation:
   book_title_en: "The Happiest Baby on the Block: The New Way to Calm Crying and Help Your Newborn Baby Sleep Longer"
@@ -37,10 +46,10 @@ citation:
 unit_ids: []
 related_cards:
   - C-S1-003      # 哭闹是求生工具
-  - C-S2-002      # 撑过峰非失败(原 C-S1-005)
+  - C-S2-002      # 撑过峰非失败
   - C-S1-006      # 听不懂哭声 ≠ 不细心
 
 language: zh
 status: draft
 created: 2026-05-01
-updated: 2026-05-01
+updated: 2026-05-02

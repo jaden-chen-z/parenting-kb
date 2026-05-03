@@ -1,0 +1,89 @@
+glossary_id: G-TERM-five-s
+type: term
+display_name: 5S 安抚法 (5S's)
+
+full_name_en: The 5 S's of Soothing / Five S's
+full_name_zh: 5S 安抚法
+
+one_liner: |
+  Karp 提出的新生儿安抚 5 招组合:Swaddle 包裹 / Side 侧抱 / Shush 嘘声 / Swing 摇晃 / Suck 吸吮。
+  按顺序使用激活"镇静反射"。AAP 整体认可作为安抚技巧,但不背书 Karp 共睡立场。
+
+detail: |
+  ## 定义
+  哈维·卡普(Karp)在 2002 年《The Happiest Baby on the Block》中提出的新生儿安抚法,5 招首字母都是 S:
+
+  1. **Swaddle 包裹** — 双臂裹在身体内,模拟子宫感
+  2. **Side / Stomach 侧抱 / 趴抱** — 抱姿,**仅清醒安抚,睡觉禁止**(SIDS 风险)
+  3. **Shush 嘘声** — 大声"嘘——",80-90 分贝白噪音模拟子宫血流声
+  4. **Swing 摇晃** — 小幅快速(振幅 30-60cm,每秒 2-3 次)
+  5. **Suck 吸吮** — 安抚奶嘴或妈妈乳头,激活"镇静反射"
+
+  ## 两组逻辑
+  - **前两招(Swaddle + Side)**:让宝宝先停下乱动,锁住莫罗反射干扰
+  - **后三招(Shush + Swing + Suck)**:激活镇静反射
+
+  少一组,另一组也起不到效果(C-S1-009)。
+
+  ## 关键操作原则
+  - **力度匹配哭闹烈度** — 哭得越凶,5 招都要越用力(C-S1-024)
+  - **按顺序连用,不要单招试** — 单招对中重度哭闹效果差
+  - **头几次可能更哭** — 大脑切注意力慢 + 反射延迟 + 神经"余震",别立刻放弃(C-S1-025)
+  - **见效后维持 1-2 分钟** — 立刻撤会反弹
+
+  ## 拥抱疗法 (Cuddle Cure)
+  Karp 把 5 招同时实施叫"拥抱疗法"——5S 的"全功率版本",对崩溃哭闹宝宝几分钟内见效。
+  详见 G-TERM-cuddle-cure。
+
+  ## 慢慢淡出顺序(Karp 推荐)
+  - 满月后:停吸吮(让他不含奶嘴入睡)
+  - 2-3 月:停摇晃(秋千降到最慢档)
+  - 3-6 月:停包裹(开始翻身就要停)
+  - 3-12 月:停嘘声(2 周内逐渐降音量)
+
+  ## 学术评价
+  - **B 级证据**:部分有 RCT 支持(包裹 + 白噪音 + 安抚奶嘴各有研究)
+  - **AAP 立场**:整体认可作为安抚技巧,但不背书 Karp 的"共睡 10 步"
+  - **Cochrane**:无完整 5S 组合的系统综述,各招分开评价
+
+  ## 在本知识库中
+  - Phase 1 Karp 33 张卡里几乎全部涉及 5S
+  - Phase 2 AAP 部分认可(C-S1-038 包裹卡 / C-S1-046 安抚顺序)
+
+key_facts:
+  - 包裹/侧抱/嘘声/摇晃/吸吮 5 招
+  - 必须组合使用,单招效果差
+  - 激活"镇静反射"机制
+  - 哭得越凶力度越大
+  - 4-12 月按顺序淡出
+
+related_glossary:
+  - G-PERSON-Karp
+  - G-TERM-fourth-trimester
+  - G-TERM-calming-reflex
+  - G-TERM-cuddle-cure
+  - G-TERM-swaddle
+  - G-TERM-Moro-reflex
+
+related_cards:
+  - C-S1-001     # 第四产程
+  - C-S1-009     # 5S 必须组合
+  - C-S1-010     # 镇静反射
+  - C-S1-013     # 包裹
+  - C-S1-016     # 侧抱 SIDS
+  - C-S1-017     # 嘘声 80-90 分贝
+  - C-S1-019     # 摇晃要点
+  - C-S1-021     # 非营养性吸吮
+  - C-S1-023     # 拥抱疗法
+  - C-S1-024     # 力度匹配
+  - C-S1-025     # 头几次更哭
+  - C-S1-029     # 5S 淡出顺序
+
+sources:
+  - source_id: SRC-003           # Karp 中译本
+  - external: AAP HealthyChildren / Karp 官网 / 综合儿科文献
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

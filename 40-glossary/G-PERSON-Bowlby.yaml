@@ -1,0 +1,85 @@
+glossary_id: G-PERSON-Bowlby
+type: person
+display_name: Bowlby
+
+full_name_en: John Bowlby
+full_name_zh: 约翰·鲍尔比
+
+one_liner: |
+  英国精神病学家 / 心理分析师,**依恋理论(Attachment Theory)创始人**(1969-1980 三部曲)。
+  现代育儿"安全型 / 焦虑型 / 回避型依恋"分类的源头,影响一代育儿哲学。
+
+detail: |
+  ## 个人背景
+  - 1907-1990 年,英国
+  - 剑桥大学 + 伦敦大学医学训练
+  - 二战期间研究战争孤儿与寄宿儿童心理,启发依恋理论
+  - 长期任伦敦塔维斯托克诊所(Tavistock Clinic)研究主任
+
+  ## 核心贡献:依恋理论(Attachment Theory)
+
+  ### 1. 核心论点
+  婴儿生而有**寻求亲近主要看护人**的本能(adaptive evolution),并通过这种**早期依恋关系质量**形成"内部工作模式"(internal working model),决定终身亲密关系模式。
+
+  ### 2. 三部曲(1969-1980)
+  - **Vol 1: Attachment 依恋**(1969)— 依恋本能的进化基础
+  - **Vol 2: Separation 分离**(1973)— 分离焦虑、抗议-绝望-超脱阶段
+  - **Vol 3: Loss 丧失**(1980)— 哀伤反应
+
+  ### 3. Mary Ainsworth 实证研究(1970s 陌生情境实验)
+  Bowlby 的合作者 Ainsworth 做"陌生情境"(Strange Situation)实验,把依恋分 4 类:
+  - **Secure 安全型**(60-65%)— 父母离开焦虑,回来易安抚
+  - **Anxious-Ambivalent 焦虑矛盾型**(10-15%)— 父母回来既要又推
+  - **Avoidant 回避型**(20-25%)— 父母回来漠然回避
+  - **Disorganized 混乱型**(后期补充,5-10%)— 受虐儿童多见
+
+  ### 4. 实践影响
+  - 推翻"育儿过度关注会宠坏"老观念
+  - 鼓励**及时回应婴儿需求**(后被普及为"responsive parenting")
+  - 反对"严格按时不哄"(Watson behaviorism)
+  - 影响 RIE / 蒙台梭利 / 鲍秀兰等多个流派
+
+  ## 主要著作(中译)
+  - 《依恋》(中译本)
+  - 《分离》(中译本)
+  - 《丧失》(中译本)
+  全部 raw_pdfs/ 已 OCR(`bowlby_attachment_zh.md` / `bowlby_separation_zh.md` / `bowlby_loss_zh.md`),Phase 4 候选源
+
+  ## 学术评价
+  - **依恋理论 = 现代发展心理学奠基理论之一**
+  - 与 Piaget 认知理论 + Vygotsky 社会建构理论并称
+  - 安全依恋婴儿成年后:亲密关系质量高 / 自尊高 / 抗压强 / 育儿能力强
+  - 2010s 神经科学验证:童年依恋影响成年大脑前额叶 / 杏仁核结构
+
+  ## 在本知识库中
+  - 鲍秀兰多次引用依恋理论(虽未点名 Bowlby)
+  - C-S4-016(8 月前抱抱不会宠坏)直接基于焦虑型 vs 安全型对比
+  - C-S2-013 / C-S6-006 / S6-008 等多张卡的"依恋"理念源自 Bowlby
+  - **Phase 4 候选第一本**:Bowlby 三部曲完整提取后,可大量交叉验证
+
+key_facts:
+  - 英国精神病学家(1907-1990)
+  - 依恋理论(Attachment Theory)创始人
+  - 三部曲:依恋(1969)/ 分离(1973)/ 丧失(1980)
+  - Mary Ainsworth 陌生情境实验把依恋分 4 类
+  - 鲍秀兰早教理论的隐形理论基础
+
+related_glossary:
+  - G-TERM-attachment
+  - G-PERSON-Bao        # 鲍秀兰多次引用依恋理论
+  - G-PERSON-Brazelton  # 同代美国儿科 + 触摸点理论作者
+
+related_cards:
+  # 引用依恋理论的卡片
+  - C-S4-016     # 8 月前抱抱不会宠坏(直接基于安全 vs 焦虑型)
+  - C-S2-013     # 不等啼哭再喂(及时响应)
+  - C-S1-067     # 把新生儿当懂事孩子
+  - C-S6-006     # 16-18 月跟小伙伴玩(依恋扩展)
+
+sources:
+  - external: Bowlby J. Attachment and Loss Vol 1-3 (1969-1980) Hogarth Press / Ainsworth MDS Strange Situation 1978 / 综合发育心理学
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

@@ -8,9 +8,12 @@ front:
 
 back:
   why_matters: |
-    Tiffany Field 1986 RCT:早产儿每天 3 次每次 15 分钟按摩,
-    10 天后体重 +47%,智商一年后高出对照组。
-    按摩 / 热水浴 / 戴帽 / 散步是 5S 之外的辅助安抚。
+    按摩 / 热水浴 / 戴帽 / 散步是 Karp 推荐的 5S 之外辅助安抚法。
+    最强循证来自 Tiffany Field 1986 RCT(早产儿按摩研究):
+    每天 3 次每次 15 分钟按摩,10 天后**体重 +47%**,
+    智商一年后高出对照组,提前 1 周出院。
+    这是 Karp 33 张卡里少数有 RCT 直接背书的论点(B 级)。
+    适用足月健康宝宝也有部分证据(减哭闹 / 提警觉)。
   what_to_do:
     - 按摩:进食后 1 小时,温暖房间,从足部到全身
     - 腹部顺时针 + 自行车式蹬腿(消化助力)
@@ -20,6 +23,12 @@ back:
     按摩用力错误 → 宝宝抗拒(力度参考成人按肩)。
     热水温度过高 → 烫伤(婴儿皮肤敏感)。
   evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Field
+  - G-PERSON-Karp
+  - G-TERM-five-s
+  - G-ABBR-RCT
 
 citation:
   book_title_en: "The Happiest Baby on the Block: The New Way to Calm Crying and Help Your Newborn Baby Sleep Longer"
@@ -43,4 +52,4 @@ related_cards:
 language: zh
 status: draft
 created: 2026-05-01
-updated: 2026-05-01
+updated: 2026-05-02

@@ -1,0 +1,52 @@
+glossary_id: G-ABBR-IU
+type: abbreviation
+display_name: IU
+
+full_name_en: International Unit
+full_name_zh: 国际单位
+
+one_liner: |
+  脂溶性维生素(D / A / E)和某些药物的剂量单位,基于生物活性而非重量。婴儿维生素 D 推荐 400 IU/d (= 10 mcg/d)。
+
+detail: |
+  ## 定义
+  IU(国际单位)是基于物质生物活性测定的剂量单位,不是质量单位。
+  对于不同物质,1 IU 对应不同微克 / 毫克数。
+
+  ## 婴儿育儿场景常见 IU
+  - **维生素 D**:1 IU = 0.025 mcg(微克)
+    - AAP 推荐:< 1 岁 400 IU/d (10 mcg)
+    - AAP 推荐:> 1 岁 600 IU/d (15 mcg)
+    - 配方奶 ≥ 27 oz/d(800 ml)= 已含 400 IU,不必另补
+  - **维生素 A**:1 IU = 0.3 mcg(retinol)
+  - **维生素 E**:1 IU = 0.67 mg(d-α-tocopherol)
+
+  ## 父母买滴剂时怎么看
+  - 标签上常写 "400 IU per drop" 或 "400 IU per 1 mL"
+  - 选 droplet 形式(易控量)
+  - 国内有些产品标 "10 mcg" 而不是 "400 IU"— 同样剂量
+
+  ## 历史
+  - 1925 年国际联盟首次定义
+  - 现代偏向用 mcg / mg(更精确),但医药传统仍用 IU
+
+key_facts:
+  - 基于生物活性,不是质量单位
+  - 维生素 D:1 IU = 0.025 mcg
+  - 婴儿维生素 D 推荐 400 IU/d (= 10 mcg)
+  - 配方奶 ≥ 27 oz/d 不必另补维 D
+
+related_glossary:
+  - G-ABBR-mcg
+  - G-ABBR-AAP
+
+related_cards:
+  - C-S1-053     # AAP 母乳宝宝必补维 D 400 IU/d
+
+sources:
+  - external: WHO International Pharmacopoeia / 综合药学常识
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

@@ -8,10 +8,12 @@ front:
 
 back:
   why_matters: |
-    Karp 说哭闹宝宝的父母都是"英雄"。
-    哭闹无法被"消除",但能被有效缓解。
+    哭闹峰(2-12 周)是发育曲线不是父母失败,但中文文化的"妈妈天然爱孩子"叙事
+    让很多妈妈陷入自责泥潭。
+    Karp 把哭闹宝宝的父母称为"英雄"——
+    哭闹无法被"消除",但能被有效缓解(5S 法 + 拥抱疗法)。
     重要的是别一边哄一边自责——自责会让你状态更差,
-    照护质量也跟着下降。
+    照护质量也跟着下降,严重时引发 PPD 或 SBS 风险。
   what_to_do:
     - 反复对自己说:"是他在过峰值,不是我没做好"
     - 哭闹时优先做 5S,接受"不能立刻止哭"的现实
@@ -21,6 +23,13 @@ back:
     "他是不是疼?我是不是糟糕母亲?" — 这种问句会瞬间击垮信心。
     一个人硬撑不求助 → 产后抑郁加重 + 摇晃综合征风险。
   evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Karp
+  - G-TERM-five-s
+  - G-TERM-cuddle-cure
+  - G-TERM-postpartum-depression
+  - G-ABBR-SBS
 
 citation:
   book_title_en: "The Happiest Baby on the Block: The New Way to Calm Crying and Help Your Newborn Baby Sleep Longer"
@@ -38,11 +47,13 @@ citation:
 unit_ids: []
 related_cards:
   - C-S1-003      # 哭闹是求生工具
-  - C-S2-001      # 哭闹峰(原 C-S1-004)
+  - C-S2-001      # 哭闹峰
   - C-S1-007      # 前 3 月不会惯坏
   - C-S1-008      # 心跳加速是天然反射
+  - C-S1-033      # 产后抑郁 3 阶段
+  - C-S1-049      # AAP 崩溃放下宝宝
 
 language: zh
 status: draft
 created: 2026-05-01
-updated: 2026-05-01
+updated: 2026-05-02

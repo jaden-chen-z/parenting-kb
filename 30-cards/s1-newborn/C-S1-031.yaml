@@ -8,9 +8,12 @@ front:
 
 back:
   why_matters: |
-    绝大多数哭闹都是正常,但 Karp 列了 10 种红旗必须立即就医:
-    发烧 / 无精打采 / 喷射呕吐 / 血便 / 呼吸困难 / 前囟鼓起。
-    建议父母手机收藏一张表。
+    红旗信号 = 婴儿哭闹背后可能藏重病的特定症状清单。
+    约 99% 的哭闹是正常发育(肠绞痛 / 第四产程缺失 / 普通需求),
+    只有约 1% 背后是疾病——但漏诊代价大(脑膜炎 / 败血症 /
+    先天巨结肠 / 肠梗阻 / 严重感染等)。
+    Karp 在附录 A 列了 10 种红旗,符合任意一项**立即就医**。
+    这是 Karp 33 张卡里最不能掉以轻心的一张,建议父母手机收藏。
   what_to_do:
     - 直肠温度 > 39°C 或 < 36.5°C → 急诊
     - 呕吐物绿色/黄色 + 持续不停 → 急诊
@@ -21,6 +24,13 @@ back:
     把红旗当"普通哭闹用 5S 就好" → 延误重病诊断。
     退烧后觉得没事 → 漏掉脑膜炎/败血症初期。
   evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Karp
+  - G-TERM-colic
+  - G-ABBR-AAP
+  - G-ABBR-SIDS
+  - G-TERM-fourth-trimester
 
 citation:
   book_title_en: "The Happiest Baby on the Block: The New Way to Calm Crying and Help Your Newborn Baby Sleep Longer"
@@ -44,4 +54,4 @@ related_cards:
 language: zh
 status: draft
 created: 2026-05-01
-updated: 2026-05-01
+updated: 2026-05-02

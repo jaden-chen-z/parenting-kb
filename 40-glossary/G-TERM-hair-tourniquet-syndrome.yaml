@@ -1,0 +1,67 @@
+glossary_id: G-TERM-hair-tourniquet-syndrome
+type: term
+display_name: 头发止血带综合征 (hair tourniquet syndrome)
+
+full_name_en: Hair-Thread Tourniquet Syndrome
+full_name_zh: 头发止血带综合征
+
+one_liner: |
+  头发或细线缠绕婴儿手指 / 脚趾 / 阴茎 / 阴蒂,可能切断血流甚至坏死。AAP 列入 "shrieking 哭声" 的优先排查清单 — 中文文化几乎没人教。
+
+detail: |
+  ## 定义
+  细丝(头发 / 衣服线 / 缝线)缠绕婴儿身体附属器(手指 / 脚趾 / 阴茎 / 阴蒂 / 舌头 / 悬雍垂),
+  形成"止血带"效应,阻断血流 → 缺血 → 坏死。
+
+  ## 流行病学
+  - 婴儿 4-19 周龄高发(妈妈产后掉发 + 宝宝穿带线衣物)
+  - 实际发生率被低估(很多漏诊)
+  - 男婴 / 女婴都有
+
+  ## 典型表现
+  - **尖叫式 / 惊恐式哭声**(突然 + 持续 + 安抚不下来)
+  - 检查发现手指 / 脚趾肿胀 / 发紫
+  - 严重的可见缠绕物(细头发肉眼难看)
+
+  ## 救命排查
+  AAP 在 "Responding to Cries" 文章明确列入排查清单:
+  > "If there's a shrieking or panicked quality to the cry, consider if a piece of clothing or something else is making them uncomfortable. Perhaps a strand of hair is caught around a finger or toe."
+
+  父母排查步骤:
+  1. 逐根检查每根手指、脚趾(脚趾最易漏)
+  2. 排查衣服缝线 / 标签 / 鞋袜松紧带
+  3. 排查眼睛 / 鼻孔 / 耳朵 / 口腔
+  4. 男婴还要排查阴茎 / 阴囊
+
+  ## 治疗
+  - 早期(< 24 小时)+ 无坏死:小心剪开缠绕物
+  - 严重 / 已坏死:急诊外科评估
+  - 极端情况可能需要截指
+
+  ## 中文家长视角
+  - 中文文化几乎没人教
+  - 妈妈产后掉发是高风险源
+  - 哭声"尖叫式 + 突然 + 持续"必查
+
+key_facts:
+  - 头发 / 细线缠绕导致缺血坏死
+  - 4-19 周龄高发
+  - 妈妈产后掉发是主要源
+  - AAP 救命排查清单
+  - 中文文化盲区
+
+related_glossary:
+  - G-ABBR-AAP
+
+related_cards:
+  - C-S1-031     # Karp 哭闹的 10 个红旗信号
+  - C-S1-044     # AAP 哭闹排查头发缠手指/脚趾
+
+sources:
+  - source_id: SRC-005
+  - external: 综合儿科急诊文献 / 儿科皮肤科常识
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

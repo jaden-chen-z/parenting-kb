@@ -1,0 +1,56 @@
+glossary_id: G-PERSON-Wessel
+type: person
+display_name: Wessel
+
+full_name_en: Morris A. Wessel
+full_name_zh: 莫里斯·韦塞尔
+
+one_liner: |
+  美国儿科医生(1917-2017),1954 年首次系统定义"肠绞痛(colic)"诊断标准 — "3-3 规则":每天哭 ≥ 3h × 每周 ≥ 3 天 × ≥ 3 周。
+
+detail: |
+  ## 个人背景
+  - 1917-2017,美国儿科医生
+  - 耶鲁大学医学院教授
+  - 在康涅狄格州 New Haven 私人执业 40+ 年
+
+  ## 主要贡献:Wessel 3-3 规则
+  1954 年发表论文 "Paroxysmal fussing in infancy, sometimes called 'colic'" (Pediatrics)。
+  首次提出 colic 诊断标准:
+  - 每天哭闹 ≥ 3 小时
+  - 每周 ≥ 3 天
+  - 持续 ≥ 3 周
+
+  ## 历史影响
+  - 60+ 年来 colic 临床诊断的金标准
+  - 2016 年 Rome IV 标准修订(去掉"3 周"门槛)
+  - 但学术 / 临床仍用 Wessel 规则
+
+  ## 在本知识库中
+  - Karp《卡普新生儿安抚法》在 colic 章节引用
+  - AAP HealthyChildren.org 间接引用("colic 影响约 1/5 婴儿")
+
+key_facts:
+  - 1917-2017,耶鲁儿科教授
+  - 1954 年首提 colic "3-3 规则"
+  - 60+ 年临床金标准
+  - 2016 Rome IV 修订
+
+related_glossary:
+  - G-ABBR-PURPLE
+  - G-PERSON-Karp
+  - G-PERSON-Brazelton
+
+related_cards:
+  - C-S2-001     # Karp 哭闹峰
+  - C-S2-002     # Karp 撑过哭闹峰
+  - C-S2-004     # AAP Colic 是神经敏感
+
+sources:
+  - source_id: SRC-003
+  - external: Wessel MA et al. Pediatrics 1954;14:421 / Wikipedia
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

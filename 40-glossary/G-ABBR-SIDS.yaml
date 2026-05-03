@@ -1,0 +1,86 @@
+glossary_id: G-ABBR-SIDS
+type: abbreviation
+display_name: SIDS
+
+full_name_en: Sudden Infant Death Syndrome
+full_name_zh: 婴儿猝死综合征
+
+one_liner: |
+  1 岁内婴儿无明显原因猝死,睡眠相关。美国每年约 3500 例,2-4 月发病率最高,2022 AAP Policy 给完整预防建议。
+
+detail: |
+  ## 定义
+  12 月以内婴儿"无明显原因突然死亡"的统称(诊断需要尸检 + 死亡现场调查 + 病史回顾排除其他原因)。
+
+  ## 流行病学
+  - 美国每年约 3500 例(2026 数据)
+  - 0-1 岁主要死因之一(美国);中国数据少,估计每万例活产 0.3-0.5
+  - 高峰月龄:**2-4 月**(此前 / 此后均显著低)
+  - 男婴略多于女婴(60% / 40%)
+
+  ## 主要风险因子
+  - 趴睡 / 侧睡(6× 风险)
+  - bed-sharing(尤其沙发 67×、impaired 大人 10×、< 4 月 5-10×)
+  - 早产 / 低出生体重(2-5×)
+  - 母亲孕期吸烟 / 二手烟
+  - 过热 / 床垫软 / 有松散物
+  - 不母乳喂养 / 不打疫苗
+
+  ## 预防(AAP 2022 Policy 完整建议)
+  - 每次入睡都仰睡
+  - 平整非倾斜面(< 10°)+ CPSC 认证
+  - bare crib(只有床单,无枕被玩具)
+  - 房间共睡(crib 在床边伸手可及)
+  - 绝不 bed share
+  - 母乳 + 奶嘴(nap/bedtime)+ 不抽烟 + 不过热
+  - 按时打疫苗
+
+  ## 历史
+  - 1992 年 AAP 首次推 "Back to Sleep" 运动 → 美国 SIDS 死亡数从 6000/年 降到 3500/年
+  - 2011 年 AAP Policy 扩展到 "Safe Sleep" 完整建议
+  - 2022 年 AAP Policy 进一步加强(含 2021 CPSC 强制鼓励 rule)
+
+key_facts:
+  - 美国每年约 3500 例
+  - 0-1 岁主要死因之一
+  - 高峰月龄 2-4 月
+  - 1992 年 Back to Sleep 后死亡数降 ~40%
+  - AAP 2022 Policy 给完整预防建议
+
+related_glossary:
+  - G-ABBR-AAP
+  - G-ABBR-SBS
+  - G-ABBR-CPSC
+  - G-TERM-back-sleep
+  - G-TERM-bed-sharing
+  - G-TERM-swaddle
+  - G-TERM-room-sharing
+
+related_cards:
+  # Karp 卡(SRC-003)
+  - C-S1-015     # Karp 包裹 5 个最常见错误(4 月翻身后必须停)
+  - C-S1-016     # Karp 侧抱只能安抚,睡觉禁止
+  - C-S1-022     # Karp 奶嘴别太早(AAP 立场:奶嘴可降 SIDS)
+  - C-S1-027     # Karp 包裹+白噪音延长睡眠(必须仰睡)
+  - C-S1-028     # Karp 共同入睡 10 步(controversy)
+  - C-S1-029     # Karp 5S 淡出(4 月翻身后必须停包)
+  - C-S1-031     # Karp 哭闹的 10 个红旗信号
+  # AAP 卡(SRC-004)
+  - C-S1-034     # AAP 仰睡每次都要
+  - C-S1-035     # AAP 婴儿床只一张床单
+  - C-S1-036     # AAP 平面+认证床
+  - C-S1-037     # AAP 同房不同床
+  - C-S1-038     # AAP 包裹不防 SIDS
+  - C-S1-039     # AAP 睡前给奶嘴
+  - C-S1-040     # AAP 不抽烟
+  - C-S1-041     # AAP 不过热
+  - C-S2-006     # AAP 婴儿呼吸暂停 5-10s 是正常
+
+sources:
+  - source_id: SRC-004           # AAP Safe Sleep cluster
+  - external: AAP 1992 Back to Sleep campaign / CDC 流行病学数据 / 综合儿科医学常识
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

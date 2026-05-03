@@ -1,0 +1,71 @@
+glossary_id: G-PERSON-Piaget
+type: person
+display_name: Piaget
+
+full_name_en: Jean Piaget
+full_name_zh: 让·皮亚杰
+
+one_liner: |
+  瑞士心理学家(1896-1980),认知发展阶段理论奠基人。提出"物体永久性"概念,影响 20 世纪整个发展心理学。
+
+detail: |
+  ## 个人背景
+  - 1896 年生于瑞士 Neuchâtel,1980 年卒于日内瓦
+  - 11 岁就发表第一篇关于白化麻雀的科学论文
+  - 1918 获生物学博士,后转向心理学
+  - 1929-1980 任日内瓦大学心理学教授
+  - 通过观察自己 3 个孩子(及无数其他儿童)发展认知发展理论
+
+  ## 4 大认知发展阶段
+  Piaget 认为儿童认知发展分 4 个普遍阶段:
+
+  ### 1. 感知运动期(Sensorimotor stage,0-2 岁)
+  - 通过感官 + 动作探索世界
+  - **物体永久性**(object permanence)8-10 月发展
+  - "tiny scientist" 行为(扔 / 滚 / 尝东西看反应)— 这正是 AAP 8-12 月认知章描述的
+
+  ### 2. 前运算期(Preoperational stage,2-7 岁)
+  - 语言爆发 + 假装游戏
+  - 自我中心(无法 perspective-take)
+  - 无守恒概念(高瘦杯 vs 矮宽杯水量)
+
+  ### 3. 具体运算期(Concrete operational stage,7-11 岁)
+  - 逻辑思维 + 守恒理解
+  - 仍依赖具体物体
+
+  ### 4. 形式运算期(Formal operational stage,11+ 岁)
+  - 抽象推理
+  - 假设演绎思维
+
+  ## 在本知识库中
+  - **物体永久性**(object permanence)是 R4 认知卡 C-S4-003 的核心概念
+  - 分离焦虑(C-S5-004)的认知基础也是 Piaget 的物体永久性
+  - AAP HealthyChildren.org Cognitive Development 8-12 Months 直接引用 Piaget
+
+  ## 学术影响
+  - 1969 年获 American Psychological Association(APA)杰出科学贡献奖
+  - 1976 年获 Erasmus 奖
+  - 被 *Time* 评为 20 世纪 100 位最重要科学家之一
+  - 后来发展心理学的"反 Piaget"研究(Vygotsky 等)也都是基于他的框架
+
+key_facts:
+  - 瑞士心理学家(1896-1980)
+  - 4 大认知发展阶段奠基人
+  - 物体永久性概念创始人
+  - 20 世纪发展心理学最重要人物之一
+
+related_glossary:
+  - G-TERM-object-permanence
+  - G-TERM-peekaboo
+  - G-ABBR-AAP
+
+related_cards:
+  - C-S4-003     # 物体永久性 8-10 月,peekaboo 教
+
+sources:
+  - external: Piaget 1936 / 1937 / Wikipedia Jean Piaget / 综合发展心理学史
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

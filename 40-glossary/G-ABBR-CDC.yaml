@@ -1,0 +1,58 @@
+glossary_id: G-ABBR-CDC
+type: abbreviation
+display_name: CDC
+
+full_name_en: Centers for Disease Control and Prevention
+full_name_zh: 美国疾病控制与预防中心
+
+one_liner: |
+  美国国家公共卫生机构,负责疾病监测 / 流行病学 / 疫苗推荐。与 AAP 共同制定儿童疫苗时间表 + 发育里程碑标准。
+
+detail: |
+  ## 简介
+  - 1946 年成立(原名 Communicable Disease Center)
+  - 总部 Atlanta, Georgia
+  - 美国卫生与公众服务部下属机构
+  - 覆盖范围:疾病监测 / 流行病学调查 / 疫苗推荐 / 旅行医学 / 公共卫生应急
+
+  ## 与儿科 / 育儿相关的关键产出
+  - **ACIP 疫苗时间表**:Advisory Committee on Immunization Practices,与 AAP 共制
+  - **Learn the Signs. Act Early. (LTSAE)**:0-5 岁发育里程碑科普(75 百分位定义)
+  - **WIC 营养项目**:孕妇 + 婴幼儿营养支持
+  - **SIDS 流行病学统计**:全国 SIDS 死亡数据来源
+  - **铅 / 砷监测**:儿童重金属暴露追踪
+
+  ## 与 AAP 的关系
+  - AAP = 儿科医生专业组织
+  - CDC = 政府公共卫生机构
+  - 疫苗时间表是 AAP / CDC / AAFP 共同推荐(高度一致)
+  - 互为引用,共同形成美国儿科 Tier 1 权威源
+
+  ## 在本知识库中
+  - SRC-001(CDC LTSAE 9 月里程碑)是 Phase 0 样本源
+  - 疫苗时间表(C-S1-064)间接引用 CDC ACIP 标准
+  - 重金属监测(C-S3-007 米粉砷)引用 FDA + CDC 数据
+
+key_facts:
+  - 1946 年成立,总部 Atlanta
+  - 与 AAP 共制疫苗时间表(ACIP)
+  - LTSAE 是 75 百分位里程碑定义来源
+  - SIDS / 铅 / 砷国家监测主体
+
+related_glossary:
+  - G-ABBR-AAP
+  - G-ABBR-FDA
+
+related_cards:
+  - C-S1-064     # 0-12 月疫苗时间表
+  - C-S3-007     # 米粉砷
+  - C-S5-007     # 12 月疫苗
+
+sources:
+  - source_id: SRC-001           # CDC LTSAE 是 Phase 0 主源
+  - external: CDC 官网 / Wikipedia
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

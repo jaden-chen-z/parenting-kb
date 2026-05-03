@@ -1,0 +1,64 @@
+glossary_id: G-TERM-baby-bottle-tooth-decay
+type: term
+display_name: 奶瓶蛀牙 (baby bottle tooth decay)
+
+full_name_en: Baby Bottle Tooth Decay / Early Childhood Caries (ECC)
+full_name_zh: 奶瓶蛀牙 / 早期儿童龋齿
+
+one_liner: |
+  长期含奶瓶睡(尤其睡前)导致牙齿浸在糖中,产生的早期儿童龋齿。最易侵犯门牙。AAP:12-18 月戒奶瓶 + 1 岁内不喝果汁。
+
+detail: |
+  ## 定义
+  婴幼儿牙齿(尤其门牙)长时间暴露在含糖液体中(配方奶 / 母乳 / 果汁 / 任何甜饮)产生的龋齿。
+  对应医学术语:Early Childhood Caries (ECC)。
+
+  ## 病因
+  - 含奶瓶睡(睡前 / 半夜)
+  - sippy cup 装果汁 / 奶整天吸
+  - 频繁夜哺(母乳 + 配方都算)
+  - 共用餐具传染口腔细菌
+
+  ## 高发年龄
+  - 12-36 月最常见
+  - 如不干预,可能严重到需要拔牙
+
+  ## 典型表现
+  - 上门牙先发病(因奶瓶喷流方向)
+  - 牙面出现白斑 → 黄棕色 → 黑色 → 龋洞
+  - 严重时门牙全部蛀掉
+
+  ## AAP / AAPD 预防
+  - 12-18 月戒奶瓶(C-S5-001)
+  - 1 岁内不喝果汁,1 岁后限 100% 果汁 ≤ 4 oz/天(C-S3-005)
+  - 1 岁起每天用米粒大牙膏(含氟)刷牙
+  - 1 岁起去看牙医(首次)
+  - sippy cup 只装水,不装奶 / 果汁
+
+  ## 中文家长视角
+  - 国内"睡前奶瓶"极普遍
+  - 奶瓶蛀牙是中国儿科牙科主诉之一
+  - 老人觉得"乳牙反正会换"是错误观念(乳牙影响恒牙位置 + 美观 + 发音)
+
+key_facts:
+  - 含奶瓶睡是主因
+  - 上门牙最易先发
+  - 12-36 月高发
+  - AAP:12-18 月戒奶瓶
+  - 乳牙蛀也影响恒牙
+
+related_glossary:
+  - G-ABBR-AAP
+
+related_cards:
+  - C-S5-001     # AAP 戒奶瓶 12-18 月,sippy 只过渡
+  - C-S3-005     # AAP 1 岁内不喝果汁
+
+sources:
+  - source_id: SRC-006
+  - external: AAPD(美国儿童牙科学会)指南 / 综合儿科牙科常识
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

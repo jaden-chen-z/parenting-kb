@@ -1,0 +1,99 @@
+glossary_id: G-TERM-disorganized-attachment
+type: term
+display_name: 混乱型依恋 (D 型)
+
+full_name_en: Disorganized / Disoriented Attachment (Type D)
+full_name_zh: 混乱型依恋 / 紊乱型依恋
+
+one_liner: |
+  Ainsworth 三类依恋(B/A/C)外的**第四类**,Mary Main & Solomon 1990 补充。
+  特点:婴儿在陌生情境中**同时表现 A 回避 + C 抗拒矛盾行为**,身体僵硬、动作中断、表情木然。
+  正常样本中 ~5%,但**受虐 / 父母严重抑郁 / 家庭暴力**家庭中可达 80%。是创伤指标 + 严重心理病理风险。
+
+detail: |
+  ## 历史
+  Ainsworth 1969 陌生情境实验最初分 3 类(B/A/C)。
+  但 1980s 研究者发现部分婴儿"无法分类":行为既不像 A 也不像 C,也不像 B。
+  Mary Main 和 Judith Solomon (1990) 系统重看 200+ 录像,提出**第四类:D 型(Disorganized/Disoriented)**。
+
+  ## 陌生情境表现
+  D 型行为不是某种"模式",而是**模式崩溃**:
+  - **同时**表现矛盾行为(妈回来,既靠近又突然转身退缩)
+  - 动作**中断**(走两步停住,愣神)
+  - 身体**僵硬**(母亲来了不哭也不笑,像石头)
+  - 表情**木然 / 解离**(眼神涣散,看像在远处)
+  - 反常姿势(头转一边,眼睛看另一边)
+  - 突然害怕母亲(像看到陌生人)
+  - 把脸贴墙 / 头撞地
+
+  ## 比例
+  - **正常中产家庭样本**:~5-10%
+  - **低社经地位 / 单亲家庭**:~15-25%
+  - **父母抑郁 / 物质滥用**:~30-40%
+  - **身体虐待 / 家庭暴力家庭**:**~80%** ⚠️
+
+  ## 形成机制(Main 提出)
+  D 型的核心:**母亲既是安全来源,又是恐惧来源**。
+  这对婴儿是无法解决的悖论:
+  - 害怕了应该跑去找妈妈 — 但妈妈正是引发害怕的人
+  - 趋近 + 回避同时激活 → 行为系统瘫痪
+  - 表现为"木僵"或"解离"
+
+  常见来源:
+  - 父母直接虐待(打 / 吼 / 恐吓)
+  - 父母自己有未处理的童年创伤(behind eyes 看不到回应)
+  - 父母严重抑郁(无表情 / 无回应)
+  - 家庭暴力目击(父母吵架 / 互相伤害)
+
+  ## 长期影响
+  - 童年:解离症状 / 异常攻击 / 同伴关系障碍
+  - 青少年:高自残 / 抑郁 / PTSD 风险
+  - 成年:边缘性人格障碍(BPD)风险显著高
+  - **代际传递率高**:D 型妈妈的孩子 ~50% 也是 D 型(高于 B/A/C 的 75% 同型率)
+
+  ## 与 B/A/C 的关键区别
+  | 类型 | 母亲特征 | 孩子策略 |
+  |---|---|---|
+  | B 安全 | 敏感一致回应 | 求助 → 被安抚 |
+  | A 回避 | 不喜身体接触 / 推开 | 关闭情感,自我安抚 |
+  | C 抗拒 | 不一致回应 | 夸大反应抓注意 |
+  | **D 混乱** | **既是安全又是恐惧来源** | **策略崩溃,无法处理** |
+
+  A/C 是不健康的"次优策略",D 是**没有策略**。
+
+  ## 干预
+  - 早期干预效果最好(2 岁前 → 5-7 岁前 → 青少年期)
+  - 治疗目标:让父母先处理自己的童年创伤(否则 D 持续传递)
+  - 当代依恋治疗(Mentalization-based / EFT / DDP)针对此设计
+  - 经济文化干预(减少家庭压力 / 反家暴 / 抑郁治疗)
+
+  ## 在本知识库中
+  - C-S6-070(被打的孩子有特殊创伤模式)直接基于 Main & Solomon 1990
+  - C-S5-070..073 完整 4 类型框架(B/A/C 已建,D 此处补充)
+  - G-TERM-internal-working-model 提及 D 型创伤性工作模型
+
+key_facts:
+  - Main & Solomon 1990 补充第四类
+  - 矛盾行为 + 动作中断 + 木僵 + 解离
+  - 受虐家庭 80%,中产家庭 5%
+  - 形成机制:母亲既是安全又是恐惧
+  - 代际传递率最高,创伤标志
+
+related_glossary:
+  - G-PERSON-Bowlby
+  - G-PERSON-Ainsworth
+  - G-TERM-attachment
+  - G-TERM-strange-situation
+  - G-TERM-internal-working-model
+
+related_cards:
+  - C-S6-070     # 被打的孩子有特殊创伤模式
+
+sources:
+  - source_id: SRC-011
+  - external: "Main M & Solomon J (1990) Procedures for Identifying Infants as Disorganized / Lyons-Ruth (1996) / van IJzendoorn et al. (1999) 元分析"
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03
