@@ -1,0 +1,48 @@
+card_id: C-S3-001
+stages: [S3]
+tags: []
+
+front:
+  title: 辅食准备 4-6 月,半勺起,3-5 天 1 新
+  hook: 看头控+13 lbs,不只看月龄
+
+back:
+  why_matters: |
+    辅食(complementary food)= 母乳 / 配方奶之外的固体或半固体食物。
+    4 月前消化系统未就绪 + 易触发未来过敏 + 增窒息风险 → AAP 不推荐。
+    中国传统"4 月开始米糊"vs AAP 主推 6 月(4-6 月可早,看 readiness)。
+    AAP readiness 三信号 — 头控好 + 双倍出生体重(~13 lbs / 约 4 月) + 看大人吃伸手抓。
+    起点:半勺糊状,单成分新食物 3-5 天间隔(看反应)。
+  what_to_do:
+    - 看 3 信号:头控好 + 体重 ≈ 13 磅 + 看大人吃伸手
+    - 满 6 月主推,不到 4 月别开始
+    - 第一口:半勺糊状/泥状 → 1-2 茶匙
+    - 一次只 1 单成分,等 3-5 天看反应
+    - 含铁锌:肉泥 + 强化铁米粉(铁需求 6 月起骤增)
+  failure_mode: |
+    凭月龄硬上(没 readiness 信号)→ 吐 / 拒食 / 呛。
+    一次 5 种新食物 → 过敏不知谁触发,只能全部停掉重新试。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-AAP
+  - G-ABBR-BLW
+  - G-TERM-responsive-feeding
+
+citation:
+  page_title: "Starting Solid Foods"
+  publisher: American Academy of Pediatrics
+  portal: HealthyChildren.org
+  page_url_primary: https://www.healthychildren.org/English/ages-stages/baby/feeding-nutrition/Pages/starting-solid-foods.aspx
+  accessed: 2026-05-01
+  language: en
+  location: "'When Can My Baby Begin Solid Foods?' + 'How to Feed Your Baby' + 'First Foods Selection'"
+  source_id: SRC-006
+
+unit_ids: []
+related_cards: []
+
+language: zh
+status: draft
+created: 2026-05-01
+updated: 2026-05-02

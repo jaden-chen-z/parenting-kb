@@ -1,0 +1,50 @@
+card_id: C-S2-003
+stages: [S2]
+tags: [safety]
+
+front:
+  title: 7 周起每天 15-30 分钟 tummy time
+  hook: 防扁头 + 加颈部肌肉
+
+back:
+  why_matters: |
+    tummy time(趴卧练习)= 婴儿清醒时趴在硬平面玩,大人在旁强制监督。
+    1992 AAP "Back to Sleep" 推广仰睡后,扁头综合征(positional plagiocephaly)发病率上升。
+    Tummy time 是配套设计,平衡仰睡造成的颈部 + 后脑发育不足。
+    AAP:出院当天就可开始,7 周龄达每天 15-30 分钟。
+    益处:防扁头 + 颈肌发育 + 帮以后翻身 / 爬 / 坐。
+  what_to_do:
+    - 出院当天就可开始(每次几分钟也行)
+    - 每天累加,7 周达 15-30 分钟/天
+    - 必须清醒 + 大人监督,打盹立刻翻仰
+    - 在硬平面(地垫)上,不在沙发 / 床 / 大人怀里
+    - 喂奶后 30 分钟避免(防吐奶)
+  failure_mode: |
+    怕宝宝难受不做 → 扁头综合征 + 翻身延迟。
+    在沙发上趴让他自己玩 → SIDS 高危(沙发是死亡热区)。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-AAP
+  - G-TERM-tummy-time
+  - G-TERM-back-sleep
+  - G-ABBR-SIDS
+
+citation:
+  page_title: "Safe Sleep: 9 Ways + AAP Policy Explained"
+  publisher: American Academy of Pediatrics
+  portal: HealthyChildren.org
+  policy_basis: "AAP Task Force on SIDS — 2022 Policy Statement"
+  page_url_primary: https://www.healthychildren.org/English/ages-stages/baby/sleep/Pages/How-to-Keep-Your-Sleeping-Baby-Safe-AAP-Policy-Explained.aspx
+  accessed: 2026-05-01
+  language: en
+  location: "9 Ways #1 swaddle 段末 'Give your baby plenty of tummy time' + Policy 'Make sure your baby has tummy time while awake every day' (含 7 wks / 15-30 min target)"
+  source_id: SRC-004
+
+unit_ids: []
+related_cards: []
+
+language: zh
+status: draft
+created: 2026-05-01
+updated: 2026-05-02

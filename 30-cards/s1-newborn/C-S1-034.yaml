@@ -1,0 +1,52 @@
+card_id: C-S1-034
+stages: [S1]
+tags: [safety, red_flag]
+
+front:
+  title: 仰睡每次都要 — 包括 GERD
+  hook: 侧睡更危险,容易翻趴
+
+back:
+  why_matters: |
+    仰睡 = 背朝下脸朝上(对应趴 / 侧睡)。
+    SIDS 美国每年约 3500 例;1992 AAP "Back to Sleep" 推广后死亡数降 ~40%。
+    AAP 立场最硬:每次入睡(白天 nap + 夜里)都必须仰躺,1 岁内强制。
+    侧睡危险因为容易翻成趴卧。
+    GERD 宝宝也要仰睡 — airway 解剖 + 呕吐反射会防呛奶。
+  what_to_do:
+    - 每一次睡都仰躺(白天 + 夜里都算)
+    - 反流宝宝也照样仰,不要垫高、不要侧睡
+    - 主动放仰位,不要主动放侧位(容易翻趴)
+    - 例外:已能自主双向翻身(背→趴、趴→背),可让保持自然睡姿
+    - 包裹了也必须仰睡
+  failure_mode: |
+    觉得宝宝喜欢趴睡就让他趴 → SIDS 风险翻倍。
+    怕反流让他侧睡或垫高 → 错,反而增风险。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-SIDS
+  - G-ABBR-AAP
+  - G-ABBR-GERD
+  - G-TERM-back-sleep
+  - G-TERM-swaddle
+
+citation:
+  page_title: "Safe Sleep: 9 Ways to Reduce a Baby's Risk of SIDS & Suffocation + How to Keep Your Sleeping Baby Safe: AAP Policy Explained"
+  publisher: American Academy of Pediatrics
+  portal: HealthyChildren.org
+  policy_basis: "AAP Task Force on SIDS — 2022 Policy Statement"
+  page_url_primary: https://www.healthychildren.org/English/ages-stages/baby/sleep/Pages/a-parents-guide-to-safe-sleep.aspx
+  accessed: 2026-05-01
+  language: en
+  location: "9 Ways #1 'Place your baby to sleep on their back' + Policy 'Put your baby on their back for all naps & at night'"
+  source_id: SRC-004
+
+unit_ids: []
+related_cards:
+  - C-S1-016     # Karp 侧抱 SIDS(立场一致,AAP 加强 GERD 例外)
+
+language: zh
+status: draft
+created: 2026-05-01
+updated: 2026-05-02

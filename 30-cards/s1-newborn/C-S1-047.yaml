@@ -1,0 +1,52 @@
+card_id: C-S1-047
+stages: [S1]
+tags: []
+
+front:
+  title: gas drops / gripe water 没用
+  hook: AAP 直说研究证明无效
+
+back:
+  why_matters: |
+    simethicone(西甲硅油 / gas drops)= 消化道泡沫消除剂;
+    gripe water = 含茴香 / 姜 / 香料的"安神水"。
+    中文家长爱给的"消胀气滴剂""惊风散""安神水"都属此类,国内市场每年数十亿。
+    AAP 明确:"research has never shown these products to work" — 没有研究证明有效。
+    省钱买不到效果,反而可能掩盖真原因(CMPA / GERD)。
+  what_to_do:
+    - 别买 simethicone 滴剂(西甲硅油)
+    - 别买 gripe water / 任何"消胀气""安神"水
+    - 改试:慢流速奶嘴 / 倾斜奶瓶 / 少食多餐
+    - 母乳妈妈试 elimination diet(C-S1-048)
+    - 配方奶可问医生换 protein hydrolysate(深度水解)
+  failure_mode: |
+    给西甲硅油以为有效 → 浪费钱 + 安慰剂效应误判其他原因。
+    给中药水(惊风散类) → 含未知成分,可能含未标注西药。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-AAP
+  - G-ABBR-CMPA
+  - G-ABBR-GERD
+  - G-TERM-protein-hydrolysate-formula
+
+citation:
+  page_title: "Responding To Your Baby's Cries"
+  publisher: American Academy of Pediatrics
+  portal: HealthyChildren.org
+  page_url_primary: https://www.healthychildren.org/English/ages-stages/baby/crying-colic/Pages/Responding-to-Your-Babys-Cries.aspx
+  accessed: 2026-05-01
+  language: en
+  location: "'Do gas drops work?' section"
+  source_id: SRC-005
+
+unit_ids: []
+related_cards:
+  - C-S1-011     # Karp 胀气不是哭闹元凶,别狂拍嗝
+  - C-S1-048     # 母乳 elimination diet
+  - C-S1-030     # Karp 牛奶蛋白可能元凶
+
+language: zh
+status: draft
+created: 2026-05-01
+updated: 2026-05-02

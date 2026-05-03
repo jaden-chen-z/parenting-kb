@@ -1,0 +1,47 @@
+card_id: C-S5-003
+stages: [S5]
+tags: []
+
+front:
+  title: 第一个真词 ~1 岁,理解 > 表达
+  hook: 12 月仍 gibberish 也正常
+
+back:
+  why_matters: |
+    语言发展双轨:**receptive language**(理解)+ **expressive language**(表达)— 婴儿期理解远跑在表达前面。
+    第一个有意义词的定义:任何"持续指代同一人 / 物 / 事件"的声音(自创词如"乃乃"也算)。
+    AAP 节奏:cooing 4 月 → 音节 ba/da/ga/ma 6-8 月 → 第一个真词 ~12 月,2-3 个词常见。
+    但 12 月仍 "gibberish"(婴语带语调起伏)也正常 — 看是否能听懂指令更重要。
+    AAP 操作核心:命名物体保持一致(cat / kitty 选一个一直用)。
+  what_to_do:
+    - 命名物体保持一致(不要时而 cat 时而 kitty)
+    - 一边洗澡 / 换尿布 / 喂边描述发生什么
+    - 阅读硬封面 / 布书(宝宝能自己翻页)
+    - 重复 baby 的 "gaagaagaa"(双向对话教学)
+    - 双语家庭:每人坚持一种语言不混
+  failure_mode: |
+    12 月没说话就焦虑 → 看是否能听懂指令(理解 OK 就不用慌)。
+    总纠正婴语 → 错失双向对话教学机会。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-AAP
+  - G-TERM-cooing
+
+citation:
+  page_title: "Language Development: 8 to 12 Months"
+  publisher: American Academy of Pediatrics
+  portal: HealthyChildren.org
+  page_url_primary: https://www.healthychildren.org/English/ages-stages/baby/Pages/Language-Development-8-to-12-Months.aspx
+  accessed: 2026-05-02
+  language: en
+  location: "全文 — 第一个有意义词 + 理解 vs 表达 + AAP 操作建议"
+  source_id: SRC-007
+
+unit_ids: []
+related_cards: []
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

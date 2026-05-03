@@ -1,0 +1,48 @@
+card_id: C-S1-055
+stages: [S1]
+tags: [safety]
+
+front:
+  title: 配方奶量 2.5 oz/lb/天,半直立喂
+  hook: 喂法做错增中耳炎 + 蛀牙
+
+back:
+  why_matters: |
+    配方奶喂养 = 用人造婴儿配方代替母乳(完整蛋白 + 脂肪 + 维生素 + 矿物质 + 加 D)。
+    婴儿胃容量小但增长快:出生时如樱桃(5-7 ml),1 周如杏(45-60 ml),1 月如鸡蛋(80-150 ml)。
+    AAP 日量公式:体重 lb × 2.5 oz/天(例 10 lb → 25 oz/天)。
+    喂时半直立姿势,milk 完全覆盖奶嘴,绝不平躺(中耳炎 + 呛奶死亡风险)。
+    > 7-8 oz/餐 或 > 36 oz/天 → 过喂红旗,找医生。
+  what_to_do:
+    - 算量:体重磅数 × 2.5 = oz/天(例 10 lb → 25 oz/天)
+    - 头几天:1-2 oz/餐 → 6 月:6-8 oz × 4-5 次/天
+    - 半直立姿势,头在肘窝,milk 全覆盖奶嘴
+    - 绝不平躺喂(中耳炎 + 呛奶死亡风险)
+    - "> 7-8 oz/餐 或 > 36 oz/天 → 找医生"
+  failure_mode: |
+    平躺给奶瓶让宝宝自己喝 → 中耳炎 + 呛奶死亡。
+    觉得"喝得多 = 长得好"狂喂 → 过喂 + 肥胖 + 反流加重。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-AAP
+  - G-TERM-responsive-feeding
+
+citation:
+  page_title: "Bottle Feeding Basics"
+  publisher: American Academy of Pediatrics
+  portal: HealthyChildren.org
+  page_url_primary: https://www.healthychildren.org/English/ages-stages/baby/feeding-nutrition/Pages/Bottle-Feeding-How-Its-Done.aspx
+  accessed: 2026-05-01
+  language: en
+  location: "全文 — 'How Many Ounces?' + 'Hunger Cues' + 'What You Can Do' + 'When to Call the Doctor'"
+  source_id: SRC-006
+
+unit_ids: []
+related_cards:
+  - C-S1-054     # 吐奶 vs GERD(过喂 = 加重吐奶)
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

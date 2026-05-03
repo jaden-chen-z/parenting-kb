@@ -1,0 +1,51 @@
+card_id: C-S5-006
+stages: [S5]
+tags: [safety]
+
+front:
+  title: 楼梯门两端必装,鞋子简化选
+  hook: 学步期事故高发,装备从简
+
+back:
+  why_matters: |
+    9-15 月扶走 + 独走期是 0-3 岁意外伤害的第一个高峰 — 跌落是 1 岁前 ER 急诊主因之一。
+    楼梯坠落是这个月龄 ER 受伤主因(美国年均 ~10 万例儿童楼梯伤害,1 岁前最严重)。
+    "学步鞋"是中文家长每年花费数十亿的市场,但 AAP 立场:不需特殊设计。
+    AAP 必做安全:
+    ① **楼梯顶 + 底两端**装 sturdy gates(只装一端会出事)
+    ② 教倒着下楼梯("先伸脚")
+    ③ 鞋子:closed-toe + 软底 + nonskid(防滑)
+    ④ **不需要**特殊弓型 / 高跟 / 加固鞋帮(贵不防摔反限制脚趾发育)
+  what_to_do:
+    - 楼梯顶 + 底**两端**都装 sturdy gates
+    - 教倒着下楼梯("脚先,屁股先")
+    - 鞋:closed-toe + 软底 + nonskid 即可
+    - 不买"学步矫正鞋" / 高跟 / 加固鞋(浪费钱反限制)
+    - 在家可光脚或穿薄袜(脚趾感知地面有助平衡)
+    - 第一双 sneakers 即可,2-3 月查合脚
+  failure_mode: |
+    只装一端 gate(觉得另一端不常用)→ 另一端事故。
+    买昂贵特殊学步鞋 → 限制脚趾自然发育,不防摔。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-AAP
+
+citation:
+  page_title: "Movement Milestones in Babies 8 to 12 Months Old"
+  publisher: American Academy of Pediatrics
+  portal: HealthyChildren.org
+  page_url_primary: https://www.healthychildren.org/English/ages-stages/baby/Pages/Movement-8-to-12-Months.aspx
+  accessed: 2026-05-02
+  language: en
+  location: "'Safety & Equipment Recommendations' + 'Footwear Guidance' sections"
+  source_id: SRC-007
+
+unit_ids: []
+related_cards:
+  - C-S4-005     # 学步车 AAP 反对(楼梯翻倒事故)
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

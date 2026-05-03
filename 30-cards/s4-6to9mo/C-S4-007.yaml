@@ -1,0 +1,49 @@
+card_id: C-S4-007
+stages: [S4]
+tags: [safety]
+
+front:
+  title: 家居童锁 + 窗帘绳 + crib 位置
+  hook: 6 月爬起就要全屋安全审
+
+back:
+  why_matters: |
+    6 月起爬 + 9 月扶站 + 12 月独走 = 婴儿能到的地方**扩到全屋**。
+    "宝宝够不到"的判断对探索期婴儿无效 — 一搬椅子 / 玩具 / 抽屉就能爬高。
+    AAP 必做家居 baby-proofing:橱柜抽屉童锁 + 窗帘绳 + crib 远离窗 + 锐角家具防护。
+    窗帘绳是常见勒颈致命物 — 用无绳款。
+    电池(尤其纽扣电池)2 小时吞下可食道穿孔致命。
+  what_to_do:
+    - 橱柜 / 抽屉装 safety latches(童锁)
+    - 化学品 / 药品 / 化妆品上锁 + 看不见
+    - 窗帘:**无绳款**,或绳子绑高(不打结,打结反而勒颈风险高)
+    - crib 远离窗 + 远离梳妆台 / 桌面
+    - 锐角家具包起 / 移走
+    - 电池上锁(尤其纽扣电池 — 玩具 / 遥控器)
+  failure_mode: |
+    觉得"宝宝够不到" → 一搬椅子 / 玩具就能(高估自己,低估宝宝)。
+    窗帘绳打结 → 反而更勒颈 / 更难解开。
+    纽扣电池随手放 → 吞下 2 小时食道穿孔致命急症。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-AAP
+
+citation:
+  page_title: "Safety for Your Child: 6 to 12 Months"
+  publisher: American Academy of Pediatrics
+  portal: HealthyChildren.org
+  page_url_primary: https://www.healthychildren.org/English/ages-stages/baby/Pages/Safety-for-Your-Child-6-to-12-Months.aspx
+  accessed: 2026-05-02
+  language: en
+  location: "'Strangulation and Suffocation' section + 'Poisoning and Choking'"
+  source_id: SRC-008
+
+unit_ids: []
+related_cards:
+  - C-S4-006     # 溺水预防
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

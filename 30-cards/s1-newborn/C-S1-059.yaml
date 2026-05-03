@@ -1,0 +1,48 @@
+card_id: C-S1-059
+stages: [S1]
+tags: [safety, red_flag]
+
+front:
+  title: 中毒急救:专线 + 不催吐
+  hook: 中国 12320,催吐反加重
+
+back:
+  why_matters: |
+    婴幼儿中毒(poisoning)是 ER 急诊高发(6-24 月探索期 + 什么都塞嘴)。
+    家庭常见毒源:清洁剂 / 化妆品 / 药品 / 维生素颗粒 / 香水 / 电池(纽扣电池尤其致命)。
+    AAP 救命建议:**美国 Poison Help: 1-800-222-1222**(全国免费 24/7)。
+    **绝不自行催吐** — 强酸 / 强碱 / 石油类反流会腐蚀食道二次伤害。
+    "把东西放高点"对宝宝无效 — 一搬椅子就够到。
+  what_to_do:
+    - 美国:Poison Help 1-800-222-1222(24/7 免费)
+    - 中国:**12320 卫生热线** / 当地中毒控制中心
+    - 怀疑中毒立刻打,不自行处理
+    - "**绝不催吐**(可能腐蚀食道二次伤害)"
+    - 化学品 / 药品 / 化妆品全部上锁 + 看不见
+    - 橱柜 / 抽屉装 safety latches(童锁)
+  failure_mode: |
+    自行催吐 → 强酸/碱反流腐蚀食道(永久损伤)。
+    觉得"放高点就行" → 宝宝搬椅子就够到。
+    纽扣电池吞下 → 2 小时内食道穿孔致命,必须立刻急诊。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-AAP
+
+citation:
+  page_title: "Safety for Your Child: 6 to 12 Months"
+  publisher: American Academy of Pediatrics
+  portal: HealthyChildren.org
+  page_url_primary: https://www.healthychildren.org/English/ages-stages/baby/Pages/Safety-for-Your-Child-6-to-12-Months.aspx
+  accessed: 2026-05-02
+  language: en
+  location: "'Poisoning and Choking' section: '1-800-222-1222' + 'Do not make your child vomit'"
+  source_id: SRC-008
+
+unit_ids: []
+related_cards: []
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

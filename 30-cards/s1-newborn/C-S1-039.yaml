@@ -1,0 +1,51 @@
+card_id: C-S1-039
+stages: [S1]
+tags: [safety]
+
+front:
+  title: 睡前给奶嘴降 SIDS 风险
+  hook: 掉了不必塞回也照样有效
+
+back:
+  why_matters: |
+    奶嘴(pacifier)= 模拟乳头让宝宝吸吮但不出奶,满足"非营养性吸吮"需求。
+    AAP 把"睡前给奶嘴"列入 9 大 SIDS 预防建议之一(2022 Policy)。
+    推荐 nap + bedtime 前给,入睡后掉了也照样有效,不必塞回。
+    母乳宝宝等"母乳建立"再用(供奶稳、含乳好、增重正常,无具体周数)。
+    配方奶宝宝可即用。Karp 022 立场略异(强调 3-4 周再用防混淆乳头)。
+  what_to_do:
+    - 每次 nap + 夜睡前给奶嘴
+    - 母乳宝宝:等"建立"(增重稳、含乳顺)再用
+    - 配方奶宝宝:出生后就可用
+    - 入睡后掉了不塞回
+    - 绝不挂脖子 / 系衣服 / 系毛绒玩具(窒息风险)
+  failure_mode: |
+    出生第一周给奶嘴 + 母乳没建立 → 混淆乳头、母乳难。
+    挂脖子 / 系衣服 → 勒颈或窒息死亡。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-SIDS
+  - G-ABBR-AAP
+  - G-PERSON-Karp
+
+citation:
+  page_title: "Safe Sleep: 9 Ways + AAP Policy Explained"
+  publisher: American Academy of Pediatrics
+  portal: HealthyChildren.org
+  policy_basis: "AAP Task Force on SIDS — 2022 Policy Statement"
+  page_url_primary: https://www.healthychildren.org/English/ages-stages/baby/sleep/Pages/How-to-Keep-Your-Sleeping-Baby-Safe-AAP-Policy-Explained.aspx
+  accessed: 2026-05-01
+  language: en
+  location: "9 Ways #9 'Offer a pacifier at nap time and bedtime' + Policy 'Try giving your baby a pacifier at nap time and bedtime'"
+  source_id: SRC-004
+
+unit_ids: []
+related_cards:
+  - C-S1-021     # Karp 非营养性吸吮先天需求(立场一致)
+  - C-S1-022     # Karp 奶嘴别太早(立场略异:Karp 担心混淆乳头主张 3-4 周;AAP 强调"建立后",突出 SIDS 保护)
+
+language: zh
+status: draft
+created: 2026-05-01
+updated: 2026-05-02

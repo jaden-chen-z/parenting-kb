@@ -1,0 +1,51 @@
+card_id: C-S3-003
+stages: [S3]
+tags: [safety]
+
+front:
+  title: 米粉别加奶瓶,4 月前别给固食
+  hook: 中文文化常错的喂养捷径
+
+back:
+  why_matters: |
+    中文文化"米糊加奶瓶"传统普遍(老人觉得能"宝宝吃饱睡得久")。
+    但 AAP 把它独立列为 No-no(说明它在西方也是常见误区)。
+    AAP 4 个不能米粉加奶瓶的理由:
+    ① 窒息(thickened liquid 易吸入肺)
+    ② 过度喂养(force-feeding 模式)
+    ③ 4 月前固食可能触发未来过敏
+    ④ 能消化米粉的月龄,也能用勺吃。
+    "When he is old enough to digest cereal, he should also be ready to eat it from a spoon."
+  what_to_do:
+    - 米粉只用勺喂,不加奶瓶(任何月龄都不行)
+    - 4 月前完全不给固食(消化系统未就绪)
+    - 想助眠/延长睡眠不要靠加米粉(无效 + 危险)
+    - 6 月前主要靠纯母乳/配方奶
+    - 想让宝宝睡得久看 C-S1-027(包裹+白噪音)
+  failure_mode: |
+    老人觉得"米粉助眠"加奶瓶 → 呛奶 + 吸入肺(可能致命)。
+    3 月就喂米糊 → 过敏风险升 + 消化负担。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-AAP
+  - G-TERM-swaddle
+
+citation:
+  page_title: "Cereal in a Bottle: Solid Food Shortcuts to Avoid + Starting Solid Foods"
+  publisher: American Academy of Pediatrics
+  portal: HealthyChildren.org
+  page_url_primary: https://www.healthychildren.org/English/ages-stages/baby/feeding-nutrition/Pages/Cereal-in-a-Bottle-Solid-Food-Shortcuts-to-Avoid.aspx
+  accessed: 2026-05-01
+  language: en
+  location: "Cereal-in-Bottle 全文 (Ready or Not / Too Hard to Handle / Allergy Activation / Overfeeding) + Starting Solid Foods 'Bottle Cereal Warning'"
+  source_id: SRC-006
+
+unit_ids: []
+related_cards:
+  - C-S1-027     # Karp 包裹+白噪音 = 延长睡眠
+
+language: zh
+status: draft
+created: 2026-05-01
+updated: 2026-05-02

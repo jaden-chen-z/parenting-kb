@@ -1,0 +1,358 @@
+source_id: SRC-008
+title: "AAP Health & Safety (HealthyChildren.org · 6-article cluster)"
+org: American Academy of Pediatrics
+source_type: webpage_cluster
+url_root: https://www.healthychildren.org/English/
+tier: 1
+language: en
+paywall: false
+captcha: false
+accessed: 2026-05-02
+fetch_method: webfetch
+file_size_bytes_total: 22000
+
+articles:
+  - art_id: A1
+    title: "Safety for Your Child: Birth to 6 Months"
+    url: https://www.healthychildren.org/English/ages-stages/baby/Pages/Safety-for-Your-Child-Birth-to-6-Months.aspx
+    local_file: ../raw/aap_safety_birth_to_6.md
+    char_count: 5000
+  - art_id: A2
+    title: "Safety for Your Child: 6 to 12 Months"
+    url: https://www.healthychildren.org/English/ages-stages/baby/Pages/Safety-for-Your-Child-6-to-12-Months.aspx
+    local_file: ../raw/aap_safety_6_to_12.md
+    char_count: 5000
+  - art_id: A3
+    title: "AAP Guide: Vaccines Your Child Needs by Age 6"
+    url: https://www.healthychildren.org/English/safety-prevention/immunizations/Pages/Your-Babys-First-Vaccines.aspx
+    local_file: ../raw/aap_vaccines_schedule.md
+    char_count: 1800
+  - art_id: A4
+    title: "RSV Immunizations: Two Ways to Protect Babies"
+    url: https://www.healthychildren.org/English/safety-prevention/immunizations/Pages/RSV-immunizations-new-ways-to-protect-babies.aspx
+    local_file: ../raw/aap_rsv_immunizations.md
+    char_count: 1500
+  - art_id: A5
+    title: "Fever and Your Baby"
+    url: https://www.healthychildren.org/English/health-issues/conditions/fever/Pages/Fever-and-Your-Baby.aspx
+    local_file: ../raw/aap_fever_baby.md
+    char_count: 1200
+  - art_id: A6
+    title: "Fever: When to Call the Pediatrician"
+    url: https://www.healthychildren.org/English/health-issues/conditions/fever/Pages/When-to-Call-the-Pediatrician.aspx
+    local_file: ../raw/aap_when_to_call_pediatrician.md
+    char_count: 900
+
+metadata:
+  publisher: American Academy of Pediatrics (AAP)
+  portal: HealthyChildren.org
+
+verbatim_content:
+
+  car_seat_safety:
+    quote_en: "All infants and toddlers should ride in a rear-facing car safety seat as long as possible, until they reach the highest weight or height allowed by their car safety seat's manufacturer."
+    detail_en: |
+      AAP 立场(A1 + A2):
+      - 第一次回家就用 car safety seat
+      - **后排 + rear-facing**(婴儿/幼儿至少到 2 岁,看 manufacturer limit)
+      - "A rear-facing car safety seat should NEVER be placed in front of a passenger air bag" — 致命
+      - "The safest place for all infants and children to ride is in the back seat"
+      - 不留宝宝独自在车里(中暑致死)
+      - 车 + 后备厢上锁
+    detail_zh_ref: |
+      婴儿汽车座必须 rear-facing + 后排,至少到 2 岁。
+      绝不放副驾(气囊弹出致命)。
+      多数 convertible 座可 rear-facing 2 年+。
+      永不留宝宝独自车里(车温几分钟内致命)。
+    sources: [A1 "Car Injuries", A2 "Car Safety"]
+
+  fall_prevention:
+    quote_en: "Do not leave your baby alone on changing tables, beds, sofas, or chairs."
+    detail_en: |
+      A1 + A2:
+      - 翻身前的婴儿也会从家具上掉下(蹬腿移动)
+      - 6 月起爬 → 楼梯门 + 关门
+      - 一楼以上窗户装 operable window guards
+      - 不用 baby walker(翻倒 + 楼梯坠落)
+      - 6-12 月家具锐角包起 / 移走
+      - 严重跌落 + 行为异常 → 找医生
+    detail_zh_ref: |
+      婴儿期跌落:即使翻身前也会蹬腿移动跌落。
+      尿布台 / 床 / 沙发独处禁。
+      6 月爬 → 楼梯门 + 关门 + 窗户加 window guards。
+      不用 baby walker。
+      家具锐角包起。
+    sources: [A1 "Falls", A2 "Falls"]
+
+  burn_prevention:
+    quote_en: "the hottest temperature at the faucet should be no more than 120°F"
+    detail_en: |
+      A1 + A2:
+      - 水龙头最高温 **120°F (49°C)** 防烫伤
+      - **绝不端热饮料(咖啡)+ 抱宝宝**(无法兼顾,致烫伤)
+      - 6-12 月不让宝宝在炉灶 / 暖气 / 热设备旁爬走
+      - 烫伤急救:**冷水冲几分钟** → 干净布盖 → 找医生
+      - 烟雾报警每月测,长寿命电池或每年换电池
+      - 每层楼都有烟雾报警,炉间 + 卧室必装
+    detail_zh_ref: |
+      水龙头温度调到 ≤ 49°C 防烫。
+      端热饮抱宝宝 = 双手都顾不过来。
+      烫伤急救:冷水冲几分钟 + 干净布 + 找医生。
+      烟雾报警每月测一次,长寿命电池。
+    sources: [A1 "Burns", A2 "Burns"]
+
+  choking_suffocation:
+    quote_en: "Cut all the foods you feed your baby into thin pieces to prevent choking."
+    detail_en: |
+      A1:
+      - 小物件不留宝宝够得到处(任何时候都不行)
+      - **不喂硬食物**:整粒葡萄 / 坚果 / 热狗块 / 生胡萝卜 / 苹果块 / 爆米花
+      - 学 choking 急救(找医生学具体步骤)
+      - **塑料袋 / 包装膜远离婴儿**(覆盖口鼻致窒息)
+      - SIDS 预防:仰睡 + bare crib(无枕被玩具)+ 不用 water bed / bean bag
+
+      A2 (6-12 月):
+      - 同上 + balloon 也禁(吹爆碎片)
+    detail_zh_ref: |
+      切食物薄片 + 不喂整粒硬食物。
+      塑料袋 / 包装膜 / 气球远离。
+      SIDS 预防一致:仰睡 + bare crib。
+      学 choking 急救动作。
+    sources: [A1 "Choking and Suffocation", A2 "Poisoning and Choking"]
+
+  drowning_prevention:
+    quote_en: "Drowning can happen in less than 2 inches of water."
+    detail_en: |
+      A2 (6-12 月起):
+      - **2 inches(5 cm)水都能淹**
+      - 浴缸 / 水桶 / 任何容器:用完立刻倒空
+      - **从不离开宝宝独自在水边**(浴缸 / 水桶 / 泳池),即使一秒
+      - 浴室门关上
+      - 大人 stay within an arm's length(伸手可及)在水边
+      - 知道游泳 ≠ 安全,仍需大人伸手范围
+      - 泳池:**4 面围栏**(隔家与泳池)
+      - 走路前就装泳池围栏(婴儿爬出门会掉进去)
+    detail_zh_ref: |
+      2 inches(5 cm)水就能淹死宝宝。
+      浴缸 / 水桶用完立刻倒空。
+      水边大人伸手可及范围,即一秒不离开。
+      泳池 4 面围栏隔开家。
+    sources: [A2 "Drowning"]
+
+  poisoning_prevention:
+    quote_en: "If your child does eat something that could be poisonous, call the Poison Help line at 1-800-222-1222 immediately. Do not make your child vomit."
+    detail_en: |
+      A2:
+      - **Poison Help: 1-800-222-1222**(美国全国免费电话)
+      - 不催吐(可能加重伤害)
+      - 家用化学品 / 清洁剂 / 药品全部 up + 锁起 + 看不见
+      - 抽屉 / 橱柜装 safety latches
+      - 永不储存 lye drain cleaners(强碱通下水道剂)
+      - "no" 对探索期宝宝无效
+
+      中国对照:
+      - 中国中毒咨询电话(各省不同,可查 12320 卫生热线)
+      - 不催吐原则相同
+    detail_zh_ref: |
+      美国 Poison Help:1-800-222-1222。
+      中国查 12320 / 当地中毒控制中心。
+      **不催吐**(可能腐蚀食道二次伤害)。
+      化学品 / 药品全部上锁 + 看不见。
+      "no"对宝宝无用,物理上锁才行。
+    sources: [A2 "Poisoning and Choking"]
+
+  strangulation_prevention:
+    quote_en: "Place your baby's crib away from windows. Cords from window blinds and draperies can strangle your child."
+    detail_en: |
+      A2:
+      - crib 远离窗
+      - 窗帘绳 = 勒颈致命物
+      - 用 cordless window coverings(无绳款),或绳子绑高
+      - 不要把绳打结(更危险)
+      - 塑料袋 / 包装膜远离(同 choking)
+    detail_zh_ref: |
+      婴儿床远离窗户。
+      窗帘绳是勒颈致命物 — 选无绳款,或绑高/挂钩。
+      不打结绳(反而更危险)。
+    sources: [A2 "Strangulation and Suffocation"]
+
+  vaccine_schedule_0_to_12_months:
+    quote_en: "AAP Recommended Immunization Schedule (Birth to 12 months)"
+    detail_en: |
+      A3 完整时间表:
+
+      **出生时**:
+      - Hep B 第 1 剂(24h 内)
+      - RSV(可选,见 A4)
+
+      **1-2 月**:
+      - Hep B 第 2 剂
+
+      **2 月**(集中接种 5 个):
+      - DTaP 第 1 剂(白喉/破伤风/百日咳)
+      - Hib 第 1 剂(脑膜炎)
+      - IPV 第 1 剂(脊髓灰质炎)
+      - PCV 第 1 剂(肺炎球菌)
+      - Rotavirus 第 1 剂(轮状病毒)
+
+      **6 月**:
+      - Hep B 第 3 剂
+      - COVID(6-23 月推荐)
+      - Influenza 第 1 剂(间隔 4 周打第 2 剂)
+
+      **12-18 月**:
+      - MMR 第 1 剂
+      - Varicella 第 1 剂
+      - HepA 第 1 剂
+
+      防护疾病:DTaP 防 3 病(白喉/破伤风/百日咳)/ Hib 防脑膜炎 / IPV 防瘫痪 / PCV 防肺炎+脓毒+脑膜炎 / Rotavirus 防严重腹泻 / MMR 防麻疹+腮腺炎+风疹。
+    detail_zh_ref: |
+      0-12 月疫苗时间表速查:
+      • 出生:Hep B + RSV(可选)
+      • 1-2 月:Hep B 2
+      • 2 月:DTaP / Hib / IPV / PCV / Rota(5 个集中)
+      • 6 月:Hep B 3 + COVID + Influenza
+      • 12-18 月:MMR / Varicella / HepA
+    sources: [A3 全文]
+
+  rsv_protection_two_options:
+    quote_en: "The American Academy of Pediatrics recommends all babies be protected from severe RSV by one of two options"
+    detail_en: |
+      A4 关键事实:
+      - **RSV 是 1 岁内婴儿住院主因**("most common cause of hospitalization in infants under 1 year of age")
+      - 未接种到 2 岁所有婴儿都会感染过
+      - RSV 季节:10 月-3 月
+
+      **2 选 1 保护方案**:
+
+      **方案 1:孕妇 Abrysvo 疫苗**
+      - 怀孕 32-36 周接种(限 9 月-1 月期间)
+      - 14 天免疫通过胎盘传给胎儿
+      - 母传抗体保护婴儿约 6 月
+
+      **方案 2:婴儿 nirsevimab(单克隆抗体)**
+      - < 8 月在 RSV 季节接种
+      - 高危 8-19 月进入第 2 RSV 季节也打
+      - **保护效力:防住院 90%**
+      - 持续 ≥ 5 月
+
+      不是必须 2 个都要,2 选 1 即可(方案 2 是 plan B,如孕妇没打)。
+    detail_zh_ref: |
+      RSV 是 1 岁内住院主因。
+      AAP 2 选 1 保护:
+      • 孕妇 Abrysvo(32-36 周打)
+      • 婴儿 nirsevimab(< 8 月在 RSV 季打,防住院 90%)
+      RSV 季节:10 月-3 月。
+    sources: [A4 全文]
+
+  fever_thresholds_by_age:
+    quote_en: "A rectal temperature reading of 100.4 degrees Fahrenheit (38 degrees Celsius) or higher is considered a fever"
+    detail_en: |
+      A5 月龄阈值:
+      - **< 3 月(12 周内)**:任何 ≥ 100.4°F (38°C) → **立刻找医生**(即使无其他症状)
+      - **3-6 月**:≥ 101°F (38.3°C) 通知医生
+      - **6 月+**:≥ 103°F (39.4°C) 通知医生
+      - **任何月龄**:≥ 104°F (40°C) 反复 → 找医生
+      - 婴幼儿正常体温通常比年长儿童略高
+      - 下午 + 傍晚体温最高,午夜 + 清晨最低
+
+      测温方法精度:
+      - **直肠最准**(尤其 < 3 月)
+      - 6 月内不用耳温计(耳道太小)
+      - 不可靠:摸额头 / 温度敏感贴
+    detail_zh_ref: |
+      发烧 = 直肠 ≥ 38°C / 100.4°F。
+      < 3 月:任何发烧 → 立刻找医生。
+      3-6 月:≥ 38.3°C → 找医生。
+      6 月+:≥ 39.4°C → 找医生。
+      ≥ 40°C 反复 → 找医生(任何月龄)。
+      < 3 月用直肠测温;< 6 月别用耳温计。
+    sources: [A5 全文]
+
+  when_to_call_pediatrician_red_flags:
+    quote_en: "Looks very ill, is unusually drowsy, or is very fussy"
+    detail_en: |
+      A6 红旗清单 — 立刻找医生:
+
+      **发烧 + 月龄**:
+      - < 3 月任何 ≥ 38°C
+      - 任何月龄 ≥ 40°C 反复
+
+      **行为**:
+      - "Looks very ill"(看上去明显病了)
+      - "Unusually drowsy"(异常嗜睡)
+      - "Very fussy"(异常烦躁)
+      - "Still acts sick once fever is brought down"(退烧后仍像病)
+
+      **呼吸**:
+      - "Breathing difficulty"
+
+      **其他急症**:
+      - "Stiff neck"(脖子僵硬)
+      - "Severe headache"(严重头痛)
+      - "Severe sore throat"(严重喉痛)
+      - "Severe ear pain"(严重耳痛)
+      - "Unexplained rash"(原因不明皮疹)
+      - "Repeated vomiting or diarrhea"(反复呕吐 / 腹泻)
+      - "Has had a seizure"(抽搐过)
+
+      **持续发烧时间**:
+      - < 2 岁:发烧 > 24h → 找医生
+      - ≥ 2 岁:发烧 > 72h → 找医生
+    detail_zh_ref: |
+      综合红旗:< 3 月任何发烧 / ≥ 40°C 反复 / 异常嗜睡 / 烦躁 / 呼吸困难 / 颈僵 / 严重头痛 / 严重喉痛 / 严重耳痛 / 不明皮疹 / 反复呕吐腹泻 / 抽搐 → 立刻找医生。
+      持续发烧 < 2 岁 > 24h、≥ 2 岁 > 72h → 找医生。
+    sources: [A6 全文]
+
+summary: |
+  AAP 婴儿健康与安全完整建议(2026):
+
+  **安全(injuries 是 1 岁内主要死因)**:
+  - 车座:rear-facing 后排至少 2 年,**绝不副驾**(气囊致命),不留宝宝独自车里
+  - 跌落:尿布台 / 床 / 沙发独处禁,楼梯门,窗 guards,**不用 baby walker**
+  - 烫伤:水龙头 ≤ 49°C,不端热饮抱宝宝,烟雾报警每月测
+  - 窒息 / 中毒:小物 / 整粒食物 / 塑料袋远离;Poison Help 1-800-222-1222(美国);**不催吐**;化学品上锁
+  - 溺水:**2 inches 水也淹**,水边伸手可及,泳池 4 面围栏
+  - 勒颈:crib 远离窗,无绳窗帘
+
+  **疫苗时间表**(0-12 月):
+  - 出生 Hep B + RSV(可选)
+  - 2 月 5 个集中:DTaP/Hib/IPV/PCV/Rotavirus
+  - 6 月:Hep B 3 + COVID + Influenza
+  - 12-18 月:MMR/Varicella/HepA
+
+  **RSV 保护 2 选 1**:孕妇 Abrysvo(32-36 周)or 婴儿 nirsevimab(< 8 月,防住院 90%)。
+
+  **发烧月龄阈值**:
+  - < 3 月任何 ≥ 38°C → 立刻找医生
+  - 3-6 月 ≥ 38.3°C / 6 月+ ≥ 39.4°C / 任何月龄 ≥ 40°C 反复 → 找医生
+  - 直肠最准,6 月内不用耳温
+
+  **红旗综合**:异常嗜睡 / 烦躁 / 呼吸困难 / 颈僵 / 抽搐 / 反复呕吐 → 立刻找医生
+
+referenced_by_cards:
+  # R5 完成产 12 张
+  - C-S1-056    # 汽车座 rear-facing 后排
+  - C-S1-057    # 跌落防护
+  - C-S1-058    # 水温 ≤ 49°C 防烫
+  - C-S1-059    # 中毒 Poison Help 不催吐
+  - C-S1-060    # < 3 月发烧 38°C 立刻找医生
+  - C-S1-061    # 婴儿急性红旗清单
+  - C-S1-062    # 直肠测温法
+  - C-S1-063    # RSV 2 选 1 保护
+  - C-S1-064    # 0-12 月疫苗时间表
+  - C-S4-006    # 溺水 2 inches + 泳池围栏
+  - C-S4-007    # 家居童锁 + 窗帘绳 + crib 位置
+  - C-S5-007    # 12 月疫苗 MMR/Varicella/HepA
+
+notes: |
+  Phase 2 R5 抓取(2026-05-02)。
+  6 篇 article 抓取成功。
+  WebFetch 输入/输出比抽样:A1 + A2 ≈ 1.0(完整)/ A3-A6 ≈ 0.4-0.6(部分总结化但关键 verbatim 引号 + 数字保留)。
+
+  R5 跳过的:
+  - 产后抑郁 article(URL 404,留 Phase 3 后续 Tier 1 抓取补)
+  - SBS 专文(已在 R2 C-S1-049 + R1 C-S1-020 / 049 充分覆盖)
+  - 家庭 CPR 操作(过于具体 / 操作型,留课程类资源)
+
+  按 v3.5 schema 产 12 知识卡。

@@ -1,0 +1,51 @@
+card_id: C-S1-046
+stages: [S1]
+tags: [controversy]
+
+front:
+  title: 都试过不行,放婴儿床让他哭
+  hook: AAP:疲倦 5-15 分钟会自己睡
+
+back:
+  why_matters: |
+    短时单次应急(放下让哭 5-15 分钟)≠ cry-it-out 系统睡眠训练(后者 4-6 月起,系统消退)。
+    中文文化"不能让宝宝哭"焦虑普遍,但 AAP 给单次应急台阶。
+    AAP:都安抚过不像生病 → 放安全处(婴儿床)让他哭也是合理选择。
+    "Many babies cannot fall asleep without crying and will fall asleep quicker if left to cry."
+    真累的话哭不久。
+  what_to_do:
+    - 先排查异常:发烧(<2 月 ≥ 38°C)/ 异常哭声 / 异物
+    - 都正常 → 放婴儿床(空,只有床单)
+    - 让他哭 — 真累 5-15 分钟会自己睡
+    - 同时大人去冷静 10-15 分钟(C-S1-049)
+    - 这只是某次应急,不等于 cry-it-out 训练
+  failure_mode: |
+    觉得让宝宝哭就是失职硬撑 → 大人崩溃风险升 → SBS 风险升。
+    在沙发上让他哭 → 沙发睡 SIDS 风险 67 倍。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-AAP
+  - G-ABBR-SBS
+  - G-ABBR-SIDS
+  - G-TERM-cry-it-out
+  - G-TERM-bed-sharing
+
+citation:
+  page_title: "Responding To Your Baby's Cries"
+  publisher: American Academy of Pediatrics
+  portal: HealthyChildren.org
+  page_url_primary: https://www.healthychildren.org/English/ages-stages/baby/crying-colic/Pages/Responding-to-Your-Babys-Cries.aspx
+  accessed: 2026-05-01
+  language: en
+  location: "'Strategies to try' section: 'leave the baby alone in a safe location such as a crib... falls asleep quicker if left to cry'"
+  source_id: SRC-005
+
+unit_ids: []
+related_cards:
+  - C-S1-049     # 崩溃放下离开 10-15 分钟
+
+language: zh
+status: draft
+created: 2026-05-01
+updated: 2026-05-02

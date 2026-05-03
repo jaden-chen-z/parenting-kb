@@ -1,0 +1,257 @@
+source_id: SRC-007
+title: "AAP Milestones & Teething (HealthyChildren.org · 8-article cluster)"
+org: American Academy of Pediatrics
+source_type: webpage_cluster
+url_root: https://www.healthychildren.org/English/ages-stages/baby/
+doi: null
+isbn: null
+tier: 1
+language: en
+paywall: false
+captcha: false
+accessed: 2026-05-02
+fetch_method: webfetch
+file_size_bytes_total: 25000
+
+articles:
+  - art_id: A1
+    title: "Developmental Milestones: 1-4 Months Old"
+    url: https://www.healthychildren.org/English/ages-stages/baby/Pages/Developmental-Milestones-3-Months.aspx
+    local_file: ../raw/aap_dev_milestones_3_months.md
+    char_count: 2500
+  - art_id: A2
+    title: "Movement Milestones: Babies 4 to 7 Months"
+    url: https://www.healthychildren.org/English/ages-stages/baby/Pages/Movement-4-to-7-Months.aspx
+    local_file: ../raw/aap_movement_4_to_7.md
+    char_count: 3500
+  - art_id: A3
+    title: "Movement Milestones in Babies 8 to 12 Months Old"
+    url: https://www.healthychildren.org/English/ages-stages/baby/Pages/Movement-8-to-12-Months.aspx
+    local_file: ../raw/aap_movement_8_to_12.md
+    char_count: 3000
+  - art_id: A4
+    title: "Cognitive Development in Infants: 8 to 12 Months"
+    url: https://www.healthychildren.org/English/ages-stages/baby/Pages/Cognitive-Development-8-to-12-Months.aspx
+    local_file: ../raw/aap_cognitive_8_to_12.md
+    char_count: 3000
+  - art_id: A5
+    title: "Emotional and Social Development: 8 to 12 Months"
+    url: https://www.healthychildren.org/English/ages-stages/baby/Pages/Emotional-and-Social-Development-8-12-Months.aspx
+    local_file: ../raw/aap_emotional_social_8_to_12.md
+    char_count: 3500
+  - art_id: A6
+    title: "Language Development: 8 to 12 Months"
+    url: https://www.healthychildren.org/English/ages-stages/baby/Pages/Language-Development-8-to-12-Months.aspx
+    local_file: ../raw/aap_language_8_to_12.md
+    char_count: 2500
+  - art_id: A7
+    title: "When Does Teething Start? (4-7 Months)"
+    url: https://www.healthychildren.org/English/ages-stages/baby/teething-tooth-care/Pages/Teething-4-to-7-Months.aspx
+    local_file: ../raw/aap_teething_4_to_7.md
+    char_count: 2000
+  - art_id: A8
+    title: "Teething Necklaces and Beads: A Caution for Parents"
+    url: https://www.healthychildren.org/English/ages-stages/baby/teething-tooth-care/Pages/Amber-Teething-Necklaces.aspx
+    local_file: ../raw/aap_amber_teething_necklaces.md
+    char_count: 1500
+
+metadata:
+  publisher: American Academy of Pediatrics (AAP)
+  portal: HealthyChildren.org
+
+verbatim_content:
+
+  s2_2_4_month_milestones:
+    detail_zh_ref: |
+      AAP 1-4 月里程碑全 4 维度:
+      ## 2 月
+      - 运动:趴时抬头 / 移动四肢 / 张手
+      - 视听:看脸 / 跟物体动 / 用手眼协调
+      - 语言:发声(非哭)/ 听响声反应
+      - 社交认知:看脸 / 回应式笑 / 受安抚
+      ## 4 月
+      - 运动:稳定抬头 / 持物 / 抓玩 / 手到口 / 撑起
+      - 视听:视野扩展数米 / 偏圆形图案 / 全色觉
+      - 语言:cooing "ooo aahh" / 回应式发声 / 听声转头
+      - 社交认知:主动笑 / chuckle / 看自己手 / 见奶张嘴
+    sources: [A1]
+
+  s3_movement_milestones:
+    quote_en: "5 months: rolling preparation; 6-8 months: tripod sit; pincer grasp at ~9 months"
+    detail_zh_ref: |
+      4-7 月运动里程碑:
+      - 翻身:5 月起,通常先 tummy → back,7 月双向(部分宝宝顺序相反正常)
+      - 坐:6-8 月 tripod(三脚架,前手撑),独坐前过渡
+      - 抓握:claw / raking grip → 6-8 月 hand-to-hand transfer → 9 月 pincer grasp(拇食指对捏)
+      - 探索身体:抓脚 / 触生殖器 / 拍腿
+      - 站立准备:踩地 / bouncing
+    sources: [A2]
+
+  s4_s5_movement_milestones:
+    quote_en: "First steps around the first birthday; crawling 7-10 months"
+    detail_zh_ref: |
+      8-12 月运动里程碑:
+      - 8 月:开始 mobile,不稳坐
+      - 9 月:**应该独坐**(没独坐 → 找医生)
+      - 7-10 月:精通爬(scoot / 反向爬都正常)
+      - 11 月:扶站 + cruise 扶走
+      - 12 月:第一步典型 ~1 岁(脚分宽 / 学会停 / 蹲捡再站)
+      安全:
+      - **AAP 强烈反对学步车 (baby walker)**
+      - 楼梯顶/底装 sturdy gates,教倒着下楼梯
+      - changing table 收起,改地板换尿布
+      - 小物件(纽扣 / 硬币 / 气球碎)从地板移除
+      鞋子:closed-toe + 软底 + nonskid;**不需特殊弓型 / 高跟 / 加固鞋帮**;每月查合脚,第一双 2-3 月。
+    sources: [A3]
+
+  cognitive_8_to_12:
+    quote_en: "Object permanence at 8-10 months; attention 2-3 min at 8 mo, up to 15 min by 12 mo"
+    detail_zh_ref: |
+      8-12 月认知发展:
+      - 注意力:8 月 2-3 min/玩具;12 月可达 15 min
+      - 探索物体属性(滚 / 形状 / 大小 / 质地)= "tiny scientist"
+      - **物体永久性 (object permanence)** 8 月起感知 → 10 月坚信(Piaget 概念)
+      - peekaboo 4 玩法教永久性:布盖头 / 抬腿挡脸 / 躲家具后 / 互相蒙巾
+      - 区分熟悉 vs 陌生 → 旧物 + 小变化最有趣
+      - 物品功能("电话听筒到耳边")= 早期假装游戏
+      - 厨房用具(勺子 / 蛋盒 / 塑料容器)= 最佳玩具
+      - 安全:橱柜抽屉装童锁
+    sources: [A4]
+
+  emotional_social_8_to_12:
+    quote_en: "Stranger anxiety ~8 months; separation anxiety peaks 10-18 months"
+    detail_zh_ref: |
+      8-12 月情感社交:
+      - **陌生人焦虑**:~8 月起(亲戚保姆靠近也躲)— 健康发展标志,不必过度担心
+      - **分离焦虑**:10-18 月峰值,2 岁后期消退
+      - AAP 缓解 5 招:
+        1. 不在累 / 饿 / 病时离开
+        2. 离开不小题大做,看护人转移注意力
+        3. 几分钟就消停(几分钟内眼泪退)
+        4. 在家练习短期分离
+        5. 托儿所先陪几分钟再离开
+      - 依恋(attachment):对主要养育人形成强烈依恋(健康依恋反而让分离焦虑早出现但通过更快)
+      - 镜中自我认知:~8 月起(摸鼻 / 拉头发,通过镜像观察)
+      - 自主性 / 主见出现(会拒绝食物 / 物品)
+      - 常见恐惧:黑暗 / 雷声 / 吸尘器(消除来源 + 大人镇定示范)
+    sources: [A5]
+
+  language_8_to_12:
+    quote_en: "Recognizable syllables (ba/da/ga/ma); first words around 1 year (2-3 vocab common)"
+    detail_zh_ref: |
+      8-12 月语言发展:
+      - 咿呀 → 可识别音节(ba/da/ga/ma)
+      - 意外说出 mama / bye-bye(成人兴奋反应让 baby 学到"有意义")
+      - 第一个有意义词:1 岁时 2-3 个词常见,但 12 月仍 gibberish 也正常
+      - 词汇定义:任何"持续指代同一人/物/事件"的声音
+      - **理解 > 表达**(理解词比说出多得多)
+      - 手势:指 / 挥手再见 / 模仿
+      AAP 操作建议:
+      - 命名物体保持一致(不要时而 cat 时而 kitty)
+      - 一边洗澡 / 换尿布 / 喂边描述发生什么
+      - 阅读硬封面 / 布书(宝宝能自己翻页)
+      - 提问 + 等回应(repeat back baby's gaagaagaa = 双向对话)
+    sources: [A6]
+
+  teething_basics:
+    quote_en: "First teeth at 4-7 months; never use teething gels (benzocaine)"
+    detail_en: |
+      A7:
+      - 出牙时机:4-7 月,中切牙(central incisors)先(下后上),然后 1st molar,然后 canines / eyeteeth
+      - 时机变化大(heredity 影响),晚出不必担心
+      - 症状:轻烦躁 / 微发烧(< 38.3°C / 101°F)/ 流口水 / 喜咬硬物 / 牙龈肿胀
+      - 缓解:手指按摩牙龈 / 硬橡胶牙咬(冰冻反害太硬)
+      - **绝不用 teething gel** (benzocaine 罕见但严重血液中毒,影响携氧)
+      - homeopathic teething tablets 无效,部分含未知毒物
+      - **琥珀牙链** 无效 + 致死案例(见 A8)
+      - 体温 > 38.3°C → 不是出牙,找医生
+      - 牙医:第一颗牙后 6 月内见,≤ 12 月
+      - 第一颗牙后清洁:软毛刷 + 米粒大 fluoride 牙膏
+      - **不让宝宝含奶瓶睡**(防奶瓶蛀牙)
+    detail_zh_ref: |
+      4-7 月出牙起,中切牙先(下后上)。
+      症状:轻烦 + 流口水 + 微发烧(< 38.3°C)。> 38.3°C 不是出牙,找医生。
+      缓解:按摩牙龈 + 硬橡胶咬胶(不冰冻)。
+      **绝不**:teething gel (benzocaine 中毒) / homeopathic 片 / 琥珀牙链。
+      牙医:第一颗牙后 6 月内见,不晚 12 月。第一颗牙后软毛刷 + 米粒大氟化物牙膏。
+      不含奶瓶睡(蛀牙)。
+    sources: [A7]
+
+  teething_necklace_warning:
+    quote_en: "FDA warned 2018 after 18-month-old strangulation death; AAP does not recommend infants wear any jewelry"
+    detail_en: |
+      A8 关键警告:
+      - 2018 年 12 月 FDA 官方警告
+      - 18 月婴儿因琥珀牙链睡眠中勒颈死亡(致死案例)+ 多起珠子噎住报告
+      - 牙链材质(琥珀 / 木 / 大理石 / 硅胶):制造商宣称"体温释放止痛物质 / 刺激甲状腺 / 增强免疫" — **全无科学证据**
+      - 整合医学专家 Dr. Andrew Weil:"不被现代科学支持"
+      - 风险:strangulation(勒颈)+ choking(被珠子噎住)
+      - 窒息是 1 岁内婴儿主要死因,1-4 岁前 5 大死因
+      - **AAP 立场:不推荐婴儿佩戴任何首饰**
+      - 安全替代:塑料/橡胶咬胶 / 湿冰毛巾(不冰冻)/ 牙龈按摩 / acetaminophen(医生指导)/ 避 benzocaine
+    detail_zh_ref: |
+      2018 年 12 月 FDA 警告:18 月婴儿琥珀牙链睡中勒颈死亡。
+      所有牙链(琥珀/木/大理石/硅胶)宣称的疗效全无科学证据。
+      AAP:婴儿不戴任何首饰。
+      安全替代:橡胶咬胶 / 湿冰毛巾(不冰冻)/ 牙龈按摩。
+    sources: [A8]
+
+summary: |
+  AAP 0-12 月发展里程碑(全 4 维度)+ 出牙建议(2026):
+
+  里程碑速查:
+   - 2-4 月:抬头 / cooing 'ooo aahh' / 主动笑
+   - 4-7 月:翻身 5 月 / tripod 6-8 月 / hand-to-hand 6-8 月
+   - 8-12 月:独坐 9 月(没坐找医生) / 爬 7-10 月 / pincer 9 月 / 扶走 11 月 / 第一步 ~1 岁
+   - 认知:object permanence 8-10 月(Piaget 概念) + peekaboo 教学
+   - 社交:陌生人焦虑 ~8 月 / 分离焦虑 10-18 月峰
+   - 语言:第一个词 ~1 岁 2-3 个;理解 > 表达;双向对话
+
+  红旗:9 月不能独坐 / 肢体不对称 → 找医生
+
+  安全装备:
+   - **AAP 强烈反对学步车 baby walker**
+   - 楼梯顶/底 sturdy gates
+   - 鞋子 closed-toe + nonskid + 不需特殊弓型
+
+  出牙:
+   - 4-7 月起,中切牙先
+   - 症状:轻烦 + 流口水 + 微发烧 (<38.3°C);>38.3°C 不是出牙
+   - 缓解:按摩 + 硬橡胶咬(不冰冻)
+   - **绝不**:teething gel (benzocaine 中毒) + homeopathic 片 + **琥珀牙链 (FDA 致死警告)**
+   - 牙医:第一颗牙后 ≤ 6 月,不晚 12 月
+   - 第一颗牙后:软毛刷 + 米粒大 fluoride 牙膏;不含奶瓶睡
+
+  与 Karp 关系:Karp 主要在 S1,与本 cluster 几乎不交集。
+
+referenced_by_cards:
+  # R4 完成产 14 张
+  - C-S2-007    # S2 整体里程碑
+  - C-S3-009    # 翻身月龄
+  - C-S3-010    # 坐姿发展(tripod)
+  - C-S3-011    # 抓握进化(pincer)
+  - C-S3-012    # 出牙基础
+  - C-S3-013    # 琥珀牙链禁用
+  - C-S4-003    # 8-10 月独坐 / 爬 / 物体永久性
+  - C-S4-004    # 陌生人焦虑
+  - C-S4-005    # 不用 baby walker
+  - C-S5-002    # 11-12 月扶站走 / 第一步
+  - C-S5-003    # 第一个词
+  - C-S5-004    # 分离焦虑
+  - C-S5-005    # 12 月儿保(铁筛 / 牙医 / 走路评估)
+  - C-S5-006    # 楼梯安全 + 鞋子选择
+
+notes: |
+  Phase 2 R4 抓取(2026-05-02)。
+  8 篇 article 抓取,3 篇(Movement 8-12 / Emotional-Social / Language 8-12)首次 verbatim 被 WebFetch 内容过滤策略拦截,改用 facts list prompt 重抓成功。
+  Emotional-Social 重抓时返回为中文(prompt 含中文导致小模型自动中译),关键 verbatim 引号段保留为英文。
+
+  按 v3.5 schema(术语卡 glossary_refs)产 14 知识卡。
+  R4 涉及的术语卡(后续 50+ 批量生成时一并补):
+   - G-TERM-pincer-grasp / G-TERM-tripod-sit / G-TERM-cruising
+   - G-TERM-object-permanence / G-TERM-peekaboo
+   - G-TERM-stranger-anxiety / G-TERM-separation-anxiety / G-TERM-attachment
+   - G-TERM-cooing / G-TERM-baby-walker
+   - G-TERM-benzocaine / G-TERM-amber-teething-necklace / G-TERM-fluoride
+   - G-PERSON-Piaget(认知发展奠基)
+   - G-ABBR-FDA(已在 glossary.yaml)

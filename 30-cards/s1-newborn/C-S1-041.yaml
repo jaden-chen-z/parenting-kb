@@ -1,0 +1,48 @@
+card_id: C-S1-041
+stages: [S1]
+tags: [safety]
+
+front:
+  title: 过热也增 SIDS,比大人多 1 层
+  hook: 室内不戴帽子,出汗就是过热
+
+back:
+  why_matters: |
+    过热(overheating)= 婴儿体温调节失衡,可能因为穿太多 / 盖太厚 / 房间过暖。
+    中国传统"老人多穿"普遍,但实际增 SIDS 风险(婴儿调温能力比成人差)。
+    AAP 穿衣极简规则:同环境下,比大人多 1 层就够。
+    室内不戴帽子(医院刚回家头几小时除外)。
+    出汗 / 胸口烫 / 皮肤潮红 = 过热信号,要减衣。
+  what_to_do:
+    - 同环境下比大人多 1 层(不是多 2-3 层)
+    - 室内不戴帽子
+    - 分层穿衣 > 盖被子(被子还会闷面)
+    - Wearable blanket 要合身、不能盖到头
+    - 摸宝宝胸口 / 后颈判断冷热(不看手脚 — 手脚凉是正常)
+  failure_mode: |
+    怕冷裹厚被子 + 戴帽子 → 过热 → SIDS 风险升 + 闷面风险。
+    摸手脚凉就以为冷 → 加衣过度。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-SIDS
+  - G-ABBR-AAP
+
+citation:
+  page_title: "Safe Sleep: 9 Ways + AAP Policy Explained"
+  publisher: American Academy of Pediatrics
+  portal: HealthyChildren.org
+  policy_basis: "AAP Task Force on SIDS — 2022 Policy Statement"
+  page_url_primary: https://www.healthychildren.org/English/ages-stages/baby/sleep/Pages/How-to-Keep-Your-Sleeping-Baby-Safe-AAP-Policy-Explained.aspx
+  accessed: 2026-05-01
+  language: en
+  location: "9 Ways #8 'Do not let your baby get too hot' + Policy 'Don't let your baby get overheated'"
+  source_id: SRC-004
+
+unit_ids: []
+related_cards: []
+
+language: zh
+status: draft
+created: 2026-05-01
+updated: 2026-05-02

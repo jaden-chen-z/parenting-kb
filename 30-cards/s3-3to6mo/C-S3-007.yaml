@@ -1,0 +1,50 @@
+card_id: C-S3-007
+stages: [S3]
+tags: [safety]
+
+front:
+  title: 米粉别只 rice,换燕麦/大麦/藜麦
+  hook: AAP 现推 oatmeal 代替 rice
+
+back:
+  why_matters: |
+    砷(arsenic)= 致癌 + 神经发育损害的重金属;土壤 + 水中天然存在。
+    rice 比其他谷物吸收砷量高(因为水稻种植泡水)。
+    婴儿大脑发育期对砷尤其敏感,微量长期暴露可能影响认知。
+    中国传统"米糊优先"是育儿主流,但 AAP/FDA 立场:
+    Brown rice 砷最高,white basmati / sushi rice 较低;AAP 现在推荐用 oatmeal 代替 rice 作为第一辅食。
+    多种谷物轮换最安全。
+  what_to_do:
+    - 第一辅食:oatmeal(燕麦)/ 大麦 / 藜麦 / couscous / bulgur 轮换
+    - 不要只给 rice / brown rice / 米饼 / 米饮料
+    - 用 white basmati 或 sushi rice(砷低)替 brown rice
+    - 煮 rice 法:洗 + 大量水煮 + 沥干余水
+    - 避免 rice milk / brown rice syrup(processed 食品的隐藏甜味剂)
+  failure_mode: |
+    国内传统"米糊优先"只给 rice 米粉 → 累积砷暴露。
+    买 brown rice 米饼当零食 → brown rice 砷最高的形式。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-AAP
+  - G-ABBR-FDA
+
+citation:
+  page_title: "Heavy Metals in Baby Food: Reducing Risk of Exposure + Why Babies Spit Up"
+  publisher: American Academy of Pediatrics
+  portal: HealthyChildren.org
+  page_url_primary: https://www.healthychildren.org/English/ages-stages/baby/feeding-nutrition/Pages/Metals-in-Baby-Food.aspx
+  accessed: 2026-05-01
+  language: en
+  location: "Metals 'Switch up your grains' + 'Tips for choosing & cooking rice' + Spit-Up 文 'AAP now recommends oatmeal instead of rice cereal'"
+  source_id: SRC-006
+
+unit_ids: []
+related_cards:
+  - C-S3-008     # 鱼类汞(同源 — 重金属系列)
+  - C-S3-001     # 辅食 readiness(米粉是首批食物之一)
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

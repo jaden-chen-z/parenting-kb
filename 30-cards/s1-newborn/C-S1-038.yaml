@@ -1,0 +1,56 @@
+card_id: C-S1-038
+stages: [S1]
+tags: [safety]
+
+front:
+  title: 包裹只是安抚,不防 SIDS
+  hook: AAP 直说:包了也不降 SIDS 风险
+
+back:
+  why_matters: |
+    包裹(swaddle)= 用薄布把宝宝紧裹成蚕蛹状,模拟子宫感,帮助安抚 + 延长睡眠。
+    SIDS = 1 岁内婴儿无明显原因猝死,美国每年约 3500 例,是新生儿主要死因之一。
+    很多人以为"包紧能防 SIDS"。AAP 直接说:不能。
+    真正风险在 3-4 月会翻身后还包 → 翻成趴卧 → 窒息致死。
+    髋部还得松松的(蛙腿位),包太紧会得 DDH。
+  what_to_do:
+    - 包了仰睡(包 + 趴更危险,会窒息)
+    - 髋部松,腿能像青蛙那样自然张开
+    - 胸口能塞 2-3 根手指 = 松紧合格
+    - 试图翻身立刻停包(常 3-4 月,可能更早)
+    - 不用加重的包裹 / 米袋 / 沙袋
+  failure_mode: |
+    髋裹太紧 → 得 DDH(髋关节终身问题)。
+    会翻身了还包 → 翻成趴卧 → 窒息致死。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-SIDS
+  - G-ABBR-AAP
+  - G-ABBR-DDH
+  - G-TERM-swaddle
+  - G-TERM-frog-leg-position
+  - G-TERM-Moro-reflex
+  - G-TERM-back-sleep
+
+citation:
+  page_title: "Safe Sleep: 9 Ways + AAP Policy Explained + Good Night, Sleep Tight: How to Swaddle Your Baby"
+  publisher: American Academy of Pediatrics
+  portal: HealthyChildren.org
+  policy_basis: "AAP Task Force on SIDS — 2022 Policy Statement"
+  page_url_primary: https://www.healthychildren.org/English/ages-stages/baby/sleep/Pages/good-night-sleep-tight.aspx
+  accessed: 2026-05-01
+  language: en
+  location: "9 Ways #1 swaddle 段 + Policy 'Swaddle your baby if you like' (含 'swaddling doesn't reduce the risk of SIDS') + Swaddle Article 全文"
+  source_id: SRC-004
+
+unit_ids: []
+related_cards:
+  - C-S1-013     # Karp 包裹必须紧 + 双臂在内
+  - C-S1-014     # Karp 包裹 6 种常见误解
+  - C-S1-015     # Karp 包裹 5 个最常见错误
+
+language: zh
+status: draft
+created: 2026-05-01
+updated: 2026-05-02

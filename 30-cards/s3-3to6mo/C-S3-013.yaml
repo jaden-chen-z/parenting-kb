@@ -1,0 +1,50 @@
+card_id: C-S3-013
+stages: [S3]
+tags: [safety, red_flag]
+
+front:
+  title: 琥珀牙链禁,teething gel 也禁
+  hook: FDA 警告 + 18 月勒颈致死案例
+
+back:
+  why_matters: |
+    出牙时家长想缓解疼痛,容易踩这两个雷区。
+    **琥珀牙链**:2018 年 12 月 FDA 官方警告 — 18 月婴儿睡眠中被勒颈死亡 + 多起珠子噎住报告。
+    所有牙链(琥珀 / 木 / 大理石 / 硅胶)宣称的"释放止痛物质 / 刺激甲状腺"全无科学证据。
+    **teething gel(benzocaine)**:罕见但严重血液中毒(影响携氧)。
+    AAP 立场:**婴儿不戴任何首饰**。
+  what_to_do:
+    - 不买任何牙链(琥珀 / 木 / 大理石 / 硅胶)
+    - 不买 teething gel(看 benzocaine 成分)
+    - 不买 homeopathic teething tablets(可能含未知毒物)
+    - 安全替代:橡胶咬胶 / 湿冰毛巾(不冰冻)/ 牙龈按摩
+    - 必要时 acetaminophen(扑热息痛)— 医生指导剂量
+  failure_mode: |
+    戴琥珀牙链睡觉 → 勒颈致死(已发生案例)。
+    给 benzocaine 凝胶 → 罕见但严重血液中毒(影响携氧)。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-AAP
+  - G-ABBR-FDA
+  - G-TERM-amber-teething-necklace
+  - G-TERM-benzocaine
+
+citation:
+  page_title: "Teething Necklaces and Beads: A Caution for Parents + When Does Teething Start?"
+  publisher: American Academy of Pediatrics
+  portal: HealthyChildren.org
+  page_url_primary: https://www.healthychildren.org/English/ages-stages/baby/teething-tooth-care/Pages/Amber-Teething-Necklaces.aspx
+  accessed: 2026-05-02
+  language: en
+  location: "Amber Necklaces 全文 (FDA 2018 + 18 月致死案例 + AAP 立场) + Teething 4-7 'Never use teething gels' 段"
+  source_id: SRC-007
+
+unit_ids: []
+related_cards:
+  - C-S3-012     # 出牙时机 + > 38.3°C 不是出牙
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

@@ -1,0 +1,50 @@
+card_id: C-S5-002
+stages: [S5]
+tags: []
+
+front:
+  title: 第一步 ~1 岁,脚分宽是正常
+  hook: 9-15 月都正常,别催
+
+back:
+  why_matters: |
+    独立行走(independent walking)= 不需扶任何东西自己迈步走。是 9-18 月里程碑核心。
+    正常范围跨度大:9-15 月独走都正常,**18 月仍不会才是红旗**(部分文化误以为"周岁必须会走",催出焦虑)。
+    AAP 节奏:11 月扶站 + cruise(扶家具走),12 月独立第一步。
+    第一步典型姿势:**脚分宽 + 高举手保持平衡**(像短臂猴) — 这是学平衡的正常姿势,不是 X 腿 / 内八。
+    学会"停"和"换方向"是后续技能,需 1-2 月练。
+  what_to_do:
+    - 11 月扶站 + cruise(扶家具走)
+    - 不催不全程扶,让他自己练
+    - 12 月第一步:脚分宽 + 高举手是正常姿势
+    - 13-15 月独走 / 倒地多次也正常
+    - 18 月仍不会独走 → 立刻找医生
+  failure_mode: |
+    全程扶手不放 → 自己平衡练不出。
+    用学步车制造"会走"假象 → 神经协调实际没建立(C-S4-005)。
+    18 月还不会走拖延等观望 → 错过黄金干预期。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-AAP
+  - G-TERM-cruising
+  - G-TERM-baby-walker
+
+citation:
+  page_title: "Movement Milestones in Babies 8 to 12 Months Old"
+  publisher: American Academy of Pediatrics
+  portal: HealthyChildren.org
+  page_url_primary: https://www.healthychildren.org/English/ages-stages/baby/Pages/Movement-8-to-12-Months.aspx
+  accessed: 2026-05-02
+  language: en
+  location: "'11 Months' + '12 Months' sections"
+  source_id: SRC-007
+
+unit_ids: []
+related_cards:
+  - C-S4-005     # 学步车 AAP 反对
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

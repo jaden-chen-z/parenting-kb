@@ -1,0 +1,50 @@
+card_id: C-S1-045
+stages: [S1]
+tags: []
+
+front:
+  title: 安抚 9 招菜单 — 试一个 5 分钟
+  hook: 选 1-2 个有效的就够,不用都用
+
+back:
+  why_matters: |
+    AAP 给完整安抚 menu(9 招):摇晃 / 抚摸 / 包裹 / 唱歌 / 音乐 / 走 / 节奏白噪音 / 拍嗝 / 温水浴。
+    Karp 5S(包裹 / 侧抱 / 嘘声 / 摇晃 / 吸吮)是其中 5 招,AAP menu 更广。
+    AAP "Self-Soothing" 文章关键原则:每招试 5 分钟再换,别 5 秒就切换 — 稳一招给够时间。
+    重点不是技巧多,是先排查最迫切需求(饥饿 / 冷暖 / 尿布 / 异物)再用 menu。
+  what_to_do:
+    - 先排查最迫切需求(饥饿 / 冷暖 / 尿布 / 异物)
+    - 选 1-2 招试 5 分钟,别瞬时切换
+    - 记录哪些对你家宝宝有效,下次优先用
+    - menu:摇晃 / 抚摸 / 包裹 / 唱 / 音乐 / 走 / 节奏白噪音 / 拍嗝 / 温水浴
+    - 餐间间隔 ≥ 2-2.5 小时,别狂喂
+  failure_mode: |
+    一招换一招太快 → 宝宝刚开始放松又被打断。
+    一直就一招(比如喂奶) → 错过其他可能更有效的。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-AAP
+  - G-PERSON-Karp
+  - G-TERM-swaddle
+
+citation:
+  page_title: "Responding To Your Baby's Cries + How to Calm a Fussy Baby + Self-Soothing"
+  publisher: American Academy of Pediatrics
+  portal: HealthyChildren.org
+  page_url_primary: https://www.healthychildren.org/English/ages-stages/baby/crying-colic/Pages/Calming-A-Fussy-Baby.aspx
+  accessed: 2026-05-01
+  language: en
+  location: "Responding 'Strategies to try' 9 招 menu + Calming 'Comforting Techniques' + Self-Soothing 'try one strategy for about 5 minutes'"
+  source_id: SRC-005
+
+unit_ids: []
+related_cards:
+  - C-S1-009     # Karp 5S 必须组合用
+  - C-S1-023     # Karp 拥抱疗法 = 5S 同时上
+  - C-S1-024     # Karp 5S 力度匹配哭闹
+
+language: zh
+status: draft
+created: 2026-05-01
+updated: 2026-05-02

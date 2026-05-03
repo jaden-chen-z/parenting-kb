@@ -1,0 +1,49 @@
+card_id: C-S1-053
+stages: [S1]
+tags: [safety]
+
+front:
+  title: 母乳宝宝必补维 D 400 IU/d
+  hook: 中文家长盲区 — 出生后就开始
+
+back:
+  why_matters: |
+    维生素 D 来源:阳光合成 + 食物 + 补剂。
+    婴儿不能晒太阳(增皮肤癌风险)+ 母乳天然不含足够 D + 食物 4-6 月才引入 → 必须靠补剂。
+    中国母乳宝宝维 D 缺乏率高(研究数据 30-50%),是中文家长盲区。
+    AAP:母乳宝宝必补 — < 1 岁 400 IU/d (10 mcg),> 1 岁 600 IU/d (15 mcg)。
+    配方奶 ≥ 27 oz/d(800 ml)不需要(配方已加 D)。
+    缺 D 风险:软骨病(rickets) + 免疫弱 + 牙齿发育差。
+  what_to_do:
+    - 母乳宝宝出生后就开始,每天 400 IU(10 mcg)滴剂
+    - 满 1 岁后增到 600 IU/d(15 mcg)
+    - 配方奶宝宝:每天 ≥ 27 oz(800 ml)就不必另补
+    - 混合喂养:看配方奶量 < 27 oz 就补
+    - 不要靠晒太阳"补 D" — 增皮肤癌风险,且效率低
+  failure_mode: |
+    母乳宝宝不补维 D → 维 D 缺乏 → 软骨病 + 免疫弱(可能不可逆)。
+    给宝宝晒太阳"补 D" → 紫外线伤害,增皮肤癌风险。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-AAP
+  - G-ABBR-IU
+
+citation:
+  page_title: "Where We Stand: Vitamin D & Iron Supplements for Babies"
+  publisher: American Academy of Pediatrics
+  portal: HealthyChildren.org
+  page_url_primary: https://www.healthychildren.org/English/ages-stages/baby/feeding-nutrition/Pages/Vitamin-Iron-Supplements.aspx
+  accessed: 2026-05-01
+  language: en
+  location: "'Why do babies need vitamin D supplements?' + 'How much vitamin D do babies need?'"
+  source_id: SRC-006
+
+unit_ids: []
+related_cards:
+  - C-S3-006     # 铁补充 + 12 月筛查
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

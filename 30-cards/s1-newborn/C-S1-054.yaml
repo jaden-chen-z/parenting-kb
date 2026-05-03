@@ -1,0 +1,54 @@
+card_id: C-S1-054
+stages: [S1]
+tags: [safety, red_flag]
+
+front:
+  title: 吐奶正常 vs GERD vs 喷射呕
+  hook: 这 2 种立刻送医,其余正常
+
+back:
+  why_matters: |
+    GER(胃食管反流)= 生理性,正常婴儿都有(食管下括约肌不成熟);
+    GERD(病理性反流病)= 影响生长 / 引起并发症,需要医学评估;
+    幽门狭窄(pyloric stenosis)= 胃出口肌肉肥厚阻塞,需手术。
+    近 50% 婴儿 0-3 月有显著吐奶,绝大多数是 GER 正常,只 1-3% 是 GERD 病理。
+    AAP 红旗 → 立刻找医生:① 喷射性呕吐 + 用力(pyloric stenosis)② 吐物含血(食管 / 胃出血)。
+    其余 spit-up 用 5 招减(见下)。
+  what_to_do:
+    - 喷射性吐 + 肌肉用力:立刻找医生(pyloric stenosis 急症)
+    - 吐物含血:立刻找医生(食管炎或胃炎)
+    - 减少 spit-up:小量多次 + 喂中喂后多拍嗝
+    - 喂后 20-30 min 竖抱,不让玩 / 不 tummy time
+    - 配方奶宝宝持续吐 → 问医生换深度水解配方(CMPA 5%)
+  failure_mode: |
+    把喷射性吐当普通吐奶 → 错过 pyloric stenosis 紧急手术(可能致命)。
+    给完奶就翻趴 tummy time → 加重吐奶 + 中耳炎风险。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-AAP
+  - G-ABBR-GERD
+  - G-ABBR-GER
+  - G-ABBR-CMPA
+  - G-TERM-pyloric-stenosis
+  - G-TERM-protein-hydrolysate-formula
+
+citation:
+  page_title: "Why Babies Spit Up"
+  publisher: American Academy of Pediatrics
+  portal: HealthyChildren.org
+  page_url_primary: https://www.healthychildren.org/English/ages-stages/baby/feeding-nutrition/Pages/Why-Babies-Spit-Up.aspx
+  accessed: 2026-05-01
+  language: en
+  location: "'Common concerns parents have' (含 pyloric stenosis + blood 红旗) + 'Remedies for spitty babies — 5 tips' + 'Vomit vs spit up'"
+  source_id: SRC-006
+
+unit_ids: []
+related_cards:
+  - C-S1-030     # Karp 牛奶蛋白可能元凶
+  - C-S1-048     # 母乳 elimination diet
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

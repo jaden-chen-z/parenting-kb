@@ -1,0 +1,275 @@
+source_id: SRC-005
+title: "AAP Crying & Soothing (HealthyChildren.org · 4-article cluster)"
+org: American Academy of Pediatrics
+source_type: webpage_cluster
+url_root: https://www.healthychildren.org/English/ages-stages/baby/crying-colic/
+doi: null
+isbn: null
+tier: 1
+language: en
+paywall: false
+captcha: false
+accessed: 2026-05-01
+fetch_method: webfetch
+file_size_bytes_total: 13700
+
+articles:
+  - art_id: A1
+    title: "Responding To Your Baby's Cries"
+    url: https://www.healthychildren.org/English/ages-stages/baby/crying-colic/Pages/Responding-to-Your-Babys-Cries.aspx
+    local_file: ../raw/aap_responding_to_cries.md
+    char_count: 5800
+  - art_id: A2
+    title: "How to Calm a Fussy Baby: Tips for Parents & Caregivers"
+    url: https://www.healthychildren.org/English/ages-stages/baby/crying-colic/Pages/Calming-A-Fussy-Baby.aspx
+    local_file: ../raw/aap_calming_fussy_baby.md
+    char_count: 4500
+  - art_id: A3
+    title: "Colic Relief Tips for Parents"
+    url: https://www.healthychildren.org/English/ages-stages/baby/crying-colic/Pages/Colic.aspx
+    local_file: ../raw/aap_colic.md
+    char_count: 1700
+  - art_id: A4
+    title: "Self-Soothing: Help Your Baby Learn This Life Skill"
+    url: https://www.healthychildren.org/English/ages-stages/baby/crying-colic/Pages/Self-Soothing-Helping-Your-Baby-Learn-This-Life-Skill.aspx
+    local_file: ../raw/aap_self_soothing.md
+    char_count: 1700
+
+metadata:
+  publisher: American Academy of Pediatrics (AAP)
+  portal: HealthyChildren.org
+
+# verbatim 关键内容(按主题组织,英文 verbatim + 关键中译参考;每块标 → 来源 article)
+verbatim_content:
+
+  crying_is_normal_baseline:
+    quote_en: "Newborns routinely cry 1 to 4 hours a day."
+    detail_en: |
+      "All babies cry, often without any apparent cause."
+      "It's part of adjusting to this strange new life outside the womb."
+      Fussy crying purpose: "This kind of fussy crying seems to help babies get rid of excess energy to allow for a more contented state."
+      "Right after these spells, they may seem more alert than before, and then may sleep more deeply than usual."
+    detail_zh_ref: |
+      新生儿每天哭 1-4 小时是正常基线。
+      fussy 哭闹是在释放能量,哭完反而更安详 + 睡得更深。
+      不是因为父母不好。
+    sources: [A1 opening + "Your baby's fussy times"]
+
+  no_spoiling_first_months:
+    quote_en: "You cannot spoil a young baby with attention, and if you answer their calls for help, they'll cry less overall."
+    detail_en: |
+      "The best way to handle crying is to respond promptly during their first few months."
+    detail_zh_ref: |
+      AAP 直接陈述:头几月不会被宠坏。及时回应反而总哭闹少。
+      与 cry-it-out 不矛盾(cry-it-out 是 4-6 月后睡眠训练话题)。
+    sources: [A1 "Different types of cries"]
+
+  meet_most_pressing_need_first:
+    quote_en: "When responding to your child's cries, try to meet their most pressing need first."
+    detail_en: |
+      Example: "If they're cold and hungry and their diaper is wet, warm them up, change their diaper and then feed them."
+    detail_zh_ref: |
+      回应顺序:冷暖 → 尿布 → 喂(优先级排序)。
+    sources: [A1 "Strategies to try"]
+
+  hidden_causes_to_investigate:
+    quote_en: "If there's a shrieking or panicked quality to the cry, consider if a piece of clothing or something else is making them uncomfortable. Perhaps a strand of hair is caught around a finger or toe."
+    detail_en: |
+      Hair tourniquet 综合征(医学专名):头发或细线缠在手指/脚趾上,可能切断血流。
+      AAP 列入"shrieking or panicked"哭声排查清单。
+    detail_zh_ref: |
+      尖叫 / 惊恐式哭声 → 排查异物缠绕(头发缠手指/脚趾、衣服扎、标签划)。
+      中文医学叫"头发止血带综合征"。
+    sources: [A1 "Strategies to try" + 急诊医学常识补充]
+
+  soothing_techniques_full_menu:
+    quote_en: "Try the following consoling techniques to find the ones that work best for your baby"
+    detail_en: |
+      AAP 9 招 (A1):
+      - Rocking, either in a rocking chair or in your arms as you sway from side to side
+      - Gently stroking their head or patting their back or chest
+      - Safe swaddling (wrapping them snugly in a receiving blanket)
+      - Singing or talking
+      - Playing soft music
+      - Walking them in your arms, a stroller or a carriage
+      - Rhythmic soft noise and vibration
+      - Burping them to relieve any trapped gas bubbles
+      - Warm baths (most babies like this, but not all)
+
+      A2 补充:
+      - Left-side hold "to help digestion or stomach for support" + 入睡转回 crib 仰睡
+      - White noise / fan / heartbeat 录音 (mimic womb)
+      - Body carrier rock
+      - Pacifier 或帮助宝宝找到 thumb (sucking calms many babies)
+      - 餐间间隔 ≥ 2 to 2½ hours (avoid overfeeding)
+      - Daytime nap ≤ 3 hours
+      - 喂奶/换尿布夜间不开亮灯不开 TV
+
+      Self-Soothing CALM 10 步 (A4) — 由轻到重:
+      1. Eye contact
+      2. Talking
+      3. Hand placement
+      4. Positioning adjustments
+      5. Side rolling
+      6. Picking up
+      7. Rocking
+      8. Swaddling
+      9. Pacifier use
+      10. Feeding
+
+      Try-time: "try one strategy (1 or 2 sensory inputs) for about 5 minutes before moving on."
+    detail_zh_ref: |
+      AAP 安抚 menu:摇晃 / 抚摸 / 包裹 / 唱歌 / 音乐 / 走 / 节奏白噪音 / 拍嗝 / 温水浴 + 左侧抱(帮消化)+ 奶嘴 / 拇指。
+      每招试 5 分钟再换。
+      餐间 ≥ 2-2.5 小时;白天 nap ≤ 3 小时。
+      Self-Soothing CALM 10 步:由轻(eye contact / 说话)到重(包裹 / 奶嘴 / 喂)逐级升。
+    sources: [A1, A2, A4]
+
+  let_baby_cry_in_safe_place:
+    quote_en: "Sometimes, if all else fails and your baby doesn't seem to be ill, the best approach is simply to leave the baby alone in a safe location such as a crib."
+    detail_en: |
+      "Many babies cannot fall asleep without crying and will fall asleep quicker if left to cry."
+      "The crying shouldn't last long if the child is truly tired."
+    detail_zh_ref: |
+      都试过不像生病:放婴儿床(空,只一张床单)让他哭也是合理选择。
+      真累的话哭不久。
+      跟"cry-it-out 训练法"(更长策略)不一样,这是某次安抚的应急。
+    sources: [A1 "Strategies to try"]
+
+  gas_drops_no_evidence:
+    quote_en: "Some parents try \"gas drops\" (simethicone) or \"gripe water\" (any number of ingredients), but research has never shown these products to work."
+    detail_en: |
+      Alternative non-medication options (A1):
+      - "reevaluating your diet" (母乳妈妈)
+      - "slow feeding"
+      - "ensuring appropriate burping"
+      - 配方奶宝宝:"slower-flow nipple and/or tipping the bottle to prevent milk flow for a few seconds occasionally" — "may help the baby better organize their swallowing and breathing and realize when they are full"
+    detail_zh_ref: |
+      AAP 直接打脸:simethicone(西甲硅油)和 gripe water 没有研究证据有效。
+      改试:慢流速奶嘴 / 倾斜奶瓶 / 少食多餐 / 母乳妈妈饮食调整 / 拍嗝。
+    sources: [A1 "Do gas drops work?"]
+
+  elimination_diet_2_weeks:
+    quote_en: "Moms may try changing their own diet."
+    detail_en: |
+      A2: "See if your baby gets less fussy if you cut down on milk products or caffeine. If there is no difference after making the dietary changes, resume your usual diet. Avoiding spicy or gassy foods like onions or cabbage has worked for some moms, but this has not been scientifically proven."
+      A3 Colic: "Breastfeeding parents can eliminate milk products, caffeine, onions, cabbage—one at a time, observing results over 2 weeks."
+    detail_zh_ref: |
+      母乳妈妈试 elimination diet:一次只去一类(乳制品 → 咖啡因 → onion / cabbage),看 2 周效果。
+      无效就恢复正常饮食,别长期忌口。
+      onion / cabbage 是经验做法,科学证据不强。
+    sources: [A2 "food sensitivity" + A3 dietary approaches]
+
+  bottle_feeding_alt_formula:
+    quote_en: "Ask your child's doctor if you should try a different formula. This has been shown to be helpful for some babies."
+    detail_en: |
+      A3: "Formula-fed infants may benefit from protein hydrolysate formula in rare cases."
+    detail_zh_ref: |
+      配方奶宝宝:可问医生换 protein hydrolysate(深度水解配方),对部分宝宝有效。
+      不要自己擅自换。
+    sources: [A2 + A3]
+
+  fever_red_flag_under_2_months:
+    quote_en: "If your baby is younger than 2 months and has a fever, call your child's doctor right away."
+    detail_en: |
+      A1: "If you take it rectally and it is 100.4 degrees Fahrenheit (38 degrees Celsius) or higher, they could have an infection. Contact your pediatrician."
+      A2 也有 GER 警告: "Contact your child's doctor if your baby is fussy after feeding, has excessive spitting or vomiting, and is losing or not gaining weight."
+    detail_zh_ref: |
+      ≥ 100.4°F (38°C) + 2 月内 = 立刻找医生(感染高危)。
+      喂奶后狂吐 + 不增重 → GER(胃食管反流),也找医生。
+    sources: [A1 "Could your baby be sick?" + A2 checklist]
+
+  caregiver_break_protocol:
+    quote_en: "If you start to feel you can't handle the situation, set the baby down in a safe location and get help from a family member or friend."
+    detail_en: |
+      A2 完整步骤:
+      "Place your baby in a safe place, such as crib or playpen without blankets and stuffed animals; leave the room; and let your baby cry alone for about 10 to 15 minutes."
+      "Take a deep breath and count to 10."
+      "Listen to music for a few minutes."
+      "Call a friend or family member for emotional support."
+      "Do simple household chores, such as vacuuming or washing the dishes."
+      "If you have not calmed after 10 to 15 minutes, check on your baby but do not pick up your baby until you feel you have calmed down."
+      A1 + A2 SBS warning: "No matter how impatient or angry you feel, do not shake or hit the baby. Shaking an infant hard can cause blindness, brain damage or even death."
+      "It is never safe to shake, throw, hit, slam, or jerk any child—and it never solves the problem!"
+    detail_zh_ref: |
+      崩溃时救命流程:
+      • 放婴儿床(空,只有床单),让他哭 10-15 分钟
+      • 自己离开房间,深呼吸 / 数到 10 / 听音乐 / 打电话 / 做家务
+      • 没冷静继续等,别勉强抱
+      • 冷静后再回去
+      • 绝不摇晃 / 摔 / 打 / 砸 / 猛拽(SBS 致永久脑损伤或死亡)
+      • 平时跟所有看护人(配偶 / 老人 / 保姆)同步流程
+    sources: [A1 "Take a break" + A2 "breaks from crying babies"]
+
+  colic_definition_and_timeline:
+    quote_en: "Colic affects about one-fifth of all babies."
+    detail_en: |
+      A3 + A1:
+      - Onset: "between the second and fourth weeks"
+      - Peak: "Regular fussiness peaks at approximately 3 hours daily by 6 weeks"
+      - Resolution: "stops by 3 to 4 months, but it can last until 6 months of age"
+      - "Then declines to 1-2 hours by 3-4 months"
+      Cause: "colic means simply that the child is unusually sensitive to stimulation or can't yet console themselves or regulate their nervous system."
+      "As your baby matures, this inability to self-console—marked by constant crying—will improve."
+    detail_zh_ref: |
+      Colic(肠绞痛):
+      • 1/5 婴儿
+      • 2-4 周起,6 周达每天约 3 小时高峰
+      • 3-4 月退,可能持续到 6 月
+      • 本质 = 神经系统过度敏感 + 还不会自我安抚,不是消化/胀气
+      • 神经系统成熟自然会好,不需要"治"
+    sources: [A1 + A3]
+
+  self_soothing_is_skill_not_cry_it_out:
+    quote_en: "Self-soothing is often misunderstood as \"cry it out\" parenting, but this article clarifies that the practice involves \"allowing babies to learn calming strategies\" to develop \"an important life skill.\""
+    detail_en: |
+      Pre-condition: "fed, changed, and well rested" 才尝试 self-soothing。
+      "slow down and take steps to really learn about your baby"
+      "try each technique slowly, and pause to see how your baby responds"
+      Caution: "sometimes this means we are adding more stimulation to an already overwhelmed sensory system" — 别一直叠加。
+    detail_zh_ref: |
+      Self-soothing(自我安抚)是技能,不等于 cry-it-out。
+      前提:吃饱 / 干爽 / 休息够。
+      原则:慢一点,试一个看反应,别狂叠加刺激(可能反而过度刺激)。
+    sources: [A4 全文]
+
+# 给后续单元/产卡用的精简摘要
+summary: |
+  AAP 关于哭闹与安抚的核心立场(2026):
+  数据基线:新生儿每天哭 1-4 小时正常,fussy 哭闹有"释放能量"作用。
+  态度立场:头几月"You cannot spoil a young baby with attention" — 答应反而少哭。
+  方法论:meet most pressing need first,9-10 招安抚 menu,每招试 5 分钟,Self-soothing 是技能(非 cry-it-out)。
+  应急 / 救命:
+   - 尖叫式哭排查异物缠绕(hair tourniquet)
+   - 2 月内发烧 100.4°F 立刻找医生
+   - 崩溃放下宝宝离开 10-15 分钟,绝不摇晃(SBS 警告)
+  关键纠误:gas drops + gripe water 没用(research-based)。
+  Colic:1/5 宝宝,2-4 周起 → 6 周峰 → 3-4 月退,本质是神经敏感不是胀气。
+  与 Karp 关系(参考):
+   - C-S1-007 不会宠坏 → AAP 完全一致(直接陈述)
+   - C-S1-011 胀气不是元凶 → AAP 一致(更进一步:gas drops 也无效)
+   - C-S1-020 SBS → AAP 加"放下离开 10-15 分钟"具体协议
+   - C-S2-001/002 哭闹峰 → AAP 用 colic 概念叙述(1/5 比例 + 2-4 周起更精确)
+   - C-S1-009/023 5S 持续安抚 → AAP "都不行就放下让他哭"立场温和差异
+
+referenced_by_cards:
+  # R2 完成后回填(预计 9 张:8 S1 + 1 S2)
+  - C-S1-042
+  - C-S1-043
+  - C-S1-044
+  - C-S1-045
+  - C-S1-046
+  - C-S1-047
+  - C-S1-048
+  - C-S1-049
+  - C-S2-004
+
+notes: |
+  Phase 2 R2 抓取(2026-05-01)。
+  4 篇 article 全部抓取成功。
+  WebFetch 输入/输出比抽样:
+   - A1 Responding ≈ 1.0(完整)
+   - A2 Calming ≈ 1.0(完整,有 bullet)
+   - A3 Colic ≈ 0.4(部分总结化,但关键数字 / 时间线 / 治疗清单的 verbatim 保留)
+   - A4 Self-Soothing ≈ 0.4(部分总结化,但 CALM 10 步 / 5 分钟规则 verbatim 保留)
+  按解读 B,Karp 对应卡(007/009/011/020/023 + S2-001/002)不动,留到所有书产完后整合。

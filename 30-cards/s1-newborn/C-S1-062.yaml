@@ -1,0 +1,46 @@
+card_id: C-S1-062
+stages: [S1]
+tags: [safety]
+
+front:
+  title: 直肠测温对 < 3 月最准
+  hook: 摸额头 / 温度贴都不靠谱
+
+back:
+  why_matters: |
+    测温方法 5 种(直肠 / 口腔 / 腋下 / 耳 / 颞动脉),精度差异大。
+    < 3 月发烧定义阈值是 38°C 直肠 — **精度 0.1°C 之差就是急诊 vs 在家观察**,测温方法选错可能漏诊。
+    AAP:< 3 月用直肠最准;6 月内不用耳温计(耳道太小,误差大)。
+    摸额头 / 温度贴 / 抱着感觉都不可靠。
+  what_to_do:
+    - < 3 月:**用直肠测温**(误差 < 0.1°C)
+    - 直肠测温法:体温计涂润滑剂,插入约 1.5 cm,1 分钟读数
+    - 6 月内**不用耳温计**(耳道太小,误差大)
+    - 6 月+ 可用耳温 / 颞动脉测温
+    - 不可靠:摸额头 / 温度敏感贴 / 抱着感觉
+  failure_mode: |
+    摸额头判断没烧 → 错过 < 3 月 38°C 急诊。
+    用耳温给 3 月宝宝 → 测得 36.8°C,实际直肠 38.5°C(漏诊脓毒症)。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-AAP
+
+citation:
+  page_title: "Fever and Your Baby"
+  publisher: American Academy of Pediatrics
+  portal: HealthyChildren.org
+  page_url_primary: https://www.healthychildren.org/English/health-issues/conditions/fever/Pages/Fever-and-Your-Baby.aspx
+  accessed: 2026-05-02
+  language: en
+  location: "'测温方法精度' section"
+  source_id: SRC-008
+
+unit_ids: []
+related_cards:
+  - C-S1-060     # < 3 月发烧 38°C 立刻找医生
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

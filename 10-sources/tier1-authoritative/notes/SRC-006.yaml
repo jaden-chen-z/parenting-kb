@@ -1,0 +1,485 @@
+source_id: SRC-006
+title: "AAP Feeding & Pacifiers (HealthyChildren.org · 5-article cluster)"
+org: American Academy of Pediatrics
+source_type: webpage_cluster
+url_root: https://www.healthychildren.org/English/ages-stages/baby/
+doi: null
+isbn: null
+tier: 1
+language: en
+paywall: false
+captcha: false
+accessed: 2026-05-01
+fetch_method: webfetch
+file_size_bytes_total: 14000
+
+articles:
+  - art_id: A1
+    title: "Baby Pacifiers & Thumb Sucking: What Parents Need to Know"
+    url: https://www.healthychildren.org/English/ages-stages/baby/crying-colic/Pages/Pacifiers-and-Thumb-Sucking.aspx
+    local_file: ../raw/aap_pacifier_thumb_sucking.md
+    char_count: 1700
+  - art_id: A2
+    title: "How Often To Breastfeed"
+    url: https://www.healthychildren.org/English/ages-stages/baby/breastfeeding/Pages/How-Often-to-Breastfeed.aspx
+    local_file: ../raw/aap_breastfeeding_frequency.md
+    char_count: 800
+  - art_id: A3
+    title: "Starting Solid Foods"
+    url: https://www.healthychildren.org/English/ages-stages/baby/feeding-nutrition/Pages/starting-solid-foods.aspx
+    local_file: ../raw/aap_starting_solid_foods.md
+    char_count: 3000
+  - art_id: A4
+    title: "Baby-Led Weaning: Is It Safe?"
+    url: https://www.healthychildren.org/English/ages-stages/baby/feeding-nutrition/Pages/baby-led-weaning-is-it-safe.aspx
+    local_file: ../raw/aap_blw_safety.md
+    char_count: 3500
+  - art_id: A5
+    title: "Cereal in a Bottle: Solid Food Shortcuts to Avoid"
+    url: https://www.healthychildren.org/English/ages-stages/baby/feeding-nutrition/Pages/Cereal-in-a-Bottle-Solid-Food-Shortcuts-to-Avoid.aspx
+    local_file: ../raw/aap_cereal_in_bottle.md
+    char_count: 1500
+  # R3.5 复盘补抓(2026-05-02):
+  - art_id: A6
+    title: "Where We Stand: Vitamin D & Iron Supplements for Babies"
+    url: https://www.healthychildren.org/English/ages-stages/baby/feeding-nutrition/Pages/Vitamin-Iron-Supplements.aspx
+    local_file: ../raw/aap_vitamin_iron_supplements.md
+    char_count: 2400
+  - art_id: A7
+    title: "From Bottle to Cup: Helping Your Child Make a Healthy Transition"
+    url: https://www.healthychildren.org/English/ages-stages/baby/feeding-nutrition/Pages/Discontinuing-the-Bottle.aspx
+    local_file: ../raw/aap_discontinuing_the_bottle.md
+    char_count: 5000
+  - art_id: A8
+    title: "Why Babies Spit Up"
+    url: https://www.healthychildren.org/English/ages-stages/baby/feeding-nutrition/Pages/Why-Babies-Spit-Up.aspx
+    local_file: ../raw/aap_why_babies_spit_up.md
+    char_count: 3500
+  - art_id: A9
+    title: "Heavy Metals in Baby Food: Reducing Risk of Exposure"
+    url: https://www.healthychildren.org/English/ages-stages/baby/feeding-nutrition/Pages/Metals-in-Baby-Food.aspx
+    local_file: ../raw/aap_metals_in_baby_food.md
+    char_count: 5000
+  - art_id: A10
+    title: "Bottle Feeding Basics"
+    url: https://www.healthychildren.org/English/ages-stages/baby/feeding-nutrition/Pages/Bottle-Feeding-How-Its-Done.aspx
+    local_file: ../raw/aap_bottle_feeding_basics.md
+    char_count: 1500
+
+  failed_articles:
+    - title: "Settling In: The First Few Weeks of Breastfeeding"
+      url: https://www.healthychildren.org/English/ages-stages/baby/breastfeeding/Pages/Settling-In-The-First-Few-Weeks-of-Breastfeeding.aspx
+      reason: "WebFetch 拒绝返回 verbatim(版权策略),fallback 到 How-Often-to-Breastfeed (A2)"
+
+metadata:
+  publisher: American Academy of Pediatrics (AAP)
+  portal: HealthyChildren.org
+
+# verbatim 关键内容(按主题组织,英文 verbatim + 关键中译参考;每块标 → 来源 article)
+verbatim_content:
+
+  breastfeeding_frequency_and_on_demand:
+    quote_en: "Newborns should be fed 8-12 times in 24 hours."
+    detail_en: |
+      AAP key facts (A2):
+      - Day cap: ≤ 2-3 hours between feeds
+      - Night cap: ≤ 4 hours between feeds
+      - Early hunger cues: lip-smacking, sucking motions, rooting, kicking, restlessness, increased alertness
+      - Late hunger cue: crying (already past prime)
+      - AAP recommends "on demand" feeding ("as often as he's willing")
+      - Let baby self-detach or fall asleep before stopping
+      - Longer feeding = higher fat content (hindmilk)
+      - Short timed feeds may cause maternal engorgement
+    detail_zh_ref: |
+      新生儿每天 8-12 次。
+      白天 2-3 小时一次上限,夜间 4 小时一次上限。
+      早期信号(唇啜 / 吸吮动作 / 寻乳 / 踢腿 / 警觉)就喂,哭已经晚了。
+      AAP "按需",让宝宝主动脱离/睡过去再停。
+      喂越久脂肪越多(后奶)。
+    sources: [A2]
+
+  pacifier_introduction_and_safety:
+    quote_en: "For breastfeeding families, wait approximately 3-4 weeks until nursing is established before introducing pacifiers."
+    detail_en: |
+      A1: "Offer a pacifier at nap time and bedtime. This helps to reduce the risk of sudden infant death syndrome (SIDS)."
+      Safety:
+      - "Never use pacifiers as meal replacements"
+      - "Avoid forcing pacifier acceptance"
+      - "Never tie pacifiers to cribs or around a child's neck/hand"
+      - Anticipate nighttime waking if dependent on pacifier
+      Selection:
+      - One-piece construction
+      - Shield ≥ 1½ inches across
+      - Firm plastic with airholes
+      - Dishwasher-safe; "Clean frequently until 6 months old through boiling or dishwashing"
+    detail_zh_ref: |
+      母乳建立后 3-4 周再用奶嘴(对 R1 SIDS 视角的具体周数补充)。
+      不替代正餐 / 不强迫 / 不挂脖子 / 不系衣服。
+      选购:整体一体 + 盾片 ≥ 1.5 英寸 + 硬塑料 + 有气孔 + 洗碗机洗。
+      6 月前每天消毒(开水煮 / 洗碗机)。
+    sources: [A1]
+
+  pacifier_thumb_developmental_concerns:
+    quote_en: "Prolonged strong sucking beyond 2 to 4 years of age may affect mouth shape and tooth alignment."
+    detail_en: |
+      A1: "If your child stops sucking on a pacifier or his thumb or fingers before their permanent front teeth come in, there's a good chance their bite will correct itself."
+      Weaning: "praise/rewards, distraction from boredom, and gentle reminders. Avoid punishment or teasing, which prove counterproductive."
+      Natural resolution: "Most children discontinue these habits before school advancement due to peer pressure."
+    detail_zh_ref: |
+      持续吸 2-4 岁后影响嘴型和牙齿对齐。
+      永久门牙长出前停 → 牙齿能自然矫正(好消息)。
+      戒断:鼓励 / 转移注意力 / 温和提醒;别惩罚或嘲笑(反效果)。
+      多数孩子上学前因同伴压力自然戒。
+    sources: [A1]
+
+  solid_food_readiness_signs:
+    quote_en: "Generally, when infants double their birth weight (typically at about 4 months of age) and weigh about 13 pounds or more, they may be ready"
+    detail_en: |
+      A3 readiness 三要素:
+      - **Head control**: "Baby should sit in a high chair with good head control"
+      - **Mouth opening**: "Baby watches you eat, reaches for food, seems eager to be fed"
+      - **Swallowing ability**: "Baby can move food from spoon to throat (pushing it out initially is normal)"
+      - **Size**: 双倍出生体重 + ≥ 13 磅(约 4 月龄)
+    detail_zh_ref: |
+      辅食三信号:头控好 + 看大人吃伸手抓 + 能从勺到喉。
+      体重看:双倍出生体重 + ≥ 13 磅(约 4 月)。
+      AAP 主推 6 月,4-6 月可早(但不到 4 月别给)。
+    sources: [A3 "When Can My Baby Begin Solid Foods?"]
+
+  solid_food_introduction_protocol:
+    quote_en: "Introduce one 'single-ingredient' new food from any food group every 3 to 5 days"
+    detail_en: |
+      A3:
+      - Start: "half a spoonful or less" → "just a teaspoonful or two"
+      - Form: "soft or pureed to prevent choking"
+      - Iron + zinc: "meat or iron-fortified cereals"
+      - Vegetable-first vs fruit-first: "There is no evidence that your baby will develop a dislike for vegetables if fruit is given first"
+      AAP recommends "providing your baby only breast milk for approximately 6 months after birth" then continue alongside foods "for 2 years or beyond"
+    detail_zh_ref: |
+      量:从半勺起,逐步加到 1-2 茶匙。
+      形态:软泥/酱状(防 choking)。
+      节奏:一次只 1 单成分新食物,3-5 天看反应。
+      第一口选含铁锌:肉泥 + 强化铁米粉。
+      水果先 vs 蔬菜先:没证据说水果先会挑食。
+    sources: [A3 "How to Feed Your Baby" + "First Foods Selection"]
+
+  early_allergen_introduction_4_to_6_mo:
+    quote_en: "There is no evidence that waiting to introduce baby-safe (soft) foods, such as eggs, dairy, soy, peanut products or fish, beyond 4 to 6 months of age prevents food allergy"
+    detail_en: |
+      A3 + A4:
+      - 8 易过敏类:蛋 / 奶 / 大豆 / 花生(酱) / 鱼 / 小麦 / 树坚果 / 贝类
+      - "introduce allergen-rich foods like peanut butter, dairy and eggs around 6 months to potentially prevent allergies" (A4)
+      - 形态必须软泥 / 酱(整粒花生 = choking 死亡)
+      - 高风险家族(已知严重过敏)先咨询医生
+    detail_zh_ref: |
+      AAP 直接陈述:推迟到 6 月后引入"baby-safe(软的)"过敏食物,**没有证据**能防止过敏。
+      8 易过敏类 4-6 月起就可以引入(蛋 / 奶 / 大豆 / 花生酱 / 鱼 / 小麦 / 树坚果 / 贝类)。
+      LEAP 研究(2015 NEJM)证明早期引入花生反而降低过敏风险约 80%。
+      整粒花生绝不给(必须酱状)。
+      高风险家族先咨询医生。
+    sources: [A3 "First Foods Selection" + A4 "AAP Recommendations"]
+
+  no_cereal_in_bottle:
+    quote_en: "Do not put baby cereal in a bottle because your baby could choke."
+    detail_en: |
+      A3 + A5 复合理由:
+      - **Choking**: "Offering cereal in a bottle (or even on a spoon) before babies are developmentally ready can increase the likelihood of gagging and/or inhaling the thickened mixture into their lungs."
+      - **Overfeeding**: "may also increase the amount of food your baby eats and can cause your baby to gain too much weight" + "form of force-feeding that can cause babies to 'overdose' on calories"
+      - **Allergy trigger**: "Early solid food exposure before 4 months may trigger future food allergies."
+      - **Digestion not ready**: "When he is old enough to digest cereal, he should also be ready to eat it from a spoon"
+    detail_zh_ref: |
+      AAP 4 个 NO 理由:
+      1. 窒息(thickened liquid 易吸入肺)
+      2. 过度喂养(force-feeding 模式)
+      3. 4 月前固食可能触发未来过敏
+      4. 能消化米粉的月龄,也能用勺吃了
+      想助眠/延长睡眠不要靠加米粉(无效 + 危险)。
+    sources: [A3 "Bottle Cereal Warning" + A5 全文]
+
+  choking_hazards_under_1_year:
+    quote_en: "Avoid: hot dogs, nuts, seeds, meat chunks, cheese chunks, whole grapes, popcorn, peanut butter chunks, raw vegetables, fruit chunks, and hard/sticky candy."
+    detail_en: |
+      A3 完整清单(11 类):
+      hot dogs / nuts / seeds / meat chunks / cheese chunks / whole grapes / popcorn / peanut butter chunks / raw vegetables / fruit chunks / hard or sticky candy
+      Finger food when ready: "small pieces of banana, wafer-type cookies or crackers; scrambled eggs; well-cooked pasta"
+    detail_zh_ref: |
+      11 类危险窒息食物(1 岁前禁):
+      热狗 / 坚果 / 种子 / 肉块 / 奶酪块 / 整粒葡萄 / 爆米花 / 大块花生酱 / 生蔬菜 / 水果块 / 硬糖粘糖。
+      可给的 finger food(能坐 + 能用手抓后):
+      小块香蕉 / 薄饼干 / 炒蛋 / 充分煮软的面条。
+    sources: [A3 "Choking Hazards" + "Finger Foods"]
+
+  blw_complete:
+    quote_en: "families can combine BLW with spoon-feeding without guilt"
+    detail_en: |
+      A4 立场 + 安全:
+      - 6 月起(可能 4 月),sometimes as early as 4 months
+      - "small portions of whatever's on the family menu"
+      - 自喂,不强求"finish all"
+      - 优势:flavors/textures 多, motor skills, satiety cues
+      - 劣势:nutritional gaps (可能 calorie/iron 不够), choking risk
+      - "choking is one of the leading causes of unintentional death for infants" — 但 "some studies suggest baby-led weaning does not pose higher choking risks than traditional feeding"
+      - AAP: "pureed foods can be nutritious, too" — 不偏一种
+      Safety:
+      - "Use high chairs with secured harnesses"
+      - "Cut foods into finger-shaped pieces (similar to a small baby carrot)"
+      - "Avoid round, coin-shaped slices"
+      - Soft foods: ripe bananas / steamed vegetables / shredded meats / eggs / yogurt
+      - Monitor for gagging; know emergency clearance
+      Readiness exception: "born prematurely, has difficulty sitting up on their own, or struggles to chew and swallow even soft solids" → wait
+      "Breast milk or formula help fill nutritional gaps"
+    detail_zh_ref: |
+      AAP 不偏 BLW 也不偏 spoon-fed,可结合无 guilt。
+      BLW 6 月起(可能 4 月),自喂家庭菜单 finger food,不强求"吃完"。
+      优势:口味/质地多 + 运动技能 + 自我饱腹。
+      劣势:营养间隙(calorie/iron 不够) + choking 风险高。
+      安全:坐高椅+安全带 / **finger 形状不切圆片** / 软食 / 大人在场 / 知道急救法。
+      Readiness 例外:早产 / 坐不稳 / 嚼吞难 → 推迟。
+      母乳/配方奶继续填(BLW 不是替代,是补充)。
+    sources: [A4 全文]
+
+  juice_and_water_under_1_year:
+    quote_en: "Babies under 12 months: should not be given juice"
+    detail_en: |
+      A3:
+      - 12 月内:不喝任何果汁
+      - 12-36 月:只 100% 果汁,≤ 4 oz/day(约 118 ml)
+      - Water: "Healthy babies don't need extra water initially"
+      - 引入辅食后:水 ≤ "1 cup (8 ounces) each day"(约 240 ml)
+    detail_zh_ref: |
+      12 月前不给任何果汁(包括稀释)— 减少蛀牙 + 避免挤压奶量。
+      12-36 月:只 100% 果汁 ≤ 4 oz/天(118 ml)。
+      6 月前不另加水(纯母乳/配方奶足够)。
+      6 月起辅食时可少量水,≤ 1 杯/天(240 ml)。
+    sources: [A3 "Juice and Water"]
+
+  stool_changes_after_solids:
+    quote_en: "Stools become more solid and variable in color"
+    detail_en: |
+      A3:
+      - "much stronger odor"
+      - 绿色蔬菜 → deep-green stools
+      - 甜菜 → red stools
+      - "Undigested food pieces are normal"
+      - Loose, watery stools with mucus → may indicate digestive irritation (找医生)
+    detail_zh_ref: |
+      辅食后大便变化(都正常):
+      - 更成形 + 颜色多变
+      - 气味更强
+      - 绿菜 → 深绿;甜菜 → 红色
+      - 未消化食物碎是正常
+      - 但出现稀水带黏液 → 消化刺激,找医生
+    sources: [A3 "Expected Changes"]
+
+  # === R3.5 复盘补抓的 verbatim 主题(2026-05-02)===
+
+  vitamin_d_supplement:
+    quote_en: "the AAP recommends that all infants receive a vitamin D supplement"
+    detail_en: |
+      A6:
+      - "Vitamin D supplements of 400 IU (10 mcg) per day are recommended for babies up until age one year, with 600 IU (15 mcg) per day for children over one year."
+      - 例外:"unless they are consuming more than 27 ounces per day of commercial formula that has the vitamin D supplement added"
+      - "Our bodies need sunlight to produce vitamin D... However, children should wear sunscreen, hats, and protective clothing... to prevent sunburn and reduce the risk of skin cancer later in life."
+      - "However, breastfed infants need supplemental vitamin D."
+    detail_zh_ref: |
+      母乳宝宝出生后必须补维生素 D 400 IU/d (10 mcg),1 岁后 600 IU/d (15 mcg)。
+      配方奶 ≥ 27 oz/d (800 ml) 不需补(配方已加)。
+      混合喂养:看配方奶量 < 27 oz 就补。
+      不要靠晒太阳补 D(增皮肤癌风险)。
+    sources: [A6]
+
+  iron_supplement_and_screening:
+    quote_en: "At four months of age infants who are partially or completely breastfeeding should be supplemented with 1 mg/kg per day of oral iron"
+    detail_en: |
+      A6:
+      - 出生后前 4 月:足够铁储备,不需补
+      - 4 月起母乳/部分母乳宝宝:"1 mg/kg per day of oral iron until appropriate iron-containing complementary foods (including iron-fortified cereals) are introduced in their diet"
+      - 早产/低体重/妊娠糖尿病妈妈宝宝:"iron supplementation may start in the first month after birth"
+      - 普查:"The AAP recommends that all babies be screened at 12 months of age for iron deficiency and iron deficiency anemia"
+      - 配方奶宝宝铁已强化,不必另补
+    detail_zh_ref: |
+      母乳宝宝 4 月起补铁 1 mg/kg/d,直到引入含铁辅食(肉泥 + 强化铁米粉)。
+      早产/低体重/妊娠糖尿病妈妈宝宝:出生后 1 月就开始补。
+      所有宝宝 12 月普查铁缺乏 + 贫血(全员,不分喂养方式)。
+      配方奶宝宝铁已强化,不必另补。
+    sources: [A6]
+
+  bottle_to_cup_transition:
+    quote_en: "transition will begin around 6 months, when you offer your child a cup for the first time. You will then reduce the number of bottle feedings slowly, completing the transition sometime between 12 and 18 months."
+    detail_en: |
+      A7 关键时间表:
+      - 6 月:引入 cup(可装母乳/配方/水)
+      - 6-12 月:逐步减奶瓶餐数
+      - 12-18 月:完全戒奶瓶
+      - 2 岁前:从 sippy 过渡到 open cup(无 spout)
+      不戒奶瓶的 4 大风险:
+      - "Skip meals" — 漏餐(填饱不饿)
+      - "Reach an unhealthy weight" — toddler obesity
+      - "Develop cavities" — baby bottle tooth decay (常见原因)
+      - "Resist even more" — 越拖越难
+      - 还可能 "tooth alignment problems and even speech delays"
+      Sippy cup 选购警告:"Many sippy cups have a valve under the spout to stop spills. But kids have to suck to get any liquid from them, which is just like drinking from a baby bottle. Not at all helpful for learning and development!" → 选无 valve 的。
+    detail_zh_ref: |
+      6 月引入 cup,12-18 月戒奶瓶。
+      不戒奶瓶 4 风险:漏餐 / 肥胖 / 奶瓶蛀牙 / 牙齿错位 / 发音延迟。
+      Sippy 只过渡,2 岁前用 open cup(无 spout)。
+      Sippy 选无 valve 的(有 valve 跟奶瓶一样,无学习意义)。
+    sources: [A7 全文]
+
+  spit_up_normal_vs_red_flag:
+    quote_en: "All babies spit up."
+    detail_en: |
+      A8 红旗 vs 正常:
+      正常 spit-up:"easy flow of stomach contents out of the mouth, frequently with a burp" — 不痛苦,小量。
+      Vomiting(呕吐):"forceful throwing up... using the abdominal muscles" — 用力 + 痛苦。
+      红旗 1:"My baby's spitting up has changed to vomiting with muscle contractions that occur after every feeding. The vomit shoots out with force." → "Pyloric stenosis or another health problem" → "Call your pediatrician right away"
+      红旗 2:"I found blood in my baby's spit-up or vomit." → "Swelling of the esophagus or stomach (esophagitis or gastritis)" → "Call your pediatrician right away"
+      减少 spit-up 5 招:
+      1. Avoid overfeeding (smaller, more frequent)
+      2. Burp more frequently (during AND after meals)
+      3. Limit active play 20-30 min after meals + hold upright
+      4. Consider formula change (CMPI/CMPA 5%)
+      5. Breastfeeding mom: cut milk + soy from diet
+    detail_zh_ref: |
+      多数 spit-up 正常(食管下括约肌不成熟,自然成熟会好)。
+      红旗 → 立刻找医生:
+      ① 喷射性呕吐 + 用力(可能 pyloric stenosis,需手术)
+      ② 吐物含血(食管/胃出血)
+      减少 5 招:小量多次 / 喂中喂后多拍嗝 / 喂后 20-30 min 竖抱 / 配方奶可问医生换 / 母乳妈妈避奶豆。
+    sources: [A8]
+
+  cmpi_cmpa_5_percent:
+    quote_en: "an estimated 5% of babies are genuinely unable to handle the proteins found in milk or soy formula―a condition called Cow Milk Protein Intolerance/Allergy (CMPI and CMPA)"
+    detail_en: |
+      A8:
+      - 5% 婴儿真正不耐 milk / soy 蛋白
+      - 配方奶:1-2 周试 hypoallergenic (hydrolyzed) formula
+      - 母乳:妈妈饮食去 cow's milk + soy
+      - 重叠症状:CMPI 与 colic 难分(C-S2-004)
+    detail_zh_ref: |
+      约 5% 婴儿有 CMPI / CMPA(牛奶蛋白不耐受/过敏)。
+      配方奶宝宝:问医生试 1-2 周深度水解配方(hydrolyzed)。
+      母乳宝宝:妈妈饮食去乳制品 + 大豆。
+      跟 colic 难鉴别(参 C-S2-004 + C-S1-048)。
+    sources: [A8]
+
+  heavy_metals_rice_alternatives:
+    quote_en: "rice cereal does not need to be the first or only cereal used. Rice tends to absorb more arsenic from groundwater than other crops."
+    detail_en: |
+      A9 谷物多样化:
+      - 替代选项:"oat, barley, couscous, quinoa, farro, and bulgur"
+      - 多谷物 infant cereal 是好选择
+      - 避免:"rice milk and brown rice syrup"(processed toddler foods 中常用作甜味剂)
+      米饭种类砷含量:
+      - "brown rice tends to have the highest arsenic levels"
+      - "white basmati and sushi rice tend to have lower levels"
+      煮米法:"rinse it first. Cook it in extra water and then drain off the excess when it's done"
+      Spit-up A8 也提:"In response to concerns over arsenic in rice, the American Academy of Pediatrics (AAP) now recommends parents of children with these conditions use of oatmeal instead of rice cereal."
+    detail_zh_ref: |
+      米粉别只 rice — AAP 现推 oatmeal 替代。
+      多种谷物轮换:燕麦 / 大麦 / couscous / 藜麦 / farro / bulgur。
+      brown rice 砷最高,white basmati / sushi rice 较低。
+      煮米法:洗 + 大量水煮 + 沥干余水。
+      避免:rice milk / brown rice syrup。
+    sources: [A9 + A8]
+
+  fish_mercury_safety:
+    quote_en: "Some types of fish can be high in methylmercury and other metals."
+    detail_en: |
+      A9:
+      避免 (汞高):"shark, orange roughy, swordfish, and albacore/white tuna"
+      推荐 (汞低):"light tuna (solid or chunk), salmon, cod, whitefish and pollock"
+      "Eating too much contaminated fish can harm a child's developing nervous system."
+      "fish is also an excellent source of protein and other nutrients children need"
+    detail_zh_ref: |
+      避免:shark / 红澳鳗 (orange roughy) / swordfish / 白吞拿(albacore tuna,大型金枪鱼)。
+      推荐:light tuna / 三文鱼 / 鳕鱼 / 比目鱼 / 黑线鳕(pollock)— 都是优质蛋白 + DHA。
+      不吃鱼也不好(缺 DHA + 优质蛋白)。
+      自家钓鱼问当地是否有警告。
+    sources: [A9]
+
+  bottle_feeding_amounts_and_position:
+    quote_en: "babies consume around 2½ ounces (75 mL) per day for every pound of body weight"
+    detail_en: |
+      A10:
+      量进度:
+      - First 2-3 days: 1-2 oz (30-60 mL) per feeding
+      - After initial days: 2-3 oz (60-90 mL) every 3-4 hours
+      - First month onward: ~4 oz every 4 hours
+      - By 6 months: 6-8 oz (180-240 mL), 4-5 times daily
+      日量公式:2½ oz (75 mL) per pound body weight
+      过喂红旗:"more than 7 or 8 ounces per feeding or more than 36 ounces in a day" → 找医生
+      喂姿:"semi-upright position, with her head cradled in the crook of your arm"
+      "milk completely covers the nipple"
+      "Avoid feeding while baby lies flat, as this increases choking risk and can cause middle ear infections."
+      饱腹信号:"releasing the nipple, turning away, falling asleep, or—as they grow—look up and grin at you"
+    detail_zh_ref: |
+      日量:体重 lb × 2.5 oz/lb (例 10 lb → 25 oz/天)。
+      量进度:头 2-3 天 1-2 oz/餐 → 1 月 4 oz/4hr → 6 月 6-8 oz × 4-5 次/天。
+      过喂红旗:>7-8 oz/餐 或 >36 oz/天 → 找医生。
+      喂姿:半直立 + 头在肘窝 + milk 完全覆盖奶嘴。
+      绝不平躺喂(中耳炎 + 呛奶风险高)。
+      饱腹信号:释放奶嘴 / 转头 / 入睡 / 大点会"看着你笑"。
+    sources: [A10]
+
+# 给后续单元/产卡用的精简摘要
+summary: |
+  AAP 关于喂养(母乳 / 配方奶 / 辅食 / 奶嘴 / BLW)的核心立场(2026):
+
+  母乳:每天 8-12 次, 白天 2-3h 上限, 夜间 4h 上限。早期信号(唇啜/寻乳)就喂,哭已晚。"按需"+ 让宝宝主动脱离。喂越久脂肪越多。
+
+  奶嘴:母乳建立后 3-4 周用,助安抚 + 降 SIDS。选购整体一体 + 盾片 ≥ 1.5",6 月前每日消毒。永久牙长前停可自然矫正。
+
+  辅食:4-6 月开始(看 readiness:头控+13 lbs+伸手抓)。半勺起,单成分 3-5 天间隔。AAP 6 月主推。
+
+  早期 allergen:**4-6 月就引入**(LEAP 立场,AAP 直接说推迟无效)。8 大类:蛋/奶/大豆/花生酱/鱼/小麦/树坚果/贝类 — 必须软泥酱状。
+
+  关键纠误:米粉别加奶瓶(choking + force-feeding + 过敏触发);1 岁内不喝果汁;1 岁内 11 类 choking 食物清单。
+
+  BLW:AAP 不偏,可结合 spoon-feeding。**finger 形长条不切圆片**(防 choking 救命)。
+
+  与 Karp 关系(参考):
+   - C-S1-021 非营养吸吮 → AAP 一致(SIDS 视角加强)
+   - C-S1-022 奶嘴 3-4 周 → AAP 立场补强(数字 + 选购 + 戒断完整)
+   - C-S1-030 牛奶蛋白 → AAP 8 大过敏类清单 + LEAP 早引入立场
+
+referenced_by_cards:
+  # R3 完成产 9 张
+  # S1(2 张)
+  - C-S1-050
+  - C-S1-051
+  # S3(5 张)
+  - C-S3-001
+  - C-S3-002
+  - C-S3-003
+  - C-S3-004
+  - C-S3-005
+  # S4(2 张)
+  - C-S4-001
+  - C-S4-002
+  # === R3.5 复盘补 7 张(2026-05-02)===
+  # S1(3 张:维 D / 吐奶 / 配方量)
+  - C-S1-053
+  - C-S1-054
+  - C-S1-055
+  # S3(3 张:铁 / 米粉砷 / 鱼汞)
+  - C-S3-006
+  - C-S3-007
+  - C-S3-008
+  # S5(1 张:戒奶瓶)
+  - C-S5-001
+
+notes: |
+  Phase 2 R3 抓取(2026-05-01)。
+  5 篇 article 抓取,1 篇(Settling-In)被 WebFetch 拒绝 verbatim(版权策略),fallback 到 How-Often-to-Breastfeed (A2)。
+
+  WebFetch 输入/输出比抽样:
+   - A1 Pacifier ≈ 0.4(部分总结化,verbatim 引号保留)
+   - A2 Breastfeeding-frequency:特殊处理 — 返回为中文 facts 列表(prompt 措辞导致),关键数字保留
+   - A3 Starting-Solid ≈ 0.6(部分总结化,关键 verbatim 引号保留)
+   - A4 BLW ≈ 0.7(部分总结化,verbatim 引号保留)
+   - A5 Cereal-in-Bottle ≈ 0.4(部分总结化,关键 verbatim 引号保留)
+
+  按解读 B,Karp 对应卡(021/022/030)不动,留到所有书产完后整合。
+
+  LEAP 研究(2015 NEJM)的具体 B 级证据未单独抓取 — Phase 2 后期 Tier 2 论文抓取时补强 C-S3-002 的 evidence base。

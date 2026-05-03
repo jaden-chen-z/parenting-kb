@@ -1,0 +1,52 @@
+card_id: C-S1-037
+stages: [S1]
+tags: [safety, red_flag]
+
+front:
+  title: 同房不同床到 6 月,降 SIDS 50%
+  hook: AAP 任何情况下都不同床睡
+
+back:
+  why_matters: |
+    room-sharing(同房不同床)= crib 放卧室伸手可及,不进父母床。
+    bed-sharing(同床睡)= 父母与婴儿同一张床。
+    中文文化"母婴同床"传统极普遍,但 AAP 任何情况下都不推荐 bed-sharing(双胞胎也一样;立场对立 Karp 028)。
+    AAP:房间共睡可降 SIDS 50%。
+    具体死亡风险倍数:沙发 / 扶手椅 67×、impaired 大人 10×、4 月内宝宝 5-10×、早产 / 低体重 2-5×。
+  what_to_do:
+    - crib / bassinet 放卧室,伸手可及
+    - 至少持续到 6 月,最好 1 年
+    - 喂奶 / 安抚完移回 crib,绝不一起睡过去
+    - 沙发 / 扶手椅 100% 不一起睡(67 倍死亡风险)
+    - 早产 / 低体重宝宝 4 月内额外小心(2-5×)
+  failure_mode: |
+    哺乳完累了一起睡着 → 67 倍风险(尤其在沙发上)。
+    喝酒 / 吃药 / 吸大麻后 bed share → 10+ 倍。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-SIDS
+  - G-ABBR-AAP
+  - G-TERM-room-sharing
+  - G-TERM-bed-sharing
+  - G-PERSON-Karp
+
+citation:
+  page_title: "Safe Sleep: 9 Ways + AAP Policy Explained"
+  publisher: American Academy of Pediatrics
+  portal: HealthyChildren.org
+  policy_basis: "AAP Task Force on SIDS — 2022 Policy Statement"
+  page_url_primary: https://www.healthychildren.org/English/ages-stages/baby/sleep/Pages/How-to-Keep-Your-Sleeping-Baby-Safe-AAP-Policy-Explained.aspx
+  accessed: 2026-05-01
+  language: en
+  location: "9 Ways #4 'Same room not same bed' + Policy 'Never sleep with your baby' + 'Instead of bed sharing, room share' + 'extra important not to bed share'"
+  source_id: SRC-004
+
+unit_ids: []
+related_cards:
+  - C-S1-028     # Karp 共睡 10 步(立场对立,后期整合)
+
+language: zh
+status: draft
+created: 2026-05-01
+updated: 2026-05-02

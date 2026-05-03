@@ -1,0 +1,49 @@
+card_id: C-S1-043
+stages: [S1]
+tags: [philosophy]
+
+front:
+  title: 头 6 月不会宠坏 — 答应反而少哭
+  hook: AAP 反驳"惯坏"焦虑
+
+back:
+  why_matters: |
+    依恋理论 + 应答式互动(serve and return)证明:头几月及时回应是建立安全感的基础。
+    中文文化"怕惯坏"焦虑普遍 — 但 AAP 直接陈述:
+    "You cannot spoil a young baby with attention. If you answer their calls for help, they'll cry less overall."
+    头几月及时回应 = 总哭闹更少(不是更多)。
+    "怕惯坏故意延迟回应"是误解,不是科学。
+  what_to_do:
+    - 0-6 月哭就回应,不怕"惯坏"
+    - 回应顺序:最迫切的先(冷暖 → 尿布 → 异物 → 喂)
+    - 不必每次都抱起来:语音 / 抚摸 / 在场也算回应
+    - 6 月后再加"自我安抚"练习(C-S1-046)
+    - 这跟 cry-it-out 睡眠训练是两回事
+  failure_mode: |
+    怕"惯坏"故意延迟回应 → 总哭闹反而更多 + 安全感受损。
+    把"自我安抚"等同于"哭到不哭" → 错,是技能不是放任。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-AAP
+  - G-TERM-cry-it-out
+  - G-TERM-attachment
+
+citation:
+  page_title: "Responding To Your Baby's Cries"
+  publisher: American Academy of Pediatrics
+  portal: HealthyChildren.org
+  page_url_primary: https://www.healthychildren.org/English/ages-stages/baby/crying-colic/Pages/Responding-to-Your-Babys-Cries.aspx
+  accessed: 2026-05-01
+  language: en
+  location: "'Different types of cries' section: 'You cannot spoil a young baby with attention'"
+  source_id: SRC-005
+
+unit_ids: []
+related_cards:
+  - C-S1-007     # Karp 前 3 月怎么回应都不会惯坏(立场一致,AAP 加强)
+
+language: zh
+status: draft
+created: 2026-05-01
+updated: 2026-05-02

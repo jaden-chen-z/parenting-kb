@@ -1,0 +1,48 @@
+card_id: C-S5-001
+stages: [S5]
+tags: [safety]
+
+front:
+  title: 戒奶瓶 12-18 月,sippy 只过渡
+  hook: 拖太久 = 蛀牙 + 偏食 + 牙齿错位
+
+back:
+  why_matters: |
+    6-12 月是婴儿口腔肌肉(咀嚼 / 吞咽 / 发音)飞速发育期 — 需要 open cup 训练,不能继续用奶嘴吸吮模式。
+    中国"睡前奶瓶"传统普遍,导致奶瓶蛀牙(baby bottle tooth decay)成中国儿科牙科主诉之一。
+    AAP:6-9 月开始引入 cup,12-18 月完全戒奶瓶。
+    拖太久 4 大风险:漏餐(填饱不饿)/ 肥胖 / 早期蛀牙 / 牙齿错位 + 发音延迟。
+    Sippy cup 只是过渡,2 岁前用 open cup(无 spout);sippy 选无 valve 的(有 valve 跟奶瓶一样,无学习意义)。
+  what_to_do:
+    - 6 月引入辅食时同时引入 cup(可装母乳/配方/水)
+    - 6-12 月逐步减奶瓶餐数,先减白天再减睡前
+    - 12-18 月完全戒奶瓶
+    - 2 岁前过渡到 open cup(无 spout 那种)
+    - sippy cup 只装水(不装奶/果汁,防整天吸蛀牙)
+  failure_mode: |
+    1 岁后还睡前奶瓶 → 牙浸在奶里 → "奶瓶蛀牙"(常见原因之一)。
+    Sippy 装果汁/奶整天吸 → 偏食 + 蛀牙 + 漏正餐。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-AAP
+  - G-TERM-baby-bottle-tooth-decay
+
+citation:
+  page_title: "From Bottle to Cup: Helping Your Child Make a Healthy Transition"
+  publisher: American Academy of Pediatrics
+  portal: HealthyChildren.org
+  page_url_primary: https://www.healthychildren.org/English/ages-stages/baby/feeding-nutrition/Pages/Discontinuing-the-Bottle.aspx
+  accessed: 2026-05-01
+  language: en
+  location: "全文 — 'Why prolonged bottle feeding' (4 风险) + 'Tips for a smoother transition' + 'Choosing the right cup'"
+  source_id: SRC-006
+
+unit_ids: []
+related_cards:
+  - C-S3-005     # 1 岁内不喝果汁,1 岁后限 4 oz
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

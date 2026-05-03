@@ -1,0 +1,361 @@
+source_id: SRC-004
+title: "AAP Safe Sleep & SIDS Prevention (HealthyChildren.org · 4-article cluster)"
+org: American Academy of Pediatrics
+source_type: webpage_cluster
+url_root: https://www.healthychildren.org/English/ages-stages/baby/sleep/
+doi: null
+isbn: null
+tier: 1
+language: en
+paywall: false
+captcha: false
+accessed: 2026-05-01
+fetch_method: webfetch
+file_size_bytes_total: 24544
+
+# cluster 由 4 篇 article 组成,每篇独立 raw 文件
+articles:
+  - art_id: A1
+    title: "Safe Sleep: 9 Ways to Reduce a Baby's Risk of SIDS & Suffocation"
+    url: https://www.healthychildren.org/English/ages-stages/baby/sleep/Pages/a-parents-guide-to-safe-sleep.aspx
+    local_file: ../raw/aap_safe_sleep_9_ways.md
+    char_count: 6295
+  - art_id: A2
+    title: "How to Keep Your Sleeping Baby Safe: AAP Policy Explained"
+    url: https://www.healthychildren.org/English/ages-stages/baby/sleep/Pages/How-to-Keep-Your-Sleeping-Baby-Safe-AAP-Policy-Explained.aspx
+    local_file: ../raw/aap_safe_sleep_policy_explained.md
+    char_count: 11588
+  - art_id: A3
+    title: "Good Night, Sleep Tight: How to Swaddle Your Baby"
+    url: https://www.healthychildren.org/English/ages-stages/baby/sleep/Pages/good-night-sleep-tight.aspx
+    local_file: ../raw/aap_swaddle_how_to.md
+    char_count: 2460
+  - art_id: A4
+    title: "Suitable Sleeping Sites: Safe at Night & Naptime"
+    url: https://www.healthychildren.org/English/ages-stages/baby/sleep/Pages/suitable-sleeping-sites.aspx
+    local_file: ../raw/aap_suitable_sleeping_sites.md
+    char_count: 4201
+  # R1.5 复盘补抓(2026-05-02):
+  - art_id: A5
+    title: "Reversing Day-Night Reversal"
+    url: https://www.healthychildren.org/English/ages-stages/baby/sleep/Pages/Reversing-Day-Night-Reversal.aspx
+    local_file: ../raw/aap_reversing_day_night_reversal.md
+    char_count: 1400
+  - art_id: A6
+    title: "Sleeping Through the Night"
+    url: https://www.healthychildren.org/English/ages-stages/baby/sleep/Pages/Sleeping-Through-the-Night.aspx
+    local_file: ../raw/aap_sleeping_through_the_night.md
+    char_count: 1500
+  - art_id: A7
+    title: "Stages of Newborn Sleep"
+    url: https://www.healthychildren.org/English/ages-stages/baby/sleep/Pages/phases-of-sleep.aspx
+    local_file: ../raw/aap_stages_of_newborn_sleep.md
+    char_count: 1300
+
+metadata:
+  publisher: American Academy of Pediatrics (AAP)
+  portal: HealthyChildren.org
+  policy_basis: "AAP Task Force on Sudden Infant Death Syndrome — 2022 Policy Statement (CPSC 2021 rule referenced)"
+
+# verbatim 关键内容(按主题组织,英文 verbatim + 关键中译参考;每块标 → 来源 article)
+verbatim_content:
+
+  back_sleep_only:
+    quote_en: "Place your baby to sleep on their back for every sleep."
+    detail_en: |
+      "Babies up to 1 year of age should always be placed on their back to sleep during naps and at night."
+      "Even babies with gastroesophageal reflux disease (GERD) should sleep flat on their backs."
+      "Babies who sleep on their backs are much less likely to die suddenly and unexpectedly than babies who sleep on their stomachs or sides. The problem with the side position is that your baby can roll more easily onto their stomach."
+      Exception: "if your baby has rolled from their back to their side or stomach on their own, they can be left in that position if they are already able to roll from tummy to back and back to tummy."
+    detail_zh_ref: |
+      仰睡每一次入睡都必须;1 岁以内强制。
+      侧睡危险因为容易翻成趴卧。GERD(胃食管反流)宝宝也仰睡。
+      唯一例外:宝宝已经能自主双向翻身(背→趴、趴→背),不需再翻回。
+    sources: [A1#1, A2 "Put your baby on their back"]
+
+  sleep_surface_firm_flat:
+    quote_en: "Use a firm, flat sleep surface for sleep."
+    detail_en: |
+      "A firm surface means that it shouldn't indent when your baby is lying on it. Any surface that inclines more than 10 degrees isn't safe for your baby to sleep on."
+      "Place your baby in a crib, bassinet, portable crib or play yard that meets the safety standards of the Consumer Product Safety Commission (CPSC)."
+      "If your baby falls asleep in a car seat, stroller, swing, infant carrier or sling, you should move them to a firm sleep surface on their back as soon as possible."
+      "Don't use products for sleep that aren't specifically marketed for infant sleep. Examples include Boppy pillows and Dock-a-Tots."
+      Alt surfaces "are only considered a safe option IF they comply with the June 2021 CPSC rule" — includes "inclined sleep products, hammocks, baby boxes, in-bed sleepers, baby nests and pods, compact bassinets, travel bassinets and baby tents."
+    detail_zh_ref: |
+      平面 = 按下去不凹陷;倾斜 > 10° 不安全。
+      必须 CPSC 认证(crib/bassinet/portable crib/play yard 之一)。
+      汽车座/婴儿车/秋千/抱袋睡着 → 尽快转移平整面。
+      Boppy 哺乳枕、Dock-a-Tot、hammock、baby nest/pod、inclined sleeper 都不行。
+    sources: [A1#2, A2 "Use a firm, flat sleep surface"]
+
+  bare_crib:
+    quote_en: "Keep soft objects, loose bedding or any objects that could increase the risk of entrapment, suffocation or strangulation out of the crib."
+    detail_en: |
+      Out: "Pillows, quilts, comforters, sheepskins, bumper pads and stuffed toys can cause your baby to suffocate."
+      "The AAP recommends that nothing but a snugly fitted sheet be placed with your baby in the crib during the first year." (A4)
+      "Don't use weighted blankets, sleepers, swaddles or other weighted objects on or near your baby."
+      "Don't put blankets or pillows between the mattress and fitted sheet."
+      Note: "Research has not shown us when it's 100% safe to have these objects in the crib; however, most experts agree that these objects pose little risk to healthy babies after 12 months of age."
+    detail_zh_ref: |
+      婴儿床第 1 年只能有一张紧贴床垫的 fitted sheet,其余全清出。
+      枕头/被子/羊毛垫/护栏垫/毛绒玩具都禁止 — 都可能闷住宝宝。
+      Weighted 系列(blanket/sleeper/swaddle)绝不用。
+      12 月后逐步可加,但具体安全月龄无定论。
+    sources: [A1#3, A2 "Keep soft objects", A4 "Bare is Best"]
+
+  room_share_not_bed_share:
+    quote_en: "Place your baby to sleep in the same room where you sleep but not the same bed."
+    detail_en: |
+      Duration: "at least 6 months, but preferably up to 1 year of age. Room-sharing without bed sharing helps protect against SIDS in the first year of life."
+      "The AAP recommends room sharing because it can decrease the risk of SIDS by as much as 50% and it's much safer than bed sharing."
+      "Based on the evidence, the AAP doesn't recommend bed sharing with your baby under any circumstances. This includes twins and other multiples."
+      Crib placement: "within an arm's reach of your bed."
+      Bedside/in-bed sleeper: "The American Academy of Pediatrics (AAP) cannot make a recommendation for or against the use of bedside sleepers or in-bed sleepers until more studies are done."
+    detail_zh_ref: |
+      房间共睡(crib/bassinet 在床边伸手可及)≠ 同床睡。
+      持续至少 6 月,最好 1 年。SIDS 风险降 50%。
+      AAP 任何情况下都不推荐 bed sharing(双胞胎 / 多胞胎也一样)。
+      bedside sleeper / in-bed sleeper 证据不足,AAP 不表态。
+    sources: [A1#4, A2 "Instead of bed sharing, room share"]
+
+  bed_sharing_risk_numbers:
+    quote_en: "Babies who sleep in the same bed as their parents are at risk of SIDS, suffocation or strangulation. Parents can roll onto babies during sleep, or babies can get tangled in the sheets or blankets."
+    detail_en: |
+      Specific risk multipliers (A2):
+      - Sofa/armchair/cushion: "The risk of sleep-related infant death is up to 67 times higher when infants sleep with someone on a couch, soft armchair or cushion."
+      - Impaired adult: "The risk of sleep-related infant death is more than 10 times higher for babies who bed share with someone who is fatigued or has taken medications that make it harder for them to wake up or has used substances such as alcohol or drugs."
+      - Baby <4 months: "The risk of sleep-related infant death while bed sharing is 5 to 10 times higher when your baby is younger than 4 months old."
+      - Preterm/low-birth-weight: "the risk of sleep-related infant death is 2 to 5 times higher when your baby was born preterm or with low birth weight."
+      Bed-sharing extra hazards (A4): "trapped between the mattress and the wall, headboard, or other furniture"; falls.
+    detail_zh_ref: |
+      具体倍数(全是死亡风险翻倍数据):
+      • 沙发/扶手椅同睡:67 倍(最危险)
+      • 大人喝酒/吃药/疲倦:10 倍以上
+      • 4 月内宝宝:5-10 倍
+      • 早产/低体重儿:2-5 倍
+      其他风险:卡进床垫与墙/床头柜缝隙,跌落。
+    sources: [A1#4, A2 "Never sleep with your baby" + "extra important not to bed share"]
+
+  swaddle_safety:
+    quote_en: "Swaddle your baby if you like. Just keep in mind that swaddling doesn't reduce the risk of SIDS."
+    detail_en: |
+      No SIDS protection: "swaddling doesn't reduce the risk of SIDS." (A2 — 直接反驳"包裹防 SIDS"误解)
+      Position: "Make sure that your baby is always on their back when swaddled."
+      Tightness: "The swaddle should not be too tight or make it hard for your baby to breathe or move their hips."
+      Hip development (A3): "A baby's hips should not be bundled too tightly. Instead, they should be allowed to relax in their natural frog-leg positions to allow for proper growth and joint development."
+      Breathing finger test (A3): You should "be able to fit two or three fingers between the swaddle and your baby's chest."
+      When to stop: "When your baby looks like they're trying to roll over, you should stop swaddling them. The risk of suffocation is higher if your baby rolls to their stomach while they're swaddled. Rolling over usually happens around 3 to 4 months, but it can happen earlier."
+      Weighted: "Don't use weighted swaddle blankets or weighted objects like rice bags inside the swaddle."
+      Overheating sign (A3): "sweating, damp hair, rash and rapid breathing."
+    detail_zh_ref: |
+      AAP 立场:包裹"想包就包",但不会降低 SIDS — 不是 SIDS 预防工具。
+      安全要点:
+      • 仰睡(包了也必须仰)
+      • 髋关节要松 — 蛙腿位置才能正常发育
+      • 胸口能塞 2-3 根手指 = 松紧合格
+      • 试图翻身就停包(通常 3-4 月,可能更早)
+      • 不用 weighted 包裹 / 米袋
+      过热信号:出汗 / 头发湿 / 起疹 / 呼吸急促。
+    sources: [A1#1 swaddle 段, A2 "Swaddle your baby if you like", A3 全文]
+
+  tummy_time:
+    quote_en: "Make sure your baby has tummy time while awake every day."
+    detail_en: |
+      Supervision: "An awake adult should supervise awake tummy time."
+      Benefit: "This helps with your baby's motor development and prevents flat head syndrome."
+      Schedule: "Start with a short amount of tummy time soon after you get home from the hospital. Gradually increase the time until your baby is doing at least 15 to 30 minutes of tummy time every day by the time they're 7 weeks old."
+      Why during sleep guidance: "Give your baby plenty of 'tummy time' when they are awake. This will help strengthen neck muscles and help prevent flat spots on the head. Always stay with your baby during tummy time and make sure they are awake." (A1)
+    detail_zh_ref: |
+      宝宝清醒时趴着,大人在旁监督(强制)。
+      作用:加强颈部肌肉 + 防止扁头综合征。
+      节奏:出院后就开始,逐步加,7 周龄起每天 15-30 分钟。
+    sources: [A1#1 swaddle 段末, A2 "Make sure your baby has tummy time"]
+
+  breastfeeding_for_sids:
+    quote_en: "Breastfeed as much and for as long as you can. This helps reduce the risk of SIDS."
+    detail_en: |
+      "Evidence shows that human milk reduces the risk of SIDS. The longer you give your baby breast milk, the more protection it gives."
+      "The AAP recommends breastfeeding as the sole source of nutrition for your baby for about the first 6 months."
+      "We support continued breastfeeding after solid foods are introduced as long as you and your baby desire, for 2 years or beyond."
+      "Hold your newborn skin to skin while breastfeeding... as soon as you can after birth. Skin-to-skin contact is also beneficial for bottle-fed newborns."
+    detail_zh_ref: |
+      母乳对 SIDS 有保护作用;喂得越久,保护越强。
+      建议:头 6 月纯母乳,加辅食后继续到 2 年甚至以上。
+      新生儿出生后尽早 skin-to-skin(配方奶宝宝也受益)。
+    sources: [A1#5, A2 "Feed your baby breast milk"]
+
+  pacifier_at_sleep_for_sids:
+    quote_en: "Try giving your baby a pacifier at nap time and bedtime. This helps reduce the risk of SIDS."
+    detail_en: |
+      "This helps reduce the risk of SIDS, even if the pacifier falls out after your baby is asleep."
+      Breastfeeding wait: "If your baby is breastfed, wait until breastfeeding is established before offering a pacifier. That means your milk supply is good, breastfeeding is comfortable and consistent, your baby is latching well and they're gaining weight like they should. If you're not breastfeeding your baby, you can start the pacifier whenever you like."
+      "It's OK if your baby doesn't want a pacifier."
+      "If the pacifier falls out after your baby falls asleep, you don't have to put it back in."
+      "Don't hang a pacifier around your baby's neck or attach it to their clothing when they're sleeping."
+      "Do not use pacifiers that attach to infant clothing, blankets or stuffed toys that can be a suffocation or choking risk."
+    detail_zh_ref: |
+      AAP 立场:午睡 + 夜睡前给奶嘴,降 SIDS 风险(掉了也照样有效)。
+      母乳宝宝:等母乳"建立"(供奶稳、含乳好、增重正常)再用 — 没有具体周数,以"建立"判断。
+      配方奶宝宝:随时可用。
+      宝宝不要也不强求;掉了不必塞回。
+      绝不挂脖子 / 别系衣服上 / 别系毛绒玩具(窒息风险)。
+    sources: [A1#9, A2 "Try giving your baby a pacifier"]
+
+  no_smoking_no_substances:
+    quote_en: "Don't smoke or use nicotine during pregnancy or after your baby is born."
+    detail_en: |
+      "Smoking while you're pregnant, and smoke in your baby's environment after birth, are significant risk factors for SIDS."
+      "Don't smoke anywhere near your baby, even if you're outside. This includes vaping and electronic cigarettes, which contain nicotine."
+      "Keep your car and home smoke-free."
+      Smoker bed-share extra warning: "If you're a smoker or you smoked during pregnancy, remember that it's especially important that you don't bed share with your baby. The risk of SIDS is especially high, even when the smoker doesn't smoke in bed."
+      Substances: "avoid alcohol, marijuana, opioids or illicit drugs during pregnancy and after your baby is born. The risk of SIDS is higher when babies are exposed to alcohol or illicit substances."
+    detail_zh_ref: |
+      孕期 + 产后都不抽烟,vaping/电子烟也算(含尼古丁)。
+      二手烟 = 大风险因子;车、家、宝宝身边全部禁烟。
+      抽烟 + bed share 风险尤其高(即使不在床上抽)。
+      孕期/产后避免酒精、大麻、阿片、违禁药物。
+    sources: [A1#7, A2 "Don't smoke or use nicotine" + "Get regular prenatal care"]
+
+  avoid_overheating:
+    quote_en: "Don't let your baby get overheated."
+    detail_en: |
+      "Overheating can increase the risk of SIDS."
+      "Your baby only needs one more layer than you would wear in the same environment to be comfortable."
+      Signs: "sweating, a hot chest or flushed skin."
+      "Don't put a hat on your baby while indoors once you're home from the hospital."
+      "Dressing your baby with layers of clothing is safer than using blankets."
+      Wearable blanket: "make sure it is the right size for your baby and it doesn't cover their head."
+    detail_zh_ref: |
+      过热增加 SIDS 风险。穿衣规则:比大人多 1 层就够。
+      过热信号:出汗、胸口发烫、皮肤潮红。
+      室内不戴帽子(医院刚回家头几小时除外)。
+      分层穿衣 > 盖被子。Wearable blanket 要合身、不能盖到头。
+    sources: [A1#8, A2 "Don't let your baby get overheated"]
+
+  crib_construction_standards:
+    quote_en: "Suitable Sleeping Sites — Crib Safety standards (A4)"
+    detail_en: |
+      Slats: "The slats should be no more than 2-3/8 inches apart. All new cribs must meet this standard, but older cribs may not. Avoid using any crib that does not meet this 2011 standard."
+      Posts: "Steer clear of bedposts taller than 1/16th of an inch and/or cutouts in the headboard or any other parts of the crib, where a baby's or toddler's body parts could get stuck."
+      Drop-side cribs: "Numerous injuries from crib side-rails resulted in the largest crib recall in history (2.1 million cribs!) in 2009. As a result, the Consumer Product Safety Commission (CPSC)... required that going forward, all full-sized cribs be manufactured with 4 immovable sides."
+      Mattress fit: "Any extra space between the mattress and crib frame has the potential to trap a baby's arm, leg or head."
+      Placement: "Place your crib well away from any windows and no less than an arm's reach away from any nearby dressers or tabletops. Limit your over-the-crib wall decorations to painted walls and wallpaper. Picture frames and mirrors over cribs may be cute, but they are also injuries waiting to happen."
+      Mobile: "make sure they do not hang low enough to entangle your baby, especially once they begin to roll. Once your baby is able to sit up, it will definitely be time for their mobile to come down."
+      Adjustable mattress height: "Keep it at the highest level while your newborn is relatively immobile. By the time your baby is able to sit or stand up, lower the level of the crib mattress accordingly."
+    detail_zh_ref: |
+      具体硬指标:
+      • 床栏间距 < 2-3/8 英寸(约 6 cm)— 2011 起标准
+      • 床头柱高 < 1/16 英寸(几乎平),床头板无开洞
+      • 不要 drop-side 旧床(2009 召回 210 万张)
+      • 床垫紧贴 4 边,无缝
+      • 远离窗户,远离梳妆台/桌面(伸手够不到为限)
+      • 床上方墙不挂相框 / 镜子 — 都是伤害源
+      • mobile 玩具:宝宝够不到为限,会坐就拆
+      • 床垫高度可调:不会动时最高,会坐 / 站后调低
+    sources: [A4 "Crib Safety" + "Why Drop-Side"]
+
+  vaccines_wellness_visits:
+    quote_en: "Schedule and go to all well-child visits. Your baby will receive important immunizations."
+    detail_en: |
+      "Recent evidence suggests that immunizations may protect against SIDS." (A1)
+      "Regular check-ups help ensure your baby's growth and development is on track. In addition, your baby will receive important immunizations at these well-child visits with your pediatrician. Evidence suggests that infant vaccinations may help protect against SIDS." (A2)
+    detail_zh_ref: |
+      按时去儿保 + 按计划接种疫苗 — 证据显示疫苗可能对 SIDS 有保护作用。
+      不打疫苗 ≠ 防 SIDS,反而可能增风险。
+    sources: [A1#6, A2 "Schedule and go to all well-child care visits"]
+
+  avoid_dangerous_products:
+    quote_en: "Be cautious about buying certain infant products."
+    detail_en: |
+      "Avoid baby products that aren't consistent with safe sleep recommendations. This is especially true for products that claim to reduce the risk of SIDS or other sleep-related infant deaths. There's just no evidence that this is true. If you're not sure about a specific product, check the CPSC website."
+      Home cardiorespiratory monitor: "Don't use home cardiorespiratory monitors as a way to reduce the risk of SIDS. You can buy consumer wellness devices such as heart rate and pulse oximetry monitors. Some of these are wearable. But remember that there is no evidence that these devices, which don't have to meet the same requirements as medical devices, decrease SIDS risk. Don't let them give you a false sense of security."
+      Specific products to avoid (A2): "inclined sleep products, hammocks, baby boxes, in-bed sleepers, baby nests and pods, compact bassinets, travel bassinets and baby tents" — only safe IF complying with June 2021 CPSC rule.
+      Boppy + Dock-a-Tot: "Don't use products for sleep that aren't specifically marketed for infant sleep. Examples include Boppy pillows and Dock-a-Tots."
+    detail_zh_ref: |
+      凡是声称"防 SIDS"的婴儿产品,都没证据,不要相信。
+      家用心率/呼吸监测器(包括 wearable):不能降 SIDS 风险,反而给虚假安心感。
+      要避免:倾斜睡眠器、吊床、baby box、in-bed sleeper、baby nest/pod、小型 bassinet、baby tent — 除非符合 2021 年 6 月 CPSC 新规。
+      Boppy 哺乳枕、Dock-a-Tot 都不能用于睡眠。
+    sources: [A2 "Be cautious about buying certain infant products"]
+
+  prenatal_care:
+    quote_en: "Get regular prenatal care & avoid substance use during pregnancy."
+    detail_en: |
+      "There's strong evidence that routine prenatal care reduces your baby's risk of SIDS."
+    detail_zh_ref: |
+      规律产检 = 降 SIDS 风险(强证据)。
+    sources: [A2 "Get regular prenatal care"]
+
+  # === R1.5 复盘补抓的 verbatim 主题(2026-05-02)===
+
+  day_night_reversal_environment_distinction:
+    quote_en: "create clear environmental distinctions between day and night"
+    detail_en: |
+      A5:
+      Day: "Allow for active sleep. During the day, don't worry if your baby falls asleep in more 'active' areas of the house - in rooms with light or music on, for example."
+      Night: "Maintain focus. Whenever possible, take a more focused approach to your nighttime interactions—limiting them to feeding, burping, changing, and gentle soothing when necessary."
+      "Calm and quiet" with minimal background noise; dark rooms, soft voice for nighttime.
+      "More acceptable sleep habits in the future" — 节律训练,需要耐心,不会一夜见效。
+    detail_zh_ref: |
+      日夜颠倒纠正法:用环境差别教宝宝认昼夜。
+      白天:开灯 + 噪音 + 在客厅活跃区入睡(active sleep OK)。
+      夜里:暗 + 安静 + 只做必要 4 件:喂 / 拍嗝 / 换尿布 / 必要安抚。
+      夜里不互动玩,不开亮灯,不开 TV。
+      节律训练,不是 1 天见效。
+    sources: [A5 全文]
+
+  sleeping_through_the_night_real_definition:
+    quote_en: "A good sleeper is a child who wakes up frequently but can get himself back to sleep. It is not a child who sleeps without waking for 10 hours at night."
+    detail_en: |
+      A6 关键立场:
+      - "Healthy, growing babies usually do not need to be awakened to breastfeed or take a bottle."
+      - "Frequent waking is developmentally appropriate and allows babies to wake when not getting enough oxygen or experiencing breathing problems."
+      - "Prolonged undisturbed sleep at this age is not healthy."
+      夜醒红旗(找医生):
+      - 增重不稳 / 喂养不足(母乳 < 8-12 次/天, 配方 < 5-8 次/天)
+      - 尿布 < 4 wet/天
+      - 排便 < 3 次/天(母乳通常更频)
+      不要在 crib 放奶瓶让宝宝吸睡(蛀牙 + 中耳炎)。
+    detail_zh_ref: |
+      "睡整觉"真定义:能频繁醒 + 自己回睡(不是连睡 10 h 不醒)。
+      AAP 反 "10 h 连睡"目标:对此月龄反而不健康(可能错过缺氧/呼吸问题信号)。
+      健康 + 增重稳的宝宝不必夜里叫醒喂。
+      夜醒红旗:增重不稳 / <4 wet / <3 BM / 喂养不足 → 找医生。
+      绝不在 crib 放奶瓶吸睡(蛀牙 + 中耳炎)。
+    sources: [A6 全文]
+
+  newborn_sleep_cycles_and_periodic_breathing:
+    quote_en: "For newborns, sleep is about equally divided between rapid eye movement (REM) and non-REM sleep"
+    detail_en: |
+      A7 完整 5 阶段:
+      - Stage 1: Drowsiness, baby starts to fall asleep
+      - Stage 2: REM sleep (active sleep) — twitch / jerk arms-legs / eyes move under closed lids; "Breathing is often irregular and may stop for 5 to 10 seconds—a condition called normal periodic breathing of infancy—then start again with a burst of rapid breathing at the rate of 50 to 60 breaths a minute for 10 to 15 seconds"
+      - Stage 3: Light sleep, breathing more regular
+      - Stages 4-5: Deep non-REM sleep (quiet sleep), twitching ceases, harder to wake
+      重要安心信号:"The baby's skin color does not change with the pauses in breathing and there is no cause for concern (in contrast with apnea). Babies generally outgrow periodic breathing by about the middle of the first year."
+    detail_zh_ref: |
+      新生儿 50% REM(active sleep)+ 50% non-REM,5 阶段循环。
+      关键安心知识:呼吸暂停 5-10s + 50-60 burst 是正常 periodic breathing,6 月内自然消失。
+      鉴别 apnea:看皮肤颜色 — 颜色不变 = periodic breathing(正常);颜色变青紫 / 暂停 >20s = apnea(立刻送医)。
+      抽动 / 眨眼 / 不规则呼吸都是 REM 正常表现,不必干预。
+    sources: [A7 全文]
+
+# 给后续单元/产卡用的精简摘要
+summary: |
+  AAP 当前(2022 SIDS Policy + 2021 CPSC rule)的"安全睡眠 + SIDS 预防"完整建议集:
+  9 大核心 + 数个细节扩展。
+  核心 = 仰睡 / 平整非倾斜面 / bare crib / room share 6 月不 bed share / 母乳 / 奶嘴 / 不抽烟 / 不过热 / 按时打疫苗。
+  扩展 = 床构造硬指标(slats 6cm / 不 drop-side)、bed share 风险倍数(沙发 67×、impaired 10×、<4mo 5-10×、preterm 2-5×)、
+  swaddle 安全(髋松 / 翻身停 / 不防 SIDS)、tummy time 7 周起 15-30 min、危险产品清单(Boppy/Dock-a-Tot/inclined/home monitor)。
+  AAP 立场鲜明:任何情况下都不推荐 bed sharing,与 Karp(28)立场对立。
+  AAP 立场:奶嘴在母乳建立后用,可降 SIDS 风险;与 Karp(22)立场略有差异(Karp 担心混淆乳头主张 3-4 周后;AAP 也说"建立后",但更强调"用奶嘴"的 SIDS 保护价值)。
+
+# 此源支撑的卡片(R1 产出后回填)
+referenced_by_cards: []
+
+notes: |
+  Phase 2 第一轮 R1 抓取(2026-05-01)。
+  4 篇 article 用 WebFetch 一次性抓取,2 篇遇 404(Preventing-SIDS / 第一次试 Suitable-Sleep-Sites)被替换为相邻 article。
+  WebFetch 输入/输出比抽样:9 Ways 和 Policy ≈ 1.0(完整);Swaddle ≈ 0.4(被部分总结,但 verbatim 引号段保留);Suitable Sites ≈ 1.0。
+  本 cluster 主用于产 R1 6-10 张 AAP 视角新卡;按解读 B,Karp 33 张不动,cross-validate 留到所有书产完后整合。
+  conflicts.md 暂不写。

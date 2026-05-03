@@ -1,0 +1,50 @@
+card_id: C-S3-009
+stages: [S3]
+tags: [safety]
+
+front:
+  title: 翻身 5 月起,7 月双向
+  hook: 翻身了立刻停包,防窒息
+
+back:
+  why_matters: |
+    翻身(rolling over)= 婴儿能从仰卧自主翻成侧 / 俯卧再翻回。是 4-7 月大动作里程碑核心。
+    翻身意味着进入"会动"阶段 — 也是窒息风险骤升的转折点(包裹 + 翻身 + 趴卧是 SIDS 死亡常见三联)。
+    AAP 节奏:5 月起萌芽(撑胸 + 蹬腿 + 自摇),7 月通常双向(stomach ↔ back)。多数宝宝先肚子→背,反过来也正常。
+    关键安全:**翻身后必须停止包裹**,否则一翻成趴卧 = 窒息致死。
+  what_to_do:
+    - 5 月起观察翻身信号(撑胸 / 蹬腿 / 自摇)
+    - 多数先肚→背,反过来也正常
+    - 7 月通常双向都会
+    - "**试图翻身就立刻停包**(参 C-S1-038)"
+    - 床边 / 尿布台高处加防护,不留独自
+  failure_mode: |
+    7 月还不会单向翻 / 肢体不对称发展 → 找医生评估。
+    翻身后还硬包 → 翻成趴卧 → SIDS / 窒息致死。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-AAP
+  - G-ABBR-SIDS
+  - G-TERM-swaddle
+
+citation:
+  page_title: "Movement Milestones: Babies 4 to 7 Months"
+  publisher: American Academy of Pediatrics
+  portal: HealthyChildren.org
+  page_url_primary: https://www.healthychildren.org/English/ages-stages/baby/Pages/Movement-4-to-7-Months.aspx
+  accessed: 2026-05-02
+  language: en
+  location: "'Getting ready to roll over' section"
+  source_id: SRC-007
+
+unit_ids: []
+related_cards:
+  - C-S1-038     # AAP 包裹只是安抚,翻身后停
+  - C-S1-013     # Karp 包裹必须紧 + 双臂在内
+  - C-S1-015     # Karp 包裹 5 个最常见错误
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

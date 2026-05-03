@@ -1,0 +1,48 @@
+card_id: C-S3-010
+stages: [S3]
+tags: []
+
+front:
+  title: 坐姿:6 月 tripod,9 月独坐
+  hook: 9 月仍不能独坐 → 找医生
+
+back:
+  why_matters: |
+    独坐(sitting unsupported)= 不需扶或撑能保持坐姿 30 秒以上。
+    是 6-9 月大动作里程碑红旗指标 — AAP 原话:"If she is not sitting by herself by nine months, let your pediatrician know"。
+    没掌握独坐 = 影响后续爬 / 站 / 走全部下游里程碑(神经发育是阶梯,跳过一级影响连锁)。
+    AAP 节奏:6-8 月 tripod sit(三脚架坐姿,身前两手撑学平衡),8 月独坐偶倒,9 月稳定独坐。
+    **9 月仍不能独坐 → 找医生**。
+  what_to_do:
+    - 6 月起练 tripod:扶坐 + 前方放玩具吸引专注
+    - 用枕头垫背防摔倒
+    - 8-9 月让他自己练独坐(不抢着扶)
+    - 不用 sit-me-up 椅子(限制自然练习)
+    - 9 月仍不能独坐 → 立刻找医生
+  failure_mode: |
+    9 月仍不独坐还等观望 → 错过黄金干预窗口(神经发育是有时间窗的)。
+    全程用婴儿椅 / 学步车托住 → 自然平衡和肌肉得不到练。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-AAP
+  - G-TERM-tripod-sit
+  - G-TERM-baby-walker
+
+citation:
+  page_title: "Movement Milestones: Babies 4 to 7 Months + Movement 8-12 Months"
+  publisher: American Academy of Pediatrics
+  portal: HealthyChildren.org
+  page_url_primary: https://www.healthychildren.org/English/ages-stages/baby/Pages/Movement-4-to-7-Months.aspx
+  accessed: 2026-05-02
+  language: en
+  location: "'Working on sitting up' (4-7 月)+ '9 Months: Should be sitting by herself' (Movement 8-12)"
+  source_id: SRC-007
+
+unit_ids: []
+related_cards: []
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

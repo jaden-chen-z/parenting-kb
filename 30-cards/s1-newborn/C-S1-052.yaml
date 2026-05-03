@@ -1,0 +1,47 @@
+card_id: C-S1-052
+stages: [S1]
+tags: []
+
+front:
+  title: 日夜颠倒纠正:白天嘈杂夜里专注
+  hook: 用环境差别教宝宝认昼夜
+
+back:
+  why_matters: |
+    circadian rhythm(昼夜节律)= 体内生物钟,人在 24 小时内自然分白天 / 夜晚。
+    婴儿出生时节律未发育,大多 6-8 周开始建立,3-4 月稳定。
+    有些新生儿日夜颠倒(白天睡 / 夜里精神),需要用环境差别教他认昼夜。
+    AAP:白天 = 开灯 + 噪音 + 客厅活跃区入睡;
+    夜里 = 暗 + 安静 + 只做必要 4 件(喂 / 拍嗝 / 换尿布 / 必要安抚)。
+    节律训练,1-2 周才见效。
+  what_to_do:
+    - 白天:开灯 + 正常说话 / 看电视 / 家务声 + 抱进客厅
+    - 夜里:暗 + 小声 + 不开亮灯 / 不开 TV
+    - 夜里只做必要 4 件:喂 / 换尿布 / 拍嗝 / 必要安抚
+    - 夜里不逗 / 不玩 / 不开亮灯
+    - 这是节律训练,需要 1-2 周才见效
+  failure_mode: |
+    夜里也开亮灯 + 看手机 → 宝宝大脑接收到"白天信号"。
+    白天总是关窗户保持安静 → 宝宝学不会区分昼夜。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-AAP
+
+citation:
+  page_title: "Reversing Day-Night Reversal"
+  publisher: American Academy of Pediatrics
+  portal: HealthyChildren.org
+  page_url_primary: https://www.healthychildren.org/English/ages-stages/baby/sleep/Pages/Reversing-Day-Night-Reversal.aspx
+  accessed: 2026-05-01
+  language: en
+  location: "全文 — 'Lights On, Lights Off' section"
+  source_id: SRC-004
+
+unit_ids: []
+related_cards: []
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

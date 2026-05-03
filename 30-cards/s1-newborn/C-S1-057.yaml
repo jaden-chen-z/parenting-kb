@@ -1,0 +1,49 @@
+card_id: C-S1-057
+stages: [S1]
+tags: [safety, red_flag]
+
+front:
+  title: 跌落防护:尿布台/床/沙发不独处
+  hook: 翻身前也会蹬腿掉下
+
+back:
+  why_matters: |
+    跌落(falls)是婴儿期 ER 急诊主因之一(美国年均数十万例)。
+    新手父母常见误区:"翻身前不会动 → 床上独处 OK" — 实际即使蹬腿 / 撑手都能移动 + 跌落。
+    AAP 硬规则:**任何高于地板的家具上都不留婴儿独处**(哪怕一秒)。
+    6 月起会爬 → 楼梯门 + 窗保护 + 锐角家具防护。
+    不用 baby walker(楼梯翻倒事故 — 见 C-S4-005)。
+  what_to_do:
+    - 尿布台 / 床 / 沙发 / 椅子上不留婴儿独处(哪怕拿东西的一秒)
+    - 6 月起爬 → 楼梯顶 + 底**两端**装 sturdy gates(C-S5-006)
+    - 一楼以上窗户装 operable window guards
+    - 6-12 月家具锐角包起 / 移走
+    - 严重跌落 + 行为异常(嗜睡 / 呕吐 / 抽搐)→ 立刻找医生
+  failure_mode: |
+    觉得"翻身前不会动" → 蹬腿撑手就掉下。
+    楼梯只装一端 gate → 另一端事故。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-AAP
+  - G-TERM-baby-walker
+
+citation:
+  page_title: "Safety for Your Child: Birth to 6 Months + 6 to 12 Months"
+  publisher: American Academy of Pediatrics
+  portal: HealthyChildren.org
+  page_url_primary: https://www.healthychildren.org/English/ages-stages/baby/Pages/Safety-for-Your-Child-Birth-to-6-Months.aspx
+  accessed: 2026-05-02
+  language: en
+  location: "Birth-to-6 'Falls' + 6-to-12 'Falls'"
+  source_id: SRC-008
+
+unit_ids: []
+related_cards:
+  - C-S4-005     # 学步车 AAP 强烈反对
+  - C-S5-006     # 楼梯门两端必装
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

@@ -1,0 +1,56 @@
+card_id: C-S5-005
+stages: [S5]
+tags: []
+
+front:
+  title: 12 月儿保 4 必查
+  hook: 一次儿保解决多件事
+
+back:
+  why_matters: |
+    well-child visit(儿保)= AAP Bright Futures 0-21 岁标准化预防保健访视(不等同于生病看医生)。
+    AAP 推荐 0-2 岁高频访视:出生 / 3-5 天 / 1m / 2m / 4m / 6m / 9m / **12m** / 15m / 18m / 24m。
+    12 月儿保是 0-1 岁收官 + 1-2 岁起点,**多项跨段评估同时做**:
+    ① **铁缺乏 + 贫血筛查**(全员,不分喂养方式 — 见 C-S3-006)
+    ② **牙医**(第一颗牙后 6 月内,不晚 12 月 — 见 C-S3-012)
+    ③ **走路评估**(独走或至少 cruise — 见 C-S5-002)
+    ④ **语言评估**(理解 + 表达 — 见 C-S5-003)
+    还有疫苗 / 身高体重 / 全维度发育里程碑筛查。
+  what_to_do:
+    - 12 月儿保提前预约
+    - 必查 4 项:铁血常规 + 牙医 + 走路 + 语言
+    - 准备问题清单(睡眠 / 喂养 / 行为 / 担心点)
+    - 第一颗牙若超 6 月没见牙医 → 同时安排
+    - 12 月疫苗按计划(MMR / 水痘 / Hib 等)
+  failure_mode: |
+    跳过 12 月儿保(觉得"我家健康不必去")→ 缺铁 / 牙问题 / 早期发育延迟漏诊。
+    去了不准备问题清单 → 出门后才想起好多想问的。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-AAP
+  - G-ABBR-CDC
+  - G-TERM-cruising
+  - G-ABBR-MMR
+
+citation:
+  page_title: "Multiple AAP articles synthesized"
+  publisher: American Academy of Pediatrics
+  portal: HealthyChildren.org
+  page_url_primary: https://www.healthychildren.org/English/ages-stages/baby/feeding-nutrition/Pages/Vitamin-Iron-Supplements.aspx
+  accessed: 2026-05-02
+  language: en
+  location: "Vit-Iron-Supplements 'Universal screening at 12 months' + Teething '6 months after first tooth' + Movement 8-12 + Language 8-12 综合"
+  source_id: SRC-007
+
+unit_ids: []
+related_cards:
+  - C-S3-006     # 母乳宝宝 4 月起补铁,12 月查血
+  - C-S3-012     # 出牙 + 第一颗牙后 6 月见牙医
+  - C-S5-002     # 第一步 ~1 岁
+  - C-S5-003     # 第一个真词 ~1 岁
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

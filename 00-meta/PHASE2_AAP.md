@@ -51,6 +51,338 @@
 - 各段卡片 ID 接续 Phase 1:S1 从 C-S1-034 起,S2 从 C-S2-003 起,S3-S5 从 C-SX-001 起
 - 源 ID 从 SRC-004 起(`source_index.yaml` 里 `next_src_id` 已设)
 
+### 2.6 翻译两步走 + 缩写/人名规则(v1.1 新增 · 2026-05-02)
+
+**背景**:Phase 2 AAP 卡(英文源)实战中,从英文 verbatim 直译损失白话度;缩写不友好;人名缺身份注释。沉淀此规则。
+
+#### 2.6.1 翻译两步走工作流
+
+**第一步 (English skeleton)**:从 verbatim 提炼英文 5 字段骨架
+- title_en (≤ 8 words) / why_en (≤ 80 words) / what_en bullets / failure_en / hook_en
+- 目的:确保事实精确 + 结构紧凑,不掺杂中文翻译噪音
+
+**第二步 (Chinese 白话改写)**:按中文家长习惯**改写**,不是直译
+- 标题 ≤ 15 字,hook 8-12 字
+- why_matters ≤ 80 字,what_to_do 每条 ≤ 30 字 × 3-5 条
+- failure_mode ≤ 80 字
+- 数字保留(月龄 / 剂量 / 分贝 / 百分比)
+- 长定语句 → 拆短句;学术词 → 口语词
+- 写完念一遍,不像药品说明书或学术论文
+
+#### 2.6.2 缩写规则
+
+知识内容部分(front / back)**保留缩写**(如 SIDS, GERD, BLW),不为了让中文用户懂而打断行文展开。
+
+在 citation 之前新增 `glossary:` 字段,列该卡用到的所有缩写:
+
+```yaml
+glossary:
+  abbreviations:
+    - SIDS: 婴儿猝死综合征(Sudden Infant Death Syndrome)
+    - GERD: 胃食管反流病(Gastroesophageal Reflux Disease)
+```
+
+主词典在 [`00-meta/glossary.yaml`](glossary.yaml)(单一真相源,卡片 glossary 块从此处复制需要的项)。
+
+#### 2.6.3 人名规则
+
+知识内容中**保留姓**(如 Karp),不强行打断行文写全名。
+
+在 `glossary:` 字段下 `people:` 子项列该卡引用的人名,格式 `姓: 全名 · 身份`:
+
+```yaml
+glossary:
+  people:
+    - Karp: Harvey Karp · 美国儿科医生,《卡普新生儿安抚法》作者
+```
+
+#### 2.6.4 专有名词规则
+
+英文专业词第一次出现可用"中文(英文)"格式:
+- 例:"后奶(hindmilk)"、"幽门狭窄(pyloric stenosis)"
+- 例外:已是常用中文术语的不必标(如"母乳"、"配方奶")
+
+复杂概念(需要 1 句解释才能懂)在 `glossary:` 字段下 `terms:` 子项加解释:
+
+```yaml
+glossary:
+  terms:
+    - 头发止血带综合征: 头发或细线缠绕婴儿手指/脚趾,可能切断血流甚至坏死
+```
+
+#### 2.6.5 卡片 yaml 完整 schema 修订(v3.4 · 2026-05-02)
+
+```yaml
+card_id: ...
+stages: [...]
+tags: [...]
+
+front:
+  title: ...        # 知识内容保留缩写/姓,不打断行文
+  hook: ...
+
+back:
+  why_matters: ...
+  what_to_do: ...
+  failure_mode: ...
+  evidence_level: ...
+
+# 新字段:术语注释(在 citation 之前)— 卡片自包含
+glossary:
+  abbreviations:    # 该卡用到的缩写(可选,有就列)
+    - SIDS: 婴儿猝死综合征(Sudden Infant Death Syndrome)
+  people:           # 该卡引用的人名(可选,有就列)
+    - Karp: Harvey Karp · 美国儿科医生,《卡普新生儿安抚法》作者
+  terms:            # 该卡用到的专有名词(可选,有就列)
+    - 头发止血带综合征: 头发或细线缠绕婴儿手指/脚趾,可能切断血流甚至坏死
+
+citation:
+  ...
+```
+
+`glossary` 三个子字段都可选,有需要才列;主词典 [`00-meta/glossary.yaml`](glossary.yaml) 是真相源。
+
+### 2.7 前情提要规则(v1.2 新增 · 2026-05-02)
+
+**背景**:用户反馈:"卡片一上来就说'很多人以为包紧能防 SIDS',谁能理解你在说什么?" — 卡片不能假设读者已知背景。
+
+**规则**:每张卡必须**自包含**,`why_matters` 开头先做 2 句前情提要,再进入核心主张。
+
+#### 2.7.1 前情提要包含什么
+
+- **关键概念定义**(1 句):用最白话方式解释卡片标题里的核心词
+  - 例:"包裹(swaddle)= 用薄布把宝宝紧裹成蚕蛹状,模拟子宫"
+  - 例:"SBS(摇晃婴儿综合征)= 用力摇晃造成的脑出血,可能致死"
+- **背景数字 / 严重性 / 历史**(1 句):让读者明白"为什么这件事值得花 60 秒读"
+  - 例:"SIDS 美国每年约 3500 例,1 岁内最大死因之一"
+  - 例:"老建议'推迟引入花生到 3 岁',但 LEAP 研究(2015)证明早引入反而预防 81% 过敏"
+
+#### 2.7.2 然后才进入核心主张
+
+- 核心主张 = 卡片要传达的关键观点 + 反直觉点 + 具体警告
+
+#### 2.7.3 字数约束放宽(覆盖 PHASE1 §2.2)
+
+- `why_matters`:从 ≤ 80 字 放宽到 **≤ 130 字**(40 字前情提要 + 90 字核心)
+- 背面正文合计:从 ≤ 310 字 放宽到 **≤ 360 字**
+- 其他字段不变(`title` ≤ 15 字 / `hook` 8-12 字 / `failure_mode` ≤ 80 字 / `what_to_do` 每条 ≤ 30 字 × 3-5 条)
+
+#### 2.7.4 例外:何时可以省略前情提要
+
+只有当卡片标题本身已经是完整自解释(读完标题就知道在说什么),且不涉及任何专业概念 / 数字 / 历史背景时,才可以省略前情提要。
+- 例外少见。**默认必须写前情提要**。
+
+#### 2.7.5 适用范围
+
+- ✅ 所有新卡(R4 / R5 + 后续书)必须按此规则写
+- ✅ 已有 37 张 AAP 卡需 refactor 时一并补前情提要
+- ✅ Karp 33 张未来整合 refactor 时也补
+
+### 2.8 术语卡片化(v1.3 新增 · 2026-05-02)
+
+**背景**:用户决定把所有书的专有名词 / 缩写 / 人名做成独立卡片,知识卡引用术语 ID,渲染层做可点击链接 + 弹窗显示。
+
+#### 2.8.1 文件结构 + ID 规则
+
+```
+40-glossary/                        # 新顶级目录(平级 30-cards)
+├── G-ABBR-SIDS.yaml                # 缩写:G-ABBR-<exact-uppercase>
+├── G-ABBR-AAP.yaml
+├── G-PERSON-Karp.yaml              # 人名:G-PERSON-<Surname>
+├── G-PERSON-Brazelton.yaml
+├── G-TERM-swaddle.yaml             # 专有名词:G-TERM-<lowercase-slug>
+├── G-TERM-pyloric-stenosis.yaml
+└── INDEX.md                        # 字母索引(后期生成)
+```
+
+#### 2.8.2 术语卡 yaml schema (v1.0)
+
+```yaml
+glossary_id: G-ABBR-SIDS
+type: abbreviation                  # abbreviation / person / term
+display_name: SIDS                  # 在知识卡正文里显示的形式
+
+full_name_en: Sudden Infant Death Syndrome
+full_name_zh: 婴儿猝死综合征
+
+one_liner: |                        # 1-2 句简短解释(弹窗顶部直接显示)
+  ...
+
+detail: |                           # 完整背景 markdown(弹窗展开后显示)
+  ## 定义
+  ...
+  ## 流行病学
+  ...
+  ## 历史
+  ...
+
+key_facts:                          # 关键事实清单(可选,< 5 条)
+  - ...
+
+related_glossary:                   # 相关术语 ID(术语卡之间也互链)
+  - G-ABBR-SBS
+  - G-TERM-back-sleep
+
+related_cards:                      # 引用本术语的知识卡 ID(可后期回填)
+  - C-S1-016
+  - C-S1-038
+
+sources:                            # 引用源
+  - source_id: SRC-XXX
+  - external: 维基百科 / CDC / 综合医学常识
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02
+```
+
+#### 2.8.3 知识卡引用术语卡的方式
+
+知识卡 yaml 的 `glossary` 字段(v3.4)→ 改为 `glossary_refs`(v3.5):
+
+**Old (v3.4) — 内联展开**:
+```yaml
+glossary:
+  abbreviations:
+    - SIDS: 婴儿猝死综合征(Sudden Infant Death Syndrome)
+  people:
+    - Karp: Harvey Karp · 美国儿科医生...
+```
+
+**New (v3.5) — 引用术语 ID**:
+```yaml
+glossary_refs:                      # 扁平 list,不分类
+  - G-ABBR-SIDS
+  - G-ABBR-AAP
+  - G-PERSON-Karp
+  - G-TERM-swaddle
+```
+
+**渲染层职责**:
+- 知识卡正文里 SIDS / Karp / swaddle 等词自动转可点击链接
+- 点击 → 弹窗 → 显示术语卡的 `one_liner`(顶部)+ `detail`(展开)
+- 术语卡之间(`related_glossary`)也互链,可在弹窗内继续跳转
+
+#### 2.8.4 迁移路径
+
+1. **样本** (本次):5 张代表术语卡(SIDS / DDH / LEAP / Karp / swaddle)→ 用户审风格
+2. **批量生成** (用户审过后):基于 [`00-meta/glossary.yaml`](glossary.yaml) 现有 52 个条目 → 生成 52 张术语卡(补 detail / key_facts / related_*)
+3. **知识卡 refactor**:37 张 AAP 卡的 `glossary` → `glossary_refs`(批量)
+4. **R4 / R5 直接用 v3.5 schema**(`glossary_refs`)
+5. **Karp 33 张**:未来整合时 refactor 同样改
+
+#### 2.8.5 主词典 glossary.yaml 命运
+
+- 短期:`glossary.yaml` 仍保留作为快速一览(条目精简版)
+- 长期:`glossary.yaml` 废弃,术语卡是唯一真相源,加 `40-glossary/INDEX.md` 字母索引
+
+### 2.9 知识卡 inline 引用渲染(v1.4 新增 · 2026-05-02)
+
+**背景**:卡片正文常引用其他卡片(如"见 C-S3-006")。用户希望这些引用变可点击 → 弹窗显示被引卡内容,跟术语卡 `glossary_refs` 弹窗同款交互。
+
+#### 2.9.1 引用格式(yaml 内不变)
+
+知识卡正文(`why_matters` / `what_to_do` / `failure_mode` / `failure_mode`)中**保留 ID 文本**:
+- 标准格式:`C-S<段>-<3 位编号>`(如 `C-S3-006` / `C-S5-002`)
+- yaml schema **无需改动** — 现有 inline 写法照常
+- 术语卡引用同理:`G-ABBR-XXX` / `G-PERSON-XXX` / `G-TERM-XXX` 在正文出现也变链接
+
+#### 2.9.2 渲染层行为
+
+**两种引用机制不同**:
+
+**A. 知识卡引用 — ID 直接匹配**
+- 正文里**直接写 ID**(如 "见 C-S3-006")
+- 渲染层正则 `C-S\d+-\d+` 匹配 → 转链接
+- 点击 → 弹窗:title + hook + why_matters 简版 + "查看完整卡"按钮
+
+**B. 术语卡引用 — glossary_refs 列表 + display_name 匹配**
+- 正文里写 human-readable 词(如 "SIDS" / "AAP" / "Karp" / "产后抑郁"),**不写 G-ID**
+- 渲染层流程:
+  1. 读卡片 `glossary_refs` 字段(如 `[G-ABBR-AAP, G-PERSON-Karp, G-TERM-postpartum-depression]`)
+  2. 对每个 ref,fetch 对应术语卡的 `display_name`(AAP / Karp / 产后抑郁)
+  3. 在正文里搜该 display_name 字符串,转链接
+- 点击 → 弹窗:display_name + one_liner + detail 简版 + "查看完整卡"按钮
+
+**为什么这样设计**:
+- 正文保持 human-readable(读起来流畅,不是一堆 G-ID 噪音)
+- `glossary_refs` 显式列出"该卡用了哪些术语" → 渲染层不需要 fuzzy match 全词典(快 + 准)
+- 卡片底部**不重复术语解释**(弹窗就是注释,glossary_refs 就是清单)
+
+弹窗内的链接也可继续点击(深度跳转)。
+
+#### 2.9.3 渲染原则(必须遵守)
+
+**A. glossary_refs 字段本身不展示给最终用户**
+- yaml 源文件里有 `glossary_refs:` 字段,但渲染后的卡片视图(给父母看的最终界面)**不显示这个字段**
+- glossary_refs 仅作为渲染层的索引元数据 — 用户在卡片底部看不到"专用名词清单"段落
+- 同理 `related_cards` 字段也不直接渲染为列表(它是关联图元数据)
+- 用户能看到的:title / hook / why_matters / what_to_do / failure_mode / citation 简版
+- 用户看不到的:glossary_refs / related_cards / unit_ids / status / created / updated 等元数据
+
+**B. 术语在正文中每次出现都是可点击链接**
+- 例:正文出现"AAP"3 次 → 渲染时**3 个 'AAP' 都是链接**(不是只第一次)
+- 例:正文出现"SIDS"5 次 → 5 个都可点击
+- 不做"首次出现链接化,后续灰色"这种优化 — 用户随时回查
+- 实现:渲染层用 global regex replace 替换所有匹配,不是只 first match
+
+**C. 链接交互一致**
+- 同一术语的所有链接,点击后弹同一个窗
+- 弹窗内容由术语卡(40-glossary/G-XXX-XXX.yaml)决定 — 单一真相源
+
+#### 2.9.3 与 yaml 字段的关系
+
+- **`related_cards` 字段**(在 citation 后,现有):**保留** — 作为显式关联清单
+  - 可能 inline 没出现但概念关联的卡也列在这
+  - inline 已出现的 ID 也可重复列(冗余但便于扫描)
+  - 双源互补:inline 是"读到这你可能想看",`related_cards` 是"完整关联图"
+
+- **`glossary_refs` 字段**(术语引用,§2.8.3):**保留** — 同上逻辑
+  - 显式术语清单 + inline 自动识别双源
+
+- **不新增字段** — 渲染层主动识别 inline ID,yaml 不重复列
+
+#### 2.9.4 渲染示例
+
+**原文 yaml**:
+```yaml
+why_matters: |
+  ...
+  ① **铁缺乏 + 贫血筛查**(全员 — 见 C-S3-006)
+  ② **牙医**(第一颗牙后 6 月内 — 见 C-S3-012)
+  ...
+```
+
+**渲染效果**(伪 HTML):
+```
+① 铁缺乏 + 贫血筛查(全员 — 见 [C-S3-006](click))
+                                  ↓ 点击
+                              ┌──────────────────────────────┐
+                              │ 📇 C-S3-006                  │
+                              │ ──────────────────────────── │
+                              │ 母乳宝宝 4 月起补铁,12 月查血    │
+                              │ 母乳铁低,6 月起需求骤增          │
+                              │                              │
+                              │ AAP:4 月起母乳宝宝补 1 mg/kg/d │
+                              │ 12 月儿保必查铁缺乏 + 贫血...    │
+                              │                              │
+                              │ [查看完整卡 →]                 │
+                              └──────────────────────────────┘
+```
+
+#### 2.9.5 适用范围
+
+- ✅ 所有现有 51 张知识卡(渲染时自动生效,无需改 yaml)
+- ✅ 所有现有 56+ 术语卡(同样自动)
+- ✅ 所有新卡(R5 + 后续书)按现有 inline 写法即可
+
+#### 2.9.6 实现路径(给前端)
+
+- **Obsidian**:写自定义插件用正则匹配 + Modal 渲染弹窗
+- **Web**:渲染时把 ID 替换为 `<a class="card-link" data-id="C-S3-006">C-S3-006</a>`,JS 监听 click → fetch yaml → 弹窗
+- **Markdown export**:把 ID 替换为 `[[C-S3-006]]` 标准 wiki link 格式,任何兼容工具都能跳转
+
 ---
 
 ## 3. 工作流(基于 Phase 1 教训改进 — §10.13)

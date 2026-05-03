@@ -1,0 +1,48 @@
+card_id: C-S1-061
+stages: [S1]
+tags: [safety, red_flag]
+
+front:
+  title: 婴儿急性红旗:8 项立刻找医生
+  hook: 任何 1 项 → 立刻打电话
+
+back:
+  why_matters: |
+    红旗信号(red flag signs)= 父母层面识别"立刻送医"的关键症状清单。
+    婴儿病情进展极快(几小时翻倍恶化),父母关键技能不是诊断,是**识别 + 立即送医的时机**。
+    AAP 综合 8 项红旗(发烧文 + 哭闹文整合):
+    任何 1 项就立刻找医生 / 不在家观望。
+    比"再睡一觉看看"早送医,救命冷知识。
+  what_to_do:
+    - "**看上去明显病**(神色异常 / 没力气 / 不像平时的他)→ 立刻找医生"
+    - "**异常嗜睡**(叫不太醒 / 反应慢)→ 立刻找医生"
+    - "**异常烦躁**(怎么安抚都不停 / 哭声变调)→ 立刻找医生"
+    - "**呼吸困难**(急促 / 喉咙拉拽 / 鼻翼扇)→ 立刻找医生"
+    - 颈僵 / 抽搐 / 反复呕吐 / 不明皮疹 → 立刻找医生
+  failure_mode: |
+    "再观察一晚" → 婴儿败血症几小时致命。
+    只看体温不看行为 → 不烧但异常嗜睡也是急症(可能严重感染)。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-AAP
+
+citation:
+  page_title: "Fever: When to Call the Pediatrician + Responding to Cries"
+  publisher: American Academy of Pediatrics
+  portal: HealthyChildren.org
+  page_url_primary: https://www.healthychildren.org/English/health-issues/conditions/fever/Pages/When-to-Call-the-Pediatrician.aspx
+  accessed: 2026-05-02
+  language: en
+  location: "When-to-Call 全文 (行为 / 呼吸 / 其他急症 / 持续时间)"
+  source_id: SRC-008
+
+unit_ids: []
+related_cards:
+  - C-S1-031     # Karp 哭闹的 10 个红旗信号(立场一致,AAP 加发烧维度)
+  - C-S1-060     # < 3 月发烧 38°C 立刻找医生
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

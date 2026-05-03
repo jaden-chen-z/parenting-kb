@@ -1,0 +1,48 @@
+card_id: C-S4-006
+stages: [S4]
+tags: [safety, red_flag]
+
+front:
+  title: 溺水预防:2 inches 水也淹
+  hook: 浴时不离手,泳池 4 围栏
+
+back:
+  why_matters: |
+    溺水(drowning)是 1-4 岁儿童**意外死亡 #1**(美国数据);婴儿期 0-12 月浴缸 / 水桶溺水也是 ER 高发。
+    AAP 关键事实:**2 inches(5 cm)水都能淹死婴儿** — 婴儿趴下后无力翻身或站起。
+    最常见场景:大人接电话 / 转身一秒,婴儿就溺水。
+    6 月起爬 → 浴室门必须关 + 全屋水容器立刻倒空。
+    会游泳 ≠ 安全(婴儿无判断力)。
+  what_to_do:
+    - "**2 inches(5 cm)水都能淹** — 浴缸 / 水桶 / 任何容器立刻倒空"
+    - 浴室门**关上 + 锁住**(6 月起爬过去)
+    - "**从不离开宝宝独自在水边**(即使 1 秒接电话)"
+    - 大人 stay within an arm's length(伸手可及范围)
+    - 泳池:**4 面围栏**(隔家与泳池),走路前就装
+    - 学 infant CPR + 溺水急救
+  failure_mode: |
+    接个电话离开浴缸 30 秒 → 婴儿溺水 ER 常见案例。
+    觉得"水桶水不够" → 2 inches(5 cm)就能淹。
+    游泳学完安心 → 婴儿无判断力,游泳 ≠ 安全。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-AAP
+
+citation:
+  page_title: "Safety for Your Child: 6 to 12 Months"
+  publisher: American Academy of Pediatrics
+  portal: HealthyChildren.org
+  page_url_primary: https://www.healthychildren.org/English/ages-stages/baby/Pages/Safety-for-Your-Child-6-to-12-Months.aspx
+  accessed: 2026-05-02
+  language: en
+  location: "'Drowning' section"
+  source_id: SRC-008
+
+unit_ids: []
+related_cards: []
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

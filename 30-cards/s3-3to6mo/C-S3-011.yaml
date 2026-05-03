@@ -1,0 +1,47 @@
+card_id: C-S3-011
+stages: [S3]
+tags: [safety]
+
+front:
+  title: 抓握:claw → 9 月 pincer 对捏
+  hook: 9 月起所有小物件从地板清
+
+back:
+  why_matters: |
+    pincer grasp(拇食指对捏)= 用拇指 + 食指像钳子一样捏起小颗粒物体的精细动作。
+    窒息(choking)是 1 岁内婴儿主要死因之一,pincer 期是事故高峰 — 宝宝能捏起小物 + 一切都要塞嘴。
+    AAP 抓握进化阶梯:大手抓 → 4-7 月 claw / raking grip(爪状)→ 6-8 月双手互传 → **9 月 pincer grasp**。
+    pincer 后所有 < 2 cm 物件必须从地板清除,**否则窒息高危**(纽扣电池尤其致命)。
+  what_to_do:
+    - 4-7 月观察 claw / raking grip(爪状抓玩具)
+    - 6-8 月双手互传物体(锻炼 hand-to-hand transfer)
+    - 9 月达 pincer:拇食指对捏(能捏起一粒葡萄干 / 米粒)
+    - pincer 后所有 < 2 cm 物件从地板清(纽扣 / 硬币 / 小积木 / 药片)
+    - 给训练玩具:布书 / 软球 / finger holds 摇铃
+  failure_mode: |
+    9 月仍只 claw 抓不会 pincer → 找医生评估精细动作。
+    pincer 期不清地板小物 → 宝宝捏起塞嘴 → 窒息致死(常见急诊案例)。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-AAP
+  - G-TERM-pincer-grasp
+
+citation:
+  page_title: "Movement Milestones: Babies 4 to 7 Months"
+  publisher: American Academy of Pediatrics
+  portal: HealthyChildren.org
+  page_url_primary: https://www.healthychildren.org/English/ages-stages/baby/Pages/Movement-4-to-7-Months.aspx
+  accessed: 2026-05-02
+  language: en
+  location: "'Gaining more control of hands & feet' section (含 'pincer grasp at about nine months old')"
+  source_id: SRC-007
+
+unit_ids: []
+related_cards:
+  - C-S3-004     # 1 岁内 11 类 choking 食物清单(同安全主题)
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

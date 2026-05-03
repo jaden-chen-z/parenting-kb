@@ -1,0 +1,47 @@
+card_id: C-S3-008
+stages: [S3]
+tags: [safety]
+
+front:
+  title: 鱼类汞:大鱼避,小鱼可
+  hook: shark / swordfish / albacore 避
+
+back:
+  why_matters: |
+    汞(methylmercury)= 神经毒素,通过食物链顶端累积(大鱼吃小鱼 → 浓度叠加)。
+    孕期 + 0-3 岁婴儿期暴露汞会损害神经系统发育(认知 / 视觉 / 运动)。
+    AAP 大型捕食鱼避免清单:shark / orange roughy / swordfish / albacore (white) tuna。
+    低汞可吃:light tuna / salmon / cod / whitefish / pollock — 都是优质蛋白 + DHA。
+    辅食加蛋白时,1-2 次/周低汞鱼最佳。
+  what_to_do:
+    - 避:shark / 红澳鳗(orange roughy)/ swordfish / 白吞拿(albacore tuna)
+    - 可:light tuna / 三文鱼 / 鳕鱼 / 比目鱼 / 黑线鳕(pollock)
+    - 加辅食后 1-2 次/周低汞鱼(每次 1 oz / 30 g)
+    - 国内常见鱼对照:三文鱼 ✓ / 鳕鱼 ✓ / 鲈鱼 △ / 大型金枪鱼 ✗
+    - 自家钓鱼问当地是否有汞警告
+  failure_mode: |
+    给宝宝吃 swordfish / 大金枪鱼罐头 → 汞神经损害(部分不可逆)。
+    完全不吃鱼怕汞 → 缺 DHA + 优质蛋白(神经/视觉发育受影响)。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-AAP
+
+citation:
+  page_title: "Heavy Metals in Baby Food: Reducing Risk of Exposure"
+  publisher: American Academy of Pediatrics
+  portal: HealthyChildren.org
+  page_url_primary: https://www.healthychildren.org/English/ages-stages/baby/feeding-nutrition/Pages/Metals-in-Baby-Food.aspx
+  accessed: 2026-05-01
+  language: en
+  location: "'Make healthy fish choices' section"
+  source_id: SRC-006
+
+unit_ids: []
+related_cards:
+  - C-S3-007     # 米粉别只 rice(同源 — 重金属系列)
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

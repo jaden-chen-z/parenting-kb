@@ -1,0 +1,46 @@
+card_id: C-S1-058
+stages: [S1]
+tags: [safety]
+
+front:
+  title: 水龙头温 ≤ 49°C,不端热饮抱
+  hook: 婴儿皮肤薄,几秒就 3 度烫伤
+
+back:
+  why_matters: |
+    烫伤(burns / scalds)是婴儿期家庭事故第二大类(仅次于跌落)。
+    婴儿皮肤厚度只有成人 1/3,**60°C 水 3 秒就 3 度烫伤**(成人需 30 秒)。
+    AAP 硬规则:水龙头最高温调到 ≤ 49°C / 120°F(家用热水器可调)。
+    端热饮 / 热食 + 抱宝宝 = 双手都顾不过来,常见烫伤场景。
+    烟雾报警每月测一次,长寿命电池或每年换。
+  what_to_do:
+    - 家用热水器调到 ≤ 49°C / 120°F(浴室水龙头试温)
+    - "**绝不端热饮料 / 热食 + 抱宝宝**(咖啡 / 茶 / 汤)"
+    - 6-12 月不让宝宝在炉灶 / 暖气 / 热设备旁爬走
+    - 烟雾报警每层楼装,炉间 + 卧室必装,每月测一次
+    - 烫伤急救:**冷水冲几分钟** → 干净布盖 → 找医生
+  failure_mode: |
+    端咖啡抱宝宝晃倒 → 婴儿大面积烫伤(常见 ER 案例)。
+    烟雾报警 1 年没测 → 真起火不响,延误逃生。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-AAP
+
+citation:
+  page_title: "Safety for Your Child: Birth to 6 Months + 6 to 12 Months"
+  publisher: American Academy of Pediatrics
+  portal: HealthyChildren.org
+  page_url_primary: https://www.healthychildren.org/English/ages-stages/baby/Pages/Safety-for-Your-Child-Birth-to-6-Months.aspx
+  accessed: 2026-05-02
+  language: en
+  location: "Birth-to-6 'Burns' + 6-to-12 'Burns'"
+  source_id: SRC-008
+
+unit_ids: []
+related_cards: []
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

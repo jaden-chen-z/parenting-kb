@@ -1,0 +1,50 @@
+card_id: C-S1-051
+stages: [S1]
+tags: [safety]
+
+front:
+  title: 奶嘴:3-4 周后用,4 岁前戒
+  hook: 选购 + 戒断都有讲究
+
+back:
+  why_matters: |
+    奶嘴(pacifier)+ 拇指吸吮 = 满足婴儿"非营养性吸吮"先天需求(不出奶但能吸,有安抚效应)。
+    AAP:奶嘴助安抚 + 降 SIDS,但**母乳建立后 3-4 周**再用(避免混淆乳头)— 与 Karp 022 一致。
+    选购硬指标:整体一体 + 盾片 ≥ 1.5 英寸 + 6 月前每日消毒。
+    持续吸 2-4 岁后影响嘴型和牙齿对齐;永久牙长出前停 → 牙齿能自然矫正。
+  what_to_do:
+    - 母乳:稳了再用(约 3-4 周);配方奶宝宝随时
+    - 选购:整体一体 + 盾片 ≥ 1.5 寸 + 有气孔
+    - 6 月前每日消毒(开水煮 / 洗碗机)
+    - 不挂脖子 / 不系衣服 / 不替代正餐(窒息 + 干扰喂养)
+    - 永久牙长前(2-4 岁)戒断 — 鼓励为主,别惩罚
+  failure_mode: |
+    出生第一周给奶嘴 → 母乳混淆乳头,母乳难建立。
+    4 岁后还吸 → 牙齿前突错位,可能要正畸。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-SIDS
+  - G-ABBR-AAP
+  - G-PERSON-Karp
+
+citation:
+  page_title: "Baby Pacifiers & Thumb Sucking: What Parents Need to Know"
+  publisher: American Academy of Pediatrics
+  portal: HealthyChildren.org
+  page_url_primary: https://www.healthychildren.org/English/ages-stages/baby/crying-colic/Pages/Pacifiers-and-Thumb-Sucking.aspx
+  accessed: 2026-05-01
+  language: en
+  location: "全文 — Pacifier Introduction Guidelines + Selection Criteria + Developmental Concerns + Weaning Strategies"
+  source_id: SRC-006
+
+unit_ids: []
+related_cards:
+  - C-S1-021     # Karp 非营养性吸吮先天需求
+  - C-S1-022     # Karp 奶嘴 3-4 周再用(立场一致,AAP 加选购+戒断)
+  - C-S1-039     # AAP R1 SIDS 视角的奶嘴卡
+
+language: zh
+status: draft
+created: 2026-05-01
+updated: 2026-05-02

@@ -1,0 +1,49 @@
+card_id: C-S1-042
+stages: [S1]
+tags: []
+
+front:
+  title: 新生儿每天哭 1-4 小时是正常
+  hook: 哭不反映你当父母水平
+
+back:
+  why_matters: |
+    新生儿哭闹是适应宫外世界的过程,分类有:饥饿 / 困倦 / 不适 / 过刺激 / fussy "释放能量" 5 种。
+    AAP 数字基线:1-4 小时/天是正常(PURPLE 哭闹周期也描述此阶段 — 6-8 周达峰约 3h/天,3-4 月退)。
+    fussy 哭闹有"释放能量"作用 — 哭完反而更安详 + 睡得更深。
+    觉得"我家宝宝哭太多",90% 概率你的基线感是错的。
+  what_to_do:
+    - 头脑里有"1-4 小时/天 = 正常"基线,别凭感觉判断
+    - fussy 哭闹让他过(警惕红旗信号即可)
+    - 哭完观察:更平静、睡更深 = 正常释放
+    - 自己累了找人替手,不必硬撑
+    - 你焦虑会让自己更累,但不会让宝宝更哭(C-S1-012)
+  failure_mode: |
+    觉得"哭太多" → 自己内耗 + 怀疑奶量/穿太少。
+    每次哭都全力安抚 → 父母先崩溃。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-AAP
+  - G-ABBR-PURPLE
+
+citation:
+  page_title: "Responding To Your Baby's Cries"
+  publisher: American Academy of Pediatrics
+  portal: HealthyChildren.org
+  page_url_primary: https://www.healthychildren.org/English/ages-stages/baby/crying-colic/Pages/Responding-to-Your-Babys-Cries.aspx
+  accessed: 2026-05-01
+  language: en
+  location: "Article opening: 'Newborns routinely cry 1 to 4 hours a day' + 'Your baby's fussy times & crying patterns' section"
+  source_id: SRC-005
+
+unit_ids: []
+related_cards:
+  - C-S1-003     # Karp 哭闹是求生工具
+  - C-S1-006     # Karp 听不懂哭声不代表不细心
+  - C-S1-012     # Karp 妈妈焦虑不会让宝宝更哭
+
+language: zh
+status: draft
+created: 2026-05-01
+updated: 2026-05-02

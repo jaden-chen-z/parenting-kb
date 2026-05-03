@@ -1,0 +1,51 @@
+card_id: C-S2-005
+stages: [S2]
+tags: []
+
+front:
+  title: '"睡整觉"真定义:频繁醒能自回睡'
+  hook: 不是连睡 10h 不醒,反向焦虑
+
+back:
+  why_matters: |
+    婴儿睡眠周期 45-60 分钟(成人 90 min),且 50% 是 REM(active sleep,易醒),所以频繁醒是生理常态。
+    中文家长焦虑"几月睡整觉"普遍,但 AAP 反驳常见误解:
+    "A good sleeper is a child who wakes up frequently but can get himself back to sleep.
+    It is not a child who sleeps without waking for 10 hours at night."
+    频繁醒在生理上是健康(防呼吸问题)。
+    健康 + 增重稳的宝宝不必夜里叫醒喂。
+  what_to_do:
+    - 不要把"连睡 10h"当目标 — 反而不健康
+    - 真目标:醒了能自己回睡(不需大人介入)
+    - 健康 + 增重稳的宝宝不必叫醒夜喂
+    - 喂 / 安抚 / 换后立即放回 crib(不抱睡)
+    - 夜醒红旗:增重不稳 / <4 wet / <3 BM / 喂养不足 → 找医生
+  failure_mode: |
+    把"睡 10h"当目标 → 强行训练 + 焦虑孩子睡浅。
+    健康 baby 主动叫醒夜喂 → 打乱节律 + 自己累。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-AAP
+  - G-ABBR-REM
+  - G-ABBR-NREM
+  - G-TERM-cry-it-out
+
+citation:
+  page_title: "Sleeping Through the Night"
+  publisher: American Academy of Pediatrics
+  portal: HealthyChildren.org
+  page_url_primary: https://www.healthychildren.org/English/ages-stages/baby/sleep/Pages/Sleeping-Through-the-Night.aspx
+  accessed: 2026-05-01
+  language: en
+  location: "全文 — 'What It Really Means to be a Good Sleeper' + 'When to Check with Your Pediatrician'"
+  source_id: SRC-004
+
+unit_ids: []
+related_cards:
+  - C-S1-050     # 母乳起步 8-12 次/天
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

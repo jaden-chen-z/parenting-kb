@@ -1,0 +1,51 @@
+card_id: C-S1-035
+stages: [S1]
+tags: [safety, red_flag]
+
+front:
+  title: 婴儿床第 1 年只能一张床单
+  hook: 枕头被子玩具全清出
+
+back:
+  why_matters: |
+    bare crib(光秃秃的婴儿床)= 床里只有一张紧贴床垫的 fitted sheet。
+    婴儿床窒息事故大量发生在第 1 年;2021 CPSC Final Rule 强制规范所有婴儿睡眠产品。
+    AAP 明文:第 1 年宝宝床上只一张床单,其余全是窒息源。
+    枕头 / 被子 / 护栏垫 / 毛绒玩具 / weighted 系列都禁止。
+    12 月后逐步可加,但具体安全月龄无定论。
+  what_to_do:
+    - 床上只留一张紧贴床垫的 fitted sheet
+    - 不放枕头、被子、quilt、毛绒玩具、护栏垫
+    - 不用 weighted 包裹 / 睡袋 / 毯子(AAP 明确禁止)
+    - 床垫与床框无缝(否则卡手脚或头)
+    - 怕冷用 wearable blanket / 多穿 1 层,不盖被
+  failure_mode: |
+    放护栏垫或毛绒安抚物 → 宝宝翻过去就闷住口鼻。
+    给 weighted 睡袋以为助眠 → AAP 明令禁止,有窒息风险。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-SIDS
+  - G-ABBR-AAP
+  - G-ABBR-CPSC
+  - G-TERM-swaddle
+
+citation:
+  page_title: "Safe Sleep: 9 Ways + AAP Policy Explained + Suitable Sleeping Sites"
+  publisher: American Academy of Pediatrics
+  portal: HealthyChildren.org
+  policy_basis: "AAP Task Force on SIDS — 2022 Policy Statement"
+  page_url_primary: https://www.healthychildren.org/English/ages-stages/baby/sleep/Pages/suitable-sleeping-sites.aspx
+  accessed: 2026-05-01
+  language: en
+  location: "9 Ways #3 'Keep soft objects out' + Policy 'Keep soft objects & loose bedding out' + Sites 'Bare is Best When it Comes to Cribs'"
+  source_id: SRC-004
+
+unit_ids: []
+related_cards:
+  - C-S1-027     # Karp 包裹+白噪音(SIDS 预防补充)
+
+language: zh
+status: draft
+created: 2026-05-01
+updated: 2026-05-02

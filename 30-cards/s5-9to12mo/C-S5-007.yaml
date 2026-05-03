@@ -1,0 +1,48 @@
+card_id: C-S5-007
+stages: [S5]
+tags: [safety]
+
+front:
+  title: 12 月疫苗:MMR + 水痘 + HepA
+  hook: 第二轮集中接种,12 月儿保同打
+
+back:
+  why_matters: |
+    12-18 月是 0-12 月疫苗时间表的**第二大集中节点**(出生 / 2 月 / 6 月 / 12 月 4 集中点)。
+    新增 3 个第 1 剂:**MMR / Varicella(水痘) / HepA(甲肝)**。
+    MMR 是经典三联(麻疹 / 腮腺炎 / 风疹)— 麻疹 1990s 美国几乎消除,但近年因不打疫苗反弹,2024-2025 年多州爆发。
+    与 12 月儿保(C-S5-005)同时做最高效:疫苗 + 铁筛查 + 牙医评估 + 走路评估 + 语言评估。
+  what_to_do:
+    - 12 月儿保同时安排 3 个新疫苗:MMR / Varicella / HepA 第 1 剂
+    - DTaP / Hib / IPV / PCV 第 4 剂也在 12-18 月间(儿科会安排)
+    - 12 月儿保配合 4 必查(C-S5-005):铁血常规 + 牙医 + 走路 + 语言
+    - 流感疫苗每年 10 月起继续打(已 6 月起年年打)
+  failure_mode: |
+    觉得"水痘小病不用打" → 1 岁前 hospitalization 风险高 + 并发肺炎 / 脑炎。
+    信"MMR 致自闭症"网传 → 已被 1.5+ 亿样本独立研究反复否定(假数据来自 1998 撤回的 12 例研究)。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-AAP
+  - G-ABBR-MMR
+  - G-ABBR-DTaP
+
+citation:
+  page_title: "AAP Guide: Vaccines Your Child Needs by Age 6"
+  publisher: American Academy of Pediatrics
+  portal: HealthyChildren.org
+  page_url_primary: https://www.healthychildren.org/English/safety-prevention/immunizations/Pages/Your-Babys-First-Vaccines.aspx
+  accessed: 2026-05-02
+  language: en
+  location: "'12-18 个月' 段 (MMR / 水痘 / 甲肝 第 1 剂)"
+  source_id: SRC-008
+
+unit_ids: []
+related_cards:
+  - C-S1-064     # 0-12 月疫苗时间表
+  - C-S5-005     # 12 月儿保 4 必查
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

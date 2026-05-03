@@ -1,0 +1,51 @@
+card_id: C-S4-002
+stages: [S4]
+tags: [safety, red_flag]
+
+front:
+  title: BLW 切法:长条,不切圆片
+  hook: 圆片完美卡气管 — 死亡常见原因
+
+back:
+  why_matters: |
+    婴儿气管直径 ~9 mm,任何直径接近的圆形 / 球形物体可能完美卡口。
+    choking 死亡食物前 3:整粒葡萄 / 整截热狗 / 大块奶酪(都是圆形 / 圆柱)。
+    AAP:choking 是婴儿意外死亡主因之一。
+    BLW 给 finger food 必须切长条(像小胡萝卜形),
+    绝不能切圆片("round, coin-shaped slices") — 圆片大小正好卡气管。
+    葡萄、小番茄、热狗都要切成 4 长条或十字 4 等份。
+  what_to_do:
+    - 切法:长条状(finger-shaped),长 ≈ 4-5 cm
+    - 不切圆片(不是大小问题,是形状问题)
+    - 葡萄 / 小番茄:十字切 4 等份
+    - 热狗:沿长方向切 4 长条 + 横切短段
+    - 烤胡萝卜煮软到能用牙龈压碎再给
+    - 大人在场,坐高椅 + 系安全带
+  failure_mode: |
+    切圆片当 finger food → 完美卡气管的形状,死亡风险极高。
+    给整粒葡萄 → 已知数次儿童死亡案例。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-AAP
+  - G-ABBR-BLW
+
+citation:
+  page_title: "Baby-Led Weaning: Is It Safe?"
+  publisher: American Academy of Pediatrics
+  portal: HealthyChildren.org
+  page_url_primary: https://www.healthychildren.org/English/ages-stages/baby/feeding-nutrition/Pages/baby-led-weaning-is-it-safe.aspx
+  accessed: 2026-05-01
+  language: en
+  location: "'Safety Guidelines' section: 'finger-shaped pieces (similar to a small baby carrot)' + 'Avoid round, coin-shaped slices'"
+  source_id: SRC-006
+
+unit_ids: []
+related_cards:
+  - C-S3-004     # 1 岁内 11 类 choking 食物清单
+  - C-S4-001     # BLW vs 泥糊
+
+language: zh
+status: draft
+created: 2026-05-01
+updated: 2026-05-02

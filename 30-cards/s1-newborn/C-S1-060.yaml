@@ -1,0 +1,48 @@
+card_id: C-S1-060
+stages: [S1]
+tags: [safety, red_flag]
+
+front:
+  title: < 3 月发烧 38°C 立刻找医生
+  hook: 没其他症状也要找,救命
+
+back:
+  why_matters: |
+    发烧(fever)= 直肠 ≥ 38°C / 100.4°F(婴幼儿正常体温稍高于年长儿童)。
+    < 3 月婴儿免疫系统不成熟,任何发烧可能是脓毒症 / 脑膜炎 / 严重感染信号。
+    "<2 月发烧 ≥ 38°C 必住院评估"是儿科急诊铁律,不能在家观察。
+    AAP 月龄阈值:< 3 月 38°C / 3-6 月 38.3°C / 6 月+ 39.4°C 都通知医生。
+    任何月龄 ≥ 40°C 反复 → 找医生。
+  what_to_do:
+    - "**< 3 月任何 ≥ 38°C → 立刻找医生**(无其他症状也找)"
+    - 3-6 月:≥ 38.3°C / 101°F → 通知医生
+    - 6 月+:≥ 39.4°C / 103°F → 通知医生
+    - 任何月龄:≥ 40°C / 104°F 反复 → 找医生
+    - 测温:< 3 月用直肠 + < 6 月不用耳温计(C-S1-062)
+  failure_mode: |
+    < 3 月低烧 38.5°C 在家观察 → 错过脓毒症 / 脑膜炎黄金时间。
+    给阿司匹林退烧 → Reye 综合征致死(婴儿绝不用阿司匹林)。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-AAP
+
+citation:
+  page_title: "Fever and Your Baby + Fever: When to Call the Pediatrician"
+  publisher: American Academy of Pediatrics
+  portal: HealthyChildren.org
+  page_url_primary: https://www.healthychildren.org/English/health-issues/conditions/fever/Pages/Fever-and-Your-Baby.aspx
+  accessed: 2026-05-02
+  language: en
+  location: "Fever-and-Baby '不同月龄应对指南' + When-to-Call '0-3 个月发烧红旗'"
+  source_id: SRC-008
+
+unit_ids: []
+related_cards:
+  - C-S1-061     # 婴儿急性红旗清单
+  - C-S1-062     # 直肠测温法
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

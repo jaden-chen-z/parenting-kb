@@ -1,0 +1,47 @@
+card_id: C-S1-044
+stages: [S1]
+tags: [safety, red_flag]
+
+front:
+  title: 哭闹排查头发缠手指/脚趾
+  hook: 极易忽视的救命冷知识
+
+back:
+  why_matters: |
+    hair tourniquet syndrome(头发止血带综合征)= 头发或细线缠绕婴儿手指 / 脚趾,可能切断血流甚至坏死。
+    4-19 周龄高发(妈妈产后掉发期 + 宝宝穿带线衣物)。
+    AAP "Responding to Cries" 把它列入"shrieking 哭声"优先排查清单 — 但中文文化几乎没人教。
+    某种"尖叫式 / 惊恐式"哭声 + 安抚不下 → 必查异物缠绕。
+  what_to_do:
+    - 尖叫 / 惊恐 / 持续不停 → 排查异物缠绕
+    - 逐根检查每根手指、脚趾(脚趾最易漏)
+    - 排查衣服缝线 / 标签 / 鞋袜松紧带
+    - 排查眼睛、鼻孔、耳朵进异物
+    - 若手指发紫 / 肿胀 → 立刻送急诊
+  failure_mode: |
+    只查饿/困/尿布 → 错过急症。
+    手指看一眼觉得没事 → 头发非常细,要逐个掰开仔细看。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-AAP
+  - G-TERM-hair-tourniquet-syndrome
+
+citation:
+  page_title: "Responding To Your Baby's Cries"
+  publisher: American Academy of Pediatrics
+  portal: HealthyChildren.org
+  page_url_primary: https://www.healthychildren.org/English/ages-stages/baby/crying-colic/Pages/Responding-to-Your-Babys-Cries.aspx
+  accessed: 2026-05-01
+  language: en
+  location: "'Strategies to try when your baby cries' section: 'a strand of hair is caught around a finger or toe'"
+  source_id: SRC-005
+
+unit_ids: []
+related_cards:
+  - C-S1-031     # Karp 哭闹的 10 个红旗信号
+
+language: zh
+status: draft
+created: 2026-05-01
+updated: 2026-05-02

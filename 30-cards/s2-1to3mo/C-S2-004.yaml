@@ -1,0 +1,53 @@
+card_id: C-S2-004
+stages: [S2]
+tags: []
+
+front:
+  title: Colic 是神经敏感,不是胀气
+  hook: 1/5 宝宝有,3-4 月就退
+
+back:
+  why_matters: |
+    colic(肠绞痛)= Wessel 1954 定义"3-3 规则":每天哭 ≥ 3h × 每周 ≥ 3 天 × ≥ 3 周。
+    PURPLE 哭闹周期描述同阶段 — 6 周达峰约 3h/天,3-4 月退(可能到 6 月)。
+    AAP:影响约 1/5 婴儿,本质是"神经系统过度敏感 + 还不会自我安抚",**不是消化或胀气**。
+    中文文化几乎没人讲这个 — 老人常归因为"奶不消化""胀气",误导喂消胀剂(C-S1-047)。
+    等神经系统成熟自然就好,不必"治"。
+  what_to_do:
+    - 时间表:2-4 周起 → 6 周峰(3 小时/天)→ 3-4 月退
+    - 别期望"治好" — 等神经系统成熟,自然就好
+    - 用安抚 menu(C-S1-045)缓和,不强求消失
+    - 排除饮食敏感(C-S1-048)+ 异常红旗(C-S1-031)
+    - 自己照顾好心理(C-S1-033 产后抑郁筛查)
+  failure_mode: |
+    当成胀气狂拍嗝 / 给西甲硅油 → 错怪原因,无效。
+    觉得"是我的错" → 你不是 colic 原因,神经系统成熟自然就好。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-AAP
+  - G-ABBR-PURPLE
+  - G-PERSON-Wessel
+  - G-TERM-colic
+  - G-TERM-postpartum-depression
+
+citation:
+  page_title: "Colic Relief Tips for Parents + Responding To Your Baby's Cries"
+  publisher: American Academy of Pediatrics
+  portal: HealthyChildren.org
+  page_url_primary: https://www.healthychildren.org/English/ages-stages/baby/crying-colic/Pages/Colic.aspx
+  accessed: 2026-05-01
+  language: en
+  location: "Colic 'Definition and Prevalence' + 'Duration and Timeline' + 'Causes' + Responding 'Is it colic?' section"
+  source_id: SRC-005
+
+unit_ids: []
+related_cards:
+  - C-S2-001     # Karp 哭闹峰:6 周达峰,3 月回落(立场一致,AAP 加 1/5 比例 + colic 概念)
+  - C-S2-002     # Karp 撑过哭闹峰非父母失败
+  - C-S1-011     # Karp 胀气不是哭闹元凶
+
+language: zh
+status: draft
+created: 2026-05-01
+updated: 2026-05-02

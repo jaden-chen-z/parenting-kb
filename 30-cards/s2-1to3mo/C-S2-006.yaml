@@ -1,0 +1,51 @@
+card_id: C-S2-006
+stages: [S2]
+tags: []
+
+front:
+  title: 婴儿呼吸暂停 5-10 秒是正常的
+  hook: 别误当 SIDS 焦虑,要分清 apnea
+
+back:
+  why_matters: |
+    婴儿期周期性呼吸(periodic breathing of infancy)= 新生儿 REM 睡眠中正常的呼吸模式,
+    5-10 秒 pause + 50-60 次/分钟 burst,然后规律呼吸 → 循环。
+    对比 apnea(病理性呼吸暂停)= 暂停 > 20 秒 / 皮肤变青紫 / 心率下降。
+    中文社交圈"宝宝呼吸不规律好可怕"焦虑普遍,但 AAP 解释:6 月内自然消失。
+    皮肤颜色不变就不是 apnea。
+    新生儿 50% 是 REM(active sleep),会抖动 / 眨眼也都是正常 REM 表现。
+  what_to_do:
+    - 看到呼吸暂停 5-10s 不必恐慌(<10s 都正常)
+    - 看皮肤颜色:颜色不变 = periodic breathing(正常)
+    - 颜色变青紫 / 暂停 >20s = apnea(立刻送医)
+    - 抽动 / 眨眼 / 不规则呼吸都是 REM 正常表现
+    - 6 月内逐渐消失,不必干预
+  failure_mode: |
+    误当 SIDS 整夜守 → 自己崩溃 + 影响母乳分泌。
+    买家用呼吸监测器(C-S1-036)→ 给虚假安心,反而疏忽其他防护。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-AAP
+  - G-ABBR-REM
+  - G-ABBR-SIDS
+  - G-TERM-periodic-breathing-of-infancy
+
+citation:
+  page_title: "Stages of Newborn Sleep"
+  publisher: American Academy of Pediatrics
+  portal: HealthyChildren.org
+  page_url_primary: https://www.healthychildren.org/English/ages-stages/baby/sleep/Pages/phases-of-sleep.aspx
+  accessed: 2026-05-01
+  language: en
+  location: "全文 — Stage 2 REM 段 'normal periodic breathing of infancy'"
+  source_id: SRC-004
+
+unit_ids: []
+related_cards:
+  - C-S1-036     # 平面 + 认证床 + 这些产品别买(含家用呼吸监测器警告)
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02
