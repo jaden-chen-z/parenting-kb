@@ -1,0 +1,43 @@
+card_id: C-S6-018
+stages: [S6]
+tags: []
+
+front:
+  title: 22-24 月生活自理脱外衣
+  hook: 解扣 / 脱衣 / 脱袜
+
+back:
+  why_matters: |
+    22-24 月在主动配合穿衣的基础上,可**试着教宝宝脱简单衣服** — 解开扣子 + 自己脱外衣 + 自己脱袜子。
+    鲍秀兰要点:**不要嫌宝宝笨、做不好,不要一切由家长代劳** — 创造机会让宝宝自己尝试,做不好时再帮助。
+    同时教**简单是非观念**:打人不好 / 脏东西不能动 / 等。这是早期是非分辨能力培养。
+  what_to_do:
+    - 教解扣子 → 自己脱外衣
+    - 教解开鞋带 → 自己脱鞋袜
+    - 衣服反穿别讥笑,鼓励再试
+    - 同时教是非:"这样好""这样不好"
+    - 用宝宝能理解的方式分辨,不简单粗暴
+  failure_mode: |
+    觉得"穿脱太慢直接代劳"→ 自理能力 3 岁还不会。
+    打骂"怎么这么笨"→ 反伤主动 + 自尊。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Bao
+
+citation:
+  book_title_zh: "鲍秀兰谈婴幼儿潜能开发和早期教育"
+  authors: ["鲍秀兰", "孙淑英"]
+  publisher_zh: "中国妇女出版社"
+  year_zh: 2016
+  isbn: "978-7-5127-1196-9"
+  location: "PART 2 · 22-24 月龄 · 生活与交往一一生活上自理段(1.生活自理 + 2.是与非)"
+  source_id: SRC-009
+
+unit_ids: []
+related_cards: []
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

@@ -1,0 +1,45 @@
+card_id: C-S2-012
+stages: [S2]
+tags: []
+
+front:
+  title: 母婴交谈链:停顿等回应
+  hook: 我说→你回→我再说
+
+back:
+  why_matters: |
+    母婴交谈链(turn-taking)= 妈妈说-宝宝回应-妈妈再说的节奏,即使宝宝不会说话也算。
+    Romeo 2018 MIT:0-3 岁 turn-taking 次数比单向说话量更预测后期智能。
+    鲍秀兰:发现婴儿发似应答声音时,妈妈应停顿片刻让宝宝参加交谈链。
+  what_to_do:
+    - 说完一句等 1-2 秒,看宝宝反应再继续
+    - 任何信号都算回应:咕噜 / 表情 / 手脚动
+    - 眼神接触加强对话感
+    - 不打断宝宝的"发言"(无意义发音也算)
+    - 全家轮流参与:爸爸 / 爷爷奶奶都可
+  failure_mode: |
+    自顾自说 / 看手机 → 单向输出无 turn-taking。
+    觉得"宝宝小不会回应"→ 错过 0-12 月关键期。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Bao
+  - G-TERM-turn-taking
+  - G-TERM-parentese
+
+citation:
+  book_title_zh: "鲍秀兰谈婴幼儿潜能开发和早期教育"
+  authors: ["鲍秀兰", "孙淑英"]
+  publisher_zh: "中国妇女出版社"
+  year_zh: 2016
+  isbn: "978-7-5127-1196-9"
+  location: "PART 1 · 2 月龄 · 语言段('妈妈和婴儿说话时,如果发现婴儿发出似应答的声音,这时妈妈应停顿片刻,以增加婴儿参加到母亲-婴儿的交谈链中的机会')"
+  source_id: SRC-009
+
+unit_ids: []
+related_cards: []
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

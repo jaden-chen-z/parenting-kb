@@ -1,0 +1,45 @@
+card_id: C-S4-012
+stages: [S4]
+tags: [safety]
+
+front:
+  title: 7-8 月捏取训练 + 防硬物误食
+  hook: 大把抓→拇指对捏
+
+back:
+  why_matters: |
+    捏取发展规律:7-8 月先**大把抓**,再过渡到 9-10 月**拇指与食指对捏**(pincer grasp)。
+    捏取小东西可锻炼指尖肌肉协调,是神经系统反应必要条件,也是写字 / 拿筷子的基础。
+    安全要点:选物品要"卫生 + 安全",**绝不能用纽扣 / 硬豆 / 药片** — 误食立即危险。
+  what_to_do:
+    - 选小饼干 / 小米花(易溶化)
+    - 物品从大到小逐步过渡
+    - 每天数次练习抓取
+    - 持续到会灵巧捏取小东西
+    - 绝不给纽扣 / 硬豆 / 药片 / 钮扣电池
+  failure_mode: |
+    给硬豆 / 纽扣练捏 → 误食 / 窒息致命。
+    觉得"宝宝抓什么都行"→ 缺训练,9-10 月对捏迟。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Bao
+  - G-TERM-pincer-grasp
+
+citation:
+  book_title_zh: "鲍秀兰谈婴幼儿潜能开发和早期教育"
+  authors: ["鲍秀兰", "孙淑英"]
+  publisher_zh: "中国妇女出版社"
+  year_zh: 2016
+  isbn: "978-7-5127-1196-9"
+  location: "PART 1 · 7-8 月龄 · 认知一一寻找捏取游戏段(2.捏取)+ 警告:不能用纽扣硬豆药片"
+  source_id: SRC-009
+
+unit_ids: []
+related_cards:
+  - C-S3-011     # AAP 抓握:claw → 9 月 pincer 对捏
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

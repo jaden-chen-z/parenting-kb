@@ -1,0 +1,44 @@
+card_id: C-S4-009
+stages: [S4]
+tags: []
+
+front:
+  title: 7-8 月认物找物语言练习
+  hook: 词→物→动作 三联
+
+back:
+  why_matters: |
+    7-8 月是语言理解力快速发展期,需要建立**词汇 → 物品 → 动作**的三方联系,为日后说话做准备。
+    鲍秀兰方法:把玩具拿给宝宝时**告知名称**,然后让他拿给大人;游戏可扩展为"取娃娃"、"取小车"、"取食物"等。
+    日常每个动作都加语言:"妈妈要晾衣服了""狗狗来了"。
+  what_to_do:
+    - 拿玩具给宝宝同时说名称("这是娃娃")
+    - 然后让宝宝拿给大人("给妈妈娃娃")
+    - 扩展到"取小车 / 取食物"等
+    - 日常动作加语言:"喂饭""穿衣""散步"
+    - 反复说,看到什么说什么
+  failure_mode: |
+    觉得"宝宝小听不懂别费劲说"→ 错过 7-12 月理解力建设关键。
+    电视代替父母说话 → 语言互动质量低,turn-taking 缺失。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Bao
+  - G-TERM-turn-taking
+
+citation:
+  book_title_zh: "鲍秀兰谈婴幼儿潜能开发和早期教育"
+  authors: ["鲍秀兰", "孙淑英"]
+  publisher_zh: "中国妇女出版社"
+  year_zh: 2016
+  isbn: "978-7-5127-1196-9"
+  location: "PART 1 · 7-8 月龄 · 语言段(a.认物和找物,理解语言)"
+  source_id: SRC-009
+
+unit_ids: []
+related_cards: []
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

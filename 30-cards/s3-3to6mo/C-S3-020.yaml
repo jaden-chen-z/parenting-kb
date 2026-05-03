@@ -1,0 +1,45 @@
+card_id: C-S3-020
+stages: [S3]
+tags: [philosophy]
+
+front:
+  title: 5 月陪宝宝玩 = 早教课程
+  hook: 父母逗玩就是教育
+
+back:
+  why_matters: |
+    5 月起宝宝主要"工作"是玩 — 鲍秀兰核心立场:**"玩是宝宝的正经事"**,父母陪玩 = 学童上学课程,等价重要。
+    与父母玩时,宝宝可做许多独自不能或不敢做的活动;父母的微笑和声音是宝宝最大吸引力。
+    陪玩 4 原则:愉快情绪优先 + 配合宝宝步调(别替代主动)+ 选合宝宝性格的玩 + 玩具刺激适度。
+  what_to_do:
+    - 把陪玩当"正经事",每天固定时间投入
+    - 宝宝伸手够玩具时**等他自己拿到**,别替代
+    - 宝宝费力够取时鼓励,别立刻塞到手里
+    - 选适合宝宝性格的玩(剧烈 vs 安静)
+    - 玩具不要过多过复杂(过度刺激)
+  failure_mode: |
+    觉得"陪玩是浪费时间,先吃睡再说"→ 错过 5-12 月认知发展关键陪伴。
+    替宝宝做(直接塞玩具到手)→ 忽视主动性,反伤独立。
+  evidence_level: C
+
+glossary_refs:
+  - G-PERSON-Bao
+  - G-TERM-critical-period
+
+citation:
+  book_title_zh: "鲍秀兰谈婴幼儿潜能开发和早期教育"
+  authors: ["鲍秀兰", "孙淑英"]
+  publisher_zh: "中国妇女出版社"
+  year_zh: 2016
+  isbn: "978-7-5127-1196-9"
+  location: "PART 1 · 5 月龄 · 认知一一玩是宝宝的正经事段(1.玩是宝宝的正经事 + 2.玩时注意问题)"
+  source_id: SRC-009
+
+unit_ids: []
+related_cards:
+  - C-S1-069     # 0-1 岁是学习关键期(同方向 philosophy)
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

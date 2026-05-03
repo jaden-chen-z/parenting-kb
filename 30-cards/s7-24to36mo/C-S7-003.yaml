@@ -1,0 +1,45 @@
+card_id: C-S7-003
+stages: [S7]
+tags: []
+
+front:
+  title: 25-30 月模仿画简单图形
+  hook: 直线/横线/圆 + 形象化
+
+back:
+  why_matters: |
+    25-30 月手控笔能力大进步,可教**模仿画简单图形**:垂直线、水平线、圆。
+    鲍秀兰要点:**形状不一定规整,主要培养模仿意识和能力**。
+    将图形**形象化**:"我们来画些栏杆""画个大马路""画个大皮球" — 培养画画兴趣 + 形状概念。
+    早期画画 = 创造力 + 手部精细 + 视觉空间 + 想象力的多重训练。
+  what_to_do:
+    - 教模仿画垂直线("画栏杆")
+    - 教模仿画水平线("画马路")
+    - 教模仿画圆("画大皮球")
+    - 反复多次教 + 形象化命名
+    - 不要求规整,要求模仿意识
+  failure_mode: |
+    要求"必须画规整"→ 反伤兴趣。
+    觉得"乱画无用"不教 → 错过启蒙窗口。
+  evidence_level: C
+
+glossary_refs:
+  - G-PERSON-Bao
+
+citation:
+  book_title_zh: "鲍秀兰谈婴幼儿潜能开发和早期教育"
+  authors: ["鲍秀兰", "孙淑英"]
+  publisher_zh: "中国妇女出版社"
+  year_zh: 2016
+  isbn: "978-7-5127-1196-9"
+  location: "PART 3 · 25-30 月龄 · 认知一一识别简单形状段(1.模仿画画)"
+  source_id: SRC-009
+
+unit_ids: []
+related_cards:
+  - C-S6-004     # 13-15 月鼓励涂画(前置)
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

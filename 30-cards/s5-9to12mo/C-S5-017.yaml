@@ -1,0 +1,46 @@
+card_id: C-S5-017
+stages: [S5]
+tags: []
+
+front:
+  title: 12 月走路训练 5 法
+  hook: 学步车禁,扶物迈步好
+
+back:
+  why_matters: |
+    12 月独立行走是发育重要里程碑,行走能力扩大对环境探索范围 + 建立空间认知。
+    鲍秀兰建议**多种练习法结合**:扶物站 / 拉双手走 / 推车走 / 蹲下捡 / 小车诱导迈步。
+    **AAP 强烈反对学步车** — 鲍秀兰也不主张,优先扶物迈步。
+    首步前后,脚分宽 + 走不稳是正常,关键是练习机会。
+  what_to_do:
+    - 扶沙发 / 横排椅子站起,鼓励迈步
+    - 大人面对扶宝宝双手拉起 → "起立""蹲下"
+    - 用小车 / 滚球诱导迈步去够取
+    - 蹲下捡玩具锻炼平衡
+    - 不用学步车(AAP 强烈反对)
+  failure_mode: |
+    用学步车求"早走"→ 髋关节发育异常 + 翻倒受伤。
+    一直抱着不让走 → 学步延迟。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Bao
+
+citation:
+  book_title_zh: "鲍秀兰谈婴幼儿潜能开发和早期教育"
+  authors: ["鲍秀兰", "孙淑英"]
+  publisher_zh: "中国妇女出版社"
+  year_zh: 2016
+  isbn: "978-7-5127-1196-9"
+  location: "PART 1 · 11-12 月龄 · 运动一一练习走路段(扶站迈步 + 蹲下捡 + 拉起足下)"
+  source_id: SRC-009
+
+unit_ids: []
+related_cards:
+  - C-S4-005     # AAP 学步车 AAP 强烈反对,别买
+  - C-S5-002     # AAP 第一步 ~1 岁,脚分宽是正常
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

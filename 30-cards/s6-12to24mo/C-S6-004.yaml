@@ -1,0 +1,43 @@
+card_id: C-S6-004
+stages: [S6]
+tags: []
+
+front:
+  title: 13-15 月鼓励涂画别制止
+  hook: 培养创作欲望 > 画对
+
+back:
+  why_matters: |
+    13-15 月开始有主动性,**自发涂画**是早期创作欲望的萌芽,也是手部精细动作训练。
+    鲍秀兰要点:**不要生硬制止"乱画"**,应教宝宝**正确握笔姿势 + 笔尖向下 + 鼓励画道道**。
+    此时不要求画出什么具体形状,**主要培养动笔能力 + 创作欲望** — 这是日后绘画 / 写字 / 创造性思维的起点。
+  what_to_do:
+    - 教正确握笔姿势 + 笔尖向下
+    - 在白纸上自由乱画(道道 / 圈)
+    - 大人可示范 + 鼓励模仿("这是星星")
+    - 看到宝宝画 → 赋予意义("这是面条!")
+    - 不评判画得好不好
+  failure_mode: |
+    "别乱画弄脏家具"制止 → 错过创作启蒙。
+    强求"画苹果不能画道道"→ 反伤想象力。
+  evidence_level: C
+
+glossary_refs:
+  - G-PERSON-Bao
+
+citation:
+  book_title_zh: "鲍秀兰谈婴幼儿潜能开发和早期教育"
+  authors: ["鲍秀兰", "孙淑英"]
+  publisher_zh: "中国妇女出版社"
+  year_zh: 2016
+  isbn: "978-7-5127-1196-9"
+  location: "PART 2 · 13-15 月龄 · 认知一一自发涂画段(2.自发涂画)"
+  source_id: SRC-009
+
+unit_ids: []
+related_cards: []
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

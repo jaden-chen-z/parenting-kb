@@ -1,0 +1,44 @@
+card_id: C-S7-012
+stages: [S7]
+tags: []
+
+front:
+  title: 31-36 月长短概念 + 数数
+  hook: 实物比 + 1-10 数
+
+back:
+  why_matters: |
+    31-36 月数学早期启蒙关键期:**长短** + **数数 1-5 / 1-10**。
+    鲍秀兰要点:**用实物教对比概念**,如两根小棒、两支笔比长短;然后图形(长棒 / 短棒)。
+    数数 1-10:从 1-5 起,会了再到 10;不要求理解数量含义,**先建立数序记忆**。
+    背数 ≠ 理解数量 — 学龄前幼儿可背但不一定知"3 个苹果"= 3。
+  what_to_do:
+    - 用实物比长短(两根小棒)
+    - 渐过渡到图形 / 抽象
+    - 数数 1-5 起步,会了再 1-10
+    - 不强求理解数量含义
+    - 日常吃苹果时数数(1 个 / 2 个)
+  failure_mode: |
+    一上来教抽象数学 → 学不会。
+    强求"3 是什么意思"→ 早期不理解数量。
+  evidence_level: C
+
+glossary_refs:
+  - G-PERSON-Bao
+
+citation:
+  book_title_zh: "鲍秀兰谈婴幼儿潜能开发和早期教育"
+  authors: ["鲍秀兰", "孙淑英"]
+  publisher_zh: "中国妇女出版社"
+  year_zh: 2016
+  isbn: "978-7-5127-1196-9"
+  location: "PART 3 · 31-36 月龄 · 认知一一懂得基本方位、学数数段(1.掌握长短概念)"
+  source_id: SRC-009
+
+unit_ids: []
+related_cards: []
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

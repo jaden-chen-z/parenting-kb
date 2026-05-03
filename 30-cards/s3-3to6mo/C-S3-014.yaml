@@ -1,0 +1,43 @@
+card_id: C-S3-014
+stages: [S3]
+tags: []
+
+front:
+  title: 4 月拉坐训练:让宝宝自己用力
+  hook: 帮力逐渐减,锻炼上肢肌
+
+back:
+  why_matters: |
+    拉坐 = 宝宝仰卧位,家长抓住双手,引导宝宝自己用力配合坐起来。
+    4 月颈部、前臂、腰部肌力增强,主动改变姿势的欲望明显;拉坐是从仰卧到独坐的过渡训练,锻炼上肢和腰背肌力。
+    鲍秀兰要点:家长用力逐渐减少,让宝宝仅握家长手指能主动坐起 — 是肌力强化的关键。
+  what_to_do:
+    - 宝宝仰卧位,家长抓宝宝双小手
+    - 让宝宝自己用力,家长稍稍辅助拉到坐位
+    - 每日做几次,逐渐减少家长用力
+    - 训练宝宝仅握家长手指能主动坐起
+    - 别让宝宝头后仰被动拉(伤颈)
+  failure_mode: |
+    家长全程发力,宝宝被动 → 肌力没锻炼到。
+    强行拉头后仰 → 颈椎损伤。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Bao
+
+citation:
+  book_title_zh: "鲍秀兰谈婴幼儿潜能开发和早期教育"
+  authors: ["鲍秀兰", "孙淑英"]
+  publisher_zh: "中国妇女出版社"
+  year_zh: 2016
+  isbn: "978-7-5127-1196-9"
+  location: "PART 1 · 4 月龄 · 运动一一翻身和拉坐段(2.拉坐)"
+  source_id: SRC-009
+
+unit_ids: []
+related_cards: []
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

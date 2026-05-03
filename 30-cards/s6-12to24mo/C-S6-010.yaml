@@ -1,0 +1,43 @@
+card_id: C-S6-010
+stages: [S6]
+tags: []
+
+front:
+  title: 19-21 月戴帽脱袜自服务
+  hook: 服务愿望强,别挫主动
+
+back:
+  why_matters: |
+    19-21 月宝宝**自我服务的愿望非常强**:开始学戴帽 / 脱袜 / 解扣 / 主动配合穿衣。
+    鲍秀兰核心要点:**注意一定不要挫伤他的积极性,养成懒惰的坏毛病**。
+    自我服务能力发展不仅是日常自理,**还是自我效能感和独立性的早期培养** — 早期被打击 → 终身被动型人格基础。
+  what_to_do:
+    - 教戴帽:让宝宝照镜子看效果 + 调整
+    - 教脱袜:上床时教自己脱
+    - 鞋带解开后让自己脱鞋
+    - 解扣 / 解开拉链等小技能逐步教
+    - 做不好不打击,鼓励"再试试"
+  failure_mode: |
+    "你做不好我帮你"全包办 → 宝宝放弃自己做。
+    强求"必须穿对"才让他试 → 反伤主动性。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Bao
+
+citation:
+  book_title_zh: "鲍秀兰谈婴幼儿潜能开发和早期教育"
+  authors: ["鲍秀兰", "孙淑英"]
+  publisher_zh: "中国妇女出版社"
+  year_zh: 2016
+  isbn: "978-7-5127-1196-9"
+  location: "PART 2 · 19-21 月龄 · 生活与交往一一戴帽、脱袜段(自我服务的愿望是很强的,注意一定不要挫伤他的积极性)"
+  source_id: SRC-009
+
+unit_ids: []
+related_cards: []
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

@@ -1,0 +1,44 @@
+card_id: C-S3-018
+stages: [S3]
+tags: []
+
+front:
+  title: 4 月找朋友:户外接触小朋友
+  hook: 别强迫,看宝宝笑了再近
+
+back:
+  why_matters: |
+    4 月起宝宝认人能力发展,开始对陌生人有警觉反应,但也是早期社交启蒙的窗口。
+    鲍秀兰:在户外让宝宝看其他小朋友,先远观再渐进 — 培养社交意愿,但**完全不强迫**:宝宝笑了表示愿意,躲妈妈怀里表示害怕。
+    多接触不同人 → 减轻陌生焦虑,扩大社交圈。
+  what_to_do:
+    - 户外活动时让宝宝远处观察其他小朋友
+    - 观察宝宝反应 — 笑 = 愿意,躲 = 害怕
+    - 笑了可让他们握握手
+    - 躲了不强迫,只让旁观直到笑容出现
+    - 也接触周围成人(熟人优先,渐近生人)
+  failure_mode: |
+    强行让宝宝接触陌生小朋友 → 加重陌生焦虑。
+    "不让宝宝接触别人怕生病"→ 错过 4-9 月社交启蒙窗口。
+  evidence_level: C
+
+glossary_refs:
+  - G-PERSON-Bao
+
+citation:
+  book_title_zh: "鲍秀兰谈婴幼儿潜能开发和早期教育"
+  authors: ["鲍秀兰", "孙淑英"]
+  publisher_zh: "中国妇女出版社"
+  year_zh: 2016
+  isbn: "978-7-5127-1196-9"
+  location: "PART 1 · 4 月龄 · 生活与交往段(5.找朋友,发展交往能力)"
+  source_id: SRC-009
+
+unit_ids: []
+related_cards:
+  - C-S4-004     # AAP 陌生人焦虑 ~8 月健康发展(后续阶段)
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

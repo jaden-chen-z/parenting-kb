@@ -1,0 +1,48 @@
+card_id: C-S1-068
+stages: [S1]
+tags: [safety]
+
+front:
+  title: 照料新生儿 4 大禁忌
+  hook: 禁烟 / 微波奶 / 肘试温 / 玩具固定
+
+back:
+  why_matters: |
+    1 月龄新生儿生理脆弱,常见照料疏忽可能致命。
+    鲍秀兰列 4 件最容易出问题的事:二手烟提高 SIDS 风险 2-3 倍 / 微波加热配方奶受热不均易烫口腔 / 用手测水温感觉不准易烫伤皮肤 / 床头玩具松脱可能砸伤或缠脖窒息。
+    每件都常见,每件都能避免。
+  what_to_do:
+    - 宝宝周围 100% 禁烟(家人外回三手烟也算)
+    - 不用微波炉加热配方奶 — 隔水温热
+    - 用肘内侧测水温,不用手指(感觉精度不同)
+    - 床头玩具挂牢挂高,定期检查松动
+    - 配方奶冲好滴几滴在手腕内侧再喂
+  failure_mode: |
+    觉得"开窗就行"还在屋抽烟 → SIDS 风险升 2-3 倍。
+    微波奶不摇匀直接喂 → 口腔黏膜烫伤。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Bao
+  - G-ABBR-SIDS
+
+citation:
+  book_title_zh: "鲍秀兰谈婴幼儿潜能开发和早期教育"
+  authors: ["鲍秀兰", "孙淑英"]
+  publisher_zh: "中国妇女出版社"
+  year_zh: 2016
+  edition_zh: "第 1 版第 1 次印刷"
+  isbn: "978-7-5127-1196-9"
+  location: "PART 1 · 1 月龄 · 生活与交往段·照料宝宝的 4 个注意事项框"
+  source_id: SRC-009
+
+unit_ids: []
+related_cards:
+  - C-S1-040     # AAP 孕期产后都禁烟(同方向)
+  - C-S1-058     # AAP 水龙头温≤49°C(同方向)
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

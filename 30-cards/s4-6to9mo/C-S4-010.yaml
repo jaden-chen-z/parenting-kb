@@ -1,0 +1,43 @@
+card_id: C-S4-010
+stages: [S4]
+tags: []
+
+front:
+  title: 7-8 月触额碰头游戏
+  hook: 加名字 + 动作 = 反应
+
+back:
+  why_matters: |
+    "碰碰头"游戏 = 用宝宝额头轻触家长额头,边触边喊宝宝名字,练习宝宝对名字的反应 + 身体部位认知 + 亲子游戏快乐。
+    鲍秀兰具体描述:扶宝宝腋下,用自己额部轻触宝宝额部,亲切呼唤名字"亮亮,碰碰头"。重复几次后,你说"碰碰头",他会主动把头凑过来露笑容。
+    这是早期共同注意 + 命名响应的经典训练。
+  what_to_do:
+    - 扶宝宝腋下,面对面
+    - 用自己额头轻触宝宝额头
+    - 同时喊名字 + "碰碰头"
+    - 反复几次,看宝宝是否主动凑头
+    - 露出愉快笑容时表扬强化
+  failure_mode: |
+    动作太用力 → 撞痛宝宝反伤兴趣。
+    不喊名字只做动作 → 错过名字反应训练。
+  evidence_level: C
+
+glossary_refs:
+  - G-PERSON-Bao
+
+citation:
+  book_title_zh: "鲍秀兰谈婴幼儿潜能开发和早期教育"
+  authors: ["鲍秀兰", "孙淑英"]
+  publisher_zh: "中国妇女出版社"
+  year_zh: 2016
+  isbn: "978-7-5127-1196-9"
+  location: "PART 1 · 7-8 月龄 · 语言段(b.碰碰头游戏)"
+  source_id: SRC-009
+
+unit_ids: []
+related_cards: []
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

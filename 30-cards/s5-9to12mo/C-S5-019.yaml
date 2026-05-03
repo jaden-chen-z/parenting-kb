@@ -1,0 +1,43 @@
+card_id: C-S5-019
+stages: [S5]
+tags: []
+
+front:
+  title: 12 月起教与人分享
+  hook: "大的给爷爷,小的给自己"
+
+back:
+  why_matters: |
+    1 岁孩子有了语言理解 + 自我控制能力,是培养分享行为的关键起点。
+    鲍秀兰做法:吃苹果时让孩子分给家人,边做边说"大的给爷爷,小的给自己"。
+    每次吃东西尤其爱吃的都教分享 → 形成习惯。这是社会性发展起点 + 反独生子女自我中心训练。
+  what_to_do:
+    - 吃东西时都教与家人分享
+    - 边分享边说("大的给爷爷,小的给自己")
+    - 孩子做到了立即表扬
+    - 平时不常吃的食物也让分(更显诚意)
+    - 全家配合接受 + 真心感谢
+  failure_mode: |
+    "孩子小,好东西先让他吃"→ 错过分享习惯启蒙。
+    强迫分享(不愿也要分)→ 反伤主动性。
+  evidence_level: C
+
+glossary_refs:
+  - G-PERSON-Bao
+
+citation:
+  book_title_zh: "鲍秀兰谈婴幼儿潜能开发和早期教育"
+  authors: ["鲍秀兰", "孙淑英"]
+  publisher_zh: "中国妇女出版社"
+  year_zh: 2016
+  isbn: "978-7-5127-1196-9"
+  location: "PART 1 · 11-12 月龄 · 生活与交往一一最初的交友段(1.与人分享)"
+  source_id: SRC-009
+
+unit_ids: []
+related_cards: []
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

@@ -1,0 +1,44 @@
+card_id: C-S5-009
+stages: [S5]
+tags: []
+
+front:
+  title: 9 月意识到自我存在
+  hook: 镜中"那是我"启蒙
+
+back:
+  why_matters: |
+    9 月是自我意识(self-awareness)早期萌芽期。达尔文 1877 年观察自己孩子:**婴儿听到自己名字会转身看镜子**,靠近镜中自己时发"啊"声 — 这是自我认识的最早证据。
+    自我意识发展是社交、共情、独立意识的基础。
+    鲍秀兰建议:多用镜子游戏 + 反复呼唤名字 + 让宝宝看自己照片。
+  what_to_do:
+    - 抱宝宝到镜子前,呼唤名字
+    - 看宝宝是否转头看镜中自己
+    - 指着镜中宝宝说:"这是宝宝!"
+    - 让宝宝看自己的照片认识自己
+    - 反复强化"名字 = 自己"联系
+  failure_mode: |
+    用别名 / 小名 / 学名混叫 → 宝宝不知大人在叫谁。
+    觉得"宝宝不会自我意识"→ 错过 9-12 月起步。
+  evidence_level: C
+
+glossary_refs:
+  - G-PERSON-Bao
+
+citation:
+  book_title_zh: "鲍秀兰谈婴幼儿潜能开发和早期教育"
+  authors: ["鲍秀兰", "孙淑英"]
+  publisher_zh: "中国妇女出版社"
+  year_zh: 2016
+  isbn: "978-7-5127-1196-9"
+  location: "PART 1 · 9-10 月龄 · 认知一一意识到自我存在段(达尔文 1877 年观察 + 9 月自我认识)"
+  source_id: SRC-009
+
+unit_ids: []
+related_cards:
+  - C-S3-017     # 4 月表情反应 + 镜子认自己(前置)
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

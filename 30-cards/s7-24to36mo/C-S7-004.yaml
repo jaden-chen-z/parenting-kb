@@ -1,0 +1,43 @@
+card_id: C-S7-004
+stages: [S7]
+tags: []
+
+front:
+  title: 25-30 月识形状:圆方三角
+  hook: 看出不同 ≠ 会识别
+
+back:
+  why_matters: |
+    宝宝**很早就能看出形状不同**,但**真正"识别形状"(命名)** = 25-30 月才能做到。
+    鲍秀兰具体方法:**家长说出每个形状名称后由宝宝来挑选**:"找一个圆形""找一个三角形" — 然后反过来问"这是什么形状"。
+    日常实物结合教(圆苹果 / 方书本 / 三角积木),建立形状抽象概念。
+  what_to_do:
+    - 先教 3 种基础形状:圆/方/三角
+    - 让宝宝从实物中挑出指定形状
+    - 反过来问"这是什么形状"
+    - 日常生活中实物结合教
+    - 圆方稳定后再加椭圆 / 长方等
+  failure_mode: |
+    一次教多种复杂形状 → 混淆。
+    脱离实物只用图卡 → 抽象太早,记不住。
+  evidence_level: C
+
+glossary_refs:
+  - G-PERSON-Bao
+
+citation:
+  book_title_zh: "鲍秀兰谈婴幼儿潜能开发和早期教育"
+  authors: ["鲍秀兰", "孙淑英"]
+  publisher_zh: "中国妇女出版社"
+  year_zh: 2016
+  isbn: "978-7-5127-1196-9"
+  location: "PART 3 · 25-30 月龄 · 认知段(2.识别简单形状 — 圆形、方形、三角形)"
+  source_id: SRC-009
+
+unit_ids: []
+related_cards: []
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

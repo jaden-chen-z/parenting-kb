@@ -1,0 +1,45 @@
+card_id: C-S1-069
+stages: [S1]
+tags: [philosophy]
+
+front:
+  title: 0-1 岁是学习关键期,错过补不回
+  hook: 错过窗口不能补回
+
+back:
+  why_matters: |
+    关键期 = 大脑某种能力在特定时间窗口最容易形成,错过后即使大量训练也达不到最高水平。
+    经典证据:Hubel & Wiesel 1962 视觉实验,幼猫遮眼后视觉皮层永久重组,不可恢复。
+    鲍秀兰立场:0-1 岁智能日新月异,这一阶段父母陪伴质量决定终身潜能基线。
+  what_to_do:
+    - 0-1 岁就开始视听 / 触觉 / 语言刺激
+    - 每月按月龄做训练(运动 / 认知 / 语言 / 交往)
+    - 早教 = 建感官 + 神经连接,不是教识字
+    - 不需昂贵教具,日常陪伴最有效
+    - 错过窗口后期事倍功半
+  failure_mode: |
+    觉得"宝宝小听不懂,等会说话再教"→ 错过感官关键期。
+    强迫学超月龄技能(如 6 月教数数)→ 反伤兴趣。
+  evidence_level: C
+
+glossary_refs:
+  - G-PERSON-Bao
+  - G-TERM-critical-period
+
+citation:
+  book_title_zh: "鲍秀兰谈婴幼儿潜能开发和早期教育"
+  authors: ["鲍秀兰", "孙淑英"]
+  publisher_zh: "中国妇女出版社"
+  year_zh: 2016
+  edition_zh: "第 1 版第 1 次印刷"
+  isbn: "978-7-5127-1196-9"
+  location: "PART 1 · 1 月龄 · 鲍奶奶提醒框('婴幼儿时期是心理发展最迅速的时期...学习能力是有关键期的')"
+  source_id: SRC-009
+
+unit_ids: []
+related_cards: []
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

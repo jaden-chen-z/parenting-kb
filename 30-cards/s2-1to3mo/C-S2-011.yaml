@@ -1,0 +1,45 @@
+card_id: C-S2-011
+stages: [S2]
+tags: []
+
+front:
+  title: 跟宝宝说话 5 大共性
+  hook: 高音调/慢/短句/重复/停顿
+
+back:
+  why_matters: |
+    父母语(parentese)= 全球共有的对婴儿说话模式,不是逗弄性"婴儿话"。
+    鲍秀兰:全世界父母和小婴儿说话似乎都用相似方法 — 这是大脑进化的本能,适配婴儿听觉敏感频段。
+    研究证明:14 月龄前 parentese 越多,24 月龄时词汇量越大,语法理解越快。
+  what_to_do:
+    - 声调升高(妈妈语调比爸爸更适配)
+    - 语速慢一倍,留宝宝处理时间
+    - 短句 3-5 词,不用复杂从句
+    - 重复关键词("宝宝看,妈妈,妈妈在这")
+    - 句间停顿 1-2 秒,等宝宝反应
+  failure_mode: |
+    用成人正常语速 + 长句 → 婴儿无法处理,错过早期语言加工训练。
+    长期"宝宝叠词"如"饭饭/瓶瓶"→ 影响标准发音习得。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Bao
+  - G-TERM-parentese
+  - G-TERM-turn-taking
+
+citation:
+  book_title_zh: "鲍秀兰谈婴幼儿潜能开发和早期教育"
+  authors: ["鲍秀兰", "孙淑英"]
+  publisher_zh: "中国妇女出版社"
+  year_zh: 2016
+  isbn: "978-7-5127-1196-9"
+  location: "PART 1 · 2 月龄 · 语言一一跟宝宝多说话段('全世界的父母和小婴儿说话似乎都用相似的方法,即声调较高,速度较慢,短语间有较长的停顿,较多使用重复的话语')"
+  source_id: SRC-009
+
+unit_ids: []
+related_cards: []
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

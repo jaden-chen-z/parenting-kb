@@ -1,0 +1,44 @@
+card_id: C-S1-070
+stages: [S1]
+tags: [safety]
+
+front:
+  title: 1 月龄玩具 5 大选择原则
+  hook: 颜色/大小/响声/光滑/不可吞
+
+back:
+  why_matters: |
+    1 月龄宝宝处于视听发育起步期,玩具是日常视听刺激的主要载体,选错可能致伤或无效。
+    鲍秀兰列 5 条原则:颜色鲜艳纯正(红/绿/蓝)引起新生儿注意;形态合适小手抓握;响声悦耳锻炼听觉;光滑无毒易清洗;够大不能吞食。
+    新生儿吞咽反射尚未完全控制,< 4 厘米物件 = 窒息风险。
+  what_to_do:
+    - 红 / 绿 / 蓝三原色优先,黑白脸谱也好
+    - 直径 5-15 厘米,形态可手握(摇铃 / 软塑料环)
+    - 软塑料捏响 / 八音盒,音色温和不刺耳
+    - 边缘光滑无棱角,材质无毒可清洗消毒
+    - 不要 < 4 厘米物件,小珠子纽扣坚决禁
+  failure_mode: |
+    给小珠子 / 纽扣 / 硬币当玩具 → 窒息致死。
+    一次性大量复杂玩具堆床头 → 过度刺激反不响应。
+  evidence_level: C
+
+glossary_refs:
+  - G-PERSON-Bao
+
+citation:
+  book_title_zh: "鲍秀兰谈婴幼儿潜能开发和早期教育"
+  authors: ["鲍秀兰", "孙淑英"]
+  publisher_zh: "中国妇女出版社"
+  year_zh: 2016
+  edition_zh: "第 1 版第 1 次印刷"
+  isbn: "978-7-5127-1196-9"
+  location: "PART 1 · 1 月龄 · 玩具选择段(1.选玩具的原则 + 2.选择玩具的类型 + 3.玩教方法)"
+  source_id: SRC-009
+
+unit_ids: []
+related_cards: []
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

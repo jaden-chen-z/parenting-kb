@@ -1,0 +1,43 @@
+card_id: C-S5-014
+stages: [S5]
+tags: []
+
+front:
+  title: 10 月玩娃娃学关心他人
+  hook: 角色扮演培养共情
+
+back:
+  why_matters: |
+    9-10 月模仿能力进入新阶段,可玩简单角色扮演 — 这是早期共情(empathy)发展的具体训练方法。
+    鲍秀兰具体游戏:给宝宝玩具娃娃 + 小毛巾,告诉他"娃娃困了要睡觉",让宝宝把毛巾当被子盖在娃娃身上拍拍。
+    再给小饭碗小勺,"宝宝起床吃饭啦",让宝宝抱起娃娃喂"吃饭"。这是早期"关心他人"的认知 + 行为训练。
+  what_to_do:
+    - 准备宝宝玩具娃娃 + 小毛巾 + 小饭碗小勺
+    - 「娃娃困了」让宝宝盖毛巾 + 拍拍
+    - 「娃娃饿了」让宝宝抱娃娃喂「吃饭」
+    - 加入「娃娃哭了你哄一哄」等情景
+    - 渐扩展到"妈妈累了你抱一抱"
+  failure_mode: |
+    觉得"角色扮演没意义"→ 错过共情萌芽训练。
+    强加"必须这样玩"→ 反伤主动性。
+  evidence_level: C
+
+glossary_refs:
+  - G-PERSON-Bao
+
+citation:
+  book_title_zh: "鲍秀兰谈婴幼儿潜能开发和早期教育"
+  authors: ["鲍秀兰", "孙淑英"]
+  publisher_zh: "中国妇女出版社"
+  year_zh: 2016
+  isbn: "978-7-5127-1196-9"
+  location: "PART 1 · 9-10 月龄 · 生活与交往段(5.玩娃娃,学习关心他人)"
+  source_id: SRC-009
+
+unit_ids: []
+related_cards: []
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

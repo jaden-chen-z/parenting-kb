@@ -1,0 +1,45 @@
+card_id: C-S3-022
+stages: [S3]
+tags: []
+
+front:
+  title: 6 月独坐 + 坐位发育双促
+  hook: 视觉听觉一起优化
+
+back:
+  why_matters: |
+    6 月从靠坐到独坐,是大动作里程碑;但鲍秀兰强调坐位本身**对视觉和听觉发育有质的促进**。
+    坐位听觉:双耳与外界对称 → 听音方位定位能力提升。
+    坐位视觉:视野开阔(不只看天花板),双眼视线对称 → 立体视觉(stereo vision)质变。
+    更关键:坐位**解放双手**,精细动作得以发展。
+  what_to_do:
+    - 双手拉宝宝两手指坐起来训练
+    - 用枕头垫背靠坐,逐步移走
+    - 玩具放够得着的地方让坐着玩
+    - 每次 5-10 分钟,每天 3-4 次(初期)
+    - 觉醒愿意坐时尽量让坐着玩
+  failure_mode: |
+    长时间硬坐(超 10 分钟)→ 6 月肌力弱,伤脊柱。
+    一直抱着不让坐 → 视听 + 精细动作发展滞后。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Bao
+
+citation:
+  book_title_zh: "鲍秀兰谈婴幼儿潜能开发和早期教育"
+  authors: ["鲍秀兰", "孙淑英"]
+  publisher_zh: "中国妇女出版社"
+  year_zh: 2016
+  isbn: "978-7-5127-1196-9"
+  location: "PART 1 · 6 月龄 · 运动一一独坐、翻滚和打转段(1.独坐 + 坐位对听觉/视觉发展的促进作用)"
+  source_id: SRC-009
+
+unit_ids: []
+related_cards:
+  - C-S3-010     # AAP 坐姿:6 月 tripod 9 月独坐
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

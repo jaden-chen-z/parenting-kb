@@ -1,0 +1,43 @@
+card_id: C-S5-018
+stages: [S5]
+tags: []
+
+front:
+  title: 12 月起认红色 + 颜色启蒙
+  hook: 红→绿→蓝逐个认
+
+back:
+  why_matters: |
+    11-12 月可启动颜色识别训练,**鲍秀兰推荐顺序**:红色 → 绿色 → 蓝色(三原色优先,色彩最易区分)。
+    方法:在不同颜色玩具中取出红色物("红色小球"),反复告诉宝宝;然后混杂让宝宝从中拣出红色;然后日常见红色都让宝宝认。
+    平时见红色物(汽车 / 气球)都重复 → 形成稳定颜色概念。
+  what_to_do:
+    - 取一红色玩具,反复说"红色"
+    - 把红色玩具混到其他颜色中,让宝宝拣出
+    - 会拣红球后再换红盖子 / 红布块
+    - 平时见红色物(汽车 / 气球)都让认
+    - 红色稳定后再认绿色,再蓝色
+  failure_mode: |
+    一次教多种颜色 → 宝宝混淆。
+    用复杂颜色名(桃红 / 玫红)→ 早期不能区分。
+  evidence_level: C
+
+glossary_refs:
+  - G-PERSON-Bao
+
+citation:
+  book_title_zh: "鲍秀兰谈婴幼儿潜能开发和早期教育"
+  authors: ["鲍秀兰", "孙淑英"]
+  publisher_zh: "中国妇女出版社"
+  year_zh: 2016
+  isbn: "978-7-5127-1196-9"
+  location: "PART 1 · 11-12 月龄 · 认知段(6.认识红色 + 7.画画启蒙)"
+  source_id: SRC-009
+
+unit_ids: []
+related_cards: []
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

@@ -1,0 +1,43 @@
+card_id: C-S6-003
+stages: [S6]
+tags: []
+
+front:
+  title: 13-15 月独立走+扶上下楼梯
+  hook: 拉车走 + 倒退走训练
+
+back:
+  why_matters: |
+    13-15 月独立行走从"中中地几步"快速发展,需要多种练习场景:扔球捡球游戏 / 拉车类玩具 / 侧着走 / 倒退走 / 扶栏上下楼梯。
+    鲍秀兰强调**逐步渐进**:扶上下楼梯先用较多助力,渐减少;先 2-3 阶,再扩展。
+    倒退走和侧着走更是平衡力综合训练,为 2 岁后跑跳做准备。
+  what_to_do:
+    - 扔球捡球游戏锻炼独自蹲下站起
+    - 给小拖车 / 拖拉玩具练拉着走
+    - 教宝宝拉着玩具侧着走
+    - 教倒退走几步
+    - 拉手扶栏练 2-3 阶楼梯起步,逐渐增多
+  failure_mode: |
+    总抱着不让走 → 学步迟。
+    一次太多阶楼梯 → 摔倒影响信心。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Bao
+
+citation:
+  book_title_zh: "鲍秀兰谈婴幼儿潜能开发和早期教育"
+  authors: ["鲍秀兰", "孙淑英"]
+  publisher_zh: "中国妇女出版社"
+  year_zh: 2016
+  isbn: "978-7-5127-1196-9"
+  location: "PART 2 · 13-15 月龄 · 运动一一独立行走段(1.独立行走 + 2.扶上手下楼梯)"
+  source_id: SRC-009
+
+unit_ids: []
+related_cards: []
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

@@ -1,0 +1,44 @@
+card_id: C-S7-001
+stages: [S7]
+tags: []
+
+front:
+  title: 25-30 月独自上下楼梯
+  hook: 一步一踏 → 两足交替
+
+back:
+  why_matters: |
+    25-30 月楼梯能力进阶:从扶栏 → 独自上下 → 两足交替(一足一阶,另一足跟到下一阶)。
+    鲍秀兰要点:下楼梯比上楼梯难(不好把握),要从矮台阶开始体验感觉。
+    身体灵活后再学两足交替,需要肌肉力量 → 从少几阶开始,逐渐增加。
+    这是平衡 + 协调 + 力量的综合训练,为 3-5 岁运动技能奠基。
+  what_to_do:
+    - 先教独自上楼(一步一踏)
+    - 再教独自下楼,从矮台阶开始
+    - 身体灵活后教两足交替
+    - 几阶开始,逐渐增多
+    - 全程父母在旁保护
+  failure_mode: |
+    一开始就教高楼梯 → 摔倒影响信心。
+    强求"必须两足交替"→ 早期肌力不足。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Bao
+
+citation:
+  book_title_zh: "鲍秀兰谈婴幼儿潜能开发和早期教育"
+  authors: ["鲍秀兰", "孙淑英"]
+  publisher_zh: "中国妇女出版社"
+  year_zh: 2016
+  isbn: "978-7-5127-1196-9"
+  location: "PART 3 · 25-30 月龄 · 运动一一骑小三轮车段(1.独自下楼梯 + 2.两足交替上楼梯)"
+  source_id: SRC-009
+
+unit_ids: []
+related_cards: []
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

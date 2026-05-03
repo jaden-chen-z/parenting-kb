@@ -1,0 +1,46 @@
+card_id: C-S1-071
+stages: [S1]
+tags: []
+
+front:
+  title: 1 月龄睡 14-20 小时是正常
+  hook: 醒太少别担心,疲劳即停训练
+
+back:
+  why_matters: |
+    1 月龄宝宝每天总睡 14-20 小时,大段是浅睡眠 REM,容易疲劳。
+    新生儿睡眠是大脑发育关键过程,REM 期神经突触形成最活跃,强行唤醒会损伤连接形成。
+    鲍秀兰:对视听刺激无反应 = 疲劳信号,立刻停训练让宝宝休息 — 不是越多训练越好。
+  what_to_do:
+    - 接受 14-20 小时是正常,不强行唤醒
+    - 训练只在觉醒 + 反应活跃的间隙
+    - 看到无反应 → 立刻暂停训练
+    - 等再次觉醒响应再尝试
+    - 白天嘈杂 / 夜里安静帮纠日夜颠倒
+  failure_mode: |
+    怕"睡太多影响发育"强行叫醒玩 → 反伤神经发育。
+    "白天少睡晚上才睡好"= 错觉,反加重日夜颠倒。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Bao
+  - G-ABBR-REM
+
+citation:
+  book_title_zh: "鲍秀兰谈婴幼儿潜能开发和早期教育"
+  authors: ["鲍秀兰", "孙淑英"]
+  publisher_zh: "中国妇女出版社"
+  year_zh: 2016
+  edition_zh: "第 1 版第 1 次印刷"
+  isbn: "978-7-5127-1196-9"
+  location: "PART 1 · 1 月龄 · 视听刺激段尾('要注意保证宝宝有充足的睡眠时间,每天 14-20 小时')"
+  source_id: SRC-009
+
+unit_ids: []
+related_cards:
+  - C-S1-052     # AAP 日夜颠倒纠正(同方向)
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

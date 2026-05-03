@@ -1,0 +1,44 @@
+card_id: C-S6-006
+stages: [S6]
+tags: [philosophy]
+
+front:
+  title: 16-18 月跟小伙伴玩
+  hook: 不会合作也建伙伴概念
+
+back:
+  why_matters: |
+    16-18 月活动范围扩大,交往机会增加。鲍秀兰强调:即使宝宝还不能"你来我往"合作玩,也要让他和小伙伴 + 家长一起玩,建立最初的伙伴概念,培养与人一起玩的愉快情绪。
+    平行游戏(parallel play)是这个阶段的正常状态 — 各玩各的但在一起就是社交学习。
+    早期社交基础决定 3-6 岁能否融入群体。
+  what_to_do:
+    - 有意识让宝宝和同龄小伙伴接触
+    - 教他把娃娃当伙伴玩(角色练习)
+    - 不强求"合作玩"或"分享玩具"
+    - 接受平行游戏(各玩各的也算社交)
+    - 经常带宝宝接触家庭外环境(亲戚 / 邻居)
+  failure_mode: |
+    "宝宝不会和别人玩别带出门"→ 错过社交基础建设。
+    强求"必须分享必须合作"→ 反伤兴趣,2-3 岁更孤僻。
+  evidence_level: C
+
+glossary_refs:
+  - G-PERSON-Bao
+  - G-TERM-attachment
+
+citation:
+  book_title_zh: "鲍秀兰谈婴幼儿潜能开发和早期教育"
+  authors: ["鲍秀兰", "孙淑英"]
+  publisher_zh: "中国妇女出版社"
+  year_zh: 2016
+  isbn: "978-7-5127-1196-9"
+  location: "PART 2 · 16-18 月龄 · 生活与交往段(2.一起玩 — 此时宝宝虽然不能你来我往地合作玩,但要让他建立最初的伙伴概念)"
+  source_id: SRC-009
+
+unit_ids: []
+related_cards: []
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

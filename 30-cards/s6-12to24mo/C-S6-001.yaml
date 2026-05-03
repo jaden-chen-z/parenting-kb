@@ -1,0 +1,44 @@
+card_id: C-S6-001
+stages: [S6]
+tags: []
+
+front:
+  title: 12-15 月模仿乱说不打断
+  hook: 自言自语是言语游戏
+
+back:
+  why_matters: |
+    12-15 月宝宝会说 1-2 个真词后,很想模仿大人语调说一连串"莫名其妙的话" — 自创的词、短语、句子配合手势。
+    鲍秀兰强调:这是宝宝在做独特的言语游戏,模仿大人对他说话的语调和方式,通常持续到 2-3 岁。
+    错误反应:打断 / 嘲笑 / 不当回事;正确反应:投赞许目光,不打断,寻找机会教真正词汇。
+  what_to_do:
+    - 宝宝自言自语时不打断,投赞许目光
+    - 充当解说员:宝宝玩玩具时,你说出名称
+    - 告诉他正在做什么动作
+    - 一起玩时让他按你的要求做(理解力训练)
+    - 不嘲笑乱说的话,自然引导真词
+  failure_mode: |
+    打断 / 纠正"宝宝你说错了"→ 反伤主动表达愿望。
+    认为"乱说没意义"→ 错过言语游戏期言语发展。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Bao
+  - G-TERM-parentese
+
+citation:
+  book_title_zh: "鲍秀兰谈婴幼儿潜能开发和早期教育"
+  authors: ["鲍秀兰", "孙淑英"]
+  publisher_zh: "中国妇女出版社"
+  year_zh: 2016
+  isbn: "978-7-5127-1196-9"
+  location: "PART 2 · 12-15 月龄 · 语言一一模仿说话段(1.宝宝的语言游戏 — 自言自语模仿大人腔调)"
+  source_id: SRC-009
+
+unit_ids: []
+related_cards: []
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

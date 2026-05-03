@@ -1,0 +1,45 @@
+card_id: C-S3-023
+stages: [S3]
+tags: [safety]
+
+front:
+  title: 6 月起硬食:小饼干自喂
+  hook: 易溶化的硬,是手锻炼
+
+back:
+  why_matters: |
+    6 月起宝宝消化功能增强 + 牙龈变硬,不再只满足于奶,需要稍硬食物。
+    鲍秀兰建议易溶化的小饼干:宝宝可学会自己拿到嘴里 — 既练手抓握 + 手眼协调,又是自我生活能力最初培养。
+    AAP 立场略不同:不主张早期固食,但"易溶化磨牙饼干"在中国早教传统普遍,要点是绝不给硬整粒。
+  what_to_do:
+    - 选易拿、易溶化的婴儿磨牙饼干
+    - 让宝宝自己拿饼干往嘴里送
+    - 大人陪同观察,防呛防噎
+    - 不给整粒花生 / 葡萄 / 果冻 / 硬糖
+    - 同时引入辅食米糊 / 菜泥
+  failure_mode: |
+    给整粒坚果 / 葡萄等硬食 → 窒息致死。
+    一切硬食都不让 → 错过自我吃手部训练。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Bao
+
+citation:
+  book_title_zh: "鲍秀兰谈婴幼儿潜能开发和早期教育"
+  authors: ["鲍秀兰", "孙淑英"]
+  publisher_zh: "中国妇女出版社"
+  year_zh: 2016
+  isbn: "978-7-5127-1196-9"
+  location: "PART 1 · 5-6 月龄 · 生活与交往一一照镜子学认人段(1.吃硬食:消化功能增强,可给易溶化小饼干)"
+  source_id: SRC-009
+
+unit_ids: []
+related_cards:
+  - C-S3-004     # AAP 1 岁内别给:这 11 种 choking 食物
+  - C-S4-002     # AAP BLW 切法:长条不切圆片
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

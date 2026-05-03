@@ -1,0 +1,45 @@
+card_id: C-S3-015
+stages: [S3]
+tags: []
+
+front:
+  title: 4 月发"妈妈"立即亲吻强化
+  hook: 偶然发出 = 强化关键瞬间
+
+back:
+  why_matters: |
+    4-8 月是 babbling 阶段,婴儿发 ba/pa/da/ma 等辅音 + ba-ba/ma-ma 重复音节。
+    最初无意识,但家长立即回应可建立"音→意义"联系,为日后叫爸妈打基础。
+    鲍秀兰:宝宝偶然发"妈妈"时立即亲吻搂抱:"妈妈!我就是你妈妈!" 强化有意义音。
+  what_to_do:
+    - 宝宝发"妈妈"立即亲吻搂抱回应
+    - 同时说:"妈妈!我就是你的妈妈!"
+    - 父亲可指着妈妈说:"看!这是妈妈!"
+    - 反复强化建立音 + 意义的联系
+    - 不要冷处理或纠正发音(此期重在反馈)
+  failure_mode: |
+    宝宝发"妈"无回应 → 错过强化窗口,babbling 期延长。
+    立即纠正发音(说"应该 mā 不是 ma")→ 反伤主动性。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Bao
+  - G-TERM-cooing
+
+citation:
+  book_title_zh: "鲍秀兰谈婴幼儿潜能开发和早期教育"
+  authors: ["鲍秀兰", "孙淑英"]
+  publisher_zh: "中国妇女出版社"
+  year_zh: 2016
+  isbn: "978-7-5127-1196-9"
+  location: "PART 1 · 4 月龄 · 语言一一强化某些发音段('宝宝偶然发出妈妈的声音时,就要亲吻他、搂抱')"
+  source_id: SRC-009
+
+unit_ids: []
+related_cards:
+  - C-S2-016     # 3 月里程碑出声笑+元音(前置)
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

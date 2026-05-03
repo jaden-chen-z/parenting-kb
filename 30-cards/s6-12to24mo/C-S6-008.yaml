@@ -1,0 +1,45 @@
+card_id: C-S6-008
+stages: [S6]
+tags: [philosophy]
+
+front:
+  title: 16-18 月发脾气:中场休息
+  hook: 隔离 1-2 分,事情冷却
+
+back:
+  why_matters: |
+    1-2 岁发脾气是给观众看的(为你的反应)。鲍秀兰 2 策略:
+    ① 中场休息:孩子追闹时父母不当观众,悄然离开 — 没观众自然停。
+    ② 隔离法:危险动作(打人/拉头发)10 秒内抱到无玩具小床隔离 1-2 分,告诉不哭才能出。
+    让孩子知过激行为不能逃避惩罚。
+  what_to_do:
+    - 不当观众:孩子哭闹时离开房间
+    - 等孩子自己平静,不奖不罚
+    - 危险动作后 10 秒内隔离 1-2 分钟
+    - 告诉"不哭不闹才能出来"
+    - 平静后再讲道理
+  failure_mode: |
+    哭闹时大声呵斥或马上让步 → 都强化哭闹策略。
+    隔离时间过长(超 2 分)→ 宝宝忘了为什么。
+  evidence_level: C
+
+glossary_refs:
+  - G-PERSON-Bao
+
+citation:
+  book_title_zh: "鲍秀兰谈婴幼儿潜能开发和早期教育"
+  authors: ["鲍秀兰", "孙淑英"]
+  publisher_zh: "中国妇女出版社"
+  year_zh: 2016
+  isbn: "978-7-5127-1196-9"
+  location: "PART 2 · 16-18 月龄 · 行为约束段(中场休息 + 隔离法 1-2 分钟)"
+  source_id: SRC-009
+
+unit_ids: []
+related_cards:
+  - C-S6-007     # 1-2 岁管教全家一致
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

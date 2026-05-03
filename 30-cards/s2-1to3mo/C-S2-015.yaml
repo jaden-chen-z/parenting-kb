@@ -1,0 +1,44 @@
+card_id: C-S2-015
+stages: [S2]
+tags: [safety, red_flag]
+
+front:
+  title: 3 月翻身训练,千万别独留
+  hook: 翻身瞬间掉下床 = 常见急诊
+
+back:
+  why_matters: |
+    3 月起翻身动作出现:从仰卧到侧卧,4 月可完成全翻。
+    翻身是早期运动重要里程碑,但同时是**新生儿期最危险的转折** — 父母措不及防,宝宝突然翻下床。
+    鲍秀兰警告:3-4 月龄宝宝刚开始会翻身,家人没思想准备,一旦突然翻身掉下床即使未受伤,仍会使父母惊恐不已。
+  what_to_do:
+    - 3 月起任何床上时间不要独留宝宝
+    - 用玩具引导左右两侧翻身练习
+    - 不要给穿太多 / 包太紧,留自由活动空间
+    - 父母手随时在床边,准备接
+    - 换尿布 / 拿东西也不离开
+  failure_mode: |
+    "宝宝才 3 月不会翻"觉得安全独留 → 突然翻身摔下床 / 沙发。
+    继续穿过厚衣 / 包紧 → 翻身练习受限。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Bao
+
+citation:
+  book_title_zh: "鲍秀兰谈婴幼儿潜能开发和早期教育"
+  authors: ["鲍秀兰", "孙淑英"]
+  publisher_zh: "中国妇女出版社"
+  year_zh: 2016
+  isbn: "978-7-5127-1196-9"
+  location: "PART 1 · 3 月龄 · 运动段('不要将宝宝一个人放在床上,以防止摔下')+ 翻身仰俯卧段"
+  source_id: SRC-009
+
+unit_ids: []
+related_cards:
+  - C-S1-057     # AAP 跌落防护:尿布台/床/沙发不独处
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

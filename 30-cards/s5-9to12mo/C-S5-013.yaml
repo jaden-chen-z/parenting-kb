@@ -1,0 +1,44 @@
+card_id: C-S5-013
+stages: [S5]
+tags: []
+
+front:
+  title: 10 月会察言观色
+  hook: 看你脸色的非语言交流
+
+back:
+  why_matters: |
+    心理学家追踪研究:婴儿到 10 月左右会看母亲脸色(emotional referencing)。
+    你笑 → 宝宝高兴回应;你淡漠 → 宝宝收笑容,目光移开。
+    鲍秀兰:9-10 月起父母可用此方式教育 — 微笑鼓励 + 不悦阻止,比口头更早起作用。
+  what_to_do:
+    - 宝宝遇困难时给亲切微笑(支持鼓励)
+    - 宝宝做不应做的事用生气表情 + 阻止语气
+    - 不需要总是大声说教
+    - 表情比口头早起作用
+    - 全家人态度一致(老人也学)
+  failure_mode: |
+    全程冷漠脸 → 宝宝感受不到情感反馈,焦虑型依恋。
+    爱憎不分(打人也笑)→ 错过非语言教育窗口。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Bao
+  - G-TERM-attachment
+
+citation:
+  book_title_zh: "鲍秀兰谈婴幼儿潜能开发和早期教育"
+  authors: ["鲍秀兰", "孙淑英"]
+  publisher_zh: "中国妇女出版社"
+  year_zh: 2016
+  isbn: "978-7-5127-1196-9"
+  location: "PART 1 · 9-10 月龄 · 生活与交往段(4.会察言观色 — 心理学家追踪研究表明,婴儿到 10 个月左右会看母亲的脸色)"
+  source_id: SRC-009
+
+unit_ids: []
+related_cards: []
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

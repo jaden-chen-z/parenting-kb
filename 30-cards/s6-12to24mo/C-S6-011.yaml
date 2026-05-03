@@ -1,0 +1,43 @@
+card_id: C-S6-011
+stages: [S6]
+tags: []
+
+front:
+  title: 19-21 月生活规律晨起按时
+  hook: 1.5 岁建立终身生活节律
+
+back:
+  why_matters: |
+    19-21 月饮食睡眠大变:可吃加工细致普通食物 + 每日睡眠时数明显减少。
+    1.5 岁是建立终身生活节律关键期,鲍秀兰:按宝宝节奏安排晨起 / 三餐 / 睡前固定流程。
+    早期规律 → 自律 + 时间感 + 健康基线;早期混乱 → 终身节律困难。
+  what_to_do:
+    - 按宝宝节奏定固定作息时间表
+    - 晨起仪式化:刷牙 / 洗脸 / 早餐
+    - 三餐固定时间(午睡前后规律)
+    - 睡前固定流程:洗澡 / 洗脚洗脸 / 故事
+    - 全家配合维持规律(老人也要)
+  failure_mode: |
+    周末"放假式打乱"→ 节律建立困难,周一难恢复。
+    迁就宝宝想几点睡几点 → 反伤睡眠质量 + 大脑发育。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Bao
+
+citation:
+  book_title_zh: "鲍秀兰谈婴幼儿潜能开发和早期教育"
+  authors: ["鲍秀兰", "孙淑英"]
+  publisher_zh: "中国妇女出版社"
+  year_zh: 2016
+  isbn: "978-7-5127-1196-9"
+  location: "PART 2 · 19-21 月龄 · 生活与交往段(2.生活规律 — 培养晨起高兴洗脸,按时吃饭睡觉,睡前洗脚洗脸等好习惯)"
+  source_id: SRC-009
+
+unit_ids: []
+related_cards: []
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

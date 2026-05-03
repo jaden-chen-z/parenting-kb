@@ -1,0 +1,45 @@
+card_id: C-S1-066
+stages: [S1]
+tags: [safety, red_flag]
+
+front:
+  title: 1 月龄大声没反应:立刻送医
+  hook: 听力筛查不是终身保单
+
+back:
+  why_matters: |
+    新生儿听力筛查在出生 48 小时内做一次,但部分听力损失是迟发型,1 月龄前看不出。
+    迟发性听力损失约占先天听损的 10-20%,如不在头半年发现干预,会终身影响语言发育。
+    鲍秀兰:1 月龄宝宝对很大声音(拍掌、鼓点)没有惊跳或转头,立刻找专业医生。
+  what_to_do:
+    - 身边 30 厘米拍 2-3 次掌,看是否惊跳
+    - 耳边 10 厘米轻呼,看是否转头
+    - 没反应别等"长大就好",立刻找医生
+    - 复查听力 + 脑干诱发电位检查
+    - 头半年是干预黄金期,越早越好
+  failure_mode: |
+    觉得"宝宝在睡可能没听见"反复推迟检查 → 错过黄金干预期。
+    认为"出生筛查过了就没事"→ 漏掉迟发型听损。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Bao
+  - G-TERM-critical-period
+
+citation:
+  book_title_zh: "鲍秀兰谈婴幼儿潜能开发和早期教育"
+  authors: ["鲍秀兰", "孙淑英"]
+  publisher_zh: "中国妇女出版社"
+  year_zh: 2016
+  edition_zh: "第 1 版第 1 次印刷"
+  isbn: "978-7-5127-1196-9"
+  location: "PART 1 · 1 月龄 · 视听刺激段警告框('如果 1 月龄的宝宝对很大的声音没有反应,应加紧训练并找专业医生检查诊断')"
+  source_id: SRC-009
+
+unit_ids: []
+related_cards: []
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

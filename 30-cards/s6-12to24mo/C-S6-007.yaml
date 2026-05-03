@@ -1,0 +1,44 @@
+card_id: C-S6-007
+stages: [S6]
+tags: [philosophy, safety]
+
+front:
+  title: 1-2 岁管教全家态度一致
+  hook: 千万不能打,无效反害
+
+back:
+  why_matters: |
+    1-2 岁宝宝独立性发展以自我为中心,不能满足要求时大发脾气 — 是正常发展。
+    鲍秀兰核心:父母千万不能打孩子 — 体罚不增强自控,反让孩子学暴力指向他人。
+    家庭管教态度必须全家一致 — 一人许一人禁 → 孩子学"和一人反对另一人"。
+  what_to_do:
+    - 不该做的事坚决制止,但**不打骂**
+    - 全家(包括老人)态度保持一致
+    - 重复坚持才能纠正(一次教不会)
+    - 用语言+表情教育,不用体罚
+    - 保持冷静,不被宝宝情绪带走
+  failure_mode: |
+    打骂体罚 → 孩子学会暴力,自控力反差。
+    家中一人严一人惯 → 孩子操纵分化。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Bao
+
+citation:
+  book_title_zh: "鲍秀兰谈婴幼儿潜能开发和早期教育"
+  authors: ["鲍秀兰", "孙淑英"]
+  publisher_zh: "中国妇女出版社"
+  year_zh: 2016
+  isbn: "978-7-5127-1196-9"
+  location: "PART 2 · 16-18 月龄 · 行为约束一一管教态度应一致段('父母千万不能打孩子,因为身体惩罚不能增强孩子的自控能力')"
+  source_id: SRC-009
+
+unit_ids: []
+related_cards:
+  - C-S4-015     # 7-8 月制止打人(前置)
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

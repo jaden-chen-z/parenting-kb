@@ -1,0 +1,46 @@
+card_id: C-S3-021
+stages: [S3]
+tags: []
+
+front:
+  title: 5-6 月藏猫猫 + 找掉物训练
+  hook: 物体永久性 = 认知质变
+
+back:
+  why_matters: |
+    物体永久性(object permanence)= 婴儿理解物体即使从视野消失,仍然存在不是不见了,是 8-10 月认知里程碑(Piaget 经典发现)。
+    4 月前是"眼不见心不想",5-6 月开始萌芽,8-10 月成熟。
+    鲍秀兰教法:藏猫猫游戏(手绢蒙脸然后突然露出)+ 故意把勺子掉地让宝宝寻找 — 培养这种认知质变。
+  what_to_do:
+    - 藏猫猫:手绢蒙妈妈脸,问"妈妈在哪",突然拉掉
+    - 反复让宝宝学着将手绢拿开
+    - 改变方式(总从一边露脸→换另一边)激发惊讶
+    - 故意把勺子 / 小车掉地,让宝宝伸头找
+    - 找到后用夸奖语气强化
+  failure_mode: |
+    觉得"宝宝小不懂,白玩"→ 错过 5-10 月物体永久性培养。
+    一直从同一边露脸 → 模式固化,不锻炼认知。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Bao
+  - G-TERM-object-permanence
+  - G-PERSON-Piaget
+
+citation:
+  book_title_zh: "鲍秀兰谈婴幼儿潜能开发和早期教育"
+  authors: ["鲍秀兰", "孙淑英"]
+  publisher_zh: "中国妇女出版社"
+  year_zh: 2016
+  isbn: "978-7-5127-1196-9"
+  location: "PART 1 · 5 月龄 · 认知段(6.藏猫猫 + 7.寻找掉下的东西,培养观察能力)"
+  source_id: SRC-009
+
+unit_ids: []
+related_cards:
+  - C-S4-003     # AAP 物体永久性 8-10 月,peekaboo 教
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

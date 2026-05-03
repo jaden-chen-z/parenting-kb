@@ -1,0 +1,43 @@
+card_id: C-S5-011
+stages: [S5]
+tags: []
+
+front:
+  title: 9 月起手把手教用小勺
+  hook: 1.5 岁能自吃,2 岁还张嘴等
+
+back:
+  why_matters: |
+    9 月起手部精细动作发展,**自吃训练是自理能力起点 + 手眼协调高级训练**。
+    鲍秀兰具体路径:**手把手教 → 同时大人勺 + 宝宝勺 → 宝宝自己吃** — 一般 1.5 岁后能完全自吃。
+    完全依赖大人喂的孩子,**2 岁还张嘴等喂,不会自己动手** — 这是早期自理能力延误。
+  what_to_do:
+    - 9 月起让宝宝玩小勺(顺势利导)
+    - 手把手教用勺取饭菜送进口
+    - 同时大人用另一勺辅助喂
+    - 渐让宝宝自己吃一些
+    - 不怕脏 — 这是练习必要代价
+  failure_mode: |
+    "宝宝吃太慢太脏"全程喂 → 2 岁还不会自吃。
+    强求"必须吃完"才放下 → 反伤吃饭兴趣。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Bao
+
+citation:
+  book_title_zh: "鲍秀兰谈婴幼儿潜能开发和早期教育"
+  authors: ["鲍秀兰", "孙淑英"]
+  publisher_zh: "中国妇女出版社"
+  year_zh: 2016
+  isbn: "978-7-5127-1196-9"
+  location: "PART 1 · 9-10 月龄 · 生活与交往一一会察言观色段(1.学习用小勺吃饭 — 至 1 岁半后能自己吃饭,完全依赖喂的孩子到 2 岁还张嘴等喂)"
+  source_id: SRC-009
+
+unit_ids: []
+related_cards: []
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

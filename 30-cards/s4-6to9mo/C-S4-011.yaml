@@ -1,0 +1,45 @@
+card_id: C-S4-011
+stages: [S4]
+tags: []
+
+front:
+  title: 7-8 月教 ba/ma 连续音节
+  hook: 看口型 + 指人物配对
+
+back:
+  why_matters: |
+    7-8 月是 babbling(咿呀作语)高峰,从单元音 → 重复音节 ba-ba/ma-ma/da-da/pa-pa。
+    虽然这些音还无意义,但鲍秀兰强调:**家长每天教 + 看口型模仿 + 同时指对应人物** → 才能为有意识叫"爸爸妈妈"建联系。
+    单纯"宝宝随便发音"≠ 学会叫人,意义对应是关键。
+  what_to_do:
+    - 每天聊天时发"爸爸""妈妈""娃娃"
+    - 让宝宝看你的口型模仿
+    - 发音同时指对应人物("看!这是爸爸")
+    - 训练宝宝伸手取被命名的东西
+    - 宝宝模仿发音立即回应表扬
+  failure_mode: |
+    听到"妈"无回应 → 宝宝不知音与人物对应。
+    口型不夸张让宝宝看不清 → 模仿困难。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Bao
+  - G-TERM-cooing
+
+citation:
+  book_title_zh: "鲍秀兰谈婴幼儿潜能开发和早期教育"
+  authors: ["鲍秀兰", "孙淑英"]
+  publisher_zh: "中国妇女出版社"
+  year_zh: 2016
+  isbn: "978-7-5127-1196-9"
+  location: "PART 1 · 7-8 月龄 · 语言段(c.练习发连续音节,将音与人和物联系起来)"
+  source_id: SRC-009
+
+unit_ids: []
+related_cards:
+  - C-S3-015     # 4 月偶然发"妈妈"立即强化(前置)
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

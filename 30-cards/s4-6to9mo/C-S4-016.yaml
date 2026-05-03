@@ -1,0 +1,48 @@
+card_id: C-S4-016
+stages: [S4]
+tags: [philosophy]
+
+front:
+  title: 8 月前抱抱不会宠坏
+  hook: 焦虑型 vs 安全型依恋决定
+
+back:
+  why_matters: |
+    依恋研究证明:8 月前忽视宝宝哭/信号 → 焦虑型依恋(缺乏同情心、社会成熟晚、学习能力差)。
+    及时回应 → 安全型依恋(独立性强、社会性好、智力正常发展)。
+    鲍秀兰直接反驳"克制不抱怕宠坏"立场:8 月前宝宝需要抱时,父母应去抱抱他 — 这是安全型依恋的物质基础。
+    Bowlby/Ainsworth 依恋理论中文家长版本。
+  what_to_do:
+    - 8 月前宝宝要抱就抱,不"训练"自我安抚
+    - 哭声 / 表情 / 发声 / 动作信号都要回应
+    - 关注宝宝生活节律 + 脾气变化
+    - 不论高兴或烦恼,大人都要作出反应
+    - 全家选充满爱心、反应灵活的看护人
+  failure_mode: |
+    "怕养成好抱习惯"克制不理 → 焦虑型依恋,终身影响。
+    完全溺爱无原则 → 错过 6 月起的"引导独立"过渡。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Bao
+  - G-TERM-attachment
+
+citation:
+  book_title_zh: "鲍秀兰谈婴幼儿潜能开发和早期教育"
+  authors: ["鲍秀兰", "孙淑英"]
+  publisher_zh: "中国妇女出版社"
+  year_zh: 2016
+  isbn: "978-7-5127-1196-9"
+  location: "PART 1 · 7-8 月龄 · 生活与交往段(4.关注宝宝的需求 — 8 月龄前的宝宝需要抱时父母应去抱抱他)"
+  source_id: SRC-009
+
+unit_ids: []
+related_cards:
+  - C-S1-067     # 把新生儿当懂事孩子(同方向)
+  - C-S1-043     # AAP 头 6 月不会宠坏(同方向)
+  - C-S2-013     # 不等啼哭再喂(同方向)
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

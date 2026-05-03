@@ -1,0 +1,43 @@
+card_id: C-S6-013
+stages: [S6]
+tags: []
+
+front:
+  title: 22-24 月跑+倒退走+双脚跳
+  hook: 协调性大动作进阶
+
+back:
+  why_matters: |
+    22-24 月运动能力进入**协调性飞跃期**:从只会"快走"过渡到真正的**跑** + 转弯绕障 + 倒退走 + 双脚同时跳。
+    鲍秀兰强调:跑要等到**身体能稳平走路后才开始**;倒退走是运动稳定协调的表现;双脚跳是平衡 + 力量 + 协调三合一。
+    这些技能为 2-3 岁后骑三轮 / 单脚站 / 跳远等做基础。
+  what_to_do:
+    - 走稳后再练跑(初期速度慢、动作僵硬正常)
+    - 教转弯 + 绕障碍物
+    - 拖拉玩具游戏练倒退走
+    - 用青跳蛙 / 小兔蹦蹦游戏练双脚跳
+    - 让宝宝跳起够东西练同时抬脚
+  failure_mode: |
+    没走稳就练跑 → 摔倒频繁伤信心。
+    强求双脚同时跳 → 早期可能只一只脚先抬。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Bao
+
+citation:
+  book_title_zh: "鲍秀兰谈婴幼儿潜能开发和早期教育"
+  authors: ["鲍秀兰", "孙淑英"]
+  publisher_zh: "中国妇女出版社"
+  year_zh: 2016
+  isbn: "978-7-5127-1196-9"
+  location: "PART 2 · 22-24 月龄 · 运动一一跑、倒退走段(1.跑 + 2.倒退走)+ 22-24 月运动一一双脚跳段(2.双脚跳)"
+  source_id: SRC-009
+
+unit_ids: []
+related_cards: []
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

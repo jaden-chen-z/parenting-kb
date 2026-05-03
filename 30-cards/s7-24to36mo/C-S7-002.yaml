@@ -1,0 +1,43 @@
+card_id: C-S7-002
+stages: [S7]
+tags: []
+
+front:
+  title: 25-30 月学骑小三轮车
+  hook: 手脚 + 全身协调一次满足
+
+back:
+  why_matters: |
+    小三轮车 = 25-30 月**最综合的运动训练工具**:同时锻炼**手脚协调 + 全身肌肉 + 平衡感 + 视觉空间**。
+    鲍秀兰具体方法:**先扶着教双足用力蹬**;力量不够时**稍加力推他前行**,使他感到通过自己的努力可前进的喜悦;后期渐独自骑。
+    比电子玩具远更适合大动作发展。
+  what_to_do:
+    - 选稳定 3 轮款(不是平衡车)
+    - 先扶着教双足用力蹬
+    - 力量不够时稍加力推前行
+    - 渐培养独自骑
+    - 在安全无车区域骑(公园 / 院子)
+  failure_mode: |
+    用平衡车代替三轮(过早)→ 平衡力还不够。
+    一直推没让自己蹬 → 锻炼意义大减。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Bao
+
+citation:
+  book_title_zh: "鲍秀兰谈婴幼儿潜能开发和早期教育"
+  authors: ["鲍秀兰", "孙淑英"]
+  publisher_zh: "中国妇女出版社"
+  year_zh: 2016
+  isbn: "978-7-5127-1196-9"
+  location: "PART 3 · 25-30 月龄 · 运动段(4.骑小三轮车 — 培养手脚协调能力)"
+  source_id: SRC-009
+
+unit_ids: []
+related_cards: []
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

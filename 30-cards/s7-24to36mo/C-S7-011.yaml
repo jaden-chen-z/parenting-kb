@@ -1,0 +1,43 @@
+card_id: C-S7-011
+stages: [S7]
+tags: []
+
+front:
+  title: 31-36 月跳高跳远 + 单足站
+  hook: 平衡控制大动作进阶
+
+back:
+  why_matters: |
+    31-36 月是身体平衡和重心控制的进阶训练期。
+    鲍秀兰具体技能:① 单足站立(模仿大公鸡抬一只脚)+ ② 足尖走路(模仿芭蕾舞演员)+ ③ 跳远(原地往前跳)+ ④ 跳高(跳出门槛 / 5-10 厘米橡皮筋)+ ⑤ 两足交替下楼梯。
+    用游戏方式而不是单纯模仿训练 → 兴趣更高。
+  what_to_do:
+    - 单足站立:游戏"学大公鸡抬一只脚"
+    - 足尖走路:游戏"学芭蕾舞"
+    - 跳远:鼓励向前跳,比赛谁远
+    - 跳高:小门槛或松绳子(5-10cm)
+    - 两足交替下楼梯,坡度别太大
+  failure_mode: |
+    单纯让模仿没游戏化 → 兴趣低,不愿练。
+    跳高用太硬的绳 → 摔倒受伤。
+  evidence_level: C
+
+glossary_refs:
+  - G-PERSON-Bao
+
+citation:
+  book_title_zh: "鲍秀兰谈婴幼儿潜能开发和早期教育"
+  authors: ["鲍秀兰", "孙淑英"]
+  publisher_zh: "中国妇女出版社"
+  year_zh: 2016
+  isbn: "978-7-5127-1196-9"
+  location: "PART 3 · 31-36 月龄 · 运动一一跳远跳高段(1.会控制重心 + 2.两足交替走下楼梯 + 3.跳高 + 4.跳远)"
+  source_id: SRC-009
+
+unit_ids: []
+related_cards: []
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

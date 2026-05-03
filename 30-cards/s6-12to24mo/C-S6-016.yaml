@@ -1,0 +1,46 @@
+card_id: C-S6-016
+stages: [S6]
+tags: []
+
+front:
+  title: 22-24 月主动交往扩社交圈
+  hook: 陌生人警觉减,愿接触新
+
+back:
+  why_matters: |
+    22-24 月陌生人警觉显著减轻 + 对新面孔产生兴趣,是社交圈扩大的窗口。
+    鲍秀兰强调:鼓励和创造机会让宝宝主动学习与人交往,特别是与年龄相仿的宝宝。
+    同年龄宝宝接触可能只是相互看看 / 交换玩具,但这些简单活动给宝宝带来很多乐趣。
+    不要强迫宝宝用某种方式与别人交往 — 让他用自己的方式接近别人。
+  what_to_do:
+    - 多带去公园 / 邻居 / 亲戚家
+    - 接触同龄小伙伴(集体活动 / 早教)
+    - 鼓励交换玩具(简单分享)
+    - 不强迫"打招呼""握手"
+    - 让宝宝用自己方式接近别人
+  failure_mode: |
+    强求"必须主动叫人"→ 反伤社交意愿。
+    一直只在家不出门 → 社交圈窄,3 岁难融入。
+  evidence_level: C
+
+glossary_refs:
+  - G-PERSON-Bao
+  - G-TERM-attachment
+
+citation:
+  book_title_zh: "鲍秀兰谈婴幼儿潜能开发和早期教育"
+  authors: ["鲍秀兰", "孙淑英"]
+  publisher_zh: "中国妇女出版社"
+  year_zh: 2016
+  isbn: "978-7-5127-1196-9"
+  location: "PART 2 · 22-24 月龄 · 生活与交往一一主动交往段(2.主动交往 — 家长不要强迫宝宝用某种方式与别人交往)"
+  source_id: SRC-009
+
+unit_ids: []
+related_cards:
+  - C-S3-018     # 4-5 月找朋友(前置)
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

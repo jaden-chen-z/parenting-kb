@@ -1,0 +1,45 @@
+card_id: C-S4-008
+stages: [S4]
+tags: []
+
+front:
+  title: 7-8 月爬行训练 = 多重发展
+  hook: 不只腿,是认知 + 社交
+
+back:
+  why_matters: |
+    爬行 = 8 月运动里程碑,不只大动作,更是深度知觉 + 思维 + 社交全面发展。
+    爬后可主动探索环境,克服距离障碍接近兴趣的人和物。
+    爬行后与母亲距离增加,学会用表情声音姿态远距离求情感 → 社交能力质变。
+    缺乏爬行 → 学龄期反应迟钝、动作笨拙。
+  what_to_do:
+    - 准备安全爬行区,地上铺垫子
+    - 用宝宝感兴趣的玩具引诱前进
+    - 不要"怕脏怕危险"总让宝宝坐着
+    - 让宝宝爬行后主动探索家里安全角落
+    - 爬行时父母在旁观察 + 鼓励
+  failure_mode: |
+    "宝宝坐着安静别动"→ 错过爬行黄金期,长大后笨拙。
+    地上铺塑料袋等危险物 → 误食 / 缠绕风险。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Bao
+
+citation:
+  book_title_zh: "鲍秀兰谈婴幼儿潜能开发和早期教育"
+  authors: ["鲍秀兰", "孙淑英"]
+  publisher_zh: "中国妇女出版社"
+  year_zh: 2016
+  isbn: "978-7-5127-1196-9"
+  location: "PART 1 · 7-8 月龄 · 运动一一爬行段(从心理发展来说,爬行可使身体随意变动位置...)"
+  source_id: SRC-009
+
+unit_ids: []
+related_cards:
+  - C-S3-011     # AAP 抓握:claw → 9 月 pincer 对捏
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

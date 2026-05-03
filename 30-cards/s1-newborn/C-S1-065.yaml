@@ -1,0 +1,45 @@
+card_id: C-S1-065
+stages: [S1]
+tags: []
+
+front:
+  title: 1 月龄每天视听训练 10 分钟
+  hook: 觉醒时再练,疲劳就停
+
+back:
+  why_matters: |
+    视听训练 = 用声音、玩具刺激新生儿的视觉听觉,是脑发育的起跑点。
+    出生后头半年是视敏度发展关键期,错过这一时期可能造成无法挽回的影响。
+    鲍秀兰建议每次约 10 分钟,觉醒时进行,疲劳就停 — 不是越多越好。
+  what_to_do:
+    - 觉醒时面对面谈话,移动头让宝宝视线追随
+    - 耳边距 10 厘米轻轻呼唤,等他转头响应
+    - 红色塑料球 / 摇铃在床头变换吸引看
+    - 每次约 10 分钟,看到无反应立刻停
+    - 喂奶护理时随时和他说话,让他听语言
+  failure_mode: |
+    强行训练熟睡或疲劳的宝宝 → 无反应反成负担。
+    视听刺激单一无变化 → 宝宝失兴趣不再响应。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Bao
+  - G-TERM-critical-period
+
+citation:
+  book_title_zh: "鲍秀兰谈婴幼儿潜能开发和早期教育"
+  authors: ["鲍秀兰", "孙淑英"]
+  publisher_zh: "中国妇女出版社"
+  year_zh: 2016
+  edition_zh: "第 1 版第 1 次印刷"
+  isbn: "978-7-5127-1196-9"
+  location: "PART 1 · 1 月龄 · 视听是最好的交往形式 · 认知一一进行视听刺激段"
+  source_id: SRC-009
+
+unit_ids: []
+related_cards: []
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

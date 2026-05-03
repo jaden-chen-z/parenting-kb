@@ -1,0 +1,48 @@
+card_id: C-S5-015
+stages: [S5]
+tags: []
+
+front:
+  title: 11-12 月加紧学说 5 要点
+  hook: 满周前 3 月最关键
+
+back:
+  why_matters: |
+    满周岁前 3 个月(9-12 月)是**听说能力突进期**,要为宝宝提供最丰富的语言环境。
+    鲍秀兰列 5 要点:**面对面说话 + 普通话 + 说看得见的东西 + 说宝宝感兴趣的 + 边指边说**。
+    9-10 月是**婴儿学话萌芽阶段**,模仿能力最强,语言能力增长最快。
+    错过这一窗口,后续学话可能延迟 2-3 月。
+  what_to_do:
+    - 面对面说话(不要背着宝宝说)
+    - 用普通话 + 清晰节奏较慢
+    - 说看得见的东西(建立词与物联系)
+    - 说宝宝感兴趣的事物(易记住)
+    - 说时用手指给宝宝看
+  failure_mode: |
+    电视代替父母说话 → 缺面对面 + 互动反馈。
+    自己说 didn't 看宝宝反应 → 错过 turn-taking。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Bao
+  - G-TERM-parentese
+  - G-TERM-turn-taking
+  - G-TERM-critical-period
+
+citation:
+  book_title_zh: "鲍秀兰谈婴幼儿潜能开发和早期教育"
+  authors: ["鲍秀兰", "孙淑英"]
+  publisher_zh: "中国妇女出版社"
+  year_zh: 2016
+  isbn: "978-7-5127-1196-9"
+  location: "PART 1 · 11-12 月龄 · 语言一一练习听和说段(1.加紧学习听和说 — 满周必前 3 个月是帮助宝宝学会听和说的宝贵时间)"
+  source_id: SRC-009
+
+unit_ids: []
+related_cards:
+  - C-S5-003     # AAP 第一个真词 ~1 岁,理解 > 表达
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

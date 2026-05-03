@@ -1,0 +1,44 @@
+card_id: C-S6-002
+stages: [S6]
+tags: []
+
+front:
+  title: 12-15 月念儿歌押韵接背
+  hook: 末字停顿等宝宝接
+
+back:
+  why_matters: |
+    儿歌是 12-24 月发展语言能力的最佳工具:押韵帮记忆 + 重复练发音 + 节奏培养韵律感 + 配动作具象化。
+    鲍秀兰具体方法:念儿歌时故意加重每句最后押韵的字 + 末字拉长,如"小娃-娃",然后故意不念出第二个'娃',等宝宝接 — 反复后宝宝能接背。
+    每天朗读 1-2 个故事 / 儿歌,看图画书简单短句不厌其烦重复。
+  what_to_do:
+    - 选简单押韵儿歌(每句末字押韵)
+    - 念时加重末字 + 拉长
+    - 故意停顿等宝宝接末字
+    - 边念边做配套动作(如"小白兔"摆手指)
+    - 每天 1-2 个故事 + 1-2 首儿歌
+  failure_mode: |
+    一次念多首长歌 → 宝宝记不住接不上。
+    没有动作配合纯念词 → 失去具象化优势。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Bao
+  - G-TERM-cooing
+
+citation:
+  book_title_zh: "鲍秀兰谈婴幼儿潜能开发和早期教育"
+  authors: ["鲍秀兰", "孙淑英"]
+  publisher_zh: "中国妇女出版社"
+  year_zh: 2016
+  isbn: "978-7-5127-1196-9"
+  location: "PART 2 · 12-15 月龄 · 语言段(2.模仿说话 + 3.念儿歌:故意加重每句押韵末字,等宝宝接)"
+  source_id: SRC-009
+
+unit_ids: []
+related_cards: []
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

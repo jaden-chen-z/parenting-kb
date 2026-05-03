@@ -1,0 +1,44 @@
+card_id: C-S5-008
+stages: [S5]
+tags: []
+
+front:
+  title: 9 月扶站独站 + 蹲下捡训练
+  hook: 站到坐转换是站立基础
+
+back:
+  why_matters: |
+    9 月起宝宝有强烈站立意愿,从**扶站 → 撤物独站**是关键过渡。
+    9 月-1 岁宝宝有"反复做某动作的天然兴趣",可让他们多次练习蹲下捡玩具。
+    鲍秀兰强调:**蹲下捡需要手与身体稳定配合**,是站立姿势平衡发展的关键 — 站着够不到的玩具,要让他自己蹲下取。
+  what_to_do:
+    - 准备扶物(沙发 / 床栏 / 扶手椅)
+    - 让宝宝靠物站立练习
+    - 逐渐撤去支撑,让独站片刻
+    - 把玩具放脚下,鼓励蹲下捡
+    - 在身边保护,防摔倒
+  failure_mode: |
+    保护过度全程扶持 → 失去练习机会,独站延迟。
+    放手不防 → 摔倒影响下次练习信心。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Bao
+
+citation:
+  book_title_zh: "鲍秀兰谈婴幼儿潜能开发和早期教育"
+  authors: ["鲍秀兰", "孙淑英"]
+  publisher_zh: "中国妇女出版社"
+  year_zh: 2016
+  isbn: "978-7-5127-1196-9"
+  location: "PART 1 · 9-10 月龄 · 运动一一独站段(1.扶站-独站 + 2.扶着蹲下 + 6.蹲下捡玩具)"
+  source_id: SRC-009
+
+unit_ids: []
+related_cards:
+  - C-S5-002     # AAP 第一步 ~1 岁,脚分宽是正常
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

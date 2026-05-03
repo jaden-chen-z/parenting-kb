@@ -1,0 +1,46 @@
+card_id: C-S1-067
+stages: [S1]
+tags: [philosophy]
+
+front:
+  title: 把新生儿当懂事孩子对待
+  hook: 哭了先言语安慰,再满足
+
+back:
+  why_matters: |
+    鲍秀兰核心理念:新生儿一出生就有智慧和能力,不是只会吃睡哭的"白板"。
+    母亲对宝宝需求的敏感性 + 把新生儿当懂事孩子对待,会促进认识世界能力发展。
+    哭时先言语安慰再满足需求,反复多次后宝宝学会"等待" — 这是最初条件反射的建立,也是宝宝最早的学习方式。
+  what_to_do:
+    - 哭时先用言语安慰:"宝宝等等,妈妈在"
+    - 再去满足需求(喂奶 / 换尿布 / 抱起)
+    - 反复多次,宝宝学会暂时不哭等待
+    - 注意观察面部表情(皱眉 / 微笑 / 哭声)
+    - 设法理解需求,不只机械满足
+  failure_mode: |
+    一哭就立刻塞奶塞嘴 → 错过语言学习窗口,条件反射不建立。
+    完全不回应训"自我安抚"→ 安全感受损。
+  evidence_level: C
+
+glossary_refs:
+  - G-PERSON-Bao
+
+citation:
+  book_title_zh: "鲍秀兰谈婴幼儿潜能开发和早期教育"
+  authors: ["鲍秀兰", "孙淑英"]
+  publisher_zh: "中国妇女出版社"
+  year_zh: 2016
+  edition_zh: "第 1 版第 1 次印刷"
+  isbn: "978-7-5127-1196-9"
+  location: "PART 1 · 1 月龄 · 生活与交往一一把新生儿当作懂事的孩子对待段"
+  source_id: SRC-009
+
+unit_ids: []
+related_cards:
+  - C-S1-007     # Karp 前 3 月怎么回应都不会惯坏(立场一致)
+  - C-S1-043     # AAP 头 6 月不会宠坏 — 答应反而少哭(立场一致)
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

@@ -1,0 +1,43 @@
+card_id: C-S4-015
+stages: [S4]
+tags: [philosophy]
+
+front:
+  title: 7-8 月制止打人:别笑反应
+  hook: 笑脸 = 鼓励 = 长大爱打人
+
+back:
+  why_matters: |
+    7-8 月宝宝偶尔会打大人脸,大人若觉得可爱**笑了或还让他打** → 笑脸对宝宝是鼓励 → 形成打人习惯。
+    鲍秀兰:这种"笑脸鼓励"会让宝宝长大后"不管见谁都打,可能惹是生非"。
+    错误行为得不到强化,以后会逐渐消失;但若被强化(笑/重视/再玩),则会固化。**早期态度决定行为习惯**。
+  what_to_do:
+    - 宝宝打人立刻**严肃**地说"不能打"
+    - 给宝宝看不高兴的表情,不要笑
+    - 全家人态度一致(老人也别觉得可爱)
+    - 也不是惩罚,只是**冷处理 + 不强化**
+    - 偶尔抓不该抓的东西用同样办法
+  failure_mode: |
+    觉得"宝宝小打不痛笑笑就行"→ 强化打人习惯。
+    家庭态度不一致(老人逗着打)→ 宝宝迷惑,行为更不稳定。
+  evidence_level: C
+
+glossary_refs:
+  - G-PERSON-Bao
+
+citation:
+  book_title_zh: "鲍秀兰谈婴幼儿潜能开发和早期教育"
+  authors: ["鲍秀兰", "孙淑英"]
+  publisher_zh: "中国妇女出版社"
+  year_zh: 2016
+  isbn: "978-7-5127-1196-9"
+  location: "PART 1 · 7-8 月龄 · 生活与交往段(c.制止宝宝打人:大人笑了还让他打,就会埋下打人的祸根)"
+  source_id: SRC-009
+
+unit_ids: []
+related_cards: []
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

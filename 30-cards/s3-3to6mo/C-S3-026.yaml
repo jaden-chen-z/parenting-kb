@@ -1,0 +1,47 @@
+card_id: C-S3-026
+stages: [S3]
+tags: [philosophy]
+
+front:
+  title: 6 月理性对哭声求助
+  hook: 别立即替他,推他自己努力
+
+back:
+  why_matters: |
+    6 月起宝宝尝试自己拿玩具,够不到会哭着求助 — 这是培养独立性 vs 依赖性的关键分叉。
+    鲍秀兰平衡立场:直接帮 → 失去练习机会 + 培养依赖;冷漠不理 → 也不可取。
+    正确做法:轻推宝宝脚丫往前,帮他自己努力达到 — 既满足要求又锻炼身心,培养自信。
+    与 0-3 月"立刻回应一切哭声"不同,6 月起渐入"引导独立"阶段。
+  what_to_do:
+    - 趴着够不到玩具哭时,别立即把玩具递给他
+    - 用手掌轻推宝宝小脚丫往前一下
+    - 让他自己挣扎着够到玩具
+    - 饥饿 / 疼痛 / 孤立 / 惧怕仍要充分关心
+    - 区分"求助哭"vs"真痛苦哭",前者引导,后者满足
+  failure_mode: |
+    一哭就直接帮 → 培养依赖,日后什么都求人帮。
+    完全不理冷漠 → 安全感受损,焦虑型依恋风险。
+  evidence_level: C
+
+glossary_refs:
+  - G-PERSON-Bao
+  - G-TERM-attachment
+
+citation:
+  book_title_zh: "鲍秀兰谈婴幼儿潜能开发和早期教育"
+  authors: ["鲍秀兰", "孙淑英"]
+  publisher_zh: "中国妇女出版社"
+  year_zh: 2016
+  isbn: "978-7-5127-1196-9"
+  location: "PART 1 · 6 月龄 · 生活与交往段(1.理性对待孩子用哭声求助)"
+  source_id: SRC-009
+
+unit_ids: []
+related_cards:
+  - C-S1-067     # 1 月把新生儿当懂事孩子(同方向但 6 月升级)
+  - C-S2-013     # 2 月不等啼哭再喂(早期版)
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

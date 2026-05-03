@@ -1,0 +1,45 @@
+card_id: C-S2-010
+stages: [S2]
+tags: [philosophy]
+
+front:
+  title: 没语言刺激,可能成聋哑儿
+  hook: 别等会说话再教
+
+back:
+  why_matters: |
+    语言剥夺 = 婴儿期没接触过有声语言的环境(如聋哑父母家庭、严重忽视)。
+    鲍秀兰:即使宝宝脑发育正常,缺少语言刺激环境,也可能成为"聋哑儿"。
+    早期(0-3 岁)是语言关键期,5-6 岁后即使补语言训练,也只能学单词,语法掌握极困难(Genie 案例)。
+  what_to_do:
+    - 婴儿不会说话,也要把他当懂事孩子常和他交谈
+    - 喂奶 / 护理 / 散步时随时和宝宝说话
+    - 唱歌 / 念儿歌 / 喊名字
+    - 父亲和其他家庭成员也参与
+    - 「宝宝该睡觉了」/「看妈妈」等日常解说
+  failure_mode: |
+    觉得"宝宝听不懂等会说话再教"→ 错过 0-3 岁语言关键期。
+    家中长期沉默(看电视代替对话)→ 影响词汇 + 语法发展。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Bao
+  - G-TERM-critical-period
+  - G-TERM-parentese
+
+citation:
+  book_title_zh: "鲍秀兰谈婴幼儿潜能开发和早期教育"
+  authors: ["鲍秀兰", "孙淑英"]
+  publisher_zh: "中国妇女出版社"
+  year_zh: 2016
+  isbn: "978-7-5127-1196-9"
+  location: "PART 1 · 2 月龄 · 语言一一跟宝宝多说话段('没有接触过语言刺激的婴儿,即使他的脑发育正常,也可能成为聋哑儿')"
+  source_id: SRC-009
+
+unit_ids: []
+related_cards: []
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

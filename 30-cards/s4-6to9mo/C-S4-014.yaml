@@ -1,0 +1,45 @@
+card_id: C-S4-014
+stages: [S4]
+tags: [safety]
+
+front:
+  title: 7-8 月长牙后改用杯子喝水
+  hook: 防奶瓶蛀牙 + 口型矫正
+
+back:
+  why_matters: |
+    奶瓶蛀牙(baby bottle tooth decay)= 长期睡前用奶瓶喂奶/糖水,液体浸泡牙齿被微生物发酵成有机酸,腐蚀釉质。
+    鲍秀兰数据:**3 岁儿童中约半数有龋齿**,首先侵犯上门牙(称"喂养龋")。还可能改变口型,影响牙齿发育。
+    7-8 月长牙后逐渐改用杯子喝水 / 喝奶,是 0-3 岁口腔健康关键决定。
+  what_to_do:
+    - 7-8 月开始减少吸吮奶瓶机会
+    - 用透明杯子(可看液面)装水
+    - 大人扶杯教宝宝双手扶杯
+    - 逐渐过渡到宝宝自己扶杯
+    - 绝不睡前用奶瓶喂(最易蛀牙)
+  failure_mode: |
+    睡前奶瓶喂到宝宝睡 → 喂养龋,3 岁就需治疗。
+    觉得"宝宝戒不了奶瓶,等 2 岁再说"→ 终身牙齿问题。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Bao
+  - G-TERM-baby-bottle-tooth-decay
+
+citation:
+  book_title_zh: "鲍秀兰谈婴幼儿潜能开发和早期教育"
+  authors: ["鲍秀兰", "孙淑英"]
+  publisher_zh: "中国妇女出版社"
+  year_zh: 2016
+  isbn: "978-7-5127-1196-9"
+  location: "PART 1 · 7-8 月龄 · 生活与交往一一认识五官段(1.用杯子喝水:防奶瓶蛀牙)"
+  source_id: SRC-009
+
+unit_ids: []
+related_cards:
+  - C-S5-001     # AAP 戒奶瓶 12-18 月,sippy 只过渡
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02
