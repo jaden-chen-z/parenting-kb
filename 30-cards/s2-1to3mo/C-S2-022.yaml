@@ -1,0 +1,49 @@
+card_id: C-S2-022
+stages: [S2]
+tags: [philosophy, controversy]
+
+front:
+  title: 这月龄不存在"宠坏"
+  hook: 抱多了不会惯坏
+
+back:
+  why_matters: |
+    父母最常问的"我会不会把娃宠坏"——Brazelton 的回答是:"spoiling 在 1 岁前根本不存在。"
+    他临床定义的"宠坏的孩子"是焦虑型、被驱动型,源于父母带着焦虑/愤怒的悬浮式陪伴,不是源于回应需求。
+    新手父母在 6-8 周最易自我怀疑:每次哭都抱、奶不够就喂,怕"惯坏"。
+    结果反而过度克制,让宝宝学会"哭也没用",损伤早期依恋。
+  what_to_do:
+    - 哭就回应,不要计时间
+    - 只要不带着焦虑/愤怒,怎么抱都行
+    - 让宝宝偶尔自己哭 5-10 分钟练自我安抚
+    - 1 岁前别用"惯坏"这个词
+  failure_mode: |
+    老人"哭就抱会惯坏"洗脑,父母强忍不抱,宝宝哭 30 分钟无人响应——
+    几次后宝宝学到"哭也没用",2-3 月时眼神不再追人、表情变得冷淡(早期依恋损伤)。
+    反过来,父母焦虑无时无刻盯着、用焦虑/愤怒回应,把孩子养出"被驱动感"——
+    这种"焦虑型陪伴"才是真正的"惯坏",不是回应需求。
+  evidence_level: C
+
+glossary_refs:
+  - G-TERM-spoiling-myth
+  - G-PERSON-Brazelton
+
+citation:
+  book_title_en: "Touchpoints: Birth to 3 — Your Child's Emotional and Behavioral Development"
+  book_title_zh: null
+  authors: ["T. Berry Brazelton", "Joshua D. Sparrow"]
+  publisher_en: "Da Capo Press"
+  publisher_imprint: "A Merloyd Lawrence Book"
+  publisher_zh: null
+  year: 1992
+  year_revised: 2006
+  edition: "Second Edition (Revised)"
+  location: "page 71, 'Crying' in chapter 5"
+  source_id: SRC-010
+
+unit_ids: []
+related_cards: [C-S1-007, C-S1-043]
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

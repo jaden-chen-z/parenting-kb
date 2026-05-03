@@ -1,0 +1,51 @@
+card_id: C-S6-029
+stages: [S6]
+tags: [philosophy]
+
+front:
+  title: 喂食是自主权战场
+  hook: 让她自己掌控
+
+back:
+  why_matters: |
+    Brazelton 心理动力学解读:喂食本质是"独立 vs 依赖"主战场。
+    1 岁后必须把控制权交孩子(选什么、拒什么、什么时候停)——父母只控制"提供什么、什么时候上桌"。
+    挑食、拒食、暴吃某一种都是 normal phases,是孩子建立家庭中身份认同的方式。
+    Brazelton 反讽:"好妈妈"的旧观念是"把食物塞进宝宝嘴里",但这正是制造问题的根源。
+    父母把烹饪当个人投入(尤其 30+ 才生孩子的父母)、孩子拒绝时易当成人格攻击。
+  what_to_do:
+    - 1 岁起每餐让孩子手抓自喂
+    - 挑食阶段不做"专属替代菜"
+    - "不想吃可以,下顿自己挑"
+    - 维生素补全后蔬菜偏食可放过
+    - 吃饭专注,不做电视/零食
+  failure_mode: |
+    父母用奖励/哄骗/分散注意力短期让孩子吃多,长期变战场,孩子永远赢——以拒食或厌食扳回控制权。
+  evidence_level: A
+
+glossary_refs:
+  - G-TERM-picky-eating
+  - G-TERM-food-autonomy
+  - G-PERSON-Brazelton
+
+citation:
+  book_title_en: "Touchpoints: Birth to 3 — Your Child's Emotional and Behavioral Development"
+  book_title_zh: null
+  authors: ["T. Berry Brazelton", "Joshua D. Sparrow"]
+  publisher_en: "Da Capo Press"
+  publisher_imprint: "A Merloyd Lawrence Book"
+  publisher_zh: null
+  year: 1992
+  year_revised: 2006
+  edition: "Second Edition (Revised)"
+  location: "ch.22 Feeding Problems, p.281-287"
+  source_id: SRC-010
+
+unit_ids: []
+related_cards:
+  - C-S4-020
+  - C-S6-027
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

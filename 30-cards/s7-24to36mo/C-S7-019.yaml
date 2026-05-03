@@ -1,0 +1,46 @@
+card_id: C-S7-019
+stages: [S7]
+tags: [philosophy]
+
+front:
+  title: 3 岁是亲子第二蜜月
+  hook: 想象朋友是神圣的,问起来就消失
+
+back:
+  why_matters: |
+    Brazelton 描述 3 岁是亲子的"第二个蜜月期":18 月以来的 negativism 和挣扎奇迹般化解,孩子变得平静合作,回到第一年那种"全是玫瑰"的感觉,但**这次孩子赢得的是 self-mastery**(自我掌控)的尊敬,不只是依恋。这个时期的核心新能力是**想象力(Imagination)**:- 老大 / 独生子女几乎都会发展出**想象朋友(imaginary friend)** - 想象朋友能做所有"坏事",承担所有"好事" - 孩子说起想象朋友时跟说真人没区别。**Brazelton 的关键警告**:**想象朋友的私密性必须被尊重,不要追问。** > "成年人必须尊重这种幻想的私密性。它是珍贵的。一旦成年人通过询问朋友的事来侵入这种隐私,他们就破坏了它。幻想被父母加入她而被现实污染。Imaginary friends 在成年人谈论他们时融化消失。" Brazelton 自己经历:他问孙子"你的朋友长啥样?"孙子轻蔑回答:"Bapa! He's only imaginary." 引用爱默生:"Respect the child. Trespass not on his solitude." (尊重孩子,不要侵犯他的孤独。) **老二 / 老三很少有想象朋友** — 因为哥姐会嘲笑("你的朋友连人都不是")。这是老大独有的发展礼物,父母不要替老二感到"缺失"。
+  what_to_do:
+    - 听到孩子讲想象朋友,**点头听就好,不要追问细节**
+    - 不要"我们一起去找你的小明"— 那是侵入
+    - 不要在饭桌上替想象朋友"摆碗"(太干预)
+    - 设家规时把想象朋友当真实存在(她要"睡觉了"就接受)
+    - 老大的想象朋友期一般持续 3-6 月,自然消失,不焦虑
+    - 老二老三没有想象朋友是正常的(他们已经有真实玩伴 = 哥姐)
+    - 5 岁后还沉迷一个想象朋友 + 排斥真实朋友 = 找心理评估
+  failure_mode: |
+    "你这是骗人 / 撒谎"否认 → 切断幻想 + 创造能力。追问 / 替朋友"做事" → 想象崩塌,孩子学到"想象是可被入侵的"。用想象朋友吓唬"小明会生气哦" → 工具化 → 信任崩塌。
+  evidence_level: C
+
+glossary_refs:
+  - G-TERM-imaginary-friend
+  - G-PERSON-Brazelton
+
+citation:
+  book_title_en: "Touchpoints: Birth to 3 — Your Child's Emotional and Behavioral Development"
+  book_title_zh: null
+  authors: ["T. Berry Brazelton", "Joshua D. Sparrow"]
+  publisher_en: "Da Capo Press"
+  publisher_imprint: "A Merloyd Lawrence Book"
+  publisher_zh: null
+  year: 1992
+  year_revised: 2006
+  edition: "Second Edition (Revised)"
+  location: "Part One · Ch 13 Three Years · pp.197 (Second honeymoon) + pp.203-205 (Imagination & Fantasy)"
+  source_id: SRC-010
+
+unit_ids: []
+related_cards: []
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

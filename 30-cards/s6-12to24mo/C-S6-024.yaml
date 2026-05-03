@@ -1,0 +1,46 @@
+card_id: C-S6-024
+stages: [S6]
+tags: []
+
+front:
+  title: 18 月通过红鼻子镜子测试
+  hook: 1 岁:看着镜子 → 15 月:擦镜中的鼻子 → 18 月:擦自己的鼻子
+
+back:
+  why_matters: |
+    自我意识(self-awareness)= 知道"我"是和别人不同的独立存在。这是 18 月的关键认知里程碑。Michael Lewis 1979 用镜子测试可以证明它出现。
+    心理学家 Michael Lewis 的经典实验,Brazelton 引用作为 18 月**自我意识里程碑**的标志:1. 给孩子照镜子,然后悄悄在他鼻子上抹一点口红 2. 重新带回镜子前,观察反应。年龄差异:- **1 岁**:仔细看自己,认出鼻子上的奇怪颜色,但不知道镜中是自己 - **15 月**:摸**镜子里**的鼻子,试图擦掉**镜中的**口红 — 已经识别异常 - **18 月**:摸**自己的**鼻子,擦自己的鼻子 — 理解"镜中那个是我"。这是惊人的认知飞跃 — 孩子第一次有了**关于自己身体的内部表征**。所以 18 月孩子开始疯狂自我探索:眼睛、鼻子、嘴巴、肚脐、生殖器都成为兴趣中心(尤其男孩对阴茎、女孩对阴道,这是正常发展,父母不需阻止)。
+  what_to_do:
+    - 18 月时可以做一次镜子测试,庆祝这个认知里程碑
+    - 给孩子贴纸 / 涂指甲 / 玩照镜子 → 都是支持自我意识的活动
+    - 说"这是你的鼻子" "这是妈妈的鼻子" → 强化身体地图
+    - 看到孩子探索生殖器**不要打断 / 不要羞辱** — 这是身体地图的一部分
+    - 男孩女孩对自己生殖器的探索都是正常的,不要过度反应
+  failure_mode: |
+    错过这个观察窗口 → 错过见证孩子认知飞跃的机会。阻止生殖器探索"羞羞" → 让孩子对自己身体产生羞耻感,影响后续身体认知。强行解释镜中"那是另一个宝宝" → 干扰自我认知建立。
+  evidence_level: B
+
+glossary_refs:
+  - G-TERM-mirror-recognition
+  - G-PERSON-Lewis
+  - G-PERSON-Brazelton
+
+citation:
+  book_title_en: "Touchpoints: Birth to 3 — Your Child's Emotional and Behavioral Development"
+  book_title_zh: null
+  authors: ["T. Berry Brazelton", "Joshua D. Sparrow"]
+  publisher_en: "Da Capo Press"
+  publisher_imprint: "A Merloyd Lawrence Book"
+  publisher_zh: null
+  year: 1992
+  year_revised: 2006
+  edition: "Second Edition (Revised)"
+  location: "Part One · Ch 11 Eighteen Months · pp.173-175 (Self-Awareness, mirror experiment)"
+  source_id: SRC-010
+
+unit_ids: []
+related_cards: []
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

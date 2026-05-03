@@ -1,0 +1,47 @@
+card_id: C-S3-027
+stages: [S3]
+tags: [philosophy]
+
+front:
+  title: 4 月触点：先退后进
+  hook: 突然不乖=要长本事
+
+back:
+  why_matters: |
+    触点（touchpoint）是 Brazelton 流派核心概念——宝宝在每个发育飞跃前会暂时回到旧行为:吃奶变差、夜醒增多、闹觉、易哭闹。
+    新手父母最常误读为"退步"或"出问题",而 Brazelton 的临床观察是:每一次"退"恰是"进"的前奏,认知/运动系统正在重组,旧的稳态被打破才能搭新的。
+    4 月触点是第一次大型回退,理解它能避免一系列错误干预。
+  what_to_do:
+    - 突然不乖时先记 1-2 周观察
+    - 不换奶粉、不加药、不强行训练
+    - 维持原有的喂睡作息节奏
+    - 留意他在练什么新技能（看远、抓物、翻身）
+  failure_mode: |
+    看到夜醒增加立刻去咨询睡眠师、立刻加奶粉、怀疑过敏。
+    错过把"退"理解为"进"的视角,开始一连串无效干预,反而打乱宝宝自我重组节奏。
+  evidence_level: C
+
+glossary_refs:
+  - G-TERM-touchpoint
+  - G-TERM-regression-progression
+  - G-PERSON-Brazelton
+
+citation:
+  book_title_en: "Touchpoints: Birth to 3 — Your Child's Emotional and Behavioral Development"
+  book_title_zh: null
+  authors: ["T. Berry Brazelton", "Joshua D. Sparrow"]
+  publisher_en: "Da Capo Press"
+  publisher_imprint: "A Merloyd Lawrence Book"
+  publisher_zh: null
+  year: 1992
+  year_revised: 2006
+  edition: "Second Edition (Revised)"
+  location: "page 112, 'Sleep' in chapter 7"
+  source_id: SRC-010
+
+unit_ids: []
+related_cards: []
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

@@ -1,0 +1,49 @@
+card_id: C-S1-079
+stages: [S1]
+tags: [safety]
+
+front:
+  title: 喂奶不只是填饱肚子
+  hook: 宝宝吸两口就发呆,他在干嘛?
+
+back:
+  why_matters: |
+    Brazelton 和心理学家 Kenneth Kaye 研究发现宝宝吃奶有"爆发-停顿"(burst-pause)模式:吸几口然后停下来。
+    50% 的妈妈会在停顿时晃宝宝、说话、摸脸,另外 50% 不理会。研究数据显示:妈妈做出回应的停顿明显比不回应的更长。也就是说,宝宝在停顿中是"主动等待社交反馈"。
+    这彻底颠覆了"喂奶=塞饱"的工业视角——喂奶是宝宝最早的社交课堂之一。
+    Brazelton 由此立下铁律:绝对不要把奶瓶垫着让宝宝自己吃,每次喂奶都要被抱着,沟通和食物同等重要。
+  what_to_do:
+    - 在吸吮停顿时跟宝宝说话/摸脸
+    - 绝不让宝宝自己抱奶瓶
+    - 喂奶时眼神接触
+    - 换尿布、洗澡也当沟通时间
+    - 别一边喂奶一边刷手机
+  failure_mode: |
+    把喂奶当成"流程任务",目标是让宝宝吃完睡着自己解放,错过宝宝最早的社交回应训练机会。
+    最严重的版本是把奶瓶垫在毛巾上让宝宝自己吃,既危险(呛奶)又剥夺了宝宝最关键的早期沟通体验。
+  evidence_level: B
+
+glossary_refs:
+  - G-TERM-burst-pause
+  - G-PERSON-Kaye
+  - G-PERSON-Brazelton
+
+citation:
+  book_title_en: "Touchpoints: Birth to 3 — Your Child's Emotional and Behavioral Development"
+  book_title_zh: null
+  authors: ["T. Berry Brazelton", "Joshua D. Sparrow"]
+  publisher_en: "Da Capo Press"
+  publisher_imprint: "A Merloyd Lawrence Book"
+  publisher_zh: null
+  year: 1992
+  year_revised: 2006
+  edition: "Second Edition (Revised)"
+  location: "page 41-44, 'Early Care: Feeding'"
+  source_id: SRC-010
+
+unit_ids: []
+related_cards: []
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

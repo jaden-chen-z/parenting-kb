@@ -1,0 +1,52 @@
+card_id: C-S7-018
+stages: [S7]
+tags: [controversy]
+
+front:
+  title: "厕所训练:孩子主导,父母只示范"
+  hook: "I don't even like the phrase 'toilet training'. It really should be 'toilet learning'."
+
+back:
+  why_matters: |
+    厕所训练(toilet training)= 教孩子主动告知大便小便。
+    Brazelton 反对这个说法,他坚持叫"厕所学习"(toilet learning)——把控制权交孩子,父母只示范、不强迫。
+    美国大量"18 月强制训练"或"出生就训"(elimination communication)实验数据显示:
+    早训练几乎必导致孩子憋便→便秘→肛裂→长期心理阴影。
+    Brazelton 临床:多数孩子真正准备好是 24 月以后,女孩平均比男孩早 3-6 月。
+    关键判断不是月龄,是孩子是否同时具备 5 个准备信号。
+  what_to_do:
+    - 准备信号 5 选 3:不再痴迷走 / 模仿强 / 听 2-3 步指令 / 喜欢归位 / 跨过 18 月 No 高峰
+    - 给他他的小便盆,贴他名字
+    - 几周后穿衣坐马桶,跟你同步
+    - 男孩先坐着学,稳了再让爸爸示范站姿
+    - 任何阶段抗拒立刻退回尿布,不施压不羞辱
+  failure_mode: |
+    "邻居小孩 18 月学会了我们家也得快"→ 强制训练 → 憋便 + 肛裂 + 长期心理阴影。便盆失败时责备"你在地上拉了"→ 孩子放弃,退回更严重的尿床。"去学校了不能再尿了"突然撤尿布 → 公共场合失败 → 学校焦虑 → 长期问题。
+  evidence_level: B
+
+glossary_refs:
+  - G-TERM-toilet-learning
+  - G-TERM-negativism
+  - G-PERSON-Brazelton
+  - G-TERM-elimination-communication
+  - G-TERM-constipation-cycle
+
+citation:
+  book_title_en: "Touchpoints: Birth to 3 — Your Child's Emotional and Behavioral Development"
+  book_title_zh: null
+  authors: ["T. Berry Brazelton", "Joshua D. Sparrow"]
+  publisher_en: "Da Capo Press"
+  publisher_imprint: "A Merloyd Lawrence Book"
+  publisher_zh: null
+  year: 1992
+  year_revised: 2006
+  edition: "Second Edition (Revised)"
+  location: "Part One · Ch 12 Two Years · pp.190-194 (Toilet Training section, 8 steps)"
+  source_id: SRC-010
+
+unit_ids: []
+related_cards: []
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

@@ -1,0 +1,46 @@
+card_id: C-S5-028
+stages: [S5]
+tags: [philosophy, controversy]
+
+front:
+  title: 晚一年比早一年值
+  hook: 晚开花不是落后是节奏
+
+back:
+  why_matters: |
+    Brazelton 在执业五十年里见过太多"按生日卡入学"的孩子在小学就被烧光了好奇心。他直言:给孩子多一年成熟时间,可能比让她按龄进入一年级关键得多。所谓"早慧儿童"很多最后会 burn out。
+    学习的根本动力不是知识量,而是孩子自我感觉"我能掌控我的学习"。如果一个孩子有 7 个推迟入学信号中的任意几个——家族晚熟史、早产、个头小、动作笨拙、注意力短、左右不分、社交滞后——多给一年成熟期比硬撑入学有价值得多。
+  what_to_do:
+    - 入学前对照 7 信号清单逐项打勾
+    - 命中 2 项以上,认真考虑推迟一年
+    - 不让孩子提前学拼音/写字"赢在起跑线"
+    - 选学校看老师能否欣赏个体差异,不只看成绩
+    - 入学焦虑用"早晨喝橙汁"等小仪式锚定身体
+  failure_mode: |
+    5 岁半男孩动作笨拙、专注力差,父母为不让他输,按时送一年级。第一周老师反馈"他坐不住、不会握笔",家长加码报班——孩子从此把"学校"和"我什么都不会"绑定,9 岁开始厌学,12 岁转化为对一切学习的本能抗拒。
+    这就是 Brazelton 说的 burnt out 早慧儿童的反向版本:被推得太早的"普通"孩子。
+  evidence_level: B
+
+glossary_refs:
+  - G-TERM-school-readiness
+  - G-PERSON-Brazelton
+
+citation:
+  book_title_en: "Touchpoints: Birth to 3 — Your Child's Emotional and Behavioral Development"
+  book_title_zh: null
+  authors: ["T. Berry Brazelton", "Joshua D. Sparrow"]
+  publisher_en: "Da Capo Press"
+  publisher_imprint: "A Merloyd Lawrence Book"
+  publisher_zh: null
+  year: 1992
+  year_revised: 2006
+  edition: "Second Edition (Revised)"
+  location: "ch.34 School Readiness, p.357-364"
+  source_id: SRC-010
+
+unit_ids: []
+related_cards: [C-S7-020]
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

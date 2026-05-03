@@ -1,0 +1,47 @@
+card_id: C-S2-018
+stages: [S2]
+tags: []
+
+front:
+  title: 6-8 周社交微笑不是反射
+  hook: 笑了是认你了，不是脸抽了
+
+back:
+  why_matters: |
+    社交微笑（social smile）指婴儿因看见熟悉人脸而主动绽放的笑容,是 Brazelton 触点理论里"宝宝把你认作专属"的首个里程碑。
+    约 90% 婴儿在 6-8 周出现,意味着大脑皮层已能区分人与物。这不是肠胀气导致的"放屁笑",而是宝宝主动邀请你互动的信号。
+    错过回应会让他下次少笑一次,因为他在学"笑出去能换来什么"。
+  what_to_do:
+    - 30 度斜抱让宝宝看见你的脸再开口说话
+    - 看到笑容就轻声笑回去,不要尖叫鼓掌
+    - 等他先发声再模仿,给他主导节奏
+    - 每天 5-10 分钟"专属对视时间"
+  failure_mode: |
+    太兴奋了大喊"宝宝笑啦!"加拍手鼓掌,刺激量超过宝宝能处理的范围,他会立刻收笑、转头、甚至哭。
+    Brazelton 原话:"你可以用过度反应把她的微笑关掉。"
+  evidence_level: B
+
+glossary_refs:
+  - G-TERM-social-smile
+  - G-TERM-touchpoint
+  - G-PERSON-Brazelton
+
+citation:
+  book_title_en: "Touchpoints: Birth to 3 — Your Child's Emotional and Behavioral Development"
+  book_title_zh: null
+  authors: ["T. Berry Brazelton", "Joshua D. Sparrow"]
+  publisher_en: "Da Capo Press"
+  publisher_imprint: "A Merloyd Lawrence Book"
+  publisher_zh: null
+  year: 1992
+  year_revised: 2006
+  edition: "Second Edition (Revised)"
+  location: "page 72, 'Communication' in chapter 5"
+  source_id: SRC-010
+
+unit_ids: []
+related_cards: []
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

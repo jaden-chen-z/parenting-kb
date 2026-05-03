@@ -1,0 +1,48 @@
+card_id: C-S6-031
+stages: [S6]
+tags: [safety, red_flag]
+
+front:
+  title: 2 岁前一秒都别看屏
+  hook: 屏幕不是奶嘴是兴奋剂
+
+back:
+  why_matters: |
+    屏幕不是被动消遣,而是高强度刺激。Brazelton 描述孩子盯屏时身体僵直、肌肉紧绷,一关掉就狂躁哭闹——这种"看完发疯"是生理性透支。
+    研究显示 1-3 岁过度看电视(每天 3 小时以上)与 7 岁 ADHD 症状显著相关。卧室里的电视则是儿童肥胖最强独立预测因子。
+    Brazelton 力推美国儿科学会建议:2 岁以下零屏幕,2 岁以上每天最多 1 小时,卧室不放屏——这是为数不多有硬数据支撑的硬规则。原书写于 2006 年只谈电视,但同样原则可移植到平板、手机、短视频。
+  what_to_do:
+    - 卧室/餐桌/车后座都不放屏幕,全屋一个固定位置
+    - 2 岁前任何"启蒙视频"都拒绝,包括教育类
+    - 看完必须有 15 分钟过渡再做下件事
+    - 一半时长必须父母陪看,看完讨论
+    - 父母自己刷手机的时间也是孩子的"屏幕时间"
+  failure_mode: |
+    1 岁宝宝吃饭哭闹,父母塞 iPad 放儿歌——他立刻安静,父母大喜,从此每顿饭都靠屏幕。一年后孩子不看屏不吃饭、关屏就尖叫、专注力严重退化、词汇量落后同龄人;再想戒已经成了戒断反应,全家陷入"屏幕成瘾-行为问题-用更多屏幕安抚"的死循环。
+  evidence_level: A
+
+glossary_refs:
+  - G-TERM-screen-time
+  - G-ABBR-AAP
+  - G-ABBR-ADHD
+  - G-PERSON-Brazelton
+
+citation:
+  book_title_en: "Touchpoints: Birth to 3 — Your Child's Emotional and Behavioral Development"
+  book_title_zh: null
+  authors: ["T. Berry Brazelton", "Joshua D. Sparrow"]
+  publisher_en: "Da Capo Press"
+  publisher_imprint: "A Merloyd Lawrence Book"
+  publisher_zh: null
+  year: 1992
+  year_revised: 2006
+  edition: "Second Edition (Revised)"
+  location: "ch.42 Television, p.411-416(原书写电视,屏幕原则可移植到平板/手机)"
+  source_id: SRC-010
+
+unit_ids: []
+related_cards: []
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

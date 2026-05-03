@@ -1,0 +1,49 @@
+card_id: C-S5-027
+stages: [S5]
+tags: [philosophy, discipline]
+
+front:
+  title: 管教就是教导(广义)
+  hook: 管教 ≠ 惩罚
+
+back:
+  why_matters: |
+    Brazelton 流派核心:Discipline means "teaching," and the goal is to teach the child self-discipline over time.
+    管教不是惩罚,是长期目标——每一次管教都是在说"我必须每次都阻止你,直到你能自己阻止自己"。
+    Brazelton 反对体罚的核心理由:体罚传达"我相信用身体暴力解决问题"的错误信息,且"只在他还小时管用"。
+    爱是父母给孩子第一重要礼物,管教是第二重要。
+    父母最常见两种症结:怕过严压抑孩子精神 / 怕过松养出"被宠坏"的孩子。
+  what_to_do:
+    - 把重要事的管教与日常小事分开
+    - 9 月起开始建立 limits
+    - 体罚永远是错误信号
+    - 管教完后抱孩子说"我爱你但不能允许这样"
+    - 留足重大事项的决断力,不在小事上一天 100 个 No
+  failure_mode: |
+    一天到晚说 No 把管教稀释,真正重要事孩子也不听;或反向走极端,体罚后孩子只学会"用攻击解决问题"。
+  evidence_level: A
+
+glossary_refs:
+  - G-TERM-discipline
+  - G-PERSON-Brazelton
+
+citation:
+  book_title_en: "Touchpoints: Birth to 3 — Your Child's Emotional and Behavioral Development"
+  book_title_zh: null
+  authors: ["T. Berry Brazelton", "Joshua D. Sparrow"]
+  publisher_en: "Da Capo Press"
+  publisher_imprint: "A Merloyd Lawrence Book"
+  publisher_zh: null
+  year: 1992
+  year_revised: 2006
+  edition: "Second Edition (Revised)"
+  location: "ch.19 Discipline, p.253-261"
+  source_id: SRC-010
+
+unit_ids: []
+related_cards:
+  - C-S6-021
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

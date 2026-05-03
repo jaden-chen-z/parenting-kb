@@ -1,0 +1,52 @@
+card_id: C-S1-083
+stages: [S1]
+tags: [philosophy]
+
+front:
+  title: Colic 真相 85% 都有
+  hook: 85% 婴儿都会"肠绞痛"
+
+back:
+  why_matters: |
+    Brazelton 临床 85% 的 3-12 周婴儿都有 end-of-day fussy 哭闹,常被误诊为肠绞痛。
+    真相:仅极少数有真正的胃食管反流或牛奶蛋白过敏。
+    "Colic"本质是不成熟神经系统的每日"放电重组"——3 周开始、8 周达峰、12 周自然减弱。
+    父母在宝宝 2-3 周时就应被预告有这一阶段,否则极易过度干预反加重。
+  what_to_do:
+    - 2-3 周时父母先打"预防针"
+    - end-of-day 主动减少刺激而非增加
+    - 哭闹超 2 小时持续延长才查反流过敏
+    - 让宝宝独立短暂哭闹是允许的
+    - 12 周前不必焦虑要彻底"治"
+  failure_mode: |
+    父母焦虑+过度抱摇+反复奶 → 神经系统更过载 → 哭得更凶。
+    把生理性放电当病理处理,到处求医反伤亲子互动。
+  evidence_level: A
+
+glossary_refs:
+  - G-TERM-colic
+  - G-ABBR-GERD
+  - G-PERSON-Brazelton
+
+citation:
+  book_title_en: "Touchpoints: Birth to 3 — Your Child's Emotional and Behavioral Development"
+  book_title_zh: null
+  authors: ["T. Berry Brazelton", "Joshua D. Sparrow"]
+  publisher_en: "Da Capo Press"
+  publisher_imprint: "A Merloyd Lawrence Book"
+  publisher_zh: null
+  year: 1992
+  year_revised: 2006
+  edition: "Second Edition (Revised)"
+  location: "ch.16 Crying and Colic, p.233"
+  source_id: SRC-010
+
+unit_ids: []
+related_cards:
+  - C-S2-001
+  - C-S2-002
+  - C-S2-004
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

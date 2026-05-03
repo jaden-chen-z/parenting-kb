@@ -1,0 +1,49 @@
+card_id: C-S1-080
+stages: [S1]
+tags: [philosophy]
+
+front:
+  title: 2-3 周触点:父母的崩溃期
+  hook: 宝宝 3 周时,父母看起来比宝宝更"婴儿"
+
+back:
+  why_matters: |
+    Brazelton 把 2-3 周设为关键"触点"(touchpoint),原因是这时候父母最累、最迷茫——出生时的兴奋已经退潮,真实的责任感重重压下,睡眠剥夺累积到顶峰。
+    Brazelton 描述他在诊室看到的典型景象:妈妈衣服皱巴巴宝宝穿得精致、爸爸过度殷勤地接外套、妈妈每说一句话都低头看宝宝、宝宝一动妈妈就用眼神问医生"我该怎么办?"。
+    他把这种"幼态退行"看作健康信号——父母愿意把医生当"祖父辈"角色信任。
+    Brazelton 的核心建议:这两周做减法,谢绝大部分访客,把能量留给学习宝宝。
+  what_to_do:
+    - 谢绝非核心访客 2 周
+    - 用"医生说不让来"当借口
+    - 第一次产检尽量爸爸在场
+    - 直接告诉医生"我们快崩了"
+    - 把"看上去狼狈"当正常状态
+  failure_mode: |
+    头 3 周硬撑"完美父母"形象,接待一拨又一拨亲戚朋友,妈妈一天都得不到 30 分钟连续休息。
+    结果 4 周时彻底崩盘,母乳量下降、爸爸妈妈互相埋怨、对宝宝信号失去回应能力。
+    访客是浪漫想象中的甜蜜,实际操作中是消耗。
+  evidence_level: C
+
+glossary_refs:
+  - G-TERM-touchpoint
+  - G-PERSON-Brazelton
+
+citation:
+  book_title_en: "Touchpoints: Birth to 3 — Your Child's Emotional and Behavioral Development"
+  book_title_zh: null
+  authors: ["T. Berry Brazelton", "Joshua D. Sparrow"]
+  publisher_en: "Da Capo Press"
+  publisher_imprint: "A Merloyd Lawrence Book"
+  publisher_zh: null
+  year: 1992
+  year_revised: 2006
+  edition: "Second Edition (Revised)"
+  location: "page 50-54, chapter 'Two to Three Weeks' 开头"
+  source_id: SRC-010
+
+unit_ids: []
+related_cards: []
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

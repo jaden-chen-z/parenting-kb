@@ -1,0 +1,48 @@
+card_id: C-S1-075
+stages: [S1]
+tags: []
+
+front:
+  title: 习惯化:宝宝的"屏蔽能力"
+  hook: 反复闪光、摇铃,他能不能屏蔽?
+
+back:
+  why_matters: |
+    习惯化(habituation)指宝宝面对反复出现的刺激能逐渐减少反应、回到平静。
+    Brazelton 用闪光、摇铃、铃铛各重复 10 次测试宝宝睡眠中的屏蔽能力,正常足月儿大约第 4 次刺激后就基本没反应了。
+    这是一个被低估的核心能力——能屏蔽不重要刺激的宝宝,才能在嘈杂家庭环境中睡得稳;不能屏蔽的"高敏感"宝宝(早产、孕期受刺激或母亲用药)则要每次都全力反应,代价巨大。
+    识别这个差异决定家庭要不要专门为宝宝降噪。
+  what_to_do:
+    - 观察宝宝对反复噪音是否能"消音"
+    - 高敏感宝宝家里降光、降声、降语速
+    - 一次只给一种刺激(看/抱/说话别叠加)
+    - 别把"过度反应"当性格倔强
+    - 等宝宝平静再叠加下一种刺激
+  failure_mode: |
+    把高敏感宝宝当"难带宝宝"或"吃多了哭",没意识到他神经系统还在恢复,继续在嘈杂环境里抱着摇晃说话,宝宝越来越崩溃,父母越来越自责。
+    其实只要把刺激降到"一次一种"就会好转。
+  evidence_level: B
+
+glossary_refs:
+  - G-TERM-habituation
+  - G-PERSON-Brazelton
+
+citation:
+  book_title_en: "Touchpoints: Birth to 3 — Your Child's Emotional and Behavioral Development"
+  book_title_zh: null
+  authors: ["T. Berry Brazelton", "Joshua D. Sparrow"]
+  publisher_en: "Da Capo Press"
+  publisher_imprint: "A Merloyd Lawrence Book"
+  publisher_zh: null
+  year: 1992
+  year_revised: 2006
+  edition: "Second Edition (Revised)"
+  location: "page 22-23, 'Premature or Stressed Babies' 前"
+  source_id: SRC-010
+
+unit_ids: []
+related_cards: []
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

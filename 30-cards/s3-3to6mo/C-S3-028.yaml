@@ -1,0 +1,46 @@
+card_id: C-S3-028
+stages: [S3]
+tags: []
+
+front:
+  title: 4 月喂奶分心不是断奶信号
+  hook: 不是不爱喝,是看世界
+
+back:
+  why_matters: |
+    4.5-5 月时宝宝突然在喂奶时频繁扭头、被窗外阴影吸引、拉拽乳房四处张望——Brazelton 称为"认知爆发"（cognitive burst）:视力第一次能聚焦远距离,整个世界变新鲜,吃奶被甩到第二位。
+    妈妈最易误读为"宝宝不爱喝奶/我奶不够/可以加辅食/可以断奶"。
+    其实持续仅 1-2 周,之后宝宝会重新专注吃奶,错过判断会过早断奶或徒增焦虑。
+  what_to_do:
+    - 关灯拉窗帘、找最安静房间喂奶
+    - 给宝宝一个小玩具拿在手上分散
+    - 主要喂奶时段挪到清晨和睡前
+    - 白天不够的奶量不强补,1-2 周自然回升
+  failure_mode: |
+    妈妈以为"奶水不行"开始混合喂养,宝宝吸吮刺激减少→泌乳真的下降→恶性循环。
+    或抱着宝宝就给奶嘴塞嘴,强行摁回乳房,宝宝抗拒升级。
+  evidence_level: B
+
+glossary_refs:
+  - G-TERM-cognitive-burst
+  - G-PERSON-Brazelton
+
+citation:
+  book_title_en: "Touchpoints: Birth to 3 — Your Child's Emotional and Behavioral Development"
+  book_title_zh: null
+  authors: ["T. Berry Brazelton", "Joshua D. Sparrow"]
+  publisher_en: "Da Capo Press"
+  publisher_imprint: "A Merloyd Lawrence Book"
+  publisher_zh: null
+  year: 1992
+  year_revised: 2006
+  edition: "Second Edition (Revised)"
+  location: "page 86, 'Feeding' in chapter 6"
+  source_id: SRC-010
+
+unit_ids: []
+related_cards: []
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

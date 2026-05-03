@@ -1,0 +1,50 @@
+card_id: C-S1-077
+stages: [S1]
+tags: [philosophy, controversy]
+
+front:
+  title: 别迷信"产房黄金一小时"
+  hook: 错过第一小时不会"亲不上"
+
+back:
+  why_matters: |
+    1970s 儿科医生 Klaus 和 Kennell 提出了"亲子联结"(bonding)理论,强调出生即刻肌肤接触的重要性。但这个研究被产程教育者过度解读,甚至有人在产房门上贴"勿扰——正在 bonding"。
+    Brazelton 明确反对:他在世界各地研究发现,很多产妇产后想先休息恢复,不想立刻抱宝宝,这完全正常。
+    Bonding 是长期过程,像"陷入爱"和"维持爱"的区别——错过头一小时甚至前几天(比如宝宝进了 NICU)的父母,完全可以建立同样深厚的依恋。
+    这条对剖宫产/早产/NICU 父母尤其重要。
+  what_to_do:
+    - 产后想先休息就休息,不愧疚
+    - 给伴侣同样的"延迟拥抱"自由
+    - NICU 父母不必怕"错过窗口"
+    - 把 bonding 当几个月的过程
+    - 拒绝任何"必须立刻 bonding"的指令
+  failure_mode: |
+    妈妈剖宫产麻醉没退就被"塞"宝宝在胸口"bonding",自己疼又困、宝宝也没反应,反而留下"我没 bond 上"的羞耻感。
+    或者 NICU 父母觉得"我宝宝头一周我没抱过,我们没希望了",过早放弃情感投入。
+  evidence_level: B
+
+glossary_refs:
+  - G-TERM-bonding
+  - G-PERSON-Klaus-Kennell
+  - G-TERM-attachment
+  - G-PERSON-Brazelton
+
+citation:
+  book_title_en: "Touchpoints: Birth to 3 — Your Child's Emotional and Behavioral Development"
+  book_title_zh: null
+  authors: ["T. Berry Brazelton", "Joshua D. Sparrow"]
+  publisher_en: "Da Capo Press"
+  publisher_imprint: "A Merloyd Lawrence Book"
+  publisher_zh: null
+  year: 1992
+  year_revised: 2006
+  edition: "Second Edition (Revised)"
+  location: "page 37-39, 'Bonding'"
+  source_id: SRC-010
+
+unit_ids: []
+related_cards: []
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

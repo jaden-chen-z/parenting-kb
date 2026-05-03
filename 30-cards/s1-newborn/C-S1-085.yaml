@@ -1,0 +1,52 @@
+card_id: C-S1-085
+stages: [S1]
+tags: [controversy, safety]
+
+front:
+  title: 同床 vs AAP 的立场分歧
+  hook: Brazelton 与 AAP 不一致
+
+back:
+  why_matters: |
+    Brazelton 流派与 AAP 立场对照点:AAP 警告同床(co-sleeping)会增加 SIDS 风险,特别是 11 周内婴儿。
+    Brazelton 怀疑这些研究中其他变量(醉酒父母、不安全床品)才是元凶,但承认父母决策时应考虑 AAP 立场。
+    Brazelton 自己反对硬性同床的核心担忧:婴儿期同床的孩子日后独睡会更难、3-4 岁是观察孩子准备分床信号的窗口期、拖到学龄会留分离问题。
+    同床若让父母关系产生摩擦则一定毁孩子未来。
+    Brazelton 的折中:"父母关系好坏比睡眠安排更影响孩子发展"。
+  what_to_do:
+    - 决策前夫妻必须真正一致
+    - 不要在期待二胎时强行让大孩分床
+    - 用过渡床(贴主床的小床)开始分床
+    - 3-4 岁观察"能否独立"信号
+    - 若一方明确不舒服必须停同床
+  failure_mode: |
+    父母一方同床一方反对,孩子接收冲突信号比独睡或同床本身更具破坏性;或文化照搬:硬学西方独睡 / 硬学亚洲同床而不评估自家情况。
+  evidence_level: B
+
+glossary_refs:
+  - G-TERM-bed-sharing
+  - G-ABBR-SIDS
+  - G-ABBR-AAP
+  - G-PERSON-Brazelton
+
+citation:
+  book_title_en: "Touchpoints: Birth to 3 — Your Child's Emotional and Behavioral Development"
+  book_title_zh: null
+  authors: ["T. Berry Brazelton", "Joshua D. Sparrow"]
+  publisher_en: "Da Capo Press"
+  publisher_imprint: "A Merloyd Lawrence Book"
+  publisher_zh: null
+  year: 1992
+  year_revised: 2006
+  edition: "Second Edition (Revised)"
+  location: "ch.38 Sleep Problems, p.386-388"
+  source_id: SRC-010
+
+unit_ids: []
+related_cards:
+  - C-S1-028
+  - C-S1-037
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

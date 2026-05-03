@@ -1,0 +1,45 @@
+card_id: C-S6-020
+stages: [S6]
+tags: [discipline]
+
+front:
+  title: 15 月 tantrum 是内部冲突
+  hook: 五胞胎实验 — 别人不管,他自己就停了
+
+back:
+  why_matters: |
+    Brazelton 经典案例:他在俄勒冈观察五胞胎,其中一个发脾气,其他四个轮番安慰(按手 / 哄唱 / 喊叫 / 浇凉水)— **越安慰越激烈**。等所有人放弃,孩子自己立刻停下来,起身跟兄弟姐妹玩,像没事一样。Brazelton 从此确信:**tantrum 反映的是孩子内心的混乱,只能由他自己解决**。家长的过度介入是火上浇油。Support, but not interference,是唯一有效的帮助。Tantrum 在 15 月已经普遍出现(尤其在公共场所),围观者的目光让家长更焦虑,Brazelton 建议幽默地反问:"Anybody want to help?" 围观者会立刻散开。
+  what_to_do:
+    - 安全的地方,可以转身走开几步,看不见你 tantrum 就会失力
+    - 立即回来说:"对不起我帮不了你,我还在这里,我爱你,但这是你自己的事"
+    - 极端激烈时(撞头),抱去地毯或床上,但不阻止
+    - tantrum 后不批评,而是用拥抱表达"我理解这种感觉很难"
+    - 公共场合不被围观者绑架,保持父母权威
+  failure_mode: |
+    每次 tantrum 都"冲过去抱住安抚" → 反而强化、延长。觉得"撞头会受伤" → 极少真伤,孩子有自我保护机制。public 场合给糖息事 → 教会孩子"tantrum = 拿东西"。
+  evidence_level: B
+
+glossary_refs:
+  - G-TERM-tantrum
+  - G-TERM-discipline
+  - G-PERSON-Brazelton
+
+citation:
+  book_title_en: "Touchpoints: Birth to 3 — Your Child's Emotional and Behavioral Development"
+  book_title_zh: null
+  authors: ["T. Berry Brazelton", "Joshua D. Sparrow"]
+  publisher_en: "Da Capo Press"
+  publisher_imprint: "A Merloyd Lawrence Book"
+  publisher_zh: null
+  year: 1992
+  year_revised: 2006
+  edition: "Second Edition (Revised)"
+  location: "Part One · Ch 10 Fifteen Months · pp.153-155 (Discipline + quintuplets case)"
+  source_id: SRC-010
+
+unit_ids: []
+related_cards: []
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

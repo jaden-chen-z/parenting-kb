@@ -1,0 +1,49 @@
+card_id: C-S5-022
+stages: [S5]
+tags: [philosophy]
+
+front:
+  title: 8-9 月看视觉悬崖学走
+  hook: 看你脸决定爬不爬
+
+back:
+  why_matters: |
+    社会参照(social referencing)= 宝宝在不确定的情境下抬头看父母表情来判断"安全 vs 危险"。Sorce-Emde 1985 视觉悬崖实验是经典证据。
+    Sorce-Emde 经典视崖实验：8 月会爬的宝宝面对 1 英尺"假悬崖"会停下来看妈妈表情——妈妈笑就过，皱眉就停。Brazelton 强调这就是"社会参照"——管教的认知基础上线了，从此你不仅要说 No，脸也要 No。
+  what_to_do:
+    - 说"不"时表情同步严肃
+    - 重要禁忌（炉子）每次反应一致
+    - 危险情境别面无表情看
+    - 鼓励的事大方笑给她看
+    - 减少模糊信号让她迷惑
+  failure_mode: |
+    父母嘴里说"不可以"脸上还在笑(觉得"宝宝太小听不懂正经话"),
+    宝宝读不出真意——下次还是去摸炉子、还是抓电线。
+    父母气急加大斥责,宝宝从"试探"变成"对抗"。
+    反过来:对每件小事都板脸"严肃说不",宝宝麻木到真危险时也不识别表情警示。
+    正确版本:重要禁忌(炉子/电源)每次反应一致,日常小事放手。
+  evidence_level: A
+
+glossary_refs:
+  - G-TERM-social-referencing
+  - G-PERSON-Brazelton
+
+citation:
+  book_title_en: "Touchpoints: Birth to 3 — Your Child's Emotional and Behavioral Development"
+  book_title_zh: null
+  authors: ["T. Berry Brazelton", "Joshua D. Sparrow"]
+  publisher_en: "Da Capo Press"
+  publisher_imprint: "A Merloyd Lawrence Book"
+  publisher_zh: null
+  year: 1992
+  year_revised: 2006
+  edition: "Second Edition (Revised)"
+  location: "page 126-127, 'Learning'"
+  source_id: SRC-010
+
+unit_ids: []
+related_cards: []
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

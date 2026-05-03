@@ -1,0 +1,49 @@
+card_id: C-S1-081
+stages: [S1]
+tags: [philosophy]
+
+front:
+  title: 宝宝认识爸爸的方式跟妈妈不同
+  hook: 4 周时宝宝看到爸爸全身就紧张兴奋
+
+back:
+  why_matters: |
+    Brazelton 在诊室做经典实验:让妈妈和爸爸分别在宝宝两侧轻声说话,宝宝会循声转头。
+    3 周左右,宝宝已经学会对爸爸和妈妈做出截然不同的肢体准备:见到妈妈,四肢动作平稳节奏化(预期低调互动);见到爸爸,五官全部上扬、四肢紧绷蓄势(预期玩耍)。
+    这是宝宝早期认知发展的有力信号——他记住了"这两个人对我意味着不同的事"。
+    Brazelton 强调:让爸爸亲自参与日常护理(换尿布、喂奶、玩),不仅是"分担",更会触发爸爸自己的激素变化(睾酮下降、催乳素上升)促进养育行为。
+  what_to_do:
+    - 爸爸尽量陪同首次产检
+    - 给爸爸独立的喂奶/换尿布时间
+    - 妈妈别"把关"爸爸照顾方式
+    - 观察宝宝对爸爸的特殊反应
+    - 把爸爸的"不同风格"当资源
+  failure_mode: |
+    妈妈出于焦虑垄断所有护理,爸爸被边缘化为"递纸巾的人"。
+    结果爸爸错过了最关键的几周参与窗口,后续越来越没存在感,夫妻关系紧张,宝宝也少了一种重要互动模式。
+    这种"母亲把关"(maternal gatekeeping)在头几周一旦定型就很难翻转。
+  evidence_level: C
+
+glossary_refs:
+  - G-TERM-gatekeeping
+  - G-PERSON-Brazelton
+
+citation:
+  book_title_en: "Touchpoints: Birth to 3 — Your Child's Emotional and Behavioral Development"
+  book_title_zh: null
+  authors: ["T. Berry Brazelton", "Joshua D. Sparrow"]
+  publisher_en: "Da Capo Press"
+  publisher_imprint: "A Merloyd Lawrence Book"
+  publisher_zh: null
+  year: 1992
+  year_revised: 2006
+  edition: "Second Edition (Revised)"
+  location: "page 53-54, 'Two to Three Weeks' 中部"
+  source_id: SRC-010
+
+unit_ids: []
+related_cards: []
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

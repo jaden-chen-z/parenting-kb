@@ -1,0 +1,46 @@
+card_id: C-S3-033
+stages: [S3]
+tags: [safety]
+
+front:
+  title: 学步车反而拖慢里程碑
+  hook: 越坐学步车越晚走
+
+back:
+  why_matters: |
+    学步车（walker）是华人家庭常见"省力神器",但 Brazelton 临床观察:6-7 月坐学步车的宝宝反而推迟独立爬行和行走里程碑。
+    原因有三:一是学步车让宝宝跳过"在地板上撑起手臂"训练,肩颈背肌肉弱;二是站立和"快速移动"被提前满足,缺乏挫折感→缺乏学习动力;三是直接进入危险（楼梯、家具碰撞）。
+    新手父母常因"宝宝爱坐"误判为"对运动好"。
+  what_to_do:
+    - 6-12 月不要买学步车
+    - 多铺爬爬垫、让宝宝在地板自己爬
+    - 接受宝宝爬行时的"哼哼哭"——挫折感是引擎
+    - 楼梯口装安全门,不靠学步车保护
+  failure_mode: |
+    老人坚持"我们那时都用,你们不也走得好",全家纵容。
+    结果宝宝 14-15 月还不会独立走,反过来焦虑送康复评估。
+  evidence_level: B
+
+glossary_refs:
+  - G-TERM-baby-walker
+  - G-PERSON-Brazelton
+
+citation:
+  book_title_en: "Touchpoints: Birth to 3 — Your Child's Emotional and Behavioral Development"
+  book_title_zh: null
+  authors: ["T. Berry Brazelton", "Joshua D. Sparrow"]
+  publisher_en: "Da Capo Press"
+  publisher_imprint: "A Merloyd Lawrence Book"
+  publisher_zh: null
+  year: 1992
+  year_revised: 2006
+  edition: "Second Edition (Revised)"
+  location: "page 115, 'Looking Ahead' in chapter 7"
+  source_id: SRC-010
+
+unit_ids: []
+related_cards: [C-S4-005]
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

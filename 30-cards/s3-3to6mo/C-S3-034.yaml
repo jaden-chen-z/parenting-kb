@@ -1,0 +1,49 @@
+card_id: C-S3-034
+stages: [S3]
+tags: []
+
+front:
+  title: 4 月睡眠周期与条件反射
+  hook: 4 小时一周期半醒
+
+back:
+  why_matters: |
+    Brazelton 解释夜醒生理机制:4 月起所有婴儿建立 3-4 小时睡眠周期——周期中段 1-1.5 小时深睡(不易唤醒)+ 周期两侧浅睡 + 周期末的"半醒态"(吸手指、哭、摇头、撞头来释放白天能量)。
+    让宝宝在浅醒时自我重回深睡是核心条件反射学习——若每次半醒都被父母回应/喂奶就会被强化为习惯。
+    8-9 月与 12-14 月有可预测的"夜醒回潮"——大动作发展期间宝宝在浅睡里"演练"运动技能。
+  what_to_do:
+    - 4 月起让宝宝在浅醒时学自己回睡
+    - 不在哭出来后立即跑过去
+    - 8-9 月与 12-14 月夜醒预期 = normal
+    - 半醒时只用声音不进房间
+    - 6 月时 17% 仍未睡整夜,1 岁 10% 还没——别比较
+  failure_mode: |
+    父母每次半醒都进房抱起喂奶,半醒态被条件反射成"必有奖励"——宝宝永远学不会自己回深睡。
+    或反向地用"硬哭法"在 8-9 月发展期断然不响应,制造创伤。
+  evidence_level: A
+
+glossary_refs:
+  - G-TERM-sleep-cycle
+  - G-PERSON-Brazelton
+
+citation:
+  book_title_en: "Touchpoints: Birth to 3 — Your Child's Emotional and Behavioral Development"
+  book_title_zh: null
+  authors: ["T. Berry Brazelton", "Joshua D. Sparrow"]
+  publisher_en: "Da Capo Press"
+  publisher_imprint: "A Merloyd Lawrence Book"
+  publisher_zh: null
+  year: 1992
+  year_revised: 2006
+  edition: "Second Edition (Revised)"
+  location: "ch.38 Sleep Problems, p.381-385"
+  source_id: SRC-010
+
+unit_ids: []
+related_cards:
+  - C-S3-029
+  - C-S5-021
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

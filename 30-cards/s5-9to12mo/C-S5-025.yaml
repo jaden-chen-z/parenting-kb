@@ -1,0 +1,50 @@
+card_id: C-S5-025
+stages: [S5]
+tags: [discipline]
+
+front:
+  title: 9 月-3 岁各阶段管教菜单
+  hook: 6 个年龄段对照表
+
+back:
+  why_matters: |
+    Brazelton 给出 6 阶段"正常 misbehavior"清单:4-5 月咬奶头(破吸破开),8-10 月抓头发戳眼(不带恶意只是好奇),12-14 月跑开看你(试 limit),16-24 月打人抓人(学习社交但无技巧),18-30 月发脾气(独立的能量爆发), 3-6 岁愤怒砸物(聚合期)。
+    每阶段干预方式不同:婴儿期破开+不夸张反应,学步期合作但快速制止,3 岁后让孩子参与解决方案。
+    打脾气时"不要躺地上跟他一起打"——你介入越多,发作越久。
+  what_to_do:
+    - 4-5 月咬奶用手指破吸,不要尖叫
+    - 18-30 月发脾气:保护安全后离开
+    - 16-24 月找一个同等好斗的玩伴自然教
+    - 3 岁后问孩子"下次怎么做能停下"
+    - 永远在管教结束后 hug + 解释
+  failure_mode: |
+    用一种方法应付所有年龄;或对孩子打人尖叫式过度反应反而吓坏施害方与受害方两个孩子。
+  evidence_level: B
+
+glossary_refs:
+  - G-TERM-tantrum
+  - G-TERM-biting
+  - G-TERM-discipline
+  - G-PERSON-Brazelton
+
+citation:
+  book_title_en: "Touchpoints: Birth to 3 — Your Child's Emotional and Behavioral Development"
+  book_title_zh: null
+  authors: ["T. Berry Brazelton", "Joshua D. Sparrow"]
+  publisher_en: "Da Capo Press"
+  publisher_imprint: "A Merloyd Lawrence Book"
+  publisher_zh: null
+  year: 1992
+  year_revised: 2006
+  edition: "Second Edition (Revised)"
+  location: "ch.19 Discipline, p.256-261"
+  source_id: SRC-010
+
+unit_ids: []
+related_cards:
+  - C-S6-020
+  - C-S6-023
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

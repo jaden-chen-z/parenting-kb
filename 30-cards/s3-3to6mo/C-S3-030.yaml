@@ -1,0 +1,47 @@
+card_id: C-S3-030
+stages: [S3]
+tags: [philosophy]
+
+front:
+  title: 6-7 月气质 9 维度成型
+  hook: 性格定型,看 9 个面
+
+back:
+  why_matters: |
+    6-7 月宝宝的"气质"（temperament）已稳定,可用 Chess-Thomas 9 维度判断:活动量、易分心、坚持、趋避新事物、强度、适应力、规律性、感官阈值、心情。
+    Brazelton 强调这不是给宝宝贴标签,而是让父母有一套"基准线"——知道什么是 ta 的"通常状态",从而能识别生病、压力反应或发育飞跃前兆。
+    新手父母常凭"今天乖不乖"评价宝宝,缺乏维度反而越带越焦虑。
+  what_to_do:
+    - 给 9 个维度分别打 1-5 分,写在小本上
+    - 每月对比一次,关注偏离基准的时刻
+    - 偏离时先排查:生病?压力?发育?
+    - 跟保姆/老人共享这份"宝宝说明书"
+  failure_mode: |
+    把宝宝跟邻居孩子横向比"为什么 ta 比她活跃/安静/敏感"。
+    Brazelton:"父母最有用的不是知道什么是平均值,而是知道什么是这个孩子的'通常自我'。"
+  evidence_level: B
+
+glossary_refs:
+  - G-TERM-temperament
+  - G-PERSON-Chess-Thomas
+  - G-PERSON-Brazelton
+
+citation:
+  book_title_en: "Touchpoints: Birth to 3 — Your Child's Emotional and Behavioral Development"
+  book_title_zh: null
+  authors: ["T. Berry Brazelton", "Joshua D. Sparrow"]
+  publisher_en: "Da Capo Press"
+  publisher_imprint: "A Merloyd Lawrence Book"
+  publisher_zh: null
+  year: 1992
+  year_revised: 2006
+  edition: "Second Edition (Revised)"
+  location: "page 102, opening of chapter 7"
+  source_id: SRC-010
+
+unit_ids: []
+related_cards: []
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

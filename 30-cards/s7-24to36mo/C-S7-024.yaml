@@ -1,0 +1,46 @@
+card_id: C-S7-024
+stages: [S7]
+tags: [red_flag, philosophy]
+
+front:
+  title: 别说宠物"睡着了"
+  hook: 谎言比死亡更伤孩子
+
+back:
+  why_matters: |
+    孩子对死亡的理解比成人原始得多——他主要把死亡等同于"被抛弃"。Brazelton 警告:如果父母用"睡着了""去远方了"这类委婉说法,孩子会从此害怕睡觉、害怕父母出门,一次小小的善意谎言换来的是数月乃至数年的睡眠焦虑。
+    更糟的是,孩子一旦发现你撒谎,对你处理重大事件的信任就崩了。
+    3-6 岁正处魔法思维期,孩子还会本能怀疑"是不是因为我做错事爷爷才死",必须由父母主动说破。
+  what_to_do:
+    - 用"身体不工作了"代替"睡着了/去远方"
+    - 主动说"这不是因为你做错事或想坏念头"
+    - 一起回忆逝者的故事,把记忆变成可触摸的对象
+    - 宠物死同等对待,绝不当天买新宠物
+    - 父母自己哭就让孩子看见,不躲房间
+  failure_mode: |
+    奶奶下葬,父母告诉 4 岁孩子"奶奶睡着了"——一个月后孩子拒绝午睡、夜惊大哭"我不要睡我会死",一年后撞见亲戚说"你奶奶其实是病死的",孩子认知崩塌:大人在最重要的事上骗了我,从此重大问题都不再问父母,转向同伴或网络寻找答案。
+  evidence_level: B
+
+glossary_refs:
+  - G-TERM-magical-thinking
+  - G-PERSON-Brazelton
+
+citation:
+  book_title_en: "Touchpoints: Birth to 3 — Your Child's Emotional and Behavioral Development"
+  book_title_zh: null
+  authors: ["T. Berry Brazelton", "Joshua D. Sparrow"]
+  publisher_en: "Da Capo Press"
+  publisher_imprint: "A Merloyd Lawrence Book"
+  publisher_zh: null
+  year: 1992
+  year_revised: 2006
+  edition: "Second Edition (Revised)"
+  location: "ch.28 Loss and Grief, p.321-328"
+  source_id: SRC-010
+
+unit_ids: []
+related_cards: []
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

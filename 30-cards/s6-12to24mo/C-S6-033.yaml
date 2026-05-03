@@ -1,0 +1,47 @@
+card_id: C-S6-033
+stages: [S6]
+tags: [red_flag]
+
+front:
+  title: 别等他自己追上
+  hook: 两句黄金质问决定一切
+
+back:
+  why_matters: |
+    "他长大就好了"是儿科最危险的安慰话之一。Brazelton 直言这是"沉默的迷信"——发育迟缓越早干预,神经系统的代偿能力越强;越拖延,孩子越容易陷入"失败-绝望"的循环,问题从单一发育延迟扩散到自我认同。
+    如果医生说"再等等,他自己会追上",家长必须追问两个问题:(1)"再等多久?"(2)"如果之后证明确实有问题,等待这段时间会不会造成不可逆伤害?"
+    这两句话能立刻区分"真无碍"和"医生不愿启动转诊"。
+  what_to_do:
+    - 任何运动/认知/情绪/行为发育担忧 → 直接预约评估
+    - 医生说"等等就好"立刻问那两个黄金问题
+    - 答不出具体时间或承认"可能有损失"→ 要求转诊专科
+    - 转诊清单:发育行为儿科/儿童神经科/语言治疗师
+    - 信任父母自己的直觉,你是孩子健康的第一线
+  failure_mode: |
+    2 岁孩子还不会说几个词,医生说"男孩说话晚正常";父母信了等到 4 岁——错过了语言治疗黄金期(2-3 岁神经可塑性最强),孩子在幼儿园被孤立,自卑感叠加上来,语言问题变成行为问题。
+    一句"他会追上的",代价是十年的康复路。
+  evidence_level: B
+
+glossary_refs:
+  - G-TERM-early-intervention
+  - G-PERSON-Brazelton
+
+citation:
+  book_title_en: "Touchpoints: Birth to 3 — Your Child's Emotional and Behavioral Development"
+  book_title_zh: null
+  authors: ["T. Berry Brazelton", "Joshua D. Sparrow"]
+  publisher_en: "Da Capo Press"
+  publisher_imprint: "A Merloyd Lawrence Book"
+  publisher_zh: null
+  year: 1992
+  year_revised: 2006
+  edition: "Second Edition (Revised)"
+  location: "ch.17 Delays in Development, p.238-248"
+  source_id: SRC-010
+
+unit_ids: []
+related_cards: []
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

@@ -1,0 +1,56 @@
+card_id: C-S0-007
+stages: [S0]
+tags: [philosophy]
+
+front:
+  title: 好医生肯说"我不知道"
+  hook: 别只挂号开药那种
+
+back:
+  why_matters: |
+    儿科医生(pediatrician)= 你和宝宝建立的长期医疗关系核心,从孕期一直到孩子青春期。
+    Brazelton 把 touchpoint 模型也用在医患关系上——一个好的儿科关系本质是 therapeutic relationship。
+    他抨击 managed care 让父母每次见不同医生的做法,称之为"医疗之家"被瓦解。
+    识别好医生的标志:
+    (1) 愿意做产前会面,让陌生人变老朋友,
+    (2) 检查时让 9-36 月孩子留在母亲腿上不强行分离,
+    (3) 在四岁以上孩子面前直接对孩子讲病情而非把孩子当物品讨论,
+    (4) 不知道的时候说"我不知道"而不是用"长大就好了"敷衍。
+    四岁后开始邀请孩子打电话问自己的病。
+  what_to_do:
+    - 怀孕期就预约医生见面认识
+    - 设固定每日 call hour 集中提问
+    - 不接受每次见不同医生的诊所
+    - 检查时观察医生是否尊重孩子的怕生
+    - 关系恶化时先约一次专门面谈再决定换医生
+  failure_mode: |
+    把儿科医生当"开药机器",所有发展问题憋着不问;
+    遇到敷衍式"长大就好了"接受;孩子建立不起"这是我的医生"的信任,每次去医院都创伤化,未来面对疾病时缺少自我效能感。
+  evidence_level: B
+
+glossary_refs:
+  - G-TERM-medical-home
+  - G-TERM-managed-care
+  - G-PERSON-Brazelton
+  - G-TERM-call-hour
+  - G-TERM-therapeutic-relationship
+
+citation:
+  book_title_en: "Touchpoints: Birth to 3 — Your Child's Emotional and Behavioral Development"
+  book_title_zh: null
+  authors: ["T. Berry Brazelton", "Joshua D. Sparrow"]
+  publisher_en: "Da Capo Press"
+  publisher_imprint: "A Merloyd Lawrence Book"
+  publisher_zh: null
+  year: 1992
+  year_revised: 2006
+  edition: "Second Edition (Revised)"
+  location: "ch. 48 Your Child's Doctor, pp. 458-464"
+  source_id: SRC-010
+
+unit_ids: []
+related_cards: [C-S0-001]
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

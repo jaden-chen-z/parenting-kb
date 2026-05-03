@@ -1,0 +1,48 @@
+card_id: C-S2-024
+stages: [S2]
+tags: [controversy]
+
+front:
+  title: 过敏积木理论早预防
+  hook: 一桶过敏积木倒了才崩
+
+back:
+  why_matters: |
+    Brazelton 提出"积木理论":过敏不是单一物质引发,而是多个小过敏原(灰尘、花粉、棉絮、感冒)叠加到某个阈值,一根稻草压垮骆驼。家族有过敏史的婴儿"原子能"更弱,1 岁前免疫系统正在被"训练"哪些是敌人哪些是朋友,过早接触强致敏物会被错误标记。
+    注意 controversy:本卡反映 Brazelton 2006 年立场——延后引入鸡蛋(10 个月)/小麦(7 个月)/坚果(3 岁);但 LEAP 2015 研究后,主流共识反转,认为对高风险婴儿在 4-6 个月引入花生反而能预防过敏 80%。
+    本卡的"早期延迟引入"原则在 2020 年代已部分作废,但"积木理论""一次只引入一种食物""家族史孩子要更小心"这三条仍然成立。
+  what_to_do:
+    - 母乳喂养至少 6 个月(此条仍是金标准)
+    - 引入辅食时一次一种,间隔 7-10 天观察
+    - 卧室是清洁优先级最高的房间(床品/地毯)
+    - 家族过敏史婴儿就医时主动告知,做血液筛查
+    - 花生引入参考 LEAP 2015 而非本书原版建议
+  failure_mode: |
+    家族有哮喘史的婴儿,父母按 Brazelton 2006 版严格延后引入花生到 3 岁——结果按 LEAP 研究恰恰错过了 4-6 个月的"训练窗口",反而显著提高花生过敏概率。
+    这是经典的"按旧版育儿书反向操作"陷阱。
+  evidence_level: C
+
+glossary_refs:
+  - G-ABBR-LEAP
+  - G-TERM-atopy
+  - G-PERSON-Brazelton
+
+citation:
+  book_title_en: "Touchpoints: Birth to 3 — Your Child's Emotional and Behavioral Development"
+  book_title_zh: null
+  authors: ["T. Berry Brazelton", "Joshua D. Sparrow"]
+  publisher_en: "Da Capo Press"
+  publisher_imprint: "A Merloyd Lawrence Book"
+  publisher_zh: null
+  year: 1992
+  year_revised: 2006
+  edition: "Second Edition (Revised)"
+  location: "ch.14 Allergies and Asthma, p.215-225 + LEAP 2015 修正"
+  source_id: SRC-010
+
+unit_ids: []
+related_cards: [C-S3-002]
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

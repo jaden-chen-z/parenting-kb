@@ -1,0 +1,45 @@
+card_id: C-S4-018
+stages: [S4]
+tags: []
+
+front:
+  title: 6-7 月物体永久性萌芽
+  hook: 掉勺子是认知练习
+
+back:
+  why_matters: |
+    6-7 月宝宝突然爱掉勺子、低头找、再抬头看你捡——这不是调皮，是物体永久性认知的早期演练。Brazelton 强调：父母配合捡起的瞬间，宝宝学到"看不见≠消失"，这是后续应对分离焦虑的认知地基，比"听话"重要 100 倍。
+  what_to_do:
+    - 掉勺子时配合捡起一次
+    - 同步玩 peek-a-boo 强化
+    - 用布盖玩具让他掀开找
+    - 不要嫌烦立刻收走勺子
+    - 每次给他时间反应再揭谜
+  failure_mode: |
+    父母嫌"故意捣乱"没收勺子，宝宝错过演练机会；或反复表演让宝宝过度疲劳——他需要主动权而非被动观看。
+  evidence_level: B
+
+glossary_refs:
+  - G-TERM-object-permanence
+  - G-TERM-touchpoint
+  - G-PERSON-Brazelton
+
+citation:
+  book_title_en: "Touchpoints: Birth to 3 — Your Child's Emotional and Behavioral Development"
+  book_title_zh: null
+  authors: ["T. Berry Brazelton", "Joshua D. Sparrow"]
+  publisher_en: "Da Capo Press"
+  publisher_imprint: "A Merloyd Lawrence Book"
+  publisher_zh: null
+  year: 1992
+  year_revised: 2006
+  edition: "Second Edition (Revised)"
+  location: "page 109-110, 'Feeding'"
+  source_id: SRC-010
+
+unit_ids: []
+related_cards: []
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

@@ -1,0 +1,51 @@
+card_id: C-S1-076
+stages: [S1]
+tags: [red_flag]
+
+front:
+  title: 父母焦虑是好东西
+  hook: 不焦虑反而要担心
+
+back:
+  why_matters: |
+    Brazelton 引用 Winnicott:"现在你把所有鸡蛋放进了一个篮子里。"
+    所有真正在乎宝宝的父母都会焦虑,焦虑的功能是调动能量去承担这份从未承担过的责任,也让父母愿意向他人求助。
+    但如果焦虑过度变成抑郁,就会让父母对宝宝的信号失去回应能力。10% 的妈妈会得产后抑郁,80% 的妈妈在头 10 天会经历"产后忧郁"(postpartum blues),后者两周内自愈,前者必须就医。
+    Brazelton 的核心信息是:正常焦虑不可耻,但分不清自己是哪种就危险。
+  what_to_do:
+    - 接纳"我焦虑是因为我在乎"
+    - 持续两周以上的低落必须就医
+    - 区分忧郁(短暂)和抑郁(深陷)
+    - 主动告诉家人"我现在不对劲"
+    - 别用"为母则刚"压制求助欲望
+  failure_mode: |
+    把所有产后情绪都说成"正常的累",硬扛两个月,直到丧失对宝宝的回应能力。
+    或者反过来,把头几天正常的低落当成"我得了抑郁症",过度紧张反而加重。
+    区分关键是:持续时长 + 是否影响照顾宝宝。
+  evidence_level: A
+
+glossary_refs:
+  - G-TERM-postpartum-blues
+  - G-TERM-postpartum-depression
+  - G-PERSON-Winnicott
+
+citation:
+  book_title_en: "Touchpoints: Birth to 3 — Your Child's Emotional and Behavioral Development"
+  book_title_zh: null
+  authors: ["T. Berry Brazelton", "Joshua D. Sparrow"]
+  publisher_en: "Da Capo Press"
+  publisher_imprint: "A Merloyd Lawrence Book"
+  publisher_zh: null
+  year: 1992
+  year_revised: 2006
+  edition: "Second Edition (Revised)"
+  location: "page 34-36, 'Newborn Parents' 开头"
+  source_id: SRC-010
+
+unit_ids: []
+related_cards:
+  - C-S1-033     # Karp 产后抑郁的 3 阶段识别
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

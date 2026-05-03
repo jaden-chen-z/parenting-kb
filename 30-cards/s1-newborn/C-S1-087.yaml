@@ -1,0 +1,49 @@
+card_id: C-S1-087
+stages: [S1]
+tags: [philosophy]
+
+front:
+  title: 优势视角与旧鬼魂
+  hook: 不是不爱才犯错
+
+back:
+  why_matters: |
+    Brazelton 流派的标志性临床立场——strengths-based model。医学训练教医生找病灶、找缺陷;Brazelton 反过来说,每个家庭都有自己的优势,专家的工作是让父母看见自己已经做对的事,而不是诊断他们不足。
+    同时引用 Selma Fraiberg 的"育儿室里的鬼魂"——父母犯错不是因为不在乎,而是因为太在乎;过度的爱激活了自己童年未处理的伤痕,让判断让位给非理性反应。
+    把鬼魂带到意识层面就能解除它的力量。
+  what_to_do:
+    - 自我对话先列 3 条本周做对的小事
+    - 当过度反应时问"这激活了我哪段童年?"
+    - 不被育儿专家的"诊断式"建议绑架
+    - 把伴侣的"做错"翻译成"在乎过头"
+    - 找一个能听你讲鬼魂的对象(伴侣/朋友/咨询师)
+  failure_mode: |
+    父母把所有冲突都当作教养技术问题去搜攻略,从不回头看自己的童年触发器。
+    结果攻略学一堆,遇到具体场景仍然瞬间回到父母对自己的反应模式,孩子接住的还是那套未疗愈的循环。
+  evidence_level: B
+
+glossary_refs:
+  - G-TERM-strengths-based
+  - G-TERM-ghosts-nursery
+  - G-PERSON-Fraiberg
+  - G-PERSON-Brazelton
+
+citation:
+  book_title_en: "Touchpoints: Birth to 3 — Your Child's Emotional and Behavioral Development"
+  book_title_zh: null
+  authors: ["T. Berry Brazelton", "Joshua D. Sparrow"]
+  publisher_en: "Da Capo Press"
+  publisher_imprint: "A Merloyd Lawrence Book"
+  publisher_zh: null
+  year: 1992
+  year_revised: 2006
+  edition: "Second Edition (Revised)"
+  location: "Introduction to the Second Edition, p. xxiii"
+  source_id: SRC-010
+
+unit_ids: []
+related_cards: []
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

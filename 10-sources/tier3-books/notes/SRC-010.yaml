@@ -1,0 +1,275 @@
+source_id: SRC-010
+title: "Touchpoints: Birth to 3 — Your Child's Emotional and Behavioral Development"
+title_en: "Touchpoints: Birth to 3 — Your Child's Emotional and Behavioral Development"
+title_zh: null                       # 用的是英文原版,无中译本
+org: null
+source_type: book
+url: null
+doi: null
+isbn: "978-0-7382-1049-0"            # ISBN-13(修订版,2006 Da Capo Press)
+isbn_10: "0-7382-1049-8"             # ISBN-10
+isbn_zh: null                        # 无中译本
+tier: 3
+language: en                         # 英文原版
+paywall: false
+captcha: false
+accessed: 2026-05-02
+fetch_method: user_provided_pdf_ocr
+local_file: ../raw_pdfs/brazelton_touchpoints_birth_to_three.md
+file_size_bytes: 1287455              # 1.28 MB(OCR 后 markdown)
+file_lines: 22599
+
+metadata:
+  authors_en:
+    - "T. Berry Brazelton, M.D."
+    - "Joshua D. Sparrow, M.D."        # 修订版合著者(初版仅 Brazelton)
+  authors_zh:
+    - "T. 贝里·布拉泽尔顿"
+    - "约书亚·D. 斯帕罗"
+  translator_zh: null                  # 无中译本
+  publisher_en: "Da Capo Press"
+  publisher_imprint: "A Merloyd Lawrence Book"
+  publisher_parent: "Perseus Books Group"
+  publisher_zh: null
+  publisher_location_en: "Cambridge, Massachusetts"
+  year_first_edition: 1992              # 初版年份(Introduction:"Since its publication in 1992")
+  year_revised_edition: 2006            # 修订版年份(版权页:"Copyright 2006")
+  year_en: 2006                         # 本电子版对应年份
+  year_zh: null
+  edition: "Second Edition (Revised)"
+  edition_zh: null
+  pages_total: 499                      # 含 Index + About the Authors
+  cover_subtitle: "Your Child's Emotional and Behavioral Development"
+  series: "Brazelton Touchpoints series"
+
+# 作者背景(给后续卡片 evidence_level 评估用)
+author_credentials:
+  brazelton:
+    role_en: "Professor of Pediatrics, Harvard Medical School"
+    expertise: "Newborn behavior + 0-3 development + Touchpoints model"
+    experience_years: 50
+    note: "1918-2018,波士顿儿童医院 50+ 年临床,NBAS(Neonatal Behavioral Assessment Scale)1973 创始人,Brazelton Touchpoints Center 创始人"
+  sparrow:
+    role_en: "Child Psychiatrist, Brazelton Touchpoints Center"
+    expertise: "Infant mental health + family-centered care"
+    note: "Brazelton 钦点的修订版合著者,任 Touchpoints Center 高级主管"
+
+# === 章节地图(Table of Contents,从 OCR 第 271-485 行提取)===
+toc:
+  part_one:
+    title: "Touchpoints of Development"
+    description: "按月龄的 13 个发展触点(每章对应一个发展节点)"
+    chapters:
+      - { num: 1, title: "Pregnancy: The First Touchpoint", page_start: 3, stage_target: S0 }
+      - { num: 2, title: "The Newborn Individual", page_start: 20, stage_target: S1 }
+      - { num: 3, title: "Newborn Parents", page_start: 34, stage_target: S1 }
+      - { num: 4, title: "Two to Three Weeks", page_start: 50, stage_target: S1 }
+      - { num: 5, title: "Six to Eight Weeks", page_start: 65, stage_target: S2 }
+      - { num: 6, title: "Four Months", page_start: 81, stage_target: S3 }
+      - { num: 7, title: "Six to Seven Months", page_start: 101, stage_target: "S3/S4" }
+      - { num: 8, title: "Nine Months", page_start: 117, stage_target: "S4/S5" }
+      - { num: 9, title: "One Year", page_start: 131, stage_target: "S5/S6" }
+      - { num: 10, title: "Fifteen Months", page_start: 148, stage_target: S6 }
+      - { num: 11, title: "Eighteen Months", page_start: 164, stage_target: S6 }
+      - { num: 12, title: "Two Years", page_start: 179, stage_target: S7 }
+      - { num: 13, title: "Three Years: Looking Ahead", page_start: 197, stage_target: S7 }
+  part_two:
+    title: "Challenges to Development"
+    description: "30 个跨段主题挑战(按主题非月龄)"
+    chapters:
+      - { num: 14, title: "Allergies and Asthma", page_start: 215, stage_target: cross }
+      - { num: 15, title: "Bedwetting (Enuresis)", page_start: 227, stage_target: cross }
+      - { num: 16, title: "Crying and Colic", page_start: 231, stage_target: cross }
+      - { num: 17, title: "Delays in Development and Developmental Disabilities", page_start: 238, stage_target: cross }
+      - { num: 18, title: "Depression", page_start: 249, stage_target: cross }
+      - { num: 19, title: "Discipline", page_start: 253, stage_target: cross }
+      - { num: 20, title: "Divorce", page_start: 262, stage_target: cross }
+      - { num: 21, title: "Fears", page_start: 271, stage_target: cross }
+      - { num: 22, title: "Feeding Problems", page_start: 281, stage_target: cross }
+      - { num: 23, title: "Habits", page_start: 288, stage_target: cross }
+      - { num: 24, title: "Hospitalization", page_start: 293, stage_target: cross }
+      - { num: 25, title: "Hypersensitivity and Hyperactivity", page_start: 299, stage_target: cross }
+      - { num: 26, title: "Illness", page_start: 304, stage_target: cross }
+      - { num: 27, title: "Imaginary Friends", page_start: 316, stage_target: cross }
+      - { num: 28, title: "Loss and Grief", page_start: 321, stage_target: cross }
+      - { num: 29, title: "Lying, Stealing, and Cheating", page_start: 329, stage_target: cross }
+      - { num: 30, title: "Manners", page_start: 335, stage_target: cross }
+      - { num: 31, title: "Play", page_start: 340, stage_target: cross }
+      - { num: 32, title: "Power Struggles and Manipulation", page_start: 345, stage_target: cross }
+      - { num: 33, title: "Prematurity", page_start: 351, stage_target: cross }
+      - { num: 34, title: "School Readiness", page_start: 357, stage_target: cross }
+      - { num: 35, title: "Self-Image and Self-Esteem", page_start: 365, stage_target: cross }
+      - { num: 36, title: "Separation", page_start: 370, stage_target: cross }
+      - { num: 37, title: "Sibling Rivalry", page_start: 376, stage_target: cross }
+      - { num: 38, title: "Sleep Problems", page_start: 381, stage_target: cross }
+      - { num: 39, title: "Spacing Children", page_start: 391, stage_target: cross }
+      - { num: 40, title: "Speech, Language, and Hearing Problems", page_start: 398, stage_target: cross }
+      - { num: 41, title: "Stomachaches, Headaches, and Stress", page_start: 406, stage_target: cross }
+      - { num: 42, title: "Television", page_start: 411, stage_target: cross }
+      - { num: 43, title: "Toilet Training", page_start: 417, stage_target: cross }
+  part_three:
+    title: "Allies in Development"
+    description: "5 个关系支持系统章节(跨段)"
+    chapters:
+      - { num: 44, title: "Fathers and Mothers", page_start: 425, stage_target: cross }
+      - { num: 45, title: "Grandparents", page_start: 432, stage_target: cross }
+      - { num: 46, title: "Friends", page_start: 441, stage_target: cross }
+      - { num: 47, title: "Childcare Choices", page_start: 447, stage_target: cross }
+      - { num: 48, title: "Your Child's Doctor", page_start: 456, stage_target: cross }
+
+# verbatim 关键内容(Phase 3 提取阶段填充,按主题组织)
+verbatim_content:
+  pending: "提取阶段填充 — 按 Round A-F 增量补全"
+
+# 整体摘要(Phase 3 完成后回填精修)
+summary: |
+  Brazelton《Touchpoints: Birth to Three》(初版 1992,修订版 2006 与 Joshua Sparrow 合著)
+  是 0-3 岁儿童心理 / 行为发展领域的流派原典,Da Capo Press 出版。
+
+  核心概念:
+  1. **触点(Touchpoints)** — 0-3 岁发展中的可预测节点,每个触点前儿童会有暂时退步
+     (回归 / 烦躁 / 睡眠混乱),这是健康前进的信号
+  2. **预防型 / 优势型(strengths-based)模型** — 与 Brazelton Touchpoints Center 全国 70+
+     合作机构推广
+  3. **48 章三段式结构** — Part One 13 个月龄触点 + Part Two 30 个挑战主题 +
+     Part Three 5 个关系支持
+
+  Brazelton 个人:1918-2018,哈佛医学院儿科教授,波士顿儿童医院 50+ 年临床经验,
+  NBAS(Neonatal Behavioral Assessment Scale)1973 创始人。
+  Sparrow:儿童精神科医生,Touchpoints Center 共同负责人。
+
+  ⚠️ 与 Karp / AAP / 鲍秀兰的对照:
+  - Karp 引用过 Brazelton 1962 哭闹峰研究(C-S2-001/002 的 B 级证据来源)
+  - Touchpoints 是流派概念,大多 C 级,部分 B(临床观察 + 共识)
+  - 与 AAP 共识对齐部分(SIDS / 仰睡 / 母乳)可标 A
+  - 1990s 初版的部分医学建议(尤其睡眠 / 喂养)可能与 2022 AAP 立场冲突,
+    保留 Brazelton 视角 + 标 controversy,留给后续整合阶段
+  - 与鲍秀兰对照:Brazelton 强调"发展退步 = 健康前进信号",鲍秀兰强调"早教训练系统";
+    西方心理 vs 东方早教两种视角互补
+
+  待 cross-validate(后续整合阶段):
+  - AAP Caring for Your Baby 2022 立场
+  - 2022 AAP Safe Sleep Policy(若 Brazelton 1992/2006 立场过时)
+  - 当前 NIH / WHO 喂养与睡眠指南
+
+referenced_by_units: []     # Phase 3 暂不建知识单元层(继承 Phase 1/2 决策)
+
+# 该源支撑的全部 70 张知识卡(Phase 3 第二本收官,2026-05-02)
+referenced_by_cards:
+  # === S0 孕期(7 张)===
+  - C-S0-001     # 第一次产检从孕 7 月开始
+  - C-S0-002     # 孕期父母梦到三个宝宝
+  - C-S0-003     # 全家人都在抢着照顾宝宝(gatekeeping)
+  - C-S0-004     # 胎儿真的能听懂你说话
+  - C-S0-005     # 上班妈妈选不选母乳的真相
+  - C-S0-006     # 烟酒一次也别碰但别自责
+  - C-S0-007     # 好医生肯说"我不知道"
+  # === S1 0-1 月(18 张)===
+  - C-S1-073     # 新生儿就是一个独立的人(NBAS)
+  - C-S1-074     # 习惯化:宝宝的"屏蔽能力"
+  - C-S1-075     # 新生儿的六种状态
+  - C-S1-076     # 父母焦虑是好东西
+  - C-S1-077     # 别迷信"产房黄金一小时"(bonding 解构)
+  - C-S1-078     # 调和"梦中宝宝"和"真宝宝"
+  - C-S1-079     # 喂奶不只是填饱肚子(burst-pause)
+  - C-S1-080     # 2-3 周触点:父母的崩溃期
+  - C-S1-081     # 宝宝认识爸爸的方式跟妈妈不同
+  - C-S1-082     # 哭闹 6 类哭声地图
+  - C-S1-083     # Colic 真相 85% 都有
+  - C-S1-084     # 高敏宝宝识别清单
+  - C-S1-085     # 同床 vs AAP 的立场分歧
+  - C-S1-086     # 退步是前进的预告(Touchpoints 总论)
+  - C-S1-087     # 优势视角与旧鬼魂(strengths-based)
+  - C-S1-088     # 父母两套模型反而更好
+  - C-S1-089     # 祖父母先闭嘴再帮忙
+  - C-S1-090     # 门卫现象是爱的副作用(广义)
+  # === S2 1-3 月(7 张)===
+  - C-S2-018     # 6-8 周社交微笑不是反射
+  - C-S2-019     # 高敏宝宝的"我超载了"信号
+  - C-S2-020     # 8 周哭闹峰是发育规律
+  - C-S2-021     # 8 周宝宝已能区分爸妈
+  - C-S2-022     # 这月龄不存在"宠坏"
+  - C-S2-023     # 选日托看共情不看课程
+  - C-S2-024     # [自审补] 过敏积木理论早预防(LEAP 2015 修正注)
+  # === S3 3-6 月(8 张)===
+  - C-S3-027     # 4 月触点:先退后进
+  - C-S3-028     # 4 月喂奶分心不是断奶信号
+  - C-S3-029     # 4 月夜醒增多别冲进去
+  - C-S3-030     # 6-7 月气质 9 维度成型
+  - C-S3-031     # 6-7 月陌生人焦虑应对术
+  - C-S3-032     # 6-7 月镜子游戏练自我
+  - C-S3-033     # 学步车反而拖慢里程碑
+  - C-S3-034     # 4 月睡眠周期与条件反射
+  # === S4 6-9 月(5 张)===
+  - C-S4-018     # 6-7 月物体永久性萌芽
+  - C-S4-019     # 7-8 月睡眠倒退是好事
+  - C-S4-020     # 7 月吃饭就是探索
+  - C-S4-021     # 7-8 月陌生人警觉双高峰
+  - C-S4-022     # 6-9 月有自我安抚就放心
+  # === S5 9-12 月(9 张)===
+  - C-S5-020     # 9 月触点全面崩溃期
+  - C-S5-021     # 9 月学站夜醒机制
+  - C-S5-022     # 8-9 月看视觉悬崖学走(social referencing)
+  - C-S5-023     # 9 月断奶不必赶
+  - C-S5-024     # 9 月可以预判失败感(self-efficacy)
+  - C-S5-025     # 9 月-3 岁各阶段管教菜单
+  - C-S5-026     # 分离的痛主要在父母
+  - C-S5-027     # 管教就是教导(广义)
+  - C-S5-028     # [自审补] 晚一年比早一年值(School Readiness)
+  # === S6 12-24 月(16 张)===
+  - C-S6-019     # 15 月符号思维上线
+  - C-S6-020     # 15 月 tantrum 是内部冲突(五胞胎案例)
+  - C-S6-021     # Discipline 是教导,不是惩罚
+  - C-S6-022     # 18 月狂说 No 是健康信号(negativism)
+  - C-S6-023     # 18 月咬人是失控不是恶意
+  - C-S6-024     # 18 月通过红鼻子镜子测试
+  - C-S6-025     # 破破烂烂的小毛绒 = 内心强大(lovey)
+  - C-S6-026     # 1 岁第一次"反抗"
+  - C-S6-027     # 12-15 月饮食极简底线
+  - C-S6-028     # 12 月睡前唤醒法
+  - C-S6-029     # 喂食是自主权战场
+  - C-S6-030     # [自审补] 别抢救他,让他自己赢(Self-Image / 挫折是燃料)
+  - C-S6-031     # [自审补] 2 岁前一秒都别看屏(Television / 屏幕硬规则)
+  - C-S6-032     # [自审补] 内向不是病别硬掰(Fears / Kagan 气质论)
+  - C-S6-033     # [自审补] 别等他自己追上(Delays / 两个黄金质问)
+  - C-S6-034     # [自审补] 住院父母必须在场(Hospitalization / 争取陪护)
+  # === S7 24-36 月(9 张:Round D 5 + Round E 2 + 自审补 2)===
+  - C-S7-016     # 2 岁三件大事:假装/认同/模仿
+  - C-S7-017     # 2 岁语言差异:正常 vs 真延迟
+  - C-S7-018     # 厕所训练:孩子主导,父母只示范
+  - C-S7-019     # 3 岁是亲子第二蜜月(想象朋友)
+  - C-S7-020     # 3 岁前别教读写
+  - C-S7-021     # ADHD 别只盯活跃看自我形象
+  - C-S7-022     # 入园 2-3 周后会"二次崩溃"
+  - C-S7-023     # [自审补] 二胎吵架你别站队(Sibling Rivalry / Erikson)
+  - C-S7-024     # [自审补] 别说宠物"睡着了"(Loss and Grief)
+
+# === 自审补卡(2026-05-02 收官后)===
+  # S2 + S5 + S6 各补
+  # - C-S2-024  Allergies 积木理论(已在 S2 段下追加,见上)
+  # - C-S5-028  School Readiness 晚一年比早一年值(已在 S5 段下追加,见上)
+  # - C-S6-030~034  Self-Image / Television / Fears / Delays / Hospitalization(已在 S6 段下追加,见上)
+
+notes: |
+  Phase 3 第二本书(SRC-010)— Brazelton《Touchpoints: Birth to Three》英文原版完整提取。
+  - 文件 OCR 自扫描 PDF(语言英文),原文件 38.9 MB,OCR 后 markdown 1.28 MB / 22599 行 / ~330K 字符
+  - OCR 多行结构化(平均行长 57 字符),无需工程化分块,subagent 可按行号范围读
+  - 新建段:**S0 = 孕期**(对应 Brazelton 第 1 章 Pregnancy 触点)
+  - 复用扩展段:**S6 = 12-24 月** + **S7 = 24-36 月**(鲍秀兰 SRC-009 已建)
+  - 元数据全部从 OCR 第一手核对(§10.6 教训 — 不凭训练记忆):
+      * 修订版年份 2006(版权页) / 初版年份 1992(Introduction 自述)
+      * ISBN-13 978-0-7382-1049-0 / ISBN-10 0-7382-1049-8(版权页)
+      * 出版社 Da Capo Press / Merloyd Lawrence Book imprint(版权页)
+      * 合著者 Joshua D. Sparrow M.D.(版权页 + 内封)
+  - 续号(避鲍秀兰 SRC-009 已占,从其 max_id+1 接续):
+      * S0: C-S0-001 起(全新段)
+      * S1: C-S1-072 起(鲍 max=071)
+      * S2: C-S2-018 起(鲍 max=017)
+      * S3: C-S3-027 起(鲍 max=026)
+      * S4: C-S4-018 起(鲍 max=017)
+      * S5: C-S5-020 起(鲍 max=019)
+      * S6: C-S6-019 起(鲍 max=018)
+      * S7: C-S7-016 起(鲍 max=015)
+  - Part Two 跨段挑战章:产卡时按内容主战场段定位
+  - Part Three 关系支持章:多为跨段哲学卡,可标 stages: [cross] 或主段
+  - 续作《Touchpoints: Three to Six》本地无电子版(用户决定后续提供再做)

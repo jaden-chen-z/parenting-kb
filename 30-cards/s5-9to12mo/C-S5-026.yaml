@@ -1,0 +1,50 @@
+card_id: C-S5-026
+stages: [S5]
+tags: [philosophy]
+
+front:
+  title: 分离的痛主要在父母
+  hook: 痛是父母的不是孩子
+
+back:
+  why_matters: |
+    Brazelton 反直觉视角:分离的痛主要是父母的,不是孩子的。
+    良好托育下的婴儿适应得比父母快——但他们用 3 种防御机制掩盖痛苦:Denial(说没事)/ Projection(把好/坏角色投射到他人和自己)/ Detachment(淡化依恋来减痛)。
+    这三种"埋藏"反而消耗能量、引起抑郁。
+    识别这些防御并允许它们浮现,反而能掌握分离。
+    "为什么她每次接她时都转过头去?"——因为她攒了一天的强烈情绪等到信任的人才敢释放。
+  what_to_do:
+    - 早起 cuddling 几分钟再去托班
+    - 永远说"我会回来"再走,不偷溜
+    - 离开干脆,不拖延
+    - 接回时让她大爆发,抱住她直到结束
+    - 告诉自己愧疚是 normal motivating force
+  failure_mode: |
+    父母为减少自己痛苦而偷偷溜走,孩子失去信任;或反向地,过度延长告别仪式让孩子永远卡在"何时真正离开"的焦虑里。
+  evidence_level: B
+
+glossary_refs:
+  - G-TERM-separation-anxiety
+  - G-PERSON-Brazelton
+
+citation:
+  book_title_en: "Touchpoints: Birth to 3 — Your Child's Emotional and Behavioral Development"
+  book_title_zh: null
+  authors: ["T. Berry Brazelton", "Joshua D. Sparrow"]
+  publisher_en: "Da Capo Press"
+  publisher_imprint: "A Merloyd Lawrence Book"
+  publisher_zh: null
+  year: 1992
+  year_revised: 2006
+  edition: "Second Edition (Revised)"
+  location: "ch.36 Separation, p.370-372"
+  source_id: SRC-010
+
+unit_ids: []
+related_cards:
+  - C-S4-004
+  - C-S5-004
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

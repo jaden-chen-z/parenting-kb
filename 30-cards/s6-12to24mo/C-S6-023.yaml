@@ -1,0 +1,45 @@
+card_id: C-S6-023
+stages: [S6]
+tags: [discipline]
+
+front:
+  title: 18 月咬人是失控不是恶意
+  hook: 咬人者比被咬者更需要安抚
+
+back:
+  why_matters: |
+    Brazelton 视角:18 月开始的咬人 / 抓人 / 拉头发,几乎都发生在"最好的朋友"之间。它们**不是出于明确意图**,而是孩子被淹没、失去控制时的反应。事件发生后,**攻击者跟受害者一样心烦**,有时更心烦 — 因为他被自己的失控吓到了。家长 / 老师过度反应(打 / 严厉惩罚)反而强化模式:- 攻击者陷入愧疚 → 下次失控时模式重演 → 觉得自己"太坏学不会" - 大人的过激反应坐实了"我是坏孩子"。Brazelton 反传统建议:**两个咬人的孩子可以放一起玩**。一个咬另一个,被咬的会还咬,然后两人对视:"好疼!你为什么这样?" 他们再也不会咬了 — 因为他们之前真的不知道这有多疼。
+  what_to_do:
+    - 立刻安抚两个孩子(咬人 + 被咬)— 攻击者更需要被理解
+    - 蹲下平视:"没人喜欢被咬。下次你这种感觉时,记得我可以帮你停下来"
+    - 妈妈不要"咬回去" — 这是降级到孩子水平
+    - 提供替代物:可咬的玩具狗骨头 / 玩偶
+    - 安排两个 "biters" 一起玩 — 让他们互相教
+    - 大人退到能干预但不主导的距离
+  failure_mode: |
+    "你怎么咬人! 太坏了!" → 攻击者陷入"我是坏孩子"循环。隔离 / 不让一起玩 → 错过同龄人之间最好的学习。妈妈咬回去 → 孩子学到"咬是大人也用的工具"。
+  evidence_level: B
+
+glossary_refs:
+  - G-TERM-biting
+  - G-PERSON-Brazelton
+
+citation:
+  book_title_en: "Touchpoints: Birth to 3 — Your Child's Emotional and Behavioral Development"
+  book_title_zh: null
+  authors: ["T. Berry Brazelton", "Joshua D. Sparrow"]
+  publisher_en: "Da Capo Press"
+  publisher_imprint: "A Merloyd Lawrence Book"
+  publisher_zh: null
+  year: 1992
+  year_revised: 2006
+  edition: "Second Edition (Revised)"
+  location: "Part One · Ch 11 Eighteen Months · pp.172-173 (Biting / Hair-pulling)"
+  source_id: SRC-010
+
+unit_ids: []
+related_cards: []
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

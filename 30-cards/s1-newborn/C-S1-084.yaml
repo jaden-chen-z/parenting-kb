@@ -1,0 +1,52 @@
+card_id: C-S1-084
+stages: [S1]
+tags: []
+
+front:
+  title: 高敏宝宝识别清单
+  hook: 一次只一个刺激
+
+back:
+  why_matters: |
+    Brazelton 临床特长:识别高敏感婴儿的核心特征——惊吓阈值低、习惯化反应延迟(普通宝宝拍 3-4 次就习惯,高敏宝宝拍 10-15 次还在眨)、闭目逃避、刺激过载时哭得更凶(不是哭得停)、SGA(小于胎龄儿)特别多。
+    高敏可能是 ADHD 部分子群体的起源。
+    处理铁律:一次只给一个刺激——不能同时看、说、摇。
+    父母通常因焦虑反复加大刺激加重过载。
+  what_to_do:
+    - 喂奶/换尿布在安静、暗光、无干扰环境
+    - 拍打 5+ 次仍惊吓需评估
+    - 进展:先抱→平静→看脸→说话→摇晃,逐级
+    - 父母怀孕时香烟酒精曝露后 SGA 高敏风险高
+    - 看到第一个皱眉就停止当前刺激
+  failure_mode: |
+    父母同时摇 + 唱 + 看脸 + 喂奶想"全方位安抚",反而把高敏宝宝彻底压垮、形成回避-焦虑死循环;或父母自责"为何我的孩子这么敏感"加倍刺激。
+  evidence_level: B
+
+glossary_refs:
+  - G-TERM-hypersensitivity
+  - G-TERM-habituation
+  - G-ABBR-ADHD
+  - G-ABBR-SGA
+  - G-PERSON-Brazelton
+
+citation:
+  book_title_en: "Touchpoints: Birth to 3 — Your Child's Emotional and Behavioral Development"
+  book_title_zh: null
+  authors: ["T. Berry Brazelton", "Joshua D. Sparrow"]
+  publisher_en: "Da Capo Press"
+  publisher_imprint: "A Merloyd Lawrence Book"
+  publisher_zh: null
+  year: 1992
+  year_revised: 2006
+  edition: "Second Edition (Revised)"
+  location: "ch.25 Hypersensitivity and Hyperactivity, p.299-303 + p.241-242"
+  source_id: SRC-010
+
+unit_ids: []
+related_cards:
+  - C-S1-074
+  - C-S2-019
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

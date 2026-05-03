@@ -1,0 +1,49 @@
+card_id: C-S0-001
+stages: [S0]
+tags: [philosophy]
+
+front:
+  title: 第一次产检从孕 7 月开始
+  hook: 别等出生才认识儿科医生
+
+back:
+  why_matters: |
+    "触点"是 Brazelton 提出的关键发展节点——父母正经历内心剧变、最容易接纳支持的时刻。
+    研究显示孕 7 月做一次产前会面,父亲后续 50% 会全程参与第一年每次复诊,80% 至少参加 4 次。
+    这是建立医生—家庭关系的黄金窗口,比出生后再接触效果好得多,因为此时还没有真实婴儿夺走全部注意力。
+  what_to_do:
+    - 孕第 7 个月预约一次儿科医生面谈
+    - 夫妻一起去,父亲也要在场
+    - 把对宝宝的梦境和担忧说出来
+    - 准备问医生:出生后怎么联系、急诊电话
+    - 如果医生只跟妈妈说话,主动提出爸爸也要参与
+  failure_mode: |
+    很多妈妈觉得"我产科医生管就够了,儿科以后再说",结果出生后手忙脚乱才第一次见医生,陌生感让沟通效率低。
+    如果错过 7 月这个窗口,8 月起妈妈注意力被分娩占据,爸爸进入产前课,都没空建立这层关系——
+    补救办法是出生后第一次复诊就刻意预留 30 分钟做"补课"会面。
+  evidence_level: C
+
+glossary_refs:
+  - G-TERM-touchpoint
+  - G-PERSON-Brazelton
+
+citation:
+  book_title_en: "Touchpoints: Birth to 3 — Your Child's Emotional and Behavioral Development"
+  book_title_zh: null
+  authors: ["T. Berry Brazelton", "Joshua D. Sparrow"]
+  publisher_en: "Da Capo Press"
+  publisher_imprint: "A Merloyd Lawrence Book"
+  publisher_zh: null
+  year: 1992
+  year_revised: 2006
+  edition: "Second Edition (Revised)"
+  location: "page 3-4, opening of 'Pregnancy: The First Touchpoint'"
+  source_id: SRC-010
+
+unit_ids: []
+related_cards: []
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

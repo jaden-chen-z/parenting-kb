@@ -1,0 +1,45 @@
+card_id: C-S5-024
+stages: [S5]
+tags: [philosophy]
+
+front:
+  title: 9 月可以预判失败感
+  hook: 给俩积木看反应
+
+back:
+  why_matters: |
+    Brazelton 临床发现：递两块同样积木给 9 月宝宝，"预期成功"的孩子会咬、扔、最后骄傲地堆起来等表扬；"预期失败"的孩子拿过来只是滑过、神情黯淡。这种早期自我效能感会沉淀成性格底色——比月龄达标更值得家长留意。
+  what_to_do:
+    - 完成小任务后明确口头肯定
+    - 不替他完成不该替的事
+    - 摔倒不大惊小怪也不忽略
+    - 留意他完成后是否抬头看你
+    - 没回应就主动给他眼神鼓励
+  failure_mode: |
+    父母只关心"会不会爬会不会站"，忽略孩子完成后的眼神——长期得不到承认的孩子会内化"我不行"，到学龄阶段表现为不敢尝试。
+  evidence_level: B
+
+glossary_refs:
+  - G-TERM-self-efficacy
+  - G-TERM-learned-helplessness
+  - G-PERSON-Brazelton
+
+citation:
+  book_title_en: "Touchpoints: Birth to 3 — Your Child's Emotional and Behavioral Development"
+  book_title_zh: null
+  authors: ["T. Berry Brazelton", "Joshua D. Sparrow"]
+  publisher_en: "Da Capo Press"
+  publisher_imprint: "A Merloyd Lawrence Book"
+  publisher_zh: null
+  year: 1992
+  year_revised: 2006
+  edition: "Second Edition (Revised)"
+  location: "page 128-129, 'Expectation of Success or Failure'"
+  source_id: SRC-010
+
+unit_ids: []
+related_cards: []
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

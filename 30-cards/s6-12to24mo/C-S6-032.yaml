@@ -1,0 +1,47 @@
+card_id: C-S6-032
+stages: [S6]
+tags: [philosophy]
+
+front:
+  title: 内向不是病别硬掰
+  hook: 害怕是燃料不是缺陷
+
+back:
+  why_matters: |
+    心理学家 Jerome Kagan 长达数十年的纵向研究证实:害羞与对新事物的胆怯有强烈先天遗传成分,15-20% 的婴儿天生属于"高反应气质"。
+    Brazelton 强调,恐惧本身是孩子升级时调动的肾上腺素,有助于学习自控;但父母如果过度安抚("没事没事妈妈在")或反复确认("你是不是怕"),反而会传递自身焦虑,让恐惧坐实成"真的有怪物",延缓孩子自我消化的过程。
+    父母最该做的不是消灭恐惧,而是让孩子看见你是怎么和恐惧共处的。
+  what_to_do:
+    - 听完孩子描述只说"我懂,所有小孩都怕过这个"
+    - 一起检查床底但表情淡定,不演紧张
+    - 讲自己小时候同样的恐惧和怎么过的
+    - 内向娃别推大群,从 2-3 人小聚开始
+    - 每周一次单独 1 小时陪伴(不是哄,是平等做事)
+  failure_mode: |
+    4 岁孩子说"床下有怪物",父母过度反应每晚陪睡两小时还检查衣柜、床底、阳台——三个月后孩子不仅怕怪物,还新增了怕黑、怕一个人去厕所、怕父母外出。
+    父母把"恐惧"变成了"获得关注的钥匙",孩子的恐惧目录只会越来越长。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Kagan
+  - G-PERSON-Brazelton
+
+citation:
+  book_title_en: "Touchpoints: Birth to 3 — Your Child's Emotional and Behavioral Development"
+  book_title_zh: null
+  authors: ["T. Berry Brazelton", "Joshua D. Sparrow"]
+  publisher_en: "Da Capo Press"
+  publisher_imprint: "A Merloyd Lawrence Book"
+  publisher_zh: null
+  year: 1992
+  year_revised: 2006
+  edition: "Second Edition (Revised)"
+  location: "ch.21 Fears, p.271-280"
+  source_id: SRC-010
+
+unit_ids: []
+related_cards: []
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

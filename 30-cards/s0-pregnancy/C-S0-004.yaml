@@ -1,0 +1,51 @@
+card_id: C-S0-004
+stages: [S0]
+tags: []
+
+front:
+  title: 胎儿真的能听懂你说话
+  hook: 你练的肖邦,他出生后还记得
+
+back:
+  why_matters: |
+    "胎儿学习(fetal learning)"指胎儿在子宫内就能记住反复听到的声音——
+    De Casper 等研究证实孕末三月反复播放的复杂歌曲和故事,出生后宝宝仍能识别。
+    Brazelton 在 Children's Hospital 的超声研究也观察到胎儿有 4 种意识状态(深睡/浅睡/活跃清醒/安静清醒),
+    会对蜂鸣"习惯化",会转向感兴趣的拨浪鼓声。意思是:孕期亲子关系已经开始,不必等出生。
+  what_to_do:
+    - 孕末三月每天对肚子说话或唱歌
+    - 反复播放固定的几首音乐
+    - 爸爸用低沉声音对胎儿讲话,出生后更易识别
+    - 妈妈安静时胎儿活跃,这时更易交流
+    - 大噪音下胎儿不动属反常,告诉产科医生
+  failure_mode: |
+    觉得"对肚子说话很傻、像迷信",错过和宝宝建立熟悉感的机会;
+    或者反过来过度执着,大声放胎教音乐震动腹部反而让胎儿启动保护性"习惯化"屏蔽掉。
+    正确强度:平静柔和的日常说话和音乐就够了,胎儿对强刺激会自动转身回避,对温和刺激才会主动靠近。
+  evidence_level: B
+
+glossary_refs:
+  - G-TERM-fetal-learning
+  - G-TERM-habituation
+  - G-PERSON-Brazelton
+
+citation:
+  book_title_en: "Touchpoints: Birth to 3 — Your Child's Emotional and Behavioral Development"
+  book_title_zh: null
+  authors: ["T. Berry Brazelton", "Joshua D. Sparrow"]
+  publisher_en: "Da Capo Press"
+  publisher_imprint: "A Merloyd Lawrence Book"
+  publisher_zh: null
+  year: 1992
+  year_revised: 2006
+  edition: "Second Edition (Revised)"
+  location: "page 17, 'We have been slow in recognizing the amazing complexity of the fetus' paragraph"
+  source_id: SRC-010
+
+unit_ids: []
+related_cards: []
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

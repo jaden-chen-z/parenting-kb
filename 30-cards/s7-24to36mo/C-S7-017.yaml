@@ -1,0 +1,44 @@
+card_id: C-S7-017
+stages: [S7]
+tags: [red_flag]
+
+front:
+  title: "2 岁语言差异:正常 vs 真延迟"
+  hook: 看手势 + 看理解,不光看说话
+
+back:
+  why_matters: |
+    2 岁是语言变异最大的年龄。Brazelton 给的诊断框架(在送评估前先自查):**正常变异(暂不需评估)**:- 用动词造短句:"去店店" "想要那个" - 偶尔形容词:"漂亮裙子" "漂亮狗" - 不会副词("快"、"慢")— 还很正常 - 排第三 / 第四的孩子普遍说话更晚 — 因为哥姐替他说了 - 双语家庭可能晚 6-12 月开始说话,后劲非常足 - 2-3 岁口吃 / 卡顿很常见 — 是想得比说得快。**建议评估的信号**:- 完全不说但**手势也没用** → 说明不是单纯"懒得说" - 流口水 / 吞咽问题 / 嘴部肌张力低 → 可能口腔运动协调问题 - 听力筛查必须先做(任何怀疑) - 已经因为说不出话**攻击性发泄** → 立刻评估 - 不看人脸 / 不读表情 / 异常重复行为 → 自闭谱系筛查。**关键诊断点**:**会用手势 + 听得懂 = 智力很可能正常**。这是 Brazelton 给焦虑父母最重要的安慰。
+  what_to_do:
+    - 测"3 步指令":去隔壁屋拿玩具 → 拿过来 → 放椅子上 → 能完成 = 接收语言正常
+    - 不要纠正孩子发音 → 用正确的语音模仿就够了
+    - 不要"猜中孩子要什么"立刻给 → 让他必须用词或手势
+    - 双语家庭别因为"晚说话"焦虑放弃 → 双语长期红利远大于短期延迟
+    - 2 岁还不能让陌生人理解他在说啥 → 找语言治疗师评估
+    - 学校 / 早教中心要求"不口齿清楚就退园" → 找尊重个体差异的环境
+  failure_mode: |
+    "他不说话太懒了" → 错过自闭症 / 听力 / 失语症等真正延迟的窗口。"他说得不准我替他说" → 增加压力,孩子放弃尝试。比邻居家小孩说话晚就焦虑 → 把正常变异当病。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Brazelton
+
+citation:
+  book_title_en: "Touchpoints: Birth to 3 — Your Child's Emotional and Behavioral Development"
+  book_title_zh: null
+  authors: ["T. Berry Brazelton", "Joshua D. Sparrow"]
+  publisher_en: "Da Capo Press"
+  publisher_imprint: "A Merloyd Lawrence Book"
+  publisher_zh: null
+  year: 1992
+  year_revised: 2006
+  edition: "Second Edition (Revised)"
+  location: "Part One · Ch 12 Two Years · pp.186-188 (Speech section)"
+  source_id: SRC-010
+
+unit_ids: []
+related_cards: []
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

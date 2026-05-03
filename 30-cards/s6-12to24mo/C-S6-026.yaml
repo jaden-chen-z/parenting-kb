@@ -1,0 +1,45 @@
+card_id: C-S6-026
+stages: [S6]
+tags: [philosophy]
+
+front:
+  title: 1 岁第一次"反抗"
+  hook: 他突然成了刺猬
+
+back:
+  why_matters: |
+    1 岁体检诊室小女孩一进门就尖叫——Brazelton 见多了：自我意志觉醒的瞬间。这不是被惯坏，是健康的自主性萌发。父母措手不及把它当行为问题压制，反而催生 2-3 岁更猛的对抗。Brazelton 视之为珍贵的发展信号。
+  what_to_do:
+    - 别盯她脸看，目光从她身边过
+    - 用玩偶做"中介"再靠近她
+    - 给她保留一个 lovey 在身边
+    - 提前预告"接下来要做什么"
+    - 接受 30% 的事她要按自己的来
+  failure_mode: |
+    父母觉得"以前那么乖现在被谁带坏了"开始严管，孩子学到"自主=被惩罚"，要么变得更对抗，要么变得过度顺从（后者反而更危险，到青春期才爆发）。
+  evidence_level: B
+
+glossary_refs:
+  - G-TERM-autonomy
+  - G-TERM-negativism
+  - G-PERSON-Brazelton
+
+citation:
+  book_title_en: "Touchpoints: Birth to 3 — Your Child's Emotional and Behavioral Development"
+  book_title_zh: null
+  authors: ["T. Berry Brazelton", "Joshua D. Sparrow"]
+  publisher_en: "Da Capo Press"
+  publisher_imprint: "A Merloyd Lawrence Book"
+  publisher_zh: null
+  year: 1992
+  year_revised: 2006
+  edition: "Second Edition (Revised)"
+  location: "page 131-135, opening of chapter 9"
+  source_id: SRC-010
+
+unit_ids: []
+related_cards: []
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

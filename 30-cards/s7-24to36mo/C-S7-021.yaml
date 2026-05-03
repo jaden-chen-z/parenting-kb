@@ -1,0 +1,49 @@
+card_id: C-S7-021
+stages: [S7]
+tags: [red_flag]
+
+front:
+  title: ADHD 别只盯活跃看自我
+  hook: 自我形象比症状重
+
+back:
+  why_matters: |
+    Brazelton 的反直觉观点:ADHD 最严重并发症不是症状本身,而是孩子对自己"我控制不住"的认知形成"期待失败"循环——这种自我形象毁灭比障碍本身更具破坏性。
+    ADHD 与单纯活跃的关键区别:分心 + 冲动 + 短注意力 + 鲁莽(撞家具但毫不察觉)+ 情绪不稳。
+    诊断要 7 岁前症状起始。
+    Brazelton 提醒:当今学校删了体育课让普通好动的孩子也"过度兴奋",难以与真正 ADHD 区分。
+    药物只在精确诊断后用,孩子需被告知用药目的并参与决策。
+  what_to_do:
+    - 让孩子绘制自己 buildup→peak→恢复 三阶段图
+    - 教孩子"如何在峰值前回到 lovey 或 摇椅"
+    - 5-6 岁建立自我管理是关键里程碑
+    - 任何小进步给具体表扬
+    - 排除高敏后再考虑 ADHD 评估
+  failure_mode: |
+    父母只把行为当"调皮"管教,孩子积累失败感;或反向急于药物未给孩子参与权,让孩子觉得"是药让我好的,不是我"。
+  evidence_level: B
+
+glossary_refs:
+  - G-ABBR-ADHD
+  - G-PERSON-Brazelton
+
+citation:
+  book_title_en: "Touchpoints: Birth to 3 — Your Child's Emotional and Behavioral Development"
+  book_title_zh: null
+  authors: ["T. Berry Brazelton", "Joshua D. Sparrow"]
+  publisher_en: "Da Capo Press"
+  publisher_imprint: "A Merloyd Lawrence Book"
+  publisher_zh: null
+  year: 1992
+  year_revised: 2006
+  edition: "Second Edition (Revised)"
+  location: "ch.25 Hypersensitivity and Hyperactivity, p.299-303"
+  source_id: SRC-010
+
+unit_ids: []
+related_cards:
+  - C-S1-084
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

@@ -1,0 +1,46 @@
+card_id: C-S7-020
+stages: [S7]
+tags: [philosophy, controversy]
+
+front:
+  title: 3 岁前别教读写
+  hook: 1-2 年级时反而垫底
+
+back:
+  why_matters: |
+    Brazelton 对"早教"的警告(原书原话):> "在压力大的家庭世界里,3 岁或更小孩子的父母会想什么时候开始教读写。**我的回答:Don't,直到她要求。**" 长期数据显示的**早教反弹效应**:- 早教孩子在幼儿园 / 1 年级**确实领先** - 但到 2 年级 / 3 年级时,有些开始下滑 - 原因:**死记硬背式学习不能泛化**到后期需要的复杂抽象学习 - 失去"班级第一"光环后,孩子从依赖父母赞许的"表演者"变成失落的孩子。Brazelton 与 Erikson 的对话(原书引用):> "孩子在 3 岁前最重要的学习是 emotional learning,不是 cognitive learning。Cognitive learning 需要 emotional learning 作为基础,会建立其上。任何一个都不比另一个重要。" **3 岁孩子最该学的 3 件事**(社会-情感学习):1. 与其他孩子相处 + 团体合作 2. 处理与其他大人的关系 3. 把自己作为社会人来认识。**选幼儿园的 Brazelton 标准**:- 看**人**(老师 / 园长是不是有同理心),不看课程表 - 看孩子有多少**自由游戏时间** + 学**自己作为人**的时间 - 如果幼儿园主推"识字 / 算数",绕道走 — 缺少 emotional learning 时间。**Brazelton 想让 3 岁孩子内心有的感觉**:> "I'm important! Everyone likes me!" 关心他人,建立在强大的自我形象之上。
+  what_to_do:
+    - 孩子主动指着字问"这是啥"再回答,不主动塞认字卡
+    - 阅读 = 一起翻书 + 聊故事,不要"测验你认不认识"
+    - 看不到立竿见影成果就放心 — 孩子在做更深的工作
+    - 选幼儿园:看孩子和老师互动,看自由游戏时间,不看"课程"
+    - 让孩子在家"参与做家务"(摆桌 / 简单备餐)→ 这才是 self-esteem 的真正来源
+    - 与 AAP 政策对齐:2-5 岁屏幕 < 1 小时/天,3 岁电视每次 ≤ 30 分钟,每天 ≤ 2 次,理想有家长陪同
+  failure_mode: |
+    "别人都早教我们也得"→ 早教泡沫期之后陷入失落。"孩子是天才"满足表演型成就 → 缺乏自我驱动学习的能力。选了"超前学习"的幼儿园 → 失去 emotional learning 关键窗口。
+  evidence_level: B
+
+glossary_refs:
+  - G-TERM-school-readiness
+  - G-PERSON-Erikson
+  - G-PERSON-Brazelton
+
+citation:
+  book_title_en: "Touchpoints: Birth to 3 — Your Child's Emotional and Behavioral Development"
+  book_title_zh: null
+  authors: ["T. Berry Brazelton", "Joshua D. Sparrow"]
+  publisher_en: "Da Capo Press"
+  publisher_imprint: "A Merloyd Lawrence Book"
+  publisher_zh: null
+  year: 1992
+  year_revised: 2006
+  edition: "Second Edition (Revised)"
+  location: "Part One · Ch 13 Three Years · pp.210-211 (Cognitive Development + Preschool Choice)"
+  source_id: SRC-010
+
+unit_ids: []
+related_cards: []
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02
