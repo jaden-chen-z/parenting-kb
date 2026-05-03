@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>C-S1-001 Typewriter Card</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main class="scroll-stage" id="scrollStage">
+      <section class="scene" aria-label="C-S1-001 知识卡片">
+        <div class="device" id="device" aria-hidden="true">
+          <img class="typewriter-base" src="./assets/typewriter.jpg" alt="" />
+
+          <article class="paper" id="paper">
+            <div class="paper-grain"></div>
+            <header class="paper-head">
+              <span>C-S1-001</span>
+              <span>S1 新生儿</span>
+            </header>
+            <div class="typed-copy">
+              <pre id="typedText"></pre><span class="cursor" id="cursor"></span>
+            </div>
+            <footer class="paper-foot">
+              <span>evidence C</span>
+              <span>Karp</span>
+            </footer>
+          </article>
+
+          <div class="type-head" id="typeHead"></div>
+          <div class="strike-line"></div>
+          <img class="typewriter-foreground" src="./assets/typewriter.jpg" alt="" />
+        </div>
+      </section>
+    </main>
+
+    <script src="./app.js"></script>
+  </body>
+</html>
