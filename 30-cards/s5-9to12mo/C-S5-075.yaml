@@ -1,0 +1,54 @@
+card_id: C-S5-075
+stages: [S5]
+tags: []
+
+front:
+  title: 12-18 月依恋仍可改
+  hook: 不是命定,有改变窗口
+
+back:
+  why_matters: |
+    Vaughn et al. (1979) 100 位社经地位较低家庭婴儿研究发现:
+    **12 月和 18 月再测,1/3 的孩子依恋类型变了** — 有的 B → A/C,有的 A/C → B。
+    什么决定改变方向?
+    - 变好(A/C → B):祖母 / 外祖母搬来同住带来稳定 + 高质回应(Egeland & Sroufe 1981)
+    - 变坏(B → A/C):母亲经历压力事件(失业 / 家庭矛盾 / 丧亲 / 抑郁)
+    Schaffer 研究:婴儿即使在机构待 3 月几乎无社交刺激,**回家后 14 天到 14 周内就能形成新依恋**。
+    家长意义:**依恋不是 12 月定终身**。如果当前不理想,12-18 月改变窗口仍开。
+  what_to_do:
+    - 12 月依恋评估不理想 → 不绝望,12-18 月改善仍有效
+    - 改善的核心:稳定主依恋人 + 提高敏感回应度
+    - 找祖辈帮忙(如果他们更稳定/敏感)
+    - 父母自己处理情绪问题(如抑郁 / 婚姻冲突)对依恋有直接影响
+    - 18 月后变化窗口收窄,但不是关闭
+  failure_mode: |
+    "12 月还没好,完了" — 1/3 孩子在 12-18 月期间变好,有希望。
+    "都几个月了还能变" — 短期看不到立刻改变,需要稳定 1-3 月。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Bowlby
+  - G-TERM-attachment
+
+citation:
+  book_title_zh: "依恋三部曲 · 第一卷:依恋"
+  book_title_en: "Attachment and Loss · Volume 1: Attachment"
+  authors: ["John Bowlby"]
+  authors_zh: ["约翰·鲍尔比"]
+  translators_zh: ["汪智攀", "王婷婷"]
+  publisher_zh: "世界图书出版有限公司北京分公司"
+  year_en: 1969
+  year_zh: 2017
+  isbn: "978-7-5192-2927-6"
+  location: "第十八章 依恋模式的稳定和变化(Vaughn et al. 1979:超过三分之一的儿童两次结果不同 / Egeland & Sroufe 1981:祖母外祖母到来产生正面影响 / Schaffer:婴儿之家儿童回家两周内形成依恋)"
+  source_id: SRC-011
+
+unit_ids: []
+related_cards:
+  - C-S5-074      # 12 月依恋预测 5 岁人格
+  - C-S6-072      # 依恋模式可改善:祖母到来 / 父母改变
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

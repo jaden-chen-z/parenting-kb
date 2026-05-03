@@ -1,0 +1,55 @@
+card_id: C-S4-073
+stages: [S4]
+tags: []
+
+front:
+  title: 主依恋人不必是亲生母亲
+  hook: 收养/外婆带也能很安全
+
+back:
+  why_matters: |
+    Bowlby 直接说:"亲生母亲之外的人可以胜任儿童的主要依恋对象的角色。"
+    数据:Schaffer 苏格兰 58 位中 3 位的主依恋对象不是母亲(2 位选爸,1 位选祖母)。
+    干达研究 27 位中也有几位选父亲或哥哥姐姐。
+    Tizard & Hodges (1978):4 岁前被收养的孩子能跟养父母形成正常依恋。
+    **关键不是血缘,是"以母性方式对待"**:
+    - 跟孩子活跃社交互动
+    - 迅速对孩子的信号和靠近做出反应
+    - 这两点替代母亲也能完整做到
+    家长意义:**职场妈妈 / 单亲家庭 / 收养家庭都能养出 B 安全型**。
+  what_to_do:
+    - 在职妈妈不必焦虑"奶奶/外婆带,我失去依恋"
+    - 选定主照顾人后**保持稳定**(不频繁更换)
+    - 主照顾人需要受过基本训练或天然有"读情绪"能力
+    - 收养在 1-2 岁前,跟亲生母婴依恋差不多;4 岁后越来越难形成
+  failure_mode: |
+    "我不亲自带,他不会爱我" — 错误前提。质量比血缘重要。
+    把主照顾人换来换去(月嫂月度更换 / 不同长辈轮班)→ 婴儿无法建立稳定主依恋。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Bowlby
+  - G-TERM-attachment
+
+citation:
+  book_title_zh: "依恋三部曲 · 第一卷:依恋"
+  book_title_en: "Attachment and Loss · Volume 1: Attachment"
+  authors: ["John Bowlby"]
+  authors_zh: ["约翰·鲍尔比"]
+  translators_zh: ["汪智攀", "王婷婷"]
+  publisher_zh: "世界图书出版有限公司北京分公司"
+  year_en: 1969
+  year_zh: 2017
+  isbn: "978-7-5192-2927-6"
+  location: "第十五章 聚焦在一个对象上(亲生母亲之外的人可以胜任儿童的主要依恋对象的角色 — 如果母亲替代者以充满母性的方式对待儿童 / Schaffer 苏格兰研究 / Tizard 4 岁前收养)"
+  source_id: SRC-011
+
+unit_ids: []
+related_cards:
+  - C-S4-072      # 多个依恋人不冲突
+  - C-S4-071      # 安全依恋的 4 个关键
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

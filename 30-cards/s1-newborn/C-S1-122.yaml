@@ -1,0 +1,54 @@
+card_id: C-S1-122
+stages: [S1]
+tags: [philosophy, controversy]
+
+front:
+  title: 粘人不是被宠的,是基因
+  hook: 进化让宝宝必须粘妈
+
+back:
+  why_matters: |
+    Bowlby (1969) 推翻 Freud 老说法"宝宝粘妈是因为妈喂奶"(食品柜-爱理论)。
+    依恋是独立的本能行为系统,跟性、亲职行为同等重要,作用是**让幼崽不被掠食者吃掉**。
+    人类婴儿成熟最慢,所以依恋持续最久(其他哺乳动物几月就独立)。
+    家长理解这点很关键:宝宝粘你不是你"惯坏了",是 30 万年进化的本能。
+  what_to_do:
+    - 接受宝宝就是会粘妈 — 这不是病
+    - 不用担心"满足需求 = 宠坏",这是错误前提
+    - 把粘人当生存本能,不是性格缺陷
+    - 不强迫"独立训练"违反进化设计
+  failure_mode: |
+    "我家宝宝太粘人,得训练独立"想法 → 强行分离 → 焦虑型依恋。
+    Bowlby 直接反对 Watson 行为主义"按时不哄"育儿法。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Bowlby
+  - G-PERSON-Harlow
+  - G-TERM-attachment
+
+citation:
+  book_title_zh: "依恋三部曲 · 第一卷:依恋"
+  book_title_en: "Attachment and Loss · Volume 1: Attachment"
+  authors: ["John Bowlby"]
+  authors_zh: ["约翰·鲍尔比"]
+  translators_zh: ["汪智攀", "王婷婷"]
+  publisher_zh: "世界图书出版有限公司北京分公司"
+  year_en: 1969
+  year_zh: 2017
+  isbn: "978-7-5192-2927-6"
+  location: "第十一章 儿童与母亲的联结:依恋行为(替代理论 — 拒绝次级驱力 / 客体关系食品柜爱理论)"
+  source_id: SRC-011
+
+unit_ids: []
+related_cards:
+  - C-S1-007      # Karp 前 3 月不会惯坏(同方向)
+  - C-S1-043      # AAP 头 6 月不会宠坏(同方向)
+  - C-S1-067      # 鲍秀兰 把新生儿当懂事孩子(同方向)
+  - C-S4-016      # 鲍秀兰 8 月前抱抱不会宠坏(直接对照)
+  - C-S2-013      # 鲍秀兰 不等啼哭再喂(及时响应)
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

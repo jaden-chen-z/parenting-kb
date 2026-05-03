@@ -1,0 +1,59 @@
+card_id: C-S5-072
+stages: [S5]
+tags: []
+
+front:
+  title: A 焦虑回避型 ~20%
+  hook: 看似独立,实际伪装
+
+back:
+  why_matters: |
+    Ainsworth 4 类依恋中第二多(~20%)。
+    陌生情境表现:
+    - 跟妈在玩具房:玩得起来,但不太把妈当基地
+    - 妈走:**似乎不在意**(生理测量心率上升,实际很焦虑,但表面伪装)
+    - 妈回来:**漠然,不迎接,转身玩玩具**
+    - 极端例子:妈走前妈来后心率都升高,但行为完全相反
+    家中观察:**对身体接触有"靠近-回避冲突"** — 想接近但触碰只用脚或手指尖端,不真贴上。可能莫名打 / 咬妈妈,不显露感情。
+    **母亲特征**:不喜欢身体接触、推开婴儿信号、限制亲密。
+    长大后:回避亲密关系、表面"独立"、情感封闭、自我控制过度(Block 量表)。
+  what_to_do:
+    - 担心自家是 A 型 → 反思自己对身体接触是否舒服
+    - 多抱(尤其 6 月前)— 即使初期不习惯
+    - 主动响应宝宝信号(不要"忙完手头再说")
+    - 很多 A 型来自母亲自己童年是 A 型(代际传递)— 治疗可帮助
+    - 12-18 月还可改变(Vaughn 1979 数据 1/3 婴儿模式会变)
+  failure_mode: |
+    "我家孩子很独立,挺好的" — 可能是 A 型不是 B 型,需要观察重聚反应。
+    硬塞拥抱给排斥身体接触的婴儿 → 加重回避(要敏感而非强迫)。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Ainsworth
+  - G-PERSON-Bowlby
+  - G-TERM-strange-situation
+  - G-TERM-attachment
+
+citation:
+  book_title_zh: "依恋三部曲 · 第一卷:依恋"
+  book_title_en: "Attachment and Loss · Volume 1: Attachment"
+  authors: ["John Bowlby"]
+  authors_zh: ["约翰·鲍尔比"]
+  translators_zh: ["汪智攀", "王婷婷"]
+  publisher_zh: "世界图书出版有限公司北京分公司"
+  year_en: 1969
+  year_zh: 2017
+  isbn: "978-7-5192-2927-6"
+  location: "第十六章 依恋的模式和影响因素(A 型被划为焦虑和回避依恋的婴儿在大部分样本中占 20%。在母亲回来时,尤其是母亲第二次短暂离开后,这些婴儿会回避母亲)"
+  source_id: SRC-011
+
+unit_ids: []
+related_cards:
+  - C-S5-071      # B 安全型
+  - C-S5-073      # C 焦虑抗拒型
+  - C-S5-075      # 12-18 月模式可改变
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

@@ -1,0 +1,54 @@
+card_id: C-S2-071
+stages: [S2]
+tags: []
+
+front:
+  title: 妈走了就哭从 5 月起
+  hook: 早期分离反应的萌芽
+
+back:
+  why_matters: |
+    Wolff 早在 5 周就观察到:婴儿"看着的人离开视野时,原本满足的婴儿会开始哭泣"。
+    但这阶段任何人离开都引发反应(包括宠物 / 陌生人),**无差别**。
+    真正的"母亲特异性分离反应"从 **5 月**起出现:
+    - Ainsworth:大约 5 月起,母亲离开房间时,即使有其他人陪伴,婴儿也倾向于哭泣
+    - 9 月时减少哭(因为开始能爬,可以跟随)
+    家长意义:5 月开始"妈走宝哭"是依恋形成的健康信号,不是娇气。
+  what_to_do:
+    - 5 月起预期"妈一走就哭"会出现 — 这是健康发育
+    - 离开时**慢而轻柔** — 突然快速离开会激起更剧烈反应
+    - 不必每次都不离开 — 短时离开训练宝宝建立"妈妈会回来"
+    - 离开前轻拍 + 说"妈妈一会回来" — 即使他还听不懂,语调本身就是信号
+    - 9 月会爬后,他会自己跟过来,哭闹会减
+  failure_mode: |
+    5 月前担心"宝宝怎么妈走也不哭" → 多虑(还没到时间)。
+    5 月后哭闹严厉训练"不哭",违反依恋发展时间表。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Bowlby
+  - G-PERSON-Ainsworth
+  - G-TERM-separation-anxiety
+
+citation:
+  book_title_zh: "依恋三部曲 · 第一卷:依恋"
+  book_title_en: "Attachment and Loss · Volume 1: Attachment"
+  authors: ["John Bowlby"]
+  authors_zh: ["约翰·鲍尔比"]
+  translators_zh: ["汪智攀", "王婷婷"]
+  publisher_zh: "世界图书出版有限公司北京分公司"
+  year_en: 1969
+  year_zh: 2017
+  isbn: "978-7-5192-2927-6"
+  location: "第十四章 依恋行为的开始(从大约五个月开始,当母亲离开房间时,即使婴儿身边还有其他陪伴者,婴儿也倾向于开始哭泣 / 缓慢轻柔的离开几乎不会激起抗议,快速忙乱的离开则会激起响亮吵闹的哭声)"
+  source_id: SRC-011
+
+unit_ids: []
+related_cards:
+  - C-S5-004      # AAP 分离焦虑
+  - C-S3-079      # 5 月起母亲作安全基地
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

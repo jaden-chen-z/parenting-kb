@@ -1,0 +1,55 @@
+card_id: C-S6-071
+stages: [S6]
+tags: []
+
+front:
+  title: 18-24 月分离能撑更久
+  hook: 知道妈妈会回来
+
+back:
+  why_matters: |
+    家长以为"分离焦虑会一直延续到很大"。Bowlby 数据其实给出明确减弱时间表:
+    - 9-12 月:分离焦虑第一次峰值
+    - 15-18 月:第二次峰值(也是 Brazelton 触摸点)
+    - 18-24 月:开始减弱(认知发展让孩子能维持"妈妈虽然走了但会回来"的记忆)
+    - 3-4 岁:大幅减弱
+    Bowlby 解释:这是**目标校正认知能力的发展**(知道有"妈妈下班回来吃饭"这种时空概念)。
+    家长意义:**18-24 月是长时间分离训练的黄金窗口**(如全日制托儿),比 9-12 月强行送托好得多。
+  what_to_do:
+    - 18-24 月可以开始尝试半天托(从 1-2 小时开始)
+    - 用语言告知:"妈妈下午来接你"(即使他还不全懂,语调和重复都在建立信任)
+    - 离开仪式化:固定告别动作 + 一句话 + 离开(不偷偷溜)
+    - 接回时立即温暖回应(让"妈妈会回来"被验证)
+    - 避免 9-12 月强行送日托(那时分离焦虑峰值,会损伤依恋)
+  failure_mode: |
+    "孩子 1 岁就送日托锻炼锻炼" — 9-12 月分离焦虑峰值,这是最坏窗口。
+    18 月仍不能短分离 → 检查是否过度保护 / C 焦虑抗拒倾向。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Bowlby
+  - G-TERM-separation-anxiety
+  - G-TERM-attachment
+
+citation:
+  book_title_zh: "依恋三部曲 · 第一卷:依恋"
+  book_title_en: "Attachment and Loss · Volume 1: Attachment"
+  authors: ["John Bowlby"]
+  authors_zh: ["约翰·鲍尔比"]
+  translators_zh: ["汪智攀", "王婷婷"]
+  publisher_zh: "世界图书出版有限公司北京分公司"
+  year_en: 1969
+  year_zh: 2017
+  isbn: "978-7-5192-2927-6"
+  location: "第十七章 依恋行为组织的发展(随着儿童年龄渐长,尤其是过了三岁生日之后,儿童的要求会减弱。即使母亲不在,只要知道母亲在哪儿、什么时候回来,儿童就可以感到满足而安全)"
+  source_id: SRC-011
+
+unit_ids: []
+related_cards:
+  - C-S5-069      # 健康依恋分离焦虑反更早
+  - C-S6-068      # 2 岁是依恋顶峰然后过渡
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

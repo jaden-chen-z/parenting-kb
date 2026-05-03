@@ -1,0 +1,56 @@
+card_id: C-S4-069
+stages: [S4]
+tags: []
+
+front:
+  title: 6-9 月真依恋形成
+  hook: 跟随、迎接、把妈当基地
+
+back:
+  why_matters: |
+    Bowlby 4 阶段依恋发展时间表的**第三阶段**(~6/7 月-2/3 年):**通过定向和信号,让特定对象一直在旁边**。
+    特点:
+    - 母亲离开会**跟随**(会爬之后)
+    - 母亲回来会**迎接**(笑、伸手、爬过去)
+    - 把母亲当**安全基地**:出去探索 → 累/怕回来 → 充电后再去
+    - 对陌生人**警觉退缩**(8 月起)
+    - 次要依恋人也开始形成(爸爸 / 祖辈)
+    这是**真依恋**的第一次完整出现 — 之前都是萌芽。
+  what_to_do:
+    - 6-9 月预期看到 4 项行为同时出现:跟随 / 迎接 / 安全基地 / 陌生人警觉
+    - 缺任意一项可能依恋形成不完整(咨询儿保医生)
+    - 让宝宝主动从你身边出发探索,**不追**
+    - 离开短时(如上厕所)说一声,回来后温暖回应
+    - 6-9 月主依恋人不长期分离(>4 周)
+  failure_mode: |
+    9 月仍无 4 项行为 → 可能依恋形成迟滞,需评估。
+    "宝宝为啥总跟着我" — 这是健康,不是黏人。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Bowlby
+  - G-TERM-attachment
+  - G-TERM-secure-base
+
+citation:
+  book_title_zh: "依恋三部曲 · 第一卷:依恋"
+  book_title_en: "Attachment and Loss · Volume 1: Attachment"
+  authors: ["John Bowlby"]
+  authors_zh: ["约翰·鲍尔比"]
+  translators_zh: ["汪智攀", "王婷婷"]
+  publisher_zh: "世界图书出版有限公司北京分公司"
+  year_en: 1969
+  year_zh: 2017
+  isbn: "978-7-5192-2927-6"
+  location: "第十四章 依恋行为的开始(阶段 3:通过定向和信号,让特定对象一直在旁边 — 母亲离开时跟随她、母亲回来时迎接她,以及将母亲作为基地,从母亲那儿出发去探索。这个阶段通常在六七个月时开始)"
+  source_id: SRC-011
+
+unit_ids: []
+related_cards:
+  - C-S3-079      # 5-7 月起会用妈当基地(萌芽)
+  - C-S4-068      # 8 月怕陌生人
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

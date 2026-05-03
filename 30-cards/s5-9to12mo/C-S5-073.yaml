@@ -1,0 +1,60 @@
+card_id: C-S5-073
+stages: [S5]
+tags: []
+
+front:
+  title: C 焦虑抗拒型 ~10%
+  hook: 既要拥抱又愤怒挣脱
+
+back:
+  why_matters: |
+    Ainsworth 4 类依恋中较少(~10%),但**最难处理**。
+    陌生情境表现:
+    - 跟妈在玩具房:**不敢探索**,黏着妈
+    - 妈走:**剧烈崩溃**
+    - 妈回来:**既要接触又抗拒**(扑过去抱起来又挣脱、愤怒)
+    - 长时间无法被安抚,无法回到玩
+    - 看似"很爱妈妈"(剧烈反应),实际是**最不安全**
+    家中观察:特别愤怒、被动玩耍、母亲转移注意力时尤其抗拒。
+    **母亲特征**:**不一致回应** — 有时回应有时不回应,给孩子混乱预期(无法预测妈妈是否会满足)。
+    长大后:焦虑型亲密关系、依赖、怕被抛弃、自我控制过低(冲动)。
+  what_to_do:
+    - 担心自家是 C 型 → 检查回应**一致性**(不是次数)
+    - 可预测性 > 回应频率:每次都回应(哪怕回应是"等等"),比有时秒回有时不理好
+    - 不在心情好时过度溺爱 + 心情差时冷漠 — 这是 C 型温床
+    - 寻求专业帮助比自学育儿书更有效
+    - 12-18 月仍可改变
+  failure_mode: |
+    "孩子那么粘我,他多爱我啊" — 可能是 C 焦虑抗拒,不是健康标志(C-S4-070)。
+    "我尽力了,他还是这样" → 关键是一致性,不是努力强度。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Ainsworth
+  - G-PERSON-Bowlby
+  - G-TERM-strange-situation
+  - G-TERM-attachment
+
+citation:
+  book_title_zh: "依恋三部曲 · 第一卷:依恋"
+  book_title_en: "Attachment and Loss · Volume 1: Attachment"
+  authors: ["John Bowlby"]
+  authors_zh: ["约翰·鲍尔比"]
+  translators_zh: ["汪智攀", "王婷婷"]
+  publisher_zh: "世界图书出版有限公司北京分公司"
+  year_en: 1969
+  year_zh: 2017
+  isbn: "978-7-5192-2927-6"
+  location: "第十六章 依恋的模式和影响因素(C 型被划为焦虑和抗拒依恋的婴儿占大约 10%,在寻求跟母亲亲近接触和抗拒跟母亲交流互动之间摇摆。这一组婴儿会显露出很多冲突 — 想要更多接触,但母亲尝试转移注意力时特别抗拒,非常愤怒)"
+  source_id: SRC-011
+
+unit_ids: []
+related_cards:
+  - C-S5-071      # B 安全型
+  - C-S5-072      # A 焦虑回避型
+  - C-S4-070      # 哭多不等于爱深
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

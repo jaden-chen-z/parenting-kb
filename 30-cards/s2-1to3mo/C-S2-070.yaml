@@ -1,0 +1,53 @@
+card_id: C-S2-070
+stages: [S2]
+tags: [philosophy]
+
+front:
+  title: 喂奶 ≠ 建立依恋
+  hook: 你回应得勤才是关键
+
+back:
+  why_matters: |
+    全世界最大的育儿误解之一:"我天天喂他、伺候他,他怎么不亲我?"
+    Bowlby 综合多项研究反复证明:**依恋强度跟"是谁喂养"几乎无关**,跟"是谁敏感地回应他"强相关。
+    以色列集体农庄研究最直接:护士全权负责喂养 + 日常照料,但**孩子还是依恋每天只见 1-2 小时的父母** — 因为父母互动质量更高。
+    Schaffer & Emerson (1964):依恋强度跟喂养、断奶、如厕训练**都没显著相关**,只跟 2 项相关:**对哭闹反应度**+**主动发起互动量**。
+    所以中国"奶奶喂养、月嫂照顾、妈妈出现少"的安排,可能让宝宝**最依恋的不是妈妈**。
+  what_to_do:
+    - 主依恋人 = 谁回应得最敏感最及时,**不是谁喂奶最多**
+    - 在职妈妈不必焦虑"喂得少"会失去依恋 — 短时高质量互动比长时低质照顾更重要
+    - 月嫂 / 月子保姆只满足生理需求,不会改变母子依恋
+    - 父亲 / 祖父母频繁互动也能成主依恋(谢弗发现这种家庭中父亲依恋更强)
+  failure_mode: |
+    "我妈带 / 月嫂带,我不用管"想法 → 主依恋可能转移给祖辈/月嫂。
+    "我喂他还不行" → 喂养不是依恋,你还没做关键事(读情绪 + 及时回应)。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Bowlby
+  - G-PERSON-Ainsworth
+  - G-PERSON-Harlow
+  - G-TERM-attachment
+
+citation:
+  book_title_zh: "依恋三部曲 · 第一卷:依恋"
+  book_title_en: "Attachment and Loss · Volume 1: Attachment"
+  authors: ["John Bowlby"]
+  authors_zh: ["约翰·鲍尔比"]
+  translators_zh: ["汪智攀", "王婷婷"]
+  publisher_zh: "世界图书出版有限公司北京分公司"
+  year_en: 1969
+  year_zh: 2017
+  isbn: "978-7-5192-2927-6"
+  location: "第十五章 聚焦在一个对象上(母亲对婴儿哭泣的反应程度和母亲发起跟婴儿的社交互动的程度 — 这两个因素跟依恋强度显著相关。喂食、断奶和如厕训练方法变量与依恋强度无关。Schaffer & Emerson 1964 / 以色列集体农庄 Spiro 1954)"
+  source_id: SRC-011
+
+unit_ids: []
+related_cards:
+  - C-S2-013      # 鲍秀兰 不等啼哭再喂(及时响应)
+  - C-S4-016      # 鲍秀兰 8 月前抱抱不会宠坏
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

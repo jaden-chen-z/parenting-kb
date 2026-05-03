@@ -1,0 +1,52 @@
+card_id: C-S3-079
+stages: [S3]
+tags: []
+
+front:
+  title: 5-7 月起会用妈当"基地"
+  hook: 离开探险,累了回来
+
+back:
+  why_matters: |
+    Bowlby 引 Ainsworth 干达研究:**5-7 月**婴儿首次出现"把母亲作为安全基地"的萌芽:
+    会主动**从母亲身边出发**,玩一会儿,然后回来,再出发。
+    这是**健康依恋**的最重要标志(健康 ≠ 黏人;健康 = 敢探索)。
+    家长意义:5 月后宝宝主动远离你去玩,**不是不爱你,是你做对了**:他知道你"一直在",所以敢冒险。
+  what_to_do:
+    - 5-7 月起鼓励宝宝**主动远离你**玩(不一直把他抱怀里)
+    - 他离开时**别焦虑追**(你的焦虑会传染)
+    - 他回来时温暖回应(短拥抱 + 笑脸 + 一句话)
+    - 即使他在房间另一头,你的存在感让他敢继续探索
+    - 不打扰他独立玩(独立玩 ≠ 被忽视,正是基地功能正常的体现)
+  failure_mode: |
+    "他怎么跑那么远玩,不跟我亲" — 这是健康标志,不是疏远。
+    一离开就追上去抱回来 → 损伤基地功能,反而养出黏人型(C 焦虑抗拒型)。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Bowlby
+  - G-PERSON-Ainsworth
+  - G-TERM-secure-base
+
+citation:
+  book_title_zh: "依恋三部曲 · 第一卷:依恋"
+  book_title_en: "Attachment and Loss · Volume 1: Attachment"
+  authors: ["John Bowlby"]
+  authors_zh: ["约翰·鲍尔比"]
+  translators_zh: ["汪智攀", "王婷婷"]
+  publisher_zh: "世界图书出版有限公司北京分公司"
+  year_en: 1969
+  year_zh: 2017
+  isbn: "978-7-5192-2927-6"
+  location: "第十五章 聚焦在一个对象上(将母亲作为探索的基地出发 — 安斯沃思在一个二十八周大的儿童身上观察到该现象,而对于八个月大的儿童,这种现象非常普遍)"
+  source_id: SRC-011
+
+unit_ids: []
+related_cards:
+  - C-S4-069      # 依恋发展第 3 阶段
+  - C-S4-070      # 依恋质量 ≠ 哭闹强度
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

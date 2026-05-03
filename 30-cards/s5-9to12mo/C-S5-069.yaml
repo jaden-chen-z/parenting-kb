@@ -1,0 +1,56 @@
+card_id: C-S5-069
+stages: [S5]
+tags: []
+
+front:
+  title: 健康依恋分离焦虑反更早
+  hook: 9-12 月剧烈是健康
+
+back:
+  why_matters: |
+    家长以为分离焦虑越少越好。**完全反**。
+    Bowlby + AAP 综合:**健康(B 安全)依恋的婴儿,分离焦虑反而出现得更早 + 度过得更快**。
+    原因:健康依恋的孩子明白"妈妈是特定的人 + 跟其他人不一样",所以妈妈一离开他立刻知道不对。但他也相信妈妈会回来,所以哭一会儿就能恢复。
+    相反,焦虑依恋的婴儿:
+    - A 回避型:妈走不哭(伪装"无所谓",但心率升高)
+    - C 抗拒型:妈走崩溃,妈回来还崩溃(无法被安抚)
+    家长意义:**9-12 月妈走宝大哭 = 健康标志**,不是性格问题。
+  what_to_do:
+    - 9-12 月预期分离焦虑达到峰值(15-18 月再次峰值)
+    - 离开时**慢而轻柔** + 说"妈妈一会回来"(不偷偷溜)
+    - 回来时立即温暖回应(不让等)
+    - 短分离训练(如妈妈洗澡)— 让宝宝学会"妈妈一直存在"
+    - 18-24 月会自然减弱
+  failure_mode: |
+    "宝宝怎么这么粘人,得训练" — 强行训练损伤安全依恋。
+    偷偷离开避免哭闹 → 宝宝信任崩塌,焦虑加剧。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Bowlby
+  - G-PERSON-Ainsworth
+  - G-TERM-attachment
+  - G-TERM-separation-anxiety
+
+citation:
+  book_title_zh: "依恋三部曲 · 第一卷:依恋"
+  book_title_en: "Attachment and Loss · Volume 1: Attachment"
+  authors: ["John Bowlby"]
+  authors_zh: ["约翰·鲍尔比"]
+  translators_zh: ["汪智攀", "王婷婷"]
+  publisher_zh: "世界图书出版有限公司北京分公司"
+  year_en: 1969
+  year_zh: 2017
+  isbn: "978-7-5192-2927-6"
+  location: "第十五章 聚焦在一个对象上 + 第十八章 依恋模式的稳定和变化(陌生人恐惧和分离焦虑是相互独立的反应 / 健康依恋反而让分离焦虑早出现快度过)"
+  source_id: SRC-011
+
+unit_ids: []
+related_cards:
+  - C-S5-004      # AAP 分离焦虑
+  - C-S2-071      # 5 月起妈走就哭萌芽
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

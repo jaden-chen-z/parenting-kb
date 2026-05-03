@@ -1,0 +1,53 @@
+card_id: C-S4-072
+stages: [S4]
+tags: []
+
+front:
+  title: 多个依恋人不冲突
+  hook: 主+次依恋同时存在
+
+back:
+  why_matters: |
+    家长担心:"奶奶带得多,孩子跟奶奶亲不跟我亲怎么办?"
+    Bowlby 数据:**1-2 岁时,大部分婴儿依恋多于 1 个对象**:
+    - Schaffer & Emerson (苏格兰 58 位):29% 婴儿一开始就有多个依恋对象,4 月后过半婴儿有 ≥2 个,18 月时只 13% 仍单一依恋
+    - Ainsworth 干达:9-10 月时大多数有多重依恋,但**最依恋的仍是某 1 位**
+    重要:**多个依恋对象不会削弱主依恋**。Schaffer 苏格兰研究显示:对主对象依恋越强的婴儿,**对其他人也越能形成依恋**(不是分散)。
+    家长意义:奶奶 / 爸爸 / 阿姨多人参与不是问题,**让宝宝形成多重依恋反而是好事**。
+  what_to_do:
+    - 不必担心多人参与会让宝宝"不专一"
+    - 主依恋人 = 最敏感最及时回应的那位(可能是妈,也可能不是)
+    - 次要依恋人提供另一种关系样本(如父亲玩耍方式跟妈不同)
+    - 关键:每位都尽量保持稳定 — 频繁更换主依恋人才是问题
+  failure_mode: |
+    "孩子跟奶奶比跟我亲" — 看你有没有做到 4 项关键(C-S4-071),不是参与时长。
+    阻止其他家人参与照顾 → 反而会让宝宝形成单一焦虑型依恋。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Bowlby
+  - G-PERSON-Ainsworth
+  - G-TERM-attachment
+
+citation:
+  book_title_zh: "依恋三部曲 · 第一卷:依恋"
+  book_title_en: "Attachment and Loss · Volume 1: Attachment"
+  authors: ["John Bowlby"]
+  authors_zh: ["约翰·鲍尔比"]
+  translators_zh: ["汪智攀", "王婷婷"]
+  publisher_zh: "世界图书出版有限公司北京分公司"
+  year_en: 1969
+  year_zh: 2017
+  isbn: "978-7-5192-2927-6"
+  location: "第十五章 聚焦在一个对象上(在一岁到两岁之间,大部分婴儿依恋行为的指向对象不止一个 / Schaffer & Emerson 1964 苏格兰 58 婴儿:对主对象依恋越强,对其他对象社交行为越多)"
+  source_id: SRC-011
+
+unit_ids: []
+related_cards:
+  - C-S4-073      # 非亲生母亲也可作主依恋
+  - C-S2-070      # 喂奶不是依恋,回应才是
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

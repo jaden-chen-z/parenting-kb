@@ -1,0 +1,50 @@
+card_id: C-S3-076
+stages: [S3]
+tags: []
+
+front:
+  title: 14 周开始认妈妈的脸
+  hook: 之前是认轮廓不是个体
+
+back:
+  why_matters: |
+    家长以为"宝宝早就认得我了"。实际上**视觉认人**比想象的晚:
+    Bowlby 引 Thomas (1973):2-9 月婴儿能区分"是不是面孔",但**14 周(~3.5 月)前不能区分不同的人脸**。
+    14 周后:**家中长大的婴儿看到母亲会立刻绽放笑容,且比给其他人的笑容更灿烂**。
+    机构中长大的婴儿要 20 周才会出现这区分(社交输入少,发展慢)。
+    家长意义:14 周(3.5 月)前用气味+声音让宝宝认你,14 周后视觉接管。
+  what_to_do:
+    - 14 周前别担心"宝宝看着我跟看着别人一样" — 视觉认人未到时间
+    - 14 周后多正面互动让脸进入"熟悉名单"
+    - 用照片**不可替代**真人(波拉克实验:照片不及真脸)
+    - 长期不在场的妈妈,14 周内回归仍来得及建立面孔记忆
+  failure_mode: |
+    "我家宝宝才 2 月就认我了" — 多半是认气味/声音,不是脸。
+    全脸涂面膜 / 戴口罩可能干扰 14 周面孔学习。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Bowlby
+
+citation:
+  book_title_zh: "依恋三部曲 · 第一卷:依恋"
+  book_title_en: "Attachment and Loss · Volume 1: Attachment"
+  authors: ["John Bowlby"]
+  authors_zh: ["约翰·鲍尔比"]
+  translators_zh: ["汪智攀", "王婷婷"]
+  publisher_zh: "世界图书出版有限公司北京分公司"
+  year_en: 1969
+  year_zh: 2017
+  isbn: "978-7-5192-2927-6"
+  location: "第十四章 依恋行为的开始(到十四周后,在家里长大的婴儿对母亲形象的面孔识别就非常明显了 / Thomas 1973 / Polak et al. 1964)"
+  source_id: SRC-011
+
+unit_ids: []
+related_cards:
+  - C-S1-123      # 出生几天就能认妈妈(气味+声音)
+  - C-S2-068      # 6 周后看脸比听声更管用
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

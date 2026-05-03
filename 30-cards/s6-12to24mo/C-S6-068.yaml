@@ -1,0 +1,54 @@
+card_id: C-S6-068
+stages: [S6]
+tags: []
+
+front:
+  title: 2 岁是依恋顶峰然后过渡
+  hook: 之后开始走向独立
+
+back:
+  why_matters: |
+    Bowlby:依恋行为在**2 岁到 3 岁之间达到峰值**(频率 + 强度都最高),
+    然后**3 岁后开始减弱**,这一趋势持续多年但不会完全消失。
+    Marvin (1977) 关键发现:
+    - 2 岁孩子:即使知道妈妈在哪儿,要见到才安心
+    - 4 岁孩子:"随时可以回到母亲身边"这个信息可能就足够安心了 — 不需要见到
+    转变的核心:**孩子能用空间和时间思考**(认知能力提升),所以即使分离也能维持安全感。
+    家长意义:1-2 岁是黏人巅峰,2-3 岁开始能短暂分离,3 岁后分离能力大幅提升。
+  what_to_do:
+    - 1-2 岁尽量减少长时间分离(主依恋人最稳定时期)
+    - 2-3 岁可以尝试短分离(如妈出去办事 1-2 小时),建立"妈妈会回来"信任
+    - 3 岁后可以**用言语预告**:"妈妈下午 5 点回来" — 此时孩子能理解
+    - 4 岁后可以幼儿园整天分离(大部分孩子就绪)
+    - 不必担心"宝宝越来越粘",2 岁顶峰后会自然减少
+  failure_mode: |
+    1-2 岁强行长时间分离训练 → 安全依恋受损。
+    3-4 岁不让孩子练习短分离 → 4 岁难入园。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Bowlby
+  - G-TERM-attachment
+
+citation:
+  book_title_zh: "依恋三部曲 · 第一卷:依恋"
+  book_title_en: "Attachment and Loss · Volume 1: Attachment"
+  authors: ["John Bowlby"]
+  authors_zh: ["约翰·鲍尔比"]
+  translators_zh: ["汪智攀", "王婷婷"]
+  publisher_zh: "世界图书出版有限公司北京分公司"
+  year_en: 1969
+  year_zh: 2017
+  isbn: "978-7-5192-2927-6"
+  location: "第十一 + 十七章(在满三周岁之后,大部分孩子的依恋行为在紧迫性和频繁度上会比之前更低 / Marvin 1977:对于大部分四岁儿童,'随时可以回到母亲身边'这个信息可能至关重要)"
+  source_id: SRC-011
+
+unit_ids: []
+related_cards:
+  - C-S5-069      # 健康依恋分离焦虑反更早
+  - C-S6-069      # 3 岁后内部工作模型形成
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

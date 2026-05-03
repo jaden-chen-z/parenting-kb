@@ -1,0 +1,56 @@
+card_id: C-S4-074
+stages: [S4]
+tags: [philosophy]
+
+front:
+  title: 气质难带 ≠ 依恋差
+  hook: 关键还是怎么带
+
+back:
+  why_matters: |
+    很多妈妈说"我家宝宝天生敏感 / 难带,所以依恋差是命中注定"。
+    Bowlby 第十六章直接反驳这种宿命论。
+    Sroufe 等纵向研究(1979)结论:
+    - **新生儿气质的多种工具测得的"难带"分数,跟 12 月依恋类型几乎无关**
+    - 气质安静的婴儿如果照料差,**仍可能发展不好**
+    - 气质难带的婴儿如果照料好,**绝大部分可以发展成 B 安全型**
+    Sameroff & Chandler (1975) + Dunn (1979):even 复杂、难以预测的婴儿,**足够敏感的母亲都可以适应**。
+    家长意义:"我家宝宝太难带"不是辩护,问题在**怎么应对这个气质**。
+  what_to_do:
+    - 气质难带的婴儿需要更高敏感度(不是更少回应)
+    - 难带宝宝的妈妈需要更多支持(伴侣 / 祖辈分担)
+    - 不要把"难带"当依恋差的借口,**关键还是 4 项指标**(C-S4-071)
+    - 气质安静的宝宝也需要主动互动(别因不哭就忽略)
+    - 早产 / 缺氧 / 脑损伤婴儿对父母回应**更敏感**,更要稳定可靠
+  failure_mode: |
+    "他天生这样我没办法" — 把气质当宿命,放弃调整自己回应。
+    "他不哭就是好带" — 安静婴儿被忽略,可能发展 A 回避型。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Bowlby
+  - G-PERSON-Ainsworth
+  - G-TERM-attachment
+
+citation:
+  book_title_zh: "依恋三部曲 · 第一卷:依恋"
+  book_title_en: "Attachment and Loss · Volume 1: Attachment"
+  authors: ["John Bowlby"]
+  authors_zh: ["约翰·鲍尔比"]
+  translators_zh: ["汪智攀", "王婷婷"]
+  publisher_zh: "世界图书出版有限公司北京分公司"
+  year_en: 1969
+  year_zh: 2017
+  isbn: "978-7-5192-2927-6"
+  location: "第十六章 依恋的模式和影响因素(婴儿的偏向及其对母亲的影响 — Sameroff & Chandler 1975 / Dunn 1979 / Sroufe 纵向气质研究:气质并不能深入解释一岁时依恋模式的巨大差异。即使是气质复杂、难以预测的婴儿,足够敏感的母亲都可以适应)"
+  source_id: SRC-011
+
+unit_ids: []
+related_cards:
+  - C-S4-071      # 安全依恋的 4 个关键
+  - C-S4-070      # 哭多不等于爱深
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

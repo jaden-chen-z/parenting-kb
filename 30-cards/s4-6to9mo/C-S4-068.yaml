@@ -1,0 +1,56 @@
+card_id: C-S4-068
+stages: [S4]
+tags: []
+
+front:
+  title: 8 月怕陌生人 = 依恋形成证据
+  hook: 不是变怂,是变聪明
+
+back:
+  why_matters: |
+    Spitz (1965) 称之为"八月焦虑"(stranger anxiety),很多人误解为"宝宝变娇气了"。
+    Bowlby 反驳并说明:**陌生人警觉(stranger wariness)≠ 病。**这是认知发育里程碑:
+    - 婴儿能"分类人"了:熟悉 vs 陌生
+    - 对未知谨慎是生存本能(进化保留)
+    - 跟分离焦虑是不同的反应(分离焦虑跟主依恋人有关,陌生人焦虑跟陌生面孔有关)
+    Morgan & Ricciuti:10-12 月婴儿即使母亲在场,也有近一半会对陌生人警觉。
+    家长意义:8 月怕陌生人**说明依恋已经形成**。该庆祝,不该担心。
+  what_to_do:
+    - 让陌生人**保持距离**,让宝宝主动接近
+    - 老人 / 阿姨见面前先视频 / 短探访"预热"
+    - 陌生人不直接抱,先和你聊熟,宝宝看着
+    - 不强迫宝宝跟陌生人,强迫加重焦虑
+    - 18-24 月会自然消退
+  failure_mode: |
+    "宝宝怎么一见外人就哭,真没出息" — 这是健康发展信号,不是性格问题。
+    强迫宝宝接受陌生人("叫叔叔阿姨"),损伤信任 + 加重焦虑。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Bowlby
+  - G-PERSON-Spitz
+  - G-TERM-stranger-anxiety
+  - G-TERM-attachment
+
+citation:
+  book_title_zh: "依恋三部曲 · 第一卷:依恋"
+  book_title_en: "Attachment and Loss · Volume 1: Attachment"
+  authors: ["John Bowlby"]
+  authors_zh: ["约翰·鲍尔比"]
+  translators_zh: ["汪智攀", "王婷婷"]
+  publisher_zh: "世界图书出版有限公司北京分公司"
+  year_en: 1969
+  year_zh: 2017
+  isbn: "978-7-5192-2927-6"
+  location: "第十五章 聚焦在一个对象上(陌生人恐惧 — 在大部分婴儿身上,是到八个月大时出现 / Bowlby 反驳 Spitz '八月焦虑'理论:陌生人本身就是常见的恐惧来源,不需要再去寻找别的解释)"
+  source_id: SRC-011
+
+unit_ids: []
+related_cards:
+  - C-S4-004      # AAP 陌生人焦虑
+  - C-S3-078      # 4-6 月对妈反应明显但还认人浅(预热窗口)
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

@@ -1,0 +1,53 @@
+card_id: C-S3-077
+stages: [S3]
+tags: []
+
+front:
+  title: 不同妈带出不同娃
+  hook: 1 岁定型,差距惊人
+
+back:
+  why_matters: |
+    David & Appell (1966) 巴黎 25 对母婴 1 年纵向研究观察发现:**到 12 月时,每对母婴已发展出高度独特的互动模式**。
+    极端例子:
+    - A 对:母婴几乎醒着的全部时间都在互动
+    - B 对:母亲忙家务大部分时间忽略孩子
+    - C 对:母亲沉默注视,各做各的事
+    - D 对:母亲偶尔毫无预兆开启长时间亲密互动
+    1 岁前哪个互动模式占主导,**孩子的依恋行为就被定型**。
+    研究者:**双方的差异主要来自母亲**(婴儿对母亲发起的互动几乎都回应,但母亲对婴儿发起的回应频率天差地别)。
+  what_to_do:
+    - 观察自己跟宝宝互动模式 — 是哪一种?
+    - 如果是 B 型(忽略式),9 月前主动调整还来得及
+    - 关键不是互动**总量**,是**婴儿发起时你回应的比例**
+    - 育儿不是 100% 专注,但要保证婴儿的"召唤"得到一定回应
+  failure_mode: |
+    "我家就是这样,改不了" → 12 月模式高度稳定,但 9-12 月主动调整仍可改。
+    "我妈带的那阵跟我现在差异大" → 主依恋人切换会让模式重新定型。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Bowlby
+
+citation:
+  book_title_zh: "依恋三部曲 · 第一卷:依恋"
+  book_title_en: "Attachment and Loss · Volume 1: Attachment"
+  authors: ["John Bowlby"]
+  authors_zh: ["约翰·鲍尔比"]
+  translators_zh: ["汪智攀", "王婷婷"]
+  publisher_zh: "世界图书出版有限公司北京分公司"
+  year_en: 1969
+  year_zh: 2017
+  isbn: "978-7-5192-2927-6"
+  location: "第十六章 依恋的模式和影响因素(David & Appell 1966 巴黎 25 对母婴研究 — 每一对母婴通常都已经发展出高度特异化的互动模式;研究者:在一岁前,互动的量更多地取决于母亲,而不是婴儿)"
+  source_id: SRC-011
+
+unit_ids: []
+related_cards:
+  - C-S2-070      # 喂奶不是依恋,回应才是
+  - C-S4-071      # 健康依恋的 4 个母亲行为指标
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

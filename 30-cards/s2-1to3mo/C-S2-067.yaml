@@ -1,0 +1,50 @@
+card_id: C-S2-067
+stages: [S2]
+tags: []
+
+front:
+  title: 5 周才开始真"看见你"
+  hook: 之前的笑都是反射
+
+back:
+  why_matters: |
+    Bowlby 依恋发展第一阶段(0-12 周)— **对人有反应但不区分**。
+    Wolff (1963) 仔细观察 8 位婴儿:在 5 周末,几乎所有婴儿都进入**"非选择性社交微笑"阶段** — 真正眼睛对眼睛地"看着你笑"。
+    标志特征:婴儿警觉、眼睛明亮、嘴部运动幅度大、眼角皱起。
+    在此之前的笑大多是反射(吸尘器运动 / 睡梦中的肌肉抽动)。
+    家长别着急 — 5 周左右开始的真社交微笑,是**值得记进相册**的发育里程碑。
+  what_to_do:
+    - 4-5 周开始用嗓音激发笑(高频女声最有效)
+    - 笑出现立刻回报(微笑 + 说话 + 抱)— 强化形成
+    - 注意眼角是否皱起(真社交笑 vs 反射笑的区别)
+    - 5 周后"宝宝看着你"的时长会显著增加
+  failure_mode: |
+    "我家宝宝从来不笑" 4 周前担心 → 多虑(还没到时间)。
+    5 周后真笑出现却不积极回应 → 微笑频率会下降(消退)。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Bowlby
+
+citation:
+  book_title_zh: "依恋三部曲 · 第一卷:依恋"
+  book_title_en: "Attachment and Loss · Volume 1: Attachment"
+  authors: ["John Bowlby"]
+  authors_zh: ["约翰·鲍尔比"]
+  translators_zh: ["汪智攀", "王婷婷"]
+  publisher_zh: "世界图书出版有限公司北京分公司"
+  year_en: 1969
+  year_zh: 2017
+  isbn: "978-7-5192-2927-6"
+  location: "第十四章 依恋行为的开始(到第五周结束时,大部分婴儿的非选择性社会微笑已非常明显 / Wolff 1963)"
+  source_id: SRC-011
+
+unit_ids: []
+related_cards:
+  - C-S1-127      # S1 微笑发展 4 阶段
+  - C-S2-016      # 鲍秀兰 3 月里程碑:出声笑+发元音
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

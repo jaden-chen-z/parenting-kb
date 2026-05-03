@@ -1,0 +1,58 @@
+card_id: C-S6-070
+stages: [S6]
+tags: [safety, red_flag]
+
+front:
+  title: 被打的孩子有特殊创伤模式
+  hook: 主动孤立 + 同伴攻击
+
+back:
+  why_matters: |
+    George & Main (1979) 研究 10 位 1-3 岁曾遭身体虐待的儿童,对比 10 位家庭压力但未受虐:
+    **被虐儿童行为显著更高频**:
+    - 攻击同伴
+    - 侵扰、威胁照看者
+    - 面对友好提议时**回避互动**(或回避+靠近矛盾行为)
+    - 主动孤立自己 + 推远可能帮助的成人(陷入自我塑造的循环)
+    Tizard & Hodges (1978):机构出生 8 岁孩子 5 位无法形成依恋,在校"对老师和陌生人有几乎无法满足的关注渴望"(假性友好)。
+    Main & Solomon (1990) 把这归类为**D 混乱型依恋**:同时表现 A 回避和 C 抗拒矛盾行为,身体僵硬、动作中断、表情木然。
+    家长意义:**身体虐待对依恋的伤害是结构性的**,不是普通"管教过度"。
+  what_to_do:
+    - 绝对不打孩子(不是"打了再哄就行")
+    - 体罚 + 缺乏一致回应 = D 混乱型依恋温床
+    - 看到孩子主动远离成人 / 攻击同伴 / 表情木然 → 红旗信号,需评估
+    - 已有体罚习惯的家庭 → 寻求专业帮助打破循环
+    - 见过家暴的孩子也有类似创伤(不必直接体罚也可)
+  failure_mode: |
+    "我妈打我我也长大了" — 你可能是 A/D 型自己没察觉(很多东亚成年人是)。
+    "孩子不听话只能打" — 让你不想打的不是道德,是数据:打 = 创伤。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Bowlby
+  - G-TERM-attachment
+  - G-TERM-internal-working-model
+  - G-TERM-disorganized-attachment
+
+citation:
+  book_title_zh: "依恋三部曲 · 第一卷:依恋"
+  book_title_en: "Attachment and Loss · Volume 1: Attachment"
+  authors: ["John Bowlby"]
+  authors_zh: ["约翰·鲍尔比"]
+  translators_zh: ["汪智攀", "王婷婷"]
+  publisher_zh: "世界图书出版有限公司北京分公司"
+  year_en: 1969
+  year_zh: 2017
+  isbn: "978-7-5192-2927-6"
+  location: "第十八章 依恋模式的稳定和变化(George & Main 1979 / Tizard & Hodges 1978 / Main & Weston 1981 回避型依恋婴儿中类似行为类型,但程度较轻)"
+  source_id: SRC-011
+
+unit_ids: []
+related_cards:
+  - C-S6-007      # 鲍秀兰 管教全家一致+不打
+  - C-S5-072      # A 焦虑回避型(轻度版本)
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

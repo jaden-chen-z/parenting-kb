@@ -1,0 +1,57 @@
+card_id: C-S6-069
+stages: [S6]
+tags: [philosophy]
+
+front:
+  title: 3 岁前给娃刻"内部地图"
+  hook: 你怎么对他,他就怎么对世界
+
+back:
+  why_matters: |
+    Bowlby 概念:**Internal Working Model(内部工作模型)** — 婴儿在 0-3 岁通过反复跟父母互动,
+    在脑中建一份**关于"我是谁 / 别人会怎么对我 / 关系长什么样"的内部地图**。
+    包含 3 部分:
+    1. **关于自己**:我值不值得被爱? 求助有没有用?
+    2. **关于他人**:别人是不是可信?
+    3. **关于关系**:亲密是安全还是危险?
+    这地图决定 TA **一辈子**怎么处理:亲密关系、自尊、信任、教育自己的孩子。
+    神经科学验证(2010s):童年依恋影响成年大脑前额叶 / 杏仁核结构。
+    家长意义:3 岁前每次回应都在写代码,**不是"宠坏",是构建模型**。
+  what_to_do:
+    - 把 0-3 岁理解为"给孩子写人生操作系统"
+    - 重复传达 3 个核心信息:**你被爱 / 你重要 / 求助会被回应**
+    - 不必每次完美 — 大致一致就足够
+    - 你自己的童年也写过这地图 — 觉察 + 治疗能打破代际传递
+    - 中国"3 岁定一生"的老话有部分依据,但不是命定
+  failure_mode: |
+    "3 岁前他什么都不记得,等大点再用心" — 错。3 岁前留下的不是显性记忆,是底层操作系统。
+    "我童年也不太好,但我还正常" — 模型可以掩盖到压力 / 亲密 / 育儿时再触发(这就是代际传递机制)。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Bowlby
+  - G-TERM-internal-working-model
+  - G-TERM-attachment
+
+citation:
+  book_title_zh: "依恋三部曲 · 第一卷:依恋"
+  book_title_en: "Attachment and Loss · Volume 1: Attachment"
+  authors: ["John Bowlby"]
+  authors_zh: ["约翰·鲍尔比"]
+  translators_zh: ["汪智攀", "王婷婷"]
+  publisher_zh: "世界图书出版有限公司北京分公司"
+  year_en: 1969
+  year_zh: 2017
+  isbn: "978-7-5192-2927-6"
+  location: "第十七章 依恋行为组织的发展(我们可以假设,这从儿童一岁时开始,到两岁和三岁时可能特别活跃,因为儿童在此期间掌握语言这一富有力量的非凡天赋。儿童忙着构建工作模型,关于预测物理世界如何运作,预测母亲和其他重要他人会如何行动 / 概念在第二卷《分离》详细阐述)"
+  source_id: SRC-011
+
+unit_ids: []
+related_cards:
+  - C-S5-074      # 12 月依恋预测 5 岁人格
+  - C-S6-068      # 2 岁是依恋顶峰然后过渡
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02

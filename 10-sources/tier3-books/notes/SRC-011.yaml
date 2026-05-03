@@ -1,0 +1,190 @@
+source_id: SRC-011
+title: "依恋三部曲 · 第一卷:依恋"
+title_en: "Attachment and Loss · Volume 1: Attachment"
+org: null
+source_type: book
+url: null
+doi: null
+isbn: "978-7-5192-2927-6"
+isbn_en: null
+tier: 3
+language: zh
+paywall: false
+captcha: false
+accessed: 2026-05-02
+fetch_method: user_provided_pdf_ocr
+local_file: ../raw_pdfs/bowlby_attachment_zh.md
+file_size_bytes: 874712
+
+metadata:
+  authors_en:
+    - John Bowlby
+  authors_zh:
+    - 约翰·鲍尔比
+  translators_zh:
+    - 汪智攀
+    - 王婷婷
+  reviewers_zh:
+    - 易春丽
+  publisher_en: Hogarth Press / Tavistock Institute of Human Relations
+  publisher_zh: 世界图书出版有限公司北京分公司
+  publisher_location_zh: "北京市东城区朝内大街 137 号"
+  year_en_first: 1969               # 原版 1969
+  year_en_second: 1982              # 第二版 1982(扩充第十八/十九章)
+  year_zh: 2017                     # 中文版 2017 年 6 月
+  edition_zh: "第 1 版第 1 次印刷"
+  pages_total_zh: 416               # 26 印张
+  word_count_zh: 307000             # 307 千字
+  price_rmb: 75.00
+  series: "依恋三部曲"
+
+# 作者背景(给后续卡片 evidence_level 评估用)
+author_credentials:
+  john_bowlby:
+    role_en: "Tavistock Clinic Research Director"
+    nationality: "英国"
+    life_dates: "1907-1990"
+    education: "剑桥大学 + 伦敦大学医学院"
+    expertise: "精神分析师 / 发展心理学 / 二战孤儿研究"
+    note: "依恋理论 (Attachment Theory) 创始人,与 Mary Ainsworth 合作奠定现代发展心理学基石之一"
+    glossary_ref: G-PERSON-Bowlby
+  mary_ainsworth:
+    role_en: "Professor at University of Virginia"
+    nationality: "美国"
+    life_dates: "1913-1999"
+    expertise: "陌生情境实验 (Strange Situation) + 4 类依恋分类"
+    note: "Bowlby 长期合作者,是本书第二版 (1982) 加入的第十八章核心研究来源"
+    glossary_ref: G-PERSON-Ainsworth
+
+# verbatim 关键内容(按章节组织,Phase 3 第三本 stub)
+# 全书 5 部分 / 19 章 / 364K 中文字符
+verbatim_content:
+  part1_task:
+    chapter: "第一部分 · 任务(第 1-2 章)"
+    pages: "1-30"
+    status: "已读,理论铺垫(替代弗洛伊德能量模型),不直接产卡"
+    note: "理论性章节,论证为什么需要新依恋理论。"
+
+  part2_instinctive_behavior:
+    chapter: "第二部分 · 本能行为(第 3-10 章)"
+    pages: "30-148"
+    status: "已读,本能行为模型 + 进化适应性"
+    note: "为依恋行为铺设进化生物学和动物行为学基础。"
+    key_concepts:
+      - "本能行为 = 行为系统(behavior system)"
+      - "进化适应性环境(EEA, environment of evolutionary adaptedness)"
+      - "目标校正系统(goal-corrected system)"
+
+  part3_attachment_behavior:
+    chapter: "第三部分 · 依恋行为(第 11-13 章)"
+    pages: "148-217"
+    status: "已读,理论核心 — 依恋是独立行为系统"
+    key_concepts:
+      - "依恋行为 ≠ 次级驱力(否定 Freud 食品柜-爱理论)"
+      - "5 种依恋成分行为:吸吮、依附、跟随、哭泣、微笑"
+      - "9-18 月时整合到目标校正系统"
+      - "Hinde 灵长类研究 — 婴儿在哺乳动物中需最长时间形成依恋"
+    cards_drawn:
+      - C-S1-122
+      - C-S1-123
+
+  part4_human_ontogeny:
+    chapter: "第四部分 · 人类依恋的个体发生(第 14-17 章)"
+    pages: "217-348"
+    status: "已读,这是父母最相关章节"
+    key_concepts:
+      - "依恋发展 4 阶段(0-12 周/12周-6月/6月-3年/3 岁后)"
+      - "新生儿出生即具备的行为装备(感官 / 抓握 / 微笑 / 哭泣)"
+      - "微笑发展 4 阶段(自发→社交→选择→差异)"
+      - "60+ 转/分钟摇晃止哭(对应人类走路速度)"
+      - "母亲信号反应度 + 互动质 = 依恋安全的关键预测因子"
+      - "依恋对象可多个(主+次),非亲生母亲也可"
+      - "陌生人警觉 ≠ 分离焦虑"
+
+  part5_old_new:
+    chapter: "第五部分 · 旧议题和新发现(第 18-19 章,第二版 1982 增补)"
+    pages: "348-364"
+    status: "已读,Ainsworth 陌生情境 + 4 类依恋"
+    key_concepts:
+      - "陌生情境实验(Strange Situation Test)"
+      - "B 安全型(60-65%)"
+      - "A 焦虑回避型(20%)"
+      - "C 焦虑抗拒型(10%)"
+      - "依恋模式 12-18 月间可改变"
+      - "5 岁人格测量(自我控制力 / 自我复原力)与 12 月依恋分类强相关"
+      - "被身体虐待儿童的混乱型依恋"
+
+# 章节地图(全书 19 章)
+chapter_map:
+  ch1: "观点 — 替代理论必要性"
+  ch2: "尚待解释的观察"
+  ch3: "本能行为:替代模型"
+  ch4: "人类对环境的进化适应性"
+  ch5: "调节本能行为的行为系统"
+  ch6: "本能行为的归因"
+  ch7: "评估和选择:感受、情绪"
+  ch8: "本能行为的功能"
+  ch9: "本能行为的修改:学习"
+  ch10: "个体发育"
+  ch11: "儿童与母亲的联结:依恋行为"
+  ch12: "依恋行为的本质和功能"
+  ch13: "依恋行为的控制系统观点"
+  ch14: "依恋行为的开始"
+  ch15: "聚焦在一个对象上"
+  ch16: "依恋的模式和影响因素"
+  ch17: "依恋行为组织的发展"
+  ch18: "依恋模式的稳定和变化(1982 增补)"
+  ch19: "反对、误解和澄清(1982 增补)"
+
+# Bowlby 在本知识库中的位置
+position_in_kb:
+  prerequisite: "G-PERSON-Bowlby 已建(2026-05-02 鲍秀兰 Phase 3 一并建)"
+  series: "依恋三部曲第一卷,Vol 2 分离 / Vol 3 丧失留 Phase 4"
+  cross_validation:
+    - source_id: SRC-007  # AAP attachment 相关条目
+      relationship: "Bowlby 1969 + Ainsworth 1978 是 AAP 立场源头"
+    - source_id: SRC-009  # 鲍秀兰
+      relationship: "鲍秀兰多次引用依恋理念(虽未点名),C-S4-016 是直接对照"
+    - source_id: SRC-003  # Karp
+      relationship: "Karp 头 3 月不会宠坏 = Bowlby 反驱力理论的临床落地"
+  philosophical_alignment:
+    - "现代发展心理学奠基理论之一(与 Piaget 认知 + Vygotsky 社会建构并称)"
+    - "推翻 Freud 次级驱力(食品柜-爱)理论"
+    - "推翻 Watson 行为主义'严格按时不哄'"
+
+# 为什么选这本(Phase 3 第三本)
+why_this_book:
+  - "Phase 1-3 已积累 Karp/AAP/鲍秀兰/Brazelton 操作派,缺理论奠基"
+  - "G-PERSON-Bowlby 已建,可顺接产卡"
+  - "依恋理论的核心概念在已有 184 张卡中多次隐性引用,补全后可大量交叉链"
+  - "OCR 已就位,工程开销低"
+  - "中文版有合格译者(汪智攀 + 王婷婷,易春丽审校),可信度高"
+
+# 工程注记
+engineering_notes:
+  ocr_quality: "中等 — 部分 OCR 错字(如'卯独'→应为'狒狒','婴儿'多处空格断裂)"
+  ocr_correction_strategy: "上下文推断,标 [OCR 修正:X→Y]"
+  file_format: "874KB 单长行 .md(无章节标题结构)"
+  navigation_strategy: "Python 字符 offset 切片读取(每段 15-20K 字符)"
+  chunks_used:
+    - "0-15K(版权 + 中文版序)"
+    - "15K-30K(目录 + 第一章观点)"
+    - "149K-165K(第十一章开头 — 依恋行为定义)"
+    - "217K-253K(第十四章 — 依恋行为开始 + 行为装备)"
+    - "253K-270K(第十五章 — 聚焦一个对象)"
+    - "270K-290K(第十六章 — 依恋模式 + 影响因素)"
+    - "290K-310K(第十七章 — 依恋组织发展)"
+    - "293K-313K(第十八章 — Ainsworth Strange Situation + 4 类依恋)"
+
+# Phase 3 第三本(并行 session)产出引用
+referenced_by_units: []
+referenced_by_cards: []      # 完成时回填(本 session 产卡 ID 列表)
+
+status: stub                  # 主体内容已就位,但 verbatim 字段是章节地图非全文摘录
+created: 2026-05-02
+updated: 2026-05-02
+
+# 注:本 SRC 在 Phase 3 第三本(Bowlby Vol 1)产出过程中并行建立
+# 不动 source_index.yaml(Brazelton session 也在使用,避免冲突,等用户合并)
+# 不动 INDEX_BY_SOURCE.md(同上)
+# 等 Brazelton session 完成后,用户或本 session 收尾合并

@@ -1,0 +1,55 @@
+card_id: C-S2-069
+stages: [S2]
+tags: []
+
+front:
+  title: 6 周开启"咿呀对话"
+  hook: 你模仿宝宝是真本事
+
+back:
+  why_matters: |
+    Wolff 报告:从 6 周左右,**家长可以通过模仿宝宝的咿呀声,跟宝宝进行 10-15 个回合的"对话"**。
+    这是真依恋形成的早期工具:
+    - 宝宝发声 → 你模仿(同样的声音)
+    - 宝宝听到自己的声音被反射回来 → 兴奋继续发声
+    - 来回 10-15 次,母婴节奏同步
+    Rheingold et al. (1959) 证实:每次咿呀回应一次微笑 + 三声啧啧 + 轻捏腹部 → 频率翻倍。
+    这套机制 = 父母语 (parentese) + 母婴交谈链(turn-taking)的基石。
+  what_to_do:
+    - 6 周起每天主动跟宝宝"对话"
+    - 你模仿他发的声音(不是说大人话)
+    - 等他停顿再回应(不抢话)
+    - 微笑 + 抚摸同步加强
+    - 10-15 回合一次,每天数次
+  failure_mode: |
+    "宝宝还不会说话,跟他说啥" — 错过咿呀对话窗口,语言起步晚。
+    单方向"教说话"(只你说他听)效果远不如双向模仿。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Bowlby
+  - G-TERM-parentese
+  - G-TERM-turn-taking
+
+citation:
+  book_title_zh: "依恋三部曲 · 第一卷:依恋"
+  book_title_en: "Attachment and Loss · Volume 1: Attachment"
+  authors: ["John Bowlby"]
+  authors_zh: ["约翰·鲍尔比"]
+  translators_zh: ["汪智攀", "王婷婷"]
+  publisher_zh: "世界图书出版有限公司北京分公司"
+  year_en: 1969
+  year_zh: 2017
+  isbn: "978-7-5192-2927-6"
+  location: "第十四章 依恋行为的开始(从大约六周后,通过模仿婴儿的声音,成人可以参与到大约十到十五种发声的交互中 / Rheingold et al. 1959 实验)"
+  source_id: SRC-011
+
+unit_ids: []
+related_cards:
+  - C-S2-008      # 鲍秀兰 跟说话 5 共性
+  - C-S2-012      # 鲍秀兰 母婴交谈链:停顿等回应
+
+language: zh
+status: draft
+created: 2026-05-02
+updated: 2026-05-02
