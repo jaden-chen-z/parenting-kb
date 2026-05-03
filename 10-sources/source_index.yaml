@@ -74,5 +74,415 @@ sources:
       - C-S2-001
       - C-S2-002
 
-# 下一个可用 ID(Phase 1 起从这开始递增)
-next_src_id: SRC-004
+  - source_id: SRC-004
+    title: "AAP Safe Sleep & SIDS Prevention (HealthyChildren.org · 4-article cluster)"
+    org: American Academy of Pediatrics
+    tier: 1
+    source_type: webpage_cluster
+    url: https://www.healthychildren.org/English/ages-stages/baby/sleep/
+    accessed: 2026-05-01
+    language: en
+    notes_path: tier1-authoritative/notes/SRC-004.yaml
+    referenced_by_units: []
+    referenced_by_cards:              # Phase 2 R1 产出 9 张
+      # S1(8 张)
+      - C-S1-034
+      - C-S1-035
+      - C-S1-036
+      - C-S1-037
+      - C-S1-038
+      - C-S1-039
+      - C-S1-040
+      - C-S1-041
+      # S2(1 张 tummy time)
+      - C-S2-003
+      # === R1.5 复盘补 3 张(2026-05-02)===
+      # S1(1 张:日夜颠倒)
+      - C-S1-052
+      # S2(2 张:睡整觉 + 睡眠周期)
+      - C-S2-005
+      - C-S2-006
+
+  - source_id: SRC-005
+    title: "AAP Crying & Soothing (HealthyChildren.org · 4-article cluster)"
+    org: American Academy of Pediatrics
+    tier: 1
+    source_type: webpage_cluster
+    url: https://www.healthychildren.org/English/ages-stages/baby/crying-colic/
+    accessed: 2026-05-01
+    language: en
+    notes_path: tier1-authoritative/notes/SRC-005.yaml
+    referenced_by_units: []
+    referenced_by_cards:              # Phase 2 R2 产出 9 张
+      # S1(8 张)
+      - C-S1-042
+      - C-S1-043
+      - C-S1-044
+      - C-S1-045
+      - C-S1-046
+      - C-S1-047
+      - C-S1-048
+      - C-S1-049
+      # S2(1 张 colic 析出)
+      - C-S2-004
+
+  - source_id: SRC-006
+    title: "AAP Feeding & Pacifiers (HealthyChildren.org · 5-article cluster)"
+    org: American Academy of Pediatrics
+    tier: 1
+    source_type: webpage_cluster
+    url: https://www.healthychildren.org/English/ages-stages/baby/
+    accessed: 2026-05-01
+    language: en
+    notes_path: tier1-authoritative/notes/SRC-006.yaml
+    referenced_by_units: []
+    referenced_by_cards:              # Phase 2 R3 产出 9 张
+      # S1(2 张:母乳起步 + 奶嘴使用)
+      - C-S1-050
+      - C-S1-051
+      # S3(5 张:辅食 readiness / LEAP / 米粉 / choking / 果汁)
+      - C-S3-001
+      - C-S3-002
+      - C-S3-003
+      - C-S3-004
+      - C-S3-005
+      # S4(2 张:BLW 立场 + 切法)
+      - C-S4-001
+      - C-S4-002
+      # === R3.5 复盘补 7 张(2026-05-02)===
+      # S1(3 张:维 D / 吐奶 / 配方量)
+      - C-S1-053
+      - C-S1-054
+      - C-S1-055
+      # S3(3 张:铁 / 米粉砷 / 鱼汞)
+      - C-S3-006
+      - C-S3-007
+      - C-S3-008
+      # S5(1 张:戒奶瓶)
+      - C-S5-001
+
+  - source_id: SRC-007
+    title: "AAP Milestones & Teething (HealthyChildren.org · 8-article cluster)"
+    org: American Academy of Pediatrics
+    tier: 1
+    source_type: webpage_cluster
+    url: https://www.healthychildren.org/English/ages-stages/baby/
+    accessed: 2026-05-02
+    language: en
+    notes_path: tier1-authoritative/notes/SRC-007.yaml
+    referenced_by_units: []
+    referenced_by_cards:              # Phase 2 R4 产 14 张
+      # S2(1 张:整体里程碑)
+      - C-S2-007
+      # S3(5 张:翻身 / 坐 / 抓握 / 出牙 / 琥珀牙链禁)
+      - C-S3-009
+      - C-S3-010
+      - C-S3-011
+      - C-S3-012
+      - C-S3-013
+      # S4(3 张:独坐爬+物体永久性 / 陌生人焦虑 / 不用学步车)
+      - C-S4-003
+      - C-S4-004
+      - C-S4-005
+      # S5(5 张:扶走+第一步 / 第一个词 / 分离焦虑 / 12 月儿保 / 楼梯+鞋)
+      - C-S5-002
+      - C-S5-003
+      - C-S5-004
+      - C-S5-005
+      - C-S5-006
+
+  - source_id: SRC-008
+    title: "AAP Health & Safety (HealthyChildren.org · 6-article cluster)"
+    org: American Academy of Pediatrics
+    tier: 1
+    source_type: webpage_cluster
+    url: https://www.healthychildren.org/English/
+    accessed: 2026-05-02
+    language: en
+    notes_path: tier1-authoritative/notes/SRC-008.yaml
+    referenced_by_units: []
+    referenced_by_cards:              # Phase 2 R5 产 12 张
+      # S1(9 张:车座 / 跌落 / 烫 / 中毒 / 发烧 / 红旗 / 测温 / RSV / 疫苗)
+      - C-S1-056
+      - C-S1-057
+      - C-S1-058
+      - C-S1-059
+      - C-S1-060
+      - C-S1-061
+      - C-S1-062
+      - C-S1-063
+      - C-S1-064
+      # S4(2 张:溺水 / 家居童锁)
+      - C-S4-006
+      - C-S4-007
+      # S5(1 张:12 月疫苗)
+      - C-S5-007
+
+  - source_id: SRC-009
+    title: "鲍秀兰谈婴幼儿潜能开发和早期教育"
+    title_en: null
+    org: null
+    tier: 3
+    source_type: book_chapter
+    url: null
+    isbn: "978-7-5127-1196-9"
+    accessed: 2026-05-02
+    language: zh
+    notes_path: tier3-books/notes/SRC-009.yaml
+    referenced_by_units: []
+    referenced_by_cards:              # Phase 3 完成 — 85 张 v3.5 知识卡(详见 30-cards/INDEX_BY_SOURCE.md)
+      # S1(8 张 — 自审补 C-S1-072)
+      - C-S1-065
+      - C-S1-066
+      - C-S1-067
+      - C-S1-068
+      - C-S1-069
+      - C-S1-070
+      - C-S1-071
+      - C-S1-072
+      # S2(10 张)
+      - C-S2-008
+      - C-S2-009
+      - C-S2-010
+      - C-S2-011
+      - C-S2-012
+      - C-S2-013
+      - C-S2-014
+      - C-S2-015
+      - C-S2-016
+      - C-S2-017
+      # S3(13 张)
+      - C-S3-014
+      - C-S3-015
+      - C-S3-016
+      - C-S3-017
+      - C-S3-018
+      - C-S3-019
+      - C-S3-020
+      - C-S3-021
+      - C-S3-022
+      - C-S3-023
+      - C-S3-024
+      - C-S3-025
+      - C-S3-026
+      # S4(10 张)
+      - C-S4-008
+      - C-S4-009
+      - C-S4-010
+      - C-S4-011
+      - C-S4-012
+      - C-S4-013
+      - C-S4-014
+      - C-S4-015
+      - C-S4-016
+      - C-S4-017
+      # S5(12 张)
+      - C-S5-008
+      - C-S5-009
+      - C-S5-010
+      - C-S5-011
+      - C-S5-012
+      - C-S5-013
+      - C-S5-014
+      - C-S5-015
+      - C-S5-016
+      - C-S5-017
+      - C-S5-018
+      - C-S5-019
+      # S6(18 张,新建段)
+      - C-S6-001
+      - C-S6-002
+      - C-S6-003
+      - C-S6-004
+      - C-S6-005
+      - C-S6-006
+      - C-S6-007
+      - C-S6-008
+      - C-S6-009
+      - C-S6-010
+      - C-S6-011
+      - C-S6-012
+      - C-S6-013
+      - C-S6-014
+      - C-S6-015
+      - C-S6-016
+      - C-S6-017
+      - C-S6-018
+      # S7(15 张,新建段)
+      - C-S7-001
+      - C-S7-002
+      - C-S7-003
+      - C-S7-004
+      - C-S7-005
+      - C-S7-006
+      - C-S7-007
+      - C-S7-008
+      - C-S7-009
+      - C-S7-010
+      - C-S7-011
+      - C-S7-012
+      - C-S7-013
+      - C-S7-014
+      - C-S7-015
+
+  - source_id: SRC-010
+    title: "Touchpoints: Birth to 3 — Your Child's Emotional and Behavioral Development"
+    title_en: "Touchpoints: Birth to 3 — Your Child's Emotional and Behavioral Development"
+    org: null
+    tier: 3
+    source_type: book
+    url: null
+    isbn: "978-0-7382-1049-0"
+    isbn_10: "0-7382-1049-8"
+    accessed: 2026-05-02
+    language: en
+    notes_path: tier3-books/notes/SRC-010.yaml
+    referenced_by_units: []
+    referenced_by_cards:                 # Phase 3 第二本完成 — 70 张知识卡
+      # === S0 孕期(7 张)===
+      - C-S0-001
+      - C-S0-002
+      - C-S0-003
+      - C-S0-004
+      - C-S0-005
+      - C-S0-006
+      - C-S0-007
+      # === S1 0-1 月(18 张)===
+      - C-S1-073
+      - C-S1-074
+      - C-S1-075
+      - C-S1-076
+      - C-S1-077
+      - C-S1-078
+      - C-S1-079
+      - C-S1-080
+      - C-S1-081
+      - C-S1-082
+      - C-S1-083
+      - C-S1-084
+      - C-S1-085
+      - C-S1-086
+      - C-S1-087
+      - C-S1-088
+      - C-S1-089
+      - C-S1-090
+      # === S2 1-3 月(7 张)===
+      - C-S2-018
+      - C-S2-019
+      - C-S2-020
+      - C-S2-021
+      - C-S2-022
+      - C-S2-023
+      - C-S2-024
+      # === S3 3-6 月(8 张)===
+      - C-S3-027
+      - C-S3-028
+      - C-S3-029
+      - C-S3-030
+      - C-S3-031
+      - C-S3-032
+      - C-S3-033
+      - C-S3-034
+      # === S4 6-9 月(5 张)===
+      - C-S4-018
+      - C-S4-019
+      - C-S4-020
+      - C-S4-021
+      - C-S4-022
+      # === S5 9-12 月(9 张)===
+      - C-S5-020
+      - C-S5-021
+      - C-S5-022
+      - C-S5-023
+      - C-S5-024
+      - C-S5-025
+      - C-S5-026
+      - C-S5-027
+      - C-S5-028
+      # === S6 12-24 月(16 张)===
+      - C-S6-019
+      - C-S6-020
+      - C-S6-021
+      - C-S6-022
+      - C-S6-023
+      - C-S6-024
+      - C-S6-025
+      - C-S6-026
+      - C-S6-027
+      - C-S6-028
+      - C-S6-029
+      - C-S6-030
+      - C-S6-031
+      - C-S6-032
+      - C-S6-033
+      - C-S6-034
+      # === S7 24-36 月(9 张)===
+      - C-S7-016
+      - C-S7-017
+      - C-S7-018
+      - C-S7-019
+      - C-S7-020
+      - C-S7-021
+      - C-S7-022
+      - C-S7-023
+      - C-S7-024
+
+  - source_id: SRC-011
+    title: "依恋三部曲 · 第一卷:依恋(中译本)"
+    title_en: "Attachment and Loss, Volume 1: Attachment"
+    org: null
+    tier: 3
+    source_type: book
+    url: null
+    isbn: "978-7-5192-2927-6"
+    accessed: 2026-05-02
+    language: zh
+    notes_path: tier3-books/notes/SRC-011.yaml
+    referenced_by_units: []
+    referenced_by_cards:                 # Phase 3 第三本 — 37 张知识卡
+      # === S1 0-1 月(7 张)===
+      - C-S1-122
+      - C-S1-123
+      - C-S1-124
+      - C-S1-125
+      - C-S1-126
+      - C-S1-127
+      - C-S1-128
+      # === S2 1-3 月(5 张)===
+      - C-S2-067
+      - C-S2-068
+      - C-S2-069
+      - C-S2-070
+      - C-S2-071
+      # === S3 3-6 月(4 张)===
+      - C-S3-076
+      - C-S3-077
+      - C-S3-078
+      - C-S3-079
+      # === S4 6-9 月(8 张)===
+      - C-S4-067
+      - C-S4-068
+      - C-S4-069
+      - C-S4-070
+      - C-S4-071
+      - C-S4-072
+      - C-S4-073
+      - C-S4-074
+      # === S5 9-12 月(8 张)===
+      - C-S5-069
+      - C-S5-070
+      - C-S5-071
+      - C-S5-072
+      - C-S5-073
+      - C-S5-074
+      - C-S5-075
+      - C-S5-076
+      # === S6 12-24 月(5 张)===
+      - C-S6-068
+      - C-S6-069
+      - C-S6-070
+      - C-S6-071
+      - C-S6-072
+
+# 下一个可用 ID(SRC-011 Bowlby Vol 1 Phase 3 第三本完成 2026-05-03 补登记)
+next_src_id: SRC-012
