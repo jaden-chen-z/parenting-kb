@@ -34,10 +34,33 @@ function requireAdmin(context) {
   return null;
 }
 
+function usersStores(context) {
+  const primary = context.env.USERS_KV || context.env.STATE_KV || null;
+  const fallback = context.env.USERS_KV && context.env.STATE_KV ? context.env.STATE_KV : null;
+  return { primary, fallback };
+}
+
+async function getUsersRaw(context) {
+  const { primary, fallback } = usersStores(context);
+  if (!primary) return null;
+  const raw = await primary.get(KV_KEY);
+  if (raw || !fallback) return raw;
+  return fallback.get(KV_KEY);
+}
+
+async function putUsersRaw(context, value) {
+  const { primary, fallback } = usersStores(context);
+  if (!primary) return false;
+  await primary.put(KV_KEY, value);
+  if (fallback) await fallback.put(KV_KEY, value);
+  return true;
+}
+
 export async function onRequestGet(context) {
-  const kv = context.env.USERS_KV;
-  if (!kv) return jsonResponse({ error: 'USERS_KV not bound' }, 500);
-  const raw = await kv.get(KV_KEY);
+  const raw = await getUsersRaw(context);
+  if (raw === null && !usersStores(context).primary) {
+    return jsonResponse({ error: 'USERS_KV or STATE_KV not bound' }, 500);
+  }
   if (!raw) return jsonResponse({ users: [] });
   try {
     const data = JSON.parse(raw);
@@ -50,8 +73,7 @@ export async function onRequestGet(context) {
 export async function onRequestPut(context) {
   const denied = requireAdmin(context);
   if (denied) return denied;
-  const kv = context.env.USERS_KV;
-  if (!kv) return jsonResponse({ error: 'USERS_KV not bound' }, 500);
+  if (!usersStores(context).primary) return jsonResponse({ error: 'USERS_KV or STATE_KV not bound' }, 500);
   let payload;
   try {
     payload = await context.request.json();
@@ -66,7 +88,7 @@ export async function onRequestPut(context) {
       return jsonResponse({ error: 'each user needs a non-empty email' }, 400);
     }
   }
-  await kv.put(KV_KEY, JSON.stringify({ users: payload.users }));
+  await putUsersRaw(context, JSON.stringify({ users: payload.users }));
   return jsonResponse({ ok: true, count: payload.users.length });
 }
 

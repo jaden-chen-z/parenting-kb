@@ -311,7 +311,7 @@ function FoldersPage() {
           userSelect: 'none',
         }}>{(((window.PKB && PKB.auth.currentUser()) || '?').charAt(0) || '?').toUpperCase()}</span>
         <button
-          onClick={() => { PKB.auth.logout(); location.replace('Login.html'); }}
+          onClick={() => { PKB.auth.logout(); location.replace('/'); }}
           style={{
             all: 'unset', cursor: 'pointer',
             pointerEvents: 'auto',

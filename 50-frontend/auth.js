@@ -2,7 +2,7 @@
 //   - currentUser():     当前登录邮箱(小写),无则 null
 //   - login(email):      标记登录(localStorage)
 //   - logout():          清登录态
-//   - requireLogin():    页面顶部守卫,没登录就 redirect Login.html
+//   - requireLogin():    页面顶部守卫,没登录就 redirect 到根(登录页 index.html)
 //   - dataKey(scope):    返回 per-user localStorage key,如 'baby-cards.jaden@x.com.favorites'
 //   - readJSON / writeJSON: per-user 包装(自动加 dataKey 前缀)
 //
@@ -45,26 +45,25 @@
     try { return sessionStorage.getItem('baby-cards.adminToken') || ''; }
     catch (e) { return ''; }
   }
+  // 登录页是根路径 `/`(对应 index.html),其他守卫跳走时统一 replace('/').
+  // 不需要 here check — index.html 自己不调 requireLogin/requireAdmin,不会自跳循环。
   function requireLogin() {
     if (!currentUser()) {
-      const here = location.pathname.split('/').pop() || '';
-      if (here !== 'Login.html') location.replace('Login.html');
+      location.replace('/');
       return false;
     }
     return true;
   }
   function requireAdmin() {
     if (!isAdmin()) {
-      const here = location.pathname.split('/').pop() || '';
-      if (here !== 'Login.html') location.replace('Login.html');
+      location.replace('/');
       return false;
     }
     if (!adminToken()) {
       const token = window.prompt('请输入管理员密码');
       if (!token || !token.trim()) {
         logout();
-        const here = location.pathname.split('/').pop() || '';
-        if (here !== 'Login.html') location.replace('Login.html');
+        location.replace('/');
         return false;
       }
       loginAdmin(token.trim());

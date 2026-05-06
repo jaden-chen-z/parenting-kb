@@ -93,7 +93,7 @@ function App() {
 
   const onLogout = () => {
     PKB.auth.logout();
-    location.replace('Login.html');
+    location.replace('/');
   };
 
   return (

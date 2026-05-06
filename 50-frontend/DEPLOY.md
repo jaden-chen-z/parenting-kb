@@ -107,6 +107,8 @@ git push
 
 本地 `admin_server.py` 实现完全相同的接口(数据落盘到 `users.json` + `state.json`),所以本地 / 云端代码一套。
 
+`/api/users` 会优先使用 `USERS_KV`。如果 Cloudflare 当前部署没有注入这个 binding,会临时回退到已绑定的 `STATE_KV` 并使用同一个 `users` key,保证登录和管理页先可用。修好 `USERS_KV` 后,读取会在独立 namespace 为空时回看 `STATE_KV`,写入会同步到两边。
+
 ## 限制 & 注意
 
 - **Admin 入口需要密码**:线上必须配置 `ADMIN_TOKEN`。管理页写用户列表和读取全员进度都会带 `X-PKB-Admin-Token`,服务端校验通过才放行。
