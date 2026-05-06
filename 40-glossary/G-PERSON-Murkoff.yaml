@@ -3,6 +3,11 @@ type: person
 display_name: Murkoff
 full_name_en: "Heidi Murkoff"
 full_name_zh: "海蒂·墨可夫"
+
+aliases:
+  - 海蒂
+  - Heidi
+
 one_liner: |
   美国育儿畅销书 What to Expect 系列共同作者,孕产育儿全民参考。
 detail: |

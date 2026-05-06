@@ -122,7 +122,7 @@ function inkAlpha(hex, a) {
 // 进度只升不降(回看不让倒退),scope = 'stage:S1' | 'favorites'。
 
 // 单张卡片
-function Card({ data, total, color, glossaryById, onTermClick, isFavorited, onToggleFavorite }) {
+function Card({ data, total, color, glossaryById, cardsById, onTermClick, onCardClick, isFavorited, onToggleFavorite }) {
   const ink = color.ink;
   const ink55 = inkAlpha(ink, 0.55);
   const ink70 = inkAlpha(ink, 0.7);
@@ -141,7 +141,7 @@ function Card({ data, total, color, glossaryById, onTermClick, isFavorited, onTo
     [data.glossary_refs, glossaryById]
   );
   // ctx 一次性传给所有 parseRichText 调用
-  const richCtx = { searchTerms, onTermClick, ink };
+  const richCtx = { searchTerms, onTermClick, cardsById, onCardClick, ink };
   return (
     <div style={{
       width: '100%',
@@ -496,15 +496,39 @@ function Card({ data, total, color, glossaryById, onTermClick, isFavorited, onTo
               background: ink40,
               marginBottom: 10,
             }} />
-            <div style={{
-              fontFamily: "'Noto Serif SC', Georgia, serif",
-              fontSize: 12,
-              fontStyle: 'italic',
-              color: ink70,
-              lineHeight: 1.5,
-            }}>
-              《{data.citation.book_zh}》
-            </div>
+            {/* 书名 / 网站名 / 文档名 — 网站类不用《》(避免视觉撞《Heidi 育儿百科》和"AAP 网页"差别)
+                有 url(网站类)→ 整段做超链接;没 url(纸书)→ 普通文本 */}
+            {data.citation.url ? (
+              <a
+                href={data.citation.url}
+                target="_blank"
+                rel="noopener noreferrer"
+                onClick={(e) => e.stopPropagation()}
+                style={{
+                  fontFamily: "'Noto Serif SC', Georgia, serif",
+                  fontSize: 12,
+                  fontStyle: 'italic',
+                  color: ink70,
+                  lineHeight: 1.5,
+                  textDecoration: 'underline',
+                  textDecorationStyle: 'dotted',
+                  textUnderlineOffset: 3,
+                }}
+              >
+                {data.citation.book_zh || data.citation.url}
+                <span style={{ fontSize: 9, marginLeft: 4, opacity: 0.6 }}>↗</span>
+              </a>
+            ) : (
+              <div style={{
+                fontFamily: "'Noto Serif SC', Georgia, serif",
+                fontSize: 12,
+                fontStyle: 'italic',
+                color: ink70,
+                lineHeight: 1.5,
+              }}>
+                {data.citation.book_zh ? `《${data.citation.book_zh}》` : ''}
+              </div>
+            )}
             <div style={{
               fontFamily: "ui-monospace, 'SF Mono', Menlo, monospace",
               fontSize: 9, letterSpacing: '0.14em',
@@ -512,7 +536,9 @@ function Card({ data, total, color, glossaryById, onTermClick, isFavorited, onTo
               marginTop: 3,
               lineHeight: 1.5,
             }}>
-              {data.citation.authors.toUpperCase()} · {data.citation.location}
+              {data.citation.authors && data.citation.authors.toUpperCase()}
+              {data.citation.authors && data.citation.location ? ' · ' : ''}
+              {data.citation.location}
             </div>
           </div>
           <div style={{
@@ -539,14 +565,17 @@ function Card({ data, total, color, glossaryById, onTermClick, isFavorited, onTo
 // 通用富文本解析:
 //   1. **xxx**         → 强调:纯加粗,**不下划线、不 italic**(让"下划线 = 可点击术语"视觉上唯一)
 //   2. ctx.searchTerms → 术语:点击弹 GlossaryPopup,虚线下划线
-//   ** 包裹的内部也会扫 glossary,所以作者用 **topponcino** 包的术语也可点击
-// ctx = { searchTerms: [{ alias, glossary }], onTermClick(g, anchorEl), ink }
+//   3. C-Sx-NNN 卡片 ID → 点击弹 CardRefPopup,虚线下划线(跟术语视觉一致,统一是"可点深入")
+//   ** 包裹的内部也会扫 glossary / 卡片 ID
+// ctx = { searchTerms, onTermClick(g, el), cardsById, onCardClick(c, el), ink }
+const CARD_REF_RE = /\bC-S[0-9]+-[A-Z0-9_-]+\b/g;
+
 function parseRichText(text, ink, ctx) {
   if (!text) return [];
   let key = 0;
 
   // 给一段 plain text 扫 glossary,返回 React 元素数组(普通文本 + 可点击 span 混合)
-  function scanForTerms(s) {
+  function scanForGlossary(s) {
     const elements = [];
     if (!s) return elements;
     const terms = ctx && ctx.searchTerms;
@@ -596,17 +625,59 @@ function parseRichText(text, ink, ctx) {
     return elements;
   }
 
+  // 先按"C-Sx-NNN"切片,每片再扫 glossary。卡片 ID 命中后直接生成可点击 span。
+  function scanForCardRefsAndGlossary(s) {
+    if (!s) return [];
+    const cardsById = ctx && ctx.cardsById;
+    const out = [];
+    if (!cardsById) return scanForGlossary(s);
+
+    let cursor = 0;
+    let m;
+    const re = new RegExp(CARD_REF_RE.source, 'g');
+    while ((m = re.exec(s)) !== null) {
+      const cardId = m[0];
+      const card = cardsById[cardId];
+      // 没找到对应卡 → 当普通文字处理(避免无效 ref 显示成可点)
+      if (!card) continue;
+      if (m.index > cursor) {
+        const before = scanForGlossary(s.slice(cursor, m.index));
+        for (const el of before) out.push(el);
+      }
+      out.push(
+        <span
+          key={key++}
+          className="card-ref"
+          onClick={(e) => {
+            e.stopPropagation();
+            ctx && ctx.onCardClick && ctx.onCardClick(card, e.currentTarget);
+          }}
+          style={{
+            cursor: 'pointer',
+            borderBottom: `1.5px dashed ${inkAlpha(ink, 0.55)}`,
+            paddingBottom: 1,
+          }}
+        >{cardId}</span>
+      );
+      cursor = m.index + cardId.length;
+    }
+    if (cursor < s.length) {
+      const tail = scanForGlossary(s.slice(cursor));
+      for (const el of tail) out.push(el);
+    }
+    return out;
+  }
+
   const out = [];
-  // 切 **xxx** 强调段;每段不论 plain 还是 emphasis 内部都扫 glossary
+  // 切 **xxx** 强调段;每段不论 plain 还是 emphasis 内部都扫 glossary + 卡片 ref
   const re = /\*\*([^*]+)\*\*/g;
   let last = 0; let m;
   while ((m = re.exec(text)) !== null) {
     if (m.index > last) {
-      const plainPart = scanForTerms(text.slice(last, m.index));
+      const plainPart = scanForCardRefsAndGlossary(text.slice(last, m.index));
       for (const el of plainPart) out.push(el);
     }
-    // ** 强调内部也扫 glossary,套一层 strong(纯加粗,不 italic 不下划线)
-    const innerElements = scanForTerms(m[1]);
+    const innerElements = scanForCardRefsAndGlossary(m[1]);
     out.push(
       <strong key={key++} style={{
         fontStyle: 'normal',
@@ -616,7 +687,7 @@ function parseRichText(text, ink, ctx) {
     last = m.index + m[0].length;
   }
   if (last < text.length) {
-    const tail = scanForTerms(text.slice(last));
+    const tail = scanForCardRefsAndGlossary(text.slice(last));
     for (const el of tail) out.push(el);
   }
   return out;
@@ -873,6 +944,162 @@ function GlossaryPopup({ glossary, anchorRect, stageRect, onClose, cardsById, gl
   );
 }
 
+// ── 卡片引用弹窗 ─────────────────────────────────────────────
+// 当卡片正文 / 立场对照里出现 C-Sx-NNN 引用,点击时弹此 popup,展示被引用卡的速览。
+// 风格跟 GlossaryPopup 一致(米色纸感),底部"打开这张卡"按钮跳到 Cards.html?stage=Sx&card=ID。
+function CardRefPopup({ card, anchorRect, stageRect, onClose }) {
+  React.useEffect(() => {
+    const onKey = (e) => { if (e.key === 'Escape') onClose && onClose(); };
+    window.addEventListener('keydown', onKey);
+    return () => window.removeEventListener('keydown', onKey);
+  }, [onClose]);
+
+  if (!card) return null;
+
+  const bg = '#F5F4EE';
+  const ink = '#2a221a';
+  const ink55 = inkAlpha(ink, 0.55);
+  const ink70 = inkAlpha(ink, 0.7);
+  const ink40 = inkAlpha(ink, 0.4);
+  const ink25 = inkAlpha(ink, 0.25);
+
+  const popupHeight = Math.max(260, Math.round(stageRect.height / 2));
+  let top = anchorRect.bottom + 8;
+  if (top + popupHeight > stageRect.bottom) {
+    top = Math.max(stageRect.top + 8, stageRect.bottom - popupHeight);
+  }
+  const left = stageRect.left;
+  const width = stageRect.width;
+
+  // 跳转链接 — 同段内传 stage + card 让 Cards.html 直接定位到这张卡
+  const jumpUrl = `Cards.html?stage=${encodeURIComponent(card.stage)}&card=${encodeURIComponent(card.card_id)}`;
+
+  return (
+    <React.Fragment>
+      <div
+        onClick={onClose}
+        onTouchStart={(e) => { e.stopPropagation(); }}
+        style={{ position: 'fixed', inset: 0, background: 'transparent', zIndex: 9998 }}
+      />
+      <div
+        onClick={(e) => e.stopPropagation()}
+        onMouseDown={(e) => e.stopPropagation()}
+        onTouchStart={(e) => e.stopPropagation()}
+        onTouchEnd={(e) => e.stopPropagation()}
+        style={{
+          position: 'fixed',
+          top, left, width,
+          height: popupHeight,
+          background: bg,
+          borderRadius: 18,
+          boxShadow: '0 20px 56px rgba(60,40,20,0.36), 0 2px 0 rgba(255,255,255,0.55) inset',
+          color: ink,
+          fontFamily: "ui-sans-serif, -apple-system, 'PingFang SC', 'Noto Sans SC', sans-serif",
+          display: 'flex', flexDirection: 'column',
+          zIndex: 9999,
+          overflow: 'hidden',
+        }}
+      >
+        <svg style={{ position: 'absolute', inset: 0, width: '100%', height: '100%', pointerEvents: 'none', borderRadius: 18 }}
+             preserveAspectRatio="none">
+          <defs>
+            <filter id={`cpop-grain-${card.card_id}`}>
+              <feTurbulence type="fractalNoise" baseFrequency="1.4" numOctaves="2" seed={(card.card_id || '').length * 13 + 5} />
+              <feColorMatrix values={`0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.5 0`} />
+            </filter>
+          </defs>
+          <rect width="100%" height="100%" filter={`url(#cpop-grain-${card.card_id})`} opacity="0.07" style={{ mixBlendMode: 'multiply' }} />
+        </svg>
+
+        <div style={{
+          position: 'relative',
+          padding: '26px 28px 22px',
+          display: 'flex', flexDirection: 'column',
+          gap: 0, height: '100%', overflow: 'auto',
+        }}>
+          {/* 顶部 eyebrow:CARD · 阶段 · 关闭 */}
+          <div style={{
+            display: 'flex', alignItems: 'center', gap: 10,
+            fontFamily: "ui-monospace, 'SF Mono', Menlo, monospace",
+            fontSize: 9.5, letterSpacing: '0.24em',
+            color: ink55,
+          }}>
+            <span>CARD · {card.stage} {card.stageName}</span>
+            <span style={{ flex: 1, height: 1, background: ink25 }} />
+            <button
+              onClick={onClose}
+              style={{
+                all: 'unset', cursor: 'pointer',
+                width: 18, height: 18,
+                display: 'inline-flex', alignItems: 'center', justifyContent: 'center',
+                fontSize: 13, color: ink55, lineHeight: 1,
+              }}
+              aria-label="关闭"
+            >✕</button>
+          </div>
+
+          {/* hook —— 副标 italic */}
+          {card.front && card.front.hook && (
+            <div style={{
+              marginTop: 16,
+              fontFamily: "'Noto Serif SC', Georgia, serif",
+              fontSize: 13, color: ink55, fontStyle: 'italic',
+              letterSpacing: '0.06em', lineHeight: 1.6,
+            }}>——{card.front.hook}</div>
+          )}
+
+          {/* title — serif 大标 */}
+          <h2 style={{
+            margin: '8px 0 0',
+            fontFamily: "'Noto Serif SC', 'Source Han Serif SC', Georgia, serif",
+            fontSize: 24, fontWeight: 700,
+            lineHeight: 1.28, letterSpacing: '0.005em',
+            color: ink, textWrap: 'balance',
+          }}>{card.front && card.front.title}</h2>
+
+          {/* lede 预览(纯文本,不嵌套 parseRichText 避免 popup-in-popup) */}
+          {card.back && card.back.lede && (
+            <p style={{
+              margin: '20px 0 0',
+              fontFamily: "'Noto Serif SC', 'Source Han Serif SC', Georgia, serif",
+              fontSize: 14, lineHeight: 1.85, color: ink,
+              whiteSpace: 'pre-wrap',
+            }}>{card.back.lede}</p>
+          )}
+
+          {/* 跳转按钮 */}
+          <a
+            href={jumpUrl}
+            style={{
+              marginTop: 'auto',
+              alignSelf: 'flex-start',
+              textDecoration: 'none',
+              fontFamily: "ui-monospace, 'SF Mono', Menlo, monospace",
+              fontSize: 11, letterSpacing: '0.18em',
+              color: ink70,
+              border: `1px solid ${ink40}`,
+              padding: '8px 14px',
+              borderRadius: 4,
+            }}
+          >打开这张卡 →</a>
+
+          {/* 底部 card_id 小字 */}
+          <div style={{
+            marginTop: 12,
+            display: 'flex', alignItems: 'center', gap: 8,
+          }}>
+            <span style={{ width: 24, height: 1, background: ink40 }} />
+            <span style={{
+              fontFamily: "ui-monospace, 'SF Mono', Menlo, monospace",
+              fontSize: 9, letterSpacing: '0.18em', color: ink55,
+            }}>{card.card_id}</span>
+          </div>
+        </div>
+      </div>
+    </React.Fragment>
+  );
+}
+
 function Section({ label, children, inkSoft }) {
   return (
     <div style={{ display: 'flex', flexDirection: 'column', gap: 8 }}>
@@ -904,12 +1131,21 @@ function CardStack() {
   const glossaryById = glossaryData ? glossaryData.byId : null;
   // 术语 popup 状态:被点击词的 anchor + 选中的术语
   const [popup, setPopup] = React.useState(null); // { glossary, anchorRect } | null
+  // 卡片引用 popup 状态:点击正文里的 C-Sx-NNN 触发
+  const [cardPopup, setCardPopup] = React.useState(null); // { card, anchorRect } | null
   const stageRef = React.useRef(null);
   const onTermClick = React.useCallback((g, anchorEl) => {
     if (!g || !anchorEl) return;
+    setCardPopup(null);  // 互斥:打开术语 popup 时关掉卡片 popup
     setPopup({ glossary: g, anchorRect: anchorEl.getBoundingClientRect() });
   }, []);
+  const onCardClick = React.useCallback((c, anchorEl) => {
+    if (!c || !anchorEl) return;
+    setPopup(null);  // 互斥:打开卡片 popup 时关掉术语 popup
+    setCardPopup({ card: c, anchorRect: anchorEl.getBoundingClientRect() });
+  }, []);
   const closePopup = React.useCallback(() => setPopup(null), []);
+  const closeCardPopup = React.useCallback(() => setCardPopup(null), []);
 
   // ── 远端数据(收藏 + 进度)── 由 server / Cloudflare KV 持久化,跨设备同步
   const email = (window.PKB && PKB.auth.currentUser()) || null;
@@ -1278,7 +1514,8 @@ function CardStack() {
               willChange: 'transform',
             }}>
               <Card data={c} total={total} color={CARD_COLORS[i % CARD_COLORS.length]}
-                    glossaryById={glossaryById} onTermClick={onTermClick}
+                    glossaryById={glossaryById} cardsById={cardsById}
+                    onTermClick={onTermClick} onCardClick={onCardClick}
                     isFavorited={favList.indexOf(c.card_id) >= 0}
                     onToggleFavorite={toggleFavorite} />
             </div>
@@ -1296,6 +1533,16 @@ function CardStack() {
           cardsById={cardsById}
           glossaryById={glossaryById}
           onSwitchGlossary={onSwitchGlossary}
+        />
+      )}
+
+      {/* 卡片引用弹窗 — 点击正文 C-Sx-NNN 触发 */}
+      {cardPopup && stageRef.current && (
+        <CardRefPopup
+          card={cardPopup.card}
+          anchorRect={cardPopup.anchorRect}
+          stageRect={stageRef.current.getBoundingClientRect()}
+          onClose={closeCardPopup}
         />
       )}
 

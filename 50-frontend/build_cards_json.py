@@ -215,6 +215,55 @@ def convert_card(yaml_data, global_idx):
     if positions:
         card_back["positions"] = positions
 
+    # citation fallback 链 — 不同 schema 类型用不同字段
+    # 1. 书:book_title_zh / book_title_en / book_title_jp / book_title_de / book_title_ja
+    # 2. 网站:page_title (+ page_url_primary)
+    # 3. 文档/源:source_title / article_title / episode_title
+    # 4. 章节:chapter_title(作书内位置补)
+    # 5. META-CROSS:跨派立场对照综合卡(cross_source: true / primary_source_id: META-CROSS)
+    is_meta_cross = (
+        citation.get("cross_source") is True
+        or citation.get("primary_source_id") == "META-CROSS"
+        or citation.get("source_id") == "META-CROSS"
+    )
+    if is_meta_cross:
+        book_zh = "跨派立场对照(综合卡)"
+        authors = "本知识库整合"
+    else:
+        book_zh = (
+            citation.get("book_title_zh")
+            or citation.get("book_title_en")
+            or citation.get("book_title_jp")
+            or citation.get("book_title_de")
+            or citation.get("book_title_ja")
+            or citation.get("page_title")
+            or citation.get("source_title")
+            or citation.get("article_title")
+            or citation.get("episode_title")
+            or ""
+        )
+        # authors fallback:作者 → 出版商 → 网站门户
+        authors = (
+            authors_to_str(citation.get("authors"))
+            or authors_to_str(citation.get("authors_zh"))
+            or str(citation.get("publisher") or "")
+            or str(citation.get("publisher_en") or "")
+            or str(citation.get("publisher_zh") or "")
+            or str(citation.get("portal") or "")
+            or ""
+        )
+    # location fallback:正文给出的 location → chapter_title
+    location = (
+        str(citation.get("location") or "")
+        or str(citation.get("chapter_title") or "")
+    )
+    # url 透传 — 网站类来源能让前端展示链接
+    url = (
+        citation.get("page_url_primary")
+        or citation.get("url")
+        or ""
+    )
+
     return {
         "card_id": yaml_data.get("card_id", ""),
         "stage": primary_stage,
@@ -227,14 +276,15 @@ def convert_card(yaml_data, global_idx):
         },
         "back": card_back,
         "citation": {
-            "book_zh": (
-                citation.get("book_title_zh")
-                or citation.get("book_title_en")
+            "book_zh": book_zh,
+            "authors": authors,
+            "location": location,
+            "source_id": (
+                citation.get("source_id")
+                or citation.get("primary_source_id")
                 or ""
             ),
-            "authors": authors_to_str(citation.get("authors")),
-            "location": str(citation.get("location") or ""),
-            "source_id": citation.get("source_id") or "",
+            "url": url,
         },
         "related_cards": yaml_data.get("related_cards") or [],
         "glossary_refs": yaml_data.get("glossary_refs") or [],
