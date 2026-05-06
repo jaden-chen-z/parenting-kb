@@ -40,3 +40,16 @@ __pycache__/
 
 # 本地 admin_server.py 写的 per-user 进度 / 收藏(生产用 Cloudflare KV,这个文件只本地用)
 50-frontend/state.json
+
+# Node 依赖(npm install 重建)
+node_modules/
+
+# JSX 编译产物 — Cloudflare Pages build 时由 npm run build 重新生成
+# (本地开发跑 `npm run build` 或 `npm run build:watch` 后才能在 admin_server.py 看效果)
+50-frontend/admin.js
+50-frontend/cards.js
+50-frontend/folder-asset.js
+50-frontend/folders.js
+50-frontend/login.js
+50-frontend/swipe-stack.js
+50-frontend/tweaks-panel.js

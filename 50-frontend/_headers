@@ -1,0 +1,14 @@
+# Cloudflare Pages HTTP headers
+# 文档: https://developers.cloudflare.com/pages/configuration/headers/
+
+# vendor 第三方库:不变,1 年缓存 + immutable(浏览器永不再请求)
+/vendor/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# Service Worker 自己:不能缓存,否则 SW 改了用户拿不到
+/sw.js
+  Cache-Control: no-cache
+
+# API:Function 自己也设了 no-store,这里 double-safety
+/api/*
+  Cache-Control: no-store
