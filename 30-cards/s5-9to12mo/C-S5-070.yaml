@@ -1,6 +1,6 @@
 card_id: C-S5-070
 stages: [S5]
-tags: []
+tags: [philosophy]
 
 front:
   title: 12 月可测依恋类型
@@ -45,7 +45,7 @@ citation:
   year_en: 1969
   year_zh: 2017
   isbn: "978-7-5192-2927-6"
-  location: "第十六章 依恋的模式和影响因素(陌生人情境测验用于评估十二个月婴儿对母亲的依恋行为组织化的个体差异 / Ainsworth et al. 1978 主要 3 类型 + 后续 D 型补充)"
+  location: "第十六章依恋的模式和影响因素(陌生人情境测验用于评估十二个月婴儿对母亲的依恋行为组织化的个体差异 / Ainsworth et al. 1978 主要 3 类型 + 后续 D 型补充)"
   source_id: SRC-011
 
 unit_ids: []

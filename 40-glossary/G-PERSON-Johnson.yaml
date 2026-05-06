@@ -1,0 +1,65 @@
+glossary_id: G-PERSON-Johnson
+type: person
+display_name: Johnson (Allison Johnson)
+
+full_name_en: Allison Johnson
+full_name_zh: 艾莉森·约翰逊
+
+one_liner: |
+  Magda Gerber《Your Self-Confident Baby》(1998)的合著者。
+  RIE 派早期实践者 + 写作合伙人,本书的"翻译者" — 把 Magda
+  口述哲学转成普通家长读得懂的英文文字。
+
+detail: |
+  ## 基本身份
+  - Magda Gerber《Your Self-Confident Baby》(1998)合著者
+  - RIE 派早期教师 + 实践者
+  - 本书摄影部分多张照片为 Allison Johnson 拍
+
+  ## 在本书的角色
+  Magda Gerber 1910 年生于匈牙利,母语非英语 — 1998 年时
+  Magda 88 岁,需要合著者帮助:
+  - 把 Magda 几十年口述教学转成结构化文字
+  - 让普通美国家长能读懂(而不是 RIE 内部教师培训手册)
+  - 收集 RIE 班级家长真实对话(Geralynn / Cynthia / Stacy / Iris 等)
+  - 安排照片(p43, 75, 177 三张为她拍)
+
+  ## 跟 Lansbury 的对比
+  Allison Johnson 是 Magda 同时代合作者(1990s)。
+  Janet Lansbury 是后辈学生(2000s 起,2014 年才出书)。
+  Allison 帮 Magda 留下 1998 经典原版;
+  Lansbury 在 Magda 2007 去世后扩展并主流化(博客 + Self-Confident
+  10 原则扩到 10 等)。
+  Allison 是"原典的协作者",Lansbury 是"原典的传承者 + 推广者"。
+
+  ## 公开资料较少
+  - 中文社群完全无知名度
+  - 英文社群也只在 Magda 经典框架内被提及
+  - 没有独立著作
+
+key_facts:
+  - Magda Gerber 1998《Your Self-Confident Baby》合著者
+  - RIE 派早期教师
+  - 帮 88 岁 Magda 把口述教学转成普通家长读物
+  - 3 张本书照片摄影
+  - 跟 Lansbury 平行(都是 Magda 传承,但年代和角色不同)
+
+related_glossary:
+  - G-PERSON-Gerber
+  - G-PERSON-Lansbury
+  - G-PERSON-Pikler
+  - G-TERM-RIE
+
+related_cards:
+  - C-S2-493  # Magda 7 大原则原版
+  - C-S6-607  # Antaeus tantrum 故事
+  - C-S6-608  # Red/Yellow/Green light
+
+sources:
+  - source_id: SRC-021
+  - external: John Wiley & Sons 1998 出版页 / RIE 官网
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

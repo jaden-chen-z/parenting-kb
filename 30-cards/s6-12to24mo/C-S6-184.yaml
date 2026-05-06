@@ -1,0 +1,64 @@
+card_id: C-S6-184
+stages: [S6]
+tags: [montessori, work, milestone, philosophy]
+
+front:
+  title: 15 月转工作最大努力期
+  hook: 玩转工作的分水岭
+
+back:
+  why_matters: |
+    Lillard Ch4/Ch6 关键命题 — **15 月是宝宝的"转工作"分水岭**(maximum effort 期):
+    之前(0-15 月):**玩** — 探索 + 操作物品,大人称"玩"
+    之后(15 月起):**工作** — 想做大人做的事(端碗 / 摆桌 / 浇花 / 切香蕉)
+    Lillard 直接说:**这不是个比喻** — 是宝宝大脑发育的物理事实:
+    - 15 月起手脑反馈环已建好
+    - 走稳了,双手解放
+    - 大脑能持续追踪一个目标
+    - 整个孩子在"找大人能做我也想做的事"
+    Maria Montessori 称这阶段为"maximum effort"(最大努力):
+    - 宝宝费尽全力搬重东西
+    - 反复爬上椅子又爬下
+    - 端水从一个杯倒到另一个杯
+    - 这不是浪费精力,是大脑训练完整动作实操含义:**给宝宝真活儿** — 不是塑料假装的,是参与家庭真工作。
+    跟"宝宝小不会做" / "做不好我重做"**对立** — 蒙氏立场:这是关键发展期,错过就错过。
+    紧跟下一步:循环活动(C-S6-185) + 母-师角色(C-S6-186)。
+  what_to_do:
+    - 15 月起给宝宝真活儿做
+    - 端碗 / 摆桌 / 擦桌 / 浇花
+    - 用真物(真碗 / 真水 / 真工具)
+    - 接受速度慢
+    - 不在意完美,看完成
+  failure_mode: |
+    "15 月那么小做不了家务" — 蒙氏 100 年实证:15 月就能开始,这正是关键期。
+    错过这个窗口 → 3-4 岁再让做家务 → 宝宝"我不会"或不愿做。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Lillard
+  - G-PERSON-Jessen
+  - G-PERSON-Montessori
+  - G-TERM-cycle-of-activity
+  - G-TERM-practical-life
+  - G-TERM-self-construction
+
+citation:
+  book_title_zh: "蒙台梭利从 0 岁开始"
+  book_title_en: "Montessori from the Start"
+  authors: ["Paula Polk Lillard", "Lynn Lillard Jessen"]
+  authors_zh: ["宝拉·波尔克·莉拉德", "琳·莉拉德·杰森"]
+  publisher_en: "Schocken Books"
+  year_en: 2003
+  isbn_en: "978-0-8052-1112-1"
+  location: "Ch 4 末 + Ch 6 始 (15 month transition)"
+  source_id: SRC-016
+
+unit_ids: []
+related_cards:
+  - C-S6-130       # Davies 12-15 月生活技能起步
+  - C-S5-131       # Davies 不替宝宝做能做的事
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

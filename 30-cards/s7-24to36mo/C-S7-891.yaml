@@ -1,0 +1,95 @@
+card_id: C-S7-891
+stages: [S7]
+tags: [pikler, motor-发展, milestones, source-de, controversy]
+
+front:
+  title: "24-36 月大动作终态"
+  hook: "走稳跑跳上下楼自然来"
+
+back:
+  why_matters: |
+    Pikler 1969 立场:24-36 月幼儿大动作发展进入"细化"
+    阶段。基础大动作(翻坐爬站走)已建立,现在是平衡
+    + 灵活 + 力量的精细化时期。
+
+    Pikler 描述自然终态(无需教):
+    - **走稳**(15-24 月):步态平衡,不再需要扶物
+    - **蹲起**(18-24 月):蹲下捡东西再起,不摇晃
+    - **跑**(20-30 月):有"飞"的瞬间(双脚都离地)
+    - **跳**(24-36 月):双脚同时离地落地
+    - **上楼梯**(20-30 月):一脚一阶 + 扶栏杆
+    - **下楼梯**(24-36 月):一脚一阶 + 扶栏杆(下比上慢)
+    - **平衡走线**(30-36 月):窄路 / 矮台 / 树根
+
+    Pikler 立场不变:全部自然发展,不需"早教课"教。
+    给环境(公园 / 草地 / 矮台 / 楼梯)+ 时间 + 安全范围,孩子自己练。
+
+    Anna Tardos 后续把这个阶段精细化为"runs / jumps /
+    climbs"具体里程碑表(《Lasst mir Zeit》1979)— 本卷只用 Pikler 1969 描述。
+
+  what_to_do:
+    - 给孩子户外时间 — 公园 / 草地 / 矮台
+    - 不"教"跑 / 跳 — 让他自己练
+    - 楼梯允许他自己上下(扶栏杆)— 别每次抱
+    - 不报"幼儿早教课"— Pikler 立场:无需
+    - 摔了看 5 秒等他反应 — 通常自己起
+
+  failure_mode: |
+    "孩子摔多怕怎么办" → Pikler 立场:摔是大动作发展必经过程。不让摔 = 不让发展。给安全场地(草地 /
+    地垫)而不是"全程扶着"。
+
+  evidence_level: B
+
+  positions:
+    issue: 大动作发展该不该训练 · 学步车 / Bumbo / 撑坐 / 训练表是否有用
+    views:
+      - school: Pikler
+        source: SRC-026
+        stance: 完全反对训练 — 自然顺序 + 安全空间 + 时间 = 大动作全部自动发生;严反一切撑物(学步车 / Bumbo / 跳跳器 / 婴儿座椅)。
+      - school: Magda Gerber / RIE / Lansbury
+        source: SRC-022/019
+        stance: 继承 Pikler 立场 — 里程碑不是赛跑,不撑坐 8 理由,7 类婴儿设备先放下。
+      - school: 蒙氏(Davies/Lillard)
+        source: SRC-014/016
+        stance: 立场一致 — floor bed + 自由动作空间 + 反早期撑坐。
+      - school: AAP
+        source: SRC-002
+        stance: 反学步车(Policy Statement + 数百起伤亡报道);加拿大 2004 立法全球首例禁售。
+      - school: Brazelton
+        source: SRC-010
+        stance: 反学步车,跟 Pikler 立场一致;主张孩子自然探索大动作。
+      - school: 松田道雄
+        source: SRC-024
+        stance: 温和支持自然 — 不催孩子翻 / 坐 / 爬 / 走的时间表,部分跟 Pikler 共鸣。
+      - school: 鲍秀兰
+        source: SRC-009
+        stance: 支持训练 — 婴儿体操 / 抓握训练 / 撑坐;跟 Pikler 派 8 派立场严重对立。
+      - school: 中国主流
+        stance: '"4 月翻 / 6 月坐 / 9 月爬 / 12 月走" 训练表 + 80% 家庭曾用学步车。跟 Pikler 派全面对立。'
+glossary_refs:
+  - G-PERSON-Pikler
+  - G-TERM-bewegungsentwicklung
+  - G-TERM-pikler-milestones
+
+citation:
+  book_title_de: "Friedliche Babys – zufriedene Mütter"
+  book_title_zh: "和平的婴儿 — 满足的母亲"
+  authors:
+    - Emmi Pikler
+  publisher_de: HERDER (HERDER / SPEKTRUM Band 4141)
+  year: 1969
+  location: "Ch10 Übergang + Ch11 Abschließend"
+  source_id: SRC-026
+
+unit_ids: []
+related_cards:
+  - C-S5-936  # Pikler 第一步必须无大人手(本卷)
+  - C-S3-835  # Pikler 大动作 6 阶段(本卷)
+  - C-S4-349  # Gerber 里程碑不是赛跑
+  - C-S7-403  # Gerber RIE 哲学不止 2 岁
+  - C-S2-290  # Lansbury 不撑坐 8 理由
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

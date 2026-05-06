@@ -1,0 +1,37 @@
+card_id: C-S0-2166
+stages: [S0]
+tags: [postpartum, dad, depression, red_flag]
+front:
+  title: 父亲也会产后抑郁
+  hook: 爸爸激素也在波动
+back:
+  why_matters: |
+    前情:大家都关心妈妈产后抑郁却忽略爸爸。
+    海蒂明确"新爸爸在情感上会感到不在状态"。生活方式骤变、
+    缺睡眠、责任激增、雌激素水平也会上升,新爸爸同样会有情绪低落、社交退缩、对宝宝兴趣下降等表现。这不是矫情是生理+心理双重原因,严重的也需就医。
+  what_to_do:
+    - 持续 2 周以上低落要正视
+    - 跟妻子说出感受不要独自扛
+    - 加入新爸爸支持小组或线上社群
+    - 严重时找心理医生不要硬撑
+    - 别用"我是男人不能脆弱"压自己
+  failure_mode: 爸爸抑郁被忽视,转化为对家庭冷漠、出轨、酗酒,最终家庭关系崩塌、宝宝间接受害。
+  evidence_level: B
+glossary_refs: []
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors: ["Heidi Murkoff", "Sharon Mazel"]
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh: ["莫夏迪", "张敏"]
+  location: "第 24 章 《父亲》, 页 715-717"
+  source_id: "SRC-040"
+related_cards: [C-S0-2155, C-S0-2167]
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

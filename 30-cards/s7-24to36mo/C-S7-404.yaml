@@ -1,0 +1,56 @@
+card_id: C-S7-404
+stages: [S7]
+tags: [siblings, family]
+
+front:
+  title: "兄弟竞争不偏护"
+  hook: "弱者派 = 双输"
+
+back:
+  why_matters: |
+    Magda Ch8 短节立场:
+    Sibling Rivalry 是健康正常,不是问题。
+    家长容易"保护小的 + 教大的让" → 双输:
+    大的学到"我地位低不被爱";
+    小的学到"哭就赢,我不需要努力"。
+    Magda 推 Faber & Mazlish《Siblings without Rivalry》辅助。
+    跟 Davies / Lansbury 不强迫分享一致。
+
+  what_to_do:
+    - 不强迫"哥哥 / 姐姐让"
+    - 不偏袒"弟弟 / 妹妹哭就有理"
+    - 限度对双方一致("不许打" 全家适用)
+    - 给每个孩子独立 高质量陪伴(防"被弟妹抢光妈妈")
+    - 让他们自己解决普通争执,不当法官
+
+  failure_mode: |
+    "你哥让让啊" → 长期大的不信任父母 → 家庭裂痕。
+    Magda 原话:"竞争是 normal,父母只守底线不当法官"。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+
+citation:
+  book_title_en: "Your Self-Confident Baby"
+  book_title_zh: "自信的宝宝"
+  authors:
+    - Magda Gerber
+    - Allison Johnson
+  publisher_en: John Wiley & Sons
+  year: 1998
+  location: "Ch8 Sibling Rivalry(整节)"
+  source_id: SRC-022
+
+unit_ids: []
+related_cards:
+  - C-S7-351  # Lansbury 对症下药
+  - C-S6-403  # Lansbury 限度+情绪并存
+  - C-S4-352  # Magda 群玩两条铁律(本卷)
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

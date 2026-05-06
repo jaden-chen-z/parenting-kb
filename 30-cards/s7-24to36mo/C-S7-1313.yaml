@@ -1,0 +1,72 @@
+card_id: C-S7-1313
+stages: [S7]
+tags: [character, lapsley, preschool, lerner_v4]
+
+front:
+  title: 2-3 岁品格起萌
+  hook: 2-3 岁品格萌
+
+back:
+  why_matters: |
+    Lapsley V4 Ch 7(2-3 岁品格教育起源)。
+    **2-3 岁品格 4 支柱萌芽**:
+    - **道德敏感起步**:看到别人哭会注意
+    - **道德判断雏形**:用"对 / 不对"(2.5-3 岁)
+    - **道德动机**:愿意帮(共情起源)
+    - **道德行动**:开始尝试帮(2-3 岁)
+    **反"贴标签"教育**(本章核心):
+    - ❌ "你是好孩子" / "你是坏孩子"
+    - ❌ "做对了 / 做错了"
+    - ✅ "你这样做对那个小朋友有帮助"
+    - 描述行为后果,不评价人
+    **正面 3 大策略**:
+    - **情境引导**:"看看小朋友怎么了"(敏感)
+    - **思考引导**:"你觉得该怎么办"(判断)
+    - **鼓励行动**:"你想试试帮帮他吗"(动机+行动)
+    **4 支柱整合训练**:
+    - 散步看到老人摔倒(情境)
+    - 问"他怎么了"(敏感)
+    - 问"我们能做什么"(判断)
+    - 鼓励行动"过去问问"(动机+行动)
+    跟现库:跟 V3 Eisenberg 亲社会(C-S2-941)+ V3 Hoffman 共情 4 阶段(待建)+ C-S8-736 V4 4 支柱主论对接。
+    对中国家长意义:
+    - 2-3 岁是品格起萌期
+    - 不"贴好/坏"标签
+    - 描述行为后果不评价人
+    - 4 支柱综合训练
+  what_to_do:
+    - '不"贴好/坏"标签'
+    - 描述行为后果不评价人
+    - 4 支柱综合训练
+    - 情境引导+思考+行动
+  failure_mode: |
+    "贴好坏标签"— 错。4 支柱反对。
+    "说教就够"— 错。需 4 支柱整合。
+    "小娃不懂"— 错。2-3 岁起萌。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Lapsley
+  - G-PERSON-Narvaez
+  - G-TERM-character-education
+  - G-TERM-moral-4-pillars
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 4 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 4 卷"
+  authors: ['Daniel K. Lapsley', 'Darcia Narvaez']
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 7 · Lapsley · 2-3yr character emergence · pp. 255-265"
+  source_id: SRC-029
+
+unit_ids: []
+related_cards:
+  - C-S2-941     # V3 Eisenberg 亲社会
+  - C-S8-736     # V4 品格 4 支柱主论
+  - C-S7-1004     # V3 Turiel 道德 4 域
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

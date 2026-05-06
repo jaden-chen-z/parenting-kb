@@ -1,0 +1,68 @@
+card_id: C-S8-740
+stages: [S8]
+tags: [learning_disability, berninger, lerner_v4]
+
+front:
+  title: 书写 ≠ 阅读独立训
+  hook: 阅读和书写独立练
+
+back:
+  why_matters: |
+    Berninger V4 Ch 11 学习障碍发展取向章。
+    **书写脑科学**(Berninger 综述):
+    - 阅读用左半脑(语言区)
+    - 书写用左+右半脑(运动+语言+空间)
+    - **阅读和书写是独立技能**
+    - 阅读好 ≠ 书写好(很多娃读得快写得糟)
+    **阅读障碍 vs 书写障碍**:
+    - **dyslexia**(阅读障碍):3-5 岁音韵意识弱
+    - **dysgraphia**(书写障碍):4-6 岁手指控制差 / 字形混乱
+    - 两者**可以独立**(只读得难 / 只写得难)
+    **早期信号**(Berninger):
+    - 阅读障碍:5 岁不能区分 ba/da / 押韵反应慢
+    - 书写障碍:5 岁画不出方形 / 拿笔笨拙 / 字混乱
+    **干预要分开**:
+    - 阅读障碍:语音训练 + 拼读分解
+    - 书写障碍:握笔 + 形状 + 节奏 + 表达
+    - 不能"一起治"
+    跟现库:跟 V2 Goswami 音韵(C-S5-1140)+ V2 Karmiloff-Smith RR(C-S8-424)对接。
+    对中国家长意义:
+    - 5 岁字写得难看不一定智力问题
+    - 读得快不代表写得好
+    - 两者要分开练
+    - 早期信号(5 岁)别拖,找 OT(职业治疗)
+  what_to_do:
+    - 5岁字难看别认智力问题
+    - 读快不代表写好
+    - 阅读+书写分开训
+    - 5岁信号找OT评估
+  failure_mode: |
+    "阅读好书写自然好"— 错。独立技能。
+    "字难看 = 智力差"— 错。dysgraphia 独立。
+    "5 岁拖 8 岁再说"— 错。早信号早介入。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Berninger
+  - G-TERM-dyslexia
+  - G-TERM-dysgraphia
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 4 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 4 卷"
+  authors: ['Virginia W. Berninger']
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 11 · Berninger · Reading vs writing brain · pp. 420-440"
+  source_id: SRC-029
+
+unit_ids: []
+related_cards:
+  - C-S5-1140     # V2 Goswami 音韵意识
+  - C-S8-424     # V2 Karmiloff-Smith RR
+  - C-S8-731     # Paris 阅读 5 要素
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

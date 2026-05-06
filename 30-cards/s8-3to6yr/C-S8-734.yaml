@@ -1,0 +1,69 @@
+card_id: C-S8-734
+stages: [S8]
+tags: [science, lehrer, lerner_v4]
+
+front:
+  title: 科学探究式不灌输
+  hook: 科学要让娃自探究
+
+back:
+  why_matters: |
+    Lehrer-Schauble V4 Ch 5 科学思维章。
+    **探究式科学(inquiry-based)立场**:
+    - 反"老师讲事实学生记"传统模式
+    - 让孩子**问 + 测 + 解释**
+    - 例:把球扔下,自己测+画图+找规律
+    - 不是先告诉公式,是发现规律
+    **4 步探究循环**:
+    - **问**:好奇问题
+    - **预测**:猜测会怎样
+    - **测试**:实验验证
+    - **解释**:为啥这样
+    **反 3 误区**:
+    - ❌ "记住事实就是科学"(只是知识)
+    - ❌ "实验是娱乐"(实验是核心方法)
+    - ❌ "标准答案"(科学反复修正)
+    意义:
+    - 中国应试教育偏事实记忆
+    - V4 立场:思维方式比事实重要
+    - 错的预测 + 修正 = 真科学跟现库:跟 Gopnik baby scientist(C-S0-619 周边)+ V2 Carey 直觉理论(C-S8-427)对接。
+    对中国家长意义:
+    - 在家做小实验(石头浮沉 / 冰融化)
+    - 让孩子先猜再测
+    - 错了表扬"问得好"而非"答错"
+    - 反"知识量"竞赛模式
+  what_to_do:
+    - 在家做小实验(石头/冰)
+    - 让孩子先猜再测
+    - '错的预测表扬"问得好"'
+    - 反知识量竞赛
+  failure_mode: |
+    "记住事实就是科学"— 错。思维方式核心。
+    "实验是娱乐"— 错。是核心方法。
+    "必须有标准答案"— 错。科学反复修正。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Lehrer
+  - G-PERSON-Schauble
+  - G-TERM-inquiry-based-learning
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 4 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 4 卷"
+  authors: ['Richard Lehrer', 'Leona Schauble']
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 5 · Lehrer-Schauble · Inquiry science · pp. 153-170"
+  source_id: SRC-029
+
+unit_ids: []
+related_cards:
+  - C-S8-427     # V2 Carey 直觉理论
+  - C-S6-1172     # V2 Geary 数感
+  - C-S0-1235     # Hyson DAP
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

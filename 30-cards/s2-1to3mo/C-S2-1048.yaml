@@ -1,0 +1,56 @@
+card_id: C-S2-1048
+stages: [S2]
+tags: []
+
+front:
+  title: "混合喂养风险高"
+  hook: "比全母乳全配方都差"
+
+back:
+  why_matters: |
+    WHO + Lancet 2016 立场:混合喂养(母乳+配方)在多数情况下风险高于纯母乳或纯配方。
+    原因:
+    ① 配方奶量加 → 母乳吸吮减 → 妈妈奶量真降
+    ② 婴儿肠道菌群混乱 — 母乳菌群 vs 配方菌群相互干扰
+    ③ 配方奶蛋白不耐(CMPI/CMPA 5%)风险增加
+    ④ HIV+ 妈妈混合喂养传播率高于任一纯一种(WHO 2010)
+    ⑤ 心理:妈妈对'奶不够'焦虑加重
+    WHO 推荐:能纯母乳就纯;真不够 → 个案评估;HIV+ AFASS → 选纯一种。
+  what_to_do:
+    - "默认目标:纯一种(纯母乳优先,真不行纯配方)"
+    - "'晚上加一顿配方让妈妈休息' → 母乳奶量降"
+    - "'白天工作配方,晚上母乳' → 母乳奶量被打散"
+    - "真需要补充 → 用挤奶用杯子/勺(勺喂)而非奶瓶"
+    - "HIV+ → 必须纯一种,不混合"
+  failure_mode: |
+    信 '混合喂养灵活' → 反而是最差选择(母乳奶量降 + 肠道菌群乱)。
+    WHO 立场:能纯就纯。
+  evidence_level: B
+
+glossary_refs:
+  - G-TERM-mixed-feeding
+  - G-ABBR-EBF
+
+citation:
+  page_title: "WHO + Lancet 2016 + HIV Feeding Guidelines"
+  publisher: "World Health Organization & UNICEF"
+  page_url_primary: https://en.wikipedia.org/wiki/Breastfeeding
+  accessed: 2026-05-04
+  language: en
+  location: "混合喂养在多场景下风险高于纯一种 + HIV+ 立场"
+  source_id: SRC-031
+
+unit_ids: []
+related_cards:
+  - C-S1-1013
+  - C-S2-1045
+  - C-S1-1003
+  - C-S1-050
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_doc_id_pending: D9
+citation_followup_needed: '已映射真实 doc_id (D9 = Breastfeeding HIV 2010 ART)'

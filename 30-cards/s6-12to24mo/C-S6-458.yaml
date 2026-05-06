@@ -1,0 +1,58 @@
+card_id: C-S6-458
+stages: [S6]
+tags: [trust, erikson, attachment]
+
+front:
+  title: "继续建基本信任"
+  hook: "兑现承诺胜过哄骗"
+
+back:
+  why_matters: |
+    Magda Ch8 引 Erikson《Identity and the Life Cycle》:
+    Basic Trust 的建立**贯穿 0-3 岁**,
+    不是 1 岁前就完事 — 12-24 月是关键巩固期。
+    具体做法:可预测的回应 / 兑现承诺 / 不偷溜 / 不哄骗。
+    Magda 自家 Antaeus 故事:
+    幼儿"扔自己到地上"再回到妈妈怀里 = 重新确认基本信任。
+
+  what_to_do:
+    - 答应他的事一定做到("洗完澡读 1 本书")
+    - 走前一定告别 + 准时回来
+    - 不哄骗"打针不疼" / "去公园其实去医院"
+    - 闹完接他回来抱 + "你回来了"
+    - 12-24 月把"诚实"看得比"省哭"重
+
+  failure_mode: |
+    "他记不住骗一下没事" → 累积 = 18 月就出现"不信妈说的话"。
+    Magda 原话:"你说的算数 = 基本信任的混凝土"。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Gerber
+  - G-PERSON-Erikson
+  - G-PERSON-Bowlby
+  - G-TERM-attachment
+  - G-TERM-basic-trust
+
+citation:
+  book_title_en: "Your Self-Confident Baby"
+  book_title_zh: "自信的宝宝"
+  authors:
+    - Magda Gerber
+    - Allison Johnson
+  publisher_en: John Wiley & Sons
+  year: 1998
+  location: "Ch8 Continuing to Build Basic Trust"
+  source_id: SRC-022
+
+unit_ids: []
+related_cards:
+  - C-S5-076  # Bowlby V1 secure base
+  - C-S6-407  # Lansbury 看医生提前预告
+  - C-S5-449  # Magda 永不偷溜走(本卷)
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

@@ -1,0 +1,87 @@
+glossary_id: G-TERM-evoked-companion
+type: term
+display_name: 唤起的伙伴 (evoked companion)
+
+full_name_zh: 唤起的伙伴 / 内化的伙伴
+full_name_en: Evoked Companion
+
+one_liner: |
+  Stern 命名 — 婴儿独自时,**RIG 自动激活,产生"伙伴在场"**的体验。
+  6 月宝宝独自摇拨浪鼓时的"超出 mastery 应有的喜悦"= evoked companion 被激活。是宝宝**最早的"自我安抚"心理基础**,终身存在。
+
+detail: |
+  ## 定义
+  Evoked companion(唤起的伙伴)= 当 RIG 被某个属性触发 → 产生**"内化伙伴在场"**的体验。
+  - 不是真的伙伴 — 是 RIG 的活化版本
+  - "active memory of being with self-regulating other"
+  - 可以在伙伴**实际不在**时产生
+  - 也可以在伙伴**在**时**附加**到当前互动
+
+  ## 经典案例
+  - 6 月宝宝独自摇拨浪鼓
+  - **初始**:小喜悦(成功 mastery)
+  - **之后突然**:大喜悦 + 笑 + 发声 + 全身扭动
+  - **"超出 mastery 应有的程度"**
+  - **Stern 解释**:成功的 mastery 触发了 RIG_with-mom-during-play,evoked companion 激活,宝宝"跟内心妈妈一起庆祝"
+
+  ## 跟 RIG(C-S3-198)关系
+  - **RIG = 储存的抽象表征**
+  - **Evoked companion = RIG 的激活实例**(stored → retrieved + active)
+  - RIG 是冷数据,evoked companion 是热体验
+  - 一个 RIG 可以产生无数次 evoked companions
+
+  ## 临床意义
+  - **是宝宝最早的"自我安抚"心理基础**
+  - 失去亲人时(成人哀伤)evoked companion 强烈激活 → "那个人还在"的感觉(Freud 1917 哀伤理论)
+  - 恋爱时,情人不在也"在场" — 也是 evoked companion
+  - 心理治疗中,治疗师通过提供新 RIGs 创造新 evoked companions(矫正性体验)
+
+  ## 反传统观点
+  - 老观点:**婴儿要 9-12 月才能"想念"不在场的人**(separation reactions 出现)
+  - **Stern 反**:**6 月起 evoked companion 已能激活** — 只是不需要 separation 触发
+  - 是 attachment 内化的早期形式
+
+  ## 跟 transitional object(过渡客体 — Winnicott)关系
+  - Transitional object(毛绒玩具 / 安抚巾)= **物化的 evoked companion**
+  - 帮助 evoked companion 持续在场
+  - 是 attachment 内化的可见形式
+
+  ## 跟 Bowlby IWM 关系
+  - IWM 是 RIG 的总集 → evoked companion 是 IWM 的某个 instance
+  - Bowlby 的"代表性想念"(representational longing)= evoked companion 在分离时的强烈激活
+
+  ## 解放性意义(中国家长)
+  - **6 月起宝宝可以短时独玩** — 不是"被遗弃",有 evoked companion 陪
+  - 但要靠**前期高质量互动**累积 RIG
+  - 缺少 RIG 的宝宝(被忽视)→ 没有 evoked companion 可激活 → 真孤单
+  - 24/7 陪不是必要的 — 健康宝宝独玩时不孤单
+
+  ## 用法
+  - 宝宝突然兴奋大笑(独玩中)— 可能是 evoked companion 激活,**别打断**
+  - 宝宝拿着妈衣服 / 妈照片 — 在用物理触发 evoked companion
+  - 出门给宝宝你的"味道"(衣服) — 帮 evoked companion 跨场景持续
+
+key_facts:
+  - Stern 命名,RIG 的激活实例
+  - 6 月起即可激活(反"9 月才会想念")
+  - 独自玩时仍"有伴" 的心理基础
+  - 终身存在
+  - Transitional object 是物化的 evoked companion
+
+related_glossary:
+  - G-PERSON-Stern
+  - G-TERM-RIGs
+  - G-TERM-internal-working-model
+  - G-TERM-transitional-object
+  - G-TERM-attachment
+
+related_cards: []
+
+sources:
+  - source_id: SRC-018
+  - external: Stern《The Interpersonal World of the Infant》Ch 5
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

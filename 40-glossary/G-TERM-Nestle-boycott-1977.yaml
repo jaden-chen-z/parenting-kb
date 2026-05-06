@@ -1,0 +1,57 @@
+glossary_id: G-TERM-Nestle-boycott-1977
+type: term
+display_name: "Nestle 1977 抵制运动"
+
+en_term: "Nestle Boycott 1977"
+zh_term: "Nestle 抵制运动 1977"
+
+one_liner: |
+  1977 年起的全球抵制运动 — 国际 Code 1981 直接来源。
+
+detail: |
+  ## 历史背景
+  1970s Nestle 等奶粉公司在非洲推销配方奶 — 妈妈用脏水冲泡 → 婴儿死亡数十万。
+  
+  ## 引爆事件
+  - 1974 War on Want 报告 'The Baby Killer' — 公开 Nestle 营销手段
+  - Mike Muller 主笔 — 揭露试用装 / 假冒护士 / 标签无警告
+  
+  ## 抵制运动
+  - 1977 美国发起
+  - 7 年蔓延全球
+  - 1984 暂停(Nestle 部分让步)
+  - 1988 重启(违规仍在)
+  - 持续到今(IBFAN 监督)
+  
+  ## 直接成果
+  - 1981 第 34 届 WHA 通过 International Code of Marketing of Breast-milk Substitutes
+  - 84 国立法实施
+  
+  ## 历史意义
+  - 国际公共卫生政策由消费者运动推动的标志案例
+  - IBFAN 1979 成立(抵制运动产物)
+  
+  ## 当代意义
+  中国奶粉营销跟 1970s 非洲推销同质 — Code 是血换来的政策,不是抽象建议。
+
+key_facts:
+  - "1977 起抵制"
+  - "1974 The Baby Killer 报告"
+  - "1981 Code 通过"
+  - "IBFAN 1979 成立"
+
+related_glossary:
+  - G-TERM-WHO-Code
+  - G-TERM-IBFAN
+  - G-TERM-formula-marketing
+
+related_cards:
+  - C-S1-1021
+
+sources:
+  - source_id: SRC-031
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

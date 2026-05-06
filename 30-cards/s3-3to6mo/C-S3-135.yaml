@@ -1,0 +1,64 @@
+card_id: C-S3-135
+stages: [S3]
+tags: [montessori, solids, feeding]
+
+front:
+  title: 6 月固食 5 信号
+  hook: 蒙氏 5 信号清单
+
+back:
+  why_matters: |
+    家长加辅食的常见误区:**按月龄机械加**(到 4 月就加米粉 / 到 6 月就加肉泥)。
+    蒙氏视角 — **看宝宝的准备好信号**,不看月龄。
+    Davies 列的 5 信号(全部出现才开始):
+    1. **能独自坐**(可以小支撑)
+    2. **能自己撑头**(脖子稳)
+    3. **盯着大人吃**,眼睛跟着食物从盘到嘴
+    4. **流口水多 / 长牙开始**
+    5. **产生唾液淀粉酶**(ptyalin) — 6 月左右自然发生通常这些 5 月底-6 月底之间集齐。
+    AAP / WHO 也是 6 月起,但蒙氏强调:**月龄是参考,信号是真值**。
+    操作上 — 蒙氏起步:
+    - 不一定米粉 — 可以软蔬菜 / 软水果直接给(BLW 兼容)
+    - **真碗真勺** — 不用塑料卡通餐具
+    - **跟家人同桌** — 把餐桌当社交场
+    - **让宝宝自己探索** — 6 月不是"塞满 1 小碗",是体验食物
+    - 6-12 月**食物 < 奶量** — 不用焦虑量
+  what_to_do:
+    - 不机械按月龄,看 5 信号是否齐
+    - 第一口选软蔬菜或水果(蒸熟切条)
+    - 用真碗真勺,不用塑料卡通
+    - 跟家人同桌
+    - 6-12 月奶仍主食,不焦虑量
+  failure_mode: |
+    "邻居家 4 月加米粉了,我家是不是慢了" — AAP / WHO 都是 6 月起。早不是好。
+    "他不肯张嘴,是不喜欢" — 通常是准备好 5 信号还没全。再等 1-2 周。
+    "塞 1 小碗才达标" — 6 月食物是体验,营养仍靠奶。塞=形成厌食。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Davies
+  - G-PERSON-Montessori
+  - G-ABBR-BLW
+  - G-ABBR-AAP
+
+citation:
+  book_title_zh: "蒙特梭利的小宝宝(0-1岁)"
+  book_title_en: "The Montessori Baby"
+  authors: ["Simone Davies", "Junnifa Uzodike"]
+  authors_zh: ["西蒙·戴维斯", "君妮法·乌佐迪克"]
+  publisher_en: "Workman Publishing"
+  year_en: 2021
+  isbn_en: "978-1-5235-0693-7"
+  location: "Chapter 7 · Eating > Introducing solid food"
+  source_id: SRC-014
+
+unit_ids: []
+related_cards:
+  - C-S3-001       # AAP 6 月 准备好
+  - C-S3-002       # AAP LEAP 早引入过敏
+  - C-S4-001       # AAP BLW
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

@@ -1,0 +1,64 @@
+card_id: C-S3-838
+stages: [S3]
+tags: [pikler, 自我安抚, anti-myth, source-de, controversy]
+
+front:
+  title: "吸大拇指是认知发展"
+  hook: "吸手是发现自己身体"
+
+back:
+  why_matters: |
+    Pikler 1969 Ch6(Daumenlutschen)整章立场:吸大拇指 / 手指是 3-6 月婴儿的核心发展任务,不是
+    "坏习惯"要戒。
+
+    Pikler 描述(原文 大意):婴儿"整天试 — 每根手指单独动 — 把两手放一起 — 拿到眼前看 — 又放回嘴 — 发现嘴里东西不见了又惊讶 — 又放回嘴"。
+
+    这是 Piaget 0-2 岁感觉动作期的核心练习 — 婴儿通过这个过程发现:
+    - 我有两只手
+    - 手能进嘴能从眼前消失
+    - 同一手不能同时吸又看(必须交替)
+
+    Pikler 立场:这是脑发展里程碑 — 强戒 = 偷走发现机会。
+
+    跟中国主流"涂苦药戒手指"完全冲突(conflicts F1)。
+    AAP 立场也是 4 岁前不戒(SRC-002)— 跟 Pikler 一致。
+
+  what_to_do:
+    - 3-6 月吸手指完全不管(让他探索)
+    - 不涂苦药 / 不戴手套 / 不强行拉开
+    - 不评论"宝宝又吃手了"(给空间)
+    - 手要洗干净(别给消毒湿巾擦,毒)
+    - 4 岁后还吸再考虑温柔提醒(不强戒)
+
+  failure_mode: |
+    "吃手会变形牙齿/感染肠胃" → 4 岁前吸手指不影响恒牙 + 婴儿胃酸杀大部分细菌。Pikler 30 年观察
+    + AAP 立场都是 4 岁前不需戒。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Pikler
+  - G-TERM-bewegungsentwicklung
+
+citation:
+  book_title_de: "Friedliche Babys – zufriedene Mütter"
+  book_title_zh: "和平的婴儿 — 满足的母亲"
+  authors:
+    - Emmi Pikler
+  publisher_de: HERDER (HERDER / SPEKTRUM Band 4141)
+  year: 1969
+  location: "Ch6 Daumenlutschen pp. 137-158"
+  source_id: SRC-026
+
+unit_ids: []
+related_cards:
+  - C-S6-859  # 松田吸手指章(立场对照)
+  - C-S0-167  # Magda 7 大育儿原则
+  - C-S2-292  # Ainsworth 敏感回应(自我安抚同源)
+  - C-S3-295  # Lansbury 被动玩具 + 主动孩子
+  - C-S4-298  # Lansbury 宝宝是依赖但不是无能
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

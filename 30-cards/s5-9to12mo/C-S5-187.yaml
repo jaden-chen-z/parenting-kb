@@ -1,0 +1,61 @@
+card_id: C-S5-187
+stages: [S5]
+tags: [montessori, walking, philosophy]
+
+front:
+  title: 每天给宝宝散步
+  hook: 跟着宝宝慢节奏走
+
+back:
+  why_matters: |
+    Lillard Ch5 末提议 — **走稳的宝宝(12 月+)每天有"宝宝散步"时间**:
+    跟父母散步不同的关键:
+    - **跟宝宝节奏**(慢得让大人崩溃 — 看花 / 摸石头 / 看蚂蚁)
+    - **不为锻炼**(宝宝平时已是永动机)
+    - **不为目的地**(没有"我们要去公园")
+    - **跟着宝宝兴趣走**(他停就停,他走就走)
+    为什么:
+    - **宝宝**:从街上学的远比家里多(环境 + 自然 + 人 + 物)
+    - **大人**:被迫慢下来 → 重新感受生活 / 减压 / 反思
+    Lillard 引用经验:坚持每天的家庭,**2-5 岁孩子可以走 1 英里以上**(在不同地形 + 各种天气下)。
+    实操:
+    - 不要买"宝宝车"推着走(看不到地面)
+    - 走 — 不抱不推
+    - 跟着宝宝,他停 → 你也停
+    - 不告诉他"快点 / 别看 / 别摸"
+    - 1 小时走 200 米也是收获跟"散步必须达到 5000 步" / "推婴儿车更省事"**对立** — 蒙氏立场:**慢散步是大人和宝宝双重补给**。
+  what_to_do:
+    - 每天 30 分-1 小时"宝宝散步"
+    - 宝宝走,不抱不推
+    - 跟着他节奏,不催
+    - 让他停下看 / 摸 / 听
+    - 1 小时走 200 米也是收获
+  failure_mode: |
+    "走那么慢真受不了,推车快" — 反:这正是大人需要的"被迫慢" — 重新连接生活。
+    全天用婴儿车 → 宝宝失去用脚 + 触觉 + 探索机会。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Lillard
+  - G-PERSON-Jessen
+  - G-TERM-going-slow
+
+citation:
+  book_title_zh: "蒙台梭利从 0 岁开始"
+  book_title_en: "Montessori from the Start"
+  authors: ["Paula Polk Lillard", "Lynn Lillard Jessen"]
+  authors_zh: ["宝拉·波尔克·莉拉德", "琳·莉拉德·杰森"]
+  publisher_en: "Schocken Books"
+  year_en: 2003
+  isbn_en: "978-0-8052-1112-1"
+  location: "Ch 5 · 'Crawling to Coordination' (child's walk)"
+  source_id: SRC-016
+
+unit_ids: []
+related_cards:
+  - C-S0-011       # Davies 蒙氏育儿就是慢
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

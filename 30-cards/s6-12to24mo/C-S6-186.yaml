@@ -1,0 +1,77 @@
+card_id: C-S6-186
+stages: [S6]
+tags: [montessori, philosophy, role]
+
+front:
+  title: 母-师角色(妈第一)
+  hook: 不是"师母" 是"母师"
+
+back:
+  why_matters: |
+    Lillard Ch6 关键概念 — **父母在家是"母-师"(mother-teacher)**,不是"师-母"(teacher-mother)。
+    什么意思:
+    - **母-师** = 母亲为主,教育是附加(大部分时间是普通父母)
+    - **师-母** = 老师为主,什么都按蒙氏标准要求
+    Lillard 原文:**"以母亲为本,教育角色加上去就好。"**
+    为什么这区分重要:
+    - 父母关系太密切 → 容易过度反应(双方都是)
+    - 家是双方的"港湾" — 必须有"软化"空间
+    - 教育期待要有,但不能"灭"
+    实操含义:
+    - 蒙氏方法是工具,不是教条
+    - 周末偶尔不严要求 OK
+    - 不是每件事都"按蒙氏来"
+    - 优先维护亲子关系,然后教育
+    Lillard 案例(parent child class 妈妈问题):"我准备了蒙氏小桌椅 + 海绵,宝宝洒水了不擦,我该坚持还是算了?" Lillard 的答案:**这没有标准答案** — 看情景看心情,**关系第一,教育第二**。
+    跟"严格按蒙氏来" / "完美蒙氏家长"**对立** — 蒙氏立场:**人性化 + 弹性**。
+  what_to_do:
+    - 优先维护亲子关系
+    - 蒙氏方法是工具不是教条
+    - 偶尔放松要求 OK
+    - 不每件事都"按标准"
+    - 理解 = 关系软化 = 不是放弃
+  failure_mode: |
+    "我得严格按蒙氏来,不然孩子学不到" — 反:严格 = 师-母模式,反而损关系。
+    完全不要求 → 蒙氏方法没用上 = 失去工具。
+  evidence_level: B
+
+  positions:
+    issue: 0-3 岁需要哲学结构(蒙氏 prepared)还是科学共识(NRC 6 原则)
+    views:
+      - school: Shonkoff / NRC
+        source: SRC-025
+        stance: 6 大原则(全人 / 时机 / 自主能动 / 文化 / 关系 / 多重适应),反对单一结构强加,给"科学校准底盘"。
+      - school: Lillard(蒙氏)
+        source: SRC-016
+        stance: prepared environment + 教具序列 + 4 plane of development 哲学结构,给"具体实操结构"。
+      - school: Davies
+        source: SRC-014
+        stance: 蒙氏 0-1 岁实操(floor bed / topponcino 等),实操优先,哲学不僵化。
+      - school: Lansbury / RIE
+        source: SRC-019
+        stance: 自由探索,反对结构化干预;父母提供安全 + 不打扰即可。
+      - school: 互补结论
+        stance: NRC 跟蒙氏可同时用 — 蒙氏给实操,NRC 给科学校准;NRC 反"过度结构化"非反 prepared 本身。
+glossary_refs:
+  - G-PERSON-Lillard
+  - G-PERSON-Jessen
+
+citation:
+  book_title_zh: "蒙台梭利从 0 岁开始"
+  book_title_en: "Montessori from the Start"
+  authors: ["Paula Polk Lillard", "Lynn Lillard Jessen"]
+  authors_zh: ["宝拉·波尔克·莉拉德", "琳·莉拉德·杰森"]
+  publisher_en: "Schocken Books"
+  year_en: 2003
+  isbn_en: "978-0-8052-1112-1"
+  location: "Ch 6 · 'Practical Life' (mother-teacher vs teacher-mother)"
+  source_id: SRC-016
+
+unit_ids: []
+related_cards:
+  - C-S6-138       # Davies 蒙氏父母先照顾自己
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

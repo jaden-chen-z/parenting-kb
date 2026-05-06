@@ -1,0 +1,48 @@
+glossary_id: G-PERSON-Victora
+type: person
+display_name: "Cesar Victora"
+
+en_term: "Cesar Victora"
+zh_term: "Cesar Victora"
+
+one_liner: |
+  巴西 Pelotas 大学流行病学家,Lancet 2016 母乳系列主编。
+
+detail: |
+  ## 简介
+  Cesar Victora — 巴西 Pelotas 大学公共卫生学院流行病学家,全球母乳喂养研究核心人物。
+  
+  ## 主要贡献
+  - Lancet 2016 母乳喂养系列主编
+  - 巴西 Pelotas 出生队列研究(1982/1993/2004 三代追踪)
+  - WHO 母乳证据综述顾问
+  - WHO Multicentre Growth Reference Study(MGRS)成员
+  
+  ## 关键发现
+  - 全球 EBF 普及可救 82 万婴儿生命/年(Lancet 2016)
+  - 母乳娃 IQ 益处持续到成年
+  - 中低收入国家母乳益处尤其显著
+  
+  ## 在 SRC-031 中的角色
+  Lancet 2016 系列是 WHO IYCF 政策的科学根基。
+
+key_facts:
+  - "巴西 Pelotas 流行病学家"
+  - "Lancet 2016 主编"
+  - "Pelotas 队列研究三代"
+  - "WHO MGRS 成员"
+
+related_glossary:
+  - G-TERM-Lancet-breastfeeding-series
+  - G-TERM-WHO-growth-standards
+
+related_cards:
+  - C-S1-1015
+
+sources:
+  - source_id: SRC-031
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

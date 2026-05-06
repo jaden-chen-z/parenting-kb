@@ -1,0 +1,70 @@
+card_id: C-S5-906
+stages: [S5]
+tags: [shonkoff, nrc, frontal_cortex, executive_function]
+
+front:
+  title: "前额叶 1 岁起爆"
+  hook: "执行功能正在发育"
+
+back:
+  why_matters: |
+    NRC 综述 Ch 8 引 Diamond + Stuss 工作 — 前额叶皮层(prefrontal cortex)发育:
+    **PFC 发育里程碑**:
+    - **1 岁**:突触爆增高峰
+    - **1-3 岁**:执行功能(executive control)起步
+    - **3-6 岁**:工作记忆 + 抑制控制成熟
+    - **青春期晚期**:才达成人水平(裁剪完成)
+    **执行功能 3 大子能力**(Diamond 1996):
+    1. **working memory 工作记忆** — 短时记多个信息
+    2. **inhibition 抑制** — 等等再做 / 别碰这个
+    3. **cognitive flexibility 认知灵活** — 切换规则
+    **关键含义**:
+    - 1-3 岁**还在长这能力** — 不是已经会了
+    - 3 岁前要求"等待 / 抑制 / 切换" → 跟脑发育对抗
+    - "不行!" 说一次记不住 — 工作记忆不够
+    - "Simon Says" 类游戏 → 6 岁才能玩
+    **NRC 警告**:
+    - 别把 1-3 岁不能"自控"贴"不听话"标签
+    - 是大脑还没长好 — 不是道德问题
+    - 强训"自控"无效 + 让宝宝沮丧
+    **对中国家长**:
+    - 1-3 岁讲规则没用 — 大脑还在长
+    - 改环境比改孩子更有效(eg 危险物收起来)
+    - 5-6 岁才能"想想再做"
+    - "你怎么又 — 我都说过 N 次了" — 工作记忆没那么强
+  what_to_do:
+    - 1-3 岁改环境不改孩子
+    - 危险物收起来
+    - 6 岁才会等饼干
+    - 别说"我说过多少次"
+    - 信"脑还在长"
+  failure_mode: |
+    "他都 2 岁了不会等" — 错,工作记忆 + 抑制都在长,不是会不会。
+    "我说不行他不听 — 故意" — 不是,记忆 / 抑制还不够。
+    强训自控 → 跟脑发育对抗 → 焦虑 / 反抗。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Shonkoff
+  - G-TERM-executive-function
+  - G-TERM-prefrontal-cortex
+  - G-TERM-NRC
+
+citation:
+  book_title_en: "From Neurons to Neighborhoods"
+  authors: ["Jack P. Shonkoff", "Deborah A. Phillips"]
+  org: "NRC/IOM"
+  year_en: 2000
+  location: "Ch 8 · Diamond + Stuss prefrontal development"
+  source_id: SRC-025
+
+unit_ids: []
+related_cards:
+  - C-S6-179    # Gopnik 突触修剪 SRC-015
+  - C-S1-864    # Shonkoff 自我调节 0-6 岁(本卷)
+  - C-S7-604    # 松田 反抗期协作 SRC-024
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

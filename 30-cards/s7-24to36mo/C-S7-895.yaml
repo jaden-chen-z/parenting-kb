@@ -1,0 +1,65 @@
+card_id: C-S7-895
+stages: [S7]
+tags: [pikler, autonomy, learning, source-de]
+
+front:
+  title: "小摔小磕值得让娃学"
+  hook: "不让摔 = 不让发展"
+
+back:
+  why_matters: |
+    皮克勒 1969 第 10 章立场 — 12-36 月孩子身体在试,
+    **小摔小磕是必经经验**。父母不能为了"保护"剥夺这些机会。
+
+    皮克勒区分两类:
+    - **大风险**(楼梯 / 窗户 / 火 / 电 / 大高度):必须**防止** — 这是父母责任
+    - **小风险**(沙发摔 / 椅子下来 / 小磕碰):**让孩子自己练**
+
+    皮克勒原话:**小磕碰,孩子必须自己试**。
+    让孩子从沙发 / 椅子下来摔倒 — **自己学疼痛 + 危险**。
+
+    皮克勒数据:这样长大的孩子能"对危险有现实的理解"— 反而在大风险时更知道怕。
+
+    跟中国"全程扶着 / 不让摔"传统冲突。皮克勒立场:**让娃自己摔小的,大人盯防大的**(楼梯 / 窗户)。
+    兰斯伯里"实况转播孩子的挣扎"立场源头。
+
+  what_to_do:
+    - 12-36 月给安全空间(地垫 / 草地 / 大空地)让自由
+    - 小摔不扑过去 — 等 5 秒看孩子反应(通常自己起)
+    - 不"全程扶手 / 牵手"(剥夺平衡练习)
+    - 大风险点死防(楼梯门 / 窗锁 / 插座盖)
+    - 摔了不要"哎呀!" 反应过度(他没事就别戏剧化)
+
+  failure_mode: |
+    "怕娃摔伤所以全程扶着" → 皮克勒反:这剥夺孩子学平衡 + 学疼痛 + 学危险的机会。
+    这种孩子长大反而摔得更狠 / 更不知怕。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Pikler
+  - G-TERM-bewegungsentwicklung
+  - G-TERM-beobachten-ohne-eingreifen
+
+citation:
+  book_title_de: "Friedliche Babys – zufriedene Mütter"
+  book_title_zh: "和平的婴儿 — 满足的母亲"
+  authors:
+    - Emmi Pikler
+  publisher_de: HERDER (HERDER / SPEKTRUM Band 4141)
+  year: 1969
+  location: "Ch10 Übergang pp. 247-255"
+  source_id: SRC-026
+
+unit_ids: []
+related_cards:
+  - C-S7-894  # Pikler 真实经验胜过假装(本卷)
+  - C-S4-298  # Lansbury 宝宝是依赖但不是无能(立场一致)
+  - C-S4-295  # Lansbury 宝宝挣扎时:先等再说
+  - C-S6-460  # Gerber 好奇是创造力种子
+  - C-S7-891  # Pikler 24-36 月大动作终态(本卷)
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,54 @@
+card_id: C-S0-1549
+stages: ['S0']
+tags: ['philosophy', 'lerner_v1', 'elder', 'cohort_effects', 'great_depression']
+
+front:
+  title: "大时代塑造小孩子"
+  hook: "世代差距是真存在"
+
+back:
+  why_matters: |
+    Elder Ch 12 经典数据源 — Oakland Growth Study 1929 大萧条期 167 名儿童终生跟踪 + Berkeley Guidance Study 1928。
+    关键发现:
+    - 中产家庭遇大萧条 → 父母经济压力 → 但娃发展出 resilience(被迫早熟 + 责任感)
+    - 工薪家庭遇大萧条 → 父母情绪崩 → 娃发展受损
+    - 同样"经济危机" → 不同家庭背景下儿童轨迹完全不同意义 — 中国家长意义 —
+    - 经济压力本身不是育儿杀手 — 父母怎么应对才是
+    - "穷养"不一定差 — 看家庭情绪稳定 + 是否给娃责任感
+    - "富养"不一定好 — 看父母是否传递价值观
+    - 时段(80 后 vs 90 后 vs 00 后育儿)— 历史塑造差异巨大意义 — 不能孤立看孩子,看 family 处于哪个历史时段 + 怎么应对。
+  what_to_do:
+    - "经济压力 — 父母情绪稳定才是关键"
+    - "'穷养'不必焦虑 — 看家庭情绪 + 责任感"
+    - "'富养'不必傲 — 看价值观传递"
+    - "理解世代差异(80 后 ≠ 00 后育儿)"
+    - "family 处境 + 应对方式 = 关键"
+  failure_mode: |
+    只盯个人努力不看历史时段 — 错。Elder 数据:cohort 决定 50%+。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Elder
+  - G-TERM-cohort-effects
+  - G-TERM-oakland-growth-study
+  - G-TERM-life-course-theory
+
+related_cards:
+  - C-S0-1529
+  - C-S0-1530
+  - C-S8-1133
+  - C-S0-1500
+
+citation:
+  source_id: SRC-030
+  source_title: "Handbook of Child Psychology Vol 1: Theoretical Models of Human Development"
+  chapter: "Ch 12 Elder & Shanahan"
+  chapter_offset: 3637709
+  chapter_title: 'Elder & Shanahan — Life Course Theory'
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_followup_needed: 'SRC-030 用 PDF 字节偏移代页码 — 待加 page_pdf 反查工具'

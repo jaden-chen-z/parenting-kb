@@ -1,0 +1,71 @@
+card_id: C-S7-894
+stages: [S7]
+tags: [pikler, learning, real-experience, source-de]
+
+front:
+  title: "真实经验胜过假装表演"
+  hook: "演给娃看 — 看不懂"
+
+back:
+  why_matters: |
+    皮克勒 1969 第 10 章立场 — 父母给孩子"演"危险后果
+    (假装摸炉子被烫 + "啊好烫!")— 完全无效。
+
+    皮克勒两句核心立场(白话翻译):
+    > 只有真实生活,才有真正的教育作用。
+
+    > 我们靠"假装"(演给孩子看)— 什么也达不到。
+
+    **3 个皮克勒立场**:
+    1. **不演给孩子看**:幼儿看不懂"演"的意义
+    2. **不主动让孩子受伤**:不能为了"教训"故意把孩子手放在热炉子上 —
+       孩子会感觉到妈妈的**敌意**
+    3. **真危险用语言警示 + 物理看护**:绝不让孩子摔下楼梯 / 跳窗户 —
+       这些是必要禁令(必须看护住)
+
+    跟蒙氏"实际生活"(戴维斯 / 利拉德给真物真任务)+
+    玛格达的"告知再做"立场一致。本卷源头清晰阐述了
+    "真实 vs 表演"是皮克勒学习哲学的核心。
+
+  what_to_do:
+    - 不演"假装受伤"教孩子(无效)
+    - 不主动制造负面经验(让孩子摸热炉子)
+    - 真危险:语言警示 + 看护(火 / 电 / 高处)
+    - 小风险:让孩子自己尝试(摔布凳子 / 摔小积木)
+    - 真实任务:让孩子真正参与(洗手 / 收玩具 / 帮忙)
+
+  failure_mode: |
+    "我跟娃演一遍他就知道烫了" → 皮克勒反:幼儿还没有"心智理论",看不懂"演"。
+    要么直接告诉他"烫"+ 不让他碰,
+    要么等他真碰过一次轻烫(不是大伤)— 那才是真正的学习。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Pikler
+  - G-TERM-beobachten-ohne-eingreifen
+  - G-TERM-bewegungsentwicklung
+  - G-TERM-practical-life
+
+citation:
+  book_title_de: "Friedliche Babys – zufriedene Mütter"
+  book_title_zh: "和平的婴儿 — 满足的母亲"
+  authors:
+    - Emmi Pikler
+  publisher_de: HERDER (HERDER / SPEKTRUM Band 4141)
+  year: 1969
+  location: "Ch10 Übergang pp. 245-250"
+  source_id: SRC-026
+
+unit_ids: []
+related_cards:
+  - C-S7-895  # Pikler 小摔小磕值得(本卷)
+  - C-S6-960  # Pikler 适应不能靠机械习惯(本卷)
+  - C-S2-189  # Lillard 0-6 岁只给真实(立场一致)
+  - C-S3-839  # Pikler 玩具堆反而不会玩(本卷)
+  - C-S0-167  # Magda 7 大育儿原则
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

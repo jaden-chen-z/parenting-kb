@@ -1,0 +1,58 @@
+card_id: C-S8-1144
+stages: ['S8']
+tags: ['philosophy', 'lerner_v1', 'cross_chapter', 'culture_individual_co_construction']
+
+front:
+  title: "文化-个人共建构"
+  hook: "不是死套不是全反"
+
+back:
+  why_matters: |
+    跨章共识(Ch 4 Valsiner + Ch 13 Shweder + Ch 1 Lerner)— 文化-个人是共建构关系。
+    不是 — 文化在外 → 灌入娃(传统观)
+    也不是 — 娃完全自主 → 文化是限制(西方个人主义观)
+    而是 — 娃和文化每天互动 → 共同建构出娃的 mentality + 文化的更新版本意义 — 中国家长对 "文化传承" 常 2 极:
+    - 极保守 — "祖辈怎么养就怎么养"(灌入)
+    - 极反传统 — "我家不要中国传统这些套子"(反弹)
+    当代视角 — 让娃 negotiate(协商)文化:接受一部分,改造一部分,加新版本。
+    具体 —
+    - 跟娃讨论传统(为啥过节 / 拜祖)
+    - 容忍娃版本不同(她不想拜祖也行)
+    - 让娃接触多元(不只中国文化)
+    - 看娃 5 年后自己的版本
+  what_to_do:
+    - "不强行传承(也不彻底反)"
+    - "让娃 negotiate 文化"
+    - "接受娃版本跟你不同"
+    - "多元接触 — 中国 + 西方 + 其他"
+    - "5 年后看娃版本"
+  failure_mode: |
+    "祖辈怎么养就怎么" 或 "全反传统" — 都错。共建构是中道。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Valsiner
+  - G-PERSON-Shweder
+  - G-PERSON-Lerner
+  - G-TERM-cultural-construction
+  - G-TERM-cultural-psychology
+
+related_cards:
+  - C-S0-1524
+  - C-S0-1525
+  - C-S0-1546
+  - C-S8-323
+
+citation:
+  source_id: SRC-030
+  source_title: "Handbook of Child Psychology Vol 1: Theoretical Models of Human Development"
+  chapter: "Ch 4 + Ch 13 + Ch 1(跨章命题)"
+  chapter_offset: 900000
+  chapter_title: 'Valsiner — Culture in Human Development'
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_followup_needed: 'SRC-030 用 PDF 字节偏移代页码 — 待加 page_pdf 反查工具'

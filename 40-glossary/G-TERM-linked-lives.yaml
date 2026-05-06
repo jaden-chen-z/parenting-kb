@@ -1,0 +1,28 @@
+glossary_id: G-TERM-linked-lives
+type: term
+display_name: "人生绑定 / linked lives"
+
+name_en: "linked lives"
+name_zh: "人生绑定"
+
+description: |
+  Elder 原则 — 没有独立人生轨迹,所有人生命跟其他人绑定。
+  夫妻 / 父母 / 老人 / 孩子互相影响。
+
+one_liner: |
+  人生绑定(linked lives)— Elder 原则 — 没有独立人生轨迹,所有人生命跟其他人绑定。
+
+key_facts:
+  - "Lerner V1 元理论卷核心术语"
+  - "学派:Lerner V1 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

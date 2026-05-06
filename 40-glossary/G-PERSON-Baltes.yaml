@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Baltes
+type: person
+display_name: "Baltes(保罗·巴尔特斯)"
+
+full_name_en: "Paul B. Baltes"
+full_name_zh: "保罗·巴尔特斯"
+
+position: |
+  Max Planck Institute for Human Development(已故)
+
+contribution: |
+  lifespan developmental psychology + SOC 模型 + wisdom paradigm
+
+one_liner: |
+  保罗·巴尔特斯 — lifespan developmental psychology + SOC 模型 + wisdom paradigm
+
+key_facts:
+  - "本卷章节:Ch 11"
+  - "Lerner V1 命中:250+ 次"
+  - "学派:Lerner V1 生命周期派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+    chapter: "Ch 11"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

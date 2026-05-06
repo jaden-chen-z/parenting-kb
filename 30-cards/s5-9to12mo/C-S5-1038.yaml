@@ -1,0 +1,60 @@
+card_id: C-S5-1038
+stages: [S5]
+tags: []
+
+front:
+  title: "手指食物自喂"
+  hook: "8 月起让娃自己抓"
+
+back:
+  why_matters: |
+    WHO + AAP 共识:8 月起加手指食物(条状/指状)训练自喂。
+    意义:
+    ① 训练抓握(pincer grasp 9 月发展)
+    ② 训练咀嚼
+    ③ 训练自我饱腹调节(看自己吃多少)
+    ④ 训练手眼协调
+    ⑤ 给娃 agency(自主感)
+    安全:
+    - 切条状不切圆片(防窒息)
+    - 软度:能用拇指捏碎(蒸软南瓜/香蕉/煮软面条)
+    - 一定坐高椅 + 大人在场
+    - 不要分散注意力 + 不强迫中国通病:1 岁前都喂泥糊 + 怕脏不让自抓 → 错过抓握/咀嚼/自我调节训练窗。
+  what_to_do:
+    - "8 月起加手指食物(切条状)"
+    - "切条不切圆片(防窒息)"
+    - "蒸软南瓜/香蕉/面条/牛油果"
+    - "坐高椅 + 大人监督 + 别抱着喂"
+    - "怕脏让娃自抓 vs 怕脏一直喂泥糊 — 选前者"
+  failure_mode: |
+    1 岁前都喂泥糊 → 错过 8-12 月抓握/咀嚼/自我饱腹关键窗。
+    8 月开始加手指食物,不要等 1 岁。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-CF
+  - G-ABBR-BLW
+  - G-TERM-WHO-CF-principles
+
+citation:
+  page_title: "WHO + AAP BLW 手指食物"
+  publisher: "World Health Organization & UNICEF"
+  page_url_primary: https://www.who.int/health-topics/complementary-feeding
+  accessed: 2026-05-04
+  language: en
+  location: "WHO 8 月起 finger food + 抓握训练 + 切条防 choking"
+  source_id: SRC-031
+
+unit_ids: []
+related_cards:
+  - C-S4-001
+  - C-S4-1049
+  - C-S5-1037
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_doc_id_pending: D6
+citation_followup_needed: '已映射真实 doc_id (D6 = WHO Complementary Feeding)'

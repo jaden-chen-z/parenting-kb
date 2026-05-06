@@ -1,0 +1,81 @@
+glossary_id: G-TERM-observation
+type: term
+display_name: 观察 (observation)
+
+full_name_zh: 蒙氏观察
+full_name_en: Observation (Montessori method)
+
+one_liner: |
+  蒙特梭利方法论的起点。看 5-15 秒不立即介入,记录宝宝在做什么 / 处于什么发展阶段 / 真正需要什么,
+  然后再决定是否回应。是"跟随孩子" follow the child 的执行手段。
+
+detail: |
+  ## 定义
+  在蒙氏体系里,observation 不是"看着" — 是一种结构化的训练:
+  1. **暂停反应**:看到宝宝行为(哭 / 玩 / 卡住)时,先不立即冲过去
+  2. **看 5-15 秒**:观察他在做什么、表情、肢体、声调
+  3. **判断需求**:饿 / 困 / 学习中 / 求助 / 探索
+  4. **再决定回应**:有时不介入是最好的回应
+
+  Davies(SRC-014)整本书第一章就讲 observation — 是蒙氏所有其他方法(yes space / 准备好的环境 / practical life)的前提。
+
+  ## 与其他派的"观察"区别
+  | 派别 | 观察形式 | 目的 |
+  |---|---|---|
+  | 蒙氏 observation | 结构化暂停 + 解读发展阶段 | 决定是否介入 + 理解敏感期 |
+  | RIE wait-watch | 类似但更强调"等待孩子主动求助" | 培养孩子的自我调节 |
+  | Brazelton 6 states | 临床观察新生儿状态 | 选择互动时机 |
+  | 行为主义观察 | 记录前因 + 行为 + 后果 | 设计强化策略 |
+
+  ## 父母实操含义
+  - **孕期就开始练**(C-S0-010):不是等宝宝出生才开始
+  - **替代"立刻满足 / 立刻安抚"的本能**:中国家长难点
+  - **写观察笔记**:Davies 推荐每周记一次 — 看见自己看不见的发展
+  - **不打断专注**:看到宝宝盯着什么不要冲上去解释 / 演示
+  - **冷静再回应**:tantrum 时先冷静自己再介入(C-S2-132 5 步流程)
+
+  ## 与"积极介入派"的张力
+  - **vs Karp 5S**:Karp 主张哭闹立即 5S 介入;蒙氏主张先看几秒判断需求
+  - **vs 鲍秀兰 7 大刺激**:鲍秀兰主动 stimulation;蒙氏减少打扰让宝宝自主探索
+  - **vs 中国传统"宝宝哭就抱"**:观察先于反射性回应
+
+  这不是"不回应",而是**让回应更精准**。
+
+  ## 蒙氏观察的 4 个层级(Davies 框架)
+  1. **环境观察**:今天宝宝在哪 / 看什么 / 触什么
+  2. **动作观察**:他在练什么动作 / 重复哪个手势
+  3. **情绪观察**:他的表情 / 声调 / 紧张度
+  4. **发展阶段观察**:他展示了哪些新里程碑
+
+key_facts:
+  - 蒙氏方法论起点 — 所有其他蒙氏方法的前提
+  - 看 5-15 秒,不立即介入
+  - 跟随孩子 follow the child 的执行手段
+  - 与 Karp 5S / 鲍秀兰 7 大刺激形成反向立场
+  - 替代中国家长"立刻满足"本能,Davies 认为是最难的练习
+
+related_glossary:
+  - G-TERM-absorbent-mind
+  - G-TERM-sensitive-periods
+  - G-TERM-prepared-environment
+  - G-TERM-yes-space
+  - G-PERSON-Davies
+  - G-PERSON-Lillard
+  - G-PERSON-Montessori
+  - G-PERSON-Gerber
+
+related_cards:
+  - C-S0-010
+  - C-S2-129
+  - C-S2-132
+  - C-S5-131
+
+sources:
+  - source_id: SRC-014
+  - source_id: SRC-016
+  - external: Davies《The Montessori Baby》Ch.1 + Lillard《Montessori from the Start》第 1 章
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

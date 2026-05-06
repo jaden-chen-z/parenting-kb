@@ -3,22 +3,26 @@ stages: [S1]
 tags: []
 
 front:
-  title: gas drops / gripe water 没用
+  title: 消胀气滴 / 安神水都没用
   hook: AAP 直说研究证明无效
 
 back:
   why_matters: |
-    simethicone(西甲硅油 / gas drops)= 消化道泡沫消除剂;
-    gripe water = 含茴香 / 姜 / 香料的"安神水"。
+    西甲硅油(消胀气滴剂)= 消化道泡沫消除剂;
+    "安神水"(英文 gripe water,含茴香 / 姜 / 香料的草药水)。
+
     中文家长爱给的"消胀气滴剂""惊风散""安神水"都属此类,国内市场每年数十亿。
-    AAP 明确:"research has never shown these products to work" — 没有研究证明有效。
-    省钱买不到效果,反而可能掩盖真原因(CMPA / GERD)。
+
+    AAP 明确白话翻译:
+    > 研究**从未**证明这些产品有效。
+
+    省钱买不到效果,反而可能掩盖真原因(牛奶蛋白过敏 / 胃食管反流)。
   what_to_do:
-    - 别买 simethicone 滴剂(西甲硅油)
-    - 别买 gripe water / 任何"消胀气""安神"水
+    - 别买西甲硅油(消胀气滴剂)
+    - 别买安神水 / 任何"消胀气""安神"草药水
     - 改试:慢流速奶嘴 / 倾斜奶瓶 / 少食多餐
-    - 母乳妈妈试 elimination diet(C-S1-048)
-    - 配方奶可问医生换 protein hydrolysate(深度水解)
+    - 母乳妈妈试"排查饮食法"(C-S1-048)
+    - 配方奶可问医生换深度水解蛋白配方
   failure_mode: |
     给西甲硅油以为有效 → 浪费钱 + 安慰剂效应误判其他原因。
     给中药水(惊风散类) → 含未知成分,可能含未标注西药。

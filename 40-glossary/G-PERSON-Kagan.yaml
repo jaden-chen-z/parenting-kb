@@ -1,0 +1,71 @@
+glossary_id: G-PERSON-Kagan
+type: person
+display_name: Kagan (杰罗姆·凯根)
+
+full_name_en: Jerome Kagan
+full_name_zh: 杰罗姆·凯根
+
+one_liner: |
+  美国发展心理学家 + Harvard 大学心理学教授。
+  1929-2021,**behavioral inhibition 行为抑制**研究奠基人,
+  4 月气质实验经典(20% 婴儿 fearful-shy 倾向),
+  跟踪到 4-7 岁 EEG 右前额激活模式。
+
+detail: |
+  ## 背景
+  - 1929 年生于美国 New Jersey
+  - Yale 大学博士
+  - 1964 起任 Harvard 大学心理学教授
+  - 美国心理学会终身成就奖
+
+  ## 在发展心理学的地位
+  - **气质研究**奠基人之一(跟 Thomas-Chess 合作)
+  - **behavioral inhibition** 概念创始人
+  - **4 月气质稳定测点**实验经典
+  - **生理标志**(右前额 EEG)研究开创
+
+  ## 经典 4 月实验
+  - 给 4 月宝宝看 / 听 / 闻强烈刺激
+  - 反应分两端:
+    - 正向反应 → 长成 exuberant 活泼孩
+    - 负向反应 → 长成 inhibited 退缩孩
+  - 20% 健康婴儿是负向反应型
+  - 1/3 这些婴儿到 14 月仍 fearful
+  - 13% 到 4.5 岁仍社交退缩
+  - 6 岁右前额 EEG 仍激活 + 焦虑生理
+
+  ## 主要著作
+  - 1994《Galen's Prophecy: Temperament in Human Nature》
+  - 2010《The Temperamental Thread》⭐
+  - 多篇 Science / Child Development 经典论文
+
+  ## Kagan 核心立场
+  - **气质是先天底盘** — 但环境塑造表达
+  - 内向/外向不是单维而是多维
+  - 4 月起测气质有效,2 月前不准
+  - 焦虑型气质婴儿 + 高质量育儿 → 健康发展
+
+  ## 在中文社群的影响
+  - 中文圈知名度有限
+  - 但"4 月才能看出气质"立场跟松田 + Brazelton 临床观察吻合
+
+key_facts:
+  - 4 月行为抑制研究经典
+  - 气质先天 + 环境塑造立场
+  - 右前额 EEG 焦虑标志研究
+  - NRC 综述核心引用
+
+related_glossary:
+  - G-TERM-temperament
+  - G-TERM-NRC
+
+related_cards: []
+
+sources:
+  - source_id: SRC-025
+  - external: Harvard Psychology Department
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

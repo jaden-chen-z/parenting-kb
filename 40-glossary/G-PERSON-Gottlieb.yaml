@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Gottlieb
+type: person
+display_name: "Gottlieb(吉尔伯特·戈特利布)"
+
+full_name_en: "Gilbert Gottlieb"
+full_name_zh: "吉尔伯特·戈特利布"
+
+position: |
+  Center for Developmental Science, UNC Chapel Hill
+
+contribution: |
+  probabilistic epigenesis 4 层模型 + 反基因决定论
+
+one_liner: |
+  吉尔伯特·戈特利布 — probabilistic epigenesis 4 层模型 + 反基因决定论
+
+key_facts:
+  - "本卷章节:Ch 5"
+  - "Lerner V1 命中:200+ 次"
+  - "学派:Lerner V1 发展心理生物派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+    chapter: "Ch 5"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,68 @@
+glossary_id: G-TERM-mutual-exclusivity
+type: term
+display_name: 互斥约束 (mutual exclusivity)
+
+full_name_zh: 互斥约束
+full_name_en: Mutual Exclusivity Constraint
+
+one_liner: |
+  Markman 1989 词义 3 约束之一 — 默认每个物体只一个名字。
+  让宝宝把"未知词"快速锁定到"未知物",是词汇爆炸算法基础。
+
+detail: |
+  ## 定义
+  Markman 1989 词义 3 约束之一(其他:整体物体 / 分类):
+  - 已知"狗"的物体,新词必指它的部分 / 属性 / 同类不同种
+  - 不会想"狗 = dax"(因为狗已有词)
+
+  ## 经典实验(Markman 1990)
+  - 18-24 月宝宝看熟物(狗)+ 陌生物(没见过)
+  - 大人说"给我 dax"(陌生词)
+  - 宝宝**自动**给陌生物 = 假设新词指新物
+
+  ## 作用
+  - 词汇爆炸算法基础
+  - 一次接触 + 互斥约束 → fast mapping 实现
+  - 不需要大人多解释
+
+  ## 跨语言一致
+  - 中文 / 英文 / 西班牙语都有
+  - 是普遍认知约束
+
+  ## 特殊情况
+  - "过度互斥"(认为只有一个名字)是 18-24 月常见
+  - 24-30 月学会层次互斥(分类层次)
+  - eg "狗" + "动物" → 起初困惑,后稳定
+
+  ## 在本知识库中
+  - SRC-028 Lerner V2 Ch7 引用
+  - C-S6-1165 互斥约束实证
+
+  ## 中国家长意义
+  - 重名("妈妈"和"母亲")孩子能分等级
+  - 一物多词不混乱(自动处理)
+  - 不必"重名清理"
+
+key_facts:
+  - Markman 1989 词义 3 约束之一
+  - 默认每物只一个名字
+  - 词汇爆炸算法基础
+  - 跨语言一致
+
+related_glossary:
+  - G-PERSON-Markman
+  - G-TERM-fast-mapping
+  - G-TERM-language-explosion
+
+related_cards:
+  - C-S6-1164
+  - C-S6-1165
+
+sources:
+  - source_id: SRC-028
+  - external: Markman 1989 / 1990 / Wikipedia Mutual Exclusivity
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

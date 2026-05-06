@@ -1,0 +1,62 @@
+card_id: C-S5-180
+stages: [S5]
+tags: [cognitive_science, social_referencing, theory_of_mind]
+
+front:
+  title: 1 岁会看妈脸决定靠近
+  hook: 看你脸决定危险否
+
+back:
+  why_matters: |
+    Social referencing(社会参照)= 1 岁宝宝在不确定情境下看大人表情**决定怎么做**。
+    Gopnik 经典实验:
+    - 给 1 岁宝宝一个新奇 / 可怕的玩具(走路的机器人)
+    - 宝宝先看妈妈脸 — 妈妈微笑 → 宝宝爬过去探索
+    - 妈妈惊恐 → 宝宝**停在原地不动**
+    更精细:Repacholi & Gopnik 实验
+    - 大人看 2 个箱子,1 个表情快乐,1 个表情厌恶
+    - 大人推箱子给宝宝(宝宝没看过里面)
+    - 宝宝**只伸手到快乐箱子**
+    - 不只懂"她快乐",更懂"对这个箱子快乐"
+    含义:1 岁宝宝已经在用大人脸**指导自己行为** — 是 theory of mind 关键里程。
+    对中国家长意义:
+    - 你的脸是宝宝的"安全 / 危险"指示器
+    - 你紧张 → 宝宝紧张
+    - 你害怕狗 → 宝宝怕狗(代际传染)
+    - 想娃勇敢面对新事物?自己先表现出"安全 + 好奇"
+  what_to_do:
+    - 新环境 / 新玩具时妈妈先表现"放松好奇"
+    - 不要在宝宝面前"哎呀好可怕"(过度反应)
+    - 宝宝看你时给清晰信号(笑 / 鼓励 / 眼神)
+    - 自己怕的东西先处理自己,不要传给宝宝
+  failure_mode: |
+    "他还小不会看脸" — 错。1 岁就在用 social referencing。
+    家长惊吓反应过度 → 宝宝学到"这世界很危险"。
+    妈妈怕虫子 / 怕狗 / 怕陌生人 — 宝宝学走。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Gopnik
+  - G-PERSON-Meltzoff
+  - G-TERM-theory-of-mind
+  - G-TERM-baby-scientist
+
+citation:
+  book_title_en: "The Scientist in the Crib"
+  book_title_zh: "摇篮里的科学家"
+  authors: ["Alison Gopnik", "Andrew N. Meltzoff", "Patricia K. Kuhl"]
+  publisher_en: William Morrow
+  year: 1999
+  location: "Chapter 2 · The Really Eternal Triangle (social referencing)"
+  source_id: SRC-015
+
+unit_ids: []
+related_cards:
+  - C-S4-185       # joint attention(同主题不同月龄)
+  - C-S2-183       # 你的情绪宝宝镜像
+  - C-S5-181       # 1 岁延迟模仿(将建)
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

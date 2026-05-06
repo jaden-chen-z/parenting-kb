@@ -1,0 +1,52 @@
+card_id: C-S0-1530
+stages: ['S0']
+tags: ['philosophy', 'lerner_v1', 'elder', 'linked_lives', 'family_system']
+
+front:
+  title: "人生轨迹相互绑定"
+  hook: "你娃父母人生绑定"
+
+back:
+  why_matters: |
+    Elder linked lives 原则 — 没有独立的人生轨迹,所有人的生命都跟其他人绑定。
+    - 你的工作压力 → 娃看到 → 娃焦虑
+    - 娃的健康问题 → 你工作受影响 → 经济变化 → 婚姻压力
+    - 老人健康 → 父母分心 → 育儿质量下降
+    - 夫妻关系 → 娃情绪意义 — 育儿不能只调娃 — 整个 family system 要一起调。
+    中国家庭常 — 婚姻 / 工作 / 老人 / 经济多压同时,父母想"先把娃管好" — 错。
+    实际 — family 任一处出问题,其他都受影响。
+    意义 — 优先级:夫妻关系 + 父母自我 ≥ 育儿(因为前者影响后者)。
+  what_to_do:
+    - "夫妻关系优先(影响娃)"
+    - "父母自己照顾自己(不耗尽自己)"
+    - "老人关系处理好(影响 micro)"
+    - "family system 整体调"
+    - "'为娃牺牲一切' 反伤娃"
+  failure_mode: |
+    "为娃牺牲一切"立场 — 错。linked lives:family 整体健康才有娃健康。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Elder
+  - G-TERM-linked-lives
+  - G-TERM-life-course-theory
+
+related_cards:
+  - C-S0-1529
+  - C-S8-1132
+  - C-S0-722
+  - C-S6-822
+
+citation:
+  source_id: SRC-030
+  source_title: "Handbook of Child Psychology Vol 1: Theoretical Models of Human Development"
+  chapter: "Ch 12 Elder & Shanahan"
+  chapter_offset: 3637709
+  chapter_title: 'Elder & Shanahan — Life Course Theory'
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_followup_needed: 'SRC-030 用 PDF 字节偏移代页码 — 待加 page_pdf 反查工具'

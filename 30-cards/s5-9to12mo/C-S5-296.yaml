@@ -1,0 +1,77 @@
+card_id: C-S5-296
+stages: [S5]
+tags: [self, 调谐, 观察]
+
+front:
+  title: 调谐多在无意识中
+  hook: 90% 没意识在调谐
+
+back:
+  why_matters: |
+    Stern 实验最让父母**轻松**的发现:**90% 的 调谐 父母完全不知道自己在做** — 这是"本能"行为,不需"努力学"。
+    **Stern 实验数据**:
+    - 让母亲看自己跟宝宝玩耍的录像
+    - 问"你刚才那个动作 / 声音是想做什么"
+    - **24% — 完全没意识到自己做了那个 调谐**
+    - **43% — 部分意识到**
+    - **32% — 完全意识到** — **但通常关心结果(让宝宝 X)而非具体动作**
+    - 总计:**约 90% 的 调谐 在 无意识中发生**
+    **这意味着什么**:
+    - **调谐 是天生的 + 本能的** — 不需"专门学习"
+    - 父母自发会 调谐,只要**心在场** + **观察宝宝**
+    - **不要刻意"训练" 调谐** — 越想越僵硬
+    - **释放本能** — 信任你天生有这能力
+    **什么时候 调谐 失败**:
+    - **心不在场**(玩手机 / 想工作 / 想着烦事)→ 本能不启动
+    - **被外界期望干扰**("我应该做正确的妈妈")→ 本能被压抑
+    - **过度教育思维**("我得教他点什么")→ communication 抢了 共在
+    - **疲劳 / 抑郁**(产后抑郁)→ 找不到内心匹配的感觉
+    - **被批评后**("妈不会带孩子")→ 自我意识过强,本能瘫痪
+    **对家长的解放性信息**:
+    - **不需要"学怎么 调谐"** — 只需要"心在场"
+    - 信任本能 — 你天生会的事不要分析
+    - 焦虑型妈妈常 调谐 反而比"放松型"妈妈差 — 因为太用力
+    - **观察 + 信任** = 调谐 自动启动
+    **Stern 反"专家育儿"思路**:
+    - 不需读 100 本育儿书才会 调谐
+    - 不需上 调谐 课
+    - 只需要**关掉手机 + 看着宝宝 + 让本能流动**
+    **跟 Lillard"观察 = 科学家方式"(C-S7-136) + Brazelton 触摸点**(信任父母直觉)同立场。
+  what_to_do:
+    - 信任你天生会 调谐
+    - 关手机 + 看宝宝
+    - 不要刻意"训练"
+    - 心不在场就不要勉强
+    - 焦虑时主动放松
+  failure_mode: |
+    "我得学怎么对宝宝才对" — 过度学习反而会破坏本能。Stern 数据 — 90% 是 无意识。
+    心不在场地"陪伴" → 本能不启动 → 还不如不陪。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Stern
+  - G-TERM-affective-attunement
+
+citation:
+  book_title_zh: "婴儿的人际世界"
+  book_title_en: "The Interpersonal World of the Infant"
+  authors: ["Daniel N. Stern"]
+  authors_zh: ["丹尼尔·斯特恩"]
+  publisher_en: "Basic Books"
+  year_en: 1985
+  isbn_en: "978-0-465-09559-9"
+  location: "Ch 7 · attunement statistics (90% unawares)"
+  publisher_zh: "华东师范大学出版社"
+  year_zh: 2017
+  translator_zh: ["刘旭东"]
+  source_id: SRC-018
+
+unit_ids: []
+related_cards:
+  - C-S5-291       # Stern attunement 主卡
+  - C-S7-136       # Lillard 观察 = 科学家方式
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

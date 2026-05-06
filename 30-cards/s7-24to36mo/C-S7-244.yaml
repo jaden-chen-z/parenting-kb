@@ -1,0 +1,63 @@
+card_id: C-S7-244
+stages: [S7]
+tags: [bowlby, loss, grief, china_high_freq, philosophy]
+
+front:
+  title: 二宝出生 = 老大丧失
+  hook: 失去关注也是真"丧失"
+
+back:
+  why_matters: |
+    Bowlby 第二十三章 + 第二十四章隐含但反复出现的场景:
+    妈妈生二宝 → 把老大送外婆家 → 二宝出生后回家 → **老大经历"完整的依恋断裂 + 重聚困难"**,跟其他丧失反应一样。
+    具体证据(劳拉 2 岁 9 月案例):
+    - 妈妈生二宝时,劳拉被送外婆家 4 周
+    - 妈妈给劳拉打电话:劳拉听到声音兴奋
+    - 进门后妈妈来开门:劳拉面无表情说"但是我想要我妈妈"
+    - 之后 2 天劳拉认不出妈妈(完全分离状态)
+    - 几天后才慢慢恢复但偶尔叫妈妈"姥姥"
+    Bowlby 关键:**二宝出生本身就是"老大失去妈妈一段时间"** + **二宝抢走 ongoing 的关注 = 双重丧失**。
+    中国二胎家庭最大坑:
+    - "老大送外婆家几周反正小不懂" → 跟劳拉一样不认妈
+    - "他不哭就是没事" → 可能是绝望期(C-S7-238 同理)
+    - "现在多疼老大就好" → 太晚 + 不够,需要主动谈"失去关注"
+    实操:**二宝出生前提前安排稳定替代照顾者(C-S6-294)+ 出生后给老大一段单独时间 + 接受 1-2 周修复期**。
+  what_to_do:
+    - 二宝出生前不送老大走 / 在家轮流照顾
+    - 出生后每天给老大单独时间
+    - 跟老大说"妈妈仍爱你"具体一些
+    - 接受 1-2 周老大冷淡 / 退化
+    - 别说"你大了让着妹妹弟弟"
+  failure_mode: |
+    "老大送外婆 1 个月等二宝出生再接回反正有人带" → 劳拉模式 → 1-2 周不认妈。
+    "你大了不能跟弟弟争" → 老大本来就在丧失中 + 被否定 → 加重内伤。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Bowlby
+  - G-TERM-mourning
+  - G-TERM-attachment
+  - G-TERM-primary-attachment-figure
+
+citation:
+  book_title_zh: "依恋三部曲 · 第三卷:丧失"
+  book_title_en: "Attachment and Loss, Vol 3: Loss, Sadness and Depression"
+  authors: ["John Bowlby"]
+  authors_zh: ["约翰·鲍尔比"]
+  publisher_zh: "世界图书出版有限公司北京分公司"
+  year_zh: 2018
+  year_en: 1980
+  isbn_zh: "978-7-5192-3383-9"
+  location: "Ch 23 · 劳拉案例(妈妈生二宝时 4 周分离)"
+  source_id: SRC-017
+
+unit_ids: []
+related_cards:
+  - C-S7-240       # 重聚冷淡是修复期
+  - C-S6-294       # 替代照顾者最关键
+  - C-S6-136       # Davies 蒙氏 老大迎二宝 5 步
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

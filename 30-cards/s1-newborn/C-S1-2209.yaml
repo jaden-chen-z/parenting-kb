@@ -1,0 +1,41 @@
+card_id: C-S1-2209
+stages: [S1]
+tags: [red_flag]
+front:
+  title: 鹅口疮母婴双向感染
+  hook: 妈妈乳头疼也要查
+back:
+  why_matters: |
+    嘴巴里像凝乳一样的白色斑块,擦掉会出血 — 这是鹅口疮(白色念珠菌感染),新生儿很常见。
+    传染路径:产道感染 → 宝宝口腔 → 哺乳时传染妈妈乳头 → 妈妈再传回宝宝 → 反复。
+    哺乳妈妈症状:乳头粉红/疼痛/灼烧感/瘙痒/异常干燥。
+    必须双向同治才能根除 — 单治宝宝或单治妈妈都会复发。
+    使用抗生素后宝宝/妈妈用过激素后特别易感(菌群被破坏)。无需停哺乳但治 1-2 周。
+  what_to_do:
+    - 看到白色凝乳样斑块 + 擦掉出血 → 就医
+    - 妈妈乳头疼/灼烧也查鹅口疮
+    - 双向同时治 1-2 周
+    - 不必停哺乳(但治疗前疼可能影响)
+    - 用过抗生素后特别警惕
+  failure_mode: |
+    只治宝宝不治妈妈 → 反复来回感染、永远好不了。
+    把母婴间的痛苦当作"哺乳没奶/姿势不对"问题,真因素被忽略。
+  evidence_level: B
+glossary_refs: [G-TERM-thrush]
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors: ["Heidi Murkoff", "Sharon Mazel"]
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh: ["莫夏迪","张敏"]
+  location: "第 4 章新生儿 · 鹅口疮, 页 127-128"
+  source_id: SRC-040
+related_cards: []
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

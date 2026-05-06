@@ -1,0 +1,70 @@
+card_id: C-S3-1141
+stages: [S3]
+tags: [cognitive_science, theory_dispute, nativism_vs_constructivism, lerner_v2]
+
+front:
+  title: 婴儿天生还是学会
+  hook: V2 综述两派之争
+
+back:
+  why_matters: |
+    Lerner V2 Ch5 综述当代认知发展两大派之争。
+    立场 A:**先天派**(Spelke / Baillargeon / Carey)
+    - 婴儿出生就有"核心知识 5 系统"(物体 / 行动 / 数 / 空间 / 社会)
+    - 这些是基因预设的进化遗产
+    - 后续学习 = 添加细节,不是改基础立场 B:**经验派 / Constructivist**(Cohen / Cashon / Munakata 部分)
+    - 早期"看似先天"是快速学习产物
+    - 婴儿盯不可能事件不一定证明"概念" — 可能只是知觉差异
+    - 信息处理模型可解释 = 不需要先天模块
+    V2 综述的态度:**两派各有支持证据,辩论持续**。
+    这跟 Karmiloff-Smith 表征重描述派形成 3 派局面。
+    跟现库:跟 Gopnik 立场对照(Gopnik 偏 constructivist + theory theory)。
+    Lillard 蒙氏哲学派 vs V2 实证派 — 实证派内部仍分歧。
+    对中国家长意义:
+    - 不要听"专家"说"婴儿就是 X" — 学界仍在辩
+    - 你的孩子是个体 — 综述给的是统计平均
+    - 早教焦虑没必要(各派都反盲目灌输)
+    - 互动陪伴是各派共识
+  what_to_do:
+    - 听到"科学证明 X"先问"哪派立场"
+    - 不焦虑"几月该会什么" — 综述给的是范围
+    - 多种早期互动 = 给基因 + 经验都机会
+    - 不抓"先天派"或"经验派"教条
+  failure_mode: |
+    "Spelke 证明婴儿天生" — 半真。Cohen-Cashon 反对。
+    "婴儿是空白" — 错。所有派都反这立场。
+    "选一派教育孩子" — 没必要。综述权威的态度是多元。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Spelke
+  - G-PERSON-Gopnik
+  - G-PERSON-Piaget
+  - G-TERM-baby-scientist
+  - G-PERSON-Carey
+  - G-PERSON-Munakata
+  - G-PERSON-Karmiloff-Smith
+  - G-TERM-core-knowledge
+  - G-PERSON-Leslie
+  - G-PERSON-Baillargeon
+  - G-TERM-representational-redescription
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 2 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 2 卷"
+  authors: ["Leslie B. Cohen", "Cara H. Cashon"]
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 5 · Constructivist vs nativist · pp. 215-218"
+  source_id: SRC-028
+
+unit_ids: []
+related_cards:
+  - C-S3-1140     # Baillargeon 吊桥实验
+  - C-S3-188       # Spelke/Baillargeon 物体永久
+  - C-S1-240       # baby scientist(Gopnik)
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

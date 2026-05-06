@@ -1,0 +1,83 @@
+card_id: C-S6-190
+stages: [S6]
+tags: [montessori, toilet-training, controversy, diapers]
+
+front:
+  title: 反纸尿裤 sauna 效应
+  hook: 纸尿裤会隐藏湿感
+
+back:
+  why_matters: |
+    Lillard Ch7 强烈反纸尿裤 — **直接命名"sauna 效应"**:
+    纸尿裤的隐藏问题:
+    - 化学吸水材料 → 水分被吸走,**宝宝不感到湿**
+    - 反应:加热产生"温暖"(sauna)→ 反而舒服
+    - 后果:**宝宝失去"湿/干"敏感** → 错过如厕敏感期(C-S6-189)
+    - 父母不勤换 — 数据显示纸尿裤宝宝每天换 4-6 次,布尿裤 12+ 次
+    - 错过亲子互动机会(每次换尿布是一次说话 / 笑 / 玩的机会)
+    布尿裤的好处:
+    - 宝宝立刻感觉湿 → 学"我尿了"+ "想保持干"
+    - 大人勤换 → 多互动
+    - 13-18 月时宝宝主动配合训练现代妈妈选项:
+    - **专业尿布服务**(美国 + 大城市有,送干净 + 收脏)— 性价比好
+    - **自己洗** — 时间成本但环保
+    - **混合**(白天布,晚上纸)— Lillard 接受
+    Lillard 立场比 Davies 强 — Davies 没单独建卡讲纸尿裤,Lillard 直接说"这是错过敏感期的根本原因"。
+    跟"纸尿裤方便又干净"主流**对立** — Lillard:**方便了大人,代价是宝宝晚 1-2 年才会用厕**。
+  what_to_do:
+    - 选布尿布 + 尿布服务
+    - 至少白天用布
+    - 12 月开始让宝宝感觉湿
+    - 不长期用纸尿裤
+    - 接受勤换的劳动
+  failure_mode: |
+    "纸尿裤方便,布尿裤太累" — 反:这是 18 月还在用厕训练 vs 12 月开始的代价。
+    全靠纸尿裤 → 宝宝失去敏感期 → 用厕训练拖到 3 岁。
+  evidence_level: B
+
+  positions:
+    issue: 如厕训练何时开始 · 谁主导 · 什么方法
+    views:
+      - school: Lillard(蒙氏)
+        source: SRC-016
+        stance: 12-18 月敏感期介入。反对长期纸尿裤拖延,孩子主导探索如厕,环境提供小马桶。
+      - school: AAP / 主流
+        source: SRC-006
+        stance: 18 月-3 岁。等待神经括约肌成熟与孩子表达意愿,避免提前训练造成抗拒。
+      - school: 鲍秀兰
+        source: SRC-009
+        stance: 9 月起坐盆训练,25-30 月用语言表达替代动作信号。早期建立排便规律。
+      - school: Brazelton
+        source: SRC-010
+        stance: 24 月以后多数孩子才准备好,孩子主导,称 toilet learning 而非 training。反对 EC 出生训练。
+      - school: 松田道雄
+        source: SRC-024
+        stance: 4-5 月把屎把尿是错的;7-8 月可试便盆(每次 1 分钟为限);1.5 岁夏天撤尿布最佳。
+      - school: Pikler / Magda / Lansbury
+        source: SRC-026/022/019
+        stance: 不训练 — 等 24-30 月孩子自己准备好;"学如厕"而非"训练"。反对绑 / 揍 / 久坐 / 太早 4 大错。
+      - school: 中国传统
+        stance: 把屎把尿(EC) + 3 岁前完成,以家长信号为主;中医认为憋尿伤肾。
+glossary_refs:
+  - G-PERSON-Lillard
+  - G-PERSON-Jessen
+
+citation:
+  book_title_zh: "蒙台梭利从 0 岁开始"
+  book_title_en: "Montessori from the Start"
+  authors: ["Paula Polk Lillard", "Lynn Lillard Jessen"]
+  authors_zh: ["宝拉·波尔克·莉拉德", "琳·莉拉德·杰森"]
+  publisher_en: "Schocken Books"
+  year_en: 2003
+  isbn_en: "978-0-8052-1112-1"
+  location: "Ch 7 · 'Toilet Training' (cloth vs disposable)"
+  source_id: SRC-016
+
+unit_ids: []
+related_cards:
+  - C-S6-189       # Lillard 12-18 月如厕敏感期
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

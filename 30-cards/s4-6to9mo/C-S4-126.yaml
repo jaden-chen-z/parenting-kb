@@ -1,0 +1,64 @@
+card_id: C-S4-126
+stages: [S4]
+tags: [development_burst, controversy]
+
+front:
+  title: 烦躁不是出牙痛
+  hook: 发烧腹泻才需就医
+
+back:
+  why_matters: |
+    6-9 月期间宝宝烦躁时家长最常见错误归因:**"是出牙痛"**。
+    凡德里特在 WW26 + WW37 章节都加专门破除框(白话翻译):
+    > 跟老一辈说法相反,发烧或腹泻跟出牙没关系。
+    > 宝宝有这些症状,该看儿科医生。
+
+    数据:出牙时间和烦躁阶段**是巧合不是因果**。
+    - 跃迁期间出牙的宝宝同样多 ≈ 跃迁期间没出牙的宝宝
+    - 5 位妈妈日记:都说"是出牙",真正出牙发生在 4-7 周后
+
+    一般出牙规律(供参考):
+    - 6 月:下门牙(下中切牙)
+    - 1 岁:6 颗牙
+    - 2.5 岁:全部 20 颗乳牙家长意义:**烦躁 + 流口水 ≠ 出牙引起烦躁**。
+    流口水是发育自然现象(6 月唾液腺成熟),与烦躁同期但不互为因果。
+  what_to_do:
+    - 烦躁时优先想跃迁(看 10 跃迁时间表 C-S1-179)
+    - 出牙关心:看牙龈,不看烦躁程度
+    - 真出牙会有局部红肿 / 牙龈鼓包,不是发烧 / 腹泻
+    - 发烧 ≥38°C / 严重腹泻 / 呕吐 → 看医生(不要归罪出牙)
+    - 真出牙不适:冷藏牙胶 / 干净手指轻压牙龈
+  failure_mode: |
+    "出牙就是这样的" → 发烧持续不就医 → 错过真病诊断。
+    给出牙药水 / 凝胶(很多含苯佐卡因 — 美国 FDA 禁忌 < 2 岁)。
+    琥珀牙胶项链(SIDS / 窒息风险)。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-vanderijt
+  - G-TERM-wonder-week
+  - G-TERM-fussy-phase
+  - G-TERM-amber-teething-necklace
+  - G-TERM-benzocaine
+
+citation:
+  book_title_zh: "婴儿大脑跃迁 10 周(神奇周)"
+  book_title_en: "The Wonder Weeks"
+  authors: ["Hetty van de Rijt", "Frans X. Plooij"]
+  authors_zh: ["海蒂·凡德里特", "弗朗斯·普洛伊"]
+  publisher_en: "Kiddy World Publishing"
+  year_en_first: 1992
+  isbn_en: "978-90-79208-12-1"
+  location: "Chapter 7 + Chapter 8 special teething box: Being fussy Doesn't Necessarily Mean Teething(a high temperature or diarrhea has nothing to do with teething. Multiple mom diaries: said it was teething, real teeth came 4-7 weeks later)"
+  source_id: SRC-013
+
+unit_ids: []
+related_cards:
+  - C-S4-124       # WW26 关系世界
+  - C-S1-179       # 10 跃迁时间表
+  - C-S2-124       # 不能摇宝宝
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

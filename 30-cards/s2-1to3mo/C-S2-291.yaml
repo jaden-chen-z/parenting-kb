@@ -1,0 +1,56 @@
+card_id: C-S2-291
+stages: [S2]
+tags: [philosophy, 观察, RIE, lansbury]
+
+front:
+  title: "宝宝独处不是被忽视"
+  hook: "独立种子比依赖更珍贵"
+
+back:
+  why_matters: |
+    Lansbury Ch11 + Ch15 的反主流命题:
+    新生儿/小婴儿醒来后会先自己看一会儿天花板,
+    才发出需要大人的信号。这是"自我导向"萌芽。
+    主流"育儿专家"(Sears 派)主张几乎全程抱 + 互动,
+    Lansbury 说:这反而剥夺宝宝建立自我的种子时间。
+    几分钟的安静观察,胜过几小时空抱。
+
+  what_to_do:
+    - 醒来不冲过去,等几分钟看他自己干啥
+    - 在他视线里,不必占据他视野
+    - 他玩得专注时,不打断不解说
+    - 给他可见的可探索区,不必每秒说话
+    - 自我导向 ≠ 不被爱,信任他能自处
+
+  failure_mode: |
+    "我不抱不互动他会孤独" → 错。
+    宝宝从安静自处中学会"自我"概念(Stern 自我感发展)。
+    或反向:扔在床上离开几小时 — 那是忽视。
+    区别:在场 + 信任 vs 缺席 + 抛下。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Lansbury
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+  - G-TERM-observation
+
+citation:
+  book_title_en: "Elevating Child Care: A Guide to Respectful Parenting"
+  book_title_zh: "尊重孩子:RIE 育儿之道"
+  authors:
+    - Janet Lansbury
+  publisher_en: JLML Press
+  year: 2014
+  location: "Ch11 + Ch15 Independent Play Myths"
+  source_id: SRC-019
+
+unit_ids: []
+related_cards:
+  - C-S2-185  # Lillard 完整循环活动
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

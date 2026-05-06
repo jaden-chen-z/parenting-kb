@@ -1,0 +1,28 @@
+glossary_id: G-TERM-dynamic-skill-theory
+type: term
+display_name: "动态技能理论 / dynamic skill theory"
+
+name_en: "dynamic skill theory"
+name_zh: "动态技能理论"
+
+description: |
+  Fischer 模型 — 技能发展是 constructive web 网状,不是直线楼梯。
+  13 层级 + 跨情境差异 + 反复 reorganize。
+
+one_liner: |
+  动态技能理论(dynamic skill theory)— Fischer 模型 — 技能发展是 constructive web 网状,不是直线楼梯。
+
+key_facts:
+  - "Lerner V1 元理论卷核心术语"
+  - "学派:Lerner V1 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

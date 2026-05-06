@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Bushman
+type: person
+display_name: "Bushman(布拉德·布什曼)"
+
+full_name_en: "Brad J. Bushman"
+full_name_zh: "布拉德·布什曼"
+
+position: |
+  Ohio State University
+
+contribution: |
+  媒体暴力效应元分析
+
+one_liner: |
+  布拉德·布什曼 — 媒体暴力效应元分析
+
+key_facts:
+  - "本卷章节:Ch 20"
+  - "Lerner V4 命中:13 次"
+  - "学派:Lerner V4 应用心理学派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-029
+    chapter: "Ch 20"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

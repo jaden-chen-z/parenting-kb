@@ -1,0 +1,62 @@
+glossary_id: G-PERSON-Dehaene
+type: person
+display_name: Dehaene
+
+full_name_en: Stanislas Dehaene
+full_name_zh: 斯坦尼斯拉斯·德阿纳
+
+one_liner: |
+  法国神经科学家(法兰西学院教授),数认知 + 阅读神经科学权威。
+  数感(Number Sense)双系统理论奠基,法兰西学院实验认知心理学讲席。
+
+detail: |
+  ## 个人背景
+  - 1965 年法国生
+  - 巴黎高等师范学校博士
+  - 法兰西学院(Collège de France)实验认知心理学讲席
+  - 法国国家科学院院士 + 美国艺术与科学院院士
+
+  ## 核心理论:数感双系统
+  1. **Approximate Number System(ANS,近似数系统)**
+     - 婴儿期天生 + 进化遗产
+     - 大致估算(2-3 跟 5-6 比较)
+  2. **Exact Number System(精确数系统)**
+     - 后天学(2-3 岁)
+     - 数符号 → 数概念映射
+
+  ## 重要发现
+  - 婴儿期数感跨文化普遍
+  - subitize(秒数 1-3)是过渡机制
+  - 阅读 + 数学有共同神经基础(顶叶)
+
+  ## 立场
+  - 神经科学派 + 进化心理学派
+  - 数感先天 + 数符号后天
+  - 跟 Geary / Spelke / Wynn 同方向
+
+  ## 在本知识库中
+  - SRC-028 Lerner V2 Ch18 引用(55 hits)
+  - C-S6-1172 Dehaene 数感小数
+
+key_facts:
+  - 法兰西学院实验认知心理学讲席
+  - 数感双系统理论奠基
+  - 阅读 + 数学神经科学权威
+  - 法国国家科学院院士
+
+related_glossary:
+  - G-PERSON-Spelke
+  - G-PERSON-Geary
+  - G-TERM-baby-scientist
+
+related_cards:
+  - C-S6-1172
+
+sources:
+  - source_id: SRC-028
+  - external: Dehaene 1997《The Number Sense》/ Wikipedia Stanislas Dehaene
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

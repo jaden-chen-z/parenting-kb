@@ -1,0 +1,64 @@
+card_id: C-S8-733
+stages: [S8]
+tags: [math, de_corte, lerner_v4]
+
+front:
+  title: 数学要真情境不口算
+  hook: 数学要用真实情境
+
+back:
+  why_matters: |
+    De Corte-Verschaffel V4 Ch 4 数学思维章(欧洲 RME 学派代表)。
+    **Realistic Mathematics Education(RME)立场**:
+    - 反"先学口算+套公式"
+    - 真情境 → 概念 → 抽象符号
+    - 例:**糖果分给 3 个孩子**比"6÷3="先教
+    - 概念建立后再加抽象
+    **3 大误区**(De Corte 综述):
+    - ❌ 速度 = 数学好(只是熟练)
+    - ❌ 公式 = 理解(只是套用)
+    - ❌ 抽象先于具体(违反 Piaget + Bruner)
+    **真数学**:
+    - 估算 / 推理 / 解释为啥
+    - 1+1=2 之外问"为啥"
+    - 错了没关系,错的过程比对的结果有信息跟现库:跟 V2 Geary 数感综述(C-S6-1172)+ V2 Wynn 婴儿加法(C-S3-1144)对接。
+    对中国家长意义:
+    - 别"100 题口算"训
+    - 用日常情境(分糖 / 算账 / 时间)
+    - 错题分析比对题多刷重要
+    - 让孩子"解释为啥"比"算对"重要
+  what_to_do:
+    - 用日常情境(分糖+算账)
+    - 错题分析比刷题重要
+    - '让孩子"解释为啥"'
+    - 反单纯口算速度
+  failure_mode: |
+    "100 题口算训"— 错。速度 ≠ 理解。
+    "公式记住就行"— 错。套用 ≠ 数学思维。
+    "抽象先于具体"— 错。违反认知发展。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-De-Corte
+  - G-TERM-RME
+  - G-PERSON-Geary
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 4 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 4 卷"
+  authors: ['Erik De Corte', 'Lieven Verschaffel']
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 4 · De Corte-Verschaffel · Realistic Mathematics · pp. 103-120"
+  source_id: SRC-029
+
+unit_ids: []
+related_cards:
+  - C-S6-1172     # V2 Geary 数感
+  - C-S3-1144     # V2 Wynn 婴儿加法
+  - C-S0-1235     # Hyson DAP 反学业前移
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

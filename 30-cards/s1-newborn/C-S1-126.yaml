@@ -1,6 +1,6 @@
 card_id: C-S1-126
 stages: [S1]
-tags: []
+tags: [philosophy]
 
 front:
   title: 抓握反射 = 灵长类进化遗留
@@ -39,7 +39,7 @@ citation:
   year_en: 1969
   year_zh: 2017
   isbn: "978-7-5192-2927-6"
-  location: "第十四章 依恋行为的开始(若把人类的莫罗反射放到原始依附的背景下,一切就昭然若揭。Prechtl 实验:婴儿手臂受牵引时激发的莫罗反射会有强烈的抓握 — 防止幼崽从母亲背上掉落)"
+  location: "第十四章依恋行为的开始(若把人类的莫罗反射放到原始依附的背景下,一切就昭然若揭。Prechtl 实验:婴儿手臂受牵引时激发的莫罗反射会有强烈的抓握 — 防止幼崽从母亲背上掉落)"
   source_id: SRC-011
 
 unit_ids: []

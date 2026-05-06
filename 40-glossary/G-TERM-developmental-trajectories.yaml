@@ -1,0 +1,28 @@
+glossary_id: G-TERM-developmental-trajectories
+type: term
+display_name: "发展轨迹 / developmental trajectories"
+
+name_en: "developmental trajectories"
+name_zh: "发展轨迹"
+
+description: |
+  Elder 概念 — 个人的人生路径 — 由历史时段 + 家庭背景 + 个人选择 + linked lives 共同塑造。
+  不是单一线,有 multiple trajectories(教育 / 职业 / 家庭 / 健康)。
+
+one_liner: |
+  发展轨迹(developmental trajectories)— Elder 概念 — 个人的人生路径 — 由历史时段 + 家庭背景 + 个人选择 + linked lives 共同塑造。
+
+key_facts:
+  - "Lerner V1 元理论卷核心术语"
+  - "学派:Lerner V1 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

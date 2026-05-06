@@ -1,0 +1,27 @@
+glossary_id: G-TERM-attention-regulation
+type: term
+display_name: attention regulation 注意力调节
+
+en_term: attention regulation
+zh_term: 注意力调节
+
+one_liner: |
+  自我调节的核心子能力之一(NRC Ch 5)— 选择关注 / 持续关注 / 切换关注的能力。
+  Ruff-Rothbart 1996 综述:3-4 月被动 → 6-9 月延长 → 12-18 月主动 →
+  2-3 岁 5-10 分钟持续 → 3-6 岁 sustained attention 起步。
+
+related_glossary:
+  - G-PERSON-Shonkoff
+  - G-TERM-self-regulation
+  - G-TERM-executive-function
+
+related_cards: []
+
+sources:
+  - source_id: SRC-025
+  - external: Ruff-Rothbart 1996
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

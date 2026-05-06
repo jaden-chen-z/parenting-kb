@@ -4,15 +4,20 @@ tags: [controversy]
 
 front:
   title: "厕所训练:孩子主导,父母只示范"
-  hook: "I don't even like the phrase 'toilet training'. It really should be 'toilet learning'."
+  hook: "我连'训练'两字都不想用"
 
 back:
   why_matters: |
-    厕所训练(toilet training)= 教孩子主动告知大便小便。
-    Brazelton 反对这个说法,他坚持叫"厕所学习"(toilet learning)——把控制权交孩子,父母只示范、不强迫。
-    美国大量"18 月强制训练"或"出生就训"(elimination communication)实验数据显示:
-    早训练几乎必导致孩子憋便→便秘→肛裂→长期心理阴影。
-    Brazelton 临床:多数孩子真正准备好是 24 月以后,女孩平均比男孩早 3-6 月。
+    "厕所训练" = 教孩子主动告知大便小便。
+    布雷泽尔顿反对这种说法 — 他坚持叫"厕所学习"(白话翻译):
+    > 我连"训练"这个词都不喜欢,应该叫"厕所学习"才对。
+
+    把控制权交孩子,父母只示范、不强迫。
+
+    美国大量"18 月强制训练"或"出生就训"(早期排泄沟通)实验数据显示:
+    早训练几乎必导致孩子憋便 → 便秘 → 肛裂 → 长期心理阴影。
+
+    布雷泽尔顿临床观察:多数孩子真正准备好是 24 月以后,女孩平均比男孩早 3-6 月。
     关键判断不是月龄,是孩子是否同时具备 5 个准备信号。
   what_to_do:
     - 准备信号 5 选 3:不再痴迷走 / 模仿强 / 听 2-3 步指令 / 喜欢归位 / 跨过 18 月 No 高峰
@@ -24,6 +29,29 @@ back:
     "邻居小孩 18 月学会了我们家也得快"→ 强制训练 → 憋便 + 肛裂 + 长期心理阴影。便盆失败时责备"你在地上拉了"→ 孩子放弃,退回更严重的尿床。"去学校了不能再尿了"突然撤尿布 → 公共场合失败 → 学校焦虑 → 长期问题。
   evidence_level: B
 
+  positions:
+    issue: 如厕训练何时开始 · 谁主导 · 什么方法
+    views:
+      - school: Lillard(蒙氏)
+        source: SRC-016
+        stance: 12-18 月敏感期介入。反对长期纸尿裤拖延,孩子主导探索如厕,环境提供小马桶。
+      - school: AAP / 主流
+        source: SRC-006
+        stance: 18 月-3 岁。等待神经括约肌成熟与孩子表达意愿,避免提前训练造成抗拒。
+      - school: 鲍秀兰
+        source: SRC-009
+        stance: 9 月起坐盆训练,25-30 月用语言表达替代动作信号。早期建立排便规律。
+      - school: Brazelton
+        source: SRC-010
+        stance: 24 月以后多数孩子才准备好,孩子主导,称 toilet learning 而非 training。反对 EC 出生训练。
+      - school: 松田道雄
+        source: SRC-024
+        stance: 4-5 月把屎把尿是错的;7-8 月可试便盆(每次 1 分钟为限);1.5 岁夏天撤尿布最佳。
+      - school: Pikler / Magda / Lansbury
+        source: SRC-026/022/019
+        stance: 不训练 — 等 24-30 月孩子自己准备好;"学如厕"而非"训练"。反对绑 / 揍 / 久坐 / 太早 4 大错。
+      - school: 中国传统
+        stance: 把屎把尿(EC) + 3 岁前完成,以家长信号为主;中医认为憋尿伤肾。
 glossary_refs:
   - G-TERM-toilet-learning
   - G-TERM-negativism

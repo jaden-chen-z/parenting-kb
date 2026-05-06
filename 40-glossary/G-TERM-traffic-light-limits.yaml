@@ -1,0 +1,84 @@
+glossary_id: G-TERM-traffic-light-limits
+type: term
+display_name: 红黄绿三色限度(交通灯比喻)
+
+full_name_en: Traffic Light Limits (Red/Yellow/Green Light)
+full_name_zh: 红黄绿三色限度
+
+one_liner: |
+  Magda Gerber 命名的限度三色谱(Ch8):
+  红灯 = 危险,立刻停;
+  黄灯 = 可商量,你权衡;
+  绿灯 = 全开,他选你陪。
+  跟"什么都不行"的灰色单色相比 — 三色给孩子真规则地图。
+
+detail: |
+  ## 三色定义
+
+  ### 🔴 红灯(Red Light)= 安全 / 不可商
+  - 例:冲马路 / 摸开水 / 拿刀 / 站窗台
+  - 父母回应:**立即停 + 解释**
+    "我不让你跑去马路,会被车撞"
+  - 一致性 100%,从不商量
+
+  ### 🟡 黄灯(Yellow Light)= 可商量
+  - 例:他想出门玩 vs 你想看完报纸
+  - 父母回应:**权衡 + 妥协**
+    "我看完报纸后陪你去 / 你能等 5 分钟吗?"
+  - 教孩子"等" + "妥协"两个生活技能
+  - 60% 的"不"应该在这一档
+
+  ### 🟢 绿灯(Green Light)= 全开
+  - 例:他选玩什么 + 你愿意陪
+  - 父母回应:**全注意 quality time**
+    "你想玩什么?妈妈陪你"
+  - 每天至少几个绿灯时段
+
+  ## 父母常见错误
+
+  | 错误 | 实情 |
+  |---|---|
+  | 把所有"不"都开红灯 | 真红灯时孩子不当回事 |
+  | 把红灯模糊成黄灯 | 危险时孩子犹豫 = 风险 |
+  | 没绿灯时段 | 孩子缺"全注意"补给 |
+  | 只有红灯没绿灯 | 关系紧张,亲子断裂 |
+
+  ## 红绿配比
+  - 健康家庭:红 5% / 黄 60% / 绿 35%
+  - 焦虑家庭:红 50% / 黄 40% / 绿 10%
+
+  ## 跟其他限度框架对照
+  - Lansbury "I won't let you" 公式 = 红灯执行
+  - Davies "温柔边界" = 黄灯艺术
+  - Lillard "No 永远 No" = 红灯一致性
+  - Magda 三色 = 整合视图
+
+  ## 实战:把"不"分类
+  日常听到的"不",问自己:
+  1. 真的危险?→ 红
+  2. 我有偏好但能商量?→ 黄
+  3. 是我懒不想陪?→ 改绿
+
+key_facts:
+  - Magda 1998 命名的三色谱
+  - 红 = 立即停,黄 = 可商,绿 = 全开
+  - 60% 的"不"应该是黄灯
+  - 每天至少几个绿灯时段
+
+related_glossary:
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+
+related_cards:
+  - C-S6-462
+  - C-S7-406
+  - C-S6-465
+
+sources:
+  - source_id: SRC-022
+  - external: Magda Gerber《Your Self-Confident Baby》Ch8 Respecting Your Needs
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

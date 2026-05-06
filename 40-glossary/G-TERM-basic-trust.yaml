@@ -1,0 +1,97 @@
+glossary_id: G-TERM-basic-trust
+type: term
+display_name: Basic Trust(基本信任)
+
+full_name_en: Basic Trust
+full_name_zh: 基本信任(埃里克森 + 玛格达)
+
+one_liner: |
+  Erik Erikson 1959《Identity and the Life Cycle》命名的概念:
+  人生第一个 18 月发展的核心任务 — 建立"世界基本可信"的内在态度。
+  Magda Gerber 把这个概念搬进 RIE 8 大原则之 1。
+  Bowlby 安全依恋 + 蒙氏两份信任 = 同根。
+
+detail: |
+  ## Erikson 原版定义
+  《Identity and the Life Cycle》(International Universities Press, 1959):
+  > "An attitude toward oneself and the world formed during the first year of life based on one's experiences. 'Reasonable trustfulness as far as others are concerned and a simple sense of trustworthiness as far as oneself is concerned' is the basis for a healthy personality."
+
+  - **对世界的信任**:大人会回应,世界基本安全
+  - **对自己的信任**:我有能力,我能影响环境
+  - 两者一起构成健康人格地基
+
+  ## Magda Gerber 的扩展
+  Ch1 Basic Principle 1:
+  > "Basic trust in the child to be an initiator, an explorer, and a self-learner."
+
+  Magda 加了第三层:
+  - **父母对孩子的信任**:相信他能 / 在学 / 在探索
+  - 这个信任会被孩子自己接管 → 加强他的自我信任
+
+  ## 三层信任结构(Magda 版)
+  1. **父母信孩子能力** → Magda 强调
+  2. **孩子信父母回应** → Erikson 经典
+  3. **孩子信自己有能** → Erikson + Magda 共同强调
+
+  ## 怎么建立(0-3 岁)
+
+  ### 0-1 月
+  - 哭就回应(不是"给他要的",是来 + 验证)
+  - 仰卧最大动作自由
+  - 告知再行动
+
+  ### 1-12 月
+  - 可预测胜过新奇
+  - quality time(全注意时段)
+  - 一致回应模式
+
+  ### 12-36 月
+  - 答应的事兑现
+  - 不哄骗 / 不偷溜
+  - 红黄绿三色限度
+  - 不 time-out
+
+  ## 跟相邻概念
+  - Bowlby 安全依恋 = 基本信任的依恋表现
+  - Stern RIGs(普遍互动表征)= 长期内核的信任
+  - 蒙氏"两份信任"(信宝宝 + 信你自己) = 互相强化
+  - Ainsworth Strange Situation = 测量工具
+
+  ## 失败模式
+  - "宠坏论"避免回应 → 基本信任薄
+  - 偷溜避哭 → 信任泄漏
+  - 哄骗暂时省事 → 长期信任破产
+
+  ## 在学龄前的影响
+  Erikson 论:
+  - 基本信任建好 → 1-3 岁顺利进入"自主"阶段
+  - 基本信任破 → 终生背"羞耻 / 怀疑"
+
+key_facts:
+  - Erikson 1959 命名
+  - 0-18 月核心发展任务
+  - Magda 1998 搬进 RIE Basic Principle 1
+  - 世界 + 自己 + 父母三层信任
+
+related_glossary:
+  - G-PERSON-Erikson
+  - G-PERSON-Gerber
+  - G-PERSON-Bowlby
+  - G-TERM-attachment
+  - G-TERM-secure-base
+  - G-TERM-RIGs
+  - G-TERM-RIE
+
+related_cards:
+  - C-S6-458
+  - C-S1-410
+  - C-S5-445
+
+sources:
+  - source_id: SRC-022
+  - external: Erik Erikson《Identity and the Life Cycle》1959 / Magda Gerber《Your Self-Confident Baby》
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

@@ -1,0 +1,53 @@
+glossary_id: G-TERM-PMTCT
+type: term
+display_name: "PMTCT 母婴阻断"
+
+en_term: "Prevention of Mother-to-Child Transmission"
+zh_term: "母婴阻断"
+
+one_liner: |
+  PMTCT = WHO 推 HIV+/HBV+ 妈妈母婴垂直传播阻断方案。
+
+detail: |
+  ## 定义
+  Prevention of Mother-to-Child Transmission — WHO 推荐的 HIV/HBV 母婴垂直传播阻断综合方案。
+  
+  ## HIV PMTCT 4 支柱
+  1. 一级预防(妇女育龄前预防 HIV 感染)
+  2. 计划生育(HIV+ 妇女计划生育权)
+  3. PMTCT 干预(产前 + 产中 + 产后)
+  4. 关怀治疗(妈妈 + 娃 ART 持续)
+  
+  ## 中国 PMTCT 项目
+  - 2002 年试点
+  - 2011 年全国推广
+  - HIV+ 孕妇 ART + 婴儿出生 6 周内 ART 预防 + 配方喂养(高资源 + AFASS)
+  - 中国 MTCT 率从 30%(无干预)降到 < 5%(2020 数据)
+  
+  ## HBV PMTCT
+  HBV 大三阳妈妈娃出生 24h 内乙肝免疫球蛋白 + 乙肝疫苗 → 阻断率 > 95%。
+  
+  ## 喂养立场
+  WHO + 中国 PMTCT:HIV+ 妈妈 AFASS 满足 → 配方;AFASS 不全 → EBF + ART。
+
+key_facts:
+  - "WHO HIV 4 支柱"
+  - "中国 2011 全国"
+  - "中国 MTCT 从 30% 降 < 5%"
+  - "HBV 阻断 > 95%"
+
+related_glossary:
+  - G-TERM-MTCT
+  - G-TERM-HIV-feeding
+  - G-TERM-AFASS
+
+related_cards:
+  - C-S1-1013
+
+sources:
+  - source_id: SRC-031
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

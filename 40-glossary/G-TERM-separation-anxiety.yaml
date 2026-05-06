@@ -56,12 +56,17 @@ related_glossary:
 related_cards:
   - C-S5-004     # 分离焦虑 10-18 月峰值,5 招缓解
   - C-S4-003     # 物体永久性(认知基础)
+  - C-S6-082     # Vol 2 长分离反应 3 阶段
+  - C-S7-034     # Vol 2 Robertson 5 招
+  - C-S7-035     # Vol 2 别偷偷溜要正面告别
+  - C-S7-039     # Vol 2 5 岁前住院影响到 18 岁
 
 sources:
   - source_id: SRC-007
-  - external: AAP Emotional and Social Development 8-12 Months / 综合发展心理学
+  - source_id: SRC-012
+  - external: AAP Emotional and Social Development 8-12 Months / Bowlby (1973) Vol 2 Separation
 
 language: zh
 status: draft
 created: 2026-05-02
-updated: 2026-05-02
+updated: 2026-05-03

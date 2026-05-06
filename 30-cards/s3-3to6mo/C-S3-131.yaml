@@ -1,0 +1,58 @@
+card_id: C-S3-131
+stages: [S3]
+tags: [feeding, development_burst, controversy]
+
+front:
+  title: 4 月奶量骤降是跃迁
+  hook: 6 周后自动恢复
+
+back:
+  why_matters: |
+    WW19 跃迁(15-19 周)期间最常见的家长困扰:**宝宝突然奶量骤降 + 玩奶嘴 + 喝几口就走**。
+    中文家长第一反应常是"奶不够 / 该断奶 / 该加辅食",紧急加奶粉换品牌。
+    van de Rijt 数据:这是 WW19 的标志性表现 — 宝宝的注意力被跃迁占满,
+    被周围视觉 / 听觉刺激分心,无法专注吃奶,**跟奶量没关系**。
+    一位妈妈案例:"15 周开始减少 → 我决定加奶粉补充 → 宝宝拒绝奶粉 → 持续 4 周 → 现在又恢复了,我的奶量也没少。"
+    家长意义:**4 月奶量骤降不要急,看 4 个指标稳定就 OK**:
+    1. 尿量(每天 6-8 次重尿)
+    2. 体重(月均增 400-500g)
+    3. 精神状态(清醒时有反应)
+    4. 大便(每天 1-3 次或几天一次大量)
+  what_to_do:
+    - 找安静喂奶环境(减少跃迁期分心)
+    - 接受跃迁期总奶量临时下降
+    - 不要在跃迁期断奶 / 改奶粉品牌
+    - 4 月不要因奶量乱而提前引入辅食(等 6 月)
+    - 4 个指标稳定就不必担心
+  failure_mode: |
+    "宝宝突然喝得少 = 我奶不够" → 加奶粉 → 真的把母乳干预下去了。
+    "4 月就该加辅食" → 引入辅食过早增加过敏风险(LEAP 也指 4-6 月)。
+    "宝宝不喝奶哭着不停" → 强行塞奶头 → 宝宝厌奶加剧。
+  evidence_level: B
+
+glossary_refs:
+  - G-TERM-wonder-week
+  - G-TERM-fussy-phase
+  - G-TERM-responsive-feeding
+
+citation:
+  book_title_zh: "婴儿大脑跃迁 10 周(神奇周)"
+  book_title_en: "The Wonder Weeks"
+  authors: ["Hetty van de Rijt", "Frans X. Plooij"]
+  authors_zh: ["海蒂·凡德里特", "弗朗斯·普洛伊"]
+  publisher_en: "Kiddy World Publishing"
+  year_en_first: 1992
+  isbn_en: "978-90-79208-12-1"
+  location: "Chapter 6 · She May Lose Her Appetite(Hannah's mom 19th week diary: started nursing less around 15 weeks, plays with nipple, supplemented with formula, refused, lasted 4 weeks, then back to normal with milk supply intact)"
+  source_id: SRC-013
+
+unit_ids: []
+related_cards:
+  - C-S3-129       # WW19 事件世界
+  - C-S3-130       # 4-5 月长 fussy phase
+  - C-S2-123       # 跃迁期不睡训不戒奶
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

@@ -1,0 +1,27 @@
+stage: S8
+total_cards_in_stage: 100
+key_findings:
+  L1_clusters:
+    - {id: S8-L1-01, topic: "屏幕时间限时+共看", cards: [C-S8-101, C-S8-214, C-S8-749], action: "可生成总卡"}
+    - {id: S8-L1-02, topic: "韧性 4 因子", cards: [C-S8-328, C-S8-767, C-S8-332], action: "V3+V4 同构,生成总卡"}
+    - {id: S8-L1-03, topic: "中美教育/互依-独立 self", cards: [C-S8-329, C-S8-746, C-S8-1138, C-S8-324], action: "4 源同立场,生成总卡"}
+    - {id: S8-L1-04, topic: "反早教/早识字硬学", cards: [C-S8-103, C-S8-213, C-S8-731, C-S8-422], action: "生成总卡"}
+    - {id: S8-L1-05, topic: "智力迟滞 etiology-specific", cards: [C-S8-741, C-S8-766, C-S8-428], action: "766 是 741 子案例,可合并"}
+  L2_clusters_count: 7
+  L3_clusters_count: 7
+  L4_super_clusters:
+    - {id: S8-L4-01, topic: "反过度焦虑 + 反早教硬学总立场", cards_count: 8, sources: 5, action: "做主题入口卡"}
+    - {id: S8-L4-02, topic: "中国家长情境特别校准", cards_count: 7, sources: 4, action: "做主题入口卡"}
+    - {id: S8-L4-03, topic: "5-6 岁信号 + 韧性 + 创伤", cards_count: 8, sources: V3+V4, action: "做主题入口卡"}
+hotspot_findings:
+  hotspot_1_anti_early_education_mozart: 跨 5 源 7 卡共识
+  hotspot_2_SEL_PYD_character: V1+V4 同源不同卷重合明确(L2-01 5 卡)
+  hotspot_3_lillard_marriage_priority: S8 新审卡未直接覆盖(已在 S7-135 单点)
+  hotspot_4_5yr_hospitalization_bowlby: S8 未直接处理(在 S6/S7 早依恋阶段)
+  hotspot_5_china_us_education: 整体 L4-02 覆盖,4 源 7 卡跨 V1/V3/V4/NRC 强 hotspot
+notes: |
+  S8 共 100 卡 / 24+ SRCs。
+  最高优先级 merge:
+  L1 5 簇 + L4 3 个总主题入口卡(反早教焦虑 / 中国家长校准 / 5-6 岁信号韧性)。
+  Lerner 多卷(V1/V2/V3/V4)是 S8 主力来源,跨卷概念互证密度高,建议在 wiki 层做主题入口而非合并卡片。
+  V4 干预集群 5 卡(Triple P/IY/PCIT/MST/Powell)可考虑生成单一对照表卡。

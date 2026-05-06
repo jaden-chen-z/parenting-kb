@@ -1,0 +1,64 @@
+card_id: C-S1-250
+stages: [S1]
+tags: [montessori, philosophy, environment, controversy]
+
+front:
+  title: 反"刺激"潮流
+  hook: 简单想过 = 强
+
+back:
+  why_matters: |
+    Lillard Ch1 直接反对现代育儿"刺激"(stimulation)概念:
+    > "心理学家说'宝宝需要刺激'。这词太模糊,父母好心反而过度,**伤多于帮**。"
+    蒙氏立场:
+    - "**简单 + 有思考** > 多 + 缺设计**"
+    - 1 个 mobile 比 5 个好
+    - 1 个房间比 5 个房间好
+    - 1 张图比 1 面墙的图好现代育儿误区(Lillard 列):
+    - 五颜六色装饰(过载)
+    - 多种音乐 + 玩具同时(分心)
+    - 频繁带出门看新事物(无法专注吸收)
+    - "Baby Einstein"教学 DVD(实际没效果)
+    - 提早教 ABC / 数字(剥夺自我探索)
+    根据 Lillard 引用的 Lise Eliot 神经科学:
+    - 婴儿大脑需要**重复 + 单一刺激 + 时间**才能形成神经通路
+    - 多种刺激同时 = 神经连接无法稳定 = 大脑剪枝失败跟"早教越多越好" / "全脑开发"潮流**直接对立**。
+  what_to_do:
+    - 1 次只给 1 个 mobile / rattle
+    - 房间不堆装饰 / 玩具
+    - 1 个新东西用 2 周再换(rotation)
+    - 不开背景音乐
+    - 不"教"知识 — 让宝宝吸收环境
+  failure_mode: |
+    "怕宝宝大脑发育不够,得多给刺激" — 蒙氏 + 神经科学双说:简单 + 重复才让脑发育。
+    "Baby Einstein DVD 帮宝宝聪明" — 反:研究显示反而拖累语言。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Lillard
+  - G-PERSON-Jessen
+  - G-TERM-absorbent-mind
+  - G-TERM-prepared-environment
+  - G-TERM-going-slow
+
+citation:
+  book_title_zh: "蒙台梭利从 0 岁开始"
+  book_title_en: "Montessori from the Start"
+  authors: ["Paula Polk Lillard", "Lynn Lillard Jessen"]
+  authors_zh: ["宝拉·波尔克·莉拉德", "琳·莉拉德·杰森"]
+  publisher_en: "Schocken Books"
+  year_en: 2003
+  isbn_en: "978-0-8052-1112-1"
+  location: "Ch 1 · end (against 'stimulation' fad)"
+  source_id: SRC-016
+
+unit_ids: []
+related_cards:
+  - C-S0-009       # Davies 起步装清单
+  - C-S6-132       # Davies 2 岁前不看屏幕
+  - C-S2-130       # Davies mobile 升级
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

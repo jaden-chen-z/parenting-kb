@@ -1,0 +1,95 @@
+card_id: C-S6-932
+stages: [S6]
+tags: [shonkoff, nrc, anti_corporal, discipline, china_high_freq, conflicts]
+
+front:
+  title: "NRC 完全反体罚"
+  hook: "打孩子大脑会受损"
+
+back:
+  why_matters: |
+    NRC 综述 Ch 9 + Ch 13 立场:**完全反对任何形式体罚**:
+    **机制证据**(NRC 综述):
+    1. 体罚 → cortisol 急升 → PFC 发育受损
+    2. 体罚 → 安全依恋削弱 → IWM 转向 insecure
+    3. 体罚 → 不教 self-regulation → 恶性循环
+    4. 体罚 → 教"用力解决冲突" → 同伴攻击行为增
+    **数据**(NRC 引):
+    - Strauss 1994:体罚频率跟青春期反社会行为正相关(r=0.4)
+    - 体罚 ≠ 严格管教 — 严格 OK,体罚 NO
+    **NRC 立场超明确**:
+    - 完全反对体罚(打 / 打屁股 / 摇晃 / 罚站到痛)
+    - 即便"瞬间危险"也不应打
+    - 替代:用 NRC 推荐 4 工具(参 PHASE7_LANSBURY.md)
+    **跟松田 §421 强对立**:
+    - 松田部分支持瞬间打手("让孩子知道做的事多大麻烦")
+    - NRC 完全反对(连危险时也不应打)
+    - 立场分歧记 conflicts.md
+    **跟 AAP / Lansbury / Bowlby V1 一致** — 4 派共识反体罚。
+    **对中国家长**:
+    - "棍棒底下出孝子"跟 NRC 立场强对立
+    - 偶尔打也不行 — cortisol 累积伤大脑
+    - 替代:改环境 / 平静 No / 后果 / 修复
+    - 严格 ≠ 体罚 — 中国家长可严但不打
+  what_to_do:
+    - 完全不打不摇
+    - 改环境减触发
+    - 平静坚定 No
+    - 让自然后果发挥
+    - 严格但不体罚
+  failure_mode: |
+    "我打他不严重 — 一巴掌而已" — NRC 立场:任何体罚都不行,cortisol 累计伤脑。
+    "瞬间危险得让他记住" — NRC 反对(跟松田立场对立)— 用语言 + 抱起 + 改环境。
+    棍棒派 vs RIE 派之间无中间立场 — NRC 跟 RIE 站。
+  evidence_level: A
+
+  positions:
+    issue: 3 岁孩子的体罚边界 · 大发雷霆体罚 vs 瞬间危险打手
+    views:
+      - school: 松田道雄
+        source: SRC-024
+        stance: 大发雷霆体罚是错的;但孩子做危险动作(冲马路、玩刀具)时瞬间打手作为警告有效。立场分情境。
+      - school: Lansbury / RIE
+        source: SRC-019
+        stance: 温柔而坚定的限度,完全不打。任何体罚(包括瞬间打手)都破坏信任与自我调节学习。
+      - school: Bowlby
+        source: SRC-011
+        stance: secure attachment 派完全反对体罚;依恋安全是学龄前儿童最优先的发育基础。
+      - school: AAP
+        source: SRC-004
+        stance: 完全反对体罚 — 2018 政策声明明确指出体罚对儿童心理发展有害,无任何益处。
+      - school: Shonkoff / NRC
+        source: SRC-025
+        stance: 完全反体罚 — cortisol 累积损伤前额叶皮层(PFC),与儿童反社会行为正相关。
+      - school: 鲍秀兰
+        source: SRC-009
+        stance: 反对打孩子,主张正面管教;在中国本土实证派中是少有的明确反体罚立场。
+      - school: 海蒂
+        source: SRC-040
+        stance: 管教 ≠ 体罚 — 10 月起步用其他管教法。美国主流大众派背书,降低中国家长"反体罚 = 西式精英"偏见。
+      - school: 中国传统
+        stance: '"棍棒底下出孝子" / "不打不成器" — 体罚被视为负责任管教的一部分。'
+glossary_refs:
+  - G-PERSON-Shonkoff
+  - G-TERM-cortisol
+  - G-TERM-NRC
+
+citation:
+  book_title_en: "From Neurons to Neighborhoods"
+  authors: ["Jack P. Shonkoff", "Deborah A. Phillips"]
+  org: "NRC/IOM"
+  year_en: 2000
+  location: "Ch 9 + 13 · anti-corporal punishment stance"
+  source_id: SRC-025
+
+unit_ids: []
+related_cards:
+  - C-S8-100    # 松田 §421 体罚立场对立 SRC-024
+  - C-S6-396    # Lansbury CEO 不体罚 SRC-019
+  - C-S6-021    # Brazelton discipline 不打 SRC-010
+  - C-S3-809    # Shonkoff cortisol(本卷)
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Goldsmith
+type: person
+display_name: "Goldsmith(希尔·戈德史密斯)"
+
+full_name_en: "H. Hill Goldsmith"
+full_name_zh: "希尔·戈德史密斯"
+
+position: |
+  University of Wisconsin 心理学教授
+
+contribution: |
+  气质双胞胎研究 + 行为遗传学
+
+one_liner: |
+  希尔·戈德史密斯 — 气质双胞胎研究 + 行为遗传学
+
+key_facts:
+  - "本卷章节:Ch 3"
+  - "Lerner V3 命中:94 次"
+  - "学派:Lerner V3 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-027
+    chapter: "Ch 3"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

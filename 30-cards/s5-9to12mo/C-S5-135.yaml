@@ -1,0 +1,72 @@
+card_id: C-S5-135
+stages: [S5]
+tags: [montessori, separation, goodbye, ritual, trust]
+
+front:
+  title: 不偷溜 + 告别仪式
+  hook: 蒙氏离别 5 招
+
+back:
+  why_matters: |
+    上班 / 出差 / 跟阿姨交班时,家长最常做错的事:**偷溜**。
+    "他没看见我走才不会哭。"
+    实际后果:**信任系统被反复打破**。
+    宝宝学到:**"妈妈可能随时消失,不能放松,要时刻盯着她。"**
+    长期 → 焦虑型依恋 + 黏人加剧 + 入园困难。
+    Davies 的"告别 5 招":
+    1. **明确告知**(永远不偷溜)— "妈妈要去上班了"
+    2. **同样仪式**每天(读同一本书 / 唱同一首歌 / 一个特别拥抱)
+    3. **拥抱到他放手**(不限时,通常 1-2 分钟)
+    4. **明确回来时间**("妈妈太阳下山时回来")
+    5. **回来时及时回应**("妈妈回来了!")
+    Trina 故事(Davies 引用):
+    - 每天告别前读"金鱼"绘本
+    - 阿姨抱宝宝去喂金鱼
+    - 妈妈"明确告知 + 一致仪式" = 宝宝建立预期跟宝宝的话:
+    - 1 岁前:简单仪式 + 拥抱
+    - 1-2 岁:加"我去 X,Y 时回"
+    - 2-3 岁:加"X 完成后回来"
+    哭怎么办?
+    - 哭 OK — 但他知道妈妈走了(信任不破)
+    - 跟阿姨提前商量怎么处理
+    - 妈妈不要刻意避免 — 接受短期哭闹研究:**告别有仪式的宝宝,1 周内分离焦虑大幅减少**。偷溜的宝宝持续焦虑数月。
+  what_to_do:
+    - 永远不偷溜 — 必须明确告别
+    - 每天同样的告别仪式(歌 / 拥抱 / 一句话)
+    - 拥抱到宝宝放手不限时
+    - 说明回来时间 + 准时
+    - 回来时及时回应 + 庆祝
+  failure_mode: |
+    "偷溜不哭就好了" — 短期不哭,长期信任破损 + 持续焦虑。
+    "每天哭 5 分钟好心疼,我还是溜吧" — 哭 5 分钟 vs 信任破损,长期账算下来选哭。
+    "回来不及时打招呼,因为他在玩" — 错过最重要的"妈妈回来了"反馈。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Davies
+  - G-PERSON-Bowlby
+  - G-TERM-separation-anxiety
+  - G-TERM-attachment
+  - G-TERM-secure-base
+
+citation:
+  book_title_zh: "蒙特梭利的小宝宝(0-1岁)"
+  book_title_en: "The Montessori Baby"
+  authors: ["Simone Davies", "Junnifa Uzodike"]
+  authors_zh: ["西蒙·戴维斯", "君妮法·乌佐迪克"]
+  publisher_en: "Workman Publishing"
+  year_en: 2021
+  isbn_en: "978-1-5235-0693-7"
+  location: "Chapter 9 · Saying goodbye to our baby"
+  source_id: SRC-014
+
+unit_ids: []
+related_cards:
+  - C-S4-129       # Wonder Week 6 月起不偷溜
+  - C-S5-072       # Bowlby 分离焦虑
+  - C-S5-088       # Bowlby Vol 2 一致告别
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

@@ -1,0 +1,57 @@
+card_id: C-S2-699
+stages: [S2]
+tags: [working_mom, mindset, japan, matsuda]
+
+front:
+  title: "上班妈不必负全责"
+  hook: "丢一半给爸接送"
+
+back:
+  why_matters: |
+    松田 §117 给上班妈妈直接立场：
+    1. 双职工家庭需夫妻双方齐心维护，
+       保育园不只是为母亲服务的；
+    2. 接送 / 病儿接走不该全是妈妈，
+       松田明确呼吁"父亲背孩子上保育园"；
+    3. 父母双方应"携起手"重塑保育园。
+    跟 Brazelton "上班妈选不选母乳的真相"一致 + 跟
+    Davies "父母先照顾自己"立场一致。
+
+  what_to_do:
+    - 接送排班谁能就谁去
+    - 病儿接走轮流请假
+    - 不接受"妈天职"绑架
+    - 跟保育园建立沟通渠道(双方都见)
+    - 父亲也要熟知园规 / 老师姓名
+
+  failure_mode: |
+    上班妈背"双责任"：上班 + 全部育儿 → 累垮 + 离婚率高。
+    日本传统男主外女主内 — 松田 1967 就反对了，
+    跟现代中国 "妈干全部 + 爸赚钱"传统对照。
+    妈妈陷入"我必须做完美"焦虑 → 每天哭 → 影响奶水 + 影响孩子。
+    替代：把"爸接 = 例外"改成"爸接 = 一半"。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Matsuda
+
+citation:
+  book_title_zh: "定本育儿百科"
+  authors:
+    - 松田道雄
+  publisher_ja: 岩波书店
+  year_first_edition: 1967
+  location: "§115 写给产假后母亲 / §117 集体保育"
+  source_id: SRC-024
+
+unit_ids: []
+related_cards:
+  - C-S0-005  # Brazelton 上班妈妈选不选母乳的真相
+  - C-S6-138  # Davies 蒙氏父母先照顾自己
+  - C-S0-367  # 松田 父亲必须戒烟(同源父亲责任)
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

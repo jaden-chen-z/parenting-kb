@@ -1,0 +1,111 @@
+glossary_id: G-TERM-protest-despair-detachment
+type: term
+display_name: 抗议-绝望-超脱 (protest-despair-detachment)
+
+full_name_en: Protest-Despair-Detachment
+full_name_zh: 抗议-绝望-超脱(分离反应 3 阶段)
+
+one_liner: |
+  Robertson & Bowlby 1952 提出的婴幼儿长期分离 3 阶段反应:
+  **抗议(哭闹找妈)→ 绝望(静默退缩)→ 超脱(情感隔离)**。
+  健康孩子分离时几乎都会经历,**第 3 阶段最易被误读为"适应了"**。
+
+detail: |
+  ## 来源
+  - James & Joyce Robertson 1948-1952 在 Hampstead 托儿所观察住院儿童
+  - 1952 论文 "Responses of young children to separation from their mothers"(Robertson & Bowlby)
+  - 1966 Heinicke & Westheimer 大规模复制
+  - Bowlby Vol 2(1973)系统化为理论核心
+
+  ## 三阶段详细描述
+
+  ### 第 1 阶段 抗议(Protest)
+  **时长**:几小时-几天(分离开始)
+  **表现**:
+  - 大声哭喊找妈
+  - 拒绝食物 / 拒绝睡觉
+  - 拒绝陌生人靠近 / 抱
+  - 黏住任何熟悉物品(玩偶/毯子)
+  - 反复问"妈妈呢"
+  **机制**:依恋系统全力激活,试图重新触达依恋对象。
+
+  ### 第 2 阶段 绝望(Despair)
+  **时长**:几天-几周(若分离持续)
+  **表现**:
+  - 不哭了,变安静(危险信号)
+  - 静坐 / 凝视门口或窗外
+  - 拒食 / 拒玩
+  - 退化到更早期行为(尿失控 / 不会吃饭)
+  - 看起来抑郁
+  **机制**:依恋系统精疲力竭,但还在期待重聚。
+  **家长大坑**:误读为"适应了"或"沉默是金,懂事了"。
+
+  ### 第 3 阶段 超脱(Detachment)
+  **时长**:绝望期之后,可数小时-数月
+  **表现**:
+  - 看似"恢复了":可以玩 / 接受新护士 / 笑
+  - 但**情感对妈妈隔离**
+  - 妈妈来时:不认 / 转头 / 推开 / 像陌生人
+  - "他都不要妈妈了"
+  **机制**:孩子无法承受可能再失去妈的痛苦 → **主动情感保护**。
+  **家长大坑**:这是依恋损伤最深,**不是好转**。
+
+  ## 三阶段的进化论解释(Bowlby)
+  - 1+2 阶段:激活找回依恋对象的本能
+  - 3 阶段:当寻找彻底失败,进化让幼体"忘记原依恋人转向新照顾者",以保命
+  - 但人类社会中分离往往是暂时的,3 阶段反而**毁掉与原依恋人的关系**
+
+  ## 重聚后的反弹期
+  分离结束后,孩子会经历:
+  - **更黏人**(怕再被丢)
+  - **矛盾**(既要又推)
+  - **攻击性**(对妈妈表达愤怒)
+  - **退化**(尿床/不会自理)
+  典型持续 12 周以上,8/10 孩子明显矛盾,5/10 持续 12+ 周。
+
+  ## 临床应用
+  - 住院儿童陪同制度的理论基础
+  - 寄养 / 收养转换的伤害评估
+  - 拒学症 / 学校恐怖症的发展机制
+  - 留守儿童心理状态评估
+
+  ## 与 Vol 1 概念的衔接
+  - 触发的是 G-TERM-attachment 系统
+  - 长期 3 阶段 → 损伤 G-TERM-internal-working-model
+  - 反复经历 → 发展为 G-TERM-anxious-attachment
+
+  ## 中文家长应用指南
+  - 看到孩子从哭到安静别庆幸,绝望期开始
+  - "见妈不认"不是忘了,需要 1-2 周连续陪伴解冻
+  - 单次分离别超 5 天(2 岁以下)
+  - 重聚后的"反弹"是修复,接住别压回去
+
+key_facts:
+  - Robertson & Bowlby 1952 提出
+  - 长期分离的普适反应序列(无关孩子性格)
+  - 第 3 阶段超脱常被误读为"适应"
+  - 健康依恋孩子也会经历这个序列
+  - 重聚后有 12+ 周修复反弹期
+
+related_glossary:
+  - G-PERSON-Bowlby
+  - G-PERSON-Robertson
+  - G-PERSON-Ainsworth
+  - G-TERM-attachment
+  - G-TERM-anxious-attachment
+  - G-TERM-separation-anxiety
+
+related_cards:
+  - C-S6-082      # 分离反应 3 阶段
+  - C-S6-085      # 重聚不认妈是危险信号
+  - C-S6-094      # 分离后愤怒是健康
+  - C-S7-034      # Robertson 5 招
+
+sources:
+  - source_id: SRC-012
+  - external: "Robertson & Bowlby (1952) / Heinicke & Westheimer (1966) Brief Separations / Bowlby (1973) Attachment and Loss Vol 2"
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

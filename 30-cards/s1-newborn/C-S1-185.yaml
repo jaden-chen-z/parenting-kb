@@ -1,0 +1,78 @@
+card_id: C-S1-185
+stages: [S1]
+tags: [montessori, sleep, newborn, topponcino]
+
+front:
+  title: 蒙氏小毯防放下就醒
+  hook: 60×30cm 椭圆薄垫
+
+back:
+  why_matters: |
+    新生儿"放下就醒"(transfer wake)是新手父母最常见痛点:抱睡着了,放床上 30 秒哭醒,循环。
+    原因:
+    - 突然失去**温度**(怀里 36℃→床面 25℃)
+    - 突然失去**气味**(妈妈味→陌生床味)
+    - 突然失去**容器感**(包裹被→平面)
+    - **Moro 反射**被下坠惊醒蒙氏的招:**topponcino**(60×30cm 椭圆薄垫)
+    - 妈妈先把它抱在怀里(沾上她的味道 + 温度)
+    - 喂奶时垫在宝宝身下
+    - 睡着后 — 连人带垫一起放下
+    - 床面温度 / 气味 / 容器感**全部连续**,不下坠用过的家庭普遍反馈:从"30 秒就醒"→"能放下睡 30+ 分钟"。
+    关键 — 给宝宝一个**移动的安全锚**,连接怀里和床上。
+  what_to_do:
+    - 自缝(60×30 椭圆 + 薄棉 + 纯棉外套)或淘宝买
+    - 妈妈先抱在怀里 30+ 分钟"开光"
+    - 喂奶 / 抱睡时垫在宝宝身下
+    - 睡着后连垫一起放下
+    - 3-4 月宝宝会滚后退役
+  failure_mode: |
+    "我家用包裹解决放下醒,蒙氏小毯没必要" — 包裹是限制动作 / topponcino 是垫在下面,做法不同。蒙氏不主张包裹。
+    "只是块布有那么神奇?" — 对宝宝有,因为延续了温度 + 气味 + 容器感这 3 个关键。
+    买回来不沾妈妈味直接用 — 等于普通垫,没效果。
+  evidence_level: B
+
+  positions:
+    issue: 包裹(swaddle)该不该用 · 怎么用 · 何时停
+    views:
+      - school: Karp
+        source: SRC-003
+        stance: 5S 安抚法第一招(Swaddle)。紧裹 + 双臂内 + 配白噪音,可延长睡眠 1-2 小时;锁住莫罗反射(惊跳反射)防止干扰其他四招。
+      - school: AAP
+        source: SRC-004
+        stance: 可用,但只起安抚作用,不防 SIDS;宝宝出现翻身迹象立刻停。髋部需留蛙腿位空间。
+      - school: 蒙氏(Davies/Lillard)
+        source: SRC-014/016
+        stance: 反对包裹 — 妨碍婴儿练习自我安抚,且干扰莫罗反射的整合发育。改用小毯或睡袋。
+      - school: 鲍秀兰
+        source: SRC-009
+        stance: 反对中国式"蜡烛包"(腿绑直会导致 DDH 髋发育不良,有终身风险);接受松松的"蛙腿位"包裹。
+      - school: 海蒂
+        source: SRC-040
+        stance: 中性立场 — 决策权交给父母,中立列利弊;不站队,作为"主流家长方案"参考。
+glossary_refs:
+  - G-PERSON-Davies
+  - G-TERM-topponcino
+  - G-TERM-symbiosis-period
+  - G-TERM-Moro-reflex
+
+citation:
+  book_title_zh: "蒙特梭利的小宝宝(0-1岁)"
+  book_title_en: "The Montessori Baby"
+  authors: ["Simone Davies", "Junnifa Uzodike"]
+  authors_zh: ["西蒙·戴维斯", "君妮法·乌佐迪克"]
+  publisher_en: "Workman Publishing"
+  year_en: 2021
+  isbn_en: "978-1-5235-0693-7"
+  location: "Chapter 3 · Symbiosis > Topponcino"
+  source_id: SRC-014
+
+unit_ids: []
+related_cards:
+  - C-S1-001       # Karp 第四孕期
+  - C-S1-007       # Karp 5S 包裹
+  - C-S1-078       # Brazelton 安抚
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

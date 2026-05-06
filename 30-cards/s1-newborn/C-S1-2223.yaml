@@ -1,0 +1,42 @@
+card_id: C-S1-2223
+stages: [S1]
+tags: []
+front:
+  title: 听力在家自查
+  hook: 拍手测惊跳真红旗
+back:
+  why_matters: |
+    宝宝似乎对噪音不反应,父母焦虑 — 可能不是聋,而是已经习惯那些声音(子宫里就听过)。
+    海蒂的家庭测试:在宝宝身后拍手 — 受惊吓 = 能听见;无反应 = 隔几小时再测;反复无反应 → 跟医生讨论。
+    高危人群:出生体重小于 2.5kg、分娩并发症、母亲孕期感染(风疹)、母亲孕期服特定药物 → 必须做听力测试。
+    医院出生时会做听力筛查 — 跟医生确认结果。
+    其他听力线索:对安抚声音是否平静、对歌声音乐是否回应、不熟悉嘈杂环境是否惊吓。
+    关键:听力问题越早干预,预后越好。
+  what_to_do:
+    - 在宝宝身后拍手测惊跳
+    - 反复无反应找医生
+    - 跟医生确认医院筛查结果
+    - 高危人群必做正式测试
+    - 留意对歌声音乐的反应模式
+  failure_mode: |
+    把"宝宝习惯了"误为"宝宝聋了"过度焦虑。
+    错过真听力问题的早期干预窗口 → 影响语言发育。
+  evidence_level: B
+glossary_refs: []
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors: ["Heidi Murkoff", "Sharon Mazel"]
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh: ["莫夏迪","张敏"]
+  location: "第 6 章第一个月 · 听力, 页 199"
+  source_id: SRC-040
+related_cards: []
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

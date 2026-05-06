@@ -1,0 +1,33 @@
+stage: S6
+total_cards_in_stage: 237
+key_findings:
+  L1_real_dedup:
+    - {id: S6-CL-005, topic: rouge test/镜中认我, cards: [C-S6-024, C-S6-296, C-S6-1072], action: 1072 主卡(Harter+Lewis 数据)+ 024/296 改写各自独特视角}
+    - {id: S6-CL-006-merge, topic: 教说话替打咬, cards: [C-S6-471, C-S6-614], action: DELETE_OR_MERGE 471 → 614(同 Magda Ch8 内容差异 < 30%)}
+  L2_strong_consensus_clusters:
+    - {id: S6-CL-001, topic: 反 time-out + 反 spank, sources: 7 派, cards_count: 9, action: 建 wiki/no-spanking-toddler.md hub, keep: [C-S6-021, C-S6-070, C-S6-610, C-S6-928]}
+    - {id: S6-CL-004, topic: 反抗期是 autonomy 萌芽, sources: 7 派, cards: [C-S6-009, C-S6-068, C-S6-122, C-S6-125, C-S6-468, C-S6-1079, C-S6-669], action: 建 hub(1079 Erikson 理论锚)}
+    - {id: S6-CL-007, topic: 反早教/文化路径多元, sources: 6 派, cards_count: 11, action: 建 wiki/cultural-pluralism-toddler.md hub(1503 主卡 Baltes plasticity 70+)}
+  L3_派系内部分歧_保留:
+    - {id: S6-CL-002, topic: tantrum 介入 vs 不介入, cards: [C-S6-008, C-S6-020, C-S6-607, C-S6-669, C-S6-928], note: 鲍秀兰 10 秒隔离 vs RIE/Brazelton/松田 在场不干预 — 派系级争议保留对比}
+    - {id: S6-CL-008, topic: 如厕 4 派, cards: [C-S6-189, C-S6-197, C-S6-400, C-S6-823, C-S6-958], action: UPDATE_HUB C-S6-197 加入松田 + Pikler}
+    - {id: S6-CL-010, topic: 1 岁后母乳 vs 中国早断, cards: [C-S6-1065, C-S6-1067], action: 数据版 vs 论战版功能不同保留}
+hotspot_findings:
+  hotspot_1_anti_timeout_spank: 9 卡 7 源 STRONG 共识(L2)+ 内部派系分歧(L3 鲍秀兰隔离 vs RIE 在场)
+  hotspot_2_negativism_autonomy: 7 卡 STRONG 共识 + 缺松田'反 反抗期 标签'独立卡
+  hotspot_3_self_recognition: 3 卡 L1 高重叠(Lewis 1979 数据完全重合)
+  hotspot_4_emotion_coaching_replace_aggression: 8 卡,471/614 L1 近重复(Magda Ch8 同节)
+  hotspot_5_culture_paths: 11 卡 6 源 — S6 最强资产,作为 wiki hub 优先建
+summary:
+  total_clusters: 11
+  L1_actions: 2 张可合并(471→614)+ 数据冗余 200-300 字(rouge test 三卡)
+  L2_actions: 4 个 wiki 索引页 + 加强 cross_refs
+  L3_actions: 3 个保留派系对比但加 cross_refs
+  estimated_card_savings: ~1-2 张
+  primary_value: wiki hub 建设(尤其文化路径 hub 11 卡 6 源)
+notes: |
+  S6 是反 time-out / 反 spank 立场最密集段(9 卡 7 源),建议作为 KB anti-corporal-punishment 锚段。
+  Hotspot 4 唯一可直接合并 L1:471 vs 614(Magda Ch8 同节)。
+  Hotspot 5 文化簇是最强资产(11 卡 6 源)— 中国家长反早教焦虑武器库。
+  派系内部分歧(鲍秀兰隔离 vs RIE 在场;Lillard 12-18 月 vs Lansbury 不训练)是知识价值,在 wiki 显式建对比页。
+  补卡缺口提示:松田'反 反抗期 标签'独立卡。

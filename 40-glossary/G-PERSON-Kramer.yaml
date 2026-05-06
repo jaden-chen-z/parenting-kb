@@ -1,0 +1,48 @@
+glossary_id: G-PERSON-Kramer
+type: person
+display_name: "Michael Kramer"
+
+en_term: "Michael S. Kramer"
+zh_term: "Michael Kramer"
+
+one_liner: |
+  McGill 大学流行病学家 — Cochrane EBF 元分析作者(Kramer-Kakuma 2012)。
+
+detail: |
+  ## 简介
+  Michael S. Kramer — McGill 大学(加拿大)流行病学家,母乳喂养证据综述权威。
+  
+  ## 主要贡献
+  - Cochrane Kramer-Kakuma 2012 'Optimal duration of exclusive breastfeeding' 元分析 — WHO 6 月 EBF 推荐的核心科学根基
+  - PROBIT(Promotion of Breastfeeding Intervention Trial)主导研究 — 白俄罗斯 17,046 母婴 RCT
+  - 母乳长期效应(IQ / 过敏 / 肥胖)研究
+  
+  ## PROBIT 关键发现
+  - BFHI 干预 → EBF 率显著提高
+  - 母乳延长 → 婴儿胃肠 / 呼吸道感染降
+  - 长期 IQ 益处 +5-7 点(高于 Horta 2015 的 +3 点估计)
+  
+  ## 在 SRC-031 中的角色
+  Kramer-Kakuma 2012 Cochrane 元分析是 WHO 6 月 EBF 立场的科学根基(C-S2-1049)。
+
+key_facts:
+  - "McGill 大学流行病学家"
+  - "Cochrane Kramer-Kakuma 2012"
+  - "PROBIT RCT 17,046 母婴"
+  - "WHO 6 月 EBF 科学根基"
+
+related_glossary:
+  - G-TERM-WHO-six-months
+  - G-ABBR-EBF
+  - G-PERSON-Victora
+
+related_cards:
+  - C-S2-1049
+
+sources:
+  - source_id: SRC-031
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

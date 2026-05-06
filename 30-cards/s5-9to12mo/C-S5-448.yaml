@@ -1,0 +1,55 @@
+card_id: C-S5-448
+stages: [S5]
+tags: [feeding, autonomy]
+
+front:
+  title: "矮桌矮椅替高脚椅"
+  hook: "高脚椅就是小监狱"
+
+back:
+  why_matters: |
+    Magda 经典立场:**高脚椅是给父母方便的小监狱**。
+    宝宝坐高脚椅 = 被绑住 + 被举高 + 不能自己来去 = 反主动。
+    替代:儿童尺寸的矮桌 + 矮椅 +(8 月会坐起来) →
+    宝宝自己爬上去 / 自己下来 / 自己定饱不饱。
+    跟蒙氏 child-sized environment 同源。
+
+  what_to_do:
+    - 8-10 月起换矮桌矮椅(模制塑料的小椅 + 圆角桌)
+    - 让他自己走过去坐(走稳前可挪小步)
+    - 食物放小份在桌上,他选吃不吃
+    - 离桌 = 吃饱信号,把饭收掉
+    - 不喂 / 不哄 / 不"再吃一口"
+
+  failure_mode: |
+    "高脚椅塞绑住喂完营养均衡" → 长期反:抗拒吃 + 吃饭焦虑 + 不知道饱。
+    Magda 原话:"过度喂破坏天然饱腹感"。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+  - G-TERM-prepared-environment
+
+citation:
+  book_title_en: "Your Self-Confident Baby"
+  book_title_zh: "自信的宝宝"
+  authors:
+    - Magda Gerber
+    - Allison Johnson
+  publisher_en: John Wiley & Sons
+  year: 1998
+  location: "Ch7 Try a Table and a Chair + Snack at RIE Class"
+  source_id: SRC-022
+
+unit_ids: []
+related_cards:
+  - C-S6-403  # Lansbury 限度+情绪
+  - C-S6-138  # Davies 父母先照顾自己
+  - C-S2-189  # Lillard 0-6 岁只给真实
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

@@ -1,0 +1,57 @@
+card_id: C-S1-411
+stages: [S1]
+tags: [equipment, zombified]
+
+front:
+  title: "7 类婴儿设备先放下"
+  hook: "晃成僵尸态不是平静"
+
+back:
+  why_matters: |
+    Magda Ch3 系统反对 7 类婴儿设备:
+    背带(slings)/ 摇椅(swings)/ 学步车(walkers)/
+    弹跳架(bouncers)/ 安抚奶嘴(pacifiers)/ 嗲嗲音(baby talk)/ 过密游戏围栏。
+    Magda 原话:这些让宝宝"zombied out"(被晃成僵尸态)—
+    不是真正的平静,是过度刺激后的关机。
+    剥夺宝宝自主大动作 + 自主情绪调节 + 自主探索能力。
+
+  what_to_do:
+    - 0-6 月不用电动摇椅 / 弹跳架(让他学自我调节)
+    - 不用学步车(Pikler 派立场,影响骨盆 + 大腿肌发育)
+    - 安抚奶嘴只在睡前 / 短安抚用,不长留嘴
+    - 1 月起减少长时间背带(让他平躺自由动)
+    - 用真声音不学动画片嗲嗲音
+
+  failure_mode: |
+    "他在摇椅上不哭多好" → 实际是过度刺激后的"关机",不是平静。
+    Magda 原话:"Zombied out 不是平静"。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Gerber
+  - G-PERSON-Pikler
+  - G-TERM-RIE
+  - G-TERM-active-participant-caregiving
+
+citation:
+  book_title_en: "Your Self-Confident Baby"
+  book_title_zh: "自信的宝宝"
+  authors:
+    - Magda Gerber
+    - Allison Johnson
+  publisher_en: John Wiley & Sons
+  year: 1998
+  location: "Ch3 §A Word about Baby Slings, Swings, and Bouncers + Pacifiers + Baby Talk"
+  source_id: SRC-022
+
+unit_ids: []
+related_cards:
+  - C-S2-290  # Lansbury 不撑坐 8 理由
+  - C-S1-409  # Magda 永远仰卧(本卷)
+  - C-S2-189  # Lillard 0-6 岁只给真实
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

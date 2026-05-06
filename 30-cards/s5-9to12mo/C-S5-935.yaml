@@ -1,0 +1,92 @@
+card_id: C-S5-935
+stages: [S5]
+tags: [pikler, motor-发展, milestones, source-de, controversy]
+
+front:
+  title: "会站不等于会走"
+  hook: "中间还有 2-4 月练习"
+
+back:
+  why_matters: |
+    Pikler 1969 Ch2 Stehen + Gehen 段强调:站立和走路是**两个独立大动作里程碑**,中间隔 2-4 月练习时段。
+
+    Pikler 描述的过渡:
+    - 自抓栏杆站起(9-12 月)
+    - 单手扶物站(10-13 月)
+    - 蹲下捡东西再起来(11-14 月)
+    - 扶物侧身横移走 — Cruising(12-15 月)
+    - 单手扶 + 单手抓物移动(13-16 月)
+    - 第一步无大人手(13-18 月)
+
+    "扶物侧移走"(Cruising)是关键过渡 — 婴儿在这个阶段练习重心从一脚转到另一脚 + 扶物保稳定。
+
+    跟中国"会站就赶紧扶他走两步"完全冲突 — Pikler
+    立场:站和走中间的练习时段不能省,省了 = 走路步态不稳。
+
+    Lansbury(SRC-019)/ Gerber(SRC-022)立场一致但本卷有 Pikler 1969 原版 6 阶段过渡描述。
+
+  what_to_do:
+    - 看到宝宝扶物侧移 — 别评论别"加油"
+    - 不抱手"让他走两步"(干扰过渡)
+    - 给他扶物路径 — 沙发 / 茶几 / 围栏连续物
+    - 摔倒别马上扶 — 看他能不能自己起来(他常能)
+    - 第一步是他独立的 — 没有大人手拉
+
+  failure_mode: |
+    "扶他走两步以后会走得早些吧" → Pikler 反:走得早不重要,走得稳才重要。扶手走的孩子第一独立步反而晚 + 步态摇晃。
+
+  evidence_level: B
+
+  positions:
+    issue: 大动作发展该不该训练 · 学步车 / Bumbo / 撑坐 / 训练表是否有用
+    views:
+      - school: Pikler
+        source: SRC-026
+        stance: 完全反对训练 — 自然顺序 + 安全空间 + 时间 = 大动作全部自动发生;严反一切撑物(学步车 / Bumbo / 跳跳器 / 婴儿座椅)。
+      - school: Magda Gerber / RIE / Lansbury
+        source: SRC-022/019
+        stance: 继承 Pikler 立场 — 里程碑不是赛跑,不撑坐 8 理由,7 类婴儿设备先放下。
+      - school: 蒙氏(Davies/Lillard)
+        source: SRC-014/016
+        stance: 立场一致 — floor bed + 自由动作空间 + 反早期撑坐。
+      - school: AAP
+        source: SRC-002
+        stance: 反学步车(Policy Statement + 数百起伤亡报道);加拿大 2004 立法全球首例禁售。
+      - school: Brazelton
+        source: SRC-010
+        stance: 反学步车,跟 Pikler 立场一致;主张孩子自然探索大动作。
+      - school: 松田道雄
+        source: SRC-024
+        stance: 温和支持自然 — 不催孩子翻 / 坐 / 爬 / 走的时间表,部分跟 Pikler 共鸣。
+      - school: 鲍秀兰
+        source: SRC-009
+        stance: 支持训练 — 婴儿体操 / 抓握训练 / 撑坐;跟 Pikler 派 8 派立场严重对立。
+      - school: 中国主流
+        stance: '"4 月翻 / 6 月坐 / 9 月爬 / 12 月走" 训练表 + 80% 家庭曾用学步车。跟 Pikler 派全面对立。'
+glossary_refs:
+  - G-PERSON-Pikler
+  - G-TERM-bewegungsentwicklung
+  - G-TERM-pikler-milestones
+
+citation:
+  book_title_de: "Friedliche Babys – zufriedene Mütter"
+  book_title_zh: "和平的婴儿 — 满足的母亲"
+  authors:
+    - Emmi Pikler
+  publisher_de: HERDER (HERDER / SPEKTRUM Band 4141)
+  year: 1969
+  location: "Ch2 Stehen + Gehen pp. 85-95"
+  source_id: SRC-026
+
+unit_ids: []
+related_cards:
+  - C-S5-933  # Pikler 不教站(本卷)
+  - C-S4-840  # Pikler 不抱手让走(本卷)
+  - C-S3-835  # Pikler 大动作 6 阶段(本卷)
+  - C-S4-129  # Wonder Weeks 大动作里程碑
+  - C-S4-349  # Gerber 里程碑不是赛跑
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

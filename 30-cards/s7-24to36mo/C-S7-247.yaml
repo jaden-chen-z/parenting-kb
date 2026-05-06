@@ -1,0 +1,66 @@
+card_id: C-S7-247
+stages: [S7]
+tags: [bowlby, loss, grief, china_high_freq]
+
+front:
+  title: 爷奶去世跟娃讲
+  hook: 主要照顾者影响等同父母
+
+back:
+  why_matters: |
+    中国 0-3 岁宝宝**主要照顾者很多是爷奶 / 外公外婆**(双职工常态)。
+    这些老人是宝宝**第二第三主依恋人**,他们去世对宝宝的影响**不亚于父母去世**。但中国家庭普遍把"爷奶去世"轻看 — "反正只是远房亲戚"。
+    Bowlby Vol 3 通用原则全部适用,只是对象换成爷奶:
+    - **告知真相**(C-S7-237):不要瞒,不绕"奶奶去远方了 / 出去玩了"
+    - **不是你的错**(C-S7-241):宝宝最近可能跟奶奶吵过 → **主动**说"奶奶生病不是因为你"
+    - **小细节信号**(C-S7-243):揪头发 / 抠脸 / 退化 / 食欲差都可能是哀伤
+    - **重聚冷淡**(C-S7-240):过渡期变安静顺从也是哀伤反应
+    - **大人允许哭**(C-S7-245):爷奶去世大人也很难别在宝宝前装
+    - **替代照顾者**(C-S6-294):另一位老人 / 阿姨稳定接手比"立刻换新奶奶"重要
+    Bowlby 立场:**有持续陪伴的爷奶 = 真正的依恋人,他们的离开 = 真正的丧失**。不能因为"非父母"就轻看。
+    实操关键:
+    - 留 1-2 张老人照片在宝宝看得到的地方
+    - 允许宝宝随时提奶奶
+    - 别快速清空老人房间 / 物品(切断哀悼锚点)
+    - 节日 / 老人生日时主动跟宝宝聊
+  what_to_do:
+    - 用真话告诉"奶奶去世了不会回来"
+    - 主动澄清"不是你的错"
+    - 留照片 + 物品在视野内
+    - 允许宝宝反复提爷奶
+    - 别快速安排"新奶奶"角色
+  failure_mode: |
+    "孩子小不懂奶奶死了不告诉" → 反:1 岁半已会想念主依恋人(C-S6-293)。
+    "她去远方旅游了" → 等到崩溃发现被骗 → 信任 + 哀悼双重损伤。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Bowlby
+  - G-TERM-mourning
+  - G-TERM-childhood-mourning
+  - G-TERM-attachment
+  - G-TERM-primary-attachment-figure
+
+citation:
+  book_title_zh: "依恋三部曲 · 第三卷:丧失"
+  book_title_en: "Attachment and Loss, Vol 3: Loss, Sadness and Depression"
+  authors: ["John Bowlby"]
+  authors_zh: ["约翰·鲍尔比"]
+  publisher_zh: "世界图书出版有限公司北京分公司"
+  year_zh: 2018
+  year_en: 1980
+  isbn_zh: "978-7-5192-3383-9"
+  location: "Ch 16 + Ch 23-24 · 中国家庭爷奶场景应用(整合通用原则)"
+  source_id: SRC-017
+
+unit_ids: []
+related_cards:
+  - C-S7-237       # 谈死亡用真话
+  - C-S7-241       # 告诉娃不是他的错
+  - C-S6-294       # 替代照顾者最关键
+  - C-S6-096       # Bowlby V2 病故别瞒孩子
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

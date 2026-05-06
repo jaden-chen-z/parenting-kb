@@ -1,0 +1,59 @@
+card_id: C-S6-405
+stages: [S6]
+tags: [language, communication, RIE, lansbury]
+
+front:
+  title: "鼓励幼儿说话:6 个真招"
+  hook: "话不在多在于真实"
+
+back:
+  why_matters: |
+    Lansbury Ch17 反主流命题:
+    主流"3 岁前听 3 万词"焦虑 → 一些专家叫家长"持续解说"。
+    Lansbury 反:话太多反而让孩子屏蔽。
+    6 招才真有效:
+    1. 双向沟通(从出生起)— 你说 + 听他回应
+    2. 真嗓不奶声(motherese 反而不尊重)
+    3. 用第一人称("我"不"妈妈想要")
+    4. 说真事不教单词("球"不如"球滚远了")
+    5. 读书跟孩子节奏(她翻就翻,跳页也行)
+    6. 慢 + 放松,不焦虑
+
+  what_to_do:
+    - 不嘎嘎奶声,正常嗓门 + 略慢
+    - 用第一人称"我",不"妈妈"
+    - 说当下真事,不刻意教单词
+    - 读书让孩子主导(翻 / 停 / 跳)
+    - 不焦虑"还不会说话",信任时间表
+
+  failure_mode: |
+    "持续解说塞 3 万词" → 孩子学到"成人说话噪声大",反而屏蔽。
+    或反向:不跟他说话 → 缺语言素材。
+    Lansbury 中道:质量 + 真实,不是数量。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Lansbury
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+
+citation:
+  book_title_en: "Elevating Child Care: A Guide to Respectful Parenting"
+  book_title_zh: "尊重孩子:RIE 育儿之道"
+  authors:
+    - Janet Lansbury
+  publisher_en: JLML Press
+  year: 2014
+  location: "Ch17 Best Ways to Encourage Toddlers to Talk"
+  source_id: SRC-019
+
+unit_ids: []
+related_cards:
+  - C-S6-193  # Lillard 12-24 月词汇爆炸
+  - C-S2-127  # Davies 真词不嘎嘎
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

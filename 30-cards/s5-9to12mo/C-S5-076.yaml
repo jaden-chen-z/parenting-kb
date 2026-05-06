@@ -1,6 +1,6 @@
 card_id: C-S5-076
 stages: [S5]
-tags: []
+tags: [controversy]
 
 front:
   title: 抱毯子玩偶不是怪癖
@@ -39,7 +39,7 @@ citation:
   year_en: 1969
   year_zh: 2017
   isbn: "978-7-5192-2927-6"
-  location: "第十五章 聚焦在一个对象上(非生命物体的角色 — Stevenson 1954 / Schaffer & Emerson:18 月大苏格兰儿童 28 位中 11 位有特定拥抱物体依恋。Winnicott 过渡性客体 / Bowlby 替代性物体术语)"
+  location: "第十五章聚焦在一个对象上(非生命物体的角色 — Stevenson 1954 / Schaffer & Emerson:18 月大苏格兰儿童 28 位中 11 位有特定拥抱物体依恋。Winnicott 过渡性客体 / Bowlby 替代性物体术语)"
   source_id: SRC-011
 
 unit_ids: []

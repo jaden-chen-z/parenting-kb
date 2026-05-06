@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Baumrind
+type: person
+display_name: "Baumrind(戴安娜·鲍姆林德)"
+
+full_name_en: "Diana Baumrind"
+full_name_zh: "戴安娜·鲍姆林德"
+
+position: |
+  UC Berkeley 心理学教授
+
+contribution: |
+  父母教养 4 类型(权威/专制/纵容/忽视)奠基人;Maccoby 升级为 2x2 框架
+
+one_liner: |
+  戴安娜·鲍姆林德 — 父母教养 4 类型(权威/专制/纵容/忽视)奠基人;Maccoby 升级为 2x2 框架
+
+key_facts:
+  - "本卷章节:Ch 8 historical"
+  - "Lerner V3 命中:43 次"
+  - "学派:Lerner V3 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-027
+    chapter: "Ch 8 historical"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

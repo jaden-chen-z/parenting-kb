@@ -1,0 +1,73 @@
+card_id: C-S6-300
+stages: [S6]
+tags: [self, framework, parent_attitude]
+
+front:
+  title: 会说话后调谐仍要
+  hook: 会说话仍要调谐
+
+back:
+  why_matters: |
+    一个常见的家长误区 — "宝宝会说话了就靠语言沟通就行" — Stern 强烈反对:**语言自我 出现后,调谐(C-S5-291)反而更重要**。
+    **为什么 调谐 在 语言自我 后更重要**:
+    1. **语言是双刃剑**(C-S6-298)— 词不能装下所有体验,调谐 处理"词外"部分
+    2. **活力情感 永远没词** — 仍然每时每刻在,只能 调谐 不能 用语言表达
+    3. **词容易**让父母产生"我懂了" 的错觉 — 但其实只懂了表层
+    - 例:宝宝说"我累了" — 词上听懂了,但他可能是累 + 失望 + 害怕 + 想要妈在 — 这层只能 调谐
+    4. **18 月+ 宝宝开始"为社会规则"言行**(Dore)— 失去前期 个人秩序 的"自由共在" — 调谐 是修复方式
+    5. **语言自我 跟之前 3 层 self 是叠加,不替换** — 仍需要给 新生 / core / 主观自我 输入
+    **错误做法**:
+    - "宝宝会说就听他说" — 只听语言层
+    - "你不用哭可以告诉妈" — 把非语言表达用语言取代,**否定**了非语言层的存在
+    - "用嘴说,不要哭" — 把哭当"原始" — 错,哭是 活力情感 的最强表达
+    **正确做法**:
+    - **混合用** — 听宝宝的话 + 同时 调谐 非语言
+    - **不否定**非语言表达 — 哭 / 紧抱 / 冲撞都是合法的"语言"
+    - **保留 非语言 play** — 不每件事都要"说出来"
+    - **continued 活力 matching** — 18 月+ 仍跟宝宝同频
+    **跟 Lillard 蒙氏母-师角色(C-S6-186) + 鲍秀兰本能母爱**一致 — 都重视 18 月+ 的"超语言"陪伴。
+    **中国家长高频陷阱**:
+    - 18 月+ 突然变"理性沟通模式" — "我们用嘴说"
+    - 错觉 — "宝宝会说话了所以可以讲道理了"
+    - **Stern + Lillard 一致反对**:18 月-3 岁不能纯靠 reasoning
+    - **调谐 + 选 2 + 描述法 + No 永远 No** = 4 工具 — 都不靠纯语言跟 Lillard"描述法替讲道理"(C-S6-194)+"选 2 不选 3"(C-S6-188)同立场。
+  what_to_do:
+    - 18 月+ 继续 调谐 不只是说话
+    - 不否定哭 / 紧抱等非语言表达
+    - 保留 非语言 play 时间
+    - 继续 活力 matching
+    - 别突然变"理性沟通模式"
+  failure_mode: |
+    "宝宝会说话了就用嘴说不要哭" — 错。否定非语言表达 = 切割 self。哭仍是合法表达。
+    18 月+ 突然"理性沟通模式" → 错过 调谐 关键窗。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Stern
+  - G-TERM-affective-attunement
+  - G-TERM-verbal-self
+
+citation:
+  book_title_zh: "婴儿的人际世界"
+  book_title_en: "The Interpersonal World of the Infant"
+  authors: ["Daniel N. Stern"]
+  authors_zh: ["丹尼尔·斯特恩"]
+  publisher_en: "Basic Books"
+  year_en: 1985
+  isbn_en: "978-0-465-09559-9"
+  location: "Ch 8 · Verbal Self + 4 senses 叠加 / Stern 整体框架"
+  publisher_zh: "华东师范大学出版社"
+  year_zh: 2017
+  translator_zh: ["刘旭东"]
+  source_id: SRC-018
+
+unit_ids: []
+related_cards:
+  - C-S5-291       # Stern attunement 主卡
+  - C-S6-194       # Lillard 描述法替讲道理
+  - C-S6-188       # Lillard 选 2 不选 3
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

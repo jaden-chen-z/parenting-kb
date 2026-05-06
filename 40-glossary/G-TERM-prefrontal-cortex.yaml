@@ -1,0 +1,81 @@
+glossary_id: G-TERM-prefrontal-cortex
+type: term
+display_name: prefrontal cortex(PFC)前额叶皮层
+
+en_term: prefrontal cortex (PFC)
+zh_term: 前额叶皮层 / 脑的思考区
+
+one_liner: |
+  大脑额叶最前部 — 高级认知 / 执行功能 / 自我调节 / 决策中枢。
+  最晚成熟脑区:1 岁突触峰,但裁剪到青春期晚期才达成人水平。
+  这就是为什么孩子需要这么长时间才学会"控制自己" — 大脑还在长。
+
+detail: |
+  ## 解剖位置
+  - 大脑前额最前部
+  - 占人类大脑 30%(其他灵长类只 10-15%)
+  - 进化最晚出现 + 个体最晚成熟
+
+  ## 主要功能
+  - **执行控制**(inhibition / 工作记忆 / 灵活)
+  - 决策 + 计划
+  - 道德 + 社交判断
+  - 工作记忆
+  - 情绪调节(跟边缘系统沟通)
+  - 个性 + 自我意识
+
+  ## 发展时间线(Huttenlocher 数据)
+  - 出生:基础形成
+  - **1 岁**:突触爆增高峰
+  - 1-3 岁:大量裁剪起步
+  - 3-6 岁:执行功能基础成熟
+  - 6-12 岁:复杂功能成熟
+  - **青春期晚期(20+ 岁)**:成人水平
+  - **比其他脑区晚 10-15 年成熟**
+
+  ## 重要含义
+  - 1-3 岁孩子"不会自控"是大脑还没长好
+  - 3-6 岁孩子开始有自控但不稳定
+  - 12-18 岁青少年看似成人但 PFC 仍在长
+  - 20+ 岁才成人水平 — 法律 18 岁的科学反驳
+
+  ## 损伤后果
+  - Phineas Gage 经典(1848 PFC 损伤)
+  - 决策能力 ↓ + 冲动 ↑ + 社交障碍 ↑
+  - 跟反社会行为相关
+  - 跟 ADHD / 抑郁 / 焦虑相关
+
+  ## 早期应激影响
+  - 慢性 cortisol 高 → PFC 发育受阻
+  - 罗马尼亚孤儿:PFC 较薄
+  - ACE 多 → PFC 灰质少
+  - 安全依恋 → PFC 健康发育
+
+  ## NRC 立场(Ch 8)
+  - PFC 是自我调节的脑底座
+  - PFC 发育依赖**安全 + 关系 + 经验**
+  - 1-3 岁 PFC 训练 = 假装玩 + 规则游戏 + 自由探索
+  - 不是 = 提前学拼音 / 数学
+
+key_facts:
+  - 大脑最晚成熟脑区
+  - 1 岁突触峰 + 青春期晚期成人水平
+  - 执行功能 + 自我调节中枢
+  - 慢性应激伤 PFC 发育
+
+related_glossary:
+  - G-PERSON-Shonkoff
+  - G-TERM-executive-function
+  - G-TERM-self-regulation
+  - G-TERM-cortisol
+
+related_cards: []
+
+sources:
+  - source_id: SRC-025
+  - external: Huttenlocher 1979 + 1997
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

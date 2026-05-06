@@ -1,0 +1,25 @@
+glossary_id: G-TERM-internal-working-models
+type: term
+display_name: "内部工作模型"
+
+one_liner: |
+  Bowlby/Cassidy 经典:9-12 月装的"我是谁 + 别人是谁"心理模板,影响一生关系。
+
+detail: |
+  Bowlby/Cassidy 经典:9-12 月装的"我是谁 + 别人是谁"心理模板,影响一生关系。
+
+  来源:Lerner V3《Handbook of Child Psychology Vol 3》(Wiley 2006 第 6 版,Eisenberg 主编)。
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-027
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04
+
+merged_into: G-TERM-internal-working-model
+merge_reason: '术语卡重复 — 单数版 + 复数版同概念'

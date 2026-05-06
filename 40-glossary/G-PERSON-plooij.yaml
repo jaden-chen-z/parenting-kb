@@ -1,0 +1,64 @@
+glossary_id: G-PERSON-plooij
+type: person
+display_name: Plooij
+
+full_name_en: Frans X. Plooij
+full_name_zh: 弗朗斯·普洛伊
+
+one_liner: |
+  荷兰行为生物学家(1944-),Wonder Weeks 共同发现者,剑桥大学博士。师承 Niko Tinbergen,把灵长类行为学方法迁移到人类婴儿研究。
+
+detail: |
+  ## 个人背景
+  - 1944 年生,荷兰
+  - 剑桥大学(Cambridge University)行为生物学博士
+  - 妻子 Hetty van de Rijt,毕生科研搭档
+  - 师承 Niko Tinbergen(1973 年诺贝尔生理学奖,动物行为学奠基人)
+  - 1970s 与 Jane Goodall 在坦桑尼亚 Gombe 研究站做黑猩猩婴儿行为观察
+
+  ## 主要贡献
+  ### 1. Wonder Weeks 共同发现
+  - 1992 与 van de Rijt 共同发表荷兰文原版
+  - 35 年自然观察 + 母亲日记 + 录像分析
+  - 提出 0-75 周 10 个可预测的"大脑跃迁"时间表
+
+  ### 2. 跨物种比较研究
+  - 黑猩猩婴儿 vs 人类婴儿发展规律对比
+  - 论证:灵长类共有"先短暂行为崩盘 → 新能力上线"模式
+  - 进化生物学视角验证 Wonder Week 的物种普遍性
+
+  ### 3. 神经科学桥接
+  - 与神经科学家合作验证 6/10 跃迁伴随 EEG 改变
+  - 论证:fussy phase 不是"问题",是大脑物理重组的外在表现
+
+  ## 与 Brazelton 的关系
+  - Brazelton 在 Wonder Weeks 英文版序中直接背书
+  - 触摸点理论(Touchpoints)与 Wonder Weeks 跃迁理论"独立得出相同结论"
+
+  ## 在本知识库中
+  - SRC-013(Wonder Weeks)共同作者
+  - 与 G-PERSON-Brazelton 理论姐妹篇
+
+key_facts:
+  - 1944 年生,荷兰行为生物学家
+  - 剑桥大学博士,师承 Tinbergen
+  - 与 Goodall 黑猩猩研究背景
+  - Wonder Weeks 共同发现者
+  - 推动神经科学验证 6/10 跃迁
+
+related_glossary:
+  - G-PERSON-vanderijt
+  - G-PERSON-Brazelton
+  - G-TERM-wonder-week
+  - G-TERM-mental-leap
+
+related_cards: []
+
+sources:
+  - source_id: SRC-013
+  - external: "TheWonderWeeks.com / Cambridge University records / Tinbergen Institute"
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

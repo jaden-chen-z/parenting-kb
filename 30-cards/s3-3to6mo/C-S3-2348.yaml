@@ -1,0 +1,49 @@
+card_id: C-S3-2348
+stages: [S3]
+tags: [safety, red_flag, controversy]
+
+front:
+  title: 中耳炎红旗:疼痛 +2 天不消
+  hook: 别自治,80% 4-7 天自愈
+
+back:
+  why_matters: |
+    急性中耳炎(AOM)1 岁内常见,因婴儿**耳咽管短 + 水平 + 排水差**。
+    海蒂证据:**80% 不复杂中耳炎 4-7 天自愈,无需抗生素** — 美国儿科趋势是"小心观察"
+    而非自动开药。但需要医生区分是否复杂 / 鼓膜状态。
+    **疼痛 + 发烧 + 拉揉耳朵** 经典三联,2 天不缓解或恶化 → 必须就医。
+    预防:母乳 6 月 + 仰躺哺乳别 + 二手烟禁 + 倾斜奶瓶。
+  what_to_do:
+    - 疼痛持续 + 发烧 + 拉/揉耳朵 → 通知医生
+    - 2 天不缓解或加重 → 复诊评估抗生素
+    - 居家:**对乙酰氨基酚或布洛芬**止痛,温热水袋低温敷
+    - 抗生素一旦开 5-10 天**全程吃完**(防耐药)
+    - 预防:母乳至少 6 月,**禁躺着喂**,生活区禁烟
+  failure_mode: |
+    自买滴耳液 / 抗生素 → 选错药 + 鼓膜穿孔时禁某些液。
+    一发烧就要求开抗生素 → 80% 自愈,滥用反耐药。
+    抗生素开 5 天只吃 3 天就停 → 复发 + 耐药。
+    琥珀牙链止痛 → 海蒂禁(C-S3-013 已收录,窒息+勒颈风险)。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-AAP
+
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1 岁"
+  authors: [Heidi Murkoff, Sharon Mazel]
+  publisher_en: Workman Publishing
+  publisher_zh: 南海出版公司(新经典发行)
+  year: 1989
+  edition: 3rd (2014)
+  location: "第 18 章《宝宝生病》'急性中耳炎 AOM / 处理 + 预防',550-552 页中译"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards: [C-S3-013, C-S2-2105]
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

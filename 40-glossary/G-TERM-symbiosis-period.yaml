@@ -1,0 +1,80 @@
+glossary_id: G-TERM-symbiosis-period
+type: term
+display_name: 共生期 (symbiosis)
+
+full_name_zh: 共生期(蒙氏)
+full_name_en: Symbiosis / Symbiotic Period
+
+one_liner: |
+  蒙氏对新生儿期 0-6/8 周的命名。宝宝刚出生,身体上分离了,但生理 / 心理上仍与照顾者深度绑定,主要任务是"适应宫外世界"。
+  类似 Karp 的"第四孕期"(fourth trimester)— 不同名字,同一现象。
+
+detail: |
+  ## 定义
+  Symbiosis 共生期 = 蒙氏对新生儿出生后 6-8 周的命名。
+  Maria Montessori 强调,即使脐带剪断,宝宝仍与照顾者(主要是妈妈)处于"生理共生"状态:
+  - 体温调节依赖照顾者
+  - 心率 / 呼吸节律向照顾者同步
+  - 喂养完全依赖
+  - 心理 / 情绪通过照顾者读懂世界
+
+  这不是"过度依恋",是发育阶段的必然。
+
+  ## 蒙氏共生期的 4 大原则
+  1. **少打扰**(slow stimulation)— 灯暗 / 声轻 / 温度稳
+  2. **少访客**(few visitors)— 减少陌生触觉 + 气味
+  3. **大量肌肤接触**(skin-to-skin)— 调节心跳 / 体温 / 消化
+  4. **慢动作**(go slow)— 抱 / 换尿布 / 喂奶都放慢
+
+  ## 与同类概念对比
+  | 概念 | 出处 | 时长 | 重点 |
+  |---|---|---|---|
+  | Symbiosis 共生期 | Montessori | 6-8 周 | 适应宫外 + 建立 point of reference |
+  | Fourth trimester 第四孕期 | Karp | 12 周(3 月) | 模拟子宫 + 5S 安抚 |
+  | 触摸点 newborn | Brazelton | 出生即刻 | 6 states + 父母连接 |
+  | Strange situation 准备期 | Bowlby | 0-2 月 | 依恋前奏 |
+
+  ## 蒙氏共生期的具体做法
+  - 用 topponcino(蒙氏小毯)作连续感载体
+  - 不戴手套(手是 baby 的 orientation)
+  - 抱姿要让宝宝看到妈妈脸(30cm 内)
+  - 慢动作换尿布(不要快速一次性)
+  - 让宝宝先 root(寻乳),再喂(不要把奶头塞进嘴)
+  - 接受抱睡 / 频繁喂 — 这就是这阶段的样子
+
+  ## 共生期的"独立"也开始
+  - 蒙氏不教条到底
+  - 共生期内允许:每天有几分钟动作毯时间
+  - 让宝宝在毯上伸展四肢
+  - 妈妈就在旁边,不是"放下不管"
+
+  ## 何时结束
+  - 通常 6-8 周后,宝宝开始更长时间清醒
+  - 能短暂离开妈妈视线不焦虑
+  - 开始关注自己的手 / 脚
+  - 从 symbiosis 进入"探索环境"阶段
+
+key_facts:
+  - 蒙氏对 0-6/8 周新生儿期的命名
+  - 等同于 Karp 第四孕期 / Brazelton newborn 触摸点
+  - 4 原则:少打扰 / 少访客 / 多肌肤 / 慢动作
+  - 用 topponcino 作连续感锚
+  - 不教条 — 共生期内也开始 movement mat
+
+related_glossary:
+  - G-PERSON-Montessori
+  - G-PERSON-Davies
+  - G-TERM-fourth-trimester
+  - G-TERM-topponcino
+  - G-TERM-bonding
+
+related_cards: []
+
+sources:
+  - source_id: SRC-014
+  - external: Silvana Montanaro《Understanding the Human Being》
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

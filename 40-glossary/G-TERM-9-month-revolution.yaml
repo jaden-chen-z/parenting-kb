@@ -1,0 +1,70 @@
+glossary_id: G-TERM-9-month-revolution
+type: term
+display_name: 9 月革命 (9-month revolution)
+
+full_name_zh: 9 月革命 / 共享意图涌现
+full_name_en: 9-Month Revolution / Shared Intentionality Emergence
+
+one_liner: |
+  Tomasello 提出 — 9 月前后宝宝认知根本性转变,共享意图涌现。
+  联合注意 + 凝视跟随 + 社会参考 + 协议商定 5 种能力同时涌现。
+
+detail: |
+  ## 定义
+  Tomasello 1995-2003 立场:9 月前后宝宝认知"质变"。
+
+  ## 5 种能力同时涌现
+  1. **Joint Attention**(联合注意)— 跟妈妈看同一物体,知道双方都看
+  2. **Gaze Following**(凝视跟随)— 跟着妈妈看的方向
+  3. **Social Referencing**(社会参考)— 看妈妈表情决定行为
+  4. **Shared Intentionality**(共享意图)— "我们都想做这"
+  5. **Agreement**(协议商定)— 跟人合作完成任务
+
+  ## 为什么是革命
+  - 不是单一能力 — 是认知架构变化
+  - 婴儿认识到"别人有内心 + 内心可分享"
+  - 是人类独有(Tomasello vs 黑猩猩对照)
+  - 是语言学习的奠基(没共享意图就不能学词)
+  - 是文化传承的奠基
+
+  ## 跟其他派对接
+  - Stern intersubjectivity(7-15 月)同时间窗
+  - Wonder Weeks WW46 第 5 跃迁(关系)同月龄
+  - Bowlby 9 月依恋形成同时间
+
+  ## 在本知识库中
+  - SRC-028 Lerner V2 Ch6 Tomasello 主笔
+  - C-S5-1140 Tomasello 9 月革命
+  - C-S5-1141 Pointing 9 月分享
+  - C-S5-1142 Bates 手势-语言连续
+
+  ## 中国家长意义
+  - 9 月起多"共看"宝宝指的方向
+  - 看宝宝看的方向 — 跟着他兴趣
+  - 9 月开始真正能"教"(因为他理解你的意图)
+
+key_facts:
+  - Tomasello 1995 提出
+  - 9 月前后认知质变
+  - 5 种能力同时涌现
+  - 人类独有的合作认知
+
+related_glossary:
+  - G-PERSON-Tomasello
+  - G-PERSON-Stern
+  - G-TERM-joint-attention
+  - G-TERM-theory-of-mind
+
+related_cards:
+  - C-S5-1140
+  - C-S5-1141
+  - C-S5-1142
+
+sources:
+  - source_id: SRC-028
+  - external: Tomasello 1999《Cultural Origins》/ Wikipedia Joint Attention
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

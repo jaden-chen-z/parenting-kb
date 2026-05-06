@@ -1,0 +1,64 @@
+card_id: C-S4-131
+stages: [S4]
+tags: [montessori, independence, water, hydration, philosophy]
+
+front:
+  title: 7-8 月让宝宝自取水
+  hook: 蒙氏生活技能起步
+
+back:
+  why_matters: |
+    家长常见思路:宝宝渴 → 妈妈拿瓶 / 倒水 / 递。
+    蒙氏挑战:**7-8 月起,宝宝可以自己爬到水边喝。**
+    具体做法:
+    - 客厅地板上放一**矮的稳定杯子**(不烫 / 不易倒)
+    - 内有少量水(约 1/3 杯)
+    - 旁边放小毛巾(擦溢)
+    - 宝宝渴了爬过去,自己抓杯喝
+    - 全程不帮 — 即使溢出来 / 抓不稳第一次会很乱(水洒一地)— 蒙氏立场:**这就是学习**。
+    意义:
+    - **基本信任 - 自我**(basic trust in self)— 9 月里程碑
+    - **practical life**(生活技能)起步 — 蒙氏 0-3 核心
+    - **手脚配合 + 抓握 + 判距离** 同时练
+    - 学到"我能照顾自己的需求"
+    Davies 原话:"宝宝 7-8 月就能爬到小水杯前喝。"
+    工具不限于杯 — 可以用**带吸管的小瓶 / 小水壶**(BLW 派也用)。
+    意义远大于"喝水" — 是宝宝**第一次为自己负责**。
+  what_to_do:
+    - 7-8 月起放小杯 / 吸管杯在他能爬到的位置
+    - 内只有少量水(1/3 杯,洒不多)
+    - 旁边放小毛巾(他擦不行你擦)
+    - 不替他喝 / 不警告"小心洒"
+    - 接受第一周很乱
+  failure_mode: |
+    "他会洒一地我每天擦不过来" — 第 1-2 周乱,之后他越来越准。算总账省时间。
+    "他还小不会拿杯" — 7 月手已能拿 100g 物体,杯子完全可以。
+    "递给他不就行了" — 递 = 切断自主性训练,他学不到自己满足需求。
+  evidence_level: C
+
+glossary_refs:
+  - G-PERSON-Davies
+  - G-PERSON-Montessori
+  - G-TERM-prepared-environment
+
+citation:
+  book_title_zh: "蒙特梭利的小宝宝(0-1岁)"
+  book_title_en: "The Montessori Baby"
+  authors: ["Simone Davies", "Junnifa Uzodike"]
+  authors_zh: ["西蒙·戴维斯", "君妮法·乌佐迪克"]
+  publisher_en: "Workman Publishing"
+  year_en: 2021
+  isbn_en: "978-1-5235-0693-7"
+  location: "Chapter 5 · Encouraging concentration > Hydration + practical life"
+  source_id: SRC-014
+
+unit_ids: []
+related_cards:
+  - C-S3-136       # 蒙氏不替他够
+  - C-S4-130       # 蒙氏 yes space
+  - C-S4-001       # AAP BLW
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

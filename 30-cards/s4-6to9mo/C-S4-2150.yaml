@@ -1,0 +1,36 @@
+card_id: C-S4-2150
+stages: [S4]
+tags: [feeding]
+front:
+  title: 7-8 月乳头被咬,坚定 No+拔离
+  hook: 笑着哎呦=奖励咬人
+back:
+  why_matters: |
+    长牙娃 7-8 月开始啃咬一切,妈妈乳头首当其冲,处理得当 1 周内停,处理失当戒奶。
+    机制:娃不知道咬妈妈是错的,妈妈一笑/一惊呼"哎呦"反而被娃解读为有趣反馈,会反复实验。海蒂建议:平静坚定地说"No,不能咬",立即把奶拔离,暂停喂养几分钟,让娃明白"咬=没奶",几次就改。
+  what_to_do:
+    - 平静"No 不咬"+立即拔离
+    - 暂停 1-2 分钟再继续
+    - 不大笑不大叫给反馈
+    - 检查是否长牙期可给牙胶
+    - 喂前给个咬咬胶满足咬欲
+  failure_mode: 妈妈反应太大(尖叫/笑/责备),娃以为是好玩游戏,每次喂奶都试咬,妈妈恐惧到提前断奶。
+  evidence_level: B
+glossary_refs: []
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors: ["Heidi Murkoff", "Sharon Mazel"]
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh: ["莫夏迪","张敏"]
+  location: "第 11 章 《第 7 个月》, 页 384-385"
+  source_id: "SRC-040"
+related_cards: [C-S3-2246]
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

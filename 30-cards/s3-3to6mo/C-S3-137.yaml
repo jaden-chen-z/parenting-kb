@@ -1,0 +1,64 @@
+card_id: C-S3-137
+stages: [S3]
+tags: [montessori, books, language]
+
+front:
+  title: 选真实主题的绘本
+  hook: 不要奇幻 / 卡通熊熊
+
+back:
+  why_matters: |
+    家长选童书的常见误区 — **越可爱越好**(熊熊小汽车 / 兔兔吃蛋糕 / 拟人卡通)。
+    蒙氏立场:**0-6 岁选真实题材的书**,不要奇幻。
+    理由:
+    - 0-6 岁宝宝**通过现实建构世界**(吸收性心智)
+    - 看到"熊开车"会困惑(熊真的开车?)
+    - 看到"真实的熊照片 + 介绍生活"才能学
+    - 6 岁前奇幻能力没发育,提前喂奇幻 = 学错的基础研究:young children 看现实主题书学到更多(被多次研究证实)。
+    实操选书原则:
+    1. **照片 / 写实绘画**优先(动物 / 植物 / 日常场景)
+    2. **真实主题** — 动物在野外 / 食物在厨房 / 季节
+    3. **避免拟人** — 不要熊穿衣服开车
+    4. **板书(board book)耐啃**
+    5. **黑白起步 → 彩色 → 有细节**
+    6. **少字 → 单词 → 短句**
+    7. 1 岁后**翻页书 / lift-the-flap** 可以(但研究显示其实学得稍少 — 当玩具就好)
+    Junnifa 的招:用空白板书 + 家庭照片做"这是爷爷 / 这是哥哥 / 这是小狗 Bobo"
+    家庭书,宝宝最爱看。
+  what_to_do:
+    - 选真实题材(动物 / 食物 / 自然 / 家人)
+    - 用真实照片或写实绘画
+    - 避免拟人卡通(穿衣服动物)
+    - 自制家庭照片书(超爱)
+    - 1 岁前不读"复杂故事",只描述图
+  failure_mode: |
+    "卡通绘本可爱孩子喜欢" — 短期是,但学到错的现实模型。0-6 岁主食是现实。
+    "经典童话从胎教开始读" — 神话 / 童话适合 4-6 岁后,0-3 听不懂还会困惑。
+    全屋是 100 本绘本 — 5-10 本足够,反复读才吸收。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Davies
+  - G-PERSON-Montessori
+  - G-TERM-absorbent-mind
+
+citation:
+  book_title_zh: "蒙特梭利的小宝宝(0-1岁)"
+  book_title_en: "The Montessori Baby"
+  authors: ["Simone Davies", "Junnifa Uzodike"]
+  authors_zh: ["西蒙·戴维斯", "君妮法·乌佐迪克"]
+  publisher_en: "Workman Publishing"
+  year_en: 2021
+  isbn_en: "978-1-5235-0693-7"
+  location: "Chapter 6 · Language > Tips for choosing books"
+  source_id: SRC-014
+
+unit_ids: []
+related_cards:
+  - C-S2-127       # 蒙氏 parentese
+  - C-S2-129       # 蒙氏专注
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

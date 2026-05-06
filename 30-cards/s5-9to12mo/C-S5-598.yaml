@@ -1,0 +1,61 @@
+card_id: C-S5-598
+stages: [S5]
+tags: [feeding, RIE, new-food]
+
+front:
+  title: "新食物要给到 30 次"
+  hook: "三四次拒绝不算拒绝"
+
+back:
+  why_matters: |
+    Magda《自信的宝宝》Ch7 §Trying New Foods。
+    中国家长高频痛点:试 3-4 次娃不吃 → 放弃 / 改菜 / 强迫。
+    Magda 立场:**"反复给到 30 次,新食物才不再'新'。3-4 次不够。"**
+    类比:你被外国菜吓到时,也是慢慢接受的。每个新食物对娃都是
+    "异国菜"。
+    Magda 给的方法:
+    1 一次只引入 1 种新食物(连续 2 周)
+    2 不混新旧给 — 否则娃学不到"橙色 = 胡萝卜"
+    3 不强迫,被拒了下次再给
+    4 等娃饿 / 渴时给新食物 — 接受度更高
+    5 几个月后她可能爱上(Magda 见过无数次)
+    可预测性是关键 — 一次一种 + 反复给 = 自然接受。
+
+  what_to_do:
+    - 每种新食物连续 2 周给
+    - 拒了不强,下次再来
+    - 不混新旧(一种新 + 老熟悉)
+    - 饿渴时介绍新食物
+    - 心里默数:这是第几次给
+
+  failure_mode: |
+    「试 3 次他不吃就别给了」 → Magda 反:那是放弃太早,30 次才是阈值。或反向「强塞最后一口」 → 反:强迫制造长期抗拒,
+    Pikler Institute 的孩子从不被强,但都爱吃。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+
+citation:
+  book_title_en: "Your Self-Confident Baby"
+  book_title_zh: "自信的宝宝"
+  authors:
+    - Magda Gerber
+    - Allison Johnson
+  publisher_en: John Wiley & Sons
+  year: 1998
+  location: "Ch7 §Trying New Foods + §Refusing to Eat(p158-159)"
+  source_id: SRC-021
+
+unit_ids: []
+related_cards:
+  - C-S5-391  # Lansbury 小份+信身体信号
+  - C-S6-130  # Davies 自主吃饭
+  - C-S3-001  # AAP 辅食 准备好
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

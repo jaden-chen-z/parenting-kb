@@ -1,0 +1,58 @@
+card_id: C-S0-1540
+stages: ['S0']
+tags: ['philosophy', 'lerner_v1', 'cross_chapter', 'determinism', 'foundational']
+
+front:
+  title: "决定论 vs 概率论"
+  hook: "不是命定全是可能"
+
+back:
+  why_matters: |
+    跨章命题(Ch 5 Gottlieb + Ch 11 Baltes + Ch 6 Thelen)— 反 determinism 是 V1 元理论共识。
+    - 基因 determinism — Gottlieb 反(probabilistic epigenesis)
+    - 阶段 determinism — Thelen 反(dynamic emergence)
+    - 早期 determinism — Baltes 反(lifespan 可塑性)
+    - 文化 determinism — Shweder 改(共建非灌入)
+    共识 — 发展是 probabilistic(概率性)不是 deterministic(决定性)。
+    意义 —
+    - "天生 X" 错(基因不决定)
+    - "过了关键期就完了" 错(早期不决定)
+    - "这阶段就是反抗期" 错(阶段不决定)
+    - "中国娃就是 X" 错(文化不决定)
+    反之 — 一切都是概率 + 多层 + 双向 + 可塑。
+  what_to_do:
+    - "'决定论' 立场全部警惕"
+    - "基因 / 早期 / 阶段 / 文化都不决定"
+    - "probabilistic 视角 = 多种可能"
+    - "行动改变概率 — 不是命运"
+    - "反 determinism = V1 元共识"
+  failure_mode: |
+    任何"X 决定 Y"立场 — V1 全部反对。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Gottlieb
+  - G-PERSON-Baltes
+  - G-PERSON-Thelen
+  - G-TERM-anti-determinism
+  - G-TERM-probabilistic-epigenesis
+
+related_cards:
+  - C-S0-1503
+  - C-S0-1513
+  - C-S0-1508
+  - C-S0-008
+
+citation:
+  source_id: SRC-030
+  source_title: "Handbook of Child Psychology Vol 1: Theoretical Models of Human Development"
+  chapter: "Ch 5 + Ch 11 + Ch 6 + Ch 13(跨章命题)"
+  chapter_offset: 1140000
+  chapter_title: 'Gottlieb / Wahlsten / Lickliter — Significance of Biology + probabilistic epigenesis'
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_followup_needed: 'SRC-030 用 PDF 字节偏移代页码 — 待加 page_pdf 反查工具'

@@ -1,0 +1,72 @@
+card_id: C-S2-194
+stages: [S2]
+tags: [self, parent_attitude, china_high_freq]
+
+front:
+  title: 喂奶换尿也是社交时刻
+  hook: 喂换睡都是社交
+
+back:
+  why_matters: |
+    传统观点(Sander 1962 / Greenspan 1981)+ 中国主流:0-3 月主要是**生理调节(喂 / 睡 / 哭 / 排便)**,社交是"第二位的"。
+    Stern 关键反驳:**生理调节几乎全部是通过社交行为达成的**,生理 + 社交不可分:
+    - 喂奶时:你在 — 抱着 / 看着 / 说话 / 唱歌 / 抚摸
+    - 哭时:你在 — 拍着 / 说话 / 摇晃 / 唱歌 / 同步呼吸
+    - 入睡时:你在 — 哼着 / 拍着 / 节奏化轻摇
+    - 排便后:你在 — 说话 / 笑 / 擦拭 / 换衣
+    **所有"物理护理"动作都是 社交 interaction**,只是父母没注意到自己在做社交:
+    - 错觉 — "我只是在喂他、换他、哄他睡 — 这不算陪伴"
+    - Stern — **错!这就是最重要的陪伴时刻**
+    - 0-2 月宝宝 90% 的"社交学习"发生在喂换睡这种"实用"时刻
+    - 跃迁后(2 月)的 face-to-face 玩耍只是"显性"社交,之前已有大量"隐性"社交
+    **对中国家长**(尤其工作繁忙的)的核心信息:
+    - "每天我只能陪宝宝 30 分钟玩,够吗" — 你的喂换睡时刻**全都算**
+    - 把喂换睡时的"功能动作"升级成"社交 moments":
+      - 喂奶时眼神接触 + 说话(C-S1-256 主体属性)
+      - 换尿布时唱歌 + 给宝宝预告("现在我要给你换"了)
+      - 哄睡时同步呼吸 + 哼歌
+    - 这些"日常杂事"是 自我形成 的主战场
+    **跟 Brazelton 触摸点(亲子互动是发育驱动力)+ 蒙氏"母-师角色"**完全一致。
+  what_to_do:
+    - 喂奶时眼神接触 + 说话
+    - 换尿布时唱歌 + 预告
+    - 哄睡时同步呼吸节奏
+    - 排便后说话 + 互动
+    - 不"省"这些"杂事时间"
+  failure_mode: |
+    "我喂他换他时只是机械动作,他不会注意到" — 错。Stern + Brazelton 数据 — 这正是宝宝最专注吸收 社交 cues 的时刻。
+    边喂奶边刷手机 → 错过 自我形成 主战场。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Stern
+  - G-PERSON-Brazelton
+  - G-TERM-emergent-self
+  - G-TERM-core-self
+
+citation:
+  book_title_zh: "婴儿的人际世界"
+  book_title_en: "The Interpersonal World of the Infant"
+  authors: ["Daniel N. Stern"]
+  authors_zh: ["丹尼尔·斯特恩"]
+  publisher_en: "Basic Books"
+  year_en: 1985
+  isbn_en: "978-0-465-09559-9"
+  location: "Ch 3 · Clinical and Parental View (反 Sander/Greenspan 物理调节论)"
+  publisher_zh: "华东师范大学出版社"
+  year_zh: 2017
+  translator_zh: ["刘旭东"]
+  source_id: SRC-018
+
+unit_ids: []
+related_cards:
+  - C-S1-256       # Stern 给宝宝主体属性
+  - C-S1-253       # Stern alert inactivity 黄金窗
+  - C-S2-191       # Stern 2 月跃迁
+  - C-S2-009       # 鲍秀兰 母婴情感(SRC-009)
+  - C-S3-028       # Brazelton touchpoints(SRC-010)
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

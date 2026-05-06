@@ -8,7 +8,7 @@ front:
 
 back:
   why_matters: |
-    Brazelton 临床 85% 的 3-12 周婴儿都有 end-of-day fussy 哭闹,常被误诊为肠绞痛。
+    Brazelton 临床 85% 的 3-12 周婴儿都有 end-of-day 烦躁哭闹,常被误诊为肠绞痛。
     真相:仅极少数有真正的胃食管反流或牛奶蛋白过敏。
     "Colic"本质是不成熟神经系统的每日"放电重组"——3 周开始、8 周达峰、12 周自然减弱。
     父母在宝宝 2-3 周时就应被预告有这一阶段,否则极易过度干预反加重。
@@ -21,7 +21,7 @@ back:
   failure_mode: |
     父母焦虑+过度抱摇+反复奶 → 神经系统更过载 → 哭得更凶。
     把生理性放电当病理处理,到处求医反伤亲子互动。
-  evidence_level: A
+  evidence_level: B
 
 glossary_refs:
   - G-TERM-colic

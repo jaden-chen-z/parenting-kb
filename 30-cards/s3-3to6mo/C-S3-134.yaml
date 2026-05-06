@@ -1,0 +1,63 @@
+card_id: C-S3-134
+stages: [S3]
+tags: [montessori, language, vocal, freedom]
+
+front:
+  title: 4-5 月喊叫是发声练习
+  hook: 别让宝宝"安静点"
+
+back:
+  why_matters: |
+    4-5 月宝宝突然变吵 — 高音尖叫 / 吹气泡 / 各种试音 / 时不时大喊一声。
+    家长本能反应:**"小点声 / 别叫了 / 安静"**。
+    蒙氏视角:**"vocal gymnastics"**(发声体操)— 这是宝宝在练声的关键阶段。
+    宝宝在做什么:
+    - **测试自己声带极限**(高 / 低 / 大 / 小)
+    - **学控制横膈膜 + 嘴 + 舌**
+    - **吹气泡 / blow raspberries** = 嘴唇控制练习
+    - **尖叫** = 音量调节练习
+    - 全是为以后说话准备打断 = 切断关键发音训练。
+    Davies 原书:"这些声音可能让我们烦,但会过去。让他们自由发声。"
+    7-8 月后宝宝开始 babbling("妈妈" / "爸爸" 起步音),正是 4-5 月练声的果实。
+    实操含义:
+    - 接受这阶段家里吵
+    - 跟着他一起 blow raspberries(他爱这游戏)
+    - 不在公共场合刻意压制(公园 / 家里随便)
+    - 餐厅 / 图书馆等场合可短时离开
+  what_to_do:
+    - 接受 4-5 月家里变吵
+    - 跟着 blow raspberries 互动
+    - 不说"小点声"压制
+    - 公共场合短暂离开,不当众训
+    - 录下他的"音乐"留念
+  failure_mode: |
+    "他叫得我头痛,得让他停" — 短期或可,长期切断发音训练 → 后期说话晚。
+    "教他说轻点 / 安静" — 4-5 月听不懂,只学到"我发声妈妈不开心"。
+    把发声练习当"行为问题" — 错过最关键的发音肌训练时间。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Davies
+  - G-PERSON-Montessori
+  - G-TERM-cooing
+
+citation:
+  book_title_zh: "蒙特梭利的小宝宝(0-1岁)"
+  book_title_en: "The Montessori Baby"
+  authors: ["Simone Davies", "Junnifa Uzodike"]
+  authors_zh: ["西蒙·戴维斯", "君妮法·乌佐迪克"]
+  publisher_en: "Workman Publishing"
+  year_en: 2021
+  isbn_en: "978-1-5235-0693-7"
+  location: "Chapter 6 · Language > 3-6 months > Vocal gymnastics"
+  source_id: SRC-014
+
+unit_ids: []
+related_cards:
+  - C-S3-029       # Brazelton 4 月 cooing
+  - C-S2-127       # 蒙氏 parentese
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

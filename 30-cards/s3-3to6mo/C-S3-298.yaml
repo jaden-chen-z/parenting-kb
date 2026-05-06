@@ -1,0 +1,57 @@
+card_id: C-S3-298
+stages: [S3]
+tags: [play, RIE, lansbury]
+
+front:
+  title: "玩看不出'做'什么也是玩"
+  hook: "发呆其实是深思考"
+
+back:
+  why_matters: |
+    Lansbury Ch15 误区 3:
+    主流以为玩 = 在做某件具体事(搭积木 / 推车)。
+    Lansbury 说反:最丰富的玩往往看上去没在干嘛 —
+    发呆 / 想象 / 大画面思考 / 走神。
+    要培养这种深度玩,大人必须:
+    1. 重视它(不是"浪费时间")
+    2. 观察它(不打断)
+    3. 不立刻提议"要不要试试别的"
+
+  what_to_do:
+    - 看到宝宝盯墙发呆 = 别打断
+    - 看到宝宝重复扔玩具 = 别"教别的"
+    - 不主动开口,等宝宝眼神接触
+    - 不必每分钟"互动",静默也是陪
+    - 发呆完通常会自己开始下一个活动
+
+  failure_mode: |
+    "宝宝没在玩,我得给他找点事做" → 打断深度想象。
+    或:"宝宝看天花板 = 无聊 / 困" → 强行换活动。
+    Lansbury:发呆是 deep thinking,不是 boredom。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Lansbury
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+
+citation:
+  book_title_en: "Elevating Child Care: A Guide to Respectful Parenting"
+  book_title_zh: "尊重孩子:RIE 育儿之道"
+  authors:
+    - Janet Lansbury
+  publisher_en: JLML Press
+  year: 2014
+  location: "Ch15 Myth 3 Play Means Doing"
+  source_id: SRC-019
+
+unit_ids: []
+related_cards:
+  - C-S3-296  # Lansbury 不主导玩
+  - C-S2-185  # Lillard 完整循环活动
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

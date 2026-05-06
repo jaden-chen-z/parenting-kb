@@ -1,0 +1,68 @@
+card_id: C-S7-1097
+stages: [S7]
+tags: [cognitive_science, categorization, mandler, lerner_v2]
+
+front:
+  title: 知觉范畴 ≠ 概念范畴
+  hook: 看像和理解像不同
+
+back:
+  why_matters: |
+    Mandler 1992-2004 经典(Lerner V2 Ch16 Gelman/Kalish 综述)。
+    Mandler 区分两类范畴:
+    - **Perceptual category**(知觉范畴)— 基于外形相似
+       eg 红色 / 圆形 / 大小
+    - **Conceptual category**(概念范畴)— 基于功能 / 类别角色
+       eg 动物 vs 工具 / 食物 vs 玩具实证:
+    - 7-9 月:已有知觉范畴(看像分类)
+    - 12-18 月:开始概念范畴(把鸟和狗都归"动物")
+    - 24-36 月:稳定区分两类(知狗的尾巴跟鸟翅膀都是"动物部分")
+    意义:
+    - Mandler 反"知觉先于概念"(Quinn 经典立场)
+    - 立场分歧:Mandler vs Quinn 综述内辩
+    - V2 中立报告两派
+    - 关键:不能假设孩子的分类只是"看像"
+    跟现库:G-PERSON-Spelke 5 系统(C-S4-1141)中"行动 + 物体"分化。
+    跟 Carey 概念革命(C-S7-1096)对接 — 概念革命是概念范畴重组。
+    对中国家长意义:
+    - 孩子按外形分(红的一堆)≠ 概念分(吃的一堆)
+    - 同一物可入多类(狗 = 动物 = 朋友 = 哺乳)
+    - 24+ 月教多层次分类(不只外形)
+    - 玩具收纳教孩子按功能分(不按颜色)
+  what_to_do:
+    - 24+ 月教多分类(颜色 / 形状 / 功能)
+    - 玩"哪个不是同类"游戏(动物 vs 工具)
+    - 不只按外形教
+    - 跨范畴讨论(狗和鸟都是动物)
+  failure_mode: |
+    "孩子按外形分就是只懂外形" — 错。可能也有概念。
+    "概念分类要 5+ 岁" — 错。12-18 月起步。
+    "教分类只用颜色" — 错。多维度才完整。
+  evidence_level: B
+
+glossary_refs:
+  - G-TERM-baby-scientist
+  - G-PERSON-Mandler
+  - G-PERSON-Carey
+  - G-TERM-conceptual-revolution
+  - G-PERSON-Spelke
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 2 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 2 卷"
+  authors: ["Susan A. Gelman", "Charles W. Kalish"]
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 16 · Mandler perceptual vs conceptual · pp. 695-700"
+  source_id: SRC-028
+
+unit_ids: []
+related_cards:
+  - C-S4-1141     # Spelke 5 系统
+  - C-S7-1096     # Carey 概念革命
+  - C-S8-421       # 朴素生物学(后)
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

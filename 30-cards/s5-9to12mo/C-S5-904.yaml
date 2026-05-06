@@ -1,0 +1,69 @@
+card_id: C-S5-904
+stages: [S5]
+tags: [shonkoff, nrc, perceptual_narrowing, language, kuhl, china_high_freq]
+
+front:
+  title: "外语窗口 6-12 月"
+  hook: "不学就听不出区别"
+
+back:
+  why_matters: |
+    NRC 综述 Ch 6 引 Kuhl 1992-2003 多研究 — 知觉重组(perceptual narrowing):
+    **关键发现**:
+    - **新生儿**能区分**所有人类语言**的语音
+    - **6 月**起开始"母语化"
+    - **12 月**已**失去**辨别非母语音素的能力
+    - 这是**真实 sensitive period**(虽然非 critical)
+    **Kuhl 中英对照实验**(2003):
+    - 英语家庭 9 月宝宝能区分英语 r/l(Mary vs many)
+    - 同龄日本宝宝**不能**(因日语没此区分)
+    - 中文家庭 9 月宝宝能区分中文 4 声调(英语没有)
+    - 同龄英语宝宝**不能**
+    **关键校准**:
+    - 是 sensitive period 不是 critical
+    - 12 月后仍可学外语(成人能学第二语言)
+    - 但**重新学发音区分**比 0-12 月学**难**
+    - 这就是为什么"学外语口音越早越好"有科学根据
+    **重要**:Kuhl 实验显示 **DVD / CD 无效** —
+    需要**真人互动**才学到。
+    **对中国家长**:
+    - 想孩子日后口音地道 → 6-12 月真人接触外语
+    - 学英语 ≠ 看英文动画 — 必须真人
+    - 双语家庭别担心"混乱" — 大脑能区分
+    - 12 月后学英语完全可以 — 只是发音难点多
+  what_to_do:
+    - 6-12 月真人外语接触
+    - 别只看英文动画
+    - 双语家庭别担混乱
+    - 想口音地道趁早
+    - 12+ 月学也行
+  failure_mode: |
+    "宝宝学英语看动画就行" — Kuhl 实测:0 学习。
+    "怕双语混乱 — 等大点再说" — 错,9-12 月是音素辨别黄金期。
+    "12 月没学外语就完了" — 错,sensitive 期可补,只是更费力。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Shonkoff
+  - G-PERSON-Kuhl
+  - G-TERM-perceptual-narrowing
+  - G-TERM-sensitive-periods
+
+citation:
+  book_title_en: "From Neurons to Neighborhoods"
+  authors: ["Jack P. Shonkoff", "Deborah A. Phillips"]
+  org: "NRC/IOM"
+  year_en: 2000
+  location: "Ch 6 · Kuhl perceptual reorganization studies"
+  source_id: SRC-025
+
+unit_ids: []
+related_cards:
+  - C-S6-179    # Gopnik 知觉重组 SRC-015
+  - C-S0-620    # Shonkoff sensitive vs critical(本卷)
+  - C-S2-807    # Shonkoff 0-2 不开屏(本卷)
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

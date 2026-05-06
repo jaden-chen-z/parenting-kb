@@ -1,0 +1,68 @@
+glossary_id: G-PERSON-Hart-Risley
+type: person
+display_name: Hart-Risley (哈特-里斯利)
+
+full_name_en: Betty Hart and Todd Risley
+full_name_zh: 贝蒂·哈特 + 托德·里斯利
+
+one_liner: |
+  美国行为分析学家二人组。1995 经典研究"30 million words gap" —
+  录音 42 个家庭 0-3 岁,发现高 vs 低 SES 累计听到词数差 3000 万。
+  这数据成为早期语言干预最有名的研究 + 推动美国 word gap 公共政策。
+
+detail: |
+  ## 背景
+  - 二人均美国 Kansas University 行为分析实验室
+  - Betty Hart(1923-2008): UK 出生,美国发展派
+  - Todd Risley(1937-2007): 美国 Kansas 教授
+  - 二人合作长达 30 年(1965-1995 经典作)
+
+  ## 30 million words gap 研究方法
+  - 1980 起跟踪 42 个家庭(13 高 SES + 23 中 SES + 6 低 SES)
+  - 0-36 月每月家访 1 小时 + 录音
+  - 录音转录 + 算父母对孩子说的词 + 对话型 vs 命令型
+  - 累计每孩子从父母听到的词数
+
+  ## 关键发现
+  - 高 SES 家庭累计 4500 万词
+  - 中 SES 家庭累计 2000 万词
+  - 低 SES 家庭累计 1500 万词
+  - **30M 词差距** = 高 vs 低 SES
+  - 3 岁词汇量 → 强预测 9 岁阅读 / IQ
+  - **更深层差异**是对话型 vs 命令型(更预测后期)
+
+  ## 主要著作
+  - 1995《Meaningful Differences in the Everyday Experience of Young American Children》⭐⭐⭐
+  - 后续《The Early Catastrophe》(2003 American Educator)— 政策版
+
+  ## 影响
+  - **NRC 综述 (2000)** 引用为词汇 / 语言核心证据
+  - **美国白宫 / 联邦政策**直接引用
+  - "Talk to Your Baby" 公益运动起源
+  - 后来批评:样本小 + 区域局限 — 但核心结论被多研复制
+
+  ## 在中文社群的影响
+  - 中文家长普遍不知此研究
+  - 但跟"多对话宝宝"立场吻合
+  - 鲍秀兰 + 蒙氏 follow the child 都隐含此原则
+
+key_facts:
+  - 30 million words gap 研究奠基
+  - 1995 Kansas 42 家庭跟踪研究
+  - 对话型 vs 命令型分析
+  - NRC 综述核心引用
+
+related_glossary:
+  - G-TERM-30-million-words
+  - G-TERM-NRC
+
+related_cards: []
+
+sources:
+  - source_id: SRC-025
+  - external: Hart & Risley 1995 book
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

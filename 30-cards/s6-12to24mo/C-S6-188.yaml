@@ -1,0 +1,63 @@
+card_id: C-S6-188
+stages: [S6]
+tags: [montessori, will, choice]
+
+front:
+  title: 给选 2 不给选 3
+  hook: 3 选超载失败
+
+back:
+  why_matters: |
+    Lillard Ch9 实操核心 — **18 月+ 宝宝意志干预 = 选 2 法**:
+    - 给宝宝**两个选项**(都是大人能接受的)
+    - **不能 3 个**(超载,宝宝会僵)
+    - **不能 0 个**(对抗 = 最坏后果)
+    例子(Lillard 蒙氏园里的 18 月孩子):
+    - 老师:"上厕所"
+    - 孩子:"不要"
+    - 老师:"你想用蓝色厕所还是粉色厕所?"(给 2 选)
+    - 孩子开始想"哪个" → 忘了原本"不要"
+    - 选了一个 → 自然就上了为什么有效:
+    - 18 月孩子大脑能记住"对抗" → 直接对抗激发更强对抗
+    - 选 2 让大脑转向"思考哪个" → 自动忘记原对抗
+    - 孩子获得"我选的"自主感
+    - 大人达到目的应用场景:
+    - "穿外套 / 毛衣?"(不是"穿不穿外套")
+    - "刷牙先用红勺还是绿勺?"(不是"刷不刷牙")
+    - "晚餐吃米还是面?"(不是"吃不吃饭")
+    跟"我说 1 你必须 1" / "讨论一下"**都对立** — 蒙氏立场:**1 给选项 + 别商量**。
+  what_to_do:
+    - 给两个选项(都能接受)
+    - 平静坚定,别带挑战感
+    - 等孩子选(3-5 秒)
+    - 选了就执行
+    - 不允许"不选"
+  failure_mode: |
+    "给一个就够" — 反:1 个 = 命令,孩子激发对抗。
+    给 3+ 个 → 18 月孩子选不出 → 僵住 → 失败。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Lillard
+  - G-PERSON-Jessen
+
+citation:
+  book_title_zh: "蒙台梭利从 0 岁开始"
+  book_title_en: "Montessori from the Start"
+  authors: ["Paula Polk Lillard", "Lynn Lillard Jessen"]
+  authors_zh: ["宝拉·波尔克·莉拉德", "琳·莉拉德·杰森"]
+  publisher_en: "Schocken Books"
+  year_en: 2003
+  isbn_en: "978-0-8052-1112-1"
+  location: "Ch 9 · 'Developing Will' (choice between two)"
+  source_id: SRC-016
+
+unit_ids: []
+related_cards:
+  - C-S6-133       # Davies 温柔但清晰边界
+  - C-S6-007       # 鲍秀兰 不打不骂
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

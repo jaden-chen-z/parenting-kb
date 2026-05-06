@@ -1,0 +1,61 @@
+card_id: C-S1-1008
+stages: [S1]
+tags: []
+
+front:
+  title: "EBF:连水都不给"
+  hook: "ORS+维生素+药才允"
+
+back:
+  why_matters: |
+    EBF(Exclusive Breastfeeding,纯母乳喂养)的 WHO 操作定义白话翻译:
+    > 不给其他液体或固体 — **连水都不给** — 例外只有:
+    > 口服补液盐(ORS)、维生素 / 矿物质滴剂或糖浆、药物。
+
+    **允许**:
+    - ORS 口服补液盐(腹泻脱水时)
+    - 维生素 / 矿物质滴剂(如维 D)
+    - 药物
+
+    **不允许**:水 / 葡萄糖水 / 米汤 / 茶水 / 中药水 / 配方奶 / 任何固体。
+
+    中国传统'要喂水防上火' / 葡萄糖水 → 都打破 EBF 资格。
+    AAP / 鲍秀兰 / 松田都说"6 月纯母乳",但没明确列例外清单 — WHO 是唯一明确给定义的派。
+  what_to_do:
+    - "纯母乳 = 只母乳 + 例外清单(ORS / 维生素 / 药)"
+    - "维 D 滴剂(母乳娃必补)不打破纯母乳"
+    - "ORS 口服补液盐(腹泻脱水)不打破"
+    - "药物不打破"
+    - "水 / 葡萄糖水 / 米汤 → 打破纯母乳"
+  failure_mode: |
+    给葡萄糖水 / 茶水 / 中药水 → 纯母乳资格丢失 + 干扰母乳吸吮 + 增加感染风险。
+    操作定义记得:连水都不给。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-EBF
+  - G-ABBR-WHO
+
+citation:
+  page_title: "WHO ELENA: Exclusive Breastfeeding"
+  publisher: "World Health Organization & UNICEF"
+  page_url_primary: https://www.who.int/tools/elena/interventions/exclusive-breastfeeding
+  accessed: 2026-05-04
+  language: en
+  location: "EBF 操作定义 verbatim + 例外清单(ORS/维生素/药)"
+  source_id: SRC-031
+
+unit_ids: []
+related_cards:
+  - C-S1-1003
+  - C-S0-1024
+  - C-S2-1044
+  - C-S1-050
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_doc_id_pending: D7
+citation_followup_needed: '已映射真实 doc_id (D7 = WHO ELENA EBF First Six Months)'

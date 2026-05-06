@@ -1,0 +1,68 @@
+card_id: C-S2-807
+stages: [S2]
+tags: [shonkoff, nrc, anti_screen, baby_screen, china_high_freq]
+
+front:
+  title: "0-2 不开屏给宝宝"
+  hook: "屏幕不替代真人脸"
+
+back:
+  why_matters: |
+    NRC 综述 Ch 6 + Ch 8 给"0-2 岁屏幕"硬立场(跟 AAP / Lansbury / 松田一致):
+    **NRC 神经科学论证**:
+    1. 0-2 岁宝宝的语言学习需要**真人互动**(Kuhl 数据)
+    2. 屏幕(电视 / iPad / 手机)= 单向无反馈
+    3. 婴儿大脑学的是 **"contingent response"** — 你哭我笑你出声我答
+    4. 屏幕不能 contingent → 学不到 turn-taking → 语言 / 社交基础缺
+    **3 个机制证据**:
+    - Kuhl 实验:中国娃看英文 DVD 0 学习,跟真人玩 → 学
+    - parentese 是双向 — 屏不是 parentese
+    - serve-and-return 神经基础(Shonkoff 后续 Center work)
+    **NRC 立场比 AAP 更系统化**:
+    - 不只反"屏暴露"
+    - 反"屏替代真人"
+    - 反"用屏哄孩子"
+    - 反"边看屏边吃饭"
+    **跟 Lansbury SRC-019 + 松田 SRC-024 + Gopnik SRC-015 一致** — 4 派立场重叠。
+    **对中国家长**:
+    - 0-2 岁少看屏 — NRC 严格
+    - 看也得共看(亲子共看)
+    - 别用屏哄饭 / 哄睡 / 哄哭
+    - "学英语动画片" — Kuhl 实验:无效
+    - 屏幕替代陪伴 = 大脑食粮变垃圾食物
+  what_to_do:
+    - 0-2 岁尽量不开屏
+    - 看必共看不一人扔
+    - 不用屏哄饭哄睡
+    - 学外语用真人不动画
+    - 屏不能替代陪伴
+  failure_mode: |
+    "我得做家务 — iPad 哄一会" — 短期方便长期伤大脑。
+    "动画片教英文 / 数学 — 早教好" — Kuhl 实测:婴儿对屏 0 学习。
+    "他爱看 — 不开他闹" — 是被动入瘾,不是真喜欢 — 等同糖瘾。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Shonkoff
+  - G-TERM-NRC
+  - G-PERSON-Kuhl
+
+citation:
+  book_title_en: "From Neurons to Neighborhoods"
+  authors: ["Jack P. Shonkoff", "Deborah A. Phillips"]
+  org: "NRC/IOM"
+  year_en: 2000
+  location: "Ch 6 + Ch 8 · screen exposure / language learning"
+  source_id: SRC-025
+
+unit_ids: []
+related_cards:
+  - C-S6-406    # Lansbury 0-2 不看 TV SRC-019
+  - C-S8-101    # 松田 §428 不看电视 SRC-024
+  - C-S6-031    # Brazelton 2 岁前一秒别看屏 SRC-010
+  - C-S6-179    # Gopnik 知觉重组 SRC-015
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

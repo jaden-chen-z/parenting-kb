@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Caspi
+type: person
+display_name: "Caspi(阿夫沙隆·卡斯皮)"
+
+full_name_en: "Avshalom Caspi"
+full_name_zh: "阿夫沙隆·卡斯皮"
+
+position: |
+  Duke University + King's College London 心理学教授
+
+contribution: |
+  气质和人格延续研究;Big Five 童年版
+
+one_liner: |
+  阿夫沙隆·卡斯皮 — 气质和人格延续研究;Big Five 童年版
+
+key_facts:
+  - "本卷章节:Ch 6"
+  - "Lerner V3 命中:50 次"
+  - "学派:Lerner V3 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-027
+    chapter: "Ch 6"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

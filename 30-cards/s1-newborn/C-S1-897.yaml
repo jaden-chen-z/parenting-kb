@@ -1,0 +1,61 @@
+card_id: C-S1-897
+stages: [S1]
+tags: [pikler, mother-child-bond, source-de]
+
+front:
+  title: "母婴关系是动作基础"
+  hook: "没安全感动作发不出来"
+
+back:
+  why_matters: |
+    皮克勒 1969 第 4 章反驳一个误读 — 有人以为皮克勒
+    "不教不抱不干预" = 妈妈应该完全**冷淡**。
+
+    皮克勒立场用一个比喻表达:爱 + 关心要像**"恒温的温水浴"** — 持续包围孩子,
+    但不是过度刺激。
+
+    没爱没安全感的婴儿 → **对自己动作和世界都没兴趣** → 大动作发展也会出问题。
+
+    这个立场跟鲍尔比依恋(SRC-011)+ 安斯沃斯敏感回应(SRC-023)同代欧洲共识。
+    皮克勒是大动作 + 依恋双线推动者。
+
+  what_to_do:
+    - '"恒温温水浴"中道:不冷淡 + 不过度逗'
+    - 护理时全注意(换尿布 / 喂 / 洗 = 连接时刻)
+    - 玩时观察,不替做(给空间)
+    - 看着他眼睛说话(简单 + 温柔)
+    - 让他知道你在 — 不一定抱着,声音 / 在场就够
+
+  failure_mode: |
+    "皮克勒就是不抱不哄?" → 误读。皮克勒不"逗刺激",但要"持续在场 + 温暖关怀"。
+    罗齐研究所采用一对一护理制,每个婴儿都有专属护理 + 全注意 — 不是冷漠机构。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Pikler
+  - G-TERM-Loczy-institute
+  - G-TERM-attachment
+
+citation:
+  book_title_de: "Friedliche Babys – zufriedene Mütter"
+  book_title_zh: "和平的婴儿 — 满足的母亲"
+  authors:
+    - Emmi Pikler
+  publisher_de: HERDER (HERDER / SPEKTRUM Band 4141)
+  year: 1969
+  location: "Ch4 Verhältnis von Mutter und Kind pp. 56-58"
+  source_id: SRC-026
+
+unit_ids: []
+related_cards:
+  - C-S1-353  # Lansbury 尿布换 = 连接仪式(Pikler 源头)
+  - C-S0-167  # Magda 7 大育儿原则
+  - C-S1-352  # Lansbury 把新生儿当完整的人
+  - C-S2-261  # Bowlby 安全基地(同代依恋派)
+  - C-S2-292  # Ainsworth 敏感回应(同代依恋派)
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

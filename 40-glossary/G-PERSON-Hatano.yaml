@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Hatano
+type: person
+display_name: "Hatano(波多野谊余夫)"
+
+full_name_en: "Giyoo Hatano"
+full_name_zh: "波多野谊余夫"
+
+position: |
+  University of the Air, Chiba City, Japan
+
+contribution: |
+  文化与认知 + 日本文化心理学 + Shweder 共著
+
+one_liner: |
+  波多野谊余夫 — 文化与认知 + 日本文化心理学 + Shweder 共著
+
+key_facts:
+  - "本卷章节:Ch 13"
+  - "Lerner V1 命中:30+ 次"
+  - "学派:Lerner V1 文化心理学派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+    chapter: "Ch 13"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,78 @@
+glossary_id: G-TERM-3C-signs
+type: term
+display_name: 三 C 信号 (3 C's)
+
+full_name_en: The Three C's (Crying, Clinging, Crankiness)
+full_name_zh: 三 C 信号(哭闹 / 黏人 / 烦躁)
+
+one_liner: |
+  Wonder Weeks 提出的 fussy phase 三大识别信号:Crying(突然哭多)/ Clinging(异常黏妈)/ Crankiness(易暴躁)。同时出现 = 大脑跃迁前奏,不是病。
+
+detail: |
+  ## 定义
+  van de Rijt + Plooij 35 年观察发现,每个 Wonder Week 跃迁前,所有正常健康宝宝都会出现三大行为信号,简称"3 C's":
+
+  ### 1. Crying(哭闹)
+  - 突然哭得比平时多
+  - 哭的时间变长,安抚难度变大
+  - 哭闹常无明显原因(不饿、不困、不脏)
+
+  ### 2. Clinging(黏人)
+  - 突然只要妈妈,别人抱就哭
+  - 怕被放下,要被一直抱
+  - 已经能独立玩的宝宝突然跟着妈妈寸步不离
+
+  ### 3. Crankiness(烦躁)
+  - 易暴躁,小事就发脾气
+  - 之前喜欢的玩具突然不感兴趣
+  - 情绪起伏大,刚笑完就哭
+
+  ## 通常伴随的次级信号
+  - 食欲异常(不爱喝奶 / 突然狂喝)
+  - 睡眠倒退(夜醒、入睡难、白天小睡乱)
+  - 害怕陌生人加剧
+  - 抗拒洗澡 / 换尿布 / 穿衣
+  - 重复要熟悉的玩具/书(寻求安全感)
+
+  ## 关键判断:3 C vs 病
+  3 C 信号同时出现 + 持续 = Wonder Week 跃迁前奏:
+  - 时间窗:大致符合 5/8/12/19/26/37/46/55/64/71 周(跃迁前 1-3 周)
+  - 跃迁完成后(几天到 6 周内)自然消失
+  - 没有发烧 / 严重腹泻 / 皮疹等病的征兆
+
+  ## 何时仍要看医生
+  - 持续 6 周以上不缓解 → 不是 Wonder Week,要排查
+  - 伴随发烧 ≥ 38°C / 嗜睡 / 拒食 / 异常皮疹 → 直接就医
+  - 哭闹时姿势异常(弓背、攥拳、双腿绷直)持续 → 可能是疼痛
+  - 任何"不对劲"的直觉 → 信你的妈妈直觉
+
+  ## 临床应用
+  - 父母识别 3 C 同时出现 → 知道是跃迁前奏,不慌
+  - 不强行训练消除("再哭也不抱"会破坏信任)
+  - 多陪伴 / 多抱 / 不强求作息规律
+  - 跃迁后宝宝立刻轻松,父母也立刻轻松
+
+key_facts:
+  - Crying / Clinging / Crankiness 三大信号
+  - 同时出现 = 跃迁前奏
+  - 时间窗符合 10 跃迁表
+  - 持续 6 周以上 / 伴随发烧 → 要看医生
+  - 跃迁完成后自然消失
+
+related_glossary:
+  - G-TERM-wonder-week
+  - G-TERM-mental-leap
+  - G-TERM-fussy-phase
+  - G-TERM-fussy-period
+  - G-TERM-colic
+  - G-TERM-PURPLE
+
+related_cards: []
+
+sources:
+  - source_id: SRC-013
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

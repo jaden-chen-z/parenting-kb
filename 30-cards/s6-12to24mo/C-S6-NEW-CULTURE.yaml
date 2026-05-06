@@ -1,0 +1,74 @@
+card_id: C-S6-NEW-CULTURE
+stages: [S6]
+tags: [meta_cross, cultural_psychology, anti_western_default, philosophy]
+
+front:
+  title: 1-2 岁育儿文化路径多元 6 派
+  hook: 美式独立 vs 中式互依都健康
+
+back:
+  why_matters: |
+    前情:中国妈妈常被"美式育儿"标准压焦虑(独立睡 / 早断奶 / 自主吃饭 / 不抱不哄),
+    实际跨文化研究告诉你:多数美式标准是"白人中产派"特定路径,不是普世真理。
+
+    **6 派合声立场**:多元路径都健康,中式互依/集体主义在中国情境下结果良好。
+
+    **6 派**:
+    - **Lerner V3 Bornstein(SRC-027 C-S6-1080)**:跨文化育儿研究 — 美/欧/日/非洲不同路径,核心是 敏感度 不是具体行为
+    - **Lerner V3 Rogoff(SRC-027 C-S6-1081)**:意向参与 — 非西方学习模式(看 + 跟做),反西方"先教 → 再做"
+    - **Lerner V4 Greenfield(SRC-029 C-S6-1386)**:12-24 月独立 vs 互依文化分化 — 同时间窗不同文化路径都正常
+    - **Lerner V4 Hyson DAP(SRC-029 C-S6-1380)**:学步 DAP 反认字反提前 — NAEYC(美国幼教协会) 标准也反"早学派"
+    - **Lerner V1 Baltes(SRC-030 C-S6-1503)**:可塑性 70+ 岁,1-2 岁不必抢起点
+    - **皮克勒 1969(SRC-026 C-S6-956/960/961)**:孩子自主活动 + 反条件反射式训练 + 大人不替不打断 — 欧洲中道
+    - **WHO(SRC-031 C-S6-1064)**:WHO 推 2 年继续母乳 vs 中国 1 岁早断 — 国际共识不在"美式 1 岁断奶"
+
+    **中道立场**:不必把"美式"当金标。中式互依/严要求/集体主义在保留温暖的前提下,文化适配下结果良好。
+    陷阱:把"我家娃 18 月还跟我一起睡"当问题 — Greenfield 数据:东亚 + 拉美 + 非洲共睡到 3-5 岁是常态。
+
+    **同时不要走另一极**:并非"中国传统都对"— 体罚 / 把屎把尿 / 早断 / 强逼分享等仍属现代证据反对。
+    跟 anti-spank META 卡 (C-S6-NEW-NO-SPANK) 互补。
+
+  what_to_do:
+    - 别把"美式独立"当标杆 — 共睡 / 多抱 / 慢断奶都是合法路径
+    - 中式严要求 + 温暖 = Chao 1994 严而暖框架,胜西式 放纵型
+    - 看孩子整体发展 — 不看是否符合"独立月龄表"
+    - 多元 = 同样出健康娃,不是"二选一"
+    - 中国主流早教 / 早识字 / 幼小衔接 = 6 派一致反对(见 C-S8-NEW-ANTI-EARLY-EDU)
+
+  failure_mode: |
+    "美国娃 1 岁就独立睡,我家娃 2 岁还黏 — 是不是没培养好" — 错,Greenfield/Bornstein 数据反驳。
+    "中国传统都对" — 也错,体罚 / 把屎把尿 / 早学拼音 = 不是文化保留是误区(参 C-S6-NEW-NO-SPANK)。
+    陷入"要么全照美式要么全中式"二元 — 皮克勒 / 罗格夫中道路径(温暖独立 + 集体参与)是第三条路。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Bornstein
+  - G-PERSON-Greenfield
+  - G-PERSON-Rogoff
+  - G-PERSON-Pikler
+
+citation:
+  source_id: META-CROSS
+  primary_sources: ["SRC-026 Pikler", "SRC-027 Lerner V3", "SRC-029 Lerner V4", "SRC-030 Lerner V1", "SRC-031 WHO"]
+  location: "META-CROSS hub 卡 — 6 派文化多元立场整合"
+
+unit_ids: []
+related_cards:
+  - C-S6-956    # Pikler 自由玩
+  - C-S6-960    # Pikler 反 conditioning
+  - C-S6-961    # 皮克勒 自主活动
+  - C-S6-1064   # WHO 中国早断 vs WHO 2 年(原引 C-S6-1064 已 merged_into 1064)
+  - C-S6-1080   # Bornstein 跨文化
+  - C-S6-1081   # Rogoff intent participation
+  - C-S6-1380   # Hyson DAP
+  - C-S6-1386   # Greenfield 独立 vs 互依
+  - C-S6-1392   # NAEYC Bredekamp 反学业前移
+  - C-S6-1503   # Baltes plasticity
+  - C-S6-1505   # Lerner PYD 看优势
+  - C-S6-NEW-NO-SPANK  # 反 spank 配套 hub
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

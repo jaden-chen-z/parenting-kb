@@ -1,0 +1,62 @@
+card_id: C-S1-864
+stages: [S1]
+tags: [shonkoff, nrc, self_regulation, framework, china_high_freq]
+
+front:
+  title: "自我调节是 0-6 岁主任务"
+  hook: "整个童年学一件事"
+
+back:
+  why_matters: |
+    NRC 综述 Ch 5 给"自我调节(self-regulation)"作为 **0-6 岁核心发展任务**的统一框架:
+    **3 个调节层次**(由低到高):
+    1. **生理调节**:体温 / 心率 / 睡醒节律 / 哭泣 — 0-3 月起步
+    2. **情感调节**:管理愤怒 / 害怕 / 兴奋 — 6 月-3 岁
+    3. **注意 + 行为调节**:专注 / 等待 / 抑制冲动 — 3-6 岁
+    **NRC 立场**:从"无助"到"有能"的转变,本质是**自我调节能力**渐增。
+    新生儿 100% 依赖父母调节(妈妈帮他温暖 / 喂饱 / 哄睡 / 安抚),
+    6 岁能 70% 自己调节(Simon Says 游戏 / 等饼干 / 安静坐着 / 集中做事)。
+    **关键洞察**:婴儿擅长"反应"(reaction)— 不擅长"调节反应"(regulation)。
+    爸妈的工作 = "外置调节器" → 慢慢交还给孩子。
+    **对中国家长**:
+    - 0-3 月你就是宝宝的"自我调节" — 抱 / 哄 / 喂都是
+    - 别期待 1 岁宝宝"自己调情绪" — 大脑还没长好
+    - 6 岁前都在学"调节自己" — 别要求一步到位
+    - 闹脾气不是"不听话",是调节失败 — 帮他不是惩罚他
+  what_to_do:
+    - 0-3 月你就是调节器
+    - 接受 1-3 岁调节失败
+    - 5-6 岁才能等饼干
+    - 别期待一步到位
+    - 帮调节不是惩罚
+  failure_mode: |
+    "他都 2 岁了还 tantrum 太不像话" — 错。NRC 明说情感调节 6 月-3 岁起步,
+    3 岁有 tantrum 完全在范围内。
+    强迫"自己冷静" → 跳过发展阶段 → 调节学不会。
+    正确做法:陪他经历情绪,你做"外置调节器"。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Shonkoff
+  - G-TERM-self-regulation
+  - G-TERM-NRC
+
+citation:
+  book_title_en: "From Neurons to Neighborhoods"
+  authors: ["Jack P. Shonkoff", "Deborah A. Phillips"]
+  org: "NRC/IOM"
+  year_en: 2000
+  location: "Ch 5 Acquiring Self-Regulation · opening framework"
+  source_id: SRC-025
+
+unit_ids: []
+related_cards:
+  - C-S5-291    # Stern affective attunement SRC-018
+  - C-S5-799    # 松田 安抚 SRC-024
+  - C-S6-396    # Lansbury CEO 语调 SRC-019
+  - C-S2-009    # 鲍秀兰 母婴情感 SRC-009
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

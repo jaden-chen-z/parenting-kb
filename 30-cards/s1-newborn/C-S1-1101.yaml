@@ -1,0 +1,67 @@
+card_id: C-S1-1101
+stages: [S1]
+tags: [cognitive_science, prenatal, language, lerner_v2]
+
+front:
+  title: 出生即识母亲声调
+  hook: 子宫已开始学语言
+
+back:
+  why_matters: |
+    DeCasper/Spence 1986 经典 + Lerner V2 Ch2 Saffran/Werker 综述。
+    给孕晚期孕妇每天读《Cat in the Hat》3 次(50+ 次累计)。
+    新生儿用"高吸吮力 vs 低吸吮力"奶嘴控制听:
+    - 选择听妈妈读《Cat in the Hat》(熟)— 高吸吮
+    - 选择听其他故事(陌生)— 低吸吮结果:**新生儿明显偏好胎期听过的内容**。
+    意义:
+    - 子宫内最后 2 月就在"听语言"
+    - 出生即识母语韵律(prosody)
+    - 跨语言新生儿 — 偏好母语而非外语
+    - 这是 Werker 母语音素窗口的"前置经验"
+    后续(Lerner V2):
+    - 还能区分母亲声 vs 陌生女性声
+    - 还能区分母语 vs 外语韵律跟现库:G-PERSON-Kuhl(C-S5-016 鲍秀兰 parentese)— 出生前就在准备。
+    跟 Brazelton NBAS 出生即响应母声对接。
+    对中国家长意义:
+    - 孕晚期跟胎儿说话/读书 — 真有用
+    - 出生即偏好妈妈声(不是声纹,是熟悉度)
+    - 妈妈声音是新生儿"安全基地"声学版
+    - 哭闹时妈妈说话最有效安抚
+  what_to_do:
+    - 孕晚期(28+ 周)跟胎儿说话 / 读书
+    - 出生用熟悉故事/歌谣安抚
+    - 妈妈声是"自带安抚工具"
+    - 双语家庭孕晚期就开始多语
+  failure_mode: |
+    "胎教是迷信" — 部分错。语言韵律确实学。
+    "新生儿听不懂没必要说" — 错。已经分母语外语。
+    "用录音机代替妈妈声" — 没那么好。互动性差。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Kuhl
+  - G-TERM-perceptual-narrowing
+  - G-TERM-parentese
+  - G-PERSON-Saffran
+  - G-PERSON-Werker
+  - G-PERSON-Brazelton
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 2 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 2 卷"
+  authors: ["Jenny R. Saffran", "Janet F. Werker", "Lynne A. Werner"]
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 2 · Prenatal language exposure · pp. 75-78"
+  source_id: SRC-028
+
+unit_ids: []
+related_cards:
+  - C-S2-1135     # Parentese species-specific
+  - C-S2-1136     # Eimas 范畴知觉
+  - C-S5-016       # 鲍秀兰 parentese
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

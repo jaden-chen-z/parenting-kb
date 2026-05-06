@@ -1,0 +1,78 @@
+card_id: C-S3-1352
+stages: [S3]
+tags: [child_care, lamb_ahnert, infant, lerner_v4]
+
+front:
+  title: 3-6 月短时托可
+  hook: 3-6 月短时托可
+
+back:
+  why_matters: |
+    Lamb-Ahnert V4 Ch 23(3-6 月托育转型)。
+    **3-6 月短时托育 OK 条件**:
+    - < 4 小时/天
+    - 师生比 < 1:4
+    - 主 caregiver 稳定
+    - 父母仍保 1-2 小时高质量陪伴
+    - 妈产假结束后逐步加
+    **逐步过渡 3 周原则**:
+    - 第 1 周:1-2 小时 / 父母在场
+    - 第 2 周:2-3 小时 / 父母短暂离开
+    - 第 3 周:3-4 小时 / 完整短时
+    - 不要直接全日
+    **Lamb 关键发现**:
+    - 3-6 月**质量** > **是否托育**
+    - 高质量短时托育 + 高质量父母 = 最优
+    - 低质量全日托育 = 风险
+    - 全职妈低质量 = 也差
+    **反 3 误区**:
+    - ❌ "全职妈最优"(质量决定不身份)
+    - ❌ "送托娃成依赖"(看响应稳定)
+    - ❌ "硬塞全日适应快"(分离焦虑加剧)
+    **家庭策略**:
+    - 妈休 6+ 月理想
+    - 短时 + 渐进过渡
+    - 父母 1-2 小时高质量回家
+    - 看孩子信号(适应慢加时)
+    跟现库:跟 C-S0-1239 Lamb 总论 + C-S2-1340 < 3 月不送托 + Bowlby 依恋(SRC-011)对接。
+    对中国家长意义:
+    - 3-6 月短时托 OK
+    - 3 周渐进过渡
+    - 师生比 < 1:4 是底
+    - 父母 1-2 小时高质量回家
+  what_to_do:
+    - 3-6 月可短时托
+    - 3 周渐进过渡
+    - '师生比 < 1:4'
+    - 父母 1-2 小时高质量回家
+  failure_mode: |
+    "全职妈最优"— 错。质量决定。
+    "送托成依赖"— 错。看响应稳定。
+    "硬塞全日适应快"— 错。分离焦虑。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Lamb
+  - G-PERSON-Ahnert
+  - G-TERM-child-care-quality
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 4 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 4 卷"
+  authors: ['Michael E. Lamb', 'Lieselotte Ahnert']
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 23 · Lamb-Ahnert · 3-6mo short-time child care · pp. 960-970"
+  source_id: SRC-029
+
+unit_ids: []
+related_cards:
+  - C-S0-1239     # Lamb 总论
+  - C-S2-1340     # V4 < 3 月不送托
+  - C-S6-1383     # V4 学步托育
+  - C-S6-031     # Brazelton 选托育
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

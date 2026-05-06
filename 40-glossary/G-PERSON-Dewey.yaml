@@ -1,0 +1,46 @@
+glossary_id: G-PERSON-Dewey
+type: person
+display_name: "Kathryn Dewey"
+
+en_term: "Kathryn Dewey"
+zh_term: "Kathryn Dewey"
+
+one_liner: |
+  UC Davis 营养学教授,WHO 辅食指南核心专家,Guiding Principles 主要作者。
+
+detail: |
+  ## 简介
+  Kathryn Dewey — UC Davis(加州大学戴维斯分校)营养学教授,全球辅食研究权威。
+  
+  ## 主要贡献
+  - PAHO/WHO 2003 'Guiding Principles for Complementary Feeding' 主要作者
+  - WHO 辅食 4 大支柱框架贡献者
+  - 母乳/辅食营养相互作用研究
+  
+  ## 关键概念
+  - Complementary feeding 4 pillars(及时/充分/安全/反馈)
+  - Iron-rich first foods 立场
+  - Self-regulation 在辅食期的重要性
+  
+  ## 在 SRC-031 中的角色
+  PAHO/WHO 2003 Guiding Principles 是辅食实操的全球圣经(完整 10 条 WebFetch 失败,gaps G_WHO_3)。
+
+key_facts:
+  - "UC Davis 营养学教授"
+  - "PAHO/WHO 2003 Guiding Principles 作者"
+  - "辅食 4 支柱贡献者"
+
+related_glossary:
+  - G-ABBR-CF
+  - G-TERM-WHO-CF-principles
+
+related_cards:
+  - C-S4-1046
+
+sources:
+  - source_id: SRC-031
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

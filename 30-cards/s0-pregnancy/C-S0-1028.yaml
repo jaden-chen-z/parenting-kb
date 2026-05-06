@@ -1,0 +1,54 @@
+card_id: C-S0-1028
+stages: [S0]
+tags: []
+
+front:
+  title: "Innocenti 1990"
+  hook: "BFHI 起点在意大利"
+
+back:
+  why_matters: |
+    Innocenti Declaration 1990 — UNICEF Florence Innocenti 中心起草,WHO+UNICEF+USAID+SIDA 联合发起的全球母乳喂养政治宣言。
+    1990 原版 4 大目标:① 各国成立母乳协调员 ② BFHI 启动 ③ Code 立法 ④ 立法保护妈妈母乳权利。
+    2005 修订版补充 9 大目标(包括 2025 全球量化指标)。
+    BFHI 1991 启动直接来自 Innocenti 1990。中国签署国之一。
+    [本卡基于 BFHI 间接引用 — Innocenti 全文 WebFetch 失败,见 gaps.md G_WHO_1]
+  what_to_do:
+    - "BFHI / Code 政治根基:Innocenti"
+    - "母乳喂养不是 '私人选择' — 是国际公共卫生政策"
+    - "孕期/产假/职场支持是 Innocenti 国家义务"
+    - "中国签署 Innocenti — 政府有责任建母乳支持"
+    - "妈妈知道这背景就敢要求(产假 / 哺乳室 / BFHI 医院)"
+  failure_mode: |
+    把母乳当 '个人事' → 错过国家政策杠杆。
+    Innocenti 是宣言不是建议 — 各国签了就有义务。
+  evidence_level: B
+
+glossary_refs:
+  - G-TERM-Innocenti-Declaration
+  - G-ABBR-BFHI
+  - G-TERM-WHO-Code
+
+citation:
+  page_title: "Innocenti Declaration via BFHI Wikipedia (主源 WebFetch 全失败)"
+  publisher: "World Health Organization & UNICEF"
+  page_url_primary: https://en.wikipedia.org/wiki/Baby_Friendly_Hospital_Initiative
+  accessed: 2026-05-04
+  language: en
+  location: "1990 Innocenti 是 BFHI 启动政治基础;具体 4+9 目标记 gaps"
+  source_id: SRC-031
+
+unit_ids: []
+related_cards:
+  - C-S0-1024
+  - C-S0-1025
+  - C-S1-1009
+  - C-S0-007
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_doc_id_pending: D3
+citation_followup_needed: '已映射真实 doc_id (D3 = International Code of Marketing 1981)'

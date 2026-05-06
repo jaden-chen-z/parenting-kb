@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Goodnow
+type: person
+display_name: "Goodnow(杰奎琳·古德诺)"
+
+full_name_en: "Jacqueline J. Goodnow"
+full_name_zh: "杰奎琳·古德诺"
+
+position: |
+  University of Sydney 行为科学院
+
+contribution: |
+  父母信念 + 文化心理学 + Shweder 共著
+
+one_liner: |
+  杰奎琳·古德诺 — 父母信念 + 文化心理学 + Shweder 共著
+
+key_facts:
+  - "本卷章节:Ch 13"
+  - "Lerner V1 命中:50+ 次"
+  - "学派:Lerner V1 文化心理学派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+    chapter: "Ch 13"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

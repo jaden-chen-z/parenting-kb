@@ -1,0 +1,36 @@
+card_id: C-S0-2158
+stages: [S0]
+tags: [postpartum, mom, exercise, safety]
+front:
+  title: 产后 6 周内禁这些剧烈动作
+  hook: 别急着回健身房
+back:
+  why_matters: |
+    前情:产后想快速恢复身材是常见冲动。
+    海蒂强调产后 6 周是"恢复期",肌肉关节韧带都在修复,过早剧烈运动会撕裂未愈合伤口、加重恶露、伤盆底。可以做产后操和散步,但不要做最大幅度伸展、高强度有氧、负重训练。
+  what_to_do:
+    - 产后 6 周内别做最大限度伸展
+    - 起床要缓慢避免血压突然降
+    - 站立时让双腿活动一会再走
+    - 有氧运动不超过目标心率
+    - 6 周后再循序渐进增量
+  failure_mode: 6 周内冲去跑步/卷腹/举铁,导致盆底功能下降、压力性尿失禁、子宫脱垂、伤口裂开。
+  evidence_level: B
+glossary_refs: [G-TERM-postpartum-recovery]
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors: ["Heidi Murkoff", "Sharon Mazel"]
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh: ["莫夏迪", "张敏"]
+  location: "第 23 章 《妈妈的第一年》, 页 678-680"
+  source_id: "SRC-040"
+related_cards: [C-S0-2159]
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

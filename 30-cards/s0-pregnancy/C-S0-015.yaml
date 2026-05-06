@@ -1,0 +1,67 @@
+card_id: C-S0-015
+stages: [S0]
+tags: [self, framework, philosophy]
+
+front:
+  title: Stern 4 层自我终身叠加
+  hook: 4 层自我终身叠加
+
+back:
+  why_matters: |
+    Stern《婴儿的人际世界》核心框架:婴儿不是"先没自我后有",而是从出生起一层层叠加 4 个不同的"自我感"。
+    传统观点(包括 Freud / Mahler / Piaget)认为:
+    - 婴儿出生后是混沌的,逐步"长出"自我
+    - 一个阶段过去就被下一个阶段"取代"
+    Stern 1985 提出**完全不同**的图景 — 4 senses of self 的"叠加"理论:
+    1. **新生自我出生 - 2 月** — 婴儿在主动"组装自己",体验各种感觉如何被组织起来
+    2. **核心自我2 - 6 月** — 知道"我是单独的、连贯的、有自己感觉的、有过去的人"
+    3. **主观自我7 - 15 月** — 发现"我有内心,别人也有,可分享" → 共主体性
+    4. **语言自我15+ 月** — 能用词反映自己,但语言也会扭曲自我
+    **关键**:这 4 层不是 succession(替换关系),而是 **layered(叠加关系)**:
+    - 一旦形成,**一辈子都活跃**
+    - 大人此刻都同时在用 4 层自我感
+    - 例:抱新生儿时大人靠 新生 + core(感受宝宝身体节律)+ verbal(给宝宝起名)同时跟 Bowlby 依恋(关系角度)+ 蒙氏 自我形成(哲学角度)三足鼎立 — Stern 给出**心理过程**层。
+    对家长:理解"自我是终身叠加"才能明白:
+    - 早期 新生 / core 没建好,后期 主观 / verbal 也会出问题
+    - 不要因为宝宝"不会说"就以为"没体验" — 前 2 层已在运转
+  what_to_do:
+    - 别把宝宝当"逐步升级"看
+    - 知道 4 层从出生起依序叠加
+    - 早期 0-6 月别只关心吃睡
+    - 9-15 月重视共享情感时刻
+    - 1.5+ 岁注意语言不能完全表达感受
+  failure_mode: |
+    "宝宝长大就有自我了" — 错。出生即有 新生自我,4 层从出生起依序叠加,一辈子并存。
+    把"自我"当某个里程碑,会错过 0-6 月最关键的早期奠基期。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Stern
+  - G-TERM-emergent-self
+  - G-TERM-core-self
+  - G-TERM-subjective-self
+  - G-TERM-verbal-self
+
+citation:
+  book_title_zh: "婴儿的人际世界"
+  book_title_en: "The Interpersonal World of the Infant"
+  authors: ["Daniel N. Stern"]
+  authors_zh: ["丹尼尔·斯特恩"]
+  publisher_en: "Basic Books"
+  year_en: 1985
+  isbn_en: "978-0-465-09559-9"
+  location: "Ch 1 · 'A Central Role for the Sense of Self' (4 senses overview)"
+  publisher_zh: "华东师范大学出版社"
+  year_zh: 2017
+  translator_zh: ["刘旭东"]
+  source_id: SRC-018
+
+unit_ids: []
+related_cards:
+  - C-S0-012       # Lillard 4 plane of development(蒙氏哲学)
+  - C-S0-013       # Lillard 蒙氏育儿公式
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

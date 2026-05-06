@@ -1,0 +1,76 @@
+card_id: C-S4-700
+stages: [S4]
+tags: [bedsharing, sleep, controversy, matsuda, japan, conflicts, philosophy]
+
+front:
+  title: "8 月后同床 OK 3 月内禁"
+  hook: "AAP 全禁松田分龄"
+
+back:
+  why_matters: |
+    松田 §258 给"母婴同睡"分龄立场，跟 AAP 强对立：
+    1. 不满 3 月禁同床(防母乳房压迫窒息);
+    2. 8 月后同床 OK — 寒冷季节抱回被窝最实用;
+    3. "西方过 3 月分房"是西洋立场，
+       不适合日本住宅 + 风俗;
+    4. 同床效果:夜里哭不用一次次起 + 母乳更增多;
+    5. 但要看父亲反应 — 不能影响他工作;
+    6. 父亲跟着醒玩 → 易养成孩子夜玩毛病。
+    立场跟 AAP "0-12 月禁 bedsharing" 对立，
+    跟 Brazelton "同床 vs AAP 立场分歧"一致认可家庭差异。
+
+  what_to_do:
+    - 0-3 月坚决不同床(SIDS 风险)
+    - 8 月后可同床(寒冷季节实用)
+    - 同床时妈妈侧睡 + 让宝宝睡身边不在被子里
+    - 注意父亲睡眠 — 别也跟着醒
+    - 父亲不要夜里跟孩子玩(养成夜玩毛病)
+
+  failure_mode: |
+    AAP 派妈妈坚持"绝对分床"→ 寒冬夜半起 4 次 → 累垮 → 月子抑郁。
+    或反方向：从 0 月就同床 → 防压迫意识不够 → SIDS 高风险。
+    松田立场是中道：3 月内禁、8 月后 OK、夹中间看具体情况。
+    日本 / 中国家庭住宅普遍小，"分房睡"现实不可行。conflicts.md 记录此立场对立。
+
+  evidence_level: C
+
+  positions:
+    issue: 同床 vs 同房不同床 · 何时安全 · SIDS 风险 · 分龄差异
+    views:
+      - school: Karp
+        source: SRC-003
+        stance: 在 10 步安全协议下可同床(无烟酒、硬床垫、无松软被等);否则不建议。
+      - school: AAP
+        source: SRC-004
+        stance: 严禁 bed-sharing。推荐同房不同床(共室不共床)到 6 月,可降 SIDS 50%。
+      - school: Brazelton
+        source: SRC-010
+        stance: 不给统一指南,视家庭文化决定;睡眠安排是亲子关系的反映,无单一正确答案。
+      - school: 松田道雄
+        source: SRC-024
+        stance: 分龄立场 — 3 月内禁同床(母乳房压窒息风险);8 月后可同床(寒冷季节实用,母乳更增多)。
+      - school: 中国传统
+        stance: 普遍同床(便于喂奶 / 保暖 / 安抚),无明确安全协议;部分家庭长期同床至学龄。
+glossary_refs:
+  - G-PERSON-Matsuda
+  - G-TERM-bedsharing-japan
+
+citation:
+  book_title_zh: "定本育儿百科"
+  authors:
+    - 松田道雄
+  publisher_ja: 岩波书店
+  year_first_edition: 1967
+  location: "§258 可以母婴同睡吗"
+  source_id: SRC-024
+
+unit_ids: []
+related_cards:
+  - C-S1-085  # Brazelton 同床 vs AAP 的立场分歧
+  - C-S1-038  # AAP Safe Sleep(立场对立硬指标)
+  - C-S5-021  # Brazelton 9 月学站夜醒机制
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

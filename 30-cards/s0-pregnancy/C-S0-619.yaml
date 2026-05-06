@@ -1,0 +1,90 @@
+card_id: C-S0-619
+stages: [S0]
+tags: [shonkoff, nrc, framework, controversy, china_high_freq]
+
+front:
+  title: "脑科学不告诉你怎么早教"
+  hook: "科学只告诉你别毁孩子"
+
+back:
+  why_matters: |
+    NRC 综述(Shonkoff/Phillips 2000)第 8 章给出 4 条神经科学定理 — 核心反早教焦虑:
+    **核心定理 1**:发展神经科学告诉你的是"避免什么"(虐待 / 忽视 / 创伤 / 严重感官缺陷),
+    **不是**"做什么能加速发展"。
+    **核心定理 2**:发育中的大脑跨"宽广发展期"开放接受经验 — 不是只有"关键 3 年"窗口。
+    **核心定理 3**:健康脑发育需要的经验是"普遍的"(陪伴 / 对话 / 关爱),不是 fancy 早教课。
+    **核心定理 4**:虐待 / 忽视 / 危险环境 = 明确风险;"未达 fancy 早教"≠ 风险。
+    **NRC 综述 17 人委员会跨 6 学科共识** — 跟单本"科学家在摇篮"(Gopnik)+
+    单本"摩西宝宝"(Lillard)等单作者派比,综述权威更高,反早教焦虑底气更足。
+    **对中国家长**:别花钱报"脑科学早教课"— 没用 + NRC 委员会明确说"科学不知道怎么加速"。
+    陪 + 对话 + 安全 + 自由探索 = 全部够。
+  what_to_do:
+    - 别买"脑潜能开发"课程
+    - 别强训记忆 / 算数 / 拼音
+    - 多陪 / 多对话 / 多自由玩
+    - 警觉虐待 / 长期忽视
+    - 别焦虑"赢在起跑线"
+  failure_mode: |
+    "我不报班孩子大脑就废了" — 错。NRC 综述明说:科学告诉你的是别造伤害,不是怎么加速。
+    fancy 早教只是父母焦虑的安慰剂,不是宝宝大脑的需要。
+    更大风险:报班 → 父母累 → 互动质量降 → 真正的脑发育食粮(关系)反而少了。
+  evidence_level: A
+
+  positions:
+    issue: 0-3 岁是真"关键期"(critical)还是"敏感期"(sensitive)
+    views:
+      - school: Shonkoff / NRC
+        source: SRC-025
+        stance: 强反对 — 神经科学不告诉你怎么早教,只告诉你别毁孩子;experience-expectant 类发展靠普通陪伴足够。
+      - school: Gopnik
+        source: SRC-015
+        stance: 反对 — 教学悖论 + Kuhl 数据 — DVD / 视频教学对婴儿无效。
+      - school: Lillard(蒙氏)
+        source: SRC-016
+        stance: absorbent mind 强调 0-6 岁是哲学性关键期,但不是临床 critical(可补)。
+      - school: 罗马尼亚孤儿数据
+        stance: 即便严重剥夺,6 月领养仍可大幅恢复 → 实证偏 sensitive 论;支持 NRC 立场。
+      - school: 中国主流
+        stance: '"脑潜能开发" / "蒙氏早教" / "感统课" / "全脑开发" 商业课程产业链发达,焦虑驱动消费。'
+      - school: 松田道雄
+        source: SRC-024
+        stance: 反对 — 不焦虑育儿,留自由空间给孩子玩。
+      - school: Lansbury / Gerber RIE
+        source: SRC-019/022
+        stance: 反对 — 减少结构化刺激,父母主要任务是不打扰孩子的自主探索。
+      - school: 蒙氏(Lillard / Davies)
+        source: SRC-016/014
+        stance: 部分接受 — 蒙氏环境是"特殊设计"但不是商业早教,要求专业 prepared 而非 fancy 课程。
+      - school: 鲍秀兰
+        source: SRC-009
+        stance: 部分支持早教 — 中国早期智力开发派,跟其他 5 派立场对立。
+glossary_refs:
+  - G-PERSON-Shonkoff
+  - G-PERSON-Phillips
+  - G-TERM-NRC
+  - G-TERM-experience-expectant
+  - G-TERM-experience-dependent
+
+citation:
+  book_title_en: "From Neurons to Neighborhoods"
+  book_title_zh: "从神经元到社区:早期儿童发展的科学"
+  authors: ["Jack P. Shonkoff", "Deborah A. Phillips"]
+  authors_zh: ["杰克·尚科夫", "德博拉·菲利普斯"]
+  org: "National Research Council and Institute of Medicine"
+  publisher_en: "National Academy Press"
+  year_en: 2000
+  isbn_en: "0-309-06988-2"
+  location: "Ch 8 The Developing Brain · 4 themes opening"
+  source_id: SRC-025
+
+unit_ids: []
+related_cards:
+  - C-S7-125    # Gopnik 反早教焦虑 SRC-015
+  - C-S0-013    # Lillard 蒙氏 self-construction SRC-016
+  - C-S0-014    # Davies 婴儿能力 SRC-014
+  - C-S0-517    # 松田不焦虑育儿 SRC-024
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

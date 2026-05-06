@@ -1,0 +1,55 @@
+card_id: C-S5-1037
+stages: [S5]
+tags: []
+
+front:
+  title: "9-11 月 3-4 餐"
+  hook: "餐数升母乳没减少"
+
+back:
+  why_matters: |
+    WHO 9-11 月喂养标准:
+    - 辅食:每天 3-4 餐
+    - 母乳:每天 4-6 次(按需)
+    - 食物质地:加手指食物 + 半固体
+    - 食物多样性:4+ 食物组(肉/鱼/蛋黄/蔬果/谷物)
+    - 母乳/辅食占比:辅食供能 ~40-50%,母乳 ~50-60%(6-12 月段)
+    中国通病:9-12 月开始 '减母乳',跟 WHO 持续母乳到 2 岁立场冲突。
+  what_to_do:
+    - "9-11 月:每天辅食 3-4 餐 + 母乳 4-6 次"
+    - "母乳次数不主动减 — 让娃自然调整"
+    - "加手指食物(切条自喂)"
+    - "食物多样性 — 4+ 食物组"
+    - "睡前/醒后母乳保留 — 1 岁后仍是核心"
+  failure_mode: |
+    9 月开始减母乳 '准备 1 岁断' → 错过 6-12 月母乳 50% 能量保护。
+    9-11 月仍是母乳主期 — 不是断奶准备。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-CF
+  - G-TERM-WHO-CF-principles
+
+citation:
+  page_title: "WHO Complementary Feeding 9-11 months"
+  publisher: "World Health Organization & UNICEF"
+  page_url_primary: https://www.who.int/health-topics/complementary-feeding
+  accessed: 2026-05-04
+  language: en
+  location: "WHO 9-11m 辅食 3-4 餐 + 母乳 4-6 次"
+  source_id: SRC-031
+
+unit_ids: []
+related_cards:
+  - C-S4-1047
+  - C-S4-1055
+  - C-S6-1070
+  - C-S5-001
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_doc_id_pending: D6
+citation_followup_needed: '已映射真实 doc_id (D6 = WHO Complementary Feeding)'

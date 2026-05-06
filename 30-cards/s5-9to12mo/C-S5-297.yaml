@@ -1,0 +1,80 @@
+card_id: C-S5-297
+stages: [S5]
+tags: [self, framework, 依恋]
+
+front:
+  title: 调谐 = 安全依恋的根
+  hook: 调谐多 = 依恋稳
+
+back:
+  why_matters: |
+    Stern 给 Bowlby 的依恋理论加了一个**心理过程**层 — 安全型 vs 焦虑型 vs 抗拒型 vs 混乱型依恋的**真正区别在 调谐 的累积质量**。
+    **Bowlby 经典框架**:
+    - 安全型(安全的)— 妈在则探索,妈走会哭,妈回来高兴抱
+    - 焦虑型— 妈走非常哭,妈回来生气推开
+    - 回避型— 妈走不哭,妈回来无视
+    - 混乱型— 矛盾混乱反应
+    - **Bowlby 描述行为 + 关系**,但没具体说**心理过程**是什么
+    **Stern 补充 — 心理过程就是 调谐 的累积**:
+    - **安全型** ← 父母**频繁高质量 调谐** + **正确 selective 调谐** + 偶尔 失调谐 但能修复
+    - **焦虑型** ← 父母 调谐 **不一致**(有时高有时低 — 让宝宝无法预测)
+    - **回避型** ← 父母 调谐 **持续低 / 拒绝** → 宝宝学到"我的内心没人懂,放弃求"
+    - **混乱型** ← 父母 调谐 **极端冲突**(突然过度调谐 → 突然攻击)→ 宝宝混乱
+    **Stern 跟 Bowlby 的关系**:
+    - 不是反对 — 是**补充心理过程**
+    - Bowlby 给"宏观行为模式" + 进化解释
+    - Stern 给"微观心理过程" + 实操干预点
+    - **结合用最强**
+    **临床干预的含义**:
+    - 修复焦虑型依恋 → 提高 调谐 一致性(可预测)
+    - 修复回避型 → 持续高质量 调谐 突破"放弃"模式
+    - 修复混乱型 → 处理父母自身的内心冲突(让 调谐 稳定)
+    **对家长的核心信息**:
+    - 想给宝宝**安全型依恋** = 提高 调谐 频率 + 一致性
+    - **不必每次都对** — 修复能力比完美更重要
+    - 失调谐 后立刻 承认 + 重新 调谐 = "断裂与修复" 比从不 断裂 更建立 安全的
+    - 中国家长常追求"完美" — 反而不如"高频 + 修复"
+    **跟 Bowlby V1 SRC-011 + 鲍秀兰 SRC-009 + Karp SRC-003 兼容** — 4 派一致看"父母对宝宝的本能心理工作"。
+  what_to_do:
+    - 求高频 调谐 不求完美
+    - 失调谐 后立刻 承认
+    - 断裂-修复 是健康循环
+    - 一致性比强度重要
+    - 自我修复能力是 调谐 的元能力
+  failure_mode: |
+    "我做不到完美所以放弃" — 错。Stern 数据 — 高频 + 修复比完美更建 安全的。
+    总追求"做对" → 焦虑紧绷 → 反而 调谐 失败。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Stern
+  - G-PERSON-Bowlby
+  - G-TERM-affective-attunement
+  - G-TERM-attachment
+  - G-TERM-anxious-attachment
+  - G-TERM-disorganized-attachment
+
+citation:
+  book_title_zh: "婴儿的人际世界"
+  book_title_en: "The Interpersonal World of the Infant"
+  authors: ["Daniel N. Stern"]
+  authors_zh: ["丹尼尔·斯特恩"]
+  publisher_en: "Basic Books"
+  year_en: 1985
+  isbn_en: "978-0-465-09559-9"
+  location: "Ch 7 + Stern 整体框架(attunement 是 attachment 的心理过程)"
+  publisher_zh: "华东师范大学出版社"
+  year_zh: 2017
+  translator_zh: ["刘旭东"]
+  source_id: SRC-018
+
+unit_ids: []
+related_cards:
+  - C-S5-291       # Stern attunement 主卡
+  - C-S5-070       # Bowlby 安全依恋
+  - C-S6-082       # Bowlby V2 分离反应 3 阶段
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

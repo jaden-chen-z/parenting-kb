@@ -1,0 +1,55 @@
+glossary_id: G-TERM-colostrum
+type: term
+display_name: "Colostrum 初乳"
+
+en_term: "Colostrum"
+zh_term: "初乳"
+
+one_liner: |
+  初乳 = 出生后头 2-5 天分泌的浓缩黄乳,sIgA 浓度 > 成熟乳 100 倍。
+
+detail: |
+  ## 定义
+  Colostrum — 出生后头 2-5 天分泌的黏稠黄色乳。
+  
+  ## 成分独特
+  - sIgA(分泌型免疫球蛋白 A)浓度 > 成熟乳 100 倍
+  - lactoferrin 高浓度
+  - 生长因子(EGF / IGF-1)帮肠道发育
+  - 量极少:出生第 1 天约 5 ml/餐(婴儿胃容量恰好)
+  
+  ## 关键功能
+  - 婴儿第一次免疫接种(被动免疫)
+  - 帮肠道菌群建立
+  - 通便(胎便)
+  - 妈妈泌乳启动
+  
+  ## 跟 BFHI 关系
+  出生 1 小时内开奶就是为了娃尽早得到初乳(BFHI 第 4 步)。
+  
+  ## 中国传统误区
+  '初乳脏要挤掉' / '没奶用配方过渡' → 错过初乳免疫黄金窗。
+
+key_facts:
+  - "头 2-5 天黄乳"
+  - "sIgA 100x 成熟乳"
+  - "5 ml/餐 = 胃容量"
+  - "BFHI 第 4 步保护"
+
+related_glossary:
+  - G-ABBR-EBF
+  - G-TERM-early-initiation
+  - G-TERM-skin-to-skin
+
+related_cards:
+  - C-S1-1000
+  - C-S1-1014
+  - C-S1-1017
+
+sources:
+  - source_id: SRC-031
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

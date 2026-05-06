@@ -1,0 +1,59 @@
+card_id: C-S1-184
+stages: [S1]
+tags: [montessori, vision, newborn, feeding]
+
+front:
+  title: 新生儿能看 30cm
+  hook: 30cm 是哺乳距离
+
+back:
+  why_matters: |
+    新生儿视力发育不全 — 只能聚焦约 **30cm(12 英寸)**距离。
+    这个距离 = 妈妈抱起喂奶时,宝宝脸到妈妈脸的距离。
+    生物设计极精巧:
+    - 30cm 内最清楚 — 妈妈的脸 / 乳头 / 黑色乳晕(对比强,新生儿能找)
+    - 30cm 外模糊
+    - 黑白对比 + 圆形(眼睛 / 乳晕)是新生儿天生关注模式
+    Robert Fantz 1960 年代研究证明:新生儿天生偏好人脸 + 高对比图形。
+    实操意义:
+    - 抱宝宝时**保持 30cm 内眼神接触**,这是天然的连接窗口
+    - 喂奶不要刷手机 — 30cm 内就是宝宝在"读"你的脸
+    - 不需要鲜艳玩具 — 黑白对比 + 你的脸 + 真物(植物 / 镜子 / 简单 mobile)就够
+  what_to_do:
+    - 喂奶时眼神接触,不刷手机
+    - 抱起前先告诉宝宝,让他看到你
+    - 第 1-6 周用黑白高对比 mobile(Munari)
+    - 不挂彩色 / 闪光玩具(过度刺激)
+    - 自然光下让他看你的脸
+  failure_mode: |
+    "新生儿看不见,跟他说话没用" — 错。30cm 内能看清你的脸,出生几小时就在读你。
+    喂奶时刷手机 — 错过最自然的联结窗口。宝宝盯着你的脸,你盯着屏幕,他学到"妈妈不在场"。
+    买太多色彩鲜艳玩具 — 视觉过载,反而无法专注。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Davies
+  - G-PERSON-Montessori
+  - G-TERM-bonding
+
+citation:
+  book_title_zh: "蒙特梭利的小宝宝(0-1岁)"
+  book_title_en: "The Montessori Baby"
+  authors: ["Simone Davies", "Junnifa Uzodike"]
+  authors_zh: ["西蒙·戴维斯", "君妮法·乌佐迪克"]
+  publisher_en: "Workman Publishing"
+  year_en: 2021
+  isbn_en: "978-1-5235-0693-7"
+  location: "Chapter 3 · Symbiosis > Visual experiences + Karin Slabaugh interview"
+  source_id: SRC-014
+
+unit_ids: []
+related_cards:
+  - C-S1-073       # Brazelton 6 states 含 alert
+  - C-S1-122       # Bowlby 依恋前奏
+  - C-S1-065       # 鲍秀兰 1 月视觉训练
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

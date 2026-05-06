@@ -1,0 +1,49 @@
+source_id: SRC-018
+total_cards: 44
+totals_per_issue:
+  missing_citation_field: 1   # 全 44 张缺 publisher_zh/year_zh/translator_zh(华东师大 2017)
+  hook_descriptive: 6
+  wrong_evidence_level: 14
+  tag_misuse: 1               # 全 44 张含 stern/self/framework 等非 §2.3 原 4 类 tag
+  missing_failure_mode: 1
+key_intrinsic_issues:
+  - {card_id: ALL-44-CARDS, type: missing_citation_field, severity: P1, fix: 批量补 publisher_zh "华东师大" + year_zh 2017 + translator_zh}
+  - {card_id: C-S0-018, type: wrong_evidence_level, severity: P2, fix: A→B(Stern 反 Freud 是流派 polemic)}
+  - {card_id: C-S1-256, type: wrong_evidence_level, severity: P2, fix: A→B}
+  - {card_id: C-S2-194, type: wrong_evidence_level, severity: P2, fix: A→B}
+  - {card_id: C-S3-197, type: wrong_evidence_level, severity: P2, fix: A→B(self-regulating other 是 Stern 框架命名)}
+  - {card_id: C-S3-198, type: wrong_evidence_level, severity: P2, fix: A→B(RIGs Stern 桥接构念)}
+  - {card_id: C-S3-199, type: wrong_evidence_level, severity: P2, fix: A→B(evoked companion Stern 独创)}
+  - {card_id: C-S3-201, type: wrong_evidence_level, severity: P2, fix: A→B}
+  - {card_id: C-S4-196, type: wrong_evidence_level, severity: P2, fix: A→B}
+  - {card_id: C-S4-199, type: wrong_evidence_level, severity: P2, fix: A→B(psychic intimacy 理论建构)}
+  - {card_id: C-S4-200, type: wrong_evidence_level, severity: P2, fix: A→B}
+  - {card_id: C-S5-294, type: wrong_evidence_level, severity: P2, fix: A→B}
+  - {card_id: C-S5-295, type: wrong_evidence_level, severity: P2, fix: A→B(communion vs communication 哲学区分)}
+  - {card_id: C-S5-297, type: wrong_evidence_level, severity: P2, fix: A→B}
+  - {card_id: C-S5-298, type: wrong_evidence_level, severity: P2, fix: A→B 更稳}
+  - {card_id: C-S6-298, type: wrong_evidence_level, severity: P2, fix: A→B}
+  - {card_id: C-S6-300, type: wrong_evidence_level, severity: P2, fix: A→B}
+  - {card_id: C-S0-015, type: hook_descriptive, severity: P2}
+  - {card_id: C-S2-191, type: hook_descriptive, severity: P2}
+  - {card_id: C-S5-291, type: hook_descriptive, severity: P2}
+  - {card_id: C-S5-292, type: hook_descriptive, severity: P2}
+  - {card_id: C-S5-296, type: hook_descriptive, severity: P2}
+  - {card_id: C-S6-300, type: hook_descriptive, severity: P2}
+intra_source_dedups:
+  - {cluster: [C-S5-291, C-S5-293], level: L3, action: mutual_link}
+  - {cluster: [C-S2-193, C-S4-201], level: L3, action: mutual_link}
+  - {cluster: [C-S5-291, C-S5-292], level: L3, action: mutual_link}
+  - {cluster: [C-S5-294, C-S4-202, C-S5-299], level: L3, action: mutual_link}
+  - {cluster: [C-S5-297, C-S5-298], level: L3, action: mutual_link}
+  - {cluster: [C-S0-015, C-S1-254, C-S3-196, C-S4-196, C-S6-296], level: L4, action: mutual_link, reason: 4 senses overview + 4 阶段子卡 hub-spoke}
+  - {cluster: [C-S0-016, C-S0-018], level: L3, action: mutual_link, reason: 反 Mahler + 反 Freud}
+  - {cluster: [C-S6-296, C-S6-297, C-S7-248], level: L3, action: mutual_link}
+  - {cluster: [C-S5-295, C-S6-298, C-S6-300], level: L3, action: mutual_link, reason: 共有"语言不能挤掉非语言体验"主张}
+  - {cluster: [C-S2-192, C-S3-201], level: L3, action: mutual_link}
+  - {cluster: [C-S4-197, C-S4-198], level: L3, action: mutual_link}
+notes: |
+  整体质量高:无 L1/L2 真重复;白话风格执行到位;术语卡引用完整。
+  最大问题 evidence_level 偏 A 14 张(Stern 大量构念是独家流派,跨源验证有限)。
+  系统性 P1:全 44 张缺中译本 publisher_zh/year_zh/translator_zh,需批量补华东师大 2017。
+  hook 描述型 6 张违反 §10.10 设计意图。

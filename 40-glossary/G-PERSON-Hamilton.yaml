@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Hamilton
+type: person
+display_name: "Hamilton(斯蒂芬·汉密尔顿)"
+
+full_name_en: "Stephen F. Hamilton"
+full_name_zh: "斯蒂芬·汉密尔顿"
+
+position: |
+  Cornell University 人类发展系
+
+contribution: |
+  youth development + community-based mentoring
+
+one_liner: |
+  斯蒂芬·汉密尔顿 — youth development + community-based mentoring
+
+key_facts:
+  - "本卷章节:Ch 16"
+  - "Lerner V1 命中:30+ 次"
+  - "学派:Lerner V1 PYD 派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+    chapter: "Ch 16"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

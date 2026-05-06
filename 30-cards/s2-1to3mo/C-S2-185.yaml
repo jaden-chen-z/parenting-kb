@@ -1,0 +1,58 @@
+card_id: C-S2-185
+stages: [S2]
+tags: [montessori, attention, controversy, philosophy]
+
+front:
+  title: 注意力问题溯源 0-3 月
+  hook: ADHD 起源假说
+
+back:
+  why_matters: |
+    Lillard Ch2 提出一个有争议但有意思的假说:
+    > "现代孩子注意力问题(ADHD)激增,基因没变,学校教学没变。
+    > 那么 — **是不是问题出在 0-3 月的'专注期'被打断**?"
+    Lillard 推理:
+    - 0-3 月有"专注力敏感期"(类似语言敏感期)
+    - 这期间宝宝大脑学**怎么深度专注**
+    - 现代育儿不断打扰宝宝(夸 / 拍 / 抱 / 换玩具) → 错过这个学习期
+    - 学龄期 ADHD = "**0-3 月没建好专注神经通路**"的后果虽然没确认实证,**Lillard 引 Csikszentmihalyi flow 理论 + Diana Baumrind 育儿研究**支持这命题。
+    实操含义 — 0-3 月"看起来无聊"的宝宝独自盯天花板时,**这是关键学习** — 不是无聊,是建脑。
+    跟"宝宝不能独处" / "得多陪多刺激"**直接对立**。
+  what_to_do:
+    - 1 月起每天给宝宝独自专注时间
+    - 看到宝宝盯什么不打断
+    - 不靠拍 / 摇 / 哄让宝宝"开心"
+    - 给环境结构 + 不给过度刺激
+    - 接受"无聊片刻"是必要的
+  failure_mode: |
+    "宝宝独自呆着我心疼" — 蒙氏立场:这是宝宝在用大脑,不是无聊。
+    全程刺激 → 宝宝长大后不会自己专注 → 也许就是 ADHD 来源(Lillard 假说)。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Lillard
+  - G-PERSON-Jessen
+  - G-TERM-self-construction
+  - G-TERM-going-slow
+
+citation:
+  book_title_zh: "蒙台梭利从 0 岁开始"
+  book_title_en: "Montessori from the Start"
+  authors: ["Paula Polk Lillard", "Lynn Lillard Jessen"]
+  authors_zh: ["宝拉·波尔克·莉拉德", "琳·莉拉德·杰森"]
+  publisher_en: "Schocken Books"
+  year_en: 2003
+  isbn_en: "978-0-8052-1112-1"
+  location: "Ch 2 · concentration + ADHD hypothesis"
+  source_id: SRC-016
+
+unit_ids: []
+related_cards:
+  - C-S1-248       # 别打断专注!
+  - C-S2-129       # Davies 别打断 1 月宝宝看自己手
+  - C-S6-132       # Davies 2 岁前不看屏幕
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

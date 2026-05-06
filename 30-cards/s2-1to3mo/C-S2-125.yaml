@@ -1,0 +1,58 @@
+card_id: C-S2-125
+stages: [S2]
+tags: [development_burst, philosophy, controversy]
+
+front:
+  title: 跃迁后宝宝突然"长大了"
+  hook: 一两天就像变个人
+
+back:
+  why_matters: |
+    Wonder Week 跃迁说到底就是大脑重新连接,所以**新能力上线是突变,不是渐进**。
+    烦躁 阶段 几天到几周后,宝宝突然:
+    - 8 周后:盯着栏杆 / 罐头排列 / 自己的手看
+    - 12 周后:动作从机械变流畅 / 头能跟移动物体连续转
+    - 19 周后:把动作串成事件(后续段卡)
+    家长常感觉"宝宝一夜之间长大了"或"以前那个宝宝呢" — 这是正常的。
+    重要洞察:**跃迁完成后宝宝技能展现是渐进的**,不是 1 天全部上线 — van de Rijt 在每章都用 "stop filling this out once the next stormy period begins" 提醒,
+    技能列表是"可能出现的能力清单",每个宝宝按自己气质 + 兴趣选 1-3 项重点发展,不会全部出现。
+    家长意义:**别拿其他宝宝比** — 我家宝宝 8 周不抓玩具但已经 ah-uh 个不停,人家宝宝相反,都是 WW8 跃迁正常表现。
+  what_to_do:
+    - 跃迁后看宝宝突然新出现什么(不是按列表打勾)
+    - 鼓励宝宝感兴趣的能力,不强求清单全有
+    - 拍视频记录跃迁前后对比 — 直观看到"长大"
+    - 比较只跟"自己宝宝跃迁前"比,不跟其他宝宝比
+    - 跃迁后期(1-2 周)是黄金游戏 + 互动期
+  failure_mode: |
+    "我家宝宝 8 周还不抓玩具,人家宝宝都会了" — 你家宝宝可能选了别的能力发展。
+    跃迁后立刻给一堆早教任务 → 宝宝消化不了 → 看似"无效"。
+    跃迁后期父母自己累瘫,反错过最好的互动窗。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-vanderijt
+  - G-TERM-wonder-week
+  - G-TERM-mental-leap
+  - G-TERM-cognitive-burst
+
+citation:
+  book_title_zh: "婴儿大脑跃迁 10 周(神奇周)"
+  book_title_en: "The Wonder Weeks"
+  authors: ["Hetty van de Rijt", "Frans X. Plooij"]
+  authors_zh: ["海蒂·凡德里特", "弗朗斯·普洛伊"]
+  publisher_en: "Kiddy World Publishing"
+  year_en_first: 1992
+  isbn_en: "978-90-79208-12-1"
+  location: "Chapter 4 · How My Baby Explores the New World of Patterns + Your Baby's Choices: A Key to His Personality(every baby decides for himself what he wants to learn, when, and how... your baby will not demonstrate at this time many of the skills listed)"
+  source_id: SRC-013
+
+unit_ids: []
+related_cards:
+  - C-S2-121       # WW8 模式世界
+  - C-S2-122       # WW12 平滑过渡
+  - C-S1-179       # 10 个跃迁时间表
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

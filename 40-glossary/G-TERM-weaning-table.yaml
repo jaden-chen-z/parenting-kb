@@ -1,0 +1,95 @@
+glossary_id: G-TERM-weaning-table
+type: term
+display_name: 断奶桌椅 (weaning table)
+
+full_name_zh: 断奶桌椅 / 蒙氏稳定喂养椅桌
+full_name_en: Weaning Table and Chair
+
+one_liner: |
+  蒙氏 6-15 月专用的喂养桌椅。**很重 / 矮 / 椅腿宽 / 椅有扶手**,让宝宝坐稳但能自己进出。
+  Maria Montessori 设计 — 替代高脚椅,目标是让 6 月起加固食时宝宝是"小独立人"而非"大人怀抱里的依赖"。
+
+detail: |
+  ## 定义
+  Weaning table & chair = 蒙氏 0-3 教育中喂养专用家具:
+  - **桌**:小、矮、稳重(不易翻)
+  - **椅**:重橡木,座位低 + 宽 + 椅腿外撇 + 有扶手包围
+  - **位置**:跟父母面对面坐(父母在小凳上)
+
+  Maria Montessori 1907 年起设计的具体尺寸,延续到现在。
+
+  ## 跟传统高脚椅(high chair)对比
+  | 高脚椅 | 蒙氏断奶椅 |
+  |---|---|
+  | 把宝宝困在高空 | 宝宝坐地面,可自上自下 |
+  | 摔下风险 | 没风险 |
+  | 宝宝掉东西到高度落差大 | 离地面近,声音 + 视觉一致 |
+  | 大人坐对面像"看动物" | 父母在矮凳上,跟宝宝平视 |
+  | 大人主导 | 宝宝主导(自上自下) |
+  | 宝宝完成饭就被抱出 | 宝宝完成 → 自己爬出 |
+
+  ## 蒙氏的特殊使用方式(Lillard Ch7)
+  ### 6-10 月(刚开始固食)
+  - 父母面对面坐
+  - 父母示范:把勺子从碗端到嘴,一次一小匙
+  - 宝宝抓自己的勺子 — 大人不抢
+
+  ### 10-15 月(自喂技能起步)
+  - 椅子靠墙,桌靠近椅子(防宝宝中途爬出去)
+  - 父母用脚顶住桌(如宝宝想推)
+  - 宝宝完成 = 站起来 → 父母 "你完成了 → 我把饭收掉"
+
+  ### 15 月+(完全独立喂养)
+  - 桌椅放厨房一角
+  - 宝宝自己拿餐具,自己摆桌
+  - 主餐时跟家庭一起用 junior chair(可自己进出的标准椅,不是高脚椅)
+
+  ## 商业获取
+  - 美国蒙氏教具公司(Nienhuis 等)
+  - 中国可买"蒙氏喂养椅"(尺寸:座面 17-20cm 离地)
+  - 自制:厚木板做矮桌(座面跟宝宝坐时膝盖弯 90 度)
+  - 椅子选餐桌椅切短脚 + 加扶手
+
+  ## 为什么 Lillard 强烈推荐
+  Lillard Ch7 直接说:
+  > "高脚椅给宝宝的信息是:你是被困在某处的物件。
+  > 断奶椅给宝宝的信息是:你能自己坐上去 / 自己起来 / 你跟我们平起平坐。"
+
+  ## 中国家长高频误解
+  | 误解 | 实际 |
+  |---|---|
+  | "矮椅子跟人家不一样,看着不专业" | 蒙氏全球用了 100 年,这才"专业" |
+  | "高脚椅清理方便" | 实际:断奶椅食物只掉 30cm,不像高脚椅落到老远 |
+  | "宝宝不会爬怎么自己上下" | 6-10 月用 propping 支持,会爬后就完全自主 |
+  | "高脚椅安全带" | 反:安全带 = 把宝宝当物件 / 蒙氏椅靠扶手 + 重 = 自然安全 |
+
+  ## 跟其他蒙氏概念关联
+  - **Practical life** — 摆桌 / 端菜 / 收尾都从这桌开始
+  - **Cycle of activity** — 完整一餐:坐下 → 吃 → 站起来 → 帮收拾
+  - **Independence** — 6 月起自己进出 = 自立信号
+  - **Floor bed** + **Weaning table** + **Yes space** = 蒙氏家庭 3 大物理工具
+
+key_facts:
+  - 蒙氏 6-15 月专用喂养椅桌
+  - Maria Montessori 1907 年设计
+  - 替代高脚椅(关高空 vs 自上自下)
+  - 父母面对面坐(平视)
+  - Lillard 比 Davies 描述更详细
+
+related_glossary:
+  - G-PERSON-Montessori
+  - G-PERSON-Lillard
+  - G-TERM-practical-life
+  - G-TERM-prepared-environment
+  - G-TERM-floor-bed
+
+related_cards: []
+
+sources:
+  - source_id: SRC-016
+  - external: Nienhuis Montessori / Michael Olaf catalog
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

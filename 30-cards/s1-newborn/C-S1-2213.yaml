@@ -1,0 +1,44 @@
+card_id: C-S1-2213
+stages: [S1]
+tags: []
+front:
+  title: 6 种婴儿意识状态
+  hook: 学会读懂他在哪档
+back:
+  why_matters: |
+    宝宝行为不是"睡/醒"二分,而是 6 种意识状态 — 学会识别能省下一半的猜谜烦恼。
+    1)安静地醒(双眼睁大、专注看听 — 一对一交流最佳时机,1 月末每天约 2.5 小时);
+    2)活动着醒(挥手踢脚、看物不看人、易转大哭);
+    3)大哭(挥手踢脚、紧闭双眼);
+    4)昏昏欲睡(过渡状态、眼皮下垂);
+    5)安静睡觉(放松脸、几乎不动);
+    6)睡着时活动(REM 睡眠、眼球转动、脸抽动 — 占睡眠一半时间)。
+    REM 状态宝宝看似不安宁是正常的,不要急着抱起。
+  what_to_do:
+    - 安静醒 = 一对一互动黄金时段
+    - 活动醒 = 提前喂或安抚防转大哭
+    - 昏昏欲睡 = 让他自然入睡不打扰
+    - REM 时听到动静 = 别急着抱起 — 可能继续睡
+    - 哭只是 6 种之一不是默认
+  failure_mode: |
+    把 REM 时的小动静当"醒了"抱起破坏睡眠周期。
+    错过"安静醒"的最佳交流窗口 → 总在他烦躁时硬聊。
+  evidence_level: B
+glossary_refs: []
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors: ["Heidi Murkoff", "Sharon Mazel"]
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh: ["莫夏迪","张敏"]
+  location: "第 4 章新生儿 · 6 种意识状态, 页 118"
+  source_id: SRC-040
+related_cards: []
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

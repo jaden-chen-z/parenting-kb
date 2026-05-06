@@ -1,0 +1,56 @@
+card_id: C-S1-2501
+stages: [S1]
+tags: [controversy]
+
+front:
+  title: 肠绞痛安抚 8 招(5S 之外)
+  hook: Karp 5S + 海蒂额外维度
+
+back:
+  why_matters: |
+    Karp 5S(包裹/侧卧/嘘声/摇晃/吸吮)是肠绞痛安抚的金标准 — 但**不是每个宝宝都对 5S 全部买账**。
+    海蒂提供 5S 之外的备选维度,让父母在"哭了 1 小时还在哭"时多 8 招可试:
+    其中**戒咖啡因**对部分母乳宝宝立竿见影,**茴香水/草药** AAP 中立但海蒂列入,需警惕。
+  what_to_do:
+    - 妈妈戒咖啡因 1 周看变化(母乳娃高度敏感)
+    - 换喂养人:让爸爸/外婆抱,有时换味道有效
+    - 白噪音(吹风机/吸尘器/白噪音 App),持续 5-10 分钟
+    - 婴儿背带 babywearing 边走边轻拍(C-S1-2506 关联)
+    - 换姿势:飞机抱、趴在大人前臂、蹬腿动作
+    - 户外散步:温度变化和环境刺激常奏效
+    - 温水澡 + 之后腹部按摩(顺时针)
+    - 牛奶蛋白排查:连续 2 周避所有奶制品(母乳妈妈或换水解奶粉),复评
+  failure_mode: |
+    试 1 招 5 分钟没效就换 → 海蒂强调每招至少坚持 10 分钟。
+    用茴香水 / 益生菌等"偏方"不告知医生 → 部分草药对婴儿肝有毒。
+    肠绞痛全归因牛奶蛋白过敏 → 真过敏率不到 1%,别盲目换奶粉。
+    哭超 3 小时还安抚不下来 + 发烧/呕吐 → 不是绞痛,送医。
+  evidence_level: B
+
+glossary_refs:
+  - G-ABBR-AAP
+
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors:
+    - Heidi Murkoff
+    - Sharon Mazel
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh:
+    - 莫夏迪
+    - 张敏
+  location: "第 7 章第 2 个月 · 肠痉挛专题"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards: []
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

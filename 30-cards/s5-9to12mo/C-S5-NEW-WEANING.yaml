@@ -1,0 +1,92 @@
+card_id: C-S5-NEW-WEANING
+stages: [S5]
+tags: [meta_cross, weaning, breastfeeding]
+
+front:
+  title: 断母乳 5 派立场对照
+  hook: 1 年? 2 年? 还是跟节奏?
+
+back:
+  why_matters: |
+    "孩子 1 岁了,该断奶了吧?" — 这句中国老人最常说的话,
+    背后是 5 派立场的彻底撕裂,从 WHO 推 2 年 + 到中国传统怕粘人 1 岁断,
+    时间线相差 1-2 年,父母左右为难。
+    本卡列 5 派立场 + 关键决策依据。
+    **核心区分**:"断母乳" ≠ "断奶"。
+    断母乳指停止亲喂母乳;此时奶粉 / 牛奶 / 辅食仍是营养支柱。
+    1 岁前主食仍是奶(母乳或配方),1 岁后辅食 + 奶各占一半。
+    **关键反直觉**:**延长母乳不会让孩子粘人或拒绝独立**(WHO + 鲍秀兰共识),
+    "1 岁断怕粘人"是中国传统的认知误区。
+    妈妈是否回归工作 / 是否还有奶 / 孩子是否抗拒 — 这些个体因素比"几月断"重要得多。
+  what_to_do:
+    - "**WHO 国际标准**(全球推荐):**纯母乳 6 月 + 持续母乳到 2 岁 'or beyond'**(C-S6-1064 等);母乳是 12-24 月仍营养价值高 + 免疫保护;不主张设硬性断奶时间(SRC-031)"
+    - "**AAP 美国务实**(1 年弹性):**至少 1 岁,'as long as mutually desired'**;母乳到 1 岁后由家庭决定;不反对延长但也不强推 2 年(C-S5-006 类)"
+    - "**Magda Gerber RIE**(跟节奏):**没有'必须几月断'**;跟孩子节奏 + 妈妈节奏共同决定;尊重孩子主导的逐渐减少(孩子主导断奶)(C-S5-447)"
+    - '**松田道雄日本**(实用平衡):**工作妈延长夜奶,白天断**;返工后白天奶粉 + 夜间继续母乳是可行方案;不强求"全断或不断"二元(C-S5-800)'
+    - '**中国传统**(1 岁断 / 怕粘人):"1 岁就该断,不然粘人不独立";老人催断常见理由;**与现代主流(WHO+AAP+蒙氏+RIE)都有冲突**;鲍秀兰等中国现代儿保医生反传统,推延长'
+    - "**中道决策建议**:1)如果妈妈想继续 + 孩子想吃 + 没工作冲突 → 推到 18-24 月或更久;2)如果返工 → 学松田白天断夜间留(过渡期);3)如果妈妈想停或没奶 → 1 岁后逐渐断,不必内疚;**关键 = 妈妈状态 + 孩子节奏,不是月龄表**"
+    - "**逐渐断技术**(5 派共识):每 1-2 周减 1 顿 + 用辅食/牛奶/水替代;睡前奶最后断(情感意义最大);拒绝 → 暂停 1 周再试;不突然断(乳腺炎 + 孩子情感打击)"
+  failure_mode: |
+    **听老人 1 岁强断**:违背 WHO+AAP 主流,且让妈妈背"再不断就粘人"焦虑(伪科学);
+    **突然断**(几天内全停):乳腺炎风险 + 孩子情感打击 + 反弹哭闹;
+    **"必须 X 月断"机械执行**:5 派都反对,实际看妈妈状态 + 孩子节奏;
+    **为返工提前 3 月开始焦虑**:返工不必断,松田路径可工作 + 留夜奶;
+    **断奶=断营养误解**:断母乳 ≠ 断奶,1 岁后牛奶 / 配方 / 辅食仍是营养支柱;
+    **强迫式断奶**(辣椒涂乳头 / 突然送外婆家 / 不见妈妈):情感打击 + 信任损害,5 派一致反对。
+  evidence_level: B
+
+glossary_refs:
+  - G-ABBR-WHO
+  - G-ABBR-AAP
+  - G-PERSON-Gerber
+  - G-PERSON-Matsuda
+  - G-TERM-weaning
+  - G-TERM-breastfeeding
+  - G-TERM-self-led-weaning
+
+citation:
+  cross_source: true
+  primary_source_id: META-CROSS
+  cross_sources:
+    - source_id: SRC-031
+      anchor_card: C-S6-1064
+      stance: WHO 持续母乳到 2 岁 'or beyond'(国际标准)
+    - source_id: SRC-006
+      anchor_card: C-S5-006
+      stance: AAP 至少 1 岁,'as long as mutually desired'(美国弹性)
+    - source_id: SRC-022
+      anchor_card: C-S5-447
+      stance: Magda Gerber 跟孩子节奏(RIE 自主断)
+    - source_id: SRC-019
+      anchor_card: C-S5-800
+      stance: 松田工作妈延长夜奶白天断(实用平衡)
+    - source_id: ZH-TRADITION
+      anchor_card: META
+      stance: 中国传统 1 岁断怕粘人(与主流冲突)
+  location: META · S5 跨派对照导航卡
+
+unit_ids: []
+related_cards:
+  - C-S6-1064      # WHO 持续母乳 2 岁
+  - C-S5-006       # AAP 母乳至少 1 岁
+  - C-S5-447       # Magda Gerber 跟节奏断奶
+  - C-S5-800       # 松田 工作妈夜奶延长
+  - C-S5-190       # 戒奶瓶 3 派(姊妹 hub:奶瓶 ≠ 母乳)
+  - C-S5-191       # 睡眠训练 5 派(夜奶相关)
+
+navigation_role: |
+  S5 段断母乳导航 hub — 中国家长 9-15 月返工高峰期最高频痛点。
+  5 派立场分散在 5+ 来源,本卡首次综合对照。
+  关键区分:**断母乳 ≠ 断奶瓶 ≠ 断奶睡** — 三者各有 hub:
+  - 断母乳 = 本卡(5 派,WHO 推延长)
+  - 戒奶瓶 = C-S5-190(3 派,12-18 月)
+  - 戒夜奶 / 睡眠 = C-S5-191(5 派)
+  跨派最强共识:**没有"必须 X 月断"硬规则,看妈妈+孩子状态**。
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_doc_id_pending: D6
+citation_followup_needed: '已映射真实 doc_id (D6 = WHO Complementary Feeding)'

@@ -1,0 +1,499 @@
+source_id: SRC-030
+title_en: "Handbook of Child Psychology, Volume 1: Theoretical Models of Human Development (6th Edition)"
+title_zh: "儿童心理学百科 · 第 1 卷:人类发展的理论模型(第 6 版)"
+org: "John Wiley & Sons"
+tier: 3
+source_type: book
+url: null
+isbn_en: "978-0-471-27288-4"
+publisher_en: "John Wiley & Sons, Inc."
+location_en: "Hoboken, New Jersey"
+year_en: 2006
+edition: "6th"
+accessed: 2026-05-04
+language: en
+notes_path: tier3-books/notes/SRC-030.yaml
+
+editors:
+  - name_en: "William Damon (Editor-in-Chief)"
+    name_zh: "威廉·达蒙"
+    role: "Handbook 总主编(全 4 卷)"
+    background: |
+      斯坦福大学青少年发展中心主任,道德发展研究权威,
+      Handbook of Child Psychology 全 4 卷总主编(2006 第 6 版)。
+  - name_en: "Richard M. Lerner (Editor-in-Chief + Volume Editor)"
+    name_zh: "理查德·勒纳"
+    role: "Handbook 总主编 + 本卷(Vol 1)主编 + 应用发展科学奠基人"
+    background: |
+      Tufts University 应用儿童发展研究所主任,生命周期发展心理学权威。
+      本卷 Vol 1 主编 + 主笔 Ch 1 (Developmental Science)。
+      Lerner "developmental contextualism" + "relational developmental systems"派旗手,
+      把元理论(metatheory)层级的视角推进当代发展心理学顶层框架。
+
+# 章节地图(基于实测 REFERENCES 段位置 + 大写标题 hits)
+# V1 共 17 章 — 元理论卷 — 每章一个学派 / 一位奠基级理论家
+chapter_offsets:
+  preface_damon: 5154           # Damon 主编序
+  preface_end: 45586            # Damon 序 references end
+  ch1_developmental_science: 52000     # Lerner — Developmental Science (relational/contextual metatheory)
+  ch1_end_refs: 120746
+  ch2_developmental_philosophy: 145000  # Overton — Developmental Psychology: Philosophy, Concepts, Methodology (split vs relational metatheory)
+  ch2_end_refs: 470615
+  ch3_history_of_developmental: 490000  # Cairns & Cairns — Making of Developmental Psychology (history)
+  ch3_end_refs: 884202
+  ch4_culture_in_development: 900000   # Valsiner — Culture in Human Development
+  ch4_end_refs: 1127011
+  ch5_significance_of_biology: 1140000  # Gottlieb / Wahlsten / Lickliter — Significance of Biology + probabilistic epigenesis
+  ch5_end_refs: 1379989
+  ch6_dynamic_systems: 1395000          # Thelen & Smith — Dynamic Systems Theories
+  ch6_end_refs: 1677738
+  ch7_dynamic_skill_theory: 1690000     # Fischer & Bidell — Dynamic Skill Theory
+  ch7_end_refs: 2088196
+  ch8_holistic_person: 2105000          # Magnusson & Stattin — Holistic Person-Context Interaction
+  ch8_end_refs: 2424264
+  ch9_optimal_experience_flow: 2440000  # Rathunde & Csikszentmihalyi — Optimal Experience / Flow
+  ch9_end_refs: 2754579
+  ch10_action_theory: 2770000           # Brandtstädter — Action Theory of Self-Development
+  ch10_end_refs: 3012791
+  ch11_lifespan_theory: 3025000         # Baltes / Lindenberger / Staudinger — Lifespan Theory
+  ch11_end_refs: 3497130
+  ch12_life_course_theory: 3505000      # Elder & Shanahan — Life Course Theory
+  ch12_end_refs: 3864260
+  ch13_cultural_psychology: 3870000     # Shweder / Goodnow / Hatano / LeVine / Markus / Miller — Cultural Psychology
+  ch13_end_refs: 4262435
+  ch14_bioecological: 4275000           # Bronfenbrenner & Morris — Bioecological Model
+  ch14_end_refs: 4530336
+  ch15_pvest: 4540000                   # Spencer — Phenomenological Variant of Ecological Systems Theory (PVEST)
+  ch15_end_refs: 4851752
+  ch16_positive_youth_dev: 4860000      # Lerner / Benson / Scales / Hamilton / Sesma — Positive Youth Development
+  ch16_end_refs: 5095474
+  ch17_religious_spiritual: 5105000     # Oser / Scarlett / Bucher — Religious/Spiritual Development
+  ch17_end_refs: 5409140
+  total_chars: 5663717
+  total_lines: 135908
+
+# 章节大小(KB)
+chapter_sizes_kb:
+  ch1: 70
+  ch2: 320
+  ch3: 390
+  ch4: 220
+  ch5: 240
+  ch6: 280
+  ch7: 400
+  ch8: 320
+  ch9: 310
+  ch10: 240
+  ch11: 470
+  ch12: 360
+  ch13: 390
+  ch14: 250
+  ch15: 310
+  ch16: 230
+  ch17: 300
+
+# Lerner V1 独有命题(本书 vs 现库 19 派对照)— 元理论卷维度
+lerner_v1_unique_themes:
+  # ⭐⭐⭐ 顶层元理论(解释流派分歧根源)
+  - overton_split_vs_relational: "Overton split vs relational metatheory(Ch 2)— 解释为什么 Karp swaddle 派 vs 蒙氏反 swaddle 派根本立场对立"
+  - lerner_developmental_contextualism: "Lerner relational developmental systems(Ch 1)— 元层框架取代 Cartesian 二分"
+  - probabilistic_epigenesis_4_levels: "Gottlieb probabilistic epigenesis 4 层(基因 / 神经 / 行为 / 环境)+ canalization Waddington 渠化"
+  - bronfenbrenner_5_systems: "Bronfenbrenner & Morris bioecological 5 系统(微/中介/外/宏/时间) + PPCT model"
+  - thelen_smith_dynamic_systems: "Thelen-Smith dynamic systems theory(Ch 6)— 自组织 / attractor / multifinality / equifinality"
+  - fischer_dynamic_skill: "Fischer & Bidell dynamic skill theory(Ch 7)— 技能层级 + 重组 + 变异性是发展核心"
+  - magnusson_holistic_interactionistic: "Magnusson-Stattin holistic-interactionistic(Ch 8)— person 是整体不是变量,变量分析有局限"
+  - csikszentmihalyi_flow: "Csikszentmihalyi flow / 最优体验(Ch 9)— 内在动机 + 挑战 vs 技能匹配"
+  - brandtstadter_action_theory: "Brandtstädter action theory of self-development(Ch 10)— 同化 vs 调节 + intentional self-development"
+  - baltes_lifespan: "Baltes lifespan theory(Ch 11)— 一辈子可塑 + selection / optimization / compensation(SOC)+ 反早期决定论"
+  - elder_life_course: "Elder & Shanahan life course theory(Ch 12)— 历史时间 + 转折点 + linked lives"
+  - shweder_cultural_psychology: "Shweder cultural psychology(Ch 13)— 多元心智论 + 文化不是变量是 constitutive"
+  - spencer_pvest: "Spencer PVEST(Ch 15)— phenomenological variant of ecological systems — 加入 perception + identity 的生态模型"
+  - lerner_positive_youth_development: "Lerner PYD(Ch 16)— 5 C 框架(competence/confidence/connection/character/caring)— 反 deficit model"
+  - oser_religious_spiritual: "Oser religious/spiritual development(Ch 17)— stage-structural 信仰发展 + 精神维度"
+  - cairns_history_developmental_psych: "Cairns & Cairns(Ch 3)— 发展心理学百年史 + 学派起源 + 反辉格史观"
+  - valsiner_culture_in_human_dev: "Valsiner culture in human development(Ch 4)— 文化-个体共建构 + 不是变量"
+  - overton_5_principles: "Overton 5 关系原则(身体 + 行动 + embedded + bidirectional + multilevel)"
+  - relational_metatheory_replaces_cartesian: "关系元理论取代 Cartesian 二分(nature vs nurture / 个体 vs 环境 / 变量 vs 个人)"
+  - canalization_waddington: "canalization Waddington 渠化 — 发展轨迹有 attractor 但不是预定"
+  - equifinality_multifinality: "equifinality(条条大路通罗马)+ multifinality(同起点不同结局)双向性"
+  - dynamic_skill_constructive_web: "Fischer constructive web — 技能不是直线是网"
+  - person_holistic_unit: "Magnusson holistic person — 把整个人当 unit,不是把人拆成变量"
+  - flow_internal_motivation: "Csikszentmihalyi flow — 内在动机不是奖励驱动"
+  - assimilation_vs_accommodation_self: "Brandtstädter 同化(改环境)vs 调节(改自己)双过程"
+  - SOC_selection_optimization_compensation: "Baltes SOC — 选择 + 最优化 + 补偿,生命周期 3 大策略"
+  - linked_lives_life_course: "Elder linked lives — 个人发展跟家庭社会其他人轨迹绑定"
+  - cultural_psych_multiple_mentalities: "Shweder 多元心智论 — 一个心智多种表达,不是普世单一"
+  - PVEST_perception_identity_loop: "Spencer PVEST — 感知风险 + 身份建构 + 应对 + 适应循环"
+  - PYD_5C_framework: "Lerner PYD 5C 框架 + 反 deficit model"
+  - relational_developmental_systems: "relational developmental systems — Lerner-Overton 综合元框架"
+  - biocultural_co_construction: "Baltes biocultural co-construction — 生物 + 文化双向建构"
+  - chronosystem_time_in_development: "Bronfenbrenner chronosystem 时间维度入生态模型"
+  - PPCT_process_person_context_time: "Bronfenbrenner PPCT 模型 — process / person / context / time 4 维"
+  - microsystem_proximal_processes: "Bronfenbrenner proximal processes — 微观日常互动是发展引擎"
+  - mesosystem_settings_interaction: "Bronfenbrenner mesosystem — 家庭 ↔ 学校 ↔ 同伴 settings 间的互动质量"
+  - exosystem_indirect_influence: "Bronfenbrenner exosystem — 父母工作场所 / 政策等间接影响"
+  - macrosystem_culture: "Bronfenbrenner macrosystem — 文化 / 价值观 / 经济结构"
+  - chronosystem_history: "Bronfenbrenner chronosystem — 历史时间 / 个人时间双重"
+  - probabilistic_vs_predetermined: "Gottlieb probabilistic vs predetermined epigenesis — 反 preformist + 反 strict determinism"
+  - canalization_developmental_pathways: "canalization 发展通路 — 有 attractor 但环境可改变"
+  - dynamic_attractors_basins: "dynamic systems attractors / basins of attraction — 行为有 attractor 状态"
+  - self_organization_emergence: "self-organization 自组织 + emergence 涌现 — 不是 top-down 设计"
+  - variability_is_signal_not_noise: "Thelen-Smith / Fischer 变异性是发展信号不是噪音"
+  - skill_reorganization_during_transitions: "Fischer 技能重组 — 看似退步是新组织的征兆"
+  - holistic_pattern_analysis: "Magnusson 整体模式分析 — 多变量同时 vs 单变量孤立"
+  - longitudinal_individual_pathways: "Magnusson 长期个体轨迹 — 不是人群均值"
+  - autotelic_personality: "Csikszentmihalyi autotelic personality — 内在驱动型人格"
+  - intentional_self_development: "Brandtstädter intentional self-development — 主动塑造自己"
+  - successful_aging_SOC: "Baltes successful aging — SOC 应用到老年研究"
+  - wisdom_as_developmental_outcome: "Baltes wisdom — 智慧是发展终点不是 IQ"
+  - life_course_principles_5: "Elder life course 5 原则(human agency / time-place / linked lives / timing / lifespan)"
+  - cohort_effects_history: "Elder cohort effects — 历史时段决定个人发展"
+  - turning_points_life_course: "Elder turning points — 关键转折点重塑发展"
+  - cultural_psychology_constitutive_role: "Shweder cultural psych — 文化是 constitutive 不是修饰"
+  - rich_points_cross_cultural: "Shweder rich points — 跨文化最难翻译的就是最值得研究的"
+  - PPCT_model_full: "Bronfenbrenner PPCT — process(近端互动)/person/context/time 4 维框架"
+  - PVEST_5_components: "Spencer PVEST 5 组件 — net vulnerability / net stress / coping / identity / outcomes"
+  - racism_human_development: "Spencer racism in human development — 种族主义是发展环境变量"
+  - PYD_thriving_framework: "Lerner thriving framework — 5C + contribution = 6C"
+  - asset_based_youth_dev: "Lerner asset-based youth dev — 资产视角取代风险视角"
+  - religious_dev_stages: "Oser religious development stages — Fowler 6 阶段 / Oser 5 阶段"
+  - spiritual_dev_universal: "spiritual development universal — 不限于宗教信仰"
+
+# 立场对照(Lerner V1 元理论 vs 现有 SRC)— 元层解释流派分歧根源
+relationship_to_v4_application:
+  description: "Lerner V1(理论)vs Lerner V4(应用 SRC-029)— 铁四角 ↔ 元层 ↔ 实操层完整闭环"
+  shared:
+    - "铁四角同主编(Damon-Lerner)"
+    - "都强调 ecological / contextual / dynamic 视角"
+    - "都把 RCT / 实证当方法学基础"
+  complement:
+    - "V1 给元理论(怎么思考)— 为什么不同流派会形成不同立场"
+    - "V4 给应用(怎么落地)— Head Start / NFP / Triple P 等 RCT 项目"
+    - "V1 解释 V4 中干预设计为什么 frame 在 ecological 视角而不是 medical 视角"
+  example:
+    - "V1 Bronfenbrenner 5 层 → V4 Comer School Development(对接学校 + 家 + 社区生态)"
+    - "V1 Spencer PVEST → V4 racism / poverty 干预理论根基"
+    - "V1 Lerner PYD → V4 4-H / Big Brothers Big Sisters 项目根基"
+
+relationship_to_v3_social:
+  description: "Lerner V1(理论)vs Lerner V3(社会情绪 SRC-027)"
+  shared:
+    - "铁三角同主编"
+    - "Bronfenbrenner / Vygotsky / Erikson 都是关键引用"
+  complement:
+    - "V1 给元理论根基 — 为什么气质 / 情绪 / 自我研究采取 dynamic 视角"
+    - "V3 给具体内容 — Rothbart 气质 / Saarni 情绪 / Harter self"
+  example:
+    - "V1 Magnusson holistic → V3 Caspi 人格 longitudinal"
+    - "V1 Bronfenbrenner 5 层 → V3 Parke 家庭社会化生态"
+
+relationship_to_v2_cognition:
+  description: "Lerner V1(理论)vs Lerner V2(认知 SRC-028)"
+  shared:
+    - "铁三角同主编"
+    - "Thelen-Smith dynamic systems 出现在 V1 Ch 6 + V2 Ch 6"
+  complement:
+    - "V1 给元理论 — relational metatheory 替代 Cartesian"
+    - "V2 给具体认知发展 — Spelke / Cohen-Cashon / Werker / Carey / Adolph"
+  example:
+    - "V1 dynamic systems → V2 Adolph 大动作 + Thelen-Smith 走步"
+    - "V1 probabilistic epigenesis → V2 Karmiloff-Smith 神经建构主义"
+    - "V1 Werner 正交发展(via Cairns history)→ V2 Mandler 概念发展"
+
+relationship_to_shonkoff:
+  description: "Lerner V1(2006 元理论卷)vs Shonkoff《NRC》(2000 跨学科综述 SRC-025)"
+  shared:
+    - "ecological 视角"
+    - "neighborhoods + family + child 多层次分析"
+    - "反基因决定论"
+  complement:
+    - "Shonkoff 给跨学科政策 + 神经科学 + 早期干预数据"
+    - "Lerner V1 给 Shonkoff 视角的元理论根基(Bronfenbrenner 5 层 / probabilistic epigenesis)"
+  example:
+    - "Shonkoff neighborhoods 视角 ← V1 Bronfenbrenner exosystem/macrosystem"
+    - "Shonkoff gene-environment 4 大原则 ← V1 Gottlieb probabilistic epigenesis"
+
+relationship_to_bowlby:
+  description: "Lerner V1(元理论)vs Bowlby V1/V2/V3(原典 SRC-011/012/017)"
+  shared:
+    - "ethological 根基"
+    - "developmental systems 视角"
+    - "亲子关系是发展奠基"
+  complement:
+    - "Bowlby 给依恋理论原典(进化 + 临床 + 哲学)"
+    - "V1 给 Bowlby 视角的元理论位置 — Cairns Ch 3 历史 + Bronfenbrenner Ch 14 模型"
+  example:
+    - "Bowlby 内部工作模型 ← V1 relational metatheory(individual ↔ context)"
+    - "Bowlby 安全基地 ← V1 proximal processes(Bronfenbrenner)"
+
+relationship_to_stern:
+  description: "Lerner V1(元理论)vs Stern《婴儿人际世界》(SRC-018)"
+  shared:
+    - "self 形成是发展核心"
+    - "母婴 attunement 是发展引擎"
+    - "持续涌现 emergent self"
+  complement:
+    - "Stern 给婴儿 self 4 阶段精神分析"
+    - "V1 给 Stern 视角的元理论根基 — Wapner / Werner 关系发展派"
+  example:
+    - "Stern emergent self ← V1 self-organization / emergence(dynamic systems)"
+    - "Stern attunement ← V1 proximal processes(Bronfenbrenner PPCT)"
+
+relationship_to_brazelton:
+  description: "Lerner V1(元理论)vs Brazelton《Touchpoints》(SRC-010)"
+  shared:
+    - "婴儿是有能力的主动者"
+    - "个体差异(气质)是发展核心"
+    - "亲子互动是发展奠基"
+  complement:
+    - "Brazelton 给临床触摸点 + 个体咨询"
+    - "V1 给 Brazelton 视角的元理论根基 — Magnusson holistic / Lerner contextualism"
+  example:
+    - "Brazelton touchpoint(看似退步)← V1 Fischer skill reorganization"
+    - "Brazelton 个性化 ← V1 Magnusson holistic person"
+
+relationship_to_lansbury_gerber_pikler:
+  description: "Lerner V1(元理论)vs RIE/Pikler 派(SRC-019/021/022/026)"
+  shared:
+    - "尊重儿童自主"
+    - "发展节奏不催"
+    - "婴儿是主动学习者"
+  complement:
+    - "RIE/Pikler 给实操哲学(不打扰 + 慢节奏 + 独立运动)"
+    - "V1 给 RIE/Pikler 视角的元理论根基 — probabilistic epigenesis / dynamic systems"
+  example:
+    - "Pikler 不教翻坐爬站走 ← V1 self-organization / emergence(dynamic systems)"
+    - "RIE 8 原则 ← V1 proximal processes(Bronfenbrenner)+ holistic person(Magnusson)"
+
+relationship_to_aap:
+  description: "Lerner V1(元理论)vs AAP(临床指南 SRC-004 至 SRC-008)"
+  shared:
+    - "evidence-based 实证主义"
+    - "ecological 视角"
+  divergence:
+    - "AAP 偏 medical model"
+    - "V1 偏 developmental systems(反 medical reductionism)"
+  example:
+    - "AAP 反屏幕 ← V1 Bronfenbrenner microsystem 视角"
+
+relationship_to_baoxiulan:
+  description: "Lerner V1(美元理论)vs 鲍秀兰(中临床 SRC-009)"
+  shared:
+    - "0-3 奠基期"
+  divergence:
+    - "鲍秀兰 medical model + 早期干预 deficit-based"
+    - "V1 developmental systems + asset-based(PYD)"
+  example:
+    - "鲍秀兰 早期 IQ 开发 ← Lerner PYD 反 deficit model"
+
+relationship_to_matsuda:
+  description: "Lerner V1(元理论)vs 松田道雄(SRC-023/024)"
+  shared:
+    - "反早教焦虑"
+    - "尊重个体差异"
+  complement:
+    - "松田给日本临床哲学(不焦虑育儿)"
+    - "V1 给松田视角的元理论根基 — cultural psychology(Shweder)+ holistic person(Magnusson)"
+  example:
+    - "松田反 反抗期 ← V1 cultural psychology 多元心智论(不同文化对'反抗期'解读不同)"
+
+relationship_to_karp:
+  description: "Lerner V1(元理论)vs Karp《最快乐的婴儿》(SRC-003)"
+  shared:
+    - "evidence-based 实证基础"
+  divergence:
+    - "Karp split metatheory(独立技巧 - 5S)"
+    - "V1 relational metatheory(亲子关系 + 系统)"
+  example:
+    - "Karp 5S → V1 解释为什么 Karp + 蒙氏分歧 = split vs relational metatheory(Overton Ch 2)"
+
+relationship_to_montessori_lillard_davies:
+  description: "Lerner V1(元理论)vs 蒙氏(SRC-014/016)"
+  shared:
+    - "尊重儿童自主"
+    - "prepared environment ↔ proximal processes"
+  complement:
+    - "蒙氏给教育实操(prepared environment)"
+    - "V1 给蒙氏视角的元理论根基 — Bronfenbrenner microsystem + Vygotsky ZPD"
+  example:
+    - "蒙氏 sensitive period ← V1 dynamic systems attractor + Werner orthogenetic principle"
+
+relationship_to_gopnik:
+  description: "Lerner V1(元理论)vs Gopnik《摇篮里的科学家》(SRC-015)"
+  shared:
+    - "婴儿是主动学习者"
+    - "constructivist 视角"
+  complement:
+    - "Gopnik 给认知科学派(theory theory)"
+    - "V1 给 Gopnik 视角的元理论根基 — Cairns developmental science 史 + Overton constructivism"
+
+relationship_to_wonder_weeks:
+  description: "Lerner V1(元理论)vs Wonder Weeks(SRC-013)"
+  shared:
+    - "发展跳跃期"
+  complement:
+    - "Wonder Weeks 给 10 周大脑跃迁日历"
+    - "V1 给 Wonder Weeks 视角的元理论根基 — Fischer dynamic skill + Thelen self-organization"
+
+# 跨源关联点
+crossreferences:
+  - SRC-002_aap_serve_return:
+      shared: "亲子互动 / 安全依恋"
+  - SRC-003_karp:
+      shared: "evidence-based"
+      conflict: "split vs relational metatheory(Overton 解释)"
+  - SRC-004_aap_safe_sleep:
+      shared: "evidence-based / 反不安全共睡"
+  - SRC-009_baoxiulan:
+      shared: "0-3 奠基期"
+      conflict: "medical model vs developmental systems"
+  - SRC-010_brazelton:
+      shared: "individualized / individual differences"
+  - SRC-011_bowlby_v1:
+      shared: "ethological + developmental systems"
+  - SRC-012_bowlby_v2:
+      shared: "developmental systems"
+  - SRC-013_wonder_weeks:
+      shared: "dynamic systems / developmental jumps"
+  - SRC-014_davies:
+      shared: "蒙氏 prepared environment"
+  - SRC-015_gopnik:
+      shared: "constructivist"
+  - SRC-016_lillard:
+      shared: "蒙氏 sensitive period"
+  - SRC-017_bowlby_v3:
+      shared: "developmental systems"
+  - SRC-018_stern:
+      shared: "self emergence / dynamic systems"
+  - SRC-019_lansbury:
+      shared: "自主 / 不打扰"
+  - SRC-021_gerber:
+      shared: "RIE / 8 原则"
+  - SRC-022_gerber_deep:
+      shared: "RIE / proximal processes"
+  - SRC-023_matsuda:
+      shared: "反焦虑 / cultural psych 视角"
+  - SRC-024_matsuda_v2:
+      shared: "cultural variation"
+  - SRC-025_shonkoff:
+      shared: "ecological / neighborhoods 视角"
+  - SRC-026_pikler:
+      shared: "self-organization / emergence"
+  - SRC-027_lerner_v3:
+      shared: "铁四角 + Bronfenbrenner / Vygotsky / Erikson"
+  - SRC-028_lerner_v2:
+      shared: "铁四角 + dynamic systems(Thelen-Smith)"
+  - SRC-029_lerner_v4:
+      shared: "铁四角 + ecological 应用 + RCT 实证"
+
+# 评级标尺(本书)
+evidence_level_calibration:
+  A: "Lerner V1 综述 + 跨派多学派一致 + 实证扎实(主体 80%+)— Tier 2 心理学百科权威 + 元理论卷"
+  B: "Lerner V1 综述 + 部分张力(立场分歧 / 数据有限 / 哲学争议)(15-20%)"
+  C: "Lerner V1 综述 + 学者推断 / 跨文化薄弱 / 元理论纯哲学(罕见)"
+  expected_distribution: "A 占多 — 元理论卷主体是综述权威,部分 B(split vs relational 元层立场 / cultural psychology 多元 mentalities 普世性 / PYD 5C 框架适用性)"
+
+# 聚焦策略
+focus_strategy:
+  zh: |
+    Lerner V1 17 章,全部本库可取(元理论卷无月龄性):
+
+    主战场(每章产 5-15 张):
+    - Ch 1 Lerner — Developmental Science / relational developmental systems
+    - Ch 2 Overton — split vs relational metatheory ⭐⭐⭐(解释流派分歧根源)
+    - Ch 5 Gottlieb — Significance of Biology / probabilistic epigenesis ⭐⭐(反基因决定论)
+    - Ch 6 Thelen & Smith — Dynamic Systems Theories ⭐⭐(变异性是信号)
+    - Ch 8 Magnusson & Stattin — Holistic-Interactionistic ⭐(整体人 vs 变量人)
+    - Ch 11 Baltes — Lifespan Theory ⭐⭐(一辈子可塑 + SOC)
+    - Ch 13 Shweder — Cultural Psychology ⭐(多元心智论)
+    - Ch 14 Bronfenbrenner & Morris — Bioecological Model ⭐⭐⭐(5 系统 + PPCT)
+    - Ch 15 Spencer — PVEST(racism + identity)
+    - Ch 16 Lerner — Positive Youth Development ⭐(5C 框架 + 反 deficit)
+
+    次战场(每章产 3-8 张):
+    - Ch 3 Cairns — 发展心理学百年史
+    - Ch 4 Valsiner — 文化-个体共建构
+    - Ch 7 Fischer — Dynamic Skill Theory
+    - Ch 9 Csikszentmihalyi — Flow / 最优体验
+    - Ch 10 Brandtstädter — Action Theory
+    - Ch 12 Elder & Shanahan — Life Course
+    - Ch 17 Oser — Religious/Spiritual Development
+
+    每章必须有覆盖 — 没卡覆盖某章是漏。
+    跨章重复主题(发展观 / 决定论 / 还原论 / 涌现论)主动跨章独立卡。
+
+# 中文家长高频痛点 mapping
+parent_pain_points:
+  - "为什么不同书说法相反 → Overton split vs relational metatheory(Ch 2)"
+  - "基因决定还是环境决定 → Gottlieb probabilistic epigenesis 4 层(Ch 5)"
+  - "文化怎么塑造孩子 → Shweder cultural psychology(Ch 13)+ Valsiner(Ch 4)"
+  - "家庭单位还是个体单位 → Bronfenbrenner 5 层生态(Ch 14)"
+  - "阶段还是连续发展 → Fischer dynamic skill + Thelen dynamic systems(Ch 6/7)"
+  - "早期决定论对吗 → Baltes lifespan(Ch 11)— 一辈子可塑"
+  - "我家娃天生这样对吗 → Magnusson holistic person(Ch 8)"
+  - "为什么 RIE 反早教而 AAP 中性 → 学派元理论起源不同(Cairns Ch 3 + Overton Ch 2)"
+  - "为什么松田反 反抗期 而鲍秀兰承认 → cultural psychology(Shweder Ch 13)"
+  - "为什么 Pikler 反训练而中国早教鼓励 → probabilistic vs predetermined epigenesis(Ch 5)"
+  - "我家育儿为啥老人/夫妻吵 → 各人元理论不同(Cairns Ch 3 + Magnusson Ch 8)"
+  - "学步期'反复退步'是退化吗 → Fischer skill reorganization(Ch 7)"
+  - "为啥每个孩子'同样养'结果不同 → multifinality(同起点不同结局)"
+  - "种族 / 偏见对发展影响 → Spencer PVEST(Ch 15)"
+  - "怎么培养孩子的内驱力 → Csikszentmihalyi flow(Ch 9)"
+  - "PYD 5C 框架(competence/confidence/connection/character/caring)替代'成绩中心'"
+  - "孩子的灵性 / 信仰发展正常吗 → Oser religious/spiritual stages(Ch 17)"
+
+referenced_by_units: []
+referenced_by_cards: []
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04
+
+notes: |
+  Phase 12 并行第二本 — Lerner V1《Handbook of Child Psychology Vol 1: Theoretical Models of Human Development》
+  (Wiley 2006 第 6 版,Lerner 主编 + Damon 总主编)。
+
+  - 文件已 OCR(.md, 135,908 行 / 5.66MB / 17 章主体)
+  - 章节 offset 已基于实测 REFERENCES 段位置 + 大写标题 hits 推断 17 章
+  - 平均每章 ~330 KB,Ch 11(Baltes lifespan)最大 470 KB
+  - 元理论卷 — 跨段卡居多(S0-S8 + 元层)
+
+  关键校准:
+  - Lerner V1 是 Wiley 心理学百科第 6 版(2006)Vol 1
+  - 17 章每章一位奠基级元理论家或学派
+  - Ch 2 Overton 是元层关键章(split vs relational metatheory 解释流派分歧根源)
+  - Ch 14 Bronfenbrenner & Morris 是生态系统模型集大成(2006 第 6 版含 PPCT 模型完整版)
+  - Ch 11 Baltes Lifespan 是反早期决定论的元理论奠基
+  - Ch 16 Lerner PYD 是 asset-based 视角的奠基
+  - Ch 15 Spencer PVEST 是种族/identity 维度入生态模型
+
+  段 ID 起点(实测 max + 200 buffer,避撞 V4 +100 buffer):
+  S0: 924 + 200 = 1124(从 1125 开始)
+  S1: 900 + 200 = 1100(从 1101 开始)
+  S2: 944 + 200 = 1144(从 1145 开始)
+  S3: 942 + 200 = 1142(从 1143 开始)
+  S4: 945 + 200 = 1145(从 1146 开始)
+  S5: 937 + 200 = 1137(从 1138 开始)
+  S6: 964 + 200 = 1164(从 1165 开始)
+  S7: 999 + 200 = 1199(从 1200 开始 — 4 位数)
+  S8: 430 + 200 = 630(从 631 开始)
+
+  跟现库 19 派跨派对照硬指标(含 V4):每张卡 ≥ 1 张 related_cards 含 17+ 派
+  (AAP/鲍/Brazelton/Karp/Bowlby V1-3/Stern/Gopnik/Lillard/Davies/Lansbury/Gerber/松田/
+  Wonder Weeks/Shonkoff/Pikler/Ainsworth/Lerner V2 V3 V4)
+
+  立场对立处全部记 conflicts.md(J 节 — V4 占 I 节)。
+
+  扫书学者 hits 估算(基于章节作者 + 引用频次):
+  Bronfenbrenner ~600+, Lerner ~500+, Overton ~300+, Gottlieb ~200+,
+  Thelen ~200+, Smith L B ~150+, Fischer K ~200+, Magnusson ~180+,
+  Stattin ~80+, Csikszentmihalyi ~150+, Rathunde ~50+, Brandtstädter ~150+,
+  Baltes ~250+, Lindenberger ~80+, Staudinger ~100+, Elder ~200+,
+  Shanahan ~80+, Shweder ~150+, Valsiner ~200+, Spencer ~150+,
+  Damon ~100+, Cairns R ~150+, Cairns B ~50+, Vygotsky ~150+,
+  Werner ~100+, Wapner ~30+, Riegel ~30+, Mead ~50+,
+  Goodnow ~50+, Hatano ~30+, LeVine ~50+, Markus ~80+, Miller ~50+,
+  Morris ~80+, Lickliter ~80+, Wahlsten ~50+, Oser ~50+, Sesma ~30+
+
+  → 全部建 G-PERSON(已建除外:Bandura/Bronfenbrenner/Damon/Erikson/Lerner/Piaget/Vygotsky)

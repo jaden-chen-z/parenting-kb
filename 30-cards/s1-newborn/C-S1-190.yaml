@@ -1,0 +1,74 @@
+card_id: C-S1-190
+stages: [S1]
+tags: [montessori, attachment, crying, philosophy, controversy]
+
+front:
+  title: 回应宝宝不会宠坏
+  hook: 蒙氏 + 依恋一致
+
+back:
+  why_matters: |
+    中国家庭最大育儿争议:**"宝宝一哭就抱,会不会宠坏?"**
+    长辈常说:"哭一会儿没事,你抱多了他就赖你。"
+
+    戴维斯在原书直接说(白话翻译):
+    > 跟一些人想的相反,回应宝宝需求**不会宠坏**他。
+
+    这跟 4 派理论一致:
+    - **蒙氏**(戴维斯):反应式育儿建立基本信任
+    - **依恋理论**(鲍尔比):0-12 月反应越快,1 岁后宝宝越独立
+    - **AAP**(美儿科学):0-6 月不存在"宠坏"
+    - **布雷泽尔顿触摸点**:及时回应是 6-9 月信任的基础
+
+    "宠坏"概念 = **6 月以下根本不存在**:
+    - 6 月以下宝宝**没有操纵能力**(前额叶完全没发育)
+    - 哭 = 真正需求(饿 / 困 / 不舒服 / 怕)
+    - 不应 = 宝宝学"我无足轻重"(内部工作模型/internal working model)
+    - 应 = 宝宝学"我的信号有用"(基本信任建立)
+
+    研究:6 月内反应快的家庭,宝宝 1 岁时**反而哭得更少**(Bell & Ainsworth 1972)。
+  what_to_do:
+    - 宝宝哭就回应,不延迟
+    - 跟长辈解释科学(不存在 6 月以下宠坏)
+    - 回应不只是抱 — 走过去说"妈妈来了"也算
+    - 如自己累,先深呼吸再回应
+    - 反复跟自己确认:这阶段做对的就是"立刻应"
+  failure_mode: |
+    "让他哭哭就好了,不能一哭就抱" — 6 月以下没有宠坏概念。哭无人应,建立"我不被听见"。
+    "我抱多了他更黏" — 反:0 岁反应快,1 岁更独立(依恋研究反复证实)。
+    "网上说 5 分钟检查法" — 那是费伯(Ferber)6 月+ 的睡眠训练,不适用新生儿。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Davies
+  - G-PERSON-Bowlby
+  - G-PERSON-Brazelton
+  - G-TERM-spoiling-myth
+  - G-TERM-attachment
+  - G-TERM-secure-base
+  - G-TERM-internal-working-model
+  - G-ABBR-AAP
+
+citation:
+  book_title_zh: "蒙特梭利的小宝宝(0-1岁)"
+  book_title_en: "The Montessori Baby"
+  authors: ["Simone Davies", "Junnifa Uzodike"]
+  authors_zh: ["西蒙·戴维斯", "君妮法·乌佐迪克"]
+  publisher_en: "Workman Publishing"
+  year_en: 2021
+  isbn_en: "978-1-5235-0693-7"
+  location: "Chapter 5 · A secure attachment > Responsive parenting builds trust"
+  source_id: SRC-014
+
+unit_ids: []
+related_cards:
+  - C-S1-007       # Karp 不会惯坏
+  - C-S2-020       # Brazelton 6-7 周哭闹峰
+  - C-S1-122       # Bowlby 依恋形成
+  - C-S1-127       # Bowlby 反应快宝宝更独立
+  - C-S2-067       # Bowlby 哭闹回应
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

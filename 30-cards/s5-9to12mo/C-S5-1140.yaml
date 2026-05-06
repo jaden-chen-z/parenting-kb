@@ -1,0 +1,65 @@
+card_id: C-S5-1140
+stages: [S5]
+tags: [cognitive_science, joint_attention, tomasello, lerner_v2]
+
+front:
+  title: 9 月革命发现你也有想法
+  hook: 9 月共享意图涌
+
+back:
+  why_matters: |
+    Tomasello 1995-2003 经典(Lerner V2 Ch6 Tomasello 主笔综述)。
+    9 月前后,宝宝认知发生**根本性转变**(Tomasello 称"9 月革命"):
+    1. **联合注意**(joint attention)— 跟妈妈看同一物体,知道双方都看
+    2. **凝视跟随**(gaze following)— 跟着妈妈看的方向看
+    3. **社会参考**(social referencing)— 看妈妈表情决定行为
+    4. **共享意图**(shared intentionality)— 知道"我们都想做这"
+    5. **协议商定**(agreement)— 跟人合作完成任务意义:
+    - 婴儿认识到"别人有内心 + 内心可分享"
+    - 这是人类独有(Tomasello vs 黑猩猩对照)
+    - 是语言学习的奠基(没共享意图就不能学词)
+    - 是文化传承的奠基跟现库:跟 Stern intersubjectivity(7-15 月)对接 — 同时间窗,不同视角。
+    跟 Wonder Weeks WW46 第 5 跃迁(关系)同月龄。
+    对中国家长意义:
+    - 9 月起跟宝宝多"共看"(指物体一起看 / 一起说)
+    - 看宝宝看的方向 — 跟着他兴趣
+    - 9 月开始真正能"教"(因为他理解你的意图)
+    - 不要面对面忽视宝宝兴趣方向
+  what_to_do:
+    - 9 月起多用"指 + 命名"(看,小狗!)
+    - 跟随宝宝注视方向 — 一起看
+    - 用表情传达情感(吃惊 / 开心 / 警觉)
+    - 不要单方面"教",要共看
+  failure_mode: |
+    "9 月只是会看不懂内心" — 错。已知双方共享。
+    "教语言是单方面输入" — 错。需共享意图。
+    "宝宝看哪不重要" — 错。跟随是关键。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Stern
+  - G-TERM-joint-attention
+  - G-TERM-theory-of-mind
+  - G-PERSON-Tomasello
+  - G-TERM-9-month-revolution
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 2 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 2 卷"
+  authors: ["Michael Tomasello"]
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 6 · 9-month revolution · pp. 264-280"
+  source_id: SRC-028
+
+unit_ids: []
+related_cards:
+  - C-S5-1141     # Pointing 9 月分享(下一张)
+  - C-S4-1142     # Animate-inanimate 7 月
+  - C-S6-001       # Stern intersubjectivity 7-15 月
+  - C-S5-013       # Wonder Weeks WW46 第 5 跃迁
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

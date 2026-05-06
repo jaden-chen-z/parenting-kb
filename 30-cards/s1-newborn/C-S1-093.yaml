@@ -1,0 +1,59 @@
+card_id: C-S1-093
+stages: [S1]
+tags: [safety, red_flag]
+
+front:
+  title: 出生 48-72h 必筛 4 项 — 错过要补
+  hook: 听筛 + PKU + CH + CCHD 一个都不能漏
+
+back:
+  why_matters: |
+    新生儿筛查 = 出生后 48-72 小时内做的全国强制项目,**早发现可预防致命/致残疾病**。
+    中国 4 大基础筛(各省略不同):
+    ① **听力筛查**(OAE/AABR)— 永久性听力障碍 1/1000,错过 = 错过语言关键期
+    ② **PKU 苯丙酮尿症**— 不及时控饮食 → 不可逆智力损伤
+    ③ **CH 先天甲减**— 不及时补甲状腺素 → 智力 + 身高永久受损
+    ④ **CCHD 先天心脏病**(经皮血氧筛查)— 部分严重型出生 24h 内会致命
+    + **G6PD 葡萄糖-6-磷酸脱氢酶缺乏**(部分省自费)— 接触某些食物/药物溶血美国额外加 50+ 项代谢筛查(各州不同)。
+    **关键**:大多数被筛查的疾病**早期完全无症状**,等出现症状已晚。
+  what_to_do:
+    - 出院前**确认 4 项筛查全做了**(医院应主动,但你必须主动问 + 拿报告)
+    - "**听筛初筛失败**:1 月内复筛(20% 假阳性);3 月内确诊;6 月内干预"
+    - "**足底血复检**:确诊 PKU/CH 立即开始特殊饮食 / 甲状腺素(终身)"
+    - "**CCHD 末梢血氧 < 95%** → 立即心超检查"
+    - 拿到所有筛查结果纸 → 永久保存(医保报销 / 后续随访都要)
+    - 如果在家分娩 / 跨省就医 → **主动联系当地 CDC 补筛**
+  failure_mode: |
+    "宝宝看着挺好"跳过筛 → 错过黄金治疗窗口;
+    听筛 fail 拖到 6 月 → 错过语言关键期(语言发育永久落后);
+    PKU 不及时控饮食 → 不可逆智力损伤(可避免的悲剧);
+    CCHD 早期无症状 → 严重型出生 1 周内死亡;
+    "听别人没做也没事" → 筛查不是赌运气。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-AAP
+  - G-TERM-early-intervention
+
+citation:
+  page_title: "Newborn Screening Tests"
+  publisher: American Academy of Pediatrics
+  portal: HealthyChildren.org
+  policy_basis: "AAP Newborn Screening Policy + 中国《新生儿疾病筛查管理办法》(2009 国卫发)"
+  page_url_primary: https://www.healthychildren.org/English/ages-stages/baby/Pages/Newborn-Screening-Tests.aspx
+  accessed: 2026-05-03
+  language: en
+  location: "Newborn Screening + 中国 4 项基础筛(听力 / PKU / CH / CCHD)"
+  source_id: SRC-008
+
+unit_ids: []
+related_cards:
+  - C-S1-066       # 鲍秀兰 听筛迟发性听损红旗
+  - C-S1-091       # 黄疸识别
+  - C-S1-094       # Vit K 注射(同期出生当日操作)
+  - C-S1-2500       # 第一次儿保 3 节点
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

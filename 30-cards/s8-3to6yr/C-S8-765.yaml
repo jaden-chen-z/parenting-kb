@@ -1,0 +1,76 @@
+card_id: C-S8-765
+stages: [S8]
+tags: [learning_disability, berninger, writing, lerner_v4]
+
+front:
+  title: 书写+拼写共练
+  hook: 书写和拼写要共练
+
+back:
+  why_matters: |
+    Berninger V4 Ch 11(书写 + 拼写连接)。
+    **Berninger 关键发现**:
+    - 书写 + 拼写**共用**左半脑语言区
+    - 不能"先练书写再练拼写"
+    - 要**同时**练 — handwriting + spelling 一起
+    - 反传统"先描红再听写"
+    **3 大书写发展阶段**:
+    - **5-6 岁**:形状 + 握笔(visual-motor)
+    - **6-7 岁**:字母+音对应(phoneme-grapheme)
+    - **7-8 岁**:词汇 + 拼写整合
+    **4 大书写障碍信号**:
+    - **5-6 岁**:握笔笨拙 / 形状画不出
+    - **6-7 岁**:字母混乱 / 镜像写
+    - **7-8 岁**:拼写差 + 字慢
+    - **跟阅读独立**:可能阅读好但书写糟
+    **Berninger 立场**:
+    - 书写不是"机械动作"
+    - 是**语言+视觉+运动**整合任务
+    - 训练要 3 维度同时
+    - 反单纯抄写
+    **反 3 误区**:
+    - ❌ "字写得快就好"(整合才核心)
+    - ❌ "抄 100 遍就练"(单一维度)
+    - ❌ "读得好就写得好"(独立技能)
+    跟现库:跟 V4 Berninger 总论(C-S8-740)+ Paris 阅读(C-S8-731)+ V2 Goswami 音韵(C-S5-1140)对接。
+    对中国家长意义:
+    - 书写 + 拼写要**一起**练
+    - 反单纯抄写
+    - 看 5-7 岁 4 大信号
+    - 信号严重找 OT(职业治疗)
+  what_to_do:
+    - 书写+拼写一起练
+    - 反单纯抄写 100 遍
+    - 看 5-7 岁 4 大信号
+    - 严重找 OT 评估
+  failure_mode: |
+    "字写快就好"— 错。整合才核心。
+    "抄 100 遍"— 错。单维度无效。
+    "读好就写好"— 错。独立技能。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Berninger
+  - G-TERM-dyslexia
+  - G-TERM-dysgraphia
+  - G-TERM-handwriting-spelling
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 4 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 4 卷"
+  authors: ['Virginia W. Berninger']
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 11 · Berninger · Handwriting + spelling integration · pp. 440-455"
+  source_id: SRC-029
+
+unit_ids: []
+related_cards:
+  - C-S8-740     # V4 Berninger 总论
+  - C-S8-731     # V4 Paris 阅读
+  - C-S5-1140     # V2 Goswami 音韵
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

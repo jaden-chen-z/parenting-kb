@@ -1,0 +1,69 @@
+card_id: C-S2-1044
+stages: [S2]
+tags: []
+
+front:
+  title: "看信号不看表"
+  hook: "看娃信号别看时表"
+
+back:
+  why_matters: |
+    Responsive feeding(反馈/按需喂养)WHO 立场:1-3 月仍 8-12 次/24 小时。
+    看信号决定喂,不按时间表(BFHI 第 8 步延续)。
+    1-3 月信号变化:
+    - 仍以早期信号为主(唇啜 / 寻乳 / 警觉 / 踢腿)
+    - 哭仍是晚期信号
+    - '密集喂食(cluster feeding)'(群聚喂):某些时段(傍晚)频繁要喂 — 正常,母乳建立期
+    - 1-3 月仍可能 '看似没规律' — 是 normal,不是问题中国传统/老人施压'要规律' → 跟 WHO/AAP/松田三方共识对立。
+  what_to_do:
+    - "1-3 月按需 8-12 次 — 不要强求规律"
+    - "密集喂食(cluster feeding)(傍晚频繁)是正常"
+    - "看信号(早期)就喂,哭是晚期"
+    - "老人 '该喂了' / '别又喂' → 不被绑架"
+    - "妈妈记 '看娃不看表' 这句话"
+  failure_mode: |
+    强求 3 小时定时 / 4 小时定时 → 错过早期信号 + 母乳奶量调整失败。
+    前 3 月是供需匹配期,频繁吸吮告诉身体奶量。
+  evidence_level: A
+
+  positions:
+    issue: 喂养节律 — 反馈喂养(信号驱动)vs 3 小时定时
+    views:
+      - school: BFHI / WHO
+        source: SRC-031
+        stance: 看信号反馈喂(responsive feeding)— 婴儿饿了就喂,不计时间表。
+      - school: AAP
+        source: SRC-006
+        stance: on demand 立场一致 — 新生儿不应严格定时,看信号优先。
+      - school: 松田道雄
+        source: SRC-024
+        stance: 反产院'3 小时定时 + 用枕头支奶瓶'(C-S1-761),跟 BFHI 完全一致。
+      - school: 中国传统产院
+        stance: 3 小时定时喂奶仍普遍,部分爱婴医院实操参差;BFHI 中国 6,000+ 医院落地不一致。
+glossary_refs:
+  - G-TERM-responsive-feeding
+  - G-ABBR-EBF
+
+citation:
+  page_title: "WHO + BFHI Step 8"
+  publisher: "World Health Organization & UNICEF"
+  page_url_primary: https://www.who.int/health-topics/breastfeeding
+  accessed: 2026-05-04
+  language: en
+  location: "WHO 反馈喂养 + 1-3 月按需 + 密集喂食(cluster feeding) 正常"
+  source_id: SRC-031
+
+unit_ids: []
+related_cards:
+  - C-S1-1005
+  - C-S1-050
+  - C-S2-1045
+  - C-S2-001
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_doc_id_pending: D1
+citation_followup_needed: '已映射真实 doc_id (D1 = WHO IYCF Fact Sheet)'

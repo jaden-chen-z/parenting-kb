@@ -1,0 +1,67 @@
+glossary_id: G-PERSON-Lillard
+type: person
+display_name: Lillard (宝拉·波尔克·莉拉德)
+
+full_name_en: Paula Polk Lillard
+full_name_zh: 宝拉·波尔克·莉拉德
+
+one_liner: |
+  美国资深 AMI 蒙氏教师 / 教育家,5 个女儿的母亲 / 8 个孙辈的祖母。
+  Smith College 文学学士,1972 年起出版蒙氏教育系列著作 4 本,1982 年与女儿 Lynn 共同创办 Forest Bluff School(0-14 岁蒙氏学校),本卷《蒙特梭利从 0 岁开始》是她跟 Lynn 母女合著的 0-3 岁经典。
+
+detail: |
+  ## 背景
+  - 出生于美国,Smith College 文学学士
+  - 早年志愿做女儿学校蒙氏班助教 → 转入蒙氏教育终生
+  - Xavier University 蒙氏教育硕士(俄亥俄州辛辛那提)
+  - AMI 协会认证的 3-6 岁 primary 蒙氏教师
+  - 5 个女儿(其中 4 女 Angeline 是弗吉尼亚大学心理学教授)
+  - 8 个孙辈(写本卷时年龄 0-21 岁)
+
+  ## 主要著作
+  - 1972《蒙特梭利:现代视角》(Montessori: A Modern Approach)— 3-6 岁
+  - 1980《蒙特梭利在课堂》(Montessori in the Classroom)— 幼儿园应用
+  - 1996《今日蒙特梭利》(Montessori Today)— 小学教育
+  - 2003《蒙特梭利从 0 岁开始》(Montessori from the Start, 本卷)— 0-3 岁,与 Lynn 合著
+
+  ## Forest Bluff School
+  - 1982 年与 Jane Linari + Lynn 合办,芝加哥北郊 Lake Forest 镇
+  - 起初是 18 月 - 14 岁蒙氏学校
+  - 现 Lillard 母女在校共同教 0-3 父母班长达 6+ 年(写本卷时)
+  - 上门家访咨询是核心服务
+
+  ## 风格 + 学派定位
+  - 学院派蒙氏(vs Davies 现代翻译派)
+  - 引用 Maria Montessori 原著 + 后期 0-3 培训(Silvana Montanaro 体系)更深
+  - 不止讲操作,讲理论 + planes of development + self-formation 哲学
+  - 文笔偏正式,适合想"理解蒙氏到底是什么"的家长
+
+  ## 在中文社群的影响
+  - 知名度低于 Davies(Davies 本卷更畅销)
+  - 但被认为是"理论深度首选"
+  - 中译本《蒙台梭利从 0 岁开始 — 0-3 岁的教育》(梁海涛 译)
+
+key_facts:
+  - AMI 3-6 蒙氏 primary 教师 + Xavier 蒙氏教育硕士
+  - 5 个女儿 + 8 个孙辈
+  - 1982 年共同创办 Forest Bluff School
+  - 4 本蒙氏著作,本卷与女儿 Lynn 合著
+  - 学院派 — 强调理论深度
+
+related_glossary:
+  - G-PERSON-Jessen
+  - G-PERSON-Montessori
+  - G-PERSON-Davies
+  - G-TERM-absorbent-mind
+  - G-TERM-self-construction
+
+related_cards: []
+
+sources:
+  - source_id: SRC-016
+  - external: Forest Bluff School 官网 / Schocken Books
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

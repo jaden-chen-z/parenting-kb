@@ -1,0 +1,28 @@
+glossary_id: G-TERM-positive-youth-development
+type: term
+display_name: "积极青少年发展 / Positive Youth Development (PYD)"
+
+name_en: "Positive Youth Development (PYD)"
+name_zh: "积极青少年发展"
+
+description: |
+  Lerner 等提出 — asset-based 视角,反 deficit model。
+  5C 框架(后扩 6C):Competence / Confidence / Connection / Character / Caring (+ Contribution)。
+
+one_liner: |
+  积极青少年发展(Positive Youth Development (PYD))— Lerner 等提出 — asset-based 视角,反 deficit model。
+
+key_facts:
+  - "Lerner V1 元理论卷核心术语"
+  - "学派:Lerner V1 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

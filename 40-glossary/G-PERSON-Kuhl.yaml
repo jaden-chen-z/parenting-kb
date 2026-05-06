@@ -1,0 +1,83 @@
+glossary_id: G-PERSON-Kuhl
+type: person
+display_name: Kuhl
+
+full_name_en: Patricia K. Kuhl
+full_name_zh: 帕特里夏·K·库尔
+
+one_liner: |
+  美国发展心理学家(华盛顿大学 I-LABS 联合主任),婴儿语言习得权威。
+  发现"知觉重组":6-12 月宝宝失去辨别外语音素能力 — 双语家庭的关键期窗口。
+
+detail: |
+  ## 个人背景
+  - 美国华盛顿大学(University of Washington)心理学教授
+  - I-LABS(Institute for Learning & Brain Sciences)联合主任 + 联合创始人(与 Meltzoff)
+  - 美国艺术与科学院院士
+  - National Academy of Sciences 院士
+
+  ## 核心研究
+
+  ### 1. 知觉重组(perceptual narrowing)1992
+  - 0-6 月婴儿能区分**全世界所有语言**的音素差别
+  - 6-12 月开始"调谐"到母语 — 失去辨别外语音素能力
+  - 例:日本宝宝 6 月前能区分英语 R / L,12 月后失去这能力
+  - 一旦关窗,长大后学外语永远有口音
+
+  ### 2. Parentese 科学化 1997
+  - 反驳"跟宝宝说话像大人才高级"
+  - Parentese = 高音调 + 慢语速 + 短句子 + 重复 + 长停顿
+  - fMRI 显示婴儿听 parentese 时左脑语言区激活强于成人对话
+  - 14 月前 parentese 越多 → 24 月词汇量越大
+
+  ### 3. 中文 vs 英文宝宝音素分化(2003 台北 / 西雅图)
+  - 6-9 月两组都能区分两种语言音素
+  - 9-12 月各自只能区分母语音素
+  - 进一步证明知觉重组的时间窗
+
+  ### 4. 真人 vs 录像 / CD 实验
+  - 9 月美国宝宝看 12 节中文录像 = **0 效果**(测 phoneme 区分)
+  - 9 月美国宝宝跟中文老师互动 12 节 = 显著学到中文音素
+  - **结论:0-3 岁学外语必须真人互动,不能靠音频视频**
+
+  ## 中国家长意义
+  - "外语得 6 岁后学(怕影响母语)" — 错。6-12 月就关窗
+  - "刷外语动画 / 听 CD 学外语" — 错。真人互动才有用
+  - 双语家庭最佳窗口:**0-12 月**(尤其 6-12 月)
+  - Parentese 不傻,是科学的语言加速器
+
+  ## 在本知识库中
+  - SRC-015《摇篮里的科学家》三作者之一
+  - 跟 G-TERM-parentese(已建,鲍秀兰背书)直接对接深化
+  - 跟 G-TERM-critical-period(关键期)语言窗口部分
+
+  ## 学术影响
+  - TED 演讲《The linguistic genius of babies》逾 400 万播放
+  - 知觉重组研究是 0-3 岁双语 / 外语启蒙关键依据
+  - 反"被动听音频学外语"立场代表
+
+key_facts:
+  - 华盛顿大学 I-LABS 联合主任
+  - 知觉重组 6-12 月窗口发现者
+  - Parentese 神经科学化奠基
+  - 反"被动音频学外语"立场代表
+  - National Academy of Sciences 院士
+
+related_glossary:
+  - G-PERSON-Gopnik
+  - G-PERSON-Meltzoff
+  - G-TERM-perceptual-narrowing
+  - G-TERM-parentese
+  - G-TERM-critical-period
+  - G-TERM-phoneme
+
+related_cards: []
+
+sources:
+  - source_id: SRC-015
+  - external: Kuhl 1992 Perception & Psychophysics / Kuhl 2003 PNAS / Wikipedia Patricia Kuhl
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

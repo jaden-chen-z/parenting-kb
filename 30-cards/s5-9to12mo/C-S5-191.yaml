@@ -1,0 +1,80 @@
+card_id: C-S5-191
+stages: [S5]
+tags: [philosophy, controversy, 跨源-consensus, sleep]
+
+front:
+  title: 睡眠训练 5 派立场 — 选你能坚持的
+  hook: Karp / Lillard / Brazelton / Davies / Bowlby
+
+back:
+  why_matters: |
+    9-12 月是中国家长睡眠训练抉择高峰(夜醒 + 母乳喂养疲惫 + 准备返工)。
+    各派立场分散在 6 本书,从未做对照,父母看了反而更焦虑。
+    本卡列 5 派立场 + 中国陪睡传统 + 关键决策依据。
+    **生理基础**:4 月睡眠周期成熟(50-60 → 90 分钟,接近成人),浅睡比例下降但短醒变多。
+    "短醒"是正常的,关键是宝宝能否自己重回深睡 — **这才是睡眠训练真正讨论的事**。
+  what_to_do:
+    - "**Karp 5S**(SRC-003,适用 0-4 月):持续介入安抚到不哭,白噪音 + 包裹延长睡眠 1-2h"
+    - "**Lillard 蒙氏**(SRC-016 C-S5-189,激进):**关门睡 + 不抱不奶不晃**,6 周-3 月起练自主入睡"
+    - "**Brazelton 温和**(SRC-010 C-S5-021,中间):浅睡期演练,**温和拍背但不抱起**"
+    - "**Davies 蒙氏**(SRC-014 C-S5-137,反训):**6-16 月黏人是健康**,反对强训独立"
+    - "**Bowlby V1/V2**(SRC-011/012,理论反对):长哭训练损害安全依恋,理论暗示不要"
+    - "**中国陪睡传统**:学龄(5-6 岁)分床,与西方主流冲突"
+    - "**决策建议**:不要 4 派交替试 → 选 1 派坚持 ≥2 周看效;造成大量哭 + 妈妈崩溃 → 立刻停"
+  failure_mode: |
+    4 派交替试 → 失败 + 自责 + 越睡越差;
+    没坚持 ≥2 周就放弃 → 误判"无效";
+    睡训造成大量哭 + 妈妈崩溃 → 立刻停,这不值得;
+    4 月前强训 → 违背生理,绝对错;
+    "听网传选 X 法"不评估自己家庭情况 → 成功率低。
+  evidence_level: A
+
+glossary_refs:
+  - G-TERM-sleep-cycle
+  - G-PERSON-Karp
+  - G-PERSON-Lillard
+  - G-PERSON-Brazelton
+  - G-PERSON-Davies
+  - G-PERSON-Bowlby
+
+citation:
+  cross_source: true
+  primary_source_id: META-CROSS
+  cross_sources:
+    - source_id: SRC-003
+      anchor_card: C-S1-013
+      stance: Karp 5S 持续介入(0-4 月)
+    - source_id: SRC-010
+      anchor_card: C-S5-021
+      stance: Brazelton 温和拍背浅睡演练(中间)
+    - source_id: SRC-014
+      anchor_card: C-S5-137
+      stance: Davies 6-16 月黏人是健康(反训)
+    - source_id: SRC-016
+      anchor_card: C-S5-189
+      stance: Lillard 关门睡 + 不抱晃睡(激进自主)
+    - source_id: SRC-011
+      anchor_card: META
+      stance: Bowlby 理论反对长哭训练
+  location: META · S5 跨派对照导航卡
+
+unit_ids: []
+related_cards:
+  - C-S1-013       # Karp 5S 包裹
+  - C-S5-021       # Brazelton 浅睡期演练
+  - C-S5-137       # Davies 黏期是健康
+  - C-S5-189       # Lillard 关门睡
+  - C-S5-069       # Bowlby V1 健康依恋反更早(理论支持)
+  - C-S6-028       # Brazelton scheduled awakening
+  - C-S3-129       # WW19 4 月跃迁
+
+navigation_role: |
+  S5 段睡眠训练导航 hub — 中国家长 9-12 月最高频痛点。
+  5 派立场分散在 6 本书,本卡首次综合对照。
+  P0 优先级:与戒奶瓶(C-S5-190)+ 戒夜奶(gap)+ 妈妈返工准备一起,
+  构成"9-12 月妈妈第二崩溃期"应对工具集。
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

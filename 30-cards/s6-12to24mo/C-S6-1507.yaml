@@ -1,0 +1,52 @@
+card_id: C-S6-1507
+stages: ['S6']
+tags: ['philosophy', 'lerner_v1', 'csikszentmihalyi', 'flow', 'toddler']
+
+front:
+  title: "1-2 岁初版心流"
+  hook: "专注玩耍千万别打扰"
+
+back:
+  why_matters: |
+    1-2 岁孩子已能进入 flow 状态 — 经典场景:专注玩积木 / 沙子 / 倒水 30+ 分钟。
+    父母常错误地 "及时打断"(吃饭 / 洗澡 / 出门)— 这破坏 flow,长期破坏专注力发展。
+    Csikszentmihalyi 数据 — 早期 flow 体验是终生 flow 能力的基础。
+    意义 — 1-2 岁专注玩 30 分钟看似 "无用",其实在练 flow 神经回路。
+    具体做法 —
+    - 看到娃专注玩 → 不要打断(就算到饭点也等 5-10 分钟)
+    - 提供长时间不被打断的玩耍空间(早上 / 下午)
+    - 玩具简单 + 多变(乐高 / 积木 / 沙子 / 水)易引发 flow
+    - 高科技玩具(声光过强)反而打断 flow
+  what_to_do:
+    - "看到专注玩 → 不打断 + 等 5-10 分钟"
+    - "提供长时间(30-60 分)无打断玩耍"
+    - "简单 + 多变玩具引发 flow"
+    - "声光过强玩具干扰 flow"
+    - "1-2 岁 flow 是终生专注力基础"
+  failure_mode: |
+    专注玩中打断"该吃饭了" — 破坏 flow 神经回路发展。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Csikszentmihalyi
+  - G-TERM-flow-theory
+
+related_cards:
+  - C-S0-1527
+  - C-S6-1064
+  - C-S6-1505
+  - C-S2-700
+
+citation:
+  source_id: SRC-030
+  source_title: "Handbook of Child Psychology Vol 1: Theoretical Models of Human Development"
+  chapter: "Ch 9 Csikszentmihalyi & Rathunde"
+  chapter_offset: 2556299
+  chapter_title: 'Rathunde & Csikszentmihalyi — Optimal Experience / Flow'
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_followup_needed: 'SRC-030 用 PDF 字节偏移代页码 — 待加 page_pdf 反查工具'

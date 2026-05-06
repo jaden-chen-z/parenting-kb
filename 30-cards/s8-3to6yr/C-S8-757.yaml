@@ -1,0 +1,75 @@
+card_id: C-S8-757
+stages: [S8]
+tags: [paths, sel, lerner_v4]
+
+front:
+  title: PATHS(促进选择性思维策略) 元分析最强
+  hook: PATHS(促进选择性思维策略) SEL 王
+
+back:
+  why_matters: |
+    PATHS(促进选择性思维策略)(Promoting Alternative Thinking Strategies)— V4 Ch 15 Kress-Elias 重点。
+    **PATHS(促进选择性思维策略) 课程**:
+    - 1980s Greenberg-Kusché 设计
+    - 学龄前 + 小学版
+    - **元分析最强 SEL 课程**(效应量最高)
+    **4 大模块**:
+    - **情绪表达**:识别 + 标签 + 表达情绪
+    - **同伴关系**:协作 + 解决冲突
+    - **自我控制**:RED LIGHT-YELLOW-GREEN(信号灯隐喻)
+    - **解决问题**:问题识别 → 想方法 → 评估 → 实施
+    **RCT 证据**(Greenberg + Durlak 元分析):
+    - 学业:成绩提升 11 个百分点
+    - 行为:攻击行为减 30%
+    - 情绪:焦虑抑郁减 20%
+    - ROI:11:1
+    **红黄绿信号灯**(PATHS(促进选择性思维策略) 招牌):
+    - **红**:停 — 我感觉不好
+    - **黄**:想 — 我能怎么办
+    - **绿**:做 — 我决定的
+    - 学龄前 → 小学逐步深化
+    **中国引入**:
+    - 已翻译 + 部分省市试点
+    - 比纯说教比 Triple P 更结构化(给学校用)
+    跟现库:跟 V3 Saarni 8 情绪能力(C-S6-1068)+ V3 Eisenberg effortful control(C-S5-1041)+ CASEL(C-S8-744)对接。
+    对中国家长意义:
+    - 学校选有 SEL 课程的(找 PATHS(促进选择性思维策略) / 类似)
+    - 在家也用红黄绿信号灯
+    - 情绪不是软弱
+    - 反"听话就好"立场
+  what_to_do:
+    - 学校选有 SEL 课程
+    - 在家用红黄绿信号灯
+    - 情绪不是软弱
+    - '反"听话就好"'
+  failure_mode: |
+    "听话就好"— 错。SEL 学业核心支柱。
+    "自我调节就够"— 错。5 能力 + 4 模块。
+    "小娃情绪不重要"— 错。PATHS(促进选择性思维策略) 学龄前起。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Greenberg
+  - G-TERM-PATHS
+  - G-TERM-CASEL
+  - G-TERM-SEL
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 4 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 4 卷"
+  authors: ['Mark T. Greenberg (cited)']
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 15 · PATHS curriculum (cross-chapter) · pp. 595-605"
+  source_id: SRC-029
+
+unit_ids: []
+related_cards:
+  - C-S8-744     # Kress-Elias CASEL
+  - C-S6-1068     # V3 Saarni 8 情绪
+  - C-S5-1041     # V3 Eisenberg effortful control
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

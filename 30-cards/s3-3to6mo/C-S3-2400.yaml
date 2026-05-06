@@ -1,0 +1,55 @@
+card_id: C-S3-2400
+stages: [S3]
+tags: [safety]
+
+front:
+  title: 铁库 4-6 月耗尽,饮食铁主补
+  hook: 母乳娃 6 月后必须配铁辅食
+
+back:
+  why_matters: |
+    缺铁不是小事 — 头 18 个月缺铁会造成不可逆的神经发育和行为问题。
+    足月宝宝在妈妈肚子里囤了一定量铁,但**4-6 月这批储备就耗完了**。
+    分两路:
+    1) 配方奶娃:加铁配方奶持续供应,通常不用单独补
+    2) 母乳娃:母乳铁含量低,**6 月起靠辅食补铁**(铁强化米粉、肉泥、含铁绿叶蔬菜)
+    早产儿 / 出生体重低的宝宝是例外,医生会开口服铁补充液。
+    海蒂明确:**正常足月宝宝别自行买铁补充液**,过量风险高,饮食路径足够。
+  what_to_do:
+    - 母乳娃:6 月辅食起加铁强化米粉作为第一口固体
+    - 餐内加肉泥(红肉铁吸收率最高)+ 蛋黄(8 月起)
+    - 同餐配维生素 C 食物(柑橘 / 西兰花 / 红椒)→ 提升铁吸收
+    - 配方奶娃:坚持加铁配方奶,辅食铁是锦上添花
+    - 6/9/12 月儿保查 Hb,异常再加补充剂
+  failure_mode: |
+    家长怕宝宝缺铁自购铁补充液 → 海蒂反对,胃肠不适且过量有毒。
+    迷信"红枣红糖红米"补铁 — 植物铁吸收率仅 2-5%,远不如肉泥。
+    辅食只给米糊 + 蔬菜泥不加肉,6-9 月最容易缺铁。
+  evidence_level: A
+
+glossary_refs: []
+
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors:
+    - Heidi Murkoff
+    - Sharon Mazel
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh:
+    - 莫夏迪
+    - 张敏
+  location: "第 6 章补充剂的意义 · 铁元素专栏 + 第 9 章黑便讨论"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards: []
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

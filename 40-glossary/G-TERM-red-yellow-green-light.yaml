@@ -1,0 +1,122 @@
+glossary_id: G-TERM-red-yellow-green-light
+type: term
+display_name: 红黄绿三灯 (限度坐标系)
+
+full_name_zh: 红 / 黄 / 绿三灯 — Magda 限度判断系统
+full_name_en: Red Light / Yellow Light / Green Light
+
+one_liner: |
+  Magda Gerber 独家命名的限度判断坐标系。
+  红灯 = 危险,立刻停;黄灯 = 可协商,你掂量;绿灯 = 你也愿意,全身心陪。
+  帮家长在"全程让步"和"全程严管"之间找到中间路。
+  Magda 立场关键:**你的需要也算需要。**
+
+detail: |
+  ## 命名来源
+  Magda Gerber《Your Self-Confident Baby》Ch8 §Respecting Your Needs。
+  Magda 用交通灯比喻"哪种情况你必须坚守 / 哪种可以让 / 哪种你乐意配合"。
+
+  ## 三灯定义
+
+  ### 🔴 红灯 = 危险 / 不可协商
+  例:
+  - 冲马路追球
+  - 摸热锅 / 烫水龙头
+  - 站窗台 / 高处
+  - 玩刀 / 玩电
+  - 打人 / 咬人 / 真伤害
+  操作:**立刻停,简短解释,不商量**
+  说话:"我不让你 X,这危险/会伤人。"
+
+  ### 🟡 黄灯 = 可协商 / 你权衡
+  例:
+  - 该收玩具时娃想再玩 5 分钟
+  - 你想读报纸娃想要你陪走
+  - 该睡觉娃想再读一本书
+  - 该吃饭娃想再玩积木
+  操作:**你掂量谁的需要更紧,可妥协可坚持**
+  说话:"我读完这页就读给你"或"现在不行,15 分钟后陪你"
+
+  ### 🟢 绿灯 = 你也乐意 / 全身心陪
+  例:
+  - 玩沙 / 玩水(你也享受)
+  - 读书(你也想读这本)
+  - 散步(天气好,你也想出门)
+  - 一起做饭(他帮你切香蕉)
+  操作:**放下手机,全身心,不分心**
+  说话:不需要 — 在场就够。
+
+  ## Magda 关键立场:你的需要也算需要
+
+  Magda 引 Iris 的话(本卷 Ch8 例):
+  > "我经常听你说,'父母也有自己的需要。'
+  > 我不再因为对 Angelica 说'不'感觉内疚,
+  > 因为我必须设我的边界。
+  > 我吃饭时她要爬上来抢,我会说'不,这是妈妈的食物。'
+  > 我家人当年绝不会拒绝她。"
+
+  Magda 给的允许:
+  1 你饿了优先吃
+  2 你累了优先休
+  3 你有事优先处理
+  4 你不想读书可以说"现在不"
+  **没有"全部黄灯按绿灯处理"的妈妈** — 那是自我牺牲 → 长期反弹。
+
+  ## 跟其他派对比
+
+  | 派 | 立场 |
+  |---|---|
+  | 主流"密集母职" | 全部按绿灯,自我消耗 |
+  | "严父严母"派 | 全部按红灯,娃无自主 |
+  | RIE/Magda | 三灯平衡,你也是人 |
+  | 蒙氏 | "follow the child" 偏绿黄 |
+  | 行为主义 | 红灯+条件反射 |
+
+  ## 实操日常应用
+
+  早晨例子:
+  - 7 月起床(routine)= 绿灯,你也愿意
+  - 7:30 走出门口 = 黄灯,你赶去上班 → 你坚持
+  - 7:35 跑街上追球 = 红灯,你扑过去抱
+  - 8:00 路上她跟同学打招呼 = 黄灯,你掂量(赶时间 vs 社交学习)
+  - 9:00 工作 = 绿灯(你的事,跟她没关)
+
+  ## 中国家长高频痛点
+  - "我妈说全部依宝宝才是好妈妈" → 红 = 你也得有需要
+  - "我自己饿着先喂她" → 黄被错处理成绿,长期透支
+  - "我从不说不她以为没限度" → 黄不处理 = 红出现时来不及
+
+  ## 命名冲突说明(2 session 并行 Phase 8)
+  本术语 ID:`G-TERM-red-yellow-green-light`(SRC-021 第一轮我建)
+  另见:`G-TERM-traffic-light-limits`(SRC-022 第二轮深度本同概念,
+  并行 session 独立建立)— 两术语同概念,可合并。
+  本卷 SRC-021 卡片(C-S6-608)引用 `G-TERM-red-yellow-green-light`,
+  SRC-022 卡片引用 `G-TERM-traffic-light-limits`。用户决定后续合并方式。
+
+key_facts:
+  - Magda Gerber 独家命名(本卷 Ch8)
+  - 红灯=危险立停 / 黄灯=可协商 / 绿灯=你愿意陪
+  - 关键:**你的需要也算**(反主流密集母职)
+  - 反两极(全程绿灯自我消耗 / 全程红灯娃无自主)
+  - 跟 Lansbury 限度公式 + Davies 温柔边界同源
+
+related_glossary:
+  - G-PERSON-Gerber
+  - G-PERSON-Lansbury
+  - G-TERM-RIE
+  - G-TERM-respectful-parenting
+  - G-TERM-acknowledging-feelings
+
+related_cards:
+  - C-S6-608  # 红黄绿三灯设限度
+  - C-S6-404  # Lansbury 设限度=高质量时间
+  - C-S6-403  # Lansbury 限度+情绪并存
+
+sources:
+  - source_id: SRC-021
+  - external: Magda Gerber《Dear Parent》
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

@@ -1,0 +1,67 @@
+card_id: C-S7-867
+stages: [S7]
+tags: [shonkoff, nrc, transitional_object, lovey, china_high_freq, conflicts]
+
+front:
+  title: "毛绒玩具是健康的"
+  hook: "lovey 不是病"
+
+back:
+  why_matters: |
+    NRC 综述 Ch 9 给"transitional object 过渡客体"中立 + 偏支持立场:
+    **Winnicott 1953 经典**(NRC 引):
+    - 婴儿 8-18 月开始依赖某个特殊物(毛绒 / 毯子 / 围巾)
+    - 这是 secure attachment 的**外延**
+    - 帮助宝宝从"妈在场依赖"过渡到"妈不在也安心"
+    - **健康标志** — 不是病
+    **使用阶段**:
+    - 8-12 月:开始出现
+    - 1-3 岁:高峰使用(睡觉 / 焦虑时抓)
+    - 3-6 岁:渐淡(自然停)
+    - 6+ 岁仍依赖 → 看儿童心理医生(可能是焦虑 / 创伤)
+    **NRC 立场跟松田 §259 对立**:
+    - 松田反对 "lovey 癖" — 立场偏 RIE 派
+    - NRC 综述支持 — 立场是依恋派 + Winnicott 派
+    - AAP 一致支持 transitional object
+    - **立场分歧记 conflicts.md**
+    **对中国家长**:
+    - 别强戒 lovey — 跟科学对立
+    - 反"洗 / 扔他的小毛巾"— 那是他的安全物
+    - 6 岁后仍需要 → 看医生不是强戒
+    - 可以买备用(原版坏了别突然换)
+    跟 Davies 拥抱 lovey + AAP 立场一致(vs 松田立场对立)。
+  what_to_do:
+    - 接受 lovey 是健康的
+    - 别强戒别藏起来
+    - 准备备用 lovey
+    - 6 岁后仍依赖看医生
+    - 别说"宝宝大了别用了"
+  failure_mode: |
+    "孩子离不开毛巾 — 必须戒" — NRC 立场:这是 secure 的健康外延。
+    "他都 3 岁了还抓那条小毯 — 不像样" — 错,1-3 岁高峰期。
+    "我把他毛绒洗了 — 他一直哭" — 别洗或最好别突然改变。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Shonkoff
+  - G-TERM-attachment
+  - G-TERM-NRC
+
+citation:
+  book_title_en: "From Neurons to Neighborhoods"
+  authors: ["Jack P. Shonkoff", "Deborah A. Phillips"]
+  org: "NRC/IOM"
+  year_en: 2000
+  location: "Ch 9 · Transitional objects"
+  source_id: SRC-025
+
+unit_ids: []
+related_cards:
+  - C-S4-702    # 松田反对 lovey 立场对立 SRC-024
+  - C-S5-070    # Bowlby 安全依恋 SRC-011
+  - C-S4-804    # Shonkoff 依恋形成(本卷)
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Bronfenbrenner
+type: person
+display_name: "Bronfenbrenner(尤里·布朗芬布伦纳)"
+
+full_name_en: "Urie Bronfenbrenner"
+full_name_zh: "尤里·布朗芬布伦纳"
+
+position: |
+  Cornell 心理学教授
+
+contribution: |
+  生态系统理论 5 层(微/中介/外/宏/时间)
+
+one_liner: |
+  尤里·布朗芬布伦纳 — 生态系统理论 5 层(微/中介/外/宏/时间)
+
+key_facts:
+  - "本卷章节:Ch 8"
+  - "Lerner V3 命中:23 次"
+  - "学派:Lerner V3 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-027
+    chapter: "Ch 8"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,59 @@
+card_id: C-S7-349
+stages: [S7]
+tags: [self-care, mindset, RIE, lansbury]
+
+front:
+  title: "大人也要边界:从婴儿期开始"
+  hook: "孩子不会主动给你休息"
+
+back:
+  why_matters: |
+    Lansbury Ch28 的反主流命题:
+    很多家长以为"自我牺牲 = 好妈妈"。
+    Lansbury 反:你不照顾自己,就吼孩子。
+    具体:
+    - 婴儿哭着也得让你刷牙(关上门 5 分钟没事)
+    - 想断奶就断奶,不内疚
+    - 想自己泡咖啡就泡,不怕宝宝哭
+    "孩子永远不会主动说'妈,你休息一下'"
+    边界从大人主动设,孩子的工作是测试边界。
+
+  what_to_do:
+    - 每天有 1 个雷打不动的"我自己时段"
+    - 婴儿期就告诉:"我去洗澡,15 分钟回来"
+    - 自我照顾不内疚,这是给孩子的模范
+    - 跟另一半 / 家人定边界(不必全自己扛)
+    - 累就直说累,不憋到爆
+
+  failure_mode: |
+    "我做妈妈就该全付出" → 一两年后崩溃 + 吼。
+    或反向:"我也要自由没空带孩子" → 走另一极端。
+    Lansbury 中道:大人有边界 = 孩子学边界 = 健康关系基础。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Lansbury
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+
+citation:
+  book_title_en: "Elevating Child Care: A Guide to Respectful Parenting"
+  book_title_zh: "尊重孩子:RIE 育儿之道"
+  authors:
+    - Janet Lansbury
+  publisher_en: JLML Press
+  year: 2014
+  location: "Ch28 Yelling — Reason 1: You aren't taking care of yourself"
+  source_id: SRC-019
+
+unit_ids: []
+related_cards:
+  - C-S7-348  # Lansbury 你为什么吼
+  - C-S0-116  # Lansbury 孕期心态做真实自己
+  - C-S7-135  # Lillard 婚姻在孩子之前
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

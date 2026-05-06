@@ -1,0 +1,89 @@
+card_id: C-S6-189
+stages: [S6]
+tags: [montessori, toilet-training, controversy, sensitive-period, philosophy]
+
+front:
+  title: 12-18 月如厕敏感期
+  hook: 反 2-3 岁现代主流
+
+back:
+  why_matters: |
+    Lillard Ch7 立场最强烈的反潮流命题 — **如厕训练敏感期是 12-18 月,不是 2-3 岁**:
+    - **12 月** — 控制肠 / 膀胱的神经髓鞘完成,身体准备好
+    - **12-18 月** — 兴趣最强,愿意配合,对水 / 干 / 湿有意识
+    - **2-3 岁** — 兴趣已过,变成"必须做"反抗(成"terrible 2")
+    Lillard 引用 Paula 1950 年代经验:**当时美国 92% 婴儿 18 月用厕成功**。
+    为什么现代变 2-3 岁:
+    - **纸尿裤普及** — 隐藏湿感,宝宝失去敏感期信号(C-S6-190)
+    - **现代家长不愿花时间** — 18 月训练需要 3-6 周专注,父母没空
+    - **"等他自己愿意"误解** — 实际 18 月之后兴趣只会下降不会上升
+    - **错过 18 月 → 24 月 → 30 月,变成对抗**
+    Lillard 立场强:**这是文化退步,不是儿童变了**。
+    准备工作(12 月起):
+    - 站立换尿布(让宝宝看)
+    - 在浴室换(不在床上)
+    - 让宝宝看大人 / 兄姐用厕实操(15-18 月):
+    - 选 3-6 周,父母能在家给精力
+    - 选温暖天气(光腿便于学)
+    - 用便盆 + 小内裤(不是纸尿裤)
+    - 每 1-2 小时让宝宝坐便盆
+    - 失败了一起清理(平静)
+    跟"等宝宝自己愿意"主流**直接对立** — Lillard:错过敏感期就难。
+  what_to_do:
+    - 12 月起站立换尿布 + 在浴室换
+    - 15 月开始密集训练(3-6 周)
+    - 选温暖月份开始
+    - 用便盆 + 小内裤(不用纸尿裤)
+    - 失败了一起清理,不骂
+  failure_mode: |
+    "等宝宝 2 岁自己愿意上厕所" — 反:18 月之后兴趣只会下降,变成必须强迫。
+    一直用纸尿裤 → 宝宝没湿感 → 24 月还要训练。
+  evidence_level: C
+
+  positions:
+    issue: 如厕训练何时开始 · 谁主导 · 什么方法
+    views:
+      - school: Lillard(蒙氏)
+        source: SRC-016
+        stance: 12-18 月敏感期介入。反对长期纸尿裤拖延,孩子主导探索如厕,环境提供小马桶。
+      - school: AAP / 主流
+        source: SRC-006
+        stance: 18 月-3 岁。等待神经括约肌成熟与孩子表达意愿,避免提前训练造成抗拒。
+      - school: 鲍秀兰
+        source: SRC-009
+        stance: 9 月起坐盆训练,25-30 月用语言表达替代动作信号。早期建立排便规律。
+      - school: Brazelton
+        source: SRC-010
+        stance: 24 月以后多数孩子才准备好,孩子主导,称 toilet learning 而非 training。反对 EC 出生训练。
+      - school: 松田道雄
+        source: SRC-024
+        stance: 4-5 月把屎把尿是错的;7-8 月可试便盆(每次 1 分钟为限);1.5 岁夏天撤尿布最佳。
+      - school: Pikler / Magda / Lansbury
+        source: SRC-026/022/019
+        stance: 不训练 — 等 24-30 月孩子自己准备好;"学如厕"而非"训练"。反对绑 / 揍 / 久坐 / 太早 4 大错。
+      - school: 中国传统
+        stance: 把屎把尿(EC) + 3 岁前完成,以家长信号为主;中医认为憋尿伤肾。
+glossary_refs:
+  - G-PERSON-Lillard
+  - G-PERSON-Jessen
+  - G-PERSON-Montessori
+
+citation:
+  book_title_zh: "蒙台梭利从 0 岁开始"
+  book_title_en: "Montessori from the Start"
+  authors: ["Paula Polk Lillard", "Lynn Lillard Jessen"]
+  authors_zh: ["宝拉·波尔克·莉拉德", "琳·莉拉德·杰森"]
+  publisher_en: "Schocken Books"
+  year_en: 2003
+  isbn_en: "978-0-8052-1112-1"
+  location: "Ch 7 · 'Toilet Training' (12-18 month sensitive period)"
+  source_id: SRC-016
+
+unit_ids: []
+related_cards:
+  - C-S6-130       # Davies 12-15 月生活技能起步
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

@@ -1,0 +1,85 @@
+card_id: C-S6-NEW-LILLARD-POTTY
+stages: [S6]
+tags: [potty_training, montessori, lillard, controversy, philosophy]
+
+front:
+  title: Lillard 蒙氏 12-18 月厕训敏感期
+  hook: 等 24 月已晚, 12 月就准备
+
+back:
+  why_matters: |
+    前情:Lillard《Montessori: The Science Behind the Genius》提出激进蒙氏立场 — 厕训不是 18-36 月才训,
+    而是 **12-18 月是敏感期** — 孩子身体 + 认知 + 神经准备最强,过此窗口后训练阻力变大。
+
+    **Lillard 蒙氏立场**:
+    - 12-18 月孩子开始注意自己排便信号(蹲下/憋脸/找私密角落)
+    - 此时引入小马桶 = 顺应敏感期,自然学习
+    - 现代纸尿裤造成"延迟反馈"— 18 月后习惯了纸尿裤的湿凉感觉 → 厕训阻力大
+    - 蒙氏托儿所 12 月起脱纸尿裤训小马桶 — 多数 18 月已自主用厕
+    - 反潮流主张:24-36 月才训 = 错过敏感期 + 助长依赖
+
+    **跟 4 派对照**:
+    - **AAP / 现代主流(C-S7-007)**:18 月-3 岁,神经括约肌成熟才训 — 主流派
+    - **鲍秀兰(C-S5-012)**:9 月起坐盆训练 + 25-30 月用语言表达 — 中国本土,更早
+    - **Brazelton(C-S7-018)**:24 月以后多数才准备好,孩子主导,叫"toilet learning"不叫 training,反 18 月强训
+    - **海蒂(C-S7-NEW-HEIDI-POTTY)**:18-30 月看准备信号 — 中道
+    - **松田(C-S6-823)**:1.5 岁夏天撤尿布 — 日式中道
+    - **Lillard 蒙氏**:**12-18 月敏感期** — 最激进早派
+    - **中国传统**:把屎把尿 + 强压力 1-3 岁完成
+
+    **5+ 派立场分散在 ±18 月**:
+    - 9 月(鲍)→ 12-18 月(Lillard)→ 18 月(海蒂/松田)→ 18-36 月(AAP)→ 24+ 月(Brazelton)
+
+    **如果你想试 Lillard 路径**(12-18 月窗口):
+    - 必备:稳定家庭节奏(每日规律 + 一致照护) — 否则失败更可能
+    - 工具:蒙氏小马桶(矮 + 可独立坐) + 训练裤(可洗,不是纸尿裤)
+    - 准备信号:孩子注意自己排便 + 能跟随 1-2 步指令 + 走稳
+    - 失败也 OK — 可隔几月再试
+
+    **审慎提醒**:Lillard 立场跟 Brazelton + AAP 主流冲突,选 Lillard 路径 = 选某派立场,不是"科学唯一答案"。
+
+  what_to_do:
+    - 12-15 月开始观察排便信号(蹲下/憋脸/找私密)
+    - 14-18 月引入蒙氏小马桶(每日固定时段坐 1-2 次)
+    - 用训练裤替代纸尿裤(湿冷反馈帮孩子感知)
+    - 不强迫不奖励,只示范 + 观察 + 记录
+    - 18 月评估:多数已能 70%+ 自主用厕(Lillard 数据)
+    - 失败不焦虑,3 个月后再试
+
+  failure_mode: |
+    "12 月还在咬玩具呢训厕训太早了" — Lillard 反:不是按月龄是按敏感期信号。
+    "蒙氏太激进我家娃 18 月还不会" — Lillard 立场不适合所有孩子,失败可换 AAP 18-36 月路径。
+    "我家娃 12 月开始训 18 月还戴纸尿裤" — 可能不适配,接受暂停,几个月后重试。
+    把 Lillard 12-18 月当唯一标准 — 错,是流派立场不是科学共识(AAP/Brazelton 反对 18 月前)。
+
+  evidence_level: C
+
+glossary_refs:
+  - G-PERSON-Lillard
+  - G-PERSON-Montessori
+  - G-TERM-sensitive-periods
+  - G-TERM-toilet-training
+
+citation:
+  book_title_en: "Montessori: The Science Behind the Genius"
+  authors: ["Angeline Stoll Lillard"]
+  publisher_en: "Oxford University Press"
+  year_en: 2005
+  edition: "Updated 2017"
+  location: "Ch on Practical Life + sensitive periods 应用 — 派生 0-3 岁段立场"
+  source_id: SRC-016
+
+unit_ids: []
+related_cards:
+  - C-S6-189    # Lillard 12-18 月如厕敏感期(原卡)
+  - C-S5-012    # 鲍秀兰 9 月坐盆
+  - C-S7-007    # AAP 25-30 月用语言
+  - C-S7-018    # Brazelton 24 月+ toilet learning
+  - C-S7-552    # Gerber 不训练等准备 (98% 4 岁前)
+  - C-S6-823    # 松田 1.5 岁夏天撤尿布
+  - C-S7-NEW-HEIDI-POTTY  # 海蒂 18-30 月中道
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

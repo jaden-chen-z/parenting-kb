@@ -1,0 +1,213 @@
+source_id: SRC-019
+type: tier3-book
+tier: tier3
+
+title_en: "Elevating Child Care: A Guide to Respectful Parenting"
+title_zh: "尊重孩子:RIE 育儿之道"
+
+authors:
+  - Janet Lansbury
+
+publisher_en: JLML Press
+year: 2014
+isbn_en: "978-0-9911442-0-9"
+
+language_original: en
+language_acquired: en
+
+format: epub_to_md
+file_path: "10-sources/tier3-books/raw_pdfs/lansbury_elevating_child_care.md"
+file_size_chars: 215834
+
+# 流派 + 范围
+school: RIE (Resources for Infant Educarers)
+sub_school: 尊重型育儿 / Respectful Parenting
+age_coverage: 0-36 月(部分延伸至学龄前)
+
+# 跟现库的关系
+related_sources:
+  - SRC-014  # Davies 蒙氏(姐妹流派,Yes space 命名者 Gerber 是 Lansbury 师承)
+  - SRC-016  # Lillard 蒙氏 0-3(observation 共通)
+  - SRC-011  # Bowlby V1 依恋(secure attachment 一致)
+  - SRC-013  # Wonder Weeks(跃迁期沟通对应)
+
+# 跟 Davies + Lillard 蒙氏的关系
+relationship_to_montessori:
+  shared_80_percent:
+    - 婴儿是完整的人(whole person)
+    - 观察 + 等待(observation + wait)
+    - 自主玩耍(uninterrupted play)
+    - 真物(real things)
+    - 准备好的环境(prepared environment / yes space)
+    - 慢下来(slow down / going slow)
+    - 跟随孩子(follow the child)
+    - 不教而学(natural development)
+  rie_unique_20_percent:
+    - sportscasting(实况转播孩子的挣扎)
+    - "不抱起 / 不撑坐"(Pikler-Gerber 自然大动作发展)
+    - "限度公式"("I won't let you...")
+    - "magic word: wait"(魔法词:等)
+    - 承认情绪而不修复(acknowledge feelings, don't fix)
+    - "CEO 语调"(自信不焦虑的限度)
+    - "no time-out"(反惩罚)
+    - "Let kids be mad at you"(让孩子对你生气没问题)
+  contrast:
+    - Lansbury 比蒙氏更"被动" — observe more, do less
+    - Lansbury 比蒙氏更强调 sportscasting + 限度语言
+    - 蒙氏比 Lansbury 更系统化(prepared environment + practical life 课程)
+
+# 30 章博客合集结构(这本书是 Lansbury 网站 30 篇文章合集)
+chapter_map:
+  ch1: { offset: 14965, chars: 5637, title: "What Your Baby Can't Tell You(把婴儿当真人)" }
+  ch2: { offset: 20602, chars: 7763, title: "Connecting With Your Kids" }
+  ch3: { offset: 28407, chars: 6767, title: "The Key to Your Child's Heart" }
+  ch4: { offset: 35174, chars: 6595, title: "How to Love a Diaper Change(尿布换是连接仪式)" }
+  ch5: { offset: 41806, chars: 6400, title: "Good Grief(允许悲伤,不修复)" }
+  ch6: { offset: 48243, chars: 8815, title: "Babies and Sleep(睡眠不是训练是 un-training)" }
+  ch7: { offset: 57058, chars: 9134, title: "Sitting Babies Up(不撑坐 8 理由)⭐ Lansbury 经典" }
+  ch8: { offset: 66192, chars: 6014, title: "Build Focus & Attention Span" }
+  ch9: { offset: 72206, chars: 3764, title: "Infant Play – Great Minds at Work" }
+  ch10: { offset: 75970, chars: 4454, title: "Doctors, Dentists, Haircuts" }
+  ch11: { offset: 80424, chars: 8331, title: "Calming Clingy Child(分离焦虑)" }
+  ch12: { offset: 88755, chars: 6173, title: "A Magic Word: Wait(魔法词:等)⭐" }
+  ch13: { offset: 94966, chars: 6624, title: "Allowing Toddler to Succeed" }
+  ch14: { offset: 101590, chars: 4975, title: "Therapeutic Power of Play" }
+  ch15: { offset: 106565, chars: 9137, title: "7 Myths Independent Play(自主玩耍 7 误区)⭐" }
+  ch16: { offset: 115702, chars: 8088, title: "Healthy Eating Habits(高脚椅替代)" }
+  ch17: { offset: 123790, chars: 9923, title: "Encourage Toddlers to Talk" }
+  ch18: { offset: 133722, chars: 4088, title: "Nurturing Creativity: Shut Up" }
+  ch19: { offset: 137810, chars: 7102, title: "Sportscasting Your Child's Struggles ⭐⭐⭐ RIE 独有干预法" }
+  ch20: { offset: 144912, chars: 4949, title: "Sharing (The S Word)(不强迫分享)" }
+  ch21: { offset: 149861, chars: 3755, title: "Trouble with Potty Training(不训练)" }
+  ch22: { offset: 153682, chars: 7195, title: "No Bad Kids – Discipline without Shame ⭐⭐⭐ 9 条限度原则" }
+  ch23: { offset: 160915, chars: 7141, title: "Struggling With Boundaries (3 Reasons)" }
+  ch24: { offset: 168056, chars: 5416, title: "What Toddler Thinks of Discipline" }
+  ch25: { offset: 173472, chars: 6164, title: "Toddler Discipline That Works" }
+  ch26: { offset: 179636, chars: 4962, title: "Let Your Kids Be Mad At You ⭐" }
+  ch27: { offset: 184600, chars: 5609, title: "An Easily Forgotten Gift" }
+  ch28: { offset: 190208, chars: 9939, title: "I Think I Know Why You're Yelling ⭐⭐ 4 reasons" }
+  ch29: { offset: 200147, chars: 6386, title: "Never Too Late For Respectful Parenting" }
+  ch30: { offset: 206533, chars: 9301, title: "The Parent I Might Have Been" }
+  total_chars: 215834
+
+# Introduction 给的 10 大 RIE 原则(本书核心骨架)
+rie_10_principles:
+  - 1. We communicate authentically(真实沟通,真实声音)
+  - 2. We encourage babies to build communication skills(留白,等回应)
+  - 3. We invite babies to actively participate in care giving(护理是参与不是被动)
+  - 4. We encourage uninterrupted, self-directed play(自主玩耍不打断)
+  - 5. We allow children to develop motor and cognitive skills naturally(不教,信任天生时间表)
+  - 6. We value intrinsic motivation(尊重内在动机,少夸)
+  - 7. We encourage children to express their emotions(承认情绪,不修复)
+  - 8. We recognize that children need confident, empathetic leaders + clear boundaries(自信限度 + 不羞辱不分散不惩罚不 time-out)
+  - 9. We allow our children to problem solve(让孩子自己解决)
+  - 10. We understand the power of our modeling(模范是最强教育)
+
+# verbatim 关键引言(中英对照)
+verbatim_key_quotes:
+  - en: "Lack of discipline is not kindness, it is neglect."
+    zh: "没有限度不是仁慈,是失职。"
+    author: Magda Gerber (via Lansbury Ch22)
+  - en: "Time out of what — time out of life?"
+    zh: "Time out 出什么 — 出生命吗?"
+    author: Magda Gerber (via Lansbury Ch22)
+  - en: "Readiness is when they do it."
+    zh: "准备好就是他做了的那一刻。"
+    author: Magda Gerber (via Lansbury Ch12)
+  - en: "When you teach a child something, you take away forever his chance of discovering it for himself."
+    zh: "你教他一次,就永远夺走他自己发现的机会。"
+    author: Jean Piaget (via Lansbury Ch12)
+  - en: "I've raised kids I not only love, but in whose company I love being."
+    zh: "我养出的孩子,不只是我爱的,还是我喜欢跟他们在一起的。"
+    author: Magda Gerber (via Lansbury Intro)
+
+# 跨派对照(立场不同处,用于卡片立场对照)
+position_contrasts:
+  vs_attachment_parenting:
+    - Lansbury 反对 Sears 派"几乎全程抱"(Ch15)
+    - Lansbury 立场:婴儿不是 helpless,是 dependent + competent
+  vs_distraction_school:
+    - Lansbury 反对"用分散转移阻止哭"(Ch28)
+    - Lansbury 立场:第一年就要诚实设限,不分散
+  vs_sleep_training_extremes:
+    - Lansbury 反"sleep training" 这个词(Ch6)
+    - Lansbury 立场:是 un-training(取消我们建立的依赖)
+  vs_chinese_traditional:
+    - 中国"宝宝小不懂事" → Lansbury 反:从出生起就当人对待
+    - 中国"硬塞最后一口" → Lansbury 反:由宝宝定饱
+    - 中国"哭就抱 + 转移" → Lansbury 反:听不修复
+    - 中国"如厕训练" → Lansbury 反:孩子准备好就自己学
+    - 中国"分享教育" → Lansbury 反:2 岁以下不懂,不强迫
+
+# 评级标尺(本书)
+evidence_level_calibration:
+  A: Lansbury 跟 Tier 1 共识对齐(跟蒙氏 + Bowlby + AAP + Gopnik 一致处)
+  B: Lansbury 引用 RIE 60+ 年观察 + Pikler 研究 + 自家 3 个孩子 + 千+ RIE 班级案例
+  C: Lansbury 个人经验推断
+  expected_distribution: A=15-18 / B=22-25 / C=0
+
+# 现有库的术语 / 卡片复用
+reuse_existing_glossary:
+  - G-PERSON-Gerber          # Magda Gerber,本书师承,Davies 已建
+  - G-PERSON-Pikler          # 待建,Magda 师承,本书 Ch7 关键
+  - G-PERSON-Brazelton       # T. Berry Brazelton,Lansbury Ch5 提
+  - G-PERSON-Bowlby          # Lansbury 跟依恋一致
+  - G-TERM-yes-space         # Davies 已建,本书延伸
+  - G-TERM-floor-bed         # Davies / Lillard 已建,Pikler 起源
+  - G-TERM-observation       # Davies / Lillard 已建,RIE 也用
+  - G-TERM-going-slow        # Davies 已建,RIE 同款理念
+  - G-TERM-prepared-environment  # 蒙氏 yes space 即 RIE 等价物
+
+# 本次新建术语
+new_glossary_to_create:
+  - G-PERSON-Lansbury         # 本书作者
+  - G-PERSON-Pikler           # Magda 师承,本书 Ch7 / Ch15 关键
+  - G-TERM-RIE                # Resources for Infant Educarers
+  - G-TERM-sportscasting      # ⭐ Lansbury 独有干预法
+  - G-TERM-acknowledging-feelings  # ⭐ 承认情绪而不修复
+  - G-TERM-passive-toys       # ⭐ 被动玩具(Gerber 概念)
+  - G-TERM-magic-word-wait    # ⭐ Lansbury 12 用法
+  - G-TERM-respectful-parenting  # 流派统称
+
+# Phase 7 第二本任务范围(预计)
+phase7_book2_target:
+  knowledge_cards: 38-42  # 实际预计 40 张
+  glossary_cards: 7-8
+  segments_covered: S0-S7 全
+  emphasis: S6 (12-24 月) — Lansbury 最强段(限度 + sportscasting + tantrum + 真话)
+  id_strategy: "+100 buffer 起点(避撞 Bowlby V3 SRC-017 + Stern SRC-018 并行)"
+
+# 本次特别约定
+special_notes:
+  - Lansbury 是 Magda Gerber 的弟子,书中 60+ 处提 Magda
+  - 本书是博客合集,30 章不按月龄分而按主题分,我们映射到 8 段
+  - Lansbury 的"sportscasting"是 Magda Gerber 独家命名(Ch19)
+  - 本书 Ch7 + Ch15 是 Pikler 派最系统的英文阐述
+  - Ch28 "Why You're Yelling" 是 Lansbury 博客圈最有名的一篇(被翻译多语)
+
+# Phase 6 Lillard + Phase 5 Davies 蒙氏卡跟 Lansbury 重叠预测
+overlap_with_montessori:
+  - yes space: Davies C-S4-130 / Lillard 已建 → Lansbury 不重建,补 RIE 视角
+  - 真物: Davies C-S2 / Lillard C-S2-189 → 不重建
+  - 不替宝宝做: Davies C-S5-131 / Lillard → 不重建
+  - 慢下来: Davies (going slow) → 不重建
+  - observation: Davies C-S0-010 / Lillard → 不重建,补 RIE wait variant
+  - 自主玩耍: Lillard cycle of activity → 不重建
+  - 限度温柔: Davies C-S6-133 / Lillard C-S6-192 No 永远 No → 不重建,补 Lansbury "I won't let you" 公式
+  - 不夸赞过度: Lillard 已涉及 → 不重建
+unique_to_lansbury_must_build:
+  - sportscasting(Ch19)— 蒙氏不讲
+  - Magic word wait + 12 用法(Ch12)— RIE 独家
+  - 不撑坐 8 理由(Ch7)— Pikler 派系统(蒙氏轻提)
+  - "I won't let you" 限度公式(Ch22)— Lansbury 标志
+  - "CEO 语调"(Ch22)— Lansbury 命名
+  - "Let kids be mad at you"(Ch26)— RIE 标志
+  - Yelling 4 reasons(Ch28)— Lansbury 专题
+  - 7 myths independent play(Ch15)— RIE 系统
+  - 不分散(Ch28)— RIE 反 distraction 学派
+  - 高脚椅替代(Ch16 Magda 独家)— RIE 实操
+
+language: zh
+status: completed
+created: 2026-05-03
+updated: 2026-05-03

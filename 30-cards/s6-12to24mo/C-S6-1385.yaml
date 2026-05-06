@@ -1,0 +1,74 @@
+card_id: C-S6-1385
+stages: [S6]
+tags: [poverty, mcloyd, toddler, lerner_v4]
+
+front:
+  title: 穷家娃语言缺口
+  hook: 穷家娃语言有缺口
+
+back:
+  why_matters: |
+    McLoyd V4 Ch 18(12-24mo 贫困缺口)。
+    **12-24 月贫困核心冲击 = 语言**:
+    - Hart-Risley 30M words 鸿沟在这个阶段成型
+    - 富家娃听 1100 词/小时,穷家娃 600 词/小时
+    - 1 年累计差 800 万词
+    - 这个差距 18 月起明显,3 岁固化
+    **经济压力模型 12-24 月版**:
+    - 贫困 → 父母焦虑/抑郁
+    - 父母情绪 → 跟娃说话减少
+    - 说话减少 → 词汇缺口
+    - 词汇缺口 → 后期阅读 + 学业
+    **关键干预点**:
+    - **直接增加亲子对话**(最便宜最有效)
+    - **多读绘本**(每天 10 分钟 = 关键)
+    - **唱儿歌 + 数童谣**(节奏语言)
+    - **不要电视当背景**(被动接收无效)
+    **Reach Out and Read**(美国成功项目):
+    - 儿科医生 well-baby visit 发书 + 教读法
+    - 中国可类比社区医院 / 妇幼
+    - 18 月起每次随访 + 1 本书
+    **关键发现**:
+    - 语言缺口可以补,但要早(< 3 岁最容易)
+    - 不需要钱,只需要时间 + 互动跟现库:跟 C-S0-1234 McLoyd 经济压力总论 + C-S6-927 Shonkoff 词汇爆发 + Hart-Risley(SRC-025)对接。
+    对中国家长意义:
+    - 穷家可以"语言富养"(免费)
+    - 每天读绘本 10 分钟
+    - 唱儿歌 / 数童谣
+    - 别用电视当背景音
+  what_to_do:
+    - 每天读绘本 10 分钟
+    - 唱儿歌+数童谣多说话
+    - 别用电视当背景音
+    - 语言富养免费
+  failure_mode: |
+    "穷家娃语言注定差"— 错。可以语言富养。
+    "绘本贵不舍得买"— 错。图书馆免费。
+    "看动画也学语言"— 错。被动无效。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-McLoyd
+  - G-PERSON-Hart-Risley
+  - G-TERM-30-million-words
+  - G-TERM-economic-pressure-model
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 4 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 4 卷"
+  authors: ['Vonnie C. McLoyd', 'Nikki L. Aikens', 'Linda M. Burton']
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 18 · McLoyd · Toddler poverty language gap · pp. 725-735"
+  source_id: SRC-029
+
+unit_ids: []
+related_cards:
+  - C-S0-1234     # McLoyd 经济压力
+  - C-S6-926     # Shonkoff 30M words
+  - C-S6-927     # Shonkoff 词汇爆发
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

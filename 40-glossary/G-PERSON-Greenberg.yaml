@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Greenberg
+type: person
+display_name: "Greenberg(马克·格林伯格)"
+
+full_name_en: "Mark T. Greenberg"
+full_name_zh: "马克·格林伯格"
+
+position: |
+  Penn State University
+
+contribution: |
+  PATHS 课程创始人 + SEL
+
+one_liner: |
+  马克·格林伯格 — PATHS 课程创始人 + SEL
+
+key_facts:
+  - "本卷章节:Ch 15(引用)"
+  - "Lerner V4 命中:0 次"
+  - "学派:Lerner V4 应用心理学派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-029
+    chapter: "Ch 15(引用)"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

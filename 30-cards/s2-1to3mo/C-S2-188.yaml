@@ -1,0 +1,58 @@
+card_id: C-S2-188
+stages: [S2]
+tags: [montessori, attachment, philosophy]
+
+front:
+  title: 出生前已"认识"妈妈
+  hook: 心跳嗓音节奏
+
+back:
+  why_matters: |
+    Lillard Ch3 引 Silvana Montanaro AMI 0-3 培训:**婴儿在子宫里就建立了 4 个"参照点"**:
+    1. **妈妈心跳** — 持续重复,出生后听到妈妈胸口同样心跳就安心
+    2. **妈妈嗓音** — 子宫内可听 → 出生后偏好妈妈声音(vs 别人)
+    3. **妈妈节奏** — 走路 / 摇晃频率 → 出生后类似节奏让宝宝安抚
+    4. **自己手脚的感觉** — 摸自己脸 / 吸拇指出生不是"完全陌生" — 是**带着已有 4 个锚点进入新世界**。
+    实操含义 — 1-3 月不是"重新认识妈妈",是**继续用已有参照点 + 慢慢添加新的**:
+    - 哺乳时妈妈胸口 = 心跳锚点
+    - 不戴手套 = 不断手脚感觉锚点
+    - 妈妈别突然换发型 / 香水 → 不要打破已建参照点
+    - 别在头 8 周让一堆陌生人抱跟 Karp 第四产程("子宫感官重建")理论上一致 — Karp 是用 5S 重建,Lillard 是接受已有。
+  what_to_do:
+    - 1-3 月哺乳贴妈妈胸口(心跳)
+    - 不戴手套(摸自己脸的锚点)
+    - 妈妈不大改发型 / 香水
+    - 不让陌生人头 8 周抱
+    - 让宝宝多听妈妈说话
+  failure_mode: |
+    "宝宝看不到外面,什么都不懂" — 反:子宫里已学了 4 个参照点。
+    "妈妈没空,谁抱都一样" — 妈妈是首参照点,在头 8 周不易代替。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Lillard
+  - G-PERSON-Jessen
+  - G-TERM-points-of-reference
+  - G-TERM-symbiosis-period
+
+citation:
+  book_title_zh: "蒙台梭利从 0 岁开始"
+  book_title_en: "Montessori from the Start"
+  authors: ["Paula Polk Lillard", "Lynn Lillard Jessen"]
+  authors_zh: ["宝拉·波尔克·莉拉德", "琳·莉拉德·杰森"]
+  publisher_en: "Schocken Books"
+  year_en: 2003
+  isbn_en: "978-0-8052-1112-1"
+  location: "Ch 3 · 'Discovering the World' (points of reference)"
+  source_id: SRC-016
+
+unit_ids: []
+related_cards:
+  - C-S1-001       # Karp 第四孕期
+  - C-S1-122       # Bowlby 依恋形成
+  - C-S1-186       # Davies 不戴手套
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

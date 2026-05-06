@@ -1,0 +1,66 @@
+card_id: C-S2-803
+stages: [S2]
+tags: [shonkoff, nrc, colic, wessel, china_high_freq]
+
+front:
+  title: "肠绞痛 95% 不是病"
+  hook: "哭闹三小时三天三周"
+
+back:
+  why_matters: |
+    NRC 综述 Ch 5 引 Wessel 1954 经典 + Gormally-Barr 1997 综述:
+    **Wessel 三三三定义 colic**:
+    - 哭闹 > 3 小时/天
+    - 一周 > 3 天
+    - 持续 > 3 周
+    **数据**(NRC 引):
+    - 西方文化中 10-20% 婴儿满足 colic 标准
+    - 但 Gormally-Barr 综述:**95% colic 找不到任何病理基础**
+    - 不是肠子问题 — 名字是误导(colic 词源 = colon 大肠)
+    - 不是 cow's milk allergy / lactose 问题 — 多数情况
+    - 不是 GERD 反流 — 多数情况
+    **NRC 立场重要校准**:
+    - colic ≠ 病
+    - 是**正常哭闹曲线的极端值**(top 10-20%)
+    - 4 个月后会自然好转
+    - 不会"留性格" — Stifter-Braungart 1992 否认 colic 婴儿日后成 difficult temperament 假说
+    **对中国家长**:
+    - "我家宝肠绞痛"— 大概率不是病,别盲目换奶粉
+    - 别给 0-3 月宝宝吃"益生菌 / 妈咪爱"治哭闹 — 数据弱
+    - 真担心去儿科排查少数病理(GERD / 牛奶蛋白过敏)
+    - 不影响日后性格 — 4 月会平 — 撑过去跟松田 §111 + Brazelton SRC-010 立场一致。
+  what_to_do:
+    - 别盲信肠绞痛是病
+    - 别盲目换奶粉
+    - 排查少数病理去儿科
+    - 4 月会自然好转
+    - 不影响日后性格
+  failure_mode: |
+    "我家是肠绞痛 — 喝益生菌就好" — 错。95% colic 没病理基础,益生菌循证弱。
+    "他这哭法将来一定难带" — 错,Stifter-Braungart 1992 否认相关性。
+    频繁换奶粉 / 喝中药 / 拍打肠子 → 没用还可能伤宝宝。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Shonkoff
+  - G-TERM-colic
+  - G-TERM-NRC
+
+citation:
+  book_title_en: "From Neurons to Neighborhoods"
+  authors: ["Jack P. Shonkoff", "Deborah A. Phillips"]
+  org: "NRC/IOM"
+  year_en: 2000
+  location: "Ch 5 · Wessel rule + Gormally-Barr colic synthesis"
+  source_id: SRC-025
+
+unit_ids: []
+related_cards:
+  - C-S2-547    # 松田 §111 经常哭 SRC-024
+  - C-S1-018    # Karp 5S 安抚 SRC-003
+  - C-S2-019    # Brazelton 触摸点退步 SRC-010
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Smetana
+type: person
+display_name: "Smetana(朱迪丝·斯梅塔纳)"
+
+full_name_en: "Judith G. Smetana"
+full_name_zh: "朱迪丝·斯梅塔纳"
+
+position: |
+  University of Rochester 心理学教授
+
+contribution: |
+  4 类规则儿童跨文化区分研究;Turiel 弟子
+
+one_liner: |
+  朱迪丝·斯梅塔纳 — 4 类规则儿童跨文化区分研究;Turiel 弟子
+
+key_facts:
+  - "本卷章节:Ch 13"
+  - "Lerner V3 命中:162 次"
+  - "学派:Lerner V3 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-027
+    chapter: "Ch 13"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

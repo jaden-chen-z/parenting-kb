@@ -1,0 +1,28 @@
+glossary_id: G-TERM-sensitive-period
+type: term
+display_name: "敏感期 / sensitive period"
+
+name_en: "sensitive period"
+name_zh: "敏感期"
+
+description: |
+  更易学的发展窗口(但非必须)— 跟关键期不同,可补救。
+  语言 / 早教 / 兴趣 都是敏感期不是关键期。
+
+one_liner: |
+  敏感期(sensitive period)— 更易学的发展窗口(但非必须)— 跟关键期不同,可补救。
+
+key_facts:
+  - "Lerner V1 元理论卷核心术语"
+  - "学派:Lerner V1 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

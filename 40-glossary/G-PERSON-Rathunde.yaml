@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Rathunde
+type: person
+display_name: "Rathunde(凯文·拉松德)"
+
+full_name_en: "Kevin Rathunde"
+full_name_zh: "凯文·拉松德"
+
+position: |
+  University of Utah 家庭研究教授
+
+contribution: |
+  flow + 内在动机 + Csikszentmihalyi 共著
+
+one_liner: |
+  凯文·拉松德 — flow + 内在动机 + Csikszentmihalyi 共著
+
+key_facts:
+  - "本卷章节:Ch 9"
+  - "Lerner V1 命中:50+ 次"
+  - "学派:Lerner V1 心流派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+    chapter: "Ch 9"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

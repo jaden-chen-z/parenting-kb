@@ -1,0 +1,110 @@
+glossary_id: G-TERM-magic-word-wait
+type: term
+display_name: magic word wait (魔法词:等)
+
+full_name_zh: 魔法词"等"(Magda Gerber 的核心动作)
+full_name_en: The Magic Word Wait (Magda Gerber's core practice)
+
+one_liner: |
+  Magda Gerber 把整个 RIE 哲学浓缩成 1 个字:wait(等)。
+  Lansbury Ch12 系统列出 12 种 wait 的场合 —
+  等运动 / 等如厕 / 等说话 / 等专注 / 等问题解决 / 等情绪 / 等想法...
+  "等"不是"什么都不做",是"清醒在场,不主动"。
+  RIE / Pikler 派最浓缩的实操工具。
+
+detail: |
+  ## 来源
+  - Magda Gerber 教学多年的核心提法
+  - Lansbury Ch12 整章专题系统化
+  - 对应 Magda 名言:"Readiness is when they do it."(准备好就是他做了那一刻)
+
+  ## 12 种场合(Lansbury Ch12 完整列表)
+  1. **Wait for development**(等发展)
+     - 不催翻 / 爬 / 走 / 说话 / 如厕 / 学习
+     - "Ready babies do it better"
+  2. **Wait before interrupting**(等再打断)
+     - 看宝宝专注 → 不打断
+  3. **Wait for problem solving**(等解决问题)
+     - 卡住 → 鼓励,不代劳
+  4. **Wait for discovery**(等发现)
+     - 不教玩具怎么玩,让孩子自己探索
+     - 引 Piaget:"教一次,夺走一次发现的机会"
+  5. **Wait and observe**(等并观察)
+     - 看清楚孩子在做什么再判断需求
+  6. **Wait for conflict resolution**(等冲突解决)
+     - 同伴间小冲突,先观察,孩子自己常常解决
+  7. **Wait for readiness**(等准备好)
+     - 引入新活动 / 经验前等孩子主动信号
+  8. **Wait for understanding cries**(等理解哭)
+     - 不立即"修复",先听
+  9. **Wait for feelings to be expressed**(等情绪走完)
+     - 让哭走完,不秒堵
+  10. **Wait for ideas from children**(等孩子出主意)
+      - 不主动提建议,让孩子先想
+  11. **Wait through "boredom"**(等"无聊"过去)
+      - 无聊是天才的入口
+  12. **Wait for results**(等结果)
+      - 放手,不催 / 不评
+
+  ## "wait" 不等于"不作为"
+  - **wait** = 清醒在场 + 信任 + 不主动
+  - **不作为 / 缺席** = 不知道 / 没看 / 离开
+  - 区别:wait 是"主动的克制",缺席是"无意识的离开"
+
+  ## 跟蒙氏"observation"的关系
+  - 蒙氏 observation:看 5-15 秒再决定回应
+  - RIE wait:更宽,任何场合都"等先于动"
+  - 同源,RIE 把它扩展到"等情绪"+ "等想法"
+
+  ## 跟主流"立即响应"派对比
+  - 主流:婴儿哭 → 0.5 秒抱起
+  - RIE:等 5 秒,听清是哪种哭
+  - 主流:孩子卡住 → 立即帮
+  - RIE:鼓励 + 等 30 秒
+  - 主流:孩子无聊 → 立即给玩具
+  - RIE:等无聊过去,孩子自己想出新活动
+
+  ## 三种孩子的"礼物"(Lansbury Ch12 结尾)
+  孩子从 wait 中收获:
+  1. "我是有创造力的思考者"
+  2. "我能承受不适 / 挣扎 / 挫败"
+  3. "无聊只是想法之间的空隙(有时是天才的源头)"
+
+  ## 对大人的难度
+  - 反本能(本能是立即回应)
+  - 听起来"不爱"或"不帮"
+  - 公共场所被评判压力
+  - 需要练习 1-3 月才自然
+
+  ## 何时不能等(必须立即介入)
+  - 真危险(摔 / 烫 / 溺)
+  - 真受伤
+  - 持续多分钟的极端崩溃
+  - 真求助(明确说"妈妈帮我")— 这时再"等" 就是冷漠
+
+key_facts:
+  - Magda Gerber 哲学的浓缩词
+  - 12 种场合都该 wait(发展 / 打断 / 解决 / 发现 / 观察 / 冲突 / 准备 / 哭 / 情绪 / 想法 / 无聊 / 结果)
+  - '"wait" = 清醒在场 + 不主动,不是缺席'
+  - 跟蒙氏 observation 同源
+  - 反本能,需要练习 1-3 月
+
+related_glossary:
+  - G-PERSON-Gerber
+  - G-PERSON-Lansbury
+  - G-TERM-RIE
+  - G-TERM-observation
+
+related_cards:
+  - C-S6-402
+  - C-S4-295
+  - C-S6-401
+
+sources:
+  - source_id: SRC-019
+  - external: Magda Gerber《Dear Parent》
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

@@ -1,0 +1,66 @@
+card_id: C-S2-804
+stages: [S2]
+tags: [shonkoff, nrc, cosleeping, sids, china_high_freq, conflicts]
+
+front:
+  title: "母婴同睡 NRC 中立"
+  hook: "睡得浅可能更安全"
+
+back:
+  why_matters: |
+    NRC 综述 Ch 5 给 cosleeping(母婴同睡)中立立场 — 跟 AAP 单方反对不同:
+    **科学发现**(NRC 引 McKenna 1990, 1993, 1994):
+    1. 母婴同睡 → 妈宝双方睡得**更浅** — 频繁短醒
+    2. 母乳 + 同睡 → 短醒更频繁
+    3. **假说**:浅睡 + 短醒可能**保护**婴儿免于 SIDS(婴儿猝死)
+    4. **未证实** — 没有 RCT 证据
+    **NRC 立场**:
+    - 跨文化看 cosleeping 是大多数文化的常态
+    - 美国主流(separate sleeping)是 cultural minority
+    - 不直接禁止,但承认 SIDS 数据不足支持任一立场
+    **对照 AAP** SRC-002:AAP 反 bedsharing(怕窒息 / 压伤)
+    **对照松田** SRC-024:松田 8 月后支持(但 0-3 月禁,因为压婴儿风险)
+    **NRC 实质立场**:
+    - "硬性禁止"立场弱于 AAP
+    - 重点不在"睡哪里",在"安全睡眠环境"
+    - 仰睡 / 硬床垫 / 不盖头 — 这些 NRC 跟 AAP 一致严厉
+    **对中国家长**:
+    - 母婴同睡是中国传统 — 不必 100% 抛
+    - 关键在**安全细节**:仰睡 / 硬床垫 / 妈妈不饮酒/吸烟/服药
+    - 同睡时妈妈本能浅睡 — 是保护机制不是问题
+    - 别觉得"美国家长都分睡所以中国家长也得分"
+  what_to_do:
+    - 同睡安全细节最关键
+    - 仰睡 + 硬床垫
+    - 妈妈不饮酒 / 不药
+    - 不盖头 / 不软枕
+    - 别盲从"必分睡"
+  failure_mode: |
+    "AAP 说不能同睡" — NRC 立场更中立 — 安全前提下文化决定。
+    分睡也别用"软围栏 + 软玩具" — 比同睡风险高。
+    抽烟 / 饮酒 / 服药父母 — 必须分睡(高风险压伤)。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Shonkoff
+  - G-TERM-NRC
+  - G-ABBR-SIDS
+
+citation:
+  book_title_en: "From Neurons to Neighborhoods"
+  authors: ["Jack P. Shonkoff", "Deborah A. Phillips"]
+  org: "NRC/IOM"
+  year_en: 2000
+  location: "Ch 5 · McKenna cosleeping research synthesis"
+  source_id: SRC-025
+
+unit_ids: []
+related_cards:
+  - C-S4-700    # 松田 §258 母婴同睡 SRC-024
+  - C-S2-013    # AAP 反 bedsharing SRC-002
+  - C-S1-867    # Shonkoff 自我安抚入睡(本卷)
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

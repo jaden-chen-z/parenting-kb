@@ -1,0 +1,72 @@
+card_id: C-S1-761
+stages: [S1]
+tags: [breastfeeding, colostrum, immunity, matsuda]
+
+front:
+  title: "初乳第一周必须喝"
+  hook: "10ml 顶 100ml"
+
+back:
+  why_matters: |
+    松田 §32 强立场：
+    初乳每天分泌只 10-40ml，但是非喝不可。
+    1. 分泌型免疫球蛋白 A(sIgA)增强呼吸道 + 胃肠道抵抗力；
+    2. 含活细胞直接杀菌；
+    3. 乳铁蛋白杀菌 + 防牛奶过敏；
+    4. 初乳喂养的婴儿肠道双歧杆菌占多数。
+    哪怕产妇奶不够后续要换牛奶，
+    至少坚持初乳 1 周再说。
+
+  what_to_do:
+    - 出生当天就让孩子吸第一口
+    - 哪怕 10ml 也要喂
+    - 头 3 天不嫌少，就当滴免疫液
+    - 产院推奶粉先稳住"再坚持一周"
+    - 1 周后奶水仍少再讨论混合喂
+
+  failure_mode: |
+    产院常见话术："你的奶不够"、"加点牛奶吧" — 头 1 周本就是泌乳建立期，
+    奶量少是正常的，不是失败。
+    放弃初乳直接上奶粉 = 牺牲免疫保护，
+    后续过敏 / 哮喘 / 感染概率上升。
+    松田明确说"产院 3 小时定时喂奶 + 用枕头支奶瓶"是"非人类的喂奶方法"，
+    回家不要继承这套。
+
+  evidence_level: B
+
+  positions:
+    issue: 喂养节律 — 反馈喂养(信号驱动)vs 3 小时定时
+    views:
+      - school: BFHI / WHO
+        source: SRC-031
+        stance: 看信号反馈喂(responsive feeding)— 婴儿饿了就喂,不计时间表。
+      - school: AAP
+        source: SRC-006
+        stance: on demand 立场一致 — 新生儿不应严格定时,看信号优先。
+      - school: 松田道雄
+        source: SRC-024
+        stance: 反产院'3 小时定时 + 用枕头支奶瓶'(C-S1-761),跟 BFHI 完全一致。
+      - school: 中国传统产院
+        stance: 3 小时定时喂奶仍普遍,部分爱婴医院实操参差;BFHI 中国 6,000+ 医院落地不一致。
+glossary_refs:
+  - G-PERSON-Matsuda
+
+citation:
+  book_title_zh: "定本育儿百科"
+  authors:
+    - 松田道雄
+  publisher_ja: 岩波书店
+  year_first_edition: 1967
+  location: "§32 喂初乳的意义 / §33 提倡母乳喂养"
+  source_id: SRC-024
+
+unit_ids: []
+related_cards:
+  - C-S1-079  # Brazelton 喂奶不只是填饱肚子
+  - C-S1-038  # AAP 母乳喂养 SRC-006
+  - C-S2-013  # 鲍秀兰 不等啼哭再喂
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

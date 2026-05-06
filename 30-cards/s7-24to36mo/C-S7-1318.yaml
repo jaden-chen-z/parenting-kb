@@ -1,0 +1,76 @@
+card_id: C-S7-1318
+stages: [S7]
+tags: [SEL, kress, preschool, lerner_v4]
+
+front:
+  title: 2-3 岁 SEL 起点
+  hook: 2-3 岁 SEL 起
+
+back:
+  why_matters: |
+    Kress-Elias V4 Ch 15(2-3 岁 SEL 起点)。
+    **2-3 岁 SEL 5 能力起点**:
+    - **自察**:命名情绪("我开心")
+    - **自管**:数到 3 / 深呼吸 / 等
+    - **社察**:看别人脸色("他难过")
+    - **关系**:分享 + 轮流(初步)
+    - **决策**:选 A / B(简单)
+    **2-3 岁 SEL 实操**:
+    - 情绪命名:"妈妈生气" / "你高兴"
+    - 红黄绿信号灯(PATHS(促进选择性思维策略) 起点)
+    - 替代行为:"想要不能给,试 X 吧"
+    - 共情训练:"小朋友哭了,他难过"
+    - 选择题:"你想 A 还是 B"
+    **反 3 误区**:
+    - ❌ "2-3 岁不懂情绪"(已起步)
+    - ❌ "情绪要憋住"(承认 + 表达)
+    - ❌ "听话就好"(SEL ≠ 听话)
+    **家庭训练 5 招**:
+    - 每天命名 1 个情绪("你今天很 X")
+    - 红黄绿练习("现在是黄灯,想想")
+    - 替代游戏("不能要那,试这")
+    - 共情绘本("小熊难过了")
+    - 给选择("A 还是 B")
+    跟现库:跟 C-S8-744 V4 SEL 5 能力 + V3 Saarni 8 情绪能力(C-S6-1068)+ Tools of Mind(C-S8-756)对接。
+    对中国家长意义:
+    - 2-3 岁 SEL 起步
+    - 命名情绪 + 红黄绿 + 替代 + 共情 + 选择
+    - "听话"≠ SEL
+    - 男娃也要表达情绪
+  what_to_do:
+    - 2-3 岁起步 SEL 训练
+    - 每天命名 1 个情绪
+    - 红黄绿+替代+共情+选择
+    - 男娃也表达情绪
+  failure_mode: |
+    "2-3 岁不懂情绪"— 错。已起步。
+    "情绪要憋"— 错。表达更稳。
+    "听话 = SEL"— 错。SEL 是综合能力。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Kress
+  - G-PERSON-Elias
+  - G-TERM-SEL
+  - G-TERM-CASEL
+  - G-TERM-PATHS
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 4 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 4 卷"
+  authors: ['Jeffrey S. Kress', 'Maurice J. Elias']
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 15 · Kress-Elias · 2-3yr SEL emergence · pp. 595-605"
+  source_id: SRC-029
+
+unit_ids: []
+related_cards:
+  - C-S8-744     # V4 SEL 5 能力
+  - C-S6-1068     # V3 Saarni 8 情绪
+  - C-S8-757     # V4 PATHS
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

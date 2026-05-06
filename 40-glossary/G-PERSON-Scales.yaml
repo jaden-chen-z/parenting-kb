@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Scales
+type: person
+display_name: "Scales(彼得·斯卡尔斯)"
+
+full_name_en: "Peter C. Scales"
+full_name_zh: "彼得·斯卡尔斯"
+
+position: |
+  Search Institute 资深研究员
+
+contribution: |
+  developmental assets + thriving + Lerner PYD 共著
+
+one_liner: |
+  彼得·斯卡尔斯 — developmental assets + thriving + Lerner PYD 共著
+
+key_facts:
+  - "本卷章节:Ch 16"
+  - "Lerner V1 命中:40+ 次"
+  - "学派:Lerner V1 PYD 派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+    chapter: "Ch 16"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

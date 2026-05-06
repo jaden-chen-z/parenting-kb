@@ -1,0 +1,28 @@
+glossary_id: G-TERM-skill-reorganization
+type: term
+display_name: "技能重组 / skill reorganization"
+
+name_en: "skill reorganization"
+name_zh: "技能重组"
+
+description: |
+  Fischer 命题 — 看似"退步"是 reorganization 征兆,新能力即将涌现。
+  应用 — 18 月娃"原来会现在不会"是好事。
+
+one_liner: |
+  技能重组(skill reorganization)— Fischer 命题 — 看似"退步"是 reorganization 征兆,新能力即将涌现。
+
+key_facts:
+  - "Lerner V1 元理论卷核心术语"
+  - "学派:Lerner V1 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

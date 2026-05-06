@@ -1,0 +1,87 @@
+card_id: C-S2-832
+stages: [S2]
+tags: [pikler, motor-发展, anti-propping, source-de]
+
+front:
+  title: "1-3 月不在大腿上坐"
+  hook: "竖抱看世界视野不是好视野"
+
+back:
+  why_matters: |
+    Pikler 1969 Ch2 立场:婴儿 1-3 月颈背肌还没建好,
+    任何形式的"撑坐 / 竖抱 / 大腿上坐"都让脊椎被动承重 — 看似宝宝"在坐",实际是被困。
+
+    背景:1960s 欧洲妈妈常把宝宝竖抱看周围 / 大腿上"坐着玩"。Pikler 反诘:"困住的视角不是好视角"
+    — 被竖立婴儿不能动腿不能转身,只能等大人放下。
+
+    这是 Lansbury Ch7 不撑坐 8 理由(SRC-019 C-S2-290)
+    的德文原版根源。Pikler 1969 已经全部论证 — Lansbury
+    2014 + Magda 1998 都是英文复述。
+
+  what_to_do:
+    - 1-3 月只仰卧地板 / 床 / 抱在臂弯(支撑头颈)
+    - 不让宝宝大腿上"坐"(脊椎承重)
+    - 不竖抱玩超过 5 分钟(肩抱看肩外可以但短)
+    - 不用 Bumbo / 婴儿座椅 / 摇篮椅(Pikler 反一切)
+    - 平面 + 自由动腿是这个阶段唯一需要
+
+  failure_mode: |
+    "宝宝爱被竖抱看哥哥踢球啊" → Pikler 反:婴儿"爱"
+    是适应,不是真喜欢。被困视角看一会就疲劳,长期损害脊椎自然弧线 + 髋关节灵活性。
+
+  evidence_level: B
+
+  positions:
+    issue: 大动作发展该不该训练 · 学步车 / Bumbo / 撑坐 / 训练表是否有用
+    views:
+      - school: Pikler
+        source: SRC-026
+        stance: 完全反对训练 — 自然顺序 + 安全空间 + 时间 = 大动作全部自动发生;严反一切撑物(学步车 / Bumbo / 跳跳器 / 婴儿座椅)。
+      - school: Magda Gerber / RIE / Lansbury
+        source: SRC-022/019
+        stance: 继承 Pikler 立场 — 里程碑不是赛跑,不撑坐 8 理由,7 类婴儿设备先放下。
+      - school: 蒙氏(Davies/Lillard)
+        source: SRC-014/016
+        stance: 立场一致 — floor bed + 自由动作空间 + 反早期撑坐。
+      - school: AAP
+        source: SRC-002
+        stance: 反学步车(Policy Statement + 数百起伤亡报道);加拿大 2004 立法全球首例禁售。
+      - school: Brazelton
+        source: SRC-010
+        stance: 反学步车,跟 Pikler 立场一致;主张孩子自然探索大动作。
+      - school: 松田道雄
+        source: SRC-024
+        stance: 温和支持自然 — 不催孩子翻 / 坐 / 爬 / 走的时间表,部分跟 Pikler 共鸣。
+      - school: 鲍秀兰
+        source: SRC-009
+        stance: 支持训练 — 婴儿体操 / 抓握训练 / 撑坐;跟 Pikler 派 8 派立场严重对立。
+      - school: 中国主流
+        stance: '"4 月翻 / 6 月坐 / 9 月爬 / 12 月走" 训练表 + 80% 家庭曾用学步车。跟 Pikler 派全面对立。'
+glossary_refs:
+  - G-PERSON-Pikler
+  - G-TERM-no-propping
+  - G-TERM-bewegungsentwicklung
+  - G-TERM-supine-position
+
+citation:
+  book_title_de: "Friedliche Babys – zufriedene Mütter"
+  book_title_zh: "和平的婴儿 — 满足的母亲"
+  authors:
+    - Emmi Pikler
+  publisher_de: HERDER (HERDER / SPEKTRUM Band 4141)
+  year: 1969
+  location: "Ch2 Die Entwicklung der Bewegung pp. 30-35"
+  source_id: SRC-026
+
+unit_ids: []
+related_cards:
+  - C-S2-290  # Lansbury 不撑坐 8 理由(本卷源头)
+  - C-S1-411  # Gerber 7 类婴儿设备(立场同源)
+  - C-S4-349  # Gerber 里程碑不是赛跑
+  - C-S3-191  # Lillard 大动作发展
+  - C-S2-189  # Lillard 0-6 岁只给真实
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

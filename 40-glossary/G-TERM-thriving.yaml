@@ -1,0 +1,28 @@
+glossary_id: G-TERM-thriving
+type: term
+display_name: "繁荣发展 / thriving"
+
+name_en: "thriving"
+name_zh: "繁荣发展"
+
+description: |
+  Lerner PYD 概念 — 5C(后扩 6C)之上的整体状态 — 个体跟环境互动产生最优发展。
+  不只是"没问题",是"积极发展"。
+
+one_liner: |
+  繁荣发展(thriving)— Lerner PYD 概念 — 5C(后扩 6C)之上的整体状态 — 个体跟环境互动产生最优发展。
+
+key_facts:
+  - "Lerner V1 元理论卷核心术语"
+  - "学派:Lerner V1 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

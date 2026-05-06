@@ -1,0 +1,41 @@
+glossary_id: G-PERSON-Lutter
+type: person
+display_name: "Chessa Lutter"
+
+en_term: "Chessa K. Lutter"
+zh_term: "Chessa Lutter"
+
+one_liner: |
+  PAHO 高级喂养专家,RTI International 资深顾问,IYCF 政策核心。
+
+detail: |
+  ## 简介
+  Chessa Lutter — PAHO(Pan American Health Organization,泛美卫生组织)高级喂养专家,IYCF 政策制定核心。
+  
+  ## 主要贡献
+  - PAHO/WHO 2003 'Guiding Principles for Complementary Feeding' 共同作者
+  - 拉美 BFHI 推广核心
+  - 全球儿童营养政策制定
+  
+  ## 在 SRC-031 中的角色
+  PAHO 是 WHO 美洲区办公室 — Lutter 代表区域专家,跟 Dewey 合作。
+
+key_facts:
+  - "PAHO 高级喂养专家"
+  - "PAHO/WHO 2003 共同作者"
+  - "拉美 BFHI 推广"
+
+related_glossary:
+  - G-PERSON-Dewey
+  - G-ABBR-BFHI
+
+related_cards:
+  - C-S4-1046
+
+sources:
+  - source_id: SRC-031
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

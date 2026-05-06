@@ -1,0 +1,62 @@
+card_id: C-S3-1143
+stages: [S3]
+tags: [cognitive_science, visual_perception, kellman, lerner_v2]
+
+front:
+  title: 4 月看动就懂物体完整
+  hook: 运动决定物体边界感
+
+back:
+  why_matters: |
+    Kellman/Spelke 1983 经典(Lerner V2 Ch3 Kellman 主笔综述)。
+    给 4 月宝宝看遮挡杆运动实验:
+    - 一根杆被中间方块遮住,只能看到上下两段
+    - 静止时:看不出是"完整一根"还是"两根"
+    - 运动时:上下两段同步移动(共同运动 = 同一物体)
+    - 关键测:撤掉遮挡后,宝宝盯"完整杆"vs"两段断杆"反应不同结论:**4 月用"共同运动"原则推断物体边界**。
+    Kellman 综述:这是婴儿物体感知的奠基机制。
+    意义:
+    - 视觉系统天生就知道"动一起 = 一个东西"
+    - 不需要学,不需要语言
+    - 静止时辨边界用其他线索(颜色 / 纹理)— 后期学习跟现库:Gopnik 没专题视觉感知,Lerner V2 Ch3 是独家。
+    跟 Davies 蒙氏 30cm 焦距对接 — 婴儿视觉早就在工作。
+    对中国家长意义:
+    - 4 月让宝宝看动的物体(慢慢晃 / 慢慢推)
+    - 物体边界感是自动的,不用教
+    - 玩具不用花哨颜色 — 运动比颜色重要
+  what_to_do:
+    - 4 月起多玩"运动玩具"(摇铃 / 软球缓推)
+    - 让宝宝看物体被遮再现
+    - 不必教"几个东西" — 视觉系统自动推
+    - 静止 vs 运动 — 给两类视觉刺激都给
+  failure_mode: |
+    "4 月只看颜色" — 错。运动比颜色更先工作。
+    "看玩具没意义" — 错。4 月在做边界推理。
+    "需要教边界" — 错。视觉系统自动给。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Spelke
+  - G-TERM-baby-scientist
+  - G-PERSON-Kellman
+  - G-PERSON-Gopnik
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 2 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 2 卷"
+  authors: ["Philip J. Kellman", "Martha E. Arterberry"]
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 3 · Object unity from motion · pp. 130-132"
+  source_id: SRC-028
+
+unit_ids: []
+related_cards:
+  - C-S3-1140     # Baillargeon 吊桥
+  - C-S3-188       # Spelke 物体永久
+  - C-S1-244       # 新生儿视觉(Davies)
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

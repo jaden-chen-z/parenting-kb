@@ -1,0 +1,36 @@
+card_id: C-S3-2247
+stages: [S3]
+tags: [feeding, breastfeeding, cup]
+front:
+  title: 妈妈上班了,杯子比奶瓶省心
+  hook: 跳过奶瓶直接学杯子
+back:
+  why_matters: |
+    上一卡讲了 5 月后引奶瓶难,妈妈返岗压力又逼着必须让娃接受替代喂养。
+    海蒂提出折中方案:既然奶瓶推不进去,不如直接训练吸管杯/鸭嘴杯。娃 4-6 个月就能正式握杯,绕开奶瓶大战;且吸管杯跟成人杯一脉相承,1 岁后无需再戒。
+  what_to_do:
+    - 4 月起每天给空杯当玩具
+    - 装 30ml 水或母乳让娃试吸
+    - 选两个把手+防漏吸管款
+    - 妈妈在的时候母乳,出门时杯子
+    - 别强迫,接受度比奶瓶慢但稳
+  failure_mode: 既不练奶瓶也不练杯子,娃饿了只认乳房,妈妈被迫推迟返岗或冒着娃绝食的风险硬走。
+  evidence_level: B
+glossary_refs: [G-ABBR-EBF, G-TERM-mixed-feeding]
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors: ["Heidi Murkoff", "Sharon Mazel"]
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh: ["莫夏迪","张敏"]
+  location: "第 9 章 《第 5 个月》, 页 322-325, 357"
+  source_id: "SRC-040"
+related_cards: [C-S3-2246, C-S3-2257]
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

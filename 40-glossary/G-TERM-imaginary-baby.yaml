@@ -1,0 +1,90 @@
+glossary_id: G-TERM-imaginary-baby
+type: term
+display_name: 想象中的宝宝 (imaginary baby)
+
+full_name_zh: 想象中的宝宝
+full_name_en: Imaginary Baby
+
+one_liner: |
+  Brazelton 提出 — 怀孕期间父母心中构建的"理想宝宝"形象(完美的 / 有缺陷的 / 真实的三种)。实际宝宝出生后必有"心理调适"过程(理想 vs 真实差距)。意识到这一过程能帮父母接纳真实宝宝,减少产后抑郁。
+
+detail: |
+  ## 概念
+  Brazelton 临床观察:几乎所有准父母在孕期都会**幻想 3 个宝宝**:
+  1. **完美的宝宝**(idealized baby)— 我希望宝宝是这样
+  2. **有缺陷的宝宝**(feared baby)— 我害怕宝宝是这样(畸形 / 病 / 不会被爱)
+  3. **真实的宝宝**(realistic baby)— 介于两者之间,我能接受的
+
+  这不是"想多了" — Brazelton 认为是**心理预演的健康机制**,帮父母建立准备。
+
+  ## 为什么重要
+
+  ### 1. 出生后的"心理调适期"
+  实际宝宝 ≠ 任何想象中的宝宝。父母需要:
+  - 哀悼"完美宝宝"消失
+  - 接纳"真实宝宝"的样子(性别 / 长相 / 性格)
+  - 这个过程通常需要数周 — 是产后抑郁的常见诱因之一
+
+  ### 2. 高风险情境
+  - 性别期待不符(想要男孩生女孩 / 想要女孩生男孩)
+  - 长相不符(预期跟自己像 / 跟伴侣像)
+  - 性格不符(想象温和宝宝实际高敏感 — C-S1-084)
+  - 健康问题(早产 / 疾病 / 缺陷)— 哀悼"完美宝宝"过程更长
+
+  ### 3. 父母关系的健康标志
+  - **能区分 imaginary vs real baby** = 健康过程
+  - **持续把 real baby 当 imaginary baby** = 警告信号(可能投射 / 不接纳)
+  - 这是 Brazelton 临床判断"父母 - 宝宝关系"是否健康的早期信号
+
+  ## 父母实操含义
+
+  ### 孕期可做
+  - **承认有 imaginary baby** — 不是迷信,是健康心理预演
+  - **跟伴侣谈论各自的 imaginary baby** — 你们想象的可能很不同
+  - **不必"克服"对有缺陷宝宝的恐惧** — 命名 + 接纳就好
+  - **避免极度具体化**(强迫想象长相 / 性格)— 留给真实宝宝空间
+
+  ### 出生后可做
+  - **承认调适需要时间** — 不必立刻"无条件爱"
+  - **承认对真实宝宝的失落感** — 不是不爱,是哀悼想象
+  - **不强迫"母爱立刻爆发"** — 大多数妈妈是逐渐建立的(C-S1-077 Bonding 不是仪式)
+  - **跟伴侣 / 朋友 / 治疗师讨论调适过程**
+
+  ## 与产后抑郁的关系
+  - 持续无法接纳 real baby + 持续 idealized 期待 → 产后抑郁高风险
+  - C-S1-033 产后抑郁 + C-S1-076 妈妈崩溃都跟 imaginary baby 调适不顺有关
+  - 心理学干预的核心之一:帮妈妈"哀悼想象,拥抱真实"
+
+  ## 与中国家庭的张力
+  中国"完美孩子"叙事压力大:
+  - 老人期待"长得像谁 / 男孩 / 健康 / 听话"
+  - 社交媒体晒娃 = 强化"完美宝宝"标准
+  - 妈妈承担"生不出符合期待孩子"的隐性压力
+  - 这个文化背景下 imaginary baby 调适更难
+  - Brazelton 立场:**接纳真实宝宝是父母最重要的功课之一**
+
+key_facts:
+  - Brazelton 提出 — 孕期父母想象的 3 个宝宝(完美/有缺陷/真实)
+  - 出生后"心理调适期"是健康过程
+  - 持续把 real baby 当 imaginary baby = 警告信号
+  - 调适不顺 → 产后抑郁高风险
+  - 不必强迫"母爱立刻爆发" — 是逐渐建立的
+  - 中国"完美孩子"文化让调适更难
+
+related_glossary:
+  - G-PERSON-Brazelton
+  - G-TERM-postpartum-depression
+  - G-TERM-postpartum-blues
+
+related_cards:
+  - C-S0-002
+  - C-S1-078
+
+sources:
+  - source_id: SRC-010
+  - external: "Brazelton《Touchpoints: Birth to Three》+ Stern《The Birth of a Mother》"
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

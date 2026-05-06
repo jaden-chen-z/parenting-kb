@@ -1,0 +1,60 @@
+glossary_id: G-TERM-BFHI-10-steps
+type: term
+display_name: "BFHI 10 步骤"
+
+en_term: "Ten Steps to Successful Breastfeeding"
+zh_term: "BFHI 10 步骤"
+
+one_liner: |
+  BFHI 10 步:WHO+UNICEF 1991 提出 + 2018 修订的产院实操标准全部 10 步。
+
+detail: |
+  ## 完整 10 步(2018 修订)
+  关键管理程序(Critical Management Procedures):
+  - Step 1a: Comply fully with the International Code of Marketing of Breast-milk Substitutes
+  - Step 1b: Have a written infant feeding policy
+  - Step 1c: Establish ongoing monitoring and data management systems
+  - Step 2: Ensure staff have sufficient knowledge, competence and skills
+  
+  关键临床实践(Key Clinical Practices):
+  - Step 3: Discuss the importance and management of breastfeeding with pregnant women
+  - Step 4: Facilitate immediate skin-to-skin contact and support breastfeeding initiation
+  - Step 5: Support mothers to initiate and maintain breastfeeding
+  - Step 6: Do not provide breastfed newborns any food or fluids other than breast milk, unless medically indicated
+  - Step 7: Enable mothers and babies to remain together 24 hours a day (rooming-in)
+  - Step 8: Support mothers to recognize and respond to infant feeding cues
+  - Step 9: Counsel mothers on use and risks of bottles, teats, pacifiers
+  - Step 10: Coordinate discharge for ongoing community support
+  
+  ## 循证支持
+  '2016 年 58 项研究系统评述明确表明,遵守十步骤会影响出生后早期启动母乳喂养、纯母乳喂养和母乳喂养总时长'。
+  
+  ## 跟其他派关系
+  - 跟松田 SRC-024 反产院'3 小时定时 + 用枕头支奶瓶' 一致(BFHI 第 8/9 步)
+  - 跟 AAP 反馈喂养立场一致(第 8 步)
+  - 比 AAP/Karp 奶嘴立场更严(第 9 步)
+
+key_facts:
+  - "1991 启动 2018 修订"
+  - "关键管理 4 步 + 关键临床 7 步"
+  - "2016 年 58 项研究系统评述支持"
+
+related_glossary:
+  - G-ABBR-BFHI
+  - G-TERM-skin-to-skin
+  - G-TERM-rooming-in
+  - G-TERM-responsive-feeding
+
+related_cards:
+  - C-S1-1002
+  - C-S1-1003
+  - C-S1-1004
+  - C-S1-1005
+
+sources:
+  - source_id: SRC-031
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

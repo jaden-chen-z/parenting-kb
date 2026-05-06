@@ -1,0 +1,71 @@
+card_id: C-S6-1386
+stages: [S6]
+tags: [cultural, greenfield, toddler, lerner_v4, controversy]
+
+front:
+  title: 12-24 月独立 vs 互依
+  hook: 12-24 月文化分
+
+back:
+  why_matters: |
+    Greenfield V4 Ch 17(12-24mo 文化分化期)。
+    **12-24 月文化分化 4 大点**:
+    - **睡眠**:独立婴儿房(美式)vs 同睡(中/日/拉丁)
+    - **喂养**:固定时间瓶喂(美式)vs 按需 + 母乳(传统)
+    - **自主**:鼓励"自己来"(美式)vs 包办(传统)
+    - **社交**:跟陌生人友善(美式)vs 谨慎(传统)
+    **Greenfield 立场**:
+    - **没有"哪个对"**
+    - 各文化适应各社会
+    - **"自主独立"不一定优于"互依"**
+    - 都健康都有适应价值
+    **实证发现**:
+    - 同睡娃没有"依赖性"问题
+    - 包办 ≠ 不会自己来
+    - 12-24 月不必强行美式分床
+    - "delayed independence"不是发展问题
+    **移民家挑战**:
+    - 美国课程鼓励美式("自己穿衣")
+    - 中国家庭倾向互依
+    - 解决:**双文化能力**(看场景适应)
+    跟现库:跟 C-S0-1238 Greenfield 5 维度 + 松田同睡(SRC-024 §258)+ AAP 反同床(SRC-004)对接。
+    对中国家长意义:
+    - 12-24 月不必强行分床
+    - "自主"不必过早(美式压力)
+    - 互依跟独立都健康
+    - 移民家娃培养双文化
+  what_to_do:
+    - 12-24 月不必强分床
+    - 自主不必过早
+    - 互依不是依赖性
+    - 移民家培养双文化
+  failure_mode: |
+    "美式独立才现代"— 错。文化路径都健康。
+    "包办不利发展"— 错。看文化语境。
+    "延迟自主有问题"— 错。文化差异。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Greenfield
+  - G-TERM-cultural-pathways
+  - G-TERM-individualism-collectivism
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 4 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 4 卷"
+  authors: ['Patricia M. Greenfield', 'Lalita K. Suzuki', 'Carrie Rothstein-Fisch']
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 17 · Greenfield · Toddler 12-24mo cultural divergence · pp. 675-685"
+  source_id: SRC-029
+
+unit_ids: []
+related_cards:
+  - C-S0-1238     # Greenfield 5 维度
+  - C-S8-746     # V4 中美教育互依差
+  - C-S4-700     # 松田 §258 同睡
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,34 @@
+audit_dimension: 10_citation_verification
+sample_size_per_src: 3
+total_sampled: 75
+estimated_full_db_error_rate: 18% ± 4
+verdict: 没发现 P0 级硬错(无章节虚构/页码漂移 > 30 页)— 主要扣分是 citation 范式不统一(P2)
+breakdown_of_18pct:
+  - "11% (164 卡): SRC-027/030 Lerner V1+V3 用 chapter_offset 字节偏移无页码"
+  - "4.5% (65 卡): SRC-031 WHO 主题串无 doc_id 合集引用"
+  - "2-3% (~30 卡): SRC-014/016/017/018/019/022/025/026 部分多章无页 / 全书反复"
+critical_issues:
+  - {card_id: C-S8-328, src: SRC-027, issue: chapter 字段 'Ch 6 Caspi/Masten' 章主作者归属歧义, severity: P1}
+imprecise_locations:
+  - {src: SRC-026 Pikler, count: 6, pattern: "全书反复 / Ch X+Y 无页", severity: P1, note: 任务书已知}
+  - {src: SRC-019 Lansbury, count: ~10, pattern: Ch X 段标题无页(文集), severity: P2}
+  - {src: SRC-022 Gerber 深度, count: ~5, severity: P2}
+  - {src: SRC-014/016/017/018/025 部分, count: ~10, severity: P2}
+flagged_for_citation_suspect:
+  - {src: SRC-027 Lerner V3, cards: 69 全部, reason: chapter_offset 字节偏移无书页(notes 章节地图一致非错), severity: P2}
+  - {src: SRC-030 Lerner V1, cards: 95 全部, reason: 同上 chapter_offset, severity: P2}
+  - {src: SRC-031 WHO+UNICEF, cards: 65 全部, reason: 12 docs 合集主题串无 doc_id; 4 docs success_via_wikipedia 回退, severity: P2}
+  - {src: SRC-040 Heidi 部分, cards: 9, reason: 用 chapter + page_zh schema 变体而非 location(内容更精确,只是格式分裂), severity: P3}
+credibility_ranking:
+  A+: [SRC-010 Brazelton, SRC-021 Gerber, SRC-028 Lerner V2, SRC-029 Lerner V4, SRC-040 Heidi]
+  A: [SRC-003 Karp, SRC-009 鲍秀兰, SRC-011 Bowlby V1, SRC-012 Bowlby V2, SRC-013 WW, SRC-015 Gopnik, SRC-023/024 松田, SRC-026 Pikler 主流]
+  B: [SRC-004-008 AAP webpage 无页合理, SRC-014 Davies, SRC-016 Lillard, SRC-017 Bowlby V3, SRC-018 Stern, SRC-019 Lansbury, SRC-022 Gerber 深度, SRC-025 NRC]
+  C: [SRC-027 Lerner V3 字节偏移, SRC-030 Lerner V1 字节偏移, SRC-031 WHO 主题串]
+notes: |
+  没发现 P0 级硬错。
+  主要修复方向:
+  1. SRC-027/030 加 page_pdf 字段(从 chapter_offset 反查)~164 张
+  2. SRC-031 加 doc_id 引用(D1-D12) + section/§ ~65 张
+  3. SRC-026 6 张 "全书反复" 卡补具体页(用户已知)
+  4. WebFetch 失败回退 wikipedia 的 4 docs ~20 张子集需 doc_id 标注
+  审计员不动卡 — citation 修复需原书原稿,仅标注 citation_suspect。

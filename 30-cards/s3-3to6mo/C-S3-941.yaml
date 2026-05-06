@@ -1,0 +1,49 @@
+card_id: C-S3-941
+stages: [S3]
+tags: [kagan, 4mo_reactivity, prediction, lerner_v3]
+
+front:
+  title: "4 月反应预测 14 月"
+  hook: "4 月响声预测怕生"
+
+back:
+  why_matters: |
+    Kagan(Ch 4)经典实验 — 4 月对响声/新刺激高反应的婴儿,14 月有 60%-70% 表现抑制型(怕生)。
+    生物机制 — 杏仁核敏感度从出生就有。这是气质生物根据的最强证据之一。
+    一句话 — 4 月对气球突然放气吓得大哭的娃,1 岁后大概率怕陌生人。
+  what_to_do:
+    - "4 月观察响声反应记录"
+    - "怕生苗头早就降低家中突然性"
+    - "陌生人来 1 小时前预告"
+    - "保护他不被突然介入(亲戚强抱)"
+    - "渐进暴露不要试图脱敏"
+  failure_mode: |
+    觉得 4 月就反应大是早期娇气,强迫脱敏(强抱给陌生人)。
+    Kagan — 强迫激活更高反应,反而强化怕生。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Kagan
+  - G-TERM-inhibited-temperament
+  - G-TERM-amygdala
+  - G-TERM-reactivity
+
+related_cards:
+  - C-S3-805      # Shonkoff 3 月前测气质太早
+  - C-S3-553      # 松田见生人哭天性
+  - C-S3-296      # Lansbury Tell Before
+  - C-S2-938      # Lerner Kagan 抑制
+
+citation:
+  source_id: SRC-027
+  source_title: "Handbook of Child Psychology Vol 3"
+  chapter: "Ch 4 Kagan & Fox — Prediction"
+  chapter_offset: 990178
+  chapter_title: 'Kagan & Fox — 生物 + 文化 + 气质偏倚'
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_followup_needed: 'SRC-027 用 PDF 字节偏移代页码 — 待加 page_pdf 反查工具'

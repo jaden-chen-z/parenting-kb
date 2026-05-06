@@ -1,0 +1,82 @@
+card_id: C-S6-396
+stages: [S6]
+tags: [discipline, RIE, lansbury]
+
+front:
+  title: "限度语调:像 CEO 不像辩论家"
+  hook: "自信简短而不焦虑"
+
+back:
+  why_matters: |
+    Lansbury Ch22 的标志性教导:
+    设限度的失败 = 用问句 / 不确定 / 焦虑语调。
+    "不要这样好不好?"(求允许)→ 孩子学到"妈妈也不确定"。
+    Lansbury 比喻:像成功 CEO 纠正下属,
+    自信、简短、不情绪、不解释长。
+    "我不让你扔球到我脸上" + 用手挡 = CEO 风格。
+    孩子需要感觉:大人完全不被这行为吓到。
+
+  what_to_do:
+    - 用陈述句不用问句:"我不让你..."
+    - 不长篇讲道理 / 不预言后果
+    - 不情绪激动 / 不威胁 / 不喊
+    - 用"我"语第一人称(不"妈妈不喜欢")
+    - 立即 + 当下 + 一句话搞定
+
+  failure_mode: |
+    "你这样做妈妈会伤心好不好?" → 孩子学到"我能控制大人情绪"。
+    或反向:大吼训斥 → 孩子学到"恐惧"不是"规则"。
+    Lansbury:CEO 不焦虑、不哀求、不威胁,只是清楚执行。
+
+  evidence_level: B
+
+  positions:
+    issue: 3 岁孩子的体罚边界 · 大发雷霆体罚 vs 瞬间危险打手
+    views:
+      - school: 松田道雄
+        source: SRC-024
+        stance: 大发雷霆体罚是错的;但孩子做危险动作(冲马路、玩刀具)时瞬间打手作为警告有效。立场分情境。
+      - school: Lansbury / RIE
+        source: SRC-019
+        stance: 温柔而坚定的限度,完全不打。任何体罚(包括瞬间打手)都破坏信任与自我调节学习。
+      - school: Bowlby
+        source: SRC-011
+        stance: secure attachment 派完全反对体罚;依恋安全是学龄前儿童最优先的发育基础。
+      - school: AAP
+        source: SRC-004
+        stance: 完全反对体罚 — 2018 政策声明明确指出体罚对儿童心理发展有害,无任何益处。
+      - school: Shonkoff / NRC
+        source: SRC-025
+        stance: 完全反体罚 — cortisol 累积损伤前额叶皮层(PFC),与儿童反社会行为正相关。
+      - school: 鲍秀兰
+        source: SRC-009
+        stance: 反对打孩子,主张正面管教;在中国本土实证派中是少有的明确反体罚立场。
+      - school: 海蒂
+        source: SRC-040
+        stance: 管教 ≠ 体罚 — 10 月起步用其他管教法。美国主流大众派背书,降低中国家长"反体罚 = 西式精英"偏见。
+      - school: 中国传统
+        stance: '"棍棒底下出孝子" / "不打不成器" — 体罚被视为负责任管教的一部分。'
+glossary_refs:
+  - G-PERSON-Lansbury
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+
+citation:
+  book_title_en: "Elevating Child Care: A Guide to Respectful Parenting"
+  book_title_zh: "尊重孩子:RIE 育儿之道"
+  authors:
+    - Janet Lansbury
+  publisher_en: JLML Press
+  year: 2014
+  location: "Ch22 No Bad Kids — Rule 3: Respond like a CEO"
+  source_id: SRC-019
+
+unit_ids: []
+related_cards:
+  - C-S6-192  # Lillard No 永远是 No
+  - C-S6-133  # Davies 温柔边界
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

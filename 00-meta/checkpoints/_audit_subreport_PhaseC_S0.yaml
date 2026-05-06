@@ -1,0 +1,32 @@
+stage: S0
+total_cards_in_stage: 138
+key_findings:
+  L1_cross_source_dedups:
+    - {topic: Bronfenbrenner 5 系统模型, cards: [C-S0-727, C-S0-1500, C-S0-1501, C-S0-1502], keeper: C-S0-1500, action: 727 V3 + 1500 V1 同模型同人,跨卷重复}
+    - {topic: 反基因决定论, cards: [C-S0-621, C-S0-1503, C-S0-1504, C-S0-1505, C-S0-1535], keeper: C-S0-1503, action: NRC vs V1 同核}
+    - {topic: 反关键期/可塑性, cards: [C-S0-619, C-S0-1513, C-S0-1514, C-S0-115], keeper: C-S0-619, action: NRC + V1 同核}
+    - {topic: Thelen 动态系统过度切片, cards: [C-S0-1508, C-S0-1509, C-S0-1510, C-S0-1511, C-S0-1542, C-S0-1545], keeper: C-S0-1508, action: V1 Ch6 一章拆 6 张主张相近}
+  L2_待拍板:
+    - {topic: RIE 派完美主义群, cards: [C-S0-115, C-S0-116, C-S0-168, C-S0-316, C-S0-167], keeper: C-S0-168}
+    - {topic: 文化多元 V1 vs V4, cards: [C-S0-1231, C-S0-1238, C-S0-1524, C-S0-1525, C-S0-1546]}
+    - {topic: 情绪 > IQ V3, cards: [C-S0-723, C-S0-725, C-S0-726]}
+    - {topic: 元理论 4 张, cards: [C-S0-1125, C-S0-1126, C-S0-1536, C-S0-1537]}
+    - {topic: 母乳决定权衡, cards: [C-S0-005, C-S0-369, C-S0-2056, C-S0-2057, C-S0-2058]}
+  L3_保留互链:
+    - {topic: 触点+产前医生选择, cards: [C-S0-001, C-S0-007, C-S0-2054, C-S0-2055]}
+    - {topic: 头几周父母-亲友老人边界, cards: [C-S0-014, C-S0-2062, C-S0-003, C-S0-317, C-S0-169]}
+    - {topic: WHO/BFHI 国际共识, cards: [C-S0-1024, C-S0-1025, C-S0-1026, C-S0-1027, C-S0-1028]}
+    - {topic: Stern 反新生儿混沌, cards: [C-S0-015, C-S0-016, C-S0-017, C-S0-018]}
+    - {topic: 父亲产后投入, cards: [C-S0-014, C-S0-368, C-S0-2058, C-S0-2167, C-S0-2168, C-S0-518, C-S0-2154]}
+hotspot_findings:
+  Gerber_021_vs_022_S0段: RIE 派完美主义 5 张同核(316/317/167/168/169 + 116)
+  Matsuda_023_vs_024_S0段: 内部主题分散无重复
+  Lerner_V1-V4_cross: 727+1500 + 621+1503 + 1514+619 = 3 对 L1 跨卷同核
+  NRC × Lerner_V1: 622 NRC 6 铁律是综述层 keeper,621/1503 + 619/1514 跨源 L1
+  Stern × Bowlby × Brazelton: S0 段 Stern 4 张内部互补,017 已是显式跨派整合
+notes: |
+  S0 共 138 卡(原估 106 偏低)。
+  最大问题:Lerner V1(SRC-030)49 张 + V4 14 张跨章过度切片 — Thelen Ch6 一章拆 6 张同核卡;Bronfenbrenner Ch14 拆 3 张。
+  L1 跨源合并 4 大簇 — 是 S0 最大优化空间。
+  L2 待拍板 5 簇(RIE 完美主义/文化多元/EQ>IQ/元理论/母乳决定权衡)。
+  总体建议:考虑给元理论卡加 universal/all-stages 标签,让 S0 不被元层撑爆(目前 ~40 张元理论)。

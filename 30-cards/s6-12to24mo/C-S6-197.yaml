@@ -1,0 +1,74 @@
+card_id: C-S6-197
+stages: [S6]
+tags: [philosophy, controversy, 跨源-consensus]
+
+front:
+  title: 如厕训练 4 派时机 + 中国把屎把尿
+  hook: 9 月 / 12-18 月 / 18-36 月 / 弹性
+
+back:
+  why_matters: |
+    AAP 立场:"看孩子准备信号(18-36 月窗口)";
+    Lillard 蒙氏激进主张 12-18 月敏感期早开始;
+    鲍秀兰中文传统 9 月起坐盆(C-S5-012);
+    Brazelton 弹性等孩子主动(C-S7-018);
+    中国把屎把尿是另一传统(家长接屎接尿,孩子被动)。
+    你选哪派,关系到接下来 1-2 年家庭压力 vs 孩子发育节奏的权衡。
+    **生理基础**:括约肌神经控制大约 18-24 月成熟,这是 AAP 立场的依据;
+    Lillard 反对"等成熟",主张 12-18 月敏感期 + 父母引导。
+  what_to_do:
+    - "**看月龄选起点**:12-18 月可试 Lillard 法(高家长投入,需大量观察)"
+    - "**18-24 月**:看主流 AAP / Brazelton 法(等孩子主动信号)"
+    - "**24 月+ 未训**:鲍秀兰 25-30 月用语言表达(C-S7-007)"
+    - "**判断准备好 6 信号**:能稳走 + 干尿布 ≥2h + 能拉裤 + 沟通便意 + 模仿 + 想穿大孩子内裤"
+    - "**避免**:中国把屎把尿(强行 9 月接屎接尿)— 孩子被动,缺真正自主认识"
+  failure_mode: |
+    把训练看成"早 = 优",忽略孩子主动信号 → 抗拒 + 反弹;
+    30 月还赖纸尿裤 → 问医生(可能感觉处理 / 焦虑);
+    强压 → 便秘 + 便循环 → 终身排便障碍;
+    家长焦虑 → 孩子感知压力 → 倒退。
+  evidence_level: A
+
+glossary_refs:
+  - G-TERM-toilet-training
+  - G-TERM-sensitive-periods
+  - G-PERSON-Lillard
+  - G-PERSON-Bao
+  - G-PERSON-Brazelton
+  - G-ABBR-AAP
+
+citation:
+  cross_source: true
+  primary_source_id: META-CROSS
+  cross_sources:
+    - source_id: SRC-009
+      anchor_card: C-S5-012
+      stance: 9-10 月坐盆 + 25-30 月真训(中文传统 + 鲍秀兰)
+    - source_id: SRC-010
+      anchor_card: C-S7-018
+      stance: 24 月+ 弹性,孩子主导(toilet learning 不叫 training)
+    - source_id: SRC-016
+      anchor_card: C-S6-189
+      stance: 12-18 月敏感期 + 反纸尿裤(蒙氏 Lillard 反潮流)
+    - source_id: SRC-007
+      anchor_card: META
+      stance: AAP 18-36 月,看准备信号(主流)
+  location: META · S6 跨派对照导航卡 · 跨段(连接 S5/S6/S7)
+
+unit_ids: []
+related_cards:
+  - C-S5-012       # 鲍秀兰 9 月坐盆(中文传统)
+  - C-S6-189       # Lillard 12-18 月敏感期
+  - C-S6-190       # Lillard sauna 反纸尿裤
+  - C-S7-007       # 鲍秀兰 25-30 月用语言
+  - C-S7-018       # Brazelton 24 月+ 弹性
+
+navigation_role: |
+  跨段 hub 卡(S5+S6+S7),如厕训练是中国家长 1-3 岁第二大焦虑(仅次于发脾气)。
+  4 派 + 中国传统 5 套时机标准,父母最易迷茫,本卡是必备导航。
+  P0 优先级:中国家长入园前压力极大(很多幼儿园要求 3 岁前必须戒纸尿裤)。
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

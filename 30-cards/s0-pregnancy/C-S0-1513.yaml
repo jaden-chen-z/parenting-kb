@@ -1,0 +1,55 @@
+card_id: C-S0-1513
+stages: ['S0']
+tags: ['philosophy', 'lerner_v1', 'baltes', 'lifespan', 'foundational']
+
+front:
+  title: "一辈子可塑发展"
+  hook: "老了也能再发展啊"
+
+back:
+  why_matters: |
+    Baltes / Lindenberger / Staudinger(Lerner V1 Ch 11)给 lifespan theory —
+    反早期决定论,主张人一辈子都在发展(包括老年)。
+    核心命题 —
+    - 可塑性持续到死(只是程度变低)
+    - 不同领域峰值不同(认知速度 25 岁峰 / 智慧 50+ 岁峰)
+    - 老年也有发展(SOC 策略让能力维持)
+    意义 — 中国家长 "0-3 岁是关键期" 焦虑论是过度简化。
+    Baltes 数据:0-3 岁重要但不是"过了就没了"。30 岁 / 50 岁 / 70 岁都还在发展。
+    意义 — 父母不必"赌上前 3 年" — 全程都重要,后期补救空间大。
+  what_to_do:
+    - "0-3 岁重要但不是唯一关键期"
+    - "错过早期窗口不绝望(后续可补)"
+    - "父母自己也在发展(育儿是双向)"
+    - "老人也在发展(陪老人也是育儿)"
+    - "一辈子框架取代关键期框架"
+  failure_mode: |
+    "过了 0-3 就晚了" 立场 — 错。Baltes 综述明确反对。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Baltes
+  - G-PERSON-Lindenberger
+  - G-PERSON-Staudinger
+  - G-TERM-lifespan-theory
+  - G-TERM-plasticity
+
+related_cards:
+  - C-S0-1503
+  - C-S0-1500
+  - C-S0-722
+  - C-S0-115
+
+citation:
+  source_id: SRC-030
+  source_title: "Handbook of Child Psychology Vol 1: Theoretical Models of Human Development"
+  chapter: "Ch 11 Lifespan Theory (Baltes / Lindenberger / Staudinger)"
+  chapter_offset: 3025000
+  chapter_title: 'Baltes / Lindenberger / Staudinger — Lifespan Theory'
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_followup_needed: 'SRC-030 用 PDF 字节偏移代页码 — 待加 page_pdf 反查工具'

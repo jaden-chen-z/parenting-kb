@@ -1,0 +1,261 @@
+source_id: SRC-019
+total_cards: 43
+intrinsic_issues:
+  - card_id: C-S1-352
+    issue_type: wrong_evidence_level
+    severity: P0
+    detail: 把新生儿当完整的人 — RIE 'whole person' 流派哲学,标 A 不当
+    suggested_fix: 降为 C
+  - card_id: C-S2-290
+    issue_type: wrong_evidence_level
+    severity: P1
+    detail: 不撑坐 Pikler 临床观察单源 + AAP 无禁令,标 A 不当
+    suggested_fix: 降为 B
+  - card_id: C-S3-295
+    issue_type: wrong_evidence_level
+    severity: P1
+    detail: 被动玩具 + 主动孩子是流派内共识非循证医学共识
+    suggested_fix: 降为 B
+  - card_id: C-S3-297
+    issue_type: wrong_evidence_level
+    severity: P1
+    detail: Yes space 是 RIE 概念,无 RCT 支撑
+    suggested_fix: 降为 B
+  - card_id: C-S3-299
+    issue_type: wrong_evidence_level
+    severity: P1
+    detail: Lansbury 千+案例是个人临床观察 ≠ A 级
+    suggested_fix: 降为 B
+  - card_id: C-S4-295
+    issue_type: wrong_evidence_level
+    severity: P1
+    detail: Wait 魔法词,Piaget 是模糊论断
+    suggested_fix: 降为 B
+  - card_id: C-S4-298
+    issue_type: wrong_evidence_level
+    severity: P0
+    detail: dependent vs helpless 是 RIE 哲学命名,非循证
+    suggested_fix: 降为 C
+  - card_id: C-S6-395
+    issue_type: wrong_evidence_level
+    severity: P0
+    detail: Sportscasting Magda 独家命名,RIE 派最特有
+    suggested_fix: 降为 C
+  - card_id: C-S6-396
+    issue_type: wrong_evidence_level
+    severity: P1
+    detail: CEO 语调是 Lansbury 教导 + 比喻
+    suggested_fix: 降为 B
+  - card_id: C-S6-397
+    issue_type: wrong_evidence_level
+    severity: P1
+    detail: 我不让你公式是 RIE 标志性话术,流派独家
+    suggested_fix: 降为 B 或 C
+  - card_id: C-S6-401
+    issue_type: wrong_evidence_level
+    severity: P1
+    detail: 不替孩子拧瓶盖 Jenna 故事是 Lansbury 个人轶事
+    suggested_fix: 降为 B
+  - card_id: C-S6-402
+    issue_type: wrong_evidence_level
+    severity: P1
+    detail: Wait 12 用法是 Lansbury 总结 Magda 的清单
+    suggested_fix: 降为 B 或 C
+  - card_id: C-S6-405
+    issue_type: wrong_evidence_level
+    severity: P1
+    detail: Lansbury 反 motherese / 反 3 万词与主流语言研究有张力
+    suggested_fix: 降为 B
+  - card_id: C-S7-347
+    issue_type: wrong_evidence_level
+    severity: P1
+    detail: 让孩子对你生气是 Lansbury 个人经历叙事
+    suggested_fix: 降为 B 或 C
+  - card_id: C-S7-348
+    issue_type: wrong_evidence_level
+    severity: P1
+    detail: 4 原因吼是 Lansbury 自我帮助框架
+    suggested_fix: 降为 B
+  - card_id: C-S7-350
+    issue_type: wrong_evidence_level
+    severity: P1
+    detail: 永远不替孩子画引 Bev Bos + Lansbury 自家轶事
+    suggested_fix: 降为 B
+  - card_id: C-S6-398
+    issue_type: wrong_evidence_level
+    severity: P2
+    detail: 反打 A 合理(Park 综述);反 time-out 是 RIE 立场
+    suggested_fix: 拆分或降为 B
+  - card_id: C-S2-291
+    issue_type: missing_glossary_refs
+    severity: P1
+    detail: 正文 'Sears 派' + 'Stern 自我感发展',glossary_refs 缺
+    suggested_fix: 补 G-PERSON-Stern;建 G-PERSON-Sears
+  - card_id: C-S0-116
+    issue_type: missing_glossary_refs
+    severity: P2
+    detail: 'Stern + Pikler 共识' Stern 缺 G-ref
+    suggested_fix: 补 G-PERSON-Stern
+  - card_id: C-S2-293
+    issue_type: missing_glossary_refs
+    severity: P2
+    detail: 'Stern + Pikler 共识' Stern 缺
+    suggested_fix: 补 G-PERSON-Stern
+  - card_id: C-S4-298
+    issue_type: missing_glossary_refs
+    severity: P1
+    detail: 'Sears 派' 出现,无 G-PERSON-Sears
+    suggested_fix: 建 G-PERSON-Sears 术语卡
+  - card_id: C-S4-295
+    issue_type: missing_glossary_refs
+    severity: P2
+    detail: 引 Piaget,glossary_refs 无 G-PERSON-Piaget
+    suggested_fix: 补 G-PERSON-Piaget
+  - card_id: C-S5-391
+    issue_type: missing_citation_field
+    severity: P2
+    detail: 正文引 Isselmann 研究但 citation 仅 Lansbury 章节
+    suggested_fix: location 注明 Lansbury 引 Isselmann
+  - card_id: C-S6-398
+    issue_type: missing_citation_field
+    severity: P2
+    detail: Park 综述引研究,citation 无二级引用
+    suggested_fix: location 注明 Lansbury 引 Park
+  - card_id: C-S6-406
+    issue_type: missing_glossary_refs
+    severity: P1
+    detail: 引 'AAP 2016' + 'Jane Healy 《Endangered Minds》' 缺 glossary_refs
+    suggested_fix: 补 G-ABBR-AAP;考虑建 G-PERSON-Healy
+  - card_id: C-S7-350
+    issue_type: missing_glossary_refs
+    severity: P2
+    detail: 引 Bev Bos,无 G-PERSON-Bos
+    suggested_fix: 建 G-PERSON-Bos
+  - card_id: C-S5-393
+    issue_type: missing_glossary_refs
+    severity: P2
+    detail: glossary_refs 列 Bowlby 但正文没出现 — 字段定义错用
+    suggested_fix: 去掉 G-PERSON-Bowlby
+  - card_id: C-S4-297
+    issue_type: missing_glossary_refs
+    severity: P2
+    detail: 同上,glossary_refs 列 Bowlby 但正文未出现
+    suggested_fix: 去掉 G-PERSON-Bowlby
+  - card_id: C-S6-404
+    issue_type: inline_glossary
+    severity: P2
+    detail: 'party hat' / 'professional hat' 英文嵌入无中文对照
+    suggested_fix: 改"派对帽 / 专业帽"或建 G-TERM-two-hats
+  - card_id: C-S6-401
+    issue_type: inline_glossary
+    severity: P2
+    detail: 'audience' / 'actor' / 'social gesture' 英文嵌入
+    suggested_fix: 中文化 + 英文括注
+  - card_id: C-S2-292
+    issue_type: inline_glossary
+    severity: P2
+    detail: 'fully present' / 'physically present' 整段英文短语
+    suggested_fix: 改 '全心在场' / '人在心不在'
+  - card_id: C-S3-296
+    issue_type: inline_glossary
+    severity: P2
+    detail: 'perfect actually' 英文短语意义不明
+    suggested_fix: 改'已经够了'或删除
+  - card_id: C-S6-399
+    issue_type: inline_glossary
+    severity: P2
+    detail: 'share' / 'mine' / 'ownership' 关键概念用英文
+    suggested_fix: 首次出现加中文括注
+  - card_id: C-S7-348
+    issue_type: inline_glossary
+    severity: P2
+    detail: 'capable' / 'helpless' 关键 RIE 词用英文
+    suggested_fix: 中文化或建 G-TERM-capable-vs-helpless
+  - card_id: C-S6-406
+    issue_type: broken_related_ref
+    severity: P2
+    detail: related_cards 列 'C-S5-019 # 鲍秀兰相关 (如适用)' 占位
+    suggested_fix: 核对 C-S5-019 真实主题
+  - card_id: C-S6-407
+    issue_type: broken_related_ref
+    severity: P2
+    detail: related_cards 列 'C-S6-001 # 鲍秀兰儿保' 需核对
+    suggested_fix: 核对 C-S6-001 主题
+  - card_id: C-S5-393
+    issue_type: hook_descriptive
+    severity: P2
+    detail: hook '独立感是练出来的' 偏论断
+    suggested_fix: 改'粘人 = 独立的拉锯'
+  - card_id: C-S6-398
+    issue_type: hook_descriptive
+    severity: P2
+    detail: hook 引语片段 + time-out 在中文里没对应
+    suggested_fix: 改'罚站不解决问题,只制造怕'
+  - card_id: C-S2-291
+    issue_type: hook_descriptive
+    severity: P2
+    detail: hook '独立种子比依赖更珍贵' 学究 + 比较句
+    suggested_fix: 改'看天花板也是在长本事'
+  - card_id: C-S6-395
+    issue_type: hook_descriptive
+    severity: P2
+    detail: hook '只看不评判不修复' 描述动作非钩子
+    suggested_fix: 改'不当法官当解说员'
+  - card_id: C-S5-394
+    issue_type: tag_misuse
+    severity: P2
+    detail: tags 含 'emotion' 但主题是 'play 是孩子的自我治疗'
+    suggested_fix: 改 [play, self-regulation, RIE]
+  - card_id: C-S6-400
+    issue_type: tag_misuse
+    severity: P2
+    detail: tags 含 'discipline' 但本卡是'如厕不训练'
+    suggested_fix: 改 [potty, autonomy, RIE, controversy]
+  - card_id: C-S2-290
+    issue_type: xueque_tone
+    severity: P2
+    detail: '损害脊椎曲线 + 髋关节灵活性' 病理化语言
+    suggested_fix: 改'可能压伤脊椎 + 髋关节没张开'
+intra_source_dedups:
+  - cluster: [C-S6-396, C-S6-397]
+    level: L3
+    action: mutual_link
+    keeper: C-S6-397
+    reason: CEO 语调 + 我不让你公式,Ch22 同 Rule 3 区块,可合并或差异化
+  - cluster: [C-S7-348, C-S7-349]
+    level: L2
+    action: merge_candidate
+    keeper: C-S7-348
+    reason: C-S7-349 是 348 #1'你不照顾自己'的展开,可压缩
+  - cluster: [C-S4-295, C-S6-401, C-S6-402]
+    level: L4
+    action: mutual_link
+    keeper: C-S6-402
+    reason: wait 概览 → 案例 → 清单,层次分明,保留全部
+  - cluster: [C-S1-354, C-S3-299, C-S6-403, C-S7-347]
+    level: L4
+    action: mutual_link
+    keeper: C-S3-299
+    reason: 情绪承认主题群 4 张,不同段不同场景,保留
+  - cluster: [C-S2-291, C-S3-296, C-S3-298]
+    level: L4
+    action: mutual_link
+    reason: 独处/不主导/发呆,角度不同,保留
+  - cluster: [C-S5-390, C-S5-391, C-S5-392]
+    level: L4
+    action: mutual_link
+    reason: 喂养主题三张:家具/量/专注度,保留
+totals_per_issue:
+  wrong_evidence_level: 17
+  missing_glossary_refs: 9
+  inline_glossary: 6
+  broken_related_ref: 2
+  hook_descriptive: 4
+  missing_citation_field: 2
+  tag_misuse: 2
+  xueque_tone: 1
+notes: |
+  最严重:evidence_level 通胀 17/43(40%)。Lansbury RIE 流派典型,大部分论断是流派哲学/独家命名/个人轶事,应主要落 B 或 C。
+  glossary_refs 误用:有 2 张把'未在正文出现的 Bowlby'列入(混淆 glossary_refs 与 related_cards)。
+  inline_glossary:Lansbury 英文专业词使用频繁(sportscasting/yes space/wait/capable vs helpless 等),部分已建术语卡其余建议批量评估。
+  C-S6-407/406 的'鲍秀兰相关'占位需核实。

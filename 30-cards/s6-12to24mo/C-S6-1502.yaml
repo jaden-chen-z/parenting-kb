@@ -1,0 +1,50 @@
+card_id: C-S6-1502
+stages: ['S6']
+tags: ['cognitive', 'lerner_v1', 'fischer', 'skill_levels']
+
+front:
+  title: "能力分 13 层不 4 阶段"
+  hook: "细颗粒度看发展期"
+
+back:
+  why_matters: |
+    Fischer 给 13 层级 (level) 技能模型 — 比 Piaget 4 阶段细致 10 倍 —
+    每一层有具体 cognitive 操作,每隔 4-6 个月经历一次重组。
+    1-2 岁这个段对应 Fischer 第 5-7 层(感知运动 → 单体表征 → 表征关系)。
+    意义 — 你看到 18 月娃"突然"会用 2 字句(妈妈抱)是 level 6 → 7 的重组涌现。
+    中国家长意义 — 不要拿"15 月该会 X"焦虑,Fischer 数据:同月龄 level 差异可达 2 个层级。
+    关键不是月龄,是孩子在自己路径上的层级位置 + 情境支持质量。
+  what_to_do:
+    - "不焦虑'该会 X 月龄'"
+    - "看孩子当前能力 level(13 层中第几)"
+    - "高情境支持(陪 / 引导)能让 level 提前显现"
+    - "低情境(独自 / 无引导)level 表现退后属正常"
+    - "路径 > 月龄"
+  failure_mode: |
+    月龄表焦虑 — 错。Fischer 数据:同月龄差异巨大。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Fischer-K
+  - G-TERM-dynamic-skill-theory
+  - G-TERM-skill-levels
+
+related_cards:
+  - C-S0-1512
+  - C-S2-1504
+  - C-S6-1064
+  - C-S6-1066
+
+citation:
+  source_id: SRC-030
+  source_title: "Handbook of Child Psychology Vol 1: Theoretical Models of Human Development"
+  chapter: "Ch 7 Fischer & Bidell"
+  chapter_offset: 1715469
+  chapter_title: 'Fischer & Bidell — Dynamic Skill Theory'
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_followup_needed: 'SRC-030 用 PDF 字节偏移代页码 — 待加 page_pdf 反查工具'

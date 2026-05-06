@@ -1,0 +1,70 @@
+card_id: C-S4-1052
+stages: [S4]
+tags: []
+
+front:
+  title: "WHO 图 vs CDC 图"
+  hook: "母乳基线vs配方基线"
+
+back:
+  why_matters: |
+    WHO Child Growth Standards 2006 vs CDC 2000 Growth Charts 关键区别:
+    WHO 2006:
+    - 6 国 MGRS 研究(巴西/加纳/印度/挪威/阿曼/美国)
+    - 母乳喂养 + 持续 ≥ 12 月样本
+    - '应该长成什么样'(prescriptive)
+    CDC 2000:
+    - 美国数据(以配方喂养为主)
+    - '实际长成什么样'(descriptive)
+    结果差异:
+    - 母乳娃在 CDC 图上偏轻 — 不是不健康,是基线不对
+    - 配方娃 6-12 月在 WHO 图上偏重 — 配方喂养可能过喂中国卫健委 2018 起逐步采用 WHO 标准。
+  what_to_do:
+    - "母乳娃 → 看 WHO 图(2006 母乳基线)"
+    - "配方娃 → 也看 WHO 图(标准更稳)"
+    - "CDC 图上偏轻不是不健康 — 基线不对"
+    - "看曲线趋势(自己的轨迹)而不是百分位"
+    - "中国新版生长图采 WHO 标准"
+  failure_mode: |
+    母乳娃看 CDC 图觉得 '偏轻要加奶粉' → 错的(基线不一致)。
+    看 WHO 图,看自己曲线趋势。
+  evidence_level: A
+
+  positions:
+    issue: 婴儿生长曲线基线 — WHO 2006 母乳 vs CDC 2000 配方
+    views:
+      - school: WHO Growth Standards 2006
+        source: SRC-031
+        stance: 6 国 MGRS 母乳样本(prescriptive — 'should grow like this');反映理想生长。
+      - school: CDC 2000 / AAP
+        source: SRC-002/006
+        stance: 美国数据,以配方喂养为主(descriptive — '实际长成什么样');反映平均现况。
+      - school: 中国实操
+        stance: 卫健委 2018 起逐步采用 WHO,但部分医院仍用 CDC 老图 → 母乳娃在 CDC 图常 P25,被误判加奶粉,母乳量降。
+glossary_refs:
+  - G-TERM-WHO-growth-standards
+  - G-ABBR-EBF
+
+citation:
+  page_title: "WHO Child Growth Standards 2006 vs CDC 2000"
+  publisher: "World Health Organization & UNICEF"
+  page_url_primary: https://www.who.int/tools/child-growth-standards
+  accessed: 2026-05-04
+  language: en
+  location: "WHO 母乳基线(prescriptive) vs CDC 配方基线(descriptive)"
+  source_id: SRC-031
+
+unit_ids: []
+related_cards:
+  - C-S0-1024
+  - C-S4-1052
+  - C-S4-1053
+  - C-S4-001
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_doc_id_pending: D5
+citation_followup_needed: '已映射真实 doc_id (D5 = WHO Child Growth Standards 2006)'

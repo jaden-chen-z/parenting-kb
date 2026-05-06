@@ -1,0 +1,83 @@
+glossary_id: G-TERM-categorical-perception
+type: term
+display_name: 类别感知 (categorical perception)
+
+full_name_zh: 类别感知 / 范畴感知
+full_name_en: Categorical Perception
+
+one_liner: |
+  大脑听音不是"线性灰阶",是"离散黑白" — Kuhl 经典发现。
+  R 渐变到 L,听到的不是渐变,是"突然 R 跳到 L"。这是知觉重组的机制。
+
+detail: |
+  ## 定义
+  大脑不按物理声波连续度听音,而是**自动分类**:
+  - 同类音(都是 R)— 听不出物理差别
+  - 跨类音(R / L)— 觉得"完全不同"
+  - 中间渐变 — **不存在**(只有"突然跳变")
+
+  这是 perceptual narrowing(知觉重组)的认知机制。
+
+  ## Kuhl 经典演示
+  - 用电脑合成器把 R 音**逐渐**渐变到 L 音(每步只差一点物理参数)
+  - 给成人听:中间渐变阶段听不出 — 突然某一步**"啪"变 L**
+  - 成人不能"听到中间过渡"
+  - 这是大脑分类的产物,不是耳朵限制
+
+  ## 跨语言差异
+  | 语言 | b/p 类别 | r/l 类别 |
+  |---|---|---|
+  | 英语 | 2 类(b vs p)| 2 类(r vs l)|
+  | 西班牙 / 法语 | 2 类(切的位置不同)| 1 类(听不出 r/l 区别)|
+  | 泰语 | 3 类 | — |
+  | 日语 | 2 类(切的位置不同)| 1 类(听不出 r/l 区别)|
+
+  ## 后果:成人听不到外语
+
+  Pat Kuhl 在东京演示:
+  - 对日本同事大声 rake / lake / rake / lake
+  - 日本同事**真听不出**任何区别
+  - 不是"听到了忽略",是大脑分类回路根本没把它们分开
+
+  这就是为什么成人学外语永有口音 — 分类回路已硬化。
+
+  ## 跟 perceptual narrowing 关系
+  - **Perceptual Narrowing**:**现象**(6-12 月失去外语音素辨别)
+  - **Categorical Perception**:**机制**(大脑离散分类的工作方式)
+
+  二者是同一回事的不同抽象层 — 现象是宏观,机制是微观。
+
+  ## 中国家长意义
+  - 中文家长理解"成人学外语口音"的根 — 不是天分,是分类回路硬化
+  - 0-12 月真人多语暴露 → 大脑保留多套分类回路
+  - 6 月后某些音素分界已硬化,补救难
+  - 不必焦虑"宝宝听不懂复杂音素" — 他听得清,你听不清
+
+  ## 历史
+  - Liberman et al. 1957 首次提出
+  - Eimas et al. 1971 证明 1 月婴儿就有
+  - Kuhl 系列扩展到跨语言 + 跨文化
+
+key_facts:
+  - 大脑听音是离散分类不是连续
+  - Kuhl 经典 R/L 实验
+  - 不同语言切音位置不同
+  - 是 perceptual narrowing 的机制层
+  - 成人学外语口音的根因
+
+related_glossary:
+  - G-PERSON-Kuhl
+  - G-TERM-perceptual-narrowing
+  - G-TERM-statistical-learning
+  - G-TERM-phoneme
+
+related_cards: []
+
+sources:
+  - source_id: SRC-015
+  - external: Liberman 1957 / Eimas 1971 / Kuhl 1992
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

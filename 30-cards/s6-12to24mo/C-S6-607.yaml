@@ -1,0 +1,62 @@
+card_id: C-S6-607
+stages: [S6]
+tags: [tantrum, RIE]
+
+front:
+  title: "Antaeus 故事:接地起"
+  hook: "他扑地是吸大地的力"
+
+back:
+  why_matters: |
+    Magda《自信的宝宝》Ch8 §Tantrums: The Antaeus Story —
+    Magda 独家希腊神话比喻 ⭐
+    希腊神话:Antaeus 是大地母亲的儿子,跟强对手打架被扔到地上,
+    他从大地吸力又站起来。Magda 用这隐喻幼儿 tantrum:
+    **孩子崩溃扑地 = 找大地补能。**
+    "你停不下 tantrum,也不该试。每场 tantrum 有自己的开始 / 高潮 / 尾。
+    保持平静等他完。你做什么只会让它更长。"
+    Magda 反两个常见错:
+    1 抱紧 / 紧搂(some experts 推荐)→ Magda 反:让他自由"过完"
+    2 离场说"等你冷静再来" → Magda 反:留下来,默默在完后:不要追问 / 不要讲道理。如果他要,可以抱。
+
+  what_to_do:
+    - 蹲下或坐下,在旁不动
+    - 不抱不打不哄,只在
+    - 不阻止 / 不让伤己伤人 = 唯一介入
+    - 公共场合实在尴尬抱去车里
+    - 完后:"你完了,我还在"
+
+  failure_mode: |
+    "扑地哭这么久必须制止" → Magda 反:你制止 = 教他下次更夸张。
+    Magda 信任 tantrum 的自愈能力。或"给他要的就别哭了" → 反:
+    那教他 tantrum 是工具,会越用越多。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+  - G-TERM-tantrum-antaeus
+  - G-TERM-acknowledging-feelings
+
+citation:
+  book_title_en: "Your Self-Confident Baby"
+  book_title_zh: "自信的宝宝"
+  authors:
+    - Magda Gerber
+    - Allison Johnson
+  publisher_en: John Wiley & Sons
+  year: 1998
+  location: "Ch8 §Tantrums: The Antaeus Story(p202-203)"
+  source_id: SRC-021
+
+unit_ids: []
+related_cards:
+  - C-S6-403  # Lansbury 限度+情绪并存
+  - C-S3-299  # Lansbury 承认情绪是连接钥匙
+  - C-S2-132  # Davies 哭闹 5 步回应法
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

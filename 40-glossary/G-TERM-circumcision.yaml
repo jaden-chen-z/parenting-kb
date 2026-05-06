@@ -1,0 +1,20 @@
+glossary_id: G-TERM-circumcision
+type: term
+display_name: 包皮环切术
+full_name_en: "circumcision"
+full_name_zh: "包皮环切术"
+one_liner: |
+  外科手术,切除阴茎前端的包皮。新生儿通常出生后几天内完成,出于宗教/文化或医疗原因。
+detail: |
+  美国约 60% 男婴出生时做(下降趋势),欧洲大部分国家不到 20%,东亚极低。
+  AAP(美国儿科学会)立场中性:健康益处略大于风险,但不强烈推荐 — 由家长决定。
+  术后护理关键:伤口愈合 7-10 天、双层尿布缓冲、纱布 + 凡士林防粘、伤口完全愈合前不盆浴。
+  术后正常现象:少量出血、黄色分泌物、渗液;红肿恶臭 = 感染要就医。
+related_glossary: []
+related_cards: [C-S1-2202]
+sources:
+  - external: "Murkoff H, What to Expect the First Year, Ch 5/6"
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

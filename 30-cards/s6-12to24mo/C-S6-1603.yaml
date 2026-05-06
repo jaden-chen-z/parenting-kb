@@ -1,0 +1,36 @@
+card_id: C-S6-1603
+stages: [S6]
+tags: [sibling, breastfeeding]
+front:
+  title: 老大想喝奶让他试一口
+  hook: 满足他比禁止更快消解
+back:
+  why_matters: |
+    前情:1-2 岁老大看到小宝吃母乳也要喝。
+    海蒂直接说:满足这种愿望最简单的方法就是让他喝(前提年龄小,4 岁以上就要解释只有婴儿才喝)。让他知道"他也可以"通常一次就够,他不会真持续喝。无视反而强化他的渴望和被排斥感。
+  what_to_do:
+    - 让他试一口母乳真喝
+    - 通常尝一次就失去兴趣
+    - 不必担心宝宝吃不饱
+    - 4 岁以上才需解释"婴儿才喝"
+    - 不必上升到"不卫生"层面拒绝
+  failure_mode: 严厉拒绝"那是宝宝的"反而把母乳变成禁果,老大产生持久嫉妒,整个哺乳期反复要奶。
+  evidence_level: B
+glossary_refs: []
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors: ["Heidi Murkoff", "Sharon Mazel"]
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh: ["莫夏迪", "张敏"]
+  location: "第 25 章 《二胎》, 页 735"
+  source_id: "SRC-040"
+related_cards: [C-S6-1601]
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

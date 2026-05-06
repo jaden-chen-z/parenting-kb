@@ -1,0 +1,68 @@
+card_id: C-S8-738
+stages: [S8]
+tags: [self_regulation, boekaerts, lerner_v4]
+
+front:
+  title: 学渣不是懒看 3 层
+  hook: 学渣是 3 层断
+
+back:
+  why_matters: |
+    Boekaerts V4 Ch 9 自我调节(S8 学龄前应用)。
+    **学龄前 / 入学前 3 层自我调节**:
+    - **认知层**:能不能记住任务 / 计划步骤
+    - **动机层**:有没有"想完成"的动力
+    - **情境层**:能不能克服干扰 / 情绪管理
+    **学渣判断 3 步**(本章实操):
+    - 先看认知:能不能听懂指令?能 → 认知 OK
+    - 再看动机:愿不愿意做?不愿 → 动机断
+    - 最后情境:有干扰怎么办?分心 → 情境断
+    - **不要假设"懒" — 找出哪层断**
+    **Tools of the Mind**(Vygotsky 派学前课程):
+    - 用"私语"训练自我调节
+    - 角色扮演 + 计划 + 反思
+    - RCT 显示自我调节提升 + 学业改善意义:
+    - 学龄前自我调节 > IQ 预测后期学业
+    - 不是教知识是练自我调节
+    - 跨 3 层综合训练跟现库:跟 C-S0-1241 自我调节 3 层概念 + Eisenberg effortful control(C-S5-1041)对接。
+    对中国家长意义:
+    - 学龄前别忙背单词
+    - 训自我调节(等 / 计划 / 自言自语)
+    - 角色扮演练动机+情境
+    - "懒娃"先看 3 层哪层断
+  what_to_do:
+    - 学龄前练自我调节不背单词
+    - 角色扮演练动机+情境
+    - '"懒娃"找哪层断'
+    - 私语自言自语训认知
+  failure_mode: |
+    "懒娃 = 没救"— 错。3 层定位修。
+    "学龄前背单词最优"— 错。自我调节预测学业。
+    "自我调节 = 意志力"— 错。3 层系统。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Boekaerts
+  - G-TERM-self-regulation
+  - G-TERM-tools-of-the-mind
+  - G-PERSON-Vygotsky
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 4 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 4 卷"
+  authors: ['Monique Boekaerts']
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 9 · Boekaerts · Self-regulation kindergarten + Tools of Mind · pp. 360-375"
+  source_id: SRC-029
+
+unit_ids: []
+related_cards:
+  - C-S0-1241     # Boekaerts 3 层自我调节
+  - C-S5-1041     # V3 Eisenberg effortful control
+  - C-S6-928     # Shonkoff tantrum PFC
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

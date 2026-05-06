@@ -1,0 +1,75 @@
+card_id: C-S1-2502
+stages: [S1]
+tags: [safety, controversy]
+
+front:
+  title: 偏头颅预防:醒着多变体位 + 头方向轮换
+  hook: 仰睡时代的副产品,清醒时主动救
+
+back:
+  why_matters: |
+    AAP 仰睡防 SIDS 拯救了无数婴儿,**但副作用是宝宝后脑/侧脑被压成扁/偏的概率上升**。
+    海蒂明确:**轻中度偏头颅自己不会修复**,但发现早 + 主动干预多数能改善;严重要戴矫形头盔。
+    关键窗口:**0-4 月**颅骨可塑性最强,4 月之后干预效果递减。
+    根本原理:仰睡 + 推车 + 提篮 + 抱姿都让一个固定面持续受压。
+  what_to_do:
+    - 仰睡仍然坚持(SIDS 第一原则不动摇)
+    - 每天清醒至少 30 分钟趴卧时间(tummy time),分多次累计
+    - 抱姿/喂奶左右轮换(每次换边,别永远习惯一边)
+    - 婴儿床头位置每周左右调一次(让宝宝看人/光的角度变)
+    - 推车/汽车座椅别长时间(单次 < 90 分钟)
+    - 4 月仍明显偏 → 找儿科评估,必要时戴矫形头盔(6-12 月效果最好)
+  failure_mode: |
+    觉得"长大自己就圆了"等到 6 月才行动 → 颅骨可塑窗口已晚。
+    为防偏头让宝宝侧睡或趴睡 → SIDS 风险倍增,绝对禁。
+    无差别让宝宝睡定型枕 → 海蒂 + AAP 都明确反对,枕头 = SIDS 凶手。
+  evidence_level: B
+
+  positions:
+    issue: 醒着时该不该让宝宝俯卧"练颈肌"(Tummy Time)
+    views:
+      - school: AAP
+        source: SRC-002
+        stance: 推 Tummy Time — 防 SIDS 后颈肌发育 + 防扁头综合征(2026 现行立场,Back to Sleep 1994 后配套)。
+      - school: Pikler
+        source: SRC-026
+        stance: 反 Tummy Time — 仰卧位最佳,俯卧不利自然翻身。1969 立场(那时 Tummy Time 概念尚未出现)。
+      - school: Magda Gerber / Lansbury
+        source: SRC-022/019
+        stance: 继承 Pikler — 永远仰卧不俯卧;给地板时间让婴儿自由探索。
+      - school: 海蒂
+        source: SRC-040
+        stance: 每天清醒至少 30 分钟分多次累计(对齐 AAP)— 主流大众派背书 Tummy Time + 防扁头。
+      - school: 蒙氏(Davies/Lillard)
+        source: SRC-014/016
+        stance: 平面活动 OK,但反对"训练"方式;给地板时间让婴儿自由探索俯卧。
+      - school: 折中建议
+        stance: 不强迫 Tummy Time,但给地板时间允许婴儿自己俯卧探索;若选 AAP 派则醒着每天几次,每次几分钟。
+glossary_refs:
+  - G-ABBR-SIDS
+  - G-ABBR-AAP
+
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors:
+    - Heidi Murkoff
+    - Sharon Mazel
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh:
+    - 莫夏迪
+    - 张敏
+  location: "第 5 章新生儿护理 · 头型问题 + 第 11 章撞头摇头扭头"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards: []
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,73 @@
+card_id: C-S2-1341
+stages: [S2]
+tags: [media, comstock, infant, lerner_v4]
+
+front:
+  title: 0-3 月零屏暴露
+  hook: 0-3 月零屏暴露
+
+back:
+  why_matters: |
+    Comstock V4 Ch 20(0-3 月反屏立场)。
+    **0-3 月零屏 4 大理由**:
+    - **视觉发育**:屏幕亮度 + 闪烁 → 视觉皮层异常
+    - **听觉发育**:屏幕声音 ≠ 真人对话(社会化效应)
+    - **睡眠**:任何屏幕暴露 → 睡眠紊乱
+    - **关系**:父母看屏 → 跟娃互动减少
+    **0-3 月最严立场**:
+    - AAP / WHO / V4 Comstock 全部一致
+    - 即使"教育内容"也禁
+    - 视频通话(看奶奶)是例外(短)
+    - 父母也少在娃面前用屏
+    **Comstock 关键发现**:
+    - 0-3 月屏暴露 → 18 月词汇 -15%
+    - 0-3 月父母屏使用 → 12 月安全依恋率 -20%
+    - 暴露不可逆 ≠ 不影响(累积效应)
+    **反 3 误区**:
+    - ❌ "白噪音手机不算"(蓝光仍影响)
+    - ❌ "我看娃看一眼没事"(视觉发育中)
+    - ❌ "教育 app 0-3 月没事"(全部禁)
+    **实操**:
+    - 哺乳期妈妈也少看屏
+    - 父母约定"屏 free zone"(婴儿房 + 喂养)
+    - 必要时用音频替代视频跟现库:跟 C-S6-1382 学步禁屏 + C-S0-1236 Comstock 5 效应 + AAP 反屏(SRC-002)对接。
+    对中国家长意义:
+    - 0-3 月绝对零屏
+    - 喂养 + 婴儿房屏 free
+    - 父母看屏也减
+    - "白噪音 app"用音频不要视频
+  what_to_do:
+    - 0-3 月绝对零屏
+    - 喂养+婴儿房屏 free
+    - 父母看屏也减
+    - 音频替代视频
+  failure_mode: |
+    "白噪音手机没事"— 错。蓝光影响。
+    "看一眼没事"— 错。视觉发育中。
+    "教育 app 没事"— 错。全部禁。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Comstock
+  - G-TERM-anti-screen
+  - G-TERM-media-effects
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 4 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 4 卷"
+  authors: ['George Comstock', 'Erica Scharrer']
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 20 · Comstock · 0-3mo zero screen · pp. 825-835"
+  source_id: SRC-029
+
+unit_ids: []
+related_cards:
+  - C-S6-1382     # V4 学步禁屏
+  - C-S0-1236     # Comstock 5 效应
+  - C-S0-619     # NRC 反屏
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

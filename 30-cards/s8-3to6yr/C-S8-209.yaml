@@ -1,0 +1,81 @@
+card_id: C-S8-209
+stages: [S8]
+tags: [shonkoff, nrc, head_start, intervention]
+
+front:
+  title: "Head Start 普及版"
+  hook: "美国全民早期干预"
+
+back:
+  why_matters: |
+    NRC 综述 Ch 13 给 **Head Start** 普及版早期干预的科学评估:
+    **背景**:
+    - 1965 起 LBJ "great society" 启动
+    - 美国全国低收入 3-5 岁孩子免费 preschool
+    - 累计服务 3000 万+ 孩子
+    - 跟 Perry / Abecedarian 不同 — 是**普及性**项目而非**精准 RCT**
+    **数据**(NRC 综合多研究):
+    - 短期 IQ gain ≈ 0.2-0.5 SD(比 Perry / Abecedarian 弱)
+    - 长期高中毕业率 + 5-10%
+    - 长期就业率 + 5-10%
+    - **效益弱于 Perry / Abecedarian**(因为 quality 参差)
+    - **但仍有显著正效应**(尤其 high-quality Head Start centers)
+    **NRC 立场**:
+    - Head Start 是**政策可行的普及版**
+    - 不是 Perry / Abecedarian 强度 — 但范围大
+    - 总社会回报正 — 即便单孩子收益小
+    - **质量提升**是 Head Start 后续工作重点
+    **对中国家长**:
+    - 中国没有 Head Start equivalent — 但有 NICE 计划 / 早期教育试点
+    - "免费早教" + "高质量"难兼得 — 选低质量也比无好(微正)
+    - 自费高质量 preschool > 免费一般 preschool
+    - 但不必"贵就最好" — 看 4 元素质量
+  what_to_do:
+    - 高质量 > 普通 > 无
+    - 普通中产自费高质量
+    - 看 4 元素不看价格
+    - 低收入用免费早教
+    - 别全等"完美干预"
+  failure_mode: |
+    "免费 = 低质量" — 不一定,看具体中心 + 师资。
+    "贵 = 好" — 不一定,装修 ≠ 质量(回应敏感度 / 师生比 / 课程)。
+    "中国没 Head Start — 我们孩子没救" — 错,自家高质量陪伴 + 普通早教 = 够。
+  evidence_level: B
+
+  positions:
+    issue: 0-3 岁需要系统化早期干预还是只需"陪 + 不打扰"
+    views:
+      - school: Shonkoff / NRC
+        source: SRC-025
+        stance: 系统化早期干预(Perry / Abecedarian RCT)— 主要针对高风险家庭(贫困 / 抑郁 / 单亲)。
+      - school: Lansbury / Gerber RIE
+        source: SRC-019/022
+        stance: 不打扰 + 自由探索 + Quality time 短就够;反对系统化干预介入正常家庭。
+      - school: Lillard(蒙氏)
+        source: SRC-016
+        stance: 介于二者之间 — 有 prepared environment(结构),但 follow the child(不强加)。
+      - school: 适用建议
+        stance: 普通家庭偏 RIE(高质量陪伴);高风险家庭(贫困 / 妈妈抑郁)需 NRC 推荐的系统干预。
+glossary_refs:
+  - G-PERSON-Shonkoff
+  - G-TERM-NRC
+
+citation:
+  book_title_en: "From Neurons to Neighborhoods"
+  authors: ["Jack P. Shonkoff", "Deborah A. Phillips"]
+  org: "NRC/IOM"
+  year_en: 2000
+  location: "Ch 13 · Head Start program evaluation"
+  source_id: SRC-025
+
+unit_ids: []
+related_cards:
+  - C-S8-207    # Shonkoff Perry(本卷)
+  - C-S8-208    # Shonkoff Abecedarian(本卷)
+  - C-S6-933    # Shonkoff 托育质量(本卷)
+  - C-S2-550    # 松田 §117 集体保育 SRC-024
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

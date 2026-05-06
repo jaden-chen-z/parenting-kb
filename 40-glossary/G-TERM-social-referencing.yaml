@@ -1,0 +1,91 @@
+glossary_id: G-TERM-social-referencing
+type: term
+display_name: 社会参照 (social referencing)
+
+full_name_zh: 社会参照
+full_name_en: Social Referencing
+
+one_liner: |
+  1 岁宝宝在不确定情境下**看大人表情决定怎么做**。
+  你紧张 → 他紧张;你放松 → 他探索。父母情绪是宝宝的"安全 / 危险"指示器。
+
+detail: |
+  ## 定义
+  婴儿在面对**新奇 / 不确定 / 可能危险**的情境时,
+  主动看大人面部表情 / 语调 → 据此决定**自己怎么做**。
+  是 theory of mind 的关键里程之一。
+
+  ## 经典实验
+
+  ### 视崖实验(Sorce et al. 1985)
+  - 在透明玻璃上做"假悬崖"(看起来下面是深沟,实际有玻璃支撑)
+  - 12 月宝宝爬到边缘犹豫
+  - 妈妈在对面**微笑** → 宝宝爬过去
+  - 妈妈**惊恐** → 宝宝**停在原地不动**
+  - 证明:1 岁宝宝用妈妈表情决定危险与否
+
+  ### Gopnik / Repacholi 箱子实验
+  - 大人看 2 个箱子(宝宝没看过里面)
+  - 看 1 个表情快乐,看 1 个表情厌恶
+  - 推箱子给宝宝
+  - 宝宝**只伸手到快乐箱子**
+  - 不只懂"她快乐",更懂"对这个箱子快乐"
+
+  ## 发展时间表
+  - **6-9 月**:joint attention(共享注视)起步
+  - **9-12 月**:开始 social referencing 雏形
+  - **12-18 月**:完整 social referencing
+  - **18 月**:理解他人欲望(C-S6-179 西兰花实验)
+
+  ## 中国家长意义
+
+  ### 1. 你的脸是宝宝的"信号源"
+  - 你紧张 → 宝宝紧张
+  - 你害怕狗 / 虫 / 陌生人 → 宝宝学到怕
+  - **代际传染**:你的恐惧成宝宝的恐惧
+
+  ### 2. 培养勇敢:自己先放松好奇
+  - 新环境 / 新玩具 / 陌生人 — 妈妈先放松微笑
+  - 不要"哎呀好可怕" / "小心!" 过度反应
+  - 宝宝看你时给清晰信号(笑 + 鼓励 + 眼神)
+
+  ### 3. 自己怕的东西先处理自己
+  - 妈妈怕虫子 — 自己先脱敏
+  - 不要在宝宝面前表现极度恐惧
+  - 否则宝宝默认"虫子 = 危险 + 妈妈崩溃"
+
+  ### 4. 黑脸效应(still face)
+  - 妈妈面无表情看宝宝 → 宝宝几秒内崩溃哭
+  - 证明 social referencing 是宝宝的生命线
+  - 不要"惩罚式"冷脸
+
+  ## 跟其他术语关系
+  - **Joint Attention**:social referencing 的前身(6-9 月)
+  - **Theory of Mind**:social referencing 是 ToM 中级阶段
+  - **Internal Working Model**:Bowlby 依恋模型的认知基础
+  - **Imitation**:不只复制动作,也复制情绪反应
+
+key_facts:
+  - 1 岁起的"看大人脸决定行为"能力
+  - 视崖实验经典证据
+  - 父母情绪"传染"宝宝
+  - ToM 中级里程
+  - 培养勇敢靠自己先放松
+
+related_glossary:
+  - G-PERSON-Gopnik
+  - G-PERSON-Meltzoff
+  - G-TERM-theory-of-mind
+  - G-TERM-imitation
+  - G-TERM-internal-working-model
+
+related_cards: []
+
+sources:
+  - source_id: SRC-015
+  - external: Sorce et al. 1985 / Repacholi & Gopnik 1997
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

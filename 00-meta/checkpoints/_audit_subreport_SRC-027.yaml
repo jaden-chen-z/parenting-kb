@@ -1,0 +1,30 @@
+source_id: SRC-027
+total_cards: 69
+totals_per_issue:
+  stage_misalignment: 2
+  evidence_level_questionable: 3
+  data_claim_unsupported: 1
+  hook_redundancy: 2
+  empirical_overstatement: 2
+  claim_redundancy: 2
+  evidence_distribution_skew: 1   # 68/69 标 A (99%),综述源校准 60-70% A,实际 A 偏高
+key_issues:
+  - {card_id: C-S2-942, type: stage_misalignment, severity: P0, fix: 内容是 Lewis 18-24 月 self-conscious emotions 应在 S6,但放 S2(1-3 月)— 严重 stage 错配}
+  - {card_id: C-S2-940, type: stage_misalignment, severity: P1, fix: Bugental-Grusec 5 领域属通论框架,what_to_do 涉及"立规矩""轮流分享"非 S2 内容,移到 S6/S7 或重写}
+  - {card_id: ALL-69-CARDS, type: evidence_distribution_skew, severity: P1, fix: 68/69 标 A (99%)与综述源校准 60-70% 严重不符。多张 framing 立场卡 (EQ vs IQ / 跨文化 self / Rogoff intent participation / Caspi 30yr 单一研究) 应降 B}
+  - {card_id: C-S0-726, type: data_claim_unsupported, severity: P1, fix: "EQ 比 IQ 强 50%+ / 4 岁命名情绪 15 年焦虑减半" 数字需核对原文}
+  - {card_id: C-S6-1075, type: claim_redundancy_with_C-S7-996, severity: P1, fix: 两张 Kochanska 良知 + 温暖 vs 高压 论点同}
+  - {card_id: C-S7-1008, type: empirical_overstatement, severity: P2, fix: "1 岁紊乱依恋 70%+ 后期病理"数字偏高,Sroufe Minnesota 实际不到 70%}
+intra_source_dedups:
+  - {cluster: [C-S6-1078, C-S7-996], level: L2, action: merge_candidate, keeper: C-S6-1078, reason: 都是 Kochanska 良知 + 温暖 vs 高压,论点完全相同}
+  - {cluster: [C-S6-1080, C-S8-324], level: L2, action: merge_candidate, keeper: C-S8-324, reason: Bornstein 跨文化 + Parke-Buriel 反白人中产,论点同}
+  - {cluster: [Eisenberg 共情 4 张 C-S2-941+C-S4-943+C-S4-944+C-S6-1074], level: L1, action: keep_all, reason: 不同发展节点不同侧面,系列合理}
+  - {cluster: [气质主题 6 张 C-S2-936/937/943+C-S3-940+C-S4-941+C-S8-321], level: L1, action: keep_all, reason: 不同 author 角度独立子点}
+  - {cluster: [Kagan 抑制型 3 张 C-S2-938+C-S3-941+C-S4-942], level: L1, action: keep_all, reason: 不同 stage 独立应用}
+  - {cluster: [性别 4 张 C-S6-1076+C-S7-1005+C-S7-1010+C-S8-331], level: L1, action: keep_all, reason: 不同发展阶段不同侧面}
+notes: |
+  Lerner V3 综述权威 + author 归属精准,大体高质量。
+  最大问题:evidence_level 99% 标 A,与综述自评 60-70% 严重不符。
+  C-S2-942 stage 错配 P0 必修(放 S2 但内容是 18-24 月 Lewis 卡)。
+  L2 真重叠 2 处:Kochanska 良知 + 反美式中心论。
+  其他 9 个 L1 cluster 是 stage-specific 应用,保留合理。

@@ -1,0 +1,78 @@
+card_id: C-S5-293
+stages: [S5]
+tags: [self, 调谐, 观察]
+
+front:
+  title: 调谐 6 个匹配方面
+  hook: 6 个方面选 1 即可
+
+back:
+  why_matters: |
+    Stern 实验给出 调谐 的 6 个**可匹配方面**(Stern et al. in press)— 父母只需匹配 1-2 个就成立 调谐,不需全 6 个。
+    **6 个 调谐 匹配方面**:
+    1. **绝对强度** — 妈声音的响度 = 宝宝动作的力度。例:宝宝大叫 → 妈大笑(强度同)
+    2. **强度轮廓** — 强度的**起伏曲线**。**最常用的方面(81%)**。例:宝宝努力时强度渐增然后减弱 → 妈"uuuuh!"也渐增渐弱
+    3. **时间节拍** — 等距脉冲。例:宝宝有节奏地摇拨浪鼓 → 妈头同节奏点动
+    4. **节奏** — 不等距脉冲(更复杂的节奏)
+    5. **时长(持续时间)** — 行为时长一致。69%
+    6. **形状(形态)** — 抽象空间特征。例:宝宝手上下挥 → 妈头上下点(形态相同)
+    **关键统计**(Stern 8-12 月 10 母婴):
+    - **强度轮廓是最核心方面** — 81% 调谐 用它
+    - 第二常用是 时长(69%)
+    - 多数 调谐 同时匹配 2+ 个方面
+    - 87% 调谐 至少部分跨感官(跨模态)
+    **底层过程 — 无形式知觉**:
+    - 强度 / 时间 / 形态都是 无形式(跨感官)
+    - 宝宝出生即能跨感官识别这些方面(C-S1-255)
+    - 父母也是天生有这种 无形式 能力
+    - **这是为什么妈妈能用动作匹配宝宝声音 — 强度本身是抽象的**
+    **对家长的实操**:
+    - **不要试图匹配所有 6 方面** — 选 1-2 个最容易的
+    - **强度轮廓最易练习** — 跟着宝宝的"渐强渐弱"走
+    - 持续时间 + 节拍也容易
+    - 不必匹配 form(可以跨感官)
+    - **用你最自然的感官**(声音 / 表情 / 触摸)— 不必模仿宝宝的感官
+    **跟 Karp 5S 拍嘘节奏(C-S1-018)有共通**:
+    - Karp 5S 用 嘘声 匹配宝宝**节奏 + 声音**
+    - 是 调谐 在 0-3 月安抚场景的应用
+    - Stern 把这扩展到 9 月起的全场景
+  what_to_do:
+    - 不必匹配 6 方面 1-2 个就 OK
+    - 优先练 强度 轮廓(强度起伏)
+    - 用不同感官跨感官匹配
+    - 持续时间 / 节拍也是好选择
+    - 1 方面同步 = 调谐 成立
+  failure_mode: |
+    "我不会跟宝宝同步,需要专门学" — 错。Stern 数据 — 90% 父母自然就会,只是没意识到。匹配 1 方面即可。
+    试图匹配所有方面 → 太累 → 放弃。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Stern
+  - G-TERM-affective-attunement
+  - G-TERM-amodal-perception
+
+citation:
+  book_title_zh: "婴儿的人际世界"
+  book_title_en: "The Interpersonal World of the Infant"
+  authors: ["Daniel N. Stern"]
+  authors_zh: ["丹尼尔·斯特恩"]
+  publisher_en: "Basic Books"
+  year_en: 1985
+  isbn_en: "978-0-465-09559-9"
+  location: "Ch 7 · Evidence for attunement (6 dimensions + statistics)"
+  publisher_zh: "华东师范大学出版社"
+  year_zh: 2017
+  translator_zh: ["刘旭东"]
+  source_id: SRC-018
+
+unit_ids: []
+related_cards:
+  - C-S5-291       # Stern attunement 主卡
+  - C-S1-255       # Stern 出生即跨感官辨认
+  - C-S1-018       # Karp 5S(shushing 节奏)
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

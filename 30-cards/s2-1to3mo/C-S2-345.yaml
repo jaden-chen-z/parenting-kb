@@ -1,0 +1,55 @@
+card_id: C-S2-345
+stages: [S2]
+tags: [routine, security]
+
+front:
+  title: "可预测胜新奇"
+  hook: "熟悉才给真安全感"
+
+back:
+  why_matters: |
+    Magda 名言:**Predictability rather than novelty brings security**。
+    宝宝大脑的安全感不靠"新刺激",靠"我知道接下来会发生什么"。
+    每天同时间睡 / 吃 / 洗 / 出门 = 大脑省下"猜世界"的能量,
+    剩下的能量用来探索 + 学习。
+    跟 Bowlby 内部工作模型 + Stern RIGs(普遍互动表征)同源。
+
+  what_to_do:
+    - 头 3 月在家不带宝宝跑商场 / 餐厅 / 长途
+    - 吃 / 睡 / 洗澡尽量同时段同地点
+    - 同地点喂奶(同一把椅子或床)
+    - 出门次数限到必要医疗 + 户外散步
+    - 不"刺激他大脑发展"用闪卡 / 摇铃
+
+  failure_mode: |
+    "新生儿带去看世界 / 给闪卡 / 摇铃刺激" → 反而过度刺激 → 不睡 + 易躁。
+    Magda 原话:"婴儿要的是可预测,不是新奇"。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Gerber
+  - G-TERM-RIGs
+  - G-TERM-RIE
+
+citation:
+  book_title_en: "Your Self-Confident Baby"
+  book_title_zh: "自信的宝宝"
+  authors:
+    - Magda Gerber
+    - Allison Johnson
+  publisher_en: John Wiley & Sons
+  year: 1998
+  location: "Ch3 Predictability Helps + Where Should My Baby Spend Her Day?"
+  source_id: SRC-022
+
+unit_ids: []
+related_cards:
+  - C-S1-247  # Lillard 一房三人
+  - C-S1-352  # Lansbury 把新生儿当完整人
+  - C-S6-466  # Magda 序列睡前哲学(本卷)
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

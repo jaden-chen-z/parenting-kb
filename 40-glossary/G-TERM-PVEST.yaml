@@ -1,0 +1,28 @@
+glossary_id: G-TERM-PVEST
+type: term
+display_name: "PVEST 模型 / Phenomenological Variant of Ecological Systems Theory"
+
+name_en: "Phenomenological Variant of Ecological Systems Theory"
+name_zh: "PVEST 模型"
+
+description: |
+  Spencer 模型 — 在 Bronfenbrenner 5 系统加 perception + identity 维度。
+  5 组件:net vulnerability / stress / coping / identity / outcomes。
+
+one_liner: |
+  PVEST 模型(Phenomenological Variant of Ecological Systems Theory)— Spencer 模型 — 在 Bronfenbrenner 5 系统加 perception + identity 维度。
+
+key_facts:
+  - "Lerner V1 元理论卷核心术语"
+  - "学派:Lerner V1 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,62 @@
+card_id: C-S4-189
+stages: [S4]
+tags: [cognitive_science, language, milestone]
+
+front:
+  title: 全球宝宝先 dadada
+  hook: 不是更爱爸爸而已
+
+back:
+  why_matters: |
+    Babbling(咿呀)= 7-8 月宝宝开始发出"辅音 + 元音"重复音节。
+    经典首次音:**dadada / bababa / mamama / gaga**(全球宝宝完全一样)。
+    Gopnik 强调:这是**进化设定的语言里程**,跟父母语言无关。
+    巴黎 / 北京 / 内罗毕 / 莫斯科宝宝 — 7-8 月都先发同样几个音节。
+    1 岁后才"调谐到母语",中国宝宝开始有声调,瑞典宝宝有升降调。
+    意义:
+    - "我家宝宝怎么先叫 dadada 不是 mama" — 全球都这样,跟"爱爸爸更多"无关
+    - mama / dada 全球家长爱听 — 但其实是宝宝先发这音,父母才把这音指代自己
+    - 不必焦虑"几月叫妈妈" — 7-8 月起 babbling,真"指代妈妈"通常 10-14 月
+    Gopnik 趣事:Pat Kuhl 等了几个月女儿首 babble,
+    结果女儿在西雅图 Starbucks 排队时突然"bababa" — 像闹钟一样准时。
+    对中国家长意义:
+    - 7-8 月宝宝 dadada 不必焦虑"还不会说话"
+    - 不必"教"宝宝叫妈妈 — 他在按全球时间表自动发音
+    - 别人家宝宝早 / 晚 1-2 月叫妈妈都正常
+    - 真正"用词指物"通常 12 月后(C-S5-182 fast mapping 起)
+  what_to_do:
+    - 7-8 月听到 dadada 就回应("对!爸爸!")
+    - 不必教首音(全球宝宝先 dadada / bababa)
+    - 别焦虑"还不会叫妈妈" — 12 月后才真用词
+    - 多说话给宝宝听(他在抓母语统计模式)
+  failure_mode: |
+    "我家宝宝先叫爸爸不叫妈妈,他更爱爸爸" — 错。dadada 是全球首音。
+    "8 月还不叫妈妈,落后了" — 错。叫妈妈通常 10-14 月才出现。
+    用 App / 视频"教叫妈妈" — 没用。babbling 是自发,需真人对话回应。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Kuhl
+  - G-TERM-statistical-learning
+  - G-TERM-baby-scientist
+  - G-TERM-perceptual-narrowing
+
+citation:
+  book_title_en: "The Scientist in the Crib"
+  book_title_zh: "摇篮里的科学家"
+  authors: ["Alison Gopnik", "Andrew N. Meltzoff", "Patricia K. Kuhl"]
+  publisher_en: William Morrow
+  year: 1999
+  location: "Chapter 4 · The Tower of Babble (Pat Kuhl's Starbucks story)"
+  source_id: SRC-015
+
+unit_ids: []
+related_cards:
+  - C-S2-182       # 3 月 cooing turn-taking(语言早期)
+  - C-S5-182       # 1 岁 fast mapping(下一步)
+  - C-S4-184       # 6-12 月知觉重组
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

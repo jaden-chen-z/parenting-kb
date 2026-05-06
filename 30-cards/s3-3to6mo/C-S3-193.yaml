@@ -1,0 +1,58 @@
+card_id: C-S3-193
+stages: [S3]
+tags: [montessori, hand-发展, mobile]
+
+front:
+  title: 弹簧 mobile 抓握期
+  hook: 3-5 月手发展关键
+
+back:
+  why_matters: |
+    Lillard Ch4 细节描述蒙氏第 6 阶 mobile — **3-5 月专用的"弹簧抓握型"**:
+    - 一个简单耐用物体(木质牙咬环最佳,半英寸厚 + 3 寸直径)
+    - 用**橡皮筋**挂在 mobile 钩上
+    - 高度调到宝宝**伸手能抓到**
+    - 宝宝抓 → 拉到嘴 → 松开 → 弹回去 → 再抓为什么这是关键:
+    - 弹回的弹性 = **给宝宝因果反馈**(我抓 + 它跟我手走 / 我松 + 它弹走)
+    - 抓握 + 嘴探 = 手脑反馈环 + 嘴脑反馈环同时建立
+    - 宝宝学到:**我能影响环境**(不是物品自己来)
+    - 这是自我效能感的早期物理基础跟商业玩具的差异:
+    - 商业玩具:摇手会响 + 拉一下转 → 动作跟反馈不直接相关
+    - 蒙氏弹簧抓握:动作 + 反馈一一对应,能学因果自制方法:30 块买木牙咬环 + 橡皮筋 = 完整套件。
+  what_to_do:
+    - 3 月起换弹簧抓握 mobile
+    - 用木牙咬环 + 橡皮筋
+    - 高度调到伸手能够
+    - 看宝宝玩,不打扰
+    - 5-6 月后换 rattles 系列
+  failure_mode: |
+    "商业 mobile 复杂 + 美" — 反:动作跟反馈不直接关联的玩具,反而拖累因果学习。
+    没有这个阶段过渡 → 宝宝从"看 mobile"突然到"抓 rattles" → 缺过渡练习。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Lillard
+  - G-PERSON-Jessen
+  - G-TERM-coordinated-movement
+  - G-TERM-prepared-environment
+
+citation:
+  book_title_zh: "蒙台梭利从 0 岁开始"
+  book_title_en: "Montessori from the Start"
+  authors: ["Paula Polk Lillard", "Lynn Lillard Jessen"]
+  authors_zh: ["宝拉·波尔克·莉拉德", "琳·莉拉德·杰森"]
+  publisher_en: "Schocken Books"
+  year_en: 2003
+  isbn_en: "978-0-8052-1112-1"
+  location: "Ch 4 · 'The Hand and the Brain' (3-month mobile)"
+  source_id: SRC-016
+
+unit_ids: []
+related_cards:
+  - C-S3-192       # Lillard mobile 5 阶
+  - C-S3-191       # Lillard 别塞玩具到宝宝手里
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

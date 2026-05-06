@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Bugental
+type: person
+display_name: "Bugental(达芙妮·比格塔)"
+
+full_name_en: "Daphne Blunt Bugental"
+full_name_zh: "达芙妮·比格塔"
+
+position: |
+  UC Santa Barbara 心理学教授
+
+contribution: |
+  社会化 5 领域(保护/互惠/控制/群体/配偶);权力关系认知
+
+one_liner: |
+  达芙妮·比格塔 — 社会化 5 领域(保护/互惠/控制/群体/配偶);权力关系认知
+
+key_facts:
+  - "本卷章节:Ch 7"
+  - "Lerner V3 命中:30 次"
+  - "学派:Lerner V3 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-027
+    chapter: "Ch 7"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

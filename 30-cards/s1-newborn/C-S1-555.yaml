@@ -1,0 +1,58 @@
+card_id: C-S1-555
+stages: [S1]
+tags: [quality-time, RIE, caregiving]
+
+front:
+  title: "想要 vs 不想要两类陪"
+  hook: "尿布换也是高质量陪"
+
+back:
+  why_matters: |
+    Magda《自信的宝宝》Ch3 §What Is 高质量陪伴? — Magda 独家二分。
+    家长焦虑"我陪得不够"。Magda 反驳:
+    一辈子尿布要换约 6000 次,加喂奶更多。这些日常护理本身就是 高质量陪伴，关键看怎么做。
+    分两类:
+    1 **Wants something QT**:有目标(尿布 / 喂 / 洗澡)→
+      慢 + 全注意力 + 跟宝宝合作
+    2 **Wants nothing QT**:无目标 → 在场看 / 听,不要求宝宝表演,
+      让宝宝知道"你不必表演我才看你"。
+
+  what_to_do:
+    - 尿布前先告知,跟宝宝商量姿势
+    - 换尿布手机扔一边,电话开答录
+    - 每天留 10 分钟 wants nothing 时段
+    - 不要"陪玩"非要给玩具
+    - 看就是给,在就是爱
+
+  failure_mode: |
+    "陪玩才叫 高质量陪伴,尿布是杂活" → Magda 反:把日常护理当杂活,等于把宝宝当物品。或"高质量必须高刺激" → 反:
+    "你不必表演我才看你"是给宝宝最深的尊重。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+  - G-TERM-respectful-parenting
+
+citation:
+  book_title_en: "Your Self-Confident Baby"
+  book_title_zh: "自信的宝宝"
+  authors:
+    - Magda Gerber
+    - Allison Johnson
+  publisher_en: John Wiley & Sons
+  year: 1998
+  location: "Ch3 §What Is Quality Time?(p41-45)"
+  source_id: SRC-021
+
+unit_ids: []
+related_cards:
+  - C-S1-353  # Lansbury 尿布换是连接仪式
+  - C-S5-130  # Davies 1 岁前两份心理大礼
+  - C-S2-128  # Davies 等 3 秒回应
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

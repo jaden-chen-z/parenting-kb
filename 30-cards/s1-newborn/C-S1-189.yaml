@@ -1,0 +1,60 @@
+card_id: C-S1-189
+stages: [S1]
+tags: [montessori, vision, newborn, mobile]
+
+front:
+  title: 第一个 mobile 是黑白
+  hook: Munari 黑白几何
+
+back:
+  why_matters: |
+    新手家长买 mobile 容易选错:
+    - 彩色 + 闪光 + 唱歌 → 视觉刺激过载,新生儿无法专注
+    - 卡通图案 → 不真实,新生儿没法解码
+    - 挂在睡眠区上方 → 干扰睡眠蒙氏标准答案 — **Munari mobile**(0-6 周):
+    - 全黑白(新生儿视觉细胞最敏感的对比度)
+    - 几何形状(三角 / 球 / 圆)
+    - 一颗玻璃球反光,空气流动自然摆动
+    - 不会唱不会闪不要电研究背景:Robert Fantz 1960 年代证明,新生儿天生偏好高对比黑白几何 + 人脸。视觉皮层发育需要这种刺激。
+    挂法:
+    - 挂在**动作毯上方**(不是睡眠区上方)
+    - 30cm 距离(对应新生儿聚焦窗口)
+    - 1 个月看 Munari → 2 月换 Octahedron(三色)→ 3 月换 Gobbi 渐变球宝宝会盯着看 5-15 分钟 — 这是正常的"视觉工作"。
+    DIY 也可:黑白卡纸做几何形,挂细线,一颗玻璃球。
+  what_to_do:
+    - 0-1 月用 Munari 黑白几何
+    - 挂在动作毯上方 30cm
+    - 不要挂睡眠区上方
+    - 每月轮换一个新 mobile
+    - 不买电子 / 唱歌 / 闪光款
+  failure_mode: |
+    "彩色更好看,买了挂上" — 新生儿视觉细胞处理彩色不发达,过度刺激反而无法专注。
+    "卡通熊熊小汽车 mobile 多可爱" — 宝宝不是看可爱,是练视觉聚焦。简单几何更有效。
+    "挂床头哄睡更方便" — 干扰睡眠,违反 SIDS 安全(床上无杂物)。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Davies
+  - G-PERSON-Montessori
+  - G-TERM-prepared-environment
+
+citation:
+  book_title_zh: "蒙特梭利的小宝宝(0-1岁)"
+  book_title_en: "The Montessori Baby"
+  authors: ["Simone Davies", "Junnifa Uzodike"]
+  authors_zh: ["西蒙·戴维斯", "君妮法·乌佐迪克"]
+  publisher_en: "Workman Publishing"
+  year_en: 2021
+  isbn_en: "978-1-5235-0693-7"
+  location: "Chapter 6 · Movement > Visual mobiles > Munari"
+  source_id: SRC-014
+
+unit_ids: []
+related_cards:
+  - C-S1-184       # 蒙氏 30cm 视距
+  - C-S1-065       # 鲍秀兰 1 月视觉训练
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

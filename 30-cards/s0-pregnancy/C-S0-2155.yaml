@@ -1,0 +1,37 @@
+card_id: C-S0-2155
+stages: [S0]
+tags: [postpartum, mom, depression, red_flag]
+front:
+  title: 产后抑郁 vs Baby Blues 怎么分
+  hook: 三周还低落要找医生
+back:
+  why_matters: |
+    前情:产后激素剧变 60-80% 妈妈都会哭一阵。
+    Baby Blues 在产后第 1 周最常见,几天到 2 周就过去;真正的产后抑郁症影响 10-20% 妈妈,持续几周到一年以上,常在产后
+    1-2 个月才发作,症状包括失眠/嗜睡、忧伤感、不想照顾宝宝或过度关注宝宝、失忆。抑郁症不会自愈,必须就医。
+  what_to_do:
+    - 第 3-4 周还面无表情立刻打电话给医生
+    - 先查甲状腺功能(产后甲状腺紊乱常见)
+    - 找有产后抑郁经验的专家
+    - 左洛复百忧解哺乳期可用
+    - 强光治疗可作辅助
+  failure_mode: 把产后抑郁当 Baby Blues 硬拖,后果包括无法照顾宝宝、伤害自己甚至宝宝,且越拖越难治。
+  evidence_level: A
+glossary_refs: [G-TERM-postpartum-blues]
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors: ["Heidi Murkoff", "Sharon Mazel"]
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh: ["莫夏迪", "张敏"]
+  location: "第 23 章 《妈妈的第一年》, 页 668-670"
+  source_id: "SRC-040"
+related_cards: [C-S1-033, C-S0-2154, C-S0-2166]
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

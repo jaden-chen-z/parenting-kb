@@ -1,0 +1,66 @@
+card_id: C-S4-188
+stages: [S4]
+tags: [cognitive_science, language, perceptual_narrowing]
+
+front:
+  title: 婴儿听音是黑白不是灰
+  hook: 听音黑白不是灰阶
+
+back:
+  why_matters: |
+    Kuhl 经典发现:**类别感知**(categorical perception)— 婴儿听音的根本机制。
+    实验设计:
+    - 用电脑合成器把 R 音**逐渐渐变**到 L 音(每步只差一点点物理参数)
+    - 给成人听:中间渐变阶段听不出 — 突然某一步**"啪"变 L**
+    - 给 6 月美国宝宝听:**同样**听到突然 R 跳 L
+    - 给 6 月日本宝宝听:**完全听不到 R / L 区别**(他们语言没这分类)
+    意义:大脑不"线性"听声波,是**离散分类**听 — 像黑白格子,没灰阶。
+    每种语言"切"声波的方式不同:
+    - 英语:R / L 是 2 类
+    - 日语:R / L 同 1 类
+    - 西班牙语 / 法语:b / p 切的位置跟英语不同
+    - 泰语:b / p 切 3 类(英语只 2 类)
+    机制:**统计学习** + **知觉重组** — 听得多的"分界线"被神经回路固化。
+    后果:成人**物理听不到**外语某些区别(不是"听到了忽略",是真听不到)。
+    Pat Kuhl 在东京演示:对日本同事大声说 rake / lake → 日本同事**真听不出**。
+    对中国家长意义:
+    - 中文家长理解"成人学外语口音"的根 — 不是天分,是分类回路已固化
+    - 0-12 月真人多语暴露 → 大脑保留多套分类回路
+    - 6 月后某些音素分界已硬化,补救难
+    - 不必焦虑"宝宝听不懂复杂音素" — 他听得清,你听不清
+  what_to_do:
+    - 0-12 月多语真人对话(双语 / 三语都行)
+    - 找发音清晰的真人(不录像 / CD)
+    - 双语家庭别强制翻译,各自讲自己语言
+    - 不焦虑"宝宝混" — 大脑分两套类别回路
+  failure_mode: |
+    "等大点学外语,反正听音都一样" — 错。6 月起类别回路固化。
+    "成人学不会外语口音是没天分" — 错。是 6-12 月分类回路已硬化。
+    双语家庭强制单语怕"混" — 错过大脑天生多分类能力。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Kuhl
+  - G-TERM-perceptual-narrowing
+  - G-TERM-statistical-learning
+  - G-TERM-phoneme
+
+citation:
+  book_title_en: "The Scientist in the Crib"
+  book_title_zh: "摇篮里的科学家"
+  authors: ["Alison Gopnik", "Andrew N. Meltzoff", "Patricia K. Kuhl"]
+  publisher_en: William Morrow
+  year: 1999
+  location: "Chapter 4 · The Sound Code (categorical perception R/L)"
+  source_id: SRC-015
+
+unit_ids: []
+related_cards:
+  - C-S4-184       # 6-12 月知觉重组(同主题机制层)
+  - C-S5-183       # 录像 CD 没用
+  - C-S2-181       # parentese 科学
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

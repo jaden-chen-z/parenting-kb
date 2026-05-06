@@ -1,0 +1,58 @@
+card_id: C-S3-130
+stages: [S3]
+tags: [development_burst, philosophy, controversy]
+
+front:
+  title: 4-5 月烦躁可达 6 周
+  hook: 不是病不是奶问题
+
+back:
+  why_matters: |
+    Wonder Week 跃迁分两段:**早期跃迁**(WW5/8/12)烦躁短(几天到 2 周),**中后期跃迁**(WW19+)烦躁长(1-6 周)。
+    WW19 是分水岭 — 烦躁 阶段 平均 5 周,**最长可达 6 周**。
+    持续时间长的原因:跃迁后要学的能力更复杂,大脑重组更长。
+    家长经历这个变化时常误判:
+    - "前几次都几天就好,这次怎么 4 周还在闹" → 担心是病
+    - "宝宝突然不喝奶 4 周" → 担心营养缺
+    - "夜醒频繁 1 个月" → 怀疑睡眠环境问题
+    van de Rijt 数据:**所有正常宝宝都经历**,持续 5-6 周才完成 WW19 跃迁是常态。
+    家长意义:**心理预期调整 — 4-5 月烦躁期可能持续 1 个月以上,不要恐慌**。
+  what_to_do:
+    - 把日历画上 14-19 周 + 6 周缓冲(到 25 周)
+    - 这段时间不安排长途旅行 / 入园 / 断奶
+    - 母乳妈妈不要在这段时间断奶(奶量乱是跃迁的,不是奶不够)
+    - 找伴侣 / 老人轮班,父母都需要喘息
+    - 6 周不缓解 + 出现真病征(发烧 / 嗜睡)→ 看医生
+  failure_mode: |
+    "4 周还在闹一定是病" → 反复就医检查 → 全部正常 → 焦虑加剧。
+    "我家宝宝是不是特别难带" — 不,这是 WW19 普遍特征。
+    "断奶吧大不了换奶粉" — 跃迁期断奶失败率最高。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-vanderijt
+  - G-TERM-wonder-week
+  - G-TERM-fussy-phase
+  - G-TERM-3C-signs
+
+citation:
+  book_title_zh: "婴儿大脑跃迁 10 周(神奇周)"
+  book_title_en: "The Wonder Weeks"
+  authors: ["Hetty van de Rijt", "Frans X. Plooij"]
+  authors_zh: ["海蒂·凡德里特", "弗朗斯·普洛伊"]
+  publisher_en: "Kiddy World Publishing"
+  year_en_first: 1992
+  isbn_en: "978-90-79208-12-1"
+  location: "Chapter 6 · Wonder Week 19(this particular fussy period will often last 5 weeks, although it may be as short as 1 week or as long as 6 + From this age on, the new skills are much more complicated to learn, your little one needs more time)"
+  source_id: SRC-013
+
+unit_ids: []
+related_cards:
+  - C-S3-129       # WW19 事件世界
+  - C-S1-179       # 10 个跃迁时间表
+  - C-S2-123       # 跃迁期不睡训不戒奶
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

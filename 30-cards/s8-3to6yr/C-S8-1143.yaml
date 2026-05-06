@@ -1,0 +1,55 @@
+card_id: C-S8-1143
+stages: ['S8']
+tags: ['philosophy', 'lerner_v1', 'oser', 'spirituality', 'meaning']
+
+front:
+  title: "灵性不限于宗教"
+  hook: "意义感终生很重要"
+
+back:
+  why_matters: |
+    Oser Ch 17 综述 — spiritual 发展 不限于宗教信仰,是普世发展维度。
+    3-6 岁阶段的灵性发展任务 —
+    - 意义建构 — "我是谁 / 我为什么在这" 早期版
+    - 关系超越 — "我跟家人 / 自然 / 宇宙的连接"
+    - 价值内化 — "什么重要 / 什么不重要"
+    - 死亡好奇 — "活的 vs 死的 / 永远 vs 暂时"
+    中国非宗教家庭也能培养灵性 —
+    - 通过自然(山 / 海 / 星空)
+    - 通过艺术(音乐 / 绘画 / 诗)
+    - 通过传统(节日 / 祖辈故事)
+    - 通过哲学讨论(适合年龄)
+    数据 — 灵性高的成年人 wellbeing 显著高 → 0-6 岁是基础期。
+  what_to_do:
+    - "自然敬畏 — 户外 / 星空 / 海"
+    - "艺术体验 — 音乐 / 绘画 / 诗"
+    - "传统连接 — 节日 / 祖辈 / 家族"
+    - "哲学讨论 — 适合年龄的'为什么'"
+    - "灵性 = wellbeing 维度不只宗教"
+  failure_mode: |
+    "我家不信教没灵性" — 错。灵性是意义感不限宗教。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Oser
+  - G-TERM-religious-spiritual-development
+
+related_cards:
+  - C-S6-1511
+  - C-S0-1517
+  - C-S8-1136
+  - C-S8-105
+
+citation:
+  source_id: SRC-030
+  source_title: "Handbook of Child Psychology Vol 1: Theoretical Models of Human Development"
+  chapter: "Ch 17 Oser"
+  chapter_offset: 5159842
+  chapter_title: 'Oser / Scarlett / Bucher — Religious/Spiritual Development'
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_followup_needed: 'SRC-030 用 PDF 字节偏移代页码 — 待加 page_pdf 反查工具'

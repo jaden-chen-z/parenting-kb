@@ -1,0 +1,21 @@
+glossary_id: G-TERM-allergy-introduction
+type: term
+display_name: 早期引入过敏原
+full_name_en: "early allergen introduction"
+full_name_zh: "高致敏食物早引入"
+one_liner: |
+  2017 起 NIAID/AAP 共识:4-6 月起医生指导下少量引入花生、鸡蛋、奶等高致敏食物,反而比延后引入显著降低终身过敏率。
+detail: |
+  历史:1990s-2010s 主流是"延后预防"——AAP 一度建议高危娃花生延到 3 岁、鸡蛋 2 岁、牛奶 1 岁。
+  转折:LEAP 试验(2015)和 EAT 试验(2016)证伪延后策略,证明早引入(免疫耐受窗口)反而预防过敏。
+  现行指南(NIAID 2017):严重湿疹/鸡蛋过敏的高危娃 4-6 月医生指导下评估后早引花生;中度湿疹娃 6 月起在家引入花生;一般娃辅食阶段(6 月+)即可引入。
+  注意:不是给整粒花生(窒息风险),而是花生粉/花生酱稀释。
+related_glossary: [G-TERM-LEAP-trial, G-TERM-baby-led-weaning, G-ABBR-LEAP, G-ABBR-AAP]
+related_cards: [C-S3-2248, C-S3-2249]
+sources:
+  - external: "Togias A et al. JACI 2017;139:29-44. NIAID-sponsored expert panel addendum"
+  - external: "Perkin MR et al. NEJM 2016;374:1733-1743 (EAT trial)"
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

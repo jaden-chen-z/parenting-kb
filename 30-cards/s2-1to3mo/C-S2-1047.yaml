@@ -1,0 +1,57 @@
+card_id: C-S2-1047
+stages: [S2]
+tags: []
+
+front:
+  title: "LAM 哺乳避孕"
+  hook: "98 有效但要 3 条"
+
+back:
+  why_matters: |
+    LAM(Lactational Amenorrhoea Method,哺乳闭经法)— WHO 推荐 4 大产后避孕方法之一。
+    3 条件同时满足才有效(>98%):
+    ① 完全母乳(EBF,夜间日间≥4-6 小时一次)
+    ② 婴儿 < 6 月
+    ③ 月经未恢复(产后 56 天后判)
+    失败率 < 2%(完美使用)。
+    机制:吸吮 → 泌乳素 → 抑制 GnRH → 抑制排卵。
+    任一条件失效 → 立刻找其他避孕方法(月经回 / 6 月到 / 加辅食 → LAM 失效)。
+    中国传统'哺乳期不会怀孕' → 部分对(LAM 满足时)+ 部分错(不满足时常误)。
+  what_to_do:
+    - "LAM 3 条件:EBF + < 6 月 + 月经未恢复"
+    - "三个都满足才 >98% — 任一失效就要换"
+    - "夜间不喂(让娃睡过夜)→ LAM 失效"
+    - "加辅食(6 月后)→ LAM 失效"
+    - "月经回 → 立刻换避孕方法"
+  failure_mode: |
+    信'哺乳期不怀孕'但 3 条件不全 → 意外怀孕。
+    LAM 是有条件的天然避孕,不是哺乳期一定有效。
+  evidence_level: A
+
+glossary_refs:
+  - G-TERM-LAM
+  - G-ABBR-EBF
+
+citation:
+  page_title: "Lactational Amenorrhea Method (LAM)"
+  publisher: "World Health Organization & UNICEF"
+  page_url_primary: https://en.wikipedia.org/wiki/Lactational_amenorrhea
+  accessed: 2026-05-04
+  language: en
+  location: "LAM 3 条件 + >98% 有效 + 泌乳素机制"
+  source_id: SRC-031
+
+unit_ids: []
+related_cards:
+  - C-S2-1044
+  - C-S1-1008
+  - C-S0-1024
+  - C-S2-001
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_doc_id_pending: D6
+citation_followup_needed: '已映射真实 doc_id (D6 = WHO Complementary Feeding)'

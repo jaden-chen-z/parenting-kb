@@ -1,0 +1,76 @@
+card_id: C-S6-1393
+stages: [S6]
+tags: [incredible_years, webster_stratton, toddler, lerner_v4]
+
+front:
+  title: IY 学步版父母班
+  hook: IY 学步父母班
+
+back:
+  why_matters: |
+    Incredible Years (神奇岁月) 学步版(Webster-Stratton 12-36 月版)。
+    **IY Toddler version**(12-36 月):
+    - 14-16 周父母班(每周 2 小时)
+    - 视频 + 角色扮演 + 讨论
+    - **聚焦** "正面育儿" + "情绪命名" + "限度"
+    - 跟 IY 标准版(3-8 岁)不同 — 学步前
+    **4 大 模块**:
+    - **child-directed play**:跟着娃兴趣玩 30 分钟/天
+    - **情绪教练**:命名 + 共情情绪
+    - **limit setting**:设限 + 一致 + 温暖
+    - **handling tantrum**:冷静 + 等 + 重新连接
+    **RCT 证据 - 12-36 月**:
+    - 行为问题减 30-40%
+    - 父母焦虑减 25%
+    - 亲子关系改善
+    - 跟 Triple P / PCIT 效果接近
+    **反"硬扛"立场**:
+    - 12-36 月是**自我调节起源**(学步版关键期)
+    - 父母方法决定后期发展
+    - IY 给系统化方法
+    - 不是"等大了就好"
+    **家庭实操**:
+    - 30 分钟"child-directed play"(跟娃兴趣不教)
+    - 情绪命名("你生气" / "你着急")
+    - 设限要温暖 + 一致
+    - tantrum 时冷静等 + 不强制安抚跟现库:跟 V4 IY 总论(C-S8-753)+ V3 Patterson(C-S6-1075)+ Triple P(C-S8-752)+ PCIT(C-S8-754)对接。
+    对中国家长意义:
+    - 12-36 月 IY 学步版可参考
+    - 30 分钟"跟娃兴趣玩"
+    - 情绪命名 + 设限要温暖一致
+    - 行为问题别硬扛找 IY
+  what_to_do:
+    - 12-36 月 IY 学步版可参考
+    - 30 分钟跟娃兴趣玩
+    - 情绪命名+温暖设限
+    - 行为问题别硬扛
+  failure_mode: |
+    "硬扛就行"— 错。RCT 显示 IY 强。
+    "12 月不需父母班"— 错。自调起源期。
+    "打骂就听话"— 错。Patterson 强制循环。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Webster-Stratton
+  - G-TERM-incredible-years
+  - G-TERM-parent-training
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 4 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 4 卷"
+  authors: ['Carolyn Webster-Stratton (cited)']
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 14 · Incredible Years · Toddler version 12-36mo · pp. 565-575"
+  source_id: SRC-029
+
+unit_ids: []
+related_cards:
+  - C-S8-753     # V4 IY 总论
+  - C-S6-1075     # V3 Patterson 强制家庭
+  - C-S6-1388     # V4 学步自我调节萌芽
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

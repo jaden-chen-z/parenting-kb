@@ -23,6 +23,17 @@ back:
     让对方用自己的方式照顾,即便看起来笨拙,也比把对方推开好。
   evidence_level: C
 
+  positions:
+    issue: 隔代育儿边界 — 月嫂 / 婆媳 / 祖父母角色分工
+    views:
+      - school: 海蒂
+        source: SRC-040
+        stance: 祖父母首次到访先约边界;提供操作脚本(角色分工 + 时段安排),直击中国家庭核心冲突。
+      - school: Brazelton
+        source: SRC-010
+        stance: 全家都抢着照顾的描述呼应 — 但侧重发展观察而非边界设定。
+      - school: 中国传统
+        stance: 月嫂 / 奶奶 / 姥姥多人照顾 + 边界模糊 — "都是为了娃好",冲突常发但缺协商工具。
 glossary_refs:
   - G-TERM-gatekeeping
   - G-PERSON-Brazelton

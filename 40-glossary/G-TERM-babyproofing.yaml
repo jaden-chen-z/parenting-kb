@@ -1,0 +1,21 @@
+glossary_id: G-TERM-babyproofing
+type: term
+display_name: babyproofing
+full_name_en: "babyproofing / childproofing"
+full_name_zh: "婴幼儿家庭安全防护"
+one_liner: |
+  娃 6-9 月开始移动前后系统化改造家庭环境,消除窒息/跌落/烫伤/中毒/电击/家具倾倒。AAP 列为 1-4 岁死亡首因预防。
+detail: |
+  起始时机:娃 6 月翻身、7-8 月爬行前完成第一轮;15-18 月会扶站走路时完成第二轮(高度上调)。
+  核心方法——四肢着地视角:父母趴下从娃眼睛高度扫描每个房间。
+  分类清单:窒息源(直径小于 3.5cm 物品/塑料袋/绳索)、跌落源(楼梯顶底装栏门/阳台护栏/防开窗器)、烫伤源(厨房设禁区/热水温低于 49°C/插座盖)、中毒源(清洁剂药品上锁)、家具倾倒(电视/书架固定到墙)、锐角(包硅胶)、水安全(浴缸不留水/马桶盖锁)。
+  数据:CDC 2018 美国 1 岁组意外伤害死亡 1100+,其中窒息占 73%。
+related_glossary: [G-ABBR-CPSC, G-ABBR-AAP]
+related_cards: [C-S4-2148]
+sources:
+  - external: "AAP Committee. Pediatrics 2007;119:202-206"
+  - external: "CDC Childhood Injury Report 2018"
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

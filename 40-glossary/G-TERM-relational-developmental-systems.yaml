@@ -1,0 +1,28 @@
+glossary_id: G-TERM-relational-developmental-systems
+type: term
+display_name: "关系发展系统 / relational developmental systems (RDS)"
+
+name_en: "relational developmental systems (RDS)"
+name_zh: "关系发展系统"
+
+description: |
+  Lerner-Overton 综合框架 — 当代发展心理学元统合(2006+):
+  relational metatheory + dynamic systems + bioecological + lifespan + holistic 综合。
+
+one_liner: |
+  关系发展系统(relational developmental systems (RDS))— Lerner-Overton 综合框架 — 当代发展心理学元统合(2006+):
+
+key_facts:
+  - "Lerner V1 元理论卷核心术语"
+  - "学派:Lerner V1 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,58 @@
+card_id: C-S0-316
+stages: [S0]
+tags: [parenting-mindset, RIE]
+
+front:
+  title: "Magda 8 条好父母品质"
+  hook: "都是矛盾对子要平衡"
+
+back:
+  why_matters: |
+    Magda Gerber《自信的宝宝》Ch4 §The Qualities of a Good Parent。
+    Magda 行医 50+ 年,提炼好父母 8 条品质 — 全部是"矛盾对子",
+    不是单一美德。中国家长常陷入"全心扑上"或"放养"两极,
+    Magda 给的是中间路:
+    1 安心但不僵硬 / 2 接纳但设限 / 3 在但不侵入 /
+    4 耐心但忠于自己 / 5 实际但一致 / 6 抗潮流 /
+    7 给孩子和自己平衡时间 / 8 自尊 = 同等尊重孩子。
+
+  what_to_do:
+    - 孕期就读这 8 条,不是当圣母
+    - 「我要永远耐心」 → 改「耐心但忠于自己」
+    - 你的需要写出来:每周几次独处时间
+    - 跟伴侣对清单,看缺哪几条
+    - 接受会犯错:Hungarian 谚语"宝宝选了你"
+
+  failure_mode: |
+    "我要做完美妈妈" → Magda 反:做真实的人比演完美更好。
+    或反向:"育儿太难放弃自己" → Magda 反:自尊优先,
+    没自尊的父母给不出尊重。8 条都是"中道",任何一极都偏。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+  - G-TERM-respectful-parenting
+
+citation:
+  book_title_en: "Your Self-Confident Baby"
+  book_title_zh: "自信的宝宝"
+  authors:
+    - Magda Gerber
+    - Allison Johnson
+  publisher_en: John Wiley & Sons
+  year: 1998
+  location: "Ch4 §The Qualities of a Good Parent(p58-61)"
+  source_id: SRC-021
+
+unit_ids: []
+related_cards:
+  - C-S0-116  # Lansbury 不演 Mary Poppins(同源:做真实自己)
+  - C-S0-115  # Lansbury 准父母心态
+  - C-S6-138  # Davies 父母先照顾自己
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

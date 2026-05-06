@@ -1,0 +1,78 @@
+card_id: C-S1-409
+stages: [S1]
+tags: [sleep, motor-发展, safety]
+
+front:
+  title: "永远仰卧不俯卧"
+  hook: "趴睡视野受限风险高"
+
+back:
+  why_matters: |
+    Pikler-Gerber 经典立场,1998 比 AAP 还早:
+    新生儿放下睡觉 + 平躺玩,**永远仰卧**。
+    Magda 列两个理由:
+    一,趴时只看到地板 + 颈部累 + 动作受限;
+    仰时全身可动 + 看整屋 + 呼吸更顺;
+    二,SIDS(婴儿猝死)预防黄金原则。
+    AAP 1992 "仰睡" 运动后 SIDS 死亡率降 50%。
+
+  what_to_do:
+    - 床上 / 摇篮 / 玩耍垫上一律仰卧
+    - 不要"短趴一会练颈" — 醒着看护下趴可以,没看护时一律仰
+    - 不用包巾紧裹,用"睡袋"代替(可动手脚)
+    - 等他自己能翻身时再让他选择
+    - 床里别放枕头 / 玩偶 / 厚被子(SIDS 风险)
+
+  failure_mode: |
+    "趴着睡得香" → SIDS 风险翻 4 倍 + 醒着颈部受限。
+    Magda + AAP 一致:0-12 月 100% 仰卧睡。
+
+  evidence_level: B
+
+  positions:
+    issue: 醒着时该不该让宝宝俯卧"练颈肌"(Tummy Time)
+    views:
+      - school: AAP
+        source: SRC-002
+        stance: 推 Tummy Time — 防 SIDS 后颈肌发育 + 防扁头综合征(2026 现行立场,Back to Sleep 1994 后配套)。
+      - school: Pikler
+        source: SRC-026
+        stance: 反 Tummy Time — 仰卧位最佳,俯卧不利自然翻身。1969 立场(那时 Tummy Time 概念尚未出现)。
+      - school: Magda Gerber / Lansbury
+        source: SRC-022/019
+        stance: 继承 Pikler — 永远仰卧不俯卧;给地板时间让婴儿自由探索。
+      - school: 海蒂
+        source: SRC-040
+        stance: 每天清醒至少 30 分钟分多次累计(对齐 AAP)— 主流大众派背书 Tummy Time + 防扁头。
+      - school: 蒙氏(Davies/Lillard)
+        source: SRC-014/016
+        stance: 平面活动 OK,但反对"训练"方式;给地板时间让婴儿自由探索俯卧。
+      - school: 折中建议
+        stance: 不强迫 Tummy Time,但给地板时间允许婴儿自己俯卧探索;若选 AAP 派则醒着每天几次,每次几分钟。
+glossary_refs:
+  - G-PERSON-Gerber
+  - G-PERSON-Pikler
+  - G-ABBR-SIDS
+  - G-TERM-back-sleep
+
+citation:
+  book_title_en: "Your Self-Confident Baby"
+  book_title_zh: "自信的宝宝"
+  authors:
+    - Magda Gerber
+    - Allison Johnson
+  publisher_en: John Wiley & Sons
+  year: 1998
+  location: "Ch3 Where Should My Baby Spend Her Day? + Preventing SIDS"
+  source_id: SRC-022
+
+unit_ids: []
+related_cards:
+  - C-S1-247  # Lillard 一房三人
+  - C-S1-243  # AAP safe sleep
+  - C-S2-290  # Lansbury 不撑坐 8 理由
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

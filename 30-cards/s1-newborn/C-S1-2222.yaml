@@ -1,0 +1,41 @@
+card_id: C-S1-2222
+stages: [S1]
+tags: [red_flag]
+front:
+  title: 阴囊水囊肿区分疝
+  hook: 红肿就医别等
+back:
+  why_matters: |
+    男宝宝阴囊看起来很大 — 多数是阴囊水囊肿(液体积聚、缓冲作用、第一年自然消退、几乎不需治疗)。
+    但要小心腹股沟疝 — 可能和水囊肿同时出现、外观相似,但有几个关键区别。
+    腹股沟疝红旗:1)柔软(水囊肿是充满液体的紧实感);2)发红;3)颜色变化(发紫);4)宝宝表现疼痛/异常烦躁 → 可能嵌顿,立即就医(嵌顿可能影响肠/睾丸血供)。
+    水囊肿无需手术,但要让医生确诊不是疝;疝可能需要手术修补。
+    医生通过触诊和透光试验区分。
+  what_to_do:
+    - 阴囊大让医生看排查是疝是水囊肿
+    - 红肿+变软+变色+疼立即就医(疑嵌顿)
+    - 单纯水囊肿第一年自然退
+    - 别自己按压(可能加重)
+    - 定期复查跟进
+  failure_mode: |
+    把腹股沟疝当水囊肿不就医 → 嵌顿坏死。
+    单纯水囊肿过度焦虑要求手术。
+  evidence_level: B
+glossary_refs: []
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors: ["Heidi Murkoff", "Sharon Mazel"]
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh: ["莫夏迪","张敏"]
+  location: "第 6 章第一个月 · 阴囊肿胀 · 阴囊水囊肿, 页 195"
+  source_id: SRC-040
+related_cards: []
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

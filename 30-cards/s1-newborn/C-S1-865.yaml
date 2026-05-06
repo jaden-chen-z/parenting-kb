@@ -1,0 +1,64 @@
+card_id: C-S1-865
+stages: [S1]
+tags: [shonkoff, nrc, biobehavioral_shift, 过渡, china_high_freq]
+
+front:
+  title: "3 月转折期最折腾"
+  hook: "前 3 月最难撑过"
+
+back:
+  why_matters: |
+    NRC 综述 Ch 5 提"first biobehavioral shift" 第一次行为转折期:
+    **3-4 月**是婴儿发展的 **"换轨"时刻**:
+    1. EEG 脑电波变化(Emde 1976)
+    2. 视觉注意力变规律(Rothbart 1994)
+    3. 哭闹高峰(6-8 周)开始下降
+    4. 气质开始稳定(4 月起 trait 可读)
+    5. 睡眠 14-15 小时 + 整夜睡(4 小时连续 → 8-10 小时)
+    **NRC 综述含义**:0-3 月是 **"intrauterine → extrauterine 过渡"** —
+    宝宝从"妈妈身体调节他"过渡到"自己身体调节自己"。
+    这 3 个月最折腾不是因为"宝宝不正常",是**任务最重**:
+    - 体温自己调
+    - 睡醒节律自己建
+    - 哭闹安抚自己学
+    - 进食 / 排便规律建所有这些之前都是子宫帮做的。
+    **对中国家长**:
+    - 前 3 个月最累不是你做错了 — 是科学定理
+    - 4 月起会突然好转 — 撑过去就行
+    - 别在 0-3 月轻易给"难带"标签 — 现在测不准
+    - 4 月起气质才稳定 — 这时再判断跟 Brazelton "触摸点" 退步即跃迁前奏一致。
+  what_to_do:
+    - 前 3 月撑过最关键
+    - 4 月起会自然好转
+    - 别 0-3 月贴气质标签
+    - 4 月才稳定看气质
+    - 接受 3 月节律乱
+  failure_mode: |
+    "他怎么这么难带 — 我家娃不正常" — 错。前 3 月本来就乱,4 月才稳。
+    硬训"作息 / 睡整觉" 在 1 月时 → 跟生理对抗 → 妈妈精神崩溃。
+    "我家孩子是高需求宝宝" — 在 0-3 月这判断不准,4 月再说。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Shonkoff
+  - G-TERM-biobehavioral-shift
+  - G-TERM-NRC
+
+citation:
+  book_title_en: "From Neurons to Neighborhoods"
+  authors: ["Jack P. Shonkoff", "Deborah A. Phillips"]
+  org: "NRC/IOM"
+  year_en: 2000
+  location: "Ch 5 Self-Regulation · biobehavioral shift discussion"
+  source_id: SRC-025
+
+unit_ids: []
+related_cards:
+  - C-S2-019    # Brazelton 触摸点退步 SRC-010
+  - C-S1-018    # Karp 第四产程 SRC-003
+  - C-S1-253    # Stern emergent self SRC-018
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,36 @@
+card_id: C-S0-2154
+stages: [S0]
+tags: [postpartum, mom, fatigue]
+front:
+  title: 父母疲劳综合征第一年逃不掉
+  hook: 第一年累是常态不是失败
+back:
+  why_matters: |
+    前情:产后 6 周以为身体恢复就该精神,实际更累。
+    海蒂指出第一年抚养宝宝在情感和身体上都极度劳累,紧张压力远超 8 小时工作制,几乎没妈妈能逃过这种持续疲劳。这不是妈妈不行,是这阶段的客观规律,接受比硬扛更重要。
+  what_to_do:
+    - 产后 6 周后累是正常别自责
+    - 宝宝小睡时跟着小睡 15 分钟
+    - 让爸爸夜里轮值喂奶
+    - 尽早上床别熬夜刷手机
+    - 把"我不该这么累"换成"现在累正常"
+  failure_mode: 误以为累是自己能力差,硬撑导致免疫下降、奶量降、情绪崩,反过来损害宝宝。
+  evidence_level: B
+glossary_refs: [G-TERM-postpartum-recovery]
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors: ["Heidi Murkoff", "Sharon Mazel"]
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh: ["莫夏迪", "张敏"]
+  location: "第 23 章 《妈妈的第一年》, 页 671-673"
+  source_id: "SRC-040"
+related_cards: [C-S0-2153, C-S0-2155, C-S0-2161]
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

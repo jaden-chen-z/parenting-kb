@@ -1,0 +1,28 @@
+glossary_id: G-TERM-assimilation-accommodation
+type: term
+display_name: "同化 vs 调节 / assimilation vs accommodation"
+
+name_en: "assimilation vs accommodation"
+name_zh: "同化 vs 调节"
+
+description: |
+  Brandtstädter 双过程 — 改环境(assimilate)还是改自己(accommodate)。
+  两者交替,不是非此即彼。
+
+one_liner: |
+  同化 vs 调节(assimilation vs accommodation)— Brandtstädter 双过程 — 改环境(assimilate)还是改自己(accommodate)。
+
+key_facts:
+  - "Lerner V1 元理论卷核心术语"
+  - "学派:Lerner V1 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

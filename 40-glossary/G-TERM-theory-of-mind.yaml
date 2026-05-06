@@ -1,0 +1,88 @@
+glossary_id: G-TERM-theory-of-mind
+type: term
+display_name: 心智理论 (theory of mind)
+
+full_name_zh: 心智理论
+full_name_en: Theory of Mind (ToM)
+
+one_liner: |
+  推断他人想法 / 信念 / 欲望的能力。
+  4-5 岁通过"错误信念"测试,但根在出生即模仿("like me")— 是社交认知的核心。
+
+detail: |
+  ## 定义
+  能区分"**自己心里的**"vs"**别人心里的**" — 知道别人有独立心智。
+  例:"妈妈心情不好,我别再哭闹"= 4 岁后才稳定的能力。
+
+  ## 发展窗口
+  - **0-1 月**:模仿 / 偏好人脸 → "like me"机制萌芽(Meltzoff 1977)
+  - **6-9 月**:joint attention(共同注视)— 跟你看同一个东西
+  - **12 月**:social referencing — 看妈妈表情决定要不要靠近
+  - **18 月**:理解他人**欲望** — Repacholi & Gopnik 1997 西兰花 vs 饼干实验
+  - **2-3 岁**:理解"愿望"vs"现实"
+  - **4-5 岁**:通过"错误信念"测试 — 知道别人可能误信
+  - **5-7 岁**:理解"白谎"(善意欺骗)
+  - **6-8 岁**:理解二阶 ToM("他以为我以为他...")
+
+  ## 经典实验
+
+  ### 1. Repacholi & Gopnik 1997 西兰花 / 饼干
+  - 18 月宝宝:大人吃饼干说"yuck",吃西兰花说"yum"
+  - 然后大人伸手要东西 — 18 月给西兰花(不是给自己爱的饼干)
+  - **理解:大人欲望 ≠ 我的欲望**
+
+  ### 2. 错误信念测试(False Belief Task,Wimmer & Perner 1983)
+  - Sally 把球放盒子里出门;Anne 偷偷把球移到篮子
+  - Sally 回来会去哪找?
+  - 3 岁:答篮子(自己知道球在哪 = 别人也知道)
+  - 4-5 岁:答盒子(理解 Sally 是错信)— 通过 ToM
+
+  ### 3. 自闭症 ToM 缺陷(Baron-Cohen 1985)
+  - 自闭症儿童在错误信念测试上显著落后
+  - ToM 缺陷是自闭症核心特征之一
+
+  ## 中国家长意义
+
+  ### 1. 4 岁前 ToM 没完成
+  - 不要怪孩子"自私"— 他真的不懂你心里啥感受
+  - "你怎么不懂事"= 在 4 岁前问错问题
+  - 期待 ToM 该等大脑成熟,不是道德教育
+
+  ### 2. 共情培养
+  - 0-3 岁不是"教共情",是**示范共情**
+  - 你共情宝宝(命名情绪 / 理解感受)→ 他长大后会共情别人
+  - "你打弟弟,弟弟疼"(讲事实)+ 妈妈表情(示范共情)
+
+  ### 3. 不要测试错误信念过早
+  - 4 岁前测 ToM = 测不到,因为还没发育
+  - 不是孩子"不聪明",是大脑窗口没到
+
+  ## 跟其他术语关系
+  - **Imitation**:ToM 的根("like me"机制)
+  - **Joint Attention**:6-9 月 ToM 早期表现
+  - **Bowlby Internal Working Model**:ToM 的依恋视角(对自己 + 别人的工作模型)
+
+key_facts:
+  - 推断他人心理状态的能力
+  - 根在出生模仿("like me")
+  - 错误信念 4-5 岁通过
+  - Repacholi & Gopnik 1997 18 月理解他人欲望
+  - 自闭症核心缺陷之一
+
+related_glossary:
+  - G-PERSON-Gopnik
+  - G-PERSON-Meltzoff
+  - G-TERM-imitation
+  - G-TERM-baby-scientist
+  - G-TERM-internal-working-model
+
+related_cards: []
+
+sources:
+  - source_id: SRC-015
+  - external: Premack & Woodruff 1978 / Wimmer & Perner 1983 / Repacholi & Gopnik 1997
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

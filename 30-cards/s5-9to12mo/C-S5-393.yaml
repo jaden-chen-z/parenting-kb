@@ -1,0 +1,59 @@
+card_id: C-S5-393
+stages: [S5]
+tags: [autonomy, RIE, lansbury]
+
+front:
+  title: "粘人是分别 + 独立的'拉锯'"
+  hook: "独立感是练出来的"
+
+back:
+  why_matters: |
+    Lansbury Ch11:9-12 月粘人期不是"宝宝有问题",
+    是发展任务 — 宝宝意识"我跟你是独立的人",
+    既渴望独立又害怕分别 → 拉锯。
+    解决不是"满足所有粘",是"建立小独立的种子"。
+    几分钟独自看天花板 / 几分钟自玩 → 宝宝学到"独自也行"。
+    RIE 的"基本信任":宝宝有能力,不是 helpless。
+
+  what_to_do:
+    - 不秒回所有粘要求,等几秒看他
+    - 给"小独立"机会(几分钟自玩)
+    - 别把粘理解为"必须全程抱"
+    - 离开必告知 + 自信 + 接受哭情绪
+    - 大人也别全程焦虑回应,演示从容
+
+  failure_mode: |
+    "粘是缺爱要全满足" → 反:无止境的全满足让宝宝更没自我感。
+    或反向:"粘是惯坏" → 强行分离更焦虑。
+    中道:既给独立种子,又给情绪接受。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Lansbury
+  - G-PERSON-Gerber
+  - G-PERSON-Bowlby
+  - G-TERM-RIE
+
+citation:
+  book_title_en: "Elevating Child Care: A Guide to Respectful Parenting"
+  book_title_zh: "尊重孩子:RIE 育儿之道"
+  authors:
+    - Janet Lansbury
+  publisher_en: JLML Press
+  year: 2014
+  location: "Ch11 Calming Your Clingy Child"
+  source_id: SRC-019
+
+unit_ids: []
+related_cards:
+  - C-S4-297  # Lansbury 9-12月分离焦虑
+  - C-S2-291  # Lansbury 独处不是被忽视
+  - C-S5-137  # Davies 6-16 月黏人是健康
+  - C-S5-076  # Bowlby V1 抱毯子玩偶不是怪癖
+  - C-S6-068  # Bowlby V1 2 岁是依恋顶峰然后过渡
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

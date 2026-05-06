@@ -1,0 +1,63 @@
+card_id: C-S3-836
+stages: [S3]
+tags: [pikler, motor-发展, free-play, source-de, controversy]
+
+front:
+  title: "抓握:玩具放手边自学"
+  hook: "替练抓握反而拖慢自然"
+
+back:
+  why_matters: |
+    Pikler 1969 Ch2 + Ch6 立场:3-6 月是抓握(Greifen)
+    自然发展期。婴儿自己发现"我有手 + 手指能动 + 能放嘴"— 这个过程不能替。
+
+    背景:1960s 父母会"塞玩具到宝宝手里" / "教抓握"
+    / "抓住宝宝手摇拨浪鼓"。Pikler 数据:这些干预反而拖慢自然抓握(平均晚 2-3 周完成 grasp reflex 转
+    voluntary grasp 阶段)。
+
+    Pikler 关键 Ch6 描述:婴儿自己发现两手 / 手指 /
+    嘴的关系是脑发展里程碑(Magda 后来命名 Self-discovery)。
+    替他做 = 偷走发现机会(Piaget 名言:"教一次就剥夺他一辈子自己发现的机会")。
+
+    Magda Educaring(SRC-022 Tell Before Do)+ Lansbury
+    7 myths play(SRC-019 Ch15)立场源头。
+
+  what_to_do:
+    - 玩具放在手边 — 距离合适让他自己够
+    - 不"塞"玩具进手里(干扰)
+    - 不"摇拨浪鼓 + 抓住他手摇"(替练)
+    - 让他用嘴探索 — 安全玩具不怕脏(消毒过)
+    - 看到他抓到了 — 不夸不评论,继续观察
+
+  failure_mode: |
+    "5 月不会抓玩具是不是落后" → Pikler 反:Pikler 数据抓握自然发展 3-7 月正常。不会抓多半因玩具距离不对或被剥夺自由动手机会(襁褓紧 / 大人替操作)。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Pikler
+  - G-TERM-bewegungsentwicklung
+  - G-TERM-beobachten-ohne-eingreifen
+
+citation:
+  book_title_de: "Friedliche Babys – zufriedene Mütter"
+  book_title_zh: "和平的婴儿 — 满足的母亲"
+  authors:
+    - Emmi Pikler
+  publisher_de: HERDER (HERDER / SPEKTRUM Band 4141)
+  year: 1969
+  location: "Ch2 + Ch6 Daumen pp. 137-145"
+  source_id: SRC-026
+
+unit_ids: []
+related_cards:
+  - C-S3-295  # Lansbury 被动玩具 + 主动孩子(本卷源头)
+  - C-S2-290  # Lansbury 不撑坐 8 理由
+  - C-S4-349  # Gerber 里程碑不是赛跑
+  - C-S3-191  # Lillard 大动作发展
+  - C-S0-167  # Magda 7 大育儿原则
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

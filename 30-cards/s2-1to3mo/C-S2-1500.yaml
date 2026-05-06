@@ -1,0 +1,50 @@
+card_id: C-S2-1500
+stages: ['S2']
+tags: ['relationships', 'lerner_v1', 'bronfenbrenner', 'microsystem']
+
+front:
+  title: "微观 = 你跟娃日常"
+  hook: "家就是发展实验室"
+
+back:
+  why_matters: |
+    Bronfenbrenner microsystem 在 1-3 月这个阶段特别关键 —
+    婴儿 99% 时间在 microsystem(家 + 主要看护人)里。
+    microsystem 质量 = 你跟娃日常互动的"频率 × 时长 × 反应度 × 情感色调"4 维。
+    Lerner V1 综述强调 — 这个阶段的 microsystem 质量预测后期社会情绪发展。
+    但中国家庭常 microsystem 多人同时介入(爸 + 妈 + 爷 + 奶 + 阿姨)— 不一定是坏事 —
+    关键是几个看护人之间是 mesosystem(协调一致)还是冲突(规则不一)。
+  what_to_do:
+    - "主要看护人 1-2 个(婴儿期减少混乱)"
+    - "看护人之间规则统一(meso 健康)"
+    - "抱 / 喂 / 哄反应度高(serve & return)"
+    - "哭就回应不会'惯坏'"
+    - "微观日常互动 = 发展核心"
+  failure_mode: |
+    微观看护人 5+ 个轮换规则不一 — 微观质量低,娃焦虑增。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Bronfenbrenner
+  - G-TERM-microsystem
+  - G-TERM-proximal-processes
+
+related_cards:
+  - C-S0-1500
+  - C-S0-1502
+  - C-S2-549
+  - C-S2-940
+
+citation:
+  source_id: SRC-030
+  source_title: "Handbook of Child Psychology Vol 1: Theoretical Models of Human Development"
+  chapter: "Ch 14 Bronfenbrenner & Morris"
+  chapter_offset: 4361343
+  chapter_title: 'Bronfenbrenner & Morris — Bioecological Model'
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_followup_needed: 'SRC-030 用 PDF 字节偏移代页码 — 待加 page_pdf 反查工具'

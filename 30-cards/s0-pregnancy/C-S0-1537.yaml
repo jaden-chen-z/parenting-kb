@@ -1,0 +1,55 @@
+card_id: C-S0-1537
+stages: ['S0']
+tags: ['philosophy', 'lerner_v1', 'cairns', 'history', 'three_grand_systems']
+
+front:
+  title: "心理学 3 大派"
+  hook: "认知精分行为 3 派"
+
+back:
+  why_matters: |
+    Cairns & Cairns(Lerner V1 Ch 3)给发展心理学百年史 —
+    20 世纪主流是 "three grand systems" 三大派:
+    - Cognitive-developmentalism(认知派)— Piaget / Vygotsky
+    - Psychoanalysis(精神分析派)— Freud / Erikson / Bowlby
+    - Learning theory(学习理论派)— Skinner / Bandura
+    中国家长接触的育儿书都属于这 3 派之一(或衍生):
+    - 蒙氏 / 早教 / Gopnik = 认知派
+    - Bowlby / Stern / Ainsworth = 精神分析派(扩展为依恋派)
+    - 行为训练 / Brazelton 部分 / 强化奖励 = 学习理论派意义 — 知道一本书是哪派,你就知道它的盲点(每派都有偏)。
+    当代综合派(Lerner / Bronfenbrenner / dynamic systems)= 3 派融合 + 跨学科。
+  what_to_do:
+    - "认出每本书属于哪派"
+    - "知道每派盲点 — 都有偏"
+    - "认知派偏 — 忽视情绪 + 关系"
+    - "精分派偏 — 忽视行为 + 学习"
+    - "学习派偏 — 忽视主动 + 关系 + 综合派融合"
+  failure_mode: |
+    不分派别 — 看一本书就当真理。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Cairns-R
+  - G-PERSON-Cairns-B
+  - G-TERM-three-grand-systems
+  - G-TERM-history-of-developmental-psych
+
+related_cards:
+  - C-S0-1125
+  - C-S0-1535
+  - C-S0-1536
+  - C-S0-722
+
+citation:
+  source_id: SRC-030
+  source_title: "Handbook of Child Psychology Vol 1: Theoretical Models of Human Development"
+  chapter: "Ch 3 Making of Developmental Psychology (Cairns & Cairns)"
+  chapter_offset: 490000
+  chapter_title: 'Cairns & Cairns — Making of Developmental Psychology (history)'
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_followup_needed: 'SRC-030 用 PDF 字节偏移代页码 — 待加 page_pdf 反查工具'

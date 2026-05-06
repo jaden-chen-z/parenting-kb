@@ -1,0 +1,27 @@
+glossary_id: G-TERM-5C-framework
+type: term
+display_name: "5C 框架 / 5C framework"
+
+name_en: "5C framework"
+name_zh: "5C 框架"
+
+description: |
+  PYD 核心维度:Competence(能力)/ Confidence(自信)/ Connection(连接)/ Character(品格)/ Caring(关怀)。
+
+one_liner: |
+  5C 框架(5C framework)— PYD 核心维度:Competence(能力)/ Confidence(自信)/ Connection(连接)/ Character(品格)/ Caring(关怀)。
+
+key_facts:
+  - "Lerner V1 元理论卷核心术语"
+  - "学派:Lerner V1 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

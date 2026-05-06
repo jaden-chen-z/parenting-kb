@@ -1,0 +1,55 @@
+card_id: C-S2-348
+stages: [S2]
+tags: [sleep, routine]
+
+front:
+  title: "白天平静晚上才睡"
+  hook: "刺激越多睡得越差"
+
+back:
+  why_matters: |
+    Magda 反"白天闹够晚上才肯睡"民间说法。
+    实际相反:**peaceful days → peaceful nights**。
+    白天过度刺激(声光 / 频繁抱出门 / 大动作)
+    → 神经系统超负荷 → 晚上反而醒得多 / 睡得碎。
+    Magda 引欧洲传统:重视宝宝睡眠权,不让"娱乐"挤掉。
+    跟 Karp 4S 之前的"前 3 月降刺激"思路一致。
+
+  what_to_do:
+    - 白天不堆玩 / 不串门 / 不跑超市
+    - 听到困信号(揉眼 / 打哈欠)立刻安排睡
+    - 睡前 30 分钟降光线 + 噪音
+    - 不强行"白天少睡换晚上多睡" — 反着才有效
+    - 一天醒了 3+ 段就重新评估白天活动量
+
+  failure_mode: |
+    "白天让他闹个够晚上才好睡" → 越闹晚上越炸。
+    Magda 谚:"睡得多才能睡得多"。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+
+citation:
+  book_title_en: "Your Self-Confident Baby"
+  book_title_zh: "自信的宝宝"
+  authors:
+    - Magda Gerber
+    - Allison Johnson
+  publisher_en: John Wiley & Sons
+  year: 1998
+  location: "Ch3 Peaceful Days Help Your Baby Sleep at Night"
+  source_id: SRC-022
+
+unit_ids: []
+related_cards:
+  - C-S1-243  # AAP safe sleep
+  - C-S2-345  # Magda 可预测胜新奇
+  - C-S6-466  # Magda 序列睡前哲学(本卷)
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

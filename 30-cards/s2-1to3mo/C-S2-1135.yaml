@@ -1,0 +1,64 @@
+card_id: C-S2-1135
+stages: [S2]
+tags: [cognitive_science, language, parentese, lerner_v2]
+
+front:
+  title: 跟宠物说话不一样
+  hook: 物种独有的语调密码
+
+back:
+  why_matters: |
+    Burnham/Kitamura/Vollmer-Conna 2003 关键发现(Lerner V2 Ch2 引用)。
+    问题:大人对宠物也用类似 parentese(高音调慢语速)— 是不是 parentese 就是简单情感语?
+    实验对比 3 组:
+    - 大人对婴儿说话(夸张化元音空间 + 高音 + 慢)
+    - 大人对宠物说话(高音 + 慢,但**元音空间没夸张**)
+    - 大人对成人说话(平常)
+    结果:**只对婴儿才有元音空间夸张化**(关键的语言学习信号)。
+    意义:
+    - parentese 的"夸张元音"是种内独有 = 人类自动给婴儿当语言老师
+    - 不是单纯情感,是大脑专门为"语言学习者"调出的
+    - 这跟 Liu/Kuhl/Tsao 2003 配:母亲元音夸张越多 → 6-12 月音素辨别越好跟现库:G-TERM-parentese 已建,Lerner V2 给"种内独有"的关键证据。
+    跟 Lansbury 反"装弱智说话"立场对接 — 装弱智是无效的(没元音夸张),parentese 才有效。
+    对中国家长意义:
+    - 普通话 parentese:多拖元音(妈~~ 妈~~ 来~~)
+    - 不是装弱智,是大脑自动给孩子调出的语言信号
+    - 跟宠物说话的高音 ≠ parentese,别混
+  what_to_do:
+    - 0-2 月起就用 parentese(高音 + 拖元音 + 慢)
+    - 重点是元音夸张,不只是高音
+    - 真人面对面说,不要电视/CD 背景
+    - 不用担心"装弱智" — 大脑自动调出
+  failure_mode: |
+    "对宝宝高音说话像逗狗" — 错。元音夸张化是关键差异。
+    "用普通成人语速 + 词汇" — 没用 parentese,语言学习慢。
+    "听 CD/电视代替 parentese" — 录音没回应,无效。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Kuhl
+  - G-TERM-parentese
+  - G-TERM-perceptual-narrowing
+  - G-PERSON-Werker
+  - G-PERSON-Saffran
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 2 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 2 卷"
+  authors: ["Jenny R. Saffran", "Janet F. Werker", "Lynne A. Werner"]
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 2 · Parentese species-specificity · p. 121"
+  source_id: SRC-028
+
+unit_ids: []
+related_cards:
+  - C-S5-016       # 鲍秀兰 parentese 教语言
+  - C-S3-187       # Gopnik Kuhl 知觉重组
+  - C-S3-1139     # Vowel 重组先于 consonant
+  - C-S6-926       # Shonkoff Hart-Risley 30M
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

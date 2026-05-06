@@ -1,0 +1,39 @@
+audit_dimension: 12_translation_inconsistency
+sample_size_terms: 30
+P0_critical_findings:
+  - {term: still-face, conflict: G-TERM-still-face("静止脸") vs G-TERM-still-face-experiment("扑克脸"), action: 合并保留扑克脸版}
+  - {term: affective-attunement, conflict: G-TERM-affective-attunement("情感调谐") vs G-TERM-emotional-attunement("情绪同调"), action: 合并保留情感调谐版}
+  - {term: internal-working-model, conflict: G-TERM-internal-working-model vs G-TERM-internal-working-models(同概念两卡仅差 s), action: 合并单数版}
+  - {term: self-regulation, conflict: G-TERM 卡 zh_term 写"自我调节"但同卡 detail 大量用"自调节",全库 95 vs 54, action: 全库统一"自我调节"}
+  - {term: theory-of-mind, conflict: G-TERM 标准"心理理论"(5) << 变体"心智理论"(21),全库主流用"心智理论", action: 决策 — 改标准为"心智理论"或全库批量改为"心理理论"}
+  - {term: attachment_4_types, conflict: G-TERM-attachment("矛盾型/混乱型") vs G-TERM-internal-working-model("抗拒型/混乱型"), action: 全库统一"抗拒型 + 混乱型"}
+  - {term: tantrum, conflict: G-TERM-tantrum + G-TERM-tantrum-antaeus + G-TERM-Antaeus-tantrum 三卡疑重复, action: 合并去重}
+P1_findings:
+  - {term: serve-and-return, standard: 一来一回, drift: 应答互动 occurs in C-S1-043, severity: P1}
+  - {term: joint-attention, standard: 共同注视, drift: 共同注意 13 vs 共同注视 4, severity: P1}
+  - {term: co-regulation, standard: 共同调节(2), drift: 共调节(10), action: 统一共同调节}
+  - {term: yes-space, standard: 可探索区(6), drift: 安全空间(11), action: 统一可探索区}
+  - {term: parentese, issue: G-TERM full_name_zh 写"父母语/母语"歧义(母语=native language), action: 删除母语副译}
+  - {term: joint-attention, issue: full_name_zh 双译"共同注视/共同注意"造成分裂, action: 决定唯一标准}
+P2_minor:
+  - {term: object-permanence, drift: 客体永久性(2) 偶现, severity: P2}
+  - {term: vitality-affects, issue: 双译"活力情感/生命情感", action: 删生命情感}
+  - {term: scaffolding, issue: "脚手架"(8) vs "搭脚手架"(3), note: 名词 vs 动词,可保留}
+  - {term: skin-to-skin, drift: "肌肤接触"(38) vs "皮肤接触"(4), action: 统一肌肤接触}
+  - {term: stranger-anxiety, issue: 学术"陌生人焦虑"(38) + 俗语"怕生"(37) "认生"(17), note: 兼容并用,但需首次出现锚定}
+  - {term: sportscasting, drift: "实况转播"(8) vs "体育解说"(3), action: 统一实况转播}
+intentional_distinctions_keep:
+  - {pair: critical-period vs sensitive-period, note: 不同学派故意区分,关键期 151 vs 敏感期 96 并存合理}
+  - {pair: marshmallow-test vs delayed-gratification, note: 实验名 vs 概念名}
+  - {pair: mutual-gaze vs joint-attention, note: 二者关系 vs 三者关系}
+glossary_card_internal_conflicts: 6 对重复 G-TERM 卡需合并(详见 P0)
+flagged_for_translation_pending:
+  - mutual-regulation: G-TERM 缺位
+  - sensorimotor-stage: G-TERM 缺位(感知运动期 3 vs 感觉运动期 1)
+  - mutual-gaze: G-TERM 缺位
+notes: |
+  整体翻译一致性评分:中等。
+  术语卡建立完整(544 卡,30 核心 term 都覆盖),但建立后无强制统一机制 → 全库漂移率 20-30%。
+  修复杠杆:① 6 对重复 G-TERM 卡合并(P0 主要来源) ② full_name_zh 字段去双译 ③ 全库批量替换标准译。
+  关键发现:多个标准译反而少于变体(self-regulation/theory-of-mind/joint-attention/yes-space 等)— G-TERM 建立后未做全库批量替换。
+  审计员未自动 Edit:大部分 P0 需先决定"标准应改为哪个"(决策权应由用户而非审计员)。建议下游 fix-translation 任务先做术语决策,再批量 sed/Edit。

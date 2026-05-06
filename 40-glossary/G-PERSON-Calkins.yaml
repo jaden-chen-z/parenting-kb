@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Calkins
+type: person
+display_name: "Calkins(苏珊·卡尔金斯)"
+
+full_name_en: "Susan D. Calkins"
+full_name_zh: "苏珊·卡尔金斯"
+
+position: |
+  UNC Greensboro 心理学教授
+
+contribution: |
+  早期情绪调节 + 婴儿自我安抚研究
+
+one_liner: |
+  苏珊·卡尔金斯 — 早期情绪调节 + 婴儿自我安抚研究
+
+key_facts:
+  - "本卷章节:Ch 5"
+  - "Lerner V3 命中:52 次"
+  - "学派:Lerner V3 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-027
+    chapter: "Ch 5"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

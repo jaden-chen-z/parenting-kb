@@ -1,0 +1,69 @@
+card_id: C-S5-1139
+stages: [S5]
+tags: [cognitive_science, A_not_B, thelen, lerner_v2]
+
+front:
+  title: A-not-B 不是不懂是手控
+  hook: 动力学不是认知不全
+
+back:
+  why_matters: |
+    Thelen/Smith 1994 + Lerner V2 Ch4/Ch10 综述。
+    Piaget 经典 A-not-B 错误:
+    - 9-12 月反复藏物在 A 处,宝宝伸手找
+    - 改藏 B 处,宝宝**仍去 A**(明明看到藏 B)
+    - Piaget 解读:物体永久性不全 — 把 A 跟物体绑定
+    Thelen 动态系统派反驳:**不是认知不懂,是身体动力学**。
+    实验证明:
+    - 改让宝宝穿不同重量"运动臂",反应模式变
+    - 关键不在"知不知道",在"伸手运动惯性"
+    - A-not-B 错误本质是动作记忆 ≠ 视觉记忆
+    Diamond 1988+ 神经科学派补充:
+    - **PFC 抑制控制**未成熟也是因素
+    - 12 月后 PFC 发育 + A-not-B 错误消失意义:
+    - 同一现象 3 派解释:Piaget 概念 / Thelen 动力 / Diamond 神经
+    - V2 综述给最新立场:动力 + 神经联合,不是单纯概念跟现库:跟 Spelke 4 月物体永久(C-S3-188)调和 — 概念 4 月有,行动 12 月才协调。
+    Lerner V2 Ch10 Munakata 连接主义模型也解释(渐变表征)。
+    对中国家长意义:
+    - 9-12 月 A-not-B 错误 = 正常,不是"傻"
+    - 不必"测试"宝宝是否懂物体永久 — 概念早就有
+    - 行动协调要 12 月后逐渐成熟
+  what_to_do:
+    - 9-12 月不要"考验"宝宝藏物找
+    - 看到 A-not-B 错误别担心
+    - 给宝宝多伸手实践(不用纠正)
+    - 12 月后自动会改善
+  failure_mode: |
+    "宝宝 A-not-B 错就是没认知" — 错。是行动协调。
+    "Piaget 解读全对" — 错。V2 综述明确推翻。
+    "测试出 A-not-B 就是落后" — 错。是发育常态。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Piaget
+  - G-PERSON-Spelke
+  - G-TERM-object-permanence
+  - G-PERSON-Thelen
+  - G-TERM-A-not-B
+  - G-PERSON-Munakata
+  - G-PERSON-Adolph
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 2 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 2 卷"
+  authors: ["Karen E. Adolph", "Sarah E. Berger", "Yuko Munakata"]
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 4 · Dynamic systems / Ch 10 · A-not-B Munakata model · pp. 161-163, 432-435"
+  source_id: SRC-028
+
+unit_ids: []
+related_cards:
+  - C-S3-188       # Spelke 4 月物体永久(概念早)
+  - C-S3-1140     # Baillargeon 吊桥
+  - C-S4-003       # AAP 物体永久(传统 8 月)
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

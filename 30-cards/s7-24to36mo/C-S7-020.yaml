@@ -20,8 +20,22 @@ back:
     "别人都早教我们也得"→ 早教泡沫期之后陷入失落。"孩子是天才"满足表演型成就 → 缺乏自我驱动学习的能力。选了"超前学习"的幼儿园 → 失去 emotional learning 关键窗口。
   evidence_level: B
 
+  positions:
+    issue: 0-3 岁是否需要主动教学 · 早教班 · 闪卡 · Mozart 效应
+    views:
+      - school: Brazelton
+        source: SRC-010
+        stance: 3 岁前不教读写。Erikson 框架下情感发展优先于认知训练。
+      - school: Gopnik
+        source: SRC-015
+        stance: Mozart 效应是骗局;闪卡无效;教越多越拖累自主探索;突触修剪是优化非损失。
+      - school: 蒙氏(Lillard/Davies)
+        source: SRC-014/016
+        stance: 反对主动教学。提供 prepared environment + 观察 + 不打扰,孩子主导探索节奏。
+      - school: 中国主流
+        stance: 早教班 / 闪卡 / 双语早教 / Mozart 胎教 / "赢在起跑线" — 商业产业链已成熟。
 glossary_refs:
-  - G-TERM-school-readiness
+  - G-TERM-school-准备好
   - G-PERSON-Erikson
   - G-PERSON-Brazelton
 

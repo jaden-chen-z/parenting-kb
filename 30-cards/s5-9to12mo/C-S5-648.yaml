@@ -1,0 +1,47 @@
+card_id: C-S5-648
+stages: [S5]
+tags: [safety, exploration, accident-prevention]
+
+front:
+  title: 9-10 月探索期防事故
+  hook: 6 类"创造性"事故清单
+
+back:
+  why_matters: |
+    松田列出 9-10 月婴儿"创造性"事故 — 弄倒酱油瓶、洒油、吃香烟、喝洗涤剂、吃安眠药。
+    随运动力增强,坠落事故比之前更多,几乎没有娃没经历过坠落。
+    "对什么东西都想试一试"是发展正常,妈不能阻止探索,只能调整环境。
+    跟妈在 1 个房间但娃自己玩 — 这阶段独玩时间延长。
+  what_to_do:
+    - 烟灰缸/打火机收高处
+    - 化妆品/洗涤剂上锁
+    - 药物所有上锁(包括外婆药)
+    - 床周软垫 + 桌角防撞
+    - 电源开关装防触套
+  failure_mode: |
+    "我家娃乖不会乱碰" → 几秒注意力差就吃药/喝洗涤剂,送医都晚。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Matsuda
+
+citation:
+  book_title_zh: "定本《育儿百科》"
+  book_title_jp: "育児の百科(定本)"
+  authors: ["松田道雄"]
+  translators_zh: ["王少丽"]
+  publisher_zh: null
+  year: 1980
+  edition: "定本"
+  location: "第 271 节从 9 个月到 10 个月"
+  source_id: SRC-023
+
+unit_ids: []
+related_cards:
+  - C-S4-005  # AAP 学步车反对
+  - C-S5-017  # 鲍秀兰 12 月走路训练 5 法
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

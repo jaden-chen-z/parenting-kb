@@ -1,0 +1,47 @@
+card_id: C-S6-666
+stages: [S6]
+tags: [motor-发展, anti-anxiety, leg-shape]
+
+front:
+  title: 1 岁 O 型腿是生理
+  hook: 1 岁 7 月起逐渐变直
+
+back:
+  why_matters: |
+    松田明确数字:出生到 1 岁半的孩子都是 O 型腿(两脚并拢膝关节有缝隙)。
+    1 岁 7 月左右开始变直,2 岁左右又变成 X 型腿。
+    膝关节/小腿完全无缝隙,要等 4-7 岁。
+    踮着脚尖走路也是正常。中国家长被"罗圈腿"焦虑误诊为"补钙不够",硬给娃绑腿/夹板。
+  what_to_do:
+    - 1 岁 O 型腿不焦虑
+    - 2 岁 X 型腿也不焦虑
+    - 4 岁前都看自然
+    - 不强行绑腿/夹板
+    - 4 岁 + 仍明显找儿科
+  failure_mode: |
+    奶奶说"罗圈腿是缺钙" → 妈疯狂补钙 + 找绑腿,真损发育。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Matsuda
+
+citation:
+  book_title_zh: "定本《育儿百科》"
+  book_title_jp: "育児の百科(定本)"
+  authors: ["松田道雄"]
+  translators_zh: ["王少丽"]
+  publisher_zh: null
+  year: 1980
+  edition: "定本"
+  location: "第 323 节从 1 岁到 1 岁半"
+  source_id: SRC-023
+
+unit_ids: []
+related_cards:
+  - C-S5-651  # 自卷:9-10 月运动差异大
+  - C-S5-017  # 鲍秀兰 12 月走路训练 5 法
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

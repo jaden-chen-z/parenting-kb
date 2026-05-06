@@ -1,0 +1,96 @@
+glossary_id: G-TERM-active-participant-caregiving
+type: term
+display_name: 主动参与护理(基本原则 5)
+
+full_name_en: Active Participant in Caregiving
+full_name_zh: 主动参与护理
+
+one_liner: |
+  Magda 8 大基本原则之第 5:
+  护理活动(尿布 / 穿衣 / 喂奶 / 洗澡)不是"父母对宝宝做的事",
+  是**邀请宝宝主动参与**的合作活动。
+  跟"他不懂事先做完"心态相反。
+
+detail: |
+  ## Magda 原话
+  Ch1 Basic Principle 5:
+  > "Involvement of the child in all caregiving activities to allow the child to become an active participant rather than a passive recipient."
+
+  ## 怎么"邀请参与"?
+  根据宝宝月龄能力升级:
+
+  ### 0-3 月
+  - 跟他说话 + 等反应
+  - 慢慢动作,不"快速搞定"
+  - 看他的表情决定下一步速度
+
+  ### 3-6 月
+  - 等他配合("现在伸手") + 等动作
+  - 挑选 — 给他两个选择(蓝衣 vs 红衣)
+  - 让他抓 / 看 / 探索过程中的物品
+
+  ### 6-12 月
+  - 让他帮忙拿东西("把毛巾拿来")
+  - 让他自己抓食物
+  - 让他自己擦脸 / 试穿衣
+
+  ### 12+ 月
+  - 完整任务参与("我们一起把袜子穿上")
+  - 选择多元化(吃什么 / 穿什么 / 玩什么)
+  - 让他指出"不要"的部分
+
+  ## 反例(被动接受)
+  - "他不懂事先快换完了" — 0 参与
+  - "不让他抓尿布脏" — 不让接触 = 失实践
+  - "穿衣他不配合就硬来" — 0 等待
+  - "喂饭他扭头我硬塞" — 0 选择
+
+  ## 为什么重要
+
+  ### Magda 的核心论点
+  - 0-3 岁宝宝一天经历护理 50-100 次
+  - 每次护理 5-15 分钟 → 一天 5-15 小时
+  - 这 5-15 小时**决定他对世界的态度**:
+    主动 = 我有能力 / 我被尊重 / 我能影响
+    被动 = 我无力 / 我被对待 / 我只能等
+
+  ### 长期效果
+  - 12 月主动参与 = 18 月配合度高
+  - 24 月主动参与 = 学龄期主动学
+  - 学龄期主动 = 成年后内驱
+
+  ## 跟其他派对照
+  - 蒙氏 practical life 课程 — 同源
+  - Lansbury C-S1-353 尿布换 = 连接仪式 — 实操
+  - Davies C-S5-131 不替宝宝做 — 同源
+
+  ## 反对的派
+  - 行为主义:"听话 = 配合,反抗 = 错"
+  - 中国传统:"宝宝不懂大人安排"
+
+key_facts:
+  - Magda 8 大基本原则之 5
+  - 护理 = 邀请参与不是被动接受
+  - 一天 50-100 次实践机会
+  - 决定他对世界的态度
+
+related_glossary:
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+  - G-TERM-tell-before-do
+  - G-TERM-quality-time
+  - G-TERM-respectful-parenting
+
+related_cards:
+  - C-S4-353
+  - C-S1-406
+  - C-S0-167
+
+sources:
+  - source_id: SRC-022
+  - external: Magda Gerber《Your Self-Confident Baby》Ch1 Basic Principles
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

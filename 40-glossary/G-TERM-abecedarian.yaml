@@ -1,0 +1,78 @@
+glossary_id: G-TERM-abecedarian
+type: term
+display_name: Abecedarian RCT
+
+en_term: Abecedarian Project
+zh_term: 阿贝塞达里恩计划
+
+one_liner: |
+  比 Perry 更早 + 更强的早期干预 RCT — 1972 美国北卡罗来纳,111 个高风险婴儿,
+  治疗组 0-5 岁全日制(8 小时/天 / 5 天/周)高质量 daycare 5 年。
+  跟踪到 21/30/40 岁,IQ gain **不 fade**(Perry 会 fade)+ 大学入学率超倍 +
+  健康指标提升。1 美元 → 7 美元回报。
+
+detail: |
+  ## 实验设计
+  - 1972 起 美国北卡罗来纳 Chapel Hill
+  - 111 个高风险婴儿(贫困 + 单亲 + 母亲低教育)
+  - 随机分组:
+    - **治疗组**:**0-5 岁** 全日制高质量 daycare(8 小时 / 天 / 5 天 / 周)5 年
+    - **对照组**:无系统干预
+  - 跟踪到 21 岁 / 30 岁 / 40 岁
+
+  ## 干预内容
+  - 0-3 岁:**responsive caregiving + 语言 + 玩耍**(类似 RIE / 蒙氏 0-3)
+  - 3-5 岁:认知 / 语言活动 + 游戏 + 阅读
+  - 师生比 1:3-1:6
+  - 健康营养医疗包含
+  - 父母教育 + 家访
+
+  ## 关键效益(21 岁数据)
+  - **IQ gain 持久** — 21 岁仍高 4-5 分
+  - **vs Perry**:Perry IQ 会 fade,Abecedarian 不 fade
+  - **大学入学率**:35% vs 14%(治疗 vs 对照)
+  - **就业率**:75% vs 53%
+  - **30 岁健康**:高血压 / 糖尿病前期 -50%
+
+  ## 跟 Perry 比较
+  - Abecedarian:**早起 + 强度高**(0 月起 + 全日制 5 年)
+  - Perry:**晚起 + 半日**(3 岁起 + 半日 2 年)
+  - **早 + 强 → IQ gain 不 fade**
+  - 但代价高 — 不是普及版能做到
+
+  ## 经济回报
+  - 每 1 美元 → **~7 美元** 社会回报
+  - 略低于 Perry 的 7-12 — 因为干预成本高
+
+  ## NRC 立场(Ch 13)
+  - Abecedarian 数据**针对高风险家庭** — 不是普通家庭
+  - 普通中产家庭无需照搬全日制
+  - 高风险家庭(贫困 / 抑郁 / 单亲)→ 系统干预 ROI 高
+  - "Abecedarian 模型" = 0-5 岁全日制 + 高质量 + 健康营养
+
+  ## 中文家长含义
+  - 别用 Abecedarian 数据焦虑"得全日 daycare"
+  - 普通家庭:中等托育 + 高质量陪伴 = 足
+  - 高风险家庭:寻早期干预服务
+
+key_facts:
+  - 1972 北卡 RCT
+  - 0-5 岁全日制 5 年
+  - IQ gain 不 fade(vs Perry)
+  - 高风险家庭专门干预
+
+related_glossary:
+  - G-PERSON-Shonkoff
+  - G-TERM-NRC
+  - G-TERM-perry-preschool
+
+related_cards: []
+
+sources:
+  - source_id: SRC-025
+  - external: Ramey-Campbell multiple follow-ups
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

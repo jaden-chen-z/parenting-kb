@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Kohlberg
+type: person
+display_name: "Kohlberg(劳伦斯·科尔伯格)"
+
+full_name_en: "Lawrence Kohlberg"
+full_name_zh: "劳伦斯·科尔伯格"
+
+position: |
+  Harvard 教育学院教授
+
+contribution: |
+  道德发展 3 水平 6 阶段经典理论;Turiel 修正
+
+one_liner: |
+  劳伦斯·科尔伯格 — 道德发展 3 水平 6 阶段经典理论;Turiel 修正
+
+key_facts:
+  - "本卷章节:Ch 13 historical"
+  - "Lerner V3 命中:126 次"
+  - "学派:Lerner V3 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-027
+    chapter: "Ch 13 historical"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,68 @@
+card_id: C-S3-1139
+stages: [S3]
+tags: [cognitive_science, language, vowel_perception, lerner_v2]
+
+front:
+  title: 元音先调谐辅音后
+  hook: 4 月就开始挑母语
+
+back:
+  why_matters: |
+    Polka & Werker 1994 + Kuhl 1992 后续(Lerner V2 Ch2)。
+    传统认为母语音素辨别 6-12 月才重组 — 实测发现:
+    - **元音(vowel)4-8 月就开始重组**
+    - **辅音(consonant)6-12 月才重组**
+    元音重组早 2-4 个月。
+    为什么:元音是音节的"中心",辅音在边缘,信号上元音更明显持久。
+    实验数据:
+    - 6 月美国宝宝已经偏好英语元音空间(/i/ vs /I/ 边界跟成人接近)
+    - 同月日本宝宝偏好日语元音空间
+    - 同期辅音(R/L)区分两组都还能做意义:
+    - 双语家庭重要窗口比想象更早 = 4 月前
+    - "元音重组先于辅音"解释了为什么外语学到口音元音最难
+    - 母亲 parentese 中夸张化的就是元音(Liu/Kuhl/Tsao 2003)
+    跟现库:补 G-TERM-perceptual-narrowing 早窗口细节。
+    Gopnik C-S3-187 只讲整体 6-12 月,V2 给元音/辅音分化。
+    对中国家长意义:
+    - 普通话有 5 个元音,英语 12 个 — 双语孩元音空间需更早暴露
+    - 4 月起就开始"调谐",越早越自然
+    - 4 月起多说话(尤其拖长元音的 parentese)
+  what_to_do:
+    - 4 月起 parentese 拖长元音(啊~~~ 哦~~~)
+    - 双语家庭 4 月前就开始稳定语言输入
+    - 12 月后学外语口音最难纠 = 元音
+    - 不用焦虑 "他不说话还小" — 4 月就在"调谐"
+  failure_mode: |
+    "6 月前学外语没必要" — 错。4 月就开始元音调谐。
+    "外语口音是天生" — 错。是元音重组留下的痕迹。
+    "parentese 装弱智" — 错。元音夸张化是科学。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Kuhl
+  - G-TERM-perceptual-narrowing
+  - G-TERM-parentese
+  - G-TERM-phoneme
+  - G-PERSON-Werker
+  - G-PERSON-Saffran
+  - G-PERSON-Gopnik
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 2 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 2 卷"
+  authors: ["Jenny R. Saffran", "Janet F. Werker", "Lynne A. Werner"]
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 2 · Vowel before consonant reorganization · pp. 84-86"
+  source_id: SRC-028
+
+unit_ids: []
+related_cards:
+  - C-S3-187       # Gopnik Kuhl 知觉重组
+  - C-S5-1137     # Werker reorganization 不是 loss
+  - C-S5-016       # 鲍秀兰 parentese
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

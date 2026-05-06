@@ -1,0 +1,48 @@
+card_id: C-S2-547
+stages: [S2]
+tags: [crying, individual-difference, mother-shame]
+
+front:
+  title: 20 人 1 个爱哭天生
+  hook: 别因娃爱哭羞愧自责
+
+back:
+  why_matters: |
+    松田统计:这种"母乳吃完 30 分就大哭、抱起来就安静"的婴儿,20 人中约 1 人。
+    妈周围娃都安静,容易自责"我方法不对",爸再说"你不会带" → 妈崩。
+    松田反这种羞愧 — 不哭时娃情绪好、笑得可爱,就不是脑问题。
+    没有人会哭一辈子,要乐观地相信会好。
+  what_to_do:
+    - 接受娃天生气质,别比同小区
+    - 不抱让其哭可能引疝气
+    - 抱出门散步、开车兜风
+    - 接触外空气可让娃疲劳后睡
+    - 跟丈夫说清不是自己问题
+  failure_mode: |
+    妈被"你方法不对"压垮 → 抑郁/暴怒/弃娃,真伤的是亲子关系,不是娃哭。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Matsuda
+
+citation:
+  book_title_zh: "定本《育儿百科》"
+  book_title_jp: "育児の百科(定本)"
+  authors: ["松田道雄"]
+  translators_zh: ["王少丽"]
+  publisher_zh: null
+  year: 1980
+  edition: "定本"
+  location: "第 111 节经常哭的婴儿"
+  source_id: SRC-023
+
+unit_ids: []
+related_cards:
+  - C-S2-001  # Karp 哭闹峰 6 周达峰
+  - C-S2-020  # Brazelton 8 周哭闹峰是发育规律
+  - C-S2-132  # Lansbury 哭闹 5 步回应法
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

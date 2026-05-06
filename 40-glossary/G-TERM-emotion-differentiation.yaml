@@ -1,0 +1,27 @@
+glossary_id: G-TERM-emotion-differentiation
+type: term
+display_name: "情绪分化 / emotion differentiation"
+
+name_en: "emotion differentiation"
+name_zh: "情绪分化"
+
+description: |
+  Werner 正交原则应用 — 婴儿情绪从笼统兴奋/苦恼,4-6 月开始分化为基本情绪。
+
+one_liner: |
+  情绪分化(emotion differentiation)— Werner 正交原则应用 — 婴儿情绪从笼统兴奋/苦恼,4-6 月开始分化为基本情绪。
+
+key_facts:
+  - "Lerner V1 元理论卷核心术语"
+  - "学派:Lerner V1 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

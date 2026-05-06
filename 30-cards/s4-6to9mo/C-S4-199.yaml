@@ -1,0 +1,74 @@
+card_id: C-S4-199
+stages: [S4]
+tags: [self, parent_attitude, philosophy]
+
+front:
+  title: 7-9 月你的共情宝宝能感
+  hook: 你心宝宝直接读
+
+back:
+  why_matters: |
+    Stern 关键观察:**7-9 月跃迁前,你的 共情 宝宝只能感受到"结果";跃迁后,宝宝能直接感受到"过程"**。
+    **跃迁前(0-7 月)**:
+    - 你怎么"读懂"宝宝的内心 → 你做了对的回应(比如恰到好处的安抚)
+    - 宝宝**只感受到回应** — 不知道有"读懂"这个过程
+    - 共情 对宝宝是黑箱 — 只有 output 没有 input
+    **跃迁后(7-9 月起)**:
+    - 宝宝**能直接体验到**:**有人在尝试理解我** + **真的理解到了** + **回应给我**
+    - 跨过 self/他者 边界的"心理桥梁"对宝宝**第一次成为可觉察的现象**
+    - 这是 **心理亲密** 的诞生
+    **心理亲密 是什么**:
+    - 不只是物理亲密(被抱 / 被喂)
+    - 是"我的心被你看到了"+"你愿意让我看到你的心"
+    - 双向、自愿、可深可浅
+    - 是**人类最深的需求之一**(Hinde 1979)
+    **失败的后果**:
+    - 父母从不"读"宝宝的内心 → 宝宝学到"我的内心没人感兴趣"
+    - **拒绝被读** — 宝宝想"我的内心你不能进来" — 一种主动的心理孤立
+    - 一端是 心理归属(心理人类一员),另一端是 心理隔绝(心理孤独)
+    - 这是后期 依恋 / personality / depression 的根源
+    **对家长的核心信息**:
+    - **7-9 月起,你的 共情 行为本身**是宝宝感受到的(不只是结果)
+    - "你今天好像很失望对吧?" — 即使你没行动,**这句话本身**就是 共情
+    - 中国家长常觉得"共情 是说漂亮话" — 不,**说出你看到的宝宝内心** 就是 共情
+    - **不要装作没看见宝宝的难过** — 即使你不能立刻改变什么跟 Lillard 蒙氏母-师角色(C-S6-186) + 鲍秀兰母婴情感同立场。
+  what_to_do:
+    - 看到宝宝难过先说出来("你失望了")
+    - 不立刻 fix,先 承认
+    - 表达你的感受让宝宝看到("妈妈也难过")
+    - 别只 做事 不 being
+    - 双向开放心理
+  failure_mode: |
+    "宝宝小不用跟他说情感的话" — 错。Stern 数据 — 7-9 月起宝宝能直接觉察 共情 过程,不只是结果。
+    总是只 做事(喂 / 换 / 哄)不 being(读 + 表达)→ 心理亲密 缺失 → 心理孤立的根源。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Stern
+  - G-TERM-subjective-self
+  - G-TERM-intersubjectivity
+
+citation:
+  book_title_zh: "婴儿的人际世界"
+  book_title_en: "The Interpersonal World of the Infant"
+  authors: ["Daniel N. Stern"]
+  authors_zh: ["丹尼尔·斯特恩"]
+  publisher_en: "Basic Books"
+  year_en: 1985
+  isbn_en: "978-0-465-09559-9"
+  location: "Ch 6 · Psychic Intimacy (Hinde 1979)"
+  publisher_zh: "华东师范大学出版社"
+  year_zh: 2017
+  translator_zh: ["刘旭东"]
+  source_id: SRC-018
+
+unit_ids: []
+related_cards:
+  - C-S4-196       # Stern 7-9 月跃迁
+  - C-S6-186       # Lillard 母-师角色
+  - C-S5-291       # Stern affective attunement
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

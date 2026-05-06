@@ -1,0 +1,28 @@
+glossary_id: G-TERM-cartesian-dualism
+type: term
+display_name: "笛卡尔二分论 / Cartesian dualism"
+
+name_en: "Cartesian dualism"
+name_zh: "笛卡尔二分论"
+
+description: |
+  Descartes 1640 年代心物二分立场 — 衍生出基因 vs 环境 / 主动 vs 被动 等连串二分。
+  Lerner V1 整卷主张用 relational metatheory 取代。
+
+one_liner: |
+  笛卡尔二分论(Cartesian dualism)— Descartes 1640 年代心物二分立场 — 衍生出基因 vs 环境 / 主动 vs 被动 等连串二分。
+
+key_facts:
+  - "Lerner V1 元理论卷核心术语"
+  - "学派:Lerner V1 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

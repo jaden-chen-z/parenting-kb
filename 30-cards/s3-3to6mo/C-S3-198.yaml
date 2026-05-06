@@ -1,0 +1,74 @@
+card_id: C-S3-198
+stages: [S3]
+tags: [self, framework, 依恋]
+
+front:
+  title: 互动原型记忆(RIGs) = 互动原型记忆
+  hook: 重复互动凝结原型
+
+back:
+  why_matters: |
+    Stern 独家命名一个被传统忽视的"心理建造单元" — **互动原型记忆(RIGs)(Representations of Interactions Generalized,互动概括化表征)**。
+    **互动原型记忆(RIGs) 怎么形成**:
+    - 第 1 次玩 peek-a-boo:宝宝记下"具体事件 1"
+    - 第 2-3 次:开始平均
+    - 第 12 次后:形成 **RIG_peek-a-boo** = 一个**原型记忆**,代表所有 peek-a-boo 玩法,但不是其中任一次
+    - 像把 12 张照片**叠加成一张原型图**
+    **互动原型记忆(RIGs) 的关键特征**:
+    - 不是单一记忆 — 是 **prototype(原型)**
+    - 灵活 — 新经验进来,互动原型记忆(RIGs) 自动微调(更新平均)
+    - 历史越长,惯性越大(单次新经验影响越小)
+    - 终身存在,可被任何**属性**(声音/表情/动作)触发
+    **互动原型记忆(RIGs) 的临床意义**:
+    - **是 Bowlby 内部工作模型(internal working model)的"积木块"**
+    - 多个 互动原型记忆(RIGs) 组合成一个完整的 IWM("跟妈妈在一起是什么感觉")
+    - 安全 / 焦虑 / 矛盾 / 紊乱依恋的不同**根源**就在 互动原型记忆(RIGs) 的**累积质量**
+    - 每天的小互动都是 互动原型记忆(RIGs) 的"投票"
+    **对家长的核心信息**:
+    - **每次互动都在写"原型"** — 不要因为"宝宝不会记得"就放松
+    - **质量比数量重要,但稳定性最重要** — 宝宝在求"可预测的原型"
+    - 你今天暴脾气了,**只是 1 次投票**,不会摧毁 互动原型记忆(RIGs)(已有几百次正面投票)
+    - 但**长期**不一致(妈妈高兴时温柔,生气时凶)→ 互动原型记忆(RIGs) 不稳定 → 焦虑型依恋根源
+    - **替代照顾者**(爷奶/月嫂)如果稳定,会形成自己的 互动原型记忆(RIGs),跟妈不冲突
+    **跟 Lillard 蒙氏 活动循环 类似** — 都重视"重复互动建理解/情感框架"。
+  what_to_do:
+    - 每天小互动都重要(在写 互动原型记忆(RIGs))
+    - 求稳定性大于求完美
+    - 一两次失控不会摧毁 互动原型记忆(RIGs)
+    - 替代照顾者(爷奶月嫂)要稳定
+    - 别说"宝宝不会记的" — 在记原型
+  failure_mode: |
+    "宝宝小不会记偶尔不耐烦没事" — 一次没事,长期不一致(温柔 vs 凶反复)→ 互动原型记忆(RIGs) 不稳 → 焦虑型依恋根源。
+    频繁换照顾者 → 多个 互动原型记忆(RIGs) 不稳 → 安全感薄。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Stern
+  - G-PERSON-Bowlby
+  - G-TERM-RIGs
+  - G-TERM-internal-working-model
+
+citation:
+  book_title_zh: "婴儿的人际世界"
+  book_title_en: "The Interpersonal World of the Infant"
+  authors: ["Daniel N. Stern"]
+  authors_zh: ["丹尼尔·斯特恩"]
+  publisher_en: "Basic Books"
+  year_en: 1985
+  isbn_en: "978-0-465-09559-9"
+  location: "Ch 5 · Self with Other (RIGs as building block of IWM)"
+  publisher_zh: "华东师范大学出版社"
+  year_zh: 2017
+  translator_zh: ["刘旭东"]
+  source_id: SRC-018
+
+unit_ids: []
+related_cards:
+  - C-S3-197       # Stern 父母 = 自我调节他者
+  - C-S5-070       # Bowlby 安全依恋(IWM)
+  - C-S6-185       # Lillard cycle of activity
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

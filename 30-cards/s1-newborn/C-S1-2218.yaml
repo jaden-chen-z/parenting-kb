@@ -1,0 +1,40 @@
+card_id: C-S1-2218
+stages: [S1]
+tags: [feeding]
+front:
+  title: 排气 3 种姿势对比
+  hook: 肩大腿坐 哪种好
+back:
+  why_matters: |
+    哺乳后排气(打嗝)是为什么 — 排出吃进去的空气、避免吐奶/腹痛/烦躁。
+    海蒂介绍 3 种主流姿势:1)肩上抱(宝宝立着靠肩、手轻拍背 — 最常见、衣服最容易脏);2)坐在大腿上(一手托下巴胸口、另一手轻拍背 — 适合溢奶多的宝宝、能看到表情);3)趴在大腿上(脸朝下肚子压腿、轻拍背 — 排气最快、但有些宝宝抗拒)。
+    操作要点:轻拍而不是重打;5 分钟换边一次;不一定每次都打出嗝(打不出就放下睡)。
+    时机:每次哺乳中间停一停 + 哺乳完后必试 + 烦躁时也试。
+  what_to_do:
+    - 试 3 种找最适合宝宝的
+    - 轻拍不是用力打
+    - 5 分钟没出嗝 = 换姿势/换边
+    - 哺乳中间也停一下打嗝
+    - 打不出就放下睡不强逼
+  failure_mode: |
+    用力拍打可能引起吐奶或反复刺激。
+    每次必打出嗝才放手 → 折腾自己折腾宝宝。
+  evidence_level: A
+glossary_refs: []
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors: ["Heidi Murkoff", "Sharon Mazel"]
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh: ["莫夏迪","张敏"]
+  location: "第 4 章新生儿 · 成功哺乳建议 · 停一下打嗝, 页 122-123"
+  source_id: SRC-040
+related_cards: []
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

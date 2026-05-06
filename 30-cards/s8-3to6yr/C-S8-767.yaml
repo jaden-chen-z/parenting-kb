@@ -1,0 +1,75 @@
+card_id: C-S8-767
+stages: [S8]
+tags: [trauma, klingman, resilience, lerner_v4]
+
+front:
+  title: 韧性 4 大保护因子
+  hook: 韧性 4 大保护因子
+
+back:
+  why_matters: |
+    Klingman + Masten + Cicchetti V4 Ch 16(韧性研究综述)。
+    **韧性 4 大保护因子**(跨研究综述):
+    - **关系**:稳定主要照护人(最强因子)
+    - **自我调节**:情绪 + 行为 + 认知调节能力
+    - **文化资源**:仪式 / 信仰 / 传统 / 社区
+    - **物质基础**:健康 + 营养 + 安全 + 教育
+    **4 因子是 additive(累加)**:
+    - 4 个都强 → 极强韧性
+    - 3 个强 → 强韧性
+    - 2 个 → 中等
+    - 0-1 个 → 风险
+    **实证数据**(Masten 综述):
+    - 极端逆境(战争/灾难/虐待)下 30-50% 娃发展正常
+    - 这不是奇迹,是 4 因子保护
+    - "韧性是常态不是异常"
+    **反 3 误区**:
+    - ❌ "韧性是天生"(可培养)
+    - ❌ "经历创伤注定毁"(70% 不发展 PTSD)
+    - ❌ "强迫遗忘 = 韧性"(承认 + 表达更稳)
+    **家庭如何培养**:
+    - 主要照护人稳定 1-2 年(不轻易换)
+    - 自我调节训练(私语 / 角色扮演 / 情绪命名)
+    - 文化仪式参与(春节 / 清明 / 家庭聚会)
+    - 健康+营养+安全基础跟现库:跟 V4 Klingman 创伤 3 力量(C-S8-745)+ V3 Sroufe 韧性(C-S0-1500)+ Cicchetti 4 原则(C-S0-1232)对接。
+    对中国家长意义:
+    - 韧性可培养不是天生
+    - 4 因子综合 — 不偏废
+    - 主要照护人稳定是核心
+    - 文化仪式给意义
+  what_to_do:
+    - 韧性可培养不是天生
+    - 4 因子综合不偏废
+    - 主要照护人稳定是核心
+    - 文化仪式给意义
+  failure_mode: |
+    "韧性是天生"— 错。可培养。
+    "创伤注定毁"— 错。70% 不发展 PTSD。
+    "强迫遗忘 = 韧性"— 错。表达更稳。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Klingman
+  - G-TERM-resilience-factors
+  - G-TERM-resilience
+  - G-TERM-trauma-recovery
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 4 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 4 卷"
+  authors: ['Avigdor Klingman']
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 16 · Klingman · Resilience 4 protective factors · pp. 635-650"
+  source_id: SRC-029
+
+unit_ids: []
+related_cards:
+  - C-S8-745     # V4 Klingman 创伤 3 力量
+  - C-S0-1500     # V3 Sroufe 韧性
+  - C-S0-1232     # Cicchetti 4 原则
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

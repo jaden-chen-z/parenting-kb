@@ -1,0 +1,53 @@
+card_id: C-S6-1701
+stages: [S2, S3, S4, S5, S6]
+tags: [safety, practical, mainstream, family]
+front:
+  title: 1 岁内带宝宝旅行 7 安全要点
+  hook: 春节回家 / 五一带娃出游 — 海蒂的 7 项安全清单别忽略。
+back:
+  why_matters: |
+    Phase B+C 完全无"带娃旅行"主题卡(汽座有,但不是旅行场景)。
+    海蒂 Part 5 Ch 17 有完整"四季旅行"章节,中国家长高频:
+    - 春节高铁/飞机回老家(1-2 月龄就出门)
+    - 五一/十一出游(夏天高温车内闷死风险)
+    - 老家"水土不服"概念害死人
+    - 高铁邻座抱怨宝宝哭海蒂明确数据:
+    - 车温在炎热天气可达灼热"烤箱级",绝不能留宝宝单独
+    - 长途>2 小时必须每 2 小时停车休息(后向座椅+陌生环境双倍压力)
+    - 高海拔(>2000m)阳光更强 + 缺氧会让贫血宝宝心率/呼吸加快
+  what_to_do:
+    - 交通工具:1 岁内必须后向汽车安全座椅(已有 C-S0-2400),飞机起飞降落让宝宝吸奶嘴减压
+    - 长途车每 2 小时停 → 抱出活动 + 哺乳 + 换尿布
+    - 目的地住宿先婴儿安全防护检查:窗户够不到/电线遮挡/小型吧台清空/婴儿床安全
+    - 行程不塞满,只去能让宝宝 sleep/eat 不限的地方:户外公园/动物园/部分博物馆
+    - 想看演唱会/歌剧 → 现场雇临时保姆,别带宝宝
+    - 高海拔(>2000m)宝宝心脏病/贫血需先咨询医生
+    - 绝对禁忌:任何天气任何理由不能把宝宝单独留车上(夏天 5 分钟可致命)
+  failure_mode: |
+    常见错误:
+    - "宝宝睡着我去店里买杯咖啡" → 车温几分钟变烤箱
+    - 春节坐 8 小时火车不停喂奶 → 宝宝哭闹 + 后排乘客投诉
+    - 老家不消毒就给宝宝喝井水 → 腹泻+脱水
+    - "高原反应大人都行宝宝肯定行" → 婴儿耐缺氧远低于成人
+    - 行程塞满景点 → 宝宝小睡被打乱,全家崩溃
+    - 春节回老家不带急救药 / 体温计 → 半夜发烧手足无措
+  evidence_level: B
+glossary_refs: []
+citation:
+  publisher_en: "Workman Publishing"
+  source_id: SRC-040
+  book_title_en: What to Expect the First Year
+  book_title_zh: 海蒂育儿大百科 0-1 岁
+  authors: ["Heidi Murkoff", "Sharon Mazel"]
+  publisher_zh: 南海出版公司
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh: [莫夏迪, 张敏]
+  chapter: Part 5 Ch 17 四季旅行
+  page_zh: 525-528
+related_cards: [C-S0-2400]
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

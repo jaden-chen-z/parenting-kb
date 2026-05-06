@@ -1,0 +1,58 @@
+glossary_id: G-TERM-naive-biology
+type: term
+display_name: 朴素生物学 (naive biology)
+
+full_name_zh: 朴素生物学 / 直觉生物
+full_name_en: Naive Biology / Folk Biology
+
+one_liner: |
+  儿童早期对"生命"的直觉理论 — 7-10 岁概念革命后稳定。
+  Carey 经典 — 4 岁认为植物不是活物,7-10 岁归"活物"(跟动物同类)。
+
+detail: |
+  ## 定义
+  儿童 3 大直觉理论之一(物理 / 心理 / 生物):
+  - 关于生命 / 繁殖 / 代谢的早期理论
+  - 4 岁:把"会动"当"活" → 玩具车 = 活,植物 = 不活
+  - 5-7 岁:"自启动"才活 → 玩具车 - 不活,植物仍未进
+  - 7-10 岁:概念革命 — 植物归"活物"
+  - 10+ 岁:稳定"生物学"概念
+
+  ## 跨文化普适
+  - 日本 / 美国 / 中国孩子都经过
+  - 中国孩子接触植物较少,可能延迟此革命
+
+  ## 在本知识库中
+  - SRC-028 Lerner V2 Ch16 综述
+  - C-S8-421 朴素生物学
+  - C-S7-1096 Carey 概念革命
+
+  ## 中国家长意义
+  - 4 岁孩子说"植物不是活" = 正常
+  - 不要急纠正 — 概念革命有顺序
+  - 多接触植物(种花 / 养)促革命
+  - 7-10 岁讨论"植物会长大,跟人一样"
+
+key_facts:
+  - 儿童 3 大直觉理论之一
+  - 7-10 岁概念革命
+  - 中国孩子可能延迟
+  - Carey 经典案例
+
+related_glossary:
+  - G-PERSON-Carey
+  - G-TERM-conceptual-revolution
+  - G-TERM-intuitive-theories
+
+related_cards:
+  - C-S8-421
+  - C-S7-1096
+
+sources:
+  - source_id: SRC-028
+  - external: Carey 1985 / Hatano-Inagaki 1994 / Wikipedia Folk Biology
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

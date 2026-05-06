@@ -1,0 +1,53 @@
+glossary_id: G-TERM-WHO-CF-principles
+type: term
+display_name: "WHO 辅食 4 大支柱"
+
+en_term: "WHO Complementary Feeding Four Pillars"
+zh_term: "WHO 辅食 4 大支柱"
+
+one_liner: |
+  WHO 辅食 4 支柱:及时 + 充分 + 安全 + 反馈 — 全球辅食实操框架。
+
+detail: |
+  ## 4 大支柱(Four Pillars)
+  | 维度 | WHO 要求 |
+  |------|--------|
+  | 及时性(Timely) | 6 月引入 |
+  | 充分性(Adequate) | sufficient energy, protein, micronutrients |
+  | 安全性(Safe) | 卫生储存/准备,清洁手和餐具 |
+  | 反馈式(Responsive) | responsive to child's clues for hunger |
+  
+  ## 月龄进食频率
+  - 6-8 月:日 2-3 餐
+  - 9-11 月:日 3-4 餐
+  - 12-23 月:日 3-4 餐 + 1-2 加餐
+  
+  ## 食物质地递进
+  - 6 月:泥状/碎状/半固体
+  - 8 月:加 finger food(self-feeding)
+  - 12 月:过渡至家庭食物
+  
+  ## PAHO/WHO 2003 10 大原则
+  基于 4 支柱,PAHO/WHO 2003 进一步给 10 条 Guiding Principles(全文 WebFetch 失败,见 gaps G_WHO_3)。
+
+key_facts:
+  - "及时/充分/安全/反馈"
+  - "PAHO 2003 10 原则"
+  - "月龄递增餐数"
+
+related_glossary:
+  - G-ABBR-CF
+  - G-TERM-responsive-feeding
+
+related_cards:
+  - C-S4-1046
+  - C-S4-1047
+  - C-S5-1037
+
+sources:
+  - source_id: SRC-031
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

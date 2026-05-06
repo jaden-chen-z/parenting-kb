@@ -1,0 +1,59 @@
+card_id: C-S2-186
+stages: [S2]
+tags: [montessori, language, communication]
+
+front:
+  title: 说话慢 + 等回应
+  hook: 宝宝脑速只成人一半
+
+back:
+  why_matters: |
+    Lillard Ch8 引神经科学:**12 岁前宝宝大脑神经传导速度只有成人一半**。
+    所以跟宝宝说话:
+    - **慢说**(每个词清晰,不要连珠炮)
+    - **少词**(简单短句:"宝宝想喝水?")
+    - **看着宝宝**(让宝宝看你嘴 + 眼睛)
+    - **等回应**(说完停 3-5 秒,等宝宝反应)
+    实测好处:
+    - 宝宝 2 月就开始 babbling("ooh / aah") — 大人慢说促进发声
+    - 宝宝 9-10 月理解第一个词 — 慢说让大脑能跟上
+    - 宝宝 12-24 月词汇爆发 — 输入质量比量更重要
+    Lillard:**不需要高学历或丰富词汇** — 父母互动方式比"教多少词"更影响语言发育。
+    跟 Davies(C-S2-127 真词不嘎嘎)互补 — Davies 强调"用真词",Lillard 强调"慢 + 等"。
+  what_to_do:
+    - 跟宝宝说话:慢一倍
+    - 1 句一个词组,不堆叠
+    - 看宝宝的眼睛 + 嘴
+    - 说完停 3-5 秒等回应
+    - 重复同一句多次(不嫌烦)
+  failure_mode: |
+    "宝宝小听不懂,我快说也行" — 反:宝宝在听 + 学,慢说才让神经通路形成。
+    "我不会跟宝宝聊天" — 简单"看,这是水"就够,不用复杂。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Lillard
+  - G-PERSON-Jessen
+  - G-TERM-language-explosion
+  - G-TERM-going-slow
+
+citation:
+  book_title_zh: "蒙台梭利从 0 岁开始"
+  book_title_en: "Montessori from the Start"
+  authors: ["Paula Polk Lillard", "Lynn Lillard Jessen"]
+  authors_zh: ["宝拉·波尔克·莉拉德", "琳·莉拉德·杰森"]
+  publisher_en: "Schocken Books"
+  year_en: 2003
+  isbn_en: "978-0-8052-1112-1"
+  location: "Ch 8 · 'Development of oral language' (slow + wait)"
+  source_id: SRC-016
+
+unit_ids: []
+related_cards:
+  - C-S2-127       # Davies 跟宝宝用真词不嘎嘎
+  - C-S2-128       # Davies 等 3 秒再回应
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

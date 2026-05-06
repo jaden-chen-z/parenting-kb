@@ -1,0 +1,64 @@
+card_id: C-S5-183
+stages: [S5]
+tags: [cognitive_science, language, myth_busting, screen_time]
+
+front:
+  title: 录像 CD 学外语没用
+  hook: 必须真人才能启蒙
+
+back:
+  why_matters: |
+    Kuhl 2003 PNAS 实验 — 中国家长高频痛点的硬科学回答。
+    实验设计:
+    - 9 月美国宝宝分 3 组,12 节课时(每节 25 分钟):
+      - 组 1:跟中文老师**真人互动**(玩玩具 + 中文对话)
+      - 组 2:看**中文录像**(同样老师,同样内容)
+      - 组 3:听**中文音频**(只声音)
+    - 测试:宝宝是否学到中文音素辨别能力结果:
+    - 组 1 真人互动 → **显著学到**中文音素(跟中国本土宝宝差不多)
+    - 组 2 录像 → **0 效果**(跟没暴露的对照组一样)
+    - 组 3 音频 → **0 效果**
+    含义:**0-3 岁学外语必须真人互动**。
+    推测原因:统计学习需要 social cue(眼神 / 表情 / 节奏 / 来回响应)启动。
+    被动音频视频缺这些信号,大脑不"启动"统计引擎。
+    对中国家长意义:
+    - "刷英文动画给宝宝磨耳朵" — 错。0-3 岁无效。
+    - "听 BBC / VOA 英语启蒙" — 错。被动音频不行。
+    - 真要双语启蒙 → **找会外语的真人定期陪伴**(伴侣 / 阿姨 / 视频通话亲戚)
+    - 视频通话有效(实时双向),录播无效。
+  what_to_do:
+    - 双语启蒙找真人(亲戚 / 朋友 / 老师)
+    - 视频通话定期外语对话(如 1 周 3 次每次 30 分钟)
+    - 不依赖动画 / 启蒙 App
+    - 母语"录像启蒙"也低效 — 真人对话最有效
+  failure_mode: |
+    "刷英文动画 1 小时 = 学英语" — 错。0-3 岁无效。
+    "我不会英语,只能给他听 CD" — 那就先放弃外语启蒙(直到能找真人)。
+    依赖 App 学语言 — 大脑统计引擎不启动。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Kuhl
+  - G-TERM-statistical-learning
+  - G-TERM-perceptual-narrowing
+  - G-TERM-baby-scientist
+
+citation:
+  book_title_en: "The Scientist in the Crib"
+  book_title_zh: "摇篮里的科学家"
+  authors: ["Alison Gopnik", "Andrew N. Meltzoff", "Patricia K. Kuhl"]
+  publisher_en: William Morrow
+  year: 1999
+  location: "Chapter 4 (extended in Kuhl 2003 PNAS · post-book research)"
+  source_id: SRC-015
+
+unit_ids: []
+related_cards:
+  - C-S4-184       # 知觉重组 6-12 月
+  - C-S6-031       # AAP 0-2 岁不看屏
+  - C-S2-181       # parentese 科学
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

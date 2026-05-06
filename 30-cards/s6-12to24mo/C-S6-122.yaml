@@ -1,0 +1,62 @@
+card_id: C-S6-122
+stages: [S6]
+tags: [development_burst, controversy]
+
+front:
+  title: 55 周第八跃迁:程序世界
+  hook: 13 月做事有目标了
+
+back:
+  why_matters: |
+    第 55 周(49-55 周 ≈ 12.8 月,刚过 1 岁)是 Wonder Week 第八跃迁 — **程序世界**(World of Programs)。
+    怎么回事:大脑从"理解动作序列"升级到能理解**有目标的灵活程序** —
+    "做家务"、"出门"、"吃饭"、"洗澡"等程序由多步组成,每次顺序可以不同,但目标固定。
+    跃迁前烦躁 阶段(49-53 周)持续 3-6 周。
+    跃迁后宝宝立刻:
+    - 模仿做家务(扫地 / 倒水 / 整理 / 打电话)
+    - 坚持自己做(自己洗手 / 自己吃 / 自己脱衣)
+    - 想象力萌芽 — 假装喂玩偶 / 假装打电话
+    - 行为变得更"难预测"(因为一个动作可以属于多个程序)
+    家长意义:**1 岁后宝宝突然喜欢模仿大人 + 拒绝帮助 = 程序大脑在工作**,
+    不是"突然变叛逆",是"我能自己做了"的健康自主萌芽。
+  what_to_do:
+    - 49-55 周 3 C 信号 → 第八跃迁
+    - 让宝宝参与简单家务(用儿童扫帚 / 拖把假装)
+    - 给假装游戏玩具(电话 / 厨房 / 玩偶)
+    - 接受"自己做"导致的低效率(自己穿衣慢 = 学习时间)
+    - 跃迁完成后宝宝会突然对绘本 / 因果游戏更专注
+  failure_mode: |
+    "1 岁宝宝突然不让我喂 / 不让我穿衣 = 不听话" — 是程序大脑萌芽的信号。
+    "宝宝走路晚了" — 走路时间 55-65 周都在正常范围。
+    "宝宝在桌上摆弄食物 = 调皮" — 是用程序探索物理世界。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-vanderijt
+  - G-TERM-wonder-week
+  - G-TERM-mental-leap
+  - G-TERM-3C-signs
+  - G-TERM-fussy-phase
+  - G-TERM-symbolic-play
+
+citation:
+  book_title_zh: "婴儿大脑跃迁 10 周(神奇周)"
+  book_title_en: "The Wonder Weeks"
+  authors: ["Hetty van de Rijt", "Frans X. Plooij"]
+  authors_zh: ["海蒂·凡德里特", "弗朗斯·普洛伊"]
+  publisher_en: "Kiddy World Publishing"
+  year_en_first: 1992
+  isbn_en: "978-90-79208-12-1"
+  location: "Chapter 10 · Wonder Week 55: The World of Programs(at around 55 weeks... ready to explore the world of programs. A program has a goal but the steps to accomplish it are flexible)"
+  source_id: SRC-013
+
+unit_ids: []
+related_cards:
+  - C-S5-127       # WW46 序列世界
+  - C-S1-179       # 10 跃迁时间表
+  - C-S6-123       # WW64 原则世界
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

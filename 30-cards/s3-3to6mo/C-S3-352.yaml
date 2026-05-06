@@ -1,0 +1,57 @@
+card_id: C-S3-352
+stages: [S3]
+tags: [attention, caregiving, 观察]
+
+front:
+  title: "护理时全注意,玩时观察"
+  hook: "护理盯紧玩耍放手"
+
+back:
+  why_matters: |
+    Magda 命名 Selective Attention(选择性注意)的两模式:
+    护理时 = 100% 全注意(尿布 / 喂 / 洗 / 抱)
+    玩耍时 = 旁观观察(不打断 / 不指挥 / 不"陪玩")
+    跟传统"亲子整天黏一起"反 — 太黏反而培养不出自玩能力。
+    Magda 比喻:你跟成年朋友吃饭时全心吃饭;
+    朋友自己看书时你不打扰 — 婴儿一样。
+
+  what_to_do:
+    - 换尿布 / 喂奶 / 洗澡:手机放别屋,跟他对话
+    - 他在垫上自己玩:你坐边上不指挥不"逗他"
+    - 他够不到玩具时先观察 5-10 秒,再考虑要不要帮
+    - 听到他咕咕你回应,不主动"陪玩"
+    - 把"全程陪伴"重新切成两种:全注意 + 旁观
+
+  failure_mode: |
+    "他玩的时候我就一直陪着指挥怎么玩" → 培养"必须有人陪才能玩"。
+    Magda 原话:"打断,不论多好意,都是干扰"。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+  - G-TERM-quality-time
+  - G-TERM-active-participant-caregiving
+
+citation:
+  book_title_en: "Your Self-Confident Baby"
+  book_title_zh: "自信的宝宝"
+  authors:
+    - Magda Gerber
+    - Allison Johnson
+  publisher_en: John Wiley & Sons
+  year: 1998
+  location: "Ch3 Observing Your Baby + Ch5 Refining Your Observation Skills"
+  source_id: SRC-022
+
+unit_ids: []
+related_cards:
+  - C-S2-185  # Lillard 完整循环活动
+  - C-S3-296  # Lansbury 不主导玩
+  - C-S2-128  # Davies 等 3 秒回应
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

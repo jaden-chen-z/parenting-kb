@@ -1,0 +1,65 @@
+card_id: C-S0-924
+stages: [S0]
+tags: [cognitive_science, brain_development, neural, lerner_v2]
+
+front:
+  title: 大脑两种发育路线
+  hook: 等经验和靠经验之分
+
+back:
+  why_matters: |
+    Greenough/Black/Wallace 1987 双轨理论(Lerner V2 Ch1 Nelson 综述)。
+    大脑突触发育有**两种不同模式**:
+    1. **Experience-Expectant**(等经验)
+       - 人类基因预设有"等经验"窗口
+       - 在窗口内大量产生突触,然后**修剪**保留实际用上的
+       - 例:视觉(0-6 月)/ 语言音素(0-12 月)/ 依恋(0-3 岁)
+       - 错过 → 难补
+    2. **Experience-Dependent**(靠经验)
+       - 没固定窗口
+       - 终身可建突触(只要有经验)
+       - 例:阅读 / 数学 / 学习新技能
+       - 任何年龄都能学意义:
+    - 解释为什么"早期经验"在某些领域不可替代,在某些领域可补
+    - 双轨论比单纯"关键期"更精细
+    - V2 综述把 Greenough 1987 的双轨论作为现代大脑发育主框架跟现库:Shonkoff(C-S0-619 反早教 4 定理)— 完全一致立场。
+    G-TERM-critical-period 已建,可补双轨细节。
+    对中国家长意义:
+    - 关键期只在"等经验"领域(感官 + 语言 + 依恋)
+    - "靠经验"领域(认字 / 算数 / 弹钢琴)任何时候都能学
+    - 别 0-3 岁焦虑算数英语阅读 — 都是"靠经验"
+    - 真正不可错过的:温暖陪伴 + 多样语言 + 安全感
+  what_to_do:
+    - 0-3 岁专注"等经验"领域(语言互动 / 安全依恋 / 多感官)
+    - 不焦虑认字算数(后期能补)
+    - 错过认字 4 岁补回 OK
+    - 错过依恋 5 岁很难补
+  failure_mode: |
+    "0-3 岁所有都关键" — 部分错。只"等经验"领域。
+    "3 岁没学英语就完了" — 错。"靠经验"任何时候。
+    "认字早教必须" — 错。"靠经验"延后无所谓。
+  evidence_level: B
+
+glossary_refs:
+  - G-TERM-critical-period
+  - G-TERM-synaptic-pruning
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 2 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 2 卷"
+  authors: ["Charles A. Nelson III", "Kathleen M. Thomas", "Michelle de Haan"]
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 1 · Experience-expectant vs experience-dependent · pp. 17-19"
+  source_id: SRC-028
+
+unit_ids: []
+related_cards:
+  - C-S0-619       # Shonkoff 反早教 4 定理
+  - C-S5-1137     # Werker reorganization
+  - C-S3-187       # Gopnik Kuhl 知觉重组
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

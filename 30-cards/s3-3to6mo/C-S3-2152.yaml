@@ -1,0 +1,46 @@
+card_id: C-S3-2152
+stages: [S3]
+tags: []
+
+front:
+  title: 半夜哺乳:每隔晚延 30 分渐戒
+  hook: 1-3 月渐少夜醒
+
+back:
+  why_matters: |
+    海蒂详解夜间断奶节奏 — 不是一夜全戒(那叫哭出来法(CIO)),而是逐步延长间隔。
+    2-3 月母乳宝宝通常仍需夜里 1-2 次哺乳;3 月后多数可降到 0-1 次。
+    关键技术:**每隔晚或每晚延长哺乳间隔 30 分钟**,1-3 月可完成戒夜奶。
+    睡前最后 1 顿吃饱 = 后续 6-8 小时不饿。
+  what_to_do:
+    - "睡前最后 1 顿吃饱(延半小时)"
+    - "白天哺乳次数充分(不在夜补)"
+    - "夜里两次哺乳间隔每晚延半小时"
+    - "夜醒不立即喂 → 先拍 / 摸 / 唱 1-2 分钟"
+    - "母乳宝宝让爸爸夜安抚(避免奶香诱惑)"
+  failure_mode: |
+    一夜全戒 → 娃哭崩 + 妈妈奶量下降。
+    白天不喂够 → 夜里只能补奶。
+    夜里逗笑 / 开亮灯 / 讲话 → 重置昼夜节律。
+  evidence_level: B
+
+glossary_refs:
+  - G-ABBR-AAP
+
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1 岁"
+  authors: ["Heidi Murkoff", "Sharon Mazel"]
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 2010
+  edition: "Third Edition"
+  location: "第 7 章 / 半夜哺乳节,p.252-254"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards: [C-S2-2011]
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

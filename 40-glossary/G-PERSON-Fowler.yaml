@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Fowler
+type: person
+display_name: "Fowler(詹姆斯·福勒)"
+
+full_name_en: "James W. Fowler"
+full_name_zh: "詹姆斯·福勒"
+
+position: |
+  Emory University 神学院教授(已故)
+
+contribution: |
+  信仰发展 6 阶段(stages of faith)— 全人类信仰认知发展奠基
+
+one_liner: |
+  詹姆斯·福勒 — 信仰发展 6 阶段(stages of faith)— 全人类信仰认知发展奠基
+
+key_facts:
+  - "本卷章节:Ch 17"
+  - "Lerner V1 命中:36 次"
+  - "学派:Lerner V1 信仰发展派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+    chapter: "Ch 17"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

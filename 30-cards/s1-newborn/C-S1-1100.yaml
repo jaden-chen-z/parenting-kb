@@ -1,0 +1,65 @@
+card_id: C-S1-1100
+stages: [S1]
+tags: [cognitive_science, face_processing, newborn, lerner_v2]
+
+front:
+  title: 新生儿偏爱人脸不天生
+  hook: 偏好的是头顶重底特征
+
+back:
+  why_matters: |
+    Lerner V2 Ch5 (Cohen & Cashon) 综述新生儿面孔知觉。
+    传统认识:新生儿出生就识"人脸" = 先天面孔模块。
+    现代综述(Lerner V2):**不完全是这样**。
+    Cassia/Turati 2004 经典实验:
+    - 新生儿偏好的是"头顶重底"(top-heavy)的图案
+    - 给新生儿看上下颠倒的脸 vs 正脸 — 偏好正脸
+    - 但给新生儿看几何图案上重下轻 — 同样偏好(不是脸也偏)
+    意义:
+    - 不是"人脸特异" — 是"对头顶集中特征敏感"(脸正好满足)
+    - 出生后 3-6 月才发展真正的"脸特异"识别
+    - 这是 constructivist 立场的关键证据(经验先于专门化)
+    跟现库:G-PERSON-Meltzoff(出生 42 分钟模仿)— V2 综述补"模仿是 like-me 不是面孔识别"。
+    跟 Stern intersubjectivity 雏形对接(0-2 月 emergent self)。
+    对中国家长意义:
+    - 新生儿盯妈妈脸不是"识别妈妈" — 是被脸的几何属性吸引
+    - 妈妈脸真识别 = 3-6 月才稳定
+    - 不用焦虑"他还认不出我" — 这是正常发育
+    - 但出生后 3 月内 face-to-face 互动是关键(熟悉妈妈脸)
+  what_to_do:
+    - 0-3 月正脸面对宝宝多互动
+    - 不必夸张"他认我" — 真识别 3 月后
+    - 30cm 面对面是调谐窗口(蒙氏一致)
+    - 不要颠倒抱(面孔识别需正面输入)
+  failure_mode: |
+    "新生儿天生认妈妈" — 错。3-6 月才稳定面孔识别。
+    "新生儿就是面孔模块激活" — 错。是 top-heavy 偏好,不是 face-specific。
+    "不用面对面" — 错。0-3 月互动决定后续面孔专门化。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Meltzoff
+  - G-TERM-imitation
+  - G-TERM-baby-scientist
+  - G-PERSON-Stern
+  - G-PERSON-Leslie
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 2 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 2 卷"
+  authors: ["Leslie B. Cohen", "Cara H. Cashon"]
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 5 · Newborn face processing · pp. 240-242"
+  source_id: SRC-028
+
+unit_ids: []
+related_cards:
+  - C-S1-244       # 新生儿 Rembrandt 视觉(Davies)
+  - C-S1-240       # baby scientist 总论(Gopnik)
+  - C-S2-1135     # Parentese species-specific(Lerner V2 同卷)
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

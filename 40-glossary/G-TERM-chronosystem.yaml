@@ -1,0 +1,27 @@
+glossary_id: G-TERM-chronosystem
+type: term
+display_name: "时观系统 / chronosystem"
+
+name_en: "chronosystem"
+name_zh: "时观系统"
+
+description: |
+  Bronfenbrenner 第 5 层 — 历史时段 + 个人发展时间双重维度。
+
+one_liner: |
+  时观系统(chronosystem)— Bronfenbrenner 第 5 层 — 历史时段 + 个人发展时间双重维度。
+
+key_facts:
+  - "Lerner V1 元理论卷核心术语"
+  - "学派:Lerner V1 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

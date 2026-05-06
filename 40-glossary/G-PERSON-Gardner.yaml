@@ -1,0 +1,62 @@
+glossary_id: G-PERSON-Gardner
+type: person
+display_name: Gardner
+
+full_name_en: Howard Gardner
+full_name_zh: 霍华德·加德纳
+
+one_liner: |
+  美国发展心理学家 + 教育家(哈佛大学 GSE 教授),多元智能(Multiple Intelligences)理论奠基人。
+  反单一 IQ 指标,主张 8 类独立智能,Lerner V2 Ch21 共同主笔。
+
+detail: |
+  ## 个人背景
+  - 1943 年生
+  - 哈佛大学博士
+  - 哈佛 Graduate School of Education 教授
+  - Project Zero 创办人之一(跟 Winner 合作)
+
+  ## 核心理论:多元智能(8 类)
+  1. 语言智能
+  2. 逻辑数学智能
+  3. 空间智能
+  4. 音乐智能
+  5. 身体动觉智能
+  6. 人际智能
+  7. 内省智能
+  8. 自然智能
+
+  ## 神童研究
+  - 神童 = 单域突出 + 其他平
+  - 反"全才神童"概念
+  - 反 IQ 单一指标
+
+  ## 立场
+  - 多元智能派
+  - 反单一智力测试
+  - 跟 Winner Project Zero 协作
+
+  ## 在本知识库中
+  - SRC-028 Lerner V2 Ch21 共同主笔
+  - C-S8-430 神童多元智能
+
+key_facts:
+  - 哈佛大学 GSE 教授
+  - 多元智能理论奠基
+  - Project Zero 创办
+  - 著作《Frames of Mind》(1983)经典
+
+related_glossary:
+  - G-PERSON-Winner
+
+related_cards:
+  - C-S8-430
+
+sources:
+  - source_id: SRC-028
+  - external: Gardner 1983《Frames of Mind》/ Wikipedia Howard Gardner
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

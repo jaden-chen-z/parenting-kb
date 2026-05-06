@@ -1,0 +1,105 @@
+source_id: SRC-014
+title: "蒙特梭利的小宝宝(0-1岁)"
+title_en: "The Montessori Baby: A Parent's Guide to Nurturing Your Baby with Love, Respect, and Understanding"
+org: null
+tier: 3
+source_type: book
+url: null
+isbn_en: "978-1-5235-0693-7"
+publisher_en: "Workman Publishing"
+location_en: "New York"
+year_en: 2021
+accessed: 2026-05-03
+language: en
+notes_path: tier3-books/notes/SRC-014.yaml
+
+authors:
+  - name_en: "Simone Davies"
+    role: "蒙氏 0-3 教师 / 《Montessori Notebook》创始人"
+    background: "出生于澳大利亚,现居荷兰阿姆斯特丹,创办 Jacaranda Tree Montessori 母婴教室,擅长把蒙氏概念翻译给现代父母"
+  - name_en: "Junnifa Uzodike"
+    role: "蒙氏 0-3 教师 / Fruitful Orchard 蒙氏学校创始人"
+    background: "尼日利亚阿布贾,3 个孩子的母亲,把蒙氏 0-3 教育引入西非"
+
+# 章节地图(按字节偏移)
+chapter_offsets:
+  ch1_introduction: 13664       # 短引言
+  ch2_principles: 37337         # 蒙氏核心 5 原理(吸收性心智 / 人类倾向 / 敏感期 / 观察 / 有准备的环境)
+  ch3_conception_to_6weeks: 70093  # 孕期 + 出生 + 共生期 6-8 周
+  ch4_setting_up_home: 130509   # yes space + floor bed + 房间布置
+  ch5_parenting: 191521         # 信任 / 接纳 / 尊重 / 边界 / 专注 / 动作自由 / 安全依恋 / 哭闹回应
+  ch6_activities: 241139        # 语言活动 + 动作活动(0-3/3-6/6-9/9-12/12+月)
+  ch7_putting_into_practice: 376301  # 日常节奏 + 进食(母乳/瓶喂/固食) + 睡眠 + 物理护理
+  total_chars: 624120
+
+# 蒙氏核心理论(本书覆盖)
+core_principles:
+  - absorbent_mind: "吸收性心智 — 0-6 岁特殊学习状态,无意识吸收环境"
+  - human_tendencies: "人类倾向 — 定向 / 秩序 / 沟通 / 探索 / 解决问题 / 重复 / 抽象想象"
+  - sensitive_periods: "敏感期 — 婴儿对特定能力的窗口期(动作 / 语言 / 秩序 / 小物体)"
+  - observation: "观察 — 父母方法论核心,先看再回应"
+  - prepared_environment: "有准备的环境 — 家是宝宝学习的'第二老师'"
+
+# 蒙氏特色概念(本书引入)
+unique_concepts:
+  - symbiosis_period: "共生期 6-8 周 — 蒙氏对新生儿期的命名(类似 Karp 4 trimester)"
+  - topponcino: "蒙氏小毯 — 60×30cm 椭圆衬垫,作为新生儿 point of reference"
+  - yes_space: "可探索区 — 全部安全、无需说'不'的空间(借自 RIE Magda Gerber)"
+  - floor_bed: "地板床 — 6 英寸厚直接放地上,代替 crib"
+  - movement_mat: "动作毯 — 1 英寸厚薄垫,新生儿伸展四肢空间"
+  - munari_mobile: "Munari 黑白 mobile — 0-6 周第一个视觉训练物"
+  - gobbi_mobile: "Gobbi 渐变球 mobile — 1-3 月颜色辨识"
+
+# 立场对照(蒙氏 vs 现有源)
+controversies:
+  - vs_aap_safe_sleep:
+      issue: "Floor bed 地板床 vs AAP crib 婴儿床"
+      montessori_view: "6 英寸厚床垫直接放地,允许爬出爬入,允许动作自由"
+      aap_view: "推荐婴儿床(side rails),平整硬床面,无杂物,1 岁内"
+      verdict: "不冲突 — Davies 在书中明确引用 AAP SIDS 指南并标注'可遵循'"
+  - vs_karp_swaddle:
+      issue: "Movement freedom vs Karp 5S 包裹"
+      montessori_view: "不 swaddle,要让宝宝肢体自由(子宫里就在动)"
+      karp_view: "包裹是安抚的核心(模拟子宫,激活 calming reflex)"
+      verdict: "立场对立 — Davies '若必要可宽松包' / Karp '严格包紧'"
+  - vs_baoxiulan_early_education:
+      issue: "Sensitive period vs critical period(关键期)"
+      montessori_view: "敏感期(sensitive)— 错过仍可学,只是不那么自然"
+      baoxiulan_view: "关键期(critical)— 错过事倍功半,强调早教急迫性"
+      verdict: "现代神经科学倾向 sensitive period(蒙氏)更准确"
+
+# 跨源关联点
+crossreferences:
+  - SRC-003_karp:
+      shared: "新生儿安抚 / 包裹 / 哭闹回应"
+      conflict: "swaddle 立场对立"
+  - SRC-004_aap_sleep:
+      shared: "SIDS 指南 / 仰睡"
+      compatible: "Davies 引用 AAP guidelines"
+  - SRC-009_baoxiulan:
+      shared: "敏感期 / 关键期"
+      contrast: "强版本 vs 弱版本"
+  - SRC-010_brazelton:
+      shared: "respect 尊重 / 触摸点"
+      compatible: "理论邻近"
+  - SRC-011_bowlby:
+      shared: "secure attachment 安全依恋 / responsive parenting"
+      strong_alignment: "Davies 直接引用依恋理论"
+  - SRC-013_wonder_weeks:
+      shared: "敏感期 vs 跃迁"
+      contrast: "蒙氏 spotlight 时间窗 vs WW 大脑物理重组"
+
+# 评级标尺(本书)
+evidence_level_calibration:
+  A: "与 Tier 1 共识对齐(蒙氏 0-12 月安全建议跟 AAP 重合处)"
+  B: "Davies 引用神经科学 / 蒙氏 100 年观察 / 跨文化数据"
+  C: "Davies 个人理论推断(实操建议为主)"
+  expected_distribution: "C 占多 — 实操派书籍特征"
+
+referenced_by_units: []
+referenced_by_cards: []  # Phase 5 完成后填充
+
+language: zh
+status: complete
+created: 2026-05-03
+updated: 2026-05-03

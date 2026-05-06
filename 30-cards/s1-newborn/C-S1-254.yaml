@@ -1,0 +1,63 @@
+card_id: C-S1-254
+stages: [S1]
+tags: [self, philosophy, milestone]
+
+front:
+  title: 新生自我在组装中
+  hook: 0-2 月在组装自己
+
+back:
+  why_matters: |
+    Stern 用 新生自我命名 0-2 月这个阶段 — 跟传统"婴儿什么都没有"完全不同。
+    传统观点:0-2 月宝宝是混沌的、未区分的、要等大点才"长出"自我。
+    Stern 立场:**0-2 月宝宝在主动"组装自己"** — 把分散的感觉(妈妈的脸 / 妈妈的声音 / 自己的手 / 喂奶时的拥抱)yoking(搭桥连接)成"组织"。
+    **新生自我 是体验"组织正在形成"的过程**:
+    - 不是"完整的自我感"(那是 核心自我,2-6 月)
+    - 是体验"看到妈妈的脸"和"听到妈妈的声音"和"被妈妈抱"开始连成"妈妈是一个整体"的过程
+    - 也是体验"我的手"和"我的脚"和"我的肚子"开始连成"我的身体"的过程
+    Stern 关键发现:**婴儿能体验"组织化的过程"** — 不只是"组织化的产物",这本身是愉悦的、强烈正反馈的体验。这就是为什么:
+    - 婴儿主动寻找新刺激(看新东西)
+    - 婴儿对新组合反应强烈(发声 / 微笑)
+    - 学习是内在驱动的,不需"奖励"
+    **新生自我 一旦形成永远活跃** — 大人此刻看新画、听新音乐、品新菜时,activate 的就是这层 self(感受"组织正在形成"的体验)。
+    对家长:0-2 月别只关心"吃了多少 / 睡了几小时" — 也要关心"宝宝今天吸收了多少新组合"。
+  what_to_do:
+    - 知道 0-2 月不是空白
+    - 给宝宝多种组合输入(脸 + 声音 + 触摸同时)
+    - 不要只关心吃睡两件事
+    - 重视宝宝看东西很久的时刻
+    - 别因宝宝不会回应就少互动
+  failure_mode: |
+    "0-2 月就是吃睡,大点再说" — 错过了 新生自我 形成的关键期,后期 核心自我 基础不牢。
+    把宝宝放在摇篮里只看天花板 = 缺少组合输入,不利 self 组装。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Stern
+  - G-TERM-emergent-self
+  - G-TERM-amodal-perception
+
+citation:
+  book_title_zh: "婴儿的人际世界"
+  book_title_en: "The Interpersonal World of the Infant"
+  authors: ["Daniel N. Stern"]
+  authors_zh: ["丹尼尔·斯特恩"]
+  publisher_en: "Basic Books"
+  year_en: 1985
+  isbn_en: "978-0-465-09559-9"
+  location: "Ch 3 · The Sense of an Emergent Self"
+  publisher_zh: "华东师范大学出版社"
+  year_zh: 2017
+  translator_zh: ["刘旭东"]
+  source_id: SRC-018
+
+unit_ids: []
+related_cards:
+  - C-S0-015       # Stern 4 senses of self
+  - C-S1-247       # Lillard 蒙氏新生儿房 4 区
+  - C-S1-014       # AAP 新生儿能力
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

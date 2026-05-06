@@ -1,0 +1,73 @@
+card_id: C-S0-014
+stages: [S0]
+tags: [montessori, dad, postpartum, philosophy]
+
+front:
+  title: 爸爸头 8 周是缓冲器
+  hook: 不是助产是挡门
+
+back:
+  why_matters: |
+    Lillard Ch7 + Ch10 反复强调 — **爸爸在产后头 8 周的核心任务不是带娃,是保护妈妈和宝宝的隐私**。
+    Andrew(Lillard 案例)说自己头 8 周做的事:
+    - 跟亲友 / 公婆 / 朋友划线("妈妈和宝宝需要安静,这周不能来")
+    - 拒绝过多客人 / 礼物
+    - 拦下多嘴姑妈 / 心急公公的"建议"
+    - 让妈妈安心睡觉 + 哺乳 + 跟宝宝建关系为什么这么重要:
+    - 妈妈头 8 周激素剧变 + 严重睡眠不足,**判断力暂时下降**
+    - 容易因为"不想冷场"答应见客 → 后悔 → 抑郁 → 母乳建立失败
+    - 妈妈跟宝宝的"亲密感"通常 8-10 周才出现 — 这之前需要保护
+    Lillard 立场:这个挡门角色比换尿布更重要。
+    中国家庭最大爆点:**老人想抱孙子** + **七大姑八大姨想看** — 爸爸如果不挡,妈妈一个人挡不住。
+  what_to_do:
+    - 产前跟太太定:"前 8 周谁能来"
+    - 拒绝过多客人 / 礼物 / 探视
+    - 让多嘴亲友的"建议"过爸爸这道关
+    - 自己也参与换尿布 / 洗澡(支持但不替母乳)
+    - 把"妻子的安宁"看得比"全家高兴"重要
+  failure_mode: |
+    "过年过节亲友都想看,谁好意思挡" — 这正是爸爸该做的事,妈妈出力承担,爸爸出面挡门。
+    爸爸只忙工作不挡 → 妈妈应付亲友 → 累垮 → 抑郁 → 哺乳放弃。
+  evidence_level: A
+
+  positions:
+    issue: 婚姻关系 vs 亲子关系 · 谁优先 · 自我照顾
+    views:
+      - school: Lillard
+        source: SRC-016
+        stance: 婚姻关系优先于亲子。父母回家先找配偶不是孩子,夫妻关系是孩子安全感的根基。
+      - school: Davies
+        source: SRC-014
+        stance: 父母先照顾自己,connection over perfection;同方向但语气更柔。
+      - school: Bowlby V2
+        source: SRC-012
+        stance: 母亲焦虑会代际传递。妈妈心理健康即孩子心理健康(机制层面)。
+      - school: 中国主流
+        stance: 为孩子牺牲一切 / 妈妈全心扑娃 / "为了你不离婚" — 父母自我消耗常态化。
+glossary_refs:
+  - G-PERSON-Lillard
+  - G-PERSON-Jessen
+  - G-TERM-symbiosis-period
+  - G-TERM-going-slow
+
+citation:
+  book_title_zh: "蒙台梭利从 0 岁开始"
+  book_title_en: "Montessori from the Start"
+  authors: ["Paula Polk Lillard", "Lynn Lillard Jessen"]
+  authors_zh: ["宝拉·波尔克·莉拉德", "琳·莉拉德·杰森"]
+  publisher_en: "Schocken Books"
+  year_en: 2003
+  isbn_en: "978-0-8052-1112-1"
+  location: "Ch 7 · 'Food' (Father's role) + Ch 10 · Andrew's interview"
+  source_id: SRC-016
+
+unit_ids: []
+related_cards:
+  - C-S1-033       # Karp 产后抑郁
+  - C-S6-138       # Davies 蒙氏父母先照顾自己
+  - C-S6-137       # Davies 跟老人/伴侣不同步
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

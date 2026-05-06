@@ -1,0 +1,28 @@
+glossary_id: G-TERM-continuity-discontinuity
+type: term
+display_name: "连续 vs 不连续 / continuity vs discontinuity"
+
+name_en: "continuity vs discontinuity"
+name_zh: "连续 vs 不连续"
+
+description: |
+  跨章争议(Ch 6 vs Ch 11)— 发展是渐进累积还是阶段跳跃。
+  当代综合 — 看哪一层(神经 continuity / 行为 discontinuity)。
+
+one_liner: |
+  连续 vs 不连续(continuity vs discontinuity)— 跨章争议(Ch 6 vs Ch 11)— 发展是渐进累积还是阶段跳跃。
+
+key_facts:
+  - "Lerner V1 元理论卷核心术语"
+  - "学派:Lerner V1 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

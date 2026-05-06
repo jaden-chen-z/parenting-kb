@@ -1,0 +1,59 @@
+card_id: C-S5-089
+stages: [S5, S6, S7]
+tags: [coping_strategy, safety, philosophy, controversy]
+
+front:
+  title: 住院妈陪 vs 不陪差很多
+  hook: 同 1-7 天结果两样
+
+back:
+  why_matters: |
+    Fagin 1966 经典对照实验:60 个 1.5-4 岁孩子住院 1-7 天,30 个**有妈妈全程陪伴**,
+    30 个**没有妈妈陪**(妈妈每天来探望 1 次)。妈妈住院前态度评估**没有差异**。
+    出院 1 周和 1 个月后回报:
+    - **有妈陪组**:全员各方面正常发展,**无负面变化**
+    - **无妈陪组**:全员显著不安,日常行为多处恶化,尤其**对短暂分离更焦虑**,变得更"依赖"
+    机制:妈妈陪伴下,孩子学到"妈在紧急情况下会来" → 安全依恋强化。
+    无陪伴时,即使每天探望,孩子学到"妈妈不可靠" → 焦虑型依恋开始。
+    家长意义(中国语境很关键):
+    - 国内住院多数不允许陪同 / 限制陪同 → **争取陪同权**或换医院
+    - 1 天的住院不陪也有伤害,不是"短就没事"
+    - 陪同就是医疗的一部分,不是奢侈
+  what_to_do:
+    - 住院 = 妈妈或主依恋人必须全程陪
+    - 选支持陪同住院的医院
+    - 不能陪 → Robertson 5 招(C-S7-034)
+    - 多次短住院 ≠ 一次长住院更轻
+    - 急躁的妈不陪 < 平静的妈陪同
+  failure_mode: |
+    "我每天去探望够了" — Fagin 数据:每日探望组依然显著焦虑;陪伴组完全无影响。
+    "国内规定不能陪" — 大部分医院其实可以陪,争取一下;争取不到换医院。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Bowlby
+  - G-TERM-attachment
+  - G-TERM-anxious-attachment
+
+citation:
+  book_title_zh: "依恋三部曲 · 第二卷:分离"
+  book_title_en: "Attachment and Loss · Volume 2: Separation"
+  authors: ["John Bowlby"]
+  authors_zh: ["约翰·鲍尔比"]
+  translators_zh: ["汪智攀", "王婷婷"]
+  publisher_zh: "世界图书出版有限公司北京分公司"
+  year_en: 1973
+  year_zh: 2017
+  isbn: "978-7-5192-2926-9"
+  location: "第十五章焦虑型依恋及一些促成条件(Fagin 1966:有母亲陪伴住院的孩子并没有表现出这些不良的改变。这表明,当孩子处于令人不安的情境下时,母亲的陪伴会让孩子更加相信在紧急情况下母亲会与他同在)"
+  source_id: SRC-012
+
+unit_ids: []
+related_cards:
+  - C-S7-034      # Robertson 5 招
+  - C-S7-039      # 5 岁前住院 18 岁仍有影响
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

@@ -1,0 +1,100 @@
+glossary_id: G-PERSON-Faber-Mazlish
+type: person
+display_name: Faber & Mazlish
+
+full_name_en: Adele Faber & Elaine Mazlish
+full_name_zh: 阿黛尔·法伯 & 伊莱恩·梅兹利什
+
+one_liner: |
+  美国教育心理学家 + 育儿沟通法畅销书作者,合著《How to Talk So Kids Will Listen & Listen So Kids Will Talk》(1980)。
+  把 Haim Ginott 心理咨询沟通法转化为家庭实操,与 Gottman 情绪教练并列现代育儿沟通经典。
+
+detail: |
+  ## 个人背景
+  - Adele Faber(1928-)+ Elaine Mazlish(1926-2017)
+  - 都是 Haim Ginott(以色列 / 美国心理学家,《父母必读》作者 1965)的学生
+  - 1970s 起在纽约长岛办父母工作坊
+  - 合著 6+ 本育儿沟通书,翻译 30+ 国语言,千万销量
+
+  ## 核心方法:6 大沟通原则(基于 Ginott 框架)
+
+  ### 1. 帮孩子处理感受
+  - **倾听 + 描述** 不是评价或解决
+  - 用"嗯""哦""我明白"等接住情绪
+  - 给情绪命名("你看起来很失望")
+  - 用幻想代替否认("真希望我们家有个超大冰激凌")
+
+  ### 2. 让孩子合作的 5 个工具
+  - **描述** 而非命令("地毯上有沙")
+  - **提供信息**("湿衣服会让你冷")
+  - **用一个词**("梅兰妮,睡衣!")
+  - **说出自己的感受**("我看到湿毛巾在床上不舒服")
+  - **写便条** 替代唠叨
+
+  ### 3. 替代惩罚
+  - 让孩子参与解决
+  - 给孩子选择
+  - 让孩子体验自然后果
+  - **避免威胁、贴标签、说教、讽刺**
+
+  ### 4. 鼓励自主
+  - 让孩子自己选
+  - 尊重孩子挣扎
+  - 不催不催
+  - 不问太多问题
+  - 不抢答
+  - 慢慢退出
+
+  ### 5. 用描述性表扬代替评价性表扬
+  - **描述你看到的**("你把所有书都摆整齐了")
+  - **描述你感受到的**("我看到这房间舒服")
+  - **总结成一个词**("这就是井井有条")
+  - 反例:"真棒!""真聪明!"(评价性,易让孩子上瘾或反感)
+
+  ### 6. 解放角色定型
+  - 找机会让孩子看到不一样的自己
+  - 当孩子按旧标签行动时,直接表达期待
+  - 不当孩子面用旧标签
+  - 别贴"懒"/"笨"/"坏脾气"等永久标签
+
+  ## 主要著作
+  - 《How to Talk So Kids Will Listen & Listen So Kids Will Talk》(1980)— 经典
+  - 《Liberated Parents, Liberated Children》(1974)
+  - 《Siblings Without Rivalry》(1987)— 兄弟竞争
+  - 《How to Talk So Kids Can Learn》(1995)
+  - 《How to Talk So Teens Will Listen & Listen So Teens Will Talk》(2005)
+
+  ## 跟其他流派对照
+  - **vs Gottman 情绪教练**:Faber-Mazlish 偏沟通技巧,Gottman 偏情绪调节框架
+  - **vs RIE Magda/Lansbury**:理念高度一致(承认情绪 + 不替孩子解决)
+  - **vs Karp 5S**:不在同一层(Karp 偏 0-1 岁安抚,F&M 偏 2 岁+ 沟通)
+  - **vs 中国传统育儿**:严重对立("你是哥哥要让着妹妹"= 角色定型 + 情绪解雇)
+
+  ## 在本知识库中
+  - 多个 RIE / 兄弟竞争 / 沟通卡引用其方法
+  - C-S7-553(Gerber 兄弟竞争 + Faber 类比)
+  - C-S7-NEW-GOTTMAN(Gottman 情绪教练)互补
+
+key_facts:
+  - 美国育儿沟通法畅销书作者(1980 起)
+  - 受 Haim Ginott 心理学影响
+  - 6 大沟通原则:接情绪 / 让合作 / 替代惩罚 / 鼓励自主 / 描述性表扬 / 解放角色定型
+  - 《How to Talk》全球千万销量
+  - 跟 Gottman 情绪教练并列现代育儿沟通经典
+
+related_glossary:
+  - G-PERSON-Gottman
+  - G-PERSON-Ginott  # 师承
+  - G-TERM-emotion-coaching
+
+related_cards:
+  - C-S7-553     # Gerber 兄弟竞争 + Faber 类比
+  - C-S7-NEW-GOTTMAN  # 情绪教练 5 步法
+
+sources:
+  - external: Faber A &amp; Mazlish E. How to Talk So Kids Will Listen (1980) Avon Books / Siblings Without Rivalry (1987) / fabermazlish.com
+
+language: zh
+status: draft
+created: 2026-05-05
+updated: 2026-05-05

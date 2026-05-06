@@ -1,0 +1,76 @@
+card_id: C-S5-131
+stages: [S5]
+tags: [montessori, independence, philosophy]
+
+front:
+  title: 不替宝宝做能做的事
+  hook: 蒙氏育儿黄金原则
+
+back:
+  why_matters: |
+    家长爱替宝宝做事 — "他还小,我帮他"。
+
+    蒙氏黄金原则(白话翻译):
+    > **绝不替孩子做他自己能成功的事**。
+
+    玛丽亚·蒙台梭利原话(白话翻译):
+    > 每次不必要的帮助都是孩子发育的障碍。
+
+    9-12 月可以让宝宝自己做的事(不全替):
+    - 自己抓食物送嘴
+    - 自己拿杯喝水
+    - 自己穿一只袖子(你帮拉,他自己塞手)
+    - 自己拿玩具去货架
+    - 自己解决够不到玩具的小问题
+    - 自己爬上地板床
+    - 自己脱袜(2-3 步动作他能完成)
+
+    替他做的代价:
+    - 切断**自我效能感**建立("我能做到"消失)
+    - 切断**手脚配合 / 自己想办法**训练
+    - 切断**信任自我**(C-S5-130 第二份大礼)
+    - 长期 = 习得性无助 / 依赖 / 缺主动性
+
+    操作判断 — 看到他在尝试某事:
+    1. **先观察 5 秒** — 他在挣扎吗?在练习吗?
+    2. **在挣扎** — 等等,看他自己解决
+    3. **真卡住** — 给最少帮助(1 个动作),不全做
+    4. **他成功** — 不夸奖,微笑就好
+  what_to_do:
+    - 看他做事先观察 5 秒不动
+    - 真需要帮 — 给 1 个动作不全做
+    - 每天列出可让他自己做的清单
+    - 规划时间不催(慢做 5 分钟比快做 30 秒好)
+    - 工具放他够得到的位置
+  failure_mode: |
+    "他还小做不到" — 试一次再说。多数家长低估宝宝能力。
+    "我替他更快不耽误时间" — 短期 vs 长期。短期省 30 秒,长期付出独立性代价。
+    "等他长大再让他做" — 蒙氏立场:能力跟随机会,不给机会就长不出能力。
+  evidence_level: C
+
+glossary_refs:
+  - G-PERSON-Davies
+  - G-PERSON-Montessori
+  - G-TERM-prepared-environment
+
+citation:
+  book_title_zh: "蒙特梭利的小宝宝(0-1岁)"
+  book_title_en: "The Montessori Baby"
+  authors: ["Simone Davies", "Junnifa Uzodike"]
+  authors_zh: ["西蒙·戴维斯", "君妮法·乌佐迪克"]
+  publisher_en: "Workman Publishing"
+  year_en: 2021
+  isbn_en: "978-1-5235-0693-7"
+  location: "Chapter 5 · Respect > Trust our baby and their abilities"
+  source_id: SRC-014
+
+unit_ids: []
+related_cards:
+  - C-S5-130       # 蒙氏 两份心理大礼
+  - C-S3-136       # 蒙氏 不替他够
+  - C-S4-131       # 蒙氏 自取水
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

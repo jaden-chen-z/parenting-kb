@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<title>阶段 · Parenting KB</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@500;600;700&display=swap" rel="stylesheet" />
+<style>
+  html, body {
+    margin: 0; padding: 0;
+    background: #ece5d4;
+    height: 100%;
+    /* 首页固定视口高度,禁止页面整体上下滚 */
+    overflow: hidden;
+    overscroll-behavior: none;
+  }
+  body { -webkit-font-smoothing: antialiased; height: 100vh; height: 100dvh; }
+  #root { height: 100vh; height: 100dvh; }
+  *, *::before, *::after { box-sizing: border-box; }
+  /* 去掉点击高亮 */
+  .folder { -webkit-tap-highlight-color: transparent; }
+  /* 让点击/触摸的命中区贴合不规则文件夹形状(SVG path),而不是 wrapper 的矩形 */
+  /* 透明区域的事件会穿透到下层,这样下层文件夹的 tab 也能直接点 */
+  .swipe-stack-item,
+  .swipe-stack-item .folder,
+  .swipe-stack-item .folder > svg { pointer-events: none; }
+  .swipe-stack-item .folder > svg path,
+  .swipe-stack-item .folder > svg text { pointer-events: visiblePainted; }
+  /* JS 接管所有触摸手势,禁掉浏览器默认的 pan/zoom */
+  .swipe-stack-item,
+  .swipe-stack-item .folder,
+  .swipe-stack-item .folder svg,
+  .swipe-stack-item .folder svg * { touch-action: none; }
+  /* 文件夹上的文字不可选中 — 拖拽时手指/光标不会触发文本选择 */
+  .swipe-stack-item .folder,
+  .swipe-stack-item .folder * {
+    user-select: none;
+    -webkit-user-select: none;
+    -webkit-touch-callout: none;
+  }
+  /* 展开内容(段名/EN/CARDS数)的淡入淡出
+     用 CSS class 切 opacity 0/1 + transition。
+     will-change: opacity 是关键 — Chrome 在 SVG <g> 上,如果不提升为合成层,
+     opacity transition 的 currentTime 不前进(animation playState=running 但卡在 0)。
+     will-change 强制提升 layer,transition 才正常播放。 */
+  .folder-expand-content {
+    opacity: 0;
+    transition: opacity 460ms cubic-bezier(.2,.8,.2,1);
+    will-change: opacity;
+  }
+  .folder-expand-content.is-shown { opacity: 1; }
+  /* 右滑进入提示：呼吸闪烁 + 箭头微移 */
+  @keyframes swipeHintPulse {
+    0%, 100% { opacity: 0.35; }
+    50%      { opacity: 0.95; }
+  }
+  .swipe-hint {
+    animation: swipeHintPulse 1.6s ease-in-out infinite;
+    transform-origin: 100% 50%;
+  }
+  /* 右滑动作中文件夹的位移由 inline style 给 transform；这里只做过渡补全 */
+</style>
+</head>
+<body>
+<script src="auth.js?v=4"></script>
+<script>
+  // 登录守卫:未登录直接跳 Login.html
+  PKB.auth.requireLogin();
+  // bfcache 恢复时强制 reload — 避免飞出动画离开后,React state 卡在飞出位置
+  // (用户从 Cards.html 浏览器后退时会触发,普通首次加载不会进 bfcache)
+  window.addEventListener('pageshow', function (e) {
+    if (e.persisted) location.reload();
+  });
+</script>
+<div id="root"></div>
+<script src="https://unpkg.com/react@18.3.1/umd/react.development.js" integrity="sha384-hD6/rw4ppMLGNu3tX5cjIb+uRZ7UkRJ6BPkLpg4hAu/6onKUg4lLsHAs9EBPT82L" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/react-dom@18.3.1/umd/react-dom.development.js" integrity="sha384-u6aeetuaXnQ38mYT8rp6sbXaQe3NL9t+IBXmnYxwkUI2Hw4bsp2Wvmx4yRQF1uAm" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/@babel/standalone@7.29.0/babel.min.js" integrity="sha384-m08KidiNqLdpJqLq95G/LEi8Qvjl/xUYll3QILypMoQ65QorJ9Lvtp2RXYGBFj1y" crossorigin="anonymous"></script>
+<script type="text/babel" src="tweaks-panel.jsx?v=22"></script>
+<script type="text/babel" src="folder-asset.jsx?v=23"></script>
+<script type="text/babel" src="swipe-stack.jsx?v=22"></script>
+<script type="text/babel" src="folders.jsx?v=23"></script>
+</body>
+</html>

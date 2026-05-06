@@ -1,0 +1,71 @@
+card_id: C-S7-137
+stages: [S7]
+tags: [montessori, grooming, teaching-method, philosophy]
+
+front:
+  title: 轮流教学法
+  hook: 我做一次你做一次
+
+back:
+  why_matters: |
+    Lillard Ch7 关键教学技巧 — **梳头 / 刷牙 / 擦鼻子 / 洗澡 / 洗手等个人护理用"my turn / your turn"轮流**:
+    传统"全大人做" 或 "全宝宝做" 的问题:
+    - 全大人做 → 宝宝学到"我无能,需要服务"
+    - 全宝宝做 → 宝宝实际还做不好(2 岁刷不干净 / 梳不通头) → 挫折
+    Lillard 替代 = **轮流教学**(my turn / your turn):
+    1. **宝宝先来**("It's your turn") — 让宝宝试,做到他能力极限
+    2. **大人补完**("Now my turn") — 不评价,直接做
+    3. 不说"宝宝刚才做的不对"
+    4. 不夸"宝宝好棒"
+    5. 重复多日 → 宝宝逐渐能多做举例(梳头):
+    - 宝宝拿梳子梳一下(大约头发上几根)
+    - 妈妈说"my turn" — 接过梳子,完整梳完
+    - 不说"你梳得不全 / 漏了一片"
+    - 不说"你真棒"
+    - 第 2 天再来,宝宝多梳一下
+    - 1 个月后,宝宝能梳大半适用所有 grooming:
+    - 刷牙(宝宝刷一会儿,妈妈接着补)
+    - 擦鼻子(宝宝擦一下,妈妈擦干净)
+    - 洗手(宝宝抹肥皂,妈妈帮搓 + 冲)
+    - 洗头(宝宝抹少量泡,妈妈洗干净)
+    - 穿衣(宝宝拉一下袖子,妈妈帮拉到位)
+    Lillard:**这是 0-3 岁个人护理"独立 + 不挫折"的核心方法**。
+    跟"宝宝小我都做" / "宝宝大让他独立做"主流**对立** — 蒙氏立场:**渐进过渡,轮流是过渡的工具**。
+  what_to_do:
+    - 宝宝先来(任何 grooming)
+    - 妈妈说"my turn"接着做
+    - 不评价不夸
+    - 每天重复
+    - 宝宝逐月多做点
+  failure_mode: |
+    "宝宝刷不干净我得帮重刷" — 反:重刷宝宝学到"我做的不算",轮流让宝宝感觉"我做了 + 妈妈帮"。
+    全大人做 → 3 岁还不会刷牙 → 上幼儿园被笑。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Lillard
+  - G-PERSON-Jessen
+  - G-TERM-practical-life
+  - G-TERM-going-slow
+
+citation:
+  book_title_zh: "蒙台梭利从 0 岁开始"
+  book_title_en: "Montessori from the Start"
+  authors: ["Paula Polk Lillard", "Lynn Lillard Jessen"]
+  authors_zh: ["宝拉·波尔克·莉拉德", "琳·莉拉德·杰森"]
+  publisher_en: "Schocken Books"
+  year_en: 2003
+  isbn_en: "978-0-8052-1112-1"
+  location: "Ch 7 · 'Grooming' (turn-taking teaching)"
+  source_id: SRC-016
+
+unit_ids: []
+related_cards:
+  - C-S7-133       # Lillard 切香蕉真钝刀
+  - C-S7-134       # Lillard Tom Sawyer
+  - C-S5-131       # Davies 不替宝宝做能做的事
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

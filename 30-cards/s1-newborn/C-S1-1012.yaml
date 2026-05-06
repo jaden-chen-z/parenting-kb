@@ -1,0 +1,66 @@
+card_id: C-S1-1012
+stages: [S1]
+tags: []
+
+front:
+  title: "医学例外清单短"
+  hook: "AFASS 评估再决定"
+
+back:
+  why_matters: |
+    WHO / UNICEF 2009 联合发布《使用母乳代用品的可接受医学原因》清单 —
+    临床医生用,哪些情况(也只在这些情况)可以使用配方奶。
+
+    **婴儿端医学例外**:
+    - 半乳糖血症(完全禁母乳)
+    - 苯丙酮尿症(PKU,部分配特殊配方 + 母乳)
+    - 枫糖尿症(MSUD)
+    - 极低出生体重(<1500g)+ 严重早产(<32 周)
+    - 严重高胆红素血症 / 严重窒息(临时)
+
+    **母亲端医学例外**:
+    - HIV+(高资源 + AFASS 5 条件满足时,改用配方)
+    - 严重疾病(脓毒症 / 心力衰竭)
+    - 1 型疱疹乳房病灶(临时,病灶愈合后恢复)
+    - 化疗 / 放射性药物 / 部分精神药物
+
+    [本卡基于 BFHI 第 6 步 + 间接信息 — 完整清单 WebFetch 失败,见 gaps G_WHO_2]
+  what_to_do:
+    - "默认纯母乳 — 例外医学清单很短"
+    - "婴儿真有半乳糖血症 / PKU → 听医生用特殊配方"
+    - "妈妈 HIV+ + AFASS 满足 → 选配方,而不是混合喂养"
+    - "妈妈短期重病 → 临时停 + 后续重启泌乳(relactation)"
+    - "'妈妈感冒' / '妈妈奶不够' → 不在医学例外清单"
+  failure_mode: |
+    把"妈妈累 / 奶不够 / 上班不便"当医学例外加配方 → 不符合 WHO 清单 + 母乳率不必要降。
+    医学例外是真的医学,不是借口。
+  evidence_level: A
+
+glossary_refs:
+  - G-TERM-acceptable-medical-reasons
+  - G-TERM-AFASS
+  - G-TERM-relactation
+
+citation:
+  page_title: "Acceptable Medical Reasons (WHO/UNICEF 2009) — 间接覆盖"
+  publisher: "World Health Organization & UNICEF"
+  page_url_primary: https://www.who.int/teams/nutrition-and-food-safety/food-and-nutrition-actions-in-health-systems/ten-steps-to-successful-breastfeeding
+  accessed: 2026-05-04
+  language: en
+  location: "医学例外清单(婴儿+母亲)— 完整清单 gaps G_WHO_2"
+  source_id: SRC-031
+
+unit_ids: []
+related_cards:
+  - C-S1-1003
+  - C-S1-1013
+  - C-S2-1045
+  - C-S1-053
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_doc_id_pending: D3
+citation_followup_needed: '已映射真实 doc_id (D3 = International Code of Marketing 1981)'

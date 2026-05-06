@@ -22,6 +22,20 @@ back:
     Brazelton 警告:父母最爱、最想给的,恰是高敏感宝宝最受不了的。
   evidence_level: B
 
+  positions:
+    issue: 6-8 周事件命名群 — 同一发育跃迁的多个名字
+    views:
+      - school: Karp
+        source: SRC-003
+        stance: 哭闹峰(peak fussing)— 6 周是哭闹达高峰、随后递减的关键节点。
+      - school: Brazelton
+        source: SRC-010
+        stance: 6-8 周触点(touchpoint)— 父母最焦虑、亲子关系重新校准的发育节点。
+      - school: Wonder Weeks
+        stance: WW8 模式跃迁 — 婴儿大脑首次能识别复杂模式,行为外显为不安。
+      - school: Bowlby
+        source: SRC-011
+        stance: 6 周非选择性微笑 — 社会性微笑出现,但尚不区分照顾者。
 glossary_refs:
   - G-TERM-hypersensitive-baby
   - G-TERM-modality

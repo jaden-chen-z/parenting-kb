@@ -1,0 +1,49 @@
+card_id: C-S8-327
+stages: [S8]
+tags: [steinberg, adolescent_origins_signals, lerner_v3]
+
+front:
+  title: "6 岁青少年信号"
+  hook: "5-6 岁就有预警"
+
+back:
+  why_matters: |
+    Steinberg(Ch 16)综述 — 青少年期问题的根在 5-6 岁:
+    高冲动 + 低执行功能 + 同伴拒绝 — 三联征是 12 岁后行为问题的最强预测。
+    早期识别 + 干预成本极低,等青春期再修成本极高。
+    一句话 — 6 岁三联征出现别等,这时候干预最有效。
+  what_to_do:
+    - "执行功能差 → 练等待 + 计划"
+    - "同伴拒绝 → 教社交技能 + 1 个稳定朋友"
+    - "高冲动 → 教情绪应对策略"
+    - "三联征齐全 → 找儿童心理学家"
+    - "5-6 岁干预性价比 > 15 岁"
+  failure_mode: |
+    "再大点就好了" — Steinberg 数据反对,5-6 岁三联征基本预测 12 岁问题。
+    早干预成本 1/10 晚干预。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Steinberg
+  - G-TERM-adolescent-precursors
+  - G-TERM-executive-function
+
+related_cards:
+  - C-S8-211      # Shonkoff 贫困
+  - C-S8-100      # 松田反体罚
+  - C-S8-103      # 松田反虎妈
+  - C-S8-321      # Lerner CBQ
+
+citation:
+  source_id: SRC-027
+  source_title: "Handbook of Child Psychology Vol 3"
+  chapter: "Ch 16 Steinberg — Adolescent"
+  chapter_offset: 5746709
+  chapter_title: 'Collins & Steinberg — 青少年发展(本库 0-6 岁不主取)'
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_followup_needed: 'SRC-027 用 PDF 字节偏移代页码 — 待加 page_pdf 反查工具'

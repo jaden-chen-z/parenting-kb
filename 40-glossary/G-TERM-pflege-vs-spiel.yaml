@@ -1,0 +1,87 @@
+glossary_id: G-TERM-pflege-vs-spiel
+type: term
+display_name: Pflege vs Spiel(护理 vs 玩耍二分)
+
+full_name_de: Pflege vs Spiel
+full_name_zh: 护理 vs 玩耍 — 两种心态二分
+full_name_en: Care vs Play (Two Mindsets)
+
+one_liner: |
+  Pikler 1969 隐形核心 — 大人对婴儿要有两种不同心态:Pflege
+  (护理 = 全注意时段)+ Spiel(玩耍 = 观察时段)。Magda Gerber
+  1998 命名为 Selective Attention,RIE 派核心实操。
+
+detail: |
+  ## Pflege(护理)— 全注意时段
+  - **场景**:换尿布 / 喂 / 洗澡 / 穿衣 / 抱出门
+  - **心态**:全注意 — 不分心(关掉手机不聊天)
+  - **行为**:看着眼睛 + 慢动作 + 简单说话(Tell Before Do)
+  - **核心**:这是建立 attachment 的连接仪式
+  - **婴儿**:主动参与不被动接受(Magda 后命名 Active Participant)
+  - **时长**:每天累计 1-2 小时(每次护理 = 一个全注意时段)
+
+  ## Spiel(玩耍)— 观察时段
+  - **场景**:婴儿独立玩 — 大人在场不参与
+  - **心态**:观察(Beobachten ohne Eingreifen)
+  - **行为**:在视野内但不互动 / 不评论 / 不切换玩具
+  - **核心**:这是建立 self-confidence + 自主性的时段
+  - **婴儿**:沉浸自由玩 — 内在好奇心驱动
+  - **时长**:每天数小时(分散)
+
+  ## 关键不要混淆
+  - **错 1**:边换尿布边逗(Pflege 时段不全注意 → 连接不建立)
+  - **错 2**:玩时一直跟孩子说话(Spiel 时段干扰 → 自主性损)
+  - **错 3**:玩时大人主导("我们一起玩积木好不好")
+  - **错 4**:护理时分心(看手机 / 跟伴侣聊天)
+
+  ## 跟 Magda Gerber 关系
+  - **Magda 1998**(SRC-022)命名为 Selective Attention(选择性注意)
+  - **Lansbury 2014**(SRC-019)推广为 Quality Time + uninterrupted play
+  - **本卷源头**:Pflege/Spiel 是德文原版二分,Magda 翻译扩展
+
+  ## 跟中国传统对照
+  - **中国"陪玩 = 全程参与"**:跟 Pikler 立场冲突 — 应该 Spiel 时不参与
+  - **中国"换尿布快快搞定"**:Pikler 反 — 这是 Pflege 时段最关键
+  - **中国"宝宝玩我看手机"**:可以(Spiel 时段大人有自己的事)
+
+  ## 实操配方(每天一日)
+  - **早晨**:Pflege(换尿 + 喂 + 洗脸)= 全注意 30-45 分
+  - **白天**:Spiel(自由玩)= 数小时(分散)
+  - **中午**:Pflege(换尿 + 喂 + 哄睡)= 全注意 30-45 分
+  - **下午**:Spiel(自由玩)= 数小时
+  - **晚上**:Pflege(洗澡 + 换睡衣 + 喂 + 哄睡)= 全注意 30-45 分
+
+key_facts:
+  - Pikler 1969 隐形核心二分
+  - Pflege 全注意 vs Spiel 观察 两种心态
+  - Magda Selective Attention 命名源头
+  - 每天 1-2 小时 Pflege + 数小时 Spiel
+  - 不混淆 — 各自时段分开
+
+related_glossary:
+  - G-PERSON-Pikler
+  - G-PERSON-Gerber
+  - G-TERM-quality-time
+  - G-TERM-tell-before-do
+  - G-TERM-beobachten-ohne-eingreifen
+  - G-TERM-active-participant-caregiving
+
+related_cards:
+  - C-S4-837  # Pikler Pflege vs Spiel 二分
+  - C-S2-833  # Pikler 爱要恒温
+  - C-S6-956  # Pikler 自由玩
+  - C-S6-961  # Pikler 自主玩
+  - C-S2-347  # Gerber 全注意才叫共度
+  - C-S3-352  # Gerber 护理时全注意,玩时观察
+  - C-S1-353  # Lansbury 尿布换 = 连接仪式
+
+sources:
+  - source_id: SRC-026  # Pikler 1969 德文源
+  - source_id: SRC-022  # Gerber Selective Attention 命名
+  - source_id: SRC-019  # Lansbury Quality Time
+  - external: Pikler Institute / RIE
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

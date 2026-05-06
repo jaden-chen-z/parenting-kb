@@ -1,0 +1,28 @@
+glossary_id: G-TERM-timing-principle
+type: term
+display_name: "时机原则 / timing principle"
+
+name_en: "timing principle"
+name_zh: "时机原则"
+
+description: |
+  Elder 原则 — 同事件在不同生命阶段影响不同。
+  1-2 岁经历重大事件影响放大 5-10 倍。
+
+one_liner: |
+  时机原则(timing principle)— Elder 原则 — 同事件在不同生命阶段影响不同。
+
+key_facts:
+  - "Lerner V1 元理论卷核心术语"
+  - "学派:Lerner V1 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

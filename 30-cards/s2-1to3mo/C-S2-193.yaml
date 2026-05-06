@@ -1,0 +1,78 @@
+card_id: C-S2-193
+stages: [S2]
+tags: [self, philosophy, attunement_pre]
+
+front:
+  title: 活力情感 = 宝宝最早的心
+  hook: 澎湃渐弱才是真实
+
+back:
+  why_matters: |
+    Stern 独家命名一个被传统心理学忽略的人类体验方面 — **活力情感(活力情感 / 生命情感)**。
+    传统心理学只认 范畴的 情感(分类情感):**喜怒 哀乐 惧厌 惊** 7 类。
+    Stern 反:这只是"显性的、有名字的"情感。还有一大类**没名字、但每时每刻都在的"感觉质地"**:
+    - **澎湃(涌动)**
+    - **渐弱(渐隐 away)**
+    - **闪过(稍纵即逝)**
+    - **爆发(爆发性)**
+    - **渐强**
+    - **渐弱**
+    - **喷薄(爆发)**
+    - **拉长(拖长)**
+    这些就是 活力情感 — 用"动态、动力学"词汇才能描述的内心质地。
+    **为什么对宝宝最重要**:
+    - **宝宝出生即能感受 活力情感** — 它们伴随所有"生命过程"(呼吸 / 饿了 / 排便 / 入睡 / 醒来)
+    - 即使没人教 / 没"事件"发生,宝宝身体里**每时每刻**都有这种"感觉质地"
+    - **这就是"自我体验"的最基本单元** — 比"喜怒哀乐"更早、更基础
+    **怎么认识 活力情感**:
+    - 看宝宝吸吮节奏 — 一波澎湃一波平稳
+    - 看宝宝从睡到醒 — 渐强 / 喷薄
+    - 看宝宝困了 — 渐弱
+    - 看宝宝开心 — 澎湃 / 渐强
+    - 看宝宝不舒服 — 持续 / 拉长
+    **活力情感 是 Stern 后续 调谐(情感调谐)理论的基础**(见 C-S5-291)— 父母通过匹配宝宝的 活力情感 跟宝宝同频共振。
+    **对家长的含义**:
+    - 别只问"宝宝是高兴还是不高兴"(分类情感)
+    - 要观察"宝宝现在的 气场 是澎湃还是消退" — 这是更细致的内心
+    - 你的回应不必匹配"分类",而要匹配"活力 质地"
+  what_to_do:
+    - 别只看宝宝"高兴 / 不高兴"
+    - 观察宝宝"澎湃 / 平稳 / 消退"质地
+    - 你的回应匹配宝宝的 气场(不只是情感类别)
+    - 注意宝宝吸吮 / 呼吸节奏的活力
+    - 用动态词汇描述宝宝(他在"渐强"还是"渐弱")
+  failure_mode: |
+    "宝宝又没事发生哪里来心情" — 错。活力情感 伴随所有生命过程,每时每刻都在,不需"事件"。
+    只用 7 种分类情感看宝宝 — 错过 80% 内心活动。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Stern
+  - G-TERM-vitality-affects
+  - G-TERM-affective-attunement
+
+citation:
+  book_title_zh: "婴儿的人际世界"
+  book_title_en: "The Interpersonal World of the Infant"
+  authors: ["Daniel N. Stern"]
+  authors_zh: ["丹尼尔·斯特恩"]
+  publisher_en: "Basic Books"
+  year_en: 1985
+  isbn_en: "978-0-465-09559-9"
+  location: "Ch 3 · Vitality Affects (Suzanne Langer 1967 引入,Stern 命名)"
+  publisher_zh: "华东师范大学出版社"
+  year_zh: 2017
+  translator_zh: ["刘旭东"]
+  source_id: SRC-018
+
+unit_ids: []
+related_cards:
+  - C-S2-191       # Stern 2 月跃迁
+  - C-S2-192       # Stern 妈语 + 婴儿脸
+  - C-S2-009       # 鲍秀兰 母婴情感(SRC-009)
+  - C-S5-291       # Stern attunement 主卡
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

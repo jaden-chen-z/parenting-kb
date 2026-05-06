@@ -1,0 +1,57 @@
+card_id: C-S4-349
+stages: [S4]
+tags: [发展, milestones]
+
+front:
+  title: "里程碑不是赛跑"
+  hook: "爱因斯坦 3 岁才说话"
+
+back:
+  why_matters: |
+    Magda Ch7 直接反"几月会爬几月会走"焦虑。
+    宝宝有自己的发展时间表 —
+    早会爬不代表更聪明,晚会走不代表落后。
+    Magda 经典例子:爱因斯坦 3 岁才开口说话(Reef 1991)。
+    赶 = 信号"我对你不满意" → 宝宝长大说"我不够好"。
+    跟蒙氏 sensitive period + Lillard 大动作派一致。
+
+  what_to_do:
+    - 不跟其他宝宝比"几月翻几月坐几月走"
+    - 不强行训练:不撑坐 / 不扶站 / 不学步车
+    - 给空间和时间,他自己会
+    - 真担心运动质量看起来异常,问儿科或神经科
+    - 把 9 月不会坐当"个体差异"不当"落后"
+
+  failure_mode: |
+    "我家 7 月还不会爬别人都会了" → 一焦虑 = 训练他 = 反而压力大学不会。
+    Magda 原话:"赶孩子的代价 = 他长大说'我不够好'"。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Gerber
+  - G-PERSON-Pikler
+  - G-TERM-RIE
+  - G-TERM-critical-period
+
+citation:
+  book_title_en: "Your Self-Confident Baby"
+  book_title_zh: "自信的宝宝"
+  authors:
+    - Magda Gerber
+    - Allison Johnson
+  publisher_en: John Wiley & Sons
+  year: 1998
+  location: "Ch7 How Important Are Milestones?"
+  source_id: SRC-022
+
+unit_ids: []
+related_cards:
+  - C-S2-290  # Lansbury 不撑坐 8 理由
+  - C-S4-194  # Lillard 推车型
+  - C-S4-129  # Wonder Weeks 跃迁
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

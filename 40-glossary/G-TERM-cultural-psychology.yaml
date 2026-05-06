@@ -1,0 +1,27 @@
+glossary_id: G-TERM-cultural-psychology
+type: term
+display_name: "文化心理学 / cultural psychology"
+
+name_en: "cultural psychology"
+name_zh: "文化心理学"
+
+description: |
+  Shweder 立场 — 不同文化下人有不同 mentality,不只是 "心智 + 文化变量"。
+
+one_liner: |
+  文化心理学(cultural psychology)— Shweder 立场 — 不同文化下人有不同 mentality,不只是 "心智 + 文化变量"。
+
+key_facts:
+  - "Lerner V1 元理论卷核心术语"
+  - "学派:Lerner V1 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

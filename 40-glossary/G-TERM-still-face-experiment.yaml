@@ -1,0 +1,107 @@
+glossary_id: G-TERM-still-face-experiment
+type: term
+display_name: 扑克脸实验 (still-face experiment)
+
+full_name_zh: 扑克脸实验 / 静脸实验
+full_name_en: Still-Face Experiment / Still-Face Paradigm
+
+one_liner: |
+  Tronick 1978 经典心理学实验 — 让妈妈在跟 3 月宝宝互动中突然变成"扑克脸"(没表情 + 不动 + 不回应)。
+  宝宝几秒内察觉,30-60 秒内崩溃。是 attunement 重要性最戏剧化的证据。直接回答"边带宝宝边玩手机"的代价。
+
+detail: |
+  ## 实验背景
+  - 1978 年 Edward Tronick 等人首次报告
+  - 现场:Boston Children's Hospital
+  - Tronick 是 Brazelton 学术圈的研究员
+  - Stern 在《The Interpersonal World of the Infant》多次引用
+
+  ## 实验设计
+  1. **第 1 阶段(正常)** — 妈妈跟 3 月宝宝面对面互动几分钟,自然的笑、说话、回应
+  2. **第 2 阶段(still-face)** — 实验员发信号,妈突然变扑克脸:
+     - 没表情(嘴 / 眉毛 / 眼神都不动)
+     - 不动作(身体冻结)
+     - 不回应宝宝(听到也不反应)
+     - 持续 1-2 分钟
+  3. **第 3 阶段(恢复)** — 妈恢复正常互动,看宝宝多久能恢复
+
+  ## 宝宝反应(3 阶段,可重复观察)
+  ### 阶段 1:立刻察觉(几秒内)
+  - 笑容消失
+  - 看妈表情
+  - 表情困惑
+
+  ### 阶段 2:主动 re-engage 努力(10-30 秒)
+  - 笑(以为妈"逗他")
+  - 伸手碰妈
+  - 发声
+  - 拉妈衣服 / 头发
+  - 各种"想唤回妈"行为
+
+  ### 阶段 3:崩溃 / 退缩(30-60 秒)
+  - 哭
+  - 看别处(避目光)
+  - 身体瘫软
+  - 完全社交退缩
+
+  ## 后续效应
+  - 妈恢复后,宝宝**几分钟才完全恢复**
+  - 反复 still-face 让宝宝 "learned helplessness"
+
+  ## 重大意义
+  - **3 月宝宝即能区分"妈在 vs 妈在但心不在"**
+  - 后者比前者更痛苦(破坏 RIG 预期)
+  - 是 attunement 的"反向证据" — 没有 attunement 时,宝宝立刻不安
+  - 也是 Bowlby 安全依恋的"微观证据"
+
+  ## 在现代育儿的应用 — 直接对应"玩手机父母"
+  - 边喂奶边刷手机 = 等价于 still-face
+  - 边推车边刷手机 = 等价于 still-face
+  - 心不在场地"陪伴" = still-face 的柔和版
+  - **不是"宝宝看不出来"** — 3 月即能区分
+
+  ## 临床应用
+  - 评估亲子互动质量(在临床实验室常用)
+  - 抑郁母亲的婴儿反应特别强(他们的妈日常就是 still-face)
+  - 治疗师评估"父母 attunement 能力"的工具
+
+  ## 跟 Stern 概念关系
+  - **Misattunement** 的极端版本(C-S5-294)
+  - 反向证明 **attunement 的本能性**(C-S5-291)
+  - 极端 still-face → 形成 RIG_with-disengaged-mom(C-S3-198)
+  - 长期 → secure attachment 受损
+
+  ## 中国家长高频痛点
+  - 中文家庭"陪伴" 常常是物理在场 + 心不在场
+  - 文化习惯"边带娃边做家务"
+  - 哺乳期妈累 → 不自觉 still-face
+  - 尤其产后抑郁妈 → 慢性 still-face
+
+  ## 解放性意义
+  - 不必焦虑偶尔 still-face — 但要意识到代价
+  - 5 分钟全心 > 30 分钟 still-face
+  - 真累时让其他家人陪
+
+key_facts:
+  - Tronick 1978 经典实验
+  - 3 月宝宝几秒即察觉
+  - 30-60 秒后崩溃
+  - 边带娃边玩手机 = 等价 still-face
+  - 反向证明 attunement 重要
+
+related_glossary:
+  - G-PERSON-Stern
+  - G-PERSON-Brazelton
+  - G-TERM-affective-attunement
+  - G-TERM-RIGs
+
+related_cards: []
+
+sources:
+  - source_id: SRC-018
+  - external: Tronick et al. 1978 / Stern《The Interpersonal World of the Infant》
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

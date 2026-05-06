@@ -1,0 +1,49 @@
+card_id: C-S4-554
+stages: [S4]
+tags: [weaning, summer, appetite, seasonal]
+
+front:
+  title: 断奶第 2 月夏季食欲低
+  hook: 别强加代乳食品量
+
+back:
+  why_matters: |
+    松田说:进入断奶第 2 月的婴儿,炎热夏季一般不会有食欲。
+    妈以为"7 月起必须增加食量",结果强迫吃 → 娃抗拒。
+    若为加辅食量减母乳/牛奶,营养反不利。
+    6-7 月主食仍是奶,辅食只是"吃饭练习"。
+  what_to_do:
+    - 夏季辅食量不强加
+    - 主食奶量不减
+    - 选清淡辅食(瓜泥/果泥)
+    - 多喂水
+    - 秋凉后娃食欲会自然回
+  failure_mode: |
+    妈夏季硬塞辅食 → 娃看到食物就哭 → 厌食习惯,凉了也不爱吃。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Matsuda
+
+citation:
+  book_title_zh: "定本《育儿百科》"
+  book_title_jp: "育児の百科(定本)"
+  authors: ["松田道雄"]
+  translators_zh: ["王少丽"]
+  publisher_zh: null
+  year: 1980
+  edition: "定本"
+  location: "第 212 节断奶的方法"
+  source_id: SRC-023
+
+unit_ids: []
+related_cards:
+  - C-S4-550  # 自卷:断奶量因孩子异
+  - C-S2-548  # 自卷:食量小婴儿是健康
+  - C-S5-023  # Brazelton 9 月断奶不必赶
+  - C-S2-017  # 鲍秀兰 室内温 25-28 夏 / 18-22 冬
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

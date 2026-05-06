@@ -1,0 +1,74 @@
+card_id: C-S4-702
+stages: [S4]
+tags: [lovey, attachment_object, controversy, matsuda, japan, conflicts, philosophy]
+
+front:
+  title: "别养出毛巾依赖症"
+  hook: "Davies 反着看"
+
+back:
+  why_matters: |
+    松田 §259 立场跟现库主流(Davies / Brazelton / 蒙氏)对立：
+    1. 8 月后婴儿吃奶时一只手抓毛巾 / 蹭被褥;
+    2. 别让喜好集中在特定毛巾 — 经常调换;
+    3. 一旦养成"宠物癖"(lovey)：
+       - 去哪都需要那条破毛巾;
+       - 午睡没它就不喝奶;
+       - 一定年龄改不掉。
+    跟 Davies / Brazelton "破破烂烂的毛绒 = 内心强大"立场对立，
+    跟 Winnicott "transitional object 是健康过渡"对立。
+    conflicts.md 必记 — 4 派立场分歧。
+
+  what_to_do:
+    - 8-9 月起经常换毛巾 / 被毯
+    - 不固定一条作"安抚物"
+    - 入睡靠节律不靠特定物
+    - 白天玩具多样化轮换
+    - 真养成了别强夺(那是另一战场)
+
+  failure_mode: |
+    西方派妈妈听 Davies "lovey 是健康"→ 主动给宝宝固定毛绒 →
+    1 岁后真离不开 → 日本派老人指责"宠物癖"。
+    立场对立怎么办:
+    - 信 Davies/Brazelton/Winnicott 路线 → 接受 lovey
+    - 信松田/Lansbury 路线 → 早期换换避免依赖用户家庭自己定，不强判对错(conflicts.md)。
+
+  evidence_level: C
+
+  positions:
+    issue: 安抚物(lovey)是健康过渡还是依赖癖好
+    views:
+      - school: 松田道雄
+        source: SRC-024
+        stance: 不要养成 lovey 癖 — 8-9 月起经常更换毛巾被毯,避免婴儿对特定物品形成强依赖。
+      - school: Brazelton
+        source: SRC-010
+        stance: 破破烂烂的小毛绒 = 内心强大;lovey 是健康过渡物,代表自我安抚能力的发展。
+      - school: Davies
+        source: SRC-014
+        stance: 支持 lovey 是健康发育表现,无需干预或替换。
+      - school: Winnicott(经典)
+        stance: transitional object 是从母婴融合到独立自我的过渡桥梁,精神分析视角下是健康标志。
+glossary_refs:
+  - G-PERSON-Matsuda
+  - G-TERM-lovey
+
+citation:
+  book_title_zh: "定本育儿百科"
+  authors:
+    - 松田道雄
+  publisher_ja: 岩波书店
+  year_first_edition: 1967
+  location: "§259 不要养成宠物癖"
+  source_id: SRC-024
+
+unit_ids: []
+related_cards:
+  - C-S6-025  # Brazelton 破破烂烂的小毛绒 = 内心强大(立场对立)
+  - C-S4-016  # 鲍秀兰 8 月前抱抱不会宠坏
+  - C-S5-393  # Davies 黏人是健康
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

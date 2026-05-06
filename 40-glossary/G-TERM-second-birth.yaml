@@ -1,0 +1,91 @@
+glossary_id: G-TERM-second-birth
+type: term
+display_name: 第二次出生 (second birth)
+
+full_name_zh: 第二次出生 / 外孕期结束
+full_name_en: Second Birth / End of External Gestation
+
+one_liner: |
+  Lillard 独有命名 — **8-9 月宝宝爬走 = 主动从父母身边离开,转向外部世界**。
+  9 个月内孕(子宫)+ 9 个月外孕(arms)= 完整 18 月孕期。爬 = 第二次出生,心理意义大于物理意义。
+
+detail: |
+  ## 定义
+  Second birth = Lillard《From the Start》Ch5 提出的概念:
+  - **第一次出生** — 出生(0 月)
+  - **第二次出生** — 8-9 月,宝宝主动爬走,**自愿从父母身边离开**
+
+  ## 概念由来
+  Lillard / Jessen 用 Silvana Montanaro(意大利 AMI 0-3 培训师)的 "external gestation"(外孕期)概念扩展:
+  - 9 个月内孕(internal gestation)— 子宫内
+  - 9 个月外孕(external gestation)— 出生后到 8-9 月,宝宝跟妈妈通过 arms / breast 物理连
+  - **外孕期 = 妈妈胸口 + 抱 + 哺乳 = 子宫的延续**
+  - **第二次出生 = 8-9 月宝宝爬走,这个"延续"结束**
+
+  跟 Karp 第四产程(0-3 月是孕期延续)合起来 = 完整 18 月人类婴儿期的命名。
+
+  ## 心理意义(比物理重要)
+  爬之前:宝宝完全靠妈妈接近物品
+  爬以后:**宝宝自己决定去哪 / 看什么** — 第一次自己作选择
+
+  这是宝宝心理上"作为独立个体"的开始 — 之前是大人的延伸,从 8-9 月起是自己。
+
+  ## Bowlby 安全基地呼应
+  Bowlby 依恋理论:
+  - **依恋阶段 3**(8-12 月) = secure base 形成 = 宝宝敢离开妈妈探索
+  - 如果安全依恋已建立 → 宝宝爬走时 = 这是"我有家可回"的勇气
+  - 如果安全依恋没建立 → 宝宝不敢爬走或爬走后焦虑
+
+  所以第二次出生不是孤立事件 — 是 0-9 月所有 attachment work 的成果。
+
+  ## 大人的角色变化
+  - 0-9 月:外孕期支持者(抱 + 哺乳 + 在身边)
+  - 9-12 月:**第二次出生引产人**(让宝宝爬走 + 别再抱回来)
+  - 12-15 月:走 + 自主探索的环境提供者
+  - 15+ 月:从"抱者"完全过渡到"陪伴 + 引导"
+
+  Lillard:**这个角色转变是大人最难的功课** — 很多家长 8-12 月反而抱得更紧,导致"黏人宝宝"。
+
+  ## 实操(Lillard Ch5)
+  - 6 月:开始大量地板时间(prepared for crawling)
+  - 8 月:baby-proof 全屋(知道 second birth 快了)
+  - 9 月:看到爬走 → **庆祝 + 退后** + 不抱回来
+  - 10-12 月:不要因为想念抱的感觉就抱起爬走的宝宝
+  - 12 月:已经接受宝宝是独立个体
+
+  ## 中国家长高频误解
+  | 误解 | 实际 |
+  |---|---|
+  | "宝宝爬走太累人,关在围栏" | 反:剥夺第二次出生 = 心理发展严重受阻 |
+  | "宝宝爬走我抱回来怕摔" | 反:磕碰是必经,不让爬反而长期问题大 |
+  | "我不舍得宝宝长大" | 反:你的"舍不得"会让宝宝心理无法独立 |
+
+  ## 跟其他流派对照
+  - **Karp** — 0-3 月第四产程(命名前 3 月)
+  - **Lillard** — 8-9 月第二次出生(命名 9 月)
+  - **Bowlby** — secure base 形成(同期理论)
+  - 三派合起来 = 完整 0-9 月人类婴儿期的多角度命名
+
+key_facts:
+  - Lillard 独有命名(2003)
+  - 8-9 月爬走 = 主动离开父母
+  - 跟 Karp 第四产程合起来 = 完整 18 月
+  - 跟 Bowlby 依恋阶段 3 同期
+  - 心理意义大于物理意义
+
+related_glossary:
+  - G-PERSON-Lillard
+  - G-PERSON-Jessen
+  - G-TERM-symbiosis-period
+  - G-TERM-coordinated-movement
+
+related_cards: []
+
+sources:
+  - source_id: SRC-016
+  - external: Silvana Montanaro AMI 0-3 培训 / Bowlby attachment theory
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

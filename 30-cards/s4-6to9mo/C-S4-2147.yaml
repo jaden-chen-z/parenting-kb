@@ -1,0 +1,53 @@
+card_id: C-S4-2147
+stages: [S4]
+tags: [controversy]
+front:
+  title: 8 月不爬正常,跳爬直立也行
+  hook: 爬行是可选技能
+back:
+  why_matters: |
+    家长最爱拿"邻居娃 6 月就爬"做比较,海蒂明确:爬行不是必经里程碑,是可选技能。
+    多数娃 9 月才开始爬,极少数完全跳过爬行直接扶站走路,只要其他里程碑达标(独坐稳、双腿能受重、对周围有兴趣)就完全正常。爬法也千差万别:屁股挪、青蛙爬、向后爬、用手脚爬都行,关键是娃在尝试独立移动。
+  what_to_do:
+    - 8 月不爬观察其他里程碑
+    - 多趴地+多自由移动机会
+    - 玩具放前方一臂处诱导
+    - 包住膝盖方便地板移动
+    - 不强迫不演示爬行动作
+  failure_mode: 焦虑邻居比较去做发育干预,过度抓拉娃手脚演示爬行,反而让娃排斥地板时间。
+  evidence_level: B
+  positions:
+    issue: 不爬行(skip crawling)是否影响发育 · 跳爬直立是否健康
+    views:
+      - school: 鲍秀兰
+        source: SRC-009
+        stance: 缺乏爬行 → 学龄期反应迟钝 / 动作笨拙。中国家长普遍焦虑源,提倡多爬。
+      - school: Lillard(蒙氏)
+        source: SRC-016
+        stance: sitter(坐型)也健康,看整体发育而非只看爬行;路径多样不必矫正。
+      - school: AAP
+        source: SRC-004
+        stance: 不爬也正常,跳爬 / 直立都属正常发育路径;无明确"不爬有害"立场。
+      - school: 海蒂
+        source: SRC-040
+        stance: 8 月不爬正常,跳爬直立也行 — 主流大众派对 AAP 立场的明确背书,缓和中国家长焦虑。
+      - school: 中国传统
+        stance: 不爬必须矫正,否则未来"协调差";常见"训练爬"商业课程。
+glossary_refs: []
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors: ["Heidi Murkoff", "Sharon Mazel"]
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh: ["莫夏迪","张敏"]
+  location: "第 12 章 《第 8 个月》, 页 390-392"
+  source_id: "SRC-040"
+related_cards: [C-S3-2253, C-S4-2148]
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

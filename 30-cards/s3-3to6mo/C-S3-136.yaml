@@ -1,0 +1,63 @@
+card_id: C-S3-136
+stages: [S3]
+tags: [montessori, motor, independence, philosophy]
+
+front:
+  title: 别把玩具塞他手里
+  hook: 让他够,不替他够
+
+back:
+  why_matters: |
+    家长本能反应:宝宝看玩具 → 立即拿起来塞他手里。
+    蒙氏强烈反对。
+    理由:
+    - 4-9 月宝宝在练**reaching**(够东西)— 这是关键的手脚配合
+    - **看 → 决定 → 伸手 → 抓住** 是完整的脑+手链
+    - 替他够 = 切断这个链 = 宝宝学到"我不用动,会自动来"
+    - 长期 = 自主性 + 自己想办法的能力受影响
+    Davies 把这归到"人类倾向 — 解决问题"(problem solving):
+    > "宝宝伸手去够球 vs 你把球递给他 — 是两件不同的练脑工作。"
+    - 替他做 = 抢走他练脑的机会
+    - 让他自己 = 他练**判距离 / 控力量 / 手脚配合 / 坚持**
+    操作:
+    - 玩具放他**够得到但稍有挑战**的位置(比手伸长 5cm)
+    - 不挪近,不递
+    - 他试很多次抓不到才稍稍挪近一点
+    - 他成功 — 不夸"好棒",微笑就行(见 C-S5-132)
+  what_to_do:
+    - 玩具放够得到的位置不直接递
+    - 看到他挣扎 — 等等,别马上帮
+    - 实在够不着挪近 5cm,别全送
+    - 替他做的事每天减少 1 件
+    - 不为"省事"剥夺他的练脑机会
+  failure_mode: |
+    "他够不到会哭,我帮他" — 几次哭后他学到"不哭不递",不哭后他学到"我能自己做到"。
+    "玩具对他没意思我要帮他玩" — 错。简单玩具+他自己摸索=最好的练脑。
+    把"帮宝宝"等同于"爱宝宝" — 爱是不替他做能做的事。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Davies
+  - G-PERSON-Montessori
+  - G-TERM-prepared-environment
+
+citation:
+  book_title_zh: "蒙特梭利的小宝宝(0-1岁)"
+  book_title_en: "The Montessori Baby"
+  authors: ["Simone Davies", "Junnifa Uzodike"]
+  authors_zh: ["西蒙·戴维斯", "君妮法·乌佐迪克"]
+  publisher_en: "Workman Publishing"
+  year_en: 2021
+  isbn_en: "978-1-5235-0693-7"
+  location: "Chapter 2 · Human tendencies > Solving Problems + Chapter 6 reaching"
+  source_id: SRC-014
+
+unit_ids: []
+related_cards:
+  - C-S3-011       # AAP 4 月抓握
+  - C-S2-131       # 蒙氏不 prop 坐
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

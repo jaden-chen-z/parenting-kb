@@ -1,0 +1,58 @@
+card_id: C-S7-1610
+stages: ['S7']
+tags: ['philosophy', 'lerner_v1', 'spencer', 'identity_2_3']
+
+front:
+  title: "2-3 岁身份起步"
+  hook: "我是 X 开始建"
+
+back:
+  why_matters: |
+    Spencer PVEST 应用到 2-3 岁 — identity 形成起步阶段。
+    2-3 岁娃开始有 — "我是 X 的人" 早期叙事:
+    - "我是哥哥 / 姐姐"(家庭角色)
+    - "我是 X 班的"(早教 / 托班归属)
+    - "我喜欢 X"(兴趣身份)
+    - "我会 X"(能力身份)
+    意义 — 父母这阶段的言行进入娃 identity 建构素材。
+    - 反复说"你就是个慢孩子" → 进入 identity → 成"我是慢的"
+    - 反复说"你能办到" → 进入 identity → 成"我能办到"
+    具体做法 —
+    - 注意自己反复用的"标签语"
+    - 描述行为不评价人(行为可改标签固化)
+    - 让娃接触多元角色(避免单一身份)
+    - 鼓励"我是 X" 多元化叙事(我是哥哥 + 我喜欢车 + 我会跑)
+  what_to_do:
+    - "注意反复用的'标签语'"
+    - "描述行为不评价人"
+    - "让娃接触多元角色"
+    - "鼓励 identity 多元叙事"
+    - "父母言行 = identity 建构素材"
+  failure_mode: |
+    反复贴标签(她就是 X)— 进入 identity 长期固化。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Spencer
+  - G-TERM-PVEST
+  - G-TERM-identity-formation
+
+related_cards:
+  - C-S0-1532
+  - C-S6-1510
+  - C-S6-1066
+  - C-S7-996
+
+citation:
+  source_id: SRC-030
+  source_title: "Handbook of Child Psychology Vol 1: Theoretical Models of Human Development"
+  chapter: "Ch 15 Spencer PVEST"
+  chapter_offset: 4551844
+  chapter_title: 'Spencer — Phenomenological Variant of Ecological Systems Theory (PVEST)'
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_followup_needed: 'SRC-030 用 PDF 字节偏移代页码 — 待加 page_pdf 反查工具'

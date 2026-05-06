@@ -1,0 +1,80 @@
+card_id: C-S8-753
+stages: [S8]
+tags: [incredible_years, webster_stratton, lerner_v4]
+
+front:
+  title: IY 父母+娃+老师
+  hook: IY 三方协同训
+
+back:
+  why_matters: |
+    Incredible Years (IY,神奇岁月,Webster-Stratton 1980s 创立)— Lerner V4 Ch 14 Powell + Ch 15 Kress-Elias 重点引用。
+
+    **IY 三大模块**(三者协同效果最大):
+    - **父母班**(父母班):14-20 次课
+    - **孩子小组班**(孩子小组班):18-22 次课
+    - **幼儿园老师班**(幼儿园老师班):6 次课
+
+    **RCT 元分析证据**:
+    - 只上父母班:行为问题减 25-30%
+    - 父母 + 孩子班:35-40%
+    - 父母 + 孩子 + 老师班:**45-50%**
+    - 长期 6+ 年追踪效果稳定
+
+    **核心方法**:
+    - **认知行为疗法(CBT)**:看正反例视频 + 讨论 + 角色扮演
+    - **正向强化**:表扬 + 奖励具体行为(不泛泛夸"真棒")
+    - **忽视轻度负面**(中场休息/time-out 是最后一步)
+    - **冷静父母**:父母情绪管理是关键
+
+    **适用群体**:
+    - 3-8 岁有行为问题(攻击 / 不听 / 早期 ADHD 表现)
+    - 也用于普通家长做预防
+
+    **中国情况**:
+    - 已有中文版 + 国内试点
+    - 比纯说教效果显著好
+
+    **跟现库对接**:Patterson 强制家庭(C-S6-1075)+ Triple P(C-S8-752)+ Powell 5 原则。
+
+    对中国家长意义:
+    - 严重行为问题别硬扛,找 IY 课程
+    - 老师 + 父母同步介入效果最大
+    - 视频 + 角色扮演比单纯说教有效
+    - 父母自己的情绪管理是核心
+  what_to_do:
+    - 行为问题别硬扛找 IY
+    - 父母+老师同步效果大
+    - 视频角色扮演胜说教
+    - 父母情绪管理核心
+  failure_mode: |
+    "硬扛就行"— 错。RCT 证据 IY 强。
+    "小娃打骂就听话"— 错。Patterson 强制循环。
+    "老师不重要"— 错。三方协同最强。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Webster-Stratton
+  - G-TERM-incredible-years
+  - G-TERM-parent-training
+  - G-TERM-CBT
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 4 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 4 卷"
+  authors: ['Carolyn Webster-Stratton (cited)']
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 14 · Incredible Years parent + child + teacher (cross-chapter) · pp. 565-575"
+  source_id: SRC-029
+
+unit_ids: []
+related_cards:
+  - C-S6-1075     # V3 Patterson 强制家庭
+  - C-S8-752     # Triple P 5 级
+  - C-S0-1233     # Powell 5 原则
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

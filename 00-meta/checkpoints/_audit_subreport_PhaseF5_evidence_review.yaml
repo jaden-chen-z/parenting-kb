@@ -1,0 +1,58 @@
+audit_dimension: 14_evidence_level_review
+sample_size_A: 50
+sample_size_B: 50
+sample_size_C_full_scan: 83
+total_findings:
+  wrong_a_count: ~430   # 系统性大幅 inflation
+  wrong_b_count: ~10
+  wrong_c_no_philosophy_tag: 45
+wrong_a_breakdown_by_src:
+  SRC-017_Bowlby_V3: {A_count: 11, inflated_pct: 100, action: 全部降 B}
+  SRC-019_Lansbury: {A_count: 21, inflated_pct: 100, action: 单家 RIE 立场,降 B/C}
+  SRC-021_Gerber_v1: {A_count: 24, inflated_pct: 100, action: Magda 单家 RIE,降 B/C}
+  SRC-022_Gerber_v2: {A_count: 40, inflated_pct: 100, action: 同源问题}
+  SRC-023_Matsuda_v1: {A_count: 32, inflated_pct: 100, action: 松田流派,文化对立}
+  SRC-024_Matsuda_v2: {A_count: 16, inflated_pct: 100, action: 松田同源}
+  SRC-026_Pikler: {A_count: 36, inflated_pct: 100, action: Pikler 1969 单本流派}
+  SRC-027_Lerner_V3: {A_count: 61, inflated_pct: 85, action: Handbook 单章引,大部分降 B}
+  SRC-028_Lerner_V2: {A_count: 47, inflated_pct: 85}
+  SRC-029_Lerner_V4: {A_count: 84, inflated_pct: 85}
+  SRC-030_Lerner_V1: {A_count: 90, inflated_pct: 85}
+  SRC-040_Murkoff: {A_count: 54, inflated_pct: 50, action: 海蒂 popular book 部分降 B}
+  SRC-009_Bao: {A_count: 14, inflated_pct: 50}
+  SRC-010_Brazelton: {A_count: 7, inflated_pct: 70}
+  SRC-011_Bowlby_V1: {A_count: 10, inflated_pct: 70}
+  SRC-012_Bowlby_V2: {A_count: 13, inflated_pct: 70}
+  SRC-013_Wonder_Wks: {A_count: 7, inflated_pct: 85}
+  SRC-014_Davies: {A_count: 8, inflated_pct: 80}
+  SRC-015_Gopnik: {A_count: 21, inflated_pct: 50}
+  SRC-016_Lillard: {A_count: 15, inflated_pct: 80}
+  SRC-018_Stern: {A_count: 32, inflated_pct: 70}
+compliant_a_sources:
+  SRC-003_Karp: A 全搭 AAP SIDS 共识,合规
+  SRC-004-008_AAP_cluster: A_count 70, inflated_pct 0
+  SRC-031_WHO_UNICEF: A_count 52, inflated_pct 0
+  SRC-025_NRC_IOM: A_count 61, inflated_pct ~30(综述合规)
+wrong_c_no_philosophy_tag_45_cards: |
+  详见原报告。45 张 C 级卡缺 philosophy tag(C 必带 philosophy 是机械规则)。
+  分布:SRC-009 鲍秀兰(14 张)/ SRC-010 Brazelton(4)/ SRC-013 Wonder Weeks(2)/ SRC-014 Davies(4)/
+       SRC-016 Lillard(1)/ SRC-024 松田(3)/ SRC-040 Murkoff(4)/ SRC-003 Karp(3)/ 其他散点(10)。
+  自动 Edit 受沙箱限制无法执行,需用户授权或脚本化批量补 tag。
+校准建议:
+  P0_immediate:
+    - {action: 批量加 philosophy tag 给 45 张 C 卡, mode: 机械操作可脚本化}
+  P1_systematic:
+    - {action: SRC-019/021/022/026/017 的 A 卡批量降 B 或 C, count: ~132 张, mode: 按 SRC ID 批量}
+    - {action: SRC-027/028/029/030 单章引 A 卡降级, count: ~280 张, criteria: 单章+流派立场→B;单章+Tier 1 共识→保 A}
+  P2_细粒度:
+    - {action: 升 A 候选需更细粒度跨源分析, scope: B 卡若有 ≥2 Tier 1 + 1 综述支撑可升 A, mode: Phase F-3 单独任务}
+notes: |
+  系统性问题:任务书 §10.7 标尺被广泛滥用 — A 级标注成"我相信这是对的",而非"Tier 1 共识 + 多源综述支撑"。
+  主要 inflation 集中在:
+    a) RIE/Pikler/Lansbury/Gerber 流派(SRC-019/021/022/026)— 100% 应降级
+    b) 松田流派(SRC-023/024)— 100% 应降级
+    c) Lerner Handbook 单章引(SRC-027/028/029/030)— 单章 ≠ 综述源,~85% 应降级
+    d) Bowlby V3 丧失卷(SRC-017)— 流派理论,100% 应降级
+  相对合规:Tier 1 直接来源(AAP/WHO),Karp 5S(因与 AAP 一致)。
+  维度 4 只查"是否填",维度 14 暴露校准失败 — 任务书等级标尺根本没贯彻执行。
+  这是本次审计最大系统性发现 — 影响约 430 张卡需降级。

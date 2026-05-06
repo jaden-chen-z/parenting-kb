@@ -1,0 +1,28 @@
+glossary_id: G-TERM-systems-thinking
+type: term
+display_name: "系统思维 / systems thinking"
+
+name_en: "systems thinking"
+name_zh: "系统思维"
+
+description: |
+  跨章共识(Ch 6 + Ch 8 + Ch 14 + Ch 15)— 整体 ≠ 组件之和。
+  看 multi-feedback 不只单线 cause-effect。
+
+one_liner: |
+  系统思维(systems thinking)— 跨章共识(Ch 6 + Ch 8 + Ch 14 + Ch 15)— 整体 ≠ 组件之和。
+
+key_facts:
+  - "Lerner V1 元理论卷核心术语"
+  - "学派:Lerner V1 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

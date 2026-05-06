@@ -1,0 +1,52 @@
+card_id: C-S0-1025
+stages: [S0]
+tags: []
+
+front:
+  title: "选产院:认 BFHI"
+  hook: "母婴友好不是噱头"
+
+back:
+  why_matters: |
+    BFHI(Baby-Friendly Hospital Initiative,母婴友好医院倡议)是 WHO+UNICEF 1991 启动,2018 修订的产院实操标准。
+    全球 152+ 国 15,000+ 家医院认证(2011 数据)。中国是早期签署国 — 6,000+ 爱婴医院。
+    BFHI 10 步指出生 1 小时内开奶 / 24 小时同室 / 不定时喂奶 / 不轻易给奶瓶 / 出院衔接。
+    中国数字层级首位但实操参差 — 看到'爱婴医院'牌子≠真按 10 步执行。
+  what_to_do:
+    - "选产院问'是否 BFHI 认证 + 何时复评'"
+    - "问'出生后立即肌肤接触多久'(BFHI 标准 ≥ 1 小时)"
+    - "问'是否 24 小时同室'(不同室不达标)"
+    - "问'非医学指征下是否给配方奶'(不应该给)"
+    - "看到爱婴牌子但实操不到位 → 自己坚持要求"
+  failure_mode: |
+    选了非 BFHI 医院或'纸面 BFHI' → 出生后被定时喂奶 / 母婴分离 / 早期奶瓶,母乳建立失败率高。
+    孕期就该选好,临产换难。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-BFHI
+  - G-ABBR-WHO
+
+citation:
+  page_title: "Baby-Friendly Hospital Initiative"
+  publisher: "World Health Organization & UNICEF"
+  page_url_primary: https://en.wikipedia.org/wiki/Baby_Friendly_Hospital_Initiative
+  accessed: 2026-05-04
+  language: en
+  location: "BFHI 全球认证 + 中国 6000+ 爱婴医院数据 + 10 步骤"
+  source_id: SRC-031
+
+unit_ids: []
+related_cards:
+  - C-S0-1024
+  - C-S1-1002
+  - C-S1-1004
+  - C-S0-007
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_doc_id_pending: D2
+citation_followup_needed: '已映射真实 doc_id (D2 = BFHI Ten Steps 2018)'

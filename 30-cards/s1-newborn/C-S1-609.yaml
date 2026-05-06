@@ -1,0 +1,47 @@
+card_id: C-S1-609
+stages: [S1]
+tags: [weight, anti-standard, individual-difference]
+
+front:
+  title: 反"标准体重"焦虑
+  hook: 出生体重幅度本来就大
+
+back:
+  why_matters: |
+    松田直击:"出生 2 周该多重?"问题本身就错。
+    出生体重幅度大 — 4 kg 不一定结实,3 kg 不一定弱。
+    每日喝奶量,健康娃也各不同。
+    把娃按"标准曲线"分等级,是战前征兵把人分甲乙丙丁的思想 — 已过时。
+  what_to_do:
+    - 别跟同月龄/同小区娃比体重
+    - 看自家娃体重曲线走势,不是绝对值
+    - 半月时与出院比 + 夜哭多 → 才考虑加奶
+    - 食量小娃不强行加奶
+    - 一侧乳房吃完就睡也正常
+  failure_mode: |
+    妈被儿保医生"曲线偏低"一句话压垮 → 焦虑加奶,娃反而厌奶,陷恶性循环。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Matsuda
+
+citation:
+  book_title_zh: "定本《育儿百科》"
+  book_title_jp: "育児の百科(定本)"
+  authors: ["松田道雄"]
+  translators_zh: ["王少丽"]
+  publisher_zh: null
+  year: 1980
+  edition: "定本"
+  location: "第 66 节关于体重增加"
+  source_id: SRC-023
+
+unit_ids: []
+related_cards:
+  - C-S1-032  # Karp 按摩热水浴 5S 辅助
+  - C-S2-002  # Karp 撑过哭闹峰不是父母失败
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

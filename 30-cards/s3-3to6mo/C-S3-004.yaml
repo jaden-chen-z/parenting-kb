@@ -3,16 +3,18 @@ stages: [S3]
 tags: [safety, red_flag]
 
 front:
-  title: 1 岁内别给:这 11 种 choking 食物
-  hook: choking 是婴儿意外死亡主因之一
+  title: 1 岁内别给:这 11 种窒息食物
+  hook: 窒息是婴儿意外死亡主因之一
 
 back:
   why_matters: |
-    choking(气道阻塞)对婴儿是高致死性 — 美国每年儿童 choking 急诊数 ~10 万例,死亡数百。
-    婴儿喉口直径 ~ 9 mm,任何这个尺寸 + 不易溶解的食物都可能完美卡住。
-    AAP 明确清单:1 岁前禁忌 11 类:
-    hot dogs / 坚果 / 种子 / 肉块 / 奶酪块 / 整粒葡萄 / 爆米花 / 大块花生酱 / 生蔬菜 / 水果块 / 硬糖粘糖。
-    BLW 也要切长条(不切圆片 — 圆片完美卡气管)。
+    窒息(气道阻塞)对婴儿致死率高 — 美国每年儿童窒息急诊约 10 万例,死亡数百例。
+    婴儿喉口直径约 9 毫米,任何这个尺寸 + 不易溶解的食物都可能正好卡住。
+
+    AAP 1 岁前禁忌 11 类食物清单:
+    热狗 / 坚果 / 种子 / 肉块 / 奶酪块 / 整粒葡萄 / 爆米花 / 大坨花生酱 / 生蔬菜 / 水果硬块 / 硬糖粘糖。
+
+    用 BLW 时也要切长条(不切圆片 — 圆片正好卡气管)。
   what_to_do:
     - 不给:整粒葡萄 / 热狗整段 / 坚果 / 爆米花 / 硬糖
     - 不给:大块奶酪 / 大块肉 / 大勺花生酱
@@ -35,7 +37,7 @@ citation:
   page_url_primary: https://www.healthychildren.org/English/ages-stages/baby/feeding-nutrition/Pages/starting-solid-foods.aspx
   accessed: 2026-05-01
   language: en
-  location: "Starting Solid Foods 'Choking Hazards (Under 1 Year)' 11 类清单 + BLW 'Safety Guidelines' (finger-shaped, not coin-shaped)"
+  location: "Starting Solid Foods 'choking Hazards (Under 1 Year)' 11 类清单 + BLW 'Safety Guidelines' (finger-shaped, not coin-shaped)"
   source_id: SRC-006
 
 unit_ids: []

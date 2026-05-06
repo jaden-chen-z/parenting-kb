@@ -1,0 +1,75 @@
+glossary_id: G-PERSON-Montessori
+type: person
+display_name: Montessori (玛丽亚·蒙特梭利)
+
+full_name_en: Maria Montessori
+full_name_zh: 玛丽亚·蒙特梭利
+
+one_liner: |
+  1870-1952 意大利医生 + 教育家,蒙特梭利教育法创始人。
+  从医学 + 人类学背景出发,把"科学观察儿童"作为方法论,1907 年罗马 Casa dei Bambini 实验确立蒙氏教学法,影响全球 100 年。
+
+detail: |
+  ## 生平
+  - **1870 年**生于意大利安科纳
+  - **1896 年**罗马大学医学博士 — 意大利第一批女医生之一
+  - **1900-1907 年**在罗马精神病院 + 大学任职,研究"心智落后"儿童教育
+  - **1907 年**创办 Casa dei Bambini(儿童之家)— 罗马 San Lorenzo 贫民区,蒙氏教学法诞生地
+  - **1909 年**首次出版《蒙特梭利方法》
+  - **1913 年起**全球巡讲(美 / 欧 / 印)
+  - **1939-1946 年**二战避居印度,期间深化 0-3 岁理论
+  - **1949-1951 年**三次被提名诺贝尔和平奖
+  - **1952 年**荷兰诺德韦克逝世
+
+  ## 核心理论
+  - **吸收性心智**(absorbent mind, 0-6 岁)— 无意识学习的特殊状态
+  - **敏感期**(sensitive periods)— 特定能力的窗口期
+  - **有准备的环境**(prepared environment)— 教育核心是空间设计而非教师讲授
+  - **观察**作为父母 / 教师的方法论
+  - **儿童的自主工作**(work)— 不分玩与学
+
+  ## 主要著作(中译)
+  - 《童年的秘密》(The Secret of Childhood, 1936)
+  - 《有吸收力的心灵》(The Absorbent Mind, 1949)
+  - 《发现孩子》(The Discovery of the Child)
+  - 《教育人类学》(Pedagogical Anthropology)
+
+  ## 蒙氏 0-3 教育(本卷主题)
+  - 蒙特梭利后期重点关注 0-3 岁,在罗马成立"婴儿助手"(Assistants to Infancy)培训项目
+  - 把"教育从出生开始"作为核心立场
+  - 她的女弟子如 Silvana Montanaro 把这部分体系化
+
+  ## 蒙氏 vs 主流认知争议
+  - 不主张惩罚 / 不依赖奖励
+  - 反对"老师讲学生听"的传统课堂
+  - 反对"成人替孩子做"的过度照顾
+  - 这些立场跟主流文化常有张力
+
+  ## 历史地位
+  - 现代教育改革的重要理论家之一,与杜威 / 皮亚杰齐名
+  - 全球蒙氏学校 ~22000 所(AMI 认证 / 非认证混合)
+  - 0-3 蒙氏(本卷主题)在中国知名度低于 3-6 蒙氏
+
+key_facts:
+  - 1870-1952 意大利医生 + 教育家
+  - 1907 年 Casa dei Bambini 罗马首校
+  - 蒙氏教学法创始人
+  - 三次诺奖提名(1949 / 50 / 51)
+  - 后期专攻 0-3 岁理论 — 本卷依据
+
+related_glossary:
+  - G-PERSON-Davies
+  - G-TERM-absorbent-mind
+  - G-TERM-prepared-environment
+  - G-TERM-critical-period
+
+related_cards: []
+
+sources:
+  - source_id: SRC-014
+  - external: AMI 国际蒙特梭利协会 / 维基百科
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

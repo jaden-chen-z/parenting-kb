@@ -1,0 +1,65 @@
+card_id: C-S3-837
+stages: [S3]
+tags: [pikler, motor-发展, transitions, source-de, controversy]
+
+front:
+  title: "侧躺是翻身的蓄力站"
+  hook: "跳过侧躺翻得僵硬"
+
+back:
+  why_matters: |
+    Pikler 1969 Ch2 强调:翻身不是"一翻就过"的动作,是 4-5 步过渡:
+
+    1. 仰卧(Liegen)→
+    2. 单腿抬(初步重心转移)→
+    3. 侧躺(Seitenlage)蓄力 — **关键阶段** →
+    4. 半翻 — 头跟肩转向腹卧 →
+    5. 全翻(Drehung完成)
+
+    第 3 步"侧躺"是核心 — 婴儿在侧躺位置自己练习身体平衡 + 重心控制。Pikler 数据:自学翻身的婴儿在侧躺位待数天到数周(根据娃),反复练习。
+
+    被"帮翻身"或"玩具引诱"的婴儿跳过侧躺直接被翻过去 → 缺平衡控制感 → 后续大动作(坐 / 爬 / 走)
+    都受影响。
+
+    跟 Lansbury Ch7 不撑坐第 7 理由"跳过过渡"(SRC-019
+    C-S2-290)同源。
+
+  what_to_do:
+    - 看到宝宝侧躺停一会 — 别"帮翻完"
+    - 不在他后面放枕头"保持侧躺"(他会自己学)
+    - 拍下来 — 侧躺是宝贵的过渡姿势
+    - 不放玩具引诱"翻向"特定方向(干扰)
+    - 给地板平面 + 时间(每天数小时)
+
+  failure_mode: |
+    "宝宝侧躺好像很努力帮他翻一下吧" → Pikler 反:
+    "努力"是好事 — 婴儿正在练肌肉 + 平衡。"帮"翻完跳过这个练习,后期动作不流畅。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Pikler
+  - G-TERM-bewegungsentwicklung
+
+citation:
+  book_title_de: "Friedliche Babys – zufriedene Mütter"
+  book_title_zh: "和平的婴儿 — 满足的母亲"
+  authors:
+    - Emmi Pikler
+  publisher_de: HERDER (HERDER / SPEKTRUM Band 4141)
+  year: 1969
+  location: "Ch2 Die Entwicklung der Bewegung pp. 38-45"
+  source_id: SRC-026
+
+unit_ids: []
+related_cards:
+  - C-S2-290  # Lansbury 不撑坐 8 理由
+  - C-S2-835  # Pikler 不教翻身(本卷)
+  - C-S4-349  # Gerber 里程碑不是赛跑
+  - C-S3-191  # Lillard 大动作发展
+  - C-S4-129  # Wonder Weeks 大动作里程碑
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

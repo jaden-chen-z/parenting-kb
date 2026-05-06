@@ -1,0 +1,64 @@
+card_id: C-S2-128
+stages: [S2]
+tags: [montessori, communication, tarry-time]
+
+front:
+  title: 等 3 秒再回应
+  hook: tarry 给宝宝时间
+
+back:
+  why_matters: |
+    跟宝宝"对话"最常见的错 — **没等他回应就接着说**。
+    成人之间对话:你说→对方立即说→你接。
+    跟 1-3 月宝宝对话:你说 →**等 3-5 秒**→ 他回应(声音 / 表情 / 体语)→ 你回应他的回应。
+    这叫 **tarry time**(等待时间,RIE / 蒙氏共用术语)。
+    为什么需要等?
+    - 宝宝大脑处理慢(神经传递慢于成人)
+    - 他需要时间识别你说的 + 组织反应
+    - 不等 = 你在自言自语 + 宝宝学到"我不用回应"
+    - 等 = 真正的双向 + 宝宝学到"我说话有人听"
+    具体场景:
+    - 你说:"早上好,Lulu。睡得怎么样?"
+    - **等 3-5 秒**(忍住别接话)
+    - 宝宝可能笑 / 动嘴 / 嗯一声
+    - 你回应:"是吗,睡得好"
+    - **再等**
+    长期意义 — 这是宝宝学**轮流(turn-taking)**的最早实验。9 月+ 真对话 / 1 岁+ 第一句完整话,基础在这里。
+  what_to_do:
+    - 每次跟宝宝说完一句话停 3-5 秒
+    - 看他有没有回应(声 / 表情 / 体动)
+    - 有回应 → 重复或回应他
+    - 没回应 → 再说一遍同句
+    - 不要单方面"念稿"
+  failure_mode: |
+    "他这么小回应什么,我自己说就行" — 错过最早的双向对话训练。
+    "等不及,我话太多" — 收一收,留 3 秒空间。
+    把对话变独白 — 宝宝学到"我说话没人听",成长后社交焦虑相关。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Davies
+  - G-TERM-turn-taking
+  - G-TERM-cooing
+
+citation:
+  book_title_zh: "蒙特梭利的小宝宝(0-1岁)"
+  book_title_en: "The Montessori Baby"
+  authors: ["Simone Davies", "Junnifa Uzodike"]
+  authors_zh: ["西蒙·戴维斯", "君妮法·乌佐迪克"]
+  publisher_en: "Workman Publishing"
+  year_en: 2021
+  isbn_en: "978-1-5235-0693-7"
+  location: "Chapter 6 · Language > 0-3 months > Speak to our baby (RIE tarry time)"
+  source_id: SRC-014
+
+unit_ids: []
+related_cards:
+  - C-S2-021       # Brazelton 2-3 月对话
+  - C-S2-127       # 蒙氏 parentese
+  - C-S2-122       # Wonder Week 8 周
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

@@ -1,0 +1,61 @@
+card_id: C-S7-130
+stages: [S7]
+tags: [montessori, will, obedience, philosophy]
+
+front:
+  title: 18 月-3 岁服从 3 阶段
+  hook: 别期待立刻全服从
+
+back:
+  why_matters: |
+    Lillard Ch9 系统化"服从"3 阶段(Davies 没明确,Lillard 独有):
+    - **12-18 月** — 宝宝能**理解**你的请求,但**做不到**(没意志力)
+    - **18-36 月** — 宝宝能**有时做到**(内 + 外条件好时)
+    - **3 岁+** — 宝宝能**一致服从**(如果他选)
+    为什么 18-36 月不是"故意作"而是发育阶段:
+    - 大脑前额叶刚开始能"延迟冲动"
+    - 但还没稳定 — 一会能 / 一会不能
+    - 看场景 / 心情 / 累不累
+    - 这不是"耍赖",是发育阶段实操含义:
+    - 不要 18-36 月期间期待"我说一遍他就听"
+    - 重复 + 重复 + 重复(每次平静)
+    - 接受"今天能做到 / 明天做不到"
+    - 不在朋友面前评价"他不听话"
+    Lillard 引 Maria Montessori:**3 岁前不能称"不听话",只能说"还在练"**。
+    跟"我家娃 2 岁就该听话"误区**对立** — 蒙氏立场:**3 岁是真"上学龄"开始**(C-S7-131),之前都在练。
+  what_to_do:
+    - 不期待 18-36 月立刻服
+    - 重复 + 平静(不情绪化)
+    - 接受好坏交替
+    - 不评判"不听话"
+    - 看大方向不看单次
+  failure_mode: |
+    "我家 2 岁孩子已经叛逆" — 反:不是叛逆是发育期,3 岁前都是练阶段。
+    每次不服就发脾气 → 错过教育窗口,反而强化对抗。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Lillard
+  - G-PERSON-Jessen
+  - G-PERSON-Montessori
+
+citation:
+  book_title_zh: "蒙台梭利从 0 岁开始"
+  book_title_en: "Montessori from the Start"
+  authors: ["Paula Polk Lillard", "Lynn Lillard Jessen"]
+  authors_zh: ["宝拉·波尔克·莉拉德", "琳·莉拉德·杰森"]
+  publisher_en: "Schocken Books"
+  year_en: 2003
+  isbn_en: "978-0-8052-1112-1"
+  location: "Ch 9 · 'Developing Will' (3 stages of obedience)"
+  source_id: SRC-016
+
+unit_ids: []
+related_cards:
+  - C-S6-134       # Davies 1 岁打咬扔不是坏
+  - C-S6-188       # Lillard 选 2 法
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

@@ -1,0 +1,67 @@
+card_id: C-S5-908
+stages: [S5]
+tags: [shonkoff, nrc, child_directed, anti_drill, china_high_freq]
+
+front:
+  title: "宝宝主导你跟随"
+  hook: "他玩什么你就跟着"
+
+back:
+  why_matters: |
+    NRC 综述 Ch 6 + Ch 9 给"语言 / 认知促进"原则 — child-directed approach:
+    **NRC 综述**:
+    - 不是父母决定教什么 — 是**跟随宝宝兴趣**
+    - 宝宝看什么 → 你命名什么
+    - 宝宝指什么 → 你回应什么
+    - 宝宝重复什么 → 你重复 + 加新词
+    **Hart-Risley 1995 数据**(NRC 引):
+    - 高 SES 家庭 6 月-3 岁累计 4500 万词
+    - 低 SES 家庭累计 1500 万词
+    - **30 million words 鸿沟**
+    - 但更深层差异是 **"对话型 vs 命令型"** —
+      高 SES 妈妈话多还是其次,关键是**回应 + 跟随宝宝兴趣**
+    **对照传统教学**:
+    - 父母说"看,这是苹果,跟我说苹果" → 教学型 → 效果有限
+    - 父母看宝宝看的方向"啊你看到树叶了树叶是绿色的" → 跟随型 → 效果显著
+    **跟 Lillard 蒙氏 follow the child + RIE child-directed 一致**。
+    **对中国家长**:
+    - 别"教"宝宝学
+    - 宝宝玩什么你跟着说什么
+    - 宝宝盯着什么你命名什么
+    - 不要"必须教完今日 5 个新词"
+    - 数量重要但**对话质量更重要**
+  what_to_do:
+    - 跟随宝宝兴趣命名
+    - 别强教今日单词表
+    - 宝宝指什么回应什么
+    - 多对话少独白
+    - 重质量过数量
+  failure_mode: |
+    "我得每天教 N 个新词" — 强教效果差,跟随更有效。
+    "他看的是玩具不是我教的卡片 — 我得纠回来" — 错,跟随他的兴趣才是黄金时机。
+    "我说话多就行" — 单方独白 → 30M words 词数到了但效果未达。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Shonkoff
+  - G-TERM-30-million-words
+  - G-TERM-NRC
+
+citation:
+  book_title_en: "From Neurons to Neighborhoods"
+  authors: ["Jack P. Shonkoff", "Deborah A. Phillips"]
+  org: "NRC/IOM"
+  year_en: 2000
+  location: "Ch 6 · Hart-Risley 30M words + child-directed approach"
+  source_id: SRC-025
+
+unit_ids: []
+related_cards:
+  - C-S6-186    # Lillard follow the child SRC-016
+  - C-S6-396    # Lansbury 不打扰 SRC-019
+  - C-S4-807    # Shonkoff parentese(本卷)
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,70 @@
+card_id: C-S6-961
+stages: [S6]
+tags: [pikler, autonomy, source-de, controversy]
+
+front:
+  title: "自主玩 — 大人不指挥"
+  hook: "自主性是核心"
+
+back:
+  why_matters: |
+    皮克勒 1969 第 7 章玩耍核心:**自主活动**(孩子自己想做什么就做什么)
+    — 12-24 月孩子玩耍最重要的特质。
+
+    皮克勒描述自主玩的孩子:
+    - 好奇心从内在不断涌出来,不会枯竭
+    - 一个玩具可以专注玩很久(20-30 分钟不少见)
+    - 重复同样动作 — 是大脑在学习(不是无聊)
+    - 不需要大人评论 / 加油 / 拍手
+    - 累了自己停下,休息后再继续
+
+    跟"被娱乐"型孩子(第 3 章反例)对比鲜明:
+    - 自主型:玩具少 + 简单 + 沉浸
+    - 被娱乐型:玩具多 + 复杂 + 切换不专注
+
+    皮克勒立场:0-3 岁自主玩耍能力是后续学习能力的根基
+    (跟蒙氏"常态化"同源)。失去自主性的孩子后期需要外部刺激才能"专注"。
+
+    跟中国"陪玩 = 教 + 互动"传统张力。皮克勒立场:
+    **在场不参与是给孩子最好的礼物**。
+
+  what_to_do:
+    - 12-24 月给少量简单玩具(布块 / 木环 / 真物)
+    - 看到孩子专注玩 — 别打断别评论
+    - 不"哇好厉害!" — 干扰内在动机
+    - 不切换玩具 — 让他自己决定累了换
+    - 大人有自己的事做 — 在场就够
+
+  failure_mode: |
+    "孩子玩很久该不该叫他出来玩别的" → Pikler 反:
+    专注玩是黄金状态,千万别打断。打断 = 教孩子"专注不重要,大人的需求重要"。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Pikler
+  - G-TERM-passive-toys
+  - G-TERM-pflege-vs-spiel
+
+citation:
+  book_title_de: "Friedliche Babys – zufriedene Mütter"
+  book_title_zh: "和平的婴儿 — 满足的母亲"
+  authors:
+    - Emmi Pikler
+  publisher_de: HERDER (HERDER / SPEKTRUM Band 4141)
+  year: 1969
+  location: "Ch7 Spielen + Ch3 反例 pp. 159-176"
+  source_id: SRC-026
+
+unit_ids: []
+related_cards:
+  - C-S3-839  # Pikler 玩具堆反而不会玩(本卷)
+  - C-S6-956  # Pikler 自由玩(本卷)
+  - C-S3-295  # Lansbury 被动玩具 + 主动孩子
+  - C-S6-461  # Gerber 幼儿不需要被教
+  - C-S2-189  # Lillard 0-6 岁只给真实
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Kochanska
+type: person
+display_name: "Kochanska(格拉日娜·科昌斯卡)"
+
+full_name_en: "Grazyna Kochanska"
+full_name_zh: "格拉日娜·科昌斯卡"
+
+position: |
+  University of Iowa 心理学教授
+
+contribution: |
+  良知发展 + 母婴互动 mutual responsive orientation 研究
+
+one_liner: |
+  格拉日娜·科昌斯卡 — 良知发展 + 母婴互动 mutual responsive orientation 研究
+
+key_facts:
+  - "本卷章节:Ch 2"
+  - "Lerner V3 命中:194 次"
+  - "学派:Lerner V3 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-027
+    chapter: "Ch 2"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,68 @@
+card_id: C-S1-899
+stages: [S1]
+tags: [pikler, crying, anti-distraction, source-de]
+
+front:
+  title: "反摇晃唱歌的麻醉安抚"
+  hook: "习惯一摇就睡 = 上瘾"
+
+back:
+  why_matters: |
+    Pikler 1969 Ch1(Erziehung zum Weinen)— 把孩子教育成爱哭的 — 整章警示父母。
+
+    **Pikler 5 步恶性循环**(Teufelskreis):
+    1. 新生儿哭(饿 / 冷 / 热 / 衣服紧)
+    2. 妈妈不查原因 — 直接抱起摇晃 / 唱歌 / 拍打
+    3. 婴儿被"麻醉式安抚"(leichte Betäubung)— 安静下来
+    4. 婴儿习惯被麻醉 → "像吸烟者尼古丁,跟酒鬼酒一样"
+       (Pikler 原文 比喻)— 上瘾,放下就哭
+    5. 婴儿习惯被分散注意 + 成为家庭中心 → 自己不会玩
+
+    Pikler 关键命题:摇晃 / 唱歌 / 拍打**不解决问题**,只让婴儿
+    "短暂麻木"(betäubt)。冷 / 饿 / 衣服紧的真因没解决。
+
+    跟 Karp 5S 派(SRC-003 摇晃安抚)立场张力 — 但 Pikler
+    立场不是反一切安抚,是反"机械摇晃 + 不查因"。
+    Magda(SRC-022 Crying is language)+ Lansbury 立场源头。
+
+  what_to_do:
+    - 听到哭先查 — 饿 / 冷 / 热 / 屎尿 / 衣服紧 / 痛
+    - 解决因 → 婴儿自己平静
+    - 真没找到原因 — 抱起轻轻安慰但不机械摇 / 唱
+    - 平静后放回床自己继续
+    - 不"开收音机分散" / 不"不停跟他说话"
+
+  failure_mode: |
+    "我家娃不抱不睡,一抱就睡是不是天生" → Pikler 反:这是被习惯出来的"麻醉依赖"。一开始机械摇睡 → 婴儿习惯了 →
+    现在不摇就不睡。可以慢慢改回(几周内 weaning)。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Pikler
+  - G-TERM-anti-cry-it-out
+  - G-TERM-pflege-vs-spiel
+  - G-TERM-beobachten-ohne-eingreifen
+
+citation:
+  book_title_de: "Friedliche Babys – zufriedene Mütter"
+  book_title_zh: "和平的婴儿 — 满足的母亲"
+  authors:
+    - Emmi Pikler
+  publisher_de: HERDER (HERDER / SPEKTRUM Band 4141)
+  year: 1969
+  location: "Ch1 Erziehung zum Weinen pp. 12-15"
+  source_id: SRC-026
+
+unit_ids: []
+related_cards:
+  - C-S1-408  # Gerber 哭是孩子的语言(本卷源头)
+  - C-S1-898  # Pikler 平静婴儿是常态(本卷)
+  - C-S2-292  # Ainsworth 敏感回应
+  - C-S6-816  # 松田撒娇章(过度逗对照)
+  - C-S1-411  # Gerber 7 类婴儿设备(刺激同源)
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

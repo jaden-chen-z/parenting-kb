@@ -3,27 +3,29 @@ stages: [S4]
 tags: [safety, red_flag]
 
 front:
-  title: BLW 切法:长条,不切圆片
-  hook: 圆片完美卡气管 — 死亡常见原因
+  title: 手指食物切长条不切圆片
+  hook: 圆片刚好卡气管 — 致死常见
 
 back:
   why_matters: |
-    婴儿气管直径 ~9 mm,任何直径接近的圆形 / 球形物体可能完美卡口。
-    choking 死亡食物前 3:整粒葡萄 / 整截热狗 / 大块奶酪(都是圆形 / 圆柱)。
-    AAP:choking 是婴儿意外死亡主因之一。
-    BLW 给 finger food 必须切长条(像小胡萝卜形),
-    绝不能切圆片("round, coin-shaped slices") — 圆片大小正好卡气管。
+    婴儿气管直径约 9 毫米,任何直径接近的圆形 / 球形物体都可能正好卡住气管。
+
+    婴儿窒息致死食物前三名:整粒葡萄 / 整段热狗 / 大块奶酪(都是圆形或圆柱形)。
+    AAP 提醒:窒息(choking)是婴儿意外死亡主因之一。
+
+    BLW 给手指食物必须切长条(像小胡萝卜形状),
+    绝对不能切硬币状的圆片(英文叫 round/coin-shaped slices)— 圆片大小正好卡气管。
     葡萄、小番茄、热狗都要切成 4 长条或十字 4 等份。
   what_to_do:
-    - 切法:长条状(finger-shaped),长 ≈ 4-5 cm
+    - 切成长条状(英文 finger-shaped),长度约 4-5 厘米
     - 不切圆片(不是大小问题,是形状问题)
     - 葡萄 / 小番茄:十字切 4 等份
-    - 热狗:沿长方向切 4 长条 + 横切短段
-    - 烤胡萝卜煮软到能用牙龈压碎再给
-    - 大人在场,坐高椅 + 系安全带
+    - 热狗:沿长方向切 4 长条,再切短段
+    - 胡萝卜煮软到能用牙龈压碎再给
+    - 喂时大人必须在场,坐高椅 + 系安全带
   failure_mode: |
-    切圆片当 finger food → 完美卡气管的形状,死亡风险极高。
-    给整粒葡萄 → 已知数次儿童死亡案例。
+    切成圆片当手指食物 → 形状正好卡气管,死亡风险极高。
+    给整粒葡萄 → 已有多起儿童死亡案例。
   evidence_level: A
 
 glossary_refs:
@@ -37,7 +39,7 @@ citation:
   page_url_primary: https://www.healthychildren.org/English/ages-stages/baby/feeding-nutrition/Pages/baby-led-weaning-is-it-safe.aspx
   accessed: 2026-05-01
   language: en
-  location: "'Safety Guidelines' section: 'finger-shaped pieces (similar to a small baby carrot)' + 'Avoid round, coin-shaped slices'"
+  location: "'Safety Guidelines' section: 'finger-shaped pieces (similar to a small baby carrot)' + 'Avoid round, coin-shaped'"
   source_id: SRC-006
 
 unit_ids: []

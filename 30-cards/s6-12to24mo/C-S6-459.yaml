@@ -1,0 +1,58 @@
+card_id: C-S6-459
+stages: [S6]
+tags: [desires, emotion, limits]
+
+front:
+  title: "接受想要,限度行为"
+  hook: "想要可以,做就不行"
+
+back:
+  why_matters: |
+    Magda Ch8 经典立场:
+    "I want, I want"是健康发展(自我意识觉醒) —
+    不是宝宝"要欲望"。
+    Magda 的公式:
+    **接受感受**(他想要月亮 OK)
+    + **限度行为**(他踢妈妈不 OK)
+    = 健康自我控制的种子。
+    Lansbury C-S6-403 "限度+情绪并存"同源,Magda 是源头。
+
+  what_to_do:
+    - 不否认欲望:不说"你不想要那个"
+    - 承认情绪:"你想要那个糖,我看到你想"
+    - 限度行为:"我不会给你糖,会让你蛀牙"
+    - 给情绪空间:"你生气 / 难过都可以"
+    - 不为停哭满足要求 — 一次妥协 = 长期升级
+
+  failure_mode: |
+    "他要就给省哭"或"他要就立刻拒绝不解释" → 都错。第一种养习惯,第二种压情绪。
+    Magda 原话:"接受 desire,限度 action"。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+  - G-TERM-acknowledging-feelings
+
+citation:
+  book_title_en: "Your Self-Confident Baby"
+  book_title_zh: "自信的宝宝"
+  authors:
+    - Magda Gerber
+    - Allison Johnson
+  publisher_en: John Wiley & Sons
+  year: 1998
+  location: "Ch8 Desires: I Want, I Want"
+  source_id: SRC-022
+
+unit_ids: []
+related_cards:
+  - C-S6-403  # Lansbury 限度+情绪并存
+  - C-S6-192  # Lillard No 永远 No
+  - C-S6-133  # Davies 温柔边界
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

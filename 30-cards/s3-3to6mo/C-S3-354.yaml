@@ -1,0 +1,56 @@
+card_id: C-S3-354
+stages: [S3]
+tags: [childcare, selection]
+
+front:
+  title: "选托育看 4 件事"
+  hook: "看大人对宝宝怎么说话"
+
+back:
+  why_matters: |
+    Magda Ch6 整章给托育选择标准 —
+    无论是亲属 / 月嫂 / 保姆 / 群托,
+    都用同一套尺子衡量。
+    Magda 反"看硬件"派(玩具多 / 装修豪华 / 课程满) —
+    真要看的是**大人对宝宝怎么说话**。
+    中国家长普遍踩坑:报"双语早教"忽略基本尊重。
+
+  what_to_do:
+    - 1 听:大人跟宝宝说话用真声音不嗲嗲
+    - 2 看:护理时(尿布 / 喂)是否告知再做
+    - 3 数:1 个 carer 带几个?越少越好
+    - 4 问:遇到打人 / 哭 / tantrum 怎么处理
+    - 不被"双语 / 早教 / 蒙氏标签"分散注意
+
+  failure_mode: |
+    "课程多 + 装修好 = 优托" → 实际很多打着标签 + 大人粗暴对待。
+    Magda 原话:"看大人 4 个细节,胜过看 100 项硬件"。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+  - G-TERM-respectful-parenting
+
+citation:
+  book_title_en: "Your Self-Confident Baby"
+  book_title_zh: "自信的宝宝"
+  authors:
+    - Magda Gerber
+    - Allison Johnson
+  publisher_en: John Wiley & Sons
+  year: 1998
+  location: "Ch6 Selecting the Right Child Care(整章)"
+  source_id: SRC-022
+
+unit_ids: []
+related_cards:
+  - C-S0-167  # Magda 8 原则(本卷)
+  - C-S1-406  # Magda 告知再行动(本卷)
+  - C-S6-138  # Davies 父母先照顾自己
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

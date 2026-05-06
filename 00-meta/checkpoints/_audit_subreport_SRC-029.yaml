@@ -1,0 +1,36 @@
+source_id: SRC-029
+total_cards: 93
+totals_per_issue:
+  wrong_evidence_level: 84   # 84/93 标 A 但 V4 大部分是综述/理论框架/流派标准
+  hook_descriptive: 4
+  tag_misuse: 4              # 文化冲突卡缺 controversy
+  xueque_tone: 3
+  missing_failure_mode: 1
+  missing_citation_field: 1
+  missing_glossary_refs: 2
+  intra_source_dedup_clusters: 26  # 11 个作者群结构同(总论 + 各阶段应用)
+key_issues_p1:
+  - {card_id: 36_cards, type: wrong_evidence_level, severity: P1, fix: 84 张需降级,理论/流派立场卡 A→B}
+  - {card_id: C-S1-1313+C-S6-1386+C-S8-746, type: tag_misuse, severity: P1, fix: 文化冲突卡(同睡 / 中美教育)缺 controversy}
+  - {card_id: C-S0-1230+C-S0-1241+C-S0-1233, type: xueque_tone, severity: P2, fix: 学究腔(specificity/etiology-specific)需白话化}
+intra_source_dedup_summary:
+  - "Powell 干预 6 张(C-S0-1233 + 5 stage 应用):'5 原则 + 关系导向 + 文化敏感 + 6+ 月持续' 4 张反复 — 保 0-1233 + 6-1389 + 7-1317"
+  - "Greenfield 文化路径 6 张:'美式独立 vs 互依' + 'two ends both healthy' 6 张反复 — 保 0-1238 + 8-746"
+  - "DAP/Hyson 6 张:'4 原则 + 反学业前移 + 5 岁不识字' 6 张反复 — 保 0-1235 + 8-730 + 6-1392"
+  - "Bornstein 5 张:specificity/continuity 5 张反复 — 保 0-1231 + 8-750"
+  - "Boekaerts 5 张:3 层模型 5 张反复 — 保 0-1241 + 8-738"
+  - "Lamb-Ahnert 托育 5 张:质量 > 数量 + 师生比 5 张反复 — 保 0-1239 + 8-751"
+  - "McLoyd 经济压力 4 张:'穷 → 父母心理 → 娃' 4 张反复 — 保 0-1234 + 6-1385 + 8-747"
+  - "Cicchetti 4 张:'maltreatment 4 类型 + cortisol HPA' 4 张反复 — 保 0-1232 + 8-742"
+  - "Comstock 反屏 4 张:'5 大效应' 4 张反复 — 保 0-1236 + 6-1382"
+  - "Selman 预防 3 张:'3 级金字塔' 3 张反复 — 保 0-1240 + 8-739"
+  - "Snow 双语 3 张:'每语 25% + 母语先强' 3 张反复 — 保 8-732 + 6-1381"
+  - "其他配对(Berninger/Lapsley/SEL/MST/IY)合并 6 对"
+  - "压缩潜力:93 → ~50 张(留最强独特价值卡)"
+notes: |
+  Lerner V4 临床实操卷,本批最大 93 张。
+  最严重问题:84/93 (90%) 标 A,V4 大部分是综述/理论框架/流派标准,按 §10.7 应大量 B。
+  仅 NFP/Abecedarian/PCIT/IY/Triple P/PATHS/Whitehurst/Tools of Mind 等真有强 RCT 的可保 A。
+  超大量 intra-source dedup:11 个作者群结构相同,核心论点 3-6 张反复出现。
+  压缩潜力 93 → ~50 张(每作者群保 1 总论 + 1-2 独特实操,其余合并)。
+  Cross-source crossover:DAP / Greenfield / SEL / 反屏 与 Karp/松田/Lansbury/Pikler/Shonkoff/V3 Eisenberg 大量重叠。

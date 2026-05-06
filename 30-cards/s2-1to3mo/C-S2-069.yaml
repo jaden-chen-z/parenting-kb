@@ -1,6 +1,6 @@
 card_id: C-S2-069
 stages: [S2]
-tags: []
+tags: [philosophy]
 
 front:
   title: 6 周开启"咿呀对话"
@@ -41,7 +41,7 @@ citation:
   year_en: 1969
   year_zh: 2017
   isbn: "978-7-5192-2927-6"
-  location: "第十四章 依恋行为的开始(从大约六周后,通过模仿婴儿的声音,成人可以参与到大约十到十五种发声的交互中 / Rheingold et al. 1959 实验)"
+  location: "第十四章依恋行为的开始(从大约六周后,通过模仿婴儿的声音,成人可以参与到大约十到十五种发声的交互中 / Rheingold et al. 1959 实验)"
   source_id: SRC-011
 
 unit_ids: []

@@ -23,6 +23,29 @@ back:
     觉得"早训越早自理"→ AAP 数据显示反延迟成功如厕。
   evidence_level: C
 
+  positions:
+    issue: 如厕训练何时开始 · 谁主导 · 什么方法
+    views:
+      - school: Lillard(蒙氏)
+        source: SRC-016
+        stance: 12-18 月敏感期介入。反对长期纸尿裤拖延,孩子主导探索如厕,环境提供小马桶。
+      - school: AAP / 主流
+        source: SRC-006
+        stance: 18 月-3 岁。等待神经括约肌成熟与孩子表达意愿,避免提前训练造成抗拒。
+      - school: 鲍秀兰
+        source: SRC-009
+        stance: 9 月起坐盆训练,25-30 月用语言表达替代动作信号。早期建立排便规律。
+      - school: Brazelton
+        source: SRC-010
+        stance: 24 月以后多数孩子才准备好,孩子主导,称 toilet learning 而非 training。反对 EC 出生训练。
+      - school: 松田道雄
+        source: SRC-024
+        stance: 4-5 月把屎把尿是错的;7-8 月可试便盆(每次 1 分钟为限);1.5 岁夏天撤尿布最佳。
+      - school: Pikler / Magda / Lansbury
+        source: SRC-026/022/019
+        stance: 不训练 — 等 24-30 月孩子自己准备好;"学如厕"而非"训练"。反对绑 / 揍 / 久坐 / 太早 4 大错。
+      - school: 中国传统
+        stance: 把屎把尿(EC) + 3 岁前完成,以家长信号为主;中医认为憋尿伤肾。
 glossary_refs:
   - G-PERSON-Bao
 

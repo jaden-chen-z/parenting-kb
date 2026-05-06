@@ -1,0 +1,68 @@
+card_id: C-S6-927
+stages: [S6]
+tags: [shonkoff, nrc, language_explosion, vocabulary_burst]
+
+front:
+  title: "18 月词汇大爆发"
+  hook: "18 月起词汇大爆发"
+
+back:
+  why_matters: |
+    NRC 综述 Ch 6 给"语言爆发(vocabulary spurt)"的发展时间线:
+    **典型轨迹**:
+    - **12 月**:50 词左右词汇量
+    - **18 月**:**词汇爆发** — 突然每天学 5-10 个新词
+    - **24 月**:200-300 词
+    - **30 月**:开始 2-3 词组合句
+    - **36 月**:基本流畅对话
+    **个体差异巨大**:
+    - 早说话娃 12 月开始爆发
+    - 晚说话娃 22-24 月才爆发
+    - **"晚说话不是问题"** — 跟智力 0 关联(晚一些追上)
+    - 真正担心:30 月仍 < 50 词 → 看儿科语言评估
+    **机制**(NRC 综合):
+    1. 大脑词汇区突触积累到 critical mass
+    2. joint attention 成熟
+    3. 工作记忆增长
+    4. 模仿能力升级
+    **跟 Wonder Weeks 第 8-9 跃迁 + 蒙氏 sensitive period for language 一致**。
+    **对中国家长**:
+    - 12-18 月没爆发别焦虑
+    - 24 月再没明显增长 → 看儿科
+    - 多说不强教 — 让爆发自然来
+    - 双语家庭爆发可能稍晚 — 正常
+    - 男娃统计上比女娃晚一些 — 也正常
+  what_to_do:
+    - 12-24 月静待爆发
+    - 24 月仍少看儿科
+    - 多说不强教
+    - 双语晚爆发正常
+    - 男女有差异都正常
+  failure_mode: |
+    "他 18 月还不爆发 — 一定有问题" — 错,正常范围 12-24 月。
+    "我家女娃 16 月会说 — 男娃 18 月才几个词 — 落后" — 错,性别差异是正常分布。
+    强训"必须每天学词" → 跟自然节奏对抗 → 反而拖延。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Shonkoff
+  - G-TERM-NRC
+
+citation:
+  book_title_en: "From Neurons to Neighborhoods"
+  authors: ["Jack P. Shonkoff", "Deborah A. Phillips"]
+  org: "NRC/IOM"
+  year_en: 2000
+  location: "Ch 6 · Vocabulary spurt timeline"
+  source_id: SRC-025
+
+unit_ids: []
+related_cards:
+  - C-S6-926    # Shonkoff Hart-Risley(本卷)
+  - C-S5-905    # Shonkoff joint attention(本卷)
+  - C-S6-823    # 松田 1.5 岁词汇 SRC-024
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,56 @@
+card_id: C-S0-1542
+stages: ['S0']
+tags: ['philosophy', 'lerner_v1', 'cross_chapter', 'emergence', 'foundational']
+
+front:
+  title: "涌现论是发展核心"
+  hook: "系统组装出新能力"
+
+back:
+  why_matters: |
+    跨章命题(Ch 6 Thelen + Ch 7 Fischer + Ch 11 Baltes)— emergence(涌现)是发展核心机制。
+    什么是 emergence — 系统达到一定复杂度后,涌现出无法从组件预测的新属性。
+    经典例子 —
+    - 走步能力 = 腿 + 重力 + 神经 + 平衡 + 动机涌现(Thelen)
+    - 语言能力 = 听力 + 模仿 + 互动 + 意图涌现
+    - 自我意识 = 反思 + 镜像 + 关系涌现意义 — 你不能"教"涌现,只能"创造条件"等涌现。
+    中国家长意义 —
+    - "教走" / "教说话" / "教情商" 是错位心态
+    - 应是 — 提供条件 + 等系统 self-organize
+    - 看到能力涌现 — 庆祝不是奖励(已经够了)
+    意义 — emergence 视角让你放下"教"的焦虑,改为"等"的耐心。
+  what_to_do:
+    - "'教技能' 错位 — 应'创造条件'"
+    - "提供环境 / 时间 / 安全 → 等涌现"
+    - "看到涌现 — 庆祝不奖励"
+    - "'教'的焦虑放下"
+    - "emergence 视角 = 育儿耐心根"
+  failure_mode: |
+    "教技能"心态 — 干扰 self-organize 涌现过程。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Thelen
+  - G-PERSON-Fischer-K
+  - G-TERM-emergence
+  - G-TERM-self-organization
+
+related_cards:
+  - C-S0-1508
+  - C-S0-1508
+  - C-S0-1512
+  - C-S0-722
+
+citation:
+  source_id: SRC-030
+  source_title: "Handbook of Child Psychology Vol 1: Theoretical Models of Human Development"
+  chapter: "Ch 6 + Ch 7 + Ch 11(跨章命题)"
+  chapter_offset: 1395000
+  chapter_title: 'Thelen & Smith — Dynamic Systems Theories'
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_followup_needed: 'SRC-030 用 PDF 字节偏移代页码 — 待加 page_pdf 反查工具'

@@ -1,0 +1,56 @@
+card_id: C-S6-460
+stages: [S6]
+tags: [curiosity, creativity, learning]
+
+front:
+  title: "好奇是创造力种子"
+  hook: "结果不重要,过程才是"
+
+back:
+  why_matters: |
+    Magda Ch8 立场:**好奇是创造力的入口**。
+    成人执着结果,孩子的"实验"经常错的离谱:
+    用嘴叼香蕉片 / 用勺柄戳食物 …
+    成人的"修正"反而毁掉创造性思维。
+    Magda 推荐替代:**支持过程而非结果**。
+    "你试了"胜过"你做对了"。
+    跟蒙氏 cycle of activity + Lillard 完整循环同源。
+
+  what_to_do:
+    - 看到他用"奇怪方法"先观察,不立刻"教正确"
+    - 反馈用过程语言:"你试了"而非"你做对了"
+    - 错的方式也允许 — 等他自己修正
+    - 不替他完成"难关",哪怕慢
+    - 结果失败 + 努力到位 = 比结果成功 + 没努力珍贵
+
+  failure_mode: |
+    "我教他正确方法" → 短期省时,长期破坏创造性 + 内在动机。
+    Magda 原话:"努力是积极的学习一步,不是结果"。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+
+citation:
+  book_title_en: "Your Self-Confident Baby"
+  book_title_zh: "自信的宝宝"
+  authors:
+    - Magda Gerber
+    - Allison Johnson
+  publisher_en: John Wiley & Sons
+  year: 1998
+  location: "Ch8 Curiosity Is Part of Creativity(banana 故事)"
+  source_id: SRC-022
+
+unit_ids: []
+related_cards:
+  - C-S2-185  # Lillard 完整循环活动
+  - C-S6-187  # Lillard 演示要慢
+  - C-S3-352  # Magda 选择性注意(本卷)
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

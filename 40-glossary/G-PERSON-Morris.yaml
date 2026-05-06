@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Morris
+type: person
+display_name: "Morris(帕梅拉·莫里斯)"
+
+full_name_en: "Pamela A. Morris"
+full_name_zh: "帕梅拉·莫里斯"
+
+position: |
+  MDRC 研究员
+
+contribution: |
+  bioecological PPCT 模型 + Bronfenbrenner 共著
+
+one_liner: |
+  帕梅拉·莫里斯 — bioecological PPCT 模型 + Bronfenbrenner 共著
+
+key_facts:
+  - "本卷章节:Ch 14"
+  - "Lerner V1 命中:80+ 次"
+  - "学派:Lerner V1 生态系统派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+    chapter: "Ch 14"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

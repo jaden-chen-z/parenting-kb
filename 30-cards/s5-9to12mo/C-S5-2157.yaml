@@ -1,0 +1,46 @@
+card_id: C-S5-2157
+stages: [S5]
+tags: [mainstream, gross_motor, shoes]
+
+front:
+  title: 学步赤脚最佳
+  hook: 软鞋只为防寒防扎
+
+back:
+  why_matters: |
+    AAP 和儿童足科学会都明确:学步期(9-15 月)赤脚最有利于足弓发育和平衡感建立。前情:S4 已能扶站。脚底有大量神经末梢用来感知地面提供平衡反馈,鞋会屏蔽这些信号。室内尽量赤脚或穿薄袜防滑,户外才需要鞋,鞋必须软底、轻、合脚,前掌可弯,皮鞋硬底高帮都不利学步。
+  what_to_do:
+    - 室内尽量赤脚或穿防滑袜
+    - 户外鞋:软底、轻、可弯、合脚
+    - 别买大一码或长辈传下的旧鞋
+    - 避免高帮硬底"机能鞋"营销话术
+  failure_mode: |
+    被"高帮机能鞋保护脚踝"营销洗脑买硬底鞋,反而抑制足弓发育造成扁平足或学步推迟。
+  evidence_level: B
+
+glossary_refs: []
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors:
+    - Heidi Murkoff
+    - Sharon Mazel
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh:
+    - 莫夏迪
+    - 张敏
+  location: "第 12 章第 12 个月, 页 482-484"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards:
+  - C-S5-2143
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,79 @@
+glossary_id: G-PERSON-Rapley
+type: person
+display_name: Rapley
+
+full_name_en: Gill Rapley
+full_name_zh: 吉尔·拉普利
+
+one_liner: |
+  英国注册健康访问员 + 助产士,**婴儿主导添加辅食(Baby-Led Weaning, BLW)概念提出者**(2008)。
+  推动现代家庭从"传统勺喂泥糊"转向"6 月起让宝宝自喂手指食物"。
+
+detail: |
+  ## 个人背景
+  - 英国注册健康访问员(Health Visitor)+ 助产士
+  - 长期从事母乳喂养与婴幼儿喂养咨询
+  - 跟丈夫 Tracey Murkett 合作出版 BLW 系列书籍
+
+  ## 核心贡献:Baby-Led Weaning(BLW,婴儿主导添加辅食)
+
+  ### 1. 核心主张
+  6 月起跳过传统"勺喂泥糊"阶段,直接让宝宝**坐高椅、自己抓取手指食物**。
+  - 宝宝控制吃什么、多少、多快(self-paced)
+  - 母乳/配方奶继续供主要营养(头几个月)
+  - 训练抓握 + 手眼协调 + 自我饱腹调节
+  - 跟全家同桌吃饭,习惯多种质地
+
+  ### 2. 主要著作
+  - 《Baby-Led Weaning》(2008)— 概念奠基
+  - 《Baby-Led Weaning Cookbook》(2010)
+  - 《Baby-Led Breastfeeding》(2012)
+
+  ### 3. 国际接受度
+  - 英国、澳大利亚、加拿大早期采纳
+  - AAP 2017 立场:**"families can combine BLW with spoon-feeding without guilt"**(可结合 BLW + 勺喂,不必内疚)
+  - 中国一线城市采纳率上升(尤其 80/90 后家长)
+
+  ### 4. 主要争议
+  - **窒息风险**:大块食物 + 自喂可能噎食
+    - 但 2016 BLISS RCT 发现 BLW vs 传统 勺喂 窒息率无显著差异
+    - 关键是切法(长条 ≠ 圆片)+ 准备好(能稳坐 + 抓握)
+  - **营养间隙**:头 1-2 月 BLW 摄入热量 / 铁可能不足
+    - 必须保证母乳 / 配方奶继续供给
+    - 提供高密度食物(肉条 / 蛋黄 / 含铁米粉指条)
+
+  ### 5. 跟其他流派对照
+  - **AAP 立场**:不偏 BLW 也不偏勺喂,可结合
+  - **WHO**:6 月起辅食(立场跟 BLW 时机一致)
+  - **传统勺喂派**:营养易控量,引入新食物效率高,但少抓握训练
+  - **Lillard 蒙氏**:理念相似(自主吃饭、真食物、用真碗筷)
+
+  ## 在本知识库中
+  - C-S4-001 BLW vs 泥糊:AAP 不偏,可结合(主要引用卡)
+  - C-S4-002 BLW 切法:长条,不切圆片
+  - C-S4-2144 / C-S4-2145(海蒂 7 月手指食物 + 噎食处理)
+
+key_facts:
+  - 英国注册健康访问员 + 助产士
+  - BLW(婴儿主导添加辅食)概念提出者(2008)
+  - 主张 6 月起跳过泥糊,自喂手指食物
+  - AAP 2017 接受:可与勺喂结合
+  - 2016 BLISS RCT 验证 BLW 窒息率不高于勺喂
+
+related_glossary:
+  - G-ABBR-BLW
+  - G-ABBR-AAP
+  - G-TERM-responsive-feeding
+  - G-PERSON-Murkoff   # 海蒂育儿大百科同主题
+
+related_cards:
+  - C-S4-001     # BLW vs 泥糊
+  - C-S4-002     # BLW 切法
+
+sources:
+  - external: Rapley G, Murkett T. Baby-Led Weaning (2008) Vermilion / BLISS RCT (Fangupo et al 2016 Pediatrics) / AAP HealthyChildren.org BLW page
+
+language: zh
+status: draft
+created: 2026-05-05
+updated: 2026-05-05

@@ -1,0 +1,133 @@
+source_id: SRC-016
+title: "蒙台梭利从 0 岁开始 — 0-3 岁的教育(中译本)"
+title_en: "Montessori from the Start: The Child at Home, from Birth to Age Three"
+org: null
+tier: 3
+source_type: book
+url: null
+isbn_en: "978-0-8052-1112-1"
+publisher_en: "Schocken Books"
+location_en: "New York"
+year_en: 2003
+accessed: 2026-05-03
+language: en
+notes_path: tier3-books/notes/SRC-016.yaml
+
+authors:
+  - name_en: "Paula Polk Lillard"
+    role: "AMI primary 蒙氏教师 + Forest Bluff School 共同创办人 + 蒙氏教育硕士"
+    background: "美国伊利诺州 Lake Forest 镇,Smith College 文学学士 + Xavier 蒙氏教育硕士,5 个女儿(其中 4 女 Angeline 是弗吉尼亚大学心理学教授)+ 8 个孙辈,著有 4 本蒙氏书"
+  - name_en: "Lynn Lillard Jessen"
+    role: "AMI 3-6 + 0-3 Assistant-to-Infancy 双认证蒙氏教师 / Paula 的女儿"
+    background: "Smith College studio art 学士,1985 年在德州休斯顿参加 AMI 0-3 培训(Silvana Montanaro + Judi Orion 主持),3 个孩子的母亲,本卷提供 0-3 实操 + 自己孩子 Margaret 的真实案例"
+
+# 章节地图(按字节偏移)
+chapter_offsets:
+  front_matter: 0
+  preface: 2883
+  introduction: 27628
+  ch1_completion_human_being: 46324       # 自我形成理论 + 人类倾向 + 4 plane of development
+  ch2_welcoming_newborn: 73019            # 新生儿房 4 区 + 专注力 + flow
+  ch3_discovering_world: 100376           # 吸收性心智 + 感官探索 + 真实优先
+  ch4_hand_brain: 116612                  # 手脑反馈环 + 抓握发育 + 15 月转工作
+  ch5_crawling_coordination: 153844       # 大动作 + 第二次出生 + 4 大障碍
+  ch6_practical_life: 202498              # 生活技能 + 循环活动 + 母-师角色
+  ch7_personal_care: 256728               # 睡眠 + 吃饭 + 穿衣 + 如厕(12-18 月!)+ 梳洗
+  ch8_language_intelligence: 353998       # 口头 / 书面语言 + 音乐艺术 + 玩具
+  ch9_developing_will: 426036             # 意志形成 + 服从 3 阶段 + 描述+选 2 法
+  ch10_conclusion: 473958                 # Patricia/Andrew 案例 + Karen/John/Sarah 案例
+  total_chars: 524871
+
+# 蒙氏核心理论(本书覆盖,比 Davies 更深)
+core_theory:
+  - self_formation: "自我形成 — 婴儿出生时是未完成,任务是完成自己"
+  - 4_planes_development: "4 个发展阶段 — 0-6 / 6-12 / 12-18 / 18-24 岁,每个阶段有独特特征"
+  - human_tendencies: "11 项人类倾向 — 探索 / 定向 / 秩序 / 抽象 / 想象 / 操作 / 精确 / 重复 / 错误控制 / 完美 / 沟通"
+  - sensitive_periods: "敏感期 — 0-6 岁特殊学习窗口"
+  - absorbent_mind: "吸收性心智 — 0-6 岁无意识吸收"
+  - prepared_environment: "有准备的环境 — 物理 + 心理"
+  - prepared_adult: "准备的大人 — 模范 + 观察者 + 引导者"
+  - freedom_with_responsibility: "自由 + 责任 — 蒙氏教育公式核心"
+  - hand_brain_loop: "手脑反馈环 — 不要给脑没给手过的"
+  - cycle_of_activity: "循环活动 — 准备 + 做 + 收尾完整周期"
+  - 4_outcomes: "4 大成果 — 协调动作 / 独立性 / 语言 / 意志"
+
+# Lillard 独有命题(vs Davies)
+unique_to_lillard:
+  - sensitive_period_toilet_12_18mo: "如厕训练敏感期 12-18 月(vs 现代 2-3 岁,Lillard 反潮流)— Paula 引 1950 年代数据 92% 18 月就完成"
+  - obedience_3_stages: "服从 3 阶段(12-18 / 18-36 / 3 岁+),Davies 没系统化"
+  - choice_of_2_description: "意志干预法:选 2 + 描述 法(替 reasoning),Lillard 独有"
+  - 4_obstacles_movement: "动作 4 大障碍 — 关在容器 / 错衣 / 替宝宝坐站 / TV 分心"
+  - second_birth: "8-9 月爬 = 第二次出生 — Lillard 独有命名"
+  - mother_teacher: "母-师(母亲为主)vs 师-母(老师为主)的角色平衡"
+  - sitter_crawler_split: "8 月分坐型 vs 爬型(都健康)— Lillard 命名"
+  - real_only_under_6: "0-6 岁只给真实(反幻想 / 卡通 / 童话玩具)— Lillard 比 Davies 更严"
+  - flow_baby: "Csikszentmihalyi flow 理论应用婴儿 — Lillard 独家"
+  - cloth_diaper_strong: "强烈反纸尿裤(sauna 效应掩盖湿感)— Lillard 比 Davies 立场更强"
+  - weaning_table: "蒙氏断奶桌椅(6-15 月专用)— 家长面对面坐,Lillard 详细描述"
+  - exterogestation: "外孕期 — 出生后到 9 月与子宫内时间相等"
+
+# 立场对照(Lillard vs 现有源)
+controversies:
+  - vs_aap_back_sleep:
+      issue: "AAP 仰睡导致 tummy time 不足 → 大动作发育延迟"
+      lillard_view: "醒着时父母必须主动多趴(Lillard Time Line 比现代实际早几月,因为以前都趴睡)"
+      compatible: "Lillard 接受 AAP 仰睡建议但提醒后果"
+  - vs_modern_toilet_training:
+      issue: "现代主流 2-3 岁如厕 vs Lillard 12-18 月敏感期"
+      lillard_view: "1950 年代 92% 18 月完成,现代文明退步是文化原因"
+      strong_position: "Lillard 立场比 Davies 更鲜明"
+  - vs_modern_disposable_diapers:
+      issue: "纸尿裤 vs 布尿裤"
+      lillard_view: "纸尿裤 sauna 效应让宝宝感觉舒适 → 失去湿/干意识 → 错过敏感期"
+      strong_position: "Lillard 立场比 Davies 更强"
+  - vs_modern_happiness_focus:
+      issue: "现代家长以幸福为目标 vs 蒙氏性格"
+      lillard_view: "上一代要 character + discipline,今代误以为给娃幸福就好"
+      lillard_quote: '限度由我们用爱教,或世界不带爱地教 — 蒙氏培训师'
+  - vs_karp_swaddle:
+      issue: "Karp 5S 包裹 vs 蒙氏动作自由"
+      lillard_view: "跟 Davies 一致 — 限制动作就是阻止 self-formation"
+  - vs_modern_high_chair:
+      issue: "高脚椅 vs 蒙氏断奶桌椅 + junior chair"
+      lillard_view: "高脚椅 = 关孩子在高空 / 断奶椅 = 让宝宝自己进出"
+
+# 跨源关联点
+crossreferences:
+  - SRC-014_davies:
+      shared: "蒙氏 0-1 全部主题(吸收性心智 / 敏感期 / 准备环境 / 不替做)"
+      complement: "Davies 实操派 + Lillard 学院派,深度互补"
+      strong_alignment: "几乎所有立场一致,Lillard 在 1-3 岁 + 意志 + 哲学更深"
+  - SRC-015_gopnik:
+      shared: "认知科学 / 婴儿研究"
+      complement: "Gopnik 研究 + Lillard 实操,两本同期可对照(蒙氏 ↔ 认知科学)"
+  - SRC-009_baoxiulan:
+      shared: "敏感期 vs 关键期"
+      contrast: "Lillard 跟 Davies 一致用 sensitive period,反对 critical 强版本"
+  - SRC-013_wonder_weeks:
+      shared: "敏感期 vs 大脑跃迁"
+      contrast: "蒙氏 spotlight 时间窗 vs WW 大脑物理重组"
+  - SRC-011_bowlby:
+      shared: "secure attachment / responsive parenting"
+      strong_alignment: "Lillard 直接引用 attachment 理论"
+  - SRC-004_aap_sleep:
+      shared: "SIDS 仰睡"
+      tension: "Lillard 接受但提醒减少 tummy time 后果"
+  - SRC-003_karp:
+      shared: "新生儿安抚 / 睡眠"
+      conflict: "swaddle 立场对立(继承 Davies)"
+
+# 评级标尺(本书)
+evidence_level_calibration:
+  A: "与 Tier 1 共识对齐(罕见,蒙氏跟 AAP / Bowlby 重合处)"
+  B: "Lillard/Jessen 引用现代科学(Csikszentmihalyi / Greenspan / Eliot 等)+ AMI 100 年观察 + Maria Montessori 原著"
+  C: "Lillard 个人理论推断(实操建议为主)"
+  expected_distribution: "B 占多 — 学术深度派特征"
+
+referenced_by_units: []
+referenced_by_cards: []  # Phase 6 完成后填充
+
+language: zh
+status: complete
+created: 2026-05-03
+updated: 2026-05-03

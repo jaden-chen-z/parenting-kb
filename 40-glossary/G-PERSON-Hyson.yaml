@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Hyson
+type: person
+display_name: "Hyson(玛丽卢·海森)"
+
+full_name_en: "Marilou Hyson"
+full_name_zh: "玛丽卢·海森"
+
+position: |
+  NAEYC + University of Delaware
+
+contribution: |
+  DAP 早期教育 NAEYC 标准
+
+one_liner: |
+  玛丽卢·海森 — DAP 早期教育 NAEYC 标准
+
+key_facts:
+  - "本卷章节:Ch 1 主笔"
+  - "Lerner V4 命中:19 次"
+  - "学派:Lerner V4 应用心理学派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-029
+    chapter: "Ch 1 主笔"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

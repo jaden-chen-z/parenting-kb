@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Shiner
+type: person
+display_name: "Shiner(丽贝卡·希纳)"
+
+full_name_en: "Rebecca L. Shiner"
+full_name_zh: "丽贝卡·希纳"
+
+position: |
+  Colgate University 心理学教授
+
+contribution: |
+  童年人格发展 + 气质-人格连接;Caspi 合作者
+
+one_liner: |
+  丽贝卡·希纳 — 童年人格发展 + 气质-人格连接;Caspi 合作者
+
+key_facts:
+  - "本卷章节:Ch 6"
+  - "Lerner V3 命中:30 次"
+  - "学派:Lerner V3 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-027
+    chapter: "Ch 6"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

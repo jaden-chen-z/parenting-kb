@@ -1,0 +1,69 @@
+glossary_id: G-TERM-subitize
+type: term
+display_name: 秒数 (subitize)
+
+full_name_zh: 秒数 / 数感雏形
+full_name_en: Subitize / Subitizing
+
+one_liner: |
+  不需要数就能立即识别"几个" — 1-3 物体几秒(<200ms)就知。
+  Dehaene 数感双系统中"近似数"的过渡机制。
+
+detail: |
+  ## 定义
+  Subitize = 不数立即知"几个":
+  - **1-3 个物体**:立即识别(<200ms)
+  - **4 个**:勉强 subitize(部分人靠数)
+  - **5+ 个**:必须数
+
+  ## 婴幼儿发展
+  - 5 月:已有 1+1=2 雏形(Wynn 1992)
+  - 12 月:subitize 1-3 稳定
+  - 18-24 月:开始数符号映射
+  - 3 岁:稳定 1-3 数符号
+
+  ## Dehaene 数感双系统
+  - **ANS**(近似数)— 婴儿期天生
+  - **ENS**(精确数)— 后天学
+  - subitize 是过渡机制
+
+  ## 跨文化普遍
+  - 中国 / 美国 / 巴西 / 非洲部落 — 都有 subitize
+  - 反"数学是文化产物"派
+  - 数感是进化遗产
+
+  ## 在本知识库中
+  - SRC-028 Lerner V2 Ch18 Geary 主笔
+  - C-S6-1172 Dehaene 数感小数
+  - C-S3-1144 Wynn 5 月加法
+
+  ## 中国家长意义
+  - 12 月起教 1-2-3(具体物体)
+  - 不教超 3 的数(过早)
+  - 用真实物体示例,不用 flash card
+  - 3 岁后再加 4-5
+
+key_facts:
+  - 1-3 立即知不需数
+  - <200ms 反应时
+  - 12 月稳定
+  - Dehaene 数感双系统过渡
+
+related_glossary:
+  - G-PERSON-Dehaene
+  - G-PERSON-Geary
+  - G-PERSON-Spelke
+  - G-PERSON-Wynn
+
+related_cards:
+  - C-S6-1172
+  - C-S3-1144
+
+sources:
+  - source_id: SRC-028
+  - external: Dehaene 1997《The Number Sense》/ Wikipedia Subitizing
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

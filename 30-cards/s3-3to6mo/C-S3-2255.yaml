@@ -1,0 +1,36 @@
+card_id: C-S3-2255
+stages: [S3]
+tags: [safety, sleep]
+front:
+  title: 翻身后趴睡,SIDS 风险已降
+  hook: 4-6 月不必半夜翻回
+back:
+  why_matters: |
+    新生儿仰睡是仰睡铁律,但 4-6 月娃自己学会翻身后,父母半夜把娃翻回仰位反而焦虑过度。
+    海蒂:专家共识娃能自由翻身后,SIDS 风险已大降——因为娃已度过高风险期(2-4 月峰值),且会翻身意味娃能自我保护避免窒息。第一次入睡仍要仰放,但夜间自己翻趴不需翻回。
+  what_to_do:
+    - 第一次入睡始终仰放
+    - 自己翻趴后无需翻回
+    - 床垫硬实+无枕头
+    - 无毛毯/床罩/毛绒玩具
+    - 1 岁前持续遵守其他 SIDS 规则
+  failure_mode: 父母焦虑到半夜翻回娃,反复打断睡眠让娃和家人都崩溃,最后还可能翻动作中误压娃面部。
+  evidence_level: A
+glossary_refs: [G-ABBR-SIDS]
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors: ["Heidi Murkoff", "Sharon Mazel"]
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh: ["莫夏迪","张敏"]
+  location: "第 9 章 《第 5 个月》, 页 354"
+  source_id: "SRC-040"
+related_cards: [C-S3-2258]
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,49 @@
+card_id: C-S5-2244
+stages: [S5]
+tags: [safety, red_flag]
+
+front:
+  title: 牙齿脱落:乳牙别复位,带去看
+  hook: 乳牙复位会伤恒牙胚
+
+back:
+  why_matters: |
+    1 岁前后开始走 / 摔嘴是高频伤。海蒂关键:
+    **乳牙脱落不要复位**(再植可能形成囊肿,且压坏下方恒牙胚)— 与成人/恒牙完全不同。
+    但**仍带牙齿**给牙医看,确认完整;残牙留口腔可能脱落被吸入致窒息。
+    牙齿断裂:温水清理 + 冰敷脸颊;尽快牙医。
+    咬到电线导致嘴唇烧伤需通知医生(电烧伤可能延后出血)。
+  what_to_do:
+    - 乳牙完全脱落:**不复位**,带牙齿(湿纱布包裹)给牙医看
+    - 牙齿断裂:**温水 + 纱布清残渣**,冰敷脸颊
+    - 嘴唇 / 舌头出血:**冰袋 + 纱布按压 10-15 分钟**
+    - 出血超 15 分钟 / 伤口在咽喉后 / 上颚 / 电线咬伤 → 通知医生
+    - 残牙在口腔 → 取出(防误吸),立刻找牙医或急诊
+  failure_mode: |
+    把乳牙塞回牙槽 → 损伤恒牙胚 → 永久缺牙。
+    残牙留口腔 → 误吸入气管致窒息。
+    嘴唇撕裂"小事" 不去缝 → 留疤变形。
+    咬电线后嘴角烧伤"看着小" → 数天后伤口动脉出血。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-AAP
+
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1 岁"
+  authors: [Heidi Murkoff, Sharon Mazel]
+  publisher_en: Workman Publishing
+  publisher_zh: 南海出版公司(新经典发行)
+  year: 1989
+  edition: 3rd (2014)
+  location: "第 19 章《急救常识》'嘴巴受伤 35-38',580-581 页中译"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards: []
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

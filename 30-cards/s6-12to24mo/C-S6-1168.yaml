@@ -1,0 +1,69 @@
+card_id: C-S6-1168
+stages: [S6]
+tags: [cognitive_science, noun_bias, waxman, lerner_v2]
+
+front:
+  title: 早期词汇 6 成是名词
+  hook: 大脑爱抓持久物体
+
+back:
+  why_matters: |
+    Waxman 综述 + Gentner 1982(Lerner V2 Ch7)。
+    跨语言数据(Lerner V2):
+    - 早期词汇 50-60% 是名词
+    - 动词比例 10-20%
+    - 形容词 + 介词更少
+    Waxman 立场:**名词偏置是天生**(noun bias)
+    - 婴儿大脑默认抓"持久物体"作命名候选
+    - 物体比动作更"稳定"(易锁定)
+    - 这跟 Markman 整体物体约束一致
+    Tomasello 反驳:**部分由输入驱动**
+    - 中文 + 韩语 mother 偏说动词("拿"动作)
+    - 中文宝宝早期动词比例较高
+    - 但跨语言**名词仍占主导**
+    意义:
+    - V2 综述结论:名词偏置 + 部分输入调谐
+    - 中文宝宝跟英语宝宝早期词汇分布略有差
+    - 但都是名词为主跟现库:Lillard 词汇爆炸 + 鲍秀兰早教对接。
+    对中国家长意义:
+    - 中文宝宝早期词汇也以名词为主(妈 / 爸 / 狗 / 球)
+    - 不必担心"动词太少" — 自然顺序
+    - 12-18 月教名词为主,18 月+ 加动词 + 形容词
+    - 不要"每词类都教" — 大脑自有顺序
+  what_to_do:
+    - 12-18 月主教名词(物体)
+    - 18 月+ 加动词(动作)
+    - 24 月+ 加形容词
+    - 跨语言一致
+  failure_mode: |
+    "早期词应该词类均衡" — 错。名词主导。
+    "中文宝宝早期没动词" — 错。比例略高于英语。
+    "教所有词类才全面" — 错。大脑有顺序。
+  evidence_level: B
+
+glossary_refs:
+  - G-TERM-fast-mapping
+  - G-TERM-language-explosion
+  - G-PERSON-Markman
+  - G-PERSON-Gentner
+  - G-PERSON-Tomasello
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 2 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 2 卷"
+  authors: ["Sandra R. Waxman", "Jeffrey L. Lidz"]
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 7 · Noun bias · pp. 295-300"
+  source_id: SRC-028
+
+unit_ids: []
+related_cards:
+  - C-S6-1164     # Markman 3 约束
+  - C-S6-1167     # 词汇爆炸
+  - C-S6-018       # Lillard 词汇爆炸
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,63 @@
+glossary_id: G-PERSON-Bloom
+type: person
+display_name: Bloom
+
+full_name_en: Paul Bloom
+full_name_zh: 保罗·布鲁姆
+
+one_liner: |
+  加拿大裔美国心理学家(原耶鲁现多伦多大学),儿童词汇学习 + 道德发展权威。
+  词汇爆炸 + fast mapping 实证综述者,《Just Babies》(婴儿道德)畅销作者。
+
+detail: |
+  ## 个人背景
+  - MIT 博士(Susan Carey 学生)
+  - 耶鲁大学心理学教授(2000-2020)
+  - 多伦多大学心理学教授(2020-)
+  - 美国艺术与科学院院士
+
+  ## 核心研究
+  ### 1. 词汇爆炸 + fast mapping
+  - 18-24 月每天学新词机制
+  - Markson/Bloom 1997 fast mapping 经典
+  - 跟 Markman 词义约束派
+
+  ### 2. 婴儿道德感
+  - Hamlin/Wynn/Bloom 2007 婴儿"好坏"判断
+  - 6 月就偏好"helper"vs"hinderer"
+  - 道德感雏形先天
+
+  ## 立场
+  - Carey 概念革命派
+  - 词学习先天约束派
+  - 道德发展先天派(部分)
+
+  ## 在本知识库中
+  - SRC-028 Lerner V2 Ch7 引用(123 hits)
+  - C-S6-1167 词汇爆炸 18-24 月
+
+key_facts:
+  - 耶鲁/多伦多心理学教授
+  - 词汇爆炸 + fast mapping 综述
+  - 婴儿道德感研究
+  - Carey 学生
+  - 美国艺术与科学院院士
+
+related_glossary:
+  - G-PERSON-Carey
+  - G-PERSON-Markman
+  - G-TERM-fast-mapping
+  - G-TERM-language-explosion
+
+related_cards:
+  - C-S6-1167
+  - C-S6-1166
+
+sources:
+  - source_id: SRC-028
+  - external: Bloom 2000《How Children Learn the Meanings of Words》/ Wikipedia Paul Bloom
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

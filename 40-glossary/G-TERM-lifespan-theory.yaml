@@ -1,0 +1,28 @@
+glossary_id: G-TERM-lifespan-theory
+type: term
+display_name: "生命周期理论 / lifespan developmental theory"
+
+name_en: "lifespan developmental theory"
+name_zh: "生命周期理论"
+
+description: |
+  Baltes 框架 — 一辈子可塑发展,反早期决定论 + 反关键期论。
+  0-3 岁重要但不是唯一,30/50/70 岁都还在发展。
+
+one_liner: |
+  生命周期理论(lifespan developmental theory)— Baltes 框架 — 一辈子可塑发展,反早期决定论 + 反关键期论。
+
+key_facts:
+  - "Lerner V1 元理论卷核心术语"
+  - "学派:Lerner V1 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

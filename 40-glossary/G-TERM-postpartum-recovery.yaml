@@ -1,0 +1,20 @@
+glossary_id: G-TERM-postpartum-recovery
+type: term
+display_name: 产后恢复期
+full_name_en: "Postpartum Recovery Period"
+full_name_zh: "产后恢复期"
+one_liner: |
+  产后约 6 周的身体修复窗口期,期间不剧烈运动不节食。
+detail: |
+  指分娩后约 6 周的女性身体修复期。期间生殖器官回缩、伤口愈合、
+  激素水平回调、子宫复旧、盆底肌肉和腹部肌肉重组。海蒂强调 6 周
+  内不节食以保乳量、不剧烈运动防压力性尿失禁、维持孕期复合维生素
+  继续摄入。6 周后正式结束但疲劳和情绪波动通常会持续到第一年。
+related_glossary: []
+related_cards: [C-S0-2153, C-S0-2154, C-S0-2156, C-S0-2158, C-S0-2159, C-S0-2160]
+sources:
+  - external: "Murkoff H, What to Expect the First Year, Ch 23"
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

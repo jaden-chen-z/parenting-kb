@@ -1,0 +1,36 @@
+card_id: C-S3-2251
+stages: [S3]
+tags: [feeding, iron, safety]
+front:
+  title: 贫血 6/9/12 月筛,母乳要补铁
+  hook: 母乳娃 6 月起缺铁
+back:
+  why_matters: |
+    上卡禁牛奶,但娃 6 月后铁需求暴增——胎储铁耗尽,母乳含铁低且仅靠它不够用了。
+    海蒂记录:配方奶娃因奶粉加铁,贫血率仅 2-3%;但纯母乳娃 6 月后必须靠加铁米糊或铁滴剂补,否则发展性贫血悄悄推进——苍白虚弱易怒不易察觉,认知发育已受损时才被发现。
+  what_to_do:
+    - 6 月儿保查血红素(指尖采血)
+    - 母乳娃每天必喂加铁米糊
+    - 9 月加红肉泥/肝泥
+    - 早产/低出生体重提前 4 月查
+    - 12 月再复查一次
+  failure_mode: 母乳完美主义+不接受铁强化米糊,以为"母乳是金标准"无需补,娃 9 月查出 Hb 低于 11g/dL 才补已晚。
+  evidence_level: A
+glossary_refs: []
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors: ["Heidi Murkoff", "Sharon Mazel"]
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh: ["莫夏迪","张敏"]
+  location: "第 10 章 《第 6 个月》, 页 363-364"
+  source_id: "SRC-040"
+related_cards: [C-S3-2150, C-S3-2259]
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

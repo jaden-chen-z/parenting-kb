@@ -1,0 +1,58 @@
+card_id: C-S1-247
+stages: [S1]
+tags: [montessori, nursery, environment, sleep]
+
+front:
+  title: 蒙氏新生儿房 4 区
+  hook: 睡换喂动 4 个分区
+
+back:
+  why_matters: |
+    Lillard Ch2 详细描述蒙氏 0-3 月新生儿房 4 大区域(每区有特定家具 + 用途):
+    1. **睡区** — 地板床(Davies 的 floor bed 同款,矮 + 软)+ 墙上低镜 + 头顶 mobile 钩
+    2. **换尿布区** — 矮柜(顶面当换尿布台)+ 低脚踩开盖垃圾桶 + 一篮干净尿布湿巾
+    3. **哺乳区** — 摇椅 + 脚凳 + 妈妈水杯小桌
+    4. **活动区** — 矮玩具架(只放 1-2 个 mobile / rattles)+ 软地毯每件家具的位置都经设计:**镜子在床旁,趴的时候能看到自己** + **mobile 在头顶 8-10 寸,能视觉跟踪**。
+    重点 — 整个房间**朴素 + 美 + 只放当月用得到的**(rotation 替代 substitution)。
+    Lillard 案例:他们看的一个新生儿房只挂 **1 张风景画 + 1 个 mobile + 1 张地毯** — 看似简单,实际给宝宝的脑空间专注吸收。
+    跟传统五颜六色塑料育儿房**对立**。
+  what_to_do:
+    - 4 区分清:睡 / 换 / 喂 / 动
+    - 每区只放当月用得到的物品
+    - 镜子在床旁(8-10 寸)
+    - mobile 钩在头顶(8-10 寸)
+    - 朴素 + 自然色 + 木质 > 塑料
+  failure_mode: |
+    "我把所有亲友送的玩具摆出来" — 蒙氏 1-2 个就够,过多反而干扰专注力发展。
+    没分区 → 宝宝大脑找不到秩序感 → 哭闹增加。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Lillard
+  - G-PERSON-Jessen
+  - G-TERM-prepared-environment
+  - G-TERM-floor-bed
+  - G-TERM-symbiosis-period
+
+citation:
+  book_title_zh: "蒙台梭利从 0 岁开始"
+  book_title_en: "Montessori from the Start"
+  authors: ["Paula Polk Lillard", "Lynn Lillard Jessen"]
+  authors_zh: ["宝拉·波尔克·莉拉德", "琳·莉拉德·杰森"]
+  publisher_en: "Schocken Books"
+  year_en: 2003
+  isbn_en: "978-0-8052-1112-1"
+  location: "Ch 2 · 'Welcoming the Newborn' (4 areas of necessity)"
+  source_id: SRC-016
+
+unit_ids: []
+related_cards:
+  - C-S0-009       # Davies 蒙氏起步装清单
+  - C-S3-133       # Davies 地板床
+  - C-S1-185       # Davies topponcino
+  - C-S1-189       # Davies 黑白 mobile
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

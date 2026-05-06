@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Blumenfeld
+type: person
+display_name: "Blumenfeld(菲利斯·布卢门菲尔德)"
+
+full_name_en: "Phyllis C. Blumenfeld"
+full_name_zh: "菲利斯·布卢门菲尔德"
+
+position: |
+  University of Michigan
+
+contribution: |
+  课堂动机 + TARGET 框架
+
+one_liner: |
+  菲利斯·布卢门菲尔德 — 课堂动机 + TARGET 框架
+
+key_facts:
+  - "本卷章节:Ch 8"
+  - "Lerner V4 命中:18 次"
+  - "学派:Lerner V4 应用心理学派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-029
+    chapter: "Ch 8"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,67 @@
+card_id: C-S7-074
+stages: [S7]
+tags: [development_burst, philosophy, controversy]
+
+front:
+  title: 21 月后跃迁框架结束
+  hook: 跃迁机制延续到青春期
+
+back:
+  why_matters: |
+    《奇迹周》(Wonder Weeks)全书覆盖 0-20 月(0-75 周),共 10 个跃迁。
+    21 月之后(也就是 S7 段)本书框架就结束了 — 但作者在后记里明确告诉父母:**跃迁过程并没停止**。
+
+    凡德里特在后记中写道(白话翻译):
+    > "童年期还有更多跃迁被记录下来,甚至延续到青春期。
+    > 1.5 岁到 16 岁孩子的脑电波研究显示,在已知的发展阶段过渡时都会出现脑部大变化。
+    > 青春期开始就是其中一个晚期跃迁。"
+
+    后续被普遍认可的童年跃迁节点(基于其他研究)大约是:
+    - **2 岁** 两岁叛逆期(语言爆发 + 自我意志)
+    - **3 岁** 象征思维峰值(假装游戏 / 心智理论萌芽)
+    - **5-6 岁** 入学跃迁(执行功能 / 同伴系统)
+    - **7-8 岁** "理性年纪"(具体运算思维)
+    - **11-12 岁** 青春期前(抽象思维)
+
+    家长意义:**1.5 岁之后烦躁还会出现,只是间隔变长** — 知道跃迁不会"突然结束",对长期育儿心态更平和。
+  what_to_do:
+    - 21 月+ 看到烦躁 → 仍用跃迁思路(不强训多陪伴)
+    - 关注 2 岁 / 3 岁 / 5 岁几个公认大节点
+    - 长期视角:跃迁是终生的(成人也有),不只是婴儿期
+    - 后续可接 Brazelton《触摸点 3-6》
+    - 不期待"过了 2 岁就不闹了"
+  failure_mode: |
+    "Wonder Weeks 看完了 = 跃迁结束了" — 后续仍有,只是节奏变。
+    "他都 2 岁了还闹 = 教育失败" — 2 岁 / 3 岁 / 5 岁都有跃迁。
+    把儿童期的反复烦躁当成"性格变差" — 是发展正常表现。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-vanderijt
+  - G-PERSON-plooij
+  - G-PERSON-Brazelton
+  - G-TERM-wonder-week
+  - G-TERM-mental-leap
+  - G-TERM-touchpoint
+
+citation:
+  book_title_zh: "婴儿大脑跃迁 10 周(神奇周)"
+  book_title_en: "The Wonder Weeks"
+  authors: ["Hetty van de Rijt", "Frans X. Plooij"]
+  authors_zh: ["海蒂·凡德里特", "弗朗斯·普洛伊"]
+  publisher_en: "Kiddy World Publishing"
+  year_en_first: 1992
+  isbn_en: "978-90-79208-12-1"
+  location: "Postscript · More Wonders Await(Several more leaps have been documented throughout childhood, and even into the teenage years. Research of brain waves of children 1.5-16 years shown major changes at transitions)"
+  source_id: SRC-013
+
+unit_ids: []
+related_cards:
+  - C-S6-124       # WW75 系统世界(最后一个跃迁)
+  - C-S6-125       # 13-18 月连续三跃迁
+  - C-S1-179       # 10 跃迁时间表
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

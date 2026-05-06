@@ -1,0 +1,58 @@
+card_id: C-S6-1068
+stages: [S6]
+tags: []
+
+front:
+  title: "工作妈妈持续"
+  hook: "挤奶储奶用杯子喂"
+
+back:
+  why_matters: |
+    WHO 工作场所母乳支持建议:
+    - 带薪产假 ≥ 6 月(中国法律 158 天 ≈ 5 月)
+    - 哺乳室(干净 / 隐私 / 冰箱)
+    - 弹性时间挤奶(每 3-4 小时)
+    - 储奶规则:常温 4 小时 / 冰箱 4 天 / 冷冻 6 月工作妈妈持续母乳实操:
+    ① 产假末预存奶(冷冻)
+    ② 上班挤奶 2-3 次/天(午餐 + 一次)
+    ③ 在家直接喂(早起 / 睡前)
+    ④ 让娃白天用杯喝奶(不用奶瓶,防 nipple confusion)
+    中国通病:'回工作 = 断奶' → 错的,可以继续。
+  what_to_do:
+    - "回工作 ≠ 断奶 — 挤奶/储奶/杯喂可以"
+    - "上班挤奶 2-3 次(午餐 + 一次)"
+    - "储奶规则:常温 4h / 冰 4d / 冻 6m"
+    - "白天用杯喂(不奶瓶),晚上直接哺乳"
+    - "找单位哺乳室 + 时间(中国法律有规定)"
+  failure_mode: |
+    回工作直接断 → 错过 6-24 月母乳营养 + 免疫。
+    工作妈妈完全可以持续母乳到 2 岁。
+  evidence_level: A
+
+glossary_refs:
+  - G-TERM-WHO-two-years
+  - G-ABBR-WHO
+
+citation:
+  page_title: "WHO Workplace Breastfeeding Support"
+  publisher: "World Health Organization & UNICEF"
+  page_url_primary: https://www.who.int/news-room/questions-and-answers/item/breastfeeding
+  accessed: 2026-05-04
+  language: en
+  location: "WHO 工作场所支持 + 储奶规则 + 中国 158 天产假"
+  source_id: SRC-031
+
+unit_ids: []
+related_cards:
+  - C-S6-1064
+  - C-S6-1064
+  - C-S6-1069
+  - C-S4-001
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_doc_id_pending: D8
+citation_followup_needed: '已映射真实 doc_id (D8 = WHO Breastfeeding Topic + Targets)'

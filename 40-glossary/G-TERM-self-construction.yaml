@@ -1,0 +1,81 @@
+glossary_id: G-TERM-self-construction
+type: term
+display_name: 自我形成 (self-construction)
+
+full_name_zh: 自我形成 / 自我建构
+full_name_en: Self-Construction / Self-Formation
+
+one_liner: |
+  Maria Montessori 的核心命题:**婴儿出生时是"未完成"(incomplete being),自己构建自己**。
+  不是大人塑造孩子,是孩子用自己的力量逐步完成自己 — 直到 24 岁脑前额叶发育成熟。Lillard 把这个概念作为本卷整本书的理论基础。
+
+detail: |
+  ## 定义
+  Self-construction(self-formation)= 蒙氏教育最深的哲学命题:
+  - 人类婴儿跟其他动物不同 — 不是缩小版成人,是**根本不同的存在**
+  - 出生时大脑空白(没有 ready-made 的本能)
+  - 任务 = 用环境的输入,自己造出自己的大脑
+  - 这个过程从出生到 24 岁,4 个阶段(planes of development)
+
+  ## 跟传统教育的对立
+  | 传统观点 | 蒙氏 self-construction |
+  |---|---|
+  | 孩子 = 容器,大人往里倒知识 | 孩子 = 建造者,自己用环境素材造大脑 |
+  | 教育 = 老师讲,学生听 | 教育 = 准备环境,孩子自取自学 |
+  | 孩子是"小大人" | 孩子是完全不同的存在 |
+  | 6 岁开始上学 | 0-6 岁是最关键的自我形成期 |
+
+  ## 在 0-3 岁的具体表现
+  - **协调动作** — 从无目的乱动 → 有意图的精确动作
+  - **独立性** — 从全靠大人 → 自己做能做的事
+  - **语言** — 从只会哭 → 12-24 月词汇爆炸 → 4 岁完整语法
+  - **意志** — 从冲动 → 18 月起内控 → 3 岁能自觉服从
+
+  Lillard 称这 4 项为"the 4 outcomes of self-construction"(自我形成 4 大成果)。
+
+  ## 大人的角色
+  - **不是塑造者** — 强行变孩子让他像我想的样子
+  - **不是仆人** — 替他做所有事
+  - **是"准备者"** — 准备环境 + 准备自己 + 给自由 + 限度
+
+  ## 跟 Karpathy 第二大脑差异
+  - 第二大脑 = 工具(知识管理)
+  - Self-construction = 大脑本身怎么造出来(0-24 岁)
+  - 蒙氏的"准备环境"约等于"为孩子准备的'第二大脑'外部素材"
+
+  ## 中国家长高频误解
+  - **"孩子小什么都不懂,要从小教"** — 蒙氏:孩子从 0 月就在自己造大脑,大人能做的是给环境
+  - **"我家娃慢,得催"** — 蒙氏:每个孩子有自己时间表,催只会破坏 self-formation
+  - **"我说什么他得听什么"** — 蒙氏:服从是 3 岁后能选的,1-2 岁强逼只会破坏意志发展
+  - **"成人的任务是教孩子规矩"** — 蒙氏:成人任务是观察,看孩子需要什么,然后准备环境
+
+  ## 历史地位
+  - 1900 年 Maria Montessori 的革命性命题
+  - 后被现代神经科学验证:神经突触修剪 + 髓鞘形成 = 物理"造大脑"
+  - 24 岁脑前额叶才完全成熟,印证"4 plane of development"
+
+key_facts:
+  - 蒙氏教育最深的哲学命题
+  - '"孩子用自己力量完成自己" — Maria Montessori 1900'
+  - 4 大成果:协调动作 / 独立 / 语言 / 意志
+  - 跨 4 个阶段 0-24 岁
+  - 现代神经科学验证
+
+related_glossary:
+  - G-PERSON-Montessori
+  - G-PERSON-Lillard
+  - G-PERSON-Jessen
+  - G-TERM-absorbent-mind
+  - G-TERM-prepared-environment
+  - G-TERM-going-slow
+
+related_cards: []
+
+sources:
+  - source_id: SRC-016
+  - external: Maria Montessori《童年的秘密》《有吸收力的心灵》
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

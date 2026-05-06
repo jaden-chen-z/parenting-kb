@@ -1,0 +1,70 @@
+card_id: C-S4-130
+stages: [S4]
+tags: [montessori, yes-space, environment, safety]
+
+front:
+  title: 把整个房间做成 yes 空间
+  hook: 不用 playpen
+
+back:
+  why_matters: |
+    宝宝 6-9 月开始爬 → 家长本能反应:**买 playpen 围栏关起来**。
+    蒙氏立场:**反对 playpen,主张 yes space**(可探索区)。
+    Yes space = 把整个房间(或客厅一片)打造成:
+    1. 全部物品对宝宝**安全**(不会噎 / 不会破 / 无尖角)
+    2. 全部物品宝宝**可以摸**(不需要说"不")
+    3. 父母可以**离开 30 分钟去做事**也放心跟 playpen 区别:
+    | playpen 围栏 | yes space |
+    |---|---|
+    | 把宝宝**关进**小空间 | 把空间**改造**成全开放 |
+    | 限制爬行训练 | 鼓励爬行探索 |
+    | 父母轻松,宝宝学"环境危险" | 父母轻松,宝宝学"我能自主" |
+    Davies 引用她的蒙氏 trainer Judi Orion:**"playpen 唯一合理用法 — 大人在里面熨衣服。"**
+    具体改造步骤:
+    - 化学品 / 易碎物 / 重物全收起或锁柜
+    - 电线用塑料管贴墙隐藏
+    - 书架钉墙,防倾倒
+    - 窗户装锁
+    - 楼梯口装婴儿门
+    - 5-6 个低货架活动等他自取
+    - 上下水柜 / 厨房柜上童锁必要时(去厕所)— 把宝宝放在 yes space,30 秒搞定。
+  what_to_do:
+    - 趴地上看,危险物全收起
+    - 电线隐藏,书架钉墙
+    - 楼梯 / 阳台口装婴儿门
+    - 厨房柜 / 化学品柜童锁
+    - 不买 playpen,投资改造空间
+  failure_mode: |
+    "playpen 多方便,1000 块买回家" — 短期方便,长期剥夺爬行训练 + 学到环境危险。
+    "我家小所以非用围栏不可" — 小空间反而更容易做 yes space,不必买额外物品。
+    "宝宝乱拿东西" — 不是宝宝的错,是环境没改造好。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Davies
+  - G-PERSON-Montessori
+  - G-TERM-yes-space
+  - G-TERM-prepared-environment
+  - G-TERM-secure-base
+
+citation:
+  book_title_zh: "蒙特梭利的小宝宝(0-1岁)"
+  book_title_en: "The Montessori Baby"
+  authors: ["Simone Davies", "Junnifa Uzodike"]
+  authors_zh: ["西蒙·戴维斯", "君妮法·乌佐迪克"]
+  publisher_en: "Workman Publishing"
+  year_en: 2021
+  isbn_en: "978-1-5235-0693-7"
+  location: "Chapter 4 · Create yes spaces"
+  source_id: SRC-014
+
+unit_ids: []
+related_cards:
+  - C-S4-007       # AAP 家居童锁
+  - C-S4-006       # AAP 溺水
+  - C-S1-056       # AAP 车座
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

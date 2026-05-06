@@ -1,0 +1,44 @@
+card_id: C-S5-2149
+stages: [S5]
+tags: [mainstream, language, communication]
+
+front:
+  title: 指物=真沟通
+  hook: 比说话更早期信号
+
+back:
+  why_matters: |
+    9-14 月宝宝学会"指物"(用食指指向感兴趣的东西并看大人确认),这是有意图沟通的核心标志。前情:S4 已能挥手再见。指物分两种:要东西的"祈使指"、分享的"陈述指"。陈述指尤其重要,是共同注意力的标志,与后续语言、社交、自闭症筛查都强相关,18 月不指物是 ASD 红旗信号。
+  what_to_do:
+    - 跟随娃的手指看并命名"那是鸟"
+    - 自己也常指物示范"看小狗"
+    - 鼓励娃指物提要求别一上来就喂
+    - 18 月仍不指物找儿保排查
+  failure_mode: |
+    娃指物大人不回应或敷衍,共同注意力机会浪费;或忽略 18 月不指物的红旗信号,延误自闭症早期干预。
+  evidence_level: A
+
+glossary_refs: [G-TERM-pointing-gesture, G-TERM-joint-attention, G-TERM-MCHAT]
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors:
+    - Heidi Murkoff
+    - Sharon Mazel
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh:
+    - 莫夏迪
+    - 张敏
+  location: "第 11 章第 11 个月, 页 432-436"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards: [C-S5-2148, C-S5-2158]
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

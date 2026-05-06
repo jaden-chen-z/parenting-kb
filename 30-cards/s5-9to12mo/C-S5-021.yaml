@@ -19,6 +19,26 @@ back:
     父母看他"被卡在床栏"心疼抱起，下次他记得"站起来就有人抱"，养成顽固夜醒。其实白天他能自己坐下，晚上也能。
   evidence_level: B
 
+  positions:
+    issue: 睡眠训练方法选择 · 何时启动 · 哭多久才合理
+    views:
+      - school: Lillard(蒙氏)
+        source: SRC-016
+        stance: 6 月起关门睡 + 不抱不晃,孩子哭也不进。训练派立场最激进。
+      - school: Brazelton
+        source: SRC-010
+        stance: 温和拍背 + 浅睡期演练。中间立场,父母在场但减少介入。
+      - school: Davies
+        source: SRC-014
+        stance: 反对强训 — 6-16 月黏人是健康表现,过度训练有依恋代价。
+      - school: AAP / Bowlby
+        source: SRC-006/011
+        stance: AAP 6 月+ 可启动温和方法;Bowlby 反对长时间哭训,需评估孩子类型。
+      - school: 海蒂(Ferber 派)
+        source: SRC-040
+        stance: 温和 Ferber 法 / 改良 Ferber — 主流大众方案;节奏接近 Lillard 但更弹性,不极端关门。
+      - school: 中国传统
+        stance: 陪睡到学龄,不"训练"以避免分离焦虑;倾向自然戒断。
 glossary_refs:
   - G-TERM-light-sleep
   - G-TERM-sleep-cycle

@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Turiel
+type: person
+display_name: "Turiel(艾略特·图列尔)"
+
+full_name_en: "Elliot Turiel"
+full_name_zh: "艾略特·图列尔"
+
+position: |
+  UC Berkeley 心理学教授
+
+contribution: |
+  道德发展 + 道德/习俗/个人/谨慎 4 类规则;Smetana 师
+
+one_liner: |
+  艾略特·图列尔 — 道德发展 + 道德/习俗/个人/谨慎 4 类规则;Smetana 师
+
+key_facts:
+  - "本卷章节:Ch 13"
+  - "Lerner V3 命中:185 次"
+  - "学派:Lerner V3 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-027
+    chapter: "Ch 13"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

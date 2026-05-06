@@ -1,0 +1,49 @@
+card_id: C-S8-321
+stages: [S8]
+tags: [rothbart, CBQ, temperament_5_factors, lerner_v3]
+
+front:
+  title: "6 岁气质看 5 大类"
+  hook: "CBQ 测气质 5 类"
+
+back:
+  why_matters: |
+    Rothbart(Ch 3)6 岁版气质量表 CBQ — 整合成 5 大类:
+    外向(高接近)、负面情绪(高焦虑)、努力控制(自我调节强)、活动度(高活泼)、感觉敏感。
+    这跟成人 Big Five 已经有 80% 重合 — 是人格的童年版。
+    一句话 — 6 岁孩子的人格雏形已经出来了,5 大类各自看不要混。
+  what_to_do:
+    - "外向娃别强迫一个人玩"
+    - "焦虑娃别突袭新环境"
+    - "活动度高别死按桌前"
+    - "感觉敏感别穿粗布给他"
+    - "看 5 大类配合不是只看乖不乖"
+  failure_mode: |
+    把 6 岁孩子简化成乖/调皮二分,5 大类信息丢失。
+    Rothbart — CBQ 5 类各自有意义,合并就丢了关键差异。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Rothbart
+  - G-TERM-CBQ
+  - G-TERM-big-five-childhood
+
+related_cards:
+  - C-S8-104      # 松田 IQ 测试不可信
+  - C-S8-105      # 松田反性别刻板
+  - C-S8-100      # 松田反体罚
+  - C-S8-320      # Lerner self 5 维
+
+citation:
+  source_id: SRC-027
+  source_title: "Handbook of Child Psychology Vol 3"
+  chapter: "Ch 3 Rothbart — CBQ 5 Factors"
+  chapter_offset: 613636
+  chapter_title: 'Rothbart & Bates — 气质综述权威'
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_followup_needed: 'SRC-027 用 PDF 字节偏移代页码 — 待加 page_pdf 反查工具'

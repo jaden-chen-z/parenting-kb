@@ -1,0 +1,38 @@
+card_id: C-S0-2159
+stages: [S0]
+tags: [postpartum, mom, kegel]
+front:
+  title: 凯格尔健肌法防压力性尿失禁
+  hook: 咳嗽就漏尿就练它
+back:
+  why_matters: |
+    前情:产后打喷嚏咳嗽就漏尿是盆底松弛信号。
+    凯格尔锻炼是收紧控制尿液的盆底肌,海蒂建议分娩后尽快开始,
+    每天 3-4 次练全套,坚持几个月。它能预防压力性尿失禁,
+    让会阴更紧实、性生活质量回升,还能促进会阴愈合。
+  what_to_do:
+    - 找到憋尿那块肌肉收紧再放松
+    - 每次坚持 8-10 秒重复 10-20 次
+    - 一天分散做 3-4 次
+    - 分娩后立刻开始别等
+    - 配合生物反馈或电刺激更有效
+  failure_mode: 不练盆底肌导致咳嗽喷嚏漏尿、跑步漏尿、性生活感受变差,严重时器官脱垂。
+  evidence_level: B
+glossary_refs: [G-TERM-postpartum-recovery]
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors: ["Heidi Murkoff", "Sharon Mazel"]
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh: ["莫夏迪", "张敏"]
+  location: "第 23 章 《妈妈的第一年》, 页 678-679 专栏"
+  source_id: "SRC-040"
+related_cards: [C-S0-2158]
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

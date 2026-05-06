@@ -1,0 +1,70 @@
+card_id: C-S0-1237
+stages: [S0]
+tags: [Abecedarian, ramey, rct, lerner_v4]
+
+front:
+  title: 早教 35 年长效 RCT
+  hook: 早干预 35 年还有效
+
+back:
+  why_matters: |
+    Ramey-Ramey-Lanzi V4 Ch 21 儿童健康综述(Ramey 本人是 Abecedarian RCT 创办者)。
+    **Abecedarian 35 年长效证据**:
+    - 1972-1985 年北卡 RCT,N=111
+    - 高质量早教(0-5 岁)+ 控制组
+    - 35 年追踪:
+      - 学业:大学率 4 倍
+      - 收入:35 岁年收入 1.7 倍
+      - 健康:慢性病少 30%
+      - 犯罪:逮捕率 1/4
+    - ROI:7-10 倍(Heckman 经济曲线核心源)
+    **3 大成功要素**(Ramey 综述):
+    - **早**:0 岁开始
+    - **强**:每天 6-8 小时高质量
+    - **持**:5 年不断意义:
+    - 早期干预最强 RCT 证据
+    - 反"早教没用"
+    - 但需"高质量+早+强+持",不是"报班就行"
+    跟现库:跟 Heckman(待建 G-TERM)+ Shonkoff NRC 引用(SRC-025)对接。
+    对接 Perry Preschool(C-S8-207 V3)+ Head Start(待建)。
+    对中国家长意义:
+    - 高质量早教真有效(但不是早班 + 钢琴课)
+    - "早+强+持"才出长效
+    - 自家亲子互动 = 高质量早教
+    - 报班不一定算高质量
+  what_to_do:
+    - 亲子互动就是高质量早教
+    - 早+强+持才有长效
+    - 报班 ≠ 自动高质量
+    - 5 年不断比短期强
+  failure_mode: |
+    早教无用 — 错。Abecedarian 35 年 RCT。
+    报班就是早教 — 错。质量是关键。
+    3 月强化班见效 — 错。需 5 年持续。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Ramey
+  - G-TERM-abecedarian
+  - G-TERM-perry-preschool
+  - G-TERM-heckman-curve
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 4 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 4 卷"
+  authors: ['Craig T. Ramey', 'Sharon L. Ramey', 'Robin G. Lanzi']
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 21 · Ramey · Abecedarian 35-year RCT · pp. 864-878"
+  source_id: SRC-029
+
+unit_ids: []
+related_cards:
+  - C-S8-207     # Shonkoff Perry RCT
+  - C-S8-208     # Shonkoff Abecedarian
+  - C-S0-619     # NRC 反早教焦虑
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,40 @@
+glossary_id: G-TERM-heckman-curve
+type: term
+display_name: Heckman 经济曲线
+
+en_term: Heckman Curve
+zh_term: Heckman 经济曲线
+
+one_liner: |
+  经济学家 Heckman — 早期教育 ROI 最高(0-3 岁 7-10 倍),基于 Perry / Abecedarian RCT
+
+detail: |
+  ## 定义
+  经济学家 Heckman — 早期教育 ROI 最高(0-3 岁 7-10 倍),基于 Perry / Abecedarian RCT
+
+  ## V4 出处
+  Lerner Handbook of Child Psychology Vol 4 (Wiley 2006 第 6 版,Renninger-Sigel 主编)
+  本卷反复引用术语 — 详细见相关章节。
+
+  ## 跨派对接
+  - V4 综述权威立场
+  - 跨章节多次出现
+  - 跟现库其他派(AAP / Brazelton / Shonkoff / 松田)有立场对照
+
+  ## 中国家长意义
+  详细见相关知识卡(C-S0-12xx / C-S6-13xx / C-S7-13xx / C-S8-7xx)
+
+key_facts:
+  - "Lerner V4 反复引用术语"
+  - "应用心理学综述权威定义"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-029
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

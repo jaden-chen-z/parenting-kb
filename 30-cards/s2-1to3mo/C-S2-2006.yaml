@@ -1,0 +1,52 @@
+card_id: C-S2-2006
+stages: [S2]
+tags: [safety, gap_g9_filled]
+
+front:
+  title: DTaP 副反应:1/3 局部红肿正常
+  hook: 红肿 + 低烧 = 正常
+
+back:
+  why_matters: |
+    DTaP(白破百三联)= 2/4/6/15-18 月 + 4-6 岁共 5 剂的核心疫苗。
+    海蒂数据:1/3 以上注射部位会非常微弱反应(触痛/肿胀/发红),48h 内出现。
+    部分宝宝几小时-2 天哭闹或食欲减退,低烧也常见。
+    越后面的剂量(第 4-5 针)反应越强,前 3 针通常温和。
+    新版无细胞 acellular 比老版 DTwP 副作用大幅降低,与脑损伤无证据相关。
+  what_to_do:
+    - "局部红肿:冷敷 + 观察,2 天内自退"
+    - "发烧 < 39 度:多喂水观察"
+    - "婴儿对乙酰氨基酚按体重(医生开剂量)"
+    - "记录每次反应(厂商 + 批次 + 症状)"
+    - "下次打前主动告诉医生上次反应"
+  failure_mode: |
+    见局部红肿就慌着停疫苗 → 错过后续剂量,白费前面打的。
+    不记录反应 → 下次同批次再出问题难追溯。
+    用酒精擦 / 涂偏方 → 加重感染风险。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-DTaP
+  - G-ABBR-AAP
+
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1 岁"
+  authors: ["Heidi Murkoff", "Sharon Mazel"]
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 2010
+  edition: "Third Edition"
+  location: "第 6 章 / DTaP 节,p.224-225"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards:
+  - C-S2-2005
+  - C-S2-2009
+  - C-S2-2010
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

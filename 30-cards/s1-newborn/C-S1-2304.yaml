@@ -1,0 +1,47 @@
+card_id: C-S1-2304
+stages: [S1]
+tags: [safety, red_flag]
+
+front:
+  title: 烫伤先冷水 30 分,别用冰
+  hook: 1 岁内任何烫伤都打电话
+
+back:
+  why_matters: |
+    烫伤(烧伤)在婴儿期是家居最高频伤之一(热饮、洗澡水、电器)。
+    海蒂铁律:**冷水冲 / 浸 30 分钟 → 不粘绷带松裹 → 1 岁内任何烫伤打医生**。
+    错误操作会**加深烫伤等级**:冰致冻伤,黄油/牙膏闷热,挑水泡感染。
+    手 / 脸 / 脚 / 生殖器 / 大面积(> 25% 体表)→ 直接急诊,不在家处理。
+  what_to_do:
+    - 立刻用冷水(10-15℃)冲或浸 30 分钟直到痛感缓解
+    - 衣物:未粘的脱掉,粘住的不撕(剪开周围)
+    - 不挑水泡,不涂黄油 / 牙膏 / 烧伤膏 / 凡士林
+    - 用不粘绷带或干净布轻覆(铝箔应急也行)
+    - 1 岁内任何烫伤 → 打医生;脸/手/脚/生殖器/大面积 → 急诊
+  failure_mode: |
+    冰块直接敷 → 冻伤叠加烫伤。
+    挑破水泡 → 失去天然保护层,感染。
+    涂黄油/牙膏 → 闷热 + 脏污,加深创面。
+    化学品烫伤先冲水之前不脱衣 → 残液继续烧。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-AAP
+
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1 岁"
+  authors: [Heidi Murkoff, Sharon Mazel]
+  publisher_en: Workman Publishing
+  publisher_zh: 南海出版公司(新经典发行)
+  year: 1989
+  edition: 3rd (2014)
+  location: "第 19 章《急救常识》'烧伤和烫伤 11-15',573-574 页中译"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards: [C-S1-058]
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

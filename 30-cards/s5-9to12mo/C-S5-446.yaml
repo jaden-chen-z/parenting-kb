@@ -1,0 +1,57 @@
+card_id: C-S5-446
+stages: [S5]
+tags: [stranger-anxiety, attachment]
+
+front:
+  title: "陌生人焦虑健康"
+  hook: "他怕生不是没教养"
+
+back:
+  why_matters: |
+    Magda Ch7 短节 — 跟分离焦虑并列:
+    Stranger Anxiety 是宝宝的**自我保护本能**。
+    8-12 月起对生人警惕、扭头、哭 = 大脑成熟标志 —
+    他能区分"熟悉/陌生"且"知道哪个安全"。
+    Magda 反对家长"逼他笑 / 让他给阿姨抱抱"这种破自保的行为。
+    跟 Bowlby 安全基地理论一致。
+
+  what_to_do:
+    - 永不强迫他被陌生人(包括亲戚)抱
+    - 永不强迫他亲 / 笑 / 给抱抱
+    - 让他在你身边观察陌生人 5-10 分钟再决定
+    - 跟亲戚解释:"他需要时间适应,不是没礼貌"
+    - 一定的陌生警惕到大也保留是好事
+
+  failure_mode: |
+    "你叫阿姨好啊不要害羞" → 撕掉自保本能 → 长大失去识别危险陌生人能力。
+    Magda 原话:"陌生人焦虑是孩子筛选新人的本能,要保留"。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Gerber
+  - G-PERSON-Bowlby
+  - G-TERM-attachment
+  - G-TERM-RIE
+
+citation:
+  book_title_en: "Your Self-Confident Baby"
+  book_title_zh: "自信的宝宝"
+  authors:
+    - Magda Gerber
+    - Allison Johnson
+  publisher_en: John Wiley & Sons
+  year: 1998
+  location: "Ch7 Stranger Anxiety"
+  source_id: SRC-022
+
+unit_ids: []
+related_cards:
+  - C-S5-076  # Bowlby V1 secure base
+  - C-S5-393  # Lansbury 分离焦虑
+  - C-S5-445  # Magda 分离焦虑健康(本卷)
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

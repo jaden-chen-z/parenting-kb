@@ -1,0 +1,68 @@
+card_id: C-S7-1096
+stages: [S7]
+tags: [cognitive_science, conceptual_revolution, carey, lerner_v2]
+
+front:
+  title: 4-10 岁概念会革命
+  hook: 4-10 岁不是渐变是质
+
+back:
+  why_matters: |
+    Carey 1985+ 概念革命(Lerner V2 Ch16 Gelman/Kalish 综述 + Ch14 Keil)。
+    Carey 立场:**概念发展不是渐变,是革命**(像科学史的范式转移)。
+    儿童经典案例(Carey):
+    - 4 岁:认为"植物"不是活物(像桌子)
+    - 7-10 岁:把植物归"活物"(跟动物 + 人同类)
+    - 这不是"加细节" — 是整个分类系统重组类似科学史:
+    - 哥白尼革命:地心 → 日心(不是修地心)
+    - 生物学:神创 → 进化(不是修神创)
+    意义:
+    - 解释儿童为什么"突然懂"某概念
+    - 教学应该制造"困惑"促进革命
+    - 反 Piaget 渐进阶段说(质变非阶段)
+    - 跟 Gopnik "孩子是科学家"派同根跟现库:G-PERSON-Gopnik(C-S1-240 baby scientist)同方向,Carey 是概念层。
+    跟 Lillard 蒙氏"不打扰孩子困惑"立场对接。
+    对中国家长意义:
+    - 孩子的"不科学说法"(植物不是活)是正常发育
+    - 不要急纠正 — 让概念革命自然发生
+    - 讨论 + 困惑制造比直接教正确更有效
+    - 4-10 岁是革命密集期(不是 0-3 岁)
+  what_to_do:
+    - 4 岁后多问"为什么"激发思考
+    - 不直接给答案,引导自己发现
+    - 看到孩子"不科学"说法 — 不慌(常态)
+    - 让讨论 + 反例制造概念革命
+  failure_mode: |
+    "孩子 4 岁说植物不是活物 = 笨" — 错。是常态。
+    "急纠正能加速学习" — 错。革命需要内部冲突。
+    "Piaget 阶段是渐进" — 部分错,是质变。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Gopnik
+  - G-PERSON-Piaget
+  - G-TERM-baby-scientist
+  - G-PERSON-Carey
+  - G-TERM-conceptual-revolution
+  - G-PERSON-Keil
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 2 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 2 卷"
+  authors: ["Susan A. Gelman", "Charles W. Kalish", "Frank Keil"]
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 16/Ch 14 · Conceptual revolution Carey · pp. 689-695, 622-625"
+  source_id: SRC-028
+
+unit_ids: []
+related_cards:
+  - C-S1-240       # baby scientist(Gopnik)
+  - C-S3-1141     # Cohen-Cashon vs Spelke
+  - C-S7-1097     # Mandler 知觉 vs 概念(下一张)
+  - C-S8-421       # 朴素生物学(后续)
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

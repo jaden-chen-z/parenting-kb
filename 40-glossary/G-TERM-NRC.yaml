@@ -1,0 +1,67 @@
+glossary_id: G-TERM-NRC
+type: term
+display_name: NRC (美国国家研究委员会)
+
+en_term: National Research Council
+zh_term: 美国国家研究委员会
+
+one_liner: |
+  美国国家科学院的独立科学顾问机构,1916 年由 NAS 创办。
+  本卷《From Neurons to Neighborhoods》(2000)是 NRC + IOM(医学院)合作
+  17 人委员会 4 年综述,跨儿科 / 心理学 / 神经科学 / 经济学 / 政策学。
+  权威级别:Tier 2 综述权威,高于单一作者派。
+
+detail: |
+  ## 机构背景
+  - 1916 年由 National Academy of Sciences 创办
+  - 主要任务:为联邦政府提供独立科学顾问
+  - 跟 IOM(Institute of Medicine,1970 创办)联合操作
+  - 现已重组为 National Academies of Sciences, Engineering, and Medicine
+
+  ## NRC 综述报告特点
+  - 多人委员会(本书 17 人)4 年系统工作
+  - 跨学科(本书儿科/心理/神经/经济/政策5+)
+  - 权威级别:Tier 2(综述权威)— 高于单一作者派
+  - 美国联邦政府 / 政策直接引用
+  - Cochrane / WHO / 联合国引用
+
+  ## 本书生成过程(NRC 标准)
+  - 1996 委员会 charter
+  - 1996-2000 委员会会议 + 文献综述
+  - 1999 草稿 + 同行评议
+  - 2000 正式发布
+  - 数百次外部学者意见整合
+
+  ## NRC 立场跟其他综述对比
+  - **NRC** = 美国国家级权威 + 17 人委员会(本书)
+  - Cochrane = 国际医学综述(更严循证标准)
+  - WHO = 全球公共卫生立场
+  - AAP = 美国儿科学会 临床指南
+  - 单作者派(Bowlby / Stern / Lillard / Gopnik)= Tier 3
+
+  ## 引用 NRC 的含义
+  - 不只是"某学者立场"
+  - 是"17 人委员会 4 年共识"
+  - 反对 NRC 立场需要超强证据
+  - "NRC 综述说"在政策辩论中是杀手锏
+
+key_facts:
+  - 1916 创办的科学顾问机构
+  - 本书 17 人委员会 4 年综述
+  - Tier 2 综述权威
+  - 联邦政策 / 国际机构引用
+
+related_glossary:
+  - G-PERSON-Shonkoff
+  - G-PERSON-Phillips
+
+related_cards: []
+
+sources:
+  - source_id: SRC-025
+  - external: National Academies website
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

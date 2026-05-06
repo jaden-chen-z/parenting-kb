@@ -1,0 +1,73 @@
+card_id: C-S8-743
+stages: [S8]
+tags: [干预, powell, lerner_v4]
+
+front:
+  title: 家庭干预 5 原则实操
+  hook: 家庭干预 5 原则用
+
+back:
+  why_matters: |
+    Powell V4 Ch 14(S8 学龄前应用)。
+    **5 原则在 S8 实操中**:
+    - **关系导向**:咨询师/老师 vs 家长是合作关系,非教导
+    - **文化敏感**:中国家庭别照搬美式干预
+    - **个体化**:每家不同,无标准模板
+    - **持续性**:6+ 月起效,1-2 年才稳
+    - **协作不指导**:家长是 agent
+    **学龄前家庭干预典型**:
+    - 行为问题(攻击 / 退缩 / 不听)
+    - 学业问题(语言迟 / 注意 / 阅读障碍)
+    - 情绪问题(焦虑 / 抑郁 / 创伤)
+    - 关系问题(亲子冲突 / 兄弟姐妹)
+    **干预选择标准**:
+    - 看是否符合 5 原则
+    - 看是否有 RCT 证据(Triple P / Incredible Years (神奇岁月) / PCIT)
+    - 看持续时长(< 3 月不可信)
+    - 看文化适应(中国家版本)
+    意义:
+    - 不是所有干预都好
+    - 看 5 原则 + RCT 证据 + 文化敏感
+    - 中国家长别盲信"哈佛专家"
+    跟现库:跟 NFP(C-S0-1242)+ Selman 预防金字塔(C-S0-1240)对接。
+    对中国家长意义:
+    - 选干预看 5 原则
+    - 看 RCT 证据(不是"哈佛背书")
+    - < 3 月项目不可信
+    - 关系比技术重要
+  what_to_do:
+    - 选干预看 5 原则
+    - 看 RCT 证据不光看背书
+    - <3 月项目不可信
+    - 关系比技术重要
+  failure_mode: |
+    "哈佛专家就对"— 错。5 原则+RCT 证据。
+    "快速训练班见效"— 错。<3 月不可信。
+    "教我技术就行"— 错。关系是核心。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Powell
+  - G-TERM-early-intervention
+  - G-TERM-cultural-specificity
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 4 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 4 卷"
+  authors: ['Douglas R. Powell']
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 14 · Powell · Family intervention 5 principles applied · pp. 560-575"
+  source_id: SRC-029
+
+unit_ids: []
+related_cards:
+  - C-S0-1233     # Powell 5 原则
+  - C-S0-1242     # NFP 30 年长效
+  - C-S0-1240     # Selman 预防
+  - C-S0-619     # Shonkoff 综述
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

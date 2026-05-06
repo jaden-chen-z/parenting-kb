@@ -1,0 +1,67 @@
+card_id: C-S4-1142
+stages: [S4]
+tags: [cognitive_science, animate_inanimate, lerner_v2]
+
+front:
+  title: 7 月分活物死物
+  hook: 自启动 vs 被推动
+
+back:
+  why_matters: |
+    Lerner V2 Ch5 综述 animate-inanimate 区分(Cohen-Cashon)。
+    7-9 月宝宝已能区分"自启动"(animate)vs"被推动"(inanimate):
+    - 看一物体自己开始动(没外力)— 推断是"活的"(animate)
+    - 看一物体被另一物推动开始动 — 推断是"死的"(inanimate)
+    - 后续给"活物"看 → 期望它有意图行为
+    - 给"死物"看 → 期望它符合机械物理规律意义:
+    - Spelke 行动系统 + 物体系统的早期区分
+    - 这是 theory of mind 雏形(谁有意图)
+    - 这是"朴素生物学" + "朴素心理学"分化的起点跟现库:跟 Tomasello 9 月革命(下卡)对接 — animate 才是"分享意图"对象。
+    跟 Stern intersubjectivity(7-15 月)接 — 婴儿先识谁能分享。
+    对中国家长意义:
+    - 7 月给宝宝 animate 玩具(动物 / 玩偶 / 活动玩具)和 inanimate 玩具(积木 / 球)都给
+    - 宝宝在自己分类
+    - 不必"教"动物名 — 先建分类雏形
+    - 自启动玩具(电动)≠ animate 雏形(差异较微妙)
+  what_to_do:
+    - 7-9 月给两类玩具:有自启动感 vs 静止
+    - 让宝宝观察人/动物运动(自启动)
+    - 不必早教概念 — 7 月在自动分类
+    - 玩"假装动物"游戏(假装宠物动)
+  failure_mode: |
+    "7 月不分活死物" — 错。已经在分。
+    "宝宝看动物没意义" — 错。在建朴素生物学。
+    "电动玩具就是 animate" — 不完全是。需自启动 + 反应性。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Spelke
+  - G-TERM-theory-of-mind
+  - G-PERSON-Carey
+  - G-TERM-naive-biology
+  - G-PERSON-Leslie
+  - G-TERM-naive-psychology
+  - G-TERM-9-month-revolution
+  - G-PERSON-Stern
+  - G-PERSON-Tomasello
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 2 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 2 卷"
+  authors: ["Leslie B. Cohen", "Cara H. Cashon"]
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 5 · Animate-inanimate distinction · pp. 244-245"
+  source_id: SRC-028
+
+unit_ids: []
+related_cards:
+  - C-S3-1142     # 因果直觉 4 月
+  - C-S4-1141     # Spelke 5 系统
+  - C-S5-1140     # Tomasello 9 月革命(下一张)
+  - C-S5-013       # Wonder Weeks WW46 第 5 跃迁
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

@@ -18,13 +18,33 @@ back:
     - 喷射性吐 + 肌肉用力:立刻找医生(pyloric stenosis 急症)
     - 吐物含血:立刻找医生(食管炎或胃炎)
     - 减少 spit-up:小量多次 + 喂中喂后多拍嗝
-    - 喂后 20-30 min 竖抱,不让玩 / 不 tummy time
+    - 喂后 20-30 min 竖抱,不让玩 / 不趴卧时间(tummy time)
     - 配方奶宝宝持续吐 → 问医生换深度水解配方(CMPA 5%)
   failure_mode: |
     把喷射性吐当普通吐奶 → 错过 pyloric stenosis 紧急手术(可能致命)。
-    给完奶就翻趴 tummy time → 加重吐奶 + 中耳炎风险。
+    给完奶就翻趴趴卧时间(tummy time) → 加重吐奶 + 中耳炎风险。
   evidence_level: A
 
+  positions:
+    issue: 醒着时该不该让宝宝俯卧"练颈肌"(Tummy Time)
+    views:
+      - school: AAP
+        source: SRC-002
+        stance: 推 Tummy Time — 防 SIDS 后颈肌发育 + 防扁头综合征(2026 现行立场,Back to Sleep 1994 后配套)。
+      - school: Pikler
+        source: SRC-026
+        stance: 反 Tummy Time — 仰卧位最佳,俯卧不利自然翻身。1969 立场(那时 Tummy Time 概念尚未出现)。
+      - school: Magda Gerber / Lansbury
+        source: SRC-022/019
+        stance: 继承 Pikler — 永远仰卧不俯卧;给地板时间让婴儿自由探索。
+      - school: 海蒂
+        source: SRC-040
+        stance: 每天清醒至少 30 分钟分多次累计(对齐 AAP)— 主流大众派背书 Tummy Time + 防扁头。
+      - school: 蒙氏(Davies/Lillard)
+        source: SRC-014/016
+        stance: 平面活动 OK,但反对"训练"方式;给地板时间让婴儿自由探索俯卧。
+      - school: 折中建议
+        stance: 不强迫 Tummy Time,但给地板时间允许婴儿自己俯卧探索;若选 AAP 派则醒着每天几次,每次几分钟。
 glossary_refs:
   - G-ABBR-AAP
   - G-ABBR-GERD

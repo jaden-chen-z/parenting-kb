@@ -1,0 +1,61 @@
+card_id: C-S3-187
+stages: [S3]
+tags: [cognitive_science, vision, hearing]
+
+front:
+  title: 5 月会唇读匹配嘴形和声音
+  hook: 5 月看脸听音对得上
+
+back:
+  why_matters: |
+    Kuhl & Meltzoff 1982 经典实验:
+    给 5 月宝宝看 2 张静默视频(同时播放):
+    - 一个嘴张大说 ahhh
+    - 一个嘴拉宽说 eeee
+    然后单独播放声音(ahhh 或 eeee)。
+    宝宝**盯着匹配的脸看**(听 ahhh 看张大嘴的脸,听 eeee 看拉宽嘴的脸)。
+    意义:5 月宝宝已经在做**唇读** — 把声音 ↔ 嘴形匹配。
+    这是为什么 Gopnik 强调:**真人互动 > 录像 / CD**。
+    宝宝学语言不是只听声音,是看着你的脸学嘴怎么动。
+    脱离视觉,听觉学习损失大半。
+    对中国家长意义:
+    - 跟宝宝说话时**让他看到你的脸**
+    - 喂奶时面向他,不要刷手机
+    - 学语言不能靠 CD / 动画(没看脸)
+    - 双语家庭让宝宝看不同语言的人脸说话
+  what_to_do:
+    - 说话时正面对宝宝,30cm 内
+    - 停下手机 / 翻杂志 / 干家务,专心说话
+    - 宝宝盯你嘴时不要遮挡 / 戴口罩
+    - 双语暴露找真人(伴侣 / 朋友 / 视频通话亲戚)
+  failure_mode: |
+    "他听到就行,看不看我无所谓" — 错。5 月就在唇读。
+    放双语动画启蒙 — 错。脱离真人脸效果大降。
+    喂奶时刷手机 — 错过最自然的语言学习窗。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Kuhl
+  - G-PERSON-Meltzoff
+  - G-TERM-statistical-learning
+  - G-TERM-baby-scientist
+
+citation:
+  book_title_en: "The Scientist in the Crib"
+  book_title_zh: "摇篮里的科学家"
+  authors: ["Alison Gopnik", "Andrew N. Meltzoff", "Patricia K. Kuhl"]
+  publisher_en: William Morrow
+  year: 1999
+  location: "Chapter 3 · 5-month lip-reading experiment"
+  source_id: SRC-015
+
+unit_ids: []
+related_cards:
+  - C-S1-184       # Davies 30cm 焦距
+  - C-S2-181       # parentese 科学
+  - C-S2-013       # 鲍秀兰母婴对话
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

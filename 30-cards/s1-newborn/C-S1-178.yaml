@@ -1,0 +1,57 @@
+card_id: C-S1-178
+stages: [S1]
+tags: [development_burst, philosophy, controversy]
+
+front:
+  title: 三 C 同时 = 跃迁不是病
+  hook: 三连症状是大脑升级
+
+back:
+  why_matters: |
+    Wonder Week 是 van de Rijt + Plooij 35 年观察:0-20 月宝宝有 10 个可预测的"大脑跃迁周",
+    每个跃迁前 1-3 周必出现烦躁 阶段(烦躁期),宝宝突然 3 C 同时发作:Crying(哭多)/ Clinging(黏妈)/ Crankiness(烦躁)。
+    家长第一反应常是"是不是病了 / 奶不够 / 被惯坏了 / 我带得不好",
+    去医院查不出问题,自责焦虑加剧。
+    van de Rijt 数据:**所有正常健康宝宝都经历这个**,温和宝宝表现轻,敏感宝宝表现重。
+    3 C 同时 ≠ 病 = 大脑在升级。
+  what_to_do:
+    - 3 C 同时出现(不只一项)→ 优先想跃迁
+    - 时间窗对照 5/8/12/19/26/37/46/55/64/71 周
+    - 烦躁 阶段 期间多抱多哺,不强求规律
+    - 跃迁完成后(几天到 6 周)3 C 自然消失
+    - 仍要警惕真病(发烧 ≥38°C / 嗜睡 / 拒食 / 异常皮疹)
+  failure_mode: |
+    "宝宝最近怎么了" → 全套体检 → 没病 → 反复焦虑。
+    "再哭也不抱" → 跃迁期需要更多安抚,强训反破坏信任。
+    把跃迁误判为"被惯坏",对抱孩子产生罪恶感。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-vanderijt
+  - G-PERSON-plooij
+  - G-TERM-wonder-week
+  - G-TERM-3C-signs
+  - G-TERM-fussy-phase
+  - G-TERM-mental-leap
+
+citation:
+  book_title_zh: "婴儿大脑跃迁 10 周(神奇周)"
+  book_title_en: "The Wonder Weeks: How to Stimulate Your Baby's Mental Development"
+  authors: ["Hetty van de Rijt", "Frans X. Plooij"]
+  authors_zh: ["海蒂·凡德里特", "弗朗斯·普洛伊"]
+  publisher_en: "Kiddy World Publishing"
+  year_en_first: 1992
+  isbn_en: "978-90-79208-12-1"
+  location: "Chapter 1 · Crying and Clinging Can Simply Mean He's Growing(These difficult periods are usually accompanied by the three C's: Clinginess, Crankiness, and Crying)"
+  source_id: SRC-013
+
+unit_ids: []
+related_cards:
+  - C-S1-046       # PURPLE crying(AAP) — 早期哭闹独立框架
+  - C-S1-066       # 鲍秀兰红旗信号(发烧/嗜睡才是病)
+  - C-S1-079       # Brazelton 触摸点(类似机制)
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

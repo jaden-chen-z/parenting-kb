@@ -1,0 +1,60 @@
+card_id: C-S1-410
+stages: [S1]
+tags: [philosophy, attachment, emotion]
+
+front:
+  title: "关爱不会宠坏"
+  hook: "替代分散才会宠坏"
+
+back:
+  why_matters: |
+    Magda 反"传统宠坏论":
+    回应需求 / 抱 / 喂 / 换 = 关爱,
+    永远不会"宠坏"宝宝。
+    会宠坏的是:
+    1)替他做他能自己做的(剥夺学习);
+    2)不停分散 / 娱乐(他失去自娱能力);
+    3)从不设限(他没自律种子);
+    4)避开所有挑战(他没问题解决能力)。
+    Bowlby C-S1-123 + Davies 一致:回应不是宠,是建信任根基。
+
+  what_to_do:
+    - 哭就回应,先观察再行动 — 不怕"养黏人"
+    - 喂 / 抱 / 换跟着宝宝节奏,不卡时间
+    - 自己能做的不替:抓不到玩具就让他够
+    - 不用"分心物"哄哭,真听原因
+    - 把"宠坏"改成"剥夺成长机会"重新理解
+
+  failure_mode: |
+    "0-3 月每哭就抱以后会宠坏" → 实际相反,基本信任没建立后期更黏。
+    Magda 原话:"关爱孩子的需求不是宠,展示你的爱"。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Gerber
+  - G-PERSON-Bowlby
+  - G-TERM-attachment
+  - G-TERM-basic-trust
+
+citation:
+  book_title_en: "Your Self-Confident Baby"
+  book_title_zh: "自信的宝宝"
+  authors:
+    - Magda Gerber
+    - Allison Johnson
+  publisher_en: John Wiley & Sons
+  year: 1998
+  location: "Ch3 Can We Spoil Our Babies?(整节)"
+  source_id: SRC-022
+
+unit_ids: []
+related_cards:
+  - C-S1-123  # Bowlby V1 回应不是宠
+  - C-S1-352  # Lansbury 把新生儿当完整人
+  - C-S2-128  # Davies 等 3 秒回应
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

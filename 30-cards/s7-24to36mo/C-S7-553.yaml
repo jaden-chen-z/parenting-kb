@@ -1,0 +1,60 @@
+card_id: C-S7-553
+stages: [S7]
+tags: [siblings, RIE]
+
+front:
+  title: "兄弟姐妹不当法官"
+  hook: "不偏袒不评对错少介入"
+
+back:
+  why_matters: |
+    Magda《自信的宝宝》Ch8 §Sibling Rivalry。
+    Magda 引 Faber & Mazlish《Siblings Without Rivalry》经典类比:
+    "想象老婆有天对你说:'我请来另一位漂亮太太,我们一起分享你。'
+    那就是大宝看二宝来的感受。"
+    第一胎"被赶下宝座" — 这种被夺走感很多人一辈子带着。
+    Magda 立场:**最少介入兄弟姐妹冲突** — 越当法官越糟。
+    "你眼一闭。看得多 / 评得多 → 制造内疚 → 让他们更不和。"
+    例外:不让伤害 + 必要时引导(不当法官,当 ally)。
+    用问句替代判决:"你还可以怎么做呢"
+
+  what_to_do:
+    - 不裁谁先 / 谁该让 / 谁不对
+    - 不让伤害(物理介入)
+    - 引导用语言:"哥哥跟你说'我在玩'"
+    - 「你还可以怎么办」 鼓励他们解决
+    - 大宝特别关注(被夺感强)
+
+  failure_mode: |
+    "他们打架我必须当裁判" → Magda 反:每次裁判都创造怨气
+    (一定有一方觉得不公)。不裁 = 让他们学解决。或"不管出大事" → 反:
+    Magda 立场是不当法官 ≠ 不管 — 真伤害物理介入。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+  - G-TERM-sportscasting
+
+citation:
+  book_title_en: "Your Self-Confident Baby"
+  book_title_zh: "自信的宝宝"
+  authors:
+    - Magda Gerber
+    - Allison Johnson
+  publisher_en: John Wiley & Sons
+  year: 1998
+  location: "Ch8 §Sibling Rivalry(p226-227)"
+  source_id: SRC-021
+
+unit_ids: []
+related_cards:
+  - C-S6-395  # Lansbury sportscasting(同源:不当法官)
+  - C-S6-399  # Lansbury 不强迫分享
+  - C-S7-348  # Lansbury 你为什么吼 4 真因
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

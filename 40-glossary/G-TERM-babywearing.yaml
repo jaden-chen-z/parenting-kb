@@ -1,0 +1,84 @@
+glossary_id: G-TERM-babywearing
+type: term
+display_name: 婴儿背带 (babywearing)
+
+full_name_en: Babywearing
+full_name_zh: 婴儿背带 / 穿宝宝
+
+one_liner: |
+  用背带/吊带把宝宝贴身穿在父母身上,几千年人类智慧+现代证据加持的金标准安抚法,海蒂列 5 大益处+TICKS 安全口诀。
+
+detail: |
+  ## 定义
+  **Babywearing** = 用专用背带、吊带、环式 sling 把宝宝
+  贴身固定在父母胸前/背后,腾出双手做事同时维持亲密接触。
+
+  ## 历史
+  - 几千年人类文化普遍存在(非洲、亚洲、原住民)。
+  - 现代复兴:1970s Sears 等亲密育儿派推广,
+    1980s 西方主流育儿书纳入。
+
+  ## 类型(按月龄)
+  - **0-4 月:包裹式 (wrap) 或环式 (ring sling)**
+    - 整块布缠绕,自然胎位 M 形腿
+    - 宝宝面朝里贴胸
+  - **4-6 月:软结构背带 (SSC, soft structured carrier)**
+    - 有腰带和肩带,符合人体工学
+    - 仍面朝里
+  - **6 月后(能稳定坐):面朝外或背后**
+
+  ## 海蒂书 5 大益处
+  1. **方便**:父母腾手做事(做饭/带老大)
+  2. **宝宝舒适**:被抱+体温+心跳=宫内环境复刻
+  3. **父母快乐**:亲密接触刺激催产素,降低产后焦虑
+  4. **减肠绞痛**:背带里直立位 + 节奏感 = 黄金安抚
+  5. **促进发育**:宝宝看世界视角丰富,语言输入更多
+
+  ## 安全口诀 TICKS
+  | 字母 | 含义 | 中文 |
+  |------|------|------|
+  | T | Tight | 背带紧贴不松垮 |
+  | I | In view at all times | 宝宝脸始终可见 |
+  | C | Close enough to kiss | 头顶能吻到的距离 |
+  | K | Keep chin off chest | 下巴抬起不压胸 |
+  | S | Supported back | 背部得到支撑 |
+
+  ## 主要风险
+  - **气道阻塞窒息**(背带过松+下巴贴胸):
+    背带类 SIDS 实有死亡案例,新生儿期最危险。
+  - **髋关节压力**:长时间挂(>2 小时)+ 双腿垂直,
+    要选 M 形腿支撑款。
+  - **新生儿用前向硬背架**:颈部不能撑头部,易窒息。
+  - **背着做剧烈运动/骑车/烹饪热油**:撞伤/烫伤风险。
+
+  ## 与袋鼠护理 (kangaroo care) 的区别
+  - **袋鼠护理**(早产儿专项):肌肤接触医疗技术,
+    有标准化时长和方法,医院 NICU 操作。
+  - **Babywearing**:日常带娃工具,可隔衣物,
+    用专用背带,家庭场景。
+
+key_facts:
+  - 0-4 月用 wrap/sling,4 月+用 SSC
+  - 5 大益处:方便/舒适/快乐/减肠绞痛/促发育
+  - 安全口诀 TICKS
+  - 背带类 SIDS 风险真实存在
+  - 单次 ≤ 2 小时
+
+related_glossary:
+  - G-ABBR-SIDS
+  - G-TERM-skin-to-skin
+  - G-TERM-colic
+  - G-TERM-frog-leg-position
+
+related_cards:
+  - C-S1-2506      # 婴儿背带袋鼠护理 5 益处
+  - C-S1-2501      # 肠绞痛安抚 8 招
+
+sources:
+  - source_id: SRC-040
+  - external: "International Hip Dysplasia Institute babywearing safety / Babywearing International TICKS rule"
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

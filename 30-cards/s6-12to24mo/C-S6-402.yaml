@@ -1,0 +1,67 @@
+card_id: C-S6-402
+stages: [S6]
+tags: [communication, magic-word, RIE, lansbury]
+
+front:
+  title: "魔法词等:12 种用法"
+  hook: "12 场合都先等再动"
+
+back:
+  why_matters: |
+    Lansbury Ch12 — Magda Gerber 全部哲学的"魔法词":wait(等)。
+    12 种场合都该 wait:
+    1. 等运动 / 如厕 / 语言成熟
+    2. 等再打断(让宝宝继续做)
+    3. 等问题解决(挣扎 → 韧性)
+    4. 等发现(不教,自己探索)
+    5. 等观察清楚(看真在做什么)
+    6. 等冲突解决(同伴间)
+    7. 等准备好(再引入新活动)
+    8. 等理解需求(哭背后到底要什么)
+    9. 等情绪表达完
+    10. 等孩子自己出主意(不抢着提议)
+    11. 等"无聊"过去(可能是天才入口)
+    12. 等结果(放手不催)
+
+  what_to_do:
+    - 看到挣扎,数 5 秒再决定要不要介入
+    - 看孩子专注 = 不打断,等他抬眼
+    - 孩子哭 = 不秒回,先听几秒
+    - 不"我帮你" → "你试看看"
+    - 孩子说"无聊" = 不立即给方案
+
+  failure_mode: |
+    "wait 是什么都不做" → 错。
+    wait 是"清醒在场不主动",不是"缺席"。
+    或反向:wait 到孩子崩溃 → 该介入就介入。
+    Lansbury:wait 是 default,不是教条。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Lansbury
+  - G-PERSON-Gerber
+  - G-TERM-magic-word-wait
+  - G-TERM-RIE
+
+citation:
+  book_title_en: "Elevating Child Care: A Guide to Respectful Parenting"
+  book_title_zh: "尊重孩子:RIE 育儿之道"
+  authors:
+    - Janet Lansbury
+  publisher_en: JLML Press
+  year: 2014
+  location: "Ch12 A Magic Word for Parenting (And 12 Ways to Use It)"
+  source_id: SRC-019
+
+unit_ids: []
+related_cards:
+  - C-S4-295  # Lansbury 挣扎时先等
+  - C-S6-401  # Lansbury 不替孩子拧瓶盖
+  - C-S2-128  # Davies 等 3 秒再回应(蒙氏 observation 同源)
+  - C-S5-131  # Davies 不替宝宝做能做的事
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

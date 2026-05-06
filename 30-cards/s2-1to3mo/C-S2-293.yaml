@@ -1,0 +1,58 @@
+card_id: C-S2-293
+stages: [S2]
+tags: [philosophy, communication, RIE, lansbury]
+
+front:
+  title: "对宝宝说真话,不假笑"
+  hook: "累就直接说累不假装"
+
+back:
+  why_matters: |
+    Lansbury Ch1:"You don't have to smile at me when you're upset."
+    你心情糟时不必勉强对宝宝笑。
+    宝宝能察觉你的真实状态(Stern + Pikler 共识),
+    你假笑他能感觉到不一致 → 反而更焦虑。
+    诚实是 RIE 的 10 大原则之一。
+    "我现在好累 / 烦,不是你的错" — 宝宝学会的是:
+    人有真实情绪,不必压抑。
+
+  what_to_do:
+    - 你累 / 烦时直说:"妈妈现在累"
+    - 不必装"永远阳光",示范真实情绪
+    - 但要把情绪和孩子分开:"不是你的错"
+    - 哭 / 累 / 焦虑别躲,让宝宝看到大人也是人
+    - 慢慢地,宝宝学的是"情绪可以表达"
+
+  failure_mode: |
+    "我崩溃也得对宝宝笑" → 撑不住时大爆炸,反而吓到孩子。
+    或反向:"我难过就吼" — 把情绪倒在孩子身上。
+    Lansbury 区分:示范情绪 ≠ 把情绪扔给孩子处理。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Lansbury
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+  - G-TERM-respectful-parenting
+
+citation:
+  book_title_en: "Elevating Child Care: A Guide to Respectful Parenting"
+  book_title_zh: "尊重孩子:RIE 育儿之道"
+  authors:
+    - Janet Lansbury
+  publisher_en: JLML Press
+  year: 2014
+  location: "Ch1 'Trust me with the truth'"
+  source_id: SRC-019
+
+unit_ids: []
+related_cards:
+  - C-S0-116  # Lansbury 孕期心态做真实自己
+  - C-S2-127  # Davies 跟宝宝用真词不嘎嘎(同源诚实派)
+  - C-S6-138  # Davies 蒙氏父母先照顾自己
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

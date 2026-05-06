@@ -1,0 +1,44 @@
+card_id: C-S5-2156
+stages: [S5]
+tags: [mainstream, vaccine, checkup]
+
+front:
+  title: 12 月儿保+疫苗
+  hook: MMR 水痘别漏
+
+back:
+  why_matters: |
+    12 月儿保是第一年最重要的节点之一,做齐:身高体重头围、运动语言里程碑、贫血和血铅筛查、视力听力检查。前情:S4 已完成 9 月儿保。疫苗第四波密集期:MMR(麻腮风)、水痘、甲肝第一针、流脑 A+C。MMR 和水痘是减毒活疫苗,接种后 1-2 周可能轻度发热出疹,属正常反应不是过敏。
+  what_to_do:
+    - 提前预约带好疫苗本和病史
+    - 接种当天避免剧烈运动
+    - MMR 后 7-14 天可能轻度发热不慌
+    - 每年儿保跟踪生长曲线
+  failure_mode: |
+    嫌孩子打针怕受罪故意推迟疫苗,错过群体免疫窗口;或接种后发热以为是病乱用抗生素。
+  evidence_level: A
+
+glossary_refs: [G-TERM-developmental-assessment, G-ABBR-MMR, G-ABBR-Varicella]
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors:
+    - Heidi Murkoff
+    - Sharon Mazel
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh:
+    - 莫夏迪
+    - 张敏
+  location: "第 12 章第 12 个月, 页 510-518"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards: []
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

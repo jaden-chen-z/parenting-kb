@@ -1,0 +1,47 @@
+card_id: C-S7-607
+stages: [S7]
+tags: [book-selection, parents-emotion]
+
+front:
+  title: 选画册要看心
+  hook: 妈不真心娃听不进
+
+back:
+  why_matters: |
+    松田说:妈给娃读画册时,如果觉得是不好的公司发行的低级趣味书,声音语调会变得伪善。
+    娃能听出妈不真心 — 那种"假装在读"娃感觉得到。
+    选"为孩子着想的人创作的书" — 不只考虑赚钱的。
+    街上书店摆的多是"赚钱"的书,纯洁读物常没摆出来 → 妈要主动找。
+  what_to_do:
+    - 选老牌儿童文学社 / 名家译本
+    - 妈先自读 1 遍,觉好再读娃
+    - 不选周刊式快销画册
+    - 反复读经典(娃想听就读)
+    - 不强读娃不喜欢的
+  failure_mode: |
+    妈应付式读完打分"完成今日阅读" → 娃感"读书是任务",反厌读。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Matsuda
+
+citation:
+  book_title_zh: "定本《育儿百科》"
+  book_title_jp: "育児の百科(定本)"
+  authors: ["松田道雄"]
+  translators_zh: ["王少丽"]
+  publisher_zh: null
+  year: 1980
+  edition: "定本"
+  location: "第 396 节给孩子讲故事"
+  source_id: SRC-023
+
+unit_ids: []
+related_cards:
+  - C-S7-605  # 自卷:教字 vs 听故事不同
+  - C-S6-405  # Lansbury 鼓励幼儿说话:6 个真招
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

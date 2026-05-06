@@ -1,0 +1,249 @@
+source_id: SRC-022
+type: tier3-book
+tier: tier3
+
+# 注意:本 SRC 跟 SRC-021 是同一本书《Your Self-Confident Baby》(Magda Gerber 1998)
+# SRC-021 = 并行 session 完成 32 张卡(Phase 8 第一轮,聚焦 Antaeus + 红黄绿 + 哲学故事)
+# SRC-022 = 本 session 完成 49 张卡(Phase 8 第二轮深度本 + 用户深度三审,聚焦实操 + 7 大原则细化 + 中国家长高频痛点)
+# 两次产卡 ID 不冲突(SRC-021 用 IDs 316-614,SRC-022 用 IDs 167-468),subject 互补不重复
+# 用户可决定:保留两套 / 合并 / 选择其一
+
+title_en: "Your Self-Confident Baby: How to Encourage Your Child's Natural Abilities — from the Very Start"
+title_zh: "自信的宝宝:激发孩子从出生起的天生能力(深度本)"
+
+authors:
+  - Magda Gerber
+  - Allison Johnson
+
+publisher_en: John Wiley & Sons
+year: 1998
+isbn_en: "978-0-471-17883-5"
+
+language_original: en
+language_acquired: en
+
+format: pdf_to_md
+file_path: "10-sources/tier3-books/raw_pdfs/gerber_self_confident_baby.md"
+file_size_chars: 487986
+
+# 流派 + 范围
+school: RIE (Resources for Infant Educarers) — Magda 原版
+sub_school: 尊重式育儿 / Educaring
+age_coverage: 0-24 月(末章 RIE Doesn't End at Two 延伸至 24-36 月)
+
+# 跟现库的关系
+related_sources:
+  - SRC-019  # Lansbury Elevating Child Care(Magda 弟子,本卷许多原创概念在 SRC-019 复述)
+  - SRC-014  # Davies 蒙氏(姐妹流派,Yes Space 命名者就是 Magda)
+  - SRC-016  # Lillard 蒙氏 0-3(observation 共通)
+  - SRC-011  # Bowlby V1 依恋(secure attachment 一致)
+  - SRC-013  # Wonder Weeks(跃迁期 + 哭闹周对应)
+  - SRC-018  # Stern 婴儿人际世界(quality time + 全注意一致)
+
+# 跟 Lansbury (SRC-019) 的关系
+relationship_to_lansbury:
+  shared_70_percent:
+    - 真实声音(genuine voice)— Magda 原版
+    - 不打断玩(uninterrupted play)
+    - 观察 + 等(observation + wait)
+    - 真物(real things)
+    - 慢下来(slow down)
+    - 限度温柔但坚定(boundaries with respect)
+    - 不 time-out("time out of life?")
+    - 哭是语言(crying is your child's language)— Magda 原版
+    - 限度公式(I won't let you...)
+  gerber_unique_30_percent:
+    - "Educaring" 自创词(Magda 命名,合 educator + carer)
+    - **Magda 8 Basic Principles 原版**(Lansbury 扩到 10)
+    - **Antaeus 神话** = toddler tantrum 起源比喻
+    - **Yellow / Red / Green Light** 限度三色谱
+    - **Tell Before You Do**(告知再行动)— Magda 原版,Lansbury 扩展
+    - **Pikler 故事** + 罗茨 Loczy 研究院起源
+    - **Quality Time = full attention 真定义**(不是"亲子互动")
+    - **Outdoor sleep healthy**(欧洲传统,户外 crib)
+    - **Selective Attention**(护理时全注意,玩时观察)
+    - **RIE Doesn't End at Two** 全龄适用
+    - **You Don't Have to Be Perfect** 父母自我宽容
+    - **Sequencing for bedtime**(同序列哲学)
+    - **Active Participant in Caregiving** 命名(基本原则 5)
+  contrast:
+    - Magda 比 Lansbury 更"被动"(Magda 几乎不写干预,Lansbury 写了 sportscasting 干预法)
+    - Magda 是 RIE 创立人 + 哲学家;Lansbury 是 RIE 推广人 + 实操咨询师
+    - Magda 主谈 0-24 月;Lansbury 跨 0-36 月
+
+# 章节地图(8 章 + 3 大 Part)
+chapter_map:
+  ch1: { offset: 17500, body_offset: 18808, chars: ~20000, title: "Respect: The Key to Raising a Self-Confident Baby(尊重 + 8 Basic Principles)" }
+  ch2: { offset: 38254, chars: ~17000, title: "The Birth of RIE(Pikler 故事 + Loczy + DIP + RIE 起源)" }
+  ch3: { offset: 55168, chars: ~66000, title: "Your Newborn Baby ⭐⭐⭐(observation + tell before do + 真声音 + slow + 仰卧 + crying = language + can't spoil + SIDS)" }
+  ch4: { offset: 121321, chars: ~20000, title: "Newborn Parents(求助 + 做少 + 不完美也行 + 倾听不阻哭)" }
+  ch5: { offset: 141382, chars: ~95000, title: "The First Months ⭐⭐(观察精炼 + 喂奶是 QT + 长牙 + 哭变具体 + 睡眠习惯 + 安全 + 玩环境 + 模范)" }
+  ch6: { offset: 236240, chars: ~36000, title: "Selecting the Right Child Care(亲属 / 保姆 / 群托 / RIE 中心)" }
+  ch7: { offset: 272755, chars: ~70000, title: "Your Baby Becomes Mobile ⭐(里程碑 + 沟通 + 简洁玩 + 群玩 + 分离焦虑健康 + 陌生焦虑 + 慢戒奶 + 高脚椅替代)" }
+  ch8: { offset: 342804, chars: ~145000, title: "Your Budding Toddler ⭐⭐⭐(分离 + 基本信任 + I want + 好奇 + 不教 + NO + tantrum Antaeus + 撞头 + 内在自律 + 如厕 + 兄弟 + 不完美)" }
+  total_chars: 487986
+
+# Magda 7 Basic Principles 原版(Ch1) — 修正 v1.1: 原版是 7 条,Lansbury 2014 扩到 10
+gerber_7_basic_principles:
+  - 1. Basic trust in the child(信任孩子是 initiator / explorer / self-learner)
+  - 2. Environment(物理安全 + 认知挑战 + 情感滋养)
+  - 3. Time for uninterrupted play(不打断的玩)
+  - 4. Freedom to explore and interact with other infants(自由探索 + 同伴互动)
+  - 5. Involvement of child in all caregiving activities(护理时主动参与不被动接受)
+  - 6. Sensitive observation(敏感观察)
+  - 7. Consistency and clearly defined limits(一致 + 明确限度)
+lansbury_extended_3_principles:
+  - 8. Confident leaders + clear boundaries(自信领导 + 限度,2014 加)
+  - 9. Allow problem solve(让孩子自己解决,2014 加)
+  - 10. Modeling(模范是最强教育,2014 加)
+
+# verbatim 关键引言(中英对照)
+verbatim_key_quotes:
+  - en: "Refrain from interfering with."
+    zh: "不要去干扰。"
+    author: Magda Gerber (Ch1 开篇定义"尊重")
+  - en: "After all, who knows better how to be a baby than a baby?"
+    zh: "毕竟,还有谁比婴儿更知道怎么做婴儿?"
+    author: Magda Gerber (Ch3)
+  - en: "Crying is a child's language. It is her way of communicating her needs."
+    zh: "哭是孩子的语言,是她跟你沟通需求的方式。"
+    author: Magda Gerber (Ch3 Crying section)
+  - en: "If you tell your child not to cry you better set aside lots of money to send her to Primal Scream Therapy when she grows up."
+    zh: "你叫她别哭,长大后准备一笔钱送她去原始尖叫疗法吧。"
+    author: Magda Gerber (Ch3, 黑色幽默)
+  - en: "Predictability rather than novelty brings security."
+    zh: "可预测,而不是新奇,才带来安全感。"
+    author: Magda Gerber (Ch3)
+  - en: "Tantrums must run 'through' your child."
+    zh: "脾气暴发必须'穿过'孩子,你拦不住。"
+    author: Magda Gerber (Ch8 Antaeus 段)
+  - en: "Time out of what — life?"
+    zh: "Time out 出什么 — 出生命吗?"
+    author: Magda Gerber (Ch8, 反 time-out 名言)
+  - en: "Your child cannot be put on hold. Careers can."
+    zh: "孩子不能等,事业可以。"
+    author: Magda Gerber (Ch3 论母亲职业)
+
+# 跨派对照(立场不同处)
+position_contrasts:
+  vs_attachment_parenting:
+    - Gerber 反 Sears 派"全程抱"(Ch3 Touch 段)
+    - Gerber 立场:抱要带全注意,不是越多越好(quality 优于 quantity)
+  vs_distraction_school:
+    - Gerber 反"用'You're okay'否认情绪"(Ch3 Crying)
+    - Gerber 立场:听 + 承认 + 不替孩子定义情绪
+  vs_sleep_training_extremes:
+    - Gerber 反 CIO + 反"必须哄睡"(Ch3 Sleep)
+    - Gerber 立场:peaceful days → peaceful nights;不主动建立哄睡习惯
+  vs_chinese_traditional:
+    - 中国"宝宝不懂事" → Gerber 反:出生起当人 + Tell Before You Do
+    - 中国"宝宝爱哭就抱 / 转移" → Gerber 反:哭是语言,听不否认
+    - 中国"高脚椅塞食物" → Gerber 反:矮桌矮椅 + 让宝宝自己定饱
+    - 中国"奶嘴 / 摇晃哄睡" → Gerber 反:peaceful day → peaceful sleep
+    - 中国"出门偷溜避哭" → Gerber 反:Tell + 离开是健康练习
+
+# 评级标尺(本书)
+evidence_level_calibration:
+  A: Magda 跟 Tier 1 共识对齐(跟蒙氏 + Bowlby + AAP + Erikson + Lansbury 多派一致)
+  B: Magda 引用 RIE 50+ 年观察 + Pikler 罗茨研究 + RIE Center 班级案例 + 自家 3 子女
+  C: Magda 个人哲学推断
+  expected_distribution: A=23-26 / B=16-19 / C=0
+
+# 现有库的术语 / 卡片复用
+reuse_existing_glossary:
+  - G-PERSON-Gerber          # 已建,本卷主作者
+  - G-PERSON-Pikler          # 已建,Magda 师承
+  - G-PERSON-Erikson         # 已建,本卷 Ch3 引(basic trust 命名者)
+  - G-PERSON-Harlow          # 已建,本卷 Ch3 引(rhesus monkey)
+  - G-PERSON-Lansbury        # 已建,本卷弟子
+  - G-TERM-RIE               # 已建,本卷流派
+  - G-TERM-yes-space         # Davies 已建,Gerber 命名者
+  - G-TERM-sportscasting     # Lansbury 已建,实为 Magda 命名
+  - G-TERM-magic-word-wait   # Lansbury 已建,Magda 名言"wait"
+  - G-TERM-acknowledging-feelings  # 已建
+  - G-TERM-passive-toys      # 已建,Magda 概念
+  - G-TERM-respectful-parenting  # 已建,本卷流派统称
+  - G-TERM-back-sleep        # 已建,Ch3 SIDS 段
+  - G-TERM-attachment        # 已建,Ch3 段
+  - G-TERM-secure-base       # 已建
+
+# 本次新建术语(8 张)
+new_glossary_to_create:
+  - G-TERM-educaring         # ⭐ Magda 自创词(educator + carer)— RIE 名字根源
+  - G-TERM-Loczy-institute   # ⭐ Pikler 罗茨研究院 — RIE 起源地
+  - G-TERM-Antaeus-tantrum   # ⭐ Magda 命名 toddler tantrum 神话比喻
+  - G-TERM-traffic-light-limits  # ⭐ Yellow/Red/Green Light 限度三色谱
+  - G-TERM-tell-before-do    # ⭐ 告知再行动公式 — Magda 原版
+  - G-TERM-quality-time      # ⭐ Magda 真定义(全注意,非"互动")
+  - G-TERM-basic-trust       # ⭐ Erikson + Magda 共用,核心概念
+  - G-TERM-active-participant-caregiving  # ⭐ Basic Principle 5 命名
+
+# Phase 8 任务范围(预计)
+phase8_target:
+  knowledge_cards: 38-45  # 实际目标 42 张
+  glossary_cards: 7-9     # 实际 8 张
+  segments_covered: S0-S7 全
+  emphasis: S6 (12-24 月) + S1 (0-1 月) — Magda 最强段
+  id_strategy: "max + 51 buffer 起点"
+  id_starts:
+    s0: 167  # 116 + 51
+    s1: 406  # 355 + 51
+    s2: 344  # 293 + 51
+    s3: 350  # 299 + 51
+    s4: 349  # 298 + 51
+    s5: 445  # 394 + 51
+    s6: 458  # 407 + 51
+    s7: 403  # 352 + 51
+
+# 本次特别约定
+special_notes:
+  - Magda Gerber 1910-2007 是 RIE 创始人,Lansbury (SRC-019) 是其弟子
+  - 本书是 RIE 哲学的原始陈述,Lansbury 扩到博客 + 实操咨询
+  - 30% 内容跟 Lansbury 重叠 — 优先建 Magda 独有的 30%
+  - "Educaring"是 Magda 自创词,合"educator + carer",拒"caregiver / caretaker"
+  - Magda 受 Pikler 1940 年代研究影响("First Pikler Babies")
+  - 本卷英文名"Self-Confident Baby"翻译时不要改成"自信的婴儿"(Magda 反对"infant"贬义)
+  - Antaeus 神话是 Magda 跨欧洲文化传统的人文素养体现
+
+# 跟 Lansbury 卡片重叠 — 不重建清单
+overlap_with_lansbury_no_rebuild:
+  - sportscasting: SRC-019 已建 → 不重建
+  - I won't let you 公式: SRC-019 已建 → 不重建
+  - magic word wait: SRC-019 已建 → 不重建
+  - 不撑坐 8 理由: SRC-019 已建 → 不重建
+  - acknowledge feelings 是连接钥匙: SRC-019 三审补 → 不重建
+  - 0-2 不看屏: SRC-019 三审补 → 不重建(Magda 1998 年也未触及屏幕主题)
+  - sleep is un-training: SRC-019 已建 → 不重建,但补 Magda peaceful days 视角
+  - let kids be mad at you: SRC-019 已建 → 不重建
+
+unique_to_gerber_must_build:
+  - Magda 8 Basic Principles 原版(Ch1)— 跟 Lansbury 10 原则的源头关系
+  - Educaring 自创词(Ch1)— 不"caregiving"
+  - Tell Before You Do(Ch3)— Magda 原版,Lansbury 扩展
+  - 真声音不嗲嗲(Ch3 Talking)— Magda 原版
+  - Crying is Your Child's Language(Ch3)— Magda 原版命名
+  - Take It Slowly + 等(Ch3)— Magda 原版
+  - Predictability not Novelty(Ch3)— Magda 名言
+  - Place on Back maximizes movement(Ch3)— Pikler-Gerber 经典
+  - Can't Spoil with Loving Care(Ch3)— Magda 反"宠坏论"
+  - Newborn Parents 求助 + 做少 + 不完美(Ch4)— Magda 全章给新手父母
+  - Selective Attention 护理时全注意 vs 玩时观察(Ch3 + Ch5)
+  - Quality Time = full attention 真定义
+  - Modeling Behavior(Ch5)— Magda 原版命名
+  - Outdoor sleep healthy(Ch3)— 欧洲传统
+  - Separation Anxiety = Healthy Sign(Ch7)
+  - Stranger Anxiety = Healthy Sign(Ch7)
+  - Try a Table and a Chair 矮桌椅(Ch7)— Magda 反高脚椅
+  - Continuing to Build Basic Trust(Ch8 — Erikson 引)
+  - Antaeus tantrum 神话(Ch8)— Magda 经典文学比喻
+  - Headbanging 是自调节(Ch8)— 不强阻
+  - Lasting Discipline From Within(Ch8)
+  - Sequencing for bedtime(Ch8)— Magda 命名
+  - Yellow / Red / Green Light 三色谱(Ch8)— Magda 经典
+  - You Don't Have to Be Perfect(Ch8 末)
+  - RIE Doesn't End at Two(Ch8 末)— Magda 本卷收官名言
+
+language: zh
+status: completed
+created: 2026-05-03
+updated: 2026-05-03

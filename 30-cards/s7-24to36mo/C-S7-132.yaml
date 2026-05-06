@@ -1,0 +1,62 @@
+card_id: C-S7-132
+stages: [S7]
+tags: [montessori, philosophy, character, controversy]
+
+front:
+  title: 蒙氏要"性格"非"幸福"
+  hook: 现代家长正好选反
+
+back:
+  why_matters: |
+    Lillard Ch9 关键反潮流命题:
+    > "我们这代家长以**'幸福'**为目标。前几代家长以**'性格'**(character + discipline)为目标。"
+    Lillard 立场:**两者都对,但优先错了**:
+    - 真"幸福"= 来自 character + 自律 + 有意义贡献
+    - 不是来自:得到一切想要 / 一直被夸 / 没挫折
+    - 给孩子 character 才能保证一辈子的幸福
+    - 给孩子"现在的幸福"是短视现代家长为什么选"幸福"为先:
+    - 自己童年缺乏被爱 → 弥补
+    - 工作累了想看孩子开心 → 不忍心拒绝
+    - 怕孩子受挫 → 跳过教育时刻
+    - 不愿做"严"父母 → 怕孩子讨厌后果:
+    - 孩子学到"哭就能得"
+    - 长大遇真挫折崩溃
+    - 没责任感 / 没耐力 / 没自律
+    Lillard 引蒙氏培训师:**"限度由我们用爱教,或世界不带爱地教 — 二选一。"**
+    跟"快乐教育" / "孩子幸福第一"现代主流**对立**。
+  what_to_do:
+    - 优先 character + 自律,后幸福
+    - 拒绝时平静坚定
+    - 接受孩子短期不开心
+    - 别用"幸福"为短期妥协借口
+    - 长期幸福靠自律,不靠满足
+  failure_mode: |
+    "我童年缺爱,不能让孩子也这样" — 反:不是物质满足,是 character 培养。
+    一直让 → 孩子长大遇挫折崩溃,真不幸福。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Lillard
+  - G-PERSON-Jessen
+  - G-PERSON-Montessori
+
+citation:
+  book_title_zh: "蒙台梭利从 0 岁开始"
+  book_title_en: "Montessori from the Start"
+  authors: ["Paula Polk Lillard", "Lynn Lillard Jessen"]
+  authors_zh: ["宝拉·波尔克·莉拉德", "琳·莉拉德·杰森"]
+  publisher_en: "Schocken Books"
+  year_en: 2003
+  isbn_en: "978-0-8052-1112-1"
+  location: "Ch 9 · 'Developing Will' (character vs happiness)"
+  source_id: SRC-016
+
+unit_ids: []
+related_cards:
+  - C-S6-133       # Davies 温柔但清晰边界
+  - C-S6-138       # Davies 蒙氏父母先照顾自己
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

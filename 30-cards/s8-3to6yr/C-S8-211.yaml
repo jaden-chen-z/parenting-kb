@@ -1,0 +1,69 @@
+card_id: C-S8-211
+stages: [S8]
+tags: [shonkoff, nrc, neighborhood_poverty, family_resources]
+
+front:
+  title: "贫困是慢性应激源"
+  hook: "穷家娃皮质醇偏高"
+
+back:
+  why_matters: |
+    NRC 综述 Ch 10 + Ch 12 给"贫困对发展的机制":
+    **NRC 综合数据**:
+    - 贫困不是"缺钱"而是**慢性应激**
+    - 慢性应激 → cortisol 长期高 → 海马受损 + PFC 发育受阻
+    - 贫困累积 ≥ 2 个风险因子(经济 / 健康 / 暴力 / 抑郁) → 发育显著恶化
+    - 单一风险因子(eg 单亲)→ 影响小
+    **5 个机制**:
+    1. 育儿质量降(妈妈累 / 抑郁 → 敏感度降)
+    2. 父母语言量降(30M words gap)
+    3. 营养 / 健康差(胎儿期开始)
+    4. 邻里暴力 / 不安全环境
+    5. 早期干预服务难获取
+    **NRC 立场**:
+    - 不是"穷家娃天生差" — 是**慢性应激累积**
+    - 单一干预效用有限 — 需多重支持
+    - 解贫不只解钱 — 解关系 / 健康 / 安全
+    **对中国家长**:
+    - 中产家庭基本不属"贫困应激"范围 — 别滥用
+    - 但**多重压力**(妈抑郁 + 经济紧 + 婚姻冲突 + 长期出差)→ 累积应激高
+    - 单一压力可承受 — 多重压力需求助
+    - 二三线家庭低收入但低应激 → 不一定坏
+    - 一线家庭高收入但多重压力 → 也可能高应激
+    - **关键看应激累积不看收入**
+  what_to_do:
+    - 看应激累积不看收入
+    - 解多重压力优先
+    - 妈抑郁早治
+    - 二三线低应激 OK
+    - 别"穷养富养"假问题
+  failure_mode: |
+    "我家穷孩子完了" — 错,关键看应激累积不看绝对收入。
+    "我家有钱 — 孩子肯定好" — 错,高收入 + 多重压力(忙 / 焦虑 / 婚姻冲突)= 高应激。
+    "我穷养锻炼孩子" — "穷养"不是慢性应激暴露,跟 NRC 贫困定义不同。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Shonkoff
+  - G-TERM-cortisol
+  - G-TERM-NRC
+
+citation:
+  book_title_en: "From Neurons to Neighborhoods"
+  authors: ["Jack P. Shonkoff", "Deborah A. Phillips"]
+  org: "NRC/IOM"
+  year_en: 2000
+  location: "Ch 10 + 12 · Family resources and poverty effects"
+  source_id: SRC-025
+
+unit_ids: []
+related_cards:
+  - C-S3-809    # Shonkoff cortisol(本卷)
+  - C-S2-806    # Shonkoff 妈妈抑郁(本卷)
+  - C-S6-926    # Shonkoff 30M words(本卷)
+  - C-S5-086    # Bowlby V2 应激分离 SRC-012
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

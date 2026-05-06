@@ -1,0 +1,53 @@
+card_id: C-S2-2300
+stages: [S2, S3, S4, S5]
+tags: [safety, red_flag, medicine, mainstream]
+front:
+  title: 退烧药对乙酰氨基酚 vs 布洛芬选择 + 阿司匹林禁忌
+  hook: 婴儿绝对不能吃阿司匹林 — 海蒂讲清楚 2 选 1 怎么选。
+back:
+  why_matters: |
+    Phase B+C 已盖"2-6 月发烧 38°C 找医生"+"退烧三步:轻穿+多水+用药",
+    但海蒂详解的"对乙酰氨基酚 vs 布洛芬怎么选"完全没卡。
+    中国家长高频痛点:
+    - 老人常推荐"阿司匹林泡水喝"→ 雷氏综合征风险(肝/脑致命紊乱)
+    - 给婴儿用大人成人型布洛芬 → 剂量过量
+    - "联合用药"两种交替给 → 海蒂明确不推荐(易过量)
+    海蒂数据具体:
+    - 对乙酰氨基酚:每 4-6 小时一次,各种剂型(滴液/糖浆/栓剂/粉剂)
+    - 布洛芬:每 6-8 小时一次,药效更强持续更久,但仅 6 月+
+    - 阿司匹林:儿童任何感染都禁,除非医生明确指定
+  what_to_do:
+    - 6 月以下:只用对乙酰氨基酚滴液(婴儿用泰诺林)
+    - 6 月以上:可选布洛芬(摩特灵/艾德维尔),但宝宝脱水/呕吐/腹痛绝不能用
+    - 看体重不看年龄给剂量,严格按药品说明书
+    - 用药品自带的剂量勺/滴管/注射器,不要用厨房勺
+    - 宝宝呕吐严重不能口服 → 用对乙酰氨基酚栓剂(海蒂明确推荐)
+    - 不要交替两种药:增加剂量记录混乱风险
+    - 任何持续发烧不退 24 小时 → 找医生,不是加大剂量
+  failure_mode: |
+    常见错误:
+    - 给宝宝阿司匹林 → 雷氏综合征(致命)
+    - 用对乙酰氨基酚同时吃含对乙酰氨基酚的复方感冒药 → 双倍过量,肝衰竭
+    - 6 月内用布洛芬 → 海蒂明确禁忌
+    - 退烧不下就加大剂量 → 必须找医生
+    - 把退烧药当"预防发烧"长期吃 → 肝肾损伤
+  evidence_level: A
+glossary_refs: []
+citation:
+  publisher_en: "Workman Publishing"
+  source_id: SRC-040
+  book_title_en: What to Expect the First Year
+  book_title_zh: 海蒂育儿大百科 0-1 岁
+  authors: ["Heidi Murkoff", "Sharon Mazel"]
+  publisher_zh: 南海出版公司
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh: [莫夏迪, 张敏]
+  chapter: Part 6 Ch 18 生病的宝宝 sidebar
+  page_zh: 537-538
+related_cards: [C-S2-2107, C-S0-2500]
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

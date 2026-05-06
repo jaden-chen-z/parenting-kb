@@ -1,0 +1,94 @@
+glossary_id: G-TERM-joint-attention
+type: term
+display_name: 共同注视 (joint attention)
+
+full_name_zh: 共同注视 / 共同注意
+full_name_en: Joint Attention
+
+one_liner: |
+  6-9 月起出现的"宝宝跟你同时看一个东西"能力 — 是 ToM 早期表现 + 自闭症筛查关键标志。
+  18 月不会跟眼神 / 不会指物 = 红旗信号,需就医筛查。
+
+detail: |
+  ## 定义
+  宝宝和大人**同时**关注同一个物体的能力 — 不只是被动跟随,
+  是**主动共享注意力**:"我们都在看这个,我们想的是同一回事"。
+
+  ## 发展阶段
+
+  ### 6-9 月:跟随眼神
+  - 妈妈看哪宝宝也看哪
+  - 跟随眼神方向(尚不跟手指)
+
+  ### 9-12 月:跟随手指
+  - 妈妈指哪宝宝看哪
+  - 比眼神更明显的"指引"
+
+  ### 12-15 月:主动指物
+  - 宝宝**自己**指物给大人看
+  - "妈妈你看这个!"
+  - 这是关键里程
+
+  ### 18 月:命名 + 指物配合
+  - 边指边问"what's that?"
+  - 跟 fast mapping 配合达成命名爆发
+
+  ## 重要意义
+
+  ### 1. ToM 早期表现
+  - "我们都在看同一个东西"= 推断他人注意力
+  - 是 social referencing(C-S5-180)的前身
+  - 是 fast mapping(G-TERM-fast-mapping)的前提条件
+
+  ### 2. 自闭症筛查关键标志
+  - 18 月不会**跟你看同一处** = 红旗
+  - 18 月不会**主动指物分享** = 红旗
+  - M-CHAT 自闭症筛查工具核心条目
+  - 早期介入窗口:18-30 月
+
+  ### 3. 语言学习引擎
+  - 没 joint attention 就没 fast mapping
+  - 你看着苹果说"苹果"才有效;你看手机说"苹果"无效
+
+  ## 中国家长意义
+
+  ### 操作建议
+  - 6-9 月起多玩"看那里"游戏(指 + 看 + 命名)
+  - 自己少看手机 — 你的注意力是宝宝模板
+  - 跟随宝宝视线说话(他看什么你说什么)
+  - 命名时**眼神 + 手指 + 词** 三同步
+
+  ### 红旗信号
+  - 18 月不会 joint attention → 找儿保医生筛查
+  - 不要"再等等" — 自闭症早期介入窗口窄
+
+  ## 跟其他术语关系
+  - **Theory of Mind**:joint attention 是 ToM 早期表现
+  - **Social Referencing**:1 岁起的 ToM 进阶
+  - **Fast Mapping**:依赖 joint attention 锚定词义
+  - **Imitation**:跟模仿一起构成婴儿社交认知双引擎
+
+key_facts:
+  - 6-9 月起出现的共享注意力
+  - 18 月不会 = 自闭症红旗
+  - ToM 早期表现
+  - fast mapping 的前提条件
+  - 跟随眼神 → 跟随手指 → 主动指物三阶段
+
+related_glossary:
+  - G-PERSON-Gopnik
+  - G-PERSON-Meltzoff
+  - G-TERM-theory-of-mind
+  - G-TERM-fast-mapping
+  - G-TERM-imitation
+
+related_cards: []
+
+sources:
+  - source_id: SRC-015
+  - external: Tomasello / Carpenter joint attention studies
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

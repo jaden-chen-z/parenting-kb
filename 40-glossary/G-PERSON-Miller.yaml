@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Miller
+type: person
+display_name: "Miller(佩吉·米勒)"
+
+full_name_en: "Peggy J. Miller"
+full_name_zh: "佩吉·米勒"
+
+position: |
+  University of Illinois 演讲传播系
+
+contribution: |
+  叙事 + 文化心理学 + Shweder 共著
+
+one_liner: |
+  佩吉·米勒 — 叙事 + 文化心理学 + Shweder 共著
+
+key_facts:
+  - "本卷章节:Ch 13"
+  - "Lerner V1 命中:50+ 次"
+  - "学派:Lerner V1 文化心理学派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+    chapter: "Ch 13"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

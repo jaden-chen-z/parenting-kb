@@ -1,0 +1,53 @@
+card_id: C-S6-1509
+stages: ['S6']
+tags: ['philosophy', 'lerner_v1', 'elder', 'timing']
+
+front:
+  title: "同事不同岁影响别"
+  hook: "时机决定影响大小"
+
+back:
+  why_matters: |
+    Elder timing 原则 — 同样事件在不同生命阶段影响完全不同。
+    1-2 岁阶段经历 —
+    - 父母离婚 → 影响远大于 10 岁(依恋系统正在形成)
+    - 长期分离(父母外地工作)→ 影响远大于 5 岁
+    - 严重疾病 → 影响远大于 7 岁
+    - 入托 → 1.5 岁前可能太早,2 岁后较好意义 — 中国家庭常忽视 timing — "她还小不记事" 立场 → 错。
+    1-2 岁正在打依恋 + 神经回路基础,任何重大事件影响放大 5-10 倍。
+    另一方面 — 父母不必所有事 "等娃大了再做" — 自己人生也有 timing。
+    关键 — 知道 1-2 岁特别脆弱,重大事件尽量推迟。
+  what_to_do:
+    - "1-2 岁尽量稳定(避免大变动)"
+    - "'她还小不记事' 是错觉(神经层记)"
+    - "入托避免 1.5 岁前"
+    - "父母分离 / 离婚等重大事 timing 重要"
+    - "timing 决定影响大小"
+  failure_mode: |
+    "她还小不记事"立场 — 错。1-2 岁神经层会记住影响。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Elder
+  - G-TERM-life-course-theory
+  - G-TERM-timing-principle
+
+related_cards:
+  - C-S0-1529
+  - C-S0-1530
+  - C-S6-822
+  - C-S2-549
+
+citation:
+  source_id: SRC-030
+  source_title: "Handbook of Child Psychology Vol 1: Theoretical Models of Human Development"
+  chapter: "Ch 12 Elder & Shanahan"
+  chapter_offset: 3637709
+  chapter_title: 'Elder & Shanahan — Life Course Theory'
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_followup_needed: 'SRC-030 用 PDF 字节偏移代页码 — 待加 page_pdf 反查工具'

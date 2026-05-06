@@ -1,0 +1,77 @@
+card_id: C-S8-764
+stages: [S8]
+tags: [classroom, blumenfeld, PBL, lerner_v4]
+
+front:
+  title: PBL 项目式学习
+  hook: PBL 项目式学
+
+back:
+  why_matters: |
+    Blumenfeld-Marx-Harris V4 Ch 8(PBL 项目式学习)。
+    **Project-Based Learning(PBL)4 大特征**:
+    - **真实问题**:"我们小区的水从哪来"
+    - **跨学科**:语言 + 数学 + 科学 + 艺术整合
+    - **成果输出**:演示 / 海报 / 视频 / 报告
+    - **协作**:小组合作 + 反思
+    **反传统课堂**(本章批判):
+    - ❌ 单一学科分割(语数英分开)
+    - ❌ 只听老师讲(被动接收)
+    - ❌ 只考试评价(单一评价)
+    - ❌ 个人任务(失去协作)
+    **RCT 证据**(Marx + Krajcik 2004):
+    - PBL vs 传统课堂
+    - 学业:相当或更好
+    - 但**思维 + 协作 + 解决问题**显著强
+    - 学生 engagement 高
+    **5-7 岁版本 PBL**:
+    - 简单项目(种豆 + 观察 + 报告)
+    - 1-2 周
+    - 老师 facilitator + 学生主导
+    - 中国"主题幼儿园"做对了 PBL 部分
+    **反 3 误区**:
+    - ❌ "PBL = 不教知识"(知识在项目中)
+    - ❌ "课时不够"(PBL 是高效)
+    - ❌ "考不出来"(评价方式不同)
+    跟现库:跟 V4 Blumenfeld TARGET(C-S8-737)+ Lehrer 探究式(C-S8-734)+ De Corte 数学(C-S8-733)对接。
+    对中国家长意义:
+    - 选幼儿园 / 小学看是否有 PBL
+    - 在家做小项目(种豆 / 测量 / 观察)
+    - 评价不只看考试
+    - PBL ≠ 不学知识
+  what_to_do:
+    - 选学校看 PBL
+    - 在家做小项目
+    - 评价不只看考试
+    - PBL ≠ 不学知识
+  failure_mode: |
+    "PBL = 不教"— 错。知识在项目中。
+    "课时不够"— 错。PBL 高效。
+    "考不出"— 错。评价方式不同。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Blumenfeld
+  - G-TERM-TARGET-framework
+  - G-TERM-classroom-motivation
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 4 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 4 卷"
+  authors: ['Phyllis C. Blumenfeld', 'Ronald W. Marx', 'Christopher J. Harris']
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 8 · Blumenfeld · Project-based learning · pp. 315-330"
+  source_id: SRC-029
+
+unit_ids: []
+related_cards:
+  - C-S8-737     # V4 TARGET 6 维
+  - C-S8-734     # V4 Lehrer 探究式
+  - C-S8-733     # V4 De Corte 数学
+  - C-S0-619     # Shonkoff NRC 综述
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

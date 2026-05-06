@@ -1,0 +1,56 @@
+card_id: C-S5-086
+stages: [S5, S6, S7]
+tags: [coping_strategy]
+
+front:
+  title: 分离时玩偶毯子价更高
+  hook: 紧抱熟物 = 心理急救
+
+back:
+  why_matters: |
+    Bowlby 第二卷专门指出:**所有寄宿幼儿园的孩子,除了一个之外,都从家里带了一个喜欢的客体**。
+    分离最初 3 天他们紧抱不放,一旦护士不小心拿走会立刻崩溃。这不是"恋物癖" —
+    Vol 1 中 Winnicott 已经把这类物品命名为**过渡性客体(transitional object)**,
+    Vol 2 用大量实证证实:在分离场景下,这些物品的安抚作用**直接顶替妈妈的部分功能**。
+    机制:熟悉的气味 + 触感 = 妈妈在场的"心理代偿"。
+    重要观察:孩子还会**复杂矛盾地对待**这些物品 — 一会儿紧抱一会儿摔扔
+    (像 18 个月幼儿"我把布娃娃当妈,但我也愤怒"的双重表达)。
+  what_to_do:
+    - 短暂分离也带 ≥ 1 件熟悉物品(毯子 / 玩偶 / 妈妈衣服)
+    - 物品别洗干净,妈妈味道是关键
+    - 看到孩子摔打玩偶别没收,这是情绪释放
+    - 入园 / 住院 / 寄养 = 必带过渡性客体
+    - 物品上写名字 + 联系方式,丢失等于二次创伤
+  failure_mode: |
+    "去外婆家就别带这破毯子,丢了费事" — 恰恰相反,丢了的话分离伤害立刻翻倍。
+    "玩偶天天和孩子睡不卫生,定期换" — 旧物的"妈味"价值远高于卫生考量;清洁可以擦不可水洗。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Bowlby
+  - G-TERM-transitional-object
+  - G-TERM-attachment
+
+citation:
+  book_title_zh: "依恋三部曲 · 第二卷:分离"
+  book_title_en: "Attachment and Loss · Volume 2: Separation"
+  authors: ["John Bowlby"]
+  authors_zh: ["约翰·鲍尔比"]
+  translators_zh: ["汪智攀", "王婷婷"]
+  publisher_zh: "世界图书出版有限公司北京分公司"
+  year_en: 1973
+  year_zh: 2017
+  isbn: "978-7-5192-2926-9"
+  location: "第一章人类悲伤的原型(所有幼儿,除了一个孩子,都从家里带了一个他们喜欢的客体到幼儿园。在最开始的三天左右,他们会紧紧地抱着自己的客体)"
+  source_id: SRC-012
+
+unit_ids: []
+related_cards:
+  - C-S5-076      # Vol 1 抱毯子玩偶不是怪癖(过渡性客体)
+  - C-S6-082      # 分离反应 3 阶段
+  - C-S7-034      # Robertson 5 招
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

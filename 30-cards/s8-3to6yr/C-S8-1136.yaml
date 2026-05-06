@@ -1,0 +1,53 @@
+card_id: C-S8-1136
+stages: ['S8']
+tags: ['philosophy', 'lerner_v1', 'lerner', 'PYD', 'character']
+
+front:
+  title: "品格是道德加责任"
+  hook: "不只听话才是品格"
+
+back:
+  why_matters: |
+    Lerner V1 Ch 16 PYD 中 Character(品格)— 不是简单"听话",是道德判断 + 责任感 + 价值观一体。
+    3-6 岁 Character 形成关键期 —
+    - 道德判断(Smetana 4 类规则:道德 / 习俗 / 个人 / 谨慎)
+    - 责任感(从小事开始 — 收玩具 / 穿衣服 / 喂宠物)
+    - 价值观(父母示范是核心,说教效果差)
+    中国家长常把"听话"当 character — 错。听话是 obedience,不是 character。
+    PYD character 是孩子内化的判断力,不是被动服从。
+    意义 — 培养 character 的方式不是"训" — 是 "示范 + 讨论 + 容许犯错 + 反思"。
+  what_to_do:
+    - "区分 character vs obedience(后者不是目标)"
+    - "道德判断 — 用 Smetana 4 类规则讨论"
+    - "责任感 — 小事(收玩具 / 喂宠物)"
+    - "价值观 — 父母示范 > 说教"
+    - "容许犯错 + 反思 = character 形成"
+  failure_mode: |
+    把"听话"当 character — 错。PYD:character 是内化判断,不是服从。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Lerner
+  - G-PERSON-Smetana
+  - G-TERM-positive-youth-development
+  - G-TERM-5C-framework
+
+related_cards:
+  - C-S0-1522
+  - C-S8-330
+  - C-S8-325
+  - C-S6-1078
+
+citation:
+  source_id: SRC-030
+  source_title: "Handbook of Child Psychology Vol 1: Theoretical Models of Human Development"
+  chapter: "Ch 16 Lerner PYD"
+  chapter_offset: 4891805
+  chapter_title: 'Lerner / Benson / Scales / Hamilton / Sesma — Positive Youth Development'
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_followup_needed: 'SRC-030 用 PDF 字节偏移代页码 — 待加 page_pdf 反查工具'

@@ -1,0 +1,179 @@
+source_id: SRC-023
+title: "定本《育儿百科》"
+title_jp: "育児の百科(定本)"
+title_en: "Childcare Encyclopedia (Definitive Edition)"
+org: null
+source_type: book
+url: null
+doi: null
+isbn_jp: null
+isbn_zh: null
+tier: 3
+language: zh  # 中译本
+paywall: false
+captcha: false
+accessed: 2026-05-03
+fetch_method: user_provided_pdf_text_extract
+local_file: ../raw_pdfs/matsuda_yuer_baike.md
+file_size_bytes: 1945984
+
+metadata:
+  authors_jp:
+    - 松田道雄
+  authors_zh:
+    - 松田道雄
+  translators_zh:
+    - 王少丽
+  publisher_zh: null  # 中译本出版方未在 PDF 元数据中确认
+  year_jp_first: 1967  # 初版
+  year_jp_definitive: 1980  # 定本
+  year_zh: null
+  word_count_zh: 679703  # 实测中文字符
+  total_sections: 410  # 全书条目数(估算 0-3 岁覆盖)
+
+# 作者背景
+author_credentials:
+  matsuda_michio:
+    role_jp: "京都大学医学部毕业 / 京都开业儿科医生 / 育儿评论家"
+    nationality: "日本"
+    life_dates: "1908-1998"
+    expertise: "儿科临床 50+ 年 / 反战和平主义者 / 日本战后育儿启蒙"
+    note: "日本国民级育儿百科作者,1967 年初版,1980 年定本,影响日本三代家长。中文译本进入中国后成为中文家长熟悉的非西方育儿权威之一。"
+    style: "临床观察 + 反权威 + 反统计标准压迫 + 重个体差异"
+
+# 跟现有 14 本的关系
+position_in_kb:
+  cross_validation:
+    - source_id: SRC-011  # Bowlby V1
+      relationship: "松田反'哭出习惯'立场 = Bowlby 安全依恋的临床直觉版(松田不引依恋理论但实践一致)"
+    - source_id: SRC-003  # Karp
+      relationship: "Karp 5S 安抚 = 松田'抱孩子是回应不是宠坏'的工具版"
+    - source_id: SRC-019  # Lansbury
+      relationship: "Lansbury RIE 承认情绪 = 松田'哭是婴儿唯一交流手段'的现代化"
+    - source_id: SRC-009  # 鲍秀兰
+      relationship: "鲍秀兰中国早教 + 松田日本育儿百科 = 东亚同辈对照(松田1967 / 鲍秀兰当代)"
+    - source_id: SRC-010  # Brazelton
+      relationship: "Brazelton 美式临床触点 + 松田日本临床条目 = 跨文化育儿权威对照"
+    - source_id: SRC-007  # AAP
+      relationship: "AAP 母乳立场 + 松田母乳科学论证 = 1980 日本临床先于 AAP 系统化"
+  philosophical_alignment:
+    - "反'哭出习惯'(cry-it-out)派 — 跟 Bowlby/Karp/Lansbury 一致"
+    - "反'要抱坏习惯'传统观念 — 上年纪人忠告 vs 临床证据"
+    - "反'统一标准'压迫 — 出生体重 / 食量 / 增重曲线 应灵活"
+    - "母乳至上 + 给食量小 / 母乳不足母亲科学补救路径"
+    - "父亲不只'帮忙' — 戒烟 + 进入育儿核心"
+
+# Fallback 说明
+fallback_note: |
+  Phase 9 原计划 Mary Ainsworth《Patterns of Attachment》(1978) — OCR 缺,按用户预设
+  fallback 优先级 (a) 松田道雄《育儿百科》。已激活松田 fallback 路径。
+  影响:Ainsworth Strange Situation / A-B-C-D 4 类 / 母敏感度 4 量表 等独有命题不在本卷,
+  保留给未来 SRC-024 Ainsworth(OCR 备齐后单独立卷)。
+  本卷核心价值改为:日本临床派 + 反传统育儿迷思 + 中国家长熟悉度高的权威。
+
+# 松田 8 大独有命题(本卷主线)
+matsuda_unique_themes:
+  m1_anti_cry_habit:
+    title: "反'哭出习惯'立场 ⭐⭐⭐"
+    note: "20 人有 1 个爱哭婴儿是天生 + 老年人'抱坏习惯'忠告是错的 + 不抱让其哭可能引疝"
+    sections: [100, 111, 112]
+    cards_planned: ["C-S2-XXX 反哭出习惯", "C-S2-XXX 20人1爱哭婴儿"]
+  m2_breast_supremacy:
+    title: "母乳至上 + 不足补救科学路径 ⭐⭐"
+    note: "母乳铁吸收 50% / 牛奶 < 50% + 母乳脂肪自我调节防胖 + 母乳是连接非营养"
+    sections: [33, 36, 37, 78, 95]
+    cards_planned: ["C-S0-XXX 母乳科学论证", "C-S1-XXX 母乳不足补救"]
+  m3_anti_weight_obsession:
+    title: "反'标准体重'压迫 ⭐⭐"
+    note: "出生体重幅度大 + 战前征兵分等思想批判 + 食量小婴儿是健康状态"
+    sections: [66, 67, 96]
+    cards_planned: ["C-S1-XXX 反体重焦虑", "C-S2-XXX 食量小是健康"]
+  m4_father_role:
+    title: "父亲不只'帮忙' ⭐⭐"
+    note: "核心家庭时代父亲必学家务 + 父亲戒烟(丹麦研究低体重 / 英国研究支气管炎)"
+    sections: [21, 58, 75]
+    cards_planned: ["C-S0-XXX 父亲戒烟硬指标", "C-S0-XXX 父亲进核心家庭"]
+  m5_sibling_trauma:
+    title: "兄弟姐妹精神创伤 ⭐⭐"
+    note: "2 岁孩子用塑料袋使 50 天婴儿窒息案例 + 妈妈先慰劳大宝再喂奶"
+    sections: [48]
+    cards_planned: ["C-S1-XXX 兄弟姐妹创伤防"]
+  m6_weaning_flexibility:
+    title: "断奶量灵活 ⭐⭐"
+    note: "6-7 月主食仍奶 + 米粥 100g 52 千卡 vs 牛奶 100g 80 千卡 + 反食谱拘泥"
+    sections: [212, 237, 255]
+    cards_planned: ["C-S4-XXX 断奶量灵活", "C-S4-XXX 米粥不如牛奶"]
+  m7_air_bath:
+    title: "空气浴 + 渐进锻炼日式传统 ⭐"
+    note: "日式换尿布无意中空气浴 + 现代暖气房需有意空气浴 + 婴儿体操"
+    sections: [82, 99, 127]
+    cards_planned: ["C-S2-XXX 空气浴日式锻炼"]
+  m8_collective_care:
+    title: "集体保育优质标准 ⭐⭐"
+    note: "1:3 保育员比婴儿 + 仅收 0-1 岁 + 反事故防范取代教育导向"
+    sections: [115, 116, 117, 118]
+    cards_planned: ["C-S2-XXX 优质保育园标准"]
+
+# 段映射(预估 38 张)
+section_to_segment_map:
+  S0_pregnancy:
+    matsuda_sections: "1-22"
+    cards_planned: 3
+    focus: ["父亲戒烟", "父亲进核心家庭", "母乳科学论证孕期决策"]
+    id_start: 367  # max + 50 buffer
+  S1_newborn:
+    matsuda_sections: "29-92"
+    cards_planned: 5
+    focus: ["反体重焦虑", "母乳不足补救", "兄弟姐妹创伤防", "黄疸警戒", "未成熟儿出院"]
+    id_start: 609
+  S2_1to3mo:
+    matsuda_sections: "93-144"
+    cards_planned: 4
+    focus: ["反哭出习惯", "20人1爱哭婴儿", "食量小是健康", "空气浴日式"]
+    id_start: 546
+  S3_3to6mo:
+    matsuda_sections: "145-210"
+    cards_planned: 4
+    focus: ["果汁喂法时机", "婴儿体操", "湿疹分型", "睡眠节律建立"]
+    id_start: 551
+  S4_6to9mo:
+    matsuda_sections: "211-270"
+    cards_planned: 5
+    focus: ["断奶量灵活", "米粥不如牛奶", "夜间喂奶停", "断奶第2月夏天食欲低", "动物性蛋白"]
+    id_start: 550
+  S5_9to12mo:
+    matsuda_sections: "271-322"
+    cards_planned: 5
+    focus: ["孩子运动机能", "喂养转吃饭", "脱奶瓶节奏", "1岁游戏发展", "1岁前体检"]
+    id_start: 648
+  S6_12to24mo:
+    matsuda_sections: "323-378"
+    cards_planned: 7
+    focus: ["反早教焦虑", "如厕训练时机", "1岁半语言爆发", "脾气抗拒", "保育园选择", "走路晚不焦虑", "断母乳时机"]
+    id_start: 666
+  S7_24to36mo:
+    matsuda_sections: "379+"
+    cards_planned: 5
+    focus: ["集体生活预备", "讲故事不教字", "性别教育", "孩子争吵不介入", "3 岁神话破除"]
+    id_start: 604
+
+# Evidence level 校准(松田作为日本临床权威)
+evidence_level_calibration:
+  A_level: "松田 50 年临床观察 + 跟现代多源(Bowlby/Karp/AAP/Lansbury)立场一致 → A 级"
+  B_level: "松田个人临床判断 + 单源支持 → B 级"
+  C_level: "松田 1980 时代论断 + 现代有部分修正(如某些营养建议) → C 级"
+  estimate: "A 占 50-60%(反 cry-it-out 等命题跟现代 RIE/依恋派一致)"
+
+# 工程注记
+engineering_notes:
+  ocr_quality: "高 — 中文 PDF 文字版,pdftotext 直接提取,无 OCR 错"
+  file_format: "1.95 MB markdown(23520 行 / 679703 中文字符)"
+  navigation_strategy: "Python re.finditer 找章节标题第二处出现(跳过目录)"
+  chapter_density: "条目编号 1-410 跨 0-3 岁全段,平均每段 50+ 条目"
+
+referenced_by_units: []
+referenced_by_cards: []  # 完成后回填
+
+status: in_progress
+created: 2026-05-03
+updated: 2026-05-03

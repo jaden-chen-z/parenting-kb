@@ -1,0 +1,63 @@
+card_id: C-S8-421
+stages: [S8]
+tags: [cognitive_science, naive_biology, carey, lerner_v2]
+
+front:
+  title: 朴素生物学 7 岁前是混沌
+  hook: 植物到 10 岁才归活物
+
+back:
+  why_matters: |
+    Carey 1985 + Hatano/Inagaki 1994(Lerner V2 Ch16 Gelman/Kalish)。
+    儿童朴素生物学(naive biology)发展:
+    - **3-4 岁**:把"会动"当"活" → 玩具车 = 活,植物 = 不活
+    - **5-7 岁**:"自启动"才活 → 玩具车 - 不活,但植物仍未进
+    - **7-10 岁**:概念革命 — 植物归"活物"(跟动物 + 人同类)
+    - **10+ 岁**:稳定"生物学"概念(基因 / 繁殖 / 代谢)
+    意义:
+    - 不是渐进的"加细节" — 是质变(Carey 概念革命典型案例)
+    - 跨文化:日本 / 美国 / 中国孩子都经过类似过程
+    - 中国孩子经验上把植物当装饰,可能延迟此革命跟现库:跟 Carey 概念革命(C-S7-1096)+ Mandler 知觉 vs 概念(C-S7-1097)对接。
+    Lerner V2 综述给跨文化数据。
+    对中国家长意义:
+    - 4 岁孩子说"植物不是活" = 正常(不是无知)
+    - 不要急纠正 — 让革命自然发生
+    - 多接触植物(种花 / 养)促概念革命
+    - 7-10 岁讨论"植物会长大,跟人一样"
+  what_to_do:
+    - 4-7 岁多接触植物(看 + 触 + 种)
+    - 不急用"科学概念"教(光合作用太早)
+    - 讨论植物变化(种 → 发芽 → 长大)
+    - 7+ 岁讨论"植物 vs 动物 vs 人"分类
+  failure_mode: |
+    "4 岁说植物不是活物 = 笨" — 错。普遍现象。
+    "急纠正能加速" — 错。概念革命有顺序。
+    "中国孩子不重视植物 = 永远不懂" — 不至于,但可能延迟。
+  evidence_level: B
+
+glossary_refs:
+  - G-TERM-baby-scientist
+  - G-PERSON-Carey
+  - G-TERM-conceptual-revolution
+  - G-TERM-naive-biology
+  - G-PERSON-Mandler
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 2 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 2 卷"
+  authors: ["Susan A. Gelman", "Charles W. Kalish"]
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 16 · Naive biology · pp. 705-712"
+  source_id: SRC-028
+
+unit_ids: []
+related_cards:
+  - C-S7-1096     # Carey 概念革命
+  - C-S7-1097     # Mandler 知觉 vs 概念
+  - C-S8-420       # Sally-Anne
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

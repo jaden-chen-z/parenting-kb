@@ -1,0 +1,36 @@
+card_id: C-S3-2253
+stages: [S3]
+tags: [safety, gear, motor, red_flag]
+front:
+  title: 学步车 AAP 已禁,固定式 30 分钟
+  hook: 每年上千起头外伤
+back:
+  why_matters: |
+    娃 5-7 月渴望移动但还不会爬,父母想用学步车救场——这是育儿陷阱重灾区。
+    海蒂引 AAP 数据:轮式学步车每年导致上千起需要治疗的头外伤(主要是楼梯跌落),AAP 已对所有移动学步车的生产销售商发布禁令。研究还显示:大量用学步车的娃,坐爬走的发育反而更晚。
+  what_to_do:
+    - 永远不买轮式学步车(AAP 禁)
+    - 必须移动用 ExerSaucer 固定式
+    - 固定式每天不超过 30 分钟
+    - 没有固定式就让娃趴地多爬
+    - 楼梯口装栏门防移动器具滚落
+  failure_mode: 网购老款轮式学步车,娃在厨房滚到楼梯口翻车,头骨骨折或牙齿撞掉,后悔莫及。
+  evidence_level: A
+glossary_refs: [G-ABBR-AAP]
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors: ["Heidi Murkoff", "Sharon Mazel"]
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh: ["莫夏迪","张敏"]
+  location: "第 9 章 《第 5 个月》, 页 331-333"
+  source_id: "SRC-040"
+related_cards: [C-S3-2252, C-S3-2254]
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

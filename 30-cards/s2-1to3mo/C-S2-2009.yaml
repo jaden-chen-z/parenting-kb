@@ -1,0 +1,52 @@
+card_id: C-S2-2009
+stages: [S2]
+tags: [safety, red_flag, gap_g9_filled]
+
+front:
+  title: 疫苗后 7 大红旗:出现立即送医
+  hook: 任一条 → 立刻打电话
+
+back:
+  why_matters: |
+    疫苗严重反应非常罕见,但海蒂列出 7 条必须立即联系医生的红旗症状。
+    打疫苗后 2 天内任意一条出现 → 不犹豫不百度,直接电话儿科 / 急诊。
+    医生还要把案例上报美国 VAERS(疫苗不良事件报告系统),每一例都帮未来风险下降。
+  what_to_do:
+    - "高烧 > 40 度"
+    - "持续大哭 ≥ 3 小时"
+    - "抽搐(通常发烧引起,但不能赌)"
+    - "7 天内行为/性格明显变化"
+    - "过敏反应:嘴/脸/喉肿,呼吸难,皮疹"
+    - "精神萎靡 / 无反应 / 嗜睡"
+    - "注射部位剧烈红肿超 48h 不退"
+  failure_mode: |
+    "等明天再说" — 过敏反应/嗜睡 4-6 小时窗口可恶化。
+    只用退烧药压症状不报告 — 隐藏疫苗信号。
+    没记录是哪针哪批次 — 不能上报 VAERS,影响下次打。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-DTaP
+  - G-ABBR-AAP
+
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1 岁"
+  authors: ["Heidi Murkoff", "Sharon Mazel"]
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 2010
+  edition: "Third Edition"
+  location: "第 6 章 / 免疫后什么时候打电话专栏,p.228"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards:
+  - C-S2-2005
+  - C-S2-2006
+  - C-S2-2007
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

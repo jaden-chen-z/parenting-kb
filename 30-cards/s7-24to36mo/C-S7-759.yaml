@@ -1,0 +1,63 @@
+card_id: C-S7-759
+stages: [S7]
+tags: [over-medicalization, parent-anxiety, anti-label]
+
+front:
+  title: 反"自体中毒"标签
+  hook: 大人惊慌反加重娃病
+
+back:
+  why_matters: |
+    松田尖锐:孩子吐了妈惊呼"自体中毒",叫医生点滴 — 让娃认同"我是病人"。
+    禁食 1 天 + 点滴 → 娃衰弱 3-4 天恢复 → 治疗本身比病更伤。
+    "自体中毒"和"哮喘"常一起 — 周围人过度在意,娃丧失自立意志。
+    爷爷奶奶都出来围看是雪上加霜(让娃强化"我病了"自我认同)。
+  what_to_do:
+    - 娃吐没发热腹泻别小题大做
+    - 别全家围着看
+    - 让娃喝水比点滴更有效
+    - 别说"自体中毒"标签词
+    - 反思娃前 1 天是否过度兴奋
+  failure_mode: |
+    妈一吐就叫医生点滴 → 娃学会"吐 = 要点滴" → 每次吐都焦虑要求点滴,慢性化。
+  evidence_level: B
+
+  positions:
+    issue: '"反抗期" 是孩子叛逆还是大人剥夺玩耍空间'
+    views:
+      - school: 松田道雄
+        source: SRC-024
+        stance: 反抗期不存在 — 是大人剥夺玩耍场所导致孩子抗议。不是孩子反抗你,是你在反抗孩子的自立。
+      - school: Brazelton
+        source: SRC-010
+        stance: 18 月狂说 No 是健康信号 — negativism 是自我形成的发育表现,无需打压。
+      - school: 现代心理学
+        stance: 气质 + 大脑发育 + 自主性需要交互;"反抗期" 不是单一现象,而是多因素综合。
+      - school: 中国传统
+        stance: '"叛逆期需打压" — 把孩子说 No 视为不听话表现,主张严格管教纠正。'
+glossary_refs:
+  - G-PERSON-Matsuda
+
+citation:
+  book_title_zh: "定本《育儿百科》"
+  book_title_jp: "育児の百科(定本)"
+  authors: ["松田道雄"]
+  translators_zh: ["王少丽"]
+  publisher_zh: null
+  year: 1980
+  edition: "定本"
+  location: "第 444 / 445 节自体中毒症 / 哮喘"
+  source_id: SRC-023
+
+unit_ids: []
+related_cards:
+  - C-S6-671  # 自卷:1 岁后看体罚会怕
+  - C-S7-604  # 自卷:反"反抗期"概念
+  - C-S2-547  # 自卷:20 人 1 个爱哭天生
+  - C-S6-023  # Brazelton 18 月咬人是失控不是恶意
+  - C-S2-128  # Lansbury 等 3 秒再回应
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

@@ -1,0 +1,54 @@
+glossary_id: G-TERM-Innocenti-Declaration
+type: term
+display_name: "Innocenti Declaration 1990"
+
+en_term: "Innocenti Declaration on Breastfeeding (1990 + 2005)"
+zh_term: "Innocenti 母乳喂养宣言"
+
+one_liner: |
+  Innocenti 1990 是 BFHI 启动的政治基础 — UNICEF Florence Innocenti 中心起草。
+
+detail: |
+  ## 1990 原版
+  - 1990 年 7 月 30 日 Florence Innocenti 中心通过
+  - WHO+UNICEF+USAID+SIDA 联合发起
+  - 4 大操作目标(具体措辞 WebFetch 失败,见 gaps G_WHO_1):
+    ① 各国成立母乳协调员
+    ② BFHI 启动
+    ③ Code 立法
+    ④ 立法保护妈妈母乳权
+  
+  ## 2005 修订
+  9 大补充目标 — 含 2025 全球量化指标。
+  
+  ## 政治根基
+  Innocenti 是 BFHI 1991 启动的直接政治基础 — 各国签署 = 国家义务。
+  
+  ## 中国签署状态
+  中国是早期签署国之一(具体行动需补)。
+  
+  ## 数据完整度警告
+  本术语基于间接信息(BFHI Wikipedia)— Innocenti 全文 WebFetch 全 URL 失败。
+  完整 4+9 目标精确措辞 + 各国签署状态记 gaps.md G_WHO_1。
+
+key_facts:
+  - "1990 通过"
+  - "WHO+UNICEF+USAID+SIDA 联合"
+  - "BFHI 1991 政治基础"
+  - "中国早期签署"
+
+related_glossary:
+  - G-ABBR-BFHI
+  - G-TERM-WHO-Code
+  - G-ABBR-WHO
+
+related_cards:
+  - C-S0-1028
+
+sources:
+  - source_id: SRC-031
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

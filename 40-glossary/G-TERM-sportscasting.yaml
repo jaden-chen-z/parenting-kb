@@ -1,0 +1,102 @@
+glossary_id: G-TERM-sportscasting
+type: term
+display_name: 实况转播 (sportscasting)
+
+full_name_zh: 实况转播 / 实况转播式陪伴
+full_name_en: Sportscasting (also Broadcasting)
+
+one_liner: |
+  Magda Gerber 独家命名的 RIE 派核心干预法。
+  当孩子玩具被抢 / 拼图卡住 / 跟同伴拉扯 / 任何挣扎时,
+  大人不冲过去解决,只用平静的"事实播报",像实况转播员一样:
+  "你正在拼这块,看上去很挣扎。"
+  "Sammy 拿着熊,Ally 也想要,你们都想要。"
+  Lansbury Ch19 系统阐述。
+
+detail: |
+  ## 命名来源
+  - Magda Gerber 命名(60-70 年代 RIE 课上)
+  - 来自实况转播(sports + broadcasting)
+  - 跟 Lansbury Ch19 整章专题阐述
+
+  ## 核心特征
+  1. **不评判**(non-judgmental):不对错 / 不是谁先 / 不"应该怎样"
+  2. **只述事实**(just facts):看到什么说什么
+  3. **不修复**(don't fix):不试图解决问题
+  4. **不偏袒**(don't take sides):不替"弱者"出头
+  5. **保持安全**(safety first):真打人 / 真危险 → 用手挡
+
+  ## 5 大好处(Lansbury Ch19)
+  1. **大人少做,孩子学多**(less is more)
+  2. **信任 = 赋能**(trust empowers)— 孩子接收"我相信你能"
+  3. **大人不偏袒**(reminds us not to judge)
+  4. **避免 victim/aggressor 标签**(不让孩子被贴"受害者 / 施暴者"标签)
+  5. **教语言 / 社交 / 情绪智力**
+
+  ## 经典句式
+  - "你拿着 X,他也想要"
+  - "你在试着 X,看起来挣扎"
+  - "你打算怎么办?"(升级到 interview 模式)
+  - "我看到 X,我看到 Y"
+  - "我不让你打"(真冲突时唯一限度句)
+
+  ## 三层级介入(Lansbury 框架)
+  1. **sportscasting**(默认):平静事实播报
+  2. **interview**(升级):"你打算怎么办?"
+  3. **建议 / 物理介入**(罕用):
+     - "也许 X?"(给一个方案)
+     - "我不让你打"+ 用手挡
+     - 真危险 → 抱走
+
+  ## 跟蒙氏"描述法"的关系
+  - 蒙氏(Lillard Ch9)的"描述法"是用于"教 vs 讲道理":
+    "看,这条鱼有鳍,鱼用鳍游泳"(教知识)
+  - sportscasting 用于"冲突 / 挣扎":
+    "你拿着,他想要"(陪冲突)
+  - 同源不同用 — 都是"不主导 / 让孩子自己处理"
+
+  ## 跟"分散注意"派对比
+  - 主流"分散":"看那只鸟!"(逃避当下)
+  - sportscasting:"你想要那个,他不让"(直面当下)
+  - 长期影响:sportscasting 培养真实情感处理能力
+
+  ## 何时不能只 sportscast(必须介入)
+  - 真打 / 真咬 / 真危险 → 物理挡
+  - 持续破坏行为(如反复抢同伴东西)→ 用 "I won't let you"
+  - 孩子专注的工作被破坏 → 应保护
+
+  ## 对中国家长的特殊意义
+  - 替代"中国式裁判"(谁先动 / 谁是哥哥 / 谁该让)
+  - 替代"分散转移"派
+  - 教孩子自己解决冲突 — 替"孩子打架找老师"
+
+  ## 难点
+  - 大人本能想"立即解决" — 必须忍住
+  - 听上去像"不作为" — 实际是高难度的"自我克制"
+  - 需要练习,通常 1-2 周才上手
+
+key_facts:
+  - Magda Gerber 独家命名
+  - RIE 派最标志性干预法
+  - 平静"事实播报",不评判不修复
+  - 5 大好处(信任 + 赋能 + 不偏袒 + 不贴标签 + 教情绪)
+  - 三层级:sportscast → interview → 物理介入
+
+related_glossary:
+  - G-PERSON-Gerber
+  - G-PERSON-Lansbury
+  - G-TERM-RIE
+  - G-TERM-acknowledging-feelings
+
+related_cards:
+  - C-S6-395
+  - C-S6-399
+
+sources:
+  - source_id: SRC-019
+  - external: Magda Gerber《Dear Parent》/ Lansbury blog
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

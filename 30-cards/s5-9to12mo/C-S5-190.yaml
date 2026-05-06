@@ -1,0 +1,67 @@
+card_id: C-S5-190
+stages: [S5]
+tags: [philosophy, controversy, 跨源-consensus, weaning]
+
+front:
+  title: 戒奶瓶 3 派分歧 + sippy 立场
+  hook: 12-18 月 / 9-10 月 / 跟节奏
+
+back:
+  why_matters: |
+    AAP:**12-18 月戒奶瓶,sippy 杯作过渡**(无 valve,C-S5-001)
+    Lillard 蒙氏:**9-10 月戒奶瓶,完全反 sippy**(伪奶瓶,延长吸吮 + 阻碍口腔发育,C-S5-188)
+    Brazelton:**反"必须几月戒",跟孩子节奏**(C-S5-023)
+    中国传统:**夜奶到 2 岁**(老人观点,无明确专卡)
+    分歧关键 = sippy 算不算"戒"?Lillard 主张直接敞口杯(5-6 寸玻璃杯)。
+    **后果**:sippy 用到 2-3 岁 → 龋齿(奶睡甜液体浸泡牙齿)+ 口腔肌肉发育受阻。
+  what_to_do:
+    - "**AAP 路径**(主流):6-9 月引入 sippy → 12-18 月戒奶瓶 → 24 月戒 sippy"
+    - "**Lillard 路径**(蒙氏激进):6 月起小玻璃杯水(weaning chair)→ 9-10 月戒奶瓶 + 完全敞口杯,跳过 sippy"
+    - "**Brazelton 路径**(弹性):跟孩子节奏,不强推时间表"
+    - "**关键不变量**:无论哪派,都 **12 月起逐渐过渡**,2 岁前完成"
+    - "**共识反对**:sippy 杯长期(>24 月)+ 奶睡(口含奶睡)"
+  failure_mode: |
+    sippy 用到 2-3 岁 → 龋齿 + 口腔发育受阻;
+    完全不戒(口含奶睡) → 中耳炎风险升 + 龋齿 100% 概率;
+    群体压力快戒 → 反弹 + 自责 + 妈妈崩溃;
+    错过敏感期(12-18 月)→ 后期戒难度倍增。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Lillard
+  - G-PERSON-Brazelton
+  - G-PERSON-Davies
+  - G-ABBR-AAP
+
+citation:
+  cross_source: true
+  primary_source_id: META-CROSS
+  cross_sources:
+    - source_id: SRC-006
+      anchor_card: C-S5-001
+      stance: AAP 12-18 月戒,sippy 过渡
+    - source_id: SRC-016
+      anchor_card: C-S5-188
+      stance: Lillard 9-10 月戒,反 sippy 完全
+    - source_id: SRC-010
+      anchor_card: C-S5-023
+      stance: Brazelton 反时间表,跟孩子节奏
+  location: META · S5 跨派对照导航卡
+
+unit_ids: []
+related_cards:
+  - C-S5-001       # AAP 戒奶瓶 12-18 月
+  - C-S5-023       # Brazelton 9 月断奶不必赶
+  - C-S5-188       # Lillard 9-10 月真玻璃杯
+  - C-S5-186       # Lillard 蒙氏 weaning chair
+  - C-S5-134       # Davies 1 岁前戒奶嘴
+
+navigation_role: |
+  S5 段戒奶瓶导航 hub。3 派分歧大,中国家长普遍困惑;
+  关键决策点 = 9-12 月窗口,选错路径影响后续 1-2 年。
+  与睡眠训练(C-S5-191)+ 戒夜奶等高频议题相邻,常作为"妈妈返工准备"的一部分。
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

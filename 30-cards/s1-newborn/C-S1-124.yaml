@@ -1,6 +1,6 @@
 card_id: C-S1-124
 stages: [S1]
-tags: []
+tags: [philosophy, controversy]
 
 front:
   title: 5 种粘妈本能行为
@@ -38,7 +38,7 @@ citation:
   year_en: 1969
   year_zh: 2017
   isbn: "978-7-5192-2927-6"
-  location: "第十一章 儿童与母亲的联结:依恋行为(吸吮、依附、跟随、哭泣和微笑这五种行为模式有助于依恋,九到十八个月年龄段中嵌入更复杂的目标校正系统)"
+  location: "第十一章儿童与母亲的联结:依恋行为(吸吮、依附、跟随、哭泣和微笑这五种行为模式有助于依恋,九到十八个月年龄段中嵌入更复杂的目标校正系统)"
   source_id: SRC-011
 
 unit_ids: []

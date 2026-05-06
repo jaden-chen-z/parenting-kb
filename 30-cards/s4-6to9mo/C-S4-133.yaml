@@ -1,0 +1,63 @@
+card_id: C-S4-133
+stages: [S4]
+tags: [montessori, sign-language, communication]
+
+front:
+  title: 7-8 月教手语
+  hook: 说话前先用手势比划
+
+back:
+  why_matters: |
+    7-8 月宝宝:**听得懂很多 + 还说不出**。
+    这中间有个尴尬期 — 他想表达"还要" / "饱了" / "奶",但只会哭。
+    Davies 推荐方案:**Baby sign language**(婴儿手语)。
+    为什么 — 宝宝**手部神经发育**比**口腔肌肉**早,7-8 月手能精细动作,但说话肌还没配合好。
+    用手势可以提前 4-8 个月表达需求。
+    最常用 5 个手势(美国手语 ASL 改良版):
+    1. **milk** — 拳头一开一合(像挤奶)
+    2. **more** — 两手指尖碰一碰
+    3. **done / finished** — 两手挥开
+    4. **eat** — 手指捏拢碰嘴
+    5. **sleep** — 手贴脸侧倾头教法:
+    - 边说词边做手势(每次都做)
+    - 不强求宝宝学,反复看他自然学
+    - 通常 9-11 月开始模仿
+    - 1 岁会做几个意义 — 大幅减少 7-12 月哭闹(因为他能表达)。
+    研究:学手语的宝宝口语**反而更早**(不是延迟说话)。
+  what_to_do:
+    - 7-8 月起每次说"奶"做 milk 手势
+    - 选 4-5 个常用词(奶 / 还要 / 饱 / 睡)
+    - 全家统一手势(妈爸爷奶都做)
+    - 不强求宝宝跟做,他自然学
+    - 1 岁后他做对就响应
+  failure_mode: |
+    "教手语会延迟说话" — 谬论。研究反复证明,学手语反而更早 + 更准说话。
+    "中国不流行,没必要" — 工具无国界,核心是宝宝能表达 → 少哭。
+    "我做不到全家一致" — 至少主要照顾人一致,宝宝先跟一个人学。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Davies
+  - G-PERSON-Montessori
+  - G-TERM-cooing
+
+citation:
+  book_title_zh: "蒙特梭利的小宝宝(0-1岁)"
+  book_title_en: "The Montessori Baby"
+  authors: ["Simone Davies", "Junnifa Uzodike"]
+  authors_zh: ["西蒙·戴维斯", "君妮法·乌佐迪克"]
+  publisher_en: "Workman Publishing"
+  year_en: 2021
+  isbn_en: "978-1-5235-0693-7"
+  location: "Chapter 6 · Language > 5-6 months > Baby sign language"
+  source_id: SRC-014
+
+unit_ids: []
+related_cards:
+  - C-S4-018       # Brazelton 6 月听懂
+  - C-S5-003       # AAP 第一个词
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

@@ -1,0 +1,61 @@
+card_id: C-S0-1233
+stages: [S0]
+tags: [early_intervention, powell, lerner_v4]
+
+front:
+  title: 家庭干预 5 原则
+  hook: 家庭干预 5 原则
+
+back:
+  why_matters: |
+    Powell V4 Ch 14 家庭与早期干预综述。
+    **早期干预 5 大原则**(Powell 跨 RCT 元分析):
+    - **关系导向**:干预者-家庭关系是改变载体,不是教学
+    - **文化敏感**:中产白人方案搬到移民家失效
+    - **个体化**:同一项目要因家调
+    - **持续性**:6 个月起码,10+ 月效果稳
+    - **协作不指导**:家长是 agent,不是被改造对象意义:
+    - 反"快速训练班"
+    - 反"专业人员说了算"
+    - 关系是核心,不是教学技巧
+    - 文化盲点是常见失败原因跟现库:跟 Olds NFP 30 年长效(C-S0-1242 待建)+ 鲍秀兰临床派(SRC-009)对照。
+    对中国家长意义:
+    - 找早教班看不看"关系"质量
+    - 文化敏感的项目对中国家庭更有效
+    - 短期班(< 3 月)效果可疑
+    - 父母不是被改造的对象,是合作者
+  what_to_do:
+    - 看早教班关系质量不只看课程
+    - 选文化敏感的项目
+    - 找 ≥ 6 月持续项目
+    - 父母是合作者不是被教育
+  failure_mode: |
+    "快速训练班见效"— 短期效果可疑。
+    "专业人员说了算"— 错。父母是 agent。
+    "中产方案搬来用"— 错。文化盲点常见。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Powell
+  - G-TERM-early-intervention
+  - G-TERM-cultural-specificity
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 4 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 4 卷"
+  authors: ['Douglas R. Powell']
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 14 · Powell · Family early intervention · pp. 548-560"
+  source_id: SRC-029
+
+unit_ids: []
+related_cards:
+  - C-S0-619     # Shonkoff NRC 早期干预
+  - C-S0-723     # Bronfenbrenner 5 层
+  - C-S0-1230     # Sigel 研究到实操翻译
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

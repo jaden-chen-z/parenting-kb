@@ -1,0 +1,76 @@
+glossary_id: G-PERSON-Carey
+type: person
+display_name: Carey
+
+full_name_en: Susan Carey
+full_name_zh: 苏珊·凯利
+
+one_liner: |
+  美国认知发展心理学家(哈佛大学教授),"概念革命"理论奠基人。
+  反 Piaget 渐进阶段说,主张概念发展像科学史的范式转移。
+
+detail: |
+  ## 个人背景
+  - 1942 年生
+  - 哈佛大学博士(Roger Brown 学生)
+  - 哈佛大学心理学教授(2001 至今)
+  - 曾任 MIT / 纽约大学 / 宾大教职
+  - 美国国家科学院院士
+
+  ## 核心理论:概念革命(Conceptual Revolution)
+  - 儿童概念发展不是渐进 — 是革命(像科学史)
+  - 经典案例:植物归"活物"(7-10 岁概念革命)
+  - 过程跟科学史的范式转移类似
+  - 反 Piaget 阶段说
+
+  ## 主要发现
+  - **Fast mapping(1978)**:24 月一次接触学新词
+  - **Naive biology**:儿童先把"植物"当不活物,7-10 岁革命
+  - **Number development**:数概念 4 阶段质变
+  - **Conceptual revolution**:儿童类似科学家概念质变
+
+  ## 立场
+  - 反 Piaget 的"普世阶段"
+  - 反 Spelke 的"完全先天"模块论
+  - 部分认同"先天 + 经验互动"
+  - 跟 Gopnik "孩子是科学家"派同方向
+
+  ## 在本知识库中
+  - SRC-028 Lerner V2 主要引用学者(134 hits)
+  - C-S7-1096 Carey 概念革命
+  - C-S8-421 朴素生物学
+  - C-S6-1166 Fast mapping(Carey 1978 起源)
+
+  ## 学术影响
+  - 概念发展领域奠基人之一
+  - 著作《Conceptual Change in Childhood》(1985)经典
+  - 著作《The Origin of Concepts》(2009)
+  - 多次获 APA / 国家科学院荣誉
+
+key_facts:
+  - 哈佛大学心理学教授
+  - 概念革命理论奠基人
+  - Fast mapping 1978 起源
+  - 反 Piaget 渐进阶段
+  - 美国国家科学院院士
+
+related_glossary:
+  - G-PERSON-Gopnik
+  - G-PERSON-Piaget
+  - G-PERSON-Spelke
+  - G-TERM-baby-scientist
+  - G-TERM-fast-mapping
+  - G-TERM-object-permanence
+
+related_cards:
+  - C-S7-1096
+  - C-S8-421
+
+sources:
+  - source_id: SRC-028
+  - external: Carey 1985 / Carey 2009 / Wikipedia Susan Carey
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

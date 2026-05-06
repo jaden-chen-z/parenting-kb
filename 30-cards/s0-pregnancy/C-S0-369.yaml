@@ -1,0 +1,47 @@
+card_id: C-S0-369
+stages: [S0]
+tags: [breastfeeding, prenatal-decision]
+
+front:
+  title: 母乳孕期就要决定
+  hook: 铁吸收是奶粉两倍多
+
+back:
+  why_matters: |
+    松田论证:母乳铁吸收 50% / 牛奶不足 50%,前 3 月没法换。
+    后期奶味变 → 婴儿自停吃,防过食胖。
+    奶瓶喂没自然限度,娃哭就加 → 容易喂胖。
+    最关键:喂奶不只营养,是连接 — 妈最近距离看娃面孔,触摸肌肤,识别情绪。
+  what_to_do:
+    - 孕期参加 1 次母乳指导课
+    - 不一开始就买奶瓶/奶粉(避退路)
+    - 备初乳挤压器(出生后 3 天可能不顺)
+    - 入院前找好母乳指导员电话
+    - 跟丈夫说清不是临产再决定
+  failure_mode: |
+    "看出生再说" → 头 3 天乳量少时易动摇换奶粉,然后泌乳就再也起不来,本可母乳的也没了。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Matsuda
+
+citation:
+  book_title_zh: "定本《育儿百科》"
+  book_title_jp: "育児の百科(定本)"
+  authors: ["松田道雄"]
+  translators_zh: ["王少丽"]
+  publisher_zh: null
+  year: 1980
+  edition: "定本"
+  location: "第 32-33 节喂初乳的意义 / 提倡母乳喂养"
+  source_id: SRC-023
+
+unit_ids: []
+related_cards:
+  - C-S0-005  # Brazelton 上班妈选母乳
+  - C-S1-022  # Karp 奶嘴别太早
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

@@ -1,0 +1,56 @@
+card_id: C-S4-1055
+stages: [S4]
+tags: []
+
+front:
+  title: "6-12 月 50% 能量"
+  hook: "辅食一半,母乳一半"
+
+back:
+  why_matters: |
+    WHO 立场(原文):'In months 6-12, breastmilk continues to provide up to half or more of a child's nutritional needs.'
+    6-12 月营养构成:
+    - 母乳 ≥ 50% 能量 + 主要免疫保护
+    - 辅食 ≤ 50% 能量 + 主要铁/锌/维 A
+    AAP 立场(SRC-006):6 月推 EBF,12 月起可断 — 早于 WHO 2 年。
+    中国传统'1 岁就该断,母乳没营养'→ 跟 WHO 50% 数字硬冲突。
+    实操:6-12 月每天仍 4-6 次母乳,加辅食后总能量 = 母乳一半 + 辅食一半。
+  what_to_do:
+    - "6-12 月母乳 ≥ 50% 能量,辅食 ≤ 50%"
+    - "每天 4-6 次母乳(辅食后仍喂)"
+    - "顺序:母乳吃饱后再加辅食"
+    - "'1 岁该断'/'母乳没营养'是错的"
+    - "6-12 月母乳免疫仍主要保护"
+  failure_mode: |
+    1 岁前减母乳追求 '辅食为主' → 跟 WHO 50% 数字冲突 → 母乳免疫保护下降 + 妈妈奶量真降。
+    WHO 50% 是硬数据,不是建议。
+  evidence_level: A
+
+glossary_refs:
+  - G-TERM-WHO-six-months
+  - G-TERM-WHO-two-years
+  - G-ABBR-WHO
+
+citation:
+  page_title: "WHO Continued Breastfeeding 6-12 months"
+  publisher: "World Health Organization & UNICEF"
+  page_url_primary: https://www.who.int/health-topics/breastfeeding
+  accessed: 2026-05-04
+  language: en
+  location: "WHO 6-12m 母乳 ≥ 50% 能量 + 12-24m ≥ 33%"
+  source_id: SRC-031
+
+unit_ids: []
+related_cards:
+  - C-S4-1045
+  - C-S5-1038
+  - C-S6-1064
+  - C-S4-001
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_doc_id_pending: D6
+citation_followup_needed: '已映射真实 doc_id (D6 = WHO Complementary Feeding)'

@@ -1,0 +1,56 @@
+card_id: C-S5-391
+stages: [S5]
+tags: [eating, RIE, lansbury]
+
+front:
+  title: "小份不哄一口:宝宝定饱"
+  hook: "宝宝饱了就停别诱"
+
+back:
+  why_matters: |
+    Lansbury Ch16 + Magda Gerber 喂养法:
+    碗里少装 + 旁边放大碗续。
+    宝宝吃完会示意要更多 → 大人才加。
+    主流"再吃一口" / "飞机来了" → 宝宝学到"吃是为了让妈妈高兴"。
+    研究(Isselmann)证:母乳喂养的孩子内在饱腹感更准,
+    瓶喂的容易过量(因为大人盯 oz 数)。
+    "听宝宝身体的信号,不是大人的剧本"。
+
+  what_to_do:
+    - 碗装一小份(2-3 口的量)
+    - 旁边大碗续,宝宝示意要才加
+    - 不"再一口" / 不"飞机来了"
+    - 宝宝表达"够了"(推开 / 闭嘴)= 立即停
+    - 喝水亦同:渴了喝,不当任务
+
+  failure_mode: |
+    "再一口最后一口" → 宝宝学到"吃是讨好",未来 BMI 高 / 厌食风险。
+    或反向:宝宝想吃也限制 → 制造食物焦虑。
+    Lansbury:信任宝宝的身体信号。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Lansbury
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+
+citation:
+  book_title_en: "Elevating Child Care: A Guide to Respectful Parenting"
+  book_title_zh: "尊重孩子:RIE 育儿之道"
+  authors:
+    - Janet Lansbury
+  publisher_en: JLML Press
+  year: 2014
+  location: "Ch16 Healthy Eating — Small Portions, No One-More-Bites"
+  source_id: SRC-019
+
+unit_ids: []
+related_cards:
+  - C-S5-390  # Lansbury 不用高脚椅
+  - C-S5-184  # Lillard 自我喂养
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

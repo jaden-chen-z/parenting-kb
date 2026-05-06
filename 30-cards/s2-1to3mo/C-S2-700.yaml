@@ -1,0 +1,59 @@
+card_id: C-S2-700
+stages: [S2]
+tags: [exercise, infant_gymnastics, japan, matsuda, traditional]
+
+front:
+  title: "2 月起每天做体操"
+  hook: "屈伸边唱日式版"
+
+back:
+  why_matters: |
+    松田 §99 + §126 给"婴儿体操"具体操作(日式核心动作):
+    1. 1-2 月吃奶 1 小时后情绪好时做;
+    2. **腿部体操**:屈曲膝关节 + 伸曲腿,
+       一边唱"屈伸"歌一边做;
+    3. 不勉强拉膝关节(防髋关节脱臼);
+    4. 2 月末每天 2 次也行;
+    5. 每次 1-2 分钟即可;
+    6. 让婴儿体验"锻炼的乐趣";
+    7. 跟空气浴(C-S2-549)是配套。
+    跟 Karp 5S 不同 — 5S 主要是哄睡, 婴儿体操是发育锻炼。
+    跟鲍秀兰 2 月俯卧抬头(C-S2-008)互补。
+
+  what_to_do:
+    - 2 月起吃奶 1 小时后情绪好做
+    - 屈伸腿动作 + 唱"屈伸"歌
+    - 每次 1-2 分钟,2 月末可 2 次/天
+    - 不强拉膝关节(防脱臼)
+    - 空气浴 + 体操是组合
+
+  failure_mode: |
+    "中国传统不会做体操" → 婴儿在床上躺一天 → 髋关节发育受影响 + 大动作落后。
+    或反方向:网上学"婴儿体操"硬抻 → 髋关节脱臼。
+    日式立场:**唱歌 + 屈伸 + 1-2 分钟** — 是亲子互动不是医学训练。
+    替代:把"练习"翻成"互动" — 边唱边做才能让宝宝享受。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Matsuda
+
+citation:
+  book_title_zh: "定本育儿百科"
+  authors:
+    - 松田道雄
+  publisher_ja: 岩波书店
+  year_first_edition: 1967
+  location: "§99 锻炼婴儿 / §126 婴儿体操 / §127 婴儿体操的具体做法"
+  source_id: SRC-024
+
+unit_ids: []
+related_cards:
+  - C-S2-549  # 松田 1 月起每天必须出门(同源)
+  - C-S2-008  # 鲍秀兰 2 月俯卧抬头
+  - C-S2-018  # Brazelton 6-8 周社交微笑不是反射
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

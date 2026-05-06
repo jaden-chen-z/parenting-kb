@@ -1,0 +1,55 @@
+card_id: C-S5-390
+stages: [S5]
+tags: [eating, RIE, lansbury]
+
+front:
+  title: "Magda 派吃饭法:不用高脚椅"
+  hook: "宝宝桌椅好过被绑"
+
+back:
+  why_matters: |
+    Lansbury Ch16 + Magda Gerber 独家方法:
+    高脚椅 = 宝宝被绑住,大人方便。
+    RIE 主张:宝宝能独坐(不撑) → 转小桌 + 小凳。
+    宝宝脚踩地 → 自主感强,吃完想走也能走。
+    传统:宝宝固定在高脚椅,吃完哭着等大人解开。
+    RIE 桌椅:吃饭是主动参与,不是被动接受。
+
+  what_to_do:
+    - 6 月前(还不会自坐):大人怀里斜靠喂
+    - 能独坐后(8-12 月):小桌 + 小凳,脚踩地
+    - 大人坐对面,平等吃饭
+    - 想下桌就下,不强留
+    - 表达"吃饱了"用离桌示意
+
+  failure_mode: |
+    "高脚椅大家都用方便" → 实际剥夺宝宝的"自主吃 + 离开"权。
+    传统中国家庭甚至追着喂 — Lansbury 派全反。
+    或反向:6 月不会坐就放小凳 → 不安全摔倒。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Lansbury
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+
+citation:
+  book_title_en: "Elevating Child Care: A Guide to Respectful Parenting"
+  book_title_zh: "尊重孩子:RIE 育儿之道"
+  authors:
+    - Janet Lansbury
+  publisher_en: JLML Press
+  year: 2014
+  location: "Ch16 Healthy Eating Habits — Highchair-Free Eating"
+  source_id: SRC-019
+
+unit_ids: []
+related_cards:
+  - C-S2-290  # Lansbury 不撑坐
+  - C-S5-184  # Lillard 自我喂养
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

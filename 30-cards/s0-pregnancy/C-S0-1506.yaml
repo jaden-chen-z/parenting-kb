@@ -1,0 +1,51 @@
+card_id: C-S0-1506
+stages: ['S0']
+tags: ['philosophy', 'lerner_v1', 'gottlieb', 'lickliter', 'animal_research']
+
+front:
+  title: "鸭子实验证明环境"
+  hook: "基因 + 蛋内学会的"
+
+back:
+  why_matters: |
+    Lickliter 的经典实验 — 鸭子在蛋里会学习自己物种的叫声(母鸭子叫)。
+    但如果在孵化前几天给鸭蛋播放鸡叫,孵出的小鸭跟着鸡跑(印记错乱)。
+    意义 — 看似"先天本能"的物种识别,其实是"基因 + 出生前环境"互动出来。
+    迁移到人类 —
+    - 母语习得不是 100% 先天,是基因 + 妈妈说话出生前听到一起
+    - "天生听话/不听话"不是基因,是出生前 + 出生后环境一起塑造
+    - 即使基因相同(双胞胎),环境一改,行为差异立刻显现中国家长意义 — "天生 X"立场极脆弱,环境影响远比想象大。
+  what_to_do:
+    - "不要轻易归因'天生'"
+    - "出生前环境(母亲压力 / 营养 / 情绪)就在塑造娃"
+    - "出生后头 3 年环境 = 行为基础"
+    - "Lickliter 数据支持:基因表达受环境直接影响"
+    - "环境改 = 行为可改(不限月龄)"
+  failure_mode: |
+    基因决定立场 — 错。Lickliter 鸟类实验明确反驳。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Lickliter
+  - G-PERSON-Gottlieb
+  - G-TERM-probabilistic-epigenesis
+
+related_cards:
+  - C-S0-1503
+  - C-S0-1504
+  - C-S0-1505
+  - C-S0-722
+
+citation:
+  source_id: SRC-030
+  source_title: "Handbook of Child Psychology Vol 1: Theoretical Models of Human Development"
+  chapter: "Ch 5 Gottlieb / Wahlsten / Lickliter"
+  chapter_offset: 1377472
+  chapter_title: 'Gottlieb / Wahlsten / Lickliter — Significance of Biology + probabilistic epigenesis'
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_followup_needed: 'SRC-030 用 PDF 字节偏移代页码 — 待加 page_pdf 反查工具'

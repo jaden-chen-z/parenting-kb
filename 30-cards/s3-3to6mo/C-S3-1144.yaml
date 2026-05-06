@@ -1,0 +1,69 @@
+card_id: C-S3-1144
+stages: [S3]
+tags: [cognitive_science, numerical, wynn, lerner_v2]
+
+front:
+  title: 5 月就懂 1+1=2
+  hook: Wynn 推翻数前运算
+
+back:
+  why_matters: |
+    Wynn 1992 经典(Lerner V2 Ch18 Geary 综述 + Ch5)。
+    给 5 月宝宝看"加法事件":
+    - 屏幕显示 1 个玩偶
+    - 屏幕降下遮住玩偶
+    - 1 只手伸入,放第 2 个玩偶进去(共 2 个)
+    - 屏幕升起 — 应该看到 2 个玩偶
+    - 关键测:屏幕升起后**只显示 1 个**(不可能事件 — 应该 2 个)
+    - 5 月宝宝盯"1 个"(不可能)显著久于"2 个"(预期)
+    意义:**5 月就懂"1+1 应该 = 2"**。
+    Piaget 认为数概念要 6-7 岁(具体运算期),被 Wynn 推翻 8 倍。
+    后续(Lerner V2 综述):
+    - 婴儿用"近似数表征"(approximate number system, ANS)
+    - 是 Spelke 核心知识"数系统"奠基证据
+    - Dehaene 神经科学派进一步研究跟现库:G-PERSON-Spelke 5 系统(C-S4-1141)中"数"系统。
+    对中国家长意义:
+    - 不必焦虑"几月教数数" — 5 月就有数感
+    - 数概念是天生的,不是后教的
+    - 真正要教的是"数符号 → 数概念映射"(2-3 岁)
+    - 不要拿 闪卡 教 1-100(无效)
+  what_to_do:
+    - 5-12 月给"少 vs 多"对比经验(1 vs 2 vs 3)
+    - 不教数字符号(过早)
+    - 玩"放进 → 取出"游戏(暗中给数感)
+    - 2-3 岁后再教 1-2-3 数字
+  failure_mode: |
+    "5 月没数概念" — 错。Wynn 1992 推翻。
+    "Piaget 6 岁数前运算对" — 错。V2 综述明确推翻。
+    "0-2 岁教数字赢起跑" — 不需。数感天生。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Spelke
+  - G-PERSON-Piaget
+  - G-TERM-baby-scientist
+  - G-PERSON-Wynn
+  - G-PERSON-Geary
+  - G-PERSON-Dehaene
+  - G-TERM-core-knowledge
+  - G-PERSON-Leslie
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 2 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 2 卷"
+  authors: ["David C. Geary", "Leslie B. Cohen"]
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 18 · Wynn 1992 / Ch 5 · Numerical cognition · pp. 779-783, 234"
+  source_id: SRC-028
+
+unit_ids: []
+related_cards:
+  - C-S4-1141     # Spelke 5 系统
+  - C-S3-188       # Spelke 物体永久 4 月
+  - C-S3-1140     # Baillargeon 吊桥
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,67 @@
+card_id: C-S7-1098
+stages: [S7]
+tags: [cognitive_science, theory_of_mind, wellman, lerner_v2]
+
+front:
+  title: 心智理论 5 阶段
+  hook: 18 月起 5 岁稳定
+
+back:
+  why_matters: |
+    Wellman/Liu 2004 ToM Scale (WPSS)— Lerner V2 Ch19 Harris 综述。
+    Wellman 提出心智理论 5 阶段量表(顺序固定,跨文化普适):
+    1. **Diverse Desires**(18-24 月)— "你想要 A,我想要 B"
+    2. **Diverse Beliefs**(2-3 岁)— "你信 A,我信 B"
+    3. **Knowledge Access**(3-4 岁)— "你知道我知道吗"
+    4. **False Belief**(4-5 岁)— Sally-Anne 关键(下卡)
+    5. **Hidden Emotion**(5-7 岁)— "他装不开心其实生气"
+    意义:
+    - 顺序固定,不会跳级
+    - 中文 / 英文 / 西班牙语 / 伊朗都一样顺序
+    - 自闭症儿童阶段顺序对,但延迟 4-5 年
+    - 是 ToM 发育主轴跟现库:跟 Stern intersubjectivity / verbal self 对接。
+    Lerner V2 给 Wellman 5 阶段量表实证综述。
+    对中国家长意义:
+    - 不必"测"孩子 ToM — 阶段自然展开
+    - 18 月承认"你想要不一样" = 第一阶段
+    - 4-5 岁 Sally-Anne 通过 = 第四阶段
+    - 5-7 岁懂"假装情绪" = 第五阶段
+    - 孩子比预期发达?不存在 — 阶段顺序固定
+  what_to_do:
+    - 阶段对应跟孩子讨论(你的想法 / 别人想法)
+    - 18 月起承认情绪差异(你想要,我不要)
+    - 4-5 岁玩 Sally-Anne 类似游戏
+    - 5+ 岁讨论"假装情绪"(他笑其实生气)
+  failure_mode: |
+    "ToM 是天才才有" — 错。普遍 5 岁稳定。
+    "5 阶段可跳级" — 错。顺序固定。
+    "ToM 缺要补课" — 不,自然发展。
+  evidence_level: B
+
+glossary_refs:
+  - G-TERM-theory-of-mind
+  - G-PERSON-Wellman
+  - G-PERSON-Leslie
+  - G-TERM-WPSS
+  - G-TERM-false-belief
+  - G-PERSON-Stern
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 2 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 2 卷"
+  authors: ["Paul L. Harris"]
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 19 · Wellman ToM scale · pp. 815-820"
+  source_id: SRC-028
+
+unit_ids: []
+related_cards:
+  - C-S6-1171     # Leslie ToMM 18 月
+  - C-S5-1140     # Tomasello 9 月革命
+  - C-S8-422       # Sally-Anne(后续)
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

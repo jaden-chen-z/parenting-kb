@@ -1,0 +1,57 @@
+card_id: C-S5-799
+stages: [S5]
+tags: [language, screen, anti_tv, matsuda, japan]
+
+front:
+  title: "教说话先把电视关了"
+  hook: "电视一开就听不见"
+
+back:
+  why_matters: |
+    松田 §295 给"我家娃不会说话"妈妈一刀直击：
+    1. 不教不会说 — 会说话不是自动的;
+    2. 必须面对面,看母亲口形;
+    3. 发音清楚准确，"演口技不动嘴"不行;
+    4. 电视一直响 → 婴儿听不见母亲声音 → 永远不会说话;
+    5. 语言是感情联系工具，不是单方说出;
+    6. 9-12 月先理解再发音 — "苹果哪个"指对画册不会发音是正常的。
+    立场跟 Lansbury "0-2 岁不看屏"+ Brazelton "2 岁前一秒别看屏"
+    一致 + 加了"教说话维度"。
+
+  what_to_do:
+    - 跟孩子说话时面对面
+    - 关电视 / 收音机 / 平板
+    - 嘴动幅度大、发音清楚
+    - 多用真词不嘎嘎不喵喵
+    - 不指望孩子"自然学会"
+
+  failure_mode: |
+    "我开电视给娃磨耳朵" → 娃 1 岁还只会"妈妈" → 焦虑 → 怀疑发育迟缓。
+    实际：电视声音是杂音，且画面抢注意力，妈妈说什么娃听不进。
+    现代版：iPad / 婴语童谣循环播放 → 娃语言能力反而落后。
+    替代：每天 1-2 小时面对面读绘本 + 散步路上说话 + 关电视吃饭。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Matsuda
+
+citation:
+  book_title_zh: "定本育儿百科"
+  authors:
+    - 松田道雄
+  publisher_ja: 岩波书店
+  year_first_edition: 1967
+  location: "§295 教婴儿说话"
+  source_id: SRC-024
+
+unit_ids: []
+related_cards:
+  - C-S6-031  # Brazelton 2 岁前一秒都别看屏
+  - C-S6-406  # Lansbury 0-2 岁不看 TV / 视频 / 平板
+  - C-S6-002  # 鲍秀兰 12-15 月念儿歌押韵接背
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

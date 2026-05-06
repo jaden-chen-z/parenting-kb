@@ -1,0 +1,76 @@
+glossary_id: G-TERM-core-self
+type: term
+display_name: 核心自我 (core self)
+
+full_name_zh: 核心自我
+full_name_en: Sense of a Core Self
+
+one_liner: |
+  Stern 命名的 self 第二阶段 — **2-6 月**婴儿形成的"完整自我感",由 4 个独立体验整合:
+  agency(我能做)+ coherence(我是连贯整体)+ affectivity(我有自己感受)+ history(我有连续过去)。
+
+detail: |
+  ## 定义
+  Core self(核心自我)= 2-6 月形成的**第一个完整自我感**,4 个体验缺一不可。
+  - **Self-agency** — 我能做主,我的手脚我能动
+  - **Self-coherence** — 我是不分裂的整体身体
+  - **Self-affectivity** — 我有自己的感受,不是别人的
+  - **Self-history** — 我从过去到现在到未来都是同一个"我"
+
+  ## 反传统(Mahler / Freud)
+  - 旧观点:0-6 月是 dual-unity(共生融合) — Stern 反对
+  - 必须**先有** core self 才能体验"跟妈妈在一起"
+  - 没有"分离" — 因为从未"融合"
+  - 2-6 月主任务是**整合 self**,不是"分离"
+
+  ## 4 个 invariants 的"严重缺失"对应精神病
+  - 缺 agency → catatonia / 紧张症 / 瘫痪感 / 外控感
+  - 缺 coherence → depersonalization / 解体 / 出体感
+  - 缺 affectivity → anhedonia / 无感症 / 解离
+  - 缺 history → fugue / 漫游 / 失忆
+
+  ## 怎么帮 core self 形成
+  - 多让宝宝体验 agency(自己抓 / 自己看)
+  - 摸宝宝全身让感受 coherence
+  - 给宝宝时间体验情感(不立刻 fix)
+  - 用名字 + 镜子建 history 连续感
+  - 4 个都需要日常社交输入
+
+  ## 跟 self-regulating other(C-S3-197)关系
+  - core self 不是"独自形成的"
+  - 父母作为 "self-regulating other" 调节宝宝 6 类 self-experience
+  - 这种调节是 core self 4 invariants 形成的"养料"
+
+  ## 跟 RIGs(C-S3-198)关系
+  - 每次跟 self-regulating other 互动 → 形成 RIG
+  - 多个 RIG 累积 → core self 稳定
+  - RIG 不稳 → core self 4 invariants 受损
+
+  ## 一辈子都活跃
+  - 跟 emergent self 一样,core self 永远在
+  - 大人此刻 sense 自己身体 / 情感 / 历史时,在用 core self
+
+key_facts:
+  - Stern 4 senses of self 第二阶段
+  - 2-6 月形成,4 个独立体验整合
+  - agency + coherence + affectivity + history
+  - 缺失对应精神病诊断
+  - 反 Mahler 共生融合论
+
+related_glossary:
+  - G-PERSON-Stern
+  - G-TERM-emergent-self
+  - G-TERM-subjective-self
+  - G-TERM-verbal-self
+  - G-TERM-RIGs
+
+related_cards: []
+
+sources:
+  - source_id: SRC-018
+  - external: Stern《The Interpersonal World of the Infant》Ch 4-5
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

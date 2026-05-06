@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Shweder
+type: person
+display_name: "Shweder(理查德·施韦德)"
+
+full_name_en: "Richard A. Shweder"
+full_name_zh: "理查德·施韦德"
+
+position: |
+  University of Chicago Committee on Human Development
+
+contribution: |
+  cultural psychology + multiple mentalities + constitutive culture
+
+one_liner: |
+  理查德·施韦德 — cultural psychology + multiple mentalities + constitutive culture
+
+key_facts:
+  - "本卷章节:Ch 13"
+  - "Lerner V1 命中:150+ 次"
+  - "学派:Lerner V1 文化心理学派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+    chapter: "Ch 13"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

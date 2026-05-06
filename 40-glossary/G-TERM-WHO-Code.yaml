@@ -1,0 +1,72 @@
+glossary_id: G-TERM-WHO-Code
+type: term
+display_name: "WHO Code 母乳代用品营销守则"
+
+en_term: "International Code of Marketing of Breast-milk Substitutes"
+zh_term: "母乳代用品国际营销守则"
+
+one_liner: |
+  WHO 1981 第 34 届 WHA 通过,禁止奶粉公司不当营销,84 国立法实施。
+
+detail: |
+  ## 定义
+  International Code of Marketing of Breast-milk Substitutes — WHO 1981 年第 34 届世卫大会通过的国际政策框架,目标限制配方奶 + 相关产品营销。
+  
+  ## 4 大利益方禁令
+  妈妈端:
+  - 'All forms of product advertising and promotion are prohibited'
+  - 无产品样品给妈妈
+  - 公司不得直接联系妈妈
+  
+  医生端:
+  - 无礼物/财务回扣给医疗专业人员
+  - 'samples in no case should be passed on to mothers'
+  
+  医院端:
+  - 'Promotion of any product is forbidden in a health care facility'
+  - 不得免费/低价提供
+  
+  标签端:
+  - 'Pictures or text which may idealize the use of infant formula should not be used'
+  - 必须警告污染风险
+  
+  ## 涵盖产品
+  - 配方奶(0-6 月)
+  - 跟随奶(6-12 月)
+  - 增长奶(12 月+)
+  - 1 岁内任何乳制品/婴儿食品
+  - 奶瓶 + 奶嘴
+  
+  ## 后续 WHA 决议
+  1986 / 1990 / 1994 / 2005 / 2010 / 2016 — 持续加强。
+  
+  ## 实施现状
+  'Since 1981, 84 countries have enacted legislation implementing all or many of the provisions of the Code.'
+  违规仍广泛 — Nestle 1977 抵制运动是历史标志,IBFAN/UNICEF/WHO 持续监测。
+  中国《婴幼儿配方乳粉广告法》仅部分对接。
+
+key_facts:
+  - "1981 年 WHA 通过"
+  - "84 国立法实施"
+  - "4 大利益方禁令"
+  - "中国仅部分对接"
+
+related_glossary:
+  - G-TERM-formula-marketing
+  - G-TERM-breastmilk-substitutes
+  - G-TERM-IBFAN
+  - G-TERM-NetCode
+
+related_cards:
+  - C-S0-1026
+  - C-S1-1009
+  - C-S1-1010
+  - C-S1-1011
+
+sources:
+  - source_id: SRC-031
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,47 @@
+card_id: C-S1-2303
+stages: [S1]
+tags: [safety, red_flag]
+
+front:
+  title: 婴儿 CPR:30 压 2 吹 100 次/分
+  hook: 用 2-3 指,不用掌根
+
+back:
+  why_matters: |
+    心肺复苏(CPR)= 心跳/呼吸停止时,人工呼吸 + 胸部按压维持血氧到救援到达。
+    1 岁以下与成人差异:**用 2-3 指按压**(不是掌根),按压深度仅 1.3-2.5 cm,
+    呼吸时**口对口鼻一起密封**(婴儿嘴小)。海蒂强调:**先做 1 分钟再打 120**,
+    再继续 — 缺氧 4 分钟脑损伤,救援平均 8-10 分钟到。会做 vs 不会做 = 生死。
+  what_to_do:
+    - 拍脚底 + 喊名字判意识;无反应 → 仰放硬平面,头与心脏齐平
+    - 仰头抬下巴开气道,看 / 听 / 感觉 3-5 秒有无呼吸
+    - 无呼吸 → 缓慢 2 次人工呼吸(口盖鼻+嘴,1-1.5 秒/次,见胸起伏)
+    - 检查生命迹象;无 → 两乳连线下一指,2-3 指按 5 次/约 1.3-2.5 cm 深
+    - 5 压 1 吹循环,频率 100 次/分,1 分钟后打 120,继续到救援到
+  failure_mode: |
+    用掌根按婴儿胸 → 肋骨断、内脏伤。
+    吹气太猛 → 空气进胃 → 呕吐 → 误吸入肺。
+    "等救护车来再做" → 4 分钟脑损伤,等不起。
+    怀疑颈椎伤却乱翻身 → 截瘫(用双手托颌法开气道)。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-AAP
+
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1 岁"
+  authors: [Heidi Murkoff, Sharon Mazel]
+  publisher_en: Workman Publishing
+  publisher_zh: 南海出版公司(新经典发行)
+  year: 1989
+  edition: 3rd (2014)
+  location: "第 19 章《急救常识》'心肺复苏术 + 1-2-3 步检查 + A-B-C 步骤',590-596 页中译"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards: [C-S1-2302, C-S1-061]
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

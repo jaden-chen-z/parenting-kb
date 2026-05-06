@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Lamb
+type: person
+display_name: "Lamb(迈克尔·兰姆)"
+
+full_name_en: "Michael E. Lamb"
+full_name_zh: "迈克尔·兰姆"
+
+position: |
+  University of Cambridge 心理学教授
+
+contribution: |
+  父亲角色研究 + 父子互动独特功能
+
+one_liner: |
+  迈克尔·兰姆 — 父亲角色研究 + 父子互动独特功能
+
+key_facts:
+  - "本卷章节:Ch 8"
+  - "Lerner V3 命中:85 次"
+  - "学派:Lerner V3 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-027
+    chapter: "Ch 8"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

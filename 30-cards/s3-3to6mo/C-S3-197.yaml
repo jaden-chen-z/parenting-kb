@@ -1,0 +1,72 @@
+card_id: C-S3-197
+stages: [S3]
+tags: [self, philosophy, parent_attitude]
+
+front:
+  title: 父母 = 自我调节他者
+  hook: 你不只陪你在调节
+
+back:
+  why_matters: |
+    Stern 命名 自我调节他者= 父母对宝宝最准确的角色描述,**不只是"陪伴"**,而是宝宝多种 self-experience 的**调节器**。
+    **父母调节宝宝的 6 类 self-experience**:
+    1. **兴奋度调节**(self-兴奋度-调节中)— peek-a-boo / "我要抓你了" 等游戏 — 让宝宝兴奋曲线 循环
+    2. **情感强度调节**(self-情感-强度-调节中)— 你笑得更大 → 宝宝笑得更大 → 你又升级 — 正反馈螺旋
+    3. **情感类别调节**(self-情感-类别-调节中)— 同一个事(比如打翻杯子),你说"哎呀" vs "好玩!"决定宝宝把它觉察为什么情感
+    4. **安全感调节**(self-安全感-调节中)— 抱着 / 拥抱 / 凝视 — 安全感来自跟你同在
+    5. **注意力调节**(self-注意-调节中)— 你指哪里 / 看哪里 — 教宝宝怎么探索世界
+    6. **生理状态调节**(self-身体的-状态-调节中)— 喂奶 / 哄睡 — 不是 dual-统一 融合,是有调节者
+    **核心反传统**:
+    - 老观念:父母只是"照顾者" + "玩伴" — 太被动
+    - 精神分析老观念:0-6 月是 "dual-统一"(母婴一体融合)
+    - **Stern 反**:你是宝宝**多个 self 系统的调节器**,这是必然的 + 重要的角色
+    - 宝宝不是被动接受 — 也在通过 目光回避(避目光)、面部表情、声音 **调节你**
+    **对家长的实操含义**:
+    - 别怕"管太多" — 你的存在就是 主动 调节
+    - 不在场时(双职工家庭)— 替代调节者(月嫂 / 阿姨 / 爷奶)需要稳定
+    - 6 类调节缺一不可,不能只做"安全感调节"忽略其他
+    **Stern vs Bowlby**:
+    - Bowlby 主要谈 依恋(= 安全感调节)
+    - Stern 扩展到 **6 类**调节
+    - 安全感只是其中一类跟 Lillard 蒙氏母-师角色(C-S6-186)互补。
+  what_to_do:
+    - 主动玩 peek-a-boo 类兴奋度调节游戏
+    - 用情感同步螺旋(笑/共笑)
+    - 解读宝宝事件给情感名字
+    - 喂睡时记得是 社交 时刻(C-S2-194)
+    - 6 类调节都要做,不只安全感
+  failure_mode: |
+    "我只要陪宝宝就行" — 错。Stern 6 类调节都要主动做。"陪"是被动的,父母是 主动 调节者。
+    把所有调节责任推给"主依恋人" → 其他人(配偶 / 老人)没参与 6 类调节 → 替代失败。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Stern
+  - G-PERSON-Bowlby
+  - G-TERM-core-self
+  - G-TERM-attachment
+
+citation:
+  book_title_zh: "婴儿的人际世界"
+  book_title_en: "The Interpersonal World of the Infant"
+  authors: ["Daniel N. Stern"]
+  authors_zh: ["丹尼尔·斯特恩"]
+  publisher_en: "Basic Books"
+  year_en: 1985
+  isbn_en: "978-0-465-09559-9"
+  location: "Ch 5 · Self with Other (self-regulating others)"
+  publisher_zh: "华东师范大学出版社"
+  year_zh: 2017
+  translator_zh: ["刘旭东"]
+  source_id: SRC-018
+
+unit_ids: []
+related_cards:
+  - C-S3-196       # Stern Core self 4 invariants
+  - C-S2-194       # Stern 喂换睡也是社交时刻
+  - C-S6-186       # Lillard 母-师角色
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

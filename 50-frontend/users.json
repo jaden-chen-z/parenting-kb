@@ -1,0 +1,9 @@
+{
+  "_comment": "在 users 数组里填允许登录的邮箱(最多 ~20 个)。Login.html 拉这个文件做匹配,匹配大小写不敏感。改完无需重启,刷新登录页即生效。",
+  "users": [
+    {
+      "email": "jadenttk@gmail.com",
+      "name": "Jaden"
+    }
+  ]
+}

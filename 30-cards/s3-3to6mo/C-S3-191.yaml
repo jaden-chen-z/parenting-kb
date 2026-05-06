@@ -1,0 +1,58 @@
+card_id: C-S3-191
+stages: [S3]
+tags: [montessori, hand-发展, philosophy]
+
+front:
+  title: 别塞玩具到宝宝手里
+  hook: 塞 = 剥夺意图自主
+
+back:
+  why_matters: |
+    Lillard Ch4 强烈反对一个常见动作 — **大人看到宝宝手空,就塞个玩具**:
+    - 3-5 月宝宝刚发展出**意图抓握** — 自己伸手 + 自己抓
+    - 大人塞过去 → 宝宝错过这个练习
+    - 宝宝学到的不是"我能抓",是"东西会自己来"
+    - 长期 → 宝宝不主动伸手,等大人给
+    - 大脑里"我能影响环境"的神经通路没建立 → 自我效能感弱
+    Lillard 引大脑反馈环原理:**手做 → 脑学 → 脑指挥 → 手做** — 这个环每被人替做一次,就少一次学习机会。
+    替代方案:
+    - 把物品放在宝宝**伸手能够到**的位置(够不到也别塞)
+    - 让宝宝**挣扎一会儿** — 这正是学习
+    - 只在宝宝真的快放弃了再帮一把跟 Davies(C-S3-136 别把玩具塞他手里)立场一致 — Lillard 解释了神经科学背景。
+  what_to_do:
+    - 把物品放伸手够到的位置
+    - 看宝宝够不到 — 等 30 秒别帮
+    - 真的放弃了再帮
+    - 帮一半让宝宝完成
+    - 不主动塞物品给宝宝手里
+  failure_mode: |
+    "宝宝手空就给个东西不闷" — 反:这正是宝宝在练习的瞬间,塞过去 = 取消练习。
+    长期塞 → 宝宝长大被动 / 不主动 / 自我效能弱。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Lillard
+  - G-PERSON-Jessen
+  - G-TERM-coordinated-movement
+  - G-TERM-self-construction
+
+citation:
+  book_title_zh: "蒙台梭利从 0 岁开始"
+  book_title_en: "Montessori from the Start"
+  authors: ["Paula Polk Lillard", "Lynn Lillard Jessen"]
+  authors_zh: ["宝拉·波尔克·莉拉德", "琳·莉拉德·杰森"]
+  publisher_en: "Schocken Books"
+  year_en: 2003
+  isbn_en: "978-0-8052-1112-1"
+  location: "Ch 4 · 'The Hand and the Brain' (intentional grasp)"
+  source_id: SRC-016
+
+unit_ids: []
+related_cards:
+  - C-S3-136       # Davies 别把玩具塞他手里
+  - C-S5-131       # Davies 不替宝宝做能做的事
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

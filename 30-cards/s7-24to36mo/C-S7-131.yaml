@@ -1,0 +1,74 @@
+card_id: C-S7-131
+stages: [S7]
+tags: [montessori, milestone, philosophy, school]
+
+front:
+  title: 3 岁是真"上学龄"
+  hook: 3 岁起开始上学
+
+back:
+  why_matters: |
+    Lillard Ch9 解释 — **3 岁是 Maria Montessori 选定 Children's House(蒙氏小学)起始年龄的原因**:
+    3 岁前 vs 3 岁后的关键差异:
+    - **3 岁前** — 服从是不稳定(看场景 + 心情 + 累不累)
+    - **3 岁起** — 服从能力**一致**(如果他选)
+    3 岁宝宝能做到的(Children's House 期待):
+    - 拉椅子归位
+    - 物品归位
+    - 仔细处理(不摔打)
+    - 等待(不抢)
+    - 短期遵守规则
+    - 等待轮到自己这就是蒙氏教育从 3 岁正式开始的物理基础 — 之前 0-3 岁是"准备期",**真正的教育从 3 岁起**。
+    实操含义 — 3 岁前不要期待孩子是"小大人":
+    - 0-3 岁:观察 + 准备 + 提供 + 重复
+    - 3 岁起:可教 + 可期待 + 可纠正 + 可解释跟"宝宝 1 岁就该懂事" / "2 岁该听话"**对立** — Lillard 立场:**3 岁前一切都是练 + 准备**。
+  what_to_do:
+    - 0-3 岁:准备 + 重复 + 不期待
+    - 3 岁起:可教 + 期待 + 解释
+    - 3 岁选蒙氏 / 重视独立的园
+    - 不让 3 岁前 "提早上学"
+    - 评估孩子是看 3 岁后,不看 0-3 岁
+  failure_mode: |
+    "我家 2 岁孩子怎么这么不听话" — 蒙氏:3 岁前都不能"听话",这不是问题。
+    给 0-3 岁孩子提早学知识 → 跳过准备期 → 反而 3 岁起表现差。
+  evidence_level: B
+
+  positions:
+    issue: 3 岁画像 — 平静 vs 难过 · 能力跃升 vs 分离焦虑
+    views:
+      - school: Brazelton
+        source: SRC-010
+        stance: '"second honeymoon" — 3 岁比 2 岁平静,亲子关系重新进入蜜月期。'
+      - school: Bowlby V2
+        source: SRC-012
+        stance: 3 岁分离比 2 岁更难(Shirley 1941 实证),分离焦虑窄域更突出。
+      - school: Lillard(蒙氏)
+        source: SRC-016
+        stance: 3 岁是"上学龄"— 能力跃升正面,适合进入 prepared environment。
+      - school: 中国主流
+        stance: '"threes are worse than twos"(无人正面写,gap)— 实操常感 3 岁更难带。'
+glossary_refs:
+  - G-PERSON-Lillard
+  - G-PERSON-Jessen
+  - G-PERSON-Montessori
+  - G-TERM-self-construction
+
+citation:
+  book_title_zh: "蒙台梭利从 0 岁开始"
+  book_title_en: "Montessori from the Start"
+  authors: ["Paula Polk Lillard", "Lynn Lillard Jessen"]
+  authors_zh: ["宝拉·波尔克·莉拉德", "琳·莉拉德·杰森"]
+  publisher_en: "Schocken Books"
+  year_en: 2003
+  isbn_en: "978-0-8052-1112-1"
+  location: "Ch 9 · 'Developing Will' (3 years = school age)"
+  source_id: SRC-016
+
+unit_ids: []
+related_cards:
+  - C-S7-130       # Lillard 服从 3 阶段
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

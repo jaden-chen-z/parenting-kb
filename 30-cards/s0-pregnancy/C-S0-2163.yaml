@@ -1,0 +1,36 @@
+card_id: C-S0-2163
+stages: [S0]
+tags: [postpartum, mom, controversy]
+front:
+  title: 高质量陪伴=换尿布+做饭说话
+  hook: 不必专门腾出时间陪
+back:
+  why_matters: |
+    前情:上班妈妈愧疚没"高质量陪伴"想专门腾时间。
+    海蒂的定义是:高质量育儿时间=以热情积极的方式把时间花在与宝宝有关的事情上。换尿布时聊天、做饭时让宝宝坐高脚椅旁边、洗澡时玩躲猫猫——这些都算。看宝宝有没有微笑大笑就知道质量够不够,不必强求专属"陪玩时段"。
+  what_to_do:
+    - 做家务时跟宝宝说话讲解
+    - 换尿布时唱歌做表情
+    - 让宝宝坐高脚椅陪你吃饭
+    - 用婴儿车带宝宝去公园=陪伴+锻炼
+    - 看宝宝是否回应来判断质量
+  failure_mode: 误以为必须专门腾出"无干扰陪玩 2 小时"才算陪伴,做不到就内疚,实际错过了大量自然互动机会。
+  evidence_level: B
+glossary_refs: []
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors: ["Heidi Murkoff", "Sharon Mazel"]
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh: ["莫夏迪", "张敏"]
+  location: "第 23 章 《妈妈的第一年》, 页 702-704"
+  source_id: "SRC-040"
+related_cards: [C-S0-2161, C-S0-2167, C-S0-2168]
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

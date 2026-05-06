@@ -1,0 +1,86 @@
+card_id: C-S6-133
+stages: [S6]
+tags: [montessori, boundaries, discipline, philosophy]
+
+front:
+  title: 温柔但清晰的边界
+  hook: 1 岁后蒙氏纪律方式
+
+back:
+  why_matters: |
+    1 岁后宝宝开始挑战 — 抢东西 / 打人 / 不肯穿衣 / 倒水玩 / 拒吃。
+    家长两个常见极端:
+    - **严厉派**:打 / 吼 / 罚 — 短期听话,长期破坏信任
+    - **溺爱派**:都行 / 都让 — 短期省事,长期没边界蒙氏第三条路:**Kind and clear boundaries**(温柔但清晰的边界)。
+    操作公式:**"我不让你 X,你可以 Y"**
+    例子:
+    - 抢哥哥玩具 → "我不让你抢哥哥的车,你可以拿这个球"
+    - 打妈妈 → "我不让你打我,我把你放下来。你可以拍枕头"
+    - 倒水玩 → "我不让你倒水玩,你可以在浴室倒"
+    - 不肯穿衣 → "我不让你不穿出门,你可以选这件或那件"
+    3 个关键:
+    1. **温柔语气** — 不喊,不吼,平静
+    2. **清晰内容** — 明确"不让"+ 明确"可以"
+    3. **行动跟上** — 不是只说,你真的把他从哥哥那里抱开关键 — **限制行为,不限制人**。
+    "我不让你 X" — 行为是错的
+    "你可以 Y" — 你这个人是好的,只是这个动作不行跟体罚 / 吼叫的对比:
+    - 体罚:学到"我是坏的 + 大的可以打小的"
+    - 边界:学到"这个动作不行,但我可以试别的"
+    Bowlby + 鲍秀兰 + AAP **都反对体罚**(C-S6-126 / C-S6-007)。
+  what_to_do:
+    - 用"我不让你 X,你可以 Y"句式
+    - 语气温柔不喊
+    - 行动跟上(真的抱开 / 真的拿走)
+    - 一次说一条,不堆砌
+    - 全家一致(妈爸爷奶同句式)
+  failure_mode: |
+    "他听不懂,我得吼才管用" — 1 岁能听懂语调 + 简单语义。吼让他怕,不让他懂。
+    "我说一遍他不听" — 是因为没行动跟上。一句 + 一动作 = 真边界。
+    "蒙氏不打 = 没纪律" — 反:蒙氏纪律 = 内化的自律,不是被打的恐惧。
+  evidence_level: B
+
+  positions:
+    issue: '"妈不要你了" 等威胁话术作为管教手段是否可行'
+    views:
+      - school: Bowlby V2
+        source: SRC-012
+        stance: 强烈反对 — 等同系统性精神虐待,直接破坏依恋安全。属儿童虐待范畴。
+      - school: Davies
+        source: SRC-014
+        stance: 温柔而清晰的边界,不撤回爱。规则讲明,情绪仍在场。
+      - school: Lillard
+        source: SRC-016
+        stance: No 永远是 No,但界限设置不带情绪 / 不带威胁。
+      - school: 鲍秀兰
+        source: SRC-009
+        stance: 不打孩子立场对齐反虐待派,但未直接禁此话术。
+      - school: 中国主流
+        stance: '"妈不要你了" 是常用威胁话术;"我是为你好" 是常用绑架话术。'
+glossary_refs:
+  - G-PERSON-Davies
+  - G-PERSON-Montessori
+  - G-PERSON-Bowlby
+  - G-TERM-discipline
+  - G-TERM-tantrum
+
+citation:
+  book_title_zh: "蒙特梭利的小宝宝(0-1岁)"
+  book_title_en: "The Montessori Baby"
+  authors: ["Simone Davies", "Junnifa Uzodike"]
+  authors_zh: ["西蒙·戴维斯", "君妮法·乌佐迪克"]
+  publisher_en: "Workman Publishing"
+  year_en: 2021
+  isbn_en: "978-1-5235-0693-7"
+  location: "Chapter 5 · Having kind and clear boundaries"
+  source_id: SRC-014
+
+unit_ids: []
+related_cards:
+  - C-S6-007       # 鲍秀兰 全家一致 不打
+  - C-S6-070       # Bowlby 体罚创伤
+  - C-S6-126       # Wonder Week 跃迁期不打不骂
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

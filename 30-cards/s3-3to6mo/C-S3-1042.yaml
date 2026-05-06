@@ -1,0 +1,75 @@
+card_id: C-S3-1042
+stages: [S3]
+tags: []
+
+front:
+  title: "辅食 4 月还 6 月?"
+  hook: "WHO 6 vs AAP"
+
+back:
+  why_matters: |
+    辅食时机 — 现库 4 派立场对照(独家维度):
+    ① WHO/UNICEF:6 月起(不早也不晚)
+    ② AAP(SRC-006):4-6 月,看准备好信号(头控/伸手抓/能从勺到喉)
+    ③ 鲍秀兰(SRC-009):6 月起
+    ④ 松田(SRC-024):5-6 月起,有弹性
+    WHO 立场依据:
+    - 6 月前母乳能量+营养足够
+    - 6 月前肠道未成熟,早期辅食增加感染/过敏风险
+    - 6 月起母乳能量需求超出
+    AAP 立场依据(SRC-006 LEAP 研究):
+    - 早期(4-6 月)引入过敏食物反而预防过敏实操:WHO 是国际基准,AAP 给临床弹性。中国家长可参考 6 月,真早需要(WHO 也允许 4-6 月在准备好满足时)看医生。
+  what_to_do:
+    - "默认参考 WHO 6 月起"
+    - "AAP 4-6 月也是合理(看准备好)"
+    - "鲍秀兰 6 月,松田 5-6 月,都不早于 4 月"
+    - "4 月前坚决不给(肠道未成熟)"
+    - "6 月才开始更稳 — 国际医学共识"
+  failure_mode: |
+    听老人 '4 月加米粉助消化' → 跟 WHO/AAP/鲍/松田全冲突。
+    4 月前是 'no go zone',6 月是国际基准。
+  evidence_level: A
+
+  positions:
+    issue: 辅食(CF)何时引入 — 6 月 EBF 还是 4-6 月看 readiness
+    views:
+      - school: WHO / UNICEF
+        source: SRC-031
+        stance: 6 月起辅食(不早不晚)— EBF 0-6 月明确操作定义(连水都不给,例外 ORS / 维生素 / 药物)。
+      - school: AAP
+        source: SRC-006
+        stance: 4-6 月,看 readiness 信号(头控 / 伸手抓 / 能从勺到喉)+ LEAP 早引入立场。
+      - school: 鲍秀兰
+        source: SRC-009
+        stance: 6 月起辅食,跟 WHO 一致;反对 4 月前给水或辅食。
+      - school: 松田道雄
+        source: SRC-024
+        stance: 5-6 月起,有弹性;不等到严格 6 月,但也反对 4 月前提前。
+      - school: 中国家长共识
+        stance: 默认 6 月起,4 月前坚决不给(4 派立场一致,中国家长普遍接受)。
+glossary_refs:
+  - G-ABBR-CF
+  - G-TERM-WHO-six-months
+
+citation:
+  page_title: "WHO Complementary Feeding + AAP Starting Solid Foods 立场对照"
+  publisher: "World Health Organization & UNICEF"
+  page_url_primary: https://www.who.int/health-topics/complementary-feeding
+  accessed: 2026-05-04
+  language: en
+  location: "WHO 6 月 vs AAP 4-6 月 vs 鲍秀兰 6 月 vs 松田 5-6 月四派对照"
+  source_id: SRC-031
+
+unit_ids: []
+related_cards:
+  - C-S0-1024
+  - C-S3-001
+  - C-S4-1045
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_doc_id_pending: D6
+citation_followup_needed: '已映射真实 doc_id (D6 = WHO Complementary Feeding)'

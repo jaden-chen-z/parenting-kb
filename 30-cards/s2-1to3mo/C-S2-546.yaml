@@ -1,0 +1,49 @@
+card_id: C-S2-546
+stages: [S2]
+tags: [crying, anti-cio, hold-baby, philosophy]
+
+front:
+  title: 反"抱坏习惯"老观念
+  hook: 一抱就好就抱起来
+
+back:
+  why_matters: |
+    松田正面反驳老年人忠告:"抱成习惯以后就不好办了"是错的。
+    哭是婴儿唯一的交流手段,忽视会让娃因得不到回应而生气哭。
+    任其哭闹,有的真"哭成习惯",3 月后还经常哭闹 — 反弹更大。
+    哭得厉害腹部用力,有时引疝气(脐疝/腹股沟疝)。
+  what_to_do:
+    - 哭闹时检查饥饿/尿/气体/抱 4 步
+    - 不哭时也每天抱几次
+    - 抱出门散步,接触外空气
+    - 情绪好就放下,不强抱
+    - 别追"4-5 分钟自停"理论
+  failure_mode: |
+    被婆婆/老人压住"别老抱" → 娃哭你不抱 → 信任崩 + 引疝气 + 3 月后哭得更狠。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Matsuda
+
+citation:
+  book_title_zh: "定本《育儿百科》"
+  book_title_jp: "育児の百科(定本)"
+  authors: ["松田道雄"]
+  translators_zh: ["王少丽"]
+  publisher_zh: null
+  year: 1980
+  edition: "定本"
+  location: "第 100 节养成抱的毛病"
+  source_id: SRC-023
+
+unit_ids: []
+related_cards:
+  - C-S2-070  # Bowlby V1 喂奶 ≠ 建立依恋
+  - C-S2-002  # Karp 撑过哭闹峰不是父母失败
+  - C-S1-190  # Lansbury 回应宝宝不会宠坏
+  - C-S4-016  # 鲍秀兰 8 月前抱抱不会宠坏
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

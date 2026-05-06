@@ -1,0 +1,56 @@
+card_id: C-S1-354
+stages: [S1]
+tags: [communication, RIE, lansbury]
+
+front:
+  title: "听我哭,不要急着堵嘴"
+  hook: "情绪要被听不要修"
+
+back:
+  why_matters: |
+    Lansbury Ch1 + Ch5 关键命题:
+    新生儿哭不只是 "需要被止住",是在沟通。
+    主流反射:塞奶嘴 / 摇晃 / 嘘嘘 / 转移注意。
+    Lansbury 说:这是"修复",不是"听"。
+    引《Grief Recovery Handbook》:
+    "我们教人怎么获得,不教怎么处理失去。"
+    新生儿哭也是早期的"小失去"练习场。
+
+  what_to_do:
+    - 哭时先蹲下,平视宝宝眼睛
+    - 不立刻塞奶嘴,先说:"我听到你了"
+    - 排查饿 / 困 / 尿 / 痛后,允许哭一会儿
+    - 抱着安静在场,不分散转移
+    - 哭完后说:"那个真的难"
+
+  failure_mode: |
+    一哭就奶嘴 / 摇晃 / 转移视线 → 宝宝学到"情绪要被堵住"。
+    长期影响:成年后回避情绪。
+    但这不等于不抱 — 抱着听情绪走完是可以的。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Lansbury
+  - G-PERSON-Gerber
+  - G-TERM-acknowledging-feelings
+  - G-TERM-RIE
+
+citation:
+  book_title_en: "Elevating Child Care: A Guide to Respectful Parenting"
+  book_title_zh: "尊重孩子:RIE 育儿之道"
+  authors:
+    - Janet Lansbury
+  publisher_en: JLML Press
+  year: 2014
+  location: "Ch1 + Ch5 Good Grief"
+  source_id: SRC-019
+
+unit_ids: []
+related_cards:
+  - C-S1-247  # Lillard 头月观察
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

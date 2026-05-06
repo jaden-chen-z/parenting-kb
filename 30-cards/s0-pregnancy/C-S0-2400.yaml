@@ -1,0 +1,56 @@
+card_id: C-S0-2400
+stages: [S0]
+tags: [safety, red_flag, controversy]
+
+front:
+  title: 1 岁内汽车安全座椅必须后向
+  hook: 美国 AAP 死命令,中国家长普遍违规
+
+back:
+  why_matters: |
+    海蒂在第二版前言把"1 岁前必须后向安全座椅"列为**最重大的更新指南**之一,与"仰睡防 SIDS"并列。
+    原理:婴儿头部相对身体大、颈部肌肉弱,正面碰撞时**前向座椅会让头部猛甩,颈椎易折**;后向座椅让宝宝整个背部分散冲击力,生还率提升 5 倍。
+    AAP 最新建议:**至少到 2 岁,理想到座椅体重上限**(很多座椅可后向到 18 公斤,够用到 4 岁)。
+    后排中央位置 > 后排两侧 > 副驾(绝对禁,气囊弹出会致命)。
+  what_to_do:
+    - 出院第一程:后向安装在后排中央,角度 45 度
+    - 绝不为了能看脸把座椅转前向(可买后视镜挂前座椅背)
+    - 1 岁前不要换前向(海蒂底线),AAP 推到 2 岁后
+    - 副驾驶气囊未关 → 任何朝向都不能放儿童
+    - 座椅二手别用(撞过的有微裂),自己买新的
+    - 安装后晃动 < 2.5 cm 才算合格
+  failure_mode: |
+    "宝宝哭闹要看见我才行"→ 转前向,撞车致命率倍增。
+    把宝宝放副驾大人怀里 → 副驾气囊弹出 = 致命武器。
+    冬天厚衣服直接绑安全座椅 → 安全带松紧不准,撞击时宝宝飞出。
+    出门只 5 分钟没装座椅 → 90% 致命事故离家 5 公里内。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-AAP
+  - G-ABBR-SIDS
+
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors:
+    - Heidi Murkoff
+    - Sharon Mazel
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh:
+    - 莫夏迪
+    - 张敏
+  location: "第二版前言 + 第 2 章婴儿装备 · 汽车安全座椅"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards: []
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

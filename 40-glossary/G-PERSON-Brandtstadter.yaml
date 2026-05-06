@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Brandtstadter
+type: person
+display_name: "Brandtstadter(约亨·布兰德施泰德)"
+
+full_name_en: "Jochen Brandstädter"
+full_name_zh: "约亨·布兰德施泰德"
+
+position: |
+  University of Trier 心理学教授
+
+contribution: |
+  action theory of self-development + assimilation/accommodation 双过程
+
+one_liner: |
+  约亨·布兰德施泰德 — action theory of self-development + assimilation/accommodation 双过程
+
+key_facts:
+  - "本卷章节:Ch 10"
+  - "Lerner V1 命中:150+ 次"
+  - "学派:Lerner V1 行动理论派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+    chapter: "Ch 10"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

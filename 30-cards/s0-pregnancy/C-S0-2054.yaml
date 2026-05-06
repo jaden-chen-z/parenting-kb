@@ -1,0 +1,55 @@
+card_id: C-S0-2054
+stages: [S0]
+tags: []
+
+front:
+  title: 产前面谈选儿科医生 7 问清单
+  hook: 怀孕 7-8 月预约见面
+
+back:
+  why_matters: |
+    产前面谈(prenatal interview)= 怀孕 7-8 月时主动约目标儿科医生面谈一次,免费或低费,看理念合不合再签。
+    海蒂强调:别等宝宝出生才挑医生 — 早产或急诊时你就没空慢慢面试了。
+    Brazelton 也说"医患关系是治疗关系"(见 C-S0-007),早建立才有信任。
+    7 个高优先级议题:母乳支持、提前出院、包皮环切、素食、预防医学、抗生素使用、辅助疗法。
+  what_to_do:
+    - 怀孕 7-8 月预约 1-2 个候选医生面谈
+    - 必问:'对母乳支持到什么程度?'
+    - 必问:'需要时能开抗生素到什么阈值?'
+    - 看候诊室氛围:玩具新不新 / 前台耐不耐心
+    - 问急诊处理流程:打电话 vs 直接去医院
+    - 选合伙诊所要确认能否固定看一个人
+  failure_mode: |
+    出生后才挑医生 → 急诊时只能找替班 / 病历没建。
+    只看证书不看理念 → 母乳期发现医生劝你转配方就晚了。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Brazelton
+
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors:
+    - Heidi Murkoff
+    - Sharon Mazel
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh:
+    - 莫夏迪
+    - 张敏
+  location: "第 1 章临产前的准备 · 选择合适的医生 · 产前面谈"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards:
+  - C-S0-007    # Brazelton 医患关系哲学(本卡是其操作清单)
+  - C-S0-001    # Brazelton 早建立信任
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

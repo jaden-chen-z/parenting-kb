@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-LeVine
+type: person
+display_name: "LeVine(罗伯特·勒文)"
+
+full_name_en: "Robert A. LeVine"
+full_name_zh: "罗伯特·勒文"
+
+position: |
+  Harvard Graduate School of Education
+
+contribution: |
+  人类学 + 跨文化育儿 + 早期 culture theory
+
+one_liner: |
+  罗伯特·勒文 — 人类学 + 跨文化育儿 + 早期 culture theory
+
+key_facts:
+  - "本卷章节:Ch 13"
+  - "Lerner V1 命中:50+ 次"
+  - "学派:Lerner V1 文化心理学派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+    chapter: "Ch 13"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

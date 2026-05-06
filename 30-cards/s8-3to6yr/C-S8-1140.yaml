@@ -1,0 +1,54 @@
+card_id: C-S8-1140
+stages: ['S8']
+tags: ['philosophy', 'lerner_v1', 'brandtstadter', 'self_other_change']
+
+front:
+  title: "改环境 vs 改自己"
+  hook: "5 岁该练双策略"
+
+back:
+  why_matters: |
+    Brandtstadter 双过程在 5 岁开始能教 —
+    让娃自己决定 — 这件事我改环境(assimilate)还是改自己(accommodate)?
+    经典场景 —
+    - 学校规则我不喜欢(午睡时间)— 改环境(跟老师沟通)还是改自己(学会接受)?
+    - 朋友惹我 — 改环境(换朋友)还是改自己(沟通修复)?
+    - 我做不到某事 — 改环境(找帮助)还是改自己(练)?
+    意义 — 培养 agency 意识 — 娃知道自己有 2 个策略,不是被动。
+    中国家庭常 — 一律 accommodate(适应规则)→ 培养顺从娃,不培养 agency。
+    应支持双策略,让娃自己选择 — 这是 PYD competence + character 培养基础。
+    具体 — 跟 5+ 岁娃讨论 "这事咱们能改环境吗?如果不能咱们怎么自己适应?"
+  what_to_do:
+    - "5+ 岁讨论'改环境 vs 改自己'"
+    - "不一律让娃 accommodate"
+    - "agency 是双策略意识"
+    - "assimilate 也教(沟通 / 求助 / 改环境)"
+    - "PYD competence 基础"
+  failure_mode: |
+    一律"你要适应"立场 — 培养顺从娃缺 agency。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Brandtstadter
+  - G-TERM-action-theory
+  - G-TERM-assimilation-accommodation
+
+related_cards:
+  - C-S0-1528
+  - C-S6-1508
+  - C-S7-1606
+  - C-S7-604
+
+citation:
+  source_id: SRC-030
+  source_title: "Handbook of Child Psychology Vol 1: Theoretical Models of Human Development"
+  chapter: "Ch 10 Brandtstadter"
+  chapter_offset: 2820869
+  chapter_title: 'Brandtstädter — Action Theory of Self-Development'
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_followup_needed: 'SRC-030 用 PDF 字节偏移代页码 — 待加 page_pdf 反查工具'

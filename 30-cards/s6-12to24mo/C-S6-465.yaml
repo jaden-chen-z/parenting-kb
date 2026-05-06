@@ -1,0 +1,57 @@
+card_id: C-S6-465
+stages: [S6]
+tags: [discipline, internalization]
+
+front:
+  title: "自律靠自己接管"
+  hook: "外面强逼永远不久"
+
+back:
+  why_matters: |
+    Magda Ch8 章节标题:
+    **Lasting Discipline Comes from Within**。
+    长期有效的自律 = 父母规则 → 孩子自己接管它。
+    不是吼出来的 / 不是怕罚出来的 / 不是奖励换的。
+    自己接管的过程:一致 + 解释 + 时间。
+    跟 Erikson 自我形成 + Bowlby 内部工作模型一致。
+    Magda 反 Skinner 派"行为塑造"。
+
+  what_to_do:
+    - 解释"为什么"不只说"不行" — 解释他能听懂的
+    - 一致性(每次都是)胜过严厉(偶尔狠)
+    - 不奖励换"表现好" — 削弱内在动机
+    - 看到他主动等 / 主动让步 → 平淡确认("我看到你等了")
+    - 自己接管要 18-36 月慢慢生根,不能催
+
+  failure_mode: |
+    "贴小红花换乖" → 短期乖,长期他只为奖励行动 = 反自律。
+    Magda 原话:"被尊重养大的孩子最后自己学会自律"。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Gerber
+  - G-PERSON-Erikson
+  - G-TERM-RIE
+
+citation:
+  book_title_en: "Your Self-Confident Baby"
+  book_title_zh: "自信的宝宝"
+  authors:
+    - Magda Gerber
+    - Allison Johnson
+  publisher_en: John Wiley & Sons
+  year: 1998
+  location: "Ch8 Lasting Discipline Comes from Within"
+  source_id: SRC-022
+
+unit_ids: []
+related_cards:
+  - C-S6-403  # Lansbury 限度+情绪并存
+  - C-S6-192  # Lillard No 永远 No
+  - C-S6-462  # Magda 红黄绿三色(本卷)
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

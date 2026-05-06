@@ -1,0 +1,63 @@
+card_id: C-S7-136
+stages: [S7]
+tags: [montessori, 观察, philosophy, methodology]
+
+front:
+  title: 观察 = 科学家方式
+  hook: 看 = 不投射不预设
+
+back:
+  why_matters: |
+    Lillard Ch10 收尾的方法论 — **怎么"观察"自己的孩子**:
+    Lillard 引 Andrew 的话:**"像科学家一样观察 — 完全开放,不预设。"**
+    什么是"科学家观察":
+    - **不投射** — 看 2 月宝宝反复抬头 + 看到面前枕头,不假设"他想去够枕头"(可能只是练颈肌)
+    - **不预设** — 看到 1 岁宝宝大哭,不假设"他要那个玩具"(可能只是累了)
+    - **看真实** — 现在他在做什么?表情如何?身体怎么动?
+    Maria Montessori 立场:**观察 → 思考 → 行动**(不是"看见就反应")
+    为什么这是核心方法论:
+    - 大人天然以"自己思维"理解孩子 → 错
+    - 不同孩子真的不同 → 必须个别观察
+    - 同孩子不同时刻不同 → 必须当下观察
+    - 不观察 → 干预错位 → 帮倒忙
+    Lillard 实操步骤:
+    1. **看** — 不打断不评论
+    2. **想** — 这一刻"我能做的最少帮助"是什么?
+    3. **行动** — 在合适时刻做最少的帮助跟"我已经懂他"自信 / "我看一眼就知道他要什么"**对立** — Lillard 立场:**永远先观察,永远等一会儿,永远做最少的**。
+  what_to_do:
+    - 看孩子时不预设
+    - '"他在做什么?" 不是 "他想要什么?"'
+    - 等 30-60 秒再干预
+    - 干预做最少的(给一半,让他完成)
+    - 不一直说不一直评价
+  failure_mode: |
+    "我家孩子我懂,看一眼就知道" — 反:每个孩子每个时刻不同,投射 = 帮错。
+    立刻反应 → 错过观察机会 → 帮倒忙。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Lillard
+  - G-PERSON-Jessen
+  - G-PERSON-Montessori
+  - G-TERM-going-slow
+
+citation:
+  book_title_zh: "蒙台梭利从 0 岁开始"
+  book_title_en: "Montessori from the Start"
+  authors: ["Paula Polk Lillard", "Lynn Lillard Jessen"]
+  authors_zh: ["宝拉·波尔克·莉拉德", "琳·莉拉德·杰森"]
+  publisher_en: "Schocken Books"
+  year_en: 2003
+  isbn_en: "978-0-8052-1112-1"
+  location: "Ch 10 · Conclusion (observation methodology)"
+  source_id: SRC-016
+
+unit_ids: []
+related_cards:
+  - C-S0-011       # Davies 蒙氏育儿就是慢
+  - C-S5-131       # Davies 不替宝宝做能做的事
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

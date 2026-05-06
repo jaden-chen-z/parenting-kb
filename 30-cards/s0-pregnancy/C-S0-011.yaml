@@ -1,0 +1,76 @@
+card_id: C-S0-011
+stages: [S0]
+tags: [montessori, philosophy, going-slow]
+
+front:
+  title: 蒙氏育儿就是慢
+  hook: 蒙氏 slow 哲学
+
+back:
+  why_matters: |
+    Davies 把"going slow"放在 Ch5 收尾(整本书育儿哲学的总结),不是巧合。
+    **慢育儿 = 蒙氏方法论的最核心一条**。
+    关键 — 承认现实:
+    - 宝宝大脑处理慢(神经传递慢于成人)
+    - 宝宝身体动作还在发育(手脚配合)
+    - 宝宝感官接收慢(每个新东西都是震撼)
+    - **大人按成人节奏推,宝宝永远跟不上 → 永远焦虑**
+    解决方案不是"训练宝宝快",是**大人主动慢下来**,以宝宝节奏为准。
+    Davies 列的"slow down 11 法":
+    1. 慢动作抱
+    2. 慢说话
+    3. 等宝宝回应(tarry time)
+    4. 让他自己做不催
+    5. 看挣扎先观察 5 秒
+    6. 他盯东西看 — 停下来等他看完
+    7. 慢散步
+    8. 宝宝睡时**什么都别做**
+    9. 自己手工做点东西
+    10. 慢慢跳舞
+    11. 自己也早睡
+    Junnifa 总结她 3 个孩子的 0-3 岁:**"一个词 — 喜悦。慢节奏让孩子有时间探索,我有时间享受。"**
+    跟其他方法论的对比:
+    - Karp 5S = 快(快速 jiggle 安抚)
+    - 鲍秀兰早教 = 按月推时间表
+    - 中国传统"早教热" = 越早越快越好
+    - **蒙氏 = 慢 + 跟着宝宝走**
+  what_to_do:
+    - 每天选 1 件常做的事故意慢 50%
+    - 抱前先告诉宝宝 + 等回应
+    - 看挣扎先观察 5 秒不动
+    - 宝宝睡时不补家务 / 不刷邮件
+    - 接受"慢"是教育投资,不是低效
+  failure_mode: |
+    "慢=我做不完事" — 慢的工作做完比快+焦虑做完更轻松,试 1 周再判断。
+    "我家老人坚持快,他帮我带" — 跟老人沟通"慢是教育需要"(见 C-S6-137)。
+    把"慢"当成"懒"或"效率低" — 慢是有意识的选择,跟懒完全不同。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Davies
+  - G-PERSON-Montessori
+  - G-TERM-going-slow
+  - G-TERM-absorbent-mind
+  - G-TERM-prepared-environment
+
+citation:
+  book_title_zh: "蒙特梭利的小宝宝(0-1岁)"
+  book_title_en: "The Montessori Baby"
+  authors: ["Simone Davies", "Junnifa Uzodike"]
+  authors_zh: ["西蒙·戴维斯", "君妮法·乌佐迪克"]
+  publisher_en: "Workman Publishing"
+  year_en: 2021
+  isbn_en: "978-1-5235-0693-7"
+  location: "Chapter 5 · Going slow(末节,全书哲学总结)"
+  source_id: SRC-014
+
+unit_ids: []
+related_cards:
+  - C-S1-188       # 蒙氏 慢动作换尿布
+  - C-S5-131       # 蒙氏 不替他做
+  - C-S2-128       # 蒙氏 等 3 秒回应
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

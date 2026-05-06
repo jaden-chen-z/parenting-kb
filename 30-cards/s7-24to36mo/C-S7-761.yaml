@@ -1,0 +1,61 @@
+card_id: C-S7-761
+stages: [S7]
+tags: [asthma, over-medicalization, parent-anxiety, controversy]
+
+front:
+  title: 反"哮喘发作"娇惯出
+  hook: 大人围观才叫"发作"
+
+back:
+  why_matters: |
+    松田尖锐:晚上引起"哮喘发作"是 4 岁后,家人都起来围着孩子不知所措 — 这种情形才算"发作"。
+    孩子被推上"皇帝位" — 责备奶奶擦痰不对、责备妈捶背没捶好,是"不想自立的王者"。
+    父母一惊慌,聪明孩子立刻想"我得了重病" → 放弃自立想法。
+    用"这点痰没什么"态度面对,反而好。
+  what_to_do:
+    - 晚上"发作"全家不围观
+    - 用"这点痰没什么"轻松态度
+    - 让娃懂"自己痰自己咳"
+    - 急时按医生方案给皮质激素
+    - 3-4 岁就养自主,防 5-6 岁加重
+  failure_mode: |
+    全家半夜围着娃捶背擦痰 + 奶奶哭"造孽" → 娃认同"重病" → 越发严重。
+  evidence_level: B
+
+  positions:
+    issue: 儿童哮喘 — 心因放大还是器质性疾病(P0 风险)
+    views:
+      - school: 松田 1980
+        source: SRC-024
+        stance: '"哮喘晚发作是娇惯出 / 全家围观才叫发作" — 反过度医疗派立场。仅适用于"家长放大紧张"的心因部分。'
+      - school: 现代呼吸医学 / GINA
+        stance: 哮喘是器质性疾病,需规范用药(吸入激素 + 支气管舒张剂);拒诊延误可致急性发作 / 慢性肺损害。
+      - school: AAP
+        source: SRC-006
+        stance: 小儿哮喘有明确诊断标准 + 长期控制方案;急诊指征明确,需立即就医。
+      - school: P0 安全提醒
+        stance: 父母按松田立场可能延误器质性哮喘治疗。如孩子有反复喘息 / 夜咳 / 运动后喘 → 立即儿科呼吸科评估,不可仅按"娇惯"处理。
+glossary_refs:
+  - G-PERSON-Matsuda
+
+citation:
+  book_title_zh: "定本《育儿百科》"
+  book_title_jp: "育児の百科(定本)"
+  authors: ["松田道雄"]
+  translators_zh: ["王少丽"]
+  publisher_zh: null
+  year: 1980
+  edition: "定本"
+  location: "第 445 节哮喘"
+  source_id: SRC-023
+
+unit_ids: []
+related_cards:
+  - C-S7-759  # 自卷:反"自体中毒"标签
+  - C-S6-403  # Lansbury 限度+情绪并存
+  - C-S7-016  # Brazelton 2 岁三件大事:假装/认同/模仿
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

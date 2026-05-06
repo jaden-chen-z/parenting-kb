@@ -1,0 +1,36 @@
+card_id: C-S0-2164
+stages: [S0]
+tags: [postpartum, dad, FMLA]
+front:
+  title: 美国 FMLA 12 周陪产假但少给薪
+  hook: 假可以请但要算账
+back:
+  why_matters: |
+    前情:美国爸爸想多陪宝宝但担心收入。
+    《家庭医疗假法》(FMLA)规定 50 人以上公司允许男女员工在分娩前后请 12 周假不扣其他假期,但绝大多数不带薪。海蒂指出多数爸爸只请 1-2 天或拼凑年假病假。在中国语境下读这段要看本地《劳动法》和地方陪产假规定。
+  what_to_do:
+    - 阅读公司手册查 FMLA 资格
+    - 询问 HR 公司是否有带薪部分
+    - 提前几周累积加班换时间
+    - 分散使用每周休 1-2 天延长陪伴
+    - 在家办公也是可行选项
+  failure_mode: 不了解自己法定权利,白白错过该请的假;或硬请全部不带薪导致家庭现金流崩。
+  evidence_level: B
+glossary_refs: [G-TERM-FMLA]
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors: ["Heidi Murkoff", "Sharon Mazel"]
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh: ["莫夏迪", "张敏"]
+  location: "第 24 章 《父亲》, 页 712-713"
+  source_id: "SRC-040"
+related_cards: [C-S0-2165]
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

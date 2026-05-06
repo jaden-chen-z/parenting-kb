@@ -21,10 +21,10 @@ back:
     - 吃饭专注,不做电视/零食
   failure_mode: |
     父母用奖励/哄骗/分散注意力短期让孩子吃多,长期变战场,孩子永远赢——以拒食或厌食扳回控制权。
-  evidence_level: A
+  evidence_level: B
 
 glossary_refs:
-  - G-TERM-picky-eating
+  - G-TERM-挑食-eating
   - G-TERM-food-autonomy
   - G-PERSON-Brazelton
 

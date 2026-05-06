@@ -1,0 +1,65 @@
+card_id: C-S6-180
+stages: [S6]
+tags: [cognitive_science, language, theory_of_mind, fast_mapping]
+
+front:
+  title: 18 月凭你眼神判断词指啥
+  hook: 你看哪 dax 就是哪
+
+back:
+  why_matters: |
+    Gopnik 经典实验 — 推翻 Augustine"听到名字看到东西就配对"假设。
+    实验设计:
+    - 18 月宝宝看物体 A
+    - 妈妈看物体 B(同时存在)
+    - 妈妈说"看,一个 dax!"
+    - 然后问宝宝:"指出 dax"
+    宝宝指 **B**(妈妈看的),不是 A(自己看的)。
+    含义:18 月宝宝已经在用 social cue(妈妈在看哪)缩小词义假设。
+    "她说的 dax 是她看的那个,不是我看的"— 已经在用 ToM 学语言。
+    更复杂版本:
+    - 实验员看一桌玩具
+    - 离开后,新玩具被放在桌上
+    - 实验员回来惊呼"看,一个 dax!"
+    - 18 月宝宝把 dax 配给**新来的玩具**(实验员"觉得新"的那个)
+    Gopnik 解读:婴儿不只学词义,还在推断"她为什么说这个词"。
+    对中国家长意义:
+    - 教词不靠"重复 100 遍",靠**眼神 + 手指 + 命名同步**
+    - 你看着苹果说"苹果",宝宝学得最快
+    - 一边看手机一边教词 — 失去 social cue 加成
+  what_to_do:
+    - 教词时**看着那个东西**(眼神 + 手指 + 词同步)
+    - 不要分心命名(看手机时说"看小狗"= 失效)
+    - 双语家庭让 native speaker 用 social cue 教
+    - 不必反复重复,清晰指 + 命名一次足够
+  failure_mode: |
+    "教词靠重复 100 遍" — 错。一次清晰 social cue 胜 100 次分心。
+    一边看手机一边命名 — 失去 ToM 加成,词配错率高。
+    远距离喊"那是花" — 没指,宝宝不知道指哪。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Gopnik
+  - G-TERM-theory-of-mind
+  - G-TERM-baby-scientist
+  - G-TERM-statistical-learning
+
+citation:
+  book_title_en: "The Scientist in the Crib"
+  book_title_zh: "摇篮里的科学家"
+  authors: ["Alison Gopnik", "Andrew N. Meltzoff", "Patricia K. Kuhl"]
+  publisher_en: William Morrow
+  year: 1999
+  location: "Chapter 4 · Making Meanings (social cue word learning)"
+  source_id: SRC-015
+
+unit_ids: []
+related_cards:
+  - C-S5-182       # 1 岁 fast mapping(同理论链)
+  - C-S6-179       # 18 月理解他人欲望
+  - C-S4-185       # 6-9 月 joint attention
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

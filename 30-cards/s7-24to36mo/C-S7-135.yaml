@@ -1,0 +1,78 @@
+card_id: C-S7-135
+stages: [S7]
+tags: [montessori, marriage, family, philosophy]
+
+front:
+  title: 婚姻在孩子之前
+  hook: 夫妻关系胜过孩子
+
+back:
+  why_matters: |
+    Lillard Ch10 案例 — Andrew(成功蒙氏家庭爸爸)直接说:
+    > **"父母回家,先找的是配偶,不是孩子。婚姻是基础,孩子是建在上面的。"**
+    Lillard 立场 — **优先级顺序**:
+    1. **自己**(身心健康)
+    2. **婚姻**(夫妻关系)
+    3. **孩子**(教育发展)
+    为什么:
+    - **婚姻不稳 → 孩子受影响远大于"父母多花时间陪"**
+    - **父母自己崩溃 → 孩子也崩溃**
+    - 孩子学的是"父母怎么对待彼此"(模仿)
+    - 婚姻强 → 父母能给一致的教育 → 孩子稳
+    - 婚姻弱 → 父母互拆台 → 孩子焦虑实操:
+    - 每天找时间夫妻独处(哪怕 15 分钟)
+    - 不在孩子面前贬低对方
+    - 共同立场(意见不合私下谈)
+    - 周末 / 节日先想配偶,再想孩子
+    - 工作累不甩到家庭跟传统"以孩子为中心" / "妈妈全心扑娃"**对立** — Lillard 立场:**这种家庭看似"为孩子",实际孩子最受伤**。
+    跟 Davies(C-S6-138 父母先照顾自己)同方向 — Lillard 加入婚姻角度。
+  what_to_do:
+    - 每天夫妻独处 15 分钟+
+    - 不在孩子面前贬低配偶
+    - 共同立场(私下谈分歧)
+    - 婚姻 > 孩子(优先时间分配)
+    - 不为"孩子幸福"牺牲婚姻
+  failure_mode: |
+    "孩子最重要,婚姻委屈一点没事" — 反:婚姻倒,孩子比你更受伤。
+    全心扑娃,夫妻没时间 → 婚姻枯竭 → 孩子焦虑。
+  evidence_level: B
+
+  positions:
+    issue: 婚姻关系 vs 亲子关系 · 谁优先 · 自我照顾
+    views:
+      - school: Lillard
+        source: SRC-016
+        stance: 婚姻关系优先于亲子。父母回家先找配偶不是孩子,夫妻关系是孩子安全感的根基。
+      - school: Davies
+        source: SRC-014
+        stance: 父母先照顾自己,connection over perfection;同方向但语气更柔。
+      - school: Bowlby V2
+        source: SRC-012
+        stance: 母亲焦虑会代际传递。妈妈心理健康即孩子心理健康(机制层面)。
+      - school: 中国主流
+        stance: 为孩子牺牲一切 / 妈妈全心扑娃 / "为了你不离婚" — 父母自我消耗常态化。
+glossary_refs:
+  - G-PERSON-Lillard
+  - G-PERSON-Jessen
+
+citation:
+  book_title_zh: "蒙台梭利从 0 岁开始"
+  book_title_en: "Montessori from the Start"
+  authors: ["Paula Polk Lillard", "Lynn Lillard Jessen"]
+  authors_zh: ["宝拉·波尔克·莉拉德", "琳·莉拉德·杰森"]
+  publisher_en: "Schocken Books"
+  year_en: 2003
+  isbn_en: "978-0-8052-1112-1"
+  location: "Ch 10 · Andrew's interview (marriage first)"
+  source_id: SRC-016
+
+unit_ids: []
+related_cards:
+  - C-S6-138       # Davies 蒙氏父母先照顾自己
+  - C-S0-014       # Lillard 爸爸缓冲器
+  - C-S6-137       # Davies 跟老人/伴侣不同步
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

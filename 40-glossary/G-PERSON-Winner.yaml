@@ -1,0 +1,53 @@
+glossary_id: G-PERSON-Winner
+type: person
+display_name: Winner
+
+full_name_en: Ellen Winner
+full_name_zh: 艾伦·温纳
+
+one_liner: |
+  美国心理学家(波士顿学院教授),儿童艺术发展 + 神童研究权威。
+  Lerner V2 Ch20 Arts in Drawing and Music 主笔。
+
+detail: |
+  ## 个人背景
+  - 哈佛大学博士
+  - 波士顿学院心理学教授
+  - 哈佛大学 Project Zero 高级研究员
+
+  ## 核心研究:艺术发展
+  - 绘画跟音乐发育不同步
+  - 神童 = 单域突出非全才
+  - 早期天赋识别有限度
+
+  ## 立场
+  - 反全才神童概念
+  - 反"艺术训练越早越好"
+  - 跟 Gardner 多元智能派同方向
+
+  ## 在本知识库中
+  - SRC-028 Lerner V2 Ch20 主笔
+  - C-S8-426 Winner 绘画 vs 音乐发育不同步
+
+key_facts:
+  - 波士顿学院心理学教授
+  - 艺术发展研究权威
+  - Lerner V2 Ch20 主笔
+  - 反"全才神童"立场
+
+related_glossary:
+  - G-PERSON-Gardner
+  - G-TERM-baby-scientist
+
+related_cards:
+  - C-S8-426
+  - C-S8-430
+
+sources:
+  - source_id: SRC-028
+  - external: Winner 1996《Gifted Children》/ Wikipedia Ellen Winner
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

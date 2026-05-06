@@ -1,0 +1,63 @@
+card_id: C-S1-179
+stages: [S1]
+tags: [development_burst, controversy]
+
+front:
+  title: 10 个跃迁时间表
+  hook: 0-20 月可日历预判
+
+back:
+  why_matters: |
+    Wonder Weeks 35 年观察发现:0-20 月宝宝有 10 个可预测的大脑跃迁周,所有正常宝宝时间几乎一致(±1-2 周)。
+    跃迁周本身是"新能力上线"时刻,但烦躁期(3 C 信号)在跃迁前 1-3 周就开始。
+    时间表(从受孕日算,即足月宝宝按出生日算):
+    - 跃迁 1:**5 周** 感觉(Sensations)— 五感更敏锐
+    - 跃迁 2:**8 周** 模式(Patterns)— 看到周围规律
+    - 跃迁 3:**12 周** 平滑过渡(Smooth Transitions)— 动作不再僵硬
+    - 跃迁 4:**19 周** 事件(Events)— 理解前后因果
+    - 跃迁 5:**26 周**(6 月)关系(Relationships)— 感知人和物的关联
+    - 跃迁 6:**37 周**(8.6 月)分类(Categories)— 把东西归类
+    - 跃迁 7:**46 周**(10.7 月)序列(Sequences)— 懂"先做什么后做什么"
+    - 跃迁 8:**55 周**(12.8 月)程序(Programs)— 串联多步动作
+    - 跃迁 9:**64 周**(14.9 月)原则(Principles)— 理解抽象规则
+    - 跃迁 10:**75 周**(17.5 月)系统(Systems)— 灵活调用多种规则
+    家长意义:**提前知道,不再恐慌**。
+  what_to_do:
+    - 把这 10 个时间记日历,提前预案
+    - 跃迁前 1-3 周关注 3 C 信号
+    - 烦躁期间不安排长途旅行 / 入园 / 断奶等大事
+    - 跃迁完成后才尝试新规律
+    - 6/10 跃迁有独立 EEG 验证(不是巧合,是大脑在重新连接)
+  failure_mode: |
+    把 5/8/12/19 周的早期跃迁误诊为"肠绞痛"或"奶不够" → 反复换奶粉。
+    把 26/37/46 周的中期跃迁误判为"睡眠训练失败" → 睡眠倒退误归咎自己。
+    把 55/64/75 周的后期跃迁误判为"两岁叛逆期性格变坏" → 严厉管教。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-vanderijt
+  - G-PERSON-plooij
+  - G-TERM-wonder-week
+  - G-TERM-mental-leap
+  - G-TERM-fussy-phase
+
+citation:
+  book_title_zh: "婴儿大脑跃迁 10 周(神奇周)"
+  book_title_en: "The Wonder Weeks"
+  authors: ["Hetty van de Rijt", "Frans X. Plooij"]
+  authors_zh: ["海蒂·凡德里特", "弗朗斯·普洛伊"]
+  publisher_en: "Kiddy World Publishing"
+  year_en_first: 1992
+  isbn_en: "978-90-79208-12-1"
+  location: "Chapter 1 · The Timing of the fussy Phases(The fussy periods come at 5, 8, 12, 15, 23, 34, 42, 51, 60 and 71 weeks)"
+  source_id: SRC-013
+
+unit_ids: []
+related_cards:
+  - C-S1-178       # 三 C 信号识别
+  - C-S1-180       # 早产校正
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

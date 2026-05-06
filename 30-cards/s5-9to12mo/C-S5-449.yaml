@@ -1,0 +1,57 @@
+card_id: C-S5-449
+stages: [S5]
+tags: [separation, honesty]
+
+front:
+  title: "永不偷溜走"
+  hook: "诚实告别比哭更重要"
+
+back:
+  why_matters: |
+    Magda 反一切"偷溜":
+    "趁他不注意走" / "等他玩着我溜了" / "出门时假装去厕所"。
+    短期省哭,长期破坏基本信任 —
+    宝宝学到"妈妈会突然消失,我得 24 小时盯着她"。
+    Magda 推:正大光明告别 + 哭就让他哭 + 准时回来。
+    跟 Bowlby V2 分离 + 稳定再聚理论一致。
+
+  what_to_do:
+    - 走前一定面对面告别("妈妈出去,1 小时回")
+    - 接受他哭,不要为了"减少他难过"而偷溜
+    - 告诉他何时回("洗澡后")用他能听懂的时间
+    - 准时回来 —— 累积"她说的算数"信任
+    - 用同样仪式(挥手 + "拜拜")每次重复
+
+  failure_mode: |
+    "等他玩好了我偷偷走避免哭" → 他下次更黏 / 一直查看你在不在。
+    Magda 原话:"诚实是基本规则,即使他短时痛苦"。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Gerber
+  - G-PERSON-Bowlby
+  - G-TERM-attachment
+  - G-TERM-RIE
+
+citation:
+  book_title_en: "Your Self-Confident Baby"
+  book_title_zh: "自信的宝宝"
+  authors:
+    - Magda Gerber
+    - Allison Johnson
+  publisher_en: John Wiley & Sons
+  year: 1998
+  location: "Ch7 Separation Anxiety(honesty 段)"
+  source_id: SRC-022
+
+unit_ids: []
+related_cards:
+  - C-S6-407  # Lansbury 看医生 / 牙医提前预告
+  - C-S5-076  # Bowlby V1 secure base
+  - C-S7-035  # Bowlby V2 分离
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

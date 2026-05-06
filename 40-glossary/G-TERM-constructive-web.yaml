@@ -1,0 +1,27 @@
+glossary_id: G-TERM-constructive-web
+type: term
+display_name: "建构网 / constructive web"
+
+name_en: "constructive web"
+name_zh: "建构网"
+
+description: |
+  Fischer 概念 — 技能发展像织网不是搭楼,多领域多技能各自发展。
+
+one_liner: |
+  建构网(constructive web)— Fischer 概念 — 技能发展像织网不是搭楼,多领域多技能各自发展。
+
+key_facts:
+  - "Lerner V1 元理论卷核心术语"
+  - "学派:Lerner V1 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,78 @@
+glossary_id: G-TERM-floor-bed
+type: term
+display_name: 地板床 (floor bed)
+
+full_name_zh: 地板床
+full_name_en: Floor Bed / Montessori Bed
+
+one_liner: |
+  蒙氏睡眠环境核心。6 英寸(15cm)厚床垫直接放在地板上(可加低边框),从出生起或 3 月起使用,宝宝能爬上爬下、自主作息,替代传统婴儿床(crib)。
+  跟 AAP SIDS 指南可兼容(平整硬床面 + 周围无杂物 + 仰睡)。
+
+detail: |
+  ## 定义
+  Floor bed = 一张约 6 英寸(15cm)厚的床垫,直接放在地板上(也可放在矮的木质边框里,边框低到爬行宝宝能自己进出)。
+  替代 crib(传统婴儿床有高栅栏围住)。
+
+  ## 蒙氏理由
+  1. **动作自由** — 不被栅栏限制视线 + 不被关在固定区
+  2. **自主作息** — 宝宝醒来可爬下玩,困了爬回床
+  3. **建立 point of reference** — 床的位置 + 周边视野不变,宝宝感安全
+  4. **物理过渡顺滑** — 12-15 月不用从 crib 跳到大床
+  5. **跌落风险低** — 6 英寸高,即使滚下也不伤
+
+  ## 与 AAP SIDS 指南的兼容性
+  Davies 在原书中明确引用 AAP 全部 10 条 SIDS 指南并标"应遵循":
+  - ✅ 仰睡(每次睡)
+  - ✅ 床面硬实
+  - ✅ 1 岁内推荐与父母同房
+  - ✅ 远离软物 / 松散被褥
+  - ✅ 可考虑奶嘴(降低 SIDS 风险)
+  - ✅ 防过热 / 不戴帽
+  - ✅ 不用商业定位垫 / 楔块
+
+  Floor bed 全部满足 — 平整硬床面 + 周围空 + 仰睡。
+
+  ## 与中国家长常见担心
+  | 担心 | 实测 |
+  |---|---|
+  | 滚下来摔了 | 6 英寸高 + 软地面,几乎不伤 |
+  | 半夜爬起来玩 | 是 — 但房间 babyproof 后他们玩累还会爬回 |
+  | 学不会"床该睡觉" | 反:从出生开始把床作为 reference,反而更清晰 |
+  | 我们农村没条件 | 一张棉垫 + 一片柔软地面就够,不需要进口教具 |
+
+  ## 何时不用 floor bed(蒙氏也认可)
+  - 家庭文化不接受(中国老人可能反对)
+  - 宝宝有特殊医疗需要(GERD 严重需斜睡)
+  - 临时旅行 / 公共住宿
+  - 不需要强求 — 12-15 月直接转 toddler bed 也 OK
+
+  ## 蒙氏外的研究背景
+  - Pikler / RIE 派也支持地板睡眠
+  - 日本传统铺垫(futon)文化天然兼容
+  - AAP 不主推但不禁止(只要满足 SIDS guidelines)
+
+key_facts:
+  - 6 英寸(15cm)厚床垫直接放地
+  - 蒙氏睡眠环境核心
+  - 替代 crib,允许宝宝自主作息
+  - 与 AAP SIDS 指南可兼容
+  - 不强求 — 12-15 月转 toddler bed 也可
+
+related_glossary:
+  - G-PERSON-Davies
+  - G-PERSON-Montessori
+  - G-ABBR-SIDS
+  - G-TERM-back-sleep
+  - G-TERM-prepared-environment
+
+related_cards: []
+
+sources:
+  - source_id: SRC-014
+  - external: AAP Safe Sleep Guidelines (2022)
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

@@ -1,0 +1,37 @@
+card_id: C-S0-2156
+stages: [S0]
+tags: [postpartum, mom, contraception, safety]
+front:
+  title: 哺乳期避孕仍可能怀
+  hook: 没来月经也可能怀孕
+back:
+  why_matters: |
+    前情:产后哺乳没来月经常被误以为绝对安全。
+    海蒂明确说月经恢复前已有一次排卵,所以"没来月经"不等于
+    "不会怀孕"。哺乳延迟排卵但不绝对避孕,产后第一个周期就可能受孕。恢复性生活前必须主动避孕,别赌。
+  what_to_do:
+    - 恢复性生活前就要避孕
+    - 哺乳期可用黄体酮避孕药/避孕套/避孕环
+    - 含雌激素复合避孕药哺乳期不用
+    - 避孕针 12 周一次但停药 1 年才恢复生育力
+    - 月经没来不要默认安全
+  failure_mode: 以为哺乳天然避孕,产后 2-3 个月就意外再孕,身体没恢复又怀第二胎。
+  evidence_level: B
+glossary_refs: [G-TERM-postpartum-recovery]
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors: ["Heidi Murkoff", "Sharon Mazel"]
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh: ["莫夏迪", "张敏"]
+  location: "第 23 章 《妈妈的第一年》, 页 689-690"
+  source_id: "SRC-040"
+related_cards: [C-S0-2157, C-S0-2160]
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Steinberg
+type: person
+display_name: "Steinberg(劳伦斯·斯坦伯格)"
+
+full_name_en: "Laurence Steinberg"
+full_name_zh: "劳伦斯·斯坦伯格"
+
+position: |
+  Temple University 心理学教授
+
+contribution: |
+  青少年发展 + 父母监督;脑发展和危险行为
+
+one_liner: |
+  劳伦斯·斯坦伯格 — 青少年发展 + 父母监督;脑发展和危险行为
+
+key_facts:
+  - "本卷章节:Ch 16"
+  - "Lerner V3 命中:80 次"
+  - "学派:Lerner V3 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-027
+    chapter: "Ch 16"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

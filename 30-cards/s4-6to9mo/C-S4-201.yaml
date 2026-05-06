@@ -1,0 +1,72 @@
+card_id: C-S4-201
+stages: [S4]
+tags: [self, 观察, milestone]
+
+front:
+  title: 活力情感 = 调谐燃料
+  hook: 调谐质地不调谐分类
+
+back:
+  why_matters: |
+    Stern 关键发现:**调谐(情感调谐)主要不是匹配"喜怒哀乐"分类情感,而是匹配"活力情感"(活力情感 / 感觉质地)**。
+    **统计数据**(Stern 实验):
+    - 母婴互动中,**显著的"喜怒哀乐"表情每 30-90 秒才出现一次**
+    - 但 调谐 是**几乎连续的体验**(玩耍中 1 次/65 秒)
+    - 不可能等"分类情感"出现才 调谐 — 中间太久空白
+    - **活力情感(澎湃/渐弱/澎湃/渐强...)永远在场**
+    - 因此 调谐 主要在**追踪 活力情感** — 任何时刻都能匹配
+    **怎么 调谐 活力情感**(实操):
+    - 宝宝抓玩具时**用力增大** → 你的声音"uuuuh!"也**渐强**
+    - 宝宝吸吮**节奏** → 你的轻拍**同节奏**
+    - 宝宝突然**大笑** → 你的脸**夸张快速展开**
+    - 宝宝困了**渐弱** → 你的歌声**渐慢渐弱**
+    - 宝宝看新东西**专注稳定** → 你的存在**安静稳定**
+    **关键理解**:
+    - **调谐 不是"装出对应表情"** — 是匹配宝宝**正在感受的"活力质地"**
+    - 你不必装喜悦匹配宝宝喜悦 — 但要让你的"在场质地"跟宝宝的"内心质地"同频
+    - 这是**最深的"在一起"** — 比"你笑我笑"深得多
+    **传统育儿的局限**:
+    - 老观点:"对宝宝要总是开心 + 笑脸"
+    - **Stern 反**:不必 — 你只要**在 活力 层 调谐**
+    - 你今天累了 + 平静 = OK,只要你的存在跟宝宝当下的 气场 同频
+    **跟 Lillard"演示要慢 + 同顺序"(C-S6-187) + Karp 5S 抚慰**类似 — 都是 活力 层匹配。
+  what_to_do:
+    - 观察宝宝的"活力质地"(强度 / 节奏 / 形态)
+    - 你的回应匹配活力,不只匹配情感
+    - 累了不必装笑 — 平静地在 气场 同频
+    - 用动作 / 声音 / 表情都可匹配
+    - 1 次 / 65 秒频率 = 玩耍黄金标准
+  failure_mode: |
+    "我对宝宝总是笑脸他就好了" — 不是。Stern 数据 — 关键是 活力 同频,不是表情类别。
+    边玩手机边逗宝宝(身在心不在) → 活力 不同频 → 宝宝感觉"妈在但不在"。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Stern
+  - G-TERM-vitality-affects
+  - G-TERM-affective-attunement
+
+citation:
+  book_title_zh: "婴儿的人际世界"
+  book_title_en: "The Interpersonal World of the Infant"
+  authors: ["Daniel N. Stern"]
+  authors_zh: ["丹尼尔·斯特恩"]
+  publisher_en: "Basic Books"
+  year_en: 1985
+  isbn_en: "978-0-465-09559-9"
+  location: "Ch 7 · Vitality Affects + attunement (statistics: 1 attunement/65sec)"
+  publisher_zh: "华东师范大学出版社"
+  year_zh: 2017
+  translator_zh: ["刘旭东"]
+  source_id: SRC-018
+
+unit_ids: []
+related_cards:
+  - C-S5-291       # Stern affective attunement
+  - C-S2-193       # Stern vitality affects 是宝宝最早的心
+  - C-S6-187       # Lillard 演示要慢 + 同顺序
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

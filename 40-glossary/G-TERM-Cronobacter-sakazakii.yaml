@@ -1,0 +1,59 @@
+glossary_id: G-TERM-Cronobacter-sakazakii
+type: term
+display_name: "阪崎肠杆菌"
+
+en_term: "Cronobacter sakazakii"
+zh_term: "阪崎肠杆菌"
+
+one_liner: |
+  阪崎杆菌 = 配方奶粉中可能含的致命病原,WHO 推 70°C 水冲泡杀灭。
+
+detail: |
+  ## 定义
+  Cronobacter sakazakii(原名 Enterobacter sakazakii)— 配方奶粉中可能含的细菌病原。
+  
+  ## 风险
+  - 婴儿败血症
+  - 脑膜炎(致命)
+  - 脑损伤(存活也常残)
+  - 死亡率 40-80%(婴儿期)
+  
+  ## 来源
+  - 配方奶粉本身(干粉灭菌不彻底)
+  - 冲泡用具(奶瓶 / 吸嘴)
+  - 不洁水
+  
+  ## WHO 2007 PIF 安全准备指南
+  - 用 ≥ 70°C 水冲泡(杀阪崎杆菌阈值)
+  - 冲泡 2 小时内喝完
+  - 奶瓶/吸嘴消毒(开水煮 5 min / 蒸汽)
+  
+  ## 高危
+  - 早产儿(< 28 周)
+  - 低出生体重(< 1500g)
+  - 免疫缺陷
+  - WHO 强烈推这些婴儿用 commercial sterile liquid formula(罐装液体配方)
+  
+  ## 中国家长常见错误
+  用 40-50°C '不烫娃'水冲奶粉 → 阪崎杆菌不死 → 致命风险。
+
+key_facts:
+  - "WHO 70°C 阈值"
+  - "婴儿败血症/脑膜炎"
+  - "死亡率 40-80%"
+  - "早产儿/低体重高危"
+
+related_glossary:
+  - G-TERM-PIF-safe-preparation
+  - G-TERM-breastmilk-substitutes
+
+related_cards:
+  - C-S2-1046
+
+sources:
+  - source_id: SRC-031
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

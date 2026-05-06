@@ -1,0 +1,60 @@
+card_id: C-S7-134
+stages: [S7]
+tags: [montessori, practical-life, philosophy]
+
+front:
+  title: Tom Sawyer 法搞家务
+  hook: 让家务看起来好玩
+
+back:
+  why_matters: |
+    Lillard Ch6 引经典美国小说典故 — **Tom Sawyer approach**(汤姆索亚法):
+    - 小说中:Tom Sawyer 被罚刷篱笆,他装得"好玩",朋友们排队来求让他们刷
+    - 应用到育儿:**让"家务"变成大人觉得有趣的事,孩子自然想加入**
+    实操方式:
+    - 大人专注做家务(不是"等着孩子来帮")
+    - 用兴趣点("看,我在切菜!")
+    - 不强迫("过来帮我")
+    - 让出空间(让孩子自然加入)
+    Lillard 例子:大人看到地上掉了纸巾,蹲下捡 + "这里有个纸巾,我捡起来扔到垃圾桶" — 让宝宝看到 → 想加入。
+    跟传统"叫孩子做"对立:
+    - "去把袜子收好"(命令 → 抗拒)
+    - "看,我在收袜子,真有意思"(吸引 → 加入)
+    适用 15 月-3 岁 — 这阶段宝宝**特别想做大人做的事**(C-S6-184 maximum effort 期)。
+    跟"孩子小不该做家务" / "用奖励才能让孩子做"**对立** — Lillard:**家务是教育,不是惩罚也不是任务**。
+  what_to_do:
+    - 大人专注做家务,自己有兴趣
+    - 用兴趣点("看,我...")
+    - 不强迫不命令
+    - 让宝宝自然加入
+    - 接受慢 + 不完美
+  failure_mode: |
+    "我得叫他过来帮忙" — 反:命令 = 抗拒,吸引 = 加入。
+    用奖励("做了给糖")→ 宝宝学"做家务为奖励",失去内在动机。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Lillard
+  - G-PERSON-Jessen
+  - G-TERM-practical-life
+
+citation:
+  book_title_zh: "蒙台梭利从 0 岁开始"
+  book_title_en: "Montessori from the Start"
+  authors: ["Paula Polk Lillard", "Lynn Lillard Jessen"]
+  authors_zh: ["宝拉·波尔克·莉拉德", "琳·莉拉德·杰森"]
+  publisher_en: "Schocken Books"
+  year_en: 2003
+  isbn_en: "978-0-8052-1112-1"
+  location: "Ch 6 · 'Practical Life' (Tom Sawyer approach)"
+  source_id: SRC-016
+
+unit_ids: []
+related_cards:
+  - C-S6-184       # Lillard 15 月转工作
+  - C-S6-130       # Davies 12-15 月生活技能起步
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

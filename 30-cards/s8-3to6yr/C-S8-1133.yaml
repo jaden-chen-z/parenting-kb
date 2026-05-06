@@ -1,0 +1,52 @@
+card_id: C-S8-1133
+stages: ['S8']
+tags: ['philosophy', 'lerner_v1', 'bronfenbrenner', 'macrosystem', 'culture']
+
+front:
+  title: "宏观 = 文化经济政治"
+  hook: "宏环境定调你家家"
+
+back:
+  why_matters: |
+    Bronfenbrenner macrosystem = 文化 / 价值观 / 经济结构 / 政治制度。
+    中国 0-6 岁家庭面对的 macrosystem 张力:
+    - 高竞争文化 vs 反内卷新观念
+    - 经济压力(房贷 / 教育 / 医疗) vs 二胎政策
+    - 集体主义 vs 个人主义价值观
+    - 应试教育 vs 素质教育摆动
+    macro 不是父母能改的 — 但能"看见" → 减少自我归罪。
+    意义 — 你的育儿焦虑很大一部分是 macro 引起的,不是你不会带娃。
+    Lerner V1:macro 决定中观和微观的可能性边界。
+  what_to_do:
+    - "看到 macro → 减少'我做不好'自责"
+    - "加入支持社群(对抗 macro 孤立)"
+    - "选学校时考虑 macro 趋势(应试 vs 素质)"
+    - "跟伴侣 / 老人讨论 macro 差异"
+    - "macro 不能改但能选择回应方式"
+  failure_mode: |
+    把所有焦虑归到自己身上 — 错。macro 是 50% 焦虑源,不是你的问题。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Bronfenbrenner
+  - G-TERM-macrosystem
+
+related_cards:
+  - C-S0-1500
+  - C-S8-1132
+  - C-S8-323
+  - C-S8-1138
+
+citation:
+  source_id: SRC-030
+  source_title: "Handbook of Child Psychology Vol 1: Theoretical Models of Human Development"
+  chapter: "Ch 14 Bronfenbrenner & Morris"
+  chapter_offset: 4483850
+  chapter_title: 'Bronfenbrenner & Morris — Bioecological Model'
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_followup_needed: 'SRC-030 用 PDF 字节偏移代页码 — 待加 page_pdf 反查工具'

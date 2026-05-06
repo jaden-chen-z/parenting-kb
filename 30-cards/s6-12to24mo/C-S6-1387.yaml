@@ -1,0 +1,72 @@
+card_id: C-S6-1387
+stages: [S6]
+tags: [parenting_science, bornstein, toddler, lerner_v4]
+
+front:
+  title: 学步父母 具体的
+  hook: 学步育儿看具体行
+
+back:
+  why_matters: |
+    Bornstein V4 Ch 22(12-24mo 育儿科学应用)。
+    **12-24 月**父母行为 vs 结果**:
+    - **跟娃说话(1100 词/h)** → 词汇 + 语言能力
+    - **回应哭闹(< 1 分钟)** → 安全依恋
+    - **跟着娃兴趣** → 注意力 + 探索能力
+    - **共读绘本(每天 10 分钟)** → 阅读+词汇
+    - **限制屏幕** → 注意力 + 词汇
+    **Bornstein specificity 实例**:
+    - 回应哭闹 ≠ 词汇好
+    - 共读 ≠ 安全依恋
+    - **每个具体行为对每个具体结果有特定影响**
+    - 没有"什么都对"育儿
+    **continuity 实例**:
+    - 每天 10 分钟 > 周末 1 小时
+    - 每天回应哭闹 > 偶尔超长陪伴
+    - 持续比强度重要
+    **反 4 误区**:
+    - ❌ "好父母自动什么都做对"(specificity 反对)
+    - ❌ "周末补陪伴"(continuity 反对)
+    - ❌ "用力越多效果越大"(过度反伤)
+    - ❌ "全职妈才优"(质量决定不身份)
+    跟现库:跟 C-S0-1231 Bornstein 总论 + C-S8-750 Bornstein 2 原则 + Wonder Weeks(SRC-013)对接。
+    对中国家长意义:
+    - 12-24 月看具体行为对具体结果
+    - 每天少量持续胜过偶尔大量
+    - 不"全才育儿"
+    - 选 1-2 关键行为坚持
+  what_to_do:
+    - 看具体行为对具体结果
+    - 每天 10 分钟胜过周末 1 小时
+    - '不"全才育儿"'
+    - 选 1-2 关键行为坚持
+  failure_mode: |
+    "好父母什么都对"— 错。specificity。
+    "周末补陪伴"— 错。continuity 反对。
+    "用力越多越好"— 错。过度反伤。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Bornstein
+  - G-TERM-parenting-specificity
+  - G-TERM-parenting-continuity
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 4 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 4 卷"
+  authors: ['Marc H. Bornstein']
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 22 · Bornstein · Toddler 12-24mo specificity + continuity · pp. 910-925"
+  source_id: SRC-029
+
+unit_ids: []
+related_cards:
+  - C-S0-1231     # Bornstein 总论
+  - C-S8-750     # V4 specificity continuity S8
+  - C-S6-927     # Shonkoff 词汇爆发
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

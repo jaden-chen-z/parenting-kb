@@ -1,0 +1,67 @@
+card_id: C-S8-732
+stages: [S8]
+tags: [bilingual, snow, lerner_v4]
+
+front:
+  title: 双语不损母语
+  hook: 学双语不会损母语
+
+back:
+  why_matters: |
+    Snow-Yusun Kang V4 Ch 3 双语章(Snow 是 NRC 阅读综述权威)。
+    **双语 3 大误解破除**:
+    - ❌ 双语会损母语 → ✅ 反例:平衡双语者母语 + L2 都更好
+    - ❌ 关键期错过就补不回 → ✅ 反例:成人也能学,只是难度高
+    - ❌ 双语影响学业 → ✅ 反例:双语者学业平均更高
+    **Snow 立场**:
+    - 母语是 L2 的基础(母语强 → L2 强)
+    - 双语不会"分流"大脑资源
+    - 反"少教中文多教英文"中国移民家常见误区
+    **3 大成功要素**:
+    - **数量**:每语 25%+ 暴露
+    - **质量**:与人互动而非视频
+    - **持续**:3+ 年才稳意义:
+    - 中国家长 "纯英文环境"反而损母语
+    - 双语 = 中文强 + 英文学
+    - 不必焦虑"几岁开始"
+    跟现库:跟 V2 Kuhl 关键期(C-S5-1142)+ V2 Bates 词汇(待建)对接。
+    对中国家长意义:
+    - 中文先打牢再加英文
+    - 双语家庭母语持续暴露
+    - 视频/AI 代替真人无效
+    - 关键期窗口宽不必赶
+  what_to_do:
+    - 中文先打牢再加英文
+    - 每语 25%+ 真人互动
+    - 视频代替真人无效
+    - '不必赶"关键期窗口"'
+  failure_mode: |
+    "早学英文损中文"— 错。母语先强双语都强。
+    "纯英文环境最优"— 错。母语断 L2 也弱。
+    "过 6 岁就晚了"— 错。窗口宽。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Snow-Catherine
+  - G-TERM-bilingual
+  - G-TERM-mother-tongue-foundation
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 4 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 4 卷"
+  authors: ['Catherine E. Snow', 'Jennifer Yusun Kang']
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 3 · Snow · Bilingual no L1 loss · pp. 75-90"
+  source_id: SRC-029
+
+unit_ids: []
+related_cards:
+  - C-S5-1142     # V2 Kuhl 知觉重组
+  - C-S0-1238     # Greenfield 文化路径
+  - C-S6-934     # Shonkoff 注意力调节
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

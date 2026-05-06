@@ -1,0 +1,72 @@
+card_id: C-S5-1351
+stages: [S5]
+tags: [self_regulation, boekaerts, infant, lerner_v4]
+
+front:
+  title: 9-12 月共同调节起
+  hook: 9-12 月共同调节
+
+back:
+  why_matters: |
+    Boekaerts V4 Ch 9(9-12 月共同调节)。
+    **共同调节(co-regulation)= 自我调节起源**:
+    - 9-12 月还不能自我调节
+    - 通过**主要照护人帮助调节情绪**
+    - 这是**自我调节起源**(Vygotsky 内化理论)
+    - 跟 V3 Eisenberg / V4 Boekaerts 一致
+    **3 大共同调节策略 9-12 月**:
+    - **物理安抚**:抱 + 摇 + 拍
+    - **语言安抚**:"妈在" / "没事" / 温柔语调
+    - **环境调整**:换地方 / 换刺激 / 静下来
+    - **同步呼吸**:慢呼吸传染给娃
+    **反"自我安抚训"立场**:
+    - 9-12 月还不能自我调节
+    - "哭声免疫" = 应激升 + 依恋伤
+    - 共同调节是基础,自我调节是后期
+    - 12 月以后才逐步过渡
+    **家庭实操**:
+    - 哭立刻安抚(不"训独立")
+    - 主 caregiver 稳定
+    - 用语言命名情绪("你着急")
+    - 同步呼吸 / 镜像表情跟现库:跟 V3 Eisenberg effortful control(C-S5-1041)+ Bowlby V1(SRC-011)+ Tools of Mind(C-S8-756)+ Boekaerts(C-S6-1388)对接。
+    对中国家长意义:
+    - 9-12 月不能自我调节(正常)
+    - 共同调节 + 物理安抚 + 语言
+    - 不"哭声免疫"训独立
+    - 12 月以后才逐步过渡
+  what_to_do:
+    - 9-12 月共同调节为核心
+    - 物理+语言+环境+同步呼吸
+    - '不"哭声免疫"'
+    - 12 月后逐步过渡
+  failure_mode: |
+    "自我安抚训"— 错。9-12 月还不能。
+    "哭声免疫"— 错。应激+依恋伤。
+    "硬训独立"— 错。共同调节是基础。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Boekaerts
+  - G-TERM-self-regulation
+  - G-TERM-co-regulation
+  - G-PERSON-Vygotsky
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 4 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 4 卷"
+  authors: ['Monique Boekaerts']
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 9 · Boekaerts · 9-12mo co-regulation · pp. 350-360"
+  source_id: SRC-029
+
+unit_ids: []
+related_cards:
+  - C-S0-1241     # Boekaerts 总论
+  - C-S5-1041     # V3 Eisenberg effortful control
+  - C-S6-1388     # V4 学步自我调节萌芽
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

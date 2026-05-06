@@ -1,0 +1,62 @@
+card_id: C-S5-186
+stages: [S5]
+tags: [montessori, eating, weaning-table, philosophy]
+
+front:
+  title: 蒙氏断奶椅替高脚椅
+  hook: 宝宝可以自上自下
+
+back:
+  why_matters: |
+    Lillard Ch6/Ch7 强烈推荐 — **6-15 月用蒙氏 weaning table & chair 替代高脚椅**:
+    高脚椅的问题:
+    - 把宝宝**关在高空**(摔下风险 + 心理上"被困住")
+    - 大人坐对面像"看动物"(宝宝心理上被对象化)
+    - 食物高度落差大 → 摔得到处都是
+    - 宝宝完成 = 等大人抱出蒙氏 weaning chair 的好处:
+    - **重 + 矮 + 椅腿外撇** — 稳但宝宝可自上自下
+    - **跟父母平视**(父母在矮凳)
+    - 食物离地近,声音 + 视觉一致
+    - 宝宝完成 = 自己爬出使用阶段:
+    - 6-10 月初食 — 父母面对面,父母示范勺子用法
+    - 10-15 月 — 椅靠墙,桌靠近椅,防中途爬出
+    - 15 月+ — 跟家人主餐用 junior chair(可自己进出)
+    Lillard 直接说:**高脚椅 = 把宝宝当物件,断奶椅 = 把宝宝当独立人**。
+    Davies 在 SRC-014 没单独建卡讲断奶椅,Lillard 给具体设计 + 时间段。
+  what_to_do:
+    - 6 月起用蒙氏断奶椅
+    - 父母在矮凳,跟宝宝平视
+    - 不用高脚椅
+    - 15 月+ 转 junior chair(可自己进出)
+    - 自制:餐桌椅截短 + 加扶手
+  failure_mode: |
+    "高脚椅有安全带,稳" — 反:安全带 = 把宝宝困住,不是真的稳。
+    断奶椅"不专业" — 蒙氏全球 100 年用,这才专业。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Lillard
+  - G-PERSON-Jessen
+  - G-TERM-weaning-table
+  - G-TERM-prepared-environment
+
+citation:
+  book_title_zh: "蒙台梭利从 0 岁开始"
+  book_title_en: "Montessori from the Start"
+  authors: ["Paula Polk Lillard", "Lynn Lillard Jessen"]
+  authors_zh: ["宝拉·波尔克·莉拉德", "琳·莉拉德·杰森"]
+  publisher_en: "Schocken Books"
+  year_en: 2003
+  isbn_en: "978-0-8052-1112-1"
+  location: "Ch 6 + Ch 7 (weaning table & junior chair)"
+  source_id: SRC-016
+
+unit_ids: []
+related_cards:
+  - C-S5-133       # Davies 自喂手指食
+  - C-S3-195       # Lillard 6 月正餐时给水
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

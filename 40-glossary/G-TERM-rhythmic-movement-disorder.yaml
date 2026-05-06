@@ -1,0 +1,74 @@
+glossary_id: G-TERM-rhythmic-movement-disorder
+type: term
+display_name: 节律性运动行为 (rhythmic movement)
+
+full_name_en: Rhythmic Movement Disorder / Sleep-Related Rhythmic Movement
+full_name_zh: 节律性运动行为(撞头/摇头/身体摇晃)
+
+one_liner: |
+  9-18 月睡前撞床栏、摇头、身体摇晃,发生率约 20%,是自我安抚的节律性行为,大多 3-4 岁自然消失,不是癫痫不是自闭。
+
+detail: |
+  ## 定义
+  **节律性运动行为**(rhythmic movement)= 入睡前或浅睡中
+  反复进行的有节奏动作,常见 3 类:
+  - **撞头**(head banging):前后撞床栏、墙壁。
+  - **摇头**(head rolling):仰躺左右摇头。
+  - **身体摇晃**(body rocking):四肢撑床前后摇身体。
+
+  ## 流行病学
+  - 9-18 月发生率约 **20%**(婴儿期最高峰)。
+  - 男孩多于女孩(约 3:1)。
+  - 持续时间多在 5-15 分钟,直到入睡。
+  - 大多 3-4 岁自然消失,5% 持续到学龄期(仍多无害)。
+
+  ## 机制(AAP 主流解释)
+  - **自我安抚**:重复节律刺激前庭系统,产生类摇篮效果。
+  - **释放紧张**:类似大人入睡前晃腿/转头。
+  - 与白天活动量、入睡焦虑、家庭压力有关联。
+
+  ## 与病理的鉴别
+  ### 不是癫痫
+  - 癫痫发作有意识改变 / 强直阵挛 / 无法被叫停。
+  - 节律行为娃可被叫停或抱起即停,意识清醒。
+
+  ### 不是自闭症
+  - 自闭症的刻板行为 24 小时都有,不限睡前。
+  - 节律行为只在睡前或浅睡阶段。
+
+  ### 何时真要就医
+  1. **自伤出血**(撞破皮 / 撞肿)
+  2. **白天频繁不可控**(超出睡眠期)
+  3. **伴随发育倒退** / 失去技能
+  4. **持续到 5 岁后**且影响生活
+
+  ## 海蒂书操作要点
+  - 床栏裹软垫防撞伤。
+  - **别强行按住** —— 反而强化行为。
+  - 白天多消耗体力减少睡前焦虑。
+  - 固定睡前流程降低紧张。
+  - 接纳为正常发展现象,不焦虑就医。
+
+key_facts:
+  - 9-18 月发生率约 20%
+  - 男孩多 3:1
+  - 自我安抚 + 释放紧张机制
+  - 大多 3-4 岁自然消失
+  - 不是癫痫不是自闭症
+
+related_glossary:
+  - G-TERM-self-soothing
+  - G-TERM-sleep-cycle
+  - G-ABBR-AAP
+
+related_cards:
+  - C-S5-2160      # 撞头摇头多正常
+
+sources:
+  - source_id: SRC-040
+  - external: "ICSD-3 (International Classification of Sleep Disorders) / AAP Sleep-Related Rhythmic Movement Disorder"
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,69 @@
+card_id: C-S5-1350
+stages: [S5]
+tags: [DAP, hyson, infant, lerner_v4]
+
+front:
+  title: 9-12 月 DAP 准学步
+  hook: 9-12 月 DAP
+
+back:
+  why_matters: |
+    Hyson V4 Ch 1(9-12 月预学步阶段 DAP)。
+    **9-12 月 DAP 4 大重点**:
+    - **大动作鼓励**:扶站 / 扶走 / 推着走
+    - **精细动作**:抓 / 捏 / 取 / 放
+    - **语言互动**:多说 + 多读 + 多重复
+    - **安全探索**:childproof + 跟随兴趣
+    **反 3 误区 9-12 月**:
+    - ❌ "不教就晚"(违反 DAP 知识)
+    - ❌ "认字训练"(违反所有 DAP 维度)
+    - ❌ "不能随便走"(过度限制反伤探索)
+    **4 大有效活动**:
+    - **共读绘本**:每天 10-20 分钟
+    - **物品命名**:"这是 X"
+    - **大动作场地**:户外 / 软地
+    - **角色扮演萌芽**:假装吃 / 喂娃娃
+    **反"早教班"立场**:
+    - 9-12 月报班 = 替代亲子互动
+    - 真早教在家就够
+    - 班课 ≠ 关系互动跟现库:跟 C-S6-1380 学步 DAP + C-S0-1235 DAP 总论 + Lansbury 不教(SRC-019)+ Pikler(SRC-026)对接。
+    对中国家长意义:
+    - 9-12 月不报"早教班"
+    - 大动作 + 精细 + 语言 + 安全探索
+    - 共读 + 命名 + 户外 + 角色扮演
+    - 真早教在家
+  what_to_do:
+    - 9-12 月不报早教班
+    - 4 大领域均衡(动+精+语+探)
+    - 共读+命名+户外+角色扮演
+    - 真早教在家
+  failure_mode: |
+    "不教就晚"— 错。违反 DAP。
+    "认字训练"— 错。机会成本。
+    "不能随便走"— 错。过度限制。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Hyson
+  - G-PERSON-Bredekamp
+  - G-TERM-DAP
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 4 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 4 卷"
+  authors: ['Marilou Hyson', 'Carol Copple', 'Jacqueline Jones']
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 1 · Hyson · 9-12mo DAP pre-toddler · pp. 20-30"
+  source_id: SRC-029
+
+unit_ids: []
+related_cards:
+  - C-S6-1380     # V4 学步 DAP
+  - C-S0-1235     # DAP 总论
+  - C-S5-908     # Shonkoff 跟玩
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

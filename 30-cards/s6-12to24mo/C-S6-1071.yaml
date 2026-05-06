@@ -1,0 +1,59 @@
+card_id: C-S6-1071
+stages: [S6]
+tags: []
+
+front:
+  title: "疫苗期间继续母乳"
+  hook: "母乳是疫苗最佳搭档"
+
+back:
+  why_matters: |
+    WHO + AAP 立场:免疫接种期间继续母乳 — 不仅可,而且增强疫苗效力。
+    原因:
+    ① 母乳 IgA 协同增强黏膜免疫(肠/呼吸道)
+    ② 母乳寡糖喂益生菌,肠道菌群好 → 疫苗反应更强
+    ③ 母乳免疫成分给短期保护过渡(疫苗免疫建立 2-4 周)
+    ④ 哺乳安抚减少接种焦虑哭闹(妈妈在场即安全)
+    实操建议:
+    - 接种前后都可哺乳
+    - 接种现场哺乳安抚
+    - 接种后发热 → 继续母乳(不停)
+    - 妈妈刚接种(eg 流感疫苗)→ 继续喂(疫苗成分不进母乳)
+    中国常见误区:'接种后停 24 小时母乳' → 错的,WHO/AAP 反对。
+  what_to_do:
+    - "接种前后都喂母乳"
+    - "接种现场哺乳安抚娃"
+    - "接种后发热继续母乳(不停)"
+    - "妈妈接种疫苗也继续喂(成分不进母乳)"
+    - "听到 '接种后停 24 小时' → 别信"
+  failure_mode: |
+    接种后停 24 小时母乳 → 错过母乳免疫协同增强疫苗效力。
+    母乳是疫苗最佳搭档,不是冲突。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-EBF
+  - G-TERM-WHO-two-years
+
+citation:
+  page_title: "WHO Q&A on Breastfeeding + Immunization"
+  publisher: "World Health Organization & UNICEF"
+  page_url_primary: https://www.who.int/news-room/questions-and-answers/item/breastfeeding
+  accessed: 2026-05-04
+  language: en
+  location: "WHO 立场:免疫接种期间继续母乳 + 4 大原因 + 中国误区"
+  source_id: SRC-031
+
+unit_ids: []
+related_cards:
+  - C-S6-1064
+  - C-S5-1037
+  - C-S6-001
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_doc_id_pending: D1
+citation_followup_needed: '已映射真实 doc_id (D1 = WHO IYCF Fact Sheet)'

@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Plomin
+type: person
+display_name: "Plomin(罗伯特·普罗明)"
+
+full_name_en: "Robert Plomin"
+full_name_zh: "罗伯特·普罗明"
+
+position: |
+  King's College London 行为遗传学教授
+
+contribution: |
+  行为遗传学奠基人 + 双胞胎研究综述
+
+one_liner: |
+  罗伯特·普罗明 — 行为遗传学奠基人 + 双胞胎研究综述
+
+key_facts:
+  - "本卷章节:Ch 3"
+  - "Lerner V3 命中:99 次"
+  - "学派:Lerner V3 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-027
+    chapter: "Ch 3"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

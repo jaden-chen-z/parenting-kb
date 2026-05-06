@@ -1,0 +1,76 @@
+card_id: C-S4-805
+stages: [S4]
+tags: [shonkoff, nrc, secure_function, dual, attachment]
+
+front:
+  title: "依恋的 2 个功能"
+  hook: "安全感加自我效能"
+
+back:
+  why_matters: |
+    NRC 综述第 9 章给安全依恋的两个核心功能 — 比鲍尔比单功能更精细:
+
+    **功能 1:安全基地**
+    - 妈在场 → 宝宝敢探索陌生 / 应对压力
+    - 妈不在场 → 探索抑制 / 压力升高(皮质醇升高)
+    - 这是**情感调节功能** — 鲍尔比经典立场
+
+    **功能 2:自我效能感**(NRC 新增)
+    - 妈对宝宝的"偶联回应"(行为对得上)
+    - 宝宝学到"我能影响别人 / 改变环境"
+    - 这是**主动能动性的萌芽**
+    - 跟斯特恩"自我能动" + 利拉德"自我形成"一致
+
+    **NRC 综合**:
+    - 安全依恋 = 安全感 **+** 自我效能感双轨
+    - 不是只有"被爱"的感受
+    - 还有"我能"的能动性
+    - 二者共同奠基心理健康
+
+    **机制**:偶联回应 = 你哭我抱 → 你笑我笑 → 你伸手我递 →
+    宝宝学到"行为有效 → 我有能动性"。
+
+    **对中国家长**:
+    - 安全依恋不只是"宝宝爱妈"
+    - 还是"宝宝相信自己能"
+    - 高偶联回应父母 = 高自我效能感孩子
+    - "包办型"父母 → 安全感强但自我效能感弱(后期问题)
+    - "忽视型"父母 → 二者都弱
+    - "回应型"父母 = 二者都强(理想)
+  what_to_do:
+    - 高偶联回应
+    - 别包办别忽视
+    - 给宝宝试错空间
+    - 安全 + 能动双轨
+    - 信"宝宝能做"
+  failure_mode: |
+    "我爱孩子就一切包办" → 安全感强但自我效能感弱 → 长大依赖。
+    "我对他严格 — 别让他撒娇" → 安全感弱 → 焦虑或回避。
+    回应型 = 你伸手我递 + 你能做的让你做。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Shonkoff
+  - G-TERM-attachment
+  - G-TERM-secure-base
+  - G-TERM-self-efficacy
+
+citation:
+  book_title_en: "From Neurons to Neighborhoods"
+  authors: ["Jack P. Shonkoff", "Deborah A. Phillips"]
+  org: "NRC/IOM"
+  year_en: 2000
+  location: "Ch 9 · Two functions of attachment relationships"
+  source_id: SRC-025
+
+unit_ids: []
+related_cards:
+  - C-S5-070    # Bowlby 安全依恋 SRC-011
+  - C-S4-198    # Stern self-agency SRC-018
+  - C-S4-804    # Shonkoff 依恋形成(本卷)
+  - C-S6-186    # Lillard 自由探索 SRC-016
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

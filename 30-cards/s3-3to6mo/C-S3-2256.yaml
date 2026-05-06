@@ -1,0 +1,36 @@
+card_id: C-S3-2256
+stages: [S3]
+tags: [safety, dental, hygiene]
+front:
+  title: 刷牙 6 月起,纱布+婴儿牙刷
+  hook: 第一颗牙就该刷
+back:
+  why_matters: |
+    乳牙虽然 12-13 岁会全换掉,但坏掉的乳牙会破坏恒牙萌出空间、影响营养吸收、影响发音和自信。
+    海蒂主张第一颗乳牙萌出(约 6-9 月)就开始清洁。早期用纱布裹手指擦,长出 4-6 颗后换成软毛婴儿牙刷+米粒大小婴幼儿无氟牙膏(娃会吞咽)。父母示范是关键。
+  what_to_do:
+    - 第一颗牙萌出就开始清洁
+    - 早期纱布裹手指擦牙面
+    - 长 4-6 颗换软毛婴儿牙刷
+    - 牙膏选婴幼儿专用无氟款
+    - 1-2 岁第一次去儿童牙医
+  failure_mode: 拖到 2 岁才开始刷,娃完全不接受异物入口,大哭挣扎演变成全家牙战;乳牙已大面积龋齿。
+  evidence_level: A
+glossary_refs: []
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors: ["Heidi Murkoff", "Sharon Mazel"]
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh: ["莫夏迪","张敏"]
+  location: "第 10 章 《第 6 个月》, 页 358-360"
+  source_id: "SRC-040"
+related_cards: [C-S3-2257]
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

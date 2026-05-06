@@ -1,0 +1,77 @@
+glossary_id: G-TERM-subjective-self
+type: term
+display_name: 主观自我 (subjective self)
+
+full_name_zh: 主观自我
+full_name_en: Sense of a Subjective Self
+
+one_liner: |
+  Stern 命名的 self 第三阶段 — **7-15 月**婴儿"发现内心可分享"的能力。
+  3 大共享体验:joint attention(共享注意)+ sharing intentions(共享意图)+ sharing affective states(共享情感,通过 attunement)。是 intersubjectivity(共主体性)的诞生。
+
+detail: |
+  ## 定义
+  Subjective self(主观自我)= 7-15 月**意识到"我有内心 + 别人也有内心 + 可分享"**的体验。
+  - 不再只靠**外在行为**互动
+  - 开始**直接对内心**互动(intersubjectivity)
+  - 是 theory of separate minds 的雏形
+
+  ## 3 大可分享体验(Trevarthan & Hubley 1978 + Stern)
+  1. **Joint attention(共享注意)** — 9 月会指 + 跟随大人指,确认目标共享
+  2. **Sharing intentions(共享意图)** — 9 月起 intentional communication("故意"沟通,非反射)
+  3. **Sharing affective states(共享情感)** — 通过 affective attunement(C-S5-291)
+
+  ## 反传统(Mahler "hatching")
+  - 旧观点:7-9 月主任务是"从共生融合 hatching 出来" → 独立分离
+  - Stern 反:这是**新的"在一起"** — intersubjective union — 比之前任何"在一起"都深
+  - 跟"独立"是同一过程的两面
+
+  ## 关键意义
+  - **psychic intimacy(心理亲密)** 的诞生 — 父母的 empathy 现在能被宝宝直接感知
+  - **selective attunement** 启动 socialization — 父母选择性回应,教宝宝哪些感受可分享
+  - 一端是 psychic membership(心理人类一员),另一端是 psychic isolation(孤独)
+  - 是后续 verbal self / 长期心理健康的关键奠基
+
+  ## 怎么帮 subjective self 形成
+  - 主动 joint attention(指物 + 跟随)
+  - 解读宝宝的 intentional communication 信号
+  - 高频 attunement(1 次 / 65 秒 玩耍中)
+  - 用情感词命名宝宝感受
+  - 不只关注外在行为,关注内心
+
+  ## 跟其他理论对照
+  - **Wonder Weeks 第 5 跃迁(8 月)**:WW 描述行为 — Stern 解释心理
+  - **Lillard"第二次出生"(8-9 月爬)**:蒙氏哲学 + Stern 心理机制
+  - **Bowlby 安全基地(8-9 月)**:关系视角 + 心理视角互补
+  - **鲍秀兰母婴情感**:本能视角 + Stern 心理机制
+
+  ## 一辈子都活跃
+  - 大人此刻 sense"懂别人的心" 时,在用 subjective self
+  - 共情 / 共鸣 / 心灵感应感觉都是 subjective self 的延续
+
+key_facts:
+  - Stern 4 senses of self 第三阶段
+  - 7-15 月,3 大可分享体验
+  - intersubjectivity / theory of separate minds 起源
+  - 反 Mahler hatching 论
+  - psychic intimacy 诞生
+
+related_glossary:
+  - G-PERSON-Stern
+  - G-TERM-emergent-self
+  - G-TERM-core-self
+  - G-TERM-verbal-self
+  - G-TERM-affective-attunement
+  - G-TERM-intersubjectivity
+  - G-TERM-joint-attention
+
+related_cards: []
+
+sources:
+  - source_id: SRC-018
+  - external: Stern《The Interpersonal World of the Infant》Ch 6-7
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

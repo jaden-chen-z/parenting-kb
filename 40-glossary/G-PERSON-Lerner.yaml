@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Lerner
+type: person
+display_name: "Lerner(理查德·勒纳)"
+
+full_name_en: "Richard M. Lerner"
+full_name_zh: "理查德·勒纳"
+
+position: |
+  Tufts University 应用儿童发展研究所主任
+
+contribution: |
+  Handbook of Child Psychology 全 4 卷总主编;生命周期发展
+
+one_liner: |
+  理查德·勒纳 — Handbook of Child Psychology 全 4 卷总主编;生命周期发展
+
+key_facts:
+  - "本卷章节:Editor"
+  - "Lerner V3 命中:30 次"
+  - "学派:Lerner V3 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-027
+    chapter: "Editor"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

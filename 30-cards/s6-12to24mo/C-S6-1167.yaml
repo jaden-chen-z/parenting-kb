@@ -1,0 +1,67 @@
+card_id: C-S6-1167
+stages: [S6]
+tags: [cognitive_science, vocabulary_spurt, bloom, lerner_v2]
+
+front:
+  title: 18-24 月每天学新词
+  hook: 50 词突破后爆炸
+
+back:
+  why_matters: |
+    Bloom 综述 + Goldfield/Reznick 1990(Lerner V2 Ch7)。
+    词汇爆炸(vocabulary spurt)实证细节:
+    - 12-15 月:慢累积(每月 + 5-10 词)
+    - 15-18 月:**累计 50 词突破**(关键阈值)
+    - 18-24 月:**爆炸期** — 每天 1-3 个新词
+    - 24 月:200-300 词总量
+    Lerner V2 综述关键洞察:
+    - 不是所有孩子都"突变" — 30-50% 是 gradual learners
+    - 突破点跟 fast mapping + Markman 3 约束 + 联合注意成熟 = 多机制汇合
+    - 词类发展顺序:名词先(58% 早期词)→ 动词跟上 → 形容词 → 介词
+    - 是大脑左顶叶代谢峰期(神经基础)
+    跟现库:G-TERM-language-explosion 已建,V2 综述补 50% gradual 关键。
+    跟 Lillard 12-24 月词汇爆炸 + 鲍秀兰对接。
+    对中国家长意义:
+    - 不是所有孩子"突变" — 渐变也正常
+    - 50 词阈值后大概率加速
+    - 不必焦虑"15 月才 5 词" — 范围大
+    - 关键是"够多输入" — 不是逼孩子说
+    - 中文 + 英文双语家庭可能各 25 词阈值后双爆
+  what_to_do:
+    - 12-15 月稳定词汇输入(每天 30 分专心说话)
+    - 不焦虑"15 月没爆炸"
+    - 50 词后给更多种类词(不只名词)
+    - 用 parentese 教,真人面对面
+  failure_mode: |
+    "15 月没爆炸 = 落后" — 错。30-50% 是 gradual。
+    "爆炸 = 必然每天 5 词" — 范围 1-3 词正常。
+    "孩子不爆炸是教不够" — 不一定。看输入质量。
+  evidence_level: B
+
+glossary_refs:
+  - G-TERM-language-explosion
+  - G-TERM-fast-mapping
+  - G-TERM-parentese
+  - G-PERSON-Bloom
+  - G-PERSON-Markman
+  - G-TERM-joint-attention
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 2 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 2 卷"
+  authors: ["Sandra R. Waxman", "Jeffrey L. Lidz"]
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 7 · Vocabulary spurt · pp. 300-304"
+  source_id: SRC-028
+
+unit_ids: []
+related_cards:
+  - C-S6-1164     # Markman 3 约束
+  - C-S6-1166     # Fast mapping
+  - C-S6-018       # Lillard 12-24 月词汇爆炸
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

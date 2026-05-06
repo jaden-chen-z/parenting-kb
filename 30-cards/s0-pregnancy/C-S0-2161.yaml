@@ -1,0 +1,36 @@
+card_id: C-S0-2161
+stages: [S0]
+tags: [postpartum, mom, self_care]
+front:
+  title: 给自己留时间不是自私
+  hook: 开心妈妈才是好妈妈
+back:
+  why_matters: |
+    前情:很多妈妈把所有时间给宝宝,不去厕所不洗头不吃饭。
+    海蒂指出累垮的妈妈反而做不好妈妈,洗澡、吃饭、独处不是奢侈。让宝宝在安全摇椅里哭一会去刷个牙是 OK 的。"开开心心的父母才是好父母"——这句话是给完美主义妈妈的解药。
+  what_to_do:
+    - 让宝宝哭几分钟去刷牙洗脸
+    - 让爱人定期接手 1-2 小时
+    - 用婴儿车带宝宝去散步=同时锻炼
+    - 找责任心强的青少年看几小时
+    - 拒绝"妈妈应该牺牲一切"叙事
+  failure_mode: 把"留时间给自己"看成自私,半年后崩溃成产后抑郁,反而需要更长时间脱身才能正常照顾宝宝。
+  evidence_level: B
+glossary_refs: [G-TERM-postpartum-recovery]
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors: ["Heidi Murkoff", "Sharon Mazel"]
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh: ["莫夏迪", "张敏"]
+  location: "第 23 章 《妈妈的第一年》, 页 700-702"
+  source_id: "SRC-040"
+related_cards: [C-S0-2155, C-S0-2162, C-S0-2163]
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,59 @@
+card_id: C-S1-181
+stages: [S1]
+tags: [development_burst, controversy]
+
+front:
+  title: 5 周第一跃迁:感觉世界
+  hook: 5 周突然狂黏不是奶不够
+
+back:
+  why_matters: |
+    新生儿前 4 周像还在子宫的延续 — 感官信号模糊、混在一起。
+    第 5 周(有时早到第 4 周)出现第一个大脑跃迁:**感觉世界**(World of Changing Sensations)。
+    怎么回事:宝宝大脑突然能更精细地处理感官信号 — 视觉清晰度提升、听觉对方向更敏感、触觉/温觉/嗅觉同时升级。
+    新生儿被这"突然变高清"的世界吓到,行为表现:
+    - 突然狂哭(哭量比前几周多很多)
+    - 突然只要妈妈,放下就哭
+    - 拒绝睡婴儿床,要妈妈抱着或贴胸睡
+    - 频繁要奶(不是奶不够,是要安全感)
+    家长意义:**5 周突然狂黏狂哭 = 第一跃迁,不是奶不够**。中国新妈妈最常因此误判去换奶粉/加奶粉。
+  what_to_do:
+    - 第 4-5 周出现 3 C 信号 → 第一跃迁来了
+    - 烦躁 阶段 短(几天到 1 周),撑过去就好
+    - 多抱 + 按需哺乳,不要按表硬喂
+    - 用襁褓 / 背带 / 5S 法(C-S1-001..005)安抚
+    - 不必加奶粉(看尿量 / 体重正常即可)
+  failure_mode: |
+    "频繁要奶 = 奶不够" → 加奶粉 → 母乳供应反受影响。
+    "睡眠突然变差" → 找睡眠咨询 → 跃迁完成自然恢复。
+    "宝宝是不是病了" → 反复就医 → 焦虑加剧。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-vanderijt
+  - G-TERM-wonder-week
+  - G-TERM-mental-leap
+  - G-TERM-3C-signs
+  - G-TERM-fussy-phase
+
+citation:
+  book_title_zh: "婴儿大脑跃迁 10 周(神奇周)"
+  book_title_en: "The Wonder Weeks"
+  authors: ["Hetty van de Rijt", "Frans X. Plooij"]
+  authors_zh: ["海蒂·凡德里特", "弗朗斯·普洛伊"]
+  publisher_en: "Kiddy World Publishing"
+  year_en_first: 1992
+  isbn_en: "978-90-79208-12-1"
+  location: "Chapter 3 · Wonder Week 5: The World of Changing Sensations(At about 5 weeks... your baby will begin to take the first leap forward in his development. New sensations bombard your baby inside and out)"
+  source_id: SRC-013
+
+unit_ids: []
+related_cards:
+  - C-S1-001       # Karp 5S 法
+  - C-S1-178       # 三 C 信号
+  - C-S1-179       # 10 个跃迁时间表
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

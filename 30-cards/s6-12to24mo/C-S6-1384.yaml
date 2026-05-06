@@ -1,0 +1,74 @@
+card_id: C-S6-1384
+stages: [S6]
+tags: [maltreatment, cicchetti, toddler, lerner_v4]
+
+front:
+  title: 学步期虐待最敏感
+  hook: 学步期最敏感容易伤
+
+back:
+  why_matters: |
+    Cicchetti-Toth V4 Ch 13(12-24mo 虐待最敏感期)。
+    **12-24 月为啥最敏感**:
+    - 大脑突触修剪期(经验决定保留 vs 删除)
+    - 自我调节系统正在搭建
+    - 依恋系统形成关键期
+    - 受到虐待的神经冲击最深
+    **4 类型 maltreatment 学步期信号**:
+    - **身体虐待**:打 / 推 / 摇 → 退缩 + 怕生过度
+    - **情感虐待**:贬低 / 冷漠 → 黏人或反向冷漠
+    - **忽视**:不及时回应 → 哭闹无效感
+    - **性虐待**:任何接触 → 异常退缩 / 性化行为
+    **12-24 月特殊点**:
+    - 自己说不清(语言未稳)
+    - 主要靠**行为信号**识别
+    - **自我调节断裂**是核心信号:大量 tantrum + 难安抚 + 睡眠差
+    **为啥这阶段干预最有效**:
+    - 大脑可塑性最强
+    - 早期干预 → 大脑修复(NRC 共识)
+    - 错过这窗口成本翻倍
+    **强制报告制度**(美国):
+    - 教师 / 医生 / 治疗师法定报告
+    - 中国仅初步立法
+    - 家长发现身边可疑要报跟现库:跟 C-S8-742 Cicchetti 4 类型 + V3 Patterson 强制家庭(C-S6-1075)+ Shonkoff cortisol(C-S2-806)对接。
+    对中国家长意义:
+    - 12-24 月行为剧变(突 tantrum / 退缩)别忽视
+    - 关注主要照护人是否一致
+    - 看到亲友家娃可疑信号 → 报告
+    - 不打不骂不冷暴力是底线
+  what_to_do:
+    - 12-24 月行为剧变别忽视
+    - 关注主要照护人一致
+    - 看到亲友家可疑要报
+    - 不打不冷暴力是底线
+  failure_mode: |
+    "12 月不懂不会受伤"— 错。最敏感期。
+    "等大了说自己说"— 错。语言未稳靠行为。
+    "亲友家不管事"— 错。强制报告制度。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Cicchetti
+  - G-PERSON-Toth
+  - G-TERM-maltreatment-4-types
+  - G-TERM-cortisol
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 4 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 4 卷"
+  authors: ['Dante Cicchetti', 'Sheree L. Toth']
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 13 · Cicchetti-Toth · Toddler maltreatment most vulnerable · pp. 515-525"
+  source_id: SRC-029
+
+unit_ids: []
+related_cards:
+  - C-S8-742     # V4 虐待 4 类型 S8
+  - C-S0-1232     # Cicchetti 4 原则
+  - C-S2-806     # Shonkoff cortisol
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,73 @@
+card_id: C-S8-762
+stages: [S8]
+tags: [spatial, liben, gender, lerner_v4]
+
+front:
+  title: 空间训女娃缩差距
+  hook: 空间训女娃可缩差
+
+back:
+  why_matters: |
+    Liben V4 Ch 6(性别差 + 训练)。
+    **空间思维性别差 = 80% 经验**(Liben 综述):
+    - 男娃空间均值高 — 但**不是基因决定**
+    - 80% 来自经验差(玩具 / 运动 / 游戏)
+    - 20% 是其他因素
+    - **训练可以缩小差距**
+    **3 大经验差源**:
+    - **玩具**:男娃多玩积木 / 拼图,女娃多玩娃娃
+    - **游戏**:男娃多球类 / 跳跃,女娃多跳绳 / 静态
+    - **互动**:父母跟男娃用空间词("左 / 远 / 折叠")更多
+    **5 大训练方向**(Liben):
+    - **物理空间**:大动作 + 户外探索
+    - **2D 空间**:画画 + 拼图 + 折纸
+    - **3D 空间**:积木 + 模型 + 雕塑
+    - **地图**:看地图 + 找路 + 导航
+    - **空间词汇**:用"左 / 上 / 折 / 转"等
+    **反"女娃数学差"立场**:
+    - 数学好需要空间思维
+    - 性别差源于经验
+    - 训练 = 公平
+    **Liben 7-12 岁 RCT**:
+    - 空间训练 1 年 → 数学 + 科学提升
+    - 跨性别效果一致跟现库:跟 V4 Liben 总论(C-S8-735)+ V3 Ruble 性别 3 阶段(C-S6-1076)+ V2 Spelke 5 系统(C-S4-1141)对接。
+    对中国家长意义:
+    - 给女娃也玩积木 / 拼图 / 画画
+    - 户外 + 跑跳爬都练空间
+    - 用空间词描述
+    - 反"女娃数学不行"刻板
+  what_to_do:
+    - 给女娃也玩积木拼图画画
+    - 户外+跑跳爬练空间
+    - 用空间词描述
+    - '反"女娃数学差"刻板'
+  failure_mode: |
+    "男娃天生空间好"— 错。80% 经验。
+    "女娃数学不行"— 错。可训练。
+    "积木男娃的"— 错。性别中立。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Liben
+  - G-TERM-spatial-thinking
+  - G-TERM-spatial-gender-gap
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 4 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 4 卷"
+  authors: ['Lynn S. Liben']
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 6 · Liben · Spatial gender gap + training · pp. 215-230"
+  source_id: SRC-029
+
+unit_ids: []
+related_cards:
+  - C-S8-735     # V4 Liben 空间总论
+  - C-S6-1076     # V3 Ruble 性别 3 阶段
+  - C-S4-1141     # V2 Spelke 5 系统
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

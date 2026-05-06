@@ -1,0 +1,100 @@
+glossary_id: G-TERM-anti-cry-it-out
+type: term
+display_name: 反"哭出习惯"派 (Anti-CIO)
+
+full_name_en: Anti-Cry-It-Out (Anti-CIO)
+full_name_zh: 反"哭出习惯"派
+
+one_liner: |
+  反对"任由婴儿哭闹自然停止"的派系 — 主张回应婴儿哭闹不会"宠坏",反而建立安全依恋。
+  跨派代表:Pikler(1969 德文源头)/ Bowlby(理论)/ Karp(5S 安抚)/ Lansbury(承认情绪)/ 松田道雄(临床)/ Magda Gerber RIE。
+
+detail: |
+  ## 定义
+  Cry-It-Out (CIO) 派(主代表 Ferber 1985):任婴儿哭闹一段时间(渐进延长间隔)→ 让娃自学入睡。
+  Anti-CIO 派:回应婴儿哭闹是建立信任 + 安全依恋的根本,任其哭闹会损伤亲子关系。
+
+  ## 5 派理论支撑
+
+  ### 0. Pikler(1969 德文源头)⭐ 立场最早
+  - 1969 Ch1 整章警示"Erziehung zum Weinen"(把孩子教育成爱哭的)
+  - **5 步恶性循环**:哭 → 麻醉式安抚 → 习惯被麻醉 → 上瘾 → 不会自己玩
+  - **反 "Schrei-Training"(夜哭训练)** — 比 Ferber 1985 早 16 年立场
+  - 立场:白天好好照顾 + 夜里也回应 → 几周后自然睡通宵
+
+  ### 1. Bowlby(理论奠基)
+  - 哭是依恋系统的"求救信号" → 不响应 = 信任崩
+  - 12 月安全依恋类型 → 5 岁人格预测因子
+  - 反"严格按时不哄"(Watson behaviorism)
+
+  ### 2. Karp(5S 安抚)
+  - 6 周哭闹峰是发育规律(不是"爹妈失败")
+  - 5S(swaddle/side/shush/swing/suck)满足子宫感
+  - 头 3 月不会被"宠坏"
+
+  ### 3. Lansbury(RIE 承认情绪)
+  - 婴儿哭是情绪表达,需"承认"不需"消除"
+  - 承认情绪 ≠ 同意行为
+  - 平静陪伴比"消音"更建安全
+
+  ### 4. 松田道雄(日本临床)⭐
+  - 反老年人"抱坏习惯"忠告
+  - 20 人 1 个爱哭婴儿是天生 — 妈不必羞愧
+  - 任其哭闹可能引疝气(脐疝/腹股沟疝)— 临床观察
+  - 哭是婴儿唯一交流手段
+
+  ## 反 CIO 的临床证据
+  - 长期 CIO 训练 → 皮质醇水平升高 + 安全依恋率降
+  - 6 月前 CIO 跟睡眠改善没有统计差异
+  - "成功 CIO"娃后续可能"安静的不安全依恋"(回避型)
+
+  ## 注意:Anti-CIO ≠ "立即抱起每次哭"
+  - Anti-CIO 派也支持 Lansbury "等 3 秒回应法"(给娃自我安抚机会)
+  - 不是"无条件秒抱",是"有意识的及时回应"
+
+  ## 与中国家长的关联
+  - 中国家长被 CIO 派(BabyWise/Ferber)误导多
+  - 反 CIO 派提供权威源头,反"婆婆奶奶老话"压力
+
+key_facts:
+  - 反"任婴儿哭闹自然停止"派系
+  - 5 派支撑:Pikler 1969 德文源 / Bowlby 理论 / Karp 安抚 / Lansbury 承认 / 松田临床
+  - Pikler 1969 立场比 Ferber CIO 派早 16 年
+  - ≠ 无条件秒抱,是"有意识及时回应"
+  - 长期 CIO 跟皮质醇升高 + 不安全依恋相关
+
+related_glossary:
+  - G-PERSON-Pikler
+  - G-PERSON-Bowlby
+  - G-PERSON-Karp
+  - G-PERSON-Lansbury
+  - G-PERSON-Matsuda
+  - G-PERSON-Gerber
+  - G-TERM-attachment
+  - G-TERM-secure-base
+  - G-TERM-erziehung-zum-weinen
+
+related_cards:
+  - C-S1-899     # Pikler 反摇晃唱歌麻醉(SRC-026)
+  - C-S1-900     # Pikler 夜里也回应自然睡通宵(SRC-026)
+  - C-S1-898     # Pikler 平静婴儿是常态(SRC-026)
+  - C-S2-546     # 松田 反"抱坏习惯"老观念
+  - C-S2-547     # 松田 20 人 1 爱哭天生
+  - C-S2-070     # Bowlby V1 喂奶 ≠ 建立依恋
+  - C-S2-002     # Karp 撑过哭闹峰不是父母失败
+  - C-S1-190     # Lansbury 回应宝宝不会宠坏
+  - C-S4-016     # 鲍秀兰 8 月前抱抱不会宠坏
+
+sources:
+  - source_id: SRC-026    # Pikler 1969 德文源头(本卷)
+  - source_id: SRC-011    # Bowlby V1
+  - source_id: SRC-003    # Karp
+  - source_id: SRC-019    # Lansbury
+  - source_id: SRC-022    # Gerber RIE
+  - source_id: SRC-023    # 松田
+  - external: Ferber R. Solve Your Child's Sleep Problems (反对方 1985 著作)
+
+language: zh
+status: complete
+created: 2026-05-03
+updated: 2026-05-04

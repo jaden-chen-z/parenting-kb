@@ -1,0 +1,73 @@
+glossary_id: G-TERM-toddler-appetite-drop
+type: term
+display_name: 幼儿厌食期 (toddler appetite drop)
+
+full_name_en: Toddler Appetite Drop / Physiologic Anorexia of Toddlerhood
+full_name_zh: 幼儿生理性食欲下降
+
+one_liner: |
+  1 岁后体重增速从年增 6-7kg 骤降到年增 2-3kg,身体不再需要那么多热量,食欲明显下降是正常生理转折,不是病也不是叛逆。
+
+detail: |
+  ## 定义
+  **生理性厌食(physiologic anorexia of toddlerhood)**:
+  1 岁后宝宝热量需求相对体重显著下降,导致食量减少、
+  挑食、拒食、吃几口就跑等现象,**是正常生理过程**,
+  不是疾病也不是行为问题。
+
+  ## 数据基础
+  - **0-12 月**:体重年增 6-7 kg(出生 3 kg → 1 岁约 9-10 kg)。
+  - **12-24 月**:年增仅 2-3 kg(13 kg 左右),增速降 60%+。
+  - **2-5 岁**:每年仅增 2 kg。
+  - 热量需求随之下降:1 岁约 1000 kcal/d,远少于想象。
+
+  ## 行为表现
+  - 食量明显比婴儿期少。
+  - 挑食、对新食物拒绝(neophobia,2-6 岁高峰)。
+  - 吃几口就跑、连续几餐吃很少。
+  - **食量日间波动大**:今天吃很多,明天几乎不吃,
+    但 1-2 周平均下来够用。
+
+  ## 海蒂书核心立场
+  - **信任宝宝的饱腹感**:幼儿是天生的"自我热量调节者"
+    (Birch & Davison 经典研究证实),强喂破坏这种能力。
+  - **父母管"什么/什么时候"**,**孩子管"吃多少"**
+    (Ellyn Satter "Division of Responsibility" 模型)。
+  - 1-2 周整体生长曲线正常 = OK,不必纠结单餐。
+
+  ## 父母最大坑
+  - 追喂、哄喂、电视下饭 → 饱腹感失灵,长期挑食/暴食。
+  - 强吼"必须吃完" → 食物变焦虑源,3-4 岁严重挑食。
+  - 用零食奖励"再吃一口" → 把饭和奖品挂钩,谈判失控。
+  - 怀疑生病 → 反复就医做检查徒增焦虑。
+
+  ## 何时真要担心
+  - 体重 3 个月没增 / 跌出生长曲线。
+  - 完全拒水 / 拒奶。
+  - 伴随发热、呕吐、腹泻、嗜睡。
+  - 否则属正常生理阶段。
+
+key_facts:
+  - 1 岁后体重增速降 60%+
+  - 热量需求约 1000 kcal/d
+  - 是生理过程不是病
+  - Division of Responsibility 父母管什么/孩子管多少
+  - 1-2 周平均够 = OK
+
+related_glossary:
+  - G-TERM-weaning-table
+  - G-TERM-whole-milk-toddler
+
+related_cards:
+  - C-S5-2154      # 1 岁后食欲变小
+  - C-S5-2147      # 1 岁起换全脂牛奶
+  - C-S5-2145      # 断奶 1 岁前后
+
+sources:
+  - source_id: SRC-040
+  - external: "Birch LL & Davison KK, Pediatric Clinics of North America (2001) / Ellyn Satter Division of Responsibility"
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,85 @@
+card_id: C-S6-1064
+stages: [S6]
+tags: []
+
+front:
+  title: "持续到 2 岁共识"
+  hook: "全球只 WHO 这么明"
+
+back:
+  why_matters: |
+    WHO 是现库唯一明确推 2 岁内继续母乳的派(其他派 1 岁可断 / 弹性)。
+    WHO 原文:'continuing to breastfeed for up to 2 years of 月龄 or beyond.'
+    现库 4 派对比:
+    - AAP(SRC-006):6 月 EBF + 1 岁可断(可继续不强求)
+    - 鲍秀兰(SRC-009):1 岁可断
+    - 松田(SRC-024):弹性 / 妈妈决定
+    - WHO(SRC-031):≥ 2 岁,'beyond' 可继续依据:
+    - 12-24 月母乳供 33% 营养(硬数据)
+    - 免疫保护持续(IgA / lactoferrin 高浓度)
+    - 妈妈乳腺癌降险(每 12 月哺乳 6%)
+    - 母婴 bonding 心理价值
+  what_to_do:
+    - "WHO 推 2 年(国际共识)— 比 AAP/鲍/松田都长"
+    - "12-24 月母乳 33% 营养 — 不是 '没营养'"
+    - "妈妈乳腺癌每 12 月哺乳降 6% — 妈妈受益"
+    - "选 WHO 长喂 vs AAP 1 年断 — 自己权衡"
+    - "中国'2 岁内还在喂' 不是 '惯坏',是 WHO 国际标准"
+  failure_mode: |
+    因为 '别人都 1 岁断' 而 1 岁断 → 跟 WHO 国际共识冲突 → 错过 12-24 月营养免疫。
+    WHO 立场不是建议,是公共卫生标准。
+  evidence_level: A
+
+  positions:
+    issue: 持续母乳时长 — WHO 2 年 vs AAP/鲍/松田 1 年可断
+    views:
+      - school: WHO / UNICEF
+        source: SRC-031
+        stance: ≥ 2 岁 'or beyond' — 12-24m 母乳仍提供 33% 营养;Detwyler 2004 自然离乳 2.5-7 岁支持。
+      - school: AAP
+        source: SRC-006
+        stance: 1 岁可断(也可继续不强求);1 岁后母乳不再是营养必需,以家庭决定为主。
+      - school: 鲍秀兰
+        source: SRC-009
+        stance: 1 岁可断;跟中国本土实操更一致,无明确反对延长喂。
+      - school: 松田道雄
+        source: SRC-024
+        stance: 弹性立场 / 妈妈决定;不强求时间表。
+      - school: 中国家长压力
+        stance: 1 岁后哺乳常被亲戚说"丢人"或"没营养";WHO 国际共识可作为反传统压力的依据。
+      - school: WHO
+        source: SRC-031
+        stance: ≥ 2 岁 + 'or beyond' + 文化无关共识;12-24m 母乳 33% 营养硬数据。
+      - school: 全球医学共识
+        stance: 北欧国家普遍 2 岁;母亲乳腺癌每哺乳 12 月降 6%;WHO 立场是国际医学共识不是西方偏好。
+      - school: 中国传统
+        stance: '"1 岁就该断" / "2 岁还在喂丢人" / "1 岁后没营养" / "惯坏依赖" — 文化压力源。'
+      - school: 实操建议
+        stance: 中国家长选 WHO 2 年立场不是落后是国际接轨;反传统压力可拿 33% 营养 + 乳腺癌数据作背书。
+glossary_refs:
+  - G-TERM-WHO-two-years
+  - G-ABBR-WHO
+
+citation:
+  page_title: "WHO 2-Year Continued Breastfeeding"
+  publisher: "World Health Organization & UNICEF"
+  page_url_primary: https://www.who.int/health-topics/breastfeeding
+  accessed: 2026-05-04
+  language: en
+  location: "WHO ≥ 2 年 vs AAP 1 年 vs 中国'早断' 立场对照"
+  source_id: SRC-031
+
+unit_ids: []
+related_cards:
+  - C-S4-1055
+  - C-S6-1064
+  - C-S6-1067
+  - C-S5-001
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_doc_id_pending: D1
+citation_followup_needed: '已映射真实 doc_id (D1 = WHO IYCF Fact Sheet)'

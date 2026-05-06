@@ -1,0 +1,57 @@
+card_id: C-S4-352
+stages: [S4]
+tags: [social, peers]
+
+front:
+  title: "群玩两条铁律"
+  hook: "不允伤害不强分享"
+
+back:
+  why_matters: |
+    Magda 在 Ch7 列群玩两条铁律:
+    1)**不允许伤害** — 拍 / 抓 / 推都要"我不让你伤她"立即停;
+    2)**不强迫分享** — 谁拿着就是谁的,不强讲"礼貌"。
+    Magda 反"victim mentality"和"bully mentality" —
+    被打的孩子不要过度同情("你被打了好可怜"),
+    打的孩子要清晰限度("打人不行")。
+    跟 Lansbury "I won't let you" 公式同源。
+
+  what_to_do:
+    - 看到打 / 抓:"我不让你打 X,会痛"
+    - 被打的:"X 打了你"+ 抱(他要的话),不"哎呀好惨"
+    - 抢玩具:谁拿着是谁的,鼓励他抓紧不"分享"
+    - 鼓励 vs 同情:"你试一下"胜过"你好可怜"
+    - 攻击是正常情绪,要的是"换个出口"不堵情绪
+
+  failure_mode: |
+    "你哥哥小让让弟弟 / 你也别哭你又没事" → 双输:大的学到"我不重要"小的学到"哭就赢"。
+    Magda 原话:"鼓励比同情更有效"。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+  - G-TERM-acknowledging-feelings
+
+citation:
+  book_title_en: "Your Self-Confident Baby"
+  book_title_zh: "自信的宝宝"
+  authors:
+    - Magda Gerber
+    - Allison Johnson
+  publisher_en: John Wiley & Sons
+  year: 1998
+  location: "Ch7 Children in Group Play(整节 + Carol/Rachel 故事)"
+  source_id: SRC-022
+
+unit_ids: []
+related_cards:
+  - C-S6-403  # Lansbury 限度+情绪并存
+  - C-S6-192  # Lillard No 永远 No
+  - C-S6-138  # Davies 父母先照顾自己
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

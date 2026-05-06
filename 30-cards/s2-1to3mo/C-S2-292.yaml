@@ -1,0 +1,56 @@
+card_id: C-S2-292
+stages: [S2]
+tags: [communication, RIE, lansbury]
+
+front:
+  title: "几分钟真专注 > 几小时空陪"
+  hook: "陪的质量碾压数量"
+
+back:
+  why_matters: |
+    Lansbury Ch1 引子:跟你坐车里,你跟别人讲电话讲半小时,
+    我会感觉自己像隐形人。宝宝同理。
+    几分钟"放下手机看着我聊"对宝宝的滋养,
+    超过几小时"边看手机边抱着我"。
+    这不是要你放下手机一整天,是说要分清:
+    哪些时段是 "fully present", 哪些是 "physically present"。
+
+  what_to_do:
+    - 喂奶 / 换尿布 = 放下手机的"圣时段"
+    - 一天 3-4 个 5 分钟"全注意"窗口够
+    - 不需要全天陪聊,需要的是切换
+    - 不必每个清醒时刻都互动,但互动时全在
+    - 哭时也"全在",不一边刷一边哄
+
+  failure_mode: |
+    "我陪了一整天" — 但全程刷手机 → 宝宝感觉空洞。
+    或反向:愧疚到全天不敢碰手机 → 自己崩溃。
+    Lansbury:做"质量"型陪伴,不必"数量"。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Lansbury
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+
+citation:
+  book_title_en: "Elevating Child Care: A Guide to Respectful Parenting"
+  book_title_zh: "尊重孩子:RIE 育儿之道"
+  authors:
+    - Janet Lansbury
+  publisher_en: JLML Press
+  year: 2014
+  location: "Ch1 What Your Baby Can't Tell You — 'Give me attention'"
+  source_id: SRC-019
+
+unit_ids: []
+related_cards:
+  - C-S1-353  # Lansbury 尿布连接
+  - C-S2-128  # Davies 等 3 秒再回应(质量陪)
+  - C-S6-138  # Davies 蒙氏父母先照顾自己
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

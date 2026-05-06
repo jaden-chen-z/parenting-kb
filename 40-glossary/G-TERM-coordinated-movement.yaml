@@ -1,0 +1,92 @@
+glossary_id: G-TERM-coordinated-movement
+type: term
+display_name: 协调动作 (coordinated movement)
+
+full_name_zh: 协调动作 / 配合动作
+full_name_en: Coordinated Movement
+
+one_liner: |
+  蒙氏 4 大自我形成成果之一(独立 + 协调动作 + 语言 + 意志)。
+  不是简单"会动",是**意图 + 大脑 + 身体配合一致**的动作 — 从无目的乱动,到 3 岁能切香蕉 / 自己穿衣 / 走路不撞人。Lillard 强调这是"思想引导身体"的根本能力。
+
+detail: |
+  ## 定义
+  Coordinated movement = 蒙氏教育核心命题之一:
+  - 婴儿的动作不是天生有"意图"
+  - 必须练 3 年才有"思想引导身体"的能力
+  - 配合 = 大脑前额叶 + 神经髓鞘 + 肌肉 + 感官反馈环
+
+  Lillard 把"协调动作"分两大类:
+  1. **大动作**(gross motor)— 翻身 / 坐 / 爬 / 站 / 走
+  2. **小动作**(fine motor)— 抓握 / 拇食指对捏 / 用工具
+
+  ## 0-3 岁协调动作发育表(Lillard 时间线)
+  | 月龄 | 大动作 | 小动作 |
+  |---|---|---|
+  | 0-2 月 | 趴 / 抬头 | 反射抓握 / 手脚乱动 |
+  | 2-4 月 | 翻身 / 滑动 | 意图抓握起步 |
+  | 4-6 月 | 坐稳 / 翻 | 单手抓 / 两手过物 |
+  | 6-9 月 | 爬 / 拉站 | 拇食指对捏粗 |
+  | 9-12 月 | 站 / 第一步 | 拇食指对捏精 |
+  | 12-18 月 | 走稳 / 爬高 | 用真碗真勺 |
+  | 18-24 月 | 跑 / 上下楼 | 倒水 / 切香蕉(钝刀) |
+  | 24-36 月 | 跳 / 平衡 | 系扣子 / 穿衣 |
+
+  ## 4 大障碍(Lillard Ch5 强调)
+  Lillard 列出 4 大现代家庭剥夺孩子协调动作发展的方式:
+  1. **关在容器里** — 婴儿床 / 围栏 / 学步车 / jumper / 摇椅 / 高脚椅
+  2. **错穿衣服** — 紧身 / 大蝴蝶结 / 裙子 / 紧裤腿 → 不能爬
+  3. **替宝宝做** — 抱起 / 扶坐 / 牵手走 / 替穿
+  4. **TV 钉住注意力** — 屏幕停机制夺取活动时间
+
+  Lillard 立场:**只有车座是真正必要的**(其他容器都可少用)。
+
+  ## 蒙氏的助力工具
+  - **Floor bed**(地板床)— 0 月起允许翻 / 滑 / 爬出
+  - **Mirror by floor bed** — 让孩子看到自己动
+  - **Mobile** — 视觉跟踪 → 有目的伸手 → 抓握起步
+  - **Walker Wagon** — 木质矩形带 4 轮,让孩子推着走(vs 反对学步车)
+  - **真物 + 儿童尺寸** — 真碗 / 真刀(钝)/ 矮桌椅
+
+  ## 跟其他流派比较
+  - **Karp** — swaddle 包裹(限制动作 4 个月)— 跟蒙氏对立
+  - **AAP** — 仰睡(降 SIDS)+ Lillard 提醒醒着主动多趴补 tummy time
+  - **Pikler** — 完全自主动作(蒙氏 Ch5 引用 Pikler 类似)
+  - **Karpathy 早教中心** — 提早走路追求里程碑(蒙氏反对,要尊重个体时间表)
+
+  ## 中国家长高频误解
+  - **"早走 = 聪明"** — 蒙氏:每个孩子时间表不同,催只伤
+  - **"摔了多疼"过度保护** — 蒙氏:磕磕碰碰是协调发展必经
+  - **"学步车帮走得早"** — 蒙氏 + AAP 双反对(跌摔 / DDH 风险)
+  - **"6 月就坐 = 早慧"** — Lillard:propping 让 6 月坐是剥夺自主肌肉发展
+  - **"穿那么多看着可爱"** — 妨碍爬,蒙氏立场:freedom of movement 优先
+
+  ## 协调动作 vs 独立性
+  这两个 outcome 紧密相连:
+  - 不能协调动作 → 不能独立(穿衣 / 吃饭 / 上厕所)
+  - Lillard:"会动" + "知道做什么" 才完整
+
+key_facts:
+  - 蒙氏 4 大自我形成成果之一
+  - 大动作 + 小动作两大类
+  - 0-3 岁完整发育表
+  - 4 大现代障碍:关 / 穿 / 替 / TV
+  - 仅车座是必要(其他容器都可减少)
+
+related_glossary:
+  - G-PERSON-Montessori
+  - G-PERSON-Lillard
+  - G-TERM-self-construction
+  - G-TERM-floor-bed
+  - G-TERM-prepared-environment
+
+related_cards: []
+
+sources:
+  - source_id: SRC-016
+  - external: Maria Montessori《童年的秘密》/ Pikler《Friedliche Babys》
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

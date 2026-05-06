@@ -1,0 +1,56 @@
+glossary_id: G-PERSON-Baillargeon
+type: person
+display_name: Baillargeon
+
+full_name_en: Renée Baillargeon
+full_name_zh: 蕾妮·拜亚尔容
+
+one_liner: |
+  美国发展心理学家(伊利诺伊大学教授),1985 吊桥实验奠基人。
+  4 月物体永久性实证 — 推翻 Piaget 8 月说。
+
+detail: |
+  ## 个人背景
+  - 加拿大魁北克出生
+  - 宾夕法尼亚大学博士(Spelke 学生)
+  - 伊利诺伊大学(UIUC)心理学教授
+  - 美国国家科学院院士
+
+  ## 核心研究
+  - **1985 吊桥实验**:4 月宝宝看吊桥转 180 度过被遮方块 = 不可能事件,盯更久
+  - 推翻 Piaget 8 月物体永久说
+  - **Violation-of-Expectation** 范式经典应用
+  - Hespos 2001 + Wang 2004 多次复制
+
+  ## 立场
+  - Spelke 核心知识派
+  - 物体系统先天派代表
+
+  ## 在本知识库中
+  - SRC-028 Lerner V2 Ch5 引用经典(63 hits)
+  - C-S3-1140 Baillargeon 吊桥实验
+
+key_facts:
+  - UIUC 心理学教授
+  - 1985 吊桥实验
+  - 推翻 Piaget 8 月物体永久
+  - VOE 范式经典实验
+  - 美国国家科学院院士
+
+related_glossary:
+  - G-PERSON-Spelke
+  - G-PERSON-Piaget
+  - G-PERSON-Carey
+  - G-TERM-object-permanence
+
+related_cards:
+  - C-S3-1140
+
+sources:
+  - source_id: SRC-028
+  - external: Baillargeon 1985 / Wikipedia Renée Baillargeon
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

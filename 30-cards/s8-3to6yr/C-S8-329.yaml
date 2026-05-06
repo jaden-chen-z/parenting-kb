@@ -1,0 +1,51 @@
+card_id: C-S8-329
+stages: [S8]
+tags: [markus, cultural_self, independent_interdependent, lerner_v3]
+
+front:
+  title: "Markus 独立 vs 互依"
+  hook: "中国娃 self 不一样"
+
+back:
+  why_matters: |
+    Markus(via Ch 9 Harter)综述 — 文化塑造 2 类 self 取向:
+    independent(独立 self,美国主流)+ interdependent(互依 self,东亚主流)。
+    独立 — 强调我是谁我决定。互依 — 强调我是我家的一员。
+    一句话 — 你拿美国 self 自信概念套中国娃可能错配,我们 self 不是失败是不同。
+  what_to_do:
+    - "中国娃更看重家庭意见正常"
+    - "不强迫你自己决定全部事"
+    - "尊重集体取向不当软弱"
+    - "美国育儿书 self-esteem 概念慎用"
+    - "看你家文化传统不照搬"
+  failure_mode: |
+    用美国 self-esteem 标准评中国娃,觉得我家娃太听家里的不独立焦虑。
+    Markus — 互依 self 不是次等,是不同的健康路径。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Markus
+  - G-PERSON-Harter
+  - G-TERM-independent-self
+  - G-TERM-interdependent-self
+  - G-TERM-cultural-self
+
+related_cards:
+  - C-S8-103      # 松田反虎妈
+  - C-S8-104      # 松田 IQ 测试
+  - C-S8-105      # 松田反性别刻板
+  - C-S8-100      # 松田反体罚
+
+citation:
+  source_id: SRC-027
+  source_title: "Handbook of Child Psychology Vol 3"
+  chapter: "Ch 9 Harter / Markus"
+  chapter_offset: 2905445
+  chapter_title: 'Harter — 自我'
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_followup_needed: 'SRC-027 用 PDF 字节偏移代页码 — 待加 page_pdf 反查工具'

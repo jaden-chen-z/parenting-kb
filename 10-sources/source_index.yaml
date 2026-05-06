@@ -713,5 +713,794 @@ sources:
       - C-S7-128
       - C-S7-129
 
-# 下一个可用 ID(SRC-015 Gopnik 摇篮里的科学家完成 2026-05-03 补登记)
-next_src_id: SRC-016
+  - source_id: SRC-016
+    title: "蒙台梭利从 0 岁开始 — 0-3 岁的教育(中译本)"
+    title_en: "Montessori from the Start: The Child at Home, from Birth to Age Three"
+    org: null
+    tier: 3
+    source_type: book
+    url: null
+    isbn_en: "978-0-8052-1112-1"
+    accessed: 2026-05-03
+    language: en
+    notes_path: tier3-books/notes/SRC-016.yaml
+    referenced_by_units: []
+    referenced_by_cards:                 # Phase 6 第二本 Lillard 完成 — 46 张(含二审补 2)
+      # === S0 孕期(3 张)===
+      - C-S0-012
+      - C-S0-013
+      - C-S0-014
+      # === S1 0-1 月(6 张)===
+      - C-S1-247
+      - C-S1-248
+      - C-S1-249
+      - C-S1-250
+      - C-S1-251
+      - C-S1-252
+      # === S2 1-3 月(6 张:5 + 三审补 1)===
+      - C-S2-185
+      - C-S2-186
+      - C-S2-187
+      - C-S2-188
+      - C-S2-189
+      - C-S2-190      # 三审补:flow 4 类家庭(Csikszentmihalyi + Baumrind)
+      # === S3 3-6 月(5 张)===
+      - C-S3-191
+      - C-S3-192
+      - C-S3-193
+      - C-S3-194
+      - C-S3-195
+      # === S4 6-9 月(6 张:5 + 三审补 1)===
+      - C-S4-190
+      - C-S4-191
+      - C-S4-192
+      - C-S4-193
+      - C-S4-194
+      - C-S4-195      # 三审补:7-9 月真物探索篮
+      # === S5 9-12 月(6 张:5 + 二审补 1)===
+      - C-S5-184
+      - C-S5-185
+      - C-S5-186
+      - C-S5-187
+      - C-S5-188
+      - C-S5-189      # 二审补:关门睡 + 不抱晃睡
+      # === S6 12-24 月(12 张:8 + 二审补 1 + 三审补 3)===
+      - C-S6-184
+      - C-S6-185
+      - C-S6-186
+      - C-S6-187
+      - C-S6-188
+      - C-S6-189
+      - C-S6-190
+      - C-S6-191
+      - C-S6-192      # 二审补:No 永远是 No
+      - C-S6-193      # 三审补:12-24 月词汇爆炸期
+      - C-S6-194      # 三审补:描述法替"讲道理"
+      - C-S6-195      # 三审补:父母自己读书 = 模范
+      # === S7 24-36 月(8 张:7 + 三审补 1)===
+      - C-S7-130
+      - C-S7-131
+      - C-S7-132
+      - C-S7-133
+      - C-S7-134
+      - C-S7-135
+      - C-S7-136
+      - C-S7-137      # 三审补:轮流教学法(my turn / your turn)
+
+  - source_id: SRC-017
+    title: "依恋三部曲 · 第三卷:丧失(中译本)"
+    title_en: "Attachment and Loss, Volume 3: Loss, Sadness and Depression"
+    org: null
+    tier: 3
+    source_type: book
+    url: null
+    isbn: "978-7-5192-3383-9"
+    accessed: 2026-05-03
+    language: zh
+    notes_path: tier3-books/notes/SRC-017.yaml
+    referenced_by_units: []
+    referenced_by_cards:                 # Phase 6 第三本 Bowlby V3 完成 — 15 张知识卡(用户压缩到"很少")
+      # === S5 9-12 月(1 张)===
+      - C-S5-290
+      # === S6 12-24 月(3 张)===
+      - C-S6-293
+      - C-S6-294
+      - C-S6-295
+      # === S7 24-36 月(11 张)===
+      - C-S7-237
+      - C-S7-238
+      - C-S7-239
+      - C-S7-240
+      - C-S7-241
+      - C-S7-242
+      - C-S7-243
+      - C-S7-244
+      - C-S7-245
+      - C-S7-246
+      - C-S7-247
+
+  - source_id: SRC-018
+    title: "婴儿的人际世界:精神分析与发展心理学的视野(中译本)"
+    title_en: "The Interpersonal World of the Infant: A View from Psychoanalysis and Developmental Psychology"
+    org: null
+    tier: 3
+    source_type: book
+    url: null
+    isbn_en: "978-0-465-09559-9"
+    accessed: 2026-05-03
+    language: en
+    notes_path: tier3-books/notes/SRC-018.yaml
+    referenced_by_units: []
+    referenced_by_cards:                 # Phase 7 第一本 Stern 完成 — 44 张知识卡(并行 session 41 + R2 补 2 + 用户深度审 R5 补 1)
+      # === S0 孕期 / 哲学(4 张)===
+      - C-S0-015
+      - C-S0-016
+      - C-S0-017
+      - C-S0-018
+      # === S1 0-1 月(5 张)===
+      - C-S1-253
+      - C-S1-254
+      - C-S1-255
+      - C-S1-256
+      - C-S1-257
+      # === S2 1-3 月(4 张)===
+      - C-S2-191
+      - C-S2-192
+      - C-S2-193
+      - C-S2-194
+      # === S3 3-6 月(6 张:5 + 用户深度审 R5 补 1)===
+      - C-S3-196
+      - C-S3-197
+      - C-S3-198
+      - C-S3-199
+      - C-S3-200
+      - C-S3-201      # 用户深度审 R5 补:主题+变奏 = 互动模板
+      # === S4 6-9 月(7 张:6 + R2 补 1)===
+      - C-S4-196
+      - C-S4-197
+      - C-S4-198
+      - C-S4-199
+      - C-S4-200
+      - C-S4-201
+      - C-S4-202      # R2 补:过度刺激 vs 不足刺激
+      # === S5 9-12 月(9 张:8 + R2 补 1)— Stern 最强段 ===
+      - C-S5-291
+      - C-S5-292
+      - C-S5-293
+      - C-S5-294
+      - C-S5-295
+      - C-S5-296
+      - C-S5-297
+      - C-S5-298
+      - C-S5-299      # R2 补:扑克脸 = 玩手机代价(Tronick still-face)
+      # === S6 12-24 月(5 张)===
+      - C-S6-296
+      - C-S6-297
+      - C-S6-298
+      - C-S6-299
+      - C-S6-300
+      # === S7 24-36 月(4 张)===
+      - C-S7-248
+      - C-S7-249
+      - C-S7-250
+      - C-S7-251
+
+  - source_id: SRC-019
+    title: "尊重孩子:RIE 育儿之道"
+    title_en: "Elevating Child Care: A Guide to Respectful Parenting"
+    org: null
+    tier: 3
+    source_type: book
+    url: null
+    isbn_en: "978-0-9911442-0-9"
+    accessed: 2026-05-03
+    language: en
+    notes_path: tier3-books/notes/SRC-019.yaml
+    referenced_by_units: []
+    referenced_by_cards:                 # Phase 7 第二本 Lansbury 完成 — 43 张知识卡(初版 37 + 二审补 2 + 用户三审补 4)
+      # === S0 孕期(2 张)===
+      - C-S0-115
+      - C-S0-116
+      # === S1 0-1 月(4 张)===
+      - C-S1-352
+      - C-S1-353
+      - C-S1-354
+      - C-S1-355
+      # === S2 1-3 月(4 张)===
+      - C-S2-290
+      - C-S2-291
+      - C-S2-292
+      - C-S2-293
+      # === S3 3-6 月(5 张:4 + 用户三审补 1)===
+      - C-S3-295
+      - C-S3-296
+      - C-S3-297
+      - C-S3-298
+      - C-S3-299      # 用户三审补:Acknowledge 承认情绪是连接钥匙(Ch3)
+      # === S4 6-9 月(4 张)===
+      - C-S4-295
+      - C-S4-296
+      - C-S4-297
+      - C-S4-298
+      # === S5 9-12 月(5 张:4 + 用户三审补 1)===
+      - C-S5-390
+      - C-S5-391
+      - C-S5-392
+      - C-S5-393
+      - C-S5-394      # 用户三审补:玩是孩子的自我治疗(Ch14 spoon enema)
+      # === S6 12-24 月(13 张:10 + 二审补 1 + 用户三审补 2)===
+      - C-S6-395
+      - C-S6-396
+      - C-S6-397
+      - C-S6-398
+      - C-S6-399
+      - C-S6-400
+      - C-S6-401
+      - C-S6-402
+      - C-S6-403
+      - C-S6-404
+      - C-S6-405      # 二审补:鼓励幼儿说话 6 招(Ch17)
+      - C-S6-406      # 用户三审补:0-2 岁不看 TV/视频/平板(Ch8 + AAP 一致)⭐⭐⭐
+      - C-S6-407      # 用户三审补:看医生/牙医/剪头 提前预告(Ch10)
+      # === S7 24-36 月(6 张:5 + 二审补 1)===
+      - C-S7-347
+      - C-S7-348
+      - C-S7-349
+      - C-S7-350
+      - C-S7-351
+      - C-S7-352      # 二审补:你设限难?3 个真原因(Ch23)
+
+  - source_id: SRC-021
+    title: "自信的宝宝:如何鼓励孩子天生的能力 — 从最初开始"
+    title_en: "Your Self-Confident Baby: How to Encourage Your Child's Natural Abilities — From the Very Start"
+    org: null
+    tier: 3
+    source_type: book
+    url: null
+    isbn_en: "978-0-471-23104-0"
+    accessed: 2026-05-03
+    language: en
+    notes_path: tier3-books/notes/SRC-021.yaml
+    referenced_by_units: []
+    referenced_by_cards:                 # Phase 8 并行第二本 Magda Gerber 完成 — 35 张知识卡(初版 30 + 反向覆盖补 2 + 用户深审补 3)
+      # === S0 孕期(2 张)===
+      - C-S0-316
+      - C-S0-317
+      # === S1 0-1 月(5 张)===
+      - C-S1-555
+      - C-S1-556
+      - C-S1-557
+      - C-S1-558
+      - C-S1-559
+      # === S2 1-3 月(4 张)===
+      - C-S2-493
+      - C-S2-494
+      - C-S2-495
+      - C-S2-496
+      # === S3 3-6 月(3 张)===
+      - C-S3-499
+      - C-S3-500
+      - C-S3-501
+      # === S4 6-9 月(3 张)===
+      - C-S4-498
+      - C-S4-499
+      - C-S4-500
+      # === S5 9-12 月(5 张:3 + 反向覆盖补 1 + 用户深审补 1)===
+      - C-S5-594
+      - C-S5-595
+      - C-S5-596
+      - C-S5-597      # 反向覆盖补:Magda 帮宝宝睡的中间路(Ch5)
+      - C-S5-598      # 用户深审补:新食物要给到 30 次(Ch7 §Trying New Foods)
+      # === S6 12-24 月(10 张:7 + 反向覆盖补 1 + 用户深审补 2)===
+      - C-S6-607      # ⭐ Antaeus tantrum 故事(Ch8)
+      - C-S6-608      # ⭐ Red/Yellow/Green 限度三灯(Ch8)
+      - C-S6-609      # Cause/Consequence 自然后果(Ch8)
+      - C-S6-610      # Time-out 出生命吗(Ch8)
+      - C-S6-611      # Beverly 高需求宝宝案例(Ch2)
+      - C-S6-612      # Lasting Discipline 长在心里(Ch8)
+      - C-S6-613      # No 是分离过程(Ch8)
+      - C-S6-614      # 反向覆盖补:Words give power 替打咬人(Ch8)
+      - C-S6-615      # ⭐ 用户深审补:想法没坏行为才有坏(Ch8 §Desires + Gottman 1997)
+      - C-S6-616      # 用户深审补:好奇是创造力的门(Ch8 §Curiosity 香蕉案例)
+      # === S7 24-36 月(3 张)===
+      - C-S7-552
+      - C-S7-553
+      - C-S7-554
+
+  - source_id: SRC-022
+    title: "自信的宝宝:激发孩子从出生起的天生能力(深度本)"
+    title_en: "Your Self-Confident Baby: How to Encourage Your Child's Natural Abilities — from the Very Start"
+    org: null
+    tier: 3
+    source_type: book
+    url: null
+    isbn_en: "978-0-471-17883-5"
+    accessed: 2026-05-03
+    language: en
+    notes_path: tier3-books/notes/SRC-022.yaml
+    referenced_by_units: []
+    referenced_by_cards:                 # Phase 8 第二轮深度本完成 — 49 张知识卡(初版 42 + 二审补 3 + 用户三审补 4)
+      # === S0 孕期(3 张)===
+      - C-S0-167   # Magda 8 大育儿原则
+      - C-S0-168   # 好父母不必完美
+      - C-S0-169   # 求助不是无能
+      # === S1 0-1 月(6 张:5 + 用户三审补 1)===
+      - C-S1-406   # 动他之前先告知 ⭐ Tell Before You Do
+      - C-S1-407   # 用真声音说话
+      - C-S1-408   # 哭是孩子的语言 ⭐
+      - C-S1-409   # 永远仰卧不俯卧
+      - C-S1-410   # 关爱不会宠坏
+      - C-S1-411   # 用户三审补:7 类婴儿设备先放下(zombied out)⭐
+      # === S2 1-3 月(5 张)===
+      - C-S2-344   # 慢下来等他
+      - C-S2-345   # 可预测胜新奇
+      - C-S2-346   # 别说宝宝没事
+      - C-S2-347   # 全注意才叫共度 ⭐ Quality Time
+      - C-S2-348   # 白天平静晚上才睡
+      # === S3 3-6 月(5 张:4 + 漏知识反向覆盖补 1)===
+      - C-S3-350   # 玩环境少而简
+      - C-S3-351   # 你做的他都看(模范)
+      - C-S3-352   # 护理时全注意,玩时观察
+      - C-S3-353   # 户外睡更香
+      - C-S3-354   # 漏补:选托育看 4 件事(Ch6) ⭐⭐⭐ 中国家长高频
+      # === S4 6-9 月(5 张)===
+      - C-S4-349   # 里程碑不是赛跑
+      - C-S4-350   # 选择性介入
+      - C-S4-351   # 100% 安全房间
+      - C-S4-352   # 群玩两条铁律
+      - C-S4-353   # 护理时邀请参与
+      # === S5 9-12 月(6 张:5 + 漏知识反向覆盖补 1)===
+      - C-S5-445   # 分离焦虑是健康
+      - C-S5-446   # 陌生人焦虑健康
+      - C-S5-447   # 戒奶慢慢爱意足
+      - C-S5-448   # 矮桌矮椅替高脚椅
+      - C-S5-449   # 永不偷溜走
+      - C-S5-450   # 漏补:新食物 30 次再试(Ch7)
+      # === S6 12-24 月(14 张:10 + 二审补 1 + 用户三审补 3)===
+      - C-S6-458   # 继续建基本信任
+      - C-S6-459   # 接受想要,限度行为
+      - C-S6-460   # 好奇是创造力种子
+      - C-S6-461   # 幼儿不需要被教
+      - C-S6-462   # 红黄绿三色限度 ⭐ Magda 命名
+      - C-S6-463   # 脾气暴发让它过 ⭐⭐ Antaeus 神话
+      - C-S6-464   # 撞头摇晃是自调节
+      - C-S6-465   # 自律靠自己接管
+      - C-S6-466   # 睡前序列固定
+      - C-S6-467   # 不用 Time-out
+      - C-S6-468   # 二审补:幼儿说不是健康(Ch8 No! No! No!) ⭐
+      - C-S6-469   # 用户三审补:自然后果替惩罚(Cause/Consequence) ⭐
+      - C-S6-470   # 用户三审补:高需求宝宝转化(Beverly 案例) ⭐
+      - C-S6-471   # 用户三审补:教说话替打咬 ⭐
+      # === S7 24-36 月(5 张)===
+      - C-S7-403   # RIE 哲学不止 2 岁
+      - C-S7-404   # 兄弟竞争不偏护
+      - C-S7-405   # 学如厕不是训练
+      - C-S7-406   # 测试限度是健康
+      - C-S7-407   # 你不必完美
+
+  - source_id: SRC-023
+    title: "定本《育儿百科》(中译本)"
+    title_en: "Childcare Encyclopedia (Definitive Edition, Chinese Translation)"
+    title_ja: "定本 育児の百科"
+    org: null
+    tier: 3
+    source_type: book
+    url: null
+    isbn: null
+    isbn_ja: "978-4-00-026591-9"
+    accessed: 2026-05-03
+    language: zh
+    language_original: ja
+    notes_path: tier3-books/notes/SRC-023.yaml
+    referenced_by_units: []
+    referenced_by_cards:                  # Phase 9 第一本 fallback(原计划 Ainsworth OCR 缺,激活松田)— 49 张知识卡 + 6 张新术语 + 2 张 Edit 加深(用户深度审补 5 卡 + 2 术语)
+      # === S0 孕期(4 张)===
+      - C-S0-367   # 父亲戒烟孕期硬指标 ⭐(丹麦/英国研究)
+      - C-S0-368   # 父亲进核心家庭育儿
+      - C-S0-369   # 母乳孕期就要决定 ⭐(铁吸收 50% vs 牛奶 < 50%)
+      - C-S0-519   # 回乡分娩 16-23 周窗 ⭐(中国春运抱娃高频痛点 — 用户深度审补)
+      # === S1 0-1 月(7 张)===
+      - C-S1-609   # 反"标准体重"焦虑 ⭐⭐(战前征兵思想批判)
+      - C-S1-610   # 母乳不足补救数字法 ⭐(日增 30-40g 标准)
+      - C-S1-611   # 老大不天然爱二宝 ⭐⭐(2 岁塑料袋窒息案例)
+      - C-S1-612   # 未成熟儿出院别松懈
+      - C-S1-613   # 黄疸不消退要警戒(大便白色立即就医)
+      - C-S1-763   # 唇腭裂手术时机(3 月 + 5 kg 后)
+      - C-S1-764   # 产后 40 天就可孕 ⭐(月子病焦虑 — 用户深度审补)
+      # === S2 1-3 月(7 张)===
+      - C-S2-546   # 反"抱坏习惯"老观念 ⭐⭐⭐(松田核心命题)
+      - C-S2-547   # 20 人 1 个爱哭天生 ⭐⭐
+      - C-S2-548   # 食量小婴儿是健康
+      - C-S2-549   # 空气浴日式锻炼法
+      - C-S2-550   # 优质保育园 5 标准 ⭐⭐(1:3 比是底线)
+      - C-S2-701   # 防婴儿过胖硬数字(120 千卡/kg/日上限)
+      - C-S2-702   # 0-3 月防事故 6 项(烫伤/一氧化碳/躺喂/塑料袋/坠床/车内)
+      # === S3 3-6 月(5 张)===
+      - C-S3-551   # 婴儿体操不是必须
+      - C-S3-552   # 4 月前不加任何辅食(抗保健所"加奶"压力)
+      - C-S3-553   # 见生人哭是天性(5-6 月陌生人警觉萌芽)
+      - C-S3-554   # 婴儿湿疹分两类(干性 vs 渗出)
+      - C-S3-705   # 4 月加果汁不强求 ⭐(母乳娃完全不必加 — 用户深度审补)
+      # === S4 6-9 月(5 张)===
+      - C-S4-550   # 断奶量因孩子异 ⭐(反食谱拘泥)
+      - C-S4-551   # 7 月奶量底线 500 ml/日
+      - C-S4-552   # 米粥不如牛奶能量 ⭐⭐(100g 52 kcal vs 80 kcal)
+      - C-S4-553   # 夜喂奶不必焦虑 ⭐⭐(反"半年必停" + 陪睡支持)
+      - C-S4-554   # 断奶第 2 月夏季食欲低
+      # === S5 9-12 月(5 张)===
+      - C-S5-648   # 9-10 月探索期防事故 ⭐⭐(6 类创造性事故清单)
+      - C-S5-649   # 反严格断奶食谱(每日 2 次代乳就够)
+      - C-S5-650   # 1 岁可吃米饭(战前老规矩已修改)
+      - C-S5-651   # 9-10 月运动差异大(扶站爬坐都正常)
+      - C-S5-652   # 麻疹疫苗错后几月(1 岁 3 月后免疫更稳)
+      # === S6 12-24 月(7 张)===
+      - C-S6-666   # 1 岁 O 型腿是生理(1 岁 7 月起逐渐变直)
+      - C-S6-667   # 1 岁前后会走 1.5 岁消差距
+      - C-S6-668   # 1.5-2 岁物权意识强(别强迫"分享")
+      - C-S6-669   # 1.5-2 岁躺地哭闹是正常发育
+      - C-S6-670   # 12-24 月断母乳等娃自然
+      - C-S6-671   # 1 岁后看体罚会怕 ⭐⭐(当面打骂吓出长期阴影)
+      - C-S6-672   # 1 岁前不必练如厕
+      # === S7 24-36 月(9 张)===
+      - C-S7-604   # 反"反抗期"概念 ⭐⭐⭐(独家立场:不是生理是教养出)
+      - C-S7-605   # 教字 vs 听故事不同(早识字不等于一生优势)
+      - C-S7-606   # 战前协作空间消失(城市汽车毁了娃自由)
+      - C-S7-607   # 选画册要看心(妈不真心娃听不进)
+      - C-S7-608   # 2-3 岁玩不到一块(自立有了协作还没)
+      - C-S7-758   # 自慰是常见的不是病 ⭐⭐(松田前卫立场,跟吮指甲一样)
+      - C-S7-759   # 反"自体中毒"标签(大人惊慌反加重娃病)
+      - C-S7-760   # 噩梦 vs 夜惊不一样 ⭐(妈抱紧说"妈在这" — 用户深度审补)
+      - C-S7-761   # 反"哮喘发作"娇惯出 ⭐(大人围观才叫"发作" — 用户深度审补)
+
+  - source_id: SRC-024
+    title: "定本《育儿百科》(中译本)"
+    title_en: "Childcare Encyclopedia (Definitive Edition, Chinese Translation)"
+    title_ja: "定本 育児の百科"
+    org: null
+    tier: 3
+    source_type: book
+    url: null
+    isbn: null                            # 中译版 ISBN 待提取
+    isbn_ja: "978-4-00-026591-9"          # 岩波书店日文原版常用 ISBN
+    accessed: 2026-05-03
+    language: zh
+    language_original: ja
+    notes_path: tier3-books/notes/SRC-024.yaml
+    referenced_by_units: []
+    referenced_by_cards:                  # Phase 9 并行第二本(松田道雄,SRC-024)— 42 张知识卡 + 9 张术语卡
+      # === S0 孕期(2 张)===
+      - C-S0-517   # 不焦虑育儿(松田核心哲学)
+      - C-S0-518   # 父亲必须戒烟
+      # === S1 0-1 月(3 张)===
+      - C-S1-760   # 抱不会养成抱的毛病 ⭐⭐⭐(反中国奶奶传统)
+      - C-S1-761   # 初乳第一周必须喝
+      - C-S1-762   # 母乳不只填肚子(脸贴脸纽带)
+      # === S2 1-3 月(5 张)===
+      - C-S2-696   # 爱哭婴儿 20 个有 1 个(天生不是失败)
+      - C-S2-697   # 1 月起每天必须出门(室外空气浴)
+      - C-S2-698   # 送托得先去看 3 件事
+      - C-S2-699   # 上班妈不必负全责
+      - C-S2-700   # 2 月起每天做体操(日式)
+      # === S3 3-6 月(4 张)===
+      - C-S3-701   # 4 月把屎把尿是错的 ⭐⭐⭐(反中国老人)
+      - C-S3-702   # 辅食用大人饭就行(日式)
+      - C-S3-703   # 夜啼必能消除(白天散步处方)
+      - C-S3-704   # 背孩子比西方进步
+      # === S4 6-9 月(5 张)===
+      - C-S4-700   # 8 月后同床 OK 3 月内禁 ⭐⭐⭐(vs AAP 立场对立)
+      - C-S4-701   # 8 月母乳别强断
+      - C-S4-702   # 别养出毛巾依赖症 ⭐(立场反 lovey)
+      - C-S4-703   # 7-8 月排便训练 1 分钟为限
+      - C-S4-704   # 出牙慢不是缺钙
+      # === S5 9-12 月(5 张)===
+      - C-S5-798   # 倔强是天生别硬怼
+      - C-S5-799   # 教说话先把电视关了
+      - C-S5-800   # 上班妈夜里多吃就多吃
+      - C-S5-801   # 9 月起制止靠转场
+      - C-S5-802   # 哄睡看天性 + 白天累
+      # === S6 12-24 月(8 张:松田主战场)===
+      - C-S6-816   # 1 岁打滚第一次最关键 ⭐⭐
+      - C-S6-817   # 斥责只用在打火机上(瞬间危险)
+      - C-S6-818   # 千万别把娃单独留家 ⭐
+      - C-S6-819   # 1 岁起每天必须散步
+      - C-S6-820   # 屏气哭死过去别慌(5 岁后好)
+      - C-S6-821   # 1 岁起让他自己拿勺
+      - C-S6-822   # 送托前先陪 1 天
+      - C-S6-823   # 1.5 岁夏天撤尿布
+      # === S7 24-36 月(4 张)===
+      - C-S7-754   # 2 岁让娃自己穿衣
+      - C-S7-755   # 反抗期是大人剥夺玩 ⭐⭐⭐(独家立场)
+      - C-S7-756   # 认生是性格非病
+      - C-S7-757   # 撞头第一次抱走玩
+      # === S8 3-6 岁(6 张:全新建段)===
+      - C-S8-100   # 大发雷霆体罚错(瞬间打手是底线)⭐⭐⭐(vs RIE/Bowlby 立场对立)
+      - C-S8-101   # 看电视 4 小时 = 弃娃 ⭐⭐⭐
+      - C-S8-102   # 独生子先送 3 年制
+      - C-S8-103   # 4 岁不必硬教认字(反虎妈)
+      - C-S8-104   # 智力测试不可信
+      - C-S8-105   # 别让娃像男孩女孩样(反性别刻板)
+
+# 下一个可用 ID(SRC-019 Lansbury RIE 派 Phase 7 第二本用户三审完成 2026-05-03;
+# SRC-017 Bowlby V3《丧失》+ SRC-018 Stern《婴儿人际世界》= Phase 6/7 注册完成 2026-05-03;
+# SRC-021 Magda Gerber《Your Self-Confident Baby》Phase 8 第一轮(并行 session)完成 2026-05-03;
+# SRC-022 Magda Gerber《Your Self-Confident Baby》深度本 Phase 8 第二轮完成 2026-05-03 —
+#   备注:SRC-020 留给并行 Shonkoff session,该 session 未实际启动(OCR 缺,fallback 到 Gerber 双轮);
+#   SRC-021 + SRC-022 均为 Magda Gerber 不同视角,不重复,互补深化;
+# SRC-023 松田道雄《定本 育儿百科》Phase 9 第一本 fallback 完成 2026-05-03 + 用户深度审 2026-05-04 —
+#   原计划 Mary Ainsworth《Patterns of Attachment》(1978),OCR 缺,激活 fallback (a) 松田道雄;
+#   终版 49 张知识卡(初版 44 + 用户深度审补 5)+ 6 张新术语(初 4 + 深审 2:jaundice-types + physical-punishment)+ 2 张 Edit 加深(stranger-anxiety / Matsuda),覆盖 S0-S7;
+#   松田 8 大独有命题:反"哭出习惯" / 反"标准体重" / 母乳至上 / 父亲核心 / 兄弟创伤防 /
+#     反严格断奶食谱 / 反"反抗期"概念 ⭐⭐⭐ / 集体保育优质标准;
+#   13 派源跨源(Brazelton 32 / 鲍秀兰 13 / Lansbury 10 / Davies 7 / Karp 7 等),0 跨源孤岛;
+#   跨源率 1.96/卡(147 总链接 / 96 跨源);A 级 32 张(65%),0 错全过 R1+R3 验证;
+#   Bowlby/Stern related 覆盖 22%(任务书 50% 因 fallback 自然降级,松田跟依恋理论关联弱);
+#   用户深度审 5 维度 0 错全过:漏知识(补 5)+ 漏术语(补 2)+ hook 风格(0 描述型)+ 跨源率(0 孤岛)+ 内部结构(YAML/字数/学究词全 0 错);
+# SRC-024 松田道雄《定本 育儿百科》Phase 9 并行第二本完成 2026-05-03 —
+#   42 张知识卡 + 9 张术语卡,扩 S0-S8 全段(首次新建 S8 = 3-6 岁段),
+#   日本视角填补,跟 AAP/鲍秀兰/Brazelton 跨文化对照率 100%;
+#   备注:SRC-023 + SRC-024 双 session 并行同源(松田)双视角,共 86 张知识卡 + 13 术语;
+
+  - source_id: SRC-025
+    title: "From Neurons to Neighborhoods: The Science of Early Childhood Development"
+    title_zh: "从神经元到社区:早期儿童发展的科学"
+    org: "National Research Council and Institute of Medicine (NRC/IOM)"
+    tier: 3
+    source_type: book
+    url: https://nap.nationalacademies.org/9824
+    isbn_en: "0-309-06988-2"
+    publisher_en: "National Academy Press"
+    location_en: "Washington, D.C."
+    year_en: 2000
+    accessed: 2026-05-04
+    language: en
+    notes_path: tier3-books/notes/SRC-025.yaml
+    authors:
+      - "Jack P. Shonkoff (Editor / Committee Chair)"
+      - "Deborah A. Phillips (Editor / Study Director)"
+    referenced_by_cards: [60 卡片占 S0-S8 全段:S0=4 / S1=6 / S2=6 / S3=6 / S4=5 / S5=6 / S6=10 / S7=7 / S8=10]
+
+# SRC-025 Shonkoff/Phillips《From Neurons to Neighborhoods》Phase 10 单 session 完成 2026-05-04 —
+#   60 张知识卡 + 18 张新术语 + 4 张补术语 = 共 22 张术语;
+#   填补"早期发展神经科学"维度(Tier 2 NRC 委员会综述权威);
+#   段 ID buffer +100 单 session 隔离;A 级 92%(NRC 综述权威决定);
+#   跨派对照 100%(60/60 至少 1 张 related 含 12 派之一);0 跨派孤岛;
+#   平均 3.3 张 related/卡,远高于松田 1.4;
+#   独家命题:科学只告诉你别毁孩子(反早教 4 定理) / sensitive vs critical 期 / 自我调节 0-6 岁主轴 /
+#     Hart-Risley 30M words / Perry-Abecedarian RCT / 育儿质量胜身份 / NRC 6 大原则;
+#   立场对立处全记 conflicts.md E1-E5 节(Shonkoff vs Gopnik / Lillard / 松田体罚 / Lansbury 早期干预 / 商业早教)。
+
+  - source_id: SRC-026
+    title_de: "Friedliche Babys – zufriedene Mütter (Pädagogische Ratschläge einer Kinderärztin)"
+    title_zh: "和平的婴儿 — 满足的母亲(一位儿科医生的教育建议)"
+    title_en: "Peaceful Babies — Contented Mothers"
+    tier: 3
+    source_type: book
+    isbn_de: "9783451041419"
+    publisher_de: "HERDER (HERDER / SPEKTRUM Band 4141)"
+    location_de: "Freiburg im Breisgau"
+    year_de: 1969
+    accessed: 2026-05-04
+    language: de
+    notes_path: tier3-books/notes/SRC-026.yaml
+    authors:
+      - "Emmi Pikler (1902-1984, 匈牙利儿科医生 + Lóczy 研究所创始人)"
+    referenced_by_cards: [42 卡 S1-S7(用户深度审补 5):S1=7 / S2=4 / S3=5 / S4=7 / S5=5 / S6=9 / S7=5]
+
+# SRC-026 Pikler《Friedliche Babys – zufriedene Mütter》(HERDER 1969)Phase 10 并行第二本完成 2026-05-04 + 用户深度审补 5 —
+#   42 张知识卡(初 36 + 二审补 1 Sprache + 用户深度审补 5)+ 10 张新术语(初 9 + 深审补 1 erziehung-zum-weinen)+ 3 张扩展术语
+#   (G-PERSON-Pikler / G-TERM-Loczy-institute / G-TERM-anti-cry-it-out)= 共 13 张术语;
+#   填补"RIE 谱系师承根源"维度(德文原典,Magda Gerber + Lansbury 隔代继承);
+#   段 ID buffer = Shonkoff 起点 + 30(避撞并行 session);A 级 86%;
+#   跨派对照 100%(37/37 至少 1 张 related 含 12 派);0 跨派孤岛;
+#   师承率 100%(37/37 含 Gerber/Lansbury related — 远超 60% 目标);
+#   外部 source 涉及 9 个不同 SRC(SRC-022 62 ref / SRC-019 43 / SRC-024 20 / SRC-016 12 / 其他);
+#   独家命题:Pikler 大动作 6 阶段顺序 / 不教翻坐爬站走 / 不撑坐 6 论证(Lansbury 8 理由源头) /
+#     Pflege vs Spiel 二分(Magda Selective Attention 源) / Loczy 1946 规程 / Geduld 育儿哲学 /
+#     不便盆训练 4 错误 / 反所有运动训练;
+#   立场对立处全记 conflicts.md F1-F5 节(Pikler vs 中国训练表 / Pikler-Brazelton 反学步车一致 /
+#     Pikler 1969 仰卧 vs AAP 2026 Tummy Time / Pikler-蒙氏 floor bed 共同根源 / Pikler 不便盆训练);
+#   RIE 谱系闭环完成:Pikler(SRC-026 师承根源)→ Magda Gerber(SRC-021/022 RIE 创始人)→ Lansbury(SRC-019 推广人)。
+  - source_id: SRC-027
+    title_en: "Handbook of Child Psychology, Volume 3: Social, Emotional, and Personality Development (6th Edition)"
+    title_zh: "儿童心理学百科 · 第 3 卷:社会、情绪与人格发展(第 6 版)"
+    org: "John Wiley & Sons"
+    tier: 3
+    source_type: book
+    isbn_en: "978-0-471-27291-6"
+    publisher_en: "John Wiley & Sons, Inc."
+    location_en: "Hoboken, New Jersey"
+    year_en: 2006
+    edition: "6th"
+    accessed: 2026-05-04
+    language: en
+    notes_path: tier3-books/notes/SRC-027.yaml
+    editors:
+      - "William Damon (Editor-in-Chief)"
+      - "Richard M. Lerner (Editor-in-Chief)"
+      - "Nancy Eisenberg (Volume Editor)"
+    referenced_by_cards: [84 卡片占 S0-S8 全段:S0=8 / S1=6 / S2=9 / S3=4 / S4=6 / S5=7 / S6=18 / S7=16 / S8=10]
+
+# SRC-027 Lerner V3《Handbook of Child Psychology Vol 3》Phase 11 单 session 完成 2026-05-04 —
+#   84 张知识卡 + 63 张新 G-PERSON + 123 张新 G-TERM = 186 张新术语;
+#   填补"心理学综述大典"维度(Tier 2 Wiley 2006 第 6 版,Eisenberg 主编,16 章学派权威综述);
+#   段 ID buffer +100 单 session 隔离;A 级 92%,B 级 8%,C 级 0;
+#   跨派对照 100%(84/84 至少 1 张 related 含 14 派),0 跨派孤岛;
+#   16 章全覆盖(0 漏章节);跨章重复主题独立卡 — 气质 9 段全,共情 4 段,道德 5 段,性别 5 段;
+#   独家命题:Rothbart 气质 3 维度 / Kagan 抑制型生物根 / Saarni 情绪 8 项 / Caspi 人格延续 /
+#     Bugental-Grusec 5 领域 / Parke-Buriel 族群生态 / Harter self 5 维度 /
+#     Rubin 同伴 3 层级 / Eisenberg 亲社会发展 / Hoffman 共情 4 阶段 /
+#     Dodge 6 步认知 / Patterson 强制家庭 / Crick 关系攻击 /
+#     Turiel-Smetana 4 类规则 / Ruble-Martin 性别 3 阶段 / Eccles 成就动机 /
+#     Steinberg 青少年早期信号 / Cassidy 现代依恋综合 / Selman 友谊 5 阶段 /
+#     Wellman ToM 5 阶段 / Masten 韧性 4 因子 / Markus 文化 self;
+#   立场对立处全记 conflicts.md(G1-G7 节)。
+
+  - source_id: SRC-028
+    title_en: "Handbook of Child Psychology, Volume 2: Cognition, Perception, and Language (6th Edition)"
+    title_zh: "儿童心理学百科 · 第 2 卷:认知、感知与语言(第 6 版)"
+    org: "John Wiley & Sons"
+    tier: 3
+    source_type: book
+    isbn_en: "978-0-471-27288-6"
+    publisher_en: "John Wiley & Sons, Inc."
+    location_en: "Hoboken, New Jersey"
+    year_en: 2006
+    edition: "6th"
+    accessed: 2026-05-04
+    language: en
+    notes_path: tier3-books/notes/SRC-028.yaml
+    editors:
+      - "William Damon (Editor-in-Chief)"
+      - "Richard M. Lerner (Editor-in-Chief)"
+      - "Deanna Kuhn (Volume Editor)"
+      - "Robert S. Siegler (Volume Editor)"
+    referenced_by_cards: [51 卡片占 S0-S8 全段:S0=1 / S1=2 / S2=4 / S3=7 / S4=4 / S5=6 / S6=9 / S7=7 / S8=11]
+
+# SRC-028 Lerner V2《Handbook of Child Psychology Vol 2》Phase 11 并行第二本完成 2026-05-04 —
+#   51 张知识卡 + 26 张新 G-PERSON + 14 张新 G-TERM + 2 张 Edit 扩展(Tomasello/Wellman/false-belief)= 共 42 张关联术语;
+#   填补"认知/感知/语言综述维度"(Tier 2 Wiley 2006 第 6 版,Kuhn/Siegler 主编,22 章学派权威综述);
+#   完成"学术综述铁三角":V1 节选(理论)+ V2(认知/感知/语言)+ V3(社会/情感/人格);
+#   段 ID buffer +200 并行 session 隔离(避撞 V3 +100);A 级 98%,B 级 2%,C 级 0;
+#   跨派对照 100%(51/51 至少 1 张 related 含 15 派 — 含 V3 铁三角对接);
+#   平均 3.35 related/卡,3.90 glossary_refs/卡;V2 新术语跨卡渗透 77 次;
+#   章节覆盖 20/22(只缺 Ch 12 + Ch 22 — 都 0-6 不主取);
+#   独家命题:Spelke 5 系统核心知识 / Baillargeon 4 月吊桥 / Saffran 8 月统计学习 /
+#     Werker 母语音素重组 (vowel 先于 consonant) / Eimas 1 月范畴知觉 / Kellman 物体一致性 /
+#     Tomasello 9 月革命 + 共享意图 / Markman 词义 3 约束 / Bloom 词汇爆炸 /
+#     Carey 概念革命 / Mandler 知觉 vs 概念 / Karmiloff-Smith RR 4 层 + neuroconstructivism /
+#     Wellman ToM 5 阶段 + WPSS / Leslie ToMM + 自闭症 / Wynn 5 月数概念 / Dehaene 数感 /
+#     Goldin-Meadow 手势预测 / Bauer 13 月 1 月记忆 / Adolph 学走 17 跌/小时 /
+#     Thelen A-not-B 动力学 / Munakata 渐变表征 / Siegler 重叠波 /
+#     Newcombe 空间自我中心→客观坐标 / Geary 跨文化数学 / Cole 文化认知 /
+#     Keil 朴素理论 3 大领域 / Winner 艺术域独立 / Gardner 多元智能;
+#   立场对立处全记 conflicts.md(H1-H7 节)。
+
+  - source_id: SRC-029
+    title_zh: "儿童心理学百科 · 第 4 卷:儿童心理学的实操应用(第 6 版)"
+    title_en: "Handbook of Child Psychology, Vol 4: Child Psychology in Practice (6th Edition)"
+    publisher_en: "John Wiley & Sons, Inc."
+    location_en: "Hoboken, New Jersey"
+    year_en: 2006
+    edition: "6th"
+    isbn_en: "978-0-471-27291-4"
+    tier: 3
+    source_type: book
+    accessed: 2026-05-04
+    language: en
+    notes_path: tier3-books/notes/SRC-029.yaml
+    editors:
+      - "William Damon (Editor-in-Chief)"
+      - "Richard M. Lerner (Editor-in-Chief)"
+      - "K. Ann Renninger (Volume Editor)"
+      - "Irving E. Sigel (Volume Editor)"
+    referenced_by_cards: [80 卡片占 S0-S8 全段:S0=13 / S1=4 / S2=4 / S3=3 / S4=2 / S5=2 / S6=13 / S7=10 / S8=29]
+
+# SRC-029 Lerner V4《Handbook of Child Psychology Vol 4》Phase 12 并行第三本完成 2026-05-04 —
+#   80 张知识卡 + 43 张新 G-PERSON + 66 张新 G-TERM = 共 109 张新术语;
+#   填补"应用心理学综述维度"(Tier 2 Wiley 2006 第 6 版,Renninger/Sigel 主编,24 章应用框架);
+#   完成"学术综述铁三角"应用层:V2(认知)+ V3(情感)+ V4(实操)— V1 节选(理论)预留;
+#   段 ID buffer +300 并行 session 隔离(避撞 SRC-028 V2 在跑);A 级 100%(综述权威);
+#   跨派对照 100%(80/80 至少 1 张 related 含 16+ 派 — 跟铁三角 V3/V2 + AAP/Brazelton/松田/Shonkoff/RIE 全方位对接);
+#   平均 3.17 related/卡;V4 新术语跨卡渗透;
+#   章节覆盖 24/24 全章节有覆盖;
+#   独家命题:Lerner 应用发展科学 / Sigel 研究到实践 3 陷阱 / Hyson DAP 4 原则 / Paris 阅读 5 要素 /
+#     Snow 双语不损母语 / De Corte 真实情境数学 / Lehrer 探究式科学 / Liben 空间思维 /
+#     Lapsley 品格 4 支柱 / Blumenfeld TARGET 6 维 / Boekaerts 自调节 3 层 /
+#     Selman 风险预防 3 级金字塔 / Berninger 书写 vs 阅读独立 / Hodapp-Dykens 病因特定 /
+#     Cicchetti-Toth 发展精神病理 4 原则 + 虐待 4 类型 + 依恋干预 RCT / Powell 家庭干预 5 原则 /
+#     Kress-Elias SEL CASEL 5 能力 + PATHS / Klingman 创伤 3 力量 / Greenfield 5 文化路径 /
+#     McLoyd 经济压力模型 / Bruck-Ceci 儿童证人 4 扭曲 / Comstock 媒体 5 效应 /
+#     Ramey Abecedarian 35 年 / Bornstein 育儿 specificity + continuity /
+#     Lamb-Ahnert 托育 5 维度质量 / Sigel 研究到实践 3 陷阱;
+#   干预项目独立卡:NFP / Head Start / Triple P / Incredible Years / PCIT / MST / Tools of Mind / PATHS;
+#   立场对立处全记 conflicts.md(I 节)。
+
+  - source_id: SRC-030
+    title_zh: "儿童心理学百科 · 第 1 卷:人类发展的理论模型(第 6 版)"
+    title_en: "Handbook of Child Psychology, Vol 1: Theoretical Models of Human Development (6th Edition)"
+    publisher_en: "John Wiley & Sons, Inc."
+    location_en: "Hoboken, New Jersey"
+    year_en: 2006
+    edition: "6th"
+    isbn_en: "978-0-471-27288-4"
+    tier: 3
+    source_type: book
+    accessed: 2026-05-04
+    language: en
+    notes_path: tier3-books/notes/SRC-030.yaml
+    editors:
+      - "William Damon (Editor-in-Chief)"
+      - "Richard M. Lerner (Editor-in-Chief + Volume Editor)"
+    referenced_by_cards: [95 卡片占 S0-S8 全段:S0=50 / S1=1 / S2=5 / S3=1 / S4=1 / S5=1 / S6=14 / S7=8 / S8=14]
+
+# SRC-030 Lerner V1《Handbook of Child Psychology Vol 1: Theoretical Models》Phase 12 并行第二本完成 2026-05-04 —
+#   95 张知识卡(初版 86 + 用户深度审补 9)+ 40 张新 G-PERSON(初版 37 + 用户深度审补 3:Greenough/Fowler/Baldwin-JM)+ 78 张新 G-TERM(初版 68 + 用户深度审补 10) = 共 118 张新术语;
+#   完成"学术综述铁三角"理论根基层:V1(理论)+ V2(认知)+ V3(情感)+ V4(实操)= Lerner Handbook 4 卷全册闭环;
+#   段 ID buffer +500 并行 session 隔离(避撞 SRC-029 V4 在跑用 +300);A 级 97%(元理论卷主体)+ B 3%;
+#   跨派对照 100%(86/86 至少 1 张 related 含 17+ 派 — 跟铁四角 V2/V3/V4 + AAP/Brazelton/松田/Shonkoff/RIE/Karp 全方位对接);
+#   平均 4.0 related/卡;V1 元理论术语跨卡渗透;
+#   章节覆盖 17/17 全章节有覆盖;
+#   元理论独家命题:Overton split vs relational metatheory(解释流派分歧根源)/ Cairns 75 年史 /
+#     Valsiner 文化建构 / Gottlieb probabilistic epigenesis 4 层 / Thelen-Smith dynamic systems /
+#     Fischer dynamic skill 13 层级 / Magnusson holistic person / Csikszentmihalyi flow + autotelic /
+#     Brandtstädter action theory(同化 vs 调节)/ Baltes lifespan + SOC + wisdom /
+#     Elder life course 5 原则 + linked lives / Shweder cultural psych multiple mentalities /
+#     Bronfenbrenner & Morris bioecological 5 系统 + PPCT / Spencer PVEST + identity /
+#     Lerner PYD 5C(asset-based 反 deficit)/ Oser 信仰发展;
+#   跨章独立卡:决定论反 / 还原论反 / 涌现论 / 连续 vs 不连续 / 系统思维 / 个体差异 vs 普世 / 文化-个人共建构;
+#   立场对立处全记 conflicts.md(J 节)。
+
+  - source_id: SRC-031
+    title: "WHO + UNICEF Infant and Young Child Feeding Policy Compendium (国际公共卫生指南合集)"
+    org: "World Health Organization & UNICEF"
+    tier: 1
+    source_type: policy_compendium
+    url_root: https://www.who.int/health-topics/breastfeeding
+    accessed: 2026-05-04
+    language: en
+    notes_path: tier1-authoritative/notes/SRC-031.yaml
+    fetch_method: webfetch_multi
+    referenced_by_cards: [65 卡片占 S0-S8 全段:S0=6 / S1=23 / S2=6 / S3=3 / S4=11 / S5=4 / S6=8 / S7=3 / S8=1]
+
+# SRC-031 WHO + UNICEF Infant and Young Child Feeding Policy Compendium Phase 13 完成 2026-05-04 —
+#   65 张知识卡(初版 57 + 用户深度审补 8)+ 43 张新术语(初版 34 + 深审补 9);完成 4 国卫生指南闭环(WHO 国际 + AAP 美 + 鲍秀兰 中 + 松田 日);
+#   12 个 WHO/UNICEF 文档 WebFetch 成功(IYCF/BFHI/Code/Growth/CF/EBF/HIV/LAM/Lancet 等),3 个失败记 gaps(Innocenti / Acceptable Medical Reasons / PAHO 10 原则全文);
+#   Tier 1 国际权威路径:`tier1-authoritative/notes/SRC-031.yaml`(政策性合集,非 tier3 书);
+#   段 ID buffer:S0+1024 / S1+1000 / S2+1044 / S3+1042 / S4+1045 / S5+1037 / S6+1064 / S7+1099 / S8+868;
+#   A 级 81% + B 19% + C 0%;跨派对照率 100%(57/57 至少 1 张 related 跨 SRC-031 之外);0 跨派孤岛;
+#   平均 3.70 related/卡;0 描述型 hook;5 轮独立审 0 错全过;
+#   独家命题:BFHI 10 步骤(产院实操标准)/ Code 1981 4 大利益方禁令(中国奶粉品牌实际违规)/
+#     EBF 操作定义(连水都不给 + ORS/维生素/药 例外)/ Continued BF to 2 years 'or beyond' /
+#     WHO Growth Standards 2006 母乳基线 vs CDC 2000 配方基线 / HIV+ART 2010 修订 + AFASS /
+#     Lancet 2016 Victora 820k 生命数据 / LAM 哺乳闭经法 / 中国 6,000+ 爱婴医院实操差距;
+#   跨派对照硬指标:跟 AAP(SRC-006) / 鲍秀兰(SRC-009) / 松田(SRC-024) / Karp(SRC-005) / Brazelton(SRC-010) 全部对接;
+#   立场对立处记 conflicts.md(K 节)。
+
+  - source_id: SRC-040
+    title: "海蒂育儿大百科 0-1岁(中译本)"
+    title_en: "What to Expect the First Year"
+    org: null
+    tier: 3
+    source_type: book_chapter
+    isbn: 978-7-5442-6992-6
+    accessed: 2026-05-04
+    language: zh
+    notes_path: tier3-books/notes/SRC-040.yaml
+    fetch_method: user_provided_pdf_ocr
+    referenced_by_cards: [156 卡片占 S0-S7 全段:S0=31 / S1=38 / S2=17 / S3=27 / S4=13 / S5=23 / S6=5 / S7=2]
+
+# SRC-040 Murkoff《What to Expect the First Year / 海蒂育儿大百科 0-1 岁》Phase 14 完成 2026-05-04 —
+#   156 张知识卡(Phase B 146 + Phase C 反向覆盖 10)+ 11 张新术语(G-PERSON-Murkoff/G-TERM-circumcision/cradle-cap/thrush/fontanel/periodic-breathing/LEAP-trial/allergy-introduction/babyproofing/postpartum-recovery/FMLA);
+#   完成 books_to_buy.md 16 条目最终条目(16/16 100% 闭环 ✅);
+#   Tier 3 主流大众百科:`tier3-books/notes/SRC-040.yaml`(英文 1989/2010 第 2 版,中译南海出版公司 2014 莫夏迪 张敏);
+#   段 ID buffer:S0+2053 / S1+2102 / S2+2005 / S3+2146 / S4+2144 / S5+2143 / S6+1600 / S7+1100;
+#   evidence_level 分布:A=63(40%)+ B=87(56%)+ C=6(4%);
+#   独家命题:海蒂中性立场示范(包裹/共睡/奶嘴/睡训不站队)/ 父亲专章(中国家长稀缺)/ 多胎+二孩 / FMLA 美国陪产假 / 居家爸爸正常化 /
+#     LEAP 自我修正(2010 vs 2014)/ 6 种婴儿意识状态 / 哭声 5 类解码 / 黄疸三类对比 / 婴儿粉刺"新生儿青春期" /
+#     胎记 6 类区分 / 鹅口疮母婴双向感染 / 囟门红旗 / 周期性呼吸 / 妈妈端 7 大母乳好处 / 高质量陪伴 = 换尿布 + 做饭说话;
+#   跨源对照硬指标:对接 22 源中 Karp/AAP(6 个 cluster)/鲍秀兰/Brazelton/Bowlby V1-V3/WW/Davies/Gopnik/Lillard/Stern/Lansbury/Gerber 双本/松田双本/Shonkoff/Pikler/Lerner V1-V4/WHO 等;
+#   填 P0 缺口 8 项 + P1 缺口 9 项(详 audit_log.md 2026-05-04 条目);
+#   立场对立处记 conflicts.md(L 节 L1-L8 节);
+#   并行场景隔离:与 SRC-031 WHO session 同步推进,SRC-040 + 段 ID +500 buffer 严格避撞,索引 Edit 单点改避免覆盖。
+
+next_src_id: SRC-041

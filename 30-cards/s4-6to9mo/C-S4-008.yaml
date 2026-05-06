@@ -23,6 +23,23 @@ back:
     地上铺塑料袋等危险物 → 误食 / 缠绕风险。
   evidence_level: B
 
+  positions:
+    issue: 不爬行(skip crawling)是否影响发育 · 跳爬直立是否健康
+    views:
+      - school: 鲍秀兰
+        source: SRC-009
+        stance: 缺乏爬行 → 学龄期反应迟钝 / 动作笨拙。中国家长普遍焦虑源,提倡多爬。
+      - school: Lillard(蒙氏)
+        source: SRC-016
+        stance: sitter(坐型)也健康,看整体发育而非只看爬行;路径多样不必矫正。
+      - school: AAP
+        source: SRC-004
+        stance: 不爬也正常,跳爬 / 直立都属正常发育路径;无明确"不爬有害"立场。
+      - school: 海蒂
+        source: SRC-040
+        stance: 8 月不爬正常,跳爬直立也行 — 主流大众派对 AAP 立场的明确背书,缓和中国家长焦虑。
+      - school: 中国传统
+        stance: 不爬必须矫正,否则未来"协调差";常见"训练爬"商业课程。
 glossary_refs:
   - G-PERSON-Bao
 

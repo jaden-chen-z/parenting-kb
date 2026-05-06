@@ -1,0 +1,49 @@
+card_id: C-S0-2500
+stages: [S0]
+tags: [safety, prenatal, preparation, mainstream, gap_g13_filled]
+front:
+  title: 婴儿安全药箱 12 类清单(产前备货)
+  hook: 凌晨 2 点宝宝高烧没退烧药,没人想经历 — 海蒂的"产前备齐"清单。
+back:
+  why_matters: |
+    Phase B+C 已盖"婴儿用品别买全套"(留 9 月再补),但药品类完全没卡。
+    海蒂在 Part 1 给出非常具体的 12 类药箱必备清单,理由是:
+    - 半夜或周末发病无法立刻去药房,中国一线城市还能 24 小时药店送药,但县级城市没这条件
+    - 产前一次性备齐比"用到再买"成本低、心理负担小
+    - 部分药品有保质期 2-3 年,备齐后只需检查不补海蒂强调:存放在宝宝够不着的高处,定期(每 3 个月)检查保质期。
+  what_to_do:
+    - 退烧/止痛(2 选 1):液态对乙酰氨基酚滴液(婴儿用泰诺林)是首选; 6 月+可加布洛芬滴液(摩特灵)。绝不备阿司匹林。
+    - 抗感染外用 2 类:抗生素软膏(杆菌肽/新霉素,治轻微划伤)+ 双氧水(清洗伤口不痛)
+    - 止痒 2 类:炉甘石洗剂或氢化可的松 0.5% 乳膏(治蚊虫叮咬+红疹)
+    - 补液 1 类:口服补液盐(电解质水)— 处理腹泻必备,问医生剂量
+    - 防晒 1 类:婴儿专用防晒霜(6 月+ 用,6 月内只用遮挡)
+    - 鼻腔 1 类:婴儿吸鼻器(球状气囊)
+    - 工具类 4 件:数字体温计(不要水银)、剂量勺/滴管/口腔注射器、无菌纱布+绷带+胶带、小镊子(夹刺)、小手电筒(查咽喉/瞳孔)
+    - 不要买:玻璃水银体温计(危险)、热蒸汽加湿器(灼伤)、耳温计(婴儿不准)
+  failure_mode: |
+    常见错误:
+    - 备阿司匹林 → 雷氏综合征风险(致命)
+    - 用大人对乙酰氨基酚分割剂量给婴儿 → 剂量不准易过量
+    - 6 月内宝宝用布洛芬 → 海蒂明确禁忌(脱水/呕吐/腹痛宝宝绝不能用)
+    - 用棉签深插宝宝耳道 → 推屎入更深,海蒂建议问医生
+    - 把药放厨房橱柜低处 → 学步期宝宝必摸到
+  evidence_level: B
+glossary_refs: [G-TERM-babyproofing]
+citation:
+  publisher_en: "Workman Publishing"
+  source_id: SRC-040
+  book_title_en: What to Expect the First Year
+  book_title_zh: 海蒂育儿大百科 0-1 岁
+  authors: ["Heidi Murkoff", "Sharon Mazel"]
+  publisher_zh: 南海出版公司
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh: [莫夏迪, 张敏]
+  chapter: Part 1 Ch 2 婴儿用品准备
+  page_zh: 47-48
+related_cards: [C-S1-2502, C-S5-2152, C-S3-2400]
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

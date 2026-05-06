@@ -1,0 +1,76 @@
+glossary_id: G-TERM-30-million-words
+type: term
+display_name: 30 million words 词汇差距
+
+en_term: 30 million words gap
+zh_term: 三千万词鸿沟
+
+one_liner: |
+  Hart-Risley 1995 经典发现 — 美国高 SES 家庭跟低 SES 家庭从 0-3 岁
+  累计听到的词数差 3000 万。这鸿沟跟 3 岁词汇 + 9 岁 IQ 强相关。
+  推动美国"Talk to Your Baby"公益运动 + 早期语言干预政策。
+
+detail: |
+  ## 研究背景
+  - Hart-Risley 1980-1995 美国 Kansas 城
+  - 跟踪 42 个家庭(13 高 SES + 23 中 SES + 6 低 SES)
+  - 0-36 月每月家访 1 小时录音 + 转录
+  - 算父母对孩子说的词总数
+
+  ## 关键数据
+  - **高 SES 家庭累计 4500 万词**(到 3 岁)
+  - 中 SES 家庭累计 2000 万词
+  - **低 SES 家庭累计 1500 万词**
+  - **30M words gap** = 高 vs 低 SES
+  - 跨家庭差异 4500 万 vs 1500 万 = 3 倍
+
+  ## 不只是词数 — 还是对话类型
+  - 高 SES:更多 "encouragement"(肯定 / 详述 / 提问)
+  - 低 SES:更多 "discouragement"(命令 / 禁止 / 简短)
+  - **rate of encouragements** = 跟孩子词汇量正相关 r=0.78
+  - 这比单纯词数更预测后期能力
+
+  ## 长期效益
+  - 3 岁词汇量 → 强预测 9 岁阅读能力 + IQ
+  - 跟一年级 / 高中毕业率正相关
+  - 跟成年收入相关
+
+  ## 政策影响
+  - 美国"Talk to Your Baby"公益运动起源
+  - 早期识字法规 + 政府投入
+  - NRC 综述 (2000) 直接引用
+  - 联合国早期儿童教育政策
+
+  ## 后期批评
+  - 样本小(42 家)+ 区域局限(Kansas)
+  - 跨族裔泛化有问题
+  - 但**核心结论**(对话型胜过命令型)被多研复制
+
+  ## 中文家长含义
+  - 中国家长普遍命令型多对话型少
+  - "快吃 / 别动 / 听话"是命令型
+  - "你看这是什么 / 你想怎么做"是对话型
+  - 不需特别"语言开发课" — 改命令为对话即可
+
+key_facts:
+  - Hart-Risley 1995 经典
+  - 高 vs 低 SES 累计差 3000 万词
+  - 对话型胜过命令型
+  - r=0.78 跟孩子词汇量
+
+related_glossary:
+  - G-PERSON-Hart-Risley
+  - G-PERSON-Shonkoff
+  - G-TERM-NRC
+  - G-TERM-parentese
+
+related_cards: []
+
+sources:
+  - source_id: SRC-025
+  - external: Hart & Risley 1995 / 2003
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

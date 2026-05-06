@@ -1,0 +1,48 @@
+card_id: C-S1-764
+stages: [S1]
+tags: [postpartum, mother-recovery, anti-over-medical]
+
+front:
+  title: 产后 40 天就可孕
+  hook: 没月经也可能怀孕
+
+back:
+  why_matters: |
+    松田硬数字:产后 40 天母体开始排卵,可能怀孕 — 没出现月经也算!
+    子宫 5-6 周恢复 / 阴道分泌物 3-6 周消(粉红 → 黄白)。
+    分泌物持续稍长不必去医院"治疗"(医生可能给"治疗"反折腾)。
+    初产妇出院多睡睡醒醒 / 第 3 周可干简单家务 / 第 2-3 胎妈出院就能做。
+  what_to_do:
+    - 产后 40 天起就要做避孕
+    - 阴道分泌物长不必跑医院
+    - 子宫 6 周后还摸到要查
+    - 初产妇第 3 周后再做家务
+    - 性生活分泌物消失后再开
+  failure_mode: |
+    妈"没月经不会怀孕"放松避孕 → 产后 50 天再孕,子宫还没恢复,流产风险高。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Matsuda
+
+citation:
+  book_title_zh: "定本《育儿百科》"
+  book_title_jp: "育児の百科(定本)"
+  authors: ["松田道雄"]
+  translators_zh: ["王少丽"]
+  publisher_zh: null
+  year: 1980
+  edition: "定本"
+  location: "第 43 节产后母亲的身体"
+  source_id: SRC-023
+
+unit_ids: []
+related_cards:
+  - C-S1-033  # Karp 产后抑郁的 3 阶段识别
+  - C-S0-001  # Brazelton 触点孕 7 月产检
+  - C-S1-068  # 鲍秀兰 照料新生儿 4 大禁忌
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

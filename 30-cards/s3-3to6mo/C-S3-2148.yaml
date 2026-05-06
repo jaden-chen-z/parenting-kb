@@ -1,0 +1,72 @@
+card_id: C-S3-2148
+stages: [S3]
+tags: [safety]
+
+front:
+  title: 婴儿湿疹 7 步法
+  hook: 短澡 + 大量润肤
+
+back:
+  why_matters: |
+    湿疹(eczema / 特异性皮炎)= 婴儿期最常见过敏性皮肤反应,2-6 月起多见。
+    海蒂数据:18 月有 1/2 宝宝经历过,3 岁时多数减弱;1/3 会发展为哮喘 / 其他过敏。
+    单纯母乳宝宝少见湿疹;配方奶宝宝多在 3 月首发。
+    家族过敏史 → 风险显著升高。
+    严重瘙痒 → 抓破 → 感染 → 必须医疗治疗,非自愈轻症。
+  what_to_do:
+    - "宝宝指甲剪短(夜里戴手套)"
+    - "洗澡 < 10-15 分钟(久泡更干)"
+    - "用温和无香肥皂(多芬/丝塔芙)"
+    - "禁氯水/海水(假期注意)"
+    - "出浴 3 分钟内涂大量润肤霜"
+    - "重度处方:外用类固醇软膏(医生)"
+    - "找过敏原(牛奶 / 鸡蛋 / 羊毛 / 灰尘)"
+  failure_mode: |
+    "婴儿湿疹长大就好"忽视抓破 → 反复感染留疤。
+    用大人面霜 → 香精刺激加重。
+    自行买强效激素膏 → 婴儿皮肤吸收过量。
+  evidence_level: A
+
+  positions:
+    issue: 睡眠训练方法选择 · 何时启动 · 哭多久才合理
+    views:
+      - school: Lillard(蒙氏)
+        source: SRC-016
+        stance: 6 月起关门睡 + 不抱不晃,孩子哭也不进。训练派立场最激进。
+      - school: Brazelton
+        source: SRC-010
+        stance: 温和拍背 + 浅睡期演练。中间立场,父母在场但减少介入。
+      - school: Davies
+        source: SRC-014
+        stance: 反对强训 — 6-16 月黏人是健康表现,过度训练有依恋代价。
+      - school: AAP / Bowlby
+        source: SRC-006/011
+        stance: AAP 6 月+ 可启动温和方法;Bowlby 反对长时间哭训,需评估孩子类型。
+      - school: 海蒂(Ferber 派)
+        source: SRC-040
+        stance: 温和 Ferber 法 / 改良 Ferber — 主流大众方案;节奏接近 Lillard 但更弹性,不极端关门。
+      - school: 中国传统
+        stance: 陪睡到学龄,不"训练"以避免分离焦虑;倾向自然戒断。
+glossary_refs:
+  - G-ABBR-AAP
+
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1 岁"
+  authors: ["Heidi Murkoff", "Sharon Mazel"]
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 2010
+  edition: "Third Edition"
+  location: "第 8 章 / 湿疹节,p.321-322"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards:
+  - C-S2-2014
+  - C-S1-030
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

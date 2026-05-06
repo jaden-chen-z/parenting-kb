@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Masten
+type: person
+display_name: "Masten(安·马斯滕)"
+
+full_name_en: "Ann S. Masten"
+full_name_zh: "安·马斯滕"
+
+position: |
+  University of Minnesota 心理学教授
+
+contribution: |
+  韧性 4 保护因子模型;ordinary magic
+
+one_liner: |
+  安·马斯滕 — 韧性 4 保护因子模型;ordinary magic
+
+key_facts:
+  - "本卷章节:Ch 6"
+  - "Lerner V3 命中:37 次"
+  - "学派:Lerner V3 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-027
+    chapter: "Ch 6"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

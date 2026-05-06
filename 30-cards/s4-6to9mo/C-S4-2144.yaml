@@ -1,0 +1,36 @@
+card_id: C-S4-2144
+stages: [S4]
+tags: [feeding, safety]
+front:
+  title: 7 月手指食物,豌豆/弹珠两规格
+  hook: 硬豌豆大,软弹珠大
+back:
+  why_matters: |
+    7-8 月娃发展精细抓握(钳形抓),开始想自己抓食物。海蒂给出明确尺寸标准。
+    硬质食物(蔬菜块/肉块)切到豌豆大小;软质食物(奶酪/熟蕉)切到弹珠大小,确保入口即化或一口能吞。可选:O 型麦圈、米饼、瑞士芝士小块、熟红薯/胡萝卜/西兰花花头、半个蓝莓、压碎软肉丸。
+  what_to_do:
+    - 硬食切豌豆大,软食切弹珠大
+    - 始终在视线内,不留独食
+    - 桌面坐姿+扣餐椅安全带
+    - 整粒坚果/葡萄/爆米花禁
+    - 鱼仔细去刺再给
+  failure_mode: 切太大(整颗葡萄/整片胡萝卜),娃含一口堵住气道,30 秒内紫绀;父母手忙脚乱不会海姆立克。
+  evidence_level: B
+glossary_refs: []
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors: ["Heidi Murkoff", "Sharon Mazel"]
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh: ["莫夏迪","张敏"]
+  location: "第 11 章 《第 7 个月》, 页 374-376"
+  source_id: "SRC-040"
+related_cards: [C-S4-2145, C-S4-2146]
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

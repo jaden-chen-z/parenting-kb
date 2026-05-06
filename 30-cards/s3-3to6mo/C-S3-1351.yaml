@@ -1,0 +1,77 @@
+card_id: C-S3-1351
+stages: [S3]
+tags: [health, ramey, infant, lerner_v4]
+
+front:
+  title: 3-6 月发育评估
+  hook: 3-6 月发育评估
+
+back:
+  why_matters: |
+    Ramey V4 Ch 21(3-6 月发育评估关键)。
+    **3-6 月发育评估 4 大维度**:
+    - **大动作**:抬头 + 翻身 + 坐前期
+    - **精细动作**:手抓物 / 手到嘴
+    - **语言 + 沟通**:咿呀 + 笑出声 + 跟视线
+    - **社交情绪**:认主要照护人 + 笑 + 哭分情境
+    **4 月红线**(发育延迟筛查):
+    - 4 月不能抬头 → 大动作筛查
+    - 4 月不响应人 → 视/听/社交筛查
+    - 4 月不咿呀 → 语言筛查
+    - 4 月不笑 → 综合评估
+    **6 月红线**:
+    - 6 月不能翻身
+    - 6 月不抓物
+    - 6 月不响应名字
+    - 6 月不发"妈/爸"音
+    **Ramey 立场**:
+    - 发育评估 ≠ 贴标签
+    - 是负责任的"检查"
+    - 像疫苗 / 体检
+    - 早发现 = 早干预 = 最大化
+    **反 3 误区**:
+    - ❌ "正常会自己长"(部分需早干预)
+    - ❌ "评估贴标签"(早评估保护娃)
+    - ❌ "等 1 岁再说"(每月翻倍成本)
+    跟现库:跟 C-S6-1390 V4 学步综合健康 + AAP 发育里程碑(SRC-007)+ Brazelton(SRC-010)对接。
+    对中国家长意义:
+    - 3-6 月做发育评估
+    - 4 月 / 6 月红线信号别拖
+    - 评估不是贴标签是负责
+    - 早发现 = 早干预最大化
+  what_to_do:
+    - 3-6 月做发育评估
+    - 4 月+6 月红线信号别拖
+    - 评估不是贴标签
+    - 早发现 = 最大化
+  failure_mode: |
+    "会自己长"— 错。部分需早干预。
+    "评估贴标签"— 错。负责任。
+    "等 1 岁再说"— 错。每月翻倍。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Ramey
+  - G-TERM-developmental-assessment
+  - G-TERM-MCHAT
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 4 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 4 卷"
+  authors: ['Craig T. Ramey', 'Sharon L. Ramey', 'Robin G. Lanzi']
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 21 · Ramey · 3-6mo developmental assessment · pp. 865-875"
+  source_id: SRC-029
+
+unit_ids: []
+related_cards:
+  - C-S6-1390     # V4 学步综合健康
+  - C-S0-1237     # Ramey Abecedarian
+  - C-S6-1389     # V4 学步早期干预
+  - C-S0-619     # Shonkoff 综合健康
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

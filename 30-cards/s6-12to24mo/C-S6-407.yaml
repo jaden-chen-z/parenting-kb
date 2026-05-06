@@ -1,0 +1,56 @@
+card_id: C-S6-407
+stages: [S6]
+tags: [communication, daily-care, RIE, lansbury]
+
+front:
+  title: "看医生 / 牙医 / 剪头:提前预告"
+  hook: "诚实预告替哄骗偷袭"
+
+back:
+  why_matters: |
+    Lansbury Ch10 反主流命题:
+    主流家长本能:不告诉孩子要打疫苗 / 抽血 / 剪头 — 怕哭闹。
+    Lansbury 反:孩子能"期待" + 准备好。
+    她的女儿 12 月:提前在家说去看医生 + 听诊器 + 灯照眼睛 + 可能打针。
+    去到诊所女儿安静 + 期待 — 直到医生开始"假装见小鸟"哄骗,
+    女儿反而困惑。
+    诚实预告 = 孩子有"小掌控感" → 配合度反而高。
+
+  what_to_do:
+    - 出门前在家清楚告知:"今天去看医生"
+    - 描述会发生:"医生会量身高 / 听心跳 / 看耳朵"
+    - 如果打针:"可能会疼一下"
+    - 路上重复一遍,不藏不哄
+    - 现场 sportscast:"医生在看你的耳朵了"
+
+  failure_mode: |
+    "突然抓去打疫苗他就不哭" → 短期过关,长期下次更不信任。
+    或医生哄骗"看小鸟" → 孩子困惑 → 更怕医院。
+    Lansbury:孩子能承受真相,承受不了被骗的不信任。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Lansbury
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+
+citation:
+  book_title_en: "Elevating Child Care: A Guide to Respectful Parenting"
+  book_title_zh: "尊重孩子:RIE 育儿之道"
+  authors:
+    - Janet Lansbury
+  publisher_en: JLML Press
+  year: 2014
+  location: "Ch10 Doctors, Dentists, Haircuts"
+  source_id: SRC-019
+
+unit_ids: []
+related_cards:
+  - C-S1-353  # Lansbury 尿布连接(同源逻辑:预告 + 参与)
+  - C-S6-001  # 鲍秀兰儿保
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

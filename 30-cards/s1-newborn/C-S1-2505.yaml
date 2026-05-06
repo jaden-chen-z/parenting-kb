@@ -1,0 +1,56 @@
+card_id: C-S1-2505
+stages: [S1]
+tags: [safety]
+
+front:
+  title: 哺乳期 5 类禁忌:烟/酒/咖/草药/某药
+  hook: 能喝奶茶吗高频问题底线
+
+back:
+  why_matters: |
+    哺乳妈妈饮食比孕期宽松,**但仍有 5 类硬底线**(海蒂明确):
+    1) **尼古丁**:>1 包/天 → 减奶量 + 宝宝焦躁;长期影响未知但肯定无好处
+    2) **酒精**:可偶尔(每天 ≤ 1 杯啤酒/红酒),且要喂奶后 2 小时再喝
+    3) **咖啡因**:200 mg/天上限(约 2 杯美式),宝宝代谢咖啡因极慢,会累积
+    4) **草药/中药**:大多数无安全数据,胡芦巴(下奶)有血压心率影响
+    5) **特定药物**:抗癌药、含锂的、麦角胺(治偏头痛)、放射性药物绝禁家庭小药柜常见的青霉素/对乙酰氨基酚/感冒药多数安全,但开新药一律先咨询。
+  what_to_do:
+    - 喝酒 → 喂奶后立即喝 1 杯,等 2 小时再下次喂(肝代谢)
+    - 戒不掉烟 → 至少喂奶 1 小时后再吸,别在宝宝旁边吸
+    - 咖啡 ≤ 2 杯/日,下午 4 点后避免(影响宝宝夜睡)
+    - 中药 / 凉茶 / 月子草药 → 让中医师告诉哺乳期是否能服(不要自服)
+    - 看任何科 → 主动告知"哺乳期",医生会换药
+    - 网查"L1-L5 哺乳安全等级"(LactMed 数据库)
+  failure_mode: |
+    "1 杯奶茶没事"喝 3 杯 → 咖啡因累积宝宝整夜哭闹。
+    "中药天然安全"吃下奶汤 → 胡芦巴影响哺乳妈妈血压。
+    哺乳期发烧自服强力感冒药 → 多数含伪麻黄碱(回奶)+ 镇静剂(宝宝嗜睡)。
+    放射检查不告知"哺乳" → 部分造影剂需暂停哺乳 24 小时。
+  evidence_level: A
+
+glossary_refs: []
+
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors:
+    - Heidi Murkoff
+    - Sharon Mazel
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh:
+    - 莫夏迪
+    - 张敏
+  location: "第 3 章母乳喂养 · 避免摄入的食物 + 药物章节"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards: []
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,57 @@
+card_id: C-S2-495
+stages: [S2]
+tags: [parenting-mindset, RIE, simplicity]
+
+front:
+  title: "把生活搞简单点"
+  hook: "宝宝不需要刺激轰炸"
+
+back:
+  why_matters: |
+    Magda《自信的宝宝》Ch5 §Make Your Life Easier。
+    Magda 反主流:中国 + 美国都流行"早教 + 各种班 + 出门刺激",
+    Magda 立场:0-2.5 岁主要时间在家,生活越简单越好。
+    "有人会觉得无聊。但孩子不会觉得无聊 — 孩子在 routine 里形成内在节律(睡 / 饿 / 饱)。"
+    简单 = predictable = 安全感 = 神经系统稳定。
+    早教不是不能上,但绝不是越多越好。Magda 立场:
+    与其早教 5 个班,不如让宝宝在家慢吃饭 + 慢洗澡 + 慢观察。
+
+  what_to_do:
+    - 取消 1 个早教班看变化
+    - 每天 routine 固定(吃睡玩)
+    - 出门 1 次 / 周不是 1 次 / 天
+    - 家里玩具少出多换不堆全部
+    - 简单不是穷,是给宝宝呼吸
+
+  failure_mode: |
+    "我娃在家无聊会傻" → Magda 反:无聊是创造力起点,
+    宝宝有内在 driver。或反向:"早教越多越聪明" → 反:
+    过多刺激反而打断 attention span 形成。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+
+citation:
+  book_title_en: "Your Self-Confident Baby"
+  book_title_zh: "自信的宝宝"
+  authors:
+    - Magda Gerber
+    - Allison Johnson
+  publisher_en: John Wiley & Sons
+  year: 1998
+  location: "Ch4 §Try to Do Less(p56-57) + Ch5 §Make Your Life Easier(p83-85)"
+  source_id: SRC-021
+
+unit_ids: []
+related_cards:
+  - C-S0-116  # Lansbury 父母也要边界
+  - C-S2-189  # Lillard 0-6 岁只给真实
+  - C-S6-138  # Davies 父母先照顾自己
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

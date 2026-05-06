@@ -1,0 +1,66 @@
+card_id: C-S0-2062
+stages: [S0]
+tags: [philosophy, controversy]
+
+front:
+  title: 祖父母首次到访先约边界
+  hook: 头几周三人单独最重要
+
+back:
+  why_matters: |
+    祖父母到访问题(grandparents arrival)= 中国家庭的首大冲突点 — 老人通常想立即"接管",新手父母想"先磨合"。
+    海蒂的立场:头几周三人独处对建立亲密关系和育儿信心最关键 — 老人晚到几周更好。
+    建议直接说:"几周后宝宝有反应了再来,那时更有趣" — 既不伤感情又设好边界。
+    老人短期受伤但抱孙后会原谅;新手父母如果一开始没建立"我是父母"的主体感,后续 18 年都难纠正。
+    例外:你确实需要帮忙(剖腹产、双胞胎)→ 提前邀,但定好"协助 ≠ 接管"。
+  what_to_do:
+    - 怀孕 8 月就跟双方父母明确表达"先三人独处几周"
+    - 用"几周后宝宝更可爱"婉拒立即到访
+    - 你确实想老人帮 → 提前定"做哪些 / 不做哪些"
+    - 到访后冲突:不发火,坚定重申主导权在你
+    - 让爸爸出面跟自己父母谈最有效
+  failure_mode: |
+    没设边界 → 老人入家就接管,你彻底失能,母乳/作息/育儿观全乱。
+    完全拒绝老人 → 关系裂痕 + 你独自累垮。
+    老人坚持"我们当年这么带大你的" → 用"现在标准变了"(如禁趴睡)反驳。
+  evidence_level: C
+
+  positions:
+    issue: 隔代育儿边界 — 月嫂 / 婆媳 / 祖父母角色分工
+    views:
+      - school: 海蒂
+        source: SRC-040
+        stance: 祖父母首次到访先约边界;提供操作脚本(角色分工 + 时段安排),直击中国家庭核心冲突。
+      - school: Brazelton
+        source: SRC-010
+        stance: 全家都抢着照顾的描述呼应 — 但侧重发展观察而非边界设定。
+      - school: 中国传统
+        stance: 月嫂 / 奶奶 / 姥姥多人照顾 + 边界模糊 — "都是为了娃好",冲突常发但缺协商工具。
+glossary_refs: []
+
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors:
+    - Heidi Murkoff
+    - Sharon Mazel
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh:
+    - 莫夏迪
+    - 张敏
+  location: "第 1 章临产前的准备 · 祖父母 / 公婆"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards:
+  - C-S0-003    # 祖父母参与
+  - C-S0-014    # 中国 4-2-1 祖辈格局
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

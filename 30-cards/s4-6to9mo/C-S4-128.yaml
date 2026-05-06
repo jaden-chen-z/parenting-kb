@@ -1,0 +1,63 @@
+card_id: C-S4-128
+stages: [S4]
+tags: [development_burst, controversy]
+
+front:
+  title: 8 月又一次烦躁来袭
+  hook: 倒退是分类期前奏
+
+back:
+  why_matters: |
+    第六跃迁(第 37 周,即 8.6 月)前的烦躁阶段从第 32 周(7.5 月)就开始,持续 3-6 周。
+    这意味着 6 月跃迁(第 26 周)之后宝宝刚轻松 1 个月,马上又进入新一轮烦躁。
+    家长视角:"宝宝 6-9 月一直在烦闹,几乎没有平静期"其实是常态。
+
+    第 37 周烦躁期的特殊行为(凡德里特观察):
+    - **突然像变回更小的宝宝**(很多妈妈会发现婴儿期行为又回来了)
+    - 像新生儿那样哭 / 要奶 / 要抱
+    - 妈妈反映:"我又得摇着唱着哄睡了,跟刚出生时一样"
+    - 一些之前学会的事(自己玩 / 自己睡)突然又不会了
+
+    凡德里特的解释(白话翻译):
+    > 倒退完全正常。这其实是在告诉你:**新东西即将破壳而出**。
+
+    家长意义:**8 月的"倒退"是第 37 周跃迁的前奏,不是真正退步,而是"分类世界"即将上线**。
+  what_to_do:
+    - 32-37 周看到"婴儿期行为回潮" → 下一个跃迁(分类)在路上
+    - 不强求"已经会的"(自己睡 / 自己玩) — 让宝宝倒退一阵
+    - 烦躁期不送托 / 不出长途旅行
+    - 跃迁完成后宝宝会突然又"长大",新能力上线
+    - 把 6-9 月理解为"双跃迁集中区"
+  failure_mode: |
+    "她以前会自己睡的现在又不会了 → 一定是错的方法没坚持 → 重启训练" → 跃迁期训练失败。
+    "宝宝退步了" → 焦虑 / 自责 → 错过分类世界即将到来的窗口。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-vanderijt
+  - G-TERM-wonder-week
+  - G-TERM-fussy-phase
+  - G-TERM-mental-leap
+  - G-TERM-regression-progression
+
+citation:
+  book_title_zh: "婴儿大脑跃迁 10 周(神奇周)"
+  book_title_en: "The Wonder Weeks"
+  authors: ["Hetty van de Rijt", "Frans X. Plooij"]
+  authors_zh: ["海蒂·凡德里特", "弗朗斯·普洛伊"]
+  publisher_en: "Kiddy World Publishing"
+  year_en_first: 1992
+  isbn_en: "978-90-79208-12-1"
+  location: "Chapter 8 · Wonder Week 37(fussy phase begins around 34 weeks, lasts 3-6 weeks + She May Seem More Babyish: setbacks are perfectly normal, they promise you that something new is on the verge of breaking through)"
+  source_id: SRC-013
+
+unit_ids: []
+related_cards:
+  - C-S4-124       # WW26 关系世界
+  - C-S4-127       # 6-8 月拒换尿布
+  - C-S5-126       # WW37 分类世界(在 S5)
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

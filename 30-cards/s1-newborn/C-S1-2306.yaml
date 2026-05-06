@@ -1,0 +1,47 @@
+card_id: C-S1-2306
+stages: [S1]
+tags: [safety, red_flag]
+
+front:
+  title: 中毒:别催吐,先打中毒中心
+  hook: 带瓶子 / 标签 / 残留去医院
+
+back:
+  why_matters: |
+    宝宝爱嚼任何东西 — 药品 / 清洁剂 / 化妆品 / 植物叶片都可能中毒。
+    海蒂铁律:**不要自行催吐(不用吐根糖浆 / 活性炭),先拨毒物控制中心**
+    — 错误处理弊大于利(腐蚀剂吐回程二次烧伤食道)。
+    无症状也要打 — 症状可能数小时后才出现(对乙酰氨基酚就是典型迟发性肝损)。
+    紫外线:中毒中心 24 小时,医生不能立刻接通时直接打。
+  what_to_do:
+    - 立刻打毒物控制中心(美 1-800-222-1222 / 中国各地不同)
+    - 带容器 + 完整标签 + 残留物到电话旁
+    - 报告:物名 / 估计摄入量 / 宝宝年龄+体重+症状
+    - 不催吐,无医嘱不喂水 / 牛奶 / 活性炭
+    - 失去意识或停止呼吸 → 打 120 + 立刻 CPR(C-S1-2303)
+  failure_mode: |
+    用吐根糖浆催吐 → 二次损伤(腐蚀剂)+ 误吸入肺。
+    "看起来没事就不打" → 错过对乙酰氨基酚 / 铁中毒迟发期。
+    把容器扔掉再去医院 → 医生不知是什么物质,延误用药。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-AAP
+
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1 岁"
+  authors: [Heidi Murkoff, Sharon Mazel]
+  publisher_en: Workman Publishing
+  publisher_zh: 南海出版公司(新经典发行)
+  year: 1989
+  edition: 3rd (2014)
+  location: "第 19 章《急救常识》'中毒 42-43',582-583 页中译"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards: [C-S1-059]
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

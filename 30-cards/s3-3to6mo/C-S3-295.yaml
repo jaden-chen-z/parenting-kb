@@ -1,0 +1,60 @@
+card_id: C-S3-295
+stages: [S3]
+tags: [play, RIE, lansbury]
+
+front:
+  title: "被动玩具 + 主动孩子"
+  hook: "玩具越被动孩子越主动"
+
+back:
+  why_matters: |
+    Magda Gerber 经典命题:
+    主动的孩子 + 被动的玩具 = 学习。
+    被动的孩子 + 主动的玩具(声光电会自己动)= 娱乐。
+    Lansbury Ch15 引申:
+    简单的木块 / 球 / 布 / 圈,宝宝可以用 100 种方式玩 →
+    刺激想象力 + 解决问题。
+    会哔哔叫 + 发光的玩具 → 宝宝只能旁观。
+
+  what_to_do:
+    - 出 5-6 件 passive 玩具(木块 / 圈 / 布 / 真物)
+    - 不买电池玩具,买"无声"基础玩具
+    - 真物优先(蒙氏共识):真碗 / 真镜 / 真木勺
+    - 轮换:其他存起来,2 周换一次
+    - 不必教怎么玩,留给宝宝发现
+
+  failure_mode: |
+    "买高科技益智玩具能多学" → 反:刺激越强,
+    宝宝越被动,创造力越差。
+    或反向:玩具太多 → 宝宝注意力分散,反而玩不深。
+    Pikler / RIE / 蒙氏三派共识:少而精的真物 + 被动玩具。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Lansbury
+  - G-PERSON-Gerber
+  - G-PERSON-Pikler
+  - G-TERM-passive-toys
+  - G-TERM-RIE
+
+citation:
+  book_title_en: "Elevating Child Care: A Guide to Respectful Parenting"
+  book_title_zh: "尊重孩子:RIE 育儿之道"
+  authors:
+    - Janet Lansbury
+  publisher_en: JLML Press
+  year: 2014
+  location: "Ch15 7 Myths Independent Play"
+  source_id: SRC-019
+
+unit_ids: []
+related_cards:
+  - C-S2-189  # Lillard 0-6 岁只给真实
+  - C-S3-191  # Lillard 大动作
+  - C-S2-290  # Lansbury 不撑坐
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

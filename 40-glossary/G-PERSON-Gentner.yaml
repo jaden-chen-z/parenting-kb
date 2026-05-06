@@ -1,0 +1,56 @@
+glossary_id: G-PERSON-Gentner
+type: person
+display_name: Gentner
+
+full_name_en: Dedre Gentner
+full_name_zh: 德德·根特纳
+
+one_liner: |
+  美国认知科学家(西北大学教授),类比理论(Structure Mapping)奠基人。
+  类比 = 关系结构映射,不是表面相似。
+
+detail: |
+  ## 个人背景
+  - 加州大学伯克利分校博士
+  - 西北大学心理学教授
+  - 认知科学协会创始会员
+
+  ## 核心理论:Structure Mapping(结构映射)
+  - 类比 = 关系结构映射,不是表面相似
+  - 太阳/行星 ↔ 原子核/电子(关系一致非外形一致)
+  - 关系结构是抽象推理核心
+
+  ## 儿童发展
+  - 3 岁:类比常基于表面相似
+  - 4-5 岁:开始关系类比
+  - 6-7 岁:稳定关系类比
+
+  ## 立场
+  - 跟 Halford 关系复杂度派一致
+  - 反"类比 = 看像"流行误解
+
+  ## 在本知识库中
+  - SRC-028 Lerner V2 Ch13/Ch16 引用(66 hits)
+  - C-S7-1099 Gentner 类比关系结构
+
+key_facts:
+  - 西北大学心理学教授
+  - Structure Mapping 类比理论奠基
+  - 关系结构 vs 表面相似立场
+  - 认知科学创始派
+
+related_glossary:
+  - G-PERSON-Carey
+  - G-TERM-baby-scientist
+
+related_cards:
+  - C-S7-1099
+
+sources:
+  - source_id: SRC-028
+  - external: Gentner 1983 / Wikipedia Dedre Gentner
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

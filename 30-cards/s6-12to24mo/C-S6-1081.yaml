@@ -1,0 +1,49 @@
+card_id: C-S6-1081
+stages: [S6]
+tags: [rogoff, cultural_construction, intent_participation, lerner_v3]
+
+front:
+  title: "Rogoff 文化建构学习"
+  hook: "看大人做就能学到"
+
+back:
+  why_matters: |
+    Rogoff(via Ch 7 Bugental 综述)— 意向参与(有意参与)是非西方文化主要学习模式:
+    娃跟大人在一起做真事(不是被教)。墨西哥 / 危地马拉孩子 5 岁就做家务 + 带弟妹,
+    没人教 他们,看大人做就学会。一句话 — 不是所有学习都要课堂,看真做就是学。
+  what_to_do:
+    - "做家务带娃在场看"
+    - "他想参与给真任务(切水果用儿童刀)"
+    - "示范不演示(真做不假装)"
+    - "犯错允许 + 不解释每步"
+    - "学习不只在上课"
+  failure_mode: |
+    "娃不该做家务,该上早教" — Rogoff 反对,有意参与的学习深度大于课堂。
+    早教课的转移率比家务低。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Rogoff
+  - G-PERSON-Bugental
+  - G-TERM-intent-participation
+  - G-TERM-cultural-learning
+
+related_cards:
+  - C-S6-186      # Lillard 真物探索
+  - C-S6-194      # Lillard 描述法
+  - C-S6-822      # 松田自己拿勺
+  - C-S6-822      # 松田自己拿勺
+
+citation:
+  source_id: SRC-027
+  source_title: "Handbook of Child Psychology Vol 3"
+  chapter: "Ch 7 Bugental / Rogoff"
+  chapter_offset: 2114490
+  chapter_title: 'Bugental & Grusec — 社会化过程'
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_followup_needed: 'SRC-027 用 PDF 字节偏移代页码 — 待加 page_pdf 反查工具'

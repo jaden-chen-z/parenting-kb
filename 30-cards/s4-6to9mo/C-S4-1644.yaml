@@ -1,0 +1,56 @@
+card_id: C-S4-1644
+stages: ['S4']
+tags: ['cognitive', 'lerner_v1', 'thelen', 'object_permanence', 'piaget_revised']
+
+front:
+  title: "物体永久不是阶段"
+  hook: "不是突然就懂的事"
+
+back:
+  why_matters: |
+    6-9 月物体永久(object permanence)— Piaget 经典命题"8 月才有"被 Thelen-Smith dynamic systems 修正。
+    - Piaget — 8 月固定阶段(此前没有)
+    - 现代综述(via V1 Ch 6) — 物体永久能力是 emergent + context-dependent —
+      - 情境支持高(熟悉环境 / 短延迟 / 简单藏)→ 4 月就能见
+      - 情境支持低(陌生 / 长延迟 / 复杂藏)→ 12 月还会失败
+    - 不是 "懂 / 不懂" 二分,是 "在不同情境下有不同表现"
+    意义 — 中国家长不必焦虑 "我家 8 月还认不出物体藏哪是不是落后"。
+    - 在简单情境下你家娃可能 4 月就有物体永久
+    - 在复杂情境下到 12 月 + 还可能失败
+    - 都是正常 dynamic 表现,不是阶段问题
+  what_to_do:
+    - "不焦虑'几月有物体永久'"
+    - "简单情境(熟悉 / 短藏)— 早能见"
+    - "复杂情境 — 晚能见"
+    - "不是阶段是动态能力"
+    - "Piaget 月龄表过简化"
+  failure_mode: |
+    拿"8 月物体永久"标准焦虑 — 错。Thelen 修正:context-dependent。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Thelen
+  - G-PERSON-Smith-LB
+  - G-PERSON-Piaget
+  - G-TERM-object-permanence
+  - G-TERM-dynamic-systems-theory
+
+related_cards:
+  - C-S0-1508
+  - C-S2-1503
+  - C-S0-1542
+  - C-S2-700
+
+citation:
+  source_id: SRC-030
+  source_title: "Handbook of Child Psychology Vol 1: Theoretical Models of Human Development"
+  chapter: "Ch 6 Thelen & Smith"
+  chapter_offset: 1440888
+  chapter_title: 'Thelen & Smith — Dynamic Systems Theories'
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_followup_needed: 'SRC-030 用 PDF 字节偏移代页码 — 待加 page_pdf 反查工具'

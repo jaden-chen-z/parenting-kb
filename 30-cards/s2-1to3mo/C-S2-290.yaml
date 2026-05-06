@@ -1,0 +1,64 @@
+card_id: C-S2-290
+stages: [S2]
+tags: [motor-发展, RIE, lansbury, controversy]
+
+front:
+  title: "不撑坐:8 个理由别提前坐"
+  hook: "大动作发展不可被替"
+
+back:
+  why_matters: |
+    Lansbury Ch7(本书最经典章)+ Pikler 派立场:
+    不要把不会坐的宝宝撑成"坐姿"。
+    8 个理由:
+    1. 自然大动作发展(Pikler 1902-1984 临床证据)
+    2. 撑坐限制翻 / 转 / 爬 / 蠕动
+    3. 一旦撑坐成习惯,宝宝以后只想这样
+    4. 拖延或跳过翻 / 爬等里程碑
+    5. 阻碍自主玩(撑坐玩不久)
+    6. 可能压伤脊椎 + 髋关节没张开
+    7. 跳过过渡姿势(侧躺 → 坐)
+    8. 急什么?宝宝自己会的时候最稳。
+
+  what_to_do:
+    - 4 月以前一直仰躺自由动作
+    - 不用 Bumbo / 婴儿座椅 / 跳跳器
+    - 不用枕头 / 沙发"摆"宝宝坐着
+    - 让宝宝自己从侧躺过渡到坐
+    - 拍照保留过渡姿势("男模躺")— 短暂但珍贵
+
+  failure_mode: |
+    "撑坐宝宝看世界视角更好" → Pikler 反:被困的视角不是好视角。
+    撑坐宝宝物体掉了只能等大人,自我效能感低。
+    一旦撑坐习惯,改回平躺需要适应期。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Lansbury
+  - G-PERSON-Pikler
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+
+citation:
+  book_title_en: "Elevating Child Care: A Guide to Respectful Parenting"
+  book_title_zh: "尊重孩子:RIE 育儿之道"
+  authors:
+    - Janet Lansbury
+  publisher_en: JLML Press
+  year: 2014
+  location: "Ch7 Sitting Babies Up: The Downside"
+  source_id: SRC-019
+
+unit_ids: []
+related_cards:
+  - C-S2-189  # Lillard 0-6 岁只给真实
+  - C-S3-191  # Lillard 大动作发展
+  - C-S4-190  # Lillard 第二次出生
+  - C-S4-194  # Lillard 推车型 不是学步车
+  - C-S4-129  # Wonder Weeks 大动作里程碑
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

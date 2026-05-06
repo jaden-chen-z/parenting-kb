@@ -1,0 +1,59 @@
+card_id: C-S6-182
+stages: [S6]
+tags: [cognitive_science, language, naming_explosion]
+
+front:
+  title: 18 月命名爆发期
+  hook: what is that 轰炸
+
+back:
+  why_matters: |
+    18 月起宝宝突然"发现"每个东西都有名字 → 命名爆发(naming explosion)。
+    Gopnik 描述:宝宝指着每个东西说"What's that? What's that?"
+    每天学 5-10 个新词,一个月词汇量翻倍。
+    Gopnik 解读:这不只是词汇增长,是认知**质变** — 宝宝意识到:
+    1. 每个东西都有名字
+    2. 名字可以问出来
+    3. 我可以用名字"指代"东西机制:fast mapping(C-S5-182)+ 类别认知能力同时跃迁。
+    Alison & Andy 研究证明:宝宝**先有"分类"概念,后才命名爆发**。
+    分类("猫 / 狗都是动物")+ 命名 = 同一时段一起到。
+    对中国家长意义:
+    - 18 月起进入"命名爆发期" — 这阶段陪伴质量决定 24 月词汇量
+    - 不要嫌烦"问什么都答" — 这是认知爆发的窗
+    - 命名一切真物(不是只玩具)— 厨房 / 厕所 / 户外都命名
+    - 双语家庭这阶段词汇爆发明显,坚持双语暴露
+  what_to_do:
+    - 18 月起回答每一个"what's that?"(不烦)
+    - 命名一切真物(食物 / 家具 / 家电 / 户外)
+    - 鼓励"名字 + 描述"("这是西瓜,绿皮红肉")
+    - 双语家庭两种语言同时命名(无需翻译,各自命名)
+  failure_mode: |
+    "他问个不停烦死了,等他大点再答" — 错。命名爆发窗 18-24 月。
+    只命名玩具不命名真物 — 错过 80% 词汇暴露。
+    用动画 / App 替代命名陪伴 — 缺 social cue,效率大降。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Gopnik
+  - G-TERM-statistical-learning
+  - G-TERM-baby-scientist
+
+citation:
+  book_title_en: "The Scientist in the Crib"
+  book_title_zh: "摇篮里的科学家"
+  authors: ["Alison Gopnik", "Andrew N. Meltzoff", "Patricia K. Kuhl"]
+  publisher_en: William Morrow
+  year: 1999
+  location: "Chapter 4 · The First Words (naming explosion)"
+  source_id: SRC-015
+
+unit_ids: []
+related_cards:
+  - C-S5-182       # 1 岁 fast mapping
+  - C-S6-180       # 18 月 social cue 学词
+  - C-S4-186       # 9 月 stress pattern
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

@@ -1,0 +1,101 @@
+glossary_id: G-TERM-school-readiness
+type: term
+display_name: 入学准备度 (school readiness)
+
+full_name_zh: 入学准备度
+full_name_en: School Readiness
+
+one_liner: |
+  孩子是否"准备好"开始正式学校教育 — 不只是认字数学,更是社交情绪 + 自我调节 + 注意力 + 适应能力。Brazelton 立场:5-6 岁多数孩子才真正 ready;中国 / 韩国压力提前到 4 岁,与发育不匹配。
+
+detail: |
+  ## 准备度 5 维度(不只是认知)
+
+  ### 1. 社交情绪(最常被忽视的 #1 维度)
+  - 能跟同龄孩子玩 30 分钟不爆冲突
+  - 能短暂分离父母而不崩溃
+  - 能识别和命名基本情绪
+  - 能自我安抚
+
+  ### 2. 自我调节
+  - 排队 / 等待 5-10 分钟
+  - 完成成人交代的简单任务
+  - 不在课堂上随意走动
+  - 转换活动不抗拒(从游戏到吃饭)
+
+  ### 3. 注意力
+  - 专注 15-20 分钟做一件事
+  - 听完老师讲的指示
+  - 不被微小干扰打断
+  - 能跟随群体节奏
+
+  ### 4. 沟通 / 语言
+  - 用完整句子表达需求
+  - 听懂多步指令(去拿你的书包,放到这里)
+  - 用语言而不是哭来求助
+  - 跟陌生大人能简单对话
+
+  ### 5. 自理 / 大动作
+  - 自己穿脱鞋 / 外套
+  - 上厕所擦屁股(基本)
+  - 吃饭自理
+  - 跑跳爬等基本大动作
+
+  ## Brazelton 的"晚一年比早一年值"立场(C-S5-028)
+  Brazelton 临床观察 30+ 年:
+  - **晚一年入学的孩子大概率比早一年好** — 不只学业,还有自尊 / 社交关系 / 自我调节
+  - **早一年入学的孩子多一年挫败 → 形成"我不如别人"基底信念**
+  - 男孩特别需要更多时间(发育平均比女孩晚 3-6 月)
+  - 6 月生 vs 1 月生差 6 月可能是 5 岁宝宝的 12% 人生
+
+  ## 中国教育现实的张力
+  中国普遍小学一年级入学 6 岁(部分私立 5 岁),与 Brazelton 立场冲突:
+  - 中国家长普遍焦虑"晚一年怕孩子输"
+  - Brazelton 立场:晚一年成熟度好得多,长期看占优
+  - 美国部分州允许 redshirt(晚一年)成为常态
+
+  ## 评估工具
+  - DIAL-4 / Brigance / DIBELS(美国常用)
+  - 中国主要是行为观察 + 无标准化工具
+  - 关键不在工具,在 5 维度的整体观察
+
+  ## 如何"不准备" school readiness
+  Brazelton + Erikson + Gopnik 一致反对:
+  - 提前教读写(5 岁前)— 损害"主动 vs 内疚"建立(C-S7-020)
+  - 闪卡 / Mozart effect / flash cards 早教 — 心智无法吸收(C-S7-125)
+  - 强迫学英语 / 数学 / 钢琴 — 错过自由探索期
+  - 把孩子当"小大人"训练 — 错过敏感期
+
+  反过来,**真正建立 school readiness 的方法**:
+  - 充分自由探索(蒙氏 prepared environment)
+  - 充分社交(同龄孩子玩,不只一对一)
+  - 充分情绪发育(回应敏感 → 安全依恋)
+  - 充分大动作发展(户外 + 跑跳)
+  - 充分睡眠 + 营养
+
+key_facts:
+  - 5 维度:社交情绪 / 自我调节 / 注意力 / 沟通 / 自理(认知不是最重要)
+  - Brazelton 立场:晚一年比早一年好
+  - 男孩平均比女孩晚 3-6 月成熟
+  - 中国 6 岁入学 = 主流,但部分孩子需 redshirt
+  - 提前教读写 = 损害 readiness(反早教)
+  - 真正建立 readiness = 自由探索 + 社交 + 情绪 + 大动作
+
+related_glossary:
+  - G-PERSON-Brazelton
+  - G-PERSON-Erikson
+  - G-PERSON-Gopnik
+  - G-TERM-prepared-environment
+
+related_cards:
+  - C-S5-028
+  - C-S7-020
+
+sources:
+  - source_id: SRC-010
+  - external: "Brazelton 《Touchpoints: Three to Six》+ Bright Futures"
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

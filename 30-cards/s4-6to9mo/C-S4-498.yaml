@@ -1,0 +1,63 @@
+card_id: C-S4-498
+stages: [S4]
+tags: [eating, RIE]
+
+front:
+  title: "RIE 班香蕉仪式"
+  hook: "等待是文明的开始"
+
+back:
+  why_matters: |
+    Magda《自信的宝宝》Ch7 §Snack at RIE Class — Magda 班级实操经典。
+    Magda 班里每节课中段有 snack(香蕉 + 苹果汁)。流程:
+    1 老师宣布"snack 时间"
+    2 老师拿盆 + 围兜 + 罐 + 杯 + 毛巾
+    3 摆小桌小凳
+    4 孩子一个一个走来坐(自主)
+    5 老师举香蕉,给孩子选围兜颜色
+    6 慢慢撕香蕉(顺天然 3 段)
+    7 孩子等(吟"nana nana nana")
+    8 拿出小罐倒果汁(年纪大的自己倒)
+    9 不想吃 = 不勉强,但不能拿走
+    Magda:"看他们多文明 — 等待。没人爱等,但他们会等。"
+    snack ≠ 吃,是"学规则" — cause/consequence 第一课。
+
+  what_to_do:
+    - 在家复制:小桌 + 小凳 + 真东西
+    - 准备时让娃看不催不抱
+    - 给 2 选项(围兜 / 杯子颜色)
+    - 离桌 = 收餐(自然后果)
+    - 一岁慢慢加自己倒水
+
+  failure_mode: |
+    "我家娃等不了" → Magda 反:她在 RIE 班见 1 岁娃等 5 分钟,
+    等是有结构慢出来的。或"小娃打翻杯子怎么办" → 反:Magda 用塑料小罐倒一点点 — 翻了不破,擦了再来。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+  - G-TERM-cause-consequence
+
+citation:
+  book_title_en: "Your Self-Confident Baby"
+  book_title_zh: "自信的宝宝"
+  authors:
+    - Magda Gerber
+    - Allison Johnson
+  publisher_en: John Wiley & Sons
+  year: 1998
+  location: "Ch7 §Snack at RIE Class(p154-156)"
+  source_id: SRC-021
+
+unit_ids: []
+related_cards:
+  - C-S5-390  # Lansbury Magda 派小桌
+  - C-S5-391  # Lansbury 小份+信身体信号
+  - C-S6-130  # Davies 自主吃饭
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

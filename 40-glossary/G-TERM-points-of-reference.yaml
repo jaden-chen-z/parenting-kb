@@ -1,0 +1,81 @@
+glossary_id: G-TERM-points-of-reference
+type: term
+display_name: 参照点 (points of reference)
+
+full_name_zh: 参照点 / 心理锚点
+full_name_en: Points of Reference
+
+one_liner: |
+  蒙氏 0-3 培训的术语。**婴儿在子宫里就建立了几个识别"自己人"的标志** — 妈妈心跳 / 妈妈嗓音 / 妈妈节奏。出生后这些参照点是宝宝在新世界的第一组锚点。
+  Lillard 把这个概念从 Silvana Montanaro 的 AMI 0-3 培训系统化进了本卷。
+
+detail: |
+  ## 定义
+  Points of reference = 蒙氏 AMI 0-3 培训的核心概念:
+  - 婴儿在子宫里有 3-4 个参照点(妈妈心跳 / 妈妈嗓音 / 妈妈活动节奏 / 触摸手脚的感觉)
+  - 出生后,这些参照点继续给婴儿安全感
+  - 大人的任务 = 不打破这些参照点 + 慢慢添加新的
+
+  ## 来源
+  - Maria Montessori 在印度 1939-1946 年期间深化 0-3 理论
+  - 后被 Silvana Montanaro 医生(意大利 AMI 0-3 培训师)系统化
+  - Lynn Lillard Jessen 在 1985 年休斯顿 AMI 培训学到,带回 Forest Bluff School
+
+  ## 子宫内的 4 个参照点
+  1. **妈妈心跳** — 持续重复,让宝宝出生后听到妈妈胸口同样心跳就安心
+  2. **妈妈嗓音** — 子宫内可听 → 出生后偏好妈妈声(vs 别人)
+  3. **妈妈节奏** — 走路 / 摇晃的频率 → 出生后类似节奏让宝宝安抚
+  4. **自己手脚的感觉** — 摸自己脸 / 吸自己拇指,出生后继续
+
+  ## 出生后的应用
+  - **新生儿房尽量不"装饰"** — 给宝宝的脑空间专注吸收已有参照点(不是被新信息淹没)
+  - **妈妈尽量在宝宝身边** — 不是溺爱,是保留参照点
+  - **不戴手套** — 让宝宝继续摸自己脸(参照点之一)
+  - **不大声乐** — 不"取代" 妈妈嗓音
+  - **慢慢添加新的参照点** — 1 个 mobile / 1 张照片 / 1 个房间 → 不是一次铺开
+
+  ## 跟其他蒙氏概念的关系
+  - **Topponcino**(蒙氏小毯)= 物理参照点 — 不管谁抱宝宝,topponcino 不变
+  - **Symbiosis period**(共生期 6-8 周)= 让参照点完整运作的窗口
+  - **Going slow** = 给参照点时间内化,不超载
+
+  ## 跟 Karp / Bowlby 的对照
+  - **Karp 第四产程** = 重建子宫感官环境(swaddle / shush / sway 模拟)
+  - **Bowlby 安全基地** = 心理参照点(妈妈是安全基地)
+  - **Lillard points of reference** = 婴儿主动用,大人配合维持
+
+  本质都是同一概念,不同流派的命名。
+
+  ## 中国家长高频误解
+  | 误解 | 实际 |
+  |---|---|
+  | "宝宝看不见 / 听不懂,就给他足量刺激" | 反:出生前已认识妈妈,不需要超载 |
+  | "妈妈不在没关系,谁照顾都一样" | 反:妈妈是首参照点,代替不易 |
+  | "新生儿房要有声有色才好" | 反:简单环境让参照点突出 |
+  | "戴手套防抓花" | 反:手是参照点,不能被剥夺 |
+
+key_facts:
+  - 蒙氏 AMI 0-3 培训核心概念
+  - 子宫内已建立 4 个参照点
+  - 出生后继续给安全感
+  - 跟 Karp 第四产程 + Bowlby 安全基地相通
+  - 不"装饰"新生儿房就是保留参照点
+
+related_glossary:
+  - G-PERSON-Montessori
+  - G-PERSON-Lillard
+  - G-PERSON-Jessen
+  - G-TERM-symbiosis-period
+  - G-TERM-topponcino
+  - G-TERM-going-slow
+
+related_cards: []
+
+sources:
+  - source_id: SRC-016
+  - external: Silvana Montanaro AMI 0-3 培训 / Maria Montessori《有吸收力的心灵》
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

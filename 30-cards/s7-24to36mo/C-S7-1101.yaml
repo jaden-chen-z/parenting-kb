@@ -1,0 +1,37 @@
+card_id: C-S7-1101
+stages: [S7]
+tags: [sibling, controversy]
+front:
+  title: 让老大当主助手不当小家长
+  hook: 给职责不甩锅给责任
+back:
+  why_matters: |
+    前情:2-3 岁老大想参与照顾小宝,父母怕给压力。
+    海蒂建议把老大塑造成"重要小助手"——拿尿布、唱歌哄、
+    帮挑衣服。这能给他价值感、转化嫉妒为参与。但绝不能把他当"小家长"——别让他单独看护、别说"你已经是大孩子要懂事让着妹妹"。给职责不等于甩责任。
+  what_to_do:
+    - 给具体小任务"帮拿尿布"
+    - 完成后明确表扬"你帮了大忙"
+    - 别说"你大了要让"剥夺他权利
+    - 别让他独自看小宝(违反 C-S6-1604)
+    - 区分助手任务与家长责任
+  failure_mode: 把老大当免费保姆,让他承担情绪责任("妹妹哭都怪你"),长期心理负担过重出现内化问题。
+  evidence_level: B
+glossary_refs: []
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors: ["Heidi Murkoff", "Sharon Mazel"]
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh: ["莫夏迪", "张敏"]
+  location: "第 25 章 《二胎》, 页 730-732"
+  source_id: "SRC-040"
+related_cards: [C-S7-1100, C-S6-1604]
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

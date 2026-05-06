@@ -1,0 +1,51 @@
+card_id: C-S8-631
+stages: [S8]
+tags: [philosophy, lerner_v1, overton, metatheory, parent_overwhelm]
+
+front:
+  title: "一本一说法的解药"
+  hook: "10 本书 10 派别"
+
+back:
+  why_matters: |
+    中国父母 6 岁前买了 10 本育儿书 — 一本说"延迟满足关键",一本反之,
+    一本说"早期识字关键",一本反对,搞得焦虑。
+    Overton(Lerner V1 Ch 2)解药 — 不是某派对,是 10 本书代表 10 个元立场。
+    每个立场都在自己框架内自洽,不能简单"听专家"。
+    Lerner V1 的整本书目的就是给父母一张"元立场地图" —
+    Karp / 鲍秀兰 / AAP = split 重技巧蒙氏 / RIE / Pikler / Brazelton = relational 重环境关系两派交叉 — 如 Bronfenbrenner / Lerner = relational + ecological 多层意义 — 父母选书的元立场选择 = 你跟书的关系。不是"信哪派",是"用哪派"。
+  what_to_do:
+    - "买书前先看作者立场是哪派"
+    - "split 派 — 适合具体技巧 + 数据"
+    - "relational 派 — 适合环境布置 + 关系"
+    - "中国家庭 — split 给底线 + relational 给气质"
+    - "夫妻偏哪派可以分工 — 但元立场要互相理解"
+  failure_mode: |
+    每本都信全 — 错。不同立场冲突时你会陷入更深焦虑。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Overton
+  - G-PERSON-Lerner
+  - G-TERM-split-metatheory
+  - G-TERM-relational-metatheory
+
+related_cards:
+  - C-S0-1125
+  - C-S6-1165
+  - C-S0-722
+  - C-S8-323
+
+citation:
+  source_id: SRC-030
+  source_title: "Handbook of Child Psychology Vol 1"
+  chapter: "Ch 2 Overton + Lerner V1 卷整体"
+  chapter_offset: 145000
+  chapter_title: 'Overton — Developmental Psychology: Philosophy, Concepts, Methodology (split vs relational metatheory)'
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_followup_needed: 'SRC-030 用 PDF 字节偏移代页码 — 待加 page_pdf 反查工具'

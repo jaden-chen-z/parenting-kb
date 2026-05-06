@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Tronick
+type: person
+display_name: "Tronick(爱德华·特罗尼克)"
+
+full_name_en: "Edward Z. Tronick"
+full_name_zh: "爱德华·特罗尼克"
+
+position: |
+  University of Massachusetts 心理学教授
+
+contribution: |
+  still-face 静止脸实验;母婴互动修复研究
+
+one_liner: |
+  爱德华·特罗尼克 — still-face 静止脸实验;母婴互动修复研究
+
+key_facts:
+  - "本卷章节:Ch 5"
+  - "Lerner V3 命中:26 次"
+  - "学派:Lerner V3 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-027
+    chapter: "Ch 5"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

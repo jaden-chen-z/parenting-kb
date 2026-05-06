@@ -1,0 +1,74 @@
+card_id: C-S8-737
+stages: [S8]
+tags: [classroom_motivation, blumenfeld, lerner_v4]
+
+front:
+  title: TARGET 课堂动机 6 维
+  hook: TARGET 6 维动机
+
+back:
+  why_matters: |
+    Blumenfeld-Marx-Harris V4 Ch 8 学习环境章。
+    **TARGET 框架**(Ames 1992,Blumenfeld 综述):
+    - **T**ask 任务设计:有挑战不死板
+    - **A**uthority 权威分配:学生有选择
+    - **R**ecognition 认可方式:看努力不只看结果
+    - **G**rouping 分组:协作不竞争
+    - **E**valuation 评价:多元不只考试
+    - **T**ime 时间:充足不催赶
+    **反传统课堂**(本章批判):
+    - ❌ 全班统一 task(违反 T)
+    - ❌ 老师全权(违反 A)
+    - ❌ 只表扬"考好"(违反 R)
+    - ❌ 个人座位(违反 G)
+    - ❌ 期末考定终身(违反 E)
+    - ❌ 计时刷题(违反 T 时间)
+    **TARGET 课堂**:
+    - 任务有选择,学生有 voice
+    - 认可努力 + 进步 + 协作
+    - 多元评价(项目 + 演示 + 自评)
+    意义:
+    - 中国课堂 6 维度都偏传统
+    - 改课堂 = 改 6 维度
+    - 父母在家也可应用 TARGET
+    跟现库:跟 V3 Eccles expectancy-value(C-S8-326)+ V3 Kohlberg 道德(待建)对接。
+    对中国家长意义:
+    - 在家给娃选择(几本书选 / 几个游戏选)
+    - 表扬努力不只表扬结果
+    - 协作游戏多过竞赛
+    - 多元评价娃(不只看成绩)
+  what_to_do:
+    - 给娃选择(任务+方式)
+    - 表扬努力不只结果
+    - 协作游戏多过竞赛
+    - 多元评价不只看成绩
+  failure_mode: |
+    "全班统一才公平"— 错。违反 T 任务。
+    "老师说了算"— 错。违反 A 权威。
+    "考分定终身"— 错。违反 E 评价。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Blumenfeld
+  - G-TERM-TARGET-framework
+  - G-PERSON-Ames
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 4 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 4 卷"
+  authors: ['Phyllis C. Blumenfeld', 'Ronald W. Marx', 'Christopher J. Harris']
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 8 · Blumenfeld · TARGET classroom motivation · pp. 297-315"
+  source_id: SRC-029
+
+unit_ids: []
+related_cards:
+  - C-S8-326     # V3 Eccles 成就动机
+  - C-S0-1241     # Boekaerts 自我调节
+  - C-S8-330     # V3 Smetana 道德判断
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

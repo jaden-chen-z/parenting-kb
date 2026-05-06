@@ -1,0 +1,69 @@
+card_id: C-S6-956
+stages: [S6]
+tags: [pikler, free-play, source-de]
+
+front:
+  title: "自由玩 — 大人不替不打断"
+  hook: "不参与才是真陪伴"
+
+back:
+  why_matters: |
+    皮克勒 1969 第 7 章"我们要跟孩子一起玩吗?"整章立场:
+    12-24 月幼儿的"玩"必须是**自由玩**,大人不参与不打断不指导。
+
+    皮克勒反一个常见误读:"那我们该不该跟孩子玩?"
+    皮克勒答:**可以偶尔玩,但不要一直**。
+    父母在场陪伴 + 偶尔回应即可,不要主导玩耍。
+
+    皮克勒三大警示:
+    1. 大人主导玩 = 孩子"被娱乐"模式
+    2. 玩具切换太快 = 孩子不专注
+    3. "教"孩子怎么玩 = 偷走他自己发现的机会
+
+    玛格达把这个立场命名为"不被打断的玩耍"(uninterrupted play,SRC-022)。
+    兰斯伯里第 15 章"7 个玩耍误解"(SRC-019)是英文复述。
+
+    跟中国"陪玩 = 全程参与"完全冲突 — 皮克勒立场:
+    **在场比参与重要 / 安静比说话重要**。
+
+  what_to_do:
+    - 12-24 月每天累计 1-2 小时自由玩(他独立 + 大人在场)
+    - 不主动加入 — 看他玩什么 / 不评论
+    - 不说"我们一起搭积木好不好"(干扰)
+    - 玩具 1-2 个 — 不切换不收走
+    - 他求助再回应 — 但不替做完
+
+  failure_mode: |
+    "陪玩才能促进发展啊,我看的早教视频" → 皮克勒反:
+    那种"陪玩" = 大人主导 + 孩子被动配合,不是真玩。
+    真玩是孩子自主 + 沉浸,大人是观众,不是导演。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Pikler
+  - G-TERM-pflege-vs-spiel
+  - G-TERM-passive-toys
+
+citation:
+  book_title_de: "Friedliche Babys – zufriedene Mütter"
+  book_title_zh: "和平的婴儿 — 满足的母亲"
+  authors:
+    - Emmi Pikler
+  publisher_de: HERDER (HERDER / SPEKTRUM Band 4141)
+  year: 1969
+  location: "Ch7 Spielen wir mit dem Kind? pp. 159-176"
+  source_id: SRC-026
+
+unit_ids: []
+related_cards:
+  - C-S3-839  # Pikler 玩具堆反而不会玩(本卷)
+  - C-S4-837  # Pikler Pflege vs Spiel 二分(本卷)
+  - C-S3-295  # Lansbury 被动玩具 + 主动孩子
+  - C-S0-167  # Magda 7 大育儿原则
+  - C-S6-461  # Gerber 幼儿不需要被教
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,58 @@
+card_id: C-S1-094
+stages: [S1]
+tags: [safety, red_flag, controversy]
+
+front:
+  title: 出生当日打 Vit K — 防致命脑出血
+  hook: 拒打风险 > 注射本身
+
+back:
+  why_matters: |
+    新生儿 Vit K 储备低 + 母乳含量极低 → **1/10000 风险晚发性 Vit K 缺乏出血(VKDB)**,
+    其中 **50% 是颅内出血** → 致命/终身残疾。
+    **AAP/WHO 推荐**:出生当日肌注 1mg(预防有效率 99%+)。
+    "口服替代"研究证据弱,AAP **不推荐**(口服需多次 + 吸收差 + 漏服易)。
+    部分自然分娩 / 反疫苗家长拒打,但 **VKDB 风险远 > 注射风险**:
+    - 注射风险:疼痛 + 极少数局部反应(<1/百万)
+    - VKDB 风险:1/10000 + 50% 颅内出血 + 50%+ 致命/严重残疾
+    **关键时间窗**:晚发性 VKDB 多发生在 2-12 周,早期完全无症状。
+    一旦出血已晚 — 脑损伤不可逆。
+  what_to_do:
+    - 出生当日(产房)**接受肌注 1mg**(中美标准操作)
+    - 早产儿 / 母亲服抗惊厥药 / 阻塞性黄疸 → **必须打,不能省**
+    - 母乳建议同时给妈妈补 Vit K1(食物 + 补充剂)
+    - 拒打前先看产科医生 + 评估个人风险
+    - 注意拒打后 2-12 周需高度警惕:不明原因瘀伤 / 鼻血 / 便血 / 哭闹烦躁 → **立刻就医**
+  failure_mode: |
+    听网传"自然主义"拒打 → 罕见但致命的 VKDB 风险翻倍以上;
+    选口服替代 → 保护率明显低 + 家长漏服风险;
+    "我家宝宝不会得" — 错。VKDB 完全无法预测,任何健康宝宝都可能;
+    出生后 2-12 周不明瘀伤忽视 → 错过治疗窗。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-AAP
+  - G-ABBR-WHO
+
+citation:
+  page_title: "Vitamin K and the Newborn"
+  publisher: American Academy of Pediatrics
+  portal: HealthyChildren.org
+  policy_basis: "AAP Committee on Fetus and Newborn — Vitamin K Policy 2003 (reaffirmed 2018)"
+  page_url_primary: https://www.healthychildren.org/English/ages-stages/baby/Pages/Where-We-Stand-Vitamin-K.aspx
+  accessed: 2026-05-03
+  language: en
+  location: "Vitamin K Recommendations + WHO Recommendations on Newborn Health"
+  source_id: SRC-008
+
+unit_ids: []
+related_cards:
+  - C-S1-091       # 黄疸识别(同期出生当日操作)
+  - C-S1-093       # 新生儿筛查
+  - C-S1-2500       # 第一次儿保 3 节点
+  - C-S1-061       # AAP 急诊 8 项
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

@@ -1,0 +1,56 @@
+card_id: C-S6-467
+stages: [S6]
+tags: [discipline, no-time-out, controversy]
+
+front:
+  title: "不用 Time-out"
+  hook: "罚他出去等于剥离"
+
+back:
+  why_matters: |
+    Magda 经典反 time-out 名言:
+    "Time out of what — life?"(出什么 — 生命吗?)
+    Time-out = 行为跟惩罚不相关 = 孩子学不到"为什么不能"。
+    Magda 案例:RIE 班一男孩自己反复去 time-out 椅 —
+    自己学会了"惩罚自己"。
+    1987 加州法律:2 岁以下托儿所不许 time-out。
+    Lansbury Ch22 复述,Magda 是源头。
+
+  what_to_do:
+    - 不用 time-out 椅 / 罚站 / 关小黑屋
+    - 替代:连接性后果("你扔饭饭就拿走")
+    - 一边跟他在,一边讲限度("我不让你打妹妹")
+    - 暴怒等过去后正面谈话,不"惩罚"
+    - 把"罚"心态换成"教 + 守限度"心态
+
+  failure_mode: |
+    "罚站 5 分钟反思一下" → 他反思的只有"妈妈不爱我了"。
+    Magda 原话:"留在生命里教他怎么做更好,不是切出去"。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+
+citation:
+  book_title_en: "Your Self-Confident Baby"
+  book_title_zh: "自信的宝宝"
+  authors:
+    - Magda Gerber
+    - Allison Johnson
+  publisher_en: John Wiley & Sons
+  year: 1998
+  location: "Ch8 What about Time-out?(整节)"
+  source_id: SRC-022
+
+unit_ids: []
+related_cards:
+  - C-S6-403  # Lansbury 限度+情绪并存
+  - C-S6-465  # Magda 自律自己接管(本卷)
+  - C-S6-192  # Lillard No 永远 No
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

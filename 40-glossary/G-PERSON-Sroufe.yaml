@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Sroufe
+type: person
+display_name: "Sroufe(阿兰·斯鲁夫)"
+
+full_name_en: "L. Alan Sroufe"
+full_name_zh: "阿兰·斯鲁夫"
+
+position: |
+  University of Minnesota 心理学教授
+
+contribution: |
+  Minnesota 30+ 年纵向研究;依恋长期预测力
+
+one_liner: |
+  阿兰·斯鲁夫 — Minnesota 30+ 年纵向研究;依恋长期预测力
+
+key_facts:
+  - "本卷章节:Ch 2"
+  - "Lerner V3 命中:114 次"
+  - "学派:Lerner V3 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-027
+    chapter: "Ch 2"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

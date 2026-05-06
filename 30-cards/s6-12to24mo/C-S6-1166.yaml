@@ -1,0 +1,68 @@
+card_id: C-S6-1166
+stages: [S6]
+tags: [cognitive_science, fast_mapping, lerner_v2]
+
+front:
+  title: 一次见过就学会词
+  hook: 24 月的快速映射
+
+back:
+  why_matters: |
+    Carey/Bartlett 1978 + Markson/Bloom 1997 经典(Lerner V2 Ch7)。
+    实验:
+    - 给 24 月宝宝看 2 个物品(熟物 + 陌生物)
+    - 说"chromium"(陌生词)— **只一次**
+    - 1 周后再问"chromium 在哪"
+    - 50%+ 宝宝答对 — 一次接触就学会意义:
+    - **Fast mapping = 一次接触,词→物建立快速映射**
+    - 这是词汇爆炸的算法基础(没有 fast mapping,词汇要慢慢学不会爆炸)
+    - 跟 Markman 3 约束配合 = 一次见 + 自动锁定 + 长期记忆
+    - V2 综述:fast mapping 的实证已经稳固
+    Bloom 立场:
+    - 24 月每天学 4-10 词
+    - 词汇爆炸时期,fast mapping 是主要机制
+    - 不需要反复教跟现库:G-TERM-fast-mapping 已建,V2 给最经典实验综述。
+    跟 Lillard 12-24 月词汇爆炸对接。
+    对中国家长意义:
+    - 18-24 月一次说出新词 — 孩子可能就学了
+    - 不必"反复教 100 次"
+    - 重要的不是次数,是质量(指 + 物 + 词同步)
+    - 不必焦虑漏教 — 偶尔遇到也能学
+  what_to_do:
+    - 18-24 月在生活中自然命名(看,挖掘机)
+    - 不必反复重复(一次能学)
+    - 配合"指 + 物 + 词"同步
+    - 路上遇陌生物,即兴命名(都能学)
+  failure_mode: |
+    "教词必须重复 50 次" — 错。一次能学。
+    "宝宝词汇少 = 教不够" — 错。可能输入多样性不够。
+    "Fast mapping 是天才才有" — 错。是普遍机制。
+  evidence_level: B
+
+glossary_refs:
+  - G-TERM-fast-mapping
+  - G-TERM-language-explosion
+  - G-PERSON-Markman
+  - G-PERSON-Bloom
+  - G-PERSON-Carey
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 2 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 2 卷"
+  authors: ["Sandra R. Waxman", "Jeffrey L. Lidz"]
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 7 · Fast mapping · pp. 304-307"
+  source_id: SRC-028
+
+unit_ids: []
+related_cards:
+  - C-S6-1164     # Markman 3 约束
+  - C-S6-1165     # 互斥约束
+  - C-S6-1167     # 词汇爆炸(下一张)
+  - C-S6-018       # Lillard 词汇爆炸
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

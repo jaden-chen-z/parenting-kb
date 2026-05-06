@@ -1,0 +1,74 @@
+card_id: C-S6-926
+stages: [S6]
+tags: [shonkoff, nrc, hart_risley, vocabulary_gap, china_high_freq]
+
+front:
+  title: "30M 词汇差距"
+  hook: "穷富娃听到的词差倍"
+
+back:
+  why_matters: |
+    NRC 综述 Ch 6 引 Hart-Risley 1995 经典 — "30 million words gap":
+    **Hart-Risley 实验**(美国堪萨斯城,42 个家庭 30 月跟踪):
+    - 录音 0-3 岁宝宝跟父母对话
+    - 累计每个孩子从父母听到的词数
+    **数据**(NRC 综述):
+    - 高 SES 家庭(专业人士)→ **累计 4500 万词**
+    - 中 SES 家庭(劳工)→ **累计 2000 万词**
+    - 低 SES 家庭(领救济)→ **累计 1500 万词**
+    - **30 million words 差距** = 高 SES vs 低 SES
+    **更深层差异**(NRC 校准):
+    - 不只是**词数**差距
+    - 还是**对话类型**差距:
+      - 高 SES:更多 "encouragement"(肯定 / 详述 / 提问)
+      - 低 SES:更多 "discouragement"(命令 / 禁止 / 简短)
+    - 词数 + 对话质量 → 共同决定 3 岁词汇量
+    - 3 岁词汇量 → 强预测 3-9 岁阅读能力 + IQ
+    **NRC 立场**:
+    - 这是 sensitive period 投资的最强证据之一
+    - 但**校准**:30M 词数是表面,深层是"对话型互动"
+    - 有钱不等于多对话(高 SES 也可不对话)
+    - 没钱不等于不能对话(低 SES 也可多对话)
+    **对中国家长**:
+    - 多说话 + 多回应 + 多详述 = 30M 词数足够
+    - 不需特别"语言开发课"
+    - 关键是**日常对话的质量** — 不只是数量
+    - 边做家务边说"你看妈妈在切菜 — 这是黄瓜 — 黄瓜是绿的"
+    - 命令型("快吃 / 别动")< 对话型("你想吃这个吗 — 来 — 我帮你 — 慢慢来")
+  what_to_do:
+    - 日常多说多详述
+    - 多问宝宝多等回应
+    - 命令式改对话式
+    - 描述你在做什么
+    - 不需"语言班"补
+  failure_mode: |
+    "我家穷 — 孩子词汇会落后" — 错,关键是对话质量 + 数量,跟收入挂钩弱。
+    "高 SES 家庭一定多对话" — 错,有些高 SES 父母也忙得不说话。
+    "我多说就行" — 单方独白 ≠ 对话型互动 — 多问 + 等回应。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Shonkoff
+  - G-PERSON-Hart-Risley
+  - G-TERM-30-million-words
+  - G-TERM-NRC
+
+citation:
+  book_title_en: "From Neurons to Neighborhoods"
+  authors: ["Jack P. Shonkoff", "Deborah A. Phillips"]
+  org: "NRC/IOM"
+  year_en: 2000
+  location: "Ch 6 · Hart-Risley vocabulary gap (1995)"
+  source_id: SRC-025
+
+unit_ids: []
+related_cards:
+  - C-S5-908    # Shonkoff child-directed(本卷)
+  - C-S4-807    # Shonkoff parentese(本卷)
+  - C-S5-295    # Stern intersubjectivity SRC-018
+  - C-S6-186    # Lillard follow the child SRC-016
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

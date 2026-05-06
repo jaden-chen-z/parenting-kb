@@ -1,0 +1,83 @@
+card_id: C-S0-622
+stages: [S0]
+tags: [shonkoff, nrc, six_principles, framework]
+
+front:
+  title: "NRC 6 条育儿铁律"
+  hook: "整本书就这 6 句话"
+
+back:
+  why_matters: |
+    NRC 综述 Ch 14 总结 600 页研究,提炼 **6 条核心原则**给育儿和政策:
+    **1. 全人原则(Whole Child)**:发展不分模块 — 认知 / 情感 / 社交 / 身体相互交织,
+       不能"补这块漏那块"。
+    **2. 时机原则(Timing Matters)**:发展轨迹有特定时机 — 早期错过性价比降但不是没救,
+       sensitive period 是最佳投资点。
+    **3. 自主能动(Active Learner)**:婴儿不是被动容器,是主动建构者 — 跟 Gopnik /
+       Lillard / 蒙氏 / RIE 一致。
+    **4. 文化是发展环境**:不是修饰是底色 — 同一行为在不同文化下意义不同(eg 母婴同睡)。
+    **5. 关系核心(Relationships Central)**:早期关系是发展的最强预测因子 — 跟 Bowlby /
+       Ainsworth / Stern 共识。
+    **6. 多重适应路径**:孩子能在多种育儿风格下健康发展 — 没有"唯一正确"育儿法。
+    **对中国家长**:
+    - 别买"开发某模块"课程(违反原则 1)
+    - 0-3 多投入但 4+ 也别放弃(原则 2)
+    - 别"教"宝宝学,陪他自己学(原则 3)
+    - 别照搬美式 / 日式育儿,本土文化也有效(原则 4)
+    - 别忙得没时间陪(原则 5)
+    - 别比"我家不用某派"(原则 6)
+    NRC 综述权威立场 — 600 页研究浓缩成这 6 条。
+  what_to_do:
+    - 整体看孩子不分模块
+    - 0-3 多投入 4+ 也持续
+    - 让孩子主动不强教
+    - 信本土文化育儿
+    - 关系优先于"教"
+  failure_mode: |
+    "我得每个能力都开发到位" — 违反原则 1(全人不分模块)。
+    "孩子 4 岁了完了 — 我做错了什么" — 违反原则 2(性价比降不是没救)。
+    "我得规划好他每一步" — 违反原则 3(他是主动学习者不是容器)。
+    "美式 / 日式才科学" — 违反原则 4(文化是底色不是修饰)。
+  evidence_level: A
+
+  positions:
+    issue: 0-3 岁需要哲学结构(蒙氏 prepared)还是科学共识(NRC 6 原则)
+    views:
+      - school: Shonkoff / NRC
+        source: SRC-025
+        stance: 6 大原则(全人 / 时机 / 自主能动 / 文化 / 关系 / 多重适应),反对单一结构强加,给"科学校准底盘"。
+      - school: Lillard(蒙氏)
+        source: SRC-016
+        stance: prepared environment + 教具序列 + 4 plane of development 哲学结构,给"具体实操结构"。
+      - school: Davies
+        source: SRC-014
+        stance: 蒙氏 0-1 岁实操(floor bed / topponcino 等),实操优先,哲学不僵化。
+      - school: Lansbury / RIE
+        source: SRC-019
+        stance: 自由探索,反对结构化干预;父母提供安全 + 不打扰即可。
+      - school: 互补结论
+        stance: NRC 跟蒙氏可同时用 — 蒙氏给实操,NRC 给科学校准;NRC 反"过度结构化"非反 prepared 本身。
+glossary_refs:
+  - G-PERSON-Shonkoff
+  - G-TERM-NRC
+  - G-TERM-sensitive-periods
+
+citation:
+  book_title_en: "From Neurons to Neighborhoods"
+  authors: ["Jack P. Shonkoff", "Deborah A. Phillips"]
+  org: "NRC/IOM"
+  year_en: 2000
+  location: "Ch 14 Conclusions and Recommendations · 6 core principles"
+  source_id: SRC-025
+
+unit_ids: []
+related_cards:
+  - C-S0-013    # Lillard 蒙氏 SRC-016
+  - C-S7-125    # Gopnik 反早教 SRC-015
+  - C-S0-517    # 松田不焦虑 SRC-024
+  - C-S0-018    # Stern reality tester SRC-018
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

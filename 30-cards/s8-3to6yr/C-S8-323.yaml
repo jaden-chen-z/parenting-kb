@@ -1,0 +1,48 @@
+card_id: C-S8-323
+stages: [S8]
+tags: [parke, divorce_impact, lerner_v3]
+
+front:
+  title: "离婚不是创伤定式"
+  hook: "冲突比离婚更伤娃"
+
+back:
+  why_matters: |
+    Parke(Ch 8)+ Hetherington 综述 — 离婚不一定伤娃,关键是冲突管理。
+    数据 — 父母低冲突离婚的孩子比高冲突维持婚姻的孩子心理健康。
+    伤的不是法律状态,是持续暴露在敌意。一句话 — 真要离别为娃留婚姻,留也别敌意。
+  what_to_do:
+    - "决定离了别拿娃当筹码"
+    - "前任面前不说他坏"
+    - "不让娃站队"
+    - "维持 2 个家可预测性"
+    - "告诉娃不是他的错(反复说)"
+  failure_mode: |
+    "为孩子忍" — 维持高冲突婚姻反而最伤娃。
+    Hetherington — 暴露在敌意比离婚法律状态伤害大。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Parke
+  - G-PERSON-Hetherington
+  - G-TERM-divorce-impact
+
+related_cards:
+  - C-S8-100      # 松田反体罚
+  - C-S8-211      # Shonkoff 贫困
+  - C-S8-104      # 松田 IQ 测试
+  - C-S7-864      # Shonkoff 主要照护别变
+
+citation:
+  source_id: SRC-027
+  source_title: "Handbook of Child Psychology Vol 3"
+  chapter: "Ch 8 Parke — Divorce"
+  chapter_offset: 2475372
+  chapter_title: 'Parke & Buriel — 家庭社会化(种族 + 生态)'
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_followup_needed: 'SRC-027 用 PDF 字节偏移代页码 — 待加 page_pdf 反查工具'

@@ -1,0 +1,62 @@
+card_id: C-S6-183
+stages: [S6]
+tags: [cognitive_science, language, baby_scientist]
+
+front:
+  title: 宝宝词义创造不照搬
+  hook: 不必逼他"说对"
+
+back:
+  why_matters: |
+    Gopnik 在 Oxford 长期录音 18 月宝宝词义,发现:
+    宝宝**不照搬**大人词义,而是**主动重组**用法。
+    经典例子:
+    - "gone"(没了)— 大人指食物吃完;宝宝指**任何消失**(藏起来 / 翻到下页 / 妈妈出门)
+    - "uh-oh"— 大人指失败;宝宝指**任何不顺**
+    - "doggie"— 宝宝指**任何动物**(蚂蚁到斑马都叫狗狗)
+    - "moon"— 宝宝指月亮 + 灯 + 橘子 + 月牙形指甲
+    Gopnik 解读:这不是"学错"— 是宝宝在用现有词解决"我现在需要表达 X"的问题。
+    词义随认知发展**逐渐分化** — 不需要纠正。
+    "doggie 指所有动物"= 宝宝把它当"动物"分类标签 — 这是认知突破,不是错误。
+    经过 fast mapping 反复迭代,词义自然精准化。
+    对中国家长意义:
+    - 宝宝把所有车叫"汽车" — 不要立刻"那是卡车不是汽车"
+    - 宝宝创造组合词("吃水水"指喝水)— 是创造,不是错
+    - 给词时**示范**正确用法,不"纠正"错用
+    - 词义会自己分化,不必抢着"教对"
+    一句话:**宝宝不是词典使用者,是词典制造者**。
+  what_to_do:
+    - 宝宝词义"错"了不要立刻纠正
+    - 用正确词造句示范("对,那是卡车,卡车比汽车大")
+    - 不嘲笑或否定他的创造词
+    - 信任他的词义会自己分化精准
+  failure_mode: |
+    "他叫错了我得纠正" — 错。词义分化是认知发展,不是教正确。
+    "汽车不是卡车,你说错了" — 否定他的分类尝试。
+    用枯燥认字卡"教对"— 反而打断 fast mapping 自然流程。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Gopnik
+  - G-TERM-baby-scientist
+  - G-TERM-statistical-learning
+
+citation:
+  book_title_en: "The Scientist in the Crib"
+  book_title_zh: "摇篮里的科学家"
+  authors: ["Alison Gopnik", "Andrew N. Meltzoff", "Patricia K. Kuhl"]
+  publisher_en: William Morrow
+  year: 1999
+  location: "Chapter 4 · The First Words (Henry's gone / Oxford fieldwork)"
+  source_id: SRC-015
+
+unit_ids: []
+related_cards:
+  - C-S6-182       # 命名爆发(同主题)
+  - C-S5-182       # 1 岁 fast mapping
+  - C-S6-181       # blicket detector(同 baby scientist 主题)
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

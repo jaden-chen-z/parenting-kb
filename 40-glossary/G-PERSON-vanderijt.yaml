@@ -1,0 +1,59 @@
+glossary_id: G-PERSON-vanderijt
+type: person
+display_name: van de Rijt
+
+full_name_en: Hetty van de Rijt
+full_name_zh: 海蒂·凡德里特
+
+one_liner: |
+  荷兰发展心理学家(1942-2019),Wonder Weeks 共同发现者,剑桥大学博士。与丈夫 Frans Plooij 35 年合作记录婴儿大脑跃迁规律。
+
+detail: |
+  ## 个人背景
+  - 1942-2019,荷兰
+  - 剑桥大学(Cambridge University)教育心理学博士
+  - 丈夫 Frans X. Plooij,毕生科研搭档
+  - 师承 Niko Tinbergen(诺贝尔生理学奖动物行为学家)
+  - 与 Jane Goodall 在坦桑尼亚 Gombe 黑猩猩研究站合作
+
+  ## 主要贡献
+  ### 1. Wonder Weeks(婴儿大脑跃迁周)
+  - 1992 年荷兰文初版,英译多版本
+  - 提出 0-20 月(0-75 周)10 个可预测的"心智跃迁"时间表
+  - 每个跃迁前 1-3 周宝宝出现 fussy phase(3 C's:Crying/Clinging/Cranky)
+
+  ### 2. 灵长类研究背景
+  - 把动物行为学方法(自然观察 + 录像 + 母婴互动评分)迁移到人类婴儿
+  - 与 Plooij 共同建立"婴儿大脑跃迁 = 短暂行为崩盘 → 新能力上线"模型
+
+  ### 3. 神经科学验证
+  - 10 个跃迁中 6 个有独立 EEG / 大脑电活动研究支持
+  - 跨文化验证:荷兰 / 西班牙 / 瑞典 / 美国均观察到相同时间表
+
+  ## 在本知识库中
+  - SRC-013(Wonder Weeks)主作者
+  - 与 G-PERSON-Brazelton(触摸点)概念邻近 — Brazelton 在 Wonder Weeks 序中直接背书
+
+key_facts:
+  - 1942-2019,荷兰发展心理学家
+  - 剑桥大学博士,师承 Tinbergen
+  - 与 Plooij 35 年合作研究
+  - Wonder Weeks 1992 提出 10 跃迁
+  - 跨文化 + 神经科学双重验证
+
+related_glossary:
+  - G-PERSON-plooij
+  - G-PERSON-Brazelton
+  - G-TERM-wonder-week
+  - G-TERM-mental-leap
+
+related_cards: []
+
+sources:
+  - source_id: SRC-013
+  - external: "TheWonderWeeks.com / Cambridge University records / 综合发展心理学史"
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

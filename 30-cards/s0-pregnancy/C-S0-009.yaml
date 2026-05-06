@@ -1,0 +1,62 @@
+card_id: C-S0-009
+stages: [S0]
+tags: [montessori, prenatal, environment, simplicity, philosophy]
+
+front:
+  title: 蒙氏宝宝起步装清单
+  hook: 9 件物搞定一年
+
+back:
+  why_matters: |
+    蒙氏立场:**宝宝不需要那么多东西**。
+    现代育儿市场建议买 100+ 件:婴儿床 / 推车 3 辆 / 哺乳枕 / bouncer / 学步车 / 摇椅 / 玩具堆山。
+    Davies + Junnifa 出过的"蒙氏起步装"(at-home starter set)只有 9 样,核心 7 件:
+    1. **topponcino**(蒙氏小毯)
+    2. **cestina**(摩西篮 0-3 月睡)
+    3. **低床垫**(floor bed,3 月+)
+    4. **动作毯**(movement mat)
+    5. **低镜子**(横挂动作区)
+    6. **mobile 挂钩**
+    7. **低货架**(放 5-6 个活动)
+    省下的钱可以买更高质量 / 更天然版本(实木 / 纯棉 / 真镜)。
+    多余物品:bouncer / playpen / 高 chair / 学步车 / jumper — **蒙氏不主张**。
+  what_to_do:
+    - 列清单,只买核心 7-9 件
+    - 推车 1 辆够,挑能折叠 + 仰卧的
+    - 不囤 0-3 月衣服(长得快)
+    - 不买电池玩具(会唱会闪那种)
+    - 月嫂 / 家人帮忙做家务,把钱投这里
+  failure_mode: |
+    "宝宝这么多东西要用,囤好怕不够" — 80% 用 1-2 次就闲置,占空间+预算双输。
+    "进口才是蒙氏" — 错。淘宝自缝 topponcino + 二手实木家具 + 真碗真勺 = 90% 蒙氏效果。
+    买太多反而违反"少即是多"的吸收性心智原则,环境堆物宝宝难专注。
+  evidence_level: C
+
+glossary_refs:
+  - G-PERSON-Davies
+  - G-TERM-prepared-environment
+  - G-TERM-topponcino
+  - G-TERM-floor-bed
+  - G-TERM-absorbent-mind
+
+citation:
+  book_title_zh: "蒙特梭利的小宝宝(0-1岁)"
+  book_title_en: "The Montessori Baby"
+  authors: ["Simone Davies", "Junnifa Uzodike"]
+  authors_zh: ["西蒙·戴维斯", "君妮法·乌佐迪克"]
+  publisher_en: "Workman Publishing"
+  year_en: 2021
+  isbn_en: "978-1-5235-0693-7"
+  location: "Chapter 4 · Setting Up the Home > Babies do not need that much"
+  source_id: SRC-014
+
+unit_ids: []
+related_cards:
+  - C-S0-002       # Brazelton 准备父母
+  - C-S0-007       # Brazelton 孕末调心态
+  - C-S1-014       # Karp 不囤教具
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

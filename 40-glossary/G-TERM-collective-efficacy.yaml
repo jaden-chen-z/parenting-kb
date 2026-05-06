@@ -1,0 +1,60 @@
+glossary_id: G-TERM-collective-efficacy
+type: term
+display_name: collective efficacy 集体效能
+
+en_term: collective efficacy
+zh_term: 集体效能 / 邻里凝聚力
+
+one_liner: |
+  Sampson-Raudenbush-Earls 1997 经典 — 邻里"社会凝聚 + 非正式社会控制"组合的能力。
+  即"邻居互信 + 共同价值 + 互相监督孩子的能力"。
+  跟邻里暴力 / 犯罪 / 凶杀负相关 — 即便控制人口构成 + 历史犯罪。
+  NRC 综述 Ch 12 引为最重要的"邻里 → 育儿"传递机制。
+
+detail: |
+  ## 概念由来
+  - Robert Sampson + Stephen Raudenbush + Felton Earls 1997 Science 发表
+  - 芝加哥邻里研究项目(PHDCN)的核心发现
+  - Earls 是 NRC 综述 17 人委员会成员
+
+  ## 2 个组成部分
+  1. **social cohesion 社会凝聚**:邻居互信 + 共享价值观
+  2. **informal social control 非正式社会控制**:邻居能监督 / 干预年轻人 / 维护秩序
+
+  ## 关键发现
+  - 高 collective efficacy 邻里 → 暴力 + 犯罪 + 凶杀显著低
+  - 这关系不被人口构成 / 历史犯罪解释 — 是独立因子
+  - 即便低收入邻里,只要 collective efficacy 高 → 安全
+
+  ## NRC 综述中的含义
+  - 不是"邻里富不富"决定孩子安全
+  - 是"邻居互相帮 + 互相监督"决定
+  - 中产邻里若邻居互不认识 → 低 collective efficacy → 安全感反低
+  - 低收入邻里若邻居紧密互助 → 高 collective efficacy → 安全感高
+
+  ## 对家长含义
+  - 选邻里看"邻居关系"不只是"收入水平"
+  - 主动跟邻居建关系 → 提升你家邻里 collective efficacy
+  - 中国传统"邻居互助" 跟 collective efficacy 高度一致 — 是文化优势
+  - 城市化 / 高层公寓 → 削弱 collective efficacy
+
+key_facts:
+  - Sampson-Raudenbush-Earls 1997
+  - 社会凝聚 + 非正式控制
+  - 邻里安全的最强预测因子
+  - NRC Ch 12 核心概念
+
+related_glossary:
+  - G-PERSON-Shonkoff
+  - G-TERM-NRC
+
+related_cards: []
+
+sources:
+  - source_id: SRC-025
+  - external: Sampson-Raudenbush-Earls 1997 Science
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

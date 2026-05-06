@@ -1,0 +1,54 @@
+card_id: C-S1-1002
+stages: [S1]
+tags: []
+
+front:
+  title: "BFHI 10 步骤"
+  hook: "10 步看完心里有底"
+
+back:
+  why_matters: |
+    BFHI(Baby-Friendly Hospital Initiative,母婴友好医院倡议)1991 WHO+UNICEF 启动,2018 修订。
+    10 步分两组:关键管理(1a/1b/1c/2)+ 关键临床(3-10)。
+    关键管理:遵 Code / 书面政策 / 监测系统 / 员工训练。
+    关键临床:产前讨论 / 立即肌肤接触 / 持续支持 / 仅医学指征补充 / 24h 同室 / 反馈信号 / 警告奶瓶 / 出院衔接。
+    全球 152+ 国 15,000+ 家医院 BFHI 认证。中国 6,000+ 爱婴医院。
+    2016 系统综述(58 项研究)证实:遵守 10 步 → EBF 启动率/纯母乳率/总时长全提高。
+  what_to_do:
+    - "选产院前看 BFHI 10 步原文"
+    - "认证医院 ≠ 一定守 — 实操参差"
+    - "看到偏离 10 步的实操 → 自己坚持"
+    - "母乳建立期(0-4 周)是 10 步关键期"
+    - "出院衔接(第 10 步)— 找社区/居家母乳支持"
+  failure_mode: |
+    把 BFHI 当 '认证名号' → 不知道实操标准,被产院流程裹挟。
+    10 步具体化,值得记。
+  evidence_level: A
+
+glossary_refs:
+  - G-TERM-BFHI-10-steps
+  - G-ABBR-BFHI
+
+citation:
+  page_title: "BFHI 2018 Revised 10 Steps"
+  publisher: "World Health Organization & UNICEF"
+  page_url_primary: https://www.who.int/teams/nutrition-and-food-safety/food-and-nutrition-actions-in-health-systems/ten-steps-to-successful-breastfeeding
+  accessed: 2026-05-04
+  language: en
+  location: "BFHI 10 步骤完整:关键管理 4 步 + 关键临床 7 步"
+  source_id: SRC-031
+
+unit_ids: []
+related_cards:
+  - C-S0-1025
+  - C-S1-1003
+  - C-S1-1005
+  - C-S1-050
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_doc_id_pending: D2
+citation_followup_needed: '已映射真实 doc_id (D2 = BFHI Ten Steps 2018)'

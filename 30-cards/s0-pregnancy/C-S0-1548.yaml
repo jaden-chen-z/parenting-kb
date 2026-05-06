@@ -1,0 +1,52 @@
+card_id: C-S0-1548
+stages: ['S0']
+tags: ['philosophy', 'lerner_v1', 'valsiner', 'helix_development', 'time_irreversibility']
+
+front:
+  title: "螺旋发展非循环"
+  hook: "不会回到过去状态"
+
+back:
+  why_matters: |
+    Valsiner Ch 4 给"helix"螺旋模型 — 发展不是直线也不是循环。
+    "看似回到过去状态"(eg 退步 / 退行)实际不是回到 — 是螺旋上升中相似但更高位置。
+    原因 — 时间不可逆(irreversibility),每个新状态都是独特的。
+    意义 — 中国家长 "她又退回去了"立场是循环论错觉。
+    - 5 岁的"分离焦虑"≠ 1 岁的分离焦虑(更高级版本,认知更复杂)
+    - 7 岁的"叛逆"≠ 2 岁的叛逆(autonomy 期 vs identity 期)
+    - 老人"回归童心"≠ 真童心(经历过完整人生的人玩耍是不同质的)
+    意义 — 看似退步要看高位含义 — 螺旋上升中的低点,不是真退。
+  what_to_do:
+    - "'她又退回去了' → 看是不是螺旋上升的相似点"
+    - "不同年龄分离焦虑性质不同"
+    - "不同年龄叛逆性质不同"
+    - "时间不可逆 — 不会真回到过去"
+    - "螺旋视角 = 看高位不只看表象"
+  failure_mode: |
+    "循环论"看发展(回到过去) — 错。螺旋上升每个状态独特。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Valsiner
+  - G-TERM-helix-development
+  - G-TERM-emergence
+
+related_cards:
+  - C-S0-1546
+  - C-S0-1547
+  - C-S2-1504
+  - C-S0-722
+
+citation:
+  source_id: SRC-030
+  source_title: "Handbook of Child Psychology Vol 1: Theoretical Models of Human Development"
+  chapter: "Ch 4 Valsiner"
+  chapter_offset: 1050000
+  chapter_title: 'Valsiner — Culture in Human Development'
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_followup_needed: 'SRC-030 用 PDF 字节偏移代页码 — 待加 page_pdf 反查工具'

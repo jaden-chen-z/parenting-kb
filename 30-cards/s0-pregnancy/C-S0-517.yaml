@@ -1,0 +1,58 @@
+card_id: C-S0-517
+stages: [S0]
+tags: [philosophy, mindset, japan, matsuda, controversy]
+
+front:
+  title: "新手妈不靠信心靠经验"
+  hook: "信心是带出来的"
+
+back:
+  why_matters: |
+    松田 §1 开篇就破"我能当好妈妈吗"的焦虑：
+    没人下过水会对游泳有信心。
+    妈妈不需要事先掌握全套育儿知识，
+    1 月时只需懂 1 月的事，4 月时把 1 月的全忘了也行。
+    "过于自信的父母不是好父母"，跟孩子一起成长才是。
+    这是松田全书底色 — 不焦虑育儿(あせらない育児)。
+
+  what_to_do:
+    - 不囤无穷育儿书，看现阶段就够
+    - 问题来了再查，不预演灾难
+    - 一岁前的事不必背一辈子
+    - 听一种声音就够，不开 5 个微信群
+    - 跟孩子一起长，不装专家
+
+  failure_mode: |
+    很多新手妈逼自己"开门红"：怀孕就报班、买全套、记笔记、
+    比对每月发育表 — 焦虑反而压垮喂奶亲密。
+    松田说"摆脱疾病困扰，享受做母亲的快乐"，
+    意思是先放下"我必须做对"，才能真看见孩子。
+
+  evidence_level: C
+
+glossary_refs:
+  - G-PERSON-Matsuda
+  - G-TERM-asenai-ikuji
+
+citation:
+  book_title_zh: "定本育儿百科"
+  book_title_ja: "定本育児の百科"
+  authors:
+    - 松田道雄
+  translator_zh: 王少丽
+  publisher_ja: 岩波书店
+  year_first_edition: 1967
+  year_definitive: 1980
+  location: "§1 能当好妈妈吗"
+  source_id: SRC-024
+
+unit_ids: []
+related_cards:
+  - C-S1-076  # Brazelton 父母焦虑是好东西 — 跨文化共鸣
+  - C-S0-001  # Brazelton 第一次产检从孕 7 月开始
+  - C-S6-138  # Davies 蒙氏父母先照顾自己
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

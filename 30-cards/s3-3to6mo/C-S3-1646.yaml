@@ -1,0 +1,56 @@
+card_id: C-S3-1646
+stages: ['S3']
+tags: ['emotional', 'lerner_v1', 'thelen', 'fischer', 'emotion_emergence']
+
+front:
+  title: "情绪是 4 月开始分化"
+  hook: "从混乱到清晰分化"
+
+back:
+  why_matters: |
+    4-6 月是情绪 differentiation(分化)关键阶段 —
+    - 出生:globally aroused(笼统兴奋 / 苦恼)
+    - 4 月:开始分化 — 高兴 / 害怕 / 生气 / 惊讶 (基本情绪显现)
+    - 6 月:对人 vs 物反应不同(社会情绪起步)
+    Werner 正交原则 + Fischer dynamic skill + Thelen self-organization 三视角合一 —
+    情绪不是预设,是涌现 — 4 月这个分化是系统重组的成果。
+    意义 — 中国家长这阶段常 "这娃哭笑都不一样了不知道为啥" — 是 differentiation 在进行。
+    父母工作 —
+    - 帮娃命名情绪("你好像有点生气")
+    - 不压制情绪表达(让 differentiation 完成)
+    - 反应与情绪匹配(不要总是同一个反应)
+  what_to_do:
+    - "帮娃命名情绪 — 高兴 / 难过 / 生气 / 害怕"
+    - "不压制情绪表达"
+    - "反应跟情绪匹配(不千篇一律)"
+    - "4-6 月是情绪 differentiation 关键"
+    - "看到分化 — 庆祝不焦虑"
+  failure_mode: |
+    看娃情绪复杂"难带"焦虑 — 错。是 differentiation 进步标志。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Werner-H
+  - G-PERSON-Fischer-K
+  - G-TERM-emotion-differentiation
+  - G-TERM-orthogenetic-principle
+
+related_cards:
+  - C-S0-1538
+  - C-S0-1542
+  - C-S3-942
+  - C-S0-725
+
+citation:
+  source_id: SRC-030
+  source_title: "Handbook of Child Psychology Vol 1: Theoretical Models of Human Development"
+  chapter: "Ch 7 Fischer + Ch 3 Werner reference"
+  chapter_offset: 1707604
+  chapter_title: 'Fischer & Bidell — Dynamic Skill Theory'
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_followup_needed: 'SRC-030 用 PDF 字节偏移代页码 — 待加 page_pdf 反查工具'

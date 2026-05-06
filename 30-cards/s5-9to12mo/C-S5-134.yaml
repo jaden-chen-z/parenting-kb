@@ -1,0 +1,87 @@
+card_id: C-S5-134
+stages: [S5]
+tags: [montessori, pacifier, language]
+
+front:
+  title: 1 岁前戒奶嘴
+  hook: 别让奶嘴挡说话练习
+
+back:
+  why_matters: |
+    奶嘴(pacifier)用法争议:
+    - **AAP**:0-6 月可用,有降 SIDS 作用
+    - **蒙氏**:0-6 月可用,但**1 岁前要戒**
+    蒙氏理由:
+    - 嘴里有奶嘴**很难发声 / cooing / babbling**
+    - 6-12 月正是说话准备期 — 嘴被堵 = 训练受阻
+    - 长期奶嘴 → 影响牙齿排列(2 岁+)
+    - 还可能传"我不想听你说话"信号(你哭就塞)
+    Davies 操作:
+    - 出生后**只在睡眠区用**奶嘴(不在白天活动时塞)
+    - 他不用就别主动给
+    - 他能自己拿出来时鼓励 — "你拿出来了,可以说话了"
+    - **1 岁前完全戒掉**
+    戒法:
+    - 12 月生日前 1-2 月开始减少
+    - 只睡前用 → 只入睡瞬间用 → 完全停
+    - 不用"奶嘴丢仙女带走"等故事(2 岁+ 才适合)
+    - 1 岁宝宝接受 1 周不用奶嘴的过渡替代安抚:
+    - 自我安抚(吸手指 — 蒙氏支持)
+    - lovey 安抚物(软毛绒小物)
+    - 唱歌 / 抱抱
+    AAP 也认可奶嘴可早戒(1 岁前更易,2 岁后影响牙齿明显)。
+  what_to_do:
+    - 0-6 月只睡前用奶嘴
+    - 6-12 月减少使用频率
+    - 12 月前完全戒掉
+    - 替代:吸手指 / 安抚物 / 抱
+    - 戒奶嘴接受 1 周过渡哭闹
+  failure_mode: |
+    "奶嘴一塞就安静,我离不开" — 短期方便,长期挡说话 + 影响牙齿。
+    "等 2 岁再戒" — 2 岁后戒难度陡升 + 牙齿已开始受影响。
+    "奶嘴塞着哭马上停 = 救星" — 实际剥夺宝宝学其他自我安抚的机会。
+  evidence_level: B
+
+  positions:
+    issue: 安抚奶嘴何时用 · 是否影响发育 · 何时戒
+    views:
+      - school: Karp
+        source: SRC-003
+        stance: 鼓励使用,但母乳建立后 3-4 周再用,防乳头混淆。配方奶宝宝可即用。
+      - school: AAP
+        source: SRC-004/006
+        stance: 鼓励 — 是 SIDS 保护因子;睡眠时给;4 岁前戒以防牙列影响。
+      - school: 蒙氏(Davies/Lillard)
+        source: SRC-014/016
+        stance: 反对 — 妨碍婴儿嘴部发声练习与口腔早期探索;主张让孩子用嘴部自我安抚替代。
+      - school: Davies
+        source: SRC-014
+        stance: 接受 0-1 岁安抚作用,但 1 岁前戒,防影响牙列发育和语言起步。
+glossary_refs:
+  - G-PERSON-Davies
+  - G-PERSON-Montessori
+  - G-TERM-self-soothing
+  - G-ABBR-AAP
+  - G-ABBR-SIDS
+
+citation:
+  book_title_zh: "蒙特梭利的小宝宝(0-1岁)"
+  book_title_en: "The Montessori Baby"
+  authors: ["Simone Davies", "Junnifa Uzodike"]
+  authors_zh: ["西蒙·戴维斯", "君妮法·乌佐迪克"]
+  publisher_en: "Workman Publishing"
+  year_en: 2021
+  isbn_en: "978-1-5235-0693-7"
+  location: "Chapter 7 · Using a pacifier + Language obstacles"
+  source_id: SRC-014
+
+unit_ids: []
+related_cards:
+  - C-S1-022       # Karp 奶嘴 controversy
+  - C-S1-051       # AAP 奶嘴使用
+  - C-S5-001       # AAP 戒奶瓶
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

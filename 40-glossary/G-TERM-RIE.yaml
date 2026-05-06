@@ -1,0 +1,101 @@
+glossary_id: G-TERM-RIE
+type: term
+display_name: RIE (Resources for Infant Educarers)
+
+full_name_en: Resources for Infant Educarers
+full_name_zh: 婴儿教育者资源(简称 RIE)
+
+one_liner: |
+  Magda Gerber 1978 年在美国洛杉矶创立的 0-2 岁尊重式育儿组织 + 流派。
+  核心:把婴儿当完整的人(whole person),不当"萌肉团" — 信任他们能力 + 给空间 + 不打扰自主玩 + 真实沟通。
+  跟蒙氏 0-3 是邻近平行流派(共同源:Pikler)。
+  Janet Lansbury 是当代代表推广人。
+
+detail: |
+  ## 创立
+  - **1978 年**Magda Gerber 创立于洛杉矶
+  - 名字含义:Resources(资源)+ for Infant(为婴儿)+ Educarers(教育 + 照护合体词)
+  - "Educarer"是 Gerber 自创词,合"educator + caregiver",
+    强调照顾即是教育
+  - 至今 rie.org 仍活跃,在全球办教师认证
+
+  ## 8 大原则(Magda Gerber 原版)
+  1. **基本信任**(basic trust)— 信任婴儿能力
+  2. **环境**(environment)— 安全 + 适应宝宝的物理空间(yes space)
+  3. **照顾时段**(caregiving time)— 全注意力,不分心
+  4. **观察**(observation)— 大量观察,不主动干预
+  5. **真实**(consistency + clear expectations)
+  6. **承认情绪**(acknowledge feelings)
+  7. **不限制天生发展**(don't restrict natural development)
+  8. **完整的人**(perceive baby as whole person)
+
+  ## Lansbury 扩展的 10 原则(本卷 Introduction)
+  增加:
+  9. 让孩子自己解决问题(problem solve)
+  10. 大人是模范(modeling)
+
+  ## 跟蒙氏 0-3 的关系
+  - **平行流派**(共同源:Pikler 1902-1984)
+  - **80% 共识**:观察 / 真物 / yes space / floor bed / 慢
+  - **20% 差异**:
+    - RIE 比蒙氏更"被动"(observe more, do less)
+    - RIE 比蒙氏更强调 sportscasting
+    - 蒙氏比 RIE 更系统化(practical life 课程)
+
+  ## 跟其他派对比
+  - **vs 行为主义**:RIE 反"奖励 / 惩罚",主张内在动机
+  - **vs 亲密育儿(Sears)**:RIE 反"几乎全程抱",主张给独立空间
+  - **vs 哭声免疫(CIO)**:RIE 反"放任哭",主张"在场陪伴 + 接受情绪"
+  - **vs 主流分散派**:RIE 反"哄骗转移",主张诚实沟通
+
+  ## 实操关键术语
+  - sportscasting(实况转播)— Magda 命名
+  - wait(magic word)— Magda 哲学核心
+  - acknowledge feelings(承认情绪)
+  - "I won't let you..."(限度公式)
+  - yes space(可探索区)— Magda 命名
+  - passive toys + active children(被动玩具 + 主动孩子)
+  - tarry time(逗留时间)
+  - basic trust(基本信任)
+
+  ## 现代代表人
+  - **Janet Lansbury**(本卷作者)— 全球推广
+  - **Lisa Sunbury Georgia**(Regarding Baby)
+  - **Ruth Anne Hammond**(《Respecting Babies》)
+
+  ## 在中文社群的位置
+  - 知名度低于"正面管教"
+  - 部分 RIE 认证教师在国内推广
+  - 跟"蒙氏 0-3"在国内的曝光相比仍小
+
+key_facts:
+  - Magda Gerber 1978 创立于洛杉矶
+  - "Resources for Infant Educarers"
+  - 跟蒙氏 0-3 平行流派
+  - 8 + 2 = 10 大原则(Lansbury 扩展)
+  - Janet Lansbury 当代代表推广人
+
+related_glossary:
+  - G-PERSON-Gerber
+  - G-PERSON-Pikler
+  - G-PERSON-Lansbury
+  - G-TERM-respectful-parenting
+  - G-TERM-yes-space
+  - G-TERM-sportscasting
+  - G-TERM-magic-word-wait
+  - G-TERM-passive-toys
+  - G-TERM-acknowledging-feelings
+
+related_cards:
+  - C-S1-352
+  - C-S6-395
+  - C-S6-396
+
+sources:
+  - source_id: SRC-019
+  - external: 'rie.org / Magda Gerber《Dear Parent: Caring for Infants With Respect》'
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

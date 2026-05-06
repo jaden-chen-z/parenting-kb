@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Killen
+type: person
+display_name: "Killen(梅拉尼·基伦)"
+
+full_name_en: "Melanie Killen"
+full_name_zh: "梅拉尼·基伦"
+
+position: |
+  University of Maryland 心理学教授
+
+contribution: |
+  偏见和歧视萌芽 + 道德推理;Turiel 团队
+
+one_liner: |
+  梅拉尼·基伦 — 偏见和歧视萌芽 + 道德推理;Turiel 团队
+
+key_facts:
+  - "本卷章节:Ch 13"
+  - "Lerner V3 命中:95 次"
+  - "学派:Lerner V3 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-027
+    chapter: "Ch 13"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

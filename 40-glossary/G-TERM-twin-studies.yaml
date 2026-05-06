@@ -1,0 +1,22 @@
+glossary_id: G-TERM-twin-studies
+type: term
+display_name: "双胞胎研究"
+
+one_liner: |
+  Goldsmith + Plomin:同卵 vs 异卵差距 = 遗传贡献,气质 40-50% 遗传。
+
+detail: |
+  Goldsmith + Plomin:同卵 vs 异卵差距 = 遗传贡献,气质 40-50% 遗传。
+
+  来源:Lerner V3《Handbook of Child Psychology Vol 3》(Wiley 2006 第 6 版,Eisenberg 主编)。
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-027
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

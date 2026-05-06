@@ -1,0 +1,63 @@
+card_id: C-S7-552
+stages: [S7]
+tags: [toilet, RIE, autonomy]
+
+front:
+  title: "如厕不训练等准备"
+  hook: "98% 4 岁前自学会"
+
+back:
+  why_matters: |
+    Magda《自信的宝宝》Ch8 §Learning to Use the Toilet。
+    Magda 引 Dr. Bruce Taubman(Pediatrics 期刊)研究:
+    - 2 岁前完全如厕的:**4%**
+    - 3 岁前:60%
+    - 3.5 岁前:88%
+    - 4 岁前:**98%**
+    所以"急着 1.5-2 岁训完"是反统计的。
+    Magda 立场:孩子需要三种"准备"才能学:
+    1 **身体**:控制括约肌
+    2 **懂事**:知道大人在期待什么
+    3 **情绪**:能憋到坐马桶 — 最难,因孩子把屎尿当"自己的一部分"放出去难
+    Maslow:人生就是"抓住 vs 放手"的冲突。
+    Magda:**强迫 = 权力斗争 → 抗拒越强**。准备好 = 自然学会。
+
+  what_to_do:
+    - 准备小马桶(他想用就用)
+    - 不强迫 / 不奖励 / 不羞辱
+    - 看到信号:"看起来你要去,要小马桶吗"
+    - 给选(尿布 vs 内裤)
+    - 准备好就 1 周内学会
+
+  failure_mode: |
+    "邻居娃 18 月会上厕所我家落后" → Magda 反:统计上 4% 而已,
+    多数不是"训成"是"刚好准备好"。或"3 天集训速成" → 反:制造创伤,
+    部分会反弹到 4-5 岁。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+
+citation:
+  book_title_en: "Your Self-Confident Baby"
+  book_title_zh: "自信的宝宝"
+  authors:
+    - Magda Gerber
+    - Allison Johnson
+  publisher_en: John Wiley & Sons
+  year: 1998
+  location: "Ch8 §Learning to Use the Toilet(p224-226)"
+  source_id: SRC-021
+
+unit_ids: []
+related_cards:
+  - C-S6-400  # Lansbury 如厕不训练
+  - C-S5-131  # Davies 不替宝宝做
+  - C-S6-192  # Lillard No 永远 No
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

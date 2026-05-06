@@ -1,0 +1,56 @@
+card_id: C-S6-1512
+stages: ['S6']
+tags: ['philosophy', 'lerner_v1', 'cross_chapter', 'individual_vs_universal']
+
+front:
+  title: "个体差异 vs 普世"
+  hook: "都重要但要分情境"
+
+back:
+  why_matters: |
+    跨章经典张力(Ch 8 Magnusson + Ch 13 Shweder + Ch 11 Baltes)—
+    个体差异 vs 普世规律平衡。
+    - 个体差异(Magnusson)— 没两个娃一样
+    - 普世规律(Baltes 早期)— 所有娃都遵循 X 发展
+    - 文化差异(Shweder)— 不同文化娃路径不同当代综合 —
+    - 普世(走 / 说 / 依恋形成)— 大方向一致
+    - 个体(气质 / 兴趣 / 路径)— 个体差异巨大
+    - 文化(self / 道德 / 时间感)— 文化差异显著意义 — 中国家长两端都掉 —
+    - 偏普世 — 拿"标准发展表"焦虑你家娃
+    - 偏个体 — 完全不参考标准正确视角 — 普世大方向 + 个体路径 + 文化情境三者综合看。
+  what_to_do:
+    - "普世大方向 — 参考"
+    - "个体路径 — 主体"
+    - "文化情境 — 不忽视"
+    - "三者综合看,不二选一"
+    - "'标准娃' 错觉警惕"
+  failure_mode: |
+    只看普世(标准表)或只看个体(完全相对) — 都错。三者综合。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Magnusson
+  - G-PERSON-Shweder
+  - G-PERSON-Baltes
+  - G-TERM-individual-differences
+  - G-TERM-cultural-psychology
+
+related_cards:
+  - C-S0-1519
+  - C-S0-1524
+  - C-S0-1513
+  - C-S6-1078
+
+citation:
+  source_id: SRC-030
+  source_title: "Handbook of Child Psychology Vol 1: Theoretical Models of Human Development"
+  chapter: "Ch 8 + Ch 13 + Ch 11(跨章命题)"
+  chapter_offset: 2105000
+  chapter_title: 'Magnusson & Stattin — Holistic Person-Context Interaction'
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_followup_needed: 'SRC-030 用 PDF 字节偏移代页码 — 待加 page_pdf 反查工具'

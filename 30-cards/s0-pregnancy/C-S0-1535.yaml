@@ -1,0 +1,54 @@
+card_id: C-S0-1535
+stages: ['S0']
+tags: ['philosophy', 'lerner_v1', 'lerner', 'developmental_science', 'foundational']
+
+front:
+  title: "发展科学新框架"
+  hook: "不是单一心理学派"
+
+back:
+  why_matters: |
+    Lerner(Lerner V1 Ch 1)给当代发展心理学新名字 — developmental science(发展科学)。
+    不是 "developmental psychology" 单一学科,是多学科合体:
+    - 心理学 + 神经科学 + 遗传学 + 社会学 + 人类学 + 教育学 + 政策科学
+    - 共识方法 — relational developmental systems
+    - 共识价值 — 应用导向(从研究到政策到实操)
+    意义 — 育儿不能只看心理学,要看跨学科证据综合。
+    中国家长意义 —
+    - 单看一本心理学书 → 视角窄
+    - 多看心理学 + 神经科学 + 教育学 + 社会学综合 → 视角立体
+    - 警惕 "纯心理学" 立场单一专家意义 — Lerner V1 整本书就是 "developmental science" 的多视角综合示范。
+  what_to_do:
+    - "不只看心理学一种视角"
+    - "神经 / 遗传 / 社会 / 教育多视角"
+    - "警惕单一专家立场"
+    - "应用导向 — 实操才是检验"
+    - "developmental science > 单学科"
+  failure_mode: |
+    只信一个学科一个专家 — 错。当代视角是跨学科。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Lerner
+  - G-TERM-developmental-science
+  - G-TERM-relational-developmental-systems
+
+related_cards:
+  - C-S0-1500
+  - C-S0-1503
+  - C-S0-722
+  - C-S0-008
+
+citation:
+  source_id: SRC-030
+  source_title: "Handbook of Child Psychology Vol 1: Theoretical Models of Human Development"
+  chapter: "Ch 1 Developmental Science (Lerner)"
+  chapter_offset: 52000
+  chapter_title: 'Lerner — Developmental Science (relational/contextual metatheory)'
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_followup_needed: 'SRC-030 用 PDF 字节偏移代页码 — 待加 page_pdf 反查工具'

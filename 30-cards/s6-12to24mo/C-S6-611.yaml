@@ -1,0 +1,62 @@
+card_id: C-S6-611
+stages: [S6]
+tags: [demanding-baby, RIE]
+
+front:
+  title: "高需求宝宝 Beverly 案例"
+  hook: "板姿娃放地上学动"
+
+back:
+  why_matters: |
+    Magda《自信的宝宝》Ch2 §Selective Intervention — Beverly 经典案例。
+    家长有时遇"超难带"宝宝(哭不停 / 不放手 / 任何小事崩溃),
+    Magda 给真实案例 + 路径。
+    **Beverly 案例**:6 月,健康强壮,但出生后几乎一直哭。
+    父母崩溃 → 求助 Tom Forrest(DIP 项目)。Beverly 来 DIP
+    第一天被父母直立"扶着走"进 — 像一块木板那么僵。放地上不动。
+    跟 3 个 7-12 月宝宝一组,父母被请到隔壁观察室。Beverly
+    第一小时大哭整小时。但她渐渐学会其他宝宝的样子 — 探索 / 自主 /
+    自我奖励。父母也学会:**少做,信任 Beverly。**
+    Magda 1998 提示:很多"难带宝宝"是被父母过度干预 + 不放手
+    "造"出来的,不是天生。
+
+  what_to_do:
+    - 难带宝宝先看自己:抱多 / 不放
+    - 给安全大空间放下不抱
+    - 父母去隔壁观察(20 分钟起)
+    - 哭也允许 / 等他自己探索
+    - 一周看变化,常常戏剧性好转
+
+  failure_mode: |
+    "我家就是天生高需求" → Magda 反:Beverly 父母也这么以为,
+    实际是她从未学独处。或反向:"放她哭 1 小时太残忍" → 反:DIP
+    教师在场观察 ≠ 抛弃。Magda 路径是"在场不干预",不是离场。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+  - G-TERM-selective-intervention
+
+citation:
+  book_title_en: "Your Self-Confident Baby"
+  book_title_zh: "自信的宝宝"
+  authors:
+    - Magda Gerber
+    - Allison Johnson
+  publisher_en: John Wiley & Sons
+  year: 1998
+  location: "Ch2 §DIP: Beverly 案例(p17-19)"
+  source_id: SRC-021
+
+unit_ids: []
+related_cards:
+  - C-S2-290  # Lansbury 不撑坐 8 理由(同根:让宝宝自己动)
+  - C-S5-131  # Davies 不替宝宝做
+  - C-S3-296  # Lansbury 不主导玩
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

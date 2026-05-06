@@ -1,0 +1,64 @@
+card_id: C-S3-1142
+stages: [S3]
+tags: [cognitive_science, causal_learning, lerner_v2]
+
+front:
+  title: 4 月知道有原因才有结果
+  hook: 习惯化测因果直觉
+
+back:
+  why_matters: |
+    Leslie 1982-1984 + Cohen 复制实验(Lerner V2 Ch5)。
+    给 4-6 月宝宝看"撞球"动画:
+    - 红球撞蓝球 → 蓝球立即移动(因果)
+    - 红球撞蓝球 → 蓝球延迟 2 秒移动(无因果连续)
+    - 红球停下 + 蓝球突然移(纯巧合)
+    宝宝盯"非因果"事件明显更久 = 觉得"奇怪"。
+    意义:**4 月就有因果直觉** — 不需要语言不需要符号。
+    Spelke 核心知识"行动系统"奠基证据之一。
+    跟 Hume 哲学反:Hume 说"因果"是经验积累的联想,V2 综述说婴儿出生就有因果模块。
+    跟现库:Gopnik blicket detector(C-S1-240 baby scientist 衍生)是 18-24 月版本,V2 给 4 月版本。
+    对中国家长意义:
+    - 4 月给宝宝看"按按钮 → 灯亮"就有意义
+    - 玩"碰倒积木"宝宝懂因果(不是无意义动作)
+    - 不必"等他懂事再教" — 4 月已有因果思维雏形
+  what_to_do:
+    - 4 月起玩"按按钮 + 反应"玩具
+    - 让宝宝做"原因"动作(摇铃 = 响)
+    - 用言语标记因果(宝宝按 → 灯亮了 → "你按了!灯亮!")
+    - 不要把宝宝当被动观察者
+  failure_mode: |
+    "宝宝太小不懂因果" — 错。4 月就有直觉。
+    "4 月看动画没用" — 看真人 + 真因果有用。
+    "因果只能教 3 岁后" — V2 综述明确反驳。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Spelke
+  - G-PERSON-Gopnik
+  - G-TERM-causal-learning
+  - G-TERM-baby-scientist
+  - G-PERSON-Carey
+  - G-TERM-core-knowledge
+  - G-PERSON-Leslie
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 2 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 2 卷"
+  authors: ["Leslie B. Cohen", "Cara H. Cashon"]
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 5 · Simple causal events · pp. 228-231"
+  source_id: SRC-028
+
+unit_ids: []
+related_cards:
+  - C-S3-1140     # Baillargeon 吊桥(同方法 — VOE)
+  - C-S3-1141     # Cohen-Cashon vs Spelke
+  - C-S1-240       # baby scientist
+  - C-S3-188       # 物体永久 4 月
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

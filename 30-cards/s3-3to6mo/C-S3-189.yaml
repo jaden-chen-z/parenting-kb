@@ -1,0 +1,60 @@
+card_id: C-S3-189
+stages: [S3]
+tags: [cognitive_science, causal_learning, baby_scientist]
+
+front:
+  title: 3 月就懂"我踢腿动了"
+  hook: 3 月会"踢腿动玩具"
+
+back:
+  why_matters: |
+    经典 mobile 实验(Rovee-Collier 系列):
+    把丝带一头系在 3 月宝宝脚上,另一头连 mobile。
+    宝宝踢腿 → mobile 转。
+    几分钟内,宝宝**学会踢有丝带那只脚**让 mobile 转。
+    1 周后再给同样 mobile,宝宝立刻开始踢(长期记忆 + 因果学习)。
+    意义:3 月宝宝已经懂"我的动作 → 世界变化"。
+    这是因果推理的最原始形式 — Gopnik 称为"primordial causation"。
+    Gopnik 观察:3 月宝宝有时也会"装可爱魅惑"试图让 mobile 转(笑 / 咕咕)。
+    这是宝宝在搞混"物理因果"vs"心理因果"— 后者对人类有效,对物体无效。
+    1 岁时分清两类,但 3 月还在试。
+    对中国家长意义:
+    - 宝宝"试探性"行为不是无聊,是因果实验
+    - "他扔玩具 / 拍东西看你反应"= 在学因果
+    - 不打断 / 不抢答 / 让他自己得出结论
+  what_to_do:
+    - 给宝宝可"动作 → 反应"的玩具(摇铃 / 翻转书)
+    - 宝宝试探时回应有规律(同样动作同样反应)
+    - 不抢着帮他,让他自己摸出"规律"
+    - 不必"教因果",他在自学
+  failure_mode: |
+    "他还不会动脑子,玩什么都行" — 错。3 月就在学因果。
+    宝宝踢腿就立刻按 mobile — 错。剥夺他的因果实验机会。
+    一会儿吼一会儿笑,反应混乱 — 宝宝的因果模型崩溃。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Gopnik
+  - G-TERM-causal-learning
+  - G-TERM-baby-scientist
+  - G-TERM-statistical-learning
+
+citation:
+  book_title_en: "The Scientist in the Crib"
+  book_title_zh: "摇篮里的科学家"
+  authors: ["Alison Gopnik", "Andrew N. Meltzoff", "Patricia K. Kuhl"]
+  publisher_en: William Morrow
+  year: 1999
+  location: "Chapter 3 · Making Things Happen (Rovee-Collier mobile)"
+  source_id: SRC-015
+
+unit_ids: []
+related_cards:
+  - C-S3-188       # 物体永久性早于 Piaget
+  - C-S1-240       # baby scientist 总论
+  - C-S6-181       # blicket detector(将建)
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

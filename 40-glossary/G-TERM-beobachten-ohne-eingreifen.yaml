@@ -1,0 +1,88 @@
+glossary_id: G-TERM-beobachten-ohne-eingreifen
+type: term
+display_name: Beobachten ohne Eingreifen(观察不干预)
+
+full_name_de: Beobachten ohne Eingreifen
+full_name_zh: 观察不干预
+full_name_en: Observation Without Intervention
+
+one_liner: |
+  Pikler 1969 育儿核心心态 — 大人观察孩子但不主动干预。是
+  Magda "wait" + Lansbury "magic word: wait" 的德文源头。蒙氏
+  observation 同源。
+
+detail: |
+  ## 词源
+  - **Beobachten** = 德文"观察"
+  - **ohne Eingreifen** = 德文"不干预"
+  - 合起来:观察 + 不替做 + 不评论 + 不指导
+
+  ## Pikler 1969 立场源头
+  - 整本书反复出现 — 育儿核心心态
+  - **Spiel(玩耍)时段必用**(Pflege 时段才主动)
+  - 婴儿挣扎时:观察 5 秒再决定要不要帮(通常不需要)
+  - 婴儿犯错时:观察让他自己发现
+  - 大动作发展:观察孩子在哪阶段,不催不练
+
+  ## 三个具体应用
+  1. **大动作观察**:看孩子翻 / 坐 / 爬 / 站 / 走 — 不引诱不替做
+  2. **玩耍观察**:看孩子玩什么 — 不参与不评论
+  3. **挣扎观察**:看孩子遇到困难 — 等他自己尝试 5-30 秒
+
+  ## 跟现代派关系
+  - **Magda Gerber wait**(SRC-022):核心 Educaring 哲学
+  - **Lansbury "Magic Word: Wait"**(SRC-019 Ch12 + G-TERM-magic-word-wait):
+    12 个用法,德文源头在此
+  - **蒙氏 observation**(Davies SRC-014 / Lillard SRC-016):跟 Pikler 同源
+  - **Stern attunement**(SRC-018):敏感观察跟 Pikler 一致
+
+  ## 跟"主动干预派"对立
+  - **中国主流"陪玩 = 全程参与"**:Pikler 反
+  - **早教课"启蒙 + 引导"**:Pikler 反
+  - **"加油!""真棒!"鼓励文化**:Pikler 立场是不评论
+  - **"我帮你做"育儿**:Pikler 反
+
+  ## 何时该 Eingreifen(干预)
+  - 真危险(摔下楼梯 / 烫到)— 立即介入
+  - 真冲突(打另一个孩子)— 限度立(I won't let you)
+  - 求助(孩子明确求助)— 简短帮助
+  - **以外 99% 时段:观察不干预**
+
+  ## 学习曲线
+  - 中国父母最难学的 Pikler 哲学就是这条
+  - 习惯做 → 习惯等是 1-2 年的过程
+  - 起步:每天选 30 分"观察不参与"时段练习
+
+key_facts:
+  - Pikler 1969 育儿核心心态
+  - Magda wait + Lansbury Magic Word Wait 源头
+  - 蒙氏 observation 同源
+  - 跟"主动干预"育儿派对立
+  - 99% 时段观察 + 1% 真需要介入
+
+related_glossary:
+  - G-PERSON-Pikler
+  - G-PERSON-Gerber
+  - G-PERSON-Lansbury
+  - G-TERM-magic-word-wait
+  - G-TERM-pflege-vs-spiel
+  - G-TERM-bewegungsentwicklung
+
+related_cards:
+  - C-S3-836  # Pikler 抓握自主
+  - C-S6-956  # Pikler 自由玩
+  - C-S6-961  # Pikler 自主玩
+  - C-S4-836  # 自坐 vs 撑坐
+  - C-S4-295  # Lansbury 宝宝挣扎时:先等再说
+  - C-S4-298  # Lansbury 宝宝是依赖但不是无能
+
+sources:
+  - source_id: SRC-026  # Pikler 1969 德文源
+  - source_id: SRC-019  # Lansbury 复述
+  - source_id: SRC-022  # Gerber RIE
+  - external: Pikler Institute / RIE
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

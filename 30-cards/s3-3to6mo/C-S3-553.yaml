@@ -1,0 +1,49 @@
+card_id: C-S3-553
+stages: [S3]
+tags: [stranger-anxiety, temperament, normal-发展]
+
+front:
+  title: 见生人哭是天性
+  hook: 5-6 月陌生人警觉萌芽
+
+back:
+  why_matters: |
+    松田说:5-6 月婴儿能认清母亲脸,见到陌生男人脸有的会大哭。
+    打针反应也分天性 — 一声不吭的、过会才哭的、针头触皮就哭的,都正常。
+    这是娃的天性,不是教育能改变的。
+    妈别羞愧"我家娃太敏感",别强迫娃跟陌生人亲。
+  what_to_do:
+    - 接受娃见生人哭是发展节点
+    - 让娃在妈怀里观察陌生人 5 分钟
+    - 别强求亲戚立刻抱
+    - 打针前抱紧告知"会有点疼"
+    - 打针后立刻抱安抚 1-2 分
+  failure_mode: |
+    妈让"开朗"亲戚强抱 → 娃信任崩 + 后续见客就哭 + 害怕去妈以外人怀。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Matsuda
+  - G-TERM-stranger-anxiety
+
+citation:
+  book_title_zh: "定本《育儿百科》"
+  book_title_jp: "育児の百科(定本)"
+  authors: ["松田道雄"]
+  translators_zh: ["王少丽"]
+  publisher_zh: null
+  year: 1980
+  edition: "定本"
+  location: "第 187 节从 5 个月到 6 个月"
+  source_id: SRC-023
+
+unit_ids: []
+related_cards:
+  - C-S5-004  # AAP 分离焦虑 10-18 月峰值
+  - C-S3-078  # Bowlby V1 4-6 月对妈反应明显
+  - C-S5-013  # 鲍秀兰 10 月会察言观色
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

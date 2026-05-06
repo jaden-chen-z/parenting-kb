@@ -1,0 +1,71 @@
+card_id: C-S7-238
+stages: [S7]
+tags: [bowlby, loss, grief, red_flag, china_high_freq]
+
+front:
+  title: 看似没事是最危险信号
+  hook: 太懂事太静要警觉
+
+back:
+  why_matters: |
+    Bowlby 第二十三章劳拉案例(2 岁 5 个月,妈妈住院 8 天):
+    劳拉的妈妈一直严格不许哭,所以**劳拉在医院全程"自控"得让人称奇**:
+    - 大部分时间安静抱毯子 + 玩偶
+    - 只在跟护士独处时偶尔说"我要妈妈"
+    - 看到别的孩子哭反而去安抚他("你想妈妈吧?她明天就来")
+    - 被人误判为"懂事"、"适应良好"
+    **真相:她全程都在拼命压抑思念**(揪鼻子直到结疤是身体压力释放出口)。
+    回家半年后某天偶然看到自己住院录像 → 突然崩溃大哭 + 拒绝妈妈安慰。
+    Bowlby 警示:**这种"过度懂事"长大易发展为"强迫性自我依赖"和"强迫性照顾他人"**(劳拉照顾别的哭闹小孩 = 没人安抚自己 → 通过安抚他人间接安抚自己)。
+    中国家庭最大坑:**夸"我家娃真懂事不哭不闹"** — 这种孩子最危险。
+  what_to_do:
+    - 看到"安静 + 顺从 + 食欲差"主动问
+    - 不夸"懂事不哭"是优点
+    - 主动说"难过可以哭妈知道你想 X"
+    - 注意身体信号(揪头发抠鼻子抓痕)
+    - 重聚后给情绪表达机会
+  failure_mode: |
+    "我家娃真坚强,丢了爷爷一滴泪都没掉" → 可能是绝望期或情感隔离,**不是好事**。
+    强忍 → 长大变强迫性照顾他人 → 自己一辈子不被照顾。
+  evidence_level: B
+
+  positions:
+    issue: '"懂事不哭" 是赞美还是依恋警告 · 强独立是好品质还是焦虑回避'
+    views:
+      - school: Bowlby V2
+        source: SRC-012
+        stance: '"强忍不哭" 可能是压力反应(Lottie 案例);"早独立" 可能是焦虑回避型(航天员证据)。'
+      - school: Bowlby V3
+        source: SRC-017
+        stance: 同方向加固 — "看似没事" 的孩子在临床上往往最危险,内化压力比外显更难干预。
+      - school: 中国主流
+        stance: '"懂事不哭不闹" 是亲戚常见夸赞;"独立" 被视为好品质,与回避型依恋区分模糊。'
+glossary_refs:
+  - G-PERSON-Bowlby
+  - G-PERSON-Robertson
+  - G-TERM-protest-despair-detachment
+  - G-TERM-pathological-mourning
+  - G-TERM-anxious-attachment
+
+citation:
+  book_title_zh: "依恋三部曲 · 第三卷:丧失"
+  book_title_en: "Attachment and Loss, Vol 3: Loss, Sadness and Depression"
+  authors: ["John Bowlby"]
+  authors_zh: ["约翰·鲍尔比"]
+  publisher_zh: "世界图书出版有限公司北京分公司"
+  year_zh: 2018
+  year_en: 1980
+  isbn_zh: "978-7-5192-3383-9"
+  location: "Ch 23 · 3-4 岁儿童对于丧失的反应(劳拉案例)"
+  source_id: SRC-017
+
+unit_ids: []
+related_cards:
+  - C-S6-082       # Bowlby V2 长分离反应 3 阶段
+  - C-S7-037       # Bowlby V2 强忍不哭是压力不是适应
+  - C-S7-042       # Bowlby V2 强独立不健康
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

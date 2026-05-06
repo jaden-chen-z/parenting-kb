@@ -1,0 +1,39 @@
+stage: S4
+total_cards_in_stage: 109
+key_findings:
+  L1_strong_consensus_clusters:
+    - {id: SC-S4-A4a, topic: 反学步车/Jumper, sources: 8 派!, cards: [C-S4-005, C-S4-132, C-S4-194, C-S4-840, C-S4-839], action: hub 化(005 主卡), priority: high}
+    - {id: SC-S4-A4b, topic: 反撑坐, sources: 4 派, cards: [C-S4-499, C-S4-834, C-S4-835, C-S4-836, C-S4-192], action: hub 化(834 主卡)}
+    - {id: SC-S4-A4c, topic: 里程碑不焦虑, sources: 4 派, cards: [C-S4-349, C-S4-191, C-S4-2147, C-S4-1053], action: hub 化(1053 WHO 数据主卡)}
+    - {id: SC-S4-A4d, topic: 护理时全注意 Pflege/Spiel, cards: [C-S4-353, C-S4-837], action: 837 主卡 + 353 spoke}
+    - {id: SC-S4-A1, topic: 6-9 月陌生人焦虑, sources: 4 派, cards: [C-S4-004, C-S4-021, C-S4-068, C-S4-942], action: hub 化(068 主卡)}
+    - {id: SC-S4-A3c, topic: 反早断奶, sources: 松田主轴 + WHO + Greenfield V4, cards: [C-S4-550, C-S4-553, C-S4-554, C-S4-701, C-S4-1351], action: 550/553/554 合并 1 卡}
+    - {id: SC-S4-B3, topic: 不偷溜走, sources: WW + Lansbury + V4 + Bowlby V2, cards: [C-S4-129, C-S4-297, C-S4-1350], action: 129 主卡}
+    - {id: SC-S4-B1, topic: 依恋形成关键期, cards: [C-S4-067, C-S4-068, C-S4-069, C-S4-071, C-S4-072, C-S4-073, C-S4-074, C-S4-804, C-S4-805, C-S4-806, C-S4-016], action: 多 sub-cluster hub-spoke}
+    - {id: SC-S4-B4, topic: yes space + babyproofing, cards: [C-S4-130, C-S4-351, C-S4-2148, C-S4-007, C-S4-006], action: 351 主卡(yes space 源头), 130 spoke}
+  L2_complementary_clusters:
+    - {id: SC-S4-A2, topic: 9 月 joint attention 跃迁, cards: [C-S4-185, C-S4-197, C-S4-198, C-S4-940, C-S4-1142], action: 不合并(角度互补)}
+    - {id: SC-S4-A3a, topic: BLW finger food + 切法 + 噎食, cards: [C-S4-001, C-S4-002, C-S4-1049, C-S4-2144, C-S4-2145], action: 1049/2144/002 hub}
+    - {id: SC-S4-B6, topic: 母语音素重组 perceptual narrowing, cards: [C-S4-184, C-S4-186, C-S4-188, C-S4-189, C-S4-1140, C-S4-807, C-S4-1143], action: 184 主卡 hub}
+  conflicts_candidates:
+    - {id: SC-S4-A5, topic: 物体永久性, cards: [C-S4-003, C-S4-018, C-S4-187, C-S4-1644], note: Piaget 8 月 vs Spelke 4 月 vs Thelen 动态系统三派,conflicts.md 必记}
+    - {note: C-S4-700 同床(松田 vs AAP 全禁)}
+    - {note: C-S4-702 lovey(松田 vs Davies/Brazelton/Winnicott)}
+    - {note: C-S4-839 Pikler 反 Tummy Time vs AAP 推}
+  intra_source_groups_no_dedup:
+    - {topic: Stern Ch6-9 (7 张 SRC-018)}
+    - {topic: 鲍秀兰 7-8 月教程 (9 张 SRC-009)}
+    - {topic: 海蒂急救 (6 张 SRC-040)}
+hotspot_findings:
+  hotspot_1_stranger_anxiety: 4 派覆盖,hub 化即可
+  hotspot_2_joint_attention: 4 派覆盖,角度互补不合并
+  hotspot_3_complementary_feeding: 7 派覆盖!松田 3 张可合并
+  hotspot_4_anti_walker: 8 派!S4 最强跨源共识,5 张反学步车 + 3 张反撑坐 hub 化
+  hotspot_5_object_permanence: 三派立场对立,conflicts 必记
+notes: |
+  S4 共 109 卡 / 24 SRCs。
+  最强共识:反学步车(8 派)+ 反撑坐(4 派)+ 反早断奶(松田主轴+WHO+V4)+ 依恋形成关键期(Bowlby+Shonkoff+鲍)。
+  无"内容硬重复需直接合并"的 L1(没有同 source/立场/verbatim 重复卡)。
+  最接近的是 499(Gerber 引 Pikler) vs 834/835/836(Pikler 直接)— 源头/复述关系,保留以便中国家长读英文复述。
+  跨源率 ~60% 卡片有跨源 related_cards,知识点已在 hub-spoke 模式下良好互引。
+  优先建议:hub 化 SC-A4a(8 派反学步车)+ SC-A3a(切法/尺寸)+ SC-A1(陌生人焦虑)。

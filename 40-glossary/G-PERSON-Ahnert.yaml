@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Ahnert
+type: person
+display_name: "Ahnert(丽塞洛特·阿内特)"
+
+full_name_en: "Lieselotte Ahnert"
+full_name_zh: "丽塞洛特·阿内特"
+
+position: |
+  Free University of Berlin
+
+contribution: |
+  婴幼儿托育研究 + 依恋
+
+one_liner: |
+  丽塞洛特·阿内特 — 婴幼儿托育研究 + 依恋
+
+key_facts:
+  - "本卷章节:Ch 23"
+  - "Lerner V4 命中:54 次"
+  - "学派:Lerner V4 应用心理学派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-029
+    chapter: "Ch 23"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,48 @@
+card_id: C-S2-937
+stages: [S2]
+tags: [chess_thomas, goodness_of_fit, lerner_v3, foundational]
+
+front:
+  title: "气质好坏看匹配度"
+  hook: "没有不好气质只有错配"
+
+back:
+  why_matters: |
+    Chess & Thomas(via Rothbart Ch 3)综述核心 — goodness-of-fit(匹配度)概念。
+    没有"好气质"或"坏气质"绝对说法,只有"气质和环境匹配不匹配"。
+    一个高反应度娃,在安静家庭如鱼得水,在嘈杂家庭就崩。
+    一句话 — 不要改造孩子气质,改造你的家适应他气质。
+  what_to_do:
+    - "高敏感家就装隔音减声"
+    - "低反应家就主动多刺激"
+    - "焦虑底色家就稳预期"
+    - "家里气质差大,各自空间"
+    - "别用主流育儿模板套你娃"
+  failure_mode: |
+    觉得有"标准育儿法"适用所有娃,死磕一种风格。
+    Chess-Thomas — 没有标准最好,只有最匹配你娃的。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Chess
+  - G-PERSON-Thomas
+  - G-TERM-goodness-of-fit
+  - G-TERM-temperament-environment-fit
+
+related_cards:
+  - C-S2-547
+  - C-S1-1002
+
+citation:
+  source_id: SRC-027
+  source_title: "Handbook of Child Psychology Vol 3"
+  chapter: "Ch 3 Rothbart — Goodness of Fit"
+  chapter_offset: 613636
+  chapter_title: 'Rothbart & Bates — 气质综述权威'
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_followup_needed: 'SRC-027 用 PDF 字节偏移代页码 — 待加 page_pdf 反查工具'

@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Patterson
+type: person
+display_name: "Patterson(杰拉德·帕特森)"
+
+full_name_en: "Gerald R. Patterson"
+full_name_zh: "杰拉德·帕特森"
+
+position: |
+  Oregon Social Learning Center 创始人
+
+contribution: |
+  coercive family process 强制家庭过程模型
+
+one_liner: |
+  杰拉德·帕特森 — coercive family process 强制家庭过程模型
+
+key_facts:
+  - "本卷章节:Ch 12"
+  - "Lerner V3 命中:99 次"
+  - "学派:Lerner V3 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-027
+    chapter: "Ch 12"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

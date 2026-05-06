@@ -1,0 +1,61 @@
+glossary_id: G-TERM-WHO-two-years
+type: term
+display_name: "WHO 2 岁内继续母乳"
+
+en_term: "WHO Two-Year Continued Breastfeeding Recommendation"
+zh_term: "WHO 持续母乳 2 年共识"
+
+one_liner: |
+  WHO 推持续母乳 ≥ 2 岁 'or beyond' — 国际医学共识,比 AAP 1 年立场更长。
+
+detail: |
+  ## WHO 立场 verbatim
+  'From the age of 6 months, children should begin eating safe and adequate complementary foods while continuing to breastfeed for up to two years of age or beyond.'
+  
+  ## 关键 'or beyond'
+  2 岁不是上限是底线。人类生物学自然离乳 2.5-7 岁(Detwyler 2004)。
+  
+  ## 营养构成数字
+  - 6-12 月:母乳供 ≥ 50% 能量
+  - 12-24 月:母乳供 ≥ 33% 营养
+  
+  ## 跟其他派对照
+  - AAP(SRC-006):1 岁可断
+  - 鲍秀兰(SRC-009):1 岁可断
+  - 松田(SRC-024):弹性
+  - WHO 是唯一明确推 2 岁内继续的派
+  
+  ## 妈妈益处
+  - 乳腺癌每 12 月哺乳降 6%
+  - 卵巢癌降
+  - 2 型糖尿病降
+  - 心血管疾病降
+  - 类风湿关节炎降
+  
+  ## 跟 SRC-029 对接
+  Lerner V4 G-TERM-WHO-feeding 已建术语,本卷给完整 verbatim。
+
+key_facts:
+  - "WHO 推 ≥ 2 岁 'or beyond'"
+  - "12-24m 33% 营养"
+  - "唯一明确推 2 年的派"
+  - "妈妈乳腺癌降 6%/12m"
+
+related_glossary:
+  - G-ABBR-EBF
+  - G-ABBR-WHO
+  - G-PERSON-Victora
+
+related_cards:
+  - C-S5-1039
+  - C-S6-1064
+  - C-S6-1065
+  - C-S7-1099
+
+sources:
+  - source_id: SRC-031
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

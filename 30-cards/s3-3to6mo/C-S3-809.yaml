@@ -1,0 +1,65 @@
+card_id: C-S3-809
+stages: [S3]
+tags: [shonkoff, nrc, hpa_axis, cortisol, stress, china_high_freq]
+
+front:
+  title: "应激激素伤宝脑"
+  hook: "皮质醇会损伤海马"
+
+back:
+  why_matters: |
+    NRC 综述 Ch 8+9 给"婴儿应激"的神经生物学底座:
+    **HPA 轴 (Hypothalamic-Pituitary-Adrenal)**:
+    - 应激 → 大脑下丘脑发信号 → 垂体 → 肾上腺 → 分泌 cortisol(皮质醇)
+    - 短暂应激 → cortisol 上升 → 应激退后下降 = 健康
+    - **慢性应激** → cortisol 持续高 → 海马(记忆区)受损
+    **NRC 立场**:
+    - 婴儿应激源:虐待 / 严重忽视 / 母亲严重抑郁 / 长期分离 / 家暴
+    - 普通生活波折(妈妈累 / 偶尔吵架 / 短暂托管)→ 不是慢性应激
+    - 婴儿没有"反思"能力调节应激 — 完全靠**照护者调节**
+    - 安全依恋 = "应激缓冲器"
+    **机制证据**(Gunnar 多研究):
+    - 4 月起 cortisol 节律可测
+    - 安全依恋宝宝在压力情境下 cortisol 上升较少
+    - 不安全依恋宝宝在同样压力下 cortisol 大幅上升
+    **对中国家长**:
+    - 别让宝宝长期处于焦虑环境(家暴 / 父母抑郁 / 长期分离)
+    - 偶尔妈妈累 / 焦虑 / 家庭口角 → 不是慢性应激
+    - 安全依恋 = 应激缓冲 → 正常波折宝宝能扛
+    - 二胎 / 离婚 / 搬家 → 关注主要照护人保持稳定跟 Bowlby 安全依恋 + Stern self-regulating other 一致。
+  what_to_do:
+    - 避免长期家庭冲突
+    - 主要照护人保稳定
+    - 治疗自己抑郁 / 焦虑
+    - 二胎 / 搬家不剧烈
+    - 安全依恋是缓冲
+  failure_mode: |
+    "他这么小什么都不懂 — 我们俩吵架没事" — 错,婴儿生理上能感知应激。
+    "我抑郁不治 — 等他大了再说" — cortisol 累计期就 0-3 岁。
+    "二胎一来就把他扔老家" — 主要照护人骤变 = 严重应激源。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Shonkoff
+  - G-TERM-cortisol
+  - G-TERM-HPA-axis
+  - G-TERM-NRC
+
+citation:
+  book_title_en: "From Neurons to Neighborhoods"
+  authors: ["Jack P. Shonkoff", "Deborah A. Phillips"]
+  org: "NRC/IOM"
+  year_en: 2000
+  location: "Ch 8+9 · Gunnar HPA axis cortisol regulation"
+  source_id: SRC-025
+
+unit_ids: []
+related_cards:
+  - C-S5-070    # Bowlby 安全依恋 SRC-011
+  - C-S2-806    # Shonkoff 妈妈抑郁伤宝脑(本卷)
+  - C-S5-291    # Stern attunement SRC-018
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

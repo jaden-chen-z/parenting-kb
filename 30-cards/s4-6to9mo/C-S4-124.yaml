@@ -1,0 +1,64 @@
+card_id: C-S4-124
+stages: [S4]
+tags: [development_burst, controversy]
+
+front:
+  title: 26 周第五跃迁:关系世界
+  hook: 6 月发现"妈妈会走开"
+
+back:
+  why_matters: |
+    第 26 周(23-26 周 ≈ 6 月)是 Wonder Week 第五跃迁 — **关系世界**(World of Relationships)。
+    怎么回事:大脑从"识别动作序列"升级到能理解**物体之间的关系** —
+    最关键的是**距离感知**(spatial relationships):宝宝突然意识到"妈妈可以走到另一个房间,我够不到"。
+    这是一个让宝宝**惊恐的认知里程碑**:
+    - 之前不会爬时不知道距离的意义
+    - 现在知道但没能力跨越,产生"被抛弃"的真实焦虑
+    - 即使会爬,也意识到妈妈走得比自己快跃迁前烦躁 阶段(23-26 周)持续 1-5 周,平均 4 周。
+    跃迁后宝宝立刻开始:
+    - 爬 / 拉站 / 走 / 把握距离
+    - 物体永久性的全面建立
+    - 把东西塞进容器 / 拿出来 / 推门 / 拉抽屉 / 翻东西家长意义:**6 月怕妈妈走 = 健康跃迁,不是缺爱**。
+  what_to_do:
+    - 23-26 周 3 C 信号 + 强烈分离反应 → 第五跃迁
+    - 玩 peek-a-boo(物体永久性练习)
+    - 爬行空间布置好,让宝宝实操距离
+    - 离开房间前先打招呼(再小也要),不要偷偷溜走
+    - 不强行训练独立 / 不送托
+  failure_mode: |
+    "宝宝突然怕我走" → 训练独立 → 反加剧分离焦虑。
+    把跃迁期烦躁全部归罪给"出牙"(看 C-S4-126)。
+    误判"宝宝退步" → 焦虑 → 漏掉跃迁后即将上线的爬 / 站。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-vanderijt
+  - G-TERM-wonder-week
+  - G-TERM-mental-leap
+  - G-TERM-3C-signs
+  - G-TERM-fussy-phase
+  - G-TERM-object-permanence
+  - G-TERM-separation-anxiety
+
+citation:
+  book_title_zh: "婴儿大脑跃迁 10 周(神奇周)"
+  book_title_en: "The Wonder Weeks"
+  authors: ["Hetty van de Rijt", "Frans X. Plooij"]
+  authors_zh: ["海蒂·凡德里特", "弗朗斯·普洛伊"]
+  publisher_en: "Kiddy World Publishing"
+  year_en_first: 1992
+  isbn_en: "978-90-79208-12-1"
+  location: "Chapter 7 · Wonder Week 26: The World of Relationships(at about 26 weeks... most significant relationships that your baby can now perceive is the distance between one thing and another. We take this for granted as adults, but for a baby it is an alarming discovery)"
+  source_id: SRC-013
+
+unit_ids: []
+related_cards:
+  - C-S4-068       # Bowlby 8 月怕陌生人
+  - C-S4-069       # Bowlby 6-9 月真依恋形成
+  - C-S4-003       # AAP 物体永久性
+  - C-S1-179       # 10 跃迁时间表
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

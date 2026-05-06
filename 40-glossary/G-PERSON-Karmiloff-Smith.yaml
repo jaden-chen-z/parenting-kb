@@ -1,0 +1,80 @@
+glossary_id: G-PERSON-Karmiloff-Smith
+type: person
+display_name: Karmiloff-Smith
+
+full_name_en: Annette Karmiloff-Smith
+full_name_zh: 安妮特·卡米洛夫-史密斯
+
+one_liner: |
+  英国发展心理学家(伦敦大学 BBK 教授,2016 离世),神经建构主义奠基人。
+  代表作《Beyond Modularity》(1992)反 Piaget 阶段 + 反 Spelke 模块论。
+
+detail: |
+  ## 个人背景
+  - 1938-2016
+  - 日内瓦大学博士(Piaget 学生)
+  - 伦敦大学 Birkbeck 教授(2010-2016)
+  - 英国国家科学院院士
+
+  ## 核心理论:RR(Representational Redescription)4 层
+  1. **Implicit**(隐性)— 行为正确但不能解释
+  2. **Explicit-1**(程序)— 可调用但单一顺序
+  3. **Explicit-2**(部分意识)— 能言语解释
+  4. **Explicit-3**(完全意识)— 跨域可教
+
+  ## 神经建构主义(Neuroconstructivism)
+  - 基因不直接对应"认知模块"
+  - 早期微小神经差异 → 累积 → 看似模块
+  - 反 Pinker 强先天派 + 反 Spelke 5 系统纯先天
+
+  ## Williams 综合征 + SLI 研究
+  - 给行为遗传学反 Pinker 强模块论的实证基础
+  - 表观正常的语言下藏微小差异
+  - 各域发展路径不同 = 不是"基因坏了一个模块"
+
+  ## 立场
+  - 反 Pinker 强先天派
+  - 反 Spelke 完全先天 5 系统
+  - 部分认同 Carey 概念革命
+  - 当代认知发展主流立场
+
+  ## 中国家长意义
+  - 基因测试不能预测能力(发育路径关键)
+  - 早期干预对疾病有效(模块在建)
+  - 6 岁孩子"过度规则错"是进步信号
+  - 鼓励解释("你怎么做的") — 促重描述
+
+  ## 在本知识库中
+  - SRC-028 Lerner V2 Ch1/Ch14 主要引用(63 hits)
+  - C-S8-424 Karmiloff-Smith RR
+  - C-S8-429 Williams 综合征反早期模块
+
+  ## 学术影响
+  - Piaget 直系传人
+  - 著作《Beyond Modularity》(1992)经典
+  - 神经建构主义奠基
+
+key_facts:
+  - 伦敦大学 BBK 教授(已故)
+  - RR 表征重描述 4 层
+  - 神经建构主义奠基
+  - Piaget 直系传人
+
+related_glossary:
+  - G-PERSON-Spelke
+  - G-PERSON-Piaget
+  - G-PERSON-Carey
+  - G-TERM-baby-scientist
+
+related_cards:
+  - C-S8-424
+  - C-S8-429
+
+sources:
+  - source_id: SRC-028
+  - external: Karmiloff-Smith 1992 / Wikipedia Annette Karmiloff-Smith
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

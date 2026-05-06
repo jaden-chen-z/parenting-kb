@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Renninger
+type: person
+display_name: "Renninger(K. 安·雷宁格)"
+
+full_name_en: "K. Ann Renninger"
+full_name_zh: "K. 安·雷宁格"
+
+position: |
+  Swarthmore College
+
+contribution: |
+  兴趣发展 4 阶段 + V4 主编
+
+one_liner: |
+  K. 安·雷宁格 — 兴趣发展 4 阶段 + V4 主编
+
+key_facts:
+  - "本卷章节:主编 + 序章"
+  - "Lerner V4 命中:44 次"
+  - "学派:Lerner V4 应用心理学派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-029
+    chapter: "主编 + 序章"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

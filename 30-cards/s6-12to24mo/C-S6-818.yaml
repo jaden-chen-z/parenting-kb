@@ -1,0 +1,59 @@
+card_id: C-S6-818
+stages: [S6]
+tags: [fear, anxiety, attachment, japan, matsuda]
+
+front:
+  title: "千万别把娃单独留家"
+  hook: "10 分钟够留终身"
+
+back:
+  why_matters: |
+    松田 §331 给"出去买个东西就回来"妈妈一记警钟：
+    1. 1 岁孩子最怕事，惊吓后久缓不过来;
+    2. 哄睡后出门买东西，孩子醒来发现没人 → 大哭;
+    3. **持续 10-15 分钟 = 终身不离妈半步** — 上厕所都跟着哭;
+    4. 影响"自立性形成";
+    5. 同样不要让孩子被洗澡水呛 / 香皂进眼 — 后续抗拒洗澡;
+    6. 不要让被打针吓到 — 后续抗拒就医。
+    跟 Bowlby "secure base 必须有人在"+ Davies / 蒙氏"yes space"一致 +
+    跟中国传统"狼来了"派立场对立。
+
+  what_to_do:
+    - 哄睡后出门必须有人在场
+    - 散步父母双方都不在 = 不行
+    - 洗澡防呛防香皂入眼
+    - 选不打针就吃药的医生
+    - 真要出门也得换班谁在
+
+  failure_mode: |
+    最常见误区:"我哄睡了出去 10 分钟买菜没事" → 孩子半夜醒来空房
+    → 大哭 30 分钟没人来 → 形成创伤型不安全依恋。
+    后果:1.5-3 岁妈妈连厕所都跟着 + 入园分离焦虑严重 + 怕黑怕影子。
+    跟"狼来了" / "再哭妈妈就走" 一类吓唬话术一样毒 — 都是利用孩子最深的分离恐惧。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Matsuda
+  - G-TERM-attachment
+  - G-PERSON-Bowlby
+
+citation:
+  book_title_zh: "定本育儿百科"
+  authors:
+    - 松田道雄
+  publisher_ja: 岩波书店
+  year_first_edition: 1967
+  location: "§331 不要吓唬孩子"
+  source_id: SRC-024
+
+unit_ids: []
+related_cards:
+  - C-S5-026  # Brazelton 分离的痛主要在父母
+  - C-S6-407  # Lansbury 看医生 / 牙医 / 剪头 提前预告
+  - C-S6-138  # Davies 父母先照顾自己
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

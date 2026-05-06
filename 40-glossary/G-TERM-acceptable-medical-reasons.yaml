@@ -1,0 +1,57 @@
+glossary_id: G-TERM-acceptable-medical-reasons
+type: term
+display_name: "可接受医学原因清单"
+
+en_term: "Acceptable Medical Reasons for Breast-milk Substitutes"
+zh_term: "可接受医学原因清单"
+
+one_liner: |
+  WHO/UNICEF 2009 清单 — 哪些情况(也只在这些情况)可以使用配方奶。
+
+detail: |
+  ## 婴儿端医学例外
+  - 半乳糖血症(galactosemia)— 完全禁母乳
+  - 苯丙酮尿症(PKU)— 部分配特殊配方+母乳
+  - 枫糖尿症(MSUD)
+  - 极低出生体重(<1500g)
+  - 严重早产(<32 周)
+  - 严重高胆红素血症(临时)
+  - 严重窒息(临时)
+  
+  ## 母亲端医学例外
+  - HIV+(高资源 + AFASS 满足时)
+  - 严重疾病(脓毒症 / 心力衰竭)
+  - 1 型疱疹乳房病灶(临时)
+  - 化疗
+  - 放射性药物
+  - 部分精神药物
+  
+  ## 关键鉴别
+  - 临时停母乳 vs 完全停 — 多数情况是临时
+  - '妈妈累' / '奶不够' / '上班' → 不在医学例外清单
+  
+  ## 数据完整度
+  本清单基于间接信息(BFHI 第 6 步 + 医学常识)— 完整清单 WebFetch 失败,见 gaps G_WHO_2。
+
+key_facts:
+  - "WHO/UNICEF 2009 联合发布"
+  - "婴儿端 + 母亲端清单"
+  - "完整清单 gaps G_WHO_2"
+
+related_glossary:
+  - G-ABBR-BFHI
+  - G-TERM-HIV-feeding
+  - G-TERM-relactation
+
+related_cards:
+  - C-S1-1003
+  - C-S1-1012
+  - C-S1-1013
+
+sources:
+  - source_id: SRC-031
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

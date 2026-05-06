@@ -1,0 +1,63 @@
+card_id: C-S1-896
+stages: [S1]
+tags: [pikler, motor-发展, source-de]
+
+front:
+  title: "出生即仰卧自由动腿"
+  hook: "出生即仰卧自由动腿"
+
+back:
+  why_matters: |
+    皮克勒 1969 德文原版核心:**自然大动作发展**从出生第一天起
+    就要给"自由活动"条件 — 仰卧 + 宽松衣服 + 平面。
+
+    背景:1969 欧洲多用紧裹 / 摇篮限制 / 包紧腿。
+    皮克勒反对一切限制 — 婴儿一出生就要能动腿伸臂。
+
+    玛格达把这个原则带到美国(SRC-022 第 3 章)→ 兰斯伯里隔代继承(SRC-019)。
+    RIE 派"出生即仰卧"立场源头在此。
+
+    跟 AAP"仰睡"(防婴儿猝死综合征)立场一致,但
+    皮克勒 1969 早 25 年就提出。
+
+  what_to_do:
+    - 出生即仰卧 — 不竖抱不俯卧不侧卧
+    - 衣服宽松到能自由动腿(不紧裹 / 不连体外套)
+    - 平面给婴儿 — 床 / 地垫,不"婴儿座椅"
+    - 包巾只在睡眠用,白天不包(自由动)
+    - 不抱在大腿上"直立"(脊椎未发育完)
+
+  failure_mode: |
+    "新生儿也要直立看世界" → Pikler 反:脊椎软骨,
+    被竖立 = 受压。需要数周完全仰卧建立颈背肌力,
+    自己能抬头才进入下一阶段(2-3 月)。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Pikler
+  - G-TERM-bewegungsentwicklung
+  - G-TERM-supine-position
+
+citation:
+  book_title_de: "Friedliche Babys – zufriedene Mütter"
+  book_title_zh: "和平的婴儿 — 满足的母亲"
+  authors:
+    - Emmi Pikler
+  publisher_de: HERDER (HERDER / SPEKTRUM Band 4141)
+  year: 1969
+  location: "Ch2 Die Entwicklung der Bewegung pp. 27-30"
+  source_id: SRC-026
+
+unit_ids: []
+related_cards:
+  - C-S1-409  # Gerber 永远仰卧不俯卧(本卷源头)
+  - C-S2-290  # Lansbury 不撑坐 8 理由(Pikler 原版)
+  - C-S1-411  # Gerber 7 类婴儿设备先放下(Pikler 立场源)
+  - C-S1-016  # Karp/AAP SIDS 仰睡(立场一致)
+  - C-S4-349  # Gerber 里程碑不是赛跑
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

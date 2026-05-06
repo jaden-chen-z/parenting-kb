@@ -22,6 +22,21 @@ back:
     其实从出生第一天起,每个宝宝在感官敏感度、安抚方式、状态切换速度上就有差异,这些就是个性,不是缺陷。
   evidence_level: B
 
+  positions:
+    issue: 第四产程命名群 — 同一概念多种叫法
+    views:
+      - school: Karp
+        source: SRC-003
+        stance: 第四产程(fourth trimester)— 出生后头 4 月,继续模拟子宫感是核心。
+      - school: 蒙氏(Davies/Lillard)
+        source: SRC-014/016
+        stance: exterogestation 外孕期 — 强调婴儿"在外"继续发育的生物学连续性。
+      - school: Brazelton
+        source: SRC-010
+        stance: 不用"第四产程"标签,讲"独立的人 + 触点(touchpoints)",视婴儿为完整个体。
+      - school: Gopnik
+        source: SRC-015
+        stance: 长童年期(extended childhood)是进化优势,人类大脑发育期长于其他灵长类。
 glossary_refs:
   - G-ABBR-NBAS
   - G-PERSON-Brazelton

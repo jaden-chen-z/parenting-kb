@@ -1,0 +1,28 @@
+glossary_id: G-TERM-autotelic-personality
+type: term
+display_name: "内驱型人格 / autotelic personality"
+
+name_en: "autotelic personality"
+name_zh: "内驱型人格"
+
+description: |
+  Csikszentmihalyi 概念 — "以活动本身为目的"的人格(au=自,telos=目的)。
+  2-3 岁形成关键期。
+
+one_liner: |
+  内驱型人格(autotelic personality)— Csikszentmihalyi 概念 — "以活动本身为目的"的人格(au=自,telos=目的)。
+
+key_facts:
+  - "Lerner V1 元理论卷核心术语"
+  - "学派:Lerner V1 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

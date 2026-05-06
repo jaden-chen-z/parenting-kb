@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Sigel
+type: person
+display_name: "Sigel(欧文·E·西格尔)"
+
+full_name_en: "Irving E. Sigel"
+full_name_zh: "欧文·E·西格尔"
+
+position: |
+  ETS Educational Testing Service
+
+contribution: |
+  父母信念 + distancing strategies + V4 主编
+
+one_liner: |
+  欧文·E·西格尔 — 父母信念 + distancing strategies + V4 主编
+
+key_facts:
+  - "本卷章节:主编 + Ch 24"
+  - "Lerner V4 命中:91 次"
+  - "学派:Lerner V4 应用心理学派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-029
+    chapter: "主编 + Ch 24"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,28 @@
+glossary_id: G-TERM-attractors
+type: term
+display_name: "吸引子 / attractors"
+
+name_en: "attractors"
+name_zh: "吸引子"
+
+description: |
+  dynamic systems 里系统倾向"停在"的稳定状态(坐 / 爬 / 站等)。
+  看似 "阶段" 是 attractor 短暂稳定。环境改可以转 attractor。
+
+one_liner: |
+  吸引子(attractors)— dynamic systems 里系统倾向"停在"的稳定状态(坐 / 爬 / 站等)。
+
+key_facts:
+  - "Lerner V1 元理论卷核心术语"
+  - "学派:Lerner V1 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

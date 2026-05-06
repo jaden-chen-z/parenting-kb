@@ -1,0 +1,54 @@
+glossary_id: G-PERSON-Wynn
+type: person
+display_name: Wynn
+
+full_name_en: Karen Wynn
+full_name_zh: 凯伦·温恩
+
+one_liner: |
+  美国发展心理学家(耶鲁大学教授),1992 5 月数概念实验奠基人。
+  推翻 Piaget"数前运算"6-7 岁说,实证 5 月就有 1+1=2 雏形。
+
+detail: |
+  ## 个人背景
+  - 麦吉尔大学博士
+  - 耶鲁大学心理学教授
+  - 美国心理协会会士
+
+  ## 核心研究
+  - **Wynn 1992**:5 月宝宝看 1+1 = 2 实验
+  - 屏幕降下藏 1 玩偶,加 1 个,屏幕升起若只 1 个 → 婴儿盯久(不可能)
+  - 推翻 Piaget 数前运算 6-7 岁说
+  - 婴儿数学能力研究奠基
+
+  ## 立场
+  - Spelke 核心知识"数系统"派
+  - 数系统先天 + 普世立场
+  - 跟 Dehaene 数感双系统对接
+
+  ## 在本知识库中
+  - SRC-028 Lerner V2 Ch18 引用经典(97 hits)
+  - C-S3-1144 Wynn 5 月加法雏形
+
+key_facts:
+  - 耶鲁大学心理学教授
+  - 1992 5 月数概念奠基
+  - 推翻 Piaget 数前运算 6-7 岁说
+  - Spelke 核心知识"数系统"派代表
+
+related_glossary:
+  - G-PERSON-Spelke
+  - G-PERSON-Piaget
+  - G-TERM-baby-scientist
+
+related_cards:
+  - C-S3-1144
+
+sources:
+  - source_id: SRC-028
+  - external: Wynn 1992 Nature / Wikipedia Karen Wynn
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

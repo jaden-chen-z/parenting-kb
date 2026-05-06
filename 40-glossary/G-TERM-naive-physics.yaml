@@ -1,0 +1,64 @@
+glossary_id: G-TERM-naive-physics
+type: term
+display_name: 朴素物理 (naive physics)
+
+full_name_zh: 朴素物理 / 直觉物理
+full_name_en: Naive Physics / Folk Physics
+
+one_liner: |
+  儿童早期对"物体如何动"的直觉理论 — 4 月就有,3-4 岁稳定。
+  基础在 Spelke 核心知识"物体系统",VOE 实验奠基。
+
+detail: |
+  ## 定义
+  儿童 3 大直觉理论之一(物理 / 心理 / 生物):
+  - 关于物体运动 / 重力 / 固体性的早期理论
+  - 4 月:已知物体不穿越固体(Baillargeon 吊桥)
+  - 4 月:已知"接触因果"(Cohen 撞球)
+  - 3-4 岁:稳定基本物理直觉
+  - 6-7 岁:开始抽象物理(重力 / 摩擦)
+
+  ## 跟 Spelke 核心知识
+  - "物体系统"+"行动系统"= 朴素物理
+  - 出生即有,后续添加细节
+  - 跨文化普适
+
+  ## 在本知识库中
+  - SRC-028 Lerner V2 Ch5/Ch14 综述
+  - C-S3-1140 Baillargeon 吊桥
+  - C-S3-1142 因果直觉 4 月
+  - C-S8-427 直觉理论 3 大领域
+
+  ## 中国家长意义
+  - 朴素物理婴儿期就有 — 不需要"教"
+  - 玩"积木倒"游戏体验物理
+  - 4 月起让宝宝看物体掉落(实物 + 安全)
+  - 不必焦虑"几月教重力"
+
+key_facts:
+  - 3 大直觉理论之一
+  - 4 月已有雏形
+  - 基础在 Spelke 核心知识
+  - VOE 实验奠基
+
+related_glossary:
+  - G-PERSON-Spelke
+  - G-PERSON-Baillargeon
+  - G-TERM-conceptual-revolution
+  - G-TERM-intuitive-theories
+  - G-TERM-core-knowledge
+
+related_cards:
+  - C-S3-1140
+  - C-S3-1142
+  - C-S4-1141
+  - C-S8-427
+
+sources:
+  - source_id: SRC-028
+  - external: Spelke 1994 / Baillargeon 1985 / Wikipedia Naive Physics
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

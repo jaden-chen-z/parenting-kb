@@ -1,0 +1,62 @@
+card_id: C-S6-614
+stages: [S6]
+tags: [language, RIE, aggression]
+
+front:
+  title: "语言给娃武器替打咬"
+  hook: "会说话他就不打不咬"
+
+back:
+  why_matters: |
+    Magda《自信的宝宝》Ch8 §Why Is It Important for Your Child
+    to Be Able to Talk about His Feelings? — 中国家长高频痛点解药。
+    Magda 立场:**鼓励娃用语言表达情绪 → 他可能选说而不是推/打/咬**。
+    "如果他用语言能引起注意,就不需要靠负面行为。"
+    1.5-2 岁打人 / 咬人高峰 — 因他想要某物 / 某种感觉,但没词说。
+    Magda 给的语言技巧:
+    1 重复他的词:"狗,你要摸狗"
+    2 帮他完成短语:他说"up" → 你说"你要我抱你"
+    3 给 2 选项问句:"你要苹果还是梨"
+    4 不教重复,只让他听你说生活
+    5 Be selective 你说的词(他模仿你)
+    本质:**给他词 = 给他权力,他不必用拳头要回**。
+
+  what_to_do:
+    - 听他每个字 / 音重复回来
+    - "你说 up,你想我抱"
+    - 不强迫 repeat,只让他听
+    - 给 2 选问句替"yes/no"
+    - 1.5 岁打人 → 教"还,我要"
+
+  failure_mode: |
+    「他打人就该打回去让他知道疼」 → Magda 反:那教他打人 OK +
+    剥夺他学语言的窗口期。或「他还不会说所以打人没办法」 → 反:不会说是症状,你给词 = 解药。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+  - G-TERM-acknowledging-feelings
+
+citation:
+  book_title_en: "Your Self-Confident Baby"
+  book_title_zh: "自信的宝宝"
+  authors:
+    - Magda Gerber
+    - Allison Johnson
+  publisher_en: John Wiley & Sons
+  year: 1998
+  location: "Ch8 §Why Is It Important for Your Child to Be Able to Talk about His Feelings?(p214)"
+  source_id: SRC-021
+
+unit_ids: []
+related_cards:
+  - C-S6-405  # Lansbury 鼓励幼儿说话 6 招
+  - C-S6-403  # Lansbury 限度+情绪并存
+  - C-S2-127  # Davies 真词不嘎嘎
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

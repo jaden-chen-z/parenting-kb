@@ -1,0 +1,51 @@
+# ═══════════════ S5(9-12 月)5 张 ═══════════════
+card_id: C-S5-2243
+stages: [S5]
+tags: [safety, red_flag]
+
+front:
+  title: 误吞硬币:观察便便,纽扣电池急诊
+  hook: 纽扣电池 = 化学烧伤 2 小时穿食道
+
+back:
+  why_matters: |
+    9-12 月宝宝抓握精进,小物吞食高发。海蒂分级:
+    - **微小圆形物**(硬币 / 弹珠 / 小球):无症状 → 观察便便 2-3 天
+    - **纽扣电池 / 磁铁 / 尖锐物**:**立刻急诊**
+    纽扣电池在食道**2 小时**就开始**化学烧灼穿孔**(电池漏氢氧化钠);
+    多颗磁铁可在肠内吸附挤穿肠壁。
+    任何吞食后:哮鸣 / 呼吸困难 / 流口水 / 呕吐 / 吞咽困难 → 食道卡 → 急诊。
+  what_to_do:
+    - 纽扣电池 / 磁铁 / 尖锐物 / 化学品 → **立刻急诊**(不等)
+    - 硬币 / 弹珠 / 小球无症状 → 观察便便 2-3 天
+    - 出现哮鸣 / 呼吸困难 / 流口水 / 吞咽痛 → 急诊(卡食道)
+    - 误吸入气管(咳嗽 + 呼吸困难)→ 按窒息处理(C-S1-2302)
+    - 居家:**纽扣电池 + 磁铁 + 小硬币** 全锁起来 / 高处放
+  failure_mode: |
+    纽扣电池吞下"等便便排出" → 2-4 小时食道穿孔,致命。
+    给吞物宝宝催吐 → 二次划伤食道。
+    多颗磁铁误吞当一颗处理 → 互相吸住挤穿肠壁,需手术。
+    家中遥控器 / 助听器 / 电子钟拆开扔旁 → 纽扣电池随手可得。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-AAP
+
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1 岁"
+  authors: [Heidi Murkoff, Sharon Mazel]
+  publisher_en: Workman Publishing
+  publisher_zh: 南海出版公司(新经典发行)
+  year: 1989
+  edition: 3rd (2014)
+  location: "第 19 章《急救常识》'吞食异物 54-55',586-587 页中译"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards: [C-S1-2302, C-S4-2247]
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

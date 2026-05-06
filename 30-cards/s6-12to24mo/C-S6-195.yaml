@@ -1,0 +1,69 @@
+card_id: C-S6-195
+stages: [S6]
+tags: [montessori, language, modeling, philosophy]
+
+front:
+  title: 父母自己读书 = 模范
+  hook: 孩子学你做不学说
+
+back:
+  why_matters: |
+    Lillard Ch8 关键命题 — **孩子永远学父母做的,不学父母说的**。
+    特别在阅读上:
+    - 你说"读书重要,你要爱读书"
+    - 但孩子从不见你读书 → 学到"读书是骗孩子的"
+    - 你自己每天读书 — 孩子自然把读书看成"大人爱做的事"
+    Lillard 案例(本卷):
+    - 一妈妈每天宝宝午觉醒后头 15 分钟自己读书
+    - 18 月宝宝抗议 — 妈妈平静说"我现在读书,我读完帮你"
+    - 几周后,2 岁宝宝自己也开始拿书"读"
+    实操:
+    - **每天给自己设固定读书时间**(15-30 分,宝宝在旁)
+    - **用真书,不是手机**(模范不是看屏幕)
+    - **平静拒绝宝宝打扰**("我读书,读完帮你")
+    - **让宝宝看你享受过程**(笑 / 划重点 / 沉浸)
+    - 不**读 boring 书**给宝宝看(自己也要享受)
+    重点 — 这条规则不只适用读书,适用一切:
+    - 想宝宝爱运动 → 自己运动
+    - 想宝宝爱做家务 → 自己做家务有兴趣
+    - 想宝宝平静 → 自己平静
+    - **想要什么质量的孩子 → 自己先成为那样的人**
+    跟"我让孩子学,我自己玩手机"中国家长高频痛点**直接对立**。
+  what_to_do:
+    - 每天 15-30 分自己读书
+    - 用真书不用手机
+    - 平静拒绝宝宝打扰
+    - 让宝宝看你享受
+    - 想娃成为啥样,先自己成为
+  failure_mode: |
+    "我没时间读书,工作累" — 反:你要孩子爱读书,自己不读 = 教不会的。
+    跟孩子说要读书 + 自己玩手机 — 孩子学到"说一套做一套"。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Lillard
+  - G-PERSON-Jessen
+  - G-TERM-prepared-environment
+  - G-TERM-absorbent-mind
+
+citation:
+  book_title_zh: "蒙台梭利从 0 岁开始"
+  book_title_en: "Montessori from the Start"
+  authors: ["Paula Polk Lillard", "Lynn Lillard Jessen"]
+  authors_zh: ["宝拉·波尔克·莉拉德", "琳·莉拉德·杰森"]
+  publisher_en: "Schocken Books"
+  year_en: 2003
+  isbn_en: "978-0-8052-1112-1"
+  location: "Ch 8 · 'Development of written language' (parent reading example)"
+  source_id: SRC-016
+
+unit_ids: []
+related_cards:
+  - C-S2-189       # Lillard 0-6 岁只给真实
+  - C-S6-186       # Lillard 母-师角色
+  - C-S7-136       # Lillard 观察 = 科学家方式
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

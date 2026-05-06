@@ -1,0 +1,84 @@
+glossary_id: G-TERM-executive-function
+type: term
+display_name: executive function 执行功能
+
+en_term: executive function / executive control
+zh_term: 执行功能 / 脑的指挥功能
+
+one_liner: |
+  大脑前额叶皮层(PFC)主导的高级认知能力 — 3 个核心子能力:
+  inhibitory control 抑制 + working memory 工作记忆 + cognitive flexibility 认知灵活。
+  3 岁起步,6 岁基础成熟,青春期晚期裁剪完成。
+  比 IQ 更预测学业 / 收入 / 健康(Mischel 棉花糖实验跟踪 30+ 年)。
+
+detail: |
+  ## 3 个核心子能力(Diamond 1996)
+  1. **inhibitory control 抑制控制**:想做但等等再做
+     - 例:Simon Says 游戏(只听 "Simon Says ..." 的指令)
+     - 例:等饼干 / 等老师叫名再吃
+  2. **working memory 工作记忆**:短时记多个信息
+     - 例:记住"穿鞋 + 拿包 + 关门"3 步
+     - 例:记住老师刚说的故事 + 自己想问题
+  3. **cognitive flexibility 认知灵活**:切换规则
+     - 例:先按颜色分类 → 再按形状分类
+     - 例:换游戏规则不闹
+
+  ## 发展时间线
+  - 1 岁:PFC 突触爆增高峰
+  - 2-3 岁:executive control 起步(简单等待)
+  - 3-4 岁:抑制 + 工作记忆基础
+  - 4-5 岁:认知灵活起步
+  - 5-6 岁:基础成熟(Simon Says 能玩)
+  - 青春期晚期:成人水平(裁剪完成)
+
+  ## Mischel marshmallow test 经典
+  - 4-5 岁孩子被给一颗棉花糖
+  - "如果你等 15 分钟我回来 — 给你两颗"
+  - 跟踪到 30+ 岁
+  - 等待时长跟成年:
+    - 学业成绩 ↑
+    - 收入 ↑
+    - 健康(BMI 低 / 心血管低)
+    - 关系质量 ↑
+    - 抗药品依赖 ↑
+
+  ## 比 IQ 更预测
+  - 4 岁执行功能 → 比 IQ **更强**预测一年级表现
+  - 长期跟踪:执行功能 → 强于 IQ 预测成功
+  - **可训练性强** — 比 IQ 更可塑
+
+  ## 培养执行功能的活动
+  - 假装游戏(角色扮演)→ 抑制 + 切换
+  - 规则游戏(轮流 / 等候)→ 抑制
+  - 阅读 → 工作记忆
+  - 自由玩耍 → 决策 + 自调
+  - 反对:屏幕快剪辑 / 提前学拼音
+
+  ## NRC 立场(Ch 5+13)
+  - 执行功能是早期教育**真目标**
+  - "提前学拼音 / 数学" 不练执行功能
+  - "玩 + 规则游戏 + 阅读" 才练执行功能
+  - 学龄前的真"早教"应是执行功能训练
+
+key_facts:
+  - 3 子能力 = 抑制 + 工作记忆 + 灵活
+  - PFC 主导 + 3 岁起步 + 青春期成熟
+  - Mischel 棉花糖实验经典
+  - 比 IQ 更预测长期成功
+
+related_glossary:
+  - G-PERSON-Shonkoff
+  - G-TERM-prefrontal-cortex
+  - G-TERM-self-regulation
+  - G-TERM-NRC
+
+related_cards: []
+
+sources:
+  - source_id: SRC-025
+  - external: Diamond multiple papers / Mischel 30-year follow-up
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

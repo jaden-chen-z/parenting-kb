@@ -1,0 +1,87 @@
+glossary_id: G-PERSON-Winnicott
+type: person
+display_name: Winnicott
+
+full_name_en: Donald Winnicott
+full_name_zh: 唐纳德·温尼科特
+
+one_liner: |
+  英国儿科医生 + 精神分析师(1896-1971)。提出"过渡客体"(transitional object)/"足够好的母亲"(good-enough mother)/"真实自我 vs 虚假自我"等概念,深刻影响了 Bowlby 依恋理论 + 现代育儿心理学。
+
+detail: |
+  ## 个人背景
+  - 1896-1971,英国剑桥
+  - 剑桥大学医学院 → 儿科医生(伦敦帕丁顿绿儿童医院 40 年)
+  - 同时执业精神分析师(英国精神分析学会主席 2 任)
+  - 临床观察 6 万 + 母婴对,经验之深无人能及
+
+  ## 主要贡献(对育儿知识库重要的 4 个)
+
+  ### 1. 过渡客体(Transitional Object)— 1953
+  宝宝抱不放手的毯子 / 玩偶 / 衣角 — Winnicott 命名为"过渡客体"。
+  - 不是怪癖,1/3 婴儿都有
+  - 功能:在妈妈不在时充当"半个妈妈",帮宝宝过渡到独立
+  - 选自身边物品,不能被替换(气味 + 触感都被宝宝熟悉)
+  - 逐渐失去重要性 — 不必强夺,会自然淡出
+
+  ### 2. 足够好的母亲(Good-Enough Mother)— 1953
+  反对"完美母亲"焦虑 — 妈妈不必 100% 即时满足宝宝。
+  - 早期(0-6 月)接近完美回应是必要的
+  - 后期妈妈逐渐"小失败"(有时晚回应)反而让宝宝学会现实 + 内化母亲形象
+  - 100% 完美会阻碍孩子发育"内部安全感"
+  - 这是反"焦虑型 helicopter parenting"的经典立场
+
+  ### 3. 真实自我 vs 虚假自我(True Self vs False Self)— 1960
+  早期照顾不响应宝宝真实需求 → 宝宝发展"虚假自我"来适应环境(取悦型人格)。
+  足够好的妈妈 → 宝宝发展"真实自我"。
+  对应 Bowlby 焦虑型 vs 安全型依恋。
+
+  ### 4. holding environment(承托环境)— 1960
+  妈妈不只是物理"抱",还是心理"承托" — 让宝宝感到安全 + 被理解。
+  延伸到所有关系(治疗师 / 老师 / 伴侣)— 都是 holding environment。
+
+  ## 与 Bowlby 的关系
+  Winnicott 比 Bowlby 早(英国精神分析学会同辈)。Bowlby 依恋理论建立时直接吸收 Winnicott
+  的"good-enough mother"和"holding environment"概念。Bowlby 把心理学概念量化(Strange Situation),
+  Winnicott 提供了临床/哲学根基。
+
+  ## 育儿实操含义
+  1. **不必 100% 完美** — 焦虑型妈妈可以放松,"足够好"就够了
+  2. **不抢宝宝的过渡客体** — 不洗 / 不丢 / 不替换
+  3. **真实回应 vs 表演式回应** — 宝宝能分辨,假笑被镜像
+  4. **让宝宝感到被理解 vs 只满足生理需求** — holding 比喂奶重要
+
+  ## 与中国家庭的张力
+  中国家庭常见三种习惯都跟 Winnicott 立场冲突:
+  - "完美妈妈"焦虑(必须随时在 / 必须教各种东西)
+  - 强夺过渡客体(嫌脏 / 怕养成习惯)
+  - "懂事就好"(虚假自我赞美 vs 真实自我接纳)
+
+key_facts:
+  - 1896-1971 英国儿科医生 + 精神分析师
+  - 提出 transitional object / good-enough mother / true self / holding environment 4 大经典概念
+  - 临床观察 6 万 + 母婴对
+  - Bowlby 依恋理论建立时直接吸收其概念
+  - 著作:《Playing and Reality》(1971)/ 《The Maturational Processes and the Facilitating Environment》(1965)
+
+related_glossary:
+  - G-TERM-transitional-object
+  - G-PERSON-Bowlby
+  - G-PERSON-Brazelton
+  - G-TERM-attachment
+  - G-TERM-postpartum-depression
+
+related_cards:
+  - C-S1-076       # Brazelton 妈妈崩溃(holding environment 概念)
+  - C-S6-025       # Brazelton lovey 是滋养标志(transitional object)
+  - C-S5-076       # Bowlby V1 过渡客体(直接引 Winnicott 命名)
+
+sources:
+  - source_id: SRC-010
+  - source_id: SRC-011
+  - external: Winnicott 1953《Transitional Objects and Transitional Phenomena》IJP
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

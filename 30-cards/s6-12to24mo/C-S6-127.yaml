@@ -1,0 +1,67 @@
+card_id: C-S6-127
+stages: [S6]
+tags: [philosophy, parental_role, controversy]
+
+front:
+  title: '"质量时间"是个伪概念'
+  hook: 计划陪伴是工业逻辑
+
+back:
+  why_matters: |
+    职场妈妈常焦虑:"我每天只能陪宝宝 2 小时,怎么保证'高质量陪伴'?"
+
+    《奇迹周》Ch1 专门加了一个反对方框 — **"高质量陪伴是一种不自然的奇想"**:
+
+    > 当你让宝宝自己决定他什么时候、要什么样的关注,你会发现他的需求每周都在变。
+    > 计划好的玩耍时段是不自然的。如果你想要宝宝的全心专注,你必须在他想玩时陪他玩。
+    > 跟宝宝玩得开心,是没法计划的。
+
+    为什么这样说:在跃迁周期内,宝宝的需求**每周都不同**:
+    - 烦躁阶段:需要粘着你 + 身体接触,不需要"游戏"
+    - 学新本事阶段:需要试新能力,不需要"摆拍式陪玩"
+    - 平静期:需要自己独立玩,不需要妈妈一直在旁边
+
+    设定"6-7 点是高质量陪伴时间"反而错位 — 宝宝想粘你时你要"陪玩",宝宝想自己玩时你硬陪。
+
+    家长意义:**"高质量陪伴"是把工业逻辑套到育儿,要换成"响应式陪伴"**:
+    - 宝宝来找你 → 全心回应几分钟(可能 30 秒)
+    - 宝宝自己玩 → 你做你的事
+    - 不刻意安排"今天必须读书 30 分钟"
+  what_to_do:
+    - 把"陪伴"理解为响应,不是计划
+    - 宝宝主动来抱时立刻放下手机
+    - 不刻意"今天该早教 20 分钟"
+    - 烦躁期多抱多哺,平静期让她独立玩
+    - 学会读宝宝信号(累 / 兴奋 / 烦)而不是按表执行
+  failure_mode: |
+    "我每天 6-7 点必须早教游戏" → 宝宝那天烦躁 → 你急 → 双方挫败。
+    "宝宝在我面前自己玩 = 我陪伴失败" — 错,这是宝宝健康信号(平静期的自主探索)。
+    把陪伴变成 KPI 指标,跟同事比"我每天和娃游戏 X 小时"。
+  evidence_level: C
+
+glossary_refs:
+  - G-PERSON-vanderijt
+  - G-TERM-wonder-week
+  - G-TERM-fussy-phase
+
+citation:
+  book_title_zh: "婴儿大脑跃迁 10 周(神奇周)"
+  book_title_en: "The Wonder Weeks"
+  authors: ["Hetty van de Rijt", "Frans X. Plooij"]
+  authors_zh: ["海蒂·凡德里特", "弗朗斯·普洛伊"]
+  publisher_en: "Kiddy World Publishing"
+  year_en_first: 1992
+  isbn_en: "978-90-79208-12-1"
+  location: "Chapter 1 · Quality Time: An Unnatural Whim box(planned playtimes are unnatural. If you want your baby's undivided attention, you have to play when it suits him. It is impossible to plan having fun with a baby)"
+  source_id: SRC-013
+
+unit_ids: []
+related_cards:
+  - C-S1-179       # 10 跃迁时间表
+  - C-S1-178       # 三 C 信号
+  - C-S5-128       # 跃迁期撒娇也是 fussy
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

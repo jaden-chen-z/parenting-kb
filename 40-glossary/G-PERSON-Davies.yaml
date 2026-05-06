@@ -1,0 +1,57 @@
+glossary_id: G-PERSON-Davies
+type: person
+display_name: Davies (西蒙·戴维斯)
+
+full_name_en: Simone Davies
+full_name_zh: 西蒙·戴维斯
+
+one_liner: |
+  澳大利亚籍蒙氏 0-3 教师,《Montessori Notebook》创始人。
+  现居荷兰阿姆斯特丹,经营 Jacaranda Tree Montessori 母婴教室,擅长把蒙氏概念翻译给现代父母,著《蒙特梭利的小宝宝》《蒙特梭利学步儿》。
+
+detail: |
+  ## 背景
+  - 出生于澳大利亚,曾居伦敦,后定居荷兰阿姆斯特丹
+  - 蒙氏 0-3 + 3-6 双认证教师(AMI 协会)
+  - 2008 年创办 Jacaranda Tree Montessori 母婴课堂
+  - 博客《The Montessori Notebook》是英文蒙氏育儿头部账号
+
+  ## 主要著作
+  - 2019《蒙特梭利学步儿》(The Montessori Toddler) — 1-3 岁
+  - 2021《蒙特梭利的小宝宝》(The Montessori Baby) — 0-1 岁,本卷
+  - 与尼日利亚 Junnifa Uzodike 合著本卷
+
+  ## 风格
+  - 把蒙氏 100 年的学术语言翻译成现代家长能懂的实操指南
+  - 不卖蒙氏教具,反复强调"少即是多"
+  - 兼容主流安全建议(AAP SIDS 指南)
+  - 不教条,允许家庭按情况调整
+
+  ## 在中文社群的影响
+  - 蒙氏育儿圈高知名度
+  - 中文社群常引用她"低压力蒙氏"风格
+  - 与 RIE 派(Janet Lansbury)有理论交集
+
+key_facts:
+  - 蒙氏 0-3 + 3-6 AMI 双认证教师
+  - 《Montessori Notebook》博客创始人
+  - 阿姆斯特丹 Jacaranda Tree Montessori 创办人
+  - 2 个孩子的母亲
+
+related_glossary:
+  - G-PERSON-Montessori
+  - G-TERM-absorbent-mind
+  - G-TERM-yes-space
+  - G-TERM-floor-bed
+  - G-TERM-prepared-environment
+
+related_cards: []
+
+sources:
+  - source_id: SRC-014
+  - external: themontessorinotebook.com / Jacaranda Tree Montessori 官网
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

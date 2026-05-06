@@ -1,0 +1,28 @@
+glossary_id: G-TERM-wisdom-paradigm
+type: term
+display_name: "智慧范式 / wisdom paradigm"
+
+name_en: "wisdom paradigm"
+name_zh: "智慧范式"
+
+description: |
+  Baltes-Staudinger 智慧 5 维度:深识 / 实操 / 价值 / 不确定性 / 跨情境。
+  50+ 岁峰值 ≠ IQ 25 岁峰。
+
+one_liner: |
+  智慧范式(wisdom paradigm)— Baltes-Staudinger 智慧 5 维度:深识 / 实操 / 价值 / 不确定性 / 跨情境。
+
+key_facts:
+  - "Lerner V1 元理论卷核心术语"
+  - "学派:Lerner V1 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,59 @@
+card_id: C-S4-298
+stages: [S4]
+tags: [autonomy, philosophy, RIE, lansbury]
+
+front:
+  title: "宝宝是依赖但不是无能"
+  hook: "依赖不等于无能为力"
+
+back:
+  why_matters: |
+    Lansbury Ch11 + Ch15 反复强调的关键区分:
+    Magda Gerber 的命名:
+    - dependent(依赖)= 真,宝宝需要照顾
+    - helpless(无助)= 错,宝宝是 capable self-learner
+    主流(包括 Sears 派)把宝宝当 helpless → 全程抱 + 全程逗。
+    RIE 把宝宝当 capable + dependent → 给空间 + 信任能力。
+    这一字之差,是整个育儿哲学的分水岭。
+
+  what_to_do:
+    - 看宝宝挣扎,先信任他能,再决定是否帮
+    - 给"空间 + 信任"作为根基
+    - 不预设"宝宝什么都不会"
+    - 看到自主玩 = 开心(不是"他不需要我")
+    - 跟宝宝建立平等的"两个人"关系
+
+  failure_mode: |
+    "宝宝那么小什么都不会" → 自我实现的预言,他真变 helpless。
+    或反向:"信任宝宝能 = 不需要照顾" → 误解 RIE,
+    依赖照顾跟无能完全两回事。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Lansbury
+  - G-PERSON-Gerber
+  - G-PERSON-Pikler
+  - G-TERM-RIE
+
+citation:
+  book_title_en: "Elevating Child Care: A Guide to Respectful Parenting"
+  book_title_zh: "尊重孩子:RIE 育儿之道"
+  authors:
+    - Janet Lansbury
+  publisher_en: JLML Press
+  year: 2014
+  location: "Ch11 + Ch15 — dependent vs helpless"
+  source_id: SRC-019
+
+unit_ids: []
+related_cards:
+  - C-S1-352  # Lansbury 把新生儿当真人
+  - C-S4-295  # Lansbury 挣扎时先等
+  - C-S5-130  # Davies 1 岁前两份心理大礼(独立 + 信任)
+  - C-S1-123  # Bowlby V1 出生几天就能认妈妈(婴儿能力)
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

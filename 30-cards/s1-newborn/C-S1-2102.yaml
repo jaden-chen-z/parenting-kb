@@ -1,0 +1,59 @@
+card_id: C-S1-2102
+stages: [S1]
+tags: []
+
+front:
+  title: 母乳的妈妈端 7 大好处
+  hook: 不只对宝宝好
+
+back:
+  why_matters: |
+    "母乳好处"讨论几乎全聚焦宝宝,海蒂提醒:对妈妈的好处一样实在。
+    7 大妈妈端好处:
+    (1) 子宫复旧更快(吸吮触发宫缩),
+    (2) 减少恶露 = 失血少,
+    (3) 每天多耗 500 卡 → 帮助减孕期重,
+    (4) 哺乳激素抑制排卵 → 自然避孕(不100%可靠,见 C-S0-1027),
+    (5) 子宫癌 / 卵巢癌 / 绝经前乳腺癌风险下降,
+    (6) 风湿性关节炎 + 骨质疏松风险下降,
+    (7) 强制频繁短休 → 产后身体被迫修养。
+    当作"做不了母乳就失败"看是错的;当作"额外好处"激励持续就对。
+  what_to_do:
+    - 把妈妈端好处写下来,情绪低时看
+    - 哺乳间隔躺下 = 身体修养时间,别用来做家务
+    - 别因为"想瘦"少吃 → 哺乳额外耗 500 卡
+    - 自然避孕不可靠 → 6 周后查产后避孕方案
+    - 哺乳期定期乳房自检
+  failure_mode: |
+    只看宝宝端好处 → 自己累垮时找不到坚持的支点。
+    误以为"哺乳期不会怀孕" → 6 周内可能就排卵了(见 C-S0-1027)。
+  evidence_level: A
+
+glossary_refs: []
+
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors:
+    - Heidi Murkoff
+    - Sharon Mazel
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh:
+    - 莫夏迪
+    - 张敏
+  location: "第 1 章给宝宝喂奶 · 有利于母乳喂养的事实 · 对父母来说,母乳喂养的好处"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards:
+  - C-S1-050    # AAP 母乳起步
+  - C-S1-1013   # WHO HIV+AFASS
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

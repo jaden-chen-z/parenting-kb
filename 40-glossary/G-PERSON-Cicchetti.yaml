@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Cicchetti
+type: person
+display_name: "Cicchetti(丹特·西凯蒂)"
+
+full_name_en: "Dante Cicchetti"
+full_name_zh: "丹特·西凯蒂"
+
+position: |
+  University of Minnesota 心理学教授
+
+contribution: |
+  developmental psychopathology 创始人;创伤 + 韧性
+
+one_liner: |
+  丹特·西凯蒂 — developmental psychopathology 创始人;创伤 + 韧性
+
+key_facts:
+  - "本卷章节:Ch 6"
+  - "Lerner V3 命中:105 次"
+  - "学派:Lerner V3 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-027
+    chapter: "Ch 6"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

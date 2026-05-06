@@ -1,0 +1,52 @@
+card_id: C-S0-2058
+stages: [S0]
+tags: []
+
+front:
+  title: 收养妈妈也能母乳喂养
+  hook: 没怀孕也能产奶
+
+back:
+  why_matters: |
+    诱导泌乳(induced lactation)= 没生过孩子的妈妈通过药物 + 频繁吸吮启动乳腺产奶。
+    很多人不知道:收养孩子的妈妈、伴侣不哺乳的同性家庭都能尝试。
+    通常需要:孕前 2-3 个月开始用催乳药 + 吸奶器、宝宝到家后频繁亲喂、配方奶辅助。
+    全母乳很少能实现,但部分母乳 + 配方搭配是可行的常规方案。
+    海蒂建议:决定前先咨询哺乳顾问 (lactation consultant),别自己摸索。
+  what_to_do:
+    - 收养前 2-3 月找哺乳顾问做诱导计划
+    - 抱养后即立刻多次亲喂(频率 > 量)
+    - 用辅助哺乳器(SNS)边喂配方边吸吮
+    - 不指望全母乳,部分母乳就有价值
+    - 接受亲喂主要是亲密体验,不是营养主源
+  failure_mode: |
+    以为"没生过孩子就完全没奶" → 错过尝试的机会。
+    要求自己必须"全母乳" → 失败就完全放弃,失去亲喂亲密。
+  evidence_level: B
+
+glossary_refs: []
+
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors:
+    - Heidi Murkoff
+    - Sharon Mazel
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh:
+    - 莫夏迪
+    - 张敏
+  location: "第 1 章给宝宝喂奶 · 收养宝宝和母乳喂养"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards: []
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

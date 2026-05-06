@@ -1,0 +1,57 @@
+card_id: C-S0-1553
+stages: ['S0']
+tags: ['philosophy', 'lerner_v1', 'lerner', 'PYD', 'thriving']
+
+front:
+  title: "繁荣发展不只 5C"
+  hook: "5C 之上的整体感"
+
+back:
+  why_matters: |
+    Lerner Ch 16 提 thriving(繁荣发展)— 是 5C(后扩 6C)之上的整体状态。
+    thriving = 个体跟环境互动产生最优发展。
+    不只是 "没问题 / 不犯错",是积极发展 + 贡献:
+    - Competence(能力)→ 实际用出来
+    - Confidence(自信)→ 不怯于尝试
+    - Connection(连接)→ 多元关系网
+    - Character(品格)→ 内化价值观
+    - Caring(关怀)→ 主动付出
+    - Contribution(贡献)→ 给社区 / 家 / 社会意义 — 中国家长 "不犯错就行" / "成绩好就行" 立场是 deficit/单维 vs thriving 整体视角。
+    thriving 视角让你看 — 娃整体状态(身心灵 + 关系 + 贡献)是不是积极发展?
+    不是某一维度高分。
+    意义 — thriving 是 PYD 的目标,不是 average,不是 excellent,是 holistically positive。
+  what_to_do:
+    - "thriving 看整体不看单维"
+    - "6C 同时发展才是 thriving"
+    - "'不犯错就行' 立场放下"
+    - "'成绩好就行' 立场放下"
+    - "thriving = PYD 终极目标"
+  failure_mode: |
+    "不犯错就行" 立场 — 错。PYD 视角:thriving 是积极发展。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Lerner
+  - G-TERM-positive-youth-development
+  - G-TERM-thriving
+  - G-TERM-5C-framework
+
+related_cards:
+  - C-S0-1522
+  - C-S6-1505
+  - C-S8-1136
+  - C-S0-722
+
+citation:
+  source_id: SRC-030
+  source_title: "Handbook of Child Psychology Vol 1: Theoretical Models of Human Development"
+  chapter: "Ch 16 Lerner PYD"
+  chapter_offset: 4891805
+  chapter_title: 'Lerner / Benson / Scales / Hamilton / Sesma — Positive Youth Development'
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_followup_needed: 'SRC-030 用 PDF 字节偏移代页码 — 待加 page_pdf 反查工具'

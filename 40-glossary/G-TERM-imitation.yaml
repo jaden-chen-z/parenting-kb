@@ -1,0 +1,89 @@
+glossary_id: G-TERM-imitation
+type: term
+display_name: 模仿 (imitation)
+
+full_name_zh: 模仿
+full_name_en: Imitation
+
+one_liner: |
+  Meltzoff 1977 经典发现:新生儿 42 分钟就能模仿大人伸舌头 / 张嘴 — 出生即有"like me"机制。
+  推翻 Piaget"模仿要 8-10 月"假设。
+
+detail: |
+  ## 定义
+  婴儿主动复制他人动作 / 表情 / 声音的能力。
+  Gopnik / Meltzoff 视角:不是被动反射,是**主动认知 + 自我意识**的根。
+
+  ## 三种关键模仿(从早到晚)
+
+  ### 1. 新生儿模仿(出生即有)
+  - **Meltzoff & Moore 1977 Science**:42 分钟大婴儿能模仿伸舌头 / 张嘴
+  - 独立录像打分(评价员盲)
+  - 推翻"婴儿空白"+"模仿要数月"假设
+  - 含义:出生即识"对方是和我一样的存在"
+
+  ### 2. 同步模仿(2-6 月)
+  - 婴儿跟你"轮流"发声(turn-taking)
+  - 你笑她笑,你皱眉她皱眉
+  - "母婴交谈链"(serve and return)的根
+
+  ### 3. 延迟模仿(9-18 月,长期记忆)
+  - **Meltzoff 经典 forehead box 实验**
+  - 给 9 月宝宝看大人**用额头**碰盒子让盒子亮(不让宝宝试)
+  - 1 周后给宝宝盒子 — 宝宝立刻用额头碰
+  - 证明长期记忆 + 自发复制
+
+  ## "Like Me"机制(Meltzoff 提出)
+  - 新生儿没镜子,从没看过自己脸
+  - 怎么知道"伸舌头"是什么动作?
+  - 跨模态匹配:看到的脸 ↔ 自己脸的运动感觉
+  - 这是 theory of mind 的根 — 出生即识"对方像我"
+
+  ## 中国家长意义
+
+  ### 1. 镜像情绪
+  - 你的表情 / 语气 / 身体语言**全被宝宝抓**
+  - 你焦虑暴怒 = 宝宝学到"焦虑暴怒"
+  - 不是说"装个好爸妈" — 是真心调节自己
+
+  ### 2. 不需要"教"动作
+  - 走路 / 说话 / 吃饭 / 礼貌行为 — 宝宝在偷偷模仿
+  - 你做什么比你说什么重要 100 倍
+
+  ### 3. 1 周前的事宝宝还记
+  - 不要做"反正他不记得"的小动作(吼 / 摔门 / 互相指责)
+  - 9 月起延迟模仿 1 周仍能复制
+
+  ### 4. 暴力 / 打骂被宝宝学走
+  - 模仿不分"好坏"
+  - 你打他 = 他将来打人(Bowlby + Wonder Week + Gopnik 三派一致)
+
+  ## 跟其他术语关系
+  - **Theory of Mind**:模仿是 ToM 的根
+  - **Baby Scientist**:模仿是"做实验"的工具
+  - **Wonder Week WW64 模仿一切** ↔ Meltzoff 1977 实证基础
+
+key_facts:
+  - Meltzoff 1977 新生儿 42 分钟模仿
+  - like me 机制 = ToM 的根
+  - 9 月延迟模仿 1 周仍记
+  - 不分好坏,你做什么宝宝都模仿
+  - 推翻 Piaget 8-10 月假设
+
+related_glossary:
+  - G-PERSON-Meltzoff
+  - G-PERSON-Gopnik
+  - G-TERM-theory-of-mind
+  - G-TERM-baby-scientist
+  - G-TERM-turn-taking
+
+related_cards: []
+
+sources:
+  - source_id: SRC-015
+  - external: Meltzoff & Moore 1977 Science / Meltzoff 2005 imitation review
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

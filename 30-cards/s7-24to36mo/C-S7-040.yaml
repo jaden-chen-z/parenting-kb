@@ -1,0 +1,63 @@
+card_id: C-S7-040
+stages: [S7]
+tags: [philosophy]
+
+front:
+  title: 怕黑怕雷可能是怕妈走
+  hook: 怕的不是表面那个
+
+back:
+  why_matters: |
+    Bowlby Vol 2 + Stott 1950 一个隐藏机制:
+    被父母反复用"再不听话妈妈就走"威胁的孩子,**对父母会同时产生强烈愤怒 + 害怕表达**(怕真被抛弃) →
+    **愤怒被压抑,然后投射到其他目标**(夜晚 / 雷电 / 事故 / 强盗 / 鬼怪)。
+    机制:
+    1. 真正怕的:妈妈消失
+    2. 真正生气的:被妈威胁
+    3. 都不能直接表达 → 转移给"安全替代物"
+    4. 表面表现:晚上不敢睡 / 怕雷暴 / 怕陌生人 / 反复噩梦
+    Stott 在少管所对 102 个 15-18 岁孩子的研究证实这个机制。
+    家长意义:**孩子的"莫名恐惧"很多时候是依恋焦虑的伪装**。
+    诊断思路:
+    - 孩子怕黑 + 黏妈,优先排查依恋安全感不是单独"治怕黑"
+    - 反复噩梦内容看主题:"被追/失踪/找不到"= 分离焦虑
+    - 怕雷电从某次具体事件开始 = 单一刺激;若一直怕 + 分离史 = 投射可能实操:不要单独"治症状",要看依恋全局。
+  what_to_do:
+    - 孩子怕黑 + 怕分离同时出现 → 先抓依恋安全感
+    - 反复梦"找不到妈"是直接表达不是隐喻
+    - 再不听话就走绝对禁用(C-S6-087)
+    - 怕的对象问 — 如果有这事你怕妈妈也消失吗
+    - 单怕一物 + 无依恋问题 = 渐进暴露处理
+  failure_mode: |
+    "他就是胆小怕黑,跟其他无关" — 数据:被威胁抛弃的孩子常以"怕黑"伪装真正的焦虑。
+    "怕黑买个夜灯就好" — 表面物理处理 ≠ 解决依恋根因。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Bowlby
+  - G-TERM-attachment
+  - G-TERM-anxious-attachment
+  - G-TERM-defensive-exclusion
+
+citation:
+  book_title_zh: "依恋三部曲 · 第二卷:分离"
+  book_title_en: "Attachment and Loss · Volume 2: Separation"
+  authors: ["John Bowlby"]
+  authors_zh: ["约翰·鲍尔比"]
+  translators_zh: ["汪智攀", "王婷婷"]
+  publisher_zh: "世界图书出版有限公司北京分公司"
+  year_en: 1973
+  year_zh: 2017
+  isbn: "978-7-5192-2926-9"
+  location: "第十七章愤怒、焦虑和依恋(Stott 1950:孩子压抑对父母的愤怒并将其转向其他目标。这也说明了为什么害怕被抛弃的儿童或青少年反而会说他们害怕的是其他东西,比如夜晚、雷电和事故)"
+  source_id: SRC-012
+
+unit_ids: []
+related_cards:
+  - C-S6-087      # 再不听话妈妈就走是精神虐待
+  - C-S6-089      # 妈知道的怕只占一半
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

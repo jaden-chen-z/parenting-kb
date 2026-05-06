@@ -1,0 +1,57 @@
+card_id: C-S6-462
+stages: [S6]
+tags: [discipline, limits]
+
+front:
+  title: "红黄绿三色限度"
+  hook: "不只有红灯一种限度"
+
+back:
+  why_matters: |
+    Magda 命名的限度三色谱(Ch8):
+    **红灯**:危险 = 立即停(他冲马路 / 摸开水)
+    **黄灯**:可商 = 你权衡(读书 vs 散步)
+    **绿灯**:全开 = 他选你陪(玩沙 / 读书)
+    幼儿"遇到的'不'"60% 应该是黄灯而不是红灯。
+    黄灯练习教他"等一下" / "我们妥协"。
+    跟 Lansbury "I won't let you" 公式互补,Magda 这个更系统。
+
+  what_to_do:
+    - 红灯(安全)立刻停 + 解释:"我不让你做,会受伤"
+    - 黄灯说:"等我看完报纸再带你出去"
+    - 绿灯说:"你想玩什么,妈妈陪"
+    - 别把所有"不"都拉到红灯级别
+    - 每天给至少几次"绿灯时间"(全注意陪)
+
+  failure_mode: |
+    "什么都说不,跟你妈说不一样" → 红灯泛滥,真红灯时他不当回事。
+    Magda 原话:"区分红黄绿,孩子学到生活的真规则"。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+  - G-TERM-traffic-light-limits
+
+citation:
+  book_title_en: "Your Self-Confident Baby"
+  book_title_zh: "自信的宝宝"
+  authors:
+    - Magda Gerber
+    - Allison Johnson
+  publisher_en: John Wiley & Sons
+  year: 1998
+  location: "Ch8 Respecting Your Needs(red light/yellow light/green light 段)"
+  source_id: SRC-022
+
+unit_ids: []
+related_cards:
+  - C-S6-403  # Lansbury 限度+情绪并存
+  - C-S6-192  # Lillard No 永远 No
+  - C-S6-133  # Davies 温柔边界
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

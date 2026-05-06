@@ -1,0 +1,58 @@
+card_id: C-S5-394
+stages: [S5]
+tags: [play, emotion, RIE, lansbury]
+
+front:
+  title: "玩是孩子的自我治疗"
+  hook: "玩出心结自然消化"
+
+back:
+  why_matters: |
+    Lansbury Ch14 关键命题 + Magda Gerber 经典案例:
+    托儿所一男孩拿勺子在娃娃屁股上插。
+    所长纠正:"勺子是放嘴里的"。男孩坚持。
+    接妈妈说:"昨天医生给他灌肠,他不喜欢。"
+    孩子用"玩"消化恐惧 / 困惑 — 是自然心理治疗。
+    数千研究证:玩 = 孩子的语言。
+    在能说话之前,他们"玩出"难以言语的情绪。
+    所以不要"纠正"孩子的玩法 — 那打断了治疗过程。
+
+  what_to_do:
+    - 看到"奇怪玩法" 不立即纠正 — 可能在消化经历
+    - 孩子重复某主题(打针 / 医生 / 分离)= 让他玩
+    - 提供开放道具(娃娃 / 听诊器 / 软积木)
+    - 不主导剧情 — 跟着孩子的方向
+    - 户外玩 + 自然物 → 治疗加成
+
+  failure_mode: |
+    "孩子玩怪东西要纠正" → 打断了自我治疗。
+    或反向:"任孩子撒泼破坏" → 限度还是要(打人 / 危险物)。
+    Lansbury 中道:接受非常规玩法,挡危险行为。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Lansbury
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+
+citation:
+  book_title_en: "Elevating Child Care: A Guide to Respectful Parenting"
+  book_title_zh: "尊重孩子:RIE 育儿之道"
+  authors:
+    - Janet Lansbury
+  publisher_en: JLML Press
+  year: 2014
+  location: "Ch14 The Therapeutic Power of Play"
+  source_id: SRC-019
+
+unit_ids: []
+related_cards:
+  - C-S3-295  # Lansbury passive toys
+  - C-S3-296  # Lansbury 不主导玩
+  - C-S2-185  # Lillard 完整循环活动
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

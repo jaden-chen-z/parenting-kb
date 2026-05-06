@@ -1,0 +1,67 @@
+card_id: C-S8-212
+stages: [S8]
+tags: [shonkoff, nrc, parental_employment, mom_work, china_high_freq]
+
+front:
+  title: "妈上班别内疚"
+  hook: "看回应质量不身份"
+
+back:
+  why_matters: |
+    NRC 综述 Ch 10 给"母亲就业对孩子影响"的精确科学结论:
+    **NRC 综合数据**:
+    1. **母亲就业**本身**对孩子影响不显著**(混合效应)
+    2. **取决于多因素**:
+       - 工作时长(全职 vs 兼职)
+       - 工作性质(高压 vs 低压)
+       - 经济变化(就业 → 收入升 vs 降)
+       - 替代照护质量(高质量托育 vs 低质量)
+       - 母亲心理状态(就业满意 vs 不满)
+    3. **小婴儿(0-1 岁)母亲就业 30 小时+ 略有负效应**(取决于其他因素)
+    4. **3 岁起母亲就业基本无负效应**(若高质量替代照护)
+    **NRC 立场关键**:
+    - 反"职场妈伤孩子"恐慌
+    - 反"全职妈是金标准"
+    - 看**整体家庭功能**而非"妈是否全职"
+    - 高质量+稳定 = 关键(无论谁带)
+    **对中国家长**:
+    - 妈上班不是"不爱孩子"
+    - 关键看 高质量陪伴 + 替代照护
+    - 全职妈 + 抑郁 + 焦虑 → 比职场妈更糟
+    - 经济压力 → 妈不上班反加深应激
+    - 全职妈 OK / 职场妈 OK / 兼职妈 OK — 看整体家庭健康跟松田 §117 集体保育 + Lansbury 立场一致(都看质量不看身份)。
+  what_to_do:
+    - 妈上班不必内疚
+    - 高质量托育替代
+    - 高质量陪伴 比时长
+    - 全职 vs 职场看整体
+    - 别迷"全职 = 金标准"
+  failure_mode: |
+    "我上班是抛弃孩子" — 错,NRC 数据反驳 — 看整体家庭非身份。
+    "我全职带孩子最好" — 不一定,妈抑郁 + 全职 < 妈职场 + 高质量替代。
+    "孩子哭着不让我走" — 是分离焦虑(8-15 月正常)— 不是"伤害"。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Shonkoff
+  - G-TERM-NRC
+  - G-TERM-attachment
+
+citation:
+  book_title_en: "From Neurons to Neighborhoods"
+  authors: ["Jack P. Shonkoff", "Deborah A. Phillips"]
+  org: "NRC/IOM"
+  year_en: 2000
+  location: "Ch 10 · Maternal employment effects"
+  source_id: SRC-025
+
+unit_ids: []
+related_cards:
+  - C-S6-933    # Shonkoff 托育质量(本卷)
+  - C-S4-806    # Shonkoff 依恋质量(本卷)
+  - C-S2-550    # 松田 集体保育 SRC-024
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

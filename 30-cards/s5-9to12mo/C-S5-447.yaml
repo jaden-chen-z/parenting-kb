@@ -1,0 +1,55 @@
+card_id: C-S5-447
+stages: [S5]
+tags: [weaning, feeding]
+
+front:
+  title: "戒奶慢慢爱意足"
+  hook: "宝宝带节奏不是你"
+
+back:
+  why_matters: |
+    Magda 立场:戒奶不是"决定一天就停",是宝宝带头慢慢减。
+    最佳时机是 9-12 月宝宝忙于探索世界(爬 / 站 / 走) —
+    自然对奶失去兴趣。
+    Magda 提醒妈:你可能比宝宝更舍不得 — 不要赶在他之前停。
+    一次减一顿,顺序:中午先减 / 早晚最后留。
+    早上是最后停的(所以晚上不要先停)。
+
+  what_to_do:
+    - 等宝宝自己出"减少兴趣"的信号
+    - 一次减一顿,中午午餐第一个减
+    - 留早 / 晚两顿最后,晚上不要先停
+    - 整个戒奶过程允许几周到几月
+    - 替代不是奶嘴,是杯子 + 手指 + 毛绒安抚物
+
+  failure_mode: |
+    "决定 X 月就停一刀切" → 宝宝过度焦虑 + 妈妈也焦虑。
+    Magda 原话:"妈妈舍不得也是常见 — 不要赶在他之前停"。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+
+citation:
+  book_title_en: "Your Self-Confident Baby"
+  book_title_zh: "自信的宝宝"
+  authors:
+    - Magda Gerber
+    - Allison Johnson
+  publisher_en: John Wiley & Sons
+  year: 1998
+  location: "Ch7 Weaning Slowly and Lovingly"
+  source_id: SRC-022
+
+unit_ids: []
+related_cards:
+  - C-S5-449  # Magda 矮桌矮椅(本卷)
+  - C-S6-403  # Lansbury 限度+情绪
+  - C-S5-393  # Lansbury 分离焦虑
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

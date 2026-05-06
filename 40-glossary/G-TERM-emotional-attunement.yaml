@@ -1,0 +1,25 @@
+glossary_id: G-TERM-emotional-attunement
+type: term
+display_name: "情绪同调"
+
+one_liner: |
+  Stern + Saarni:妈精确读娃情绪并 mirror 回去,是依恋质量核心机制。
+
+detail: |
+  Stern + Saarni:妈精确读娃情绪并 mirror 回去,是依恋质量核心机制。
+
+  来源:Lerner V3《Handbook of Child Psychology Vol 3》(Wiley 2006 第 6 版,Eisenberg 主编)。
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-027
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04
+
+merged_into: G-TERM-affective-attunement
+merge_reason: '术语卡冲突 — 同一 Stern 概念,情感调谐译法主流'

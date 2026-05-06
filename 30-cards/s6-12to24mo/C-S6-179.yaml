@@ -1,0 +1,66 @@
+card_id: C-S6-179
+stages: [S6]
+tags: [cognitive_science, theory_of_mind, social_cognition]
+
+front:
+  title: 18 月就懂你跟我口味不同
+  hook: 西兰花实验里看出
+
+back:
+  why_matters: |
+    Repacholi & Gopnik 1997 经典实验 — theory of mind 早期里程碑。
+    实验设计:
+    - 实验员在 18 月宝宝面前吃 2 种食物
+    - 吃饼干表情厌恶("yuck!")
+    - 吃西兰花表情快乐("yum!")
+    - 然后实验员伸手要食物("Give me some!")
+    18 月宝宝的反应:
+    - "**递西兰花**(实验员爱的)"
+    - 不是给自己爱的饼干
+    - 即使宝宝知道饼干"客观更好吃"
+    含义:18 月已经能理解"她口味跟我不一样"。
+    这是 theory of mind(心智理论)的关键里程 — 推断他人心智状态。
+    比 Piaget 假设的"4-5 岁才有"早 2-3 年。
+    Gopnik 解读:婴儿是天生研究员,在主动收集"别人是什么样"的数据。
+    对中国家长意义:
+    - 18 月起宝宝已经在读"你想要什么"
+    - 你说"妈妈想要 X" — 他能判断 X 是什么
+    - 共情培养可以从 18 月起逐步进入(命名情绪 / 描述他人感受)
+    - 但 4 岁前不要期待孩子完全"换位思考"(还在发育)
+  what_to_do:
+    - 18 月起命名 emotion 给宝宝看("妈妈累了")
+    - 让宝宝看你的表情判断你需要什么
+    - 不要期待他主动让玩具(共情还在发育)
+    - 用"她疼"等具体描述帮他理解他人
+    - "**注**:Repacholi & Gopnik 1997 broccoli/goldfish 是单项重要研究,跨研究复制结果中等。'18 月已懂他人喜好不同'方向稳固,但精确月龄可能因个体差异、测试设计有 ±3 月浮动。"
+  failure_mode: |
+    "18 月还自私不让玩具" — 错。共情 4 岁前还在发育。
+    "他听不懂大人感受" — 错。18 月就在判断你想要什么。
+    强迫孩子分享 — 反而打断 ToM 自然发育。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Gopnik
+  - G-TERM-theory-of-mind
+  - G-TERM-baby-scientist
+  - G-TERM-imitation
+
+citation:
+  book_title_en: "The Scientist in the Crib"
+  book_title_zh: "摇篮里的科学家"
+  authors: ["Alison Gopnik", "Andrew N. Meltzoff", "Patricia K. Kuhl"]
+  publisher_en: William Morrow
+  year: 1999
+  location: "Chapter 5 · Repacholi & Gopnik 1997 broccoli/goldfish experiment"
+  source_id: SRC-015
+
+unit_ids: []
+related_cards:
+  - C-S5-180       # social referencing(同理论链)
+  - C-S1-241       # Meltzoff 出生模仿(ToM 根)
+  - C-S6-068       # Bowlby 依恋顶峰(同段)
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

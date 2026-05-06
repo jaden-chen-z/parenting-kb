@@ -23,6 +23,20 @@ back:
     "我喂他还不行" → 喂养不是依恋,你还没做关键事(读情绪 + 及时回应)。
   evidence_level: A
 
+  positions:
+    issue: 主依恋形成路径 — 喂养者还是敏感回应者
+    views:
+      - school: 鲍秀兰
+        source: SRC-009
+        stance: 中国文化默认"妈妈喂养 = 主依恋",喂养是依恋核心通道。
+      - school: Bowlby
+        source: SRC-011
+        stance: 敏感回应者 = 主依恋,喂养无关。直接颠覆中国"奶妈/月嫂带 ≠ 主依恋"假设。
+      - school: Brazelton / Davies / Lillard
+        source: SRC-010/014/016
+        stance: 同 Bowlby 立场 — 谁回应得敏感,谁就是主依恋,可以是父亲、奶奶、月嫂。
+      - school: 中国实操
+        stance: 月嫂带 / 奶奶带 / 妈妈出现少 → 主依恋可能不是妈妈,对中国家庭高度颠覆。
 glossary_refs:
   - G-PERSON-Bowlby
   - G-PERSON-Ainsworth
@@ -39,7 +53,7 @@ citation:
   year_en: 1969
   year_zh: 2017
   isbn: "978-7-5192-2927-6"
-  location: "第十五章 聚焦在一个对象上(母亲对婴儿哭泣的反应程度和母亲发起跟婴儿的社交互动的程度 — 这两个因素跟依恋强度显著相关。喂食、断奶和如厕训练方法变量与依恋强度无关。Schaffer & Emerson 1964 / 以色列集体农庄 Spiro 1954)"
+  location: "第十五章聚焦在一个对象上(母亲对婴儿哭泣的反应程度和母亲发起跟婴儿的社交互动的程度 — 这两个因素跟依恋强度显著相关。喂食、断奶和如厕训练方法变量与依恋强度无关。Schaffer & Emerson 1964 / 以色列集体农庄 Spiro 1954)"
   source_id: SRC-011
 
 unit_ids: []

@@ -1,0 +1,47 @@
+card_id: C-S0-367
+stages: [S0]
+tags: [father, smoking, prenatal-health]
+
+front:
+  title: 父亲戒烟孕期硬指标
+  hook: 二手烟降娃出生体重
+
+back:
+  why_matters: |
+    松田引丹麦研究:父亲吸烟家庭婴儿出生体重低于平均值。
+    英国调查:父亲吸烟家庭孩子易患支气管炎、肺炎、哮喘,1 岁以下最明显。
+    三居室阳台吸烟也漏 — 烟附衣服头发,抱娃时穿透。
+    妈孕期被动吸烟等同主动 — 尼古丁穿胎盘,影响胎儿肺发育。
+  what_to_do:
+    - 知妊娠当天起,父亲完全戒烟
+    - 不能完全戒就只在户外院子,远离窗
+    - 戒后衣服洗 3 次再抱娃,头发洗 2 次
+    - 妈拒绝跟吸烟同事/客人共处室内
+    - 哺乳期同样标准,母乳也传尼古丁
+  failure_mode: |
+    "我去阳台吸"是自欺 — 衣服头发吸附三手烟,娃靠在你胸口照样吸,洗一次衣服洗不掉。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Matsuda
+
+citation:
+  book_title_zh: "定本《育儿百科》"
+  book_title_jp: "育児の百科(定本)"
+  authors: ["松田道雄"]
+  translators_zh: ["王少丽"]
+  publisher_zh: null
+  year: 1980
+  edition: "定本"
+  location: "第 21 节父亲的作用"
+  source_id: SRC-023
+
+unit_ids: []
+related_cards:
+  - C-S0-005  # Brazelton 上班妈选不选母乳
+  - C-S1-081  # Brazelton 爸认娃方式跟妈不同
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

@@ -1,0 +1,68 @@
+card_id: C-S5-1137
+stages: [S5]
+tags: [cognitive_science, language, perceptual_narrowing, lerner_v2]
+
+front:
+  title: 母语窗口不是失能是聚焦
+  hook: 6-12 月聚焦不退化
+
+back:
+  why_matters: |
+    Werker/Tees 1984 经典实验(Lerner V2 Ch2)。
+    传统说法:6-12 月宝宝失去外语音素辨别力 = 能力退化。
+    Werker 1985 后续关键发现(Werker & Logan):**这不是失去,是注意力重组**。
+    实验设计:
+    - 同一组宝宝,用不同方法测
+    - 标准任务:6-12 月后辨外语音素 = 失败
+    - 强制注意任务:其实仍能辨,只是默认注意力不再投入现代综述结论(Lerner V2):
+    - 元音重组比辅音更早(4-8 月 vs 6-12 月,Polka & Werker 1994)
+    - 跨语言 click 音(像非洲语)6 月后还能辨 — 因为不冲突母语空间
+    - 6-12 月发生的是"专家化",不是"丢能力"
+    意义:
+    - 双语家庭不用赶 6 月前 — 听到的语言都能保留
+    - 12 月后学外语困难是注意力默认锁母语,不是真"失去"
+    跟 Gopnik C-S3-187 / G-TERM-perceptual-narrowing 同主题。
+    Lerner V2 给 Werker 原作的精确描述。
+    对中国家长意义:
+    - 6 月后学第二语言不是"过窗口" — 是更费力但仍可学
+    - 双语接触 0-12 月最优 = 利用默认注意力还开放
+  what_to_do:
+    - 双语家庭 0-12 月一人一语稳定
+    - 12 月后学外语需"激活注意力" = 互动 + 真人
+    - 不用焦虑"6 月前没学外语就完了"
+    - 中文家庭 9-12 月先稳母语,1 岁后再加外语 OK
+  failure_mode: |
+    "6 月前不教外语就退化没救" — 错。是聚焦母语,不是失能。
+    "12 月后学外语等于零" — 错。仍可,只是默认注意力锁母语。
+    "Werker 跟 Kuhl 矛盾" — 不矛盾。Werker 1985 自己澄清是 reorganization。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Kuhl
+  - G-TERM-perceptual-narrowing
+  - G-TERM-critical-period
+  - G-TERM-phoneme
+  - G-PERSON-Werker
+  - G-PERSON-Saffran
+  - G-PERSON-Gopnik
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 2 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 2 卷"
+  authors: ["Jenny R. Saffran", "Janet F. Werker", "Lynne A. Werner"]
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 2 · Perceptual reorganization · pp. 84-87"
+  source_id: SRC-028
+
+unit_ids: []
+related_cards:
+  - C-S3-187       # Gopnik Kuhl 知觉重组
+  - C-S5-016       # 鲍秀兰 parentese
+  - C-S4-1140      # Saffran 统计学习(同章关联)
+  - C-S6-926       # Shonkoff Kuhl 知觉重组综述
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

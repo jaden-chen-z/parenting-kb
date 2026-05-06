@@ -1,0 +1,47 @@
+card_id: C-S6-672
+stages: [S6]
+tags: [potty-training, anti-early, timing]
+
+front:
+  title: 1 岁前不必练如厕
+  hook: 等娃自己有"我要尿"
+
+back:
+  why_matters: |
+    松田立场:1 岁前刻意"把尿"训练是无效的 — 娃神经控制还没发育好。
+    1.5-2 岁有的开始能说"嘘嘘",才是真正窗口。
+    中国"把屎把尿"传统 → 1 岁前看着像成功,其实是大人定时把尿,不是娃控制。
+    强行训练 → 拉裤子时反羞愧/隐藏。
+  what_to_do:
+    - 1 岁前不刻意训练
+    - 1.5 岁起放小马桶让娃熟悉
+    - 等娃说"嘘嘘"再开始
+    - 失败不批评不展示给客人
+    - 2.5-3 岁多数自然完成
+  failure_mode: |
+    奶奶坚持"早把尿" → 1 岁强行训练 → 娃拉裤子羞愧 → 长期憋尿 / 便秘。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Matsuda
+
+citation:
+  book_title_zh: "定本《育儿百科》"
+  book_title_jp: "育児の百科(定本)"
+  authors: ["松田道雄"]
+  translators_zh: ["王少丽"]
+  publisher_zh: null
+  year: 1980
+  edition: "定本"
+  location: "第 360 / 366 节从 1 岁半到 2 岁 / 尿布的训练"
+  source_id: SRC-023
+
+unit_ids: []
+related_cards:
+  - C-S6-400  # Lansbury 如厕不训练孩子自己学
+  - C-S6-197  # 鲍秀兰 如厕训练 4 派时机 + 中国把屎把尿
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

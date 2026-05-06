@@ -1,0 +1,78 @@
+card_id: C-S4-134
+stages: [S4]
+tags: [montessori, environment, sensitive-period]
+
+front:
+  title: 6-9 月秩序敏感期
+  hook: 玩具固定位置别挪
+
+back:
+  why_matters: |
+    6-9 月家长发现:宝宝"突然变挑剔" — 沙发位置一变就哭 / 东西不在原位就找 / 流程一变就闹。
+    蒙氏视角:**秩序敏感期**(sensitive period for order)开始了。
+    这是 0-3 岁宝宝的特征:
+    - 宝宝靠"环境永恒"建立**安全感**(知道世界可预测)
+    - 物体在固定位置 = 我能找到 = 世界可掌握
+    - 物体被挪 = 我的"心智地图"被打乱 = 焦虑具体表现:
+    - 妈妈穿不同衣服 → 哭
+    - 玩具被收到柜子 → 找
+    - 路线变了(平时走左边,你今天走右边)→ 抗议
+    - 喝水的杯换了 → 不喝家长反应 — 不要笑话或强行改:
+    - "你怎么这么挑剔" → 错,这是健康发育
+    - "你得学会适应" → 太早了,12-24 月才教
+    - 接受 + 配合,**1 岁后秩序敏感期减弱**
+    操作:
+    - 玩具 / 物品**固定位置**(蒙氏"一物一位"原则)
+    - 流程**固定顺序**(吃 → 洗 → 睡)
+    - 有变化**提前告知**("今天爸爸接你不是妈妈")
+    - 玩具轮换 — 在宝宝面前换,让他看到意义 — 这阶段配合宝宝的秩序需求,1 岁后他反而更灵活(基本信任建立完成)。
+  what_to_do:
+    - 玩具固定货架位置不乱挪
+    - 日常流程顺序固定
+    - 物品有变化提前告知
+    - 玩具轮换在宝宝面前进行
+    - 不嘲笑"挑剔",这是发育阶段
+  failure_mode: |
+    "他这么大点就挑剔" — 不是性格,是健康的秩序敏感期。
+    "得早点训练适应变化" — 6-9 月正在建基本信任,强行打乱反挫安全感。
+    家里乱,玩具到处放 — 宝宝的"心智地图"难形成,基本信任慢。
+  evidence_level: B
+
+  positions:
+    issue: 关键期(critical) vs 敏感期(sensitive)— 同义还是不同概念
+    views:
+      - school: 鲍秀兰
+        source: SRC-009
+        stance: critical period 关键期 — 错过几乎不可逆(Lorenz 印随 / Hubel-Wiesel 视觉 / Genie 案例)。
+      - school: 蒙氏(Davies/Lillard)
+        source: SRC-014/016
+        stance: sensitive period 敏感期 — 窗口闭合后仍可学,只是费力。本质不同概念。
+      - school: 本知识库
+        stance: 已新建 G-TERM-sensitive-periods 词条明确区分;两者并非同义术语,不可混用。
+glossary_refs:
+  - G-PERSON-Davies
+  - G-PERSON-Montessori
+  - G-TERM-prepared-environment
+  - G-TERM-critical-period
+
+citation:
+  book_title_zh: "蒙特梭利的小宝宝(0-1岁)"
+  book_title_en: "The Montessori Baby"
+  authors: ["Simone Davies", "Junnifa Uzodike"]
+  authors_zh: ["西蒙·戴维斯", "君妮法·乌佐迪克"]
+  publisher_en: "Workman Publishing"
+  year_en: 2021
+  isbn_en: "978-1-5235-0693-7"
+  location: "Chapter 2 · Sensitive periods > Order"
+  source_id: SRC-014
+
+unit_ids: []
+related_cards:
+  - C-S4-019       # Brazelton 6-9 月秩序需求
+  - C-S5-070       # Bowlby 安全基地
+  - C-S4-127       # Wonder Week 6-8 月拒绝换尿布
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

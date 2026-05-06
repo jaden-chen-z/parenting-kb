@@ -1,0 +1,55 @@
+glossary_id: G-TERM-PIF-safe-preparation
+type: term
+display_name: "PIF 安全准备"
+
+en_term: "Powdered Infant Formula Safe Preparation"
+zh_term: "婴儿配方奶粉安全准备"
+
+one_liner: |
+  WHO 2007 PIF 指南 — 配方奶粉冲泡的国际安全标准。
+
+detail: |
+  ## 定义
+  Powdered Infant Formula(PIF)Safe Preparation — WHO 2007 发布的配方奶粉冲泡国际安全标准。
+  
+  ## 核心规则
+  1. 用 ≥ 70°C 水冲泡(杀阪崎杆菌)
+  2. 冲泡 2 小时内喝完
+  3. 冰箱冷藏 < 24 小时(预冲泡)
+  4. 不重新加热剩奶(细菌已生长)
+  5. 奶瓶/吸嘴消毒(开水煮 5 min / 蒸汽 / 洗碗机)
+  6. 装瓶前洗手
+  7. 粉勺别压实 — 不浓不稀
+  
+  ## 高危婴儿
+  早产 / 低出生体重 / 免疫缺陷 → WHO 推 commercial sterile liquid formula(罐装液体)。
+  
+  ## 中国家长常见错误
+  - 用 40-50°C '不烫娃'水 → 阪崎杆菌不死
+  - 冲泡后保温瓶放几小时 → 细菌已生长
+  - 上次没喝完留下次喂 → 风险
+  
+  ## 跟其他派关系
+  - AAP / 鲍秀兰 / 松田 都说要消毒,但 70°C 阈值是 WHO 独家明确
+  - 中国母婴店常推 '50°C 不烫' → 跟 WHO 立场冲突
+
+key_facts:
+  - "WHO 2007 国际标准"
+  - "70°C 关键阈值"
+  - "2 小时内喝完"
+  - "中国家长常见 50°C 错"
+
+related_glossary:
+  - G-TERM-Cronobacter-sakazakii
+  - G-TERM-breastmilk-substitutes
+
+related_cards:
+  - C-S2-1046
+
+sources:
+  - source_id: SRC-031
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

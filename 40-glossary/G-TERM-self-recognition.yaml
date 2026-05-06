@@ -1,0 +1,86 @@
+glossary_id: G-TERM-self-recognition
+type: term
+display_name: 镜中认我 (self-recognition)
+
+full_name_zh: 镜中认我 / 自我识别
+full_name_en: Mirror Self-Recognition
+
+one_liner: |
+  18 月起宝宝**第一次把镜中形象认出是"自己"** — 是 categorical self(客观分类自我)诞生的硬指标。
+  Rouge test 经典实验:在宝宝鼻子上偷点红点,18 月之前指镜中,18 月之后摸自己鼻子。
+
+detail: |
+  ## 定义
+  Self-recognition(镜中认我)= 把**镜中 / 照片 / 视频中的形象认出是自己**的能力。
+  - 18 月起出现
+  - 是 categorical self / objectifiable self 的硬指标
+  - 跟 verbal self / pronoun usage / gender identity 一起诞生
+
+  ## Rouge Test 经典实验
+  - **实验者**:Amsterdam 1972 / Lewis & Brooks-Gunn 1978
+  - **方法**:
+    1. 趁宝宝不注意,在鼻子上偷点红点
+    2. 把宝宝放在镜子前
+    3. 看宝宝反应
+  - **结果**:
+    - **18 月之前** — 宝宝**指镜子里的红点**(以为镜中的不是自己)
+    - **18 月之后** — 宝宝**摸自己的鼻子**(知道镜中的是自己)
+  - **结论**:18 月是 self-recognition 的里程碑
+
+  ## 跟其他能力同期出现
+  这 4 个能力 18 月几乎同时出现 — 都是 categorical self 不同表现:
+  1. **Mirror self-recognition** — 镜中认我
+  2. **代词使用**(我 / 我的 / 你)
+  3. **Gender identity** — 知道"我是男 / 女"开始固定
+  4. **早期 empathy** — 看别人难过试图安慰
+
+  ## 跟 verbal self 关系
+  - Self-recognition 是 verbal self(C-S6-296)的子能力
+  - 都需要 objectifiable self(能"从外面看自己")
+  - 都是 15-18 月跃迁的产物
+
+  ## 跨物种(知识趣谈)
+  - 大猩猩 / 黑猩猩通过 rouge test
+  - 大象 / 海豚通过
+  - 多数动物**不能** → 缺 categorical self
+  - 是高级心智的标志
+
+  ## 中国家长应用
+  - **18 月起家里要有镜子**(全身或大半身)
+  - **多用宝宝名字** — "Sarah 在玩积木"
+  - **看自己的照片** — 帮 categorical self 形成
+  - **承认宝宝身份** — "你是男孩"/"你 18 月了"
+  - **不强行教** — 让自然出现
+
+  ## 文化反思
+  - 中文家庭常用第三人称("妈妈帮你 / 宝宝乖")
+  - 这种语言习惯**不利 categorical self 形成**
+  - 适当切到第一/二人称("我帮你 / 你乖")
+  - 不必完全改 — 但要混合使用
+
+  ## 临床意义
+  - 18 月+ 不通过 rouge test → 可能 autism spectrum
+  - 但需要专业评估(单 rouge test 不够诊断)
+  - 是早期发育评估的常用工具
+
+key_facts:
+  - 18 月里程碑 categorical self 诞生
+  - Rouge test 经典实验
+  - 跟代词 / gender / empathy 同期出现
+  - 跨物种少见,人类 18 月即有
+  - 中文家庭语言习惯影响形成
+
+related_glossary:
+  - G-PERSON-Stern
+  - G-TERM-verbal-self
+
+related_cards: []
+
+sources:
+  - source_id: SRC-018
+  - external: Amsterdam 1972 / Lewis & Brooks-Gunn 1978 / Stern《The Interpersonal World of the Infant》Ch 8
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

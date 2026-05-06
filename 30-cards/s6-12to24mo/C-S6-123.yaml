@@ -1,0 +1,67 @@
+card_id: C-S6-123
+stages: [S6]
+tags: [development_burst, controversy]
+
+front:
+  title: 64 周第九跃迁:原则世界
+  hook: 15 月说 No 是跃迁
+
+back:
+  why_matters: |
+    第 64 周(59-64 周 ≈ 14.9 月,刚过 14 月)是 Wonder Week 第九跃迁 — **原则世界**(World of Principles)。
+    怎么回事:大脑从"机械执行程序"升级到能理解**程序背后的原则**,可以**修改程序适应情境**:
+    - 之前洗碗只会一种方法,现在能根据情况调整
+    - 开始测试社交规则边界("妈妈说不能动 → 我偷偷动看看")
+    - 自我意识 + 反抗萌芽跃迁前烦躁 阶段(59-63 周)持续 4-5 周。
+    跃迁期典型表现(从妈妈日记):
+    - "她原本会的词突然不会说了 — 所有动物都叫 'am'"
+    - "他突然又开始爬,以前已经会走"
+    - "她坚持要奶瓶喂,以前会自己拿"
+    - "他对大人说 No 的频率突然激增"
+    - **情绪暴风雨**:一秒哭一秒笑,跨度比之前任何跃迁都大家长意义:**俗称"terrible 14 month"或"小叛逆期"其实是 WW64 跃迁**,
+    不是性格变差,是大脑在学"原则"。
+  what_to_do:
+    - 59-65 周 3 C + 大量倒退 + 暴脾气 → 第九跃迁
+    - 不用"对付叛逆"的方式管教(适得其反)
+    - 给宝宝有限选择(穿红的还是黑的?)而不是开放性问题
+    - 接受倒退("会说话的"突然不说"是跃迁特征,2-4 周自然恢复)
+    - 不打不骂,跃迁后宝宝行为会自然平稳
+  failure_mode: |
+    "她叛逆期早到了" — 不是叛逆,是 WW64 跃迁。
+    "她退步了应该批评" — 倒退是跃迁前奏(C-S4-128),批评只让她更焦虑。
+    "1 岁多就该听话了" — 她的大脑还没长好控制能力。
+    用打屁股 / 关小黑屋等惩罚 — Bowlby 数据(C-S6-070)显示有创伤模式。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-vanderijt
+  - G-TERM-wonder-week
+  - G-TERM-mental-leap
+  - G-TERM-3C-signs
+  - G-TERM-fussy-phase
+  - G-TERM-tantrum
+  - G-TERM-negativism
+  - G-TERM-regression-progression
+
+citation:
+  book_title_zh: "婴儿大脑跃迁 10 周(神奇周)"
+  book_title_en: "The Wonder Weeks"
+  authors: ["Hetty van de Rijt", "Frans X. Plooij"]
+  authors_zh: ["海蒂·凡德里特", "弗朗斯·普洛伊"]
+  publisher_en: "Kiddy World Publishing"
+  year_en_first: 1992
+  isbn_en: "978-90-79208-12-1"
+  location: "Chapter 11 · Wonder Week 64: The World of Principles(around 64 weeks – approaching 15 months – your toddler steps up to try new things. Around 61 weeks – 14 months – your little tyke begins to notice things are changing... fussy phase 59-63 weeks)"
+  source_id: SRC-013
+
+unit_ids: []
+related_cards:
+  - C-S6-122       # WW55 程序世界
+  - C-S6-070       # Bowlby 体罚的特殊创伤
+  - C-S6-072       # Bowlby 怎么管孩子他就怎么换位思考
+  - C-S6-007       # 不打孩子,全家一致(鲍秀兰)
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

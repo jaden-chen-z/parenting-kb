@@ -1,0 +1,84 @@
+glossary_id: G-TERM-going-slow
+type: term
+display_name: 慢育儿 (going slow)
+
+full_name_zh: 慢育儿 / 慢下来
+full_name_en: Going Slow
+
+one_liner: |
+  蒙特梭利父母方法论的最核心一条。**不是"懒"或"低效",是主动放慢节奏配合宝宝的步调** — 抱起前先说话 / 等宝宝回应 / 不催不赶。
+  Davies 把"going slow"作为本书最后一节(Ch5 收尾),作为蒙氏育儿哲学的总结。
+
+detail: |
+  ## 定义
+  Going slow = 蒙氏育儿的**节奏哲学**。本质是承认:
+  - 宝宝大脑处理慢(神经传递慢于成人)
+  - 宝宝身体动作慢(协调还在发育)
+  - 宝宝感官接收慢(每个新东西都是震撼)
+  - **大人若以成人节奏推进,宝宝永远跟不上**
+
+  解决方案:**大人主动慢下来**,以宝宝节奏为基准。
+
+  ## Davies 列的"slow down 11 法"(Ch5 末)
+  1. 用慢 / 温柔 / 有意的手抱宝宝
+  2. 慢慢说话,清楚每个音节
+  3. 说完等宝宝反应(tarry time)
+  4. 让宝宝自己动 / 自己做,不管多慢
+  5. 看宝宝挣扎时**先观察 5 秒**再帮
+  6. 宝宝盯着什么看,**就停下来等他看完**
+  7. 慢慢散步,听鸟叫 / 看树
+  8. 宝宝睡时**什么都别做**(不洗碗 / 不刷邮件)
+  9. 自己手工做点宝宝的物品(给自己也慢下来)
+  10. 放音乐 + 慢慢跳舞
+  11. 自己也早睡(不熬夜补"我的时间")
+
+  ## 为什么"慢"是核心
+  - **跟"absorbent mind"配合** — 慢节奏才让宝宝有时间吸收
+  - **跟"sensitive period"配合** — 敏感期需要重复,重复需要时间
+  - **跟"observation"配合** — 不慢就观察不到细节
+  - **跟"prepared environment"配合** — 慢下来才能感受环境
+
+  ## 跟其他育儿派对比
+  | 派别 | 节奏 |
+  |---|---|
+  | **蒙氏 going slow** | 跟着宝宝走 |
+  | Karp 5S | 快节奏安抚(jiggle 快速摇晃) |
+  | 鲍秀兰早教 | 按月龄推时间表 |
+  | 中国传统"早教热" | 越早越快越好 |
+
+  ## 中国家长 going slow 的最大障碍
+  1. **职场压力** — 上班只 30 分钟带娃,不慢就完不成
+  2. **老人参与** — "你太慢,我来"
+  3. **同辈比较** — "邻居娃 1 岁会走,我家这么慢正常吗"
+  4. **效率文化** — 把"快"等同于"好"
+
+  Davies 立场:**接受这阶段就是慢的,把"慢"重新定义为礼物**。
+
+  Junnifa 总结她 3 个孩子的 0-3 岁生活:**"一个词:joy(喜悦)。我们家节奏慢,孩子有时间探索,我有时间享受。"**
+
+  ## 物理/心理收益
+  - **宝宝**:基本信任建立 + 不焦虑 + 专注力强
+  - **父母**:育儿不是消耗 + 享受过程 + 减少 burnout
+
+key_facts:
+  - 蒙氏育儿哲学最核心
+  - Davies 11 个 slow down 实操法
+  - 跟 absorbent mind / sensitive period / observation / prepared environment 4 大原理配合
+  - 中国家长最大挑战是文化阻力
+
+related_glossary:
+  - G-PERSON-Davies
+  - G-PERSON-Montessori
+  - G-TERM-absorbent-mind
+  - G-TERM-prepared-environment
+
+related_cards: []
+
+sources:
+  - source_id: SRC-014
+  - external: Maria Montessori《有吸收力的心灵》
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

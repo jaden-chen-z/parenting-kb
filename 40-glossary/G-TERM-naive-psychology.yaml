@@ -1,0 +1,69 @@
+glossary_id: G-TERM-naive-psychology
+type: term
+display_name: 朴素心理 (naive psychology)
+
+full_name_zh: 朴素心理 / 直觉心理
+full_name_en: Naive Psychology / Folk Psychology
+
+one_liner: |
+  儿童早期对"别人有想法"的直觉理论 — 心智理论 ToM 的另一名。
+  4-5 岁 Sally-Anne 通过为里程碑,Wellman WPSS 5 阶段量表。
+
+detail: |
+  ## 定义
+  儿童 3 大直觉理论之一(物理 / 心理 / 生物):
+  - 关于"别人有想法 / 意图 / 信念"的理论
+  - 9 月:Tomasello 共享意图涌现
+  - 18 月:Leslie ToMM 假装起步
+  - 4-5 岁:Sally-Anne 通过(Wellman 第 4 阶段)
+  - 5-7 岁:假装情绪理解(Wellman 第 5 阶段)
+
+  ## 跟 ToM 关系
+  - 朴素心理 = ToM 的发展心理学版
+  - 跨文化普适(WPSS 量表证)
+  - 自闭症 ToM 缺损 = 朴素心理障碍
+
+  ## 在本知识库中
+  - SRC-028 Lerner V2 Ch19 Harris 综述
+  - C-S5-1140 Tomasello 9 月革命
+  - C-S6-1171 Leslie ToMM 18 月
+  - C-S7-1098 Wellman ToM 5 阶段
+  - C-S8-420 Sally-Anne 4-5 岁
+  - C-S8-427 直觉理论 3 大领域
+
+  ## 中国家长意义
+  - 朴素心理是社交基础
+  - 9 月起共享意图 = 关键窗口
+  - 不必"测"孩子 ToM
+  - 中国孩子跟美国孩子一样阶段
+
+key_facts:
+  - 3 大直觉理论之一
+  - = ToM 心智理论
+  - 4-5 岁 Sally-Anne 通过
+  - WPSS 5 阶段量表
+
+related_glossary:
+  - G-PERSON-Wellman
+  - G-PERSON-Leslie
+  - G-PERSON-Tomasello
+  - G-TERM-theory-of-mind
+  - G-TERM-WPSS
+  - G-TERM-false-belief
+  - G-TERM-9-month-revolution
+
+related_cards:
+  - C-S5-1140
+  - C-S6-1171
+  - C-S7-1098
+  - C-S8-420
+  - C-S8-427
+
+sources:
+  - source_id: SRC-028
+  - external: Wellman/Liu 2004 / Wikipedia Folk Psychology
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,27 @@
+glossary_id: G-TERM-microsystem
+type: term
+display_name: "微观系统 / microsystem"
+
+name_en: "microsystem"
+name_zh: "微观系统"
+
+description: |
+  Bronfenbrenner 第 1 层 — 父母 / 同胞 / 老师 直接互动环境。
+
+one_liner: |
+  微观系统(microsystem)— Bronfenbrenner 第 1 层 — 父母 / 同胞 / 老师 直接互动环境。
+
+key_facts:
+  - "Lerner V1 元理论卷核心术语"
+  - "学派:Lerner V1 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

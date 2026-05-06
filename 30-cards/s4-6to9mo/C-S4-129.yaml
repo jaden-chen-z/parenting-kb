@@ -1,0 +1,65 @@
+card_id: C-S4-129
+stages: [S4]
+tags: [development_burst, philosophy, controversy]
+
+front:
+  title: 6 月起绝不偷溜走
+  hook: 跃迁期分离要明示
+
+back:
+  why_matters: |
+    第 26 周(6 月)的"关系世界"跃迁之后,宝宝**第一次真正意识到"妈妈可以走开"**。
+    很多家长这时还用"偷偷溜走"来避免哭闹 — 《奇迹周》强烈反对(白话翻译):
+
+    > 走开之前给她一个提醒,走的时候继续跟她说话,在另一个房间也保持声音。
+    > 这样她会学到:即使看不见你,你也还在。
+
+    具体方法:
+    1. **离开前打招呼**(再小都要):"妈妈去厨房,马上回来"
+    2. **离开后保持声音**(从隔壁房间唱歌 / 应答她的呼唤)
+    3. **回来时立刻回应**(不只是说"我来了",要给身体接触)
+    4. **玩躲猫猫 / 捉迷藏**(让宝宝建立"看不见 ≠ 不存在"的认知)
+    5. **从短分离练起**(去隔壁房间几分钟 → 几十分钟 → 真分离)
+
+    跨源一致:
+    - **Bowlby Vol 2**(C-S7-035)"别偷偷溜走要正面告别"
+    - **AAP**(C-S5-004)分离焦虑应对 5 招第 2 条
+    - **鲍秀兰**(C-S4-016)"再见 + 欢迎"教学
+
+    家长意义:**6 月起偷溜会破坏信任,系统性后果会在 1 岁后浮现**。
+  failure_mode: |
+    "偷溜没事她不知道" — 错,醒来发现妈不在,信任被破坏一次就是一次。
+    "她哭就立刻回去" — 反而强化"妈妈不能离开"才是安全。
+    "再不听话妈妈就走"这种威胁式分离 — 是精神虐待(见 Bowlby Vol 2 C-S6-087)。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-vanderijt
+  - G-TERM-wonder-week
+  - G-TERM-separation-anxiety
+  - G-TERM-object-permanence
+  - G-TERM-peekaboo
+  - G-TERM-attachment
+
+citation:
+  book_title_zh: "婴儿大脑跃迁 10 周(神奇周)"
+  book_title_en: "The Wonder Weeks"
+  authors: ["Hetty van de Rijt", "Frans X. Plooij"]
+  authors_zh: ["海蒂·凡德里特", "弗朗斯·普洛伊"]
+  publisher_en: "Kiddy World Publishing"
+  year_en_first: 1992
+  isbn_en: "978-90-79208-12-1"
+  location: "Chapter 7 · Show Her That You Are Not Deserting Her(Give her some warning before you walk away, and keep talking to her while you walk away. You can also practice 'leaving' by playing peek-a-boo games)"
+  source_id: SRC-013
+
+unit_ids: []
+related_cards:
+  - C-S4-124       # WW26 关系世界
+  - C-S4-125       # 跃迁周龄↔依恋时间表
+  - C-S5-004       # AAP 分离焦虑 5 招
+  - C-S4-003       # AAP 物体永久性
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

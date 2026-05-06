@@ -34,3 +34,9 @@ __pycache__/
 *.tmp
 *.bak
 *.log
+
+# 50-frontend/cards.json + glossary.json 是派生品,但 Cloudflare Pages 部署需要它们,
+# 所以仍然追踪。每次改 yaml 后跑 build_cards_json.py + commit。
+
+# 本地 admin_server.py 写的 per-user 进度 / 收藏(生产用 Cloudflare KV,这个文件只本地用)
+50-frontend/state.json

@@ -1,0 +1,83 @@
+card_id: C-S7-251
+stages: [S7]
+tags: [self, milestone, play]
+
+front:
+  title: 玩偶演练 = self 探心
+  hook: 玩偶演练 = 探心
+
+back:
+  why_matters: |
+    18 月起宝宝出现 **象征游戏** — 用玩偶 / 道具**演练**真实生活体验,Stern 说这是 语言自我 探索内心冲突的关键工具。
+    **经典案例**(Herzog 1980,Stern 引用):
+    - 18 月男宝,爸爸刚搬出家(分居)
+    - 玩玩偶时,把"宝宝玩偶"和"妈玩偶"放同一床(像家里实际情况 — 宝宝睡妈床)
+    - **男宝非常痛苦**
+    - 治疗师试图让"妈玩偶"安抚"宝宝玩偶" — 没用
+    - 治疗师拿出"爸爸玩偶"
+    - 男宝先把"爸玩偶"放在"宝宝玩偶"旁边
+    - **不满意**
+    - 男宝把"爸玩偶"和"妈玩偶"放一床,"宝宝玩偶"放另一床
+    - **男宝说"现在好啦(All-better-now)"(都好了)**
+    **Stern 解释**:
+    - 男宝**同时在 兼顾 3 个版本现实**:
+      1. 现状(妈跟宝睡)
+      2. 渴望(妈跟爸睡,宝独睡)
+      3. 玩偶演练
+    - 通过**操纵玩偶**,男宝**重建了渴望的版本**,实现**心理修复**
+    - 这是 语言自我 跟之前 self 层的整合产物 — 既要 范畴自我(知道家庭结构)又要 主观自我(感受失去)又要 语言自我(用符号表达)
+    **意义**:
+    - **象征游戏 不是"小孩瞎玩"** — 是**心理工作**
+    - 18 月+ 宝宝主动用玩偶 / 沙盘 / 涂鸦演练**他困扰的事**
+    - **不打断 + 不解读 + 提供材料** = 父母最重要的角色
+    **对中国家长的核心信息**:
+    - 提供**多种 开放式 玩具**(玩偶 / 沙子 / 积木 / 彩泥 / 涂鸦)
+    - **不要"教对玩法"** — 让宝宝自由演练
+    - **不打断** — 即使内容看起来"奇怪"(玩偶死了 / 玩偶被打 / 玩偶吵架)
+    - 这些不是"心理问题",是宝宝在**消化经验**
+    - 必要时**轻轻 调谐**("看起来宝宝玩偶有点难过")— 但不解读不评判
+    **跟 Lillard"观察 = 科学家方式"(C-S7-136) + 蒙氏 活动循环** 一致 — 都重视宝宝的"自由工作"。
+    **临床意义**:
+    - 重大事件后(搬家 / 二胎 / 亲人去世 / 上学)— 给宝宝大量 象征游戏 时间
+    - 通过玩偶,宝宝处理**说不出**的情感 — 比强迫"用嘴说"更有效
+    - Bowlby V3 哀伤研究 + Stern 主观自我 都支持这个观点
+  what_to_do:
+    - 提供 开放式 玩具(玩偶沙子积木)
+    - 不教"对的玩法"
+    - 不打断不解读不评判
+    - 重大事件后给 象征游戏 时间
+    - 必要时轻轻 调谐 不强解
+  failure_mode: |
+    "玩偶被打 / 死亡 = 心理问题" — 错。Stern + Herzog — 是宝宝消化经验的方式。
+    "你教他对的玩法" — 干扰 self 探索 → 失去这个心理工具。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Stern
+  - G-TERM-verbal-self
+  - G-TERM-symbolic-play
+
+citation:
+  book_title_zh: "婴儿的人际世界"
+  book_title_en: "The Interpersonal World of the Infant"
+  authors: ["Daniel N. Stern"]
+  authors_zh: ["丹尼尔·斯特恩"]
+  publisher_en: "Basic Books"
+  year_en: 1985
+  isbn_en: "978-0-465-09559-9"
+  location: "Ch 8 · Capacity for Symbolic Play (Herzog 1980 dolls case)"
+  publisher_zh: "华东师范大学出版社"
+  year_zh: 2017
+  translator_zh: ["刘旭东"]
+  source_id: SRC-018
+
+unit_ids: []
+related_cards:
+  - C-S6-1072       # Stern 15-18 月 verbal self 启动
+  - C-S7-136       # Lillard 观察 = 科学家方式
+  - C-S6-185       # Lillard cycle of activity
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

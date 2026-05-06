@@ -1,0 +1,52 @@
+card_id: C-S0-1127
+stages: [S0]
+tags: [philosophy, lerner_v1, overton, metatheory, relational, foundational]
+
+front:
+  title: "关系派的 4 大原则"
+  hook: "关系派的 4 大原"
+
+back:
+  why_matters: |
+    Overton(Ch 2)给 relational metatheory 4 大原则 —
+    这是当代发展心理学(2006 后)的元层共识,取代过去的"基因 vs 环境"二分。
+    1. embodiment(具身化)— 心智不是在脑子里飘,是身体 + 环境一起的
+    2. action-in-context(行动在环境里)— 不能把人和环境拆开分析
+    3. bidirectional causality(双向因果)— 个体影响环境同时被环境影响
+    4. multilevel integration(多层级整合)— 基因 / 神经 / 行为 / 文化都要看中国父母直接意义 — 孩子的"问题"不在某一层,是多层互动出来的,
+    不能只调一层(只补营养 / 只换学校 / 只管行为)。
+  what_to_do:
+    - "孩子打人 → 不是单'性格'(看家庭 + 同伴 + 学校 + 文化)"
+    - "孩子学不进 → 不是单'智力'(看动机 + 关系 + 环境)"
+    - "孩子内向 → 不是单'基因'(看气质 + 环境匹配 Chess)"
+    - "解决问题改 2-3 层(微观 + 中观)同时,一层效果差"
+    - "embodied — 身体动作就是学习,别只看课本"
+  failure_mode: |
+    某一个"专家"指责单一原因(全是基因 / 全是教育) — 错。多层是 V1 共识。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Overton
+  - G-TERM-relational-metatheory
+  - G-TERM-embodiment
+  - G-TERM-bidirectional-causality
+
+related_cards:
+  - C-S0-1125
+  - C-S0-1126
+  - C-S6-1064
+  - C-S0-1500
+
+citation:
+  source_id: SRC-030
+  source_title: "Handbook of Child Psychology Vol 1"
+  chapter: "Ch 2 Overton"
+  chapter_offset: 75742
+  chapter_title: 'Lerner — Developmental Science (relational/contextual metatheory)'
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_followup_needed: 'SRC-030 用 PDF 字节偏移代页码 — 待加 page_pdf 反查工具'

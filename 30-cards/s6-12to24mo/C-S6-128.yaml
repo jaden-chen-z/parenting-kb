@@ -1,0 +1,73 @@
+card_id: C-S6-128
+stages: [S6]
+tags: [development_burst, discipline, controversy]
+
+front:
+  title: 14-17 月模仿一切坏事也学
+  hook: 你做什么她全照搬
+
+back:
+  why_matters: |
+    跃迁 64(14.9 月)原则世界跃迁的标志性表现:**模仿能力达到顶峰**,
+    宝宝会复制看到的一切行为。
+
+    妈妈日记:
+    - "他模仿一切看到的:别人跺脚他跺脚 / 别人打他打 / 别人摔他摔 / 别人扔他扔 / 别人咬他咬"
+    - "我做什么他都要做。其他孩子做什么他直接吸收。看一次就学会"
+    - "电视上一个孩子对另一个伸舌头,她直接学"
+
+    模仿不分好坏:
+    - **好的**:洗手 / 整理 / 帮忙 / 礼貌
+    - **坏的**:咬人 / 打人 / 骂脏话 / 看电视
+
+    凡德里特强调(白话翻译):
+    > 他复制、模仿、尝试他看到的一切。
+    > 周围的人就是他的榜样。
+
+    跨源一致:
+    - **鲍尔比第 2 卷**(C-S6-087/098):"威胁 / 撤回爱"被复制 → 影响一生
+    - **鲍秀兰**(C-S6-007):"全家管教方式必须一致"
+    - **布雷泽尔顿**(C-S6-019):"15 月符号思维上线 = 模仿是认知发展"
+
+    家长意义:**14-17 月期父母 + 全家言行就是最强教材** — 你不希望宝宝学的别在她面前做。
+  what_to_do:
+    - 14-17 月期检查全家行为(脏话 / 摔门 / 打人都不要在前面做)
+    - 想培养的好行为故意演给她看(整理 / 道谢 / 等待)
+    - 别在她面前看暴力 / 粗鲁内容(电视 + 短视频)
+    - 她模仿坏行为 → 不严训(她在学习不是恶意),展示替代
+    - 接受偶尔模仿坏行为(2-3 周不重复就忘)
+  failure_mode: |
+    "她小不懂,我可以在她面前发脾气" — 跃迁 64 期她全部记下来。
+    "她学骂脏话 = 她坏" — 是模仿,源头在大人。
+    家中两个大人不一致(一个打一个不打)→ 宝宝学到混乱规则。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-vanderijt
+  - G-TERM-wonder-week
+  - G-TERM-mental-leap
+  - G-TERM-discipline
+  - G-TERM-symbolic-play
+
+citation:
+  book_title_zh: "婴儿大脑跃迁 10 周(神奇周)"
+  book_title_en: "The Wonder Weeks"
+  authors: ["Hetty van de Rijt", "Frans X. Plooij"]
+  authors_zh: ["海蒂·凡德里特", "弗朗斯·普洛伊"]
+  publisher_en: "Kiddy World Publishing"
+  year_en_first: 1992
+  isbn_en: "978-90-79208-12-1"
+  location: "Chapter 11 · Imitating others(Imitating is now his main occupation. He imitates every behavior he sees: someone stamps her feet, he stamps his feet; someone hits, he hits + Thomas's mom 14 months / Paul's mom 14.5 months diaries)"
+  source_id: SRC-013
+
+unit_ids: []
+related_cards:
+  - C-S6-122       # WW55 程序世界
+  - C-S6-123       # WW64 原则世界
+  - C-S6-126       # 跃迁期不打不骂
+  - C-S6-007       # 鲍秀兰 全家一致
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

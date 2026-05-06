@@ -1,0 +1,80 @@
+card_id: C-S7-043
+stages: [S6, S7]
+tags: [philosophy, controversy]
+
+front:
+  title: 妈不舍 = 妈自己焦虑
+  hook: 别把焦虑传下一代
+
+back:
+  why_matters: |
+    Bowlby Vol 2 第十九章揭示一个隐秘机制:**广场恐怖症(agoraphobia)= 焦虑型依恋的成人版**。
+    患者表现:害怕独自离家 / 害怕拥挤场所 / 一离开熟悉环境就崩溃。
+    Bowlby 数据:
+    - **大部分广场恐怖症患者童年期是拒学症儿童**(C-S7-041)
+    - 多数童年被父母反复**威胁抛弃**(C-S6-087)或经历**角色倒置**(C-S6-093)
+    - 现在自己当了妈,**对孩子又寸步不离 / 不允许孩子独立**
+    临床观察:**妈妈"舍不得"孩子去托班 / 上学 / 跟其他大人玩**,本质往往不是"爱孩子",
+    是**妈妈自己童年没解决的焦虑型依恋在投射**。
+    机制(代际传递):
+    - 自己童年:被妈妈用焦虑控制 → 内化"分离 = 灾难"
+    - 自己当妈:重复同一模式 → 通过控制孩子缓解自己焦虑
+    - 孩子内化:接续焦虑型依恋 → 第三代
+    Vol 2 数据:**AAI 代际传递率 ~75%**,但**可以打破**(觉察 + 治疗)。
+    家长意义:**自己有焦虑型依恋,先治自己,才能解放孩子**。
+  what_to_do:
+    - 反思:你"舍不得"是为孩子还是为自己
+    - 回忆童年:你妈是否常焦虑控制你
+    - 自己有焦虑症先求助专业治疗
+    - 不把"我们家庭就这样"传递下去
+    - 让孩子离开你 = 给他空间 = 真爱
+  failure_mode: |
+    "我就是疼孩子才不让他出去" — 数据:这种"疼"高度相关于自己未解决的焦虑型依恋。
+    "我妈以前也这样,我们都好好的" — 你以为"好好的",代价是你和孩子双方都焦虑型依恋。
+  evidence_level: A
+
+  positions:
+    issue: 婚姻关系 vs 亲子关系 · 谁优先 · 自我照顾
+    views:
+      - school: Lillard
+        source: SRC-016
+        stance: 婚姻关系优先于亲子。父母回家先找配偶不是孩子,夫妻关系是孩子安全感的根基。
+      - school: Davies
+        source: SRC-014
+        stance: 父母先照顾自己,connection over perfection;同方向但语气更柔。
+      - school: Bowlby V2
+        source: SRC-012
+        stance: 母亲焦虑会代际传递。妈妈心理健康即孩子心理健康(机制层面)。
+      - school: 中国主流
+        stance: 为孩子牺牲一切 / 妈妈全心扑娃 / "为了你不离婚" — 父母自我消耗常态化。
+glossary_refs:
+  - G-PERSON-Bowlby
+  - G-TERM-attachment
+  - G-TERM-anxious-attachment
+  - G-TERM-internal-working-model
+  - G-TERM-agoraphobia
+
+citation:
+  book_title_zh: "依恋三部曲 · 第二卷:分离"
+  book_title_en: "Attachment and Loss · Volume 2: Separation"
+  authors: ["John Bowlby"]
+  authors_zh: ["约翰·鲍尔比"]
+  translators_zh: ["汪智攀", "王婷婷"]
+  publisher_zh: "世界图书出版有限公司北京分公司"
+  year_en: 1973
+  year_zh: 2017
+  isbn: "978-7-5192-2926-9"
+  location: "第十九章焦虑型依恋和广场恐怖症(很大一部分广场恐怖症患者在儿童期通常是拒绝去学校的。这两类来访者都被发现是过度依赖的,他们的父母中有一个或者两个在经受着长期神经症的煎熬,以及通常他们也处于过度保护的母亲的统治下)"
+  source_id: SRC-012
+
+unit_ids: []
+related_cards:
+  - C-S6-093      # 角色倒置
+  - C-S6-087      # 再不听话妈妈就走
+  - C-S7-041      # 拒学和逃学不同
+  - C-S6-069      # Vol 1 3 岁前给娃刻内部地图
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

@@ -1,0 +1,60 @@
+card_id: C-S6-615
+stages: [S6]
+tags: [emotion, desires, RIE]
+
+front:
+  title: "想法没坏的行为才有坏"
+  hook: "他想杀全世界都没事"
+
+back:
+  why_matters: |
+    Magda《自信的宝宝》Ch8 §Desires + §Allow Your Child to Express His Feelings — Magda 极独特立场。
+    妈妈 Christina 案例:女儿要"妈妈拿月亮 / 拿灯泡 / 拿飞机"。妈妈解释"灯泡烫 / 飞机重 / 月亮远"。
+    Magda 反:**"承认她的渴望,从不否定。"**
+    > "**没有'坏'的渴望,只有坏的行为。**孩子可以有最骇人的渴望 —
+    > 比如他说'我想杀掉全世界的人' — 这也没事。
+    > 你说'哦,你想杀掉全世界?'就行。**行为不总是 OK 的。**"
+    Gottman 119 家庭研究背书:**承认情绪 + 设限度行为** = 高情商孩子,顶住离婚 + 抵抗抑郁。
+    替"不许这么想 / 闭嘴 / 你怎么这么坏"的中国主流。
+    渴望是有翅膀的。一辈子表达情绪的能力 = 心理健康根。
+
+  what_to_do:
+    - 不否定渴望:"你想要月亮"
+    - 问而不教:"那月亮在哪?怎么拿"
+    - 渴望 = 翅膀,不评好坏
+    - 行为有限度:"我不让你打弟弟"
+    - 渴望 + 行为分开处理
+
+  failure_mode: |
+    「他说想杀人必须立刻批评」 → Magda 反:那制造内疚 +
+    禁锢情绪表达 → 长大去做心理治疗。或反向「他想啥都给」 → 反:
+    渴望可以有,行为有限度。两个一起做才平衡。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+  - G-TERM-acknowledging-feelings
+
+citation:
+  book_title_en: "Your Self-Confident Baby"
+  book_title_zh: "自信的宝宝"
+  authors:
+    - Magda Gerber
+    - Allison Johnson
+  publisher_en: John Wiley & Sons
+  year: 1998
+  location: "Ch8 §Desires + §Acknowledge Your Child's Desires + §Allow Your Child to Express His Feelings(p168-171,引 Gottman 1997 LA Times)"
+  source_id: SRC-021
+
+unit_ids: []
+related_cards:
+  - C-S3-299  # Lansbury 承认情绪是连接钥匙(同源)
+  - C-S6-403  # Lansbury 限度+情绪并存
+  - C-S2-132  # Davies 哭闹 5 步回应法
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

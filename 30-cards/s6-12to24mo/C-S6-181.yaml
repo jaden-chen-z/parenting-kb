@@ -1,0 +1,78 @@
+card_id: C-S6-181
+stages: [S6]
+tags: [cognitive_science, causal_learning, baby_scientist]
+
+front:
+  title: 18 月会做因果实验
+  hook: blicket 实验经典
+
+back:
+  why_matters: |
+    Gopnik blicket detector 经典实验 — baby scientist 命题最硬证据。
+    实验设计:
+    - 一个机器(blicket detector),放上特定物体会亮 + 响
+    - 给 18 月宝宝看 3 个场景:
+      - 物体 A 单独放 → 灯亮
+      - 物体 B 单独放 → 灯不亮
+      - A + B 一起放 → 灯亮
+    - 问宝宝:"哪个是 blicket?"
+    宝宝**正确指 A**(不是 B,不是 A+B)。
+    意义:18 月宝宝**真的在做因果推理** — 不是简单相关。
+    排除了"AB 联合 → 亮"的解释,推出"A 引起亮,B 没引起"。
+    Gopnik 解读:幼儿在某些方面**比成人更愿意做因果实验**。
+    因为成人有"成见"会过滤可能假设,幼儿没成见,愿意尝试反直觉。
+    对中国家长意义:
+    - 宝宝"破坏行为"(扔 / 摔 / 拆)= 在做因果实验
+    - 不要立刻"不许扔" — 他正在学物理 + 学社会反应
+    - 让宝宝自己排查新玩具,不要立刻演示"按这里!"
+    - "解释"比"教学"好 — 让他看 + 你说出过程
+  what_to_do:
+    - 给宝宝可"动作 → 反应"的玩具(开关 / 球 / 拼图)
+    - 不抢着帮他,让他自己摸出规律
+    - 解释"为什么"用具体过程("妈妈按了开关,所以灯亮了")
+    - 不必"教因果"概念 — 他在自学
+  failure_mode: |
+    "18 月还小,玩具按错没事" — 错。他在做因果实验。
+    宝宝试新玩具就立刻"看妈妈帮你按" — 错。剥夺因果实验机会。
+    一会儿允许扔一会儿不许 — 因果模型崩溃。
+  evidence_level: A
+
+  positions:
+    issue: 0-3 岁是否需要主动教学 · 早教班 · 闪卡 · Mozart 效应
+    views:
+      - school: Brazelton
+        source: SRC-010
+        stance: 3 岁前不教读写。Erikson 框架下情感发展优先于认知训练。
+      - school: Gopnik
+        source: SRC-015
+        stance: Mozart 效应是骗局;闪卡无效;教越多越拖累自主探索;突触修剪是优化非损失。
+      - school: 蒙氏(Lillard/Davies)
+        source: SRC-014/016
+        stance: 反对主动教学。提供 prepared environment + 观察 + 不打扰,孩子主导探索节奏。
+      - school: 中国主流
+        stance: 早教班 / 闪卡 / 双语早教 / Mozart 胎教 / "赢在起跑线" — 商业产业链已成熟。
+glossary_refs:
+  - G-PERSON-Gopnik
+  - G-TERM-causal-learning
+  - G-TERM-baby-scientist
+  - G-TERM-statistical-learning
+
+citation:
+  book_title_en: "The Scientist in the Crib"
+  book_title_zh: "摇篮里的科学家"
+  authors: ["Alison Gopnik", "Andrew N. Meltzoff", "Patricia K. Kuhl"]
+  publisher_en: William Morrow
+  year: 1999
+  location: "Chapter 5 (extended in Gopnik & Schulz 2007 blicket experiments)"
+  source_id: SRC-015
+
+unit_ids: []
+related_cards:
+  - C-S3-189       # 3 月 mobile 因果学习(早期版)
+  - C-S1-240       # baby scientist 总论
+  - C-S6-179       # 18 月 ToM(同段同主题)
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

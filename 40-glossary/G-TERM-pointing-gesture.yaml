@@ -1,0 +1,71 @@
+glossary_id: G-TERM-pointing-gesture
+type: term
+display_name: 指物 (pointing gesture)
+
+full_name_en: Pointing Gesture (Protoimperative & Protodeclarative Pointing)
+full_name_zh: 指物手势(祈使指 + 陈述指)
+
+one_liner: |
+  9-14 月出现的"食指指向"是有意图沟通的核心标志,分祈使指(要)和陈述指(分享)。18 月不指物是自闭症红旗信号。
+
+detail: |
+  ## 定义
+  婴儿 9-14 月学会**伸出食指指向**感兴趣的物体或事件,
+  是从前语言期向语言期过渡的最关键里程碑之一。
+
+  ## 两种类型(Bates et al, 1979 经典分类)
+  ### 1. 祈使指 (protoimperative pointing)
+  - **目的 = 要东西**:指向想要的物品,让大人拿过来。
+  - 出现时间:约 9-12 月。
+  - 例:指着架子上的饼干 → 看妈妈 → "我要那个"。
+  - **共有于自闭症儿童**(他们也会用工具性指向)。
+
+  ### 2. 陈述指 (protodeclarative pointing)
+  - **目的 = 分享注意**:指向引起兴趣的东西,
+    让大人也看到,**不是要而是分享**。
+  - 出现时间:约 12-14 月。
+  - 例:指着窗外的鸟 → 看妈妈 → 看鸟 → 看妈妈("一起看!")。
+  - **自闭症儿童典型缺失**(不主动分享注意)。
+  - 是**共同注意力**(joint attention)的最强外显行为。
+
+  ## 自闭症筛查的核心信号
+  - **18 月不指物**(尤其陈述指)= **M-CHAT 关键红旗项**。
+  - 与共同注意力缺失、不响应名字共同构成 ASD 早期警示三联征。
+  - AAP 18 月儿保必查 M-CHAT,16-30 月窗口最佳。
+
+  ## 与语言发育的强相关
+  - 12 月陈述指频率预测 18 月词汇量(r ≈ 0.5)。
+  - 陈述指越多 → 大人命名机会越多 → 词汇爆发越早。
+  - 不指物 → 早期语言输入断裂 → 语言迟缓风险。
+
+  ## 海蒂书操作要点
+  - 跟随娃的手指看并命名("那是鸟")。
+  - 大人也常指物示范("看小狗")。
+  - 别一上来就喂或拿,鼓励娃指物提要求。
+  - 18 月仍不指物 → 找儿保排查 ASD。
+
+key_facts:
+  - 9-14 月出现
+  - 祈使指(要)9-12 月 / 陈述指(分享)12-14 月
+  - 陈述指 = 共同注意力外显行为
+  - 18 月不指物 = M-CHAT 红旗
+  - 12 月指物频率预测 18 月词汇
+
+related_glossary:
+  - G-TERM-joint-attention
+  - G-TERM-MCHAT
+  - G-TERM-language-explosion
+  - G-PERSON-Tomasello
+
+related_cards:
+  - C-S5-2149      # 指物=真沟通
+  - C-S5-2148      # 12 月开口第一个真词
+
+sources:
+  - source_id: SRC-040
+  - external: "Bates E, Camaioni L, Volterra V (1975) / Tomasello M (2008) / AAP M-CHAT-R guidance"
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

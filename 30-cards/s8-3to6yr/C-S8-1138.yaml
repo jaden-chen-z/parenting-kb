@@ -1,0 +1,52 @@
+card_id: C-S8-1138
+stages: ['S8']
+tags: ['philosophy', 'lerner_v1', 'shweder', 'cultural_psychology', 'parent_application']
+
+front:
+  title: "中国娃不是落后娃"
+  hook: "互依 self 也是金"
+
+back:
+  why_matters: |
+    Shweder + Markus 的核心命题 — 中国(亚洲)互依 self 不是 "西方独立 self 的初级阶段",是不同 mentality 的等价位。
+    - 美国娃 5 岁 "我喜欢蓝色因为我喜欢" — 独立 self
+    - 中国娃 5 岁 "妈妈说蓝色好看所以我也喜欢" — 互依 self
+    两者都健康,都有发展轨迹,只是不同 mentality。
+    意义 — 中国家长不必焦虑"我家娃没有美式 self-esteem"。
+    研究数据(Chao 1994 + Chen 2002)— 中国 "严而暖" + 互依 self 在中国情境下结果良好。
+    反而 — 强行美式独立训练放在中国情境(集体学校 / 家庭)反而 mismatch 出问题。
+  what_to_do:
+    - "中国娃互依 self ≠ 缺乏自我"
+    - "不强行培养美式 'I am special' self"
+    - "'我们家'叙事是中国 self 健康表达"
+    - "集体感 + 个人成就兼顾"
+    - "中国教养在中国情境有效"
+  failure_mode: |
+    强培"美式自信" — 文化不匹配会反效果。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Shweder
+  - G-PERSON-Markus
+  - G-TERM-cultural-psychology
+  - G-TERM-interdependent-self
+
+related_cards:
+  - C-S0-1524
+  - C-S0-1525
+  - C-S6-1506
+  - C-S8-323
+
+citation:
+  source_id: SRC-030
+  source_title: "Handbook of Child Psychology Vol 1: Theoretical Models of Human Development"
+  chapter: "Ch 13 Shweder"
+  chapter_offset: 4117263
+  chapter_title: 'Shweder / Goodnow / Hatano / LeVine / Markus / Miller — Cultural Psychology'
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_followup_needed: 'SRC-030 用 PDF 字节偏移代页码 — 待加 page_pdf 反查工具'

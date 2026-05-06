@@ -1,0 +1,60 @@
+card_id: C-S2-183
+stages: [S2]
+tags: [cognitive_science, imitation, emotional_attunement, controversy]
+
+front:
+  title: 你的情绪宝宝全在镜像
+  hook: 镜像情绪不分好坏
+
+back:
+  why_matters: |
+    Meltzoff "like me"机制延伸:模仿不是只学动作,**情绪也在镜像**。
+    Gopnik 研究:0-3 月宝宝看到妈妈表情就**自动同步**情感状态:
+    - 你笑 → 他笑(2-3 月即出现)
+    - 你皱眉 → 他皱眉
+    - 你紧张 → 他哭闹增加
+    - 你平和 → 他容易入睡机制:婴儿看你的脸时,大脑自动激活同样情感回路(镜像神经元)。
+    关键:镜像**不分好坏**,只复制频繁出现的状态。
+    Field 1986 研究:产后抑郁妈妈的宝宝 6 月时镜像出"抑郁脸"基线。
+    长期累积影响 → Bowlby 内部工作模型雏形。
+    对中国家长意义:
+    - 你不是"装个好爸妈" — 是真心调节自己情绪
+    - 焦虑 / 暴怒 / 冷漠都被宝宝学走
+    - 妈妈情绪不稳时优先解决妈妈,而不是逼自己"对宝宝好"
+    一句话:**你想他温柔,你先温柔**。
+    **注**:镜像神经元在人类的存在和功能自 2010s 后高度争议(Hickok 2014《镜像神经元神话》)— 情感同步现象本身证据稳固,但"镜像神经元"作为机制解释仍在研究中。
+  what_to_do:
+    - 自己情绪不好先深呼吸 / 离开房间几分钟
+    - 不在宝宝面前激烈情绪表达 / 摔东西 / 互相指责
+    - 妈妈抑郁 / 焦虑及时寻求帮助(伴侣 / 心理咨询)
+    - 全家情绪基线决定宝宝镜像基线
+  failure_mode: |
+    "他还小不懂" — 错。2-3 月已经在镜像情感。
+    "我吼几声没事,他不记得" — 错。延迟模仿 9 月起 1 周仍记。
+    妈妈抑郁不处理,硬撑着对宝宝笑 — 假笑也被镜像(更糟)。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Meltzoff
+  - G-PERSON-Gopnik
+  - G-TERM-imitation
+  - G-TERM-attachment
+
+citation:
+  book_title_en: "The Scientist in the Crib"
+  book_title_zh: "摇篮里的科学家"
+  authors: ["Alison Gopnik", "Andrew N. Meltzoff", "Patricia K. Kuhl"]
+  publisher_en: William Morrow
+  year: 1999
+  location: "Chapter 2 · Like me mechanism + emotional sync"
+  source_id: SRC-015
+
+unit_ids: []
+related_cards:
+  - C-S1-241       # Meltzoff 出生模仿
+  - C-S1-122       # Bowlby 依恋前奏
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

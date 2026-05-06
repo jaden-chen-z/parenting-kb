@@ -1,0 +1,54 @@
+card_id: C-S4-1049
+stages: [S4]
+tags: []
+
+front:
+  title: "质地 6→9→12 月"
+  hook: "泥糊渐进到家庭饭"
+
+back:
+  why_matters: |
+    WHO 食物质地递进(food consistency):
+    - 6 月:泥状/碎状/半固体(homogeneous puree)
+    - 8 月:可加手指食物(self-feeding 训练)
+    - 12 月:过渡至家庭食物(family foods)— 切碎/煮软原则:'gradually increase food consistency and variety'。
+    AAP 立场(SRC-006 BLW)略一致 — 4-6 月后手指食物 / BLW 选项。
+    中国传统'1 岁前都吃稀的'→ 跟 WHO 8 月加手指食物立场冲突。
+  what_to_do:
+    - "6 月:泥糊半固体"
+    - "8 月:加手指食物(切条让娃自抓)"
+    - "12 月:家庭食物(切碎煮软,跟随大人桌)"
+    - "1 岁前 '都吃稀的' 是错的 — 8 月就该练咀嚼"
+    - "质地慢→快递进,不是一辈子稀"
+  failure_mode: |
+    1 岁前都给稀泥糊 → 错过 8 月咀嚼训练窗 → 后续抗拒固体 + 语言发音影响。
+    8 月手指食物是关键节点。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-CF
+  - G-TERM-WHO-CF-principles
+
+citation:
+  page_title: "WHO Complementary Feeding — Food Consistency"
+  publisher: "World Health Organization & UNICEF"
+  page_url_primary: https://www.who.int/health-topics/complementary-feeding
+  accessed: 2026-05-04
+  language: en
+  location: "WHO 6→8→12 月textures递进 + finger food 自喂训练"
+  source_id: SRC-031
+
+unit_ids: []
+related_cards:
+  - C-S4-1045
+  - C-S4-1046
+  - C-S4-001
+  - C-S4-002
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_doc_id_pending: D6
+citation_followup_needed: '已映射真实 doc_id (D6 = WHO Complementary Feeding)'

@@ -1,0 +1,72 @@
+card_id: C-S6-126
+stages: [S6]
+tags: [philosophy, discipline, controversy]
+
+front:
+  title: 跃迁期不打不骂
+  hook: 跃迁完成自然平稳
+
+back:
+  why_matters: |
+    跃迁后期(WW55-75)烦躁阶段宝宝**最容易引发家长打骂冲动**:
+    - 反复测试规则边界(原则世界跃迁特征)
+    - 大爆发情绪(系统世界自我意识萌芽)
+    - 倒退到婴儿行为
+
+    妈妈日记反复出现:
+    - "我让他坐到时间椅 / 拍屁股"
+    - "我推开了她还说我惯坏了她"
+    - "我冷暴力让她饿了一顿"
+
+    凡德里特多次警告(白话翻译):
+    > 打孩子,或者"狠拍一下屁股",什么都解决不了。
+    > 只会让孩子白白受伤 + 破坏宝宝对你的信任。
+
+    跨源数据支持:
+    - **鲍尔比**(C-S6-070):被打的孩子有 D 混乱型依恋创伤模式
+    - **AAP / 鲍秀兰**(C-S6-007):全家管教方式必须一致 + 不打
+    - **凡德里特**:跃迁期的"行为问题"几周后自然平稳,**打没用反破坏信任**
+
+    家长意义:**1-2 岁的"教不会"不是孩子的问题,是大脑还在跃迁** — 等几周自然解决。
+  what_to_do:
+    - 烦躁期降低对"听话"的期待
+    - 用转移注意力 / 有限选择代替惩罚
+    - 真要"立规矩"等跃迁完成后(平静期)再开始
+    - 父母情绪上头时离开 5 分钟,不要在情绪中决策
+    - 一致的"不打"原则全家执行
+  failure_mode: |
+    "孩子皮就该打才听话" — 鲍尔比数据反:打养出 D 混乱型依恋。
+    "我小时候挨打长大也没事" — 你不知道你失去了什么(自我控制 / 共情)。
+    "偶尔打一下没什么" — 偶尔打 + 跃迁期高频 = 累积破坏信任。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-vanderijt
+  - G-PERSON-Bowlby
+  - G-TERM-wonder-week
+  - G-TERM-fussy-phase
+  - G-TERM-discipline
+  - G-TERM-disorganized-attachment
+
+citation:
+  book_title_zh: "婴儿大脑跃迁 10 周(神奇周)"
+  book_title_en: "The Wonder Weeks"
+  authors: ["Hetty van de Rijt", "Frans X. Plooij"]
+  authors_zh: ["海蒂·凡德里特", "弗朗斯·普洛伊"]
+  publisher_en: "Kiddy World Publishing"
+  year_en_first: 1992
+  isbn_en: "978-90-79208-12-1"
+  location: "Chapter 10 · You May Argue(Hitting or a 'good smack on the bottom' does not solve anything. It unnecessarily hurts your baby and damages the trust your baby has in you)"
+  source_id: SRC-013
+
+unit_ids: []
+related_cards:
+  - C-S6-070       # Bowlby 体罚的特殊创伤模式
+  - C-S6-072       # Bowlby 管教方式 → 观点采择
+  - C-S6-007       # 鲍秀兰 全家一致不打
+  - C-S6-123       # WW64 原则世界
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

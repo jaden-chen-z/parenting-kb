@@ -1,0 +1,62 @@
+card_id: C-S6-125
+stages: [S6]
+tags: [development_burst, philosophy, controversy]
+
+front:
+  title: 13-18 月连续三跃迁
+  hook: 1-2 岁跃迁不停歇
+
+back:
+  why_matters: |
+    1-2 岁(S6 段)是 Wonder Week 跃迁最密集时期 — 一年内连续 **3 个跃迁**:
+    - WW55(12.8 月)程序世界
+    - WW64(14.9 月)原则世界
+    - WW75(17.5 月)系统世界每个跃迁前烦躁 阶段 长达 4-6 周,**几乎全年都在烦躁或刚出烦躁**。
+    妈妈日记(WW64-75 期间)反复出现:
+    - "我又开始想那个温顺乖宝宝去哪了"
+    - "感觉是给我提前看 10 年后的青春期"
+    - "我快被她搞疯了,她非要主导我的全部时间"
+    - "我以为是我把她惯坏了"
+    家长意义:**"两岁叛逆期"(可怕的 2 岁)其实从 13 月就开始**,
+    是 WW55/64/75 三连击的累积效应,不是孩子性格变差。
+    撑过 75 周(17.5 月),Wonder Week 框架结束 — 但发展挑战不止(后续还有 21、24、30 月小波)。
+  what_to_do:
+    - 1-2 岁日历画上 49/55/59/64/71/75 几个关键周
+    - 大事(入园 / 断奶 / 弟妹出生)安排在跃迁后的平静期
+    - 接受这一年内**几乎没有平静期** — 调整自己预期
+    - 找长期支持网(老人 / 钟点工 / 早教班 — 不是甩手,是分担)
+    - 跃迁完成后(18 月+)局面会突然轻松
+  failure_mode: |
+    "1 岁后宝宝就该听话懂事" — 不,1-2 岁是跃迁最密集年。
+    "她从前那么乖怎么变这样" — 她的认知大脑在升级,不是性格变了。
+    用"严厉管教"对付跃迁期烦躁 → 越管越糟。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-vanderijt
+  - G-TERM-wonder-week
+  - G-TERM-fussy-phase
+  - G-TERM-tantrum
+
+citation:
+  book_title_zh: "婴儿大脑跃迁 10 周(神奇周)"
+  book_title_en: "The Wonder Weeks"
+  authors: ["Hetty van de Rijt", "Frans X. Plooij"]
+  authors_zh: ["海蒂·凡德里特", "弗朗斯·普洛伊"]
+  publisher_en: "Kiddy World Publishing"
+  year_en_first: 1992
+  isbn_en: "978-90-79208-12-1"
+  location: "Chapter 12 · How This Leap May Affect You(All parents report that they quarrel with their 'teenaging' toddler. Toddlers can do it, too. It gives one a preview of what is to come ten years later)"
+  source_id: SRC-013
+
+unit_ids: []
+related_cards:
+  - C-S6-122       # WW55
+  - C-S6-123       # WW64
+  - C-S6-124       # WW75
+  - C-S6-068       # Bowlby 2 岁是依恋顶峰
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

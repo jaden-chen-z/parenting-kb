@@ -1,0 +1,48 @@
+card_id: C-S3-2347
+stages: [S3]
+tags: [safety]
+
+front:
+  title: 腹泻喂养:继续奶+少量勤补
+  hook: 别禁食,越早吃越快好
+
+back:
+  why_matters: |
+    旧观念"腹泻禁食 24 h" 已被海蒂否定 — 研究表明**继续吃固体食物的宝宝腹泻更快好**,
+    脂肪 + 膳食纤维(燕麦 / 酸奶 / 鸡肉)反帮恢复。母乳更要继续喂(防腹泻特殊成分)。
+    呕吐持续时**先液体后固体**;每 2-3 分钟一小勺,一次别超 1-2 勺。
+    水果 / 蔬菜短期暂停(除香蕉);白葡萄汁好于苹果汁(无山梨醇)。
+  what_to_do:
+    - 继续母乳 / 配方奶 — **不停哺乳是核心原则**
+    - 已加固食的宝宝继续吃,**优先燕麦 / 酸奶 / 鸡肉 / 香蕉**
+    - 每小时**至少 56g 液体**(口服补液 / 母乳 / 配方奶)
+    - 呕吐时一次 1-2 勺(更小宝宝更少),停吐恢复正常吃
+    - 暂停乳制品 1-2 天(母乳/配方奶不算)+ 暂停果汁蔬菜(香蕉除外)
+  failure_mode: |
+    腹泻 24 h 禁食 → 营养不良 + 腹泻反更长。
+    给止泻药(婴儿) → 海蒂明禁,部分对宝宝有害。
+    腹泻给苹果汁"补水" → 山梨醇 + 高果糖恶化腹泻。
+    脏尿布换得不勤 → 红屁股 + 二次感染。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-AAP
+
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1 岁"
+  authors: [Heidi Murkoff, Sharon Mazel]
+  publisher_en: Workman Publishing
+  publisher_zh: 南海出版公司(新经典发行)
+  year: 1989
+  edition: 3rd (2014)
+  location: "第 18 章《宝宝生病》'腹泻饮食处理',548-549 页中译"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards: [C-S3-2346, C-S2-2105]
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

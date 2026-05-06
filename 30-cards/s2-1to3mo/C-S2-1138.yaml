@@ -1,0 +1,76 @@
+card_id: C-S2-1138
+stages: [S2]
+tags: [cognitive_science, habituation, methodology, lerner_v2]
+
+front:
+  title: 习惯化是婴儿研究黄金法
+  hook: 看时间测心知道事
+
+back:
+  why_matters: |
+    Cohen 综述习惯化方法学(Lerner V2 Ch5 主笔范式综述)。
+    习惯化(habituation)= 婴儿研究核心方法:
+    - 给宝宝看 A 反复 → 注视时间下降(习惯化)
+    - 切换到 B 看新刺激 → 注视恢复(再激活)
+    - "注视恢复"= 区分 A 和 B
+    - **不需要语言不需要动作** — 婴儿看的时间就是答案应用:
+    - Spelke 物体永久(C-S3-1140 吊桥)用习惯化
+    - Wynn 5 月数概念(C-S3-1144)用习惯化
+    - Saffran 8 月统计学习(C-S4-1140)用习惯化
+    - Werker 知觉重组(C-S5-1137)用习惯化
+    Lerner V2 警告(Cohen 综述):
+    - 习惯化测"区分"不一定测"概念"
+    - 婴儿盯久不一定"惊讶" — 可能只是知觉差异
+    - **多数当代婴儿研究的争议在解读层**
+    意义:
+    - 知道"婴儿研究怎么做"才能批判性看新闻
+    - 习惯化是范式,不是真理
+    - 解读总有空间跟现库:跟 Cohen-Cashon vs Spelke 立场之争(C-S3-1141)对接。
+    Lerner V2 给方法学综述。
+    对中国家长意义:
+    - 看到"科学研究证明 X 月就懂 Y"先想:用什么方法?
+    - 习惯化是常用方法,但解读不唯一
+    - 别盲信"婴儿研究"标题
+    - 综述权威 > 单一研究
+  what_to_do:
+    - 看到"婴儿研究"先问方法
+    - 不盲信"X 月就懂 Y"
+    - 综述比单研可靠
+    - 多源验证再下结论
+  failure_mode: |
+    "习惯化是真理" — 错。是范式 + 解读争议。
+    "看时长就是知道" — 错。可能只是知觉。
+    "单一研究就是科学证明" — 错。需要综述。
+  evidence_level: B
+
+glossary_refs:
+  - G-TERM-baby-scientist
+  - G-TERM-perceptual-narrowing
+  - G-TERM-statistical-learning
+  - G-TERM-object-permanence
+  - G-PERSON-Spelke
+  - G-PERSON-Leslie
+  - G-PERSON-Saffran
+  - G-PERSON-Werker
+  - G-PERSON-Wynn
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 2 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 2 卷"
+  authors: ["Leslie B. Cohen", "Cara H. Cashon"]
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 5 · Habituation methodology · pp. 218-220"
+  source_id: SRC-028
+
+unit_ids: []
+related_cards:
+  - C-S3-1140     # Baillargeon 吊桥
+  - C-S3-1141     # Cohen-Cashon vs Spelke
+  - C-S3-1144     # Wynn 5 月加法
+  - C-S3-188       # Spelke 物体永久(Gopnik 系列)
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

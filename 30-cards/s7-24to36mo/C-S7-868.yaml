@@ -1,0 +1,65 @@
+card_id: C-S7-868
+stages: [S7]
+tags: [shonkoff, nrc, culture, individualism_collectivism, china_high_freq]
+
+front:
+  title: "中式育儿没有错"
+  hook: "集体主义不输个人主义"
+
+back:
+  why_matters: |
+    NRC 综述 Ch 3 给"跨文化育儿"科学立场 — 反"美式育儿才科学"迷思:
+    **2 大文化轴**(Greenfield 1994):
+    - **个人主义文化**(欧美) → 育儿强调独立 / 自我实现 / 个人成就
+    - **集体主义文化**(亚 / 非 / 拉美) → 育儿强调责任 / 集体目标 / 互相照顾
+    **NRC 立场关键**:
+    - **没有"对错"** — 各有 trade-off
+    - 集体主义:更强连接 / 共享 / 团结,**代价**可能压抑个人
+    - 个人主义:更强独立 / 创造,**代价**可能孤立 / 关系疏离
+    **对比研究**(NRC 引):
+    - **美国妈**爱"提问型对话"(interrogatives)→ 孩子爱质疑 + 自我主张
+    - **Gusii 部落 + Zinacantecan 妈**爱"命令型对话"(imperatives)→ 孩子顺从 + 不质疑
+    - 美国人觉得 Gusii 父母"独裁严厉",Gusii 觉得美国父母"溺爱",**双方互相误解**
+    **Greenfield-Suzuki 1998 解读**:
+    - 美式 = "技术智力" 偏好(认知刺激)
+    - 日式 = "社交智力" 偏好(人际关系)
+    **对中国家长**:
+    - 别盲信"美式育儿才科学" — NRC 综述明确反对
+    - 集体主义文化(中国)有自己适应价值
+    - 但也有些做法**确实有害**(NRC Ch 3 列):缠足 / 严厉体罚 / 极端饮食 — 这些不是"文化",是伤害
+    - 关键判断:这做法是否伤孩子身心? 不是 — 文化 OK / 是 — 不分文化都不行
+  what_to_do:
+    - 不必照搬美式
+    - 集体主义有自己价值
+    - 评判看伤不伤害
+    - 中式责任感 OK
+    - 别认为西方更高
+  failure_mode: |
+    "美式才科学 — 我都得照美式来" — NRC 反对 — 文化没"对错"。
+    "中国传统都对" — 错,部分做法确实有害(缠足 / 严厉体罚 / 极端饮食)。
+    "Gusii 命令型娃就是被压制" — 美国偏见,本族孩子健康发展。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Shonkoff
+  - G-TERM-NRC
+
+citation:
+  book_title_en: "From Neurons to Neighborhoods"
+  authors: ["Jack P. Shonkoff", "Deborah A. Phillips"]
+  org: "NRC/IOM"
+  year_en: 2000
+  location: "Ch 3 · Individualism vs interdependence cultures"
+  source_id: SRC-025
+
+unit_ids: []
+related_cards:
+  - C-S6-935    # Shonkoff 中国娃多内疚(本卷)
+  - C-S0-517    # 松田 不焦虑育儿 SRC-024
+  - C-S0-1503    # Shonkoff 基因环境 互相塑造(本卷)
+  - C-S6-816    # 松田 §329 撒娇 SRC-024
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

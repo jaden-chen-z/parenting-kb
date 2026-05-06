@@ -1,0 +1,525 @@
+source_id: SRC-029
+title_en: "Handbook of Child Psychology, Volume 4: Child Psychology in Practice (6th Edition)"
+title_zh: "儿童心理学百科 · 第 4 卷:儿童心理学的实操应用(第 6 版)"
+org: "John Wiley & Sons"
+tier: 3
+source_type: book
+url: null
+isbn_en: "978-0-471-27291-4"
+publisher_en: "John Wiley & Sons, Inc."
+location_en: "Hoboken, New Jersey"
+year_en: 2006
+edition: "6th"
+accessed: 2026-05-04
+language: en
+notes_path: tier3-books/notes/SRC-029.yaml
+
+editors:
+  - name_en: "William Damon (Editor-in-Chief)"
+    name_zh: "威廉·达蒙"
+    role: "Handbook 总主编(全 4 卷)"
+    background: |
+      斯坦福大学青少年发展中心主任,道德发展研究权威,
+      Handbook of Child Psychology 全 4 卷总主编(2006 第 6 版)。
+  - name_en: "Richard M. Lerner (Editor-in-Chief)"
+    name_zh: "理查德·勒纳"
+    role: "Handbook 总主编(全 4 卷)+ 应用发展科学奠基人"
+    background: |
+      Tufts University 应用儿童发展研究所主任,生命周期发展心理学权威,
+      Damon-Lerner 双主编模式延续到 2006 第 6 版。
+      Lerner 本人是"应用发展科学"(applied developmental science)学派旗手 —
+      把"研究 → 实践 → 政策"的转化作为发展心理学的第三轴。
+  - name_en: "K. Ann Renninger (Volume Editor)"
+    name_zh: "K. 安·雷宁格"
+    role: "本卷(Vol 4)主编 + 兴趣发展研究权威"
+    background: |
+      Swarthmore College 心理学教授,儿童兴趣发展(interest development)
+      四阶段模型奠基人,本卷统筹 24 章 + 主笔 Introduction + 与 Sigel 共同
+      构建"研究 → 实践"应用发展研究框架。
+  - name_en: "Irving E. Sigel (Volume Editor)"
+    name_zh: "欧文·E·西格尔"
+    role: "本卷(Vol 4)主编 + Educational Testing Service 资深研究员"
+    background: |
+      ETS 终身研究员,父母信念(parental beliefs)研究奠基人,
+      "distancing strategies"(距离化策略 — 父母用提问引导孩子思考)概念创始人。
+      本卷压轴 Ch 24 Research to Practice Redefined。
+
+# 章节地图(基于 TOC 页码 + 5797704 总字符近似估算 — 每页约 5662 字符)
+chapter_offsets:
+  toc_start: 55111
+  introduction: 60000      # Renninger & Sigel 序章
+  # Section One: Research Advances and Implications for Practice in Education
+  ch1_early_childhood_education: 70000      # Hyson, Copple, Jones — 早期教育
+  ch2_assessments_early_reading: 325000     # Paris & Paris — 早期阅读评估
+  ch3_bilingual_biliterate_bicultural: 478000  # Snow & Kang — 双语/双文化
+  ch4_mathematical_thinking: 636000         # De Corte & Verschaffel — 数学思维
+  ch5_scientific_thinking: 919000           # Lehrer & Schauble — 科学思维
+  ch6_spatial_thinking: 1168000             # Liben — 空间思维教育
+  ch7_character_education: 1457000          # Lapsley & Narvaez — 品格教育
+  ch8_learning_environments: 1734000        # Blumenfeld, Marx, Harris — 学习环境
+  # Section Two: Research Advances and Implications for Clinical Applications
+  ch9_self_regulation_effort: 2006000       # Boekaerts — 自我调节 + 努力投入
+  ch10_risk_and_prevention: 2193000         # Selman & Dray — 风险与预防
+  ch11_learning_disabilities: 2431000       # Berninger — 学习障碍发展取向
+  ch12_mental_retardation: 2618000          # Hodapp & Dykens — 智力迟滞
+  ch13_developmental_psychopathology: 2867000  # Cicchetti & Toth — 发展精神病理学 + 预防干预
+  ch14_families_early_intervention: 3155000    # Powell — 家庭与早期干预
+  ch15_sel_programs: 3404000                   # Kress & Elias — 学校 SEL 项目
+  ch16_war_trauma: 3558000                     # Klingman — 战争创伤儿童
+  # Section Three: Research Advances and Implications for Social Policy and Social Action
+  ch17_cultural_pathways: 3762000              # Greenfield, Suzuki, Rothstein-Fisch — 文化路径
+  ch18_childhood_poverty: 3997000              # McLoyd, Aikens, Burton — 儿童贫困政策
+  ch19_child_and_the_law: 4427000              # Bruck, Ceci, Principe — 儿童与法律
+  ch20_media_popular_culture: 4659000          # Comstock & Scharrer — 媒体与流行文化
+  ch21_childrens_health: 4925000               # Ramey, Ramey, Lanzi — 儿童健康教育
+  ch22_parenting_science: 5089000              # Bornstein — 育儿科学与实践 ⭐⭐⭐
+  ch23_nonparental_child_care: 5412000         # Lamb & Ahnert — 非父母托育
+  ch24_research_to_practice: 5790000           # Sigel — 研究到实践再定义
+  total_chars: 5797704
+  total_lines: 136510
+
+# 章节大小(KB,估算)
+chapter_sizes_kb:
+  intro: 10
+  ch1: 250  # Hyson 早教章 — 主战场
+  ch2: 150  # 早期阅读评估
+  ch3: 155  # 双语
+  ch4: 280  # 数学
+  ch5: 245  # 科学
+  ch6: 285  # 空间
+  ch7: 270  # 品格教育
+  ch8: 270  # 学习环境
+  ch9: 185  # 自我调节
+  ch10: 235  # 风险预防
+  ch11: 185  # 学习障碍
+  ch12: 245  # 智力迟滞
+  ch13: 285  # 发展精神病理学 — 主战场
+  ch14: 245  # 家庭早期干预 — 主战场 ⭐⭐⭐
+  ch15: 150  # SEL
+  ch16: 200  # 战争创伤
+  ch17: 230  # 文化路径
+  ch18: 420  # 儿童贫困 — 大章节
+  ch19: 230  # 儿童与法律
+  ch20: 265  # 媒体 — 主战场 ⭐⭐⭐
+  ch21: 165  # 儿童健康(Ramey 写)
+  ch22: 320  # 育儿科学 — 大章节 ⭐⭐⭐
+  ch23: 380  # 托育 — 大章节 ⭐⭐⭐
+  ch24: 30   # Sigel 压轴
+
+# Lerner V4 独有命题(本书 vs 现库 19 派对照)— 应用发展科学维度
+lerner_v4_unique_themes:
+  - applied_developmental_research: "Lerner 应用发展科学旗帜:研究 → 实践 → 政策三轴并行,反纯基础研究"
+  - hyson_dap: "Hyson DAP(Developmentally Appropriate Practice)— NAEYC 学龄前教育标准 + 反学业前移"
+  - hyson_copple_4_principles: "Hyson-Copple 4 原则:发展知识 / 文化敏感 / 个体差异 / 学习领域"
+  - paris_5_components_reading: "Paris 早期阅读 5 要素(音韵/字母/词汇/流利/理解)— NRP 基础"
+  - snow_bilingual_no_disadvantage: "Snow 双语不损母语 + 关键期窗口可补 + 学业更好"
+  - de_corte_realistic_math: "De Corte 真实情境数学(RME)— 反单纯计算"
+  - lehrer_inquiry_science: "Lehrer 科学探究式教学 — 反单纯灌输事实"
+  - liben_spatial_critical: "Liben 空间思维是被忽视的智能 — 性别差异 + 可训练"
+  - lapsley_narvaez_character_4_pillars: "Lapsley-Narvaez 品格教育 4 支柱 — 反单纯说教"
+  - blumenfeld_motivation_classroom: "Blumenfeld 课堂动机 5 维 — TARGET 框架"
+  - boekaerts_3_layers_self_regulation: "Boekaerts 自调节 3 层(认知/动机/情境)"
+  - selman_risk_prevention_pyramid: "Selman 风险预防金字塔 — 普遍/选择性/指标性 3 级干预"
+  - berninger_writing_brain: "Berninger 书写发展脑科学 — 阅读 ≠ 写作"
+  - hodapp_dykens_etiology_specific: "Hodapp-Dykens 特定病因取向 — 唐氏 vs 自闭谱不同干预"
+  - cicchetti_toth_developmental_psychopathology: "Cicchetti-Toth 发展精神病理学 4 原则:同等终局/分歧路径/关键期/韧性"
+  - cicchetti_4_types_maltreatment: "Cicchetti 虐待 4 类型(身体/性/忽视/情感)+ 神经发育冲击"
+  - powell_5_principles_intervention: "Powell 家庭干预 5 原则 — 关系 / 文化 / 个体化 / 持续 / 协作"
+  - kress_elias_sel_5_competencies: "Kress-Elias SEL 5 能力(自察/自管/社察/关系/决策)— CASEL 框架"
+  - klingman_war_trauma_resilience: "Klingman 战争创伤儿童恢复 — 文化 + 关系 + 仪式 3 力量"
+  - greenfield_5_cultural_dimensions: "Greenfield 文化路径 5 维度(独立 vs 互依)+ 中国移民研究"
+  - mcloyd_poverty_economic_pressure_model: "McLoyd 贫困经济压力模型 — 不只是经济 + 父母心理 + 教养断层"
+  - bruck_ceci_child_witness: "Bruck-Ceci 儿童证人记忆 — 暗示性 + 重复询问扭曲"
+  - comstock_media_5_effects: "Comstock 媒体 5 效应(暴力/性别/广告/学业/社会化)"
+  - ramey_abecedarian_legacy: "Ramey 北卡 Abecedarian RCT 35 年长效 — 早期干预最强证据"
+  - bornstein_culture_specific_parenting: 'Bornstein 文化特异性育儿 — 反"普世最优"'
+  - bornstein_2_principles_parenting: "Bornstein 育儿 2 原则:specificity(特异性)+ continuity(连续性)"
+  - lamb_ahnert_quality_over_quantity: "Lamb-Ahnert 托育 quality > quantity + 父母仍是主体"
+  - sigel_research_to_practice_3_traps: "Sigel 研究 → 实践 3 大陷阱 — 翻译失真 / 文化盲点 / 政治化"
+  - olds_nfp_30_year_legacy: "Olds NFP 护士家访 30 年长效 — 跨章节多次引用"
+  - zigler_head_start_legacy: "Zigler 联合创办 Head Start 1965 — 全章节多次引用"
+  - tools_of_the_mind: "Vygotsky 派 Tools of the Mind 学前课程 — 自我调节实操"
+  - paths_curriculum: "PATHS 学校 SEL 课程 — 元分析最强 SEL 证据"
+  - culture_specificity_critique: "本卷反复批判美中产假设普世化 — 文化特异性贯穿全卷"
+
+# 跟现库铁三角 + 综述派 + 临床派关系(20+ SRC 全方位对接)
+
+relationship_to_lerner_v3:
+  description: "Lerner V4(实操卷)vs Lerner V3(SRC-027 情感人格综述)— 铁三角对接"
+  shared:
+    - "Damon-Lerner 总主编一致(2006 第 6 版同年同社)"
+    - "Eisenberg / Cicchetti / Sroufe / Patterson 等学者跨卷引用"
+    - "依恋 + 情绪调节 + 道德发展是底层共识"
+  complement:
+    - "V3 给 16 章心理学综述(原理 — 气质/情绪/道德/性别/成就)"
+    - "V4 给 24 章应用框架(实操 — 教育/干预/政策/媒体/托育)"
+    - "V3 答'孩子内部怎么发展',V4 答'怎么干预/怎么落地'"
+  upgrade:
+    - "V3 主要建模心理过程,V4 把 V3 的发展原理推进到具体干预设计"
+    - "Cicchetti Ch 13 V4 = V3 Ch 6 Caspi 人格延续的临床版"
+
+relationship_to_lerner_v2:
+  description: "Lerner V4(实操卷)vs Lerner V2(SRC-028 认知语言综述)— 铁三角对接"
+  shared:
+    - "Damon-Lerner 总主编一致"
+    - "Vygotsky / Bruner / Wellman / Karmiloff-Smith 跨卷引用"
+    - "认知 / 语言 / 阅读发展是底层基础"
+  complement:
+    - "V2 给认知/语言/感知发展原理(Spelke / Kuhl / Carey 等)"
+    - "V4 给认知发展应用(Paris 阅读 / De Corte 数学 / Lehrer 科学 / Snow 双语)"
+    - "V2 'how does the mind develop',V4 'how do we teach to it'"
+  upgrade:
+    - "V4 把 V2 认知机制翻译到课程设计与教育干预"
+
+relationship_to_shonkoff:
+  description: "Lerner V4(2006 应用心理学综述)vs Shonkoff《NRC 2000》(SRC-025 跨学科综述)"
+  shared:
+    - "早期发展奠基 + 自我调节核心地位"
+    - "Perry / Abecedarian / 早期干预 RCT 共同支柱"
+    - "反屏幕 + 反体罚 + 育儿质量立场"
+    - "Hart-Risley 30M words / cortisol HPA / experience-expectant"
+    - "Cicchetti / Sroufe / Olds 跨综述引用"
+  complement:
+    - "Shonkoff 给跨学科神经科学 + 政策大框架"
+    - "V4 给应用心理学的 24 章细化(教育 / 临床 / 政策)"
+    - "Shonkoff 是 V4 多章引用的政策权威源"
+    - "V4 Ch 14 Powell + Ch 21 Ramey + Ch 22 Bornstein 都是 Shonkoff 立场的延伸"
+  divergence:
+    - "Shonkoff 14 章侧重科学共识,V4 24 章侧重学科应用细化"
+
+relationship_to_aap:
+  description: "Lerner V4(综述)vs AAP(临床指南 SRC-002 至 SRC-008)"
+  shared:
+    - "反屏幕(0-2 岁)立场"
+    - "反体罚立场"
+    - "育儿质量核心地位"
+    - "母乳 / 安全睡眠 / 喂养干预共识"
+  complement:
+    - "AAP 给儿科操作指南"
+    - "V4 给应用心理学综述 — 干预设计 / 政策 / 文化"
+    - "AAP 是 V4 Ch 21 Ramey + Ch 22 Bornstein 的临床基础"
+
+relationship_to_brazelton:
+  description: "Lerner V4(综述)vs Brazelton《Touchpoints》(SRC-010)"
+  shared:
+    - "婴儿是有能力的主动者"
+    - "亲子关系是发展奠基"
+    - "气质有先天差异"
+  complement:
+    - "Brazelton 给临床触摸点 + 个体咨询"
+    - "V4 Ch 22 Bornstein 给育儿科学综述权威"
+    - "V4 Ch 14 Powell 给系统化早期干预设计"
+  upgrade:
+    - "Brazelton 个案视角扩展到 Powell 系统化项目设计"
+
+relationship_to_baoxiulan:
+  description: "Lerner V4(美综述)vs 鲍秀兰(中临床 SRC-009)"
+  shared:
+    - "0-3 奠基期 + 母婴依恋"
+    - "早期教育的重要性"
+    - "认知刺激必要"
+  divergence:
+    - '鲍秀兰"早期智力开发"语言 vs V4 Ch 1 Hyson 反学业前移'
+    - "鲍秀兰具体教学法 vs V4 多学科综述 + 政策视角"
+    - '鲍秀兰偏"教导式"vs V4 主流"互动 + DAP"立场'
+
+relationship_to_karp:
+  description: "Lerner V4(综述)vs Karp《最快乐的婴儿》(SRC-003)"
+  shared:
+    - "婴儿哭闹有原因"
+    - "气质差异承认"
+  complement:
+    - "Karp 给 0-3 月安抚法 5S"
+    - "V4 Ch 22 Bornstein 给育儿综述全图"
+
+relationship_to_bowlby:
+  description: "Lerner V4(综述)vs Bowlby V1/V2/V3(SRC-011/012/017)"
+  shared:
+    - "依恋是社会情绪发展核心"
+    - "早期亲子关系奠基"
+    - "母婴分离应激"
+  complement:
+    - "Bowlby 给依恋进化 + 临床框架"
+    - "V4 Ch 13 Cicchetti-Toth 给依恋的精神病理学应用"
+    - "V4 Ch 14 Powell 给依恋的早期干预设计"
+  upgrade:
+    - "Bowlby 1969 经典扩到 V4 现代干预设计"
+
+relationship_to_stern:
+  description: "Lerner V4(综述)vs Stern《婴儿人际世界》(SRC-018)"
+  shared:
+    - "母婴 attunement + self 形成"
+    - "早期关系是奠基"
+  complement:
+    - "Stern 给精神分析 + 心理过程"
+    - "V4 Ch 14 Powell + Ch 22 Bornstein 给育儿心理过程的应用版"
+
+relationship_to_lansbury_gerber:
+  description: "Lerner V4(综述)vs Lansbury(SRC-019)+ Gerber(SRC-021/022)RIE 派"
+  shared:
+    - "婴儿主动学习者"
+    - "尊重儿童自主"
+    - "反过度刺激 + 反早教焦虑"
+  divergence:
+    - "RIE 给实操哲学(不打扰 + 慢节奏)"
+    - "V4 给系统化干预设计(Powell / Ramey)"
+    - "RIE 反系统化干预 vs V4 主导早期干预 RCT 立场"
+
+relationship_to_pikler:
+  description: "Lerner V4(综述)vs Pikler《Friedliche Babys》(SRC-026)"
+  shared:
+    - "婴儿主动者"
+    - "尊重发展节奏"
+    - "Loczy 是早期机构托育的历史源(对接 V4 Ch 23 Lamb-Ahnert)"
+  complement:
+    - "Pikler 给婴儿大动作哲学 + Loczy 实操"
+    - "V4 Ch 23 给现代非父母托育综述"
+
+relationship_to_matsuda:
+  description: "Lerner V4(美综述)vs 松田道雄(日本 SRC-023/024)"
+  shared:
+    - "反早教焦虑"
+    - "尊重个体差异"
+    - "反屏幕(部分)"
+  divergence:
+    - "松田个人临床派 vs V4 多学科综述 + 政策视角"
+    - "松田反对'反抗期'概念 vs V4 Ch 13 支持发展精神病理学描述"
+    - "松田部分支持瞬间体罚 vs V4 完全反体罚"
+    - "松田反系统化早教 vs V4 主张高质量早期干预(基于 RCT 证据)"
+
+relationship_to_ainsworth:
+  description: "Lerner V4(综述)vs Ainsworth(SRC-023 反向)"
+  shared:
+    - "陌生情境 + 母性敏感"
+    - "依恋质量决定"
+  complement:
+    - "Ainsworth 给依恋实验范式"
+    - "V4 Ch 13 Cicchetti-Toth + Ch 14 Powell 给依恋的临床应用 + 干预设计"
+
+relationship_to_gopnik:
+  description: "Lerner V4(综述)vs Gopnik《摇篮里的科学家》(SRC-015)"
+  shared:
+    - "婴儿主动学习者"
+    - "心智发展早期奠基"
+  divergence:
+    - "Gopnik 给认知科学派 + 反早教焦虑"
+    - "V4 给系统化早期干预 + 教育政策"
+    - "Gopnik 主'放手让孩子自己探索' vs V4 Ramey 主'结构化干预补贫困'"
+
+relationship_to_lillard:
+  description: "Lerner V4(综述)vs Lillard《Montessori from the Start》(SRC-016)"
+  shared:
+    - "0-3 岁奠基期"
+    - "尊重发展节奏"
+  divergence:
+    - "Lillard 单一教育哲学派"
+    - "V4 多学派综述 + 反单一最优教育法立场"
+    - "V4 Ch 1 Hyson DAP vs Lillard Montessori 是不同流派"
+
+relationship_to_davies:
+  description: "Lerner V4(综述)vs Davies《蒙氏小宝宝》(SRC-014)"
+  shared: ["婴儿能力承认"]
+  complement:
+    - "Davies 给蒙氏 0-1 实操"
+    - "V4 给应用心理学 24 章框架"
+
+relationship_to_wonder_weeks:
+  description: "Lerner V4(综述)vs Wonder Weeks(SRC-013)"
+  shared: ["发展跳跃期"]
+  complement:
+    - "Wonder Weeks 给跃迁日历"
+    - "V4 给应用心理学综述"
+
+# 跨源关联点(全 28 SRC)
+crossreferences:
+  - SRC-002_aap_serve_return:
+      shared: "亲子互动 / 安全依恋 / 反屏幕"
+  - SRC-003_karp:
+      shared: "婴儿哭闹 / 气质差异"
+  - SRC-004_aap_safe_sleep:
+      shared: "反不安全共睡 / 依恋健康"
+  - SRC-005_aap_crying:
+      shared: "哭闹应对 / 反摇晃"
+  - SRC-006_aap_feeding:
+      shared: "母乳 + 喂养干预"
+  - SRC-007_aap_milestones:
+      shared: "发展里程碑 + DAP"
+  - SRC-008_aap_health:
+      shared: "儿童健康政策 / 反屏幕"
+  - SRC-009_baoxiulan:
+      shared: "0-3 奠基 / 母婴依恋"
+      conflict: "鲍秀兰早期智力开发 vs V4 反学业前移"
+  - SRC-010_brazelton:
+      shared: "气质 / NBAS / 触摸点 / 育儿质量"
+  - SRC-011_bowlby_v1:
+      shared: "依恋 / 安全基地"
+  - SRC-012_bowlby_v2:
+      shared: "分离应激"
+  - SRC-013_wonder_weeks:
+      shared: "发展跳跃"
+  - SRC-014_davies:
+      shared: "婴儿能力 / 主动者"
+  - SRC-015_gopnik:
+      shared: "心智发展 / 反早教"
+      conflict: "Gopnik 放手 vs V4 系统化干预"
+  - SRC-016_lillard:
+      shared: "0-3 奠基"
+      conflict: "Lillard 单一蒙氏 vs V4 多学派 DAP"
+  - SRC-017_bowlby_v3:
+      shared: "丧失 / 哀伤"
+  - SRC-018_stern:
+      shared: "self / attunement"
+  - SRC-019_lansbury:
+      shared: "尊重情绪"
+      conflict: "RIE 不打扰 vs V4 系统化干预"
+  - SRC-021_gerber:
+      shared: "婴儿主动者"
+  - SRC-022_gerber_deep:
+      shared: "RIE 8 原则 / 红黄绿限度"
+  - SRC-023_ainsworth:
+      shared: "陌生情境 / 安全依恋"
+  - SRC-024_matsuda:
+      shared: "反早教 / 反屏幕"
+      conflict: "松田个人派 vs V4 系统综述"
+  - SRC-025_shonkoff:
+      shared: "Perry/Abecedarian RCT / 自我调节 / 反屏幕"
+  - SRC-026_pikler:
+      shared: "婴儿主动者 / Loczy 历史源对接 V4 Ch 23 托育"
+  - SRC-027_lerner_v3:
+      shared: "Damon-Lerner 总编一致 / 道德/情绪/性别理论 ↔ 应用对接"
+  - SRC-028_lerner_v2:
+      shared: "Damon-Lerner 总编一致 / 认知/语言理论 ↔ 应用对接"
+
+# 评级标尺(本书)
+evidence_level_calibration:
+  A: "Lerner V4 综述 + RCT 证据扎实 + 跨派一致(主体 ≥ 90%)— Tier 2 应用心理学百科权威"
+  B: "Lerner V4 综述 + 立场分歧 / 数据有限 / 文化局限(5-10%)"
+  C: "罕见 — V4 综述严谨,无委员会推断"
+  expected_distribution: "A 占多数(综述权威决定 majority A 级)— 类似 V3 的 92%"
+
+# 聚焦策略(应用层主战场)
+focus_strategy:
+  zh: |
+    Lerner V4 24 章,3 大 Section,聚焦应用层主战场:
+
+    主战场(每章 8-15 张,约 100+ 张):
+    - Ch 1 Hyson 早期教育 — DAP / NAEYC / S0-S8 跨段
+    - Ch 13 Cicchetti-Toth 发展精神病理学 — 4 原则 / 虐待 4 类型 / 韧性
+    - Ch 14 Powell 家庭早期干预 — 5 原则 / NFP / Head Start / 文化敏感
+    - Ch 18 McLoyd 儿童贫困 — 经济压力模型 / 育儿断层 / 非现金资源
+    - Ch 20 Comstock 媒体与流行文化 — 5 效应 / iPad 时代 / 跨段
+    - Ch 22 Bornstein 育儿科学 — specificity + continuity / 文化特异性
+    - Ch 23 Lamb-Ahnert 托育 — quality > quantity / 父母仍主体
+
+    次战场(每章 3-7 张,约 30-50 张):
+    - Ch 2 Paris 早期阅读 — 5 要素
+    - Ch 3 Snow 双语 — 不损母语
+    - Ch 7 Lapsley 品格教育 — 4 支柱
+    - Ch 9 Boekaerts 自我调节 — 3 层
+    - Ch 10 Selman 风险预防 — 金字塔 3 级
+    - Ch 13 Cicchetti(扩展)— 维兰特定病因
+    - Ch 15 Kress-Elias SEL — 5 能力
+    - Ch 17 Greenfield 文化路径 — 5 维度
+    - Ch 21 Ramey 儿童健康 — Abecedarian 35 年
+    - Ch 24 Sigel 研究到实践 — 3 大陷阱
+
+    三战场(每章 1-3 张,约 15-25 张):
+    - Ch 4 De Corte 数学 / Ch 5 Lehrer 科学 / Ch 6 Liben 空间(学龄前覆盖)
+    - Ch 8 Blumenfeld 学习环境
+    - Ch 11 Berninger / Ch 12 Hodapp-Dykens / Ch 16 Klingman(特殊群体)
+    - Ch 19 Bruck-Ceci 法律证人(专业群体)
+
+    每章必须有覆盖 — 没卡覆盖某章是漏。
+    跨段重复主题独立卡(早期干预 / 媒体 / 父母教育 / 文化 / 贫困都跨段)。
+
+# 中文家长高频痛点 mapping(应用层)
+parent_pain_points:
+  - "几岁开始学读写 → V4 Ch 1 Hyson DAP + Ch 2 Paris 5 要素 + 反学业前移"
+  - "iPad 怎么管 → V4 Ch 20 Comstock 媒体 5 效应 + 反屏幕剂量论"
+  - "公立 vs 私立幼儿园 → V4 Ch 23 Lamb 质量比身份重要"
+  - "早教班有用吗 → V4 Ch 14 Powell 5 原则 + Ch 21 Ramey Abecedarian RCT"
+  - "二胎妈不耐烦怎么办 → V4 Ch 22 Bornstein specificity + Ch 13 Cicchetti maltreatment 边界"
+  - "孩子被冷暴力受伤吗 → V4 Ch 13 Cicchetti 情感虐待神经发育冲击"
+  - "穷家娃能补回吗 → V4 Ch 18 McLoyd 经济压力模型 + Ch 21 Ramey 35 年长效"
+  - "家暴目击会怎样 → V4 Ch 13 + Ch 16 Klingman 创伤恢复 3 力量"
+  - "中美教育差距 → V4 Ch 17 Greenfield 5 文化维度 + Ch 22 Bornstein 文化特异性"
+  - "二语学习几岁 → V4 Ch 3 Snow 双语不损 + 关键期可补"
+  - "数学/科学怎么启蒙 → V4 Ch 4 De Corte / Ch 5 Lehrer 真实情境 + 探究式"
+  - "品格教育怎么教 → V4 Ch 7 Lapsley 4 支柱 + 反单纯说教"
+  - "自我调节怎么练 → V4 Ch 9 Boekaerts 3 层 + Tools of the Mind"
+  - "学习障碍早期信号 → V4 Ch 11 Berninger 书写脑科学 + Ch 12 Hodapp 病因特定"
+  - "校园欺凌怎么防 → V4 Ch 15 Kress SEL 5 能力 + PATHS"
+  - "孩子被询问会扭曲吗 → V4 Ch 19 Bruck-Ceci 暗示性 + 重复扭曲"
+  - "战乱孩子怎么帮 → V4 Ch 16 Klingman 文化 + 关系 + 仪式 3 力量"
+  - "育儿到底有没有最优 → V4 Ch 22 Bornstein 反普世 + Ch 24 Sigel 研究到实践 3 陷阱"
+
+referenced_by_units: []
+referenced_by_cards: []
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04
+
+notes: |
+  Phase 12 并行 session(SRC-029)— Lerner V4《Handbook of Child Psychology Vol 4: Child Psychology in Practice》
+  (Wiley 2006 第 6 版,Renninger/Sigel 主编,24 章 + 3 大 Section)。
+
+  - 文件已 OCR(.md, 136,510 行 / 5.8MB / 24 章主体)
+  - 章节 offset 估算自 TOC 页码(每页约 5662 字符)— 实际产卡按内容,offset 是参考
+  - 24 章按 3 大 Section 分组:Section 1 教育研究(Ch 1-8)/ Section 2 临床应用(Ch 9-16)/ Section 3 政策(Ch 17-24)
+
+  关键校准:
+  - V4 是 Wiley 应用心理学百科第 6 版(2006),Renninger-Sigel 主编
+  - 跟 V3(SRC-027)+ V2(SRC-028)同年同社,Damon-Lerner 总主编一致 — 铁三角应用层
+  - 24 章涉及教育心理 / 临床心理 / 社会政策 / 文化心理 / 媒体研究 — 学科最广
+  - Ch 22 Bornstein + Ch 23 Lamb-Ahnert + Ch 14 Powell = 育儿三大综述章
+
+  并行场景:本 SRC-029 与 SRC-028(在跑)同时活跃,段 ID +300 buffer 保证 0 冲突。
+
+  段 ID 起点(SRC-028 max + 300 buffer,实测 2026-05-04):
+  S0: 924 + 306 = 1230
+  S1: 1101 + 209 = 1310
+  S2: 1138 + 202 = 1340
+  S3: 1145 + 205 = 1350
+  S4: 1143 + 207 = 1350
+  S5: 1142 + 208 = 1350
+  S6: 1172 + 208 = 1380
+  S7: 1101 + 209 = 1310
+  S8: 430 + 300 = 730
+
+  跟现库 28 SRC(含 V2/V3)跨派对照硬指标:
+  每张卡 ≥ 1 张 related_cards 含 16+ 派
+  (AAP/鲍/Brazelton/Karp/Bowlby/Stern/Gopnik/Lillard/Davies/Lansbury/Gerber/松田/Wonder Weeks/Shonkoff/Pikler/Lerner V3/V2/Ainsworth)
+
+  重点对接:
+  - Lerner V4 ↔ V3/V2 铁三角(原理 ↔ 应用)
+  - Lerner V4 ↔ Shonkoff(神经科学综述 ↔ 应用心理学综述)
+  - Lerner V4 ↔ AAP/鲍/Brazelton/松田(应用综述 ↔ 临床实操)
+  - Lerner V4 ↔ Lansbury/Gerber/Pikler(系统化干预 vs RIE 不干预)
+
+  立场对立处全部记 conflicts.md(I 节)。
+
+  扫书 hits 实测(≥ 10 学者):
+  Ramey 355(Abecedarian)/ Cicchetti 318(精神病理)/ Olds 231(NFP)/
+  Zigler 141(Head Start)/ Cohen 118 / Brooks-Gunn 102 / Toth 99 /
+  Anderson 95(媒体)/ Sigel 91(主编)/ Reynolds 69(CPC)/
+  Vygotsky 58 / Vandell 54 / Damon 54 / Sroufe 52 / Lerner 51 /
+  McLoyd 45(贫困)/ Renninger 44(主编)/ Schweinhart 44(HighScope)/
+  Bronfenbrenner 44 / Eisenberg 40 / Styfco 34 / Patterson 29 /
+  Webster-Stratton 26 / Pianta 24 / Zaslow 22 / Currie 21(经济学)/
+  Bredekamp 20 / Berry 20 / Hyson 19 / Hetherington 17 / Egeland 17 /
+  Weisz 15 / Bushman 13 / Gomby 12 / Garcia Coll 12 / Amato 11 /
+  Lonigan 11 / Yoshikawa 10 / Gentile 10
+
+  扫书 hits 实测(≥ 5 干预项目):
+  Head Start 275 / MST 229 / Abecedarian 48 / Tools of the Mind 47 /
+  PATHS 36 / Carolina 27 / Even Start 25 / Perry Preschool 19 /
+  Parent-Child Interaction(PCIT) 19 / Reggio 13 / Montessori 13 /
+  Multisystemic 9 / NFP 7 / Chicago Child-Parent(CPC) 6 / HIPPY 6
+
+  扫书主题密度(≥ 100 hits):
+  literacy 472 / child care 469 / television 452 / curriculum 444 /
+  abuse 393 / prevention 293 / Head Start 275 / preschool 591 /
+  maltreatment 199 / disability 87 / bilingual 128 / minority 115 /
+  immigrant 72 / kindergarten 136 / mental health 101 / early intervention 118

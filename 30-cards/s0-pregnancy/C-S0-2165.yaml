@@ -1,0 +1,37 @@
+card_id: C-S0-2165
+stages: [S0]
+tags: [postpartum, dad]
+front:
+  title: 居家爸爸不是稀奇 250 万人在做
+  hook: 全职爸爸是正常选项
+back:
+  why_matters: |
+    前情:社会刻板印象认为照顾宝宝是妈妈的活。
+    海蒂指出美国约 250 万爸爸是全职奶爸,颠覆"爸爸笨手笨脚"
+    的假象。除了哺乳,妈妈能做的爸爸都能做好。选择全职爸爸可能因为妻子收入更高、爸爸工作更弹性、或单纯爸爸性格更适合——都是合理决定,不必内疚。
+  what_to_do:
+    - 经济决定:谁收入高谁继续工作
+    - 职业决定:谁工作弹性大谁居家
+    - 性格决定:谁更耐烦谁全职
+    - 兼职/自由职业可让爸爸边工作边带娃
+    - 别让别人的"爸爸应该"压垮你
+  failure_mode: 因社会偏见硬撑"爸爸=赚钱机器"的角色,错过宝宝早期形成的父子情感连接。
+  evidence_level: B
+glossary_refs: []
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors: ["Heidi Murkoff", "Sharon Mazel"]
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh: ["莫夏迪", "张敏"]
+  location: "第 24 章 《父亲》, 页 713-714"
+  source_id: "SRC-040"
+related_cards: [C-S0-2164, C-S0-2167]
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

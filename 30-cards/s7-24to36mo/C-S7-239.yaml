@@ -1,0 +1,58 @@
+card_id: C-S7-239
+stages: [S7]
+tags: [bowlby, loss, grief, safety, red_flag, china_high_freq]
+
+front:
+  title: 别威胁再哭就不要你
+  hook: 这话直接造病理哀伤
+
+back:
+  why_matters: |
+    Bowlby 第二十三章帕特里克案例(3 岁 2 个月,妈妈把他送托儿所之前):
+    妈妈威胁:**"再哭妈妈就再也不来看你了"**。
+    帕特里克信了 → 努力听话不哭 → 但渴望妈妈无法控制 → 只能一遍遍喃喃自语:
+    - "妈妈会来接我 / 给我穿大衣 / 戴帽子 / 拉拉链..."
+    - 念叨变得越来越机械、强迫
+    - 后来被工作人员叫停 → 改用手指动作模拟穿衣
+    - 最后在角落里独自动手指 + 嘴唇,脸上是"无比凄惨的表情"
+    Bowlby 评价:**这是自然哀伤变成病理性哀伤的最生动案例**。如果发生在成人身上,这种状态会被诊断为抑郁症。
+    机理:**渴望被禁止表达 → 想象都被禁止 → 无助感 → 抑郁**。
+    中国家庭最大坑:**"再不听话妈妈就走"** + **"再哭就不要你了"** + **"别哭丢人"** — 全是直接造病理哀伤的话(C-S6-087 V2 也是这条)。
+  what_to_do:
+    - 完全不说"再 X 妈妈就 / 不要你了"
+    - 难过时让他直接哭 + 表达
+    - 主动说"想妈妈很正常妈一会回来"
+    - 全家一致不让爷爷奶奶用威胁
+    - 跟伴侣 / 老人立此规
+  failure_mode: |
+    "再哭再闹妈妈就去机场不回了" → 孩子真信 → 拼命压抑 → 变帕特里克模式 = 抑郁前奏。
+    "再不听话送给隔壁" → 同效果,直接造焦虑型依恋。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Bowlby
+  - G-TERM-pathological-mourning
+  - G-TERM-anxious-attachment
+
+citation:
+  book_title_zh: "依恋三部曲 · 第三卷:丧失"
+  book_title_en: "Attachment and Loss, Vol 3: Loss, Sadness and Depression"
+  authors: ["John Bowlby"]
+  authors_zh: ["约翰·鲍尔比"]
+  publisher_zh: "世界图书出版有限公司北京分公司"
+  year_zh: 2018
+  year_en: 1980
+  isbn_zh: "978-7-5192-3383-9"
+  location: "Ch 1 + Ch 23 · 帕特里克案例(经典病理哀伤诱发)"
+  source_id: SRC-017
+
+unit_ids: []
+related_cards:
+  - C-S6-087       # Bowlby V2 再不听话妈妈就走是精神虐待
+  - C-S6-098       # Bowlby V2 撤回爱当惩罚最伤
+  - C-S7-238       # 看似没事是最危险信号
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

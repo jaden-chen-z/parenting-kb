@@ -1,0 +1,55 @@
+card_id: C-S7-1605
+stages: ['S7']
+tags: ['philosophy', 'lerner_v1', 'csikszentmihalyi', 'autotelic_personality']
+
+front:
+  title: "内驱型人格"
+  hook: "为做而做不为奖励"
+
+back:
+  why_matters: |
+    Csikszentmihalyi 给 autotelic personality 概念 —
+    "以活动本身为目的"的人格(au=自,telos=目的)。
+    数据 — 6+ 岁 autotelic 倾向已能测,跟成年成就 + 福祉强相关。
+    意义 — 中国家长 "做这个有什么用" 思维 → 培养 instrumental(工具型)人格(看回报)。
+    autotelic 人格 — 喜欢学就学,喜欢做就做 — 不问回报。
+    2-3 岁是 autotelic 形成关键期 —
+    - 让娃做"无用"的事(扔石头 / 看蚂蚁 / 唱歌)
+    - 不问"这个对你有什么用"
+    - 享受过程不只看结果
+    - 父母自己示范 — 你也喜欢"无用"的事(读小说 / 散步 / 兴趣爱好)
+    意义 — autotelic 是终生 flow 能力的人格基础。
+  what_to_do:
+    - "让娃做'无用'的事(扔石头 / 看蚂蚁)"
+    - "不问'这个对你有什么用'"
+    - "父母示范'无用'兴趣爱好"
+    - "享受过程 > 看结果"
+    - "autotelic 是终生学习人格"
+  failure_mode: |
+    "做这个有什么用" 思维 — 培养 instrumental 工具型人格。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Csikszentmihalyi
+  - G-TERM-autotelic-personality
+  - G-TERM-flow-theory
+
+related_cards:
+  - C-S0-1527
+  - C-S6-1507
+  - C-S7-754
+  - C-S8-1136
+
+citation:
+  source_id: SRC-030
+  source_title: "Handbook of Child Psychology Vol 1: Theoretical Models of Human Development"
+  chapter: "Ch 9 Csikszentmihalyi & Rathunde"
+  chapter_offset: 2507393
+  chapter_title: 'Rathunde & Csikszentmihalyi — Optimal Experience / Flow'
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_followup_needed: 'SRC-030 用 PDF 字节偏移代页码 — 待加 page_pdf 反查工具'

@@ -1,0 +1,71 @@
+card_id: C-S1-252
+stages: [S1]
+tags: [montessori, language, pacifier, controversy]
+
+front:
+  title: 不戴奶嘴 = 嘴能发声
+  hook: 奶嘴堵嘴难发声
+
+back:
+  why_matters: |
+    Lillard Ch8 给奶嘴一个新角度反对理由 — **影响语言发声练习**:
+    - 2 月起宝宝喉咙 / 舌头 / 嘴髓鞘完成 → 开始 babbling("ooh / aah")
+    - 宝宝**听自己发声 + 练习** = 语言学习的物理基础
+    - 奶嘴堵嘴 = 把宝宝"静音"
+    - 长期戴 → 错过语言敏感期的密集发声练习
+    Lillard 引神经科学:5 月起 babbling 加上唇舌音(b/d/m/n/w/j),全靠妈妈胸口吸吮发展的肌肉。**奶嘴用太多 → 错过这个肌肉发育**。
+    跟 Karp 第四产程"奶嘴是 5S 之一"**部分对立** — Karp 接受短期(产后头 4 月),Lillard 反对常用。
+    跟 Davies(C-S5-134) "1 岁前戒奶嘴" 立场加强 — Lillard 立场是从一开始就尽量不用。
+    Davies 立场偏温和,Lillard 立场强 — **能不用就不用,实在哭闹再用且 4 月内戒掉**。
+  what_to_do:
+    - 头 4-6 周不用奶嘴(母乳建立)
+    - 6 周后实在安抚不了再用
+    - 用了也只是哭闹时,平静后摘下
+    - 4-5 月一定戒掉(防影响发声)
+    - 替代:抱 + 哺乳 + 晃 + 嘘声
+  failure_mode: |
+    "宝宝不戴奶嘴一直哭,只能戴" — 戴一时可以,但全天戴 = 静音宝宝错过 babbling 关键期。
+    1 岁还戴 → 影响牙齿 + 语言双重伤害。
+  evidence_level: B
+
+  positions:
+    issue: 安抚奶嘴何时用 · 是否影响发育 · 何时戒
+    views:
+      - school: Karp
+        source: SRC-003
+        stance: 鼓励使用,但母乳建立后 3-4 周再用,防乳头混淆。配方奶宝宝可即用。
+      - school: AAP
+        source: SRC-004/006
+        stance: 鼓励 — 是 SIDS 保护因子;睡眠时给;4 岁前戒以防牙列影响。
+      - school: 蒙氏(Davies/Lillard)
+        source: SRC-014/016
+        stance: 反对 — 妨碍婴儿嘴部发声练习与口腔早期探索;主张让孩子用嘴部自我安抚替代。
+      - school: Davies
+        source: SRC-014
+        stance: 接受 0-1 岁安抚作用,但 1 岁前戒,防影响牙列发育和语言起步。
+glossary_refs:
+  - G-PERSON-Lillard
+  - G-PERSON-Jessen
+  - G-TERM-language-explosion
+
+citation:
+  book_title_zh: "蒙台梭利从 0 岁开始"
+  book_title_en: "Montessori from the Start"
+  authors: ["Paula Polk Lillard", "Lynn Lillard Jessen"]
+  authors_zh: ["宝拉·波尔克·莉拉德", "琳·莉拉德·杰森"]
+  publisher_en: "Schocken Books"
+  year_en: 2003
+  isbn_en: "978-0-8052-1112-1"
+  location: "Ch 8 · 'Development of oral language' (against pacifier)"
+  source_id: SRC-016
+
+unit_ids: []
+related_cards:
+  - C-S5-134       # Davies 1 岁前戒奶嘴
+  - C-S1-022       # Karp 奶嘴 controversy
+  - C-S1-051       # AAP 奶嘴使用
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

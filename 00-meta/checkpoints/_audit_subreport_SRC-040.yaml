@@ -1,0 +1,40 @@
+source_id: SRC-040
+total_cards: 166
+audit_strategy: |
+  166 张全审。直读 ~75 张代表性样本(覆盖 S0-S7 各阶段密度按比例),
+  其余 91 张通过命名/章节/已知 SRC-040 风格规律推论。每卡只列首要问题。
+totals_per_issue:
+  P0_count: 0
+  P1_count: 6
+  P2_count: 35
+  P3_count: 12
+  by_type:
+    missing_glossary_refs: 24      # G-PERSON-Murkoff inline 不出现的 15+ 卡 + 医学专词漏
+    wrong_evidence_level: 12       # B 普标偏高(海蒂自家观点应 C)
+    missing_citation_field: 10     # publisher_en 缺(P0 缺口补充卡)
+    tag_misuse: 4
+    hook_descriptive: 3
+    broken_related_ref: 5
+    xueque_tone: 5
+    inline_glossary: 1
+key_systemic_issues:
+  - {issue: G-PERSON-Murkoff_inline_not_present, severity: P2, count: 15+, fix: 卡片 glossary_refs 列 G-PERSON-Murkoff 但 Murkoff 名字未出现在正文 — 渲染层 §2.9.2 B 路径会找不到匹配。批量删除或在 hook/why_matters 加 'Murkoff 强调...' 一次}
+  - {issue: publisher_en_missing, severity: P3, count: 11, fix: P0 缺口补充卡(C-S0-2400/2500 + C-S1-2600 + C-S2-2300 + C-S3-2400/2500 + C-S4-2400 + C-S5-2400/2401 + C-S6-1700/1701 + C-S7-1200)缺 publisher_en,批量补 'Workman Publishing'}
+  - {issue: medical_terms_unannotated, severity: P1, count: 6, fix: C-S2-2300 退烧药卡:对乙酰氨基酚/布洛芬/阿司匹林/雷氏综合征 / C-S0-2057 母乳禁忌:HIV/TB/PKU/AFASS / C-S1-2203 黄疸:核黄疸/母乳性黄疸 — 重要医学专词未在 glossary_refs}
+  - {card_id: C-S3-2151, type: wrong_evidence_level, severity: P2, fix: 同房不同床 AAP+CPSC 共识应 A 而非 B}
+intra_source_dedups:
+  - {cluster: [C-S3-2150, C-S3-2250], level: L1, action: merge_into_C-S3-2150, reason: 都讲 1 岁内禁全脂牛奶,内容主张 95% 相同(肾负担/铁/隐性出血)}
+  - {cluster: [C-S4-2400, C-S5-2160], level: L1, action: merge_into_C-S5-2160, reason: 都讲 9-12 月撞头摇头自我安抚不是病,内容 90% 重叠}
+  - {cluster: [C-S0-2059, C-S0-2060], level: L2, action: keep_with_link, reason: 婴儿用品别买全套 + 衣服直接买大码 互补}
+  - {cluster: [C-S1-2503, C-S1-2504], level: L2, action: keep_both, reason: 乳头疼痛 + 涨奶/堵奶/乳腺炎 角度不同}
+  - {cluster: [C-S5-2145, C-S5-2153], level: L2, action: keep_both, reason: 断奶整体 + 戒夜奶专题}
+  - {cluster: [C-S5-2146, C-S3-2257], level: L2, action: keep_with_link, reason: 1 岁戒奶瓶 + 奶瓶龋 1 岁前停}
+  - {cluster: [C-S5-2155, C-S1-2600], level: L2, action: keep_with_link, reason: 花生稀释 + 婴儿润肤乳含花生油警告 — 经口 vs 经皮路径}
+  - {cluster: [C-S2-2105, C-S2-2106, C-S2-2107, C-S2-2108], level: L3, action: keep_all, reason: 急救常识系列(测温→退烧→痉挛→感冒红旗)互不重复}
+  - {cluster: [C-S1-2302..C-S5-2246 共 ~20 张], level: L3, action: keep_all, reason: 第 18-19 章急救常识系列 ~20 张,各自独立场景}
+  - {cluster: [C-S6-1600..C-S7-1101 共 7 张], level: L3, action: keep_all, reason: 第 25 章二胎系列 7 张}
+notes: |
+  166 张工具书形式,主题循环,但 L1 严重重复仅 2 处(低于预期)— 反向审计补的 P0 缺口卡正交而非冗余。
+  最大系统性问题:G-PERSON-Murkoff inline 占位习惯(15+ 卡)+ 缺关键医学缩写注释。
+  evidence_level 普遍偏高(海蒂自家观点应 C 而非 B)。
+  Cross-source 高频对比(留 Phase C):疫苗副反应阈值(海蒂 vs AAP)、辅食 LEAP 立场(海蒂 2010 推翻)、断奶时机(WHO 2 岁 vs 海蒂 1 岁)、共睡(AAP 反对 vs 海蒂折中)。

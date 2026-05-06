@@ -1,0 +1,49 @@
+card_id: C-S2-2015
+stages: [S2]
+tags: [philosophy]
+
+front:
+  title: 难搞宝宝 5 大类气质对症
+  hook: 不是你错是天生
+
+back:
+  why_matters: |
+    气质(temperament)= 婴儿天生的反应模式,海蒂引 Chess/Thomas 9 维度细分。
+    1-3 月家长最大焦虑:"我做错了什么娃这么难搞"。
+    海蒂直接破解:不是你错,是基因。识别哪一类 → 对症调整环境。
+    5 大类:敏感 / 活跃 / 没规律 / 大嗓门 / 不开心。
+    应对方法不同 — 给敏感娃低刺激,给活跃娃运动通道,给没规律娃微调日程。
+  what_to_do:
+    - "敏感:5 感分别降刺激(柔光/低声/纯棉)"
+    - "活跃:多运动 + 安全防摔 + 按摩降躁"
+    - "没规律:写日记找小规律 + 微调"
+    - "大嗓门:房间隔音 + 接受娃就这样"
+    - "不开心:坚持爱护,会随长大改善"
+  failure_mode: |
+    认为是"自己育儿失败" → 内疚 + 焦虑 + 关系恶化。
+    给所有娃同一套方法 → 敏感娃过载,活跃娃憋坏。
+    强行改变娃天生气质 → 反弹更大。
+  evidence_level: B
+
+glossary_refs:
+  - G-ABBR-AAP
+
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1 岁"
+  authors: ["Heidi Murkoff", "Sharon Mazel"]
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 2010
+  edition: "Third Edition"
+  location: "第 6 章 / 你有个难搞定的宝宝吗专栏,p.233-236"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards:
+  - C-S3-030
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

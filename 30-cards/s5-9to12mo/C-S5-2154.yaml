@@ -1,0 +1,44 @@
+card_id: C-S5-2154
+stages: [S5]
+tags: [mainstream, feeding, toddler]
+
+front:
+  title: 1 岁后食欲变小
+  hook: 不饿别强喂
+
+back:
+  why_matters: |
+    宝宝 1 岁后体重增速从年增 6-7kg 骤降到年增 2-3kg,身体不再需要那么多热量。前情:S4 食量稳定上升。这个生理转折让食欲明显下降:挑食、吃几口就跑、连续几餐吃很少。这是正常的"幼儿厌食期",不是病也不是叛逆,强喂只会破坏自我调节能力,造成长期进食问题。
+  what_to_do:
+    - 信任娃的饱腹感不强喂
+    - 提供多样选择不固定迁就
+    - 用小份量"少给多次"
+    - 关电视手机专心吃饭
+  failure_mode: |
+    奶奶追着喂、吃饭看动画片、强吼"必须吃完",娃形成厌食或暴食,3-4 岁就出现严重挑食问题。
+  evidence_level: B
+
+glossary_refs: [G-TERM-toddler-appetite-drop]
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors:
+    - Heidi Murkoff
+    - Sharon Mazel
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh:
+    - 莫夏迪
+    - 张敏
+  location: "第 12 章第 12 个月, 页 484-488"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards: [C-S5-2147]
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Warneken
+type: person
+display_name: "Warneken(费利克斯·瓦内肯)"
+
+full_name_en: "Felix Warneken"
+full_name_zh: "费利克斯·瓦内肯"
+
+position: |
+  University of Michigan 心理学教授
+
+contribution: |
+  14 月婴儿主动帮助实验;亲社会本能起源
+
+one_liner: |
+  费利克斯·瓦内肯 — 14 月婴儿主动帮助实验;亲社会本能起源
+
+key_facts:
+  - "本卷章节:Ch 11"
+  - "Lerner V3 命中:25 次"
+  - "学派:Lerner V3 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-027
+    chapter: "Ch 11"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

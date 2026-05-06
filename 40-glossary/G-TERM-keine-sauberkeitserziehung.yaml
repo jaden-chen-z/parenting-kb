@@ -1,0 +1,90 @@
+glossary_id: G-TERM-keine-sauberkeitserziehung
+type: term
+display_name: 不便盆训练立场
+
+full_name_de: keine Sauberkeitserziehung
+full_name_zh: 不便盆训练 — Pikler 立场
+full_name_en: No Potty Training (Pikler's Position)
+
+one_liner: |
+  Pikler 1969 Ch9 立场:Sauberkeit(干净 / 不尿)是身体 + 精神 +
+  本能发展的结果,不是父母教出来的。强迫便盆训练 = 父母 vs 孩子
+  斗争,无效 + 伤亲子关系。Magda + Lansbury 立场源头。
+
+detail: |
+  ## Pikler 1969 Ch9 核心立场
+  - **Sauberkeitserziehung(干净训练)**:Pikler 反对的"训练"概念
+  - **没有任何其他领域比这个让父母 vs 孩子斗争更激烈**
+  - **干净 / 不尿 = 自然发展结果**(跟"开始走路 / 说话"一样)
+  - **强迫无效**(verbatim:孩子必须自己 wollen + entschließen)
+
+  ## Pikler 列出的 4 大错误
+  1. **太早开始**(zu früh):"我从 6 月起就把他放便盆上"
+     — 6 月孩子神经控制还没建立
+  2. **久坐**(stundenlang sitzen):"我让他几小时坐着,便盆空空"
+     — 身体不准备好就是不出
+  3. **绑在便盆上**(an den Topf gebunden):"我已经把他绑上了"
+     — 身体束缚 + 心理创伤
+  4. **打骂**(verprügelt):"我已经狠揍过几次了"
+     — 反向加固问题(孩子留住便意)
+
+  ## Pikler 立场:何时孩子准备好
+  - **24-30 月**:大多数孩子神经控制 + 表达能力建立
+  - **信号**:能自己脱裤 / 主动告知 / 干燥间隔长(2+ 小时)
+  - **每孩不同**:差 6 月正常
+  - **季节**:夏天好(衣服少 + 失败成本低)— 跟松田 1.5 岁夏天
+    撤尿布立场部分共鸣
+
+  ## 跟中国"把屎把尿"传统对立
+  - **中国老传统**:6 月把屎把尿 / 12 月撤尿布 — Pikler 严反
+  - **中国新派**:1-1.5 岁开始训练 — Pikler 立场是 24-30 月
+  - **松田 SRC-024 §170**:"4 月把屎把尿错"— 跟 Pikler 立场一致(温和版)
+
+  ## 跟其他派立场关系
+  - **Magda Gerber RIE**(SRC-022):立场一致(无独立卡)
+  - **Lansbury Ch21**(SRC-019):"Trouble with Potty Training"
+    立场跟 Pikler 一致(C-S7-405)
+  - **AAP**(SRC-002):立场温和 — 24-36 月开始,不强迫
+  - **Brazelton**(SRC-010):child-led approach,跟 Pikler 一致
+
+  ## Pikler 推荐做法
+  - 12-24 月不开始(太早)
+  - 给小马桶让孩子熟悉 — 不强迫坐
+  - 看孩子信号(脱裤 / 告知 / 干燥)再开始
+  - 失败完全不评论(尤其不"哎呀又尿了")
+  - 24-30 月正常,30+ 月开始也完全 OK
+
+  ## conflicts.md F5 立场对照
+  - Pikler 不便盆训练 vs 中国把屎把尿传统
+  - 立场张力 — 本卷不判对错记录
+
+key_facts:
+  - Pikler 1969 Ch9 整章立场
+  - 强迫无效 + 伤亲子关系
+  - 4 大错误:太早 / 久坐 / 绑 / 打骂
+  - 24-30 月孩子准备好(每孩不同)
+  - 跟松田 §170 立场共鸣
+
+related_glossary:
+  - G-PERSON-Pikler
+  - G-TERM-geduld-pikler
+  - G-TERM-asenai-ikuji
+
+related_cards:
+  - C-S6-957  # Pikler 反便盆训练
+  - C-S6-958  # Pikler 便盆 4 大错误
+  - C-S6-823  # 松田 1.5 岁夏天撤尿布
+  - C-S3-701  # 松田 4 月把屎把尿错
+  - C-S7-405  # Gerber 学如厕不是训练
+
+sources:
+  - source_id: SRC-026  # Pikler 1969 Ch9
+  - source_id: SRC-019  # Lansbury Ch21
+  - source_id: SRC-022  # Gerber 立场
+  - source_id: SRC-024  # 松田 §170 共鸣
+  - external: Pikler Institute / AAP / Brazelton Touchpoints
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

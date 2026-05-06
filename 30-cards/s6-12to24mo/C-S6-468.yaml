@@ -1,0 +1,57 @@
+card_id: C-S6-468
+stages: [S6]
+tags: [autonomy, 发展]
+
+front:
+  title: "幼儿说不是健康"
+  hook: "他在练习画自我界"
+
+back:
+  why_matters: |
+    Magda Ch8 整节 NO! NO! NO! 立场:
+    18-24 月大量说"不"是**自主期觉醒**信号,不是叛逆。
+    他在用"不"标定:"我是独立的人,我有偏好"。
+    跟 Erikson 1-3 岁"自主 vs 羞耻"阶段一致。
+    家长把"不"当冒犯 → 镇压 → 孩子学到"我没自主权"。
+    替代:**接受他的"不"**,但守住红灯红线。
+
+  what_to_do:
+    - 听到"不"先观察是黄灯还是红灯
+    - 黄灯("不要穿这件")→ 接受 + 给选择
+    - 红灯("不要回家")→ 限度 + 解释理由
+    - 不"你这小孩怎么这么不听话"
+    - 把他的"不"当能力发展庆祝
+
+  failure_mode: |
+    "他天天说不就是叛逆要镇压" → 短期听话,长期失去自主感。
+    Magda 原话:"敢说'不'的孩子是有 inner self 的孩子"。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Gerber
+  - G-PERSON-Erikson
+  - G-TERM-RIE
+  - G-TERM-traffic-light-limits
+
+citation:
+  book_title_en: "Your Self-Confident Baby"
+  book_title_zh: "自信的宝宝"
+  authors:
+    - Magda Gerber
+    - Allison Johnson
+  publisher_en: John Wiley & Sons
+  year: 1998
+  location: "Ch8 No! No! No!(整节)"
+  source_id: SRC-022
+
+unit_ids: []
+related_cards:
+  - C-S6-459  # Magda 接受欲望但限度(本卷)
+  - C-S6-462  # Magda 红黄绿三色(本卷)
+  - C-S6-403  # Lansbury 限度+情绪并存
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

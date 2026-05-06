@@ -1,0 +1,51 @@
+card_id: C-S2-2012
+stages: [S2]
+tags: [controversy, philosophy]
+
+front:
+  title: 时间表 vs 按需海蒂中庸立场
+  hook: 不站亲密派也不站家长主导
+
+back:
+  why_matters: |
+    亲密育儿派(亲密育儿)主张完全按需哺乳 + 共睡;家长主导派(parent-led)主张严格时间表 + 分床。
+    海蒂明确:**两个极端都失败**。
+    严格时间表 + 太小宝宝(< 2-3 月)= 影响母乳产量 + 让娃感到被抛弃;
+    完全按需 + 没有任何规律 = 父母崩溃 + 娃白天黑夜不分。
+    海蒂建议:观察娃自然节律 → 据此微调出"灵活时间表"(以娃为主导,父母收编)。
+  what_to_do:
+    - "< 2-3 月:完全按需,不强加时间表"
+    - "记录 1 周娃的吃/睡/醒模式"
+    - "找到自然规律(如早 6 点醒/午 1 点睡)"
+    - "把这个节律编成松散日程,不强制"
+    - "每天小变动 OK,大变动避免"
+  failure_mode: |
+    照搬别人家娃时间表 → 你娃不是那个娃。
+    完全不建任何节律 → 4 月后娃不会自我调节。
+    死守时间表不让娃 1 小时早 / 晚 → 反弹。
+  evidence_level: B
+
+glossary_refs:
+  - G-ABBR-AAP
+
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1 岁"
+  authors: ["Heidi Murkoff", "Sharon Mazel"]
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 2010
+  edition: "Third Edition"
+  location: "第 7 章 / 时间表与按需护理 + 互相矛盾的育儿理念专栏,p.250-253"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards:
+  - C-S2-2011
+  - C-S2-2013
+  - C-S3-2151
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,62 @@
+card_id: C-S6-096
+stages: [S6, S7]
+tags: [coping_strategy, controversy]
+
+front:
+  title: 病故别瞒孩子隐瞒更怕
+  hook: 偷偷查比明说还可怕
+
+back:
+  why_matters: |
+    Bowlby Vol 2 第十八章观察:
+    **"拒绝上学的孩子的家长倾向于掩饰和逃避事实。"**
+    一个 13 岁孩子的原话:**"我从来都不知道在家庭里可以信任谁,善意的谎言太多了。
+    我只能在他们不知道我在的时候偷看偷听。"**
+    机制:
+    - 家长想"保护"孩子不知道亲人重病 / 死亡
+    - 孩子能感知家中气氛紧张 + 大人欲言又止
+    - 孩子用想象填补未知,**想象比真相可怕**
+    - 偷听到的信息碎片化,加倍恐惧
+    - 信任根基损毁("家里我不能信任任何人")
+    Bowlby 数据:Davidson 30 个拒学案例中**6 例母亲处于病危,9 例近 6 个月有亲人去世** —
+    家长越掩饰,孩子越恐慌。
+    家长意义:发生重病 / 死亡,**用孩子能理解的语言告诉,不要瞒**。
+  what_to_do:
+    - 重病要告诉孩子:"奶奶生病了,医生在治"
+    - 死亡要告诉孩子:"X 去世了,意思是再也见不到了"
+    - 用孩子年龄能懂的词,不强加宗教概念
+    - 别"大人事小孩别管"屏蔽
+    - 让孩子参与告别(写信 / 画画 / 葬礼适龄选)
+    - 反复回答孩子的问题不嫌烦
+  failure_mode: |
+    "他还小不告诉,免得难过" — 数据反:不告诉的孩子焦虑反而更严重,因为想象 + 偷听。
+    "已经过去就不提了" — 孩子心里没消化,会以拒学 / 怕黑 / 噩梦等形式继续表现。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Bowlby
+  - G-TERM-attachment
+  - G-TERM-anxious-attachment
+
+citation:
+  book_title_zh: "依恋三部曲 · 第二卷:分离"
+  book_title_en: "Attachment and Loss · Volume 2: Separation"
+  authors: ["John Bowlby"]
+  authors_zh: ["约翰·鲍尔比"]
+  translators_zh: ["汪智攀", "王婷婷"]
+  publisher_zh: "世界图书出版有限公司北京分公司"
+  year_en: 1973
+  year_zh: 2017
+  isbn: "978-7-5192-2926-9"
+  location: "第十八章焦虑型依恋和儿童时期的恐怖症(家长错误地对孩子隐瞒父母疾病的严重性,或对孩子隐瞒亲戚朋友去世的事实。隐瞒得越多孩子会越担心 - Talbot/Weiss/Davidson)"
+  source_id: SRC-012
+
+unit_ids: []
+related_cards:
+  - C-S7-038      # 9 岁前不怕死
+  - C-S6-089      # 妈知道的怕只占一半
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

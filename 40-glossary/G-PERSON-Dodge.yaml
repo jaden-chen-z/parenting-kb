@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Dodge
+type: person
+display_name: "Dodge(肯尼斯·道奇)"
+
+full_name_en: "Kenneth A. Dodge"
+full_name_zh: "肯尼斯·道奇"
+
+position: |
+  Duke University 心理学教授
+
+contribution: |
+  社会信息处理 6 步模型;攻击儿童认知偏差
+
+one_liner: |
+  肯尼斯·道奇 — 社会信息处理 6 步模型;攻击儿童认知偏差
+
+key_facts:
+  - "本卷章节:Ch 12"
+  - "Lerner V3 命中:250 次"
+  - "学派:Lerner V3 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-027
+    chapter: "Ch 12"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

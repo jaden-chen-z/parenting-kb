@@ -1,0 +1,57 @@
+card_id: C-S5-392
+stages: [S5]
+tags: [communication, eating, RIE, lansbury]
+
+front:
+  title: "喂奶时全在,不刷手机"
+  hook: "喂奶圣时段:放下屏"
+
+back:
+  why_matters: |
+    Lansbury Ch16 + Ch1 关键:
+    喂奶 / 喂瓶时 = 一对一最长的安静时段(每天 4-8 次,每次 10-30 分钟)。
+    主流:边喂边刷手机/看剧 — 宝宝学到"吃饭时心不在"。
+    RIE:这是社交学习的"黄金时段"。
+    一位 RIE 妈妈:孩子吃奶时停下听她说话 → 她以为是"分心",
+    Lansbury 评:这孩子礼貌停下听妈妈说话!
+    宝宝在学:"吃饭 = 跟人在一起的时刻"。
+
+  what_to_do:
+    - 喂奶 / 瓶 = 关手机 / 不看屏幕
+    - 跟宝宝平视眼神交流
+    - 宝宝停下听你 = 接住,不催继续吸
+    - 安静呼吸,享受亲密
+    - 这是日常最自然的"全在"练习
+
+  failure_mode: |
+    "喂奶 30 分钟太长不刷手机受不了" → 现代家长真实痛点。
+    Lansbury 不是道德绑架,是说:这是后期"家庭聚餐文化"的根。
+    一两次刷没事,但不能成默认。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Lansbury
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+
+citation:
+  book_title_en: "Elevating Child Care: A Guide to Respectful Parenting"
+  book_title_zh: "尊重孩子:RIE 育儿之道"
+  authors:
+    - Janet Lansbury
+  publisher_en: JLML Press
+  year: 2014
+  location: "Ch16 Relax, enjoy feedings"
+  source_id: SRC-019
+
+unit_ids: []
+related_cards:
+  - C-S2-292  # Lansbury 几分钟真专注
+  - C-S2-128  # Davies 等 3 秒再回应
+  - C-S5-188  # Lillard 9-10 月升级真玻璃杯
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

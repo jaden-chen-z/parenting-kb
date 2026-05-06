@@ -1,0 +1,57 @@
+card_id: C-S2-123
+stages: [S2]
+tags: [development_burst, philosophy, controversy]
+
+front:
+  title: 烦躁期不睡训不戒奶
+  hook: 强训失败 × 信任破
+
+back:
+  why_matters: |
+    Wonder Week 跃迁期间(烦躁 阶段),宝宝大脑在重新连接,需要更多安全感 + 物理接触,
+    不是建立新习惯的时机。
+    van de Rijt 数据:跃迁期间宝宝特别黏妈、要奶变频、睡眠倒退,这是大脑升级的外在表现,
+    不是行为习惯问题,**任何"再哭也不抱"式的训练都会失败**:
+    - 试图睡眠训练 → 跃迁本身让宝宝睡不好,训练失败,妈妈自责
+    - 试图戒奶 → 跃迁期奶是安全感来源,断奶反加剧黏人
+    - 试图戒奶嘴 → 跃迁期需要更多吮吸安抚
+    - 试图入园 / 换照看人 → 跃迁期对陌生人格外抗拒家长意义:**跃迁日历记好,大事(睡训/断奶/入园)安排在烦躁 阶段 之外**,
+    通常跃迁周后 2-4 周是平静期(skill 阶段),那时尝试新规律更易成功。
+  what_to_do:
+    - 看 10 跃迁时间表(C-S1-179)避开烦躁期
+    - 烦躁期临时倒退是正常的,跃迁完成后会自然恢复
+    - 平静期(跃迁后 2-4 周)是开始新规律的窗口
+    - 真要紧的训练等 18 月后(WW10 结束)再批量做
+    - 不要因烦躁期"训练失败"自责
+  failure_mode: |
+    "我家宝宝睡眠训练训了一周还不行" → 多半是跃迁期开始的。
+    "断奶断了三天宝宝哭得撕心裂肺" → 是不是烦躁 阶段 撞上了?
+    把跃迁期的退步归罪于"我训练方法不对" → 反复换方法 → 宝宝更乱。
+  evidence_level: C
+
+glossary_refs:
+  - G-TERM-wonder-week
+  - G-TERM-fussy-phase
+  - G-TERM-mental-leap
+
+citation:
+  book_title_zh: "婴儿大脑跃迁 10 周(神奇周)"
+  book_title_en: "The Wonder Weeks"
+  authors: ["Hetty van de Rijt", "Frans X. Plooij"]
+  authors_zh: ["海蒂·凡德里特", "弗朗斯·普洛伊"]
+  publisher_en: "Kiddy World Publishing"
+  year_en_first: 1992
+  isbn_en: "978-90-79208-12-1"
+  location: "Chapter 4-5 通用原则(in different words across each leap chapter): cuddle, breastfeed on demand, do not impose new schedules during fussy phase / She May Lose Her Appetite + She May Sleep Poorly + She May Cling to You More Tightly"
+  source_id: SRC-013
+
+unit_ids: []
+related_cards:
+  - C-S1-178       # 三 C 信号
+  - C-S1-179       # 10 个跃迁时间表
+  - C-S1-181       # 5 周第一跃迁
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

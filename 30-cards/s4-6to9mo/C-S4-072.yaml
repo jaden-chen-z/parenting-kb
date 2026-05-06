@@ -1,6 +1,6 @@
 card_id: C-S4-072
 stages: [S4]
-tags: []
+tags: [philosophy, controversy]
 
 front:
   title: 多个依恋人不冲突
@@ -39,7 +39,7 @@ citation:
   year_en: 1969
   year_zh: 2017
   isbn: "978-7-5192-2927-6"
-  location: "第十五章 聚焦在一个对象上(在一岁到两岁之间,大部分婴儿依恋行为的指向对象不止一个 / Schaffer & Emerson 1964 苏格兰 58 婴儿:对主对象依恋越强,对其他对象社交行为越多)"
+  location: "第十五章聚焦在一个对象上(在一岁到两岁之间,大部分婴儿依恋行为的指向对象不止一个 / Schaffer & Emerson 1964 苏格兰 58 婴儿:对主对象依恋越强,对其他对象社交行为越多)"
   source_id: SRC-011
 
 unit_ids: []

@@ -1,0 +1,54 @@
+glossary_id: G-TERM-skin-to-skin
+type: term
+display_name: "Skin-to-skin 肌肤接触"
+
+en_term: "Skin-to-Skin Contact (SSC)"
+zh_term: "肌肤接触"
+
+one_liner: |
+  Skin-to-skin = 婴儿赤裸贴妈妈胸口 ≥ 1 小时 — BFHI 第 4 步 + 出生 1 小时内不间断。
+
+detail: |
+  ## 定义
+  Skin-to-skin contact (SSC)— 婴儿赤裸贴在妈妈胸口,持续 ≥ 1 小时不间断。
+  
+  ## BFHI 第 4 步 verbatim
+  'Facilitate immediate and uninterrupted skin-to-skin contact and support mothers to initiate breastfeeding as soon as possible after birth.'
+  
+  ## 关键 'uninterrupted'
+  - 测量/称重等 → 推到 1 小时后
+  - 持续直到完成第一次吸吮
+  - 早产/剖宫产 同样适用(妈妈状况允许时)
+  
+  ## 效果
+  - 体温稳定
+  - 心率稳定
+  - 血糖稳定
+  - 哭闹减少
+  - 母乳启动加速
+  
+  ## 跟其他派
+  - 跟 Karp(SRC-005)C-S1-002 一致(立即接触是 SIDS 因素之一)
+  - 跟松田 SRC-024 反产院'快速包裹+测量' 一致
+
+key_facts:
+  - "BFHI 第 4 步"
+  - "≥ 1 小时不间断"
+  - "早产剖宫产同样适用"
+
+related_glossary:
+  - G-TERM-BFHI-10-steps
+  - G-TERM-early-initiation
+  - G-TERM-colostrum
+
+related_cards:
+  - C-S1-1000
+  - C-S1-1001
+
+sources:
+  - source_id: SRC-031
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,47 @@
+card_id: C-S3-2500
+stages: [S3, S4, S5]
+tags: [postpartum, mom, philosophy, practical]
+front:
+  title: 选保姆 + 给保姆 12 项交接清单
+  hook: 别朋友说"放心给保姆"就照做 — 海蒂的 12 项清单让你睡着也安心。
+back:
+  why_matters: |
+    Phase B+C 已盖"月嫂 vs 产妇护导员 vs 钟点工"(C-S0-2061)选月嫂,
+    但 3 月后宝宝转入"长期保姆/育儿嫂"阶段,海蒂详细的"交接清单"完全没卡。
+    中国中产家庭高频:
+    - 第一次留保姆,妈妈焦虑哭着出门
+    - 到现场才发现保姆不会处理常见情况(噎食/烫伤/CPR)
+    - "口头交代"忘 1/3,半夜电话还在被问海蒂明确反对"分离焦虑前(< 9 月)就该开始让保姆登场",
+    9 月后再首次留宝宝独处,陌生人焦虑更难处理。
+  what_to_do:
+    - 第一次留保姆要安排 6-9 月之间(分离焦虑萌芽前)
+    - 第一晚保姆早到 30-60 分钟现场观察一次哺乳/换尿布/拍嗝
+    - 12 项书面交接清单(贴冰箱):
+    - 第一次外出 1-2 小时,逐渐拉长
+  failure_mode: |
+    常见错误:
+    - 总是宝宝睡着才走 → 宝宝醒来发现陌生人会更慌
+    - 不写清单"她经验丰富不用说" → 每个宝宝不一样,口头交接漏 1/3
+    - 不交代喂奶时间表 → 宝宝过饿/过饱
+    - 没写中毒中心 + 儿科电话 → 急事找不到人
+    - 第一次就外出整晚 → 宝宝+保姆双方压力爆表
+  evidence_level: B
+glossary_refs: []
+citation:
+  publisher_en: "Workman Publishing"
+  source_id: SRC-040
+  book_title_en: What to Expect the First Year
+  book_title_zh: 海蒂育儿大百科 0-1 岁
+  authors: ["Heidi Murkoff", "Sharon Mazel"]
+  publisher_zh: 南海出版公司
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh: [莫夏迪, 张敏]
+  chapter: Part 3 Ch 8 留给保姆 sidebar"是保姆清单"
+  page_zh: 270-271
+related_cards: [C-S0-2061]
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

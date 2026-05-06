@@ -1,0 +1,75 @@
+card_id: C-S1-1313
+stages: [S1]
+tags: [cultural, greenfield, newborn, lerner_v4, controversy]
+
+front:
+  title: 新生儿带法文化分
+  hook: 新生儿带法看文化
+
+back:
+  why_matters: |
+    Greenfield V4 Ch 17(新生儿带法跨文化)。
+    **新生儿带法 4 大文化分歧**:
+    - **睡眠**:独立婴儿房(美式)vs 同睡(中/日)
+    - **喂养**:固定时间瓶喂 vs 按需 + 母乳
+    - **抱**:少抱 vs 多抱(传统)
+    - **互动**:面对面注视(美式)vs 多人轮抱(集体文化)
+    **Greenfield 立场反"美式才科学"**:
+    - 各文化都有适应价值
+    - 同睡娃没有"依赖性"问题
+    - 多抱不"惯坏"
+    - 多人轮抱社交早起
+    **研究发现**:
+    - 同睡 vs 分睡:无心理发展差异
+    - 多抱 vs 少抱:多抱组哭少 + 自调好
+    - 多人 vs 单人:多人组社交能力强
+    - **没有"美式独立才好"立场支持**
+    **反 3 误区**:
+    - ❌ "美式独立科学"(文化盲点)
+    - ❌ "中式包办落后"(适应价值)
+    - ❌ "新生儿不懂文化"(已起影响)
+    **移民家挑战**:
+    - 美式医院推独立婴儿房
+    - 中式家长想同睡
+    - 解决:**找 culturally competent 医生**
+    跟现库:跟 C-S0-1238 Greenfield 总论 + 松田 §258 同睡(SRC-024)+ Karp(SRC-003)+ AAP 反同床(SRC-004)对接。
+    对中国家长意义:
+    - 新生儿带法文化都健康
+    - 同睡 / 多抱不是"落后"
+    - 美式独立不是"科学"
+    - 移民家找懂文化的医生
+  what_to_do:
+    - 新生儿带法各文化都健康
+    - '同睡多抱不"落后"'
+    - '美式独立不"科学"'
+    - 移民家找文化敏感医生
+  failure_mode: |
+    "美式独立科学"— 错。文化盲点。
+    "中式包办落后"— 错。适应价值。
+    "小娃不懂文化"— 错。已起影响。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Greenfield
+  - G-TERM-cultural-pathways
+  - G-TERM-individualism-collectivism
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 4 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 4 卷"
+  authors: ['Patricia M. Greenfield', 'Lalita K. Suzuki', 'Carrie Rothstein-Fisch']
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 17 · Greenfield · Newborn parenting cultural divergence · pp. 660-670"
+  source_id: SRC-029
+
+unit_ids: []
+related_cards:
+  - C-S0-1238     # Greenfield 5 维度
+  - C-S6-1386     # V4 学步文化
+  - C-S4-700     # 松田 §258 同睡
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,62 @@
+card_id: C-S6-187
+stages: [S6]
+tags: [montessori, demonstration, philosophy]
+
+front:
+  title: 演示要慢 + 同顺序
+  hook: 15 月靠重复学
+
+back:
+  why_matters: |
+    Lillard Ch6 关键操作技巧 — 给 15 月+ 宝宝演示一个 cycle of activity 时:
+    1. **慢** — 比平时慢一倍
+    2. **同顺序** — 每次都从左到右,从上到下,固定顺序
+    3. **每段间停顿**(让宝宝看得清)
+    4. **拿物品要双手**(2 手在物体两侧,不是一手抓)
+    5. **不说太多** — 说话只在必要点为什么:
+    - 15 月宝宝**靠模仿 + 重复**学习,不是靠理解
+    - 不能给"成人版本"(快 + 灵活 + 偶尔变)
+    - 顺序固定 → 大脑能建模(同一 pattern 重复 5 次内化)
+    - 速度慢 → 宝宝眼睛 + 大脑能跟上每一动作
+    Lillard 例子:擦桌子要从"左→右,上→下"系统擦。如果你随手擦(成人方式),宝宝学到的是"擦桌就是乱抹一气"。
+    实操注意:
+    - 大人事先"练习"一次(看自己动作)
+    - 用左手 / 拿不主导手做一次(感受难度)
+    - 你怎么做 → 宝宝就怎么做(不能说"你按这样" 让自己按那样)
+    跟"宝宝看几次就懂" / "我快一点演示别浪费时间"**对立** — 蒙氏:**演示是教育核心环节,慢 + 一致是关键**。
+  what_to_do:
+    - 演示比平时慢一倍
+    - 每次同顺序(左→右,上→下)
+    - 每段动作中间停顿
+    - 双手拿物品(2 手两侧)
+    - 大人先自己练一次
+  failure_mode: |
+    "我随手做,他跟着学就行" — 反:他真的"跟着学" — 学了你的混乱版本。
+    每次顺序变 → 宝宝大脑无法建模 → 学不会。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Lillard
+  - G-PERSON-Jessen
+  - G-TERM-cycle-of-activity
+  - G-TERM-going-slow
+
+citation:
+  book_title_zh: "蒙台梭利从 0 岁开始"
+  book_title_en: "Montessori from the Start"
+  authors: ["Paula Polk Lillard", "Lynn Lillard Jessen"]
+  authors_zh: ["宝拉·波尔克·莉拉德", "琳·莉拉德·杰森"]
+  publisher_en: "Schocken Books"
+  year_en: 2003
+  isbn_en: "978-0-8052-1112-1"
+  location: "Ch 6 · 'Practical Life' (demonstration principles)"
+  source_id: SRC-016
+
+unit_ids: []
+related_cards:
+  - C-S6-185       # Lillard 完整循环活动
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

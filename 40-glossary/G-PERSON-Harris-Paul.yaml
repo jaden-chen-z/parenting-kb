@@ -1,0 +1,56 @@
+glossary_id: G-PERSON-Harris-Paul
+type: person
+display_name: Harris (Paul L.)
+
+full_name_en: Paul L. Harris
+full_name_zh: 保罗·L·哈里斯
+
+one_liner: |
+  英裔美国发展心理学家(哈佛大学 GSE 教授),儿童社会认知 + 想象 + 假装游戏权威。
+  Lerner V2 Ch19 Social Cognition 主笔(综述心智理论 + 假装 + Sally-Anne)。
+
+detail: |
+  ## 个人背景
+  - 牛津大学博士
+  - 牛津大学发展心理学教授(原)
+  - 哈佛大学 Graduate School of Education 教授
+  - 美国艺术与科学院院士
+
+  ## 核心研究
+  - **儿童社会认知**:心智理论 + 假装游戏 + 情绪理解
+  - **想象的认知作用**:假装游戏跟现实推理同基础
+  - **跨文化研究**:儿童听信传 vs 经验
+
+  ## 立场
+  - 整合 Wellman + Leslie + Astington 派
+  - 假装游戏 = 现实推理同根
+  - 跨文化普适但文化调谐
+
+  ## 在本知识库中
+  - SRC-028 Lerner V2 Ch19 主笔(整合 ToM + 假装综述)
+
+key_facts:
+  - 哈佛大学 GSE 教授
+  - Lerner V2 Ch19 Social Cognition 主笔
+  - 儿童想象认知作用研究
+  - 美国艺术与科学院院士
+
+related_glossary:
+  - G-PERSON-Wellman
+  - G-PERSON-Leslie
+  - G-TERM-theory-of-mind
+
+related_cards:
+  - C-S6-1171
+  - C-S7-1098
+  - C-S8-420
+
+sources:
+  - source_id: SRC-028
+    chapter: "Ch 19 主笔"
+  - external: Harris 2000《The Work of the Imagination》/ Wikipedia Paul Harris
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

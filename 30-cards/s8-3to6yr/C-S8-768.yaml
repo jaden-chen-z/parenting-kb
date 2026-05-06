@@ -1,0 +1,78 @@
+card_id: C-S8-768
+stages: [S8]
+tags: [child_witness, bruck_ceci, forensic, lerner_v4]
+
+front:
+  title: 法证询问 5 步开放
+  hook: 法证询问 5 步
+
+back:
+  why_matters: |
+    Bruck-Ceci-Principe V4 Ch 19(法证询问技术)。
+    **法证询问 5 步法**(NICHD Investigative Interview Protocol):
+    - **建立融洽(rapport)**:轻松话题 / 我是 X / 你今天 OK 吗
+    - **介绍规则**:"不知道说不知道" / "纠正大人错的"
+    - **练习开放**:"今天早上发生了啥"
+    - **真正询问**:"告诉我那次事的事"
+    - **结束**:轻松话题收
+    **核心原则**(反 4 大扭曲机制):
+    - **开放式问题**:"告诉我" 不"是不是"
+    - **不重复**:一次问完
+    - **不暗示**:不带答案选项
+    - **录像可见**:防多人重复扭曲
+    **实证**(Bruck-Ceci 经典):
+    - 这种方法**儿童回答准确度提高 50%**
+    - 暗示性扭曲减 30%
+    - 已成美国法律体系儿童证人标准
+    - 中国法院部分省市跟进
+    **反 4 误区**:
+    - ❌ "重复问会更准"(扭曲)
+    - ❌ "暗示性问题(是不是)更直接"(扭曲)
+    - ❌ "压力下娃说真话"(讨好答)
+    - ❌ "孩子不懂诚实"(规则要预先教)
+    **家庭场景应用**:
+    - 兄弟姐妹打架 — 用开放式问
+    - 离异争执 — 不重复问"喜欢谁"
+    - 严重事件 — 找专业人员跟现库:跟 V4 Bruck-Ceci 总论(C-S8-748)+ V3 Saarni(C-S6-1068)+ V2 Karmiloff-Smith RR(C-S8-424)对接。
+    对中国家长意义:
+    - 用 5 步法问娃
+    - 开放式 + 不重复 + 不暗示
+    - 严重事件找专业(法律 / 心理 / 学校)
+    - 教孩子"不知道可以说不知道"
+  what_to_do:
+    - 用 5 步法开放式问
+    - 不重复+不暗示
+    - 严重事件找专业
+    - '教孩子说"不知道"'
+  failure_mode: |
+    "重复问更准"— 错。扭曲机制。
+    "暗示性问题直接"— 错。诱导扭曲。
+    "压力下说真话"— 错。讨好答。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Bruck
+  - G-PERSON-Ceci
+  - G-TERM-forensic-interview
+  - G-TERM-child-witness
+  - G-TERM-suggestibility
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 4 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 4 卷"
+  authors: ['Maggie Bruck', 'Stephen J. Ceci', 'Gabrielle F. Principe']
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 19 · Bruck-Ceci · Forensic interview 5 steps · pp. 795-810"
+  source_id: SRC-029
+
+unit_ids: []
+related_cards:
+  - C-S8-748     # V4 Bruck-Ceci 总论
+  - C-S6-1068     # V3 Saarni 8 情绪能力
+  - C-S8-424     # V2 Karmiloff-Smith RR
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,62 @@
+card_id: C-S2-126
+stages: [S2]
+tags: [development_burst, parental_role, controversy, philosophy]
+
+front:
+  title: 跃迁后是黄金陪练期
+  hook: 跃迁后换陪练角色
+
+back:
+  why_matters: |
+    每个跃迁完成后宝宝进入 **skill 阶段(技能期)** — 烦躁信号突然消失,新能力上线。
+    Wonder Weeks 每章都有 "What You Can Do to Help" 部分(我之前的卡集中讲烦躁期"不要做什么",这张专讲 skill 期"父母能做什么")。
+    skill 期父母角色变化:
+    - 烦躁期 = 陪护 + 安抚(让宝宝感到安全)
+    - **skill 期 = 陪练 + 鼓励 + 提供刺激**(让宝宝试新能力)
+    skill 期黄金原则:
+    1. **观察宝宝感兴趣的能力**(看 / 听 / 动 / 说哪一类)
+    2. **提供合适刺激**(WW8 给条纹,WW19 给抓握玩具,WW26 给爬行空间...)
+    3. **跟着宝宝节奏**(她累就停,不强求清单全有)
+    4. **接受个体选择**(同跃迁不同宝宝选不同能力)
+    家长意义:**skill 期错过 = 错过自然学习窗,但又不要按"早教 KPI"硬安排**。
+  what_to_do:
+    - 烦躁信号突然消失 → 进入 skill 期
+    - 看宝宝突然感兴趣什么(跟着她,不引导)
+    - 提供对应刺激物(高对比 / 模式 / 因果 / 模仿)
+    - 5-10 分钟一段,她累就停
+    - 不强求"清单全有",接受她的能力选择
+  failure_mode: |
+    skill 期父母累瘫继续休息 → 错过宝宝最好的互动学习窗。
+    skill 期按"今天必须教 XX"硬塞 → 跟宝宝兴趣错位。
+    "你看人家宝宝都会 X 我家宝宝不会" — 不同宝宝选不同能力路径。
+  evidence_level: C
+
+glossary_refs:
+  - G-PERSON-vanderijt
+  - G-TERM-wonder-week
+  - G-TERM-mental-leap
+  - G-TERM-skill-phase
+  - G-TERM-fussy-phase
+
+citation:
+  book_title_zh: "婴儿大脑跃迁 10 周(神奇周)"
+  book_title_en: "The Wonder Weeks"
+  authors: ["Hetty van de Rijt", "Frans X. Plooij"]
+  authors_zh: ["海蒂·凡德里特", "弗朗斯·普洛伊"]
+  publisher_en: "Kiddy World Publishing"
+  year_en_first: 1992
+  isbn_en: "978-90-79208-12-1"
+  location: "Chapter 4-12 通用 · What You Can Do to Help section + Your Baby's Choices: A Key to His Personality(every baby decides for himself what he wants to learn, when, and how)"
+  source_id: SRC-013
+
+unit_ids: []
+related_cards:
+  - C-S2-121       # WW8 模式世界
+  - C-S2-122       # WW12 平滑过渡
+  - C-S2-125       # 跃迁后宝宝突然长大
+  - C-S6-127       # 质量时间是伪概念
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

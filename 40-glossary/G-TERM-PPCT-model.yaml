@@ -1,0 +1,27 @@
+glossary_id: G-TERM-PPCT-model
+type: term
+display_name: "PPCT 模型 / Process-Person-Context-Time (PPCT)"
+
+name_en: "Process-Person-Context-Time (PPCT)"
+name_zh: "PPCT 模型"
+
+description: |
+  Bronfenbrenner 2006 修正版 — 4 维框架:近端互动 + 个体 + 环境 + 时间。
+
+one_liner: |
+  PPCT 模型(Process-Person-Context-Time (PPCT))— Bronfenbrenner 2006 修正版 — 4 维框架:近端互动 + 个体 + 环境 + 时间。
+
+key_facts:
+  - "Lerner V1 元理论卷核心术语"
+  - "学派:Lerner V1 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

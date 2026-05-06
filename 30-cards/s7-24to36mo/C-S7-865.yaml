@@ -1,0 +1,68 @@
+card_id: C-S7-865
+stages: [S7]
+tags: [shonkoff, nrc, father_role, gender_neutral, china_high_freq]
+
+front:
+  title: "爸爸跟妈一样重要"
+  hook: "爸爸不只是个钱包"
+
+back:
+  why_matters: |
+    NRC 综述 Ch 9 给"父亲角色"现代立场 — 反"爸爸只挣钱"传统:
+    **NRC 综合 Lamb 多研究**:
+    - 父亲跟孩子的依恋质量 ≈ 母亲(质量看回应不看性别)
+    - 父亲在场不只挣钱 — 多功能(陪 / 照顾 / 决策 / 互动)
+    - **父亲 高质量陪伴** 跟孩子社交 / 学业 / 自尊正相关
+    - 父亲缺席 → 男孩 / 女孩**不同**风险
+      - 男孩:行为问题 + 攻击 + 学业差
+      - 女孩:早恋 + 自尊低
+    **NRC 立场**:
+    - 现代父亲应担任"多功能"角色 — 不只财务责任
+    - 单亲家庭也 OK — 但要找"父亲角色替代"(舅 / 叔 / 老师 / 教练)
+    - 男女平等育儿 = 健康家庭模式
+    **跟 Davies 蒙氏 + Lansbury RIE + 鲍秀兰一致**。
+    **对中国家长**(男性视角):
+    - 别说"我赚钱够了 — 妈妈带就行"
+    - 跟孩子的依恋质量直接看你 高质量陪伴
+    - 换尿布 / 喂饭 / 哄睡 → 都建依恋
+    - 周末陪 1 小时 quality > 工作日 0 互动
+    **对中国家长**(女性视角):
+    - 别认为"爸爸不会带"
+    - 给爸爸独立带的机会(短暂离开)
+    - 别替爸爸纠正 — 让他自己学
+    - 表扬爸爸贡献 — 强化角色
+  what_to_do:
+    - 爸爸独立带不只助
+    - 妈别替爸纠正
+    - 爸 高质量陪伴 不看时长
+    - 单亲找父角色替代
+    - 男女育儿平等担
+  failure_mode: |
+    "爸爸赚钱我带娃 — 各司其职" — NRC 立场:这模式跟现代研究对立。
+    "爸爸不会带 — 他做啥我都得跟" — 错,过度纠正 → 爸爸学不会 + 关系差。
+    单亲妈直接放弃父角色替代 → 男孩 / 女孩长期风险。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Shonkoff
+  - G-TERM-attachment
+  - G-TERM-NRC
+
+citation:
+  book_title_en: "From Neurons to Neighborhoods"
+  authors: ["Jack P. Shonkoff", "Deborah A. Phillips"]
+  org: "NRC/IOM"
+  year_en: 2000
+  location: "Ch 9 · Bringing Fathers into the Picture"
+  source_id: SRC-025
+
+unit_ids: []
+related_cards:
+  - C-S0-517    # 松田 §21 父亲作用 SRC-024
+  - C-S4-806    # Shonkoff 依恋质量(本卷)
+  - C-S5-070    # Bowlby 安全依恋 SRC-011
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

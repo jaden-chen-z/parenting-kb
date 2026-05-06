@@ -1,0 +1,52 @@
+glossary_id: G-PERSON-Keil
+type: person
+display_name: Keil
+
+full_name_en: Frank C. Keil
+full_name_zh: 弗兰克·C·凯尔
+
+one_liner: |
+  美国认知心理学家(耶鲁大学教授),直觉理论 3 大领域(物理/心理/生物)综述派权威。
+  Lerner V2 Ch14 Cognitive Science and Cognitive Development 主笔。
+
+detail: |
+  ## 个人背景
+  - 宾夕法尼亚大学博士
+  - 耶鲁大学心理学教授
+  - 美国国家科学院院士
+
+  ## 核心研究:直觉理论(Intuitive Theories)
+  - 朴素物理 / 朴素心理 / 朴素生物 — 3 大领域并行
+  - 各域独立发展,有自己时间表
+  - "智力"不是单一指标
+
+  ## 立场
+  - 反单一智力测试评估
+  - 跟 Carey 概念革命派同方向
+  - 部分先天 + 部分文化派
+
+  ## 在本知识库中
+  - SRC-028 Lerner V2 Ch14 主笔(129 hits)
+  - C-S8-427 Keil 直觉理论 3 大领域
+
+key_facts:
+  - 耶鲁大学心理学教授
+  - 直觉理论 3 大领域综述
+  - Lerner V2 Ch14 主笔
+  - 美国国家科学院院士
+
+related_glossary:
+  - G-PERSON-Carey
+  - G-PERSON-Spelke
+
+related_cards:
+  - C-S8-427
+
+sources:
+  - source_id: SRC-028
+  - external: Keil 1989《Concepts, Kinds, and Cognitive Development》/ Wikipedia Frank Keil
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

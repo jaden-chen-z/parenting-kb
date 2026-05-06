@@ -1,0 +1,68 @@
+glossary_id: G-PERSON-Mandler
+type: person
+display_name: Mandler
+
+full_name_en: Jean M. Mandler
+full_name_zh: 让·M·曼德勒
+
+one_liner: |
+  美国发展心理学家(UCSD 名誉教授 + UCL 客座教授),概念发展研究奠基人。
+  区分"知觉范畴"vs"概念范畴"二分,反 Quinn 知觉先于概念立场。
+
+detail: |
+  ## 个人背景
+  - 哈佛大学博士
+  - UCSD(加州大学圣地亚哥)名誉教授
+  - UCL(伦敦大学学院)客座教授
+  - 美国艺术与科学院院士
+
+  ## 核心理论:知觉 vs 概念范畴
+  - **Perceptual category**:基于外形相似(红色 / 圆形 / 大小)
+  - **Conceptual category**:基于功能 / 类别角色(动物 vs 工具)
+  - **不是同一系统** — Mandler 反 Quinn 经典立场
+
+  ## 经典发现
+  - 7-9 月已有知觉范畴
+  - 12-18 月开始概念范畴(把鸟和狗都归"动物")
+  - 24-36 月稳定区分两类
+
+  ## 立场
+  - 反 Quinn"知觉先于概念"
+  - 反 Spelke 纯先天 5 系统
+  - 主张:概念范畴是早期独立发展轨迹
+
+  ## 中国家长意义
+  - 孩子按外形分(红的一堆)≠ 概念分(吃的一堆)
+  - 24+ 月教多分类(不只外形)
+  - 玩具收纳教按功能分
+
+  ## 在本知识库中
+  - SRC-028 Lerner V2 Ch16 主要引用(126 hits)
+  - C-S7-1097 Mandler 知觉 vs 概念
+
+  ## 学术影响
+  - 概念发展领域辩论一方
+  - 著作《The Foundations of Mind》(2004)
+
+key_facts:
+  - UCSD 名誉教授 + UCL 客座
+  - 知觉 vs 概念范畴二分立场
+  - 反 Quinn 知觉先于概念派
+  - 美国艺术与科学院院士
+
+related_glossary:
+  - G-PERSON-Carey
+  - G-PERSON-Spelke
+  - G-TERM-baby-scientist
+
+related_cards:
+  - C-S7-1097
+
+sources:
+  - source_id: SRC-028
+  - external: Mandler 2004 / Wikipedia Jean Mandler
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

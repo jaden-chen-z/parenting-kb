@@ -1,0 +1,27 @@
+glossary_id: G-TERM-serve-and-return
+type: term
+display_name: "一来一回 / serve and return"
+
+name_en: "serve and return"
+name_zh: "一来一回"
+
+description: |
+  婴儿发起(声 / 看 / 吐舌)→ 父母回应 — 反复互动循环,proximal process 核心。
+
+one_liner: |
+  一来一回(serve and return)— 婴儿发起(声 / 看 / 吐舌)→ 父母回应 — 反复互动循环,proximal process 核心。
+
+key_facts:
+  - "Lerner V1 元理论卷核心术语"
+  - "学派:Lerner V1 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

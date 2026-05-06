@@ -1,0 +1,36 @@
+card_id: C-S3-2257
+stages: [S3]
+tags: [safety, dental, feeding, red_flag]
+front:
+  title: 奶瓶龋 1 岁前停,睡前别含瓶
+  hook: 睡时含奶=泡牙在糖里
+back:
+  why_matters: |
+    上一卡讲乳牙清洁,但最毁牙的不是不刷而是含瓶睡。海蒂用专章警告"奶瓶性龋齿"。
+    机制:娃睡着后唾液分泌减少,含在嘴里的奶/果汁中的糖分长时间浸泡牙面,8-10 月就能让上门牙烂出黑洞。AAP 建议 12 月停奶瓶,睡前必须含瓶就装清水(若含氟更佳)。
+  what_to_do:
+    - 不在床上喂奶瓶
+    - 喝完奶喝两口水冲洗
+    - 睡前要含瓶只装清水
+    - 不让爬行躺着含瓶当镇静物
+    - 12 月戒奶瓶改吸管杯
+  failure_mode: 为了让娃快速入睡每晚含瓶到睡熟,1 岁体检牙医发现 8 颗门牙全龋,需要全麻镶牙数千元起。
+  evidence_level: A
+glossary_refs: []
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors: ["Heidi Murkoff", "Sharon Mazel"]
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh: ["莫夏迪","张敏"]
+  location: "第 10 章 《第 6 个月》, 页 360-361"
+  source_id: "SRC-040"
+related_cards: [C-S3-2256, C-S3-2247]
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

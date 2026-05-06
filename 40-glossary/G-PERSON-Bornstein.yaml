@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Bornstein
+type: person
+display_name: "Bornstein(马克·邦斯坦)"
+
+full_name_en: "Marc H. Bornstein"
+full_name_zh: "马克·邦斯坦"
+
+position: |
+  NIH 国家儿童健康发展研究所主任
+
+contribution: |
+  跨文化育儿研究;Handbook of Parenting 主编
+
+one_liner: |
+  马克·邦斯坦 — 跨文化育儿研究;Handbook of Parenting 主编
+
+key_facts:
+  - "本卷章节:Ch 8"
+  - "Lerner V3 命中:70 次"
+  - "学派:Lerner V3 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-027
+    chapter: "Ch 8"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,75 @@
+card_id: C-S4-810
+stages: [S4]
+tags: [shonkoff, nrc, choosing_daycare, ratios, china_high_freq]
+
+front:
+  title: "选托育的 4 个硬指标"
+  hook: "师生比比装修重要"
+
+back:
+  why_matters: |
+    NRC 综述 Ch 11 给"高质量托育"的可操作 4 个指标:
+    **4 个硬指标**(NICHD ECCS):
+    1. **staff-child ratio 师生比**:
+       - **0-2 岁:1:3-1:4** — 关键!
+       - 2-3 岁:1:5-1:6
+       - 3+ 岁:1:8-1:10
+       - **0-2 岁师生比影响最大** — NICHD 数据
+    2. **education + training 师培**:
+       - 老师有儿童发展专业培训 = 高质量
+       - 学历不是唯一 — 但儿童发展专业课程必要
+       - 老师"学历 + 近期培训" 跟 quality 高度相关
+    3. **child-centered beliefs 师德**:
+       - 老师"以孩子为中心"信念(vs 专制型)→ 更敏感回应
+       - 老师"intentionality 主动选职业"→ 更高质量(home-based 数据)
+    4. **group size 班级人数**:
+       - 小班 = 老师能 attune 每个孩子
+       - 大班 = 注意力分散 / 个体被忽略
+    **NRC 关键洞察**:
+    - **不是看装修 / 价格 / 品牌 — 看 4 个数据点**
+    - 高质量 NICHD 实测可达 / 超过全职妈水平
+    - 低质量 → 落后全职妈
+    **对中国家长**:
+    - 选托育进去**问 4 个数据**:
+      - 师生比?(0-2 岁应 1:3-1:4)
+      - 老师有几年儿童发展培训?
+      - 跟孩子说话怎么个语调?(对话型 vs 命令型)
+      - 一个班几个孩子?
+    - **价格 ≠ 质量** — 有些贵的没数据,有些一般价位反而高质量
+    - 老人带也按这 4 元素自审
+  what_to_do:
+    - 看师生比 0-2 岁 1:3-4
+    - 问老师培训年数
+    - 试听对话型语调
+    - 班级人数小为佳
+    - 价格不等于质量
+  failure_mode: |
+    "我选最贵的 — 一定最好" — 装修 ≠ 质量,看师生比 + 师培。
+    "看品牌大就行" — 错,具体园所质量参差。
+    "0-2 岁 1:8 师生比也行" — 错,这年龄段必须 1:3-1:4 才有效。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Shonkoff
+  - G-PERSON-Phillips
+  - G-TERM-NRC
+  - G-TERM-maternal-sensitivity
+
+citation:
+  book_title_en: "From Neurons to Neighborhoods"
+  authors: ["Jack P. Shonkoff", "Deborah A. Phillips"]
+  org: "NRC/IOM"
+  year_en: 2000
+  location: "Ch 11 · Quality indicators + NICHD ECCS findings"
+  source_id: SRC-025
+
+unit_ids: []
+related_cards:
+  - C-S6-933    # Shonkoff 托育质量(本卷)
+  - C-S4-809    # Shonkoff 美国 3 月入托(本卷)
+  - C-S6-396    # Lansbury 高质量托育 SRC-019
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

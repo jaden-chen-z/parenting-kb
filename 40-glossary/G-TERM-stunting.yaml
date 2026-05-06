@@ -1,0 +1,61 @@
+glossary_id: G-TERM-stunting
+type: term
+display_name: "stunting 矮小"
+
+en_term: "Stunting (Linear Growth Failure)"
+zh_term: "矮小"
+
+one_liner: |
+  stunting = 身高/年龄低于 WHO Growth Standards -2 SD,慢性营养不良指标。
+
+detail: |
+  ## 定义
+  Stunting — 身高/年龄低于 WHO Growth Standards -2 SD,5 岁以下慢性营养不良核心指标。
+  
+  ## 阈值
+  - 中度:-2 SD 至 -3 SD
+  - 严重:< -3 SD
+  
+  ## 全球数据(2022)
+  - 5 岁下 1.49 亿娃 stunted
+  - 多数在低中收入国家(撒哈拉/南亚)
+  - 中国西部农村仍有
+  
+  ## 原因
+  - 慢性营养不良(辅食质量差 + 持续不足)
+  - 反复感染(腹泻 / 呼吸道)
+  - 母亲营养不良 + 早婚早育
+  - 6-23 月辅食多样性不达标(全球 < 1/4 达标)
+  
+  ## 影响
+  - 不可逆 — 错过 1000 天黄金窗(怀孕到 2 岁)
+  - 终身 IQ 影响(平均 -10 点)
+  - 慢性疾病风险增
+  
+  ## 干预
+  - 6 月 EBF
+  - 6 月起辅食含铁优先 + 多样性
+  - 持续母乳到 2 岁(WHO 立场)
+
+key_facts:
+  - "WHO Growth -2 SD 阈值"
+  - "全球 1.49 亿娃"
+  - "1000 天黄金窗"
+  - "终身 IQ -10 点"
+
+related_glossary:
+  - G-TERM-WHO-growth-standards
+  - G-TERM-wasting
+  - G-ABBR-CF
+
+related_cards:
+  - C-S0-1029
+  - C-S4-1052
+
+sources:
+  - source_id: SRC-031
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

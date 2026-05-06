@@ -1,0 +1,58 @@
+card_id: C-S7-350
+stages: [S7]
+tags: [creativity, RIE, lansbury]
+
+front:
+  title: "永远不替孩子画"
+  hook: "你的示范就是判断"
+
+back:
+  why_matters: |
+    Lansbury Ch18 引 Bev Bos 的金科玉律:
+    "Never draw for a child."(永不替孩子画。)
+    延伸到画 / 雕 / 拼 / 搭 / 造句 / 任何创造活动。
+    示范"正确画法" = 你给了"对错"的判断。
+    孩子接收:"我自己画的不对,要靠妈妈定。"
+    创造力的死亡始于"我教你怎么画对"。
+    Lansbury 自家例:女儿 2.5 岁混色染蛋,
+    她以为会丑,结果出现意想不到的美。
+
+  what_to_do:
+    - 孩子画画 / 搭积木 = 不示范
+    - 不"这样画熊更像" — 让她自己画
+    - 不评"画得真好"也不评"画得不像"
+    - 平静接:"你画了这个 / 你用了红色"
+    - 给开放材料,不给结果导向的玩具
+
+  failure_mode: |
+    "我教他怎么画熊才像 = 帮他" → 实际是杀创造力。
+    或反向:"画错了我都夸真棒" → 也是判断,只是正面的。
+    Lansbury:不评判 = 描述 + 接受,孩子才信任自己直觉。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Lansbury
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+  - G-TERM-magic-word-wait
+
+citation:
+  book_title_en: "Elevating Child Care: A Guide to Respectful Parenting"
+  book_title_zh: "尊重孩子:RIE 育儿之道"
+  authors:
+    - Janet Lansbury
+  publisher_en: JLML Press
+  year: 2014
+  location: "Ch18 Nurturing Creativity: How I Learned to Shut Up"
+  source_id: SRC-019
+
+unit_ids: []
+related_cards:
+  - C-S6-194  # Lillard 描述法替讲道理
+  - C-S2-189  # Lillard 0-6 岁只给真实
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

@@ -1,0 +1,56 @@
+card_id: C-S1-091
+stages: [S1]
+tags: [safety, red_flag]
+
+front:
+  title: 黄疸看皮肤蔓延范围 — 过腹要送医
+  hook: 脸黄正常,腹部以下黄危险
+
+back:
+  why_matters: |
+    新生儿黄疸 = 胆红素累积让皮肤泛黄。
+    **60% 足月儿 + 80% 早产儿**出生后 2-7 天会出现生理性黄疸 — 是正常的。
+    生理性 vs 病理性的关键区分(三看):
+    ① **出现时间**:出生 24h 内 = 病理(立即送医)
+    ② **蔓延范围**:过腹 = 高风险;过膝盖 = 严重
+    ③ **持续时间**:足月 > 2 周 / 早产 > 3 周不退 = 异常
+    **危险**:严重高胆红素血症 → 胆红素脑病(kernicterus) → 终身脑损伤(听力 / 运动 / 智力)。
+    现代蓝光治疗 100% 防止 kernicterus,前提是**及时识别**。
+    **母乳性黄疸**:特殊类型,持续较长但不需停母乳(继续喂奶 + 监测)。
+  what_to_do:
+    - 每天自然光下看皮肤:**脸 → 胸 → 腹 → 大腿 → 小腿** 顺序蔓延
+    - 黄到**腹部以下** → 立刻就医测胆红素(经皮 / 抽血)
+    - 母乳性黄疸:**继续喂奶,不要停母乳**,加母乳频次
+    - 蓝光治疗指征:>15 mg/dL 足月儿 / 早产更低
+    - 出院前确认医院做了胆红素筛查(部分医院常规)
+  failure_mode: |
+    等到全身黄才警觉 → 错过蓝光窗口,kernicterus 风险升;
+    停母乳 → 母乳性黄疸不需停,反而需要增加哺乳次数;
+    "晒太阳就好" → 日晒效力远不如蓝光,重度黄疸仍需医院蓝光;
+    "黄了一个月还在退" → 病理性可能,必须就医排查胆道闭锁。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-AAP
+
+citation:
+  page_title: "Jaundice in Newborns Causes & Treatment"
+  publisher: American Academy of Pediatrics
+  portal: HealthyChildren.org
+  policy_basis: "AAP Clinical Practice Guideline 2022 — Hyperbilirubinemia in Newborn Infant 35+ weeks"
+  page_url_primary: https://www.healthychildren.org/English/ages-stages/baby/Pages/Jaundice.aspx
+  accessed: 2026-05-03
+  language: en
+  location: "Jaundice / Newborn Hyperbilirubinemia AAP 2022 Guideline"
+  source_id: SRC-008
+
+unit_ids: []
+related_cards:
+  - C-S1-061       # AAP 急诊 8 项(部分含黄疸)
+  - C-S1-092       # 脐带护理(月子常规)
+  - C-S1-093       # 新生儿筛查(出生 48h 与黄疸高峰相邻)
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

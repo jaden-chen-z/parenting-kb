@@ -1,0 +1,59 @@
+card_id: C-S2-122
+stages: [S2]
+tags: [development_burst, controversy]
+
+front:
+  title: 12 周第三跃迁:平滑过渡
+  hook: 动作从机械变流畅
+
+back:
+  why_matters: |
+    第 12 周(11-12 周)是 Wonder Week 第三跃迁 — **平滑过渡世界**(World of Smooth Transitions)。
+    怎么回事:大脑从"识别静态模式"升级到能感知**连续渐变** — 声音从一个调过渡到另一个、动作从一个姿势平滑到另一个、光线渐暗。
+    跃迁完成后宝宝立刻:
+    - 动作从"木偶式机械"变成"流畅大人式"
+    - 头部能跟着移动物体连续转(以前是跳动式)
+    - 视线对焦能力接近成人
+    - 声调有起伏,不只是单音节
+    Brain change:10-11 周宝宝头围又一次显著增大。
+    烦躁 阶段 持续几天到 1 周(比 WW8 短),但 2-3 周内的连续烦躁让妈妈累到崩溃。
+    家长意义:**这是 0-3 月最难熬的最后一关**,撑过 12 周明显轻松很多 — 之后烦躁 阶段 间隔会变长(从 3-4 周变到 7-12 周)。
+  what_to_do:
+    - 11-12 周出现 3 C → 第三跃迁
+    - 跃迁后看宝宝动作是不是更流畅
+    - 跟宝宝"歌唱式说话"练他的声调感知
+    - 给摇铃 / 沙锤练流畅声音
+    - 12 周后烦躁间隔变长,家长终于能喘口气
+  failure_mode: |
+    "12 周跃迁完了我以为可以恢复正常生活" — 然后 19 周来了 → 看 C-S3-129。
+    把宝宝突然不爱抱玩具(因为对身边真实物体兴趣大)误判为"倒退"。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-vanderijt
+  - G-TERM-wonder-week
+  - G-TERM-mental-leap
+  - G-TERM-3C-signs
+  - G-TERM-fussy-phase
+
+citation:
+  book_title_zh: "婴儿大脑跃迁 10 周(神奇周)"
+  book_title_en: "The Wonder Weeks"
+  authors: ["Hetty van de Rijt", "Frans X. Plooij"]
+  authors_zh: ["海蒂·凡德里特", "弗朗斯·普洛伊"]
+  publisher_en: "Kiddy World Publishing"
+  year_en_first: 1992
+  isbn_en: "978-90-79208-12-1"
+  location: "Chapter 5 · Wonder Week 12: The World of Smooth Transitions(at approximately 12 weeks... your baby is able to perceive the many subtle ways that things change around him, not abruptly but smoothly + Brain Changes box: head circumference dramatically increases at 10-11 weeks)"
+  source_id: SRC-013
+
+unit_ids: []
+related_cards:
+  - C-S2-121       # WW8 模式世界
+  - C-S1-178       # 三 C 信号
+  - C-S2-001       # Karp 哭闹峰 6 周-3 月
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

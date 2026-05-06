@@ -1,0 +1,43 @@
+card_id: C-S1-2214
+stages: [S1]
+tags: []
+front:
+  title: 哭声 5 类含义解码
+  hook: 饿/疼/烦/困/病
+back:
+  why_matters: |
+    哭是宝宝唯一的语言,但不只一种 — 海蒂列 5 类哭声,学会区分能少抱很多冤枉觉。
+    1)饿哭:有节奏起伏、带恳求意味、伴吸吮手指/咂嘴(早识别能避免大哭);
+    2)疼哭:突发尖锐、上气不接下气、长停顿后再尖叫(打针/突然刺激);
+    3)烦躁哭:从咕咕声起步、变急躁、一阵阵(过度刺激/无聊);
+    4)困哭:哭着想睡、轻摇唱歌就好;
+    5)生病哭:微弱无力 + 其他症状(萎靡/发烧)— 这种最让父母心揪。
+    看伴随的线索(手势/眼神/前几小时活动)比哭声本身更准。
+  what_to_do:
+    - 听节奏 — 有节奏=饿 / 突发=疼 / 阵阵=烦
+    - 看线索 — 吸手指=饿 / 萎靡=病
+    - 困哭可以让他自己平静(不每次都抱)
+    - 生病哭 + 萎靡 → 立即就医
+    - 不要每次哭都默认是饿
+  failure_mode: |
+    每次哭都喂 → 过度喂养 + 错过真正需求(困/烦/疼)。
+    把生病的微弱哭当"懂事不哭" → 延误就医。
+  evidence_level: B
+glossary_refs: []
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors: ["Heidi Murkoff", "Sharon Mazel"]
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh: ["莫夏迪","张敏"]
+  location: "第 4 章新生儿 · 破解哭的密码, 页 121-122"
+  source_id: SRC-040
+related_cards: []
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

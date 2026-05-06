@@ -1,0 +1,49 @@
+card_id: C-S7-1006
+stages: [S7]
+tags: [dunn, sibling_relationship, lerner_v3, foundational]
+
+front:
+  title: "Dunn 兄弟 5 维度"
+  hook: "二胎吵是发展机会"
+
+back:
+  why_matters: |
+    Dunn(via Ch 8 Parke 综述)— 兄弟姐妹关系 5 维度:
+    ① 温暖 ② 冲突 ③ 竞争 ④ 协助 ⑤ 影响。
+    冲突不是病 — 是练情绪管理 + 谈判 + 共情的天然实验室。
+    数据 — 适度冲突的兄弟关系孩子社交能力强于独生 / 完全没冲突。
+    一句话 — 二胎吵架别都按住,适度冲突是发展机会。
+  what_to_do:
+    - "不强行大让小"
+    - "冲突 90% 让娃自己解决"
+    - "只在肢体伤害时干预"
+    - "关注双方感受不护一方"
+    - "鼓励合作活动(一起搭积木)"
+  failure_mode: |
+    完全压制冲突 — 大让小 → 大委屈,小蛮横,双方都受伤。
+    Dunn — 适度冲突 + 父母不护偏才发展健康。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Dunn
+  - G-TERM-sibling-relationship-5-dimensions
+
+related_cards:
+  - C-S7-404      # Gerber 兄弟竞争不偏护
+  - C-S7-552      # Gerber 自律
+  - C-S7-348      # Lansbury 温柔
+  - C-S7-130      # Lillard 服从
+
+citation:
+  source_id: SRC-027
+  source_title: "Handbook of Child Psychology Vol 3"
+  chapter: "Ch 8 Parke / Dunn — Sibling"
+  chapter_offset: 2475372
+  chapter_title: 'Parke & Buriel — 家庭社会化(种族 + 生态)'
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_followup_needed: 'SRC-027 用 PDF 字节偏移代页码 — 待加 page_pdf 反查工具'

@@ -1,0 +1,55 @@
+card_id: C-S5-1643
+stages: ['S5']
+tags: ['gross_motor', 'lerner_v1', 'thelen', 'walking', 'dynamic_systems']
+
+front:
+  title: "走步靠组装非月龄"
+  hook: "9-18 月都正常"
+
+back:
+  why_matters: |
+    9-12 月开始进入走步发展段 — Thelen dynamic systems 视角:
+    走步不是月龄解锁,是 4 个部件 self-organize 涌现:
+    1. 腿肌肉强度(支撑体重)
+    2. 平衡感(前庭 + 视觉空间)
+    3. 神经 motor cortex 成熟
+    4. 内在动机(想去某地)
+    4 个部件凑齐时间不同 — 不同娃 9 月到 18 月范围都正常。
+    Adolph 数据(Lerner V2)— 同月龄学走能力差异极大。
+    意义 — 中国家长 "12 月不走是不是有问题" 焦虑 → V1 + V2 综述:9-18 月范围,无需担心。
+    干预只在 18 月仍未尝试走或单侧使用异常时考虑。
+  what_to_do:
+    - "9-18 月走都正常"
+    - "不强求'几月学会'"
+    - "不学步车(干扰 self-organize)"
+    - "提供安全空间 + 跌倒缓冲"
+    - "17-18 月仍未尝试 → 看医生"
+  failure_mode: |
+    "12 月不走" 焦虑 — 错。9-18 月范围正常。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Thelen
+  - G-PERSON-Smith-LB
+  - G-TERM-dynamic-systems-theory
+  - G-TERM-self-organization
+
+related_cards:
+  - C-S0-1508
+  - C-S2-1502
+  - C-S5-012
+  - C-S5-012
+
+citation:
+  source_id: SRC-030
+  source_title: "Handbook of Child Psychology Vol 1: Theoretical Models of Human Development"
+  chapter: "Ch 6 Thelen & Smith"
+  chapter_offset: 1440888
+  chapter_title: 'Thelen & Smith — Dynamic Systems Theories'
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_followup_needed: 'SRC-030 用 PDF 字节偏移代页码 — 待加 page_pdf 反查工具'

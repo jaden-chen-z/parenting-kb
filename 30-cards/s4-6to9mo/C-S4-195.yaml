@@ -1,0 +1,68 @@
+card_id: C-S4-195
+stages: [S4]
+tags: [montessori, exploration, real-objects, environment]
+
+front:
+  title: 7-9 月真物探索篮
+  hook: 真厨具 > 塑料玩具
+
+back:
+  why_matters: |
+    Lillard Ch3 关键实操 — **7-9 月宝宝从看 mobile/rattle 转向"真物探索"**:
+    给宝宝一个**真物探索篮**(2-3 件家用真物):
+    - 木勺(中等大小,不锐)
+    - 金属漏勺(注意边缘)
+    - 真陶瓷小碗(允许打碎)
+    - 木质 / 金属物(不同材质,不同温度)
+    - 厨房刷子 / 海绵为什么真物 > 塑料玩具:
+    - 真物有**不同温度**(陶瓷凉 / 木头温)— 大脑感官输入丰富
+    - 真物有**不同重量**(金属重 / 塑料轻)— 学物理感
+    - 真物有**真表面**(粗糙木 / 光滑陶) — 触感学
+    - 真物**有意义**(妈妈也用) — 自我效能感
+    - 塑料玩具:温度同 + 重量轻 + 平滑 + 假 → 大脑学不到东西实操方法:
+    - 一篮 2-3 件真物
+    - 妈妈在旁监护
+    - 让宝宝自己拿 / 玩 / 放回
+    - 2 周后换其他物品(rotation,不是 substitution)
+    - 同物品 4-6 周后再现 → 宝宝当新的探索
+    - 物品按"类"分(厨具 / 卧室物 / 浴室物)
+    Lillard:**篮子分类是孩子大脑学"分类思维"的物理基础** — 这是后期阅读 / 写作 / 数学的基础。
+    跟"宝宝小给塑料玩具就好"主流**对立**。
+  what_to_do:
+    - 7-9 月起设真物探索篮
+    - 一篮 2-3 件,真材质
+    - 物品按类(厨房 / 卧室 / 浴室)
+    - 2 周换,4-6 周再现
+    - 妈妈在旁,让宝宝自玩自放
+  failure_mode: |
+    "真物危险,塑料玩具安全" — 反:监护下真物完全可控,塑料玩具反而剥夺感官学习。
+    一篮装 10+ 件 → 宝宝选择超载,无法专注。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Lillard
+  - G-PERSON-Jessen
+  - G-TERM-prepared-environment
+  - G-TERM-absorbent-mind
+
+citation:
+  book_title_zh: "蒙台梭利从 0 岁开始"
+  book_title_en: "Montessori from the Start"
+  authors: ["Paula Polk Lillard", "Lynn Lillard Jessen"]
+  authors_zh: ["宝拉·波尔克·莉拉德", "琳·莉拉德·杰森"]
+  publisher_en: "Schocken Books"
+  year_en: 2003
+  isbn_en: "978-0-8052-1112-1"
+  location: "Ch 3 · 'Discovering the World' (household objects basket)"
+  source_id: SRC-016
+
+unit_ids: []
+related_cards:
+  - C-S2-187       # Lillard 旋转 ≠ 换新
+  - C-S2-189       # Lillard 0-6 岁只给真实
+  - C-S7-133       # Lillard 2 岁切香蕉真钝刀
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

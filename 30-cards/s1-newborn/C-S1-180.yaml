@@ -1,0 +1,52 @@
+card_id: C-S1-180
+stages: [S1]
+tags: [development_burst, premature, controversy]
+
+front:
+  title: 早产宝宝跃迁按预产期算
+  hook: 按预产期不按出生日
+
+back:
+  why_matters: |
+    Wonder Week 跃迁时间表(5/8/12/19/26/37/46/55/64/75 周)
+    作者写的是从**受孕日**算起,等同于足月宝宝按出生日算。
+    早产宝宝按预产期校正,跃迁会比同周龄足月宝宝晚到。
+    晚产 / 过期产宝宝则比"标准时间"早出现跃迁。
+    例子:
+    - 早产 4 周宝宝出生第 5 周(实际孕周 41 周)→ 第一跃迁还要再等 4 周才到
+    - 晚产 2 周宝宝出生第 5 周(实际孕周 43 周)→ 第一跃迁会提前 2 周误判后果:早产家长会因为宝宝"不哭闹"而误以为发育落后,焦虑不必要;
+    或者"5 周该有的反应都没"反复就医。
+  what_to_do:
+    - 早产宝宝把所有跃迁日期推后(早产周数 = 推后周数)
+    - 晚产宝宝则相应提前
+    - 校正期最长用到 2 岁(WHO/AAP 一致)
+    - 跃迁后宝宝会"补"上之前缺的能力,不要急
+    - 双胞胎 / 三胞胎(常早产)跃迁也要校正
+  failure_mode: |
+    早产 6 周的宝宝按出生日算第 5 周跃迁 → 没出现烦躁信号 → 担心"是不是脑损伤"。
+    晚产 2 周宝宝第 3 周就出现 3 C 信号 → 以为是"特别敏感",其实正在跃迁。
+  evidence_level: B
+
+glossary_refs:
+  - G-TERM-wonder-week
+  - G-TERM-mental-leap
+
+citation:
+  book_title_zh: "婴儿大脑跃迁 10 周(神奇周)"
+  book_title_en: "The Wonder Weeks"
+  authors: ["Hetty van de Rijt", "Frans X. Plooij"]
+  authors_zh: ["海蒂·凡德里特", "弗朗斯·普洛伊"]
+  publisher_en: "Kiddy World Publishing"
+  year_en_first: 1992
+  isbn_en: "978-90-79208-12-1"
+  location: "Chapter 1 · The Timing of the fussy Phases(nature's timing for developmental leaps is actually calculated from the date of conception... If your baby was premature or very late, you should adjust the ages accordingly)"
+  source_id: SRC-013
+
+unit_ids: []
+related_cards:
+  - C-S1-179       # 10 个跃迁时间表
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

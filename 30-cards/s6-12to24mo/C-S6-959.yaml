@@ -1,0 +1,64 @@
+card_id: C-S6-959
+stages: [S6]
+tags: [pikler, 过渡, philosophy, source-de]
+
+front:
+  title: "婴幼儿过渡是连续不是切换"
+  hook: "12-24 月慢适应他人"
+
+back:
+  why_matters: |
+    皮克勒 1969 第 10 章"从婴儿期到幼儿期的过渡"核心立场:
+    从婴儿期到幼儿期不是"突然变化",是**连续过渡过程**。
+
+    皮克勒描述这个阶段任务:把孩子从"婴儿围栏 / 安静儿童室"
+    逐步引入"家庭日常生活 → 更大社群"。
+
+    立场转变(关键):
+    - **婴儿期**:大人按孩子需求来
+    - **幼儿期开始**:孩子开始适应他人 — 用皮克勒原话表达就是"世界不再围着他转"
+
+    但这个适应**不能突然 + 不能强迫** — 皮克勒强调要有"**很多耐心 + 充足时间**"。
+
+    跟蒙氏 0-3 三岁过渡 + 玛格达"RIE 不在 2 岁结束"(SRC-022 第 8 章末)
+    立场一致 — 12-24 月是关键建桥期。
+
+  what_to_do:
+    - 12-24 月开始引入"家庭节奏"(吃饭时间 + 睡觉时间)
+    - 不强迫 — 让孩子慢慢适应
+    - 看他能否参与日常(主动洗手 / 主动收玩具)
+    - 失败完全不评论 — 给时间
+    - 接纳"暂时退步"(回到婴儿行为)— 是正常过程
+
+  failure_mode: |
+    "1 岁了该懂事了" → 皮克勒反:1 岁不是"懂事"分水岭。
+    过渡是 1-3 年的过程。强迫"突然懂事"造成挫败 + 焦虑 + 拒绝模式。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Pikler
+  - G-TERM-geduld-pikler
+
+citation:
+  book_title_de: "Friedliche Babys – zufriedene Mütter"
+  book_title_zh: "和平的婴儿 — 满足的母亲"
+  authors:
+    - Emmi Pikler
+  publisher_de: HERDER (HERDER / SPEKTRUM Band 4141)
+  year: 1969
+  location: "Ch10 Übergang pp. 227-230"
+  source_id: SRC-026
+
+unit_ids: []
+related_cards:
+  - C-S7-403  # Gerber RIE 哲学不止 2 岁
+  - C-S6-461  # Gerber 幼儿不需要被教
+  - C-S6-465  # Gerber 自律靠自己接管
+  - C-S0-167  # Magda 7 大育儿原则
+  - C-S6-822  # 松田硬塞会变创伤
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

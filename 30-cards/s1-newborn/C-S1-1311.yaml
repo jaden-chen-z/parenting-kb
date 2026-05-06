@@ -1,0 +1,68 @@
+card_id: C-S1-1311
+stages: [S1]
+tags: [parenting_science, bornstein, newborn, lerner_v4]
+
+front:
+  title: 新生儿响应是基础
+  hook: 新生儿响应是基础
+
+back:
+  why_matters: |
+    Bornstein V4 Ch 22(新生儿期父母科学)。
+    **新生儿期父母核心 = 响应**:
+    - 响应**速度**:< 1 分钟最优
+    - 响应**准确**:看哭 / 不舒服 / 累分清楚
+    - 响应**情感温暖**:抱 + 软声 + 安慰
+    - 响应**一致**:同一行为同一回应
+    **Bornstein 立场反对 3 误区**:
+    - ❌ "让娃哭不会成毛病"(响应是依恋基础)
+    - ❌ "新生儿不懂回应"(实际很懂)
+    - ❌ "妈不响应爸响应也行"(主要照护人响应最关键)
+    **响应 vs 依恋**(Bornstein 综述):
+    - 0-3 月响应质量预测 12 月安全依恋(60% 相关)
+    - 不是"响应得多" 是 "响应得准"
+    - 这跟 Ainsworth 母性敏感(SRC-023)一致
+    **反"哭不抱"立场**:
+    - 松田、AAP、Ainsworth、Bornstein 全部一致
+    - "哭就抱"不会宠坏(早期需要)
+    - 6+ 月可逐步教等待跟现库:跟 V3 Thompson(C-S1-1000)+ Ainsworth 母性敏感(SRC-023)+ 松田 §67 抱不会成毛病(SRC-024)+ Brazelton 早期(SRC-010)对接。
+    对中国家长意义:
+    - 新生儿哭就抱(不会成毛病)
+    - 响应**准 + 一致** > "次数"
+    - 主要照护人响应最关键
+    - 0-3 月是响应黄金期
+  what_to_do:
+    - 新生儿哭就抱不成毛病
+    - '响应"准+一致" > "多"'
+    - 主要照护人响应关键
+    - 0-3 月响应黄金期
+  failure_mode: |
+    "哭不抱不成毛病"— 错。响应是依恋基础。
+    "新生儿不懂"— 错。实际很懂。
+    "谁响应都行"— 错。主要照护人最关键。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Bornstein
+  - G-TERM-parental-responsiveness
+  - G-PERSON-Ainsworth
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 4 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 4 卷"
+  authors: ['Marc H. Bornstein']
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 22 · Bornstein · Newborn responsiveness foundation · pp. 900-910"
+  source_id: SRC-029
+
+unit_ids: []
+related_cards:
+  - C-S1-1000     # V3 Thompson 早期社会理解
+  - C-S0-1231     # Bornstein 总论
+  - C-S2-546     # 松田 §67 抱不成毛病
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

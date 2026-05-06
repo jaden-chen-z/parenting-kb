@@ -1,0 +1,70 @@
+card_id: C-S6-928
+stages: [S6]
+tags: [shonkoff, nrc, tantrum, emotion_regulation, china_high_freq]
+
+front:
+  title: "崩溃是大脑还没长好"
+  hook: "崩溃不是孩子不听话"
+
+back:
+  why_matters: |
+    NRC 综述 Ch 5+8 给"toddler tantrum 崩溃" 的神经科学解释:
+    **机制**(NRC 综合):
+    1. **情绪脑(limbic 系统 + 脑干)**= 进化古老 + 出生即成熟
+    2. **理性脑(前额叶 PFC)**= 进化新 + 1 岁起爆 + 6 岁仍未成熟
+    3. **平衡决定**:情绪上来时 PFC 能否抑制
+    4. 1-3 岁 PFC 还在长 → 抑制能力弱 → 崩溃常发
+    **重要校准**:
+    - tantrum **不是道德问题** — 是发展程序
+    - tantrum **不是教得不好** — 是大脑还在长
+    - tantrum **不是娇气** — 是抑制脑力不够
+    - **3-6 岁** PFC 渐熟 → tantrum 自然减少
+    **跨文化**:全球 1-3 岁孩子都 tantrum — 是人类发展规律。
+    **NRC 应对原则**:
+    - 不强训"自己冷静"(跟脑发育对抗)
+    - 不羞辱 / 不打骂(增加 cortisol → 大脑学不到调节)
+    - 接受情绪 + 你做"外置 PFC" → 帮他冷静
+    - 事后用语言整理(语言能化解情绪)
+    **跟 Lansbury "I won't let you" + Brazelton 自主战场 + Bowlby 安全基地一致**。
+    **对中国家长**:
+    - 别说"他不听话" — 是大脑还没长好
+    - 别打骂 → 跟 PFC 发育对抗
+    - 你冷静 = 他冷静(他借你的 PFC)
+    - 6 岁前 tantrum 都属正常范围
+  what_to_do:
+    - 接受 tantrum 是发展
+    - 你冷静他才能冷静
+    - 别打骂别羞辱
+    - 事后用语言整理
+    - 6 岁前都正常
+  failure_mode: |
+    "他 2 岁了还崩溃 — 不像话" — 错,1-3 岁 PFC 还在长,崩溃在范围内。
+    "打一顿就老实" — cortisol 升 → PFC 发育受损 → 反加深崩溃倾向。
+    强迫"自己冷静" → 跳过发展阶段 → 学不到调节。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Shonkoff
+  - G-TERM-self-regulation
+  - G-TERM-prefrontal-cortex
+  - G-TERM-NRC
+
+citation:
+  book_title_en: "From Neurons to Neighborhoods"
+  authors: ["Jack P. Shonkoff", "Deborah A. Phillips"]
+  org: "NRC/IOM"
+  year_en: 2000
+  location: "Ch 5+8 · emotion regulation development + PFC maturation"
+  source_id: SRC-025
+
+unit_ids: []
+related_cards:
+  - C-S5-906    # Shonkoff PFC 1 岁起爆(本卷)
+  - C-S6-396    # Lansbury CEO 语调 SRC-019
+  - C-S6-816    # 松田 §329 撒娇 SRC-024
+  - C-S5-291    # Stern attunement SRC-018
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

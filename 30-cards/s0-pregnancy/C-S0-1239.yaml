@@ -1,0 +1,67 @@
+card_id: C-S0-1239
+stages: [S0]
+tags: [child_care, lamb_ahnert, lerner_v4]
+
+front:
+  title: 托育质量比身份重
+  hook: 质量比父母身份重
+
+back:
+  why_matters: |
+    Lamb-Ahnert V4 Ch 23 非父母托育综述章(380 KB 大章)。
+    **Quality > Quantity 立场**(Lamb-Ahnert 50+ RCT 综述):
+    - 父母 vs 托育"二选一"是假问题
+    - 真问题是**两个的质量**
+    - 高质量托育 + 高质量父母 = 最佳
+    - 低质量托育 + 高质量父母 = 中等
+    - 高质量托育 + 低质量父母 = 中等(托育能补)
+    - 低质量+低质量 = 最差
+    **父母仍是主体**(本章核心立场):
+    - 即使全天托育,父母 1-2 小时高质量互动 > 8 小时低质量
+    - 不是"托育 vs 父母"零和,是 additive
+    意义:
+    - 反"全职妈才好"立场
+    - 反"托育越久越好"立场
+    - 不是"谁带"是"怎么带"
+    - 中国双工家庭核心痛点直接回应跟现库:跟 Shonkoff NRC Quality > Quantity(SRC-025)+ Brazelton 选托育(SRC-010)对接。
+    对中国家长意义:
+    - 双工没必要焦虑
+    - 托育选质量,自己保高质量陪伴
+    - 全职妈低质量比双工高质量差
+    - "谁带"不重要,"怎么带"才是关键
+  what_to_do:
+    - '不必"全职 vs 双工"二选'
+    - 托育选质量(师生比+稳定)
+    - 回家保 1-2 小时高质量
+    - 自己放松也是高质量
+  failure_mode: |
+    "全职妈才好"— 错。质量决定不身份。
+    "托育越久越好"— 错。质量+父母互动并重。
+    "自己带就是好"— 错。低质量自带不如高质量托育。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Lamb
+  - G-PERSON-Ahnert
+  - G-TERM-child-care-quality
+  - G-TERM-NICHD-ECCS
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 4 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 4 卷"
+  authors: ['Michael E. Lamb', 'Lieselotte Ahnert']
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 23 · Lamb-Ahnert · Nonparental child care quality · pp. 950-970"
+  source_id: SRC-029
+
+unit_ids: []
+related_cards:
+  - C-S6-933     # Shonkoff 托育质量
+  - C-S8-212     # Shonkoff 看回应不看身份
+  - C-S6-031     # Brazelton 选托育
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

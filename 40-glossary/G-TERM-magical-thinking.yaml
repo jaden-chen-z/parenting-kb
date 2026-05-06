@@ -1,0 +1,89 @@
+glossary_id: G-TERM-magical-thinking
+type: term
+display_name: 魔法思维(magical thinking)
+
+full_name_en: Magical Thinking
+full_name_zh: 魔法思维(魔法式思考)
+
+one_liner: |
+  皮亚杰 + 发展心理学经典概念:**2-7 岁幼儿期普遍的思维模式**,认为自己的想法 / 愿望 / 行为可以**直接影响外部事件**(包括他人健康 / 死亡 / 离开)。
+  在丧失场景中表现为:**孩子认为亲人去世 / 病了 / 离开是因为自己淘气 / 不乖 / 想过坏念头**。
+
+detail: |
+  ## 来源 + 概念
+  - 皮亚杰(Piaget)前运算期(preoperational stage)2-7 岁的核心特征之一
+  - 也称 "egocentric thinking" 自我中心思维 / "phenomenism" 现象论
+  - Bowlby 在 Vol 3 多处引用作为儿童哀伤特殊机制
+  - 弗洛伊德先期理论 + 儿童精神分析(Anna Freud / Klein)反复提及
+
+  ## 在儿童哀伤中的表现
+  ### 典型自责场景
+  - "上周我不听奶奶话 → 奶奶生病了"
+  - "前几天我跟妈妈吵 → 妈妈出车祸了"
+  - "我希望弟弟消失 → 弟弟生病了"
+  - "我不喜欢爸爸 → 爸爸离开了"
+  - "我哭了 → 妈妈被吓走了"
+
+  ### 关键:孩子可能不会主动说出来
+  - 内疚是潜在的 / 不被表达的
+  - 但会通过行为表现:过度听话 / 自我惩罚 / 反复"问题行为"求注意
+
+  ## Bowlby 应对策略(Vol 3 Ch16 温蒂案例)
+  咨询师让父亲**主动**告诉温蒂:
+  > "你偶尔生妈妈气的想法**不会**影响妈妈的健康。"
+  > "妈妈生病死了**不是**因为你做了什么。"
+  在母亲病重期间反复确认。
+
+  温妮案例(2 岁半失母):治疗师建议父亲讲:
+  > "有些小女孩会以为是自己淘气导致妈妈生病死亡 — 但事实不是这样。"
+
+  ## 关键原则(Bowlby + 发展心理学综合)
+  1. **主动说,不要等孩子问** — 孩子可能内疚但不表达
+  2. **不只一次,在不同时刻反复说** — 一次澄清不够
+  3. **解释具体客观原因**(生病 / 老了 / 病毒)— 替代孩子的"魔法"解释
+  4. **不让其他亲戚说"你看你不听话奶奶气病了"** — 这种话直接证实孩子的魔法思维
+  5. **观察孩子异常自责行为** — 自我惩罚 / 过度听话 / 反复道歉
+
+  ## 跟其他相关概念
+  - **客体永存**(G-TERM-object-permanence):2 岁左右建立 — 让孩子知道亲人不在不等于不存在
+  - **病理性哀伤**(G-TERM-pathological-mourning):魔法思维 + 没人澄清 = 慢性内疚 → 病理化
+  - **强迫性自责**(成年):童年魔法式内疚未被澄清的延续
+
+  ## 中国家庭文化背景
+  - "你看你不听话 / 把奶奶气病了" — 直接强化魔法思维
+  - "都怪你" — 把责任丢给孩子
+  - 老人生病前刚批评过孩子 → 孩子默默自责 → 没人澄清 → 内化
+  - 儿童心理咨询常见的 "无来由的内疚 / 抑郁" 多源自此
+
+  ## 在本知识库中
+  - C-S7-241 告诉娃不是他的错(直接应用)
+  - C-S7-247 爷奶去世跟娃讲(中国场景)
+  - G-TERM-childhood-mourning(背景理论)
+  - G-PERSON-Piaget(2-7 岁前运算期理论作者)
+
+key_facts:
+  - 2-7 岁普遍思维模式
+  - 认为自己想法/行为能影响外部
+  - 丧失场景中表现为自责
+  - 孩子可能不主动表达
+  - 必须大人主动反复澄清
+
+related_glossary:
+  - G-PERSON-Piaget
+  - G-PERSON-Bowlby
+  - G-TERM-childhood-mourning
+  - G-TERM-pathological-mourning
+  - G-TERM-object-permanence
+
+related_cards:
+  - C-S7-241        # 告诉娃不是他的错
+  - C-S7-247        # 爷奶去世跟娃讲
+
+sources:
+  - source_id: SRC-017
+  - external: "Bowlby (1980) Vol 3 Ch 16 + Ch 23 / Piaget Preoperational stage (1929 The Child's Conception of the World)"
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

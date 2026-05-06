@@ -1,0 +1,28 @@
+glossary_id: G-TERM-developmental-science
+type: term
+display_name: "发展科学 / developmental science"
+
+name_en: "developmental science"
+name_zh: "发展科学"
+
+description: |
+  Lerner 倡导名词 — 取代 "developmental psychology" 单一学科。
+  是 心理 + 神经 + 遗传 + 社会 + 教育 + 政策 跨学科综合。
+
+one_liner: |
+  发展科学(developmental science)— Lerner 倡导名词 — 取代 "developmental psychology" 单一学科。
+
+key_facts:
+  - "Lerner V1 元理论卷核心术语"
+  - "学派:Lerner V1 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

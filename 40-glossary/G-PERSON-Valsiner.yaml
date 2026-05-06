@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Valsiner
+type: person
+display_name: "Valsiner(雅安·瓦尔西纳)"
+
+full_name_en: "Jaan Valsiner"
+full_name_zh: "雅安·瓦尔西纳"
+
+position: |
+  Clark University 心理学教授
+
+contribution: |
+  文化心理学 + cultural construction + 个体-文化共建构
+
+one_liner: |
+  雅安·瓦尔西纳 — 文化心理学 + cultural construction + 个体-文化共建构
+
+key_facts:
+  - "本卷章节:Ch 4"
+  - "Lerner V1 命中:200+ 次"
+  - "学派:Lerner V1 文化心理派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+    chapter: "Ch 4"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

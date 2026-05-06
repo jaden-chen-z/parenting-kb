@@ -1,0 +1,50 @@
+# ═══════════════ S4(6-9 月)5 张 ═══════════════
+card_id: C-S4-2244
+stages: [S4]
+tags: [safety, red_flag]
+
+front:
+  title: 蜜蜂叮咬:刮不挤 + 过敏 4 项
+  hook: 全身荨麻疹立刻打 911
+
+back:
+  why_matters: |
+    宝宝爬 / 走后户外蛰咬高发。海蒂错误操作警告:
+    **不能用镊子或手指挤蜂刺**(挤会注更多毒素),应**刮**(信用卡 / 钝刀 / 指甲)。
+    **过敏反应**(anaphylaxis)红线:全身荨麻疹 / 呼吸困难 / 头晕 / 面舌肿 / 虚弱昏厥
+    → **立刻打 911 + 急诊**,有 EpiPen 立即用。
+    第一次被蛰若有这些症状 → 后续可能升级,医生会建议做过敏测试。
+  what_to_do:
+    - 刮出蜂刺(信用卡边 / 钝刀)— 不要挤压
+    - 蜱虫:镊子贴皮捏头部稳拔(不扭/不挤);怀疑莱姆病通知医生
+    - 肥皂水洗 + 冰敷 10-15 分钟止痒消肿
+    - 涂炉甘石液(不用含抗组胺洗剂)
+    - 过敏 4 红旗:全身疹 / 呼吸难 / 面舌肿 / 头晕昏厥 → 911
+  failure_mode: |
+    用凡士林 / 火柴试图"闷死"蜱虫 → 它呕回更多病原体。
+    挤蜂刺 → 注更多毒。
+    过敏体质宝宝外出无 EpiPen → 严重蛰伤致死。
+    "孩子第一次被蛰没事就不会过敏" → 二次叮咬可能更严重。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-AAP
+
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1 岁"
+  authors: [Heidi Murkoff, Sharon Mazel]
+  publisher_en: Workman Publishing
+  publisher_zh: 南海出版公司(新经典发行)
+  year: 1989
+  edition: 3rd (2014)
+  location: "第 19 章《急救常识》'昆虫叮咬 5',570-571 页中译"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards: [C-S1-061]
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

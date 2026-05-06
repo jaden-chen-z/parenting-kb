@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-De-Corte
+type: person
+display_name: "Corte(埃里克·德科尔特)"
+
+full_name_en: "Erik De Corte"
+full_name_zh: "埃里克·德科尔特"
+
+position: |
+  University of Leuven, Belgium
+
+contribution: |
+  真实情境数学教育(RME)欧洲学派
+
+one_liner: |
+  埃里克·德科尔特 — 真实情境数学教育(RME)欧洲学派
+
+key_facts:
+  - "本卷章节:Ch 4 主笔"
+  - "Lerner V4 命中:15 次"
+  - "学派:Lerner V4 应用心理学派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-029
+    chapter: "Ch 4 主笔"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

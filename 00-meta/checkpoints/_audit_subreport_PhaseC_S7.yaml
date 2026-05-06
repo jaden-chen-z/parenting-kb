@@ -1,0 +1,31 @@
+stage: S7
+total_cards_in_stage: 150
+key_findings:
+  L1_real_dedup:
+    - {id: S7-MC-04, topic: ToM/Sally-Anne/False Belief, cards: [C-S7-129, C-S7-1098, C-S7-1007, C-S7-862], overlap: 75%, action: MERGE 1098+1007(都是 Wellman 5 阶段量表,Lerner 综述 1098 主卡保留 + 1007 改写聚焦 Thompson 道德良知/温暖优于规则)}
+  L4_intra_source_merge_review:
+    - {id: S7-MC-06-sub, topic: Gerber 同节兄弟竞争, cards: [C-S7-404, C-S7-553], action: MERGE_REVIEW 404 vs 553(同 Magda Ch8 §Sibling Rivalry,553 加 Faber 类比可保留为主)}
+  L2_keep_parallel:
+    - {id: S7-MC-01, topic: 如厕训练 4 派(toilet learning vs training), cards: [C-S7-007, C-S7-018, C-S7-552, C-S7-405], action: 派别立场分歧本身是知识价值,wiki 建 4 派对照表}
+    - {id: S7-MC-05, topic: Bowlby V3 丧失 sub-stage, cards: 21 张同源(SRC-017), action: KEEP_PARALLEL — 单源系统化展开,加跨派 cross-link(024/237/247 + 244 二胎簇 + 041 拒学等)}
+    - {id: S7-MC-06, topic: 兄弟姐妹竞争二胎, sources: 5 派, cards: [C-S7-023, C-S7-244, C-S7-404, C-S7-553, C-S7-1006, C-S7-1100, C-S7-1101], action: 跨派 5 视角并陈,内部 404/553 dedup}
+    - {id: S7-MC-07, topic: SEL/情绪应对/自调节 2-3 岁, sources: 4 派, cards: [C-S7-998, C-S7-1318, C-S7-1314, C-S7-861, C-S7-755, C-S7-757]}
+  L3_anti_helicopter:
+    - {id: S7-MC-08, topic: 反 helicopter parenting, sources: Bowlby/Lerner V1+V4, cards: [C-S7-043, C-S7-1318, C-S7-042, C-S7-1606, C-S7-1608], action: cross-link 加强}
+hotspot_findings:
+  hotspot_1_toilet_training: 4 派齐全(鲍/Brazelton/Gerber/Lansbury),立场分歧保留
+  hotspot_2_mchat_autism: 4 派覆盖(鲍/Brazelton/V4 Powell/Gopnik),M-CHAT 仅 1317 直接命名
+  hotspot_3_tom_sally_anne: ★ 本 stage 唯一 L1 候选(1098+1007 Wellman 量表)
+  hotspot_4_bowlby_v3_loss: 21 张同源 sub-stage,跨派 cross-link 11 处建议
+  hotspot_5_sel_anti_helicopter: 多派覆盖,Gottman emotion coaching 派完全缺位(KB 全局 gap)
+gaps_for_future:
+  - "Gottman emotion coaching 派完全缺位"
+  - "Lillard 蒙氏 toilet training 12-18m 时机未独立成卡"
+  - "海蒂/松田 toilet training 视角未独立成卡"
+notes: |
+  S7 共 150 卡 / 24 SRCs。
+  本 stage 在 ToM/SEL/loss 三个高密度区已较饱和。
+  唯一 L1 高重叠:1098 + 1007(Wellman 量表)— 见 MC-04。
+  L4 同源近重 review:404 + 553(Gerber Ch8 同节)。
+  其他 6 cluster KEEP_PARALLEL — 派别分歧本身是 KB 价值。
+  跨派 cross-link 建议 11 处优先执行(不必拆/合并即可改善检索)。

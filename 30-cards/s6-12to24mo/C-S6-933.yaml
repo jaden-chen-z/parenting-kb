@@ -1,0 +1,70 @@
+card_id: C-S6-933
+stages: [S6]
+tags: [shonkoff, nrc, child_care_quality, china_high_freq]
+
+front:
+  title: "好托育胜全职妈"
+  hook: "托育质量比身份重要"
+
+back:
+  why_matters: |
+    NRC 综述 Ch 11 给"母亲就业 vs 托育"的科学结论:
+    **NICHD ECCS 大型 RCT**(NRC 引):
+    - 全美 10 城 1300 个孩子 0-7 岁跟踪
+    - 比较"母亲全职带" vs "高质量托育" vs "低质量托育"
+    **数据**:
+    - **高质量托育**:孩子语言 / 认知 / 社交 → **不输全职妈**(部分指标更好)
+    - **低质量托育**:孩子各项指标 → 落后全职妈
+    - **质量是分水岭** — 不是"在哪带"
+    **高质量托育 4 元素**:
+    1. **稳定的主要照护人**(child-caregiver ratio 1:3-1:4 0-2 岁)
+    2. **高敏感度回应**(类似母婴 attunement)
+    3. **小班 + 充足材料 + 安全空间**
+    4. **照护人受过儿童发展培训**
+    **NRC 立场**:
+    - 反"全职妈是金标准"文化
+    - 反"上班妈对孩子心理伤害大"恐慌
+    - 关键看托育质量,不看母亲身份
+    - 经济允许 → 高质量托育中心 OK
+    - 经济不允许 → 选低成本但稳定 + 敏感度的看护(老人 / 小型 daycare)
+    **跟 Lansbury / 松田立场一致** — 都重质量过结构。
+    **对中国家长**:
+    - 上班妈不必内疚 — 质量比身份重要
+    - 选托育看 4 元素 — 不看豪华装修
+    - 老人带也能高质量 — 看老人敏感度
+    - 频繁换主要照护人 = 低质量(关系不稳定)
+  what_to_do:
+    - 看托育质量 4 元素
+    - 别迷豪华装修
+    - 老人带可以高质量
+    - 主要照护人保稳定
+    - 上班妈不必内疚
+  failure_mode: |
+    "全职妈才是好妈" — NRC 数据反驳:质量决定不是身份。
+    "高端托育 = 高质量" — 不一定,看 4 元素而非装修。
+    频繁换托育 / 频繁换保姆 → 关系不稳定 = 低质量 = 损害发展。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Shonkoff
+  - G-PERSON-Phillips
+  - G-TERM-NRC
+
+citation:
+  book_title_en: "From Neurons to Neighborhoods"
+  authors: ["Jack P. Shonkoff", "Deborah A. Phillips"]
+  org: "NRC/IOM"
+  year_en: 2000
+  location: "Ch 11 · NICHD ECCS child care research"
+  source_id: SRC-025
+
+unit_ids: []
+related_cards:
+  - C-S2-550    # 松田 §117 集体保育 SRC-024
+  - C-S4-806    # Shonkoff 依恋质量(本卷)
+  - C-S6-396    # Lansbury 高质量托育 SRC-019
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,62 @@
+card_id: C-S5-127
+stages: [S5]
+tags: [development_burst, controversy]
+
+front:
+  title: 46 周第七跃迁:序列世界
+  hook: 10 月开始"组装"东西
+
+back:
+  why_matters: |
+    第 46 周(42-46 周 ≈ 10.7 月)是 Wonder Week 第七跃迁 — **序列世界**(World of Sequences)。
+    怎么回事:大脑从"分类"升级到能理解**事情的次序** —
+    要做一件事必须按特定顺序完成多步:
+    - 之前是"拆":拆玩具 / 砸东西
+    - 现在是"装":把东西按顺序放进盒子 / 拼起来 / 套起来 / 叠起来
+    - 学会先看孔形再选积木 / 先瞄准再叠跃迁前烦躁 阶段(40-44 周)持续 3-7 周(本书最长之一)。
+    跃迁后宝宝立刻:
+    - 把积木叠起来(以前是推倒)
+    - 拼套环 / 配对形状板
+    - 模仿动作序列(看妈妈做就跟着做)
+    - 理解"先后"概念(吃完饭再玩 / 穿衣服再出门)
+    家长意义:**10 月宝宝突然爱"装"东西、爱模仿、跟你"配合"做事**,跃迁第一波"配合度"出现。
+  what_to_do:
+    - 42-46 周 3 C 信号 → 第七跃迁
+    - 提供套环 / 拼图 / 形状配对玩具
+    - 让宝宝看你做家务并模仿(扫地 / 折毛巾)
+    - 用"先 X 再 Y"句式说话(培养序列感)
+    - 跃迁完成后是"教会简单指令"的窗口
+  failure_mode: |
+    "10 月宝宝跟我对着干"(其实是序列大脑发现"我做完这步妈妈才高兴"的因果)。
+    把跃迁期烦躁误判为"出牙 / 累了"。
+    跃迁后宝宝模仿不当行为 → 责怪宝宝(她没有"对错"概念,只有"模仿"程序)。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-vanderijt
+  - G-TERM-wonder-week
+  - G-TERM-mental-leap
+  - G-TERM-3C-signs
+  - G-TERM-fussy-phase
+
+citation:
+  book_title_zh: "婴儿大脑跃迁 10 周(神奇周)"
+  book_title_en: "The Wonder Weeks"
+  authors: ["Hetty van de Rijt", "Frans X. Plooij"]
+  authors_zh: ["海蒂·凡德里特", "弗朗斯·普洛伊"]
+  publisher_en: "Kiddy World Publishing"
+  year_en_first: 1992
+  isbn_en: "978-90-79208-12-1"
+  location: "Chapter 9 · Wonder Week 46: The World of Sequences(at around 46 weeks... your baby is ready to discover the world of sequences. He can begin to realize that to reach many of his goals, he has to do things in a certain order)"
+  source_id: SRC-013
+
+unit_ids: []
+related_cards:
+  - C-S5-126       # WW37 分类世界
+  - C-S5-128       # 10 月撒娇也是 fussy 信号
+  - C-S6-122       # WW55 程序世界(下一跃迁)
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

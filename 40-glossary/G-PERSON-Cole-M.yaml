@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Cole-M
+type: person
+display_name: "Cole-M(迈克尔·科尔)"
+
+full_name_en: "Michael Cole"
+full_name_zh: "迈克尔·科尔"
+
+position: |
+  University of California, San Diego
+
+contribution: |
+  文化心理学 + Vygotsky 美国引介 + 跨文化认知
+
+one_liner: |
+  迈克尔·科尔 — 文化心理学 + Vygotsky 美国引介 + 跨文化认知
+
+key_facts:
+  - "本卷章节:Ch 4, 13"
+  - "Lerner V1 命中:50+ 次"
+  - "学派:Lerner V1 文化心理派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+    chapter: "Ch 4, 13"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

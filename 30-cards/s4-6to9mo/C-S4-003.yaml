@@ -23,6 +23,20 @@ back:
     10 月仍完全不找消失物(掀不掀都无反应)→ 找医生评估认知。
   evidence_level: A
 
+  positions:
+    issue: 物体永久性月龄 — 8-10 月还是 4 月
+    views:
+      - school: Piaget / 鲍秀兰
+        source: SRC-009
+        stance: 8-10 月成熟(行为版)— 用动作测,孩子能找盖布下藏起的物体。
+      - school: Spelke / Gopnik
+        source: SRC-015
+        stance: 4 月就有雏形(认知版)— violation-of-expectation 范式测惊讶反应,雏形早在 4 月。
+      - school: AAP
+        source: SRC-004
+        stance: 8-10 月萌芽(主流行为派立场,临床观察一致)。
+      - school: 学界争议
+        stance: Heyes 2014 等批评 violation-of-expectation 范式可能过度解读;两者层级不同,都对。
 glossary_refs:
   - G-ABBR-AAP
   - G-TERM-object-permanence

@@ -1,0 +1,62 @@
+glossary_id: G-PERSON-Gerber
+type: person
+display_name: Gerber (玛格达·格伯)
+
+full_name_en: Magda Gerber
+full_name_zh: 玛格达·格伯
+
+one_liner: |
+  1910-2007 匈牙利裔美国教育家,RIE(Resources for Infant Educarers)创始人,**Yes Space 概念命名者**。
+  跟蒙氏 0-3 平行的"尊重式婴儿照护"流派创立人,影响了 Davies / Lansbury 等当代蒙氏 / RIE 教育者。
+
+detail: |
+  ## 生平
+  - **1910 年**生于匈牙利布达佩斯
+  - 在匈牙利师从 **Emmi Pikler 医生**(Pikler 研究所创始人,主张 movement freedom + floor bed)
+  - **1956 年**移民美国洛杉矶
+  - **1978 年**创办 RIE(Resources for Infant Educarers)
+  - **2007 年**洛杉矶逝世
+
+  ## RIE 核心理念
+  1. **基本信任**(basic trust)— 跟蒙氏的"两份信任"概念高度重合
+  2. **尊重宝宝**(respect)— 宝宝是有意识的人,不是"小动物"
+  3. **观察 + 等待**(observation + tarry time)— 不打断
+  4. **自主玩耍**(uninterrupted play)— 不需要大人娱乐
+  5. **Yes Space**(可探索区)— 全部安全 + 无需说"不"的空间
+  6. **真实告知**(authentic communication)— 抱前先说,不偷溜
+
+  ## 跟蒙氏的关系
+  - **同根**(都受 Pikler 影响)
+  - **平行流派**,理念高度重合 80%+
+  - Davies 在原书反复引用 Gerber 的"Yes Space"+ "tarry time"+ "passive toys / active children"
+
+  ## 主要著作
+  - 1998《Your Self-Confident Baby》(自信的宝宝) — RIE 经典
+  - 跟 Allison Johnson 合著
+  - 已被 Janet Lansbury(《Elevating Child Care》作者)继承发扬
+
+  ## 在中文社群影响
+  - 知名度低于蒙氏,但近年被 RIE 派(Lansbury)推广
+
+key_facts:
+  - 1910-2007 匈牙利裔美国教育家
+  - RIE 创始人(1978)
+  - Yes Space 概念命名者
+  - 受 Emmi Pikler 影响
+  - 跟蒙氏平行的尊重派流派
+
+related_glossary:
+  - G-PERSON-Davies
+  - G-PERSON-Montessori
+  - G-TERM-yes-space
+
+related_cards: []
+
+sources:
+  - source_id: SRC-014
+  - external: RIE 官网 rie.org / Magda Gerber《Your Self-Confident Baby》
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

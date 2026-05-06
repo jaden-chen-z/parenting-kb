@@ -1,0 +1,28 @@
+glossary_id: G-TERM-proximal-processes
+type: term
+display_name: "近端互动 / proximal processes"
+
+name_en: "proximal processes"
+name_zh: "近端互动"
+
+description: |
+  Bronfenbrenner 概念 — 父母跟娃每天反复互动的具体活动是发展引擎。
+  超过教育产品 + 专业课 + 设备。
+
+one_liner: |
+  近端互动(proximal processes)— Bronfenbrenner 概念 — 父母跟娃每天反复互动的具体活动是发展引擎。
+
+key_facts:
+  - "Lerner V1 元理论卷核心术语"
+  - "学派:Lerner V1 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

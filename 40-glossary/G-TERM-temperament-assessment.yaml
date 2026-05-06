@@ -1,0 +1,22 @@
+glossary_id: G-TERM-temperament-assessment
+type: term
+display_name: "气质评估"
+
+one_liner: |
+  通过问卷或观察评估婴儿/儿童气质;IBQ + CBQ 是标准工具。
+
+detail: |
+  通过问卷或观察评估婴儿/儿童气质;IBQ + CBQ 是标准工具。
+
+  来源:Lerner V3《Handbook of Child Psychology Vol 3》(Wiley 2006 第 6 版,Eisenberg 主编)。
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-027
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

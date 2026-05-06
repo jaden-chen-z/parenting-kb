@@ -1,0 +1,63 @@
+card_id: C-S8-218
+stages: [S8]
+tags: [shonkoff, nrc, working_poor, shift_work, china_high_freq]
+
+front:
+  title: "穷忙比穷闲伤娃"
+  hook: "工作类型也很重要"
+
+back:
+  why_matters: |
+    NRC 综述 Ch 10 给"父母工作 vs 育儿质量"精确科学结论 — 比 C-S8-212 更细:
+    **关键发现**:
+    - 不是"上班 vs 全职"二元决定育儿质量
+    - 是**工作类型 + 时间**决定:
+      1. **shift work 倒班** — 上夜班的妈妈离婚率比正常班 **3-6 倍**
+      2. **working poor 穷忙族** — 父母双全职 + 仍贫困 = 美国增长最快家庭类型
+      3. **低复杂度 / 重复性 / 长时间工作** → 父母认知 / 育儿质量降
+      4. **shift / 不稳定** → 育儿规律乱
+    **机制**(Menaghan-Parcel 1995):
+    - 单亲妈进入低复杂度低薪工作 → 家居环境质量明显降
+    - 高压力 / 不灵活 / 倒班 → 父母没"心思"陪
+    **NRC 立场关键校准**:
+    - 全职妈不是金标准 — 高质量陪伴胜过低质量长时间(C-S8-212)
+    - **但**:**工作质量**对育儿质量有反作用 — 高压低薪倒班 → 育儿质量难保
+    **对中国家长**:
+    - 选工作时考虑"工作 vs 家庭"权衡
+    - 压力大 + 长时间 + 倒班 → 育儿质量易降 — 警觉
+    - 经济允许 → 选灵活时间 / 中等压力工作 — 反而对家庭有利
+    - "为家庭多挣点拼了命" → 可能反向伤娃跟松田 §1 不焦虑育儿 + Lansbury "为娃放慢" 立场一致。
+  what_to_do:
+    - 工作压力大要警觉
+    - 倒班影响家庭质量
+    - 灵活时间胜过高薪
+    - 别为家庭拼了命
+    - 平衡才是真长远
+  failure_mode: |
+    "我多加班多挣钱 — 给娃更好生活" — 工作压力 → 育儿质量降 → 反向伤娃。
+    "穷忙比穷闲好 — 起码努力" — 错,working poor 育儿质量也低。
+    "倒班赚得多" — 离婚率上升 + 婚姻不稳 → 给娃创伤源。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Shonkoff
+  - G-TERM-NRC
+
+citation:
+  book_title_en: "From Neurons to Neighborhoods"
+  authors: ["Jack P. Shonkoff", "Deborah A. Phillips"]
+  org: "NRC/IOM"
+  year_en: 2000
+  location: "Ch 10 · Working poor + shift work data"
+  source_id: SRC-025
+
+unit_ids: []
+related_cards:
+  - C-S8-212    # Shonkoff 妈上班(本卷)
+  - C-S6-933    # Shonkoff 托育质量(本卷)
+  - C-S0-517    # 松田 不焦虑 SRC-024
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

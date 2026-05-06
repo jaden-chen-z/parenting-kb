@@ -1,0 +1,59 @@
+card_id: C-S5-800
+stages: [S5]
+tags: [breastfeeding, weaning, working_mom, matsuda]
+
+front:
+  title: "上班妈夜里多吃就多吃"
+  hook: "时间少奶补回来"
+
+back:
+  why_matters: |
+    松田 §273 给职场妈妈最人性化的立场：
+    1. 9 月还断不了母乳的婴儿不必硬断;
+    2. 只要不影响代乳食品就喂;
+    3. 整天缠着不吃饭才考虑停;
+    4. 关键例外:**上班妈妈** —
+       夜里跟婴儿睡 + 吃母乳入睡 + 1-2 次醒来要吃 = **继续喂**;
+    5. 理由:跟妈妈在一起时间少，
+       要在短时间里"最大限度享受母爱"。
+    立场比 AAP 12 月可断 / WHO 2 岁内随心更柔，
+    专门给双职工妈妈一层定心。
+
+  what_to_do:
+    - 9 月母乳断不了别强断
+    - 看是否影响代乳食 — 不影响就留
+    - 上班妈夜里多喂是补偿
+    - 苦黄连贴乳头那套手段是底线
+    - 1.5-2 岁孩子自己拒喂的那天再算
+
+  failure_mode: |
+    上班妈妈最容易被双重夹击：
+    - 同事说"你还在喂奶？" → 心理压力
+    - 婆婆说"过 1 岁就该断" → 强制断奶 → 妈妈累 + 孩子哭
+    - 育儿群说"再喂会蛀牙" → 焦虑加倍松田立场: 上班妈夜里喂母乳是"母爱补偿" — 时间稀缺质量补。
+    AAP / WHO 也支持 1-2 岁内继续喂 — 全部支持继续。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Matsuda
+
+citation:
+  book_title_zh: "定本育儿百科"
+  authors:
+    - 松田道雄
+  publisher_ja: 岩波书店
+  year_first_edition: 1967
+  location: "§273 母乳仍然断不了时"
+  source_id: SRC-024
+
+unit_ids: []
+related_cards:
+  - C-S5-023  # Brazelton 9 月断奶不必赶
+  - C-S2-699  # 松田 上班妈不必负全责(同源职场妈妈)
+  - C-S6-670  # 松田 8 月母乳别强断(同源策略)
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

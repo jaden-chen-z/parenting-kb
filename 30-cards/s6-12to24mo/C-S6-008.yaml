@@ -21,7 +21,7 @@ back:
   failure_mode: |
     哭闹时大声呵斥或马上让步 → 都强化哭闹策略。
     隔离时间过长(超 2 分)→ 宝宝忘了为什么。
-  evidence_level: C
+  evidence_level: B
 
 glossary_refs:
   - G-PERSON-Bao

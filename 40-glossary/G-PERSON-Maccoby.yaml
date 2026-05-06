@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Maccoby
+type: person
+display_name: "Maccoby(埃莉诺·麦科比)"
+
+full_name_en: "Eleanor E. Maccoby"
+full_name_zh: "埃莉诺·麦科比"
+
+position: |
+  Stanford 心理学教授
+
+contribution: |
+  父母教养 4 类型;性别发展 + 性别隔离玩;Baumrind 合作
+
+one_liner: |
+  埃莉诺·麦科比 — 父母教养 4 类型;性别发展 + 性别隔离玩;Baumrind 合作
+
+key_facts:
+  - "本卷章节:Ch 8, Ch 14"
+  - "Lerner V3 命中:113 次"
+  - "学派:Lerner V3 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-027
+    chapter: "Ch 8, Ch 14"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

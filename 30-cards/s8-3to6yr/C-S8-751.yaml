@@ -1,0 +1,74 @@
+card_id: C-S8-751
+stages: [S8]
+tags: [child_care, lamb_ahnert, lerner_v4]
+
+front:
+  title: 托育看 5 维质量
+  hook: 托育看 5 维质量
+
+back:
+  why_matters: |
+    Lamb-Ahnert V4 Ch 23(S8 学龄前实操)。
+    **托育 5 维度质量**(NICHD ECCS + Lamb 综述):
+    - **师生比**:< 1:8 是理想,> 1:15 减效
+    - **班级稳定**:老师不轻易换
+    - **课程**:DAP 取向(玩+探索 vs 学业)
+    - **互动质量**:warm + responsive vs cold + rule-bound
+    - **健康安全**:卫生 + 户外 + 营养
+    **Lamb-Ahnert 关键发现**:
+    - 5 维度独立 — 一个好不等于全好
+    - **互动质量**最强预测发展(比师生比强)
+    - 有些**低师生比但 cold**比**高师生比但 warm**差
+    - 看老师 vs 娃的互动是否 warm + responsive
+    **选幼儿园 5 步法**:
+    - 师生比合理(< 1:10)
+    - 班主任稳定 1 年+
+    - 课程 DAP 不学业前移
+    - **观察老师跟娃的互动质量**
+    - 卫生 + 营养 + 户外有保障
+    **反 3 误区**:
+    - ❌ "师生比低就好"(还要看互动)
+    - ❌ "硬件好就好"(关系比硬件重要)
+    - ❌ "贵就是好"(学费 ≠ 质量)
+    跟现库:跟 C-S0-1239 Lamb 质量 vs 数量 + Shonkoff 托育(C-S6-933)+ Brazelton 选托育(SRC-010)对接。
+    对中国家长意义:
+    - 选幼儿园看 5 维度
+    - 老师跟娃互动是否 warm + responsive
+    - 不光看硬件 / 学费
+    - 班主任稳定性很重要
+  what_to_do:
+    - 选园看 5 维度都到位
+    - 观察老师互动 warm 否
+    - 不光看硬件学费
+    - 看班主任稳定性
+  failure_mode: |
+    "师生比低就好"— 错。互动质量更强。
+    "硬件好就好"— 错。关系是核心。
+    "贵就是好"— 错。学费 ≠ 质量。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Lamb
+  - G-PERSON-Ahnert
+  - G-TERM-child-care-quality
+  - G-TERM-NICHD-ECCS
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 4 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 4 卷"
+  authors: ['Michael E. Lamb', 'Lieselotte Ahnert']
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 23 · Lamb-Ahnert · 5 dimensions of quality · pp. 970-1000"
+  source_id: SRC-029
+
+unit_ids: []
+related_cards:
+  - C-S0-1239     # Lamb quality > quantity
+  - C-S6-933     # Shonkoff 托育质量
+  - C-S6-031     # Brazelton 选托育
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

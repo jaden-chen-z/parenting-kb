@@ -1,0 +1,82 @@
+card_id: C-S4-194
+stages: [S4]
+tags: [montessori, movement, controversy]
+
+front:
+  title: 推车型不是学步车
+  hook: 木质 4 轮可推
+
+back:
+  why_matters: |
+    Lillard Ch5 区分两种"学步车"(中文都翻成"学步车",但完全不同):
+    - **不要的"学步车"(commercial baby 学步车)** — 圆环坐进,带轮,腿悬空蹬地走
+    - **推荐的 Walker Wagon(推车型)** — 木质矩形带 4 轮 + 一根竖把手商业学步车的问题(Davies / AAP / Lillard 三派一致反对):
+    - 宝宝腿没准备好就承重 → 影响骨骼
+    - 假性平衡(车辅助)→ 真平衡感跳过
+    - DDH(发育性髋关节脱位)风险
+    - 跌倒事故率高(车快 + 宝宝刹不住)
+    Walker Wagon 的好处(Lillard 推荐):
+    - 宝宝**自己拉起到站** — 用车把手作为支撑
+    - **自己推车走** — 真平衡感参与
+    - 速度宝宝可控
+    - 9-30 月持续可用用 Walker Wagon:
+    - 先在地毯 / 草地上(摩擦大,慢)
+    - 走稳了再到木地板 / 硬地(快)
+    自制:小木箱 + 4 个轮子 + 1 根 14 寸高 1.5 寸直径的横把手 = DIY 完成。
+  what_to_do:
+    - 不买商业学步车(圆环型)
+    - 9-10 月起用 Walker Wagon
+    - 先地毯 / 草地,后硬地
+    - 让宝宝自己拉起自己推
+    - 不催 / 不替推
+  failure_mode: |
+    "学步车帮走得早" — 反:AAP + 蒙氏 + 现代研究三派一致反对(伤髋 + 跌倒)。
+    不分清楚买了商业学步车 → 跟 Walker Wagon 完全不同概念。
+  evidence_level: A
+
+  positions:
+    issue: 醒着时该不该让宝宝俯卧"练颈肌"(Tummy Time)
+    views:
+      - school: AAP
+        source: SRC-002
+        stance: 推 Tummy Time — 防 SIDS 后颈肌发育 + 防扁头综合征(2026 现行立场,Back to Sleep 1994 后配套)。
+      - school: Pikler
+        source: SRC-026
+        stance: 反 Tummy Time — 仰卧位最佳,俯卧不利自然翻身。1969 立场(那时 Tummy Time 概念尚未出现)。
+      - school: Magda Gerber / Lansbury
+        source: SRC-022/019
+        stance: 继承 Pikler — 永远仰卧不俯卧;给地板时间让婴儿自由探索。
+      - school: 海蒂
+        source: SRC-040
+        stance: 每天清醒至少 30 分钟分多次累计(对齐 AAP)— 主流大众派背书 Tummy Time + 防扁头。
+      - school: 蒙氏(Davies/Lillard)
+        source: SRC-014/016
+        stance: 平面活动 OK,但反对"训练"方式;给地板时间让婴儿自由探索俯卧。
+      - school: 折中建议
+        stance: 不强迫 Tummy Time,但给地板时间允许婴儿自己俯卧探索;若选 AAP 派则醒着每天几次,每次几分钟。
+glossary_refs:
+  - G-PERSON-Lillard
+  - G-PERSON-Jessen
+  - G-TERM-coordinated-movement
+  - G-ABBR-AAP
+
+citation:
+  book_title_zh: "蒙台梭利从 0 岁开始"
+  book_title_en: "Montessori from the Start"
+  authors: ["Paula Polk Lillard", "Lynn Lillard Jessen"]
+  authors_zh: ["宝拉·波尔克·莉拉德", "琳·莉拉德·杰森"]
+  publisher_en: "Schocken Books"
+  year_en: 2003
+  isbn_en: "978-0-8052-1112-1"
+  location: "Ch 5 · 'Crawling to Coordination' (Walker Wagon vs commercial)"
+  source_id: SRC-016
+
+unit_ids: []
+related_cards:
+  - C-S4-132       # Davies 不用 jumper 学步车
+  - C-S4-005       # AAP 不用学步车
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

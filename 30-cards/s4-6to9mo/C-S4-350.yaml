@@ -1,0 +1,57 @@
+card_id: C-S4-350
+stages: [S4]
+tags: [观察, intervention]
+
+front:
+  title: "选择性介入"
+  hook: "知道何时不该动手"
+
+back:
+  why_matters: |
+    Magda 命名 Selective Intervention(选择性介入)。
+    宝宝挣扎不一定要救 — 挣扎是学习的一部分。
+    够不到玩具时让他够,
+    跟同伴抢东西时先观察 5-10 秒,
+    哭时听明白原因再决定怎么帮。
+    Magda 拍的视频"On Their Own with Our Help"主题就是这个 —
+    什么时候介入,更重要的是什么时候**不**介入。
+
+  what_to_do:
+    - 看到"挣扎"先停 5-10 秒,评估安全 + 必要性
+    - 安全又非必要 → 不动,等他自己解决
+    - 安全但需要 → 给提示不直接做("可以再试一下")
+    - 不安全 → 立刻介入并解释为啥
+    - 介入后观察他是否需要进一步帮
+
+  failure_mode: |
+    "他抓不到玩具我立刻递给他" → 剥夺他"我能解决"的体验。
+    Magda 原话:"做更少,观察更多"。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+  - G-TERM-quality-time
+
+citation:
+  book_title_en: "Your Self-Confident Baby"
+  book_title_zh: "自信的宝宝"
+  authors:
+    - Magda Gerber
+    - Allison Johnson
+  publisher_en: John Wiley & Sons
+  year: 1998
+  location: "Ch5 Refining Your Observation Skills + Ch7 Refining Your Observation/Intervention Skills"
+  source_id: SRC-022
+
+unit_ids: []
+related_cards:
+  - C-S3-296  # Lansbury 不主导玩
+  - C-S2-128  # Davies 等 3 秒回应
+  - C-S6-187  # Lillard 演示要慢
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

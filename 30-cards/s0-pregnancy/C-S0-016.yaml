@@ -1,0 +1,66 @@
+card_id: C-S0-016
+stages: [S0]
+tags: [self, philosophy, controversy]
+
+front:
+  title: 反"新生儿混沌" 出生即有意识
+  hook: 出生即有意识反共生
+
+back:
+  why_matters: |
+    Stern 1985 直接挑战经典精神分析(Mahler / Freud)的两个核心论断 — 这影响中国家长怎么看新生儿。
+    **被挑战的旧观点**:
+    - **Freud(刺激屏障)**:婴儿出生后被"屏障"挡住,跟外界几乎无交流
+    - **Mahler(正常自闭期 + 共生期)**:婴儿前 2 月"自闭",2-6 月跟妈妈"融合共生"
+    - 中文版本:"宝宝小什么都不懂"、"宝宝跟妈妈是一体的,一岁前别想分开"
+    **Stern 用 1970-80 年代实验数据反驳**:
+    - 婴儿绝**没有自闭期** — 出生即对人脸 / 人声 / 母亲气味有反应
+    - 婴儿绝**没有共生期** — 必须先有 self 感才能体验"跟妈妈在一起"的感觉
+    - 婴儿是**优秀的现实测试者** — 能区分自他,能形成假设,能跨感官识别
+    "融合共生"是 Mahler 把成人观察者的视角投射给婴儿的错误 — 婴儿不知道"我跟妈妈本是一体" 因为他们从来不是。
+    **临床意义**(Stern 立场):
+    - 早期心理问题(2 月之后)的根源在 self 感的某一域(能动性 / 连贯性 / 连续性 / 情感性)出问题
+    - 不是因为"没区分"或"共生失败"
+    - 干预要针对受损的具体 self 域,而不是笼统"促进分离"
+    对中国家长:**别低估新生儿** — 出生即有完整人际能力,你的每个回应都被记下。
+  what_to_do:
+    - 不说"宝宝小什么都不懂"
+    - 出生即开始一对一交流(目光 / 说话 / 唱歌)
+    - 不期望"等他大点再开始教育"
+    - 反"先别管,大点就好" 思路
+    - 把新生儿当"完整的人"对待
+  failure_mode: |
+    "宝宝太小不用陪他玩 / 不用跟他说话" — Stern 反对。
+    新生儿即有 安静警觉态 学习窗口,缺少社交输入会影响 新生自我 形成。
+    "宝宝跟妈一体不能分开" — 错。从来不是一体,只是宝宝需要稳定主依恋人。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Stern
+  - G-TERM-emergent-self
+  - G-TERM-core-self
+
+citation:
+  book_title_zh: "婴儿的人际世界"
+  book_title_en: "The Interpersonal World of the Infant"
+  authors: ["Daniel N. Stern"]
+  authors_zh: ["丹尼尔·斯特恩"]
+  publisher_en: "Basic Books"
+  year_en: 1985
+  isbn_en: "978-0-465-09559-9"
+  location: "Ch 1 + Ch 3 · 反 Mahler / Freud 共生融合论"
+  publisher_zh: "华东师范大学出版社"
+  year_zh: 2017
+  translator_zh: ["刘旭东"]
+  source_id: SRC-018
+
+unit_ids: []
+related_cards:
+  - C-S0-015       # Stern 4 senses of self
+  - C-S2-188       # Lillard 出生前已"认识"妈妈
+  - C-S1-247       # Lillard 蒙氏新生儿房 4 区(prepared environment)
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

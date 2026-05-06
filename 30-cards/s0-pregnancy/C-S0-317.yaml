@@ -1,0 +1,57 @@
+card_id: C-S0-317
+stages: [S0]
+tags: [parenting-mindset, doula, RIE]
+
+front:
+  title: "头三月只做一件事"
+  hook: "只陪宝宝陪伴侣休息"
+
+back:
+  why_matters: |
+    Magda《自信的宝宝》Ch4 §Try to Do Less + §Ask for Help。
+    新生父母 0-3 月唯一任务:focus on 宝宝 + 彼此。其他全请人帮。
+    Magda 介绍 doula(希腊词"侍奉者")— 来"照顾妈妈"
+    的人(做家务 / 做饭),跟产科助产分开。
+    中国传统月嫂偏照顾婴儿,Magda 立场是 doula 照顾妈妈,
+    妈妈才有精力跟宝宝建立连接。
+    "前 2.5 年大部分时间在家" — Magda 反"早早送早教"派。
+
+  what_to_do:
+    - 孕期联系 doula / 月嫂 / 妈妈 / 朋友
+    - 列清单:做饭 / 买菜 / 洗衣这些外包
+    - 父母双方都尽量请假
+    - 慢不是懒:routine 让宝宝形成节律
+    - 「this too shall pass」 Magda 经典 mantra
+
+  failure_mode: |
+    "我妈说她当年自己一手带" → Magda 反:大家庭已散,
+    现代核心家庭无人帮,父母过劳直接降低对宝宝的回应质量。
+    或"早教中心刺激发展" → 反:0-2 月需要安静不是刺激。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+
+citation:
+  book_title_en: "Your Self-Confident Baby"
+  book_title_zh: "自信的宝宝"
+  authors:
+    - Magda Gerber
+    - Allison Johnson
+  publisher_en: John Wiley & Sons
+  year: 1998
+  location: "Ch4 §Ask for Help + §Try to Do Less(p55-57)"
+  source_id: SRC-021
+
+unit_ids: []
+related_cards:
+  - C-S0-116  # Lansbury 父母也要边界
+  - C-S6-138  # Davies 父母先照顾自己
+  - C-S0-008  # AAP 产前规划
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

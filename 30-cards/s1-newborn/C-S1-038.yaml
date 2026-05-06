@@ -24,6 +24,24 @@ back:
     会翻身了还包 → 翻成趴卧 → 窒息致死。
   evidence_level: A
 
+  positions:
+    issue: 包裹(swaddle)该不该用 · 怎么用 · 何时停
+    views:
+      - school: Karp
+        source: SRC-003
+        stance: 5S 安抚法第一招(Swaddle)。紧裹 + 双臂内 + 配白噪音,可延长睡眠 1-2 小时;锁住莫罗反射(惊跳反射)防止干扰其他四招。
+      - school: AAP
+        source: SRC-004
+        stance: 可用,但只起安抚作用,不防 SIDS;宝宝出现翻身迹象立刻停。髋部需留蛙腿位空间。
+      - school: 蒙氏(Davies/Lillard)
+        source: SRC-014/016
+        stance: 反对包裹 — 妨碍婴儿练习自我安抚,且干扰莫罗反射的整合发育。改用小毯或睡袋。
+      - school: 鲍秀兰
+        source: SRC-009
+        stance: 反对中国式"蜡烛包"(腿绑直会导致 DDH 髋发育不良,有终身风险);接受松松的"蛙腿位"包裹。
+      - school: 海蒂
+        source: SRC-040
+        stance: 中性立场 — 决策权交给父母,中立列利弊;不站队,作为"主流家长方案"参考。
 glossary_refs:
   - G-ABBR-SIDS
   - G-ABBR-AAP
@@ -34,14 +52,14 @@ glossary_refs:
   - G-TERM-back-sleep
 
 citation:
-  page_title: "Safe Sleep: 9 Ways + AAP Policy Explained + Good Night, Sleep Tight: How to Swaddle Your Baby"
+  page_title: "Safe Sleep: 9 Ways + AAP Policy Explained + Good Night, Sleep Tight: How to swaddle Your Baby"
   publisher: American Academy of Pediatrics
   portal: HealthyChildren.org
   policy_basis: "AAP Task Force on SIDS — 2022 Policy Statement"
   page_url_primary: https://www.healthychildren.org/English/ages-stages/baby/sleep/Pages/good-night-sleep-tight.aspx
   accessed: 2026-05-01
   language: en
-  location: "9 Ways #1 swaddle 段 + Policy 'Swaddle your baby if you like' (含 'swaddling doesn't reduce the risk of SIDS') + Swaddle Article 全文"
+  location: "9 Ways #1 swaddle 段 + Policy 'swaddle your baby if you like' (含 '包裹 doesn't reduce the risk of SIDS') + swaddle Article 全文"
   source_id: SRC-004
 
 unit_ids: []

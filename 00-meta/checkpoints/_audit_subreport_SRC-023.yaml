@@ -1,0 +1,29 @@
+source_id: SRC-023
+total_cards: 49
+totals_per_issue:
+  wrong_evidence_level: 35
+  tag_misuse: 9
+  hook_descriptive: 2
+  missing_glossary_refs: 3
+  broken_related_ref: 1
+key_issues:
+  - {card_id: 35_cards, type: wrong_evidence_level, severity: P1, fix: 松田 1980 临床观察 + 时代陈旧硬数字大量标 A,按 §10.7 应大量降 B/C}
+  - {card_id: C-S4-553, type: tag_misuse, severity: P1, fix: 共睡夜喂涉跨派冲突,缺 controversy tag}
+  - {card_id: C-S7-604, type: wrong_evidence_level + tag_misuse, severity: P0, fix: '反"反抗期"'与 Brazelton/Erikson 主流相左,降 C + 加 controversy}
+  - {card_id: C-S7-606, type: wrong_evidence_level + tag_misuse, severity: P0, fix: '战前协作消失'是文化批判 philosophy,降 C + 加 philosophy}
+  - {card_id: C-S7-758, type: tag_misuse, severity: P2, fix: 自慰话题中国家长普遍羞耻,缺 controversy}
+  - {card_id: C-S7-761, type: wrong_evidence_level + tag_misuse, severity: P0, fix: '哮喘发作是娇惯出'风险高 — 父母可能延误器质性哮喘治疗,必加 controversy + notes}
+  - {card_id: C-S5-652, type: wrong_evidence_level, severity: P2, fix: '麻疹疫苗 1.5 岁'是松田 1980 时机,跟现代 MMR 12-15 月不一致,降 C + notes 现代指南}
+  - {card_id: C-S1-763, type: wrong_evidence_level, severity: P1, fix: '3 月+5kg 唇裂手术'时代陈旧,现代 cleft team 早干预}
+intra_source_dedups:
+  - {cluster: [C-S5-649, C-S5-650], level: L1, action: merge_candidate, reason: 都讲反战前老规矩(2 次/日 + 1 岁可米饭),location 都 §272}
+  - {cluster: [C-S1-609, C-S2-548, C-S4-550], level: L2, action: keep_distinct, reason: 反标准化主题,3 段不同应用}
+  - {cluster: [C-S4-551, C-S4-552], level: L2, action: keep_with_link, reason: '奶不能减'两角度互补}
+  - {cluster: [C-S7-759, C-S7-761], level: L1, action: keep_with_link, reason: '反过度医疗'两疾病但同主旋律}
+  - {cluster: [C-S7-604, C-S7-606, C-S7-608], level: L2, action: keep_distinct, reason: 2-3 岁协作问题三角度}
+  - {cluster: [C-S4-553, C-S6-670], level: L2, action: keep_with_link, reason: 反西式断奶硬规则,时段不同同流派立场}
+notes: |
+  松田道雄《育儿百科》1980 经典,49 卡 evidence_level 系统性偏高(35 张需降级)。
+  关键风险:C-S7-761 哮喘"娇惯出"立场可能延误真器质性哮喘治疗(P0 必修)。
+  controversy tag 系统性缺失(5+ 张涉真冲突立场)。
+  与 SRC-024(同书并行)inter-source 重复留 Phase C。

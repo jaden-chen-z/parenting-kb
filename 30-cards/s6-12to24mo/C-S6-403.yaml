@@ -1,0 +1,84 @@
+card_id: C-S6-403
+stages: [S6]
+tags: [discipline, emotion, RIE, lansbury]
+
+front:
+  title: "限度 + 哭怒 = 同时存在"
+  hook: "行为挡住情绪敞开"
+
+back:
+  why_matters: |
+    Lansbury Ch22 + Ch23 反复强调:
+    设限度 + 接受情绪不矛盾,是配套的。
+    Lansbury 公式:
+    - 行为坚定:"我不让你打妹妹" + 物理挡
+    - 情绪开放:"你很生气,因为我没让你打,我懂"
+    主流陷阱 1:不许哭("不许哭!给我闭嘴")→ 压抑情绪。
+    主流陷阱 2:为了不让哭就妥协 → 模糊限度。
+    Lansbury:行为绝不让步,情绪 100% 接受。
+
+  what_to_do:
+    - 行为:"我不让你..." + 立即阻止
+    - 情绪:"你很生气 / 失望 / 难过,我懂"
+    - 不试图终止哭:让情绪走完
+    - 给枕头打可以,打妹妹不行 — 转情绪出口
+    - 哭完后不报复 / 不"早跟你说了"
+
+  failure_mode: |
+    "孩子哭就软" → 孩子学到"哭能改规则"。
+    或"不许哭不许闹" → 压抑成年后情绪问题。
+    中道:行为是行为(挡),情绪是情绪(听)。
+
+  evidence_level: B
+
+  positions:
+    issue: 3 岁孩子的体罚边界 · 大发雷霆体罚 vs 瞬间危险打手
+    views:
+      - school: 松田道雄
+        source: SRC-024
+        stance: 大发雷霆体罚是错的;但孩子做危险动作(冲马路、玩刀具)时瞬间打手作为警告有效。立场分情境。
+      - school: Lansbury / RIE
+        source: SRC-019
+        stance: 温柔而坚定的限度,完全不打。任何体罚(包括瞬间打手)都破坏信任与自我调节学习。
+      - school: Bowlby
+        source: SRC-011
+        stance: secure attachment 派完全反对体罚;依恋安全是学龄前儿童最优先的发育基础。
+      - school: AAP
+        source: SRC-004
+        stance: 完全反对体罚 — 2018 政策声明明确指出体罚对儿童心理发展有害,无任何益处。
+      - school: Shonkoff / NRC
+        source: SRC-025
+        stance: 完全反体罚 — cortisol 累积损伤前额叶皮层(PFC),与儿童反社会行为正相关。
+      - school: 鲍秀兰
+        source: SRC-009
+        stance: 反对打孩子,主张正面管教;在中国本土实证派中是少有的明确反体罚立场。
+      - school: 海蒂
+        source: SRC-040
+        stance: 管教 ≠ 体罚 — 10 月起步用其他管教法。美国主流大众派背书,降低中国家长"反体罚 = 西式精英"偏见。
+      - school: 中国传统
+        stance: '"棍棒底下出孝子" / "不打不成器" — 体罚被视为负责任管教的一部分。'
+glossary_refs:
+  - G-PERSON-Lansbury
+  - G-PERSON-Gerber
+  - G-TERM-acknowledging-feelings
+  - G-TERM-RIE
+
+citation:
+  book_title_en: "Elevating Child Care: A Guide to Respectful Parenting"
+  book_title_zh: "尊重孩子:RIE 育儿之道"
+  authors:
+    - Janet Lansbury
+  publisher_en: JLML Press
+  year: 2014
+  location: "Ch22 + Ch23 — Rule 7: Don't discipline crying"
+  source_id: SRC-019
+
+unit_ids: []
+related_cards:
+  - C-S6-397  # Lansbury 我不让你
+  - C-S6-133  # Davies 温柔边界
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

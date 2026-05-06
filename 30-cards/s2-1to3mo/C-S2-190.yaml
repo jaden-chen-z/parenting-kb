@@ -1,0 +1,66 @@
+card_id: C-S2-190
+stages: [S2]
+tags: [montessori, flow, family, philosophy]
+
+front:
+  title: 你家是 4 类哪一类
+  hook: 挑战 + 支持矩阵
+
+back:
+  why_matters: |
+    Lillard Ch2 引 Diana Baumrind 育儿研究 + Csikszentmihalyi flow 理论 — 家庭可分 4 类:
+    | 家庭 | 挑战 | 支持 | 孩子结果 |
+    |---|---|---|---|
+    | 1 高挑战 + 高支持 | 高 | 高 | **高成就 + 有 joy**(理想)|
+    | 2 高挑战 + 低支持 | 高 | 低 | 高成就 + 无 joy(burnout 候选)|
+    | 3 低挑战 + 高支持 | 低 | 高 | 不开心 + 没目标(任性)|
+    | 4 低挑战 + 低支持 | 低 | 低 | "chaotic attention"(被忽视)|
+    Lillard 立场 — 只有第 1 类让孩子真正进入 flow 状态。
+    什么是"高支持"(中国家长易混):
+    - **不**是"事事帮宝宝做"
+    - 是"宝宝挣扎时观察 + 在合适时刻提供最少帮助"
+    - 是"环境舒适 + 大人平静 + 关系稳定"
+    什么是"高挑战":
+    - **不**是"逼宝宝学知识"
+    - 是"给适合月龄的工作"(15 月切香蕉 / 2 岁穿鞋)
+    - 是"接受宝宝挣扎 + 接受不完美"
+    实操 — 自己判断你家是哪类,最常见的中国问题是 **2 类**(虎妈型) + **3 类**(溺爱型)。
+  what_to_do:
+    - 自己判断:挑战和支持都给到位了吗?
+    - 反虎妈:不是高成就第一,joy 也要有
+    - 反溺爱:别帮太多,留挑战
+    - 看宝宝是否有 flow(深度专注)瞬间
+    - 大人也要进入自己的 flow(模范)
+  failure_mode: |
+    "我做的都是为孩子好" — 没问的关键是"宝宝有 joy 吗" + "宝宝有挑战吗"。
+    觉得自己是高挑战 + 高支持,但其实是 2 类(虎妈)— 宝宝外部成功但内部空虚。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Lillard
+  - G-PERSON-Jessen
+  - G-PERSON-Csikszentmihalyi
+  - G-TERM-flow
+  - G-TERM-self-construction
+
+citation:
+  book_title_zh: "蒙台梭利从 0 岁开始"
+  book_title_en: "Montessori from the Start"
+  authors: ["Paula Polk Lillard", "Lynn Lillard Jessen"]
+  authors_zh: ["宝拉·波尔克·莉拉德", "琳·莉拉德·杰森"]
+  publisher_en: "Schocken Books"
+  year_en: 2003
+  isbn_en: "978-0-8052-1112-1"
+  location: "Ch 2 末 (4 family types based on Baumrind + Csikszentmihalyi)"
+  source_id: SRC-016
+
+unit_ids: []
+related_cards:
+  - C-S1-248       # Lillard 别打断专注
+  - C-S2-185       # Lillard 注意力问题溯源
+  - C-S6-186       # Lillard 母-师角色
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

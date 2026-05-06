@@ -1,0 +1,72 @@
+card_id: C-S6-1392
+stages: [S6]
+tags: [DAP, bredekamp, toddler, lerner_v4]
+
+front:
+  title: NAEYC(美国幼教协会) 反学业前移
+  hook: NAEYC(美国幼教协会) 反学业前移
+
+back:
+  why_matters: |
+    Bredekamp-Copple V4 Ch 1 + 跨章(NAEYC(美国幼教协会) 立场政策综述)。
+    **NAEYC(美国幼教协会)**(National Association for the Education of Young Children):
+    - 美国最大早教协会
+    - DAP 标准制定者
+    - 反学业前移代言
+    **反学业前移 4 大理由**:
+    - **认知不匹配**:5 岁前大脑还不能高效处理符号
+    - **动机伤害**:压力大 → 厌学
+    - **情感断裂**:不停"教"孩子 → 关系紧张
+    - **机会成本**:学业时间挤压玩 + 探索 + 关系
+    **美国 90 年代以后学业前移**:
+    - 5 岁练写字 → 现在普遍批评
+    - 4 岁认 100 词 → NAEYC(美国幼教协会) 反对
+    - 3 岁报班 → 反 DAP
+    - 中国"3 岁起跑线"是同样问题
+    **Bredekamp-Copple 立场**(本章主旨):
+    - **学业前移没有研究证据支持**
+    - 短期看似领先,长期反而落后
+    - 真正预测后期学业的:**自我调节 + 词汇 + 兴趣**
+    - 这 3 个不靠"教"靠"玩+互动+读"
+    跟现库:跟 C-S0-1235 Hyson DAP 总论 + Lansbury 反过度结构(SRC-019)+ 松田反早教(SRC-024)对接。
+    对中国家长意义:
+    - 中国"起跑线"焦虑直接被驳
+    - 5 岁前别教写字
+    - 自我调节 + 词汇 + 兴趣才预测学业
+    - 玩 + 互动 + 读 = 真早教
+  what_to_do:
+    - 5 岁前别教写字
+    - 自我调节+词汇+兴趣才预测
+    - 玩+互动+读 = 真早教
+    - '反"起跑线"焦虑'
+  failure_mode: |
+    "3 岁不教就晚"— 错。研究反对。
+    "早学就赢"— 错。短期领先长期落后。
+    "挤掉玩没事"— 错。机会成本高。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Bredekamp
+  - G-PERSON-Copple
+  - G-TERM-DAP
+  - G-TERM-NAEYC
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 4 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 4 卷"
+  authors: ['Sue Bredekamp', 'Carol Copple']
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 1 · Bredekamp-Copple · NAEYC anti-academic-pushdown · pp. 15-25"
+  source_id: SRC-029
+
+unit_ids: []
+related_cards:
+  - C-S0-1235     # Hyson DAP 总论
+  - C-S6-1380     # V4 学步 DAP
+  - C-S0-619     # NRC 反早教 4 定理
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

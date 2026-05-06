@@ -1,0 +1,387 @@
+source_id: SRC-028
+title: "儿童心理学百科 · 第 2 卷:认知、感知与语言(第 6 版)"
+title_en: "Handbook of Child Psychology, Volume 2: Cognition, Perception, and Language (6th Edition)"
+org: "John Wiley & Sons"
+tier: 3
+source_type: book
+url: null
+isbn_en: "978-0-471-27288-6"
+publisher_en: "John Wiley & Sons, Inc."
+location_en: "Hoboken, New Jersey"
+year_en: 2006
+edition: "6th"
+accessed: 2026-05-04
+language: en
+notes_path: tier3-books/notes/SRC-028.yaml
+
+editors:
+  - name_en: "William Damon (Editor-in-Chief)"
+    name_zh: "威廉·达蒙"
+    role: "Handbook 总主编(全 4 卷)"
+    background: |
+      斯坦福大学青少年发展中心主任,道德发展研究权威,
+      Handbook of Child Psychology 全 4 卷总主编(2006 第 6 版)。
+  - name_en: "Richard M. Lerner (Editor-in-Chief)"
+    name_zh: "理查德·勒纳"
+    role: "Handbook 总主编(全 4 卷)+ 应用发展科学"
+    background: |
+      Tufts University 应用儿童发展研究所主任,生命周期发展心理学权威,
+      Damon-Lerner 双主编模式延续到 2006 第 6 版。
+  - name_en: "Deanna Kuhn (Volume Editor)"
+    name_zh: "迪安娜·库恩"
+    role: "本卷(Vol 2)主编 + 认知发展"
+    background: |
+      Columbia 大学 Teachers College 心理学教授,
+      认知发展 + 元认知 + 推理研究权威。
+  - name_en: "Robert S. Siegler (Volume Editor)"
+    name_zh: "罗伯特·西格勒"
+    role: "本卷(Vol 2)合编 + 微观发生学奠基"
+    background: |
+      Carnegie Mellon 大学心理学教授,
+      微观发生学方法论奠基人,儿童策略选择 + 数学认知权威。
+
+# 章节地图(实测 offset,22 章百科级综述)
+chapter_offsets:
+  ch1_neural_bases: 65573                # Nelson, Thomas, de Haan — 神经基础
+  ch2_auditory_speech_language: 373133   # Saffran, Werker, Werner — 听觉 + 语音 + 语言开端 ⭐⭐⭐
+  ch3_visual_perception: 670903          # Kellman, Arterberry — 视觉感知
+  ch4_motor_development: 953901          # Adolph, Berger — 大动作发育
+  ch5_infant_cognition: 1242107          # Cohen, Cashon — 婴儿认知 ⭐⭐⭐(Spelke/Baillargeon/物体永久)
+  ch6_linguistic_constructions: 1438299  # Tomasello — 语言习得 ⭐⭐⭐(联合注意 / 9月革命)
+  ch7_early_word_learning: 1677396       # Waxman, Lidz — 早期词汇学习 ⭐⭐⭐(Markman 3约束 / fast mapping)
+  ch8_gesture: 1886400                   # Goldin-Meadow — 手势是窗口
+  ch9_event_memory: 2063513              # Bauer — 事件记忆 + 延迟模仿
+  ch10_information_processing: 2353948   # Munakata — 信息处理 / 连接主义
+  ch11_microgenetic: 2544151             # Siegler — 微观发生学
+  ch12_strategies: 2799415               # Pressley, Hilden — 认知策略
+  ch13_reasoning: 3057662                # Halford, Andrews — 推理 + 问题解决
+  ch14_cogscience: 3343757               # Keil — 元学(认知科学 vs 认知发展)
+  ch15_culture: 3496075                  # Cole — 文化 + 认知(跨文化)
+  ch16_conceptual: 3756210               # Gelman S, Kalish — 概念发展 ⭐⭐⭐(Carey 概念革命)
+  ch17_spatial: 4017945                  # Newcombe, Huttenlocher — 空间认知
+  ch18_mathematical: 4256972             # Geary — 数学理解 ⭐⭐⭐(Wynn 5月 / Dehaene 数感)
+  ch19_social_cognition: 4446115         # Harris — 社会认知 ⭐⭐⭐(心智理论 / 假装)
+  ch20_arts: 4714023                     # Winner — 绘画 + 音乐
+  ch21_extraordinary: 4958716            # Moran, Gardner — 神童 + 多元智能
+  ch22_second_decade: 5208725            # Kuhn, Franklin — 青少年(0-6 不主取)
+  total_chars: 5657932
+  total_chapters: 22
+
+# Lerner V2 独家命题(本书 vs 现库 18 派对照,认知/感知/语言铁三角左侧)
+lerner_v2_unique_themes:
+  - spelke_core_knowledge_5_systems: "Spelke 核心知识 5 系统 — 物体 / 行动 / 数 / 空间 / 社会(出生即有,Ch5 综述)"
+  - baillargeon_violation_of_expectation: "Baillargeon 违背期望范式 — 推翻 Piaget 物体永久性 8 月说"
+  - saffran_8month_statistical_learning: "Saffran 8 月统计学习 1996 — 婴儿听 2 分钟无意义音节抓出统计模式(Ch2)"
+  - werker_perceptual_narrowing: "Werker 6-12 月母语音素窗口闭合 — 知觉重组实证(Ch2,Kuhl 同方向)"
+  - tomasello_9month_revolution: "Tomasello 9 月革命 — 联合注意 + 共享意图涌现(Ch6,跟 Stern intersubjectivity 对接)"
+  - tomasello_shared_intentionality: "Tomasello 共享意图 — 人类独有合作能力的认知根源(Ch6)"
+  - markman_3_constraints: "Markman 词义 3 约束 — 整体物体 / 分类 / 互斥(Ch7)"
+  - bloom_vocabulary_spurt: "Bloom 词汇爆炸 — 18-24 月 50 词突破(Ch7)+ fast mapping 一次见即学"
+  - wynn_5month_arithmetic: "Wynn 5 月就有 1+1=2 加法雏形 — 推翻 Piaget 数前运算(Ch18)"
+  - dehaene_number_sense: "Dehaene 数感 — 三种数表征(主观大小线 / 准确小数 / 语言符号,Ch18)"
+  - wellman_5_stage_tom: "Wellman 心智理论 5 阶段 — WPSS 量表(Ch19)"
+  - false_belief_task: "Sally-Anne 错误信念任务 — 4-5 岁通过(Ch19,跟 Lansbury 共情教对接)"
+  - leslie_tomm_module: "Leslie 心智理论模块 ToMM — 18 月起 + 自闭症缺损(Ch19)"
+  - carey_conceptual_revolution: "Carey 概念革命 — 不是渐变是质变(Ch16,跟 Gopnik 孩子是科学家同根同源)"
+  - mandler_perceptual_vs_conceptual: "Mandler 知觉范畴 vs 概念范畴二分 — 不是同一系统(Ch16)"
+  - karmiloff_smith_representational_redescription: "Karmiloff-Smith 表征重描述 4 层 — 反早期模块化(认知重塑)"
+  - gentner_analogy_mapping: "Gentner 类比 = 关系结构映射 — 不是表面相似(Ch13/16)"
+  - goldin_meadow_gesture_window: "Goldin-Meadow 手势是思维窗口 — 过渡期手口不一致预测学习"
+  - thelen_dynamic_systems: "Thelen 动态系统派 — A-not-B 错误是身体动力学不是表征不全(Ch4/10)"
+  - adolph_walking_development: "Adolph 学走精细数据 — 1500-9000 步/天 + 17 跌/小时(Ch4)"
+  - kellman_object_unity: "Kellman 物体一致性 — 4月看运动连续推断(Ch3)"
+  - siegler_overlapping_waves: "Siegler 重叠波模型 — 策略不是楼梯而是齐头并进(Ch11)"
+  - bauer_deferred_imitation: "Bauer 延迟模仿 — 9 月 24 小时 / 13 月 1 个月记得(Ch9)"
+  - munakata_graded_representations: "Munakata 渐变表征 — 神经网络模型解释 A-not-B"
+  - newcombe_spatial_egocentric_to_allocentric: "Newcombe 空间从自我为中心到客观坐标(Ch17)"
+  - cohen_cashon_information_processing_infants: "Cohen-Cashon 婴儿信息处理整合(Ch5)"
+  - keil_intuitive_theories: "Keil 直觉理论 — 朴素物理 / 朴素心理 / 朴素生物三大领域(Ch14/16)"
+  - 9_month_pointing: "9 月真正指向 — 不是要而是分享(Tomasello + Bates)"
+  - waxman_noun_bias: "Waxman 名词偏置 — 婴儿先抓名词后抓动词(Ch7)"
+  - bates_gesture_language_continuum: "Bates 手势-语言连续 — 12 月 5 词 = 12 月 5 手势"
+
+# 立场对照(Lerner V2 综述 vs 现有 SRC,认知 ↔ 情感铁三角对接 V3)
+relationship_to_v3_lerner:
+  description: "Lerner V2(SRC-028 认知/感知/语言)vs Lerner V3(SRC-027 社会/情感/人格)— 铁三角左右侧对接"
+  shared:
+    - "Lerner Handbook 6th ed 同一编辑 Damon-Lerner"
+    - "都给 0-6 岁百科级综述"
+    - "都用 17-22 章学派综述格式"
+  complement:
+    - "V2 给认知/感知/语言(左脑侧)"
+    - "V3 给社会/情感/人格(右脑侧)"
+    - "V2 心智理论 ToM(Wellman/Leslie)↔ V3 共情(Eisenberg/Hoffman)"
+    - "V2 联合注意(Tomasello)↔ V3 social referencing"
+    - "V2 概念发展(Carey/Mandler)↔ V3 self-concept(Harter)"
+    - "V2 假装游戏(Harris)↔ V3 同伴互动(Rubin)"
+  iron_triangle:
+    - "V1 (理论) + V2 (认知/感知/语言) + V3 (社会/情感/人格) = 完整 Lerner Handbook 综述铁三角"
+
+relationship_to_gopnik:
+  description: "Lerner V2(SRC-028 百科级综述)vs Gopnik《摇篮里的科学家》(SRC-015 入门级单本)"
+  shared:
+    - "Spelke 核心知识 + Baillargeon 物体永久性 4 月雏形"
+    - "Kuhl 知觉重组 6-12 月窗口"
+    - "Meltzoff 模仿研究"
+    - "婴儿是天生科学家立场"
+    - "反早教焦虑"
+  complement:
+    - "Gopnik 单本入门级(三作者)"
+    - "Lerner V2 百科级综述(22 章 50+ 学者)"
+    - "Lerner V2 比 Gopnik 多覆盖:Carey 概念革命 / Mandler 知觉vs概念 / Markman 词义约束 / Wellman ToM 5 阶段 / Wynn 数概念 / Dehaene 数感 / Saffran 统计学习 / Tomasello 9 月革命"
+  upgrade:
+    - "Gopnik 提到的命题在 Lerner V2 都有更深综述实证"
+
+relationship_to_stern:
+  description: "Lerner V2(SRC-028)vs Stern《婴儿人际世界》(SRC-018)"
+  shared:
+    - "婴儿出生就有能力(both 反 Piaget 空白说)"
+    - "联合注意 + 共享意图"
+  complement:
+    - "Stern 给精神分析 4 阶段 self"
+    - "Lerner V2 给认知发展实证综述"
+    - "V2 Tomasello 9 月革命跟 Stern intersubjectivity 7-9 月直接对接"
+    - "V2 心智理论(Wellman/Leslie)跟 Stern verbal self 14-15 月衔接"
+
+relationship_to_shonkoff:
+  description: "Lerner V2(2006 心理学综述)vs Shonkoff《NRC》(2000 跨学科政策综述 SRC-025)"
+  shared:
+    - "神经发育 + sensitive periods"
+    - "Hart-Risley 30M words"
+    - "Kuhl 知觉重组"
+  complement:
+    - "Shonkoff 给政策 + 跨学科政策视角"
+    - "Lerner V2 给认知科学派 22 章细节综述"
+    - "V2 Ch1 Nelson 神经基础比 Shonkoff Ch8 更深更专业"
+    - "V2 Ch6 Tomasello / Ch7 Waxman 词汇学习比 Shonkoff Ch6 更细"
+
+relationship_to_lillard:
+  description: "Lerner V2(SRC-028 综述)vs Lillard《Montessori from the Start》(SRC-016 蒙氏)"
+  shared:
+    - "敏感期窗口"
+    - "12-24 月词汇爆炸"
+    - "婴儿主动学习者"
+  complement:
+    - "Lillard 给蒙氏哲学派"
+    - "Lerner V2 给认知科学综述"
+    - "Lillard 12-24 月词汇爆炸 ↔ V2 Bloom 50 词突破 + 词汇爆炸实证"
+
+relationship_to_bowlby:
+  description: "Lerner V2(认知)vs Bowlby V1/V2/V3(依恋 SRC-011/012/017)"
+  shared:
+    - "9-12 月 social referencing 看妈妈表情决定行为"
+  complement:
+    - "Bowlby 给依恋情感"
+    - "Lerner V2 给认知 + 联合注意 + 心智理论"
+    - "V2 Tomasello 9 月革命 + Wellman ToM 给 Bowlby attachment 添了认知机制"
+
+relationship_to_wonder_weeks:
+  description: "Lerner V2(综述)vs Wonder Weeks(SRC-013 跃迁)"
+  shared:
+    - "5/9/17 跃迁跟 Spelke / Tomasello / 心智理论时间窗对应"
+  complement:
+    - "WW 给妈妈实操跃迁"
+    - "Lerner V2 给认知科学综述"
+    - "V2 Tomasello 9 月革命 ↔ WW 第 5 跃迁(关系)"
+    - "V2 Wellman ToM 5 阶段起步 ↔ WW 第 8 跃迁(原则)"
+
+relationship_to_baoxiulan:
+  description: "Lerner V2(美综述)vs 鲍秀兰(中临床 SRC-009)"
+  shared:
+    - "0-3 岁奠基期"
+    - "parentese 教语言"
+  divergence:
+    - "鲍秀兰 critical period 强势 vs V2 sensitive period 较缓"
+    - '鲍秀兰早期智力开发 vs V2 反"训练"立场(Karmiloff-Smith)'
+    - "鲍秀兰 4 月把屎把尿 vs V2 不存在数概念准备(Wynn 数感不等于把屎把尿)"
+
+relationship_to_aap:
+  description: "Lerner V2(心理学综述)vs AAP(临床指南 SRC-002 等)"
+  shared:
+    - "出生即模仿(Meltzoff 1977)"
+    - "8 月物体永久性(传统 Piaget 立场)"
+    - "12-18 月词汇爆炸"
+  divergence:
+    - "AAP 8 月物体永久(Piaget 传统)vs V2 4 月雏形(Spelke 推翻)"
+    - "AAP 给临床里程碑 vs V2 给认知科学综述"
+
+relationship_to_brazelton:
+  description: "Lerner V2(综述)vs Brazelton《Touchpoints》(SRC-010)"
+  shared:
+    - "婴儿 NBAS 能力"
+    - "触摸点跟跃迁对应"
+  complement:
+    - "Brazelton 临床触摸点 + Lerner V2 认知科学详解"
+
+relationship_to_lansbury_gerber_pikler:
+  description: "Lerner V2(综述)vs RIE 派(Lansbury SRC-019 / Gerber SRC-021/022 / Pikler SRC-026)"
+  shared:
+    - "婴儿是主动学习者(both 反早期外部干预)"
+  complement:
+    - "RIE 给实操不打扰哲学"
+    - "Lerner V2 给认知发展科学根基"
+  divergence:
+    - "RIE 不评价 vs V2 心智理论研究 — V2 用实验测,不用评价孩子"
+
+relationship_to_matsuda:
+  description: "Lerner V2(美综述)vs 松田道雄(日 SRC-023/024)"
+  shared:
+    - "反早教焦虑"
+  divergence:
+    - "松田哲学派 vs V2 认知科学综述"
+    - "松田反 早期智力训练 vs V2 综述也反早教训练"
+
+relationship_to_davies:
+  description: "Lerner V2(综述)vs Davies《Montessori Baby》(SRC-014)"
+  shared:
+    - "婴儿主动学习者"
+    - "敏感期"
+  complement:
+    - "Davies 蒙氏婴儿实操 + Lerner V2 认知发展科学"
+
+relationship_to_ainsworth:
+  description: "Lerner V2(认知)vs Ainsworth(依恋 SRC-023 fallback松田)"
+  shared:
+    - "Ainsworth fallback 实际是松田 — Lerner V2 认知 ≠ 依恋情感,主要在 V3"
+
+relationship_to_karp:
+  description: "Lerner V2(综述)vs Karp《最快乐的婴儿》(SRC-003)"
+  shared:
+    - "新生儿 NBAS 能力(Karp 5S 安抚有效是因为婴儿不是空白)"
+
+# 跨源关联点(简版)
+crossreferences:
+  - SRC-002_aap:
+      shared: "8 月物体永久 / 12-18 月词汇 / 模仿能力"
+      conflict: "AAP 8 月物体永久 Piaget 传统 vs V2 4 月雏形 Spelke 推翻"
+  - SRC-003_karp:
+      shared: "新生儿能力 / 第四产程"
+  - SRC-009_baoxiulan:
+      shared: "parentese / 0-3 岁关键期"
+      conflict: "鲍 critical period vs V2 sensitive period 立场"
+  - SRC-010_brazelton:
+      shared: "NBAS / 触摸点 ↔ V2 跃迁"
+  - SRC-011_bowlby_v1:
+      shared: "9-12 月 social referencing"
+  - SRC-013_wonder_weeks:
+      shared: "5/9/17 跃迁 ↔ V2 Spelke/Tomasello/ToM 时间窗"
+  - SRC-014_davies:
+      shared: "敏感期 / 婴儿主动学习"
+  - SRC-015_gopnik:
+      shared: "Spelke / Kuhl / Meltzoff 都引用"
+      upgrade: "V2 比 Gopnik 多 Carey/Mandler/Markman/Wellman/Wynn/Dehaene/Saffran/Tomasello"
+  - SRC-016_lillard:
+      shared: "12-24 月词汇爆炸 / 敏感期"
+  - SRC-018_stern:
+      shared: "intersubjectivity ↔ V2 Tomasello 9 月革命"
+  - SRC-019_lansbury:
+      shared: "婴儿主动学习者(共同根基)"
+  - SRC-022_gerber:
+      shared: "婴儿主动学习者"
+  - SRC-024_matsuda:
+      shared: "反早教(认知科学派 + 哲学派)"
+  - SRC-025_shonkoff:
+      shared: "神经发育 + Kuhl 知觉重组 + Hart-Risley 30M"
+      complement: "Shonkoff 跨学科政策 + V2 心理学派 22 章详解"
+  - SRC-026_pikler:
+      shared: "婴儿主动 + 自然发育"
+  - SRC-027_lerner_v3:
+      shared: "Damon-Lerner 同一 Handbook,V2 认知 + V3 情感铁三角"
+      complement: "V2 ToM ↔ V3 共情 / V2 联合注意 ↔ V3 社会化"
+
+# 评级标尺(本书)
+evidence_level_calibration:
+  A: "Lerner V2 综述 + 跨派一致 + 实证扎实(主体 50-60%)— Tier 2 学术综述铁三角权威"
+  B: "Lerner V2 综述 + 跨派部分张力 / 综述内分歧(30-40%)— 如 Spelke vs Karmiloff-Smith / Wynn vs Mix"
+  C: "Lerner V2 推断 + 个别学者立场 + 实证薄弱(罕见,V2 是 Tier 2 综述)"
+  expected_distribution: "A 多 B 中 C 罕 — 综述权威决定主体 A 级"
+
+# 聚焦策略
+focus_strategy:
+  zh: |
+    Lerner V2 22 章百科级综述,聚焦 8 主战场章 + 6 副战场章 + 6 弱覆盖:
+
+    主战场(产卡密集):
+    - Ch2 听觉/语音/语言开端(Saffran/Werker)— Saffran 8月统计学习 / Werker 母语音素窗口
+    - Ch5 婴儿认知(Cohen/Cashon)— Spelke 核心知识 / Baillargeon 物体永久 / 习惯化
+    - Ch6 语言习得(Tomasello)— 9 月革命 / 联合注意 / 共享意图
+    - Ch7 词汇学习(Waxman/Lidz)— Markman 3 约束 / fast mapping / 词汇爆炸
+    - Ch16 概念发展(Gelman S/Kalish)— Carey 概念革命 / Mandler 知觉vs概念 / 直觉理论
+    - Ch18 数学理解(Geary)— Wynn 5 月加法 / Dehaene 数感 / subitize
+    - Ch19 社会认知(Harris)— 心智理论 5 阶段 / Sally-Anne / 假装
+
+    副战场(产卡中等):
+    - Ch1 神经基础(Nelson)— 突触 / 经验依赖 vs 经验期待
+    - Ch3 视觉感知(Kellman)— 视觉悬崖 / 物体一致性
+    - Ch4 大动作(Adolph/Berger)— 学走精细数据 / Thelen 动态系统
+    - Ch9 事件记忆(Bauer)— 延迟模仿 + 自传记忆
+    - Ch15 文化认知(Cole)— 跨文化研究
+    - Ch17 空间认知(Newcombe)— 自我中心 → 客观坐标
+
+    弱覆盖(精选 1-3 张):
+    - Ch8 手势(Goldin-Meadow)— 手势预测学习
+    - Ch10 信息处理(Munakata)— 连接主义模型
+    - Ch11 微观发生(Siegler)— 重叠波 / 策略选择
+    - Ch12-13 策略 / 推理(Pressley/Halford)— 元认知概念
+    - Ch14 元学(Keil)— 直觉理论概念
+    - Ch20-21 艺术/极端(Winner/Gardner)— 多元智能
+
+    跳过:Ch22 第二个十年(青少年 0-6 不主取)
+
+# 中文家长高频痛点 mapping
+parent_pain_points:
+  - "几月会数数 → Wynn 5 月就有 1+1=2 加法雏形(Ch18)"
+  - "几月学语言 → Saffran 8 月统计学习 + Werker 6-12 月母语窗口闭合(Ch2)"
+  - "几月分中英文 → Werker 母语音素 6-12 月闭合(Ch2)"
+  - "几月理解大人想法 → Wellman 18月-5岁心智理论 5 阶段(Ch19)"
+  - "几月会假装 → Leslie ToMM 18月起 + Harris 假装认知(Ch19)"
+  - "词汇爆炸怎么发生 → Bloom 18-24月 + Markman 3约束 + fast mapping(Ch7)"
+  - "物体永久 8 月还是 4 月 → Spelke vs Piaget 立场之争(Ch5)"
+  - "双语早教好不好 → Werker 母语窗口 + 多语言暴露 OK(Ch2)"
+  - "Flash card 真有用吗 → Karmiloff-Smith 反早期模块化(Ch16)"
+  - "数学早教什么时候 → Dehaene 数感先于符号 + 数前 OK(Ch18)"
+  - "阅读启蒙什么时候 → 字母识别要 4-5 岁(Ch20 间接)"
+  - "心智理论几岁有 → Wellman WPSS 5 阶段 + Sally-Anne 4-5 岁(Ch19)"
+  - "联合注意几月有 → Tomasello 9 月共享意图(Ch6)"
+  - "9 月真正指向 → Bates 手势语言连续 + 9 月分享意指(Ch6/8)"
+  - "新生儿真模仿 → Meltzoff 42分钟 / Bauer 9月延迟模仿(Ch9)"
+  - "1岁前能不能记住 → Bauer 9月24小时记忆 / 13月1月记忆(Ch9)"
+  - "学走需要扶吗 → Adolph 17跌/小时是正常 + 不需要早走(Ch4)"
+  - "A-not-B 错误 → Thelen 动态系统 + Diamond PFC 解释(Ch4/10)"
+  - "为什么孩子分类奇怪 → Mandler 知觉范畴 ≠ 概念范畴(Ch16)"
+  - "直觉物理几月有 → Spelke 4 月物体连续推断(Ch5)"
+  - "naive psychology / biology → Keil 直觉理论 3 大领域(Ch14/16)"
+
+referenced_by_units: []
+referenced_by_cards: []
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04
+
+notes: |
+  Phase 11 并行第二本 SRC-028 — Lerner Handbook Vol 2《Cognition, Perception, and Language》
+  (Damon/Lerner 总主编,Kuhn/Siegler 卷主编,Wiley 2006 第 6 版)。
+
+  - 文件已 OCR(.md, 5,657,932 chars / 127,469 行 / 22 章)
+  - 章节 offset 已实测确认 22 章
+  - 学者 hits 实测:Spelke 173 / Tomasello 164 / Mandler 126 / Werker 120 / Bloom 123 /
+    Carey 134 / Kellman 104 / Aslin 109 / Wellman 105 / Gelman S 306 / Keil 129 /
+    Bauer 234 / Adolph 193 / Thelen 183 / Goldin-Meadow 148 / Halford 136 /
+    Saffran 74 / Wynn 97 / Markman 89 / Newcombe 77 / Geary 76 / Dehaene 55 /
+    Karmiloff-Smith 63 / Munakata 91 / Pinker 60 / Newport 58 / Bates 88 等
+
+  并行场景 ID 隔离(SRC-028 +200 buffer 避撞 SRC-027 +100):
+  S0: 724 + 200 = 924, S1: 900 + 200 = 1100, S2: 935 + 200 = 1135,
+  S3: 939 + 200 = 1139, S4: 940 + 200 = 1140, S5: 937 + 200 = 1137,
+  S6: 964 + 200 = 1164, S7: 895 + 200 = 1095, S8: 220 + 200 = 420
+
+  跟现库 18 派跨派对照硬指标:每张卡 ≥ 1 张 related_cards 含 15 派
+  (AAP/鲍/Brazelton/Karp/Bowlby/Stern/Gopnik/Lillard/Davies/Lansbury/Gerber/松田/
+   Wonder Weeks/Shonkoff/Pikler/Lerner V3 — 含本 session V3 铁三角对接)
+
+  立场对立处全部记 conflicts.md(H 节)。
+
+  铁三角完成:V1 节选(理论)+ V2(认知/感知/语言)+ V3(情感/社会/人格)。
+  跟现库 Gopnik(SRC-015)关系 = 入门 vs 百科级综述,V2 是 Gopnik 的实证后盾。

@@ -1,0 +1,61 @@
+card_id: C-S1-898
+stages: [S1]
+tags: [pikler, 观察, philosophy, source-de]
+
+front:
+  title: "平静婴儿是常态不是特例"
+  hook: "你家天天哭可能教成的"
+
+back:
+  why_matters: |
+    皮克勒 1969 引言数据立场:她跟踪的家庭里 + 罗齐研究所 720 婴儿,
+    绝大多数**几乎不哭**(有时整天不哭)— 只在饿 / 痛 / 不舒服时哭。
+
+    皮克勒反诘:"我是不是挑了特别平静的婴儿?"
+    皮克勒答:
+    > 不是。任何健康婴儿都会平静 — 除非被养成相反的样子。
+
+    这是皮克勒哲学最反直觉的命题:**婴儿哭闹常常是被大人养出来的,不是天性**。
+
+    玛格达 1998 复述在 SRC-022(第 3 章"哭是孩子的语言")。
+
+  what_to_do:
+    - 信:健康婴儿默认平静,持续哭闹是信号不是天性
+    - 排查:饿 / 困 / 痛 / 屎尿 / 衣服紧 / 过度刺激
+    - 减少逗 / 摇 / 抛 / 嘴里不停说话
+    - 给独处 + 自由动腿时间(每天数小时)
+    - 护理时全心投入 + 玩时观察不打扰(皮克勒"护理 / 玩耍"二分原则)
+
+  failure_mode: |
+    "我们家宝就是爱哭天生" → 皮克勒反:健康足月儿没有"天生爱哭"。
+    持续哭闹要排查环境 + 大人行为(过度刺激最常见),不是接受为天性。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Pikler
+  - G-TERM-Loczy-institute
+  - G-TERM-pflege-vs-spiel
+
+citation:
+  book_title_de: "Friedliche Babys – zufriedene Mütter"
+  book_title_zh: "和平的婴儿 — 满足的母亲"
+  authors:
+    - Emmi Pikler
+  publisher_de: HERDER (HERDER / SPEKTRUM Band 4141)
+  year: 1969
+  location: "Einleitung(引言)pp. 6-9"
+  source_id: SRC-026
+
+unit_ids: []
+related_cards:
+  - C-S1-408  # Gerber 哭是孩子的语言(本卷源头)
+  - C-S1-411  # Gerber 7 类婴儿设备(过度刺激源)
+  - C-S1-411  # Gerber 7 类婴儿设备(刺激同源)
+  - C-S6-816  # 松田撒娇章(过度逗对照)
+  - C-S2-292  # Ainsworth 敏感回应(过度刺激反面)
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

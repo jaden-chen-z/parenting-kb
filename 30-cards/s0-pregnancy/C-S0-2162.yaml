@@ -1,0 +1,36 @@
+card_id: C-S0-2162
+stages: [S0]
+tags: [postpartum, mom, philosophy]
+front:
+  title: 不同风格的妈妈都没错
+  hook: 没有完美妈妈模板
+back:
+  why_matters: |
+    前情:育儿书育儿网到处告诉你"应该这样做"。
+    海蒂强调没有完美的父母也没有完美的宝宝,每个妈妈风格不同都可以是好妈妈。在很多情况下,即使是最不成熟的父母,通常也比朋友亲威甚至育儿书更了解宝宝最需要什么。相信直觉。
+  what_to_do:
+    - 全职妈妈/上班妈妈/在家办公都没错
+    - 严格作息或随宝宝节奏都行
+    - 自己不擅长的事让爱人补
+    - 别让别人的"应该"绑架你
+    - 相信你比育儿专家更懂自己宝宝
+  failure_mode: 拿别人妈妈或网红育儿博主为标准,陷入自我怀疑,反而失去对宝宝的本能反应。
+  evidence_level: B
+glossary_refs: []
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors: ["Heidi Murkoff", "Sharon Mazel"]
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh: ["莫夏迪", "张敏"]
+  location: "第 23 章 《妈妈的第一年》, 页 673-675"
+  source_id: "SRC-040"
+related_cards: [C-S0-2161, C-S0-2163]
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

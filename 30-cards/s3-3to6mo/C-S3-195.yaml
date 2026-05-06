@@ -1,0 +1,58 @@
+card_id: C-S3-195
+stages: [S3]
+tags: [montessori, eating, weaning, controversy]
+
+front:
+  title: 6 月正餐时给水
+  hook: 几滴 → shot 杯
+
+back:
+  why_matters: |
+    Lillard Ch7 立场 — **6 月起正餐时给宝宝喝水,不用奶瓶 / sippy**:
+    渐进步骤:
+    1. **6 月初** — 用小勺给几滴水(每餐)
+    2. **6-7 月** — 用 shot 杯(直径 4-5cm,高 4-5cm),妈妈拿,倒入嘴里
+    3. **7-9 月** — shot 杯让宝宝自拿(妈妈在旁监护)
+    4. **9-10 月** — 升级到 5-6 寸高玻璃杯
+    5. **10-12 月** — 自喂喝水,不洒为什么不用 sippy / 奶瓶:
+    - sippy 杯 = 像奶瓶吸吮姿势 → 影响后期口腔肌肉发展
+    - 奶瓶 = 已经哺乳 9 个月,不需要再吸吮
+    - **真玻璃杯有反馈** — 倒太快洒一身 → 学控制
+    Lillard:跟 Davies(C-S5-133 自喂手指食)+ AAP(C-S5-001 戒奶瓶)立场一致,Lillard 给具体杯型 + 时间表。
+    跟"宝宝太小用 sippy 防摔"**对立** — 蒙氏立场:打碎可控,真物训练更重要。
+  what_to_do:
+    - 6 月用小勺给几滴水
+    - 6-7 月 shot 杯妈妈拿
+    - 7-9 月 shot 杯宝宝自拿
+    - 9-10 月升级 5-6 寸玻璃杯
+    - 不用 sippy / 不用奶瓶
+  failure_mode: |
+    "玻璃杯太危险,sippy 安全" — 反:6 月期玻璃 shot 杯倒几口水,妈妈在旁完全可控。
+    sippy 杯延长奶瓶习惯 → 9-10 月该改杯时孩子拒绝。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Lillard
+  - G-PERSON-Jessen
+  - G-TERM-weaning-table
+
+citation:
+  book_title_zh: "蒙台梭利从 0 岁开始"
+  book_title_en: "Montessori from the Start"
+  authors: ["Paula Polk Lillard", "Lynn Lillard Jessen"]
+  authors_zh: ["宝拉·波尔克·莉拉德", "琳·莉拉德·杰森"]
+  publisher_en: "Schocken Books"
+  year_en: 2003
+  isbn_en: "978-0-8052-1112-1"
+  location: "Ch 7 · Food (water + glass introduction)"
+  source_id: SRC-016
+
+unit_ids: []
+related_cards:
+  - C-S5-133       # Davies 10-12 月自喂手指食
+  - C-S5-001       # AAP 戒奶瓶
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

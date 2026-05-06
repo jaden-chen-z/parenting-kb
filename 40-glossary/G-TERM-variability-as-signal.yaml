@@ -1,0 +1,28 @@
+glossary_id: G-TERM-variability-as-signal
+type: term
+display_name: "变异性是信号 / variability as signal"
+
+name_en: "variability as signal"
+name_zh: "变异性是信号"
+
+description: |
+  Thelen-Fischer 立场 — 发展中"看似不稳定"是 reorganization 进行中,新能力即将涌现。
+  不是问题,是好事。
+
+one_liner: |
+  变异性是信号(variability as signal)— Thelen-Fischer 立场 — 发展中"看似不稳定"是 reorganization 进行中,新能力即将涌现。
+
+key_facts:
+  - "Lerner V1 元理论卷核心术语"
+  - "学派:Lerner V1 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

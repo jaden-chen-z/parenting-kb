@@ -1,0 +1,54 @@
+card_id: C-S7-237
+stages: [S7]
+tags: [bowlby, loss, grief, philosophy, china_high_freq]
+
+front:
+  title: 谈死亡用真话不绕弯
+  hook: 不骗不绕用孩子的话
+
+back:
+  why_matters: |
+    哀悼(mourning)= 接受亲人不会回来 + 慢慢消化情感的过程,完成才能继续生活。
+    Bowlby 第十六章温蒂案例(4 岁失母):**父亲坚持告诉真相 + 用孩子能懂的话解释**:
+    - "妈妈不能呼吸了 / 不会感到冷热了 / 永远不会回来 / 会被埋在地下"
+    温蒂提问:"那她怎么呼吸 / 谁喂她?" 父亲耐心回答:"人去世了就不用呼吸不用吃东西了。"
+    **关键:不夹"她去天堂当天使了" / "她去远方了"** — 这种话让孩子困惑(亲戚试图安慰温蒂"妈妈是天使" → 温蒂歇斯底里反驳"她在地底下")。
+    Bowlby 立场:**孩子能承受真相,承受不了的是被骗 + 自己想象**。
+    中国家庭最大坑:**"小孩懂什么,别说"** — 反:孩子懂的比大人想的多,被骗反而加深焦虑(C-S6-096 鲍 V2 已说)。
+  what_to_do:
+    - 用"不会回来 / 永远 / 在地下"等具体词
+    - 让孩子提问 + 重复问不嫌烦
+    - 不绕"去远方 / 睡着了 / 当天使"
+    - 让孩子参与告别仪式(看墓地)
+    - 大人也允许在孩子面前哭
+  failure_mode: |
+    "他还小不告诉" → 加重焦虑 + 用想象填补(C-S6-096)。
+    "她去天堂当小天使了" → 跟现实矛盾 → 孩子分裂 + 困惑歇斯底里(温蒂被亲戚说后崩溃)。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Bowlby
+  - G-TERM-mourning
+  - G-TERM-childhood-mourning
+
+citation:
+  book_title_zh: "依恋三部曲 · 第三卷:丧失"
+  book_title_en: "Attachment and Loss, Vol 3: Loss, Sadness and Depression"
+  authors: ["John Bowlby"]
+  authors_zh: ["约翰·鲍尔比"]
+  publisher_zh: "世界图书出版有限公司北京分公司"
+  year_zh: 2018
+  year_en: 1980
+  isbn_zh: "978-7-5192-3383-9"
+  location: "Ch 16 · 外部条件良好时儿童的反应(温蒂案例)"
+  source_id: SRC-017
+
+unit_ids: []
+related_cards:
+  - C-S6-096       # Bowlby V2 病故别瞒孩子
+  - C-S7-038       # Bowlby V2 9 岁前不怕死
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

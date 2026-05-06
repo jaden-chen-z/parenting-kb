@@ -1,0 +1,84 @@
+glossary_id: G-TERM-fussy-phase
+type: term
+display_name: 烦躁期 (fussy phase)
+
+full_name_en: Fussy Phase
+full_name_zh: 烦躁期(stormy period)
+
+one_liner: |
+  Wonder Weeks 术语:每个大脑跃迁前的 1-6 周窗口,宝宝因神经系统重组而出现 3 C 信号(哭/黏/烦)。区别于 Karp/Brazelton 的"黄昏哭闹"(end-of-day fussy period)。
+
+detail: |
+  ## 定义
+  Fussy phase 指 Wonder Week 跃迁前宝宝出现的"行为崩盘期",van de Rijt + Plooij 也称为 "stormy period"。
+
+  ## 持续时长(按跃迁不同变化)
+  - **早期跃迁(5/8/12 周)**:fussy phase 短,几天到 1 周
+  - **中期跃迁(19/26 周)**:1-4 周
+  - **后期跃迁(37/46/55/64/75 周)**:1-6 周
+  - 每个宝宝差异大,温和宝宝 1 周,敏感宝宝可能 4-6 周
+
+  ## fussy phase ≠ fussy period(易混)
+  | 概念 | 来源 | 时段特征 | 时长 |
+  |---|---|---|---|
+  | fussy phase | Wonder Weeks | 跃迁前的整个窗口,全天波动 | 几天-6 周 |
+  | fussy period | Brazelton/Karp | 每天固定时段(常傍晚)1-2 小时 | 0-3 月发展现象 |
+
+  fussy phase 是发展跃迁视角(纵向),fussy period 是日内波动视角(横向),两者可重叠但概念不同。
+
+  ## fussy phase 的三阶段(van de Rijt 观察)
+  ### 阶段 1:启动期
+  - 突然黏妈、易哭、烦躁
+  - 父母最容易困惑
+
+  ### 阶段 2:高峰期
+  - 3 C 信号最强烈
+  - 睡眠 / 食欲 / 情绪同时倒退
+
+  ### 阶段 3:消退 + 跃迁完成
+  - fussy 信号突然消失
+  - 几天到几周内出现新能力(技能 phase)
+
+  ## 父母应对原则(van de Rijt)
+  - **接受不可消除性**:这段时间不是要消除,是要陪过
+  - **多抱 + 多哺**:fussy phase 期间宝宝需要更多物理接触
+  - **不强求规律**:吃睡作息暂时打乱很正常
+  - **降低环境刺激**:暗光、低声、减少访客
+  - **父母轮换**:fussy phase 最考验养育者神经
+  - **不强行训练**(睡眠训练 / 戒奶 / 戒奶嘴)在 fussy phase 期间会失败
+
+  ## 不要做的事
+  - "再哭就不理"(强化分离焦虑)
+  - "断奶 / 戒奶嘴"(剥夺安全感)
+  - "送医院做全套检查"(没病只是跃迁)
+  - "怀疑自己的带娃方式"(所有妈妈都经历)
+
+  ## 临床应用
+  - 父母提前知道时间表,fussy phase 来临时不慌
+  - 减少不必要医疗就诊和育儿决策反复
+  - 给"宝宝最近怎么了"提供解释框架
+
+key_facts:
+  - Wonder Week 跃迁前的行为崩盘期
+  - 与日内 fussy period 概念不同
+  - 时长几天到 6 周,跃迁后消失
+  - 多抱 + 不强训 + 父母轮换
+  - 发烧 / 嗜睡 → 才是病
+
+related_glossary:
+  - G-TERM-wonder-week
+  - G-TERM-mental-leap
+  - G-TERM-3C-signs
+  - G-TERM-fussy-period
+  - G-TERM-regression-progression
+  - G-TERM-touchpoint
+
+related_cards: []
+
+sources:
+  - source_id: SRC-013
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

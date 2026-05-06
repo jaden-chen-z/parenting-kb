@@ -1,0 +1,27 @@
+glossary_id: G-TERM-three-grand-systems
+type: term
+display_name: "三大派系 / three grand systems"
+
+name_en: "three grand systems"
+name_zh: "三大派系"
+
+description: |
+  Cairns 综述 — 20 世纪心理学三大派:cognitive-developmentalism + psychoanalysis + learning theory。
+
+one_liner: |
+  三大派系(three grand systems)— Cairns 综述 — 20 世纪心理学三大派:cognitive-developmentalism + psychoanalysis + learning theory。
+
+key_facts:
+  - "Lerner V1 元理论卷核心术语"
+  - "学派:Lerner V1 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

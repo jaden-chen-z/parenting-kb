@@ -1,0 +1,59 @@
+card_id: C-S2-189
+stages: [S2]
+tags: [montessori, philosophy, controversy, fantasy]
+
+front:
+  title: 0-6 岁只给真实
+  hook: 反卡通反幻想假物
+
+back:
+  why_matters: |
+    Lillard Ch3 立场强 — **0-6 岁只接触真实,不接触幻想 / 卡通 / 童话怪兽**:
+    - 蒙氏理论:0-6 岁是**吸收性心智**期,不能区分真实 vs 想象
+    - 现实给宝宝大脑"什么是真"的基础 — 这才能在 6 岁后做"想象"
+    - 假物 / 假动物(红色泰迪 / 会说话兔子 / 飞天小孩) = 给宝宝"错误信息"
+    - 后果:有些孩子从窗户跳 / 用刀打人 / 想枪击别人 — 因为卡通里看到这些动作"没后果"
+    实操含义:
+    - 玩具:真物缩小版(真小狗模型 vs 红泰迪)
+    - 书:真实场景(真小孩骑车 vs 兔子上学)
+    - 装饰:真照片 / 自然画 vs 卡通迪士尼
+    - 视频 / 动画:0-6 岁完全不
+    Lillard 立场比 Davies(C-S3-137 选真实主题绘本)更强 — Davies 是"优先真实",Lillard 是"只给真实"。
+    跟主流幼儿娱乐文化(迪士尼 / Cocomelon / Baby Shark)**完全对立**。
+  what_to_do:
+    - 玩具:真物缩小版(真颜色 / 真比例)
+    - 书:真实场景 + 真实人物
+    - 装饰:自然画 / 真照片
+    - 不放卡通 / 动画 / 童话
+    - 6 岁后再引入想象类内容
+  failure_mode: |
+    "宝宝爱卡通,看着开心就好" — 反:0-6 岁吸收性心智,看到的就当真,卡通的"无后果"打人会被学。
+    "童话故事让宝宝有想象力" — 反:想象力建在真实基础上,不是凭空。
+  evidence_level: C
+
+glossary_refs:
+  - G-PERSON-Lillard
+  - G-PERSON-Jessen
+  - G-PERSON-Montessori
+  - G-TERM-absorbent-mind
+
+citation:
+  book_title_zh: "蒙台梭利从 0 岁开始"
+  book_title_en: "Montessori from the Start"
+  authors: ["Paula Polk Lillard", "Lynn Lillard Jessen"]
+  authors_zh: ["宝拉·波尔克·莉拉德", "琳·莉拉德·杰森"]
+  publisher_en: "Schocken Books"
+  year_en: 2003
+  isbn_en: "978-0-8052-1112-1"
+  location: "Ch 3 · 'Discovering the World' (real over fantasy)"
+  source_id: SRC-016
+
+unit_ids: []
+related_cards:
+  - C-S3-137       # Davies 选真实主题绘本
+  - C-S6-132       # Davies 2 岁前不看屏幕
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

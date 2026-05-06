@@ -1,0 +1,49 @@
+card_id: C-S7-1003
+stages: [S7]
+tags: [crick, relational_aggression, lerner_v3]
+
+front:
+  title: "女娃也攻击只是隐性"
+  hook: "排挤等于隐性打人"
+
+back:
+  why_matters: |
+    Crick(Ch 12)综述 — 攻击不只是肢体打。3 岁起孩子(尤女)用 relational aggression(关系攻击):
+    排挤(我不跟你玩了)、说坏话、拉拢小团体孤立某娃。
+    伤害程度跟肢体打相当(被排挤娃焦虑/抑郁数据相同)。
+    一句话 — 你女儿没打人不等于没攻击,关系暴力同样要管。
+  what_to_do:
+    - "女娃说我不跟 X 玩也要聊"
+    - "教不喜欢可以不玩,但不联合排挤"
+    - "你被 X 排挤会怎样?(共情训练)"
+    - "鼓励包容圈子(请被排挤娃)"
+    - "你自己别在娃面前说邻居坏话"
+  failure_mode: |
+    觉得女娃不打人就是乖,忽视关系攻击。
+    Crick — 关系攻击伤害大且无形,3-6 岁是预防窗口。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Crick
+  - G-PERSON-Dodge
+  - G-TERM-relational-aggression
+
+related_cards:
+  - C-S7-403      # Gerber RIE 不止 2 岁
+  - C-S7-348      # Lansbury 温柔
+  - C-S7-128      # Gopnik 心智成熟
+  - C-S7-237      # Bowlby V3 哀伤
+
+citation:
+  source_id: SRC-027
+  source_title: "Handbook of Child Psychology Vol 3"
+  chapter: "Ch 12 Dodge / Crick"
+  chapter_offset: 4125206
+  chapter_title: 'Dodge Coie Lynam — 攻击 + 反社会行为'
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_followup_needed: 'SRC-027 用 PDF 字节偏移代页码 — 待加 page_pdf 反查工具'

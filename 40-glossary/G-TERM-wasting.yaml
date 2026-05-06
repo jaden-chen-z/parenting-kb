@@ -1,0 +1,58 @@
+glossary_id: G-TERM-wasting
+type: term
+display_name: "wasting 消瘦"
+
+en_term: "Wasting (Acute Malnutrition)"
+zh_term: "消瘦"
+
+one_liner: |
+  wasting = 体重/身高低于 WHO Growth Standards -2 SD,急性营养不良指标。
+
+detail: |
+  ## 定义
+  Wasting — 体重/身高低于 WHO Growth Standards -2 SD,5 岁以下急性营养不良核心指标。
+  
+  ## 阈值
+  - 中度:-2 SD 至 -3 SD
+  - 严重(SAM):< -3 SD,需要紧急医学干预(MUAC < 11.5 cm)
+  
+  ## 全球数据(2022)
+  - 5 岁下 4500 万娃 wasted
+  - 紧急/灾难时高(战争 / 饥荒)
+  - 死亡率高(SAM 死亡率 5-15%)
+  
+  ## 原因
+  - 急性食物不足
+  - 急性疾病(腹泻脱水)
+  - 紧急情况(灾难)
+  
+  ## 干预
+  - WHO Ready-to-Use Therapeutic Food (RUTF)
+  - 紧急喂养项目
+  - 持续母乳保护(EBF 防 wasting 死亡)
+  
+  ## 跟 stunting 区别
+  - stunting:慢性,身高失败
+  - wasting:急性,体重失败
+  - 两者可同时存在(severely affected)
+
+key_facts:
+  - "WHO -2 SD 阈值"
+  - "全球 4500 万娃"
+  - "紧急/灾难时高"
+  - "SAM 死亡率 5-15%"
+
+related_glossary:
+  - G-TERM-WHO-growth-standards
+  - G-TERM-stunting
+
+related_cards:
+  - C-S0-1029
+
+sources:
+  - source_id: SRC-031
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

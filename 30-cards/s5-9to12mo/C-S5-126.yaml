@@ -1,0 +1,63 @@
+card_id: C-S5-126
+stages: [S5]
+tags: [development_burst, controversy]
+
+front:
+  title: 37 周第六跃迁:分类世界
+  hook: 8.6 月研究员模式
+
+back:
+  why_matters: |
+    第 37 周(34-37 周 ≈ 8.6 月)是 Wonder Week 第六跃迁 — **分类世界**(World of Categories)。
+    怎么回事:大脑从"理解关系"升级到能把世界**按类别归组**:
+    - 香蕉 + 菠菜 = 食物类
+    - 棕马 + 白马 + 画上的马 + 玩具马 = 都是"马"
+    - 可以理解抽象类别(同类、不同类)
+    跃迁前烦躁 阶段(32-37 周)持续 3-6 周。
+    跃迁后宝宝立刻进入"研究员模式":
+    - 长时间专注地用拇指和食指捏小东西看
+    - 把食物在盘子里摆弄(测物理特性:香蕉怎么烂,菠菜怎么挤)
+    - 像科学家一样严肃地观察细节
+    - 语言理解力突增(虽然还不能说,听得懂多了)
+    神经科学:Brain wave studies 显示约 36-37 周脑波明显改变(B 级证据)。
+    家长意义:**8-9 月宝宝在桌上摆弄食物 / 把东西分组放,不是淘气,是分类大脑在工作**。
+  what_to_do:
+    - 32-37 周 3 C 信号 → 第六跃迁
+    - 提供分类玩具(动物 / 食物 / 形状)
+    - 用准确名词跟宝宝说话:不是"喵喵",是"猫"
+    - 接受宝宝把书放一堆 / 玩具放一堆的"研究行为"
+    - 跃迁完成后宝宝突然能理解"还有 / 没有了 / 全部"等概念
+  failure_mode: |
+    "宝宝把饭菜搅得到处都是 = 不懂事" — 是分类大脑在做物理研究。
+    把宝宝突然安静专注地观察小东西误判为"发呆 / 是不是有问题"。
+    跃迁后期不说话只是看 → 担心语言发育延迟。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-vanderijt
+  - G-TERM-wonder-week
+  - G-TERM-mental-leap
+  - G-TERM-3C-signs
+  - G-TERM-fussy-phase
+
+citation:
+  book_title_zh: "婴儿大脑跃迁 10 周(神奇周)"
+  book_title_en: "The Wonder Weeks"
+  authors: ["Hetty van de Rijt", "Frans X. Plooij"]
+  authors_zh: ["海蒂·凡德里特", "弗朗斯·普洛伊"]
+  publisher_en: "Kiddy World Publishing"
+  year_en_first: 1992
+  isbn_en: "978-90-79208-12-1"
+  location: "Chapter 8 · Wonder Week 37: The World of Categories(at about 37 weeks... your baby is now able to recognize that certain objects belong together in groups or categories + Brain wave changes around this time)"
+  source_id: SRC-013
+
+unit_ids: []
+related_cards:
+  - C-S4-128       # WW37 跃迁前奏(S4 段)
+  - C-S5-127       # WW46 序列世界
+  - C-S1-179       # 10 跃迁时间表
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

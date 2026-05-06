@@ -1,0 +1,28 @@
+glossary_id: G-TERM-probabilistic-epigenesis
+type: term
+display_name: "概率性表观遗传 / probabilistic epigenesis"
+
+name_en: "probabilistic epigenesis"
+name_zh: "概率性表观遗传"
+
+description: |
+  Gottlieb 模型 — 4 层(基因 / 神经 / 行为 / 环境)双向互动,反基因决定论。
+  基因 ≠ 命运 = 概率而非必然。
+
+one_liner: |
+  概率性表观遗传(probabilistic epigenesis)— Gottlieb 模型 — 4 层(基因 / 神经 / 行为 / 环境)双向互动,反基因决定论。
+
+key_facts:
+  - "Lerner V1 元理论卷核心术语"
+  - "学派:Lerner V1 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,55 @@
+card_id: C-S1-2500
+stages: [S1]
+tags: [safety]
+
+front:
+  title: 母乳宝宝出生头几天起补 VD 400 IU
+  hook: 配方娃日量 450 克奶不用补
+
+back:
+  why_matters: |
+    维生素 D 是骨骼发育必需,缺乏直接造成佝偻病。
+    宝宝靠晒太阳合成 VD,但防晒衣 + 防晒霜 + 冬季长 + 北方城市,大部分宝宝晒不够。
+    白皮肤宝宝每周晒 15 分钟、深色皮肤更长才达标 — 现实里很难持续达到。
+    母乳本身 VD 含量极低(妈妈再怎么吃都补不上),所以 AAP 2008 指南建议**纯/混母乳宝宝出生头几天内开始补 VD 400 IU/天**。
+    配方奶里通常已强化 VD,**每天喝 ≥ 450 克配方奶的宝宝不用额外补**(补多反而中毒)。
+
+    📝 注:Heidi 原书第 6 章第 1 个月有"2 周"和"头 2 个月"两种表述,本卡统一按 AAP 2008 Wagner 指南"出生头几天"标准。
+  what_to_do:
+    - 纯/混母乳宝宝:出生头几天内开始,每日 400 IU 滴剂滴口腔
+    - 混合喂养:算配方奶量,每日不到 450 克 → 仍按 400 IU 补
+    - 配方奶 ≥ 450 克/日 → 不补,过量风险高
+    - 选液体型滴剂(常含 A+C+D 三联),不用胶囊
+    - 持续补到 1 岁后转全脂奶时再评估
+  failure_mode: |
+    "晒太阳就够"是误区 — 都市生活、防晒习惯、季节都让晒太阳达标率极低。
+    给配方娃额外补 VD → VD 中毒(高钙血症 / 肾损伤)。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-AAP
+
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors:
+    - Heidi Murkoff
+    - Sharon Mazel
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh:
+    - 莫夏迪
+    - 张敏
+  location: "第 6 章第 1 个月 · 补充剂的意义 · 维生素 D 专栏"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards: []
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,85 @@
+glossary_id: G-PERSON-Stern
+type: person
+display_name: Stern (丹尼尔·斯特恩)
+
+full_name_en: Daniel N. Stern
+full_name_zh: 丹尼尔·斯特恩
+
+one_liner: |
+  瑞士裔美国精神分析师 + 发展心理学家 + self 心理学教父。
+  1934-2012,日内瓦大学 / Cornell Med 教授,首次系统化 4 阶段自我感理论 + affective attunement(情感调谐)概念。是 Brazelton/Bowlby/Ainsworth 学术圈核心,世界婴儿心理健康协会(WAIMH)创办人之一,本卷《婴儿的人际世界》是 self 心理学奠基之作。
+
+detail: |
+  ## 背景
+  - 1934 年生于纽约,父亲 Dr. Aaron Stern(纽约 Mt. Sinai 妇科主任)
+  - Harvard 大学医学博士(1956)
+  - Albert Einstein 医学院精神科住院医师培训
+  - 1960s 中期投入婴儿研究 — 当时新兴学科
+  - 长期任 Cornell Medical 精神科教授 + Columbia 大学
+  - 1989 年迁日内瓦大学 — 任心理学教授至退休
+  - 2012 年逝世于日内瓦,77 岁
+
+  ## 在心理学的地位
+  - **Self 心理学的"教父"** — 把"自我"重新带回精神分析中心
+  - 跟 Bowlby(依恋)+ Brazelton(婴儿评估)+ Ainsworth(陌生情境)是 1960-90 年代婴儿研究"四巨头"
+  - 反 Freud / Mahler 的经典精神分析观(共生融合 / 正常自闭期)
+  - 跟 Bowlby 互补 — Bowlby 给"关系",Stern 给"心理机制"
+  - 是世界婴儿心理健康协会(WAIMH)创办人之一
+
+  ## 主要著作
+  - 1977《The First Relationship: Infant and Mother》
+  - **1985《The Interpersonal World of the Infant》** ⭐ — 本卷,4 senses of self + attunement
+  - 2000《Updated Edition》— 加 Updated 序言 + 新章
+  - 1995《The Motherhood Constellation》— 母性心理学
+  - 2004《The Present Moment in Psychotherapy and Everyday Life》— 临床应用
+
+  ## Stern 独家原创概念
+  - **4 senses of self** — emergent / core / subjective / verbal,叠加不替换
+  - **Affective attunement** ⭐ — 跨感官匹配宝宝内心活力质地
+  - **Vitality affects** — 喜怒哀乐之外的"动态质地"(澎湃 / 渐弱)
+  - **RIGs**(Representations of Interactions Generalized)— 互动概括化表征
+  - **Evoked companion** — 唤起的伙伴,独自时仍有"内化伙伴陪"
+  - **Selective attunement** — 父母选择性调谐 = socialization 工具
+  - **Cross-modal perception** — 跨感官感知是天生不需学
+
+  ## 风格 + 影响
+  - 文笔学术正式但案例丰富(母婴互动录像分析)
+  - 影响心理治疗(尤其婴儿 - 父母共同治疗 IPT-B)
+  - 影响早期干预(高风险新生儿干预)
+  - 影响艺术 / 美学(vitality affects 解释音乐 / 舞蹈 / 诗)
+  - 中文圈知名度低于 Bowlby,但是临床圈深度参考
+
+  ## 在中文社群的影响
+  - 中译本《婴儿的人际世界:精神分析与发展心理学的视野》(华东师大 2017)
+  - 心理治疗师 / 婴幼儿教育研究者必读
+  - 普通家长少接触 — 但"情感调谐"概念正在普及
+
+key_facts:
+  - 1934-2012 瑞士裔美国精神分析师 + 发展心理学家
+  - 4 senses of self 理论奠基
+  - Affective attunement 概念首次命名
+  - 跟 Bowlby/Brazelton/Ainsworth 同辈"四巨头"
+  - 本卷 1985 年是 self 心理学经典
+
+related_glossary:
+  - G-PERSON-Bowlby
+  - G-PERSON-Brazelton
+  - G-PERSON-Ainsworth
+  - G-TERM-emergent-self
+  - G-TERM-core-self
+  - G-TERM-subjective-self
+  - G-TERM-verbal-self
+  - G-TERM-affective-attunement
+  - G-TERM-vitality-affects
+  - G-TERM-RIGs
+
+related_cards: []
+
+sources:
+  - source_id: SRC-018
+  - external: Wikipedia / Basic Books / Geneva U. obit
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

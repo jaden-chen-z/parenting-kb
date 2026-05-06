@@ -1,0 +1,71 @@
+card_id: C-S8-428
+stages: [S8]
+tags: [cognitive_science, autism, theory_of_mind, lerner_v2]
+
+front:
+  title: 自闭症 ToM 延迟
+  hook: 8 岁仍不过 Sally
+
+back:
+  why_matters: |
+    Baron-Cohen/Leslie/Frith 1985 经典 + Lerner V2 Ch19 综述。
+    自闭症儿童 Sally-Anne 任务结果:
+    - 普通发育:4-5 岁通过(80%+)
+    - 唐氏综合征:延迟 1-2 年(也通过)
+    - **自闭症:5-10 年延迟**(8-10 岁仍只 50% 通过)
+    Baron-Cohen 立场:
+    - 自闭症核心障碍是 ToM(theory of mind)缺损
+    - 不是"智力低" — IQ 可正常
+    - 是"心智盲"(mindblindness)
+    Leslie 立场补充:
+    - ToMM(theory of mind module)受损
+    - 假装游戏少 18 月已是早期信号意义:
+    - ToM 不是"智力"而是独立认知模块
+    - 是自闭症诊断核心标准
+    - 早期信号:18 月少假装 + 少 declarative pointing + 少 joint attention
+    跟现库:跟 Wellman ToM 5 阶段(C-S7-1098)+ Sally-Anne(C-S8-420)+ Leslie ToMM(C-S6-1171)对接。
+    Lerner V2 综述给自闭症 ToM 实证。
+    对中国家长意义:
+    - 18 月若少假装游戏 + 少指物分享 + 少看妈妈表情 = 关注
+    - 不能拿"早会数字"误以为智力高
+    - ToM 是社交基础(比早教数字重要)
+    - 早期干预对 ToM 有效(2-4 岁是关键期)
+  what_to_do:
+    - 18 月起观察 ToM 早期标志
+    - 少假装 + 少指 + 少看 → 咨询医生
+    - ToM 训练在 2-4 岁有效
+    - 不要"早会数字"误判智力
+  failure_mode: |
+    "ToM 是智力的一部分" — 错。独立模块。
+    "自闭症就是智力低" — 错。IQ 可正常。
+    "ToM 训练 5 岁后才有效" — 错。2-4 岁是关键。
+  evidence_level: B
+
+glossary_refs:
+  - G-TERM-theory-of-mind
+  - G-PERSON-Wellman
+  - G-PERSON-Leslie
+  - G-PERSON-Harris-Paul
+  - G-TERM-joint-attention
+  - G-TERM-critical-period
+  - G-TERM-false-belief
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 2 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 2 卷"
+  authors: ["Paul L. Harris"]
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 19 · Autism and ToM · pp. 825-832"
+  source_id: SRC-028
+
+unit_ids: []
+related_cards:
+  - C-S6-1171     # Leslie ToMM 18 月
+  - C-S7-1098     # Wellman ToM 5 阶段
+  - C-S8-420       # Sally-Anne
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,22 @@
+glossary_id: G-TERM-gender-schema
+type: term
+display_name: "性别图式"
+
+one_liner: |
+  Martin:孩子内化的性别角色模板,3-5 岁高峰期,后期会软化。
+
+detail: |
+  Martin:孩子内化的性别角色模板,3-5 岁高峰期,后期会软化。
+
+  来源:Lerner V3《Handbook of Child Psychology Vol 3》(Wiley 2006 第 6 版,Eisenberg 主编)。
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-027
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

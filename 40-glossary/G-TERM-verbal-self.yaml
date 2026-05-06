@@ -1,0 +1,80 @@
+glossary_id: G-TERM-verbal-self
+type: term
+display_name: 语言自我 (verbal self)
+
+full_name_zh: 语言自我
+full_name_en: Sense of a Verbal Self
+
+one_liner: |
+  Stern 命名的 self 第四阶段 — **15+ 月**婴儿能用语言反映自己的能力。
+  伴随 5 大新能力:符号思维 + 镜中认我 + 代词使用 + gender identity + 早期 empathy。**是双刃剑** — 既增强分享也异化体验。
+
+detail: |
+  ## 定义
+  Verbal self(语言自我)= 15+ 月通过**语言 + 符号思维**反映自我 + 与人共享意义的能力。
+  - 加入 categorical self(客观分类自我),不只是 subjective self
+  - 是后续叙事自我(narrative self)+ 自我反思的奠基
+
+  ## 5 大新能力(15-18 月起)
+  1. **Symbolic thinking** — 用一物代表另一物(玩具电话代表真电话)
+  2. **Deferred imitation** — 看到爸打电话几小时后自己学
+  3. **Self-recognition**(镜中认我) — 18 月 rouge test 通过(见镜中红点摸自己鼻子)
+  4. **代词使用** — 我 / 我的 / 你 / 我们(24-36 月稳定)
+  5. **早期 empathy** — 13 月起看到别人难过会试图安慰
+
+  ## 双刃剑
+  - **优点** — 创造共享意义 + 叙事自我 + 跨时间沟通 + 抽象思考
+  - **代价** — 词只能装一小部分体验,**装不下的体验被异化**
+  - 这就是为什么大人"失去童心" — 不是真失去,是语言切割了之前的整体体验
+  - vitality affects / amodal perception 等"语言外体验"逐渐淡出意识
+
+  ## We meanings(Vygotsky + Holquist dialogism)
+  - 词的意义是**双方协商**出来的
+  - 妈说"乖" vs 爸说"乖" 意义可能不同 → identity 困难
+  - 父母给情感**贴错标签** → 一辈子认错(C-S6-299)
+
+  ## 学说话的真正动机(Dore)
+  - 15-18 月起妈开始要求宝宝按 social order 行动
+  - 宝宝感到"失去 personal order"
+  - **学说话是为了重建跟妈的亲密** — 关系动机,不只是认知
+  - 学说话 = attachment 在 verbal level 的延续
+
+  ## 关键 — 不取代之前 3 层 self
+  - emergent / core / subjective self 没消失,仍在场
+  - 仍需要大量非语言互动(attunement / vitality matching / communion)
+  - "宝宝会说话就该独立了" 是错误观点
+
+  ## 临床意义
+  - 心理治疗核心工作之一 = 重新接触语言外体验
+  - alexithymia(述情障碍)= 缺乏内心状态词的能力 → 早期父母没准确命名情感
+  - 强迫 / 抑郁 / 焦虑常跟跟 verbal self 跟之前 self 层"断联"有关
+
+  ## 一辈子都活跃
+  - 大人此刻在思考 / 写字 / 说话时,在用 verbal self
+  - 是 4 层 self 中**最易意识到** 的(因为靠语言),但不是唯一的
+
+key_facts:
+  - Stern 4 senses of self 第四阶段
+  - 15-18 月起,5 大新能力
+  - 双刃剑:增强分享 + 异化体验
+  - We meanings 来自父母 — 错命名一辈子认错
+  - 不取代之前 3 层 self
+
+related_glossary:
+  - G-PERSON-Stern
+  - G-TERM-emergent-self
+  - G-TERM-core-self
+  - G-TERM-subjective-self
+  - G-TERM-self-recognition
+  - G-TERM-symbolic-play
+
+related_cards: []
+
+sources:
+  - source_id: SRC-018
+  - external: Stern《The Interpersonal World of the Infant》Ch 8
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

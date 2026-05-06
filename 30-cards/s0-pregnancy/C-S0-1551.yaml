@@ -1,0 +1,56 @@
+card_id: C-S0-1551
+stages: ['S0']
+tags: ['philosophy', 'lerner_v1', 'oser', 'fowler', 'faith_stages']
+
+front:
+  title: "Fowler 信仰 6 阶段"
+  hook: "信仰怎么慢慢长大"
+
+back:
+  why_matters: |
+    Fowler 1981 经典 — 信仰发展 6 阶段(via Oser Ch 17):
+    1. **intuitive-projective**(3-7 岁)— 直觉投射,神是大力量(像超人)
+    2. **mythic-literal**(7-12 岁)— 神话字面理解,故事即真理
+    3. **synthetic-conventional**(青春期)— 综合常规,跟随群体信仰
+    4. **individuative-reflective**(青年期)— 个人反思,质疑常规
+    5. **conjunctive**(中年期)— 综合矛盾 + 接纳神秘
+    6. **universalizing**(罕见)— 普世意识,超越教派意义 — 中国非宗教家庭也适用(Fowler 不限于宗教,是"意义系统")。
+    中国父母对接 —
+    - 3-7 岁娃问"妈妈,人死了去哪" — 直觉投射阶段,简单回答
+    - 7-12 岁娃信"故事就是这样" — 字面理解,容许 + 不嘲笑
+    - 青春期质疑你的价值观 — 个人反思阶段,平等讨论
+  what_to_do:
+    - "3-7 岁 — 简单具体回答关于神 / 死亡"
+    - "7-12 岁 — 容许字面理解,不强行抽象"
+    - "青春期 — 质疑是健康发展"
+    - "不限于宗教 — 任何意义系统"
+    - "Fowler 6 阶段 = 终生信仰发展"
+  failure_mode: |
+    "信仰是大人事" 立场 — 错。Fowler:3-7 岁就开始。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Fowler
+  - G-PERSON-Oser
+  - G-TERM-fowler-faith-stages
+  - G-TERM-religious-spiritual-development
+
+related_cards:
+  - C-S6-1511
+  - C-S8-1143
+  - C-S0-1517
+  - C-S0-722
+
+citation:
+  source_id: SRC-030
+  source_title: "Handbook of Child Psychology Vol 1: Theoretical Models of Human Development"
+  chapter: "Ch 17 Oser (Fowler reference)"
+  chapter_offset: 5172633
+  chapter_title: 'Oser / Scarlett / Bucher — Religious/Spiritual Development'
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_followup_needed: 'SRC-030 用 PDF 字节偏移代页码 — 待加 page_pdf 反查工具'

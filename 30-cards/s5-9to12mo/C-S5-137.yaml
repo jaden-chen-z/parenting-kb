@@ -1,0 +1,92 @@
+card_id: C-S5-137
+stages: [S5]
+tags: [montessori, separation-anxiety, clingy, attachment]
+
+front:
+  title: 6-16 月黏人是健康
+  hook: 蒙氏处理分离焦虑
+
+back:
+  why_matters: |
+    6-16 月宝宝**突然变黏** — 妈妈出厨房就哭 / 阿姨抱不让 / 任何人接近就抗拒。
+    家长常陷入两个误区:
+    - **担心**:"是不是缺乏安全感?是不是有问题?"
+    - **强行训练**:"必须让他学会跟别人,不能这么黏"
+    Davies 的蒙氏视角(跟 Bowlby 一致):**这是健康的依恋形成 + 物体永久性发展**。
+    为什么:
+    - **6-16 月是分离焦虑的窗口**
+    - 宝宝刚学会"妈妈不在视线 ≠ 妈妈消失"(物体永久性)
+    - 但还没完全建立信任 → 担心妈妈不回来 → 紧抓
+    - **黏 = 信任在巩固,不是缺乏安全感**
+    Davies 的 6 条处理法:
+    1. **离开前明确告诉**:"我去厨房" — 让他建立预期
+    2. **远处呼应**:"我在厨房!" — 让他知道你还在
+    3. **回来明确**:"我回来了!" — 反馈循环
+    4. **新照顾人提前来家里**(让他熟悉)
+    5. **保持其他 reference 一致**(房间 / 流程 / 食物不变)
+    6. **留有你气味的东西在身边**(衣服)
+    家长自己也要调:
+    - **不要焦虑**(宝宝感你的焦虑会更黏)
+    - **不要把"独立"提前推**(6-16 月是黏的健康期,不强训独立)
+    - 跟黏人的宝宝一起待 → 自信回升 → 自动减少黏研究:**安全依恋的宝宝反而分离焦虑更早出现**(6-7 月)+ **更早消退**(16-18 月)。不安全依恋的宝宝可能 2-3 岁还黏。
+  what_to_do:
+    - 离开前明确告诉宝宝
+    - 远处呼应 + 回来反馈
+    - 新照顾人提前来家熟悉
+    - 不强训独立 — 黏期就是黏
+    - 自己不焦虑(宝宝感得到)
+  failure_mode: |
+    "他这么黏是宠坏了 / 没安全感" — 反:6-16 月黏是健康依恋形成的体现。
+    "强训独立不让他黏 = 长大独立" — 反:0-3 岁满足依恋的宝宝长大反而更独立。
+    "我家没人脸,谁见都哭" — 自然现象。让陌生人慢慢熟悉,不强迫。
+  evidence_level: B
+
+  positions:
+    issue: 睡眠训练方法选择 · 何时启动 · 哭多久才合理
+    views:
+      - school: Lillard(蒙氏)
+        source: SRC-016
+        stance: 6 月起关门睡 + 不抱不晃,孩子哭也不进。训练派立场最激进。
+      - school: Brazelton
+        source: SRC-010
+        stance: 温和拍背 + 浅睡期演练。中间立场,父母在场但减少介入。
+      - school: Davies
+        source: SRC-014
+        stance: 反对强训 — 6-16 月黏人是健康表现,过度训练有依恋代价。
+      - school: AAP / Bowlby
+        source: SRC-006/011
+        stance: AAP 6 月+ 可启动温和方法;Bowlby 反对长时间哭训,需评估孩子类型。
+      - school: 海蒂(Ferber 派)
+        source: SRC-040
+        stance: 温和 Ferber 法 / 改良 Ferber — 主流大众方案;节奏接近 Lillard 但更弹性,不极端关门。
+      - school: 中国传统
+        stance: 陪睡到学龄,不"训练"以避免分离焦虑;倾向自然戒断。
+glossary_refs:
+  - G-PERSON-Davies
+  - G-PERSON-Bowlby
+  - G-TERM-separation-anxiety
+  - G-TERM-attachment
+  - G-TERM-stranger-anxiety
+  - G-TERM-object-permanence
+
+citation:
+  book_title_zh: "蒙特梭利的小宝宝(0-1岁)"
+  book_title_en: "The Montessori Baby"
+  authors: ["Simone Davies", "Junnifa Uzodike"]
+  authors_zh: ["西蒙·戴维斯", "君妮法·乌佐迪克"]
+  publisher_en: "Workman Publishing"
+  year_en: 2021
+  isbn_en: "978-1-5235-0693-7"
+  location: "Chapter 7 · Common Questions > Clingy / separation anxiety"
+  source_id: SRC-014
+
+unit_ids: []
+related_cards:
+  - C-S4-068       # Bowlby 8 月怕陌生人
+  - C-S5-069       # Bowlby 安全依恋反更早分离焦虑
+  - C-S4-125       # Wonder Week 跃迁周龄↔依恋
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

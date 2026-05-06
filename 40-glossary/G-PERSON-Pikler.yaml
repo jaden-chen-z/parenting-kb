@@ -1,0 +1,110 @@
+glossary_id: G-PERSON-Pikler
+type: person
+display_name: Pikler (艾米·皮克勒)
+
+full_name_en: Emmi Pikler
+full_name_zh: 艾米·皮克勒
+
+one_liner: |
+  1902-1984 匈牙利儿科医生,Pikler 研究所(布达佩斯孤儿院)创始人。
+  自然大动作发展 + floor bed + 不撑坐 + 信任宝宝身体智慧 = Pikler 派核心。
+  Magda Gerber 的导师 + 朋友,RIE 派的科学根基。
+  影响蒙氏 + Davies + Lillard + Lansbury + Gerber 等多位现代育儿派。
+
+detail: |
+  ## 生平
+  - **1902 年**生于维也纳
+  - 在维也纳 + 布达佩斯学医,儿科 + 整形外科双训练
+  - **1930 年代**起做家庭儿科医生(布达佩斯)
+  - **1946 年**创立 Lóczy 研究所(后改名 Pikler 研究所),
+    在二战后接管 0-3 岁孤儿,实践她的方法
+  - **1984 年**布达佩斯逝世
+  - 女儿 Anna Tardos 继承研究所
+
+  ## 核心理论
+  1. **自然大动作发展(natural gross motor development)**
+     - 不教 / 不撑 / 不帮宝宝学翻 / 爬 / 坐 / 站
+     - 给可探索区 + 时间 → 宝宝按自己时间表学
+     - 跳过传统的"撑坐 / 学步车 / Bumbo" 都不用
+  2. **过渡姿势的价值**
+     - 翻 → 侧躺 → 半跪 → 坐 — 每个过渡都重要
+     - 跳过过渡的宝宝大动作不流畅
+  3. **floor bed(地板床)**
+     - 婴儿期就睡平地的低床(无围栏)
+     - 自由进出,自主选择休息时间
+     - 蒙氏 0-3(Davies / Lillard)直接借用
+  4. **观察 + 不干预(observation + non-interference)**
+     - 大人坐在旁边,看 / 不主动
+     - 宝宝发出信号才回应
+     - RIE 派 + 蒙氏共同的"等"哲学起源
+
+  ## 影响传承
+  - **直接弟子**:Magda Gerber(1956 移民美国,创 RIE)
+  - **现代 RIE 派**:Janet Lansbury(本卷作者,SRC-019)
+  - **现代蒙氏 0-3**:Silvana Montanaro(Lynn Lillard Jessen 的师承)
+  - **借用 floor bed**:Davies(SRC-014)+ Lillard(SRC-016)
+  - **Gerber 评价**:"我的所有都来自 Pikler"
+
+  ## 主要著作
+  - 1969《Peaceful Babies — Contented Mothers》(德文 Friedliche Babys, zufriedene Mütter)
+    Lansbury Ch7 关键引用
+  - 1979《Lasst mir Zeit》(给我时间)
+  - Anna Tardos 编《Moving with Pikler》
+
+  ## 跟蒙氏的关系
+  - **平行流派**(都强调自由 + 信任 + 准备好的环境)
+  - **差异**:
+    - Pikler 更关注 0-3 大动作发展
+    - 蒙氏更系统化(prepared environment + practical life)
+    - Pikler floor bed → 蒙氏借用
+    - 蒙氏敏感期 → Pikler 不强调
+  - **互补关系**
+
+  ## 在中文社群的位置
+  - 知名度极低
+  - 部分蒙氏 0-3 培训师在国内推广 floor bed 时会提
+  - 是"少做点 / 信任宝宝"派的科学源头
+
+key_facts:
+  - 1902-1984 匈牙利儿科医生
+  - Pikler 研究所(1946)创始人
+  - Magda Gerber 师承
+  - 自然大动作发展 + floor bed 创立
+  - 影响 RIE / 蒙氏 / Davies / Lillard / Lansbury 多派
+
+related_glossary:
+  - G-PERSON-Gerber
+  - G-PERSON-Lansbury
+  - G-PERSON-Davies
+  - G-PERSON-Lillard
+  - G-TERM-floor-bed
+  - G-TERM-RIE
+
+related_cards:
+  - C-S2-290  # Lansbury 不撑坐(英文复述)
+  - C-S3-191  # Lillard 大动作
+  - C-S3-133  # Davies floor bed
+  # 本卷 SRC-026 Pikler 1969 德文原典代表卡(36 张全部引用 G-PERSON-Pikler):
+  - C-S1-894  # Pikler 婴儿没有"按时表"
+  - C-S2-832  # Pikler 1-3 月不在大腿上坐
+  - C-S3-835  # Pikler 大动作 6 阶段顺序
+  - C-S4-834  # Pikler 反撑坐 6 论证(德文原版)
+  - C-S4-835  # Pikler "永不强迫坐!"名言
+  - C-S4-837  # Pikler Pflege vs Spiel 二分
+  - C-S5-933  # Pikler 不教站
+  - C-S6-957  # Pikler 反便盆训练
+  - C-S6-960  # Pikler 适应不能靠机械习惯
+  - C-S7-893  # Pikler Geduld 是最强育儿原则
+
+sources:
+  - source_id: SRC-019  # Lansbury 隔代师承
+  - source_id: SRC-014  # Davies 蒙氏 floor bed 借用
+  - source_id: SRC-016  # Lillard 蒙氏 0-3
+  - source_id: SRC-022  # Magda Gerber 直系师承
+  - source_id: SRC-026  # Pikler 1969 德文原典(本卷主源)
+  - external: Pikler Institute / Wikipedia / Pikler-Lóczy Association
+
+language: zh
+status: complete
+created: 2026-05-03
+updated: 2026-05-04

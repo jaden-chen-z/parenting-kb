@@ -1,0 +1,28 @@
+glossary_id: G-TERM-A-not-B-error
+type: term
+display_name: "A 非 B 错误 / A-not-B error"
+
+name_en: "A-not-B error"
+name_zh: "A 非 B 错误"
+
+description: |
+  8-10 月婴儿明明看到玩具藏 B 还找 A — Piaget 解读"无物体永久"。
+  Thelen-Smith 修正:不是没概念,是 A 杯 attractor 强化结果。
+
+one_liner: |
+  A 非 B 错误(A-not-B error)— 8-10 月婴儿明明看到玩具藏 B 还找 A — Piaget 解读"无物体永久"。
+
+key_facts:
+  - "Lerner V1 元理论卷核心术语"
+  - "学派:Lerner V1 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

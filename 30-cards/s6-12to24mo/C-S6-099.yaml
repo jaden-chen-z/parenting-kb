@@ -1,0 +1,88 @@
+card_id: C-S6-099
+stages: [S6, S7]
+tags: [philosophy, controversy, red_flag]
+
+front:
+  title: 我是为你好的陷阱
+  hook: 真实体验 vs 妈妈版本
+
+back:
+  why_matters: |
+    Bowlby Vol 2 第二十章核心洞察:
+    **当父母系统性把"我是爱你的 / 我是为你好"作为伪造叙事时,孩子会陷入认知冲突 → 内部模型崩溃。**
+    经典模式:
+    - 妈妈实际:忽视 / 苛求 / 拒绝 / 控制
+    - 妈妈版本:"我极其奉献 / 我都是为你好 / 你应该感谢我"
+    - 孩子真实体验 vs 妈妈版本 = 严重矛盾
+    **4 种可能结果**(Bowlby Ch 20):
+    1. 孩子坚持自己的体验(冒和父母翻脸的风险)
+    2. 完全接受父母版本(自我否定 → 抑郁 / 解离)
+    3. 妥协 — 同时相信两个版本(最常见,长大后人际关系扭曲)
+    4. 拼命整合两个矛盾版本 → **认知力崩溃**(Bowlby 推测精神分裂部分起源)
+    中文家庭高频版本:
+    - "妈妈这么辛苦都是为了你,你怎么能这样"
+    - "我打你也是爱你"
+    - "棍棒底下出孝子"
+    - "我没文化,这都是为你好"
+    - "你不感谢妈妈我太伤心了"
+    机制:**孩子被剥夺信任自己感受的权利** → 长大不知道什么是真实情绪。
+    家长大坑:误以为"为你好"的话术是教育;实际是认知操控,代价是孩子的自我感。
+  what_to_do:
+    - 自己的难受不要包装成为你好
+    - 行为 vs 感受分开 — 累了不等于你欠我
+    - 让孩子有反对的权利
+    - 我是爱你的要靠行动证明不是话术
+    - 老人 / 配偶用此话术要立刻制止
+  failure_mode: |
+    "我说我爱他他都不信" — 因为他的真实体验跟你的话不一致;说一万遍不如行动一次。
+    "孩子怎么会怀疑妈妈" — 大部分孩子怀疑过,只是不敢说;到青春期会爆发或长大默默疏离。
+  evidence_level: B
+
+  positions:
+    issue: '"妈不要你了" 等威胁话术作为管教手段是否可行'
+    views:
+      - school: Bowlby V2
+        source: SRC-012
+        stance: 强烈反对 — 等同系统性精神虐待,直接破坏依恋安全。属儿童虐待范畴。
+      - school: Davies
+        source: SRC-014
+        stance: 温柔而清晰的边界,不撤回爱。规则讲明,情绪仍在场。
+      - school: Lillard
+        source: SRC-016
+        stance: No 永远是 No,但界限设置不带情绪 / 不带威胁。
+      - school: 鲍秀兰
+        source: SRC-009
+        stance: 不打孩子立场对齐反虐待派,但未直接禁此话术。
+      - school: 中国主流
+        stance: '"妈不要你了" 是常用威胁话术;"我是为你好" 是常用绑架话术。'
+glossary_refs:
+  - G-PERSON-Bowlby
+  - G-TERM-attachment
+  - G-TERM-anxious-attachment
+  - G-TERM-internal-working-model
+  - G-TERM-defensive-exclusion
+
+citation:
+  book_title_zh: "依恋三部曲 · 第二卷:分离"
+  book_title_en: "Attachment and Loss · Volume 2: Separation"
+  authors: ["John Bowlby"]
+  authors_zh: ["约翰·鲍尔比"]
+  translators_zh: ["汪智攀", "王婷婷"]
+  publisher_zh: "世界图书出版有限公司北京分公司"
+  year_en: 1973
+  year_zh: 2017
+  isbn: "978-7-5192-2926-9"
+  location: "第二十章家庭背景的遗漏、压抑和弄虚作假(孩子从他的父母那儿接收到的信息不仅被系统地扭曲了,而且与他从自己的第一手体验中推断出的事实有着尖锐的矛盾。4 种可能的结果)"
+  source_id: SRC-012
+
+unit_ids: []
+related_cards:
+  - C-S6-069      # Vol 1 3 岁前给娃刻内部地图
+  - C-S6-087      # 再不听话妈妈就走
+  - C-S6-093      # 角色倒置
+  - C-S6-098      # 撤回爱当惩罚
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

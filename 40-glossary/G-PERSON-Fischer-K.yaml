@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Fischer-K
+type: person
+display_name: "Fischer-K(柯特·费雪)"
+
+full_name_en: "Kurt W. Fischer"
+full_name_zh: "柯特·费雪"
+
+position: |
+  Harvard Graduate School of Education
+
+contribution: |
+  dynamic skill theory + 13 层级技能模型 + variability is signal
+
+one_liner: |
+  柯特·费雪 — dynamic skill theory + 13 层级技能模型 + variability is signal
+
+key_facts:
+  - "本卷章节:Ch 7"
+  - "Lerner V1 命中:200+ 次"
+  - "学派:Lerner V1 动态技能派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+    chapter: "Ch 7"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

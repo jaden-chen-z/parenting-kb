@@ -1,0 +1,89 @@
+card_id: C-S7-866
+stages: [S7]
+tags: [shonkoff, nrc, anti_drill_academic, school_readiness, china_high_freq]
+
+front:
+  title: "学拼音不是早教"
+  hook: "玩才是学龄前真学"
+
+back:
+  why_matters: |
+    NRC 综述 Ch 6 + Ch 13 给"3-6 岁学习内容"立场 — 反提前学业训练:
+    **NRC 综合 Karoly 1998 RAND 报告**:
+    - 高质量 preschool **不是**学拼音 / 数学
+    - 是**社交 + 自我调节 + 自由玩 + 阅读**
+    - 这些为日后**学业**奠基(执行功能 + 沟通 + 注意力)
+    - 提前学拼音 / 数学 → 短期看会但日后被赶上
+    - **早学不持久** — 没打基础(执行功能)
+    **数据**(NRC 引):
+    - 早期严格学业训练 + 中期看到优势
+    - 6 岁起优势消失 — 因为别人也学到了
+    - **真持久**的是:语言 / 社交 / 自我调节 / 阅读热情
+    **NRC 立场**:
+    - "3-6 岁玩耍 + 自由探索 + 大量对话"= 学业基础
+    - "3-6 岁严格学拼音 + 数学 + 英语"= 表面光鲜内里弱
+    **跟 Lillard 蒙氏 + 松田 §470 不教认字 + Gopnik 反早教焦虑 4 派一致**。
+    **对中国家长**:
+    - "他都 4 岁了别人开始学拼音" — 别焦虑,玩就好
+    - 你家孩子玩出来的执行功能 + 阅读热情 → 6-12 岁后追上 + 反超
+    - 别报"幼小衔接班" — 6 个月会的小学一样会
+    - 真要"提前" — 提前阅读热情(不是认字数量)
+  what_to_do:
+    - 3-6 岁玩耍是学习
+    - 别报幼小衔接班
+    - 培养阅读热情
+    - 自我调节比认字重
+    - 6 岁前不学拼音
+  failure_mode: |
+    "提前学拼音赢起跑线" — 6 岁起优势消失 — 投资错配。
+    "幼小衔接班要报" — 短期会 + 长期没基础 — 不报也能跟上。
+    "中国教育竞争激烈不能放" — 越竞争越要打执行功能基础 — 玩比学有效。
+  evidence_level: A
+
+  positions:
+    issue: 商业早教(脑潜能开发课)对 0-3 岁孩子是否有用
+    views:
+      - school: Shonkoff / NRC
+        source: SRC-025
+        stance: 强反对 — 神经科学不告诉你怎么早教,只告诉你别毁孩子;experience-expectant 类发展靠普通陪伴足够。
+      - school: Gopnik
+        source: SRC-015
+        stance: 反对 — 教学悖论 + Kuhl 数据 — DVD / 视频教学对婴儿无效。
+      - school: 松田道雄
+        source: SRC-024
+        stance: 反对 — 不焦虑育儿,留自由空间给孩子玩。
+      - school: Lansbury / Gerber RIE
+        source: SRC-019/022
+        stance: 反对 — 减少结构化刺激,父母主要任务是不打扰孩子的自主探索。
+      - school: 蒙氏(Lillard / Davies)
+        source: SRC-016/014
+        stance: 部分接受 — 蒙氏环境是"特殊设计"但不是商业早教,要求专业 prepared 而非 fancy 课程。
+      - school: 鲍秀兰
+        source: SRC-009
+        stance: 部分支持早教 — 中国早期智力开发派,跟其他 5 派立场对立。
+      - school: 中国主流
+        stance: '"脑潜能开发" / "蒙氏早教" / "感统课" / "全脑开发" 商业课程产业链发达,焦虑驱动消费。'
+glossary_refs:
+  - G-PERSON-Shonkoff
+  - G-TERM-NRC
+  - G-TERM-executive-function
+
+citation:
+  book_title_en: "From Neurons to Neighborhoods"
+  authors: ["Jack P. Shonkoff", "Deborah A. Phillips"]
+  org: "NRC/IOM"
+  year_en: 2000
+  location: "Ch 6 + 13 · Preschool curriculum and school readiness"
+  source_id: SRC-025
+
+unit_ids: []
+related_cards:
+  - C-S7-125    # Gopnik 反早教焦虑 SRC-015
+  - C-S8-103    # 松田 §470 不必教认字 SRC-024
+  - C-S6-186    # Lillard 蒙氏 SRC-016
+  - C-S0-619    # Shonkoff 反早教 4 定理(本卷)
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

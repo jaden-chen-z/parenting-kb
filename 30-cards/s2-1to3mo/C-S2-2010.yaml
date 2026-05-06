@@ -1,0 +1,48 @@
+card_id: C-S2-2010
+stages: [S2]
+tags: [gap_g9_filled]
+
+front:
+  title: 打针减痛 5 招:不只是抱住
+  hook: 母乳 + 糖水 + 麻醉膏
+
+back:
+  why_matters: |
+    研究表明,父母用对方法可显著降低疫苗注射时和注射后的疼痛与哭闹。
+    海蒂强调:疫苗疼痛是短暂的,但"减痛 = 减焦虑 = 下次打针不抗拒"的良性循环关键。
+    很多父母不知道有麻醉乳膏选项 — 这是最强减痛工具,医生开方即可。
+  what_to_do:
+    - "打针时父母抱着 + 眼神安抚"
+    - "打针前/中喂母乳(吸吮 = 镇痛)"
+    - "前 1 分钟给一小勺糖水(婴儿口含糖水有镇痛效应)"
+    - "前 1 小时使用麻醉乳膏(医生处方)"
+    - "打完后让宝宝再吸 1 分钟(母乳/奶嘴)"
+  failure_mode: |
+    要求护士"快快打不要让娃看见" → 突袭式打针实际更痛。
+    打完立即收拾走 → 没让娃在熟悉怀抱里 cool down。
+    在家用"擦麻药口腔贴"等非疫苗用麻药 → 剂量不对反伤宝宝。
+  evidence_level: B
+
+glossary_refs:
+  - G-ABBR-AAP
+
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1 岁"
+  authors: ["Heidi Murkoff", "Sharon Mazel"]
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 2010
+  edition: "Third Edition"
+  location: "第 6 章 / 流言-打针太疼专栏,p.222"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards:
+  - C-S2-2005
+  - C-S2-2006
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

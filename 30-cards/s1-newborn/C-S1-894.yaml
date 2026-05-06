@@ -1,0 +1,87 @@
+card_id: C-S1-894
+stages: [S1]
+tags: [pikler, philosophy, anti-training, source-de, controversy]
+
+front:
+  title: "婴儿没有「按时表」"
+  hook: "晚一点没坏处,催早才有"
+
+back:
+  why_matters: |
+    Pikler(1902-1984 匈牙利儿科医生)1969 年德文原版立场:
+    "Termingerecht"(按时学会)是大人焦虑,不是孩子需要。
+
+    精确时刻几月会翻 / 坐 / 走 — 对孩子未来发展毫无意义。
+    Pikler 跟踪 100+ 家庭 30 年 + 720 Lóczy 婴儿统计:
+    自然时间表的孩子大动作流畅,催早练的孩子动作生硬。
+
+    Pikler 原话(德文):"Wem schadet es, wenn das Kind
+    etwas nicht termingerecht erlernt?"(孩子没按时学有什么坏处?)— 这是 RIE 派 / 蒙氏 0-3 反训练的源头。
+
+  what_to_do:
+    - 不查"标准月龄表"对照自家娃 — 焦虑没好处
+    - 不练"4 月翻 / 6 月坐 / 9 月爬"训练表
+    - 给空间 + 给时间,孩子自己到时间会做
+    - 大动作流畅比早会更重要(Pikler 数据)
+    - 每孩节奏不同,差 2-3 月正常
+
+  failure_mode: |
+    "宝宝 7 月还不会坐别家都会了赶紧练撑坐" → Pikler 反:
+    催出来的"会坐"是僵硬撑姿,自己学会的才是真稳。
+    强迫练没成熟的事会扰乱整个发展节奏。
+
+  evidence_level: B
+
+  positions:
+    issue: 大动作发展该不该训练 · 学步车 / Bumbo / 撑坐 / 训练表是否有用
+    views:
+      - school: Pikler
+        source: SRC-026
+        stance: 完全反对训练 — 自然顺序 + 安全空间 + 时间 = 大动作全部自动发生;严反一切撑物(学步车 / Bumbo / 跳跳器 / 婴儿座椅)。
+      - school: Magda Gerber / RIE / Lansbury
+        source: SRC-022/019
+        stance: 继承 Pikler 立场 — 里程碑不是赛跑,不撑坐 8 理由,7 类婴儿设备先放下。
+      - school: 蒙氏(Davies/Lillard)
+        source: SRC-014/016
+        stance: 立场一致 — floor bed + 自由动作空间 + 反早期撑坐。
+      - school: AAP
+        source: SRC-002
+        stance: 反学步车(Policy Statement + 数百起伤亡报道);加拿大 2004 立法全球首例禁售。
+      - school: Brazelton
+        source: SRC-010
+        stance: 反学步车,跟 Pikler 立场一致;主张孩子自然探索大动作。
+      - school: 松田道雄
+        source: SRC-024
+        stance: 温和支持自然 — 不催孩子翻 / 坐 / 爬 / 走的时间表,部分跟 Pikler 共鸣。
+      - school: 鲍秀兰
+        source: SRC-009
+        stance: 支持训练 — 婴儿体操 / 抓握训练 / 撑坐;跟 Pikler 派 8 派立场严重对立。
+      - school: 中国主流
+        stance: '"4 月翻 / 6 月坐 / 9 月爬 / 12 月走" 训练表 + 80% 家庭曾用学步车。跟 Pikler 派全面对立。'
+glossary_refs:
+  - G-PERSON-Pikler
+  - G-TERM-bewegungsentwicklung
+  - G-TERM-pikler-milestones
+
+citation:
+  book_title_de: "Friedliche Babys – zufriedene Mütter"
+  book_title_zh: "和平的婴儿 — 满足的母亲"
+  authors:
+    - Emmi Pikler
+  publisher_de: HERDER (HERDER / SPEKTRUM Band 4141)
+  year: 1969
+  location: "Einleitung(引言)pp. 9-11"
+  source_id: SRC-026
+
+unit_ids: []
+related_cards:
+  - C-S4-349  # Gerber 里程碑不是赛跑(本卷源头)
+  - C-S2-290  # Lansbury 不撑坐 8 理由(Pikler 原版)
+  - C-S0-167  # Magda 7 大育儿原则
+  - C-S6-822  # 松田硬塞会变创伤(反训练同源)
+  - C-S4-129  # Wonder Weeks 大动作里程碑
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

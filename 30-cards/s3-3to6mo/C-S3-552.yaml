@@ -1,0 +1,48 @@
+card_id: C-S3-552
+stages: [S3]
+tags: [breastfeeding, anti-supplement-pressure]
+
+front:
+  title: 4 月前不加任何辅食
+  hook: 抗保健所"加奶"压力
+
+back:
+  why_matters: |
+    松田直击保健所体检后"您的婴儿体重不够,要加牛奶"的压力 — 妈最为难。
+    3 月婴儿对牛奶已抗拒 — 硬塞奶嘴只会让娃看到奶瓶就哭。
+    "母乳不够" + "宝宝健康快乐" → 不必着急,4 月可吃辅食。
+    体重缓慢增加,对娃漫长一生不会有任何影响。
+  what_to_do:
+    - 母乳够时不主动加奶/果汁
+    - 体检后保健员压力,回家不动
+    - 看娃情绪/睡眠/精神 — 是真指标
+    - 4 月真不够再考虑加奶
+    - 4-6 月起辅食(米糊、菜泥)
+  failure_mode: |
+    保健员一句"曲线偏低"妈就慌 → 加奶粉 → 娃厌乳 → 母乳泌量降 → 真不够。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Matsuda
+
+citation:
+  book_title_zh: "定本《育儿百科》"
+  book_title_jp: "育児の百科(定本)"
+  authors: ["松田道雄"]
+  translators_zh: ["王少丽"]
+  publisher_zh: null
+  year: 1980
+  edition: "定本"
+  location: "第 146 节用母乳喂养时"
+  source_id: SRC-023
+
+unit_ids: []
+related_cards:
+  - C-S1-609  # 自卷:反标准体重焦虑
+  - C-S1-610  # 自卷:母乳不足补救数字法
+  - C-S3-028  # Brazelton 4 月喂奶分心不是断奶信号
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

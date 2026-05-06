@@ -1,0 +1,65 @@
+card_id: C-S3-190
+stages: [S3]
+tags: [cognitive_science, vision, baby_scientist]
+
+front:
+  title: 4 月已懂物体不变形
+  hook: 远处球还是同一球
+
+back:
+  why_matters: |
+    Gopnik 引用经典实验 — 反 Berkeley 18 世纪假设(婴儿要学才懂 3D)。
+    实验设计:
+    - 给 4 月宝宝看一个球(近距离)
+    - 然后看**同一球放远处**(视网膜投影只有原 1/2 大)
+    - 宝宝**没反应**(认作同一球)
+    - 然后给一个**远处的大球**(视网膜投影跟原球一样大,但实际更大)
+    - 宝宝**惊讶 + 盯更久**(认出是新球)
+    意义:4 月宝宝大脑**自动算"远处 = 看起来小"**,不是死看视网膜投影。
+    这叫**尺寸恒常**(size constancy)— 视觉认知核心。
+    其他证据:
+    - 4 月宝宝看"球向脸冲来"的影像 → **退缩 + 抬手挡**(知道距离)
+    - 4 月宝宝伸手抓**够得到**的玩具,不抓**够不到**的(知道远近)
+    - 4 月宝宝看球滚到屏后,**预测球会从屏的另一端出来**(知道物体连续移动)
+    Gopnik 解读:婴儿大脑出生就有**朴素物理学**(folk physics)的基础。
+    不需要"教" — 天生就是物理学家。
+    对中国家长意义:
+    - 4 月起视觉训练可以加复杂场景(室内 + 户外 + 不同距离)
+    - 户外散步 — 不同距离物体训练大脑空间感
+    - 不必担心"他看不懂远近" — 4 月就在算
+    - 多让他伸手抓真物(够得到的)练距离判断
+  what_to_do:
+    - 4 月起多带户外散步(不同距离物体)
+    - 让他伸手抓不同距离玩具(练空间判断)
+    - 不限制看远处(窗外 / 高处)
+    - 不必依赖近距离图卡(他需要 3D 真实场景)
+  failure_mode: |
+    "他看不到远处,只用近距离玩具" — 错。4 月就有 3D 距离感。
+    全室内活动 — 错过自然环境的距离训练。
+    "他还看不懂远近" — 错。Gopnik 实验证明 4 月就懂。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Gopnik
+  - G-TERM-baby-scientist
+  - G-TERM-statistical-learning
+
+citation:
+  book_title_en: "The Scientist in the Crib"
+  book_title_zh: "摇篮里的科学家"
+  authors: ["Alison Gopnik", "Andrew N. Meltzoff", "Patricia K. Kuhl"]
+  publisher_en: William Morrow
+  year: 1999
+  location: "Chapter 3 · Seeing the World Through 3-D Glasses (size constancy)"
+  source_id: SRC-015
+
+unit_ids: []
+related_cards:
+  - C-S3-188       # 4 月物体永久性
+  - C-S1-244       # 新生儿对人脸特化
+  - C-S2-184       # 1 月跨模态匹配
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Baldwin-JM
+type: person
+display_name: "Baldwin-JM(詹姆斯·M·鲍德温)"
+
+full_name_en: "James Mark Baldwin"
+full_name_zh: "詹姆斯·M·鲍德温"
+
+position: |
+  Princeton / Johns Hopkins 心理学教授(已故 1934)
+
+contribution: |
+  genetic logic 发展逻辑 + Baldwin effect + 早期发展心理学奠基(Piaget 直接师承)
+
+one_liner: |
+  詹姆斯·M·鲍德温 — genetic logic 发展逻辑 + Baldwin effect + 早期发展心理学奠基(Piaget 直接师承)
+
+key_facts:
+  - "本卷章节:Ch 4 (via Valsiner)"
+  - "Lerner V1 命中:38 次"
+  - "学派:Lerner V1 历史奠基派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+    chapter: "Ch 4 (via Valsiner)"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,63 @@
+card_id: C-S2-805
+stages: [S2]
+tags: [shonkoff, nrc, breastfeed_protection, illness, sids]
+
+front:
+  title: "母乳防病但夜醒多"
+  hook: "母乳娃醒得勤但少病"
+
+back:
+  why_matters: |
+    NRC 综述 Ch 5 给"母乳 vs 奶瓶"夜醒科学结论:
+    **数据**(NRC 引 Wright 1983 + Beaudry 1995):
+    - 奶瓶喂养婴儿连续睡时长**比母乳长一些**
+    - 奶瓶娃 → 整夜睡较早达成
+    - **但**奶瓶娃**生病率显著高**(消化道 / 呼吸道感染)
+    - 母乳娃 → 夜醒频率高,但免疫保护强
+    **机制**:母乳消化快(2-3 小时)→ 短间隔需求;
+    奶粉消化慢(4 小时+)→ 长间隔睡。
+    **NRC 立场**:
+    - 不是"母乳败给奶瓶"
+    - 是 **trade-off**:你选"少夜醒"还是"少生病"
+    - 加上 SIDS 假说(母乳 + 同睡 → 浅睡 → 可能保护)
+    - 综合看:母乳数据更优(夜醒不是 health outcome)
+    **跟 AAP / WHO 建议一致** — 6 月专母乳。
+    **对中国家长**:
+    - "母乳娃夜醒频不是你哺乳法不对" — 是消化生理
+    - 别因夜醒频改奶粉 — trade off 上不利
+    - 4-6 月后辅食加入 → 自然延长睡眠
+    - 别相信"奶瓶补一点 = 整夜睡"伪科学
+  what_to_do:
+    - 接受母乳娃夜醒频
+    - 4 月后加辅食延睡
+    - 别因夜醒改奶粉
+    - 重免疫保护不重睡长
+    - 母乳 6 月专一直推荐
+  failure_mode: |
+    "母乳娃夜醒太多 — 改奶粉" — trade-off 上不优,生病率会上去。
+    "我家娃整夜睡 — 一定是奶粉好" — 是消化代谢慢,不是奶粉好。
+    "母乳娃感冒少 — 一定是我哺乳法对" — 是母乳本身,跟你哺乳法关系小。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Shonkoff
+  - G-TERM-NRC
+
+citation:
+  book_title_en: "From Neurons to Neighborhoods"
+  authors: ["Jack P. Shonkoff", "Deborah A. Phillips"]
+  org: "NRC/IOM"
+  year_en: 2000
+  location: "Ch 5 · Wright + Beaudry breastfeed-illness data"
+  source_id: SRC-025
+
+unit_ids: []
+related_cards:
+  - C-S1-867    # Shonkoff 自我安抚入睡环境(本卷)
+  - C-S2-013    # AAP 母乳 SRC-002
+  - C-S2-009    # 鲍秀兰 母婴情感 SRC-009
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

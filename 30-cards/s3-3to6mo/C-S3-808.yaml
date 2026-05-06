@@ -1,0 +1,90 @@
+card_id: C-S3-808
+stages: [S3]
+tags: [shonkoff, nrc, experience_expectant, experience_dependent, brain]
+
+front:
+  title: "脑发育 2 类经验"
+  hook: "普通陪伴比教学重要"
+
+back:
+  why_matters: |
+    NRC 综述 Ch 8 引 Greenough-Black 1986/1992 框架 — 大脑发育的两类经验:
+    **experience-EXPECTANT 期待型经验**:
+    - 大脑"预设期待"的输入(光 / 声音 / 人脸 / 母语)
+    - **每个孩子都有的普通经验** = 健康发展的食粮
+    - 缺失这些(eg 罗马尼亚孤儿院)→ 严重发育迟滞
+    - **不需要 fancy 输入** — 普通陪伴足够
+    **experience-DEPENDENT 依赖型经验**:
+    - 个体特殊经验(具体游戏 / 特定语言 / 文化习俗)
+    - 终身可塑 — 不限早期
+    - 这是"个性化"塑造路径
+    - 不依赖关键期
+    **NRC 关键洞察**:
+    - 0-3 岁需要的是 **expectant 类** — 普通陪伴 / 对话 / 触摸 / 安全
+    - **不是 dependent 类** — fancy 早教 / 特殊训练
+    - 普通家庭已经在提供 expectant 类 — 不需补习
+    - dependent 类终身可学 — 不要焦虑"晚学"
+    **对中国家长**:
+    - "我家普通家庭怎么给宝宝开发智力" — NRC 答:你已经在给他需要的(expectant 类)
+    - 多陪 / 多说 / 多抱 / 多回应 = 全部够
+    - 报"智力开发课"是 dependent 类 — 没必要 + 终身可学
+    - 别比"别人家娃学了什么"— 那是 dependent 类不是发展刚需跟 Gopnik / Lillard / Lansbury / 松田立场重叠。
+  what_to_do:
+    - 普通陪伴就是发展食粮
+    - 别报智力开发班
+    - 多回应宝宝
+    - dependent 类不急
+    - 信"普通家庭足够"
+  failure_mode: |
+    "我家普通家庭 — 宝宝输在起跑线" — 错。NRC 明确:expectant 类是普通陪伴就够。
+    "高知家庭 = 高智商娃" — 错,关键是互动质量 + 关系,不是父母学历。
+    花大钱补习 dependent 类 → 资源错配 + 焦虑传给孩子。
+  evidence_level: A
+
+  positions:
+    issue: 商业早教(脑潜能开发课)对 0-3 岁孩子是否有用
+    views:
+      - school: Shonkoff / NRC
+        source: SRC-025
+        stance: 强反对 — 神经科学不告诉你怎么早教,只告诉你别毁孩子;experience-expectant 类发展靠普通陪伴足够。
+      - school: Gopnik
+        source: SRC-015
+        stance: 反对 — 教学悖论 + Kuhl 数据 — DVD / 视频教学对婴儿无效。
+      - school: 松田道雄
+        source: SRC-024
+        stance: 反对 — 不焦虑育儿,留自由空间给孩子玩。
+      - school: Lansbury / Gerber RIE
+        source: SRC-019/022
+        stance: 反对 — 减少结构化刺激,父母主要任务是不打扰孩子的自主探索。
+      - school: 蒙氏(Lillard / Davies)
+        source: SRC-016/014
+        stance: 部分接受 — 蒙氏环境是"特殊设计"但不是商业早教,要求专业 prepared 而非 fancy 课程。
+      - school: 鲍秀兰
+        source: SRC-009
+        stance: 部分支持早教 — 中国早期智力开发派,跟其他 5 派立场对立。
+      - school: 中国主流
+        stance: '"脑潜能开发" / "蒙氏早教" / "感统课" / "全脑开发" 商业课程产业链发达,焦虑驱动消费。'
+glossary_refs:
+  - G-PERSON-Shonkoff
+  - G-TERM-experience-expectant
+  - G-TERM-experience-dependent
+  - G-TERM-NRC
+
+citation:
+  book_title_en: "From Neurons to Neighborhoods"
+  authors: ["Jack P. Shonkoff", "Deborah A. Phillips"]
+  org: "NRC/IOM"
+  year_en: 2000
+  location: "Ch 8 · Greenough-Black framework"
+  source_id: SRC-025
+
+unit_ids: []
+related_cards:
+  - C-S0-619    # Shonkoff 反早教 4 定理(本卷)
+  - C-S3-806    # Shonkoff 视觉皮层峰(本卷)
+  - C-S7-125    # Gopnik 反早教 SRC-015
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

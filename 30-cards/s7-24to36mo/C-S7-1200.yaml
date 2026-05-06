@@ -1,0 +1,51 @@
+card_id: C-S7-1200
+stages: [S0, S1, S7]
+tags: [safety, red_flag, preemie, mainstream, gap_g7_filled]
+front:
+  title: 早产儿 4 大并发症识别(PDA/ROP/IVH/NEC)
+  hook: 早产宝宝出院后这 4 个红旗 — 海蒂的"再住院"清单。
+back:
+  why_matters: |
+    Phase B+C 完全无早产儿专题卡。
+    海蒂 Part 6 Ch 21 有完整"早产儿家"长章,中国早产宝宝家庭刚需:
+    - 中国早产率约 7%(约 100 万/年早产)
+    - 出院后家长焦虑"哪些症状要立刻送医"
+    - 普通儿科医生对早产专科识别度参差海蒂明确 4 大主要并发症 + 红旗,
+    虽然多数在 NICU 出现,但一些会延续到出院后或出院后再发。
+  what_to_do:
+    - PDA(动脉导管未闭):红旗=心杂音 + 呼气浅短费力 + 嘴唇发青。多数自愈,严重需消炎痛或手术
+    - ROP(早产儿视网膜病变):28 周前出生 85% 发生率。出院后定期小儿眼科复诊到 1 岁。征候:斗鸡眼/无意眼球颤动/明显视物障碍
+    - IVH(脑室内出血):72 小时内最危。出院后红旗:头围异常增大(脑积水)+ 持续呕吐 + 异常嗜睡
+    - NEC(坏死性小肠结肠炎):喂母乳风险更低。红旗:腹胀 + 胆汁性呕吐(绿色) + 便血 + 呼吸暂停 → 急诊
+    - 早产贫血:都需口服铁剂补铁(出院医生会开)
+    - 早产再住院常见原因:呼吸道感染(RSV) + 脱水
+    - 1 岁内频繁眼科/听力/发育评估(矫正月龄而非生月龄看里程碑)
+  failure_mode: |
+    常见错误:
+    - "宝宝出院了应该好了"→ 早产并发症可延续 1-2 年,需密切随访
+    - 用足月儿生长曲线评估早产儿 → 必须用矫正月龄
+    - 没按时眼科复查 → ROP 错过治疗窗会失明
+    - 看到嘴唇发青等"会过去" → PDA 可能心衰
+    - 早产儿不补铁"奶里有了"→ 早产儿铁库本来就不足
+    - 出现绿色呕吐物当普通吐奶 → NEC 是急症
+    - 不做听力筛查 → 早产高发感音性听力下降
+  evidence_level: A
+glossary_refs: [G-ABBR-RSV]
+citation:
+  publisher_en: "Workman Publishing"
+  source_id: SRC-040
+  book_title_en: What to Expect the First Year
+  book_title_zh: 海蒂育儿大百科 0-1 岁
+  authors: ["Heidi Murkoff", "Sharon Mazel"]
+  publisher_zh: 南海出版公司
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh: [莫夏迪, 张敏]
+  chapter: Part 6 Ch 21 早产儿
+  page_zh: 619-620
+related_cards: []
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

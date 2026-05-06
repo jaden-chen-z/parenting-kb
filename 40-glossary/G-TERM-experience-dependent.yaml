@@ -1,0 +1,70 @@
+glossary_id: G-TERM-experience-dependent
+type: term
+display_name: experience-dependent 依赖型经验
+
+en_term: experience-dependent synaptogenesis
+zh_term: 依赖型突触发生
+
+one_liner: |
+  Greenough-Black 1986/1992 框架 — 个体特殊经验(具体游戏 / 特定语言 / 文化习俗 /
+  乐器 / 武术 / 编程)。终身可塑 — 不限早期。这是"个性化"塑造路径,
+  不依赖关键期。终身可学,无早晚之分。
+
+detail: |
+  ## 概念由来
+  - Greenough & Black 1986 + 1992 框架
+  - 跟 experience-expectant 区分
+  - 解决"特殊技能必须早学"商业焦虑
+
+  ## experience-dependent 特征
+  - **个体差异化经验** — 因家庭 / 文化 / 个人选择而异
+  - 大脑没有遗传 wired 期待这些
+  - 缺失 → 没掌握该特定技能
+  - 提供 → 学到该特定技能
+  - **终身可塑** — 不限早期
+
+  ## 例子
+  - 钢琴 / 武术 / 编程 / 第三外语
+  - 特殊知识(地理 / 历史 / 数学定理)
+  - 文化习俗(剪纸 / 茶道 / 太极)
+  - 复杂运动(滑雪 / 跳水 / 高尔夫)
+
+  ## 跟 sensitive period 关系
+  - 多数 experience-dependent 技能没有 critical period
+  - **少数有 sensitive period**(eg 第二语言口音 / 完美音感)
+  - 但 sensitive ≠ critical — 仍可补
+  - 多数 dependent 技能青春期后学习效率甚至更高
+
+  ## 政策含义
+  - 反"必须 0-3 岁学"焦虑
+  - 钢琴 / 编程 / 武术 / 外语 → 都可日后学
+  - 强迫 0-3 岁特定技能训练 → 错配资源 + 牺牲 expectant 类
+  - 0-3 岁应给 expectant 类(普通陪伴 + 自由玩 + 安全)
+
+  ## 跟 experience-expectant 对比
+  - expectant = 物种共同需要(普通) — 必须给
+  - dependent = 个体差异化(特殊) — 可选
+  - 父母最该担心的是 expectant 不是 dependent
+
+key_facts:
+  - Greenough-Black 框架
+  - 个体差异化经验 = 终身可塑
+  - 钢琴/武术/编程都属此类
+  - 反"必须早学"焦虑科学根
+
+related_glossary:
+  - G-PERSON-Shonkoff
+  - G-TERM-experience-expectant
+  - G-TERM-NRC
+  - G-TERM-sensitive-periods
+
+related_cards: []
+
+sources:
+  - source_id: SRC-025
+  - external: Greenough & Black 1992 chapter
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

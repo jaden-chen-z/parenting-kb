@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Lindenberger
+type: person
+display_name: "Lindenberger(乌尔曼·林登伯格)"
+
+full_name_en: "Ulman Lindenberger"
+full_name_zh: "乌尔曼·林登伯格"
+
+position: |
+  Max Planck Institute for Human Development 主任
+
+contribution: |
+  lifespan + 生命周期认知 + Baltes 共著
+
+one_liner: |
+  乌尔曼·林登伯格 — lifespan + 生命周期认知 + Baltes 共著
+
+key_facts:
+  - "本卷章节:Ch 11"
+  - "Lerner V1 命中:80+ 次"
+  - "学派:Lerner V1 生命周期派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+    chapter: "Ch 11"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

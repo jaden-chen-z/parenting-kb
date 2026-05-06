@@ -1,0 +1,64 @@
+card_id: C-S5-597
+stages: [S5]
+tags: [sleep, RIE, controversy]
+
+front:
+  title: "Magda 帮宝宝睡的中间路"
+  hook: "不训练但帮形成习惯"
+
+back:
+  why_matters: |
+    玛格达《自信的宝宝》第 5 章"帮宝宝形成睡眠习惯"。
+
+    玛格达 1998 立场比兰斯伯里 2014 更细 — 在两极间走中间路:
+    1. 反"哭到睡着"(cry-it-out,放任哭)
+    2. 反"睡眠训练"这个标签(兰斯伯里也反)
+    3. 反"同床睡"主流派(西尔斯)
+    4. 反"摇 / 走 / 喂入睡"(制造依赖)
+    5. **支持费伯法**(渐进自我安抚)— 玛格达直接引 Ferber 医生!
+
+    玛格达关键:**不只是技术,要先告诉宝宝你的计划**。
+
+    海蒂案例(辛西娅妈妈):6 月吃奶到睡 → 4-5 晚改完。
+    > 孩子能不能学会睡 ≠ 残不残忍。父母 + 宝宝准备好就能学。
+
+  what_to_do:
+    - 早 6-7 点上床(超时累更难睡)
+    - 用"休息"不用"睡觉"(后者听了反而清醒)
+    - 醒着放床,不喂入睡不摇入睡
+    - 哭 → 进房不抱,坐旁边说话
+    - 4-5 晚学会(不是 4-5 月)
+
+  failure_mode: |
+    "玛格达派不就是放任哭吗" → 反:玛格达 1998 直接引费伯法,
+    不是放任。或"同床睡才是依恋健康" → 玛格达反:依恋健康跟睡哪无关
+    — 关键是建立诚实的睡眠流程。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+  - G-TERM-respectful-parenting
+
+citation:
+  book_title_en: "Your Self-Confident Baby"
+  book_title_zh: "自信的宝宝"
+  authors:
+    - Magda Gerber
+    - Allison Johnson
+  publisher_en: John Wiley & Sons
+  year: 1998
+  location: "Ch5 §Help Your Baby Form the Sleeping Habit(p77-83) + Heidi 案例"
+  source_id: SRC-021
+
+unit_ids: []
+related_cards:
+  - C-S1-355  # Lansbury 睡眠不是训练是反训练(对照视角)
+  - C-S5-130  # Davies 1 岁前两份心理大礼
+  - C-S5-076  # Bowlby V1 分离焦虑高峰
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

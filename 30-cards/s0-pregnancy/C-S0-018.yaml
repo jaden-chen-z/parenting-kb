@@ -1,0 +1,77 @@
+card_id: C-S0-018
+stages: [S0]
+tags: [self, philosophy, controversy]
+
+front:
+  title: 婴儿是真实测试者
+  hook: 不幻想真测试现实
+
+back:
+  why_matters: |
+    Stern 反传统精神分析的另一个关键命题:**婴儿是优秀的"现实测试者"(reality tester),不是"幻想制造者"** — 这影响中国家长怎么解读宝宝行为。
+    **Freud + 经典精神分析的旧观点**:
+    - 婴儿被 "wish-fulfilling fantasies(愿望满足幻想)" 主导
+    - 哭闹时是在"幻想中" 满足欲望
+    - 早期 "primary process"(原初过程) — 不区分现实和幻想
+    - "seductions"(诱惑)是宝宝幻想出来的
+    **Stern 1985 直接反**:
+    - **婴儿是优秀的现实测试者** — 关注**真实发生的**事
+    - 现实在这阶段**绝不**因防御被扭曲
+    - "诱惑"是真实事件,不是幻想
+    - 早期(0-18 月)**不存在**:融合幻想 / 分裂 / 防御 / 偏执幻想
+    - 这些只在**语言出现后**(18-24 月)才可能出现
+    **意义重大**(对中国家长):
+    - **不要用成人 / 大孩子的"幻想能力"推断宝宝**
+    - 宝宝哭 = **真有事**(不是"想引起注意"幻想)
+    - 宝宝怕 = **真有怕的对象**(可能你看不到但宝宝看到)
+    - 宝宝兴奋 = **真有让他兴奋的事**
+    - 不要说"他在演戏" / "他装的" — 0-18 月几乎不可能
+    **相关临床误用警告**:
+    - "宝宝故意装可怜博同情" — 错。婴儿没有"演戏"能力
+    - "宝宝在控制你" — 错。婴儿没有"幻想 + 计划"能力
+    - "宝宝在嫉妒" — 18 月+ 才可能,之前是真的难受
+    **18 月+ 才开始有**:
+    - 象征游戏(玩偶演练)— 这是 OK 的"假装"
+    - 早期幻想(2-3 岁)— 可被语言触发的内心活动
+    - 但仍**不是**精神分析说的那种"防御性幻想"
+    跟 Lillard"出生前已认识妈妈"(C-S2-188)反对"宝宝模糊觉察"立场一致。
+  what_to_do:
+    - 不说宝宝在装在演戏
+    - 哭/闹/怕都当真有事
+    - 别用大孩子心理推断宝宝
+    - 18 月+ 象征游戏 是 OK 的演
+    - 真实 + 直接是 0-18 月最佳态度
+  failure_mode: |
+    "宝宝在装可怜" / "宝宝在演戏" — 错。Stern 数据 — 0-18 月没有"幻想 + 演戏"能力,所有反应都是真实。
+    "宝宝在控制我" — 错。婴儿不会幻想 + 计划。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Stern
+  - G-TERM-emergent-self
+  - G-TERM-core-self
+
+citation:
+  book_title_zh: "婴儿的人际世界"
+  book_title_en: "The Interpersonal World of the Infant"
+  authors: ["Daniel N. Stern"]
+  authors_zh: ["丹尼尔·斯特恩"]
+  publisher_en: "Basic Books"
+  year_en: 1985
+  isbn_en: "978-0-465-09559-9"
+  location: "Ch 1 · 反 Freud wish-fulfilling fantasies / 反精神分析早期 primary process"
+  publisher_zh: "华东师范大学出版社"
+  year_zh: 2017
+  translator_zh: ["刘旭东"]
+  source_id: SRC-018
+
+unit_ids: []
+related_cards:
+  - C-S0-016       # Stern 反新生儿混沌
+  - C-S2-188       # Lillard 出生前已认识妈妈
+  - C-S7-251       # Stern 玩偶演练 = self 探索
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

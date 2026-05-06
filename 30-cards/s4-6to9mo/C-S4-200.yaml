@@ -1,0 +1,75 @@
+card_id: C-S4-200
+stages: [S4]
+tags: [self, 社会化, controversy]
+
+front:
+  title: 选择性调谐教情感边界
+  hook: 你回应啥 = 教啥可分享
+
+back:
+  why_matters: |
+    7-9 月跃迁后,父母开始**主动选择**回应宝宝哪些情感、不回应哪些 — 这是 selective 调谐,是 社会化的隐形工具。
+    **Stern 关键观察**:
+    - 父母**不可能**对所有情感都做 调谐(C-S5-291)
+    - 你**自然地**对某些情感做强烈调谐,对某些情感冷淡或忽视
+    - 这就是 selective 调谐 — 教宝宝"哪些感受可以分享,哪些不能"
+    **典型例子**(中文家庭高频):
+    - 宝宝**愤怒**时 — 妈烦躁,没回应或制止 → 宝宝学:"愤怒不能分享"
+    - 宝宝**恐惧**时 — 妈说"勇敢" → 宝宝学:"恐惧也不能分享"
+    - 宝宝**喜悦**时 — 妈大笑回应 → 宝宝学:"喜悦可以分享"
+    - 宝宝**悲伤**时 — 妈说"别哭了好不好" → 宝宝学:"悲伤要藏起来"
+    - 宝宝**得意**时 — 老人说"骄傲使人落后" → 宝宝学:"成就要藏"
+    **后果(成人模板)**:
+    - 一直没被 调谐 的情感 → 成人后**自己也读不懂** + **难以表达**
+    - 一直被 调谐 的情感 → 成人后**容易识别 + 表达**
+    - 中国家长常被吐槽"我妈不让我表达愤怒" — 这是 selective 调谐 的成人版
+    **平衡的关键**:
+    - **所有"基础情感"都要 调谐** — 喜怒哀乐惧爱
+    - **可以教界限**(怎么表达)— 但**不能否定情感本身**
+    - 比如:愤怒可以表达,但不能打人 — 不是"愤怒坏"
+    - 中文家长常**否定情感本身**("不许哭 / 不许生气")— Stern 反对
+    **跟 Bowlby + Lillard 一致**:
+    - Bowlby:压抑特定情感 → 防御性排除 → 焦虑型依恋
+    - Lillard:大人 + 环境 + 自由 + 责任 — 情感是"自由"的一部分
+    - Stern:selective 调谐 是 社会化 工具,但**不能完全压制**任何基础情感最重要的家长行动:**审视你自己 调谐 哪些情感,忽略哪些** — 你在不知不觉中塑造宝宝的"情感词典"。
+  what_to_do:
+    - 审视你 调谐 哪些情感忽略哪些
+    - 6 类基础情感都要 调谐(喜怒哀乐惧爱)
+    - 教界限不否定情感本身
+    - 别说"不许哭 / 不许生气"
+    - 即使你不喜欢的情感也要 承认
+  failure_mode: |
+    "我家娃就是没脾气真好" — 可能是父母从不 调谐 愤怒,宝宝学会压抑,不是真的没脾气。
+    "不许哭" → 否定悲伤本身 → 长大成压抑型 + 不会识别自己的悲伤。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Stern
+  - G-PERSON-Bowlby
+  - G-TERM-affective-attunement
+  - G-TERM-defensive-exclusion
+
+citation:
+  book_title_zh: "婴儿的人际世界"
+  book_title_en: "The Interpersonal World of the Infant"
+  authors: ["Daniel N. Stern"]
+  authors_zh: ["丹尼尔·斯特恩"]
+  publisher_en: "Basic Books"
+  year_en: 1985
+  isbn_en: "978-0-465-09559-9"
+  location: "Ch 7 · Selective attunement (socialization tool)"
+  publisher_zh: "华东师范大学出版社"
+  year_zh: 2017
+  translator_zh: ["刘旭东"]
+  source_id: SRC-018
+
+unit_ids: []
+related_cards:
+  - C-S5-291       # Stern affective attunement
+  - C-S4-199       # Stern 7-9 月 你的 empathy 宝宝能感
+  - C-S6-192       # Lillard No 永远是 No(教界限不否情感)
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

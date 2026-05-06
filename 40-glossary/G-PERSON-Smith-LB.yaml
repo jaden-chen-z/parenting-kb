@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Smith-LB
+type: person
+display_name: "Smith-LB(琳达·史密斯)"
+
+full_name_en: "Linda B. Smith"
+full_name_zh: "琳达·史密斯"
+
+position: |
+  Indiana University 心理学教授
+
+contribution: |
+  dynamic systems theory + 早期物体认知 + Thelen 共著
+
+one_liner: |
+  琳达·史密斯 — dynamic systems theory + 早期物体认知 + Thelen 共著
+
+key_facts:
+  - "本卷章节:Ch 6"
+  - "Lerner V1 命中:150+ 次"
+  - "学派:Lerner V1 动态系统派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+    chapter: "Ch 6"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

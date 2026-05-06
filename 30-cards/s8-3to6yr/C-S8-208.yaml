@@ -1,0 +1,88 @@
+card_id: C-S8-208
+stages: [S8]
+tags: [shonkoff, nrc, abecedarian, rct, intervention]
+
+front:
+  title: "Abecedarian 强干预"
+  hook: "0-5 岁全日制 RCT"
+
+back:
+  why_matters: |
+    NRC 综述 Ch 13 引 **Abecedarian Project RCT** — 比 Perry 更早 + 更强干预:
+    **实验设计**(Ramey-Campbell 多年跟踪):
+    - 1972 起美国北卡罗来纳
+    - 111 个高风险婴儿(贫困 / 单亲 / 受教育低)
+    - 随机分组:
+      - **治疗组**:**0-5 岁** 全日制高质量 daycare(8 小时 / 天 / 5 天 / 周)
+      - **对照组**:无干预
+    - 跟踪到 21 岁 / 30 岁 / 40 岁
+    **关键数据**:
+    - **IQ gain** 持久 — 21 岁仍高 4-5 分(vs Perry 2-3 年 fade)
+    - **大学入学率**:35% vs 14%
+    - **就业率**:75% vs 53%
+    - **健康指标**:30 岁高血压 / 糖尿病前期低 50%
+    - 经济回报:每 1 美元 → ~7 美元
+    **vs Perry 关键差异**:
+    - Abecedarian **早起**(0 月)+ **强度高**(全日制 5 年)
+    - Perry **晚起**(3 岁)+ **半日**(2 年)
+    - 早 + 强 → IQ gain 不 fade(Perry IQ 会 fade)
+    **NRC 关键启示**:
+    - "0-5 岁高质量全日制" 比"3-5 岁半日制" 效果更强
+    - 但代价高 — 不是普及版能做到
+    - 高风险家庭 → 系统投入有 ROI
+    - 普通家庭 → 不需要这么强(普通家庭已提供 expectant 类)
+    **对中国家长**:
+    - 别用 Abecedarian 数据焦虑"全职带或全日 daycare"
+    - Abecedarian 比的是"高风险家庭" vs "无干预" — 不是普通家庭决策
+    - 普通中产 → 中等托育 + 高质量陪 = 够
+    - 高风险家庭(贫困 / 单亲 / 抑郁)→ 寻早期干预服务
+  what_to_do:
+    - 普通家庭不必照搬
+    - 高风险才需强干预
+    - 看托育质量不看时长
+    - 中等 + 高质量陪 = 足
+    - ROI 数据别盲焦虑
+  failure_mode: |
+    "Abecedarian 全日制 = 全日制 daycare 都好" — 错,数据是高风险家庭独有。
+    "中产家庭也照搬全日制" — 不必,普通陪伴足够。
+    "数据这么硬 — 中国家长不照做就罪过" — 错,假定干预对象 ≠ 假定有效全人群。
+  evidence_level: A
+
+  positions:
+    issue: 0-3 岁需要系统化早期干预还是只需"陪 + 不打扰"
+    views:
+      - school: Shonkoff / NRC
+        source: SRC-025
+        stance: 系统化早期干预(Perry / Abecedarian RCT)— 主要针对高风险家庭(贫困 / 抑郁 / 单亲)。
+      - school: Lansbury / Gerber RIE
+        source: SRC-019/022
+        stance: 不打扰 + 自由探索 + Quality time 短就够;反对系统化干预介入正常家庭。
+      - school: Lillard(蒙氏)
+        source: SRC-016
+        stance: 介于二者之间 — 有 prepared environment(结构),但 follow the child(不强加)。
+      - school: 适用建议
+        stance: 普通家庭偏 RIE(高质量陪伴);高风险家庭(贫困 / 妈妈抑郁)需 NRC 推荐的系统干预。
+glossary_refs:
+  - G-PERSON-Shonkoff
+  - G-TERM-NRC
+  - G-TERM-abecedarian
+
+citation:
+  book_title_en: "From Neurons to Neighborhoods"
+  authors: ["Jack P. Shonkoff", "Deborah A. Phillips"]
+  org: "NRC/IOM"
+  year_en: 2000
+  location: "Ch 13 · Abecedarian Project follow-up"
+  source_id: SRC-025
+
+unit_ids: []
+related_cards:
+  - C-S8-207    # Shonkoff Perry Preschool(本卷)
+  - C-S0-619    # Shonkoff 反早教(本卷)
+  - C-S6-933    # Shonkoff 托育质量(本卷)
+  - C-S8-101    # 松田 §428 不看电视 SRC-024
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

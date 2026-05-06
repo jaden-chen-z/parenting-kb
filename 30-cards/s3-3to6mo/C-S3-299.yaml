@@ -1,0 +1,60 @@
+card_id: C-S3-299
+stages: [S3]
+tags: [communication, emotion, RIE, lansbury]
+
+front:
+  title: "承认情绪是孩子心的钥匙"
+  hook: "承认情绪先于一切"
+
+back:
+  why_matters: |
+    Lansbury Ch3 整章命题:
+    把 "Acknowledge"(承认) 写在手上 — 孩子心的钥匙。
+    承认 ≠ 同意行为,是验证情绪。
+    传递:"你的每个想法 / 愿望 / 感受 — 都被接受 / 都可爱。"
+    神奇效果(Lansbury 千+案例):
+    承认 = 哭泣 / tantrum 神奇平息(被听到 = 释放感)。
+    主流反应"分散 / 否认 / 急停" — 长期削弱孩子情感表达。
+    儿童心理学 + 成人关系咨询共识:"听不修复"。
+
+  what_to_do:
+    - 孩子哭 / 怒 = 命名情绪:"你 [情绪],因为 [情境]"
+    - 不"没什么大不了" / 不"别哭"
+    - 不主动"修复"或"建议"
+    - 不确定就用"你看起来 upset / bothered"
+    - 接住 = 释放,孩子自然过情绪
+
+  failure_mode: |
+    "承认情绪会让他更哭闹" → 错。
+    Lansbury 千+案例反证:承认让情绪释放更快。
+    或反向:"承认 = 同意行为" → 错。
+    承认情绪 + 行为坚定挡住,两个事。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Lansbury
+  - G-PERSON-Gerber
+  - G-TERM-acknowledging-feelings
+  - G-TERM-RIE
+
+citation:
+  book_title_en: "Elevating Child Care: A Guide to Respectful Parenting"
+  book_title_zh: "尊重孩子:RIE 育儿之道"
+  authors:
+    - Janet Lansbury
+  publisher_en: JLML Press
+  year: 2014
+  location: "Ch3 The Key to Your Child's Heart"
+  source_id: SRC-019
+
+unit_ids: []
+related_cards:
+  - C-S1-354  # Lansbury 听情绪不堵
+  - C-S2-132  # Davies 哭闹 5 步回应法
+  - C-S6-403  # Lansbury 限度+情绪并存
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

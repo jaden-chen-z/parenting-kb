@@ -1,0 +1,69 @@
+glossary_id: G-TERM-WHO-growth-standards
+type: term
+display_name: "WHO Growth Standards 2006"
+
+en_term: "WHO Child Growth Standards (2006)"
+zh_term: "WHO 儿童生长标准"
+
+one_liner: |
+  WHO 2006 母乳喂养基线 vs CDC 2000 配方奶基线 — 同一个娃在两图位置不同。
+
+detail: |
+  ## 定义
+  WHO Child Growth Standards — WHO 2006 发布的国际儿童生长曲线,基于 6 国母乳喂养婴儿。
+  
+  ## MGRS 多中心研究
+  WHO Multicentre Growth Reference Study — 6 国:
+  - 巴西
+  - 加纳
+  - 印度
+  - 挪威
+  - 阿曼
+  - 美国
+  
+  ## 7 大指标
+  - length/height-for-age
+  - weight-for-age
+  - weight-for-length/height
+  - BMI-for-age
+  - head circumference
+  - arm circumference
+  - skinfold measurements
+  
+  ## 6 大粗大动作里程碑(windows of achievement)
+  - 独坐(sitting without support)中位 6 月
+  - 扶站 中位 7-8 月
+  - 手膝爬 中位 9 月(20% 跳过爬)
+  - 扶走 中位 10 月
+  - 独站 中位 12 月
+  - 独走 中位 13 月,P3-P97 = 9-17 月
+  
+  ## 关键区别 vs CDC 2000
+  - WHO 2006:母乳喂养基线(prescriptive — '应该长成什么样')
+  - CDC 2000:美国数据(以配方喂养为主)(descriptive — '实际长成什么样')
+  
+  ## 中国采纳
+  中国卫健委 2018 起逐步采用 WHO 标准。
+
+key_facts:
+  - "WHO 2006 发布"
+  - "6 国 MGRS 研究"
+  - "母乳基线 vs CDC 配方基线"
+  - "中国 2018 起采纳"
+
+related_glossary:
+  - G-ABBR-EBF
+  - G-ABBR-WHO
+
+related_cards:
+  - C-S4-1052
+  - C-S4-1053
+  - C-S4-1054
+
+sources:
+  - source_id: SRC-031
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

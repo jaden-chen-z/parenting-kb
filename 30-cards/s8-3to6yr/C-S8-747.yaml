@@ -1,0 +1,72 @@
+card_id: C-S8-747
+stages: [S8]
+tags: [poverty, mcloyd, lerner_v4]
+
+front:
+  title: 穷家娃靠学校补
+  hook: 穷家娃靠学校来补
+
+back:
+  why_matters: |
+    McLoyd V4 Ch 18(S8 学龄前实操)。
+    **经济压力模型 S8 应用**:
+    - 贫困家娃在学校时间是 50%(8 小时/天)
+    - 学校可以是"补偿环境"
+    - 关键:**高质量学校**抵消家庭压力
+    **贫困家娃 4 大学校优势**(McLoyd 综述):
+    - **稳定**:学校时间表稳定
+    - **资源**:课本 / 教具 / 营养餐
+    - **关系**:老师 + 同伴
+    - **结构**:节奏 + 期待 + 反馈
+    **3 大干预方向**:
+    - **早入园**:3-4 岁高质量幼儿园
+    - **延长学时**:after-school 项目
+    - **暑假项目**:暑期失忆问题
+    **Reach Out and Read**:
+    - 儿科医生在 well-baby visits 发书
+    - 中国可类比社区医院 / 妇幼
+    - ROI 高 + 易复制意义:
+    - 中国农村 / 流动儿童核心干预
+    - 学校是 leveler
+    - 高质量幼儿园特别关键跟现库:跟 NFP(C-S0-1242)+ Abecedarian(C-S0-1237)+ Reach Out and Read(待建)对接。
+    对中国家长意义:
+    - 贫困家娃尽早入高质量幼儿园
+    - 课后 / 暑假项目是 leverage
+    - 学校老师关系是资源
+    - 别让娃辍学打工
+  what_to_do:
+    - 尽早入高质量幼儿园
+    - 课后+暑假项目用上
+    - 学校老师关系是资源
+    - 别让娃辍学打工
+  failure_mode: |
+    "穷家娃注定差"— 错。学校能补。
+    "自己带就够"— 错。学校提供稳定+资源。
+    "上学不重要"— 错。学校是 leveler。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-McLoyd
+  - G-TERM-economic-pressure-model
+  - G-TERM-poverty-effects
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 4 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 4 卷"
+  authors: ['Vonnie C. McLoyd', 'Nikki L. Aikens', 'Linda M. Burton']
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 18 · McLoyd · Poverty + school as compensation · pp. 720-745"
+  source_id: SRC-029
+
+unit_ids: []
+related_cards:
+  - C-S0-1234     # McLoyd 经济压力模型
+  - C-S0-1237     # Ramey Abecedarian
+  - C-S0-1242     # NFP 30 年
+  - C-S0-619     # Shonkoff 综述
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,58 @@
+card_id: C-S6-817
+stages: [S6]
+tags: [discipline, japan, matsuda]
+
+front:
+  title: "斥责只用在打火机上"
+  hook: "瞬间危险才严"
+
+back:
+  why_matters: |
+    松田 §330 给"什么时候能斥责"硬规则：
+    1. 1 岁孩子斥责只用于专制止瞬间危险行为;
+    2. 例:扔餐具 / 走近取暖炉 / 拿打火机 — 这种瞬间;
+    3. 不能按"母亲意图"斥责孩子 — 因为
+       1 岁还做不到太多事;
+    4. 撒尿了、捅破窗纸 — 不能斥责，是父母没准备好环境;
+    5. 想让孩子做某事用**夸奖**比斥责强 — 人之常情;
+    6. 内容明确、语调严厉、表情严肃 — 反差才记得住。
+    跟 Lansbury "CEO 语调"+ 鲍秀兰"忽视错误"+ Brazelton "Discipline 是教导"一致。
+
+  what_to_do:
+    - 斥责只用瞬间危险行为
+    - 撒尿了、弄脏了不斥责
+    - 让做事用"做得好" + 笑容
+    - 真危险时表情语调要反差
+    - 平时温柔，紧急一刀切
+
+  failure_mode: |
+    很多妈妈把斥责当日常工具：
+    "为什么不吃饭" / "为什么扔玩具" / "为什么哭" — 结果孩子习惯被吼。
+    1 岁孩子分不清"危险"和"日常错"，被吼多了反而麻木。
+    替代：日常用夸奖 + 转移；危险时严声 + 简短。
+    跟 Lansbury "I won't let you" 公式一致 — 短句 + 严表情 + 不啰嗦。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Matsuda
+
+citation:
+  book_title_zh: "定本育儿百科"
+  authors:
+    - 松田道雄
+  publisher_ja: 岩波书店
+  year_first_edition: 1967
+  location: "§330 可以斥责孩子吗"
+  source_id: SRC-024
+
+unit_ids: []
+related_cards:
+  - C-S6-396  # Lansbury CEO 语调 + I won't let you
+  - C-S6-021  # Brazelton Discipline 是教导不是惩罚
+  - C-S7-014  # 鲍秀兰 忽视错误 = 最有效约束
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

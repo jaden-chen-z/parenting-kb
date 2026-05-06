@@ -1,0 +1,72 @@
+card_id: C-S4-1141
+stages: [S4]
+tags: [cognitive_science, core_knowledge, spelke, lerner_v2]
+
+front:
+  title: 出生即有 5 个先天系统
+  hook: Spelke 5 大系统
+
+back:
+  why_matters: |
+    Spelke 核心知识理论(Lerner V2 Ch5/Ch16/Ch17/Ch18 多章综述)。
+    Spelke 提出婴儿出生就有 5 个先天认知系统:
+    1. **物体系统**(物理学)— 物体连续 / 不穿越固体 / 不消失证据:Baillargeon 吊桥(C-S3-1140)
+    2. **行动系统**(因果 + 意图)— 区分有意行为 vs 无意运动证据:Cohen 撞球因果(C-S3-1142)
+    3. **数字系统**(approximate number)— 大致估算数量证据:Wynn 5 月 1+1=2(后续卡)
+    4. **空间系统**(几何)— 理解空间关系证据:Newcombe 空间认知(Ch17)
+    5. **社会系统**(自己人识别)— 别人是 like-me agent
+       证据:Meltzoff 模仿 + Hamlin 道德判断雏形意义:
+    - 不用教,不用学,出生即有
+    - 后续认知发展 = 在这 5 系统上添加细节
+    - V2 综述跨多章引用,反 Piaget 空白说跟现库:G-PERSON-Spelke 已建,补 5 系统总览。
+    跟 Carey 概念革命派对照 — Carey 部分同意 + 增加"概念革命"过渡。
+    对中国家长意义:
+    - 婴儿出生就是个有结构的认知机器
+    - 早教灌输 ≠ 帮"建系统",系统已建
+    - 早教真正有用的是"调谐这 5 系统"(给经验)
+    - 互动陪伴是各派共识
+  what_to_do:
+    - 给孩子接触 5 类经验(物体 / 行动 / 数 / 空间 / 社会)
+    - 不必"补先天" — 5 系统出生即有
+    - 经验是"调谐"不是"灌输"
+    - 不用焦虑"几月会数"(数系统已有)
+  failure_mode: |
+    "婴儿是空白要灌输" — 错。出生就有 5 系统。
+    "Spelke 是唯一对的" — V2 综述告诉你 Carey/Cohen 也有理。
+    "5 系统 = 5 模块要分开教" — 不是。是综合互联的。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Spelke
+  - G-PERSON-Gopnik
+  - G-PERSON-Meltzoff
+  - G-TERM-baby-scientist
+  - G-TERM-core-knowledge
+  - G-PERSON-Carey
+  - G-TERM-conceptual-revolution
+  - G-PERSON-Piaget
+  - G-PERSON-Leslie
+  - G-PERSON-Baillargeon
+  - G-PERSON-Wynn
+  - G-PERSON-Newcombe
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 2 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 2 卷"
+  authors: ["Leslie B. Cohen", "Cara H. Cashon"]
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 5 综述 · Spelke core knowledge cited across Ch 5/16/17/18"
+  source_id: SRC-028
+
+unit_ids: []
+related_cards:
+  - C-S3-1140     # Baillargeon 吊桥(物体系统)
+  - C-S3-1142     # 因果直觉 4 月(行动系统)
+  - C-S3-188       # Spelke 物体永久
+  - C-S3-1141     # Cohen-Cashon vs Spelke
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

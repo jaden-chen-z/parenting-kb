@@ -1,0 +1,28 @@
+glossary_id: G-TERM-genetic-logic
+type: term
+display_name: "发展逻辑 / genetic logic (Baldwin)"
+
+name_en: "genetic logic (Baldwin)"
+name_zh: "发展逻辑"
+
+description: |
+  Baldwin 1906 提出 — 心理发展的逻辑分析方法,认为发展是质变 + 阶段重组,不是量变累积。
+  Piaget 直接师承 Baldwin,Vygotsky 也受影响。
+
+one_liner: |
+  发展逻辑(genetic logic (Baldwin))— Baldwin 1906 提出 — 心理发展的逻辑分析方法,认为发展是质变 + 阶段重组,不是量变累积。
+
+key_facts:
+  - "Lerner V1 元理论卷核心术语"
+  - "学派:Lerner V1 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

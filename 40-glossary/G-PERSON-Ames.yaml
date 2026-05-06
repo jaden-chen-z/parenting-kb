@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Ames
+type: person
+display_name: "Ames(卡罗尔·艾姆斯)"
+
+full_name_en: "Carole Ames"
+full_name_zh: "卡罗尔·艾姆斯"
+
+position: |
+  Michigan State University
+
+contribution: |
+  TARGET 课堂动机 6 维度框架
+
+one_liner: |
+  卡罗尔·艾姆斯 — TARGET 课堂动机 6 维度框架
+
+key_facts:
+  - "本卷章节:Ch 8(引用)"
+  - "Lerner V4 命中:0 次"
+  - "学派:Lerner V4 应用心理学派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-029
+    chapter: "Ch 8(引用)"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

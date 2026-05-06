@@ -1,0 +1,60 @@
+card_id: C-S4-187
+stages: [S4]
+tags: [cognitive_science, object_permanence, myth_busting]
+
+front:
+  title: 6-9 月物体永久性才完成
+  hook: 钥匙盖布下找得到
+
+back:
+  why_matters: |
+    虽然 4 月就有物体永久性**雏形**(C-S3-188),完整能力 6-9 月才到。
+    Piaget 经典 keys-under-washcloth 实验:
+    - 6 月给宝宝看钥匙 → 兴奋
+    - 用洗脸巾盖住 → 宝宝**呆住**(钥匙"消失"了)
+    - 揭开洗脸巾 → 宝宝又兴奋
+    Gopnik 引用 Piaget 解读:6 月宝宝**真心觉得钥匙不在**了。
+    9 月宝宝能**主动揭开布找钥匙** — 物体永久性完成。
+    15 月才能解决"多步骤隐藏"(钥匙在你手里再放进布下)。
+    对中国家长意义:
+    - 6-9 月玩躲猫猫的最佳起点(C-S4-185 同段配合)
+    - 妈妈"消失"焦虑也跟物体永久性有关(她不见了 = 真没了)
+    - 9 月起宝宝能理解"妈妈出去会回来"(分离焦虑同时起)
+    - 鼓励躲猫猫游戏 = 训练物体永久性 + 分离焦虑预演
+  what_to_do:
+    - 6 月起每天玩多次躲猫猫(布盖脸再露)
+    - 9 月起把玩具藏在垫子下让他自己找
+    - 妈妈出门前明确告别("妈妈去 X 一会儿就回来")
+    - 不偷偷溜走 — 增加分离焦虑(物体永久性脆弱)
+  failure_mode: |
+    "9 月还玩躲猫猫太幼稚" — 错。这是物体永久性 / 分离焦虑训练。
+    妈妈不告别偷偷溜走 — 物体永久性 + 信任双重崩塌。
+    "他不哭就是没事" — 错。物体永久性脆弱期分离要谨慎。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Piaget
+  - G-PERSON-Gopnik
+  - G-TERM-object-permanence
+  - G-TERM-peekaboo
+  - G-TERM-separation-anxiety
+
+citation:
+  book_title_en: "The Scientist in the Crib"
+  book_title_zh: "摇篮里的科学家"
+  authors: ["Alison Gopnik", "Andrew N. Meltzoff", "Patricia K. Kuhl"]
+  publisher_en: William Morrow
+  year: 1999
+  location: "Chapter 3 · Tree in Quad (6-9 month object permanence)"
+  source_id: SRC-015
+
+unit_ids: []
+related_cards:
+  - C-S3-188       # 物体永久性 4 月雏形
+  - C-S4-068       # Bowlby 依恋形成 6-9 月
+  - C-S4-003       # AAP 物体永久性早期卡
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

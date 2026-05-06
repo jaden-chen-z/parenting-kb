@@ -1,0 +1,59 @@
+card_id: C-S7-245
+stages: [S7]
+tags: [bowlby, loss, grief, philosophy, china_high_freq]
+
+front:
+  title: 大人也可以哭
+  hook: 别在孩子前装坚强
+
+back:
+  why_matters: |
+    Bowlby 第十六章 — 温蒂父亲的关键改变:
+    咨询师建议:**不必在孩子面前完全隐藏自己的悲伤、关心和焦虑**(之前父亲认为必须"装坚强")。
+    背景:温蒂妈妈病危时,父亲原以为"为了孩子要装没事"。咨询师让他卸下这个伪装。
+    结果:温蒂能学会"难过可以表达",一年后她跟外婆说"如果你妈妈或祖父去世了,你完全可以哭泣"。
+    Bowlby 立场:**孩子需要看到大人哀伤的样子,才能学会自己哀伤**。装坚强的父母 → 孩子也学会装 → 病理化。
+    凯西母亲(失夫,4 岁凯西)反例:母亲深深哀悼但**对凯西控制倾向太强表达不出来**,结果**凯西也表达不出**(过度控制 + 兴奋假装) → 转入临床治疗。咨询师让母亲学会"跟孩子分享自己的感受 / 谈论父亲 / 向凯西保证这样是为了悲伤" → 凯西好转。
+    中国家庭最大坑:
+    - **"为了孩子不能哭"** → 孩子学会装 + 自己关上情绪
+    - **"再也别提了"** → 孩子的哀悼被压制 → 病理
+    - **替代照顾者也"装"** → 孩子无人可以学习健康哀悼实操:**该哭就哭 + 跟孩子说"我也想 X / 我也难过 / 我们一起想他吧"**。
+  what_to_do:
+    - 哭就哭不在孩子面前装
+    - 主动说"妈妈也很难过"
+    - 跟孩子聊已逝者:具体故事 / 习惯
+    - 让孩子看大人擦泪 / 抱头
+    - 全家一致不让其他人压制
+  failure_mode: |
+    "我得为了孩子坚强不能哭" → 孩子学会装 → 帕特里克 / 劳拉模式 → 病理化。
+    "别再提奶奶 / 爸爸了免得难过" → 哀悼被截断 → 卡在第 1-2 阶段。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Bowlby
+  - G-TERM-mourning
+  - G-TERM-childhood-mourning
+  - G-TERM-pathological-mourning
+
+citation:
+  book_title_zh: "依恋三部曲 · 第三卷:丧失"
+  book_title_en: "Attachment and Loss, Vol 3: Loss, Sadness and Depression"
+  authors: ["John Bowlby"]
+  authors_zh: ["约翰·鲍尔比"]
+  publisher_zh: "世界图书出版有限公司北京分公司"
+  year_zh: 2018
+  year_en: 1980
+  isbn_zh: "978-7-5192-3383-9"
+  location: "Ch 16 · 温蒂父亲 + 凯西母亲案例"
+  source_id: SRC-017
+
+unit_ids: []
+related_cards:
+  - C-S6-093       # Bowlby V2 别让娃当你情绪保姆(平衡:不是哭给孩子听 是真情实感)
+  - C-S7-237       # 谈死亡用真话
+  - C-S7-241       # 告诉娃不是他的错
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

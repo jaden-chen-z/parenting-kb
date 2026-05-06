@@ -1,0 +1,70 @@
+card_id: C-S6-1388
+stages: [S6]
+tags: [self_regulation, boekaerts, toddler, lerner_v4]
+
+front:
+  title: 12-24 月自我调节起芽
+  hook: 12-24 月自调起
+
+back:
+  why_matters: |
+    Boekaerts V4 Ch 9(12-24mo 自我调节起源期)。
+    **12-24 月自我调节萌芽**:
+    - 这阶段是**自我调节起源期**
+    - 12 月:看父母调节("妈帮我调")
+    - 18 月:开始自己尝试("我试")
+    - 24 月:有限自我调节("数到 3")
+    **3 大调节路径建立**:
+    - **认知调节**:开始用语言("这是我的")
+    - **动机调节**:目标萌芽("我要那个")
+    - **情境调节**:学等待 1-2 分钟
+    **12-24 月调节关键场景**:
+    - **延迟满足**:1 分钟等待 → 5 分钟 → 10 分钟(逐步)
+    - **情绪命名**:"你生气" → 帮娃认情绪
+    - **替代策略**:"想要不能给,试试 X 吧"
+    - **自言自语鼓励**:Vygotsky 私语萌芽
+    **反 3 误区**:
+    - ❌ "12 月不会自我调节什么都给"(错过萌芽期)
+    - ❌ "24 月该会等"(过早)
+    - ❌ "tantrum 是不听话"(自我调节正常发展)
+    跟现库:跟 C-S0-1241 Boekaerts 总论 + C-S6-928 Shonkoff PFC tantrum + Tools of Mind(C-S8-756)对接。
+    对中国家长意义:
+    - 12-24 月**起步训练**自我调节
+    - 1 分钟等待 → 5 分钟 → 10 分钟
+    - 帮娃认情绪("你生气")
+    - 不"一闹就给"也不"硬要等很久"
+  what_to_do:
+    - 12-24 月起步训自我调节
+    - 1分钟等→5分钟→10分钟
+    - '帮娃认情绪"你生气"'
+    - '不"一闹就给"不硬等'
+  failure_mode: |
+    "12 月不会自我调节"— 错。萌芽期。
+    "24 月该会等很久"— 错。过早。
+    "tantrum = 不听话"— 错。自我调节发展中。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Boekaerts
+  - G-TERM-self-regulation
+  - G-TERM-effortful-control
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 4 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 4 卷"
+  authors: ['Monique Boekaerts']
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 9 · Boekaerts · Toddler 12-24mo self-regulation emergence · pp. 350-360"
+  source_id: SRC-029
+
+unit_ids: []
+related_cards:
+  - C-S0-1241     # Boekaerts 3 层
+  - C-S6-928     # Shonkoff tantrum PFC
+  - C-S5-1041     # V3 Eisenberg effortful control
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

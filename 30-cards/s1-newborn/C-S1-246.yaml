@@ -1,0 +1,62 @@
+card_id: C-S1-246
+stages: [S1]
+tags: [cognitive_science, brain_science, critical_period, vision]
+
+front:
+  title: 0-6 月视觉关键期窗
+  hook: 0-6 月不可逆的窗
+
+back:
+  why_matters: |
+    1962 诺贝尔奖经典实验 — Gopnik 引用作为关键期最硬证据。
+    Hubel & Wiesel 把刚出生小猫**一只眼**遮住几周(关键期内)。
+    几周后摘罩 → 该眼**永久失明**。
+    机制:大脑从遮住的眼没收到信号 → 该眼神经连接被另一只眼"接管"。
+    后期再摘罩,神经回路已重连,**无法逆转**。
+    人类视觉关键期:**0-6 月最强,0-3 岁可塑**。
+    临床应用:
+    - 婴儿先天性白内障 → **必须 2-3 月内手术**,晚了视觉重组完成,白手术
+    - 弱视(amblyopia):一只眼焦距严重偏 → 另一只眼接管 → 弱眼终身视力差
+    - 斜视:6 月内不矫正 → 双眼视觉重组,失去立体视觉
+    Gopnik 强调:这是**少数真正"关键期"**(critical period),
+    不是"敏感期"(sensitive period) — 错过真无法补。
+    对中国家长意义:
+    - 0-6 月**眼科筛查必做**(白内障 / 斜视 / 弱视)
+    - 不要让宝宝长期遮一只眼(包括帽子 / 头发)
+    - 视觉训练在 0-6 月最有效(高对比图 + 真物 + 距离变化)
+    - 这跟知觉重组(C-S4-184 语言)是同样原理
+  what_to_do:
+    - 0-6 月每月眼科筛查(尤其早产儿 / 家族史)
+    - 不让宝宝长期遮一只眼(衣物 / 帽子 / 发型)
+    - 6 月前发现斜视立刻就医(不"等等看")
+    - 视觉刺激优先 0-6 月(高对比 + 真物 + 移动)
+  failure_mode: |
+    "眼睛 6 岁后再说" — 错。视觉关键期 0-6 月,晚了不可逆。
+    斜视"等长大自然好" — 错。6 月内不矫正失去立体视觉。
+    新生儿白内障"先观察" — 错。2-3 月内必须手术。
+  evidence_level: A
+
+glossary_refs:
+  - G-TERM-critical-period
+  - G-TERM-synaptic-pruning
+  - G-PERSON-Gopnik
+
+citation:
+  book_title_en: "The Scientist in the Crib"
+  book_title_zh: "摇篮里的科学家"
+  authors: ["Alison Gopnik", "Andrew N. Meltzoff", "Patricia K. Kuhl"]
+  publisher_en: William Morrow
+  year: 1999
+  location: "Chapter 6 · Hubel-Wiesel 1962 visual critical period"
+  source_id: SRC-015
+
+unit_ids: []
+related_cards:
+  - C-S7-127       # 突触修剪
+  - C-S4-184       # 知觉重组(同关键期原理)
+  - C-S1-244       # 新生儿对人脸特化
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

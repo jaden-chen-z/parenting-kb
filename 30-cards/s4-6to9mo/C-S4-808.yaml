@@ -1,0 +1,64 @@
+card_id: C-S4-808
+stages: [S4]
+tags: [shonkoff, nrc, peers, social_development, china_high_freq]
+
+front:
+  title: "8 月起会找小伙伴"
+  hook: "孩子之间也学社交"
+
+back:
+  why_matters: |
+    NRC 综述 Ch 7 反"小宝宝不会社交"中文文化迷思:
+    **NRC 综述给 0-3 岁同伴互动时间线**:
+    - **6-9 月**:对其他婴儿表现兴趣(看 / 摸 / 笑)
+    - **9-12 月**:模仿其他婴儿动作
+    - **12-18 月**:并行玩耍(parallel play)— 在一起但不交互
+    - **18-24 月**:开始合作玩(轮流 / 给玩具 / 共同任务)
+    - **24-36 月**:复杂同伴互动(角色 / 规则 / 假装)
+    **关键发现**:
+    - 婴儿对**婴儿**的回应跟对**成人**的不同
+    - 同伴互动是**独立**社交学习场景 — 不能被亲子关系替代
+    - 早期托儿所中的同伴互动 → 长大社交能力更强(Howes 数据)
+    **NRC 立场**:
+    - 反"宝宝小不需要朋友"
+    - 不是要"逼"社交 — 是给机会
+    - 每周几次 playdate / 公园 / 早教中心 → 即可
+    **对中国家长**:
+    - 0-3 岁也需要同伴 — 不只是亲子
+    - 别说"她小不懂跟人玩" — 错,8 月起开始
+    - 每周几次跟其他婴儿见面 → 社交基础
+    - 内向孩子也需要 — 但需更慢节奏 + 不强迫跟 Lillard 蒙氏 0-3 同伴 + RIE 自由玩耍立场一致。
+  what_to_do:
+    - 8 月起多找小伙伴
+    - 公园 / 早教 / playdate
+    - 别强迫只是给机会
+    - 内向慢节奏 OK
+    - 同伴 ≠ 亲子可替
+  failure_mode: |
+    "她还小不懂 — 等大了再找朋友" — 错,8 月起就开始独立社交学习。
+    强迫"打招呼分享" → 反加重退缩。
+    "全家陪就行 — 不需小伙伴" — 错,同伴是独立社交场景。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Shonkoff
+  - G-TERM-NRC
+
+citation:
+  book_title_en: "From Neurons to Neighborhoods"
+  authors: ["Jack P. Shonkoff", "Deborah A. Phillips"]
+  org: "NRC/IOM"
+  year_en: 2000
+  location: "Ch 7 · Peer relationships timeline"
+  source_id: SRC-025
+
+unit_ids: []
+related_cards:
+  - C-S6-186    # Lillard 蒙氏同伴 SRC-016
+  - C-S6-396    # Lansbury 自由玩 SRC-019
+  - C-S2-550    # 松田 集体保育 SRC-024
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

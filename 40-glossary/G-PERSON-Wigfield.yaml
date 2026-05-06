@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Wigfield
+type: person
+display_name: "Wigfield(艾伦·威格菲尔德)"
+
+full_name_en: "Allan Wigfield"
+full_name_zh: "艾伦·威格菲尔德"
+
+position: |
+  University of Maryland 心理学教授
+
+contribution: |
+  成就动机 expectancy-value 模型;Eccles 合作者
+
+one_liner: |
+  艾伦·威格菲尔德 — 成就动机 expectancy-value 模型;Eccles 合作者
+
+key_facts:
+  - "本卷章节:Ch 15"
+  - "Lerner V3 命中:80 次"
+  - "学派:Lerner V3 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-027
+    chapter: "Ch 15"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

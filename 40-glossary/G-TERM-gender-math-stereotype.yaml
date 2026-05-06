@@ -1,0 +1,22 @@
+glossary_id: G-TERM-gender-math-stereotype
+type: term
+display_name: "数学性别刻板"
+
+one_liner: |
+  Eccles:数学能力性别差很小,但 expectancy 差大;5 岁起女娃自评低于男娃。
+
+detail: |
+  Eccles:数学能力性别差很小,但 expectancy 差大;5 岁起女娃自评低于男娃。
+
+  来源:Lerner V3《Handbook of Child Psychology Vol 3》(Wiley 2006 第 6 版,Eisenberg 主编)。
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-027
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

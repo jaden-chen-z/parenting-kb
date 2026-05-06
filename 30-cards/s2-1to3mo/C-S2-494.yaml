@@ -1,0 +1,61 @@
+card_id: C-S2-494
+stages: [S2]
+tags: [intervention, RIE, dip]
+
+front:
+  title: "选择性介入三层级"
+  hook: "宝宝挣扎时看再说"
+
+back:
+  why_matters: |
+    Magda《自信的宝宝》Ch2 §Selective Intervention Supports Competence。
+    1972 年 Magda 跟 Tom Forrest 在 Stanford / Palo Alto 创 DIP
+    (Demonstration Infant Program),本术语在那里命名。
+    宝宝挣扎(够不到 / 哭 / 跟同伴拉扯)时家长该不该介入?
+    Magda 三层级:
+    1 **不介入** = 默认(95% 情况)— 蹲下看,让宝宝自己解决
+    2 **最小介入** = 安全 / 真挫败 → 给最小提示("玩具在那边")
+    3 **物理介入** = 真危险 / 真打人 → 用手挡 + "我不让你"
+    DIP 信念:nonintervention 培养应对力。Piaget 名言:
+    "每教一次就剥夺一次自我发现的机会。"
+
+  what_to_do:
+    - 默认 95% 不介入,蹲下观察
+    - 真危险才物理挡(三层级最高)
+    - 介入前问自己:他真需要还是我急
+    - 给"最小有效提示",不接管全过程
+    - 介入后说出做了什么
+
+  failure_mode: |
+    "我看着他挣扎太难受要帮" → Magda 反:你看难受是你的问题,
+    不是宝宝的。或反向:"完全不管放养" → 反:三层级最高级是物理挡,
+    不是放任。Magda 强调"selective"是关键 — 95% 看,5% 出手。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+  - G-TERM-sportscasting
+
+citation:
+  book_title_en: "Your Self-Confident Baby"
+  book_title_zh: "自信的宝宝"
+  authors:
+    - Magda Gerber
+    - Allison Johnson
+  publisher_en: John Wiley & Sons
+  year: 1998
+  location: "Ch2 §DIP: Selective Intervention Supports Competence(p17-18)"
+  source_id: SRC-021
+
+unit_ids: []
+related_cards:
+  - C-S6-395  # Lansbury sportscasting(三层级实操工具)
+  - C-S5-131  # Davies 不替宝宝做
+  - C-S5-188  # Lillard 选 2 法
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

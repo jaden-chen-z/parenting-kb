@@ -1,0 +1,72 @@
+card_id: C-S4-1140
+stages: [S4]
+tags: [cognitive_science, language, statistical_learning, lerner_v2]
+
+front:
+  title: 8 月听 2 分钟就分词
+  hook: 婴儿天生统计学家
+
+back:
+  why_matters: |
+    Saffran / Aslin / Newport 1996 经典实验(Lerner V2 第 2 章综述权威)。
+
+    给 8 月宝宝听 2 分钟无意义音节流(golabu pabiku tutipu……)。
+    音节之间没空格、没语调线索,只有"统计规律":
+    - 同一词内 3 音节连续概率 = 100%
+    - 跨词边界 3 音节概率 = 33%
+
+    宝宝就根据这个统计差异,把"词"和"非词"分开。
+    后续测试,宝宝盯"词"和"非词"反应不同 = 已分割。
+
+    意义:
+    - 婴儿大脑天生跑统计算法,不需要教
+    - 中文宝宝听中文 / 英文宝宝听英文 = 同样机制
+    - 这是 Werker"母语音素窗口"背后的算法基础
+
+    跟现库:高普尼克 C-S3-187 提到统计学习,Lerner V2 给原始实验综述。
+    跟凡德里特跃迁 55(声音模式跃迁 6-7 月)对接。
+
+    对中国家长意义:
+    - 不需要"教"宝宝分词,他自己抓
+    - 给真人语流就够,不用慢说每个字
+    - 双语家庭别担心混乱 — 宝宝跑两套统计
+  what_to_do:
+    - 6 月起多对宝宝说话,正常语速即可
+    - 不必"逐字慢念" — 宝宝抓的是模式
+    - 双语家庭一人一语,各自正常说
+    - 不用刻意停顿模仿"分词"教
+  failure_mode: |
+    "宝宝太小听不懂" — 错。8 月就在跑统计算法。
+    "为了让他听清逐字慢说" — 没必要,正常语流统计更丰富。
+    "电视背景音也算" — 不算。库尔实验证明无人际互动无效。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Kuhl
+  - G-TERM-statistical-learning
+  - G-TERM-perceptual-narrowing
+  - G-TERM-parentese
+  - G-PERSON-Saffran
+  - G-PERSON-Werker
+  - G-PERSON-Gopnik
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 2: Cognition, Perception, and Language (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 2 卷:认知、感知与语言(第 6 版)"
+  authors: ["Jenny R. Saffran", "Janet F. Werker", "Lynne A. Werner"]
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 2 · Statistical learning · pp. 81-88"
+  source_id: SRC-028
+
+unit_ids: []
+related_cards:
+  - C-S3-188       # Spelke 4 月物体永久(Lerner V2 同方法论 — VOE / 习惯化)
+  - C-S5-016       # 鲍秀兰 parentese 教语言
+  - C-S4-003       # AAP 物体永久(传统 Piaget)
+  - C-S6-926       # Shonkoff Hart-Risley 30M words 跟 Saffran 输入量呼应
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

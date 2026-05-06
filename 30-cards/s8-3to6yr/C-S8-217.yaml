@@ -1,0 +1,67 @@
+card_id: C-S8-217
+stages: [S8]
+tags: [shonkoff, nrc, peer_rejection, social_competence, china_high_freq]
+
+front:
+  title: "被同伴拒分两种"
+  hook: "攻击和退缩风险不同"
+
+back:
+  why_matters: |
+    NRC 综述 Ch 7 给"被同伴拒(peer rejection)"科学分类:
+    **4 类同伴地位**(从 sociometric 评估):
+    - **popular 受欢迎**:多数喜欢 + 少不喜欢
+    - **rejected 被拒**:多数不喜欢 + 少喜欢 ⭐⭐⭐
+    - **neglected 被忽视**:多数没意见(透明)
+    - **controversial 有争议**:多数喜欢 + 同时多数不喜欢
+    **rejected 被拒分两类风险**:
+    1. **rejected aggressive 攻击型被拒**:打人 / 抢玩具 → 风险:外化行为问题(青少年违法 / 反社会)
+    2. **rejected withdrawn 退缩型被拒**:不爱说话 / 不参与 → 风险:内化问题(焦虑 / 抑郁)
+    **NRC 关键发现**:
+    - 学龄期被拒 → 成年精神病发病率显著高
+    - 学校成绩低 + 法律问题多
+    - **不是所有被拒都成问题** — 但风险高
+    - **中度攻击的孩子常是社交活跃** — 不是病,是 toddler 期发展正常
+    **应对**:
+    - **攻击型被拒** → 教冲突解决 / 情绪调节
+    - **退缩型被拒** → 提供低压力小组互动 / 建立友谊机会
+    **对中国家长**:
+    - 别因娃"内向不主动"焦虑 — 退缩 ≠ 必有问题
+    - 但**长期被拒**(无朋友 / 在学校被孤立)是风险信号
+    - 攻击型 + 退缩型 → 应对方式完全不同
+    - 内向退缩孩 + 1-2 个稳定朋友 = 健康
+  what_to_do:
+    - 看是被拒还是被忽视
+    - 攻击型教冲突解决
+    - 退缩型创造小组机会
+    - 1-2 朋友比多熟人重
+    - 长期孤立才要担心
+  failure_mode: |
+    "他没朋友 — 强迫多社交锻炼" — 退缩型加重 inhibited。
+    "他打人 — 让他冷静自己反思" — 攻击型需要教,不是关禁闭。
+    "他从没朋友 — 是性格" — 错,长期被拒是风险信号 — 早干预。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Shonkoff
+  - G-TERM-NRC
+
+citation:
+  book_title_en: "From Neurons to Neighborhoods"
+  authors: ["Jack P. Shonkoff", "Deborah A. Phillips"]
+  org: "NRC/IOM"
+  year_en: 2000
+  location: "Ch 7 · Sociometric peer status / rejected categories"
+  source_id: SRC-025
+
+unit_ids: []
+related_cards:
+  - C-S4-808    # Shonkoff 8 月起找小伙伴(本卷)
+  - C-S3-805    # Shonkoff 4 月气质(本卷)
+  - C-S7-756    # 松田 §401 认生 SRC-024
+  - C-S6-186    # Lillard 同伴 SRC-016
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

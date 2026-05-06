@@ -1,0 +1,28 @@
+glossary_id: G-TERM-canalization
+type: term
+display_name: "渠化 / canalization"
+
+name_en: "canalization"
+name_zh: "渠化"
+
+description: |
+  Waddington 提出 — 基因像挖了山谷渠道,发展倾向走渠道但环境扰动可改路径。
+  深渠道(走 / 说话)环境影响小,浅渠道(兴趣 / 习惯)环境影响大。
+
+one_liner: |
+  渠化(canalization)— Waddington 提出 — 基因像挖了山谷渠道,发展倾向走渠道但环境扰动可改路径。
+
+key_facts:
+  - "Lerner V1 元理论卷核心术语"
+  - "学派:Lerner V1 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

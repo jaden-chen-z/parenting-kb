@@ -1,0 +1,60 @@
+card_id: C-S4-193
+stages: [S4]
+tags: [montessori, hand-发展, milestone]
+
+front:
+  title: 6 月双手过物 pincer
+  hook: 手脑反馈环最关键
+
+back:
+  why_matters: |
+    Lillard Ch4 详细描述 6-9 月手发展关键里程碑:
+    - **6 月** — hand-to-hand transfer(物品从右手转左手) — 双手配合起步
+    - **6-7 月** — flat pincer(拇指 + 4 指,但拇指还是平的) — 能拿 Cheerios
+    - **7-8 月** — 髓鞘完成 → 手指能独立控
+    - **9-10 月** — true pincer(拇指对食指精细对捏) — 能拿牙签
+    Lillard 强调:**这不是"自然就发生",是需要练的**。
+    日本 vs 美国对比(Lillard Ch4):
+    - 日本 14 月就让宝宝把牙签放进盐瓶孔 → 小动作发展世界领先
+    - 美国家长重大动作(走 / 跑 / 球类),忽视小动作
+    - 结果:美国宝宝 pincer 普遍弱实操工具(蒙氏推荐):
+    - 6 月起 — 篮子放 2-3 件物品,允许宝宝自取自放
+    - 7-8 月 — 球进盒(球放在透明盒,从顶孔放进去)
+    - 9-10 月 — Cheerios 放进瓶口
+    - 12-15 月 — 钱币塞进硬币盒口跟"小动作没那么重要"潮流**对立** — 蒙氏立场:小动作 = 未来精细工作 + 写字 + 工具用 + 大脑发育。
+  what_to_do:
+    - 6 月起篮子放 2-3 件物品
+    - 7 月球进盒练习
+    - 8-9 月给 Cheerios 自抓
+    - 10 月起钱币 / 牙签精细物
+    - 别让宝宝玩平面屏幕(不练手)
+  failure_mode: |
+    "6 月还小,玩点摇铃就行" — 反:6 月起需要双手配合 + pincer 训练。
+    只重视大动作 → 小动作弱 → 长大写字 / 工具用难。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Lillard
+  - G-PERSON-Jessen
+  - G-TERM-coordinated-movement
+
+citation:
+  book_title_zh: "蒙台梭利从 0 岁开始"
+  book_title_en: "Montessori from the Start"
+  authors: ["Paula Polk Lillard", "Lynn Lillard Jessen"]
+  authors_zh: ["宝拉·波尔克·莉拉德", "琳·莉拉德·杰森"]
+  publisher_en: "Schocken Books"
+  year_en: 2003
+  isbn_en: "978-0-8052-1112-1"
+  location: "Ch 4 · 'The Hand and the Brain' (6-15 month progression)"
+  source_id: SRC-016
+
+unit_ids: []
+related_cards:
+  - C-S3-191       # Lillard 别塞玩具
+  - C-S3-193       # Lillard 弹簧 mobile
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

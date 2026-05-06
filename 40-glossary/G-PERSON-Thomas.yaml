@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Thomas
+type: person
+display_name: "Thomas(亚历山大·托马斯)"
+
+full_name_en: "Alexander Thomas"
+full_name_zh: "亚历山大·托马斯"
+
+position: |
+  NYU Medical Center 精神科教授
+
+contribution: |
+  NYLS + goodness-of-fit 概念;Chess 合作
+
+one_liner: |
+  亚历山大·托马斯 — NYLS + goodness-of-fit 概念;Chess 合作
+
+key_facts:
+  - "本卷章节:Ch 3 historical"
+  - "Lerner V3 命中:91 次"
+  - "学派:Lerner V3 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-027
+    chapter: "Ch 3 historical"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

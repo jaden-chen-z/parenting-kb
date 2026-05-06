@@ -1,0 +1,59 @@
+card_id: C-S3-350
+stages: [S3]
+tags: [play-environment, simplicity]
+
+front:
+  title: "玩环境少而简"
+  hook: "玩具堆山压死探索"
+
+back:
+  why_matters: |
+    Magda 玩环境 3 原则:
+    1)安全(无锐角 / 小颗粒 / 触电)
+    2)思考挑战(适龄而不超纲)
+    3)情感滋养(大人在场观察)。
+    玩具数量少 = 宝宝更专注 + 更深度。
+    Magda 推荐"large cotton scarves + balls"给婴儿,
+    不要 mobile 摇铃 / 闪卡 / 电子玩具。
+    跟蒙氏 预备环境 同源,Magda 1998 早讲。
+
+  what_to_do:
+    - 一次只摆 3-5 件玩具,定期轮换
+    - 选简单材质:布 / 木 / 金属碗 / 不锈钢勺
+    - 不放电池玩具(灯 / 声 / 自动转)
+    - 大彩盒 / 楔形垫 / 球 = 经典几样
+    - 不"砸钱买开发智力玩具"
+
+  failure_mode: |
+    "玩具越多刺激越多发展越快" → 实际相反 → 注意力碎 + 玩深度浅。
+    Magda 原话:"婴儿身上自带的觉察 = 最好的刺激来源"。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+  - G-TERM-passive-toys
+  - G-TERM-prepared-environment
+
+citation:
+  book_title_en: "Your Self-Confident Baby"
+  book_title_zh: "自信的宝宝"
+  authors:
+    - Magda Gerber
+    - Allison Johnson
+  publisher_en: John Wiley & Sons
+  year: 1998
+  location: "Ch5 The Play Environment + Ch3 What about Toys?"
+  source_id: SRC-022
+
+unit_ids: []
+related_cards:
+  - C-S2-189  # Lillard 0-6 岁只给真实
+  - C-S3-295  # Lansbury passive toys
+  - C-S3-296  # Lansbury 不主导玩
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

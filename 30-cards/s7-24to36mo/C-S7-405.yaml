@@ -1,0 +1,80 @@
+card_id: C-S7-405
+stages: [S7]
+tags: [toilet, autonomy]
+
+front:
+  title: "学如厕不是训练"
+  hook: "他准备好就自己来"
+
+back:
+  why_matters: |
+    Magda 反 toilet "training" 这个词:
+    应该叫 toilet **learning** —— 学习,不是训练。
+    "训练"= 大人时间表;"学习"= 孩子时间表。
+    Magda 推:18-30 月孩子自己开始想用马桶时跟着教,
+    不强行"奖励 + 罚"加速。
+    Lansbury Ch21 复述,Magda 是源头。
+    跟蒙氏 sensitive period 一致。
+
+  what_to_do:
+    - 不定 KPI"X 月戒尿不湿"
+    - 准备马桶椅放浴室,他随便看
+    - 讲解你在做什么("妈妈在马桶上嘘嘘")
+    - 他主动"我要嘘"才教 — 不主动不教
+    - 失败回归不批评 — 学习过程一定有反复
+
+  failure_mode: |
+    "亲戚说 18 月就该会了 / 用奖励 / 罚" → 强行训出来代价大(后期憋 / 焦虑 / 情感问题)。
+    Magda 原话:"准备好就是他做了的那一刻"。
+
+  evidence_level: B
+
+  positions:
+    issue: 如厕训练何时开始 · 谁主导 · 什么方法
+    views:
+      - school: Lillard(蒙氏)
+        source: SRC-016
+        stance: 12-18 月敏感期介入。反对长期纸尿裤拖延,孩子主导探索如厕,环境提供小马桶。
+      - school: AAP / 主流
+        source: SRC-006
+        stance: 18 月-3 岁。等待神经括约肌成熟与孩子表达意愿,避免提前训练造成抗拒。
+      - school: 鲍秀兰
+        source: SRC-009
+        stance: 9 月起坐盆训练,25-30 月用语言表达替代动作信号。早期建立排便规律。
+      - school: Brazelton
+        source: SRC-010
+        stance: 24 月以后多数孩子才准备好,孩子主导,称 toilet learning 而非 training。反对 EC 出生训练。
+      - school: 松田道雄
+        source: SRC-024
+        stance: 4-5 月把屎把尿是错的;7-8 月可试便盆(每次 1 分钟为限);1.5 岁夏天撤尿布最佳。
+      - school: Pikler / Magda / Lansbury
+        source: SRC-026/022/019
+        stance: 不训练 — 等 24-30 月孩子自己准备好;"学如厕"而非"训练"。反对绑 / 揍 / 久坐 / 太早 4 大错。
+      - school: 中国传统
+        stance: 把屎把尿(EC) + 3 岁前完成,以家长信号为主;中医认为憋尿伤肾。
+glossary_refs:
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+  - G-TERM-critical-period
+
+citation:
+  book_title_en: "Your Self-Confident Baby"
+  book_title_zh: "自信的宝宝"
+  authors:
+    - Magda Gerber
+    - Allison Johnson
+  publisher_en: John Wiley & Sons
+  year: 1998
+  location: "Ch8 Learning to Use the Toilet"
+  source_id: SRC-022
+
+unit_ids: []
+related_cards:
+  - C-S7-352  # Lansbury 对症下药才能放手
+  - C-S6-138  # Davies 父母先照顾自己
+  - C-S6-192  # Lillard No 永远 No
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

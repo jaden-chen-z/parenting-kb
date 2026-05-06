@@ -1,0 +1,60 @@
+card_id: C-S6-822
+stages: [S6]
+tags: [autonomy, daycare, attachment, japan, matsuda]
+
+front:
+  title: "送托前先陪 1 天"
+  hook: "硬塞会变创伤"
+
+back:
+  why_matters: |
+    松田 §378 给"母子分离"硬规则:
+    1. 1.5 岁开始送托孩子很难离开妈;
+    2. 硬塞给保育员就离开 — 孩子会一刻不停缠保育员;
+    3. **母子分离需要准备期**(2-3 周);
+    4. 头几天母亲在保育园陪一会，
+       让孩子从依赖妈过渡到依赖保育员;
+    5. 接孩子要**提前一点**(妈妈不是最后一个);
+    6. **母亲第 1 天最好和孩子一起在园里呆 1 天**;
+    7. 强制分离 = 孩子没哭不代表内心没受伤,
+       别误把"灰心绝望"当成自立。
+    跟 Bowlby V2"分离创伤"+ Brazelton "分离的痛主要在父母"一致 +
+    跟中国"狠心扔下不回头"派立场对立。
+
+  what_to_do:
+    - 1.5 岁前送托优先(适应快)
+    - 头几天妈妈陪园里 30 分钟
+    - 接孩子提前一点不最后接
+    - 第 1 天能一起呆 1 天最好
+    - 不强制"突然分离"
+
+  failure_mode: |
+    最常见误区:第一天送托妈妈"狠心一走"+ 不告别 → 孩子一天哭崩 → 第二天看见园门就哭。
+    错误自我安慰:"他不哭了就是适应了" — 实际上是"灰心绝望"。
+    跟"母亲偷偷离开" / "妈妈骗他不走"一类做法都是创伤型分离。
+    替代:Brazelton 入园方法一致 — 渐进式 + 妈妈先陪 + 提前接 + 第 1 天一起呆。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Matsuda
+
+citation:
+  book_title_zh: "定本育儿百科"
+  authors:
+    - 松田道雄
+  publisher_ja: 岩波书店
+  year_first_edition: 1967
+  location: "§378 母子分离"
+  source_id: SRC-024
+
+unit_ids: []
+related_cards:
+  - C-S5-026  # Brazelton 分离的痛主要在父母
+  - C-S7-022  # Brazelton 入园 2-3 周后会二次崩溃
+  - C-S6-818  # 松田 不要吓唬孩子(同源分离恐惧)
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

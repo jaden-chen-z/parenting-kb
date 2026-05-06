@@ -1,0 +1,67 @@
+card_id: C-S4-132
+stages: [S4]
+tags: [montessori, motor, equipment, jumper, controversy]
+
+front:
+  title: 不用 jumper 学步车
+  hook: 蒙氏 + AAP 双反对
+
+back:
+  why_matters: |
+    家长爱买的"省事神器":
+    - **Jumper**(蹦跳器)— 宝宝挂在弹簧上跳
+    - **Walker**(学步车)— 宝宝坐里面腿一蹬到处走
+    - **Exersaucer**(围坐玩具圈)— 360° 玩具中宝宝坐着全部 3 类:**蒙氏明确反对 + AAP 也反对**(双背书)。
+    问题清单:
+    1. **髋部承重过早** — 宝宝骨骼未发育好,强压髋骨,跟 DDH(髋关节发育不良)风险相关
+    2. **学步车跌落** — 美国每年急诊跌落事故主要源头之一
+    3. **学步异常** — 学步车的腿姿势(踮脚 / 一蹬就走)跟自然走不同,反而走得**晚**
+    4. **失去探索** — 360° 玩具中坐着看,失去爬 / 探索 / 解决问题机会
+    5. **平衡训练丢失** — 跳跳器不练真平衡,只靠弹簧
+    AAP 立场:**不主张 jumper / 学步车 / exersaucer**。
+    加拿大 2004 年起**全面禁售学步车**。
+    替代方案:
+    - **动作毯** — 6-9 月躺 / 爬
+    - **yes space** — 全屋安全爬
+    - **稳定家具** — 9-12 月扶站练习
+    - **推车 wagon** — 12 月+ 学走时推省钱 + 省空间 + 发育更好。
+  what_to_do:
+    - 不买 jumper / 学步车 / exersaucer
+    - 用动作毯 + yes space 替代
+    - 扶站期给重的稳定家具(沙发 / 矮柜)
+    - 学走期给推车 wagon
+    - 已经买了:每天 < 30 分钟 + 不放楼梯口
+  failure_mode: |
+    "邻居家用学步车走得早" — 看似早,实际异常学步 + 髋关节风险。
+    "我累需要让他坐里面我做事" — 短时(< 30 分钟)可,长期反而剥夺爬行 + 探索。
+    "电视上明星家用看着可爱" — 个例,不是普适推荐。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Davies
+  - G-PERSON-Montessori
+  - G-TERM-baby-walker
+  - G-ABBR-DDH
+  - G-ABBR-AAP
+
+citation:
+  book_title_zh: "蒙特梭利的小宝宝(0-1岁)"
+  book_title_en: "The Montessori Baby"
+  authors: ["Simone Davies", "Junnifa Uzodike"]
+  authors_zh: ["西蒙·戴维斯", "君妮法·乌佐迪克"]
+  publisher_en: "Workman Publishing"
+  year_en: 2021
+  isbn_en: "978-1-5235-0693-7"
+  location: "Chapter 5 · Freedom of movement > Avoid jumpers / walkers"
+  source_id: SRC-014
+
+unit_ids: []
+related_cards:
+  - C-S4-005       # AAP 不用学步车
+  - C-S2-131       # 蒙氏不 prop 坐
+  - C-S5-002       # AAP 扶走+第一步
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

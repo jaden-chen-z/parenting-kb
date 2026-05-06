@@ -1,0 +1,76 @@
+card_id: C-S8-761
+stages: [S8]
+tags: [science, lehrer, argumentation, lerner_v4]
+
+front:
+  title: 科学要论证不只观察
+  hook: 科学就是要去论证
+
+back:
+  why_matters: |
+    Lehrer-Schauble V4 Ch 5(科学论证)。
+    **Scientific Argumentation**(科学论证):
+    - 科学不只是"做实验观察"
+    - 是**用证据支持立场 + 反驳别的立场**
+    - 4-7 岁就能做基础论证
+    - **跟数学/语言一样核心**
+    **4 步论证训练**(Lehrer):
+    - **claim(立场)**:"我觉得 X"
+    - **evidence(证据)**:"因为我看到 Y"
+    - **reasoning(推理)**:"所以 X 是因为 Y"
+    - **rebuttal(反驳)**:"虽然有人说 Z,但..."
+    **实例**(4-5 岁版):
+    - 谁动得快(立场:乌龟 vs 兔子)
+    - 你看到啥(证据:跑步比赛)
+    - 为啥(推理:腿长 + 速度)
+    - 但有人说(反驳:乌龟也赢过)
+    **反 3 误区**:
+    - ❌ "科学是事实"(科学是论证)
+    - ❌ "孩子小不会论证"(4 岁起可以)
+    - ❌ "答案唯一"(科学反复修正)
+    **Lehrer 立场**:
+    - 论证是科学**核心方法**
+    - 孩子在玩 + 探索中自然论证
+    - 鼓励"你为啥这么说"
+    - 不强迫答案"对错"
+    跟现库:跟 V2 Carey 概念革命(C-S8-427)+ V4 Lehrer 探究式总论(C-S8-734)对接。
+    对中国家长意义:
+    - 鼓励孩子说"为啥我觉得"
+    - 用证据支持立场
+    - 反"科学就是记事实"
+    - 4-5 岁起练论证
+  what_to_do:
+    - '鼓励"为啥我觉得"'
+    - 用证据支持立场
+    - '反"科学=记事实"'
+    - 4-5 岁起练论证
+  failure_mode: |
+    "科学是事实"— 错。科学是论证。
+    "小娃不会论证"— 错。4 岁可以。
+    "答案唯一"— 错。科学反复修正。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Lehrer
+  - G-PERSON-Schauble
+  - G-TERM-inquiry-based-learning
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 4 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 4 卷"
+  authors: ['Richard Lehrer', 'Leona Schauble']
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 5 · Lehrer · Scientific argumentation · pp. 170-185"
+  source_id: SRC-029
+
+unit_ids: []
+related_cards:
+  - C-S8-734     # V4 Lehrer 探究式总论
+  - C-S8-427     # V2 Carey 直觉理论
+  - C-S8-733     # V4 De Corte 数学
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

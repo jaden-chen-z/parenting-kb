@@ -1,0 +1,67 @@
+glossary_id: G-TERM-conceptual-revolution
+type: term
+display_name: 概念革命 (conceptual revolution)
+
+full_name_zh: 概念革命 / 范式转移
+full_name_en: Conceptual Revolution / Conceptual Change
+
+one_liner: |
+  Carey 1985 提出 — 概念发展不是渐变是革命,像科学史的范式转移。
+  反 Piaget 渐进阶段,4-10 岁是概念革命密集期。
+
+detail: |
+  ## 定义
+  Carey 1985 立场:
+  - 儿童概念发展不是"加细节" — 是整个分类系统重组
+  - 类似科学史的范式转移(Kuhn)
+  - 4-10 岁是密集期
+
+  ## 经典案例
+  - **植物归活物**(Carey 1985):4 岁认为植物像桌子,7-10 岁概念革命后归"活物"(跟动物 + 人同类)
+  - **数概念**:从"数 = 物体属性"→"数 = 抽象概念"
+  - **生命**:从"会动 = 活"→"自启动 = 活"→"生物代谢 = 活"
+
+  ## 类似科学史
+  - 哥白尼革命:地心 → 日心(不是修地心)
+  - 生物学:神创 → 进化
+  - 化学:燃素 → 氧化
+
+  ## 立场
+  - 反 Piaget 渐进阶段
+  - 部分认同 Spelke 核心知识(基础先天)
+  - 革命发生在概念层
+
+  ## 在本知识库中
+  - SRC-028 Lerner V2 Ch16/Ch14 引用
+  - C-S7-1096 Carey 概念革命
+  - C-S8-421 朴素生物学
+
+  ## 中国家长意义
+  - 4 岁孩子"不科学说法"(植物不是活)是常态
+  - 不要急纠正 — 让革命自然发生
+  - 讨论 + 困惑 制造比直接教更有效
+
+key_facts:
+  - Carey 1985 提出
+  - 反 Piaget 渐进阶段
+  - 类似科学史范式转移
+  - 4-10 岁密集期
+
+related_glossary:
+  - G-PERSON-Carey
+  - G-PERSON-Piaget
+  - G-PERSON-Gopnik
+  - G-TERM-baby-scientist
+
+related_cards:
+  - C-S7-1096
+  - C-S8-421
+
+sources:
+  - source_id: SRC-028
+  - external: Carey 1985 / Carey 2009 / Wikipedia Conceptual Change
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

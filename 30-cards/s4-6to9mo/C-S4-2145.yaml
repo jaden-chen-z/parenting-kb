@@ -1,0 +1,36 @@
+card_id: C-S4-2145
+stages: [S4]
+tags: [safety, feeding, red_flag]
+front:
+  title: 噎食 vs 干呕,干呕别插手
+  hook: 干呕是反射,救援反害娃
+back:
+  why_matters: |
+    上一卡刚开始手指食物,父母最大恐惧是娃噎到。但海蒂强调要分清两种情况——错救比不救更危险。
+    干呕(gag)是娃保护性反射,娃自己会把食物推出,有声音有咳嗽,父母此时插手反而把食物推下去变成真正气道阻塞;真噎食(choke)是无声、面色发紫、不能咳——这才需要立即背部 5 拍+胸部 5 推。
+  what_to_do:
+    - 区分干呕(有声)vs 噎食(无声)
+    - 干呕:稳坐观察,鼓励咳出
+    - 噎食:婴儿海姆立克(背拍胸推)
+    - 不用手指掏喉(可能推深)
+    - 紫绀失意识立即 CPR+120
+  failure_mode: 看娃干呕惊慌用手指掏,反把口中食物推入气管真噎住,娃从可处理状态变成致命急救。
+  evidence_level: A
+glossary_refs: []
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors: ["Heidi Murkoff", "Sharon Mazel"]
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh: ["莫夏迪","张敏"]
+  location: "第 11 章 《第 7 个月》, 页 376-378"
+  source_id: "SRC-040"
+related_cards: [C-S4-2144]
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,47 @@
+card_id: C-S2-549
+stages: [S2]
+tags: [training, air-bath, japanese-tradition]
+
+front:
+  title: 空气浴日式锻炼法
+  hook: 喂奶 1 小时后做体操
+
+back:
+  why_matters: |
+    松田说:现代暖气房让娃接触温差刺激的机会少了,需要有意安排。
+    日式传统:换尿布时打开胸部,自然空气浴 — 现在被暖气掩盖。
+    渐进暴露:背阴 18-20℃ 户外 2-3 分钟起,每天累计 30+ 分。
+    1-2 月还不能日光浴,先空气浴打底。
+  what_to_do:
+    - 吃奶 1 小时后情绪好做体操
+    - 屈伸膝唱歌 1-2 分钟
+    - 别强拉膝防髋关节脱臼
+    - 户外背阴 18-20℃ 起步
+    - 戴帽防直射,不去人多
+  failure_mode: |
+    "暖气一年开" + "怕娃感冒不出门" → 调温能力弱 + 维生素 D 不足。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Matsuda
+
+citation:
+  book_title_zh: "定本《育儿百科》"
+  book_title_jp: "育児の百科(定本)"
+  authors: ["松田道雄"]
+  translators_zh: ["王少丽"]
+  publisher_zh: null
+  year: 1980
+  edition: "定本"
+  location: "第 82 / 99 节室外空气浴 / 锻炼婴儿"
+  source_id: SRC-023
+
+unit_ids: []
+related_cards:
+  - C-S3-019  # 鲍秀兰 5 月靠坐+直立跳跃训练
+  - C-S5-017  # 鲍秀兰 12 月走路训练 5 法
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

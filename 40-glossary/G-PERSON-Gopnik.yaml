@@ -1,0 +1,73 @@
+glossary_id: G-PERSON-Gopnik
+type: person
+display_name: Gopnik
+
+full_name_en: Alison Gopnik
+full_name_zh: 艾莉森·高普尼克
+
+one_liner: |
+  美国认知发展心理学家(UC Berkeley 教授),因果学习 + 婴儿"小科学家"理论权威。
+  代表作《摇篮里的科学家》(1999)+《保姆与园丁》(2016)。
+
+detail: |
+  ## 个人背景
+  - 1955 年生于费城,父母都是学者
+  - 麦吉尔大学(McGill)本科,牛津大学博士(Jerome Bruner 学生)
+  - UC Berkeley 心理学 + 哲学双聘教授
+  - 美国艺术与科学院院士
+
+  ## 核心理论
+  ### 1. 婴儿是天生科学家(baby scientist)
+  - 婴儿用统计学习 / 假设检验 / 因果推理学世界
+  - 不是被动接受信息,是主动做实验
+  - "孩子不是小科学家,科学家是大孩子"
+
+  ### 2. 因果学习(causal learning)
+  - blicket detector 实验:婴儿能从观察推理因果关系
+  - 比成人更愿意尝试反直觉假设(因为没成见)
+
+  ### 3. 反早教焦虑
+  - 教学悖论:越主动教效果越差,越自发学效果越好
+  - 婴儿期不是"学知识"期,是"学规律"期
+  - 陪伴互动 > 知识灌输
+
+  ## 主要著作(中文家长相关)
+  - 1999《The Scientist in the Crib》(摇篮里的科学家)— 与 Meltzoff + Kuhl 合著,本卡库 SRC-015
+  - 2009《The Philosophical Baby》(哲学宝宝)
+  - 2016《The Gardener and the Carpenter》(园丁与木匠)— 反 KPI 育儿,中国家长读到的最广
+
+  ## 在本知识库中
+  - SRC-015《摇篮里的科学家》主要作者
+  - 跟 Wonder Week 跃迁理论形成"同主题不同视角"对照
+  - 跟蒙台梭利 + RIE 派形成"陪伴 > 教学"一致联盟
+
+  ## 学术影响
+  - 因果学习领域奠基人之一
+  - TED 演讲《What do babies think?》逾 400 万播放
+  - 反 KPI 育儿派代言人(对中国家长尤其有力)
+
+key_facts:
+  - UC Berkeley 心理学教授
+  - 因果学习权威
+  - 婴儿是天生科学家立场代表
+  - 反早教焦虑,主张陪伴 > 教学
+  - 师承 Jerome Bruner
+
+related_glossary:
+  - G-PERSON-Meltzoff
+  - G-PERSON-Kuhl
+  - G-PERSON-Piaget
+  - G-PERSON-Vygotsky
+  - G-TERM-baby-scientist
+  - G-TERM-causal-learning
+
+related_cards: []
+
+sources:
+  - source_id: SRC-015
+  - external: Gopnik 1999 / Wikipedia Alison Gopnik / TED talks
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

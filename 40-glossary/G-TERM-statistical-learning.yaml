@@ -1,0 +1,79 @@
+glossary_id: G-TERM-statistical-learning
+type: term
+display_name: 统计学习 (statistical learning)
+
+full_name_zh: 统计学习
+full_name_en: Statistical Learning
+
+one_liner: |
+  婴儿大脑天生的学习方式 — 从环境噪声中抓"哪个声音 / 模式更常一起出现"。
+  Saffran 1996 经典实验:8 月宝宝听 2 分钟无意义音节流就能抓到统计模式。
+
+detail: |
+  ## 定义
+  婴儿大脑自动统计:**A 后面接 B 的概率高 vs A 后面接 C 的概率低** — 不需要教,自动算。
+  这是**语言切词** / **物体识别** / **因果推理**的底层机制。
+
+  ## 经典实验:Saffran 1996(Science)
+  - 8 月美国宝宝听 2 分钟人造无意义音节流(如 "bidakupadotigolabubidakupadoti...")
+  - 流里有"假词"(bidaku / padoti / golabu),每个音节内概率高 / 词与词之间概率低
+  - 听完测试:宝宝**只 2 分钟**就能区分"假词"vs"非假词"
+  - 没人教,纯统计抓出来
+
+  ## 为什么这是革命性发现
+  - 推翻"语言学习靠教"的假设
+  - 推翻"婴儿被动吸收"的白板论
+  - 证明大脑出生就是统计引擎
+
+  ## 应用领域
+  - **语言切词**:从连续语流里抓"词的边界"(中文家长尤甚 — 中文没空格)
+  - **音素习得**(Kuhl 知觉重组也是统计学习)
+  - **物体识别**:从动态画面里抓"哪些像素动得一起"(物体)
+  - **因果推理**:从事件序列里抓"什么导致什么"
+
+  ## 关键限制(Kuhl 2003 实验)
+  - **必须是真人互动**,不能是录像 / CD
+  - 9 月美国宝宝看 12 节中文录像 = 0 效果
+  - 9 月美国宝宝跟中文老师互动 12 节 = 显著学到中文音素
+  - 推测原因:互动提供 social cue(眼神 / 表情 / 节奏),帮统计引擎"启动"
+
+  ## 中国家长意义
+  - 不刷英文动画 / CD 给宝宝学外语 — 没用
+  - 跟宝宝多讲话(中英文都行)— 统计引擎在工作
+  - **真人互动 > 任何科技产品**
+  - 双语家庭的宝宝大脑会自动分两套统计模型(0-3 岁尤其有效)
+
+  ## 跟其他术语关系
+  - **Baby Scientist**:统计学习是"做科学"的底层工具
+  - **Perceptual Narrowing**:6-12 月失去外语音素辨别 = 统计权重收敛到母语
+  - **Causal Learning**:因果推理是统计学习的高阶版
+
+  ## 实操含义
+  - **质 > 量**:1000 个不同对话片段 > 1 万个重复词
+  - **多样性**:不同语速 / 不同人 / 不同场景 → 统计模型更稳
+  - **不要"装弱智"用单一短句重复** — 反而损失统计信息
+
+key_facts:
+  - Saffran 1996 8 月 2 分钟抓统计模式
+  - 大脑天生的统计引擎
+  - 语言 / 物体 / 因果学习底层机制
+  - 必须真人互动,录像 CD 无效
+  - Kuhl 2003 中英文实验证明
+
+related_glossary:
+  - G-PERSON-Kuhl
+  - G-PERSON-Gopnik
+  - G-TERM-baby-scientist
+  - G-TERM-perceptual-narrowing
+  - G-TERM-causal-learning
+
+related_cards: []
+
+sources:
+  - source_id: SRC-015
+  - external: Saffran et al. 1996 Science / Kuhl 2003 PNAS
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

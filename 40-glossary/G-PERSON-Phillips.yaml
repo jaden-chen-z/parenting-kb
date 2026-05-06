@@ -1,0 +1,55 @@
+glossary_id: G-PERSON-Phillips
+type: person
+display_name: Phillips (德博拉·菲利普斯)
+
+full_name_en: Deborah A. Phillips
+full_name_zh: 德博拉·菲利普斯
+
+one_liner: |
+  美国发展心理学家 + 儿童照护研究权威。Georgetown 大学心理学教授,
+  NRC《From Neurons to Neighborhoods》(2000)合编 + Study Director。
+  主持 NICHD Early Child Care Research Network 大型研究,
+  奠基"儿童照护质量决定发展"立场。
+
+detail: |
+  ## 背景
+  - 美国 Yale 大学博士
+  - 长期任 Georgetown 大学心理学教授
+  - 美国发展心理学会儿童照护研究委员会主席
+  - NICHD 顾问
+
+  ## 在儿童照护研究的地位
+  - **NICHD ECCS** 主持者之一 — 美国 10 城 1300 个孩子大型 RCT
+  - **儿童照护质量量表**奠基人之一
+  - 跟 Shonkoff 合作多年
+
+  ## 主要著作
+  - **2000《From Neurons to Neighborhoods》** ⭐⭐⭐ — 跟 Shonkoff 合编 + Study Director
+  - NICHD ECCS 多篇研究论文
+  - 《Worthy Work, Unlivable Wages》(童工教师待遇)
+
+  ## Phillips 核心立场
+  - 高质量托育**可达甚至超过**全职妈水平
+  - **质量比身份重要**(谁带不重要,怎么带才重要)
+  - 童工教师待遇 + 培训 = 决定质量
+  - 单亲家庭 + 高质量托育 = OK
+
+key_facts:
+  - NICHD ECCS 主持者
+  - NRC 综述合编 + Study Director
+  - 质量胜过身份立场奠基人
+
+related_glossary:
+  - G-PERSON-Shonkoff
+  - G-TERM-NRC
+
+related_cards: []
+
+sources:
+  - source_id: SRC-025
+  - external: Georgetown psychology dept
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,48 @@
+card_id: C-S6-669
+stages: [S6]
+tags: [tantrum, normal-发展, emotion]
+
+front:
+  title: 1.5-2 岁躺地哭闹
+  hook: 拍手脚是正常发育
+
+back:
+  why_matters: |
+    松田说:2 岁孩子一旦惹着,哭闹得也非常厉害。
+    有的孩子气得躺在地上将手脚拍得巴嗒巴嗒响 — 是发展正常表现。
+    不是"被惯坏",不是"自控差",是 18-24 月情绪表达系统还没发育好。
+    妈被路人/老人指责"你娃没教好"就崩,实属误会。
+  what_to_do:
+    - 接受躺地哭是发展节点
+    - 不立即妥协买东西
+    - 不当众打骂
+    - 蹲下到娃身高,简短确认情绪
+    - 离开现场到安静处冷静
+  failure_mode: |
+    路人指责 → 妈羞愧立刻买东西 → 娃学到"躺地有效",反复用。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Matsuda
+
+citation:
+  book_title_zh: "定本《育儿百科》"
+  book_title_jp: "育児の百科(定本)"
+  authors: ["松田道雄"]
+  translators_zh: ["王少丽"]
+  publisher_zh: null
+  year: 1980
+  edition: "定本"
+  location: "第 360 节从 1 岁半到 2 岁"
+  source_id: SRC-023
+
+unit_ids: []
+related_cards:
+  - C-S2-132  # Lansbury 哭闹 5 步回应法
+  - C-S6-298  # Stern 语言是双刃剑
+  - C-S6-023  # Brazelton 18 月咬人是失控不是恶意
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

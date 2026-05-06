@@ -1,0 +1,47 @@
+glossary_id: G-TERM-mixed-feeding
+type: term
+display_name: "Mixed feeding 混合喂养"
+
+en_term: "Mixed Feeding"
+zh_term: "混合喂养"
+
+one_liner: |
+  母乳+配方混喂 — WHO 立场:多数情况下风险高于纯一种。
+
+detail: |
+  ## 定义
+  Mixed feeding — 同时给婴儿母乳和配方奶(任意比例)。
+  
+  ## WHO + Lancet 2016 立场
+  多数情况下风险高于纯母乳或纯配方:
+  - 配方奶量加 → 母乳吸吮减 → 妈妈奶量真降
+  - 婴儿肠道菌群混乱(母乳菌群 vs 配方菌群相互干扰)
+  - 配方奶蛋白不耐(CMPI/CMPA 5%)风险增加
+  - HIV+ 妈妈混合传播率高于任一纯一种(WHO 2010)
+  
+  ## WHO 推荐
+  能纯母乳就纯;真不够 → 个案评估;HIV+ AFASS → 选纯一种。
+  
+  ## 中国通病
+  '晚上加一顿配方让妈妈休息' / '白天工作配方,晚上母乳' → 母乳奶量被打散。
+
+key_facts:
+  - "WHO 立场:风险高于纯一种"
+  - "中国常见误区"
+  - "HIV+ 必须纯一种"
+
+related_glossary:
+  - G-TERM-HIV-feeding
+  - G-ABBR-EBF
+
+related_cards:
+  - C-S1-1013
+  - C-S2-1048
+
+sources:
+  - source_id: SRC-031
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

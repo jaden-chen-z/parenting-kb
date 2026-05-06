@@ -1,0 +1,72 @@
+card_id: C-S6-612
+stages: [S6]
+tags: [discipline, RIE, internalization]
+
+front:
+  title: "规矩长在心里才久"
+  hook: "外管 → 自管 = 真自律"
+
+back:
+  why_matters: |
+    玛格达《自信的宝宝》第 8 章"持久的规矩长在心里"。
+
+    玛格达用弗洛伊德三层框架解释自律:
+    - **本我**(id,本能):"想做就做"
+    - **自我**(ego,觉知):平衡两者
+    - **超我**(superego,良心):"做这个不好"
+
+    自律是超我慢慢长出来的。
+    玛格达白话翻译:**真正持久的规矩一定来自心里,不是来自外部恐吓。**
+
+    路径:
+    1. 父母先设清晰一致的限度(0-2 岁)
+    2. 宝宝慢慢"接管"这些限度,变成"我自己的规矩"
+    3. 2-3 岁开始能自己提醒自己("不能,妈妈说过")
+
+    玛格达经典对比:
+    - 怕打的孩子:大人在 = 守规;大人不在 = 乱
+    - 规矩长心里的孩子:大人在不在都一样,因规矩长在心里
+
+    "一致性创造安全感"(玛格达原话:Sameness creates security)
+    — 是这种长在心里的土壤。
+
+  what_to_do:
+    - 0-2 岁规矩极少但极一致
+    - 一致优于严厉:"说不就永远是不"(玛格达原话)
+    - 不偷懒,不"今天累就让步"
+    - 不"今天心情好就破例" → 摧毁长心里的根
+    - 2 岁后他自己提醒别人 = 长心里中
+
+  failure_mode: |
+    "小娃懂啥规矩,长大再说" → 玛格达反:0-2 岁是规矩长心里的关键期,
+    错过了 3 岁后立规更难。或"严厉立威,娃自然怕规矩" → 反:
+    那不是规矩长心里,是恐惧。大人不在 = 立刻乱。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+  - G-TERM-respectful-parenting
+
+citation:
+  book_title_en: "Your Self-Confident Baby"
+  book_title_zh: "自信的宝宝"
+  authors:
+    - Magda Gerber
+    - Allison Johnson
+  publisher_en: John Wiley & Sons
+  year: 1998
+  location: "Ch8 §Lasting Discipline Comes from Within(p204-206)"
+  source_id: SRC-021
+
+unit_ids: []
+related_cards:
+  - C-S6-403  # Lansbury 限度+情绪并存
+  - C-S6-192  # Lillard No 永远 No
+  - C-S6-133  # Davies 温柔边界
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

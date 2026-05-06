@@ -1,0 +1,74 @@
+glossary_id: G-TERM-NICHD-ECCS
+type: term
+display_name: NICHD ECCS 大型早期托育研究
+
+en_term: NICHD Study of Early Child Care and Youth Development
+zh_term: NICHD 早期儿童照护与青年发展研究
+
+one_liner: |
+  美国国家儿童健康与人类发展研究所(NICHD)1991 启动的迄今最大型托育研究 —
+  跟踪 1364 个孩子从出生到三年级,跨 10 城。
+  Deborah Phillips(NRC 综述合编)是主持研究人之一。
+  这研究**奠基"高质量托育可达甚至超过全职妈"立场**。
+
+detail: |
+  ## 研究背景
+  - 1991 启动 — 当时美国 maternal employment 暴涨,需要数据
+  - 主持机构:National Institute of Child Health and Human Development (NICHD)
+  - 主持研究人之一:**Deborah Phillips**(NRC 综述合编)
+  - 跨 10 个美国城市
+  - 1364 个孩子 + 家庭
+
+  ## 研究方法
+  - 出生时招募 → 3 月 / 6 / 15 / 24 / 36 / 54 月评估
+  - 不分配托育类型 — 让家庭自己选
+  - 评估**多种托育类型**:父母 / 亲戚 / 家庭式 / 中心式 / 保姆
+  - 跟踪发展多维度:认知 / 语言 / 学校准备 / 社交 / 行为
+
+  ## 关键发现
+  1. **质量是关键** — 不是托育"类型"
+  2. **高质量托育**:孩子各项指标**不输全职妈**(部分更好)
+  3. **低质量托育**:孩子明显落后
+  4. **0-2 岁师生比影响最大**(1:3-1:4 关键)
+  5. **2-3 岁起师培影响更大** — 老师专业知识重要
+  6. **早期 + 长时间托育** + 低质量 = 行为问题略升
+  7. **育儿(母亲敏感度)** 仍是主要预测因子 — 比托育影响大
+
+  ## NRC 综述中的引用
+  - NRC Ch 11 主要数据来源
+  - Phillips 是 NRC Study Director,熟悉数据
+  - "质量胜身份"立场的科学根基
+
+  ## 影响
+  - 美国 child care 政策 — 师生比 / 师培要求
+  - "全职妈金标准"文化的科学反驳
+  - 联合国 / OECD 早期教育政策引用
+
+  ## 跟其他大型研究对比
+  - **NICHD ECCS** = 普通家庭 longitudinal study
+  - **Perry Preschool** = 高风险家庭 RCT
+  - **Abecedarian** = 高风险家庭 RCT 强干预
+  - **Head Start** = 普及版评估
+
+key_facts:
+  - 1991 启动 / 跟踪 1364 娃
+  - Phillips 主持之一
+  - 质量胜身份立场科学根
+  - NRC Ch 11 主要数据
+
+related_glossary:
+  - G-PERSON-Shonkoff
+  - G-PERSON-Phillips
+  - G-TERM-NRC
+  - G-TERM-maternal-sensitivity
+
+related_cards: []
+
+sources:
+  - source_id: SRC-025
+  - external: NICHD ECCS multiple publications
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,47 @@
+card_id: C-S2-2107
+stages: [S2]
+tags: [safety]
+
+front:
+  title: 发热性痉挛:侧躺+不喂+计时
+  hook: 嘴里别塞东西 5 分钟打 120
+
+back:
+  why_matters: |
+    发热性痉挛(febrile seizure)= 高热引发的全身抽搐,**6 月-5 岁**最常见。
+    海蒂事实:**短时(1-2 分钟)发热痉挛不危险**,不会留神经损伤,30-40% 复发率且退烧药也无法预防(因为痉挛在病初未治时已发生)。
+    家长致命错误:**塞东西到嘴里**(怕咬舌头)→ 反致窒息。第一次发作必须就医。
+  what_to_do:
+    - 让宝宝侧身躺在柔软表面,头略低
+    - 绝不往嘴里塞任何东西(手指/勺/奶嘴/乳头)
+    - 计时;超过 5 分钟立刻打 120
+    - 痉挛时不要哺乳 / 喂水 / 强行约束身体
+    - 痉挛后通常昏睡 — 让其睡,通知医生
+  failure_mode: |
+    塞勺 / 手指防咬舌 → 牙崩 / 窒息(舌不会被咬掉,这是误传)。
+    把宝宝放浴缸降温 → 第二次痉挛可能溺水。
+    第一次发作不就医 → 错过发现脑膜炎或其他严重病因。
+    长期吃退烧药防痉挛 → 无效且伤肝肾。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-AAP
+
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1 岁"
+  authors: [Heidi Murkoff, Sharon Mazel]
+  publisher_en: Workman Publishing
+  publisher_zh: 南海出版公司(新经典发行)
+  year: 1989
+  edition: 3rd (2014)
+  location: "第 18 章《宝宝生病》'应对发热性痉挛',564-565 页中译"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards: [C-S2-2105, C-S1-060]
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

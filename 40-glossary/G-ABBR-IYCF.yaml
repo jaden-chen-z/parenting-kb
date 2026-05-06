@@ -1,0 +1,50 @@
+glossary_id: G-ABBR-IYCF
+type: abbreviation
+display_name: "IYCF 婴幼儿喂养"
+
+en_term: "Infant and Young Child Feeding"
+zh_term: "婴幼儿喂养"
+
+aliases:
+  - IYCF
+  - 婴幼儿喂养
+
+one_liner: |
+  IYCF 是 WHO+UNICEF 用的总框架词,涵盖 0-24 月 EBF + CF + 持续母乳。
+
+detail: |
+  ## 定义
+  Infant and Young Child Feeding — WHO+UNICEF 喂养政策合集的总框架词,涵盖 0-24 月所有喂养主题。
+  
+  ## 涵盖范围
+  - 出生 1 小时内开奶
+  - EBF 0-6 月
+  - CF 6 月起辅食
+  - 持续母乳到 2 岁
+  
+  ## 政策文档
+  - WHO Global Strategy for Infant and Young Child Feeding(2003)
+  - WHO IYCF Fact Sheet
+  - WHO IYCF Model Chapter(2009 医学院教材)
+
+key_facts:
+  - "WHO+UNICEF 总框架词"
+  - "0-24 月喂养"
+  - "Global Strategy 2003"
+
+related_glossary:
+  - G-ABBR-EBF
+  - G-ABBR-CF
+  - G-ABBR-BFHI
+
+related_cards:
+  - C-S0-1024
+  - C-S1-1002
+
+sources:
+  - source_id: SRC-031
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,71 @@
+glossary_id: G-TERM-A-not-B
+type: term
+display_name: A-not-B 错误
+
+full_name_zh: A-not-B 错误
+full_name_en: A-not-B Error
+
+one_liner: |
+  Piaget 经典实验:9-12 月反复藏物在 A 处后改藏 B 处,婴儿仍去 A 找。
+  3 派解释:Piaget 概念 / Thelen 动力 / Diamond 神经,V2 综述给联合立场。
+
+detail: |
+  ## 实验设计
+  - 9-12 月宝宝看大人反复藏玩具在 A 处
+  - 改藏 B 处(让宝宝清楚看到)
+  - 宝宝**仍伸手到 A**(错误)
+
+  ## 3 派解释
+  ### 1. Piaget(概念派)
+  - 物体永久性不全
+  - 把 A 跟物体"绑定"
+
+  ### 2. Thelen(动态系统派)
+  - 不是认知不懂,是身体动力学
+  - 改变臂重 → 反应模式变
+  - 行动惯性 + 视觉记忆 ≠ 行动记忆
+
+  ### 3. Diamond(神经派)
+  - PFC(前额叶)抑制控制不成熟
+  - 12 月后 PFC 发育 + 错误消失
+
+  ## V2 综述立场
+  - 动力 + 神经联合解释
+  - 概念早就有(Spelke 4 月)
+  - 行动协调 12 月后逐渐成熟
+
+  ## 在本知识库中
+  - SRC-028 Lerner V2 Ch4/Ch10 引用经典
+  - C-S5-1139 A-not-B Thelen 动态系统
+  - C-S7-1101 Munakata 渐变表征解释
+
+  ## 中国家长意义
+  - 9-12 月 A-not-B 错误 = 正常发育
+  - 不是"傻"也不是"没认知"
+  - 是行动协调发展中
+
+key_facts:
+  - Piaget 经典实验
+  - 9-12 月正常出现
+  - 3 派 (Piaget/Thelen/Diamond) 解释
+  - V2 综述:动力 + 神经联合
+
+related_glossary:
+  - G-PERSON-Piaget
+  - G-PERSON-Thelen
+  - G-PERSON-Munakata
+  - G-PERSON-Spelke
+  - G-TERM-object-permanence
+
+related_cards:
+  - C-S5-1139
+  - C-S7-1101
+
+sources:
+  - source_id: SRC-028
+  - external: Piaget 1937 / Thelen-Smith 1994 / Diamond 1988 / Wikipedia A-not-B
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

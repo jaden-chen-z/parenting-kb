@@ -1,0 +1,403 @@
+source_id: SRC-027
+title_en: "Handbook of Child Psychology, Volume 3: Social, Emotional, and Personality Development (6th Edition)"
+title_zh: "儿童心理学百科 · 第 3 卷:社会、情绪与人格发展(第 6 版)"
+org: "John Wiley & Sons"
+tier: 3
+source_type: book
+url: null
+isbn_en: "978-0-471-27291-6"
+publisher_en: "John Wiley & Sons, Inc."
+location_en: "Hoboken, New Jersey"
+year_en: 2006
+edition: "6th"
+accessed: 2026-05-04
+language: en
+notes_path: tier3-books/notes/SRC-027.yaml
+
+editors:
+  - name_en: "William Damon (Editor-in-Chief)"
+    name_zh: "威廉·达蒙"
+    role: "Handbook 总主编(全 4 卷)"
+    background: |
+      斯坦福大学青少年发展中心主任,道德发展研究权威,
+      Handbook of Child Psychology 全 4 卷总主编(1998+ 第 5 版,2006 第 6 版)。
+  - name_en: "Richard M. Lerner (Editor-in-Chief)"
+    name_zh: "理查德·勒纳"
+    role: "Handbook 总主编(全 4 卷)+ 应用发展科学"
+    background: |
+      Tufts University 应用儿童发展研究所主任,生命周期发展心理学权威,
+      Damon-Lerner 双主编模式延续到 2006 第 6 版。
+  - name_en: "Nancy Eisenberg (Volume Editor)"
+    name_zh: "南希·艾森伯格"
+    role: "本卷(Vol 3)主编 + 共情/亲社会发展奠基人"
+    background: |
+      Arizona State University 心理学教授,共情/亲社会行为/情绪调节
+      研究方向奠基人之一。本卷 16 章统筹 + 自己主笔 Ch 1 + Ch 11。
+
+# 章节地图(实测 offset)
+chapter_offsets:
+  ch1_introduction: 53007              # Nancy Eisenberg 序章
+  ch2_development_of_person: 180257    # Ross Thompson — Social Understanding/Relationships/Conscience/Self
+  ch3_temperament: 613636              # Rothbart & Bates — 气质综述权威
+  ch4_biology_temperament: 990178      # Kagan & Fox — 生物 + 文化 + 气质偏倚
+  ch5_emotional_development: 1322297   # Saarni Campos Camras Witherington — 情绪发展
+  ch6_personality_development: 1739943 # Caspi & Shiner — 人格发展
+  ch7_socialization_processes: 2114490 # Bugental & Grusec — 社会化过程
+  ch8_socialization_family: 2475372    # Parke & Buriel — 家庭社会化(种族 + 生态)
+  ch9_self: 2905445                    # Harter — 自我
+  ch10_peer_interactions: 3278729      # Rubin Bukowski Parker — 同伴互动 + 关系 + 群体
+  ch11_prosocial_development: 3707332  # Eisenberg Fabes Spinrad — 亲社会发展
+  ch12_aggression: 4125206             # Dodge Coie Lynam — 攻击 + 反社会行为
+  ch13_morality: 4528115               # Turiel — 道德发展
+  ch14_gender_development: 4921635     # Ruble Martin Berenbaum — 性别发展
+  ch15_achievement_motivation: 5349058 # Wigfield Eccles Schiefele Roeser Davis-Kean — 成就动机
+  ch16_adolescent_development: 5746709 # Collins & Steinberg — 青少年发展(本库 0-6 岁不主取)
+  total_chars: 6407950
+  total_lines: 146390
+
+# 章节大小(KB)
+chapter_sizes_kb:
+  ch1: 50
+  ch2: 423
+  ch3: 368
+  ch4: 324
+  ch5: 408
+  ch6: 366
+  ch7: 352
+  ch8: 420
+  ch9: 365
+  ch10: 419
+  ch11: 408
+  ch12: 393
+  ch13: 384
+  ch14: 417
+  ch15: 388
+  ch16: 646  # 青少年(本库 0-6 不主取)
+
+# Lerner V3 独有命题(本书 vs 现库 18 派对照)— 综述大典维度
+lerner_v3_unique_themes:
+  - rothbart_3_dimensions: "Rothbart 气质 3 维度(反应度 + 自调节 + 情绪)— 比 Thomas-Chess 9 维度精简"
+  - kagan_inhibited_uninhibited: "Kagan 抑制型 vs 非抑制型气质 + 生物基础(杏仁核反应)"
+  - saarni_8_emotional_competences: "Saarni 情绪能力 8 项(情绪意识 / 别人情绪 / 词汇 / 共情 / 情绪表达 / 应对 / 关系情绪 / 自效能)"
+  - thompson_social_understanding: "Thompson 早期社会理解 + 良知 + self 形成轴(Ch 2 综合性框架)"
+  - caspi_personality_continuity: "Caspi 人格连续性 + 气质 → 人格延伸 + Big Five 童年版"
+  - bugental_grusec_5_domains: "Bugental-Grusec 社会化 5 领域(保护 / 互惠 / 控制 / 群体 / 配偶)"
+  - parke_buriel_ethnic_ecological: "Parke-Buriel 族群 + 生态视角(反白人中产假设)"
+  - harter_self_5_domains: "Harter self 5 维度(学术 / 社会 / 运动 / 外貌 / 行为)+ 全球自尊"
+  - rubin_peer_3_levels: "Rubin 同伴 3 层级(互动 / 关系 / 群体)+ 友谊 ≠ 流行度"
+  - eisenberg_prosocial_developmental_trajectory: "Eisenberg 亲社会发展轨迹 + 共情情感先于规范遵守"
+  - dodge_social_information_processing: "Dodge 社会信息处理 6 步(编码 / 解读 / 目标 / 反应生成 / 评估 / 实施)+ 攻击儿童解读偏差"
+  - turiel_moral_4_domains: "Turiel 道德 4 领域(道德 / 习俗 / 个人 / 谨慎)+ 跨文化儿童区分"
+  - ruble_martin_gender_3_stages: "Ruble-Martin 性别 3 阶段(标识 / 稳定 / 一致)+ 性别图式"
+  - wigfield_eccles_expectancy_value: "Eccles-Wigfield 成就动机 expectancy-value 模型"
+  - kochanska_conscience: "Kochanska 良知发展 + 早期母婴互动是奠基"
+  - hoffman_empathy_4_stages: "Hoffman 共情 4 阶段(全身性 / 自我中心 / 他人 / 系统性)"
+  - kagan_freedom_choice: "Kagan 反基因决定论 — 气质 ≠ 命运,环境可改变 50%+"
+  - emde_pietromonaco_relational: "Emde 关系情绪发展 — 母婴是情绪调节奠基"
+  - chess_thomas_goodness_of_fit: "Chess-Thomas goodness-of-fit — 气质和环境匹配比单维好坏更重要"
+  - eccles_self_concept_5_domains: "Eccles 自我概念 5 领域 + 早期就分化"
+  - kohlberg_3_levels_6_stages: "Kohlberg 道德 3 水平 6 阶段 + Turiel 修正"
+  - smetana_4_domains_distinction: "Smetana 4 类规则 — 儿童 3 岁就分道德 vs 习俗"
+  - patterson_coercive_family: "Patterson 强制家庭过程 — 攻击是亲子互动训练出"
+  - baumrind_4_styles: "Baumrind 父母 4 类型(权威/独裁/纵容/忽视)+ 后续 Maccoby 升级"
+  - eisenberg_self_regulation: "Eisenberg 努力控制 effortful control — 气质 + 自调节衔接"
+  - cassidy_internal_working_models: "Cassidy 内部工作模型 + 现代依恋研究综述"
+
+# 立场对照(Lerner V3 综述 vs 现有 SRC)
+relationship_to_bowlby:
+  description: "Lerner V3(综述)vs Bowlby V1/V2/V3(原典 SRC-011/012/017)"
+  shared:
+    - "依恋是社会情绪发展核心"
+    - "早期亲子关系奠基自我感"
+    - "分离焦虑是健康发展信号"
+  complement:
+    - "Bowlby 给依恋进化 + 临床观察 + 哲学奠基"
+    - "Lerner V3 Ch 2 (Thompson) 给现代综述 + 内部工作模型实证"
+    - "Lerner V3 Ch 9 (Harter) 给 self 形成的多维实证框架"
+  upgrade:
+    - "现代综述综合 Ainsworth/Cassidy/Main 实证 + 神经科学"
+    - "Lerner 综述把 Bowlby 1969 经典扩到 2006 中坚成熟"
+
+relationship_to_stern:
+  description: "Lerner V3(综述)vs Stern《婴儿人际世界》(SRC-018)"
+  shared:
+    - "self 形成轴 + 母婴 attunement"
+    - "情绪调节是早期发展核心"
+  complement:
+    - "Stern 给 4 阶段 self 精神分析 + 心理过程模型"
+    - "Lerner V3 Ch 5 (Saarni) 给情绪能力 8 项实证清单"
+    - "Lerner V3 Ch 9 (Harter) 给 self 多维度实证综述"
+
+relationship_to_brazelton:
+  description: "Lerner V3(综述)vs Brazelton《Touchpoints》(SRC-010)"
+  shared:
+    - "婴儿是有能力的主动情绪者"
+    - "气质有先天差异"
+    - "亲子互动是发展奠基"
+  complement:
+    - "Brazelton 给临床触摸点 + 个体咨询"
+    - "Lerner V3 Ch 3 (Rothbart) 给气质综述权威 + 实证测量"
+    - "Lerner V3 Ch 4 (Kagan) 给气质生物学根基"
+
+relationship_to_lansbury_gerber:
+  description: "Lerner V3(综述)vs Lansbury(SRC-019)+ Gerber(SRC-021/022)RIE 派"
+  shared:
+    - "婴儿是有能力的主动学习者"
+    - "尊重儿童自主"
+    - "情绪需要被承认而非压制"
+  complement:
+    - "RIE 给实操哲学(不打扰 + 慢节奏)"
+    - "Lerner V3 给社会发展实证根基"
+  divergence:
+    - "Lerner V3 Ch 12 Dodge 攻击认知派 — 强调认知干预"
+    - "RIE 派 Lansbury sportscasting 不打不咬 — 行为 + 关系派"
+
+relationship_to_shonkoff:
+  description: "Lerner V3(2006 心理学综述)vs Shonkoff《NRC》(2000 跨学科综述 SRC-025)"
+  shared:
+    - "早期发展奠基期"
+    - "自我调节是核心发展任务"
+    - "依恋质量决定健康"
+  complement:
+    - "Shonkoff 跨学科政策 + 神经科学"
+    - "Lerner V3 心理学 16 章学派综述"
+    - "Lerner V3 比 Shonkoff 在 personality / gender / morality / aggression 更深"
+
+relationship_to_pikler:
+  description: "Lerner V3(综述)vs Pikler《Friedliche Babys》(SRC-026)"
+  shared:
+    - "婴儿是主动学习者"
+    - "尊重发展节奏不催"
+  complement:
+    - "Pikler 给大动作哲学 + Lóczy 实操"
+    - "Lerner V3 给社会情绪综述全图"
+
+relationship_to_ainsworth:
+  description: "Lerner V3(综述)vs Ainsworth(SRC-023)"
+  shared:
+    - "陌生情境法是依恋研究黄金标准"
+    - "母性敏感是核心变量"
+  complement:
+    - "Ainsworth 给陌生情境法 + 4 类依恋(原典)"
+    - "Lerner V3 Ch 2 (Thompson) 给 Cassidy/Main 现代综述"
+
+relationship_to_matsuda:
+  description: "Lerner V3(综述)vs 松田道雄(SRC-023/024)"
+  shared:
+    - "反早教焦虑"
+    - "尊重个体差异"
+  divergence:
+    - "松田反 反抗期 概念 vs Lerner V3 Ch 12 支持自我斗争期实证描述"
+    - "松田部分支持瞬间体罚 vs Lerner V3 Ch 8 综述完全反体罚"
+
+relationship_to_baoxiulan:
+  description: "Lerner V3(美综述)vs 鲍秀兰(中临床 SRC-009)"
+  shared:
+    - "0-3 岁奠基期"
+    - "母婴依恋"
+  divergence:
+    - "鲍秀兰早期智力开发 vs Lerner V3 反 IQ 过度强调"
+    - "鲍秀兰具体教学 vs Lerner V3 多学派理论"
+
+relationship_to_lillard:
+  description: "Lerner V3(综述)vs Lillard《Montessori from the Start》(SRC-016)"
+  shared:
+    - "0-3 岁奠基期"
+    - "尊重发展节奏"
+  divergence:
+    - "Lillard 哲学派(蒙氏理论)"
+    - "Lerner V3 多学派综述"
+
+relationship_to_aap:
+  description: "Lerner V3(心理学综述)vs AAP(临床指南 SRC-004 至 SRC-008)"
+  shared:
+    - "反屏幕"
+    - "反体罚"
+    - "依恋核心"
+  complement:
+    - "AAP 给儿科操作"
+    - "Lerner V3 给社会情绪发展全图"
+
+relationship_to_karp:
+  description: "Lerner V3(综述)vs Karp《最快乐的婴儿》(SRC-003)"
+  shared:
+    - "婴儿哭闹有原因"
+    - "气质差异"
+  complement:
+    - "Karp 给 0-3 月安抚法 5S"
+    - "Lerner V3 Ch 3 给 0-12 岁气质实证"
+
+relationship_to_gopnik:
+  description: "Lerner V3(综述)vs Gopnik《摇篮里的科学家》(SRC-015)"
+  shared:
+    - "婴儿是主动学习者"
+    - "心智发展早期奠基"
+  complement:
+    - "Gopnik 给认知派(theory of mind 实证)"
+    - "Lerner V3 Ch 2 (Thompson) 给社会情绪派 + Wellman 综述"
+
+relationship_to_davies:
+  description: "Lerner V3(综述)vs Davies《蒙氏小宝宝》(SRC-014)"
+  shared:
+    - "婴儿是有能力的主动者"
+  complement:
+    - "Davies 给蒙氏 0-1 实操"
+    - "Lerner V3 给社会情绪发展全图"
+
+relationship_to_wonder_weeks:
+  description: "Lerner V3(综述)vs Wonder Weeks(SRC-013)"
+  shared:
+    - "婴儿发展有跳跃期"
+  complement:
+    - "Wonder Weeks 给 10 周大脑跃迁(实操日历)"
+    - "Lerner V3 Ch 5 给情绪发展跳跃实证"
+
+# 跨源关联点
+crossreferences:
+  - SRC-002_aap_serve_return:
+      shared: "亲子互动 / 安全依恋"
+  - SRC-003_karp:
+      shared: "气质差异 / 婴儿哭闹原因"
+  - SRC-004_aap_safe_sleep:
+      shared: "反不安全共睡 / 依恋健康"
+  - SRC-009_baoxiulan:
+      shared: "0-3 奠基期 / 母婴依恋"
+      conflict: "Lerner V3 反早期 IQ 过度强调"
+  - SRC-010_brazelton:
+      shared: "气质 / NBAS 婴儿能力 / 触摸点"
+  - SRC-011_bowlby_v1:
+      shared: "依恋 / 安全基地"
+  - SRC-012_bowlby_v2:
+      shared: "分离焦虑 / 抗议"
+  - SRC-013_wonder_weeks:
+      shared: "发展跳跃 / 情绪能力"
+  - SRC-014_davies:
+      shared: "婴儿能力 / 主动者"
+  - SRC-015_gopnik:
+      shared: "心智发展 / Wellman theory of mind"
+  - SRC-016_lillard:
+      shared: "0-3 奠基 / 蒙氏哲学"
+  - SRC-017_bowlby_v3:
+      shared: "丧失 / 哀伤"
+  - SRC-018_stern:
+      shared: "self / attunement / 母婴"
+  - SRC-019_lansbury:
+      shared: "尊重情绪 / 不打不咬"
+      conflict: "Lerner V3 Dodge 认知派 vs RIE 关系派"
+  - SRC-021_gerber:
+      shared: "婴儿主动学习者"
+  - SRC-022_gerber_deep:
+      shared: "RIE 8 原则 / 红黄绿限度"
+  - SRC-023_matsuda:
+      shared: "反焦虑 / 反抗期"
+      conflict: "松田反 反抗期 vs Lerner V3 Ch 12 支持斗争期实证"
+  - SRC-024_matsuda_v2:
+      shared: "气质差异"
+      conflict: "松田瞬间体罚 vs Lerner V3 Ch 8 完全反体罚"
+  - SRC-025_shonkoff:
+      shared: "自我调节 / 依恋质量 / 反屏幕"
+  - SRC-026_pikler:
+      shared: "婴儿主动学习者"
+
+# 评级标尺(本书)
+evidence_level_calibration:
+  A: "Lerner V3 综述 + 跨派多学派一致 + 实证扎实(主体 60-70%)— Tier 2 心理学百科权威"
+  B: "Lerner V3 综述 + 部分张力(立场分歧 / 数据有限 / 文化局限)(20-30%)"
+  C: "Lerner V3 综述 + 学者推断 / 单一研究 / 跨文化薄弱(罕见)"
+  expected_distribution: "A 占多 — 综述权威决定 majority A 级,部分 B(气质 vs 性格 边界 / Hoffman 共情阶段普世性 / Kohlberg 跨文化批评)"
+
+# 聚焦策略
+focus_strategy:
+  zh: |
+    Lerner V3 16 章,15 章本库可取(Ch 16 青少年只取早期):
+
+    主战场(每章产 15-30 张):
+    - Ch 2 Thompson(发展之人 — 社会理解/良知/self)— S0-S8 跨段
+    - Ch 3 Rothbart 气质 — S1-S8 全段(气质天生 + 测量 + 后期人格)
+    - Ch 4 Kagan 生物气质 — S2-S8(抑制型 + 神经基础)
+    - Ch 5 Saarni 情绪 — S0-S8(8 项情绪能力)
+    - Ch 6 Caspi 人格 — S6-S8(早期人格延续)
+    - Ch 8 Parke 家庭社会化 — S0-S8(父母管教 / 文化 / 离婚)
+    - Ch 9 Harter self — S6-S8(self 5 维度)
+    - Ch 11 Eisenberg 亲社会 — S2-S8(共情发展轨迹)
+    - Ch 12 Dodge 攻击 — S6-S8(认知偏差 / Patterson 强制)
+    - Ch 13 Turiel 道德 — S6-S8(4 类规则 + Smetana)
+    - Ch 14 Ruble 性别 — S6-S8(3 阶段 + 图式)
+
+    次战场(每章产 5-10 张):
+    - Ch 1 Eisenberg 序章 — 哲学(S0)
+    - Ch 7 Bugental 社会化过程 — S2-S8
+    - Ch 10 Rubin 同伴 — S6-S8
+    - Ch 15 Eccles 成就动机 — S7-S8(motivation 起源)
+    - Ch 16 Steinberg 青少年早期信号 — 选 S8 适用部分
+
+    每章必须有覆盖 — 没卡覆盖某章是漏。
+
+# 中文家长高频痛点 mapping
+parent_pain_points:
+  - "我家娃天生敏感怎么办 → Rothbart 气质 3 维度 + Chess goodness-of-fit"
+  - "几岁有道德感 → Smetana 3 岁分道德/习俗 + Kohlberg/Turiel 综述"
+  - "父母严还是宽好 → Maccoby 4 象限 + Baumrind 4 类型 + 权威型最优"
+  - "我家娃为啥爱打人 → Dodge 社会信息处理 6 步 + 解读偏差"
+  - "怎么教共情 → Eisenberg 亲社会发展轨迹(共情先于规范)"
+  - "男娃女娃天生不同吗 → Ruble 性别 3 阶段 + 文化 vs 生物"
+  - "二胎吵架是病吗 → Dunn 兄弟姐妹 5 维度 + 是发展机会"
+  - "抗挫力怎么培养 → Masten 韧性 4 保护因子 + 不是性格"
+  - "学龄前要建立啥自信 → Harter self 5 维度 + 不是单线"
+  - "友谊怎么发展 → Selman 友谊 5 阶段(via Ch 10)"
+  - "家庭环境影响多大 → Bronfenbrenner 5 层生态 + Parke-Buriel 族群"
+  - "文化怎么塑造孩子 → Rogoff 文化建构 + Parke 族群视角"
+  - "气质能改变吗 → Kagan 反基因决定论 + 50% 环境可改"
+  - "怎么管教打骂 → Patterson 强制家庭过程 + 反体罚 综述"
+  - "成就动机怎么培养 → Eccles expectancy-value + 不是 IQ 决定"
+
+referenced_by_units: []
+referenced_by_cards: []
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04
+
+notes: |
+  Phase 11 单 session — Lerner V3《Handbook of Child Psychology Vol 3》(Wiley 2006 第 6 版,Eisenberg 主编)。
+
+  - 文件已 OCR(.md, 146,390 行 / 6.4MB / 16 章主体)
+  - 章节 offset 已实测确认 15 章主体(Ch 16 青少年发展只取早期信号)
+  - 每章 350-420 KB,Ch 16 单独 646 KB 但本库 0-6 不主取
+
+  关键校准:
+  - Lerner V3 是 Wiley 心理学百科第 6 版(2006),Eisenberg 主编
+  - 16 章每章一个学派或主题大综述,各章作者均是该领域奠基级权威
+  - Ch 3 Rothbart + Ch 4 Kagan = 气质 2 章相互补充
+  - Ch 11 Eisenberg + Ch 13 Turiel = 道德/亲社会 2 章
+  - Ch 8 Parke + Ch 7 Bugental = 社会化 2 章(家庭 vs 通论)
+
+  段 ID 起点(实测 max + 100 buffer):
+  S0: 622 + 100 = 722
+  S1: 900 + 100 = 1000
+  S2: 835 + 100 = 935
+  S3: 839 + 100 = 939
+  S4: 840 + 100 = 940
+  S5: 937 + 100 = 1037
+  S6: 964 + 100 = 1064
+  S7: 895 + 100 = 995
+  S8: 220 + 100 = 320
+
+  跟现库 14 派跨派对照硬指标:每张卡 ≥ 1 张 related_cards 含 14 派
+  (AAP/鲍/Brazelton/Karp/Bowlby/Stern/Gopnik/Lillard/Davies/Lansbury/Gerber/松田/Wonder Weeks/Shonkoff/Pikler)
+
+  立场对立处全部记 conflicts.md(G 节)。
+
+  扫书学者 hits(仅展示 ≥ 50):
+  Eisenberg 688, Eccles 337, Rothbart 314, Martin 271, Bates 256,
+  Dodge 250, Rubin 248, Harter 226, Dunn 209, Parke 207,
+  Kochanska 194, Turiel 185, Kagan 179, Ruble 179, Smetana 162,
+  Lewis 147, Hoffman 143, Kohlberg 126, Sroufe 114, Maccoby 113,
+  Bandura 112, Cassidy 107, Cicchetti 105, Hartup 101, Patterson 99,
+  Plomin 99, Damon 98, Belsky 97, Killen 95, Goldsmith 94,
+  Thomas 91, Bukowski 85, Lamb 85, Coie 83, Saarni 76,
+  Bornstein 70, Emde 68, Nucci 67, Crick 62, Bowlby 59,
+  Chess 55, Calkins 52
+
+  → 全部建 G-PERSON(已建除外:Kagan/Field/Meltzoff/Erikson/Vygotsky/Piaget)

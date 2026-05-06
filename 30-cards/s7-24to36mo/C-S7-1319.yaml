@@ -1,0 +1,74 @@
+card_id: C-S7-1319
+stages: [S7]
+tags: [cultural, greenfield, preschool, lerner_v4]
+
+front:
+  title: 2-3 岁文化身份起萌
+  hook: 2-3 岁文化身份
+
+back:
+  why_matters: |
+    Greenfield V4 Ch 17(2-3 岁文化身份起萌)。
+    **2-3 岁文化身份发展**:
+    - 24 月:认中文 / 英文不同
+    - 30 月:认中国人 / 外国人不同
+    - 36 月:开始有"我是中国人"概念
+    - **文化身份是认同,不是知识**
+    **移民家娃挑战**:
+    - 学校文化(美式)vs 家庭文化(中式)
+    - 第二代常感"哪里都不全属于"
+    - 解决:**双文化能力培养**
+    **双文化培养 4 大策略**(Greenfield):
+    - **承认两个文化都有价值**
+    - **场景切换教学**("家里这样,学校那样")
+    - **文化叙事**(讲家族故事 / 中国故事)
+    - **不强迫单选**("你是 X-american")
+    **反 3 误区**:
+    - ❌ "完全美式才融入"(损失文化)
+    - ❌ "完全中式不学英文"(融入难)
+    - ❌ "选一个就好"(双文化更优)
+    **国内家庭**:
+    - 也面临文化全球化挑战
+    - 中国传统 vs 美式育儿矛盾
+    - 解决:**文化自信** + 学习好的跟现库:跟 C-S0-1238 Greenfield 5 维度 + C-S8-746 中美教育 + C-S6-1386 学步文化对接。
+    对中国家长意义:
+    - 2-3 岁文化身份起萌
+    - 移民家培养双文化
+    - 国内家文化自信 + 学习好的
+    - 不强迫"单选"
+  what_to_do:
+    - 2-3 岁文化身份起萌
+    - 移民家培养双文化
+    - 国内家文化自信
+    - '不强迫"单选"'
+  failure_mode: |
+    "完全美式才融入"— 错。损失文化。
+    "完全中式好"— 错。融入难。
+    "选一个就好"— 错。双文化更优。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Greenfield
+  - G-TERM-cultural-pathways
+  - G-TERM-biculturalism
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 4 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 4 卷"
+  authors: ['Patricia M. Greenfield', 'Lalita K. Suzuki', 'Carrie Rothstein-Fisch']
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 17 · Greenfield · 2-3yr cultural identity emergence · pp. 675-685"
+  source_id: SRC-029
+
+unit_ids: []
+related_cards:
+  - C-S0-1238     # Greenfield 5 维度
+  - C-S8-746     # V4 中美教育
+  - C-S6-1386     # V4 学步文化
+  - C-S0-517     # 松田不焦虑
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,73 @@
+card_id: C-S6-962
+stages: [S6]
+tags: [pikler, loczy, evidence, source-de]
+
+front:
+  title: "Pikler 长期跟踪结论"
+  hook: "70 年实证撑着"
+
+back:
+  why_matters: |
+    Pikler 1969 全书的循证根基(本卷不引用 Anna Tardos
+    后期 720 / 30 年精确数字 — 那是 post-1969 整理):
+
+    Pikler 1969 自述循证来源:
+    1. **私人儿科诊疗**:1930s 起在布达佩斯做儿科,
+       跟踪 100+ 家庭 0-3 岁
+    2. **Lóczy 研究所**(1946 起):0-3 岁孤儿机构 +
+       1:1 nurse 制 + Pikler 规程
+    3. **结论**:用 Pikler 方法的婴儿(家庭 + Lóczy)
+       全部按自然顺序发展大动作 / 语言 / 自主玩,无一例需"训练"或干预
+
+    Pikler 关键命题(全书反复):**没有任何"教"是必须的** — 大动作 / 抓握 / 翻坐爬站走 / 第一颗牙出 / 第一个词 / 自主玩 — 全部自动发生。
+
+    本卷立场:Pikler 数据 = 长期 + 大量 + 系统观察
+    (但非现代 RCT 标准)— 1969 立场被 70 年后续实证(Magda 美国 + Lansbury 英文世界)验证支持。
+
+    Lóczy 数据后被 Bowlby V2(SRC-012)间接引用 —
+    "有质量的机构照护可减轻 institutionalization 伤害"。
+
+  what_to_do:
+    - 信任 Pikler 立场:0-3 大动作 / 玩 / 自主不需教
+    - 用 Pikler 数据反驳"早教焦虑"(跟蒙氏 / Magda 一致)
+    - 不被中国"训练表"焦虑 — Pikler 跟踪 30 年没问题
+    - 给环境 + 时间 + 耐心,自然发展会发生
+    - Pikler 立场 ≠ 不爱不抱 — 是"warmes Bad" 中道
+
+  failure_mode: |
+    "Pikler 1969 老不老?" → 后续 70 年 Magda RIE +
+    Lansbury 推广 + 蒙氏 0-3 借用,立场被反复验证。
+    1969 立场至今未被推翻,只被英美派复述扩展。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Pikler
+  - G-TERM-Loczy-institute
+  - G-TERM-bewegungsentwicklung
+
+citation:
+  book_title_de: "Friedliche Babys – zufriedene Mütter"
+  book_title_zh: "和平的婴儿 — 满足的母亲"
+  authors:
+    - Emmi Pikler
+  publisher_de: HERDER (HERDER / SPEKTRUM Band 4141)
+  year: 1969
+  location: "Einleitung + 全书反复"
+  source_id: SRC-026
+
+unit_ids: []
+related_cards:
+  - C-S0-167  # Magda 7 大育儿原则
+  - C-S2-261  # Bowlby 安全基地(同代欧洲)
+  - C-S2-292  # Ainsworth 敏感回应
+  - C-S4-349  # Gerber 里程碑不是赛跑
+  - C-S2-290  # Lansbury 不撑坐 8 理由
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_suspect: true
+citation_followup_needed: '回原书 Pikler 1969 Friedliche Babys 反查具体页 — F1 维度 10 已知问题'

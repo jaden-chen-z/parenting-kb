@@ -1,0 +1,36 @@
+card_id: C-S3-2254
+stages: [S3]
+tags: [safety, gear, motor]
+front:
+  title: 婴儿秋千 30 分钟 2 次上限
+  hook: 别一坐一上午
+back:
+  why_matters: |
+    秋千能让娃情绪稳+妈妈喘口气,但用过头就成了发育拖油瓶。
+    海蒂规则:每次不超过 30 分钟,每天不超过 2 次。过度使用会妨碍爬、坐、扶站等关键技能练习,也减少亲子身体与情感互动。秋千+婴儿座椅+学步车都属于"困住型容器",合计时间过长直接拖慢发育里程碑。
+  what_to_do:
+    - 每次秋千不超过 30 分钟
+    - 每天最多 2 次
+    - 安全带必扣+垫硬保护
+    - 娃睡着前抱出放婴儿床
+    - 秋千期间多语言互动
+  failure_mode: 妈妈用秋千当带娃神器,一坐 2-3 小时,娃 8 月还不会翻身爬行,儿保被警示发育延迟。
+  evidence_level: B
+glossary_refs: []
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors: ["Heidi Murkoff", "Sharon Mazel"]
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh: ["莫夏迪","张敏"]
+  location: "第 9 章 《第 5 个月》, 页 333-334"
+  source_id: "SRC-040"
+related_cards: [C-S3-2253]
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

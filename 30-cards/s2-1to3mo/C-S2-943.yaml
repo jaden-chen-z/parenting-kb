@@ -1,0 +1,48 @@
+card_id: C-S2-943
+stages: [S2]
+tags: [goldsmith, twin_studies, temperament_genetics, lerner_v3]
+
+front:
+  title: "双胞胎证气质遗传"
+  hook: "气质 50% 写在基因"
+
+back:
+  why_matters: |
+    Goldsmith(via Ch 3 Rothbart 综述)— 双胞胎研究最强证据:
+    同卵双胞胎(基因 100% 同)气质有关 0.5-0.6;异卵(50% 同)0.2-0.3。
+    差距 = 遗传贡献。结论 — 气质遗传率 40-50%(不是 100% 也不是 0%)。
+    一句话 — 你和伴侣性格不同,生 2 娃可能完全不同气质,基因抓阄。
+  what_to_do:
+    - "二胎别期待跟老大一样"
+    - "气质差 50% 是基因,接受不改造"
+    - "夫妻气质各占一半"
+    - "回想你和伴侣小时候"
+    - "环境管 50% 还能影响一半"
+  failure_mode: |
+    "都是我带的怎么 2 个差这么多" — Goldsmith 数据回答 = 基因抓阄。
+    自责或归因带得不好都错。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Goldsmith
+  - G-PERSON-Rothbart
+  - G-TERM-twin-studies
+  - G-TERM-heritability
+
+related_cards:
+  - C-S2-547
+  - C-S2-185
+
+citation:
+  source_id: SRC-027
+  source_title: "Handbook of Child Psychology Vol 3"
+  chapter: "Ch 3 Rothbart / Goldsmith"
+  chapter_offset: 613636
+  chapter_title: 'Rothbart & Bates — 气质综述权威'
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_followup_needed: 'SRC-027 用 PDF 字节偏移代页码 — 待加 page_pdf 反查工具'

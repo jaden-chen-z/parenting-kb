@@ -1,0 +1,66 @@
+card_id: C-S0-1231
+stages: [S0]
+tags: [parenting_science, lerner_v4, bornstein]
+
+front:
+  title: 育儿没普世最优解
+  hook: 没普世最优育儿法
+
+back:
+  why_matters: |
+    Bornstein V4 Ch 22 育儿科学综述权威立场。
+    核心发现(Bornstein 综述 50+ 跨文化研究):
+    - **没有"全球最优育儿法"**
+    - 不同文化养出不同特质,没有"对错"
+    - 美中产价值观:独立 / 早睡 / 个性
+    - 集体文化价值观:互依 / 同睡 / 服从
+    - 都健康,都成功
+    Bornstein 育儿 2 大原则:
+    - **specificity(特异性)**:某育儿做法对某结果有特定影响,不是"好妈妈万能"
+    - **continuity(连续性)**:同一行为长时间持续比短时强度重要意义:
+    - 反"美国专家说就对"
+    - 反"中国传统都过时"
+    - 接受文化多样性
+    - 关键是 specificity + continuity,不是某种"风格"
+    跟现库:跟 Greenfield 5 文化维度(C-S0-1239 待建)+ 松田日式育儿(SRC-024)对照。
+    反对 Lillard / Gerber 等单一哲学派的"我的方法最好"立场。
+    对中国家长意义:
+    - 不必崇美式 / 不必弃中式
+    - 抓"具体行为对具体结果"的因果
+    - 抓"长期持续"比"完美强度"重要
+    - 中国娃可以是中国娃
+  what_to_do:
+    - 不必照搬美式育儿
+    - 抓具体行为对具体结果
+    - 长期持续胜过完美强度
+    - 接受多种文化都健康
+  failure_mode: |
+    "美国专家说就对"— 错。文化特异性。
+    "中国传统都过时"— 错。多元化研究都健康。
+    "找到最优育儿法"— 错。没有普世最优。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Bornstein
+  - G-TERM-cultural-specificity
+  - G-TERM-applied-developmental-science
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 4 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 4 卷"
+  authors: ['Marc H. Bornstein']
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 22 · Bornstein · Parenting science · pp. 893-906"
+  source_id: SRC-029
+
+unit_ids: []
+related_cards:
+  - C-S0-517     # 松田不焦虑育儿日式
+  - C-S0-723     # Bronfenbrenner 5 层生态
+  - C-S0-722     # Eisenberg V3 序章
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

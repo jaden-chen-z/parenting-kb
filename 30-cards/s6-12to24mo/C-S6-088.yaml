@@ -1,0 +1,58 @@
+card_id: C-S6-088
+stages: [S6, S7]
+tags: [philosophy]
+
+front:
+  title: 复合恐惧才致大反应
+  hook: 单怕弱组合就崩
+
+back:
+  why_matters: |
+    Bowlby Vol 2 一个核心发现:
+    **"当只呈现一种引发恐惧的情境时,个体只会出现微弱的恐惧反应,
+    但是当把两种或以上的情境刺激同时呈现时,恐惧反应的强度则大大增加。
+    依恋对象的在场或缺席,或者其他人的陪伴,也会对个体恐惧反应的强度起到重要影响。"**
+    举例:
+    - 孩子怕狗(单一)= 微弱反应,可控
+    - 孩子怕狗 + 房间陌生(复合)= 中等反应
+    - 怕狗 + 陌生 + 妈妈不在 = 崩溃实操含义:看孩子"怕"的程度,看叠加了几个不利变量。
+    家长大坑:把孩子的崩溃归到单一因素("就一只狗,怕成这样"),实际是多变量叠加。
+    解决方法:**减少叠加**,而不是消除单一因素 — 妈妈在身边,陌生狗也能面对。
+  what_to_do:
+    - 看孩子崩溃,数叠加变量(陌生 / 黑暗 / 突然 / 妈妈在不在)
+    - 减负:每次只引入一个新变量,妈妈优先在场
+    - 入园第一周 3 个叠加,必须妈陪渐进
+    - 安抚时优先恢复"妈在"信号(身体接触 + 声音)
+    - 孩子怕的不是单一,是堆叠;评估也按堆叠
+  failure_mode: |
+    "怎么这么胆小" — 不是胆小,是变量太多;减少 1 个变量(妈在)他立刻能面对。
+    "强行让他见 X" — 单加一个新变量没问题,叠 3 个一定崩。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Bowlby
+  - G-TERM-attachment
+  - G-TERM-secure-base
+
+citation:
+  book_title_zh: "依恋三部曲 · 第二卷:分离"
+  book_title_en: "Attachment and Loss · Volume 2: Separation"
+  authors: ["John Bowlby"]
+  authors_zh: ["约翰·鲍尔比"]
+  translators_zh: ["汪智攀", "王婷婷"]
+  publisher_zh: "世界图书出版有限公司北京分公司"
+  year_en: 1973
+  year_zh: 2017
+  isbn: "978-7-5192-2926-9"
+  location: "第七章唤起人类恐惧感的情境(当只呈现一种引发恐惧的情境时,个体只会出现微弱的恐惧反应,但是当把两种或以上的情境刺激同时呈现时,恐惧反应的强度则大大增加)"
+  source_id: SRC-012
+
+unit_ids: []
+related_cards:
+  - C-S5-088      # 怕生 = 陌生 + 靠近
+  - C-S6-082      # 分离反应 3 阶段
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

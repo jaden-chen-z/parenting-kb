@@ -1,0 +1,49 @@
+card_id: C-S5-652
+stages: [S5]
+tags: [vaccine, measles, timing]
+
+front:
+  title: 麻疹疫苗错后几月
+  hook: 1 岁 3 月后免疫更稳
+
+back:
+  why_matters: |
+    松田硬数字:1 岁注射麻疹活疫苗,免疫中途消失 — 母传免疫还没完全消,妨碍活疫苗制造免疫。
+    1 岁 3 月以后接种,会获得永久性免疫。
+    法律 12 月起可接种,但松田建议错后 3 月。
+    1 岁前接种过的,1 岁 3 月时再补 1 次。
+  what_to_do:
+    - 法定 12 月起可接种但不强求
+    - 优选 1 岁 3 月后接种
+    - 1 岁前接种过的需 1 岁 3 月再补
+    - 蛋过敏娃接种前 200 倍稀释皮试
+    - 夏季避免(怕暑+发热双重)
+  failure_mode: |
+    "国家规定就 12 月" → 错过更稳的窗 → 几年后免疫消,需重接。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Matsuda
+  - G-ABBR-MMR
+
+citation:
+  book_title_zh: "定本《育儿百科》"
+  book_title_jp: "育児の百科(定本)"
+  authors: ["松田道雄"]
+  translators_zh: ["王少丽"]
+  publisher_zh: null
+  year: 1980
+  edition: "定本"
+  location: "第 335-336 节麻疹的预防 / 未进行预防接种时"
+  source_id: SRC-023
+
+unit_ids: []
+related_cards:
+  - C-S5-648  # 自卷:9-10 月探索期防事故
+  - C-S5-007  # AAP 12 月疫苗:MMR + 水痘 + HepA
+  - C-S1-064  # AAP 0-12 月疫苗时间表速查
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

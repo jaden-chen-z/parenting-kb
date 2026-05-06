@@ -1,0 +1,78 @@
+glossary_id: G-ABBR-IPV
+type: abbreviation
+display_name: IPV
+
+full_name_en: Inactivated Poliovirus Vaccine
+full_name_zh: 灭活脊髓灰质炎疫苗(灭活脊灰疫苗)
+
+one_liner: |
+  预防脊髓灰质炎(小儿麻痹症)。中国一类苗(免费)2-3-4 月 + 4 岁加强;美国 AAP 2-4-6-15 月 + 4-6 岁加强。1990s 后全球从 OPV 减毒活疫苗转向 IPV(因 OPV 极罕见但严重的疫苗相关麻痹 VAPP)。中国 2016 年起脊灰疫苗策略改为 IPV+bOPV 序贯。
+
+detail: |
+  ## 是什么
+  IPV = Inactivated Poliovirus Vaccine(灭活脊灰疫苗)
+  - 注射剂(肌注)— 区别于 OPV 口服减毒活疫苗(糖丸)
+  - 灭活 = 病毒被杀死,不能复制 → 100% 无 VAPP 风险
+  - 含 3 种血清型(I、II、III)抗原
+  - 预防脊髓灰质炎(小儿麻痹症)— 致死/致残的肠道病毒感染
+
+  ## 疫苗时间表
+
+  ### 中国 2016 年新策略(IPV+bOPV 序贯)
+  - 2 月:1 剂 IPV(免费)
+  - 3 月、4 月:bOPV(二价口服减毒,免费)
+  - 4 岁:bOPV 加强
+  - 部分地区可全程 IPV 自费(5 联苗内含)
+
+  ### 美国 AAP(全程 IPV)
+  - 2 月、4 月、6-18 月、4-6 岁(共四针)
+
+  ### 早产儿
+  按实际日龄接种,不延后
+
+  ## 为什么从 OPV 转 IPV?
+  OPV 减毒活疫苗(糖丸)曾是消灭脊灰的功臣,但有罕见但严重缺陷:
+  - **VAPP** = Vaccine-Associated Paralytic Poliomyelitis(疫苗相关麻痹型脊灰)
+  - 概率约 1/270 万剂次
+  - 罕见但终身瘫痪
+  - 在野生脊灰已基本消灭后,VAPP 风险 > 野生脊灰感染风险
+
+  WHO 推荐:野生脊灰消灭后转 IPV 或 IPV+bOPV 序贯。
+
+  ## 中国脊灰现状
+  - 中国 2000 年消灭野生脊灰(WHO 认证)
+  - 2011 年新疆本土 VDPV(疫苗衍生病毒)案例 → 加速 IPV 转型
+  - 2016 年起新策略
+  - 2024 年仍是免疫规划必种疫苗(全球未消灭脊灰前不可放松)
+
+  ## 误区
+  - "都消灭脊灰了不用打" — 错。WHO 说全球消灭前继续接种,巴基斯坦/阿富汗仍有野生病例
+  - "IPV 跟 OPV 一样可以糖丸" — 错。IPV 必须注射(灭活的病毒口服无效)
+  - "我家宝宝从不接触脏水不会得" — 错。脊灰可通过呼吸道传播
+
+key_facts:
+  - IPV 注射 vs OPV 口服(糖丸)— 完全不同
+  - 灭活 = 100% 无 VAPP 风险
+  - 中国 2016 起 IPV+bOPV 序贯策略
+  - 美国 AAP 全程 IPV(四针)
+  - WHO 全球消灭脊灰前不可停接种
+  - 早产儿按实际日龄接种
+
+related_glossary:
+  - G-ABBR-DTaP
+  - G-ABBR-Hib
+  - G-ABBR-PCV
+  - G-ABBR-AAP
+
+related_cards:
+  - C-S1-064
+  - C-S5-007
+
+sources:
+  - source_id: SRC-008
+  - external: WHO Polio Eradication Initiative + 中国《国家免疫规划疫苗儿童免疫程序》2016 修订
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

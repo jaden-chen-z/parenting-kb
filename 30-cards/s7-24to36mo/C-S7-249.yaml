@@ -1,0 +1,80 @@
+card_id: C-S7-249
+stages: [S7]
+tags: [self, language, china_high_freq]
+
+front:
+  title: 妈说"乖" 爸说"乖" 不一样
+  hook: 同词不同人意义不同
+
+back:
+  why_matters: |
+    Stern 引用 Vygotsky + Holquist 的"dialogism" — **每个词的意义是宝宝跟具体人协商出来的"we meanings"** — 同词不同人,意义不同,会引发 identity 困难。
+    **核心观察**:
+    - 妈说"好孩子" → 宝宝吸收**妈版本**的"好孩子"含义(可能 = 安静)
+    - 爸说"好孩子" → 宝宝吸收**爸版本**的"好孩子"含义(可能 = 勇敢)
+    - 老师说"好孩子" → 又一版本(可能 = 听话)
+    - 老人说"好孩子" → 又一版本(可能 = 不哭)
+    **多个 we meanings 共存** — 同一个词但宝宝心里有 4-5 个不同含义。
+    **后果**:
+    - 宝宝**哪个版本是真的**?都是真的,但矛盾
+    - 长期 → identity 不清晰("我到底什么样才是好孩子?")
+    - 心理治疗常常追溯到这种早期 we meanings 冲突
+    **典型中国家庭场景**:
+    - 妈期望"好孩子 = 安静听话学习好"
+    - 爸期望"好孩子 = 勇敢独立有主见"
+    - 老人期望"好孩子 = 不顶嘴吃得多"
+    - 老师期望"好孩子 = 守规矩"
+    - **宝宝整天在不同版本间切换** — 焦虑型人格的根源之一
+    **对家长的核心信息**:
+    - **家庭内部对"好孩子"等价值词要对齐** — 不必完全一致,但减少冲突
+    - **承认不同视角** — 跟宝宝说"在妈这里 X 是好的,在爸那里 Y 是好的,都对"
+    - **不强行统一** — 允许不同人有不同"版本",但解释清楚
+    - **特别注意贬义词** — "你这样很坏" / "不乖" — 不同人用引发的"坏 / 不乖"含义可能完全不同
+    **跟 Stern selective 调谐(C-S4-200) + Lillard 婚姻在孩子之前(C-S7-135)互补**:
+    - Selective 调谐 = 你 调谐 哪些情感
+    - We meanings = 你给哪些行为命名为"好/坏"
+    - 婚姻基础 = 父母对核心价值的共识
+    **Stern 临床洞察**:
+    - 最重要的 we meanings 是**内心状态词**("累 / 烦 / 失望 / 想念")
+    - 比物体词("狗 / 红 / 大")更深刻塑造 self
+    - 父母在这层尤其要谨慎
+  what_to_do:
+    - 家庭内对核心价值词对齐
+    - 承认不同人有不同版本
+    - 跟宝宝解释多版本共存
+    - 特别注意贬义词的统一
+    - 内心状态词最关键
+  failure_mode: |
+    "我说乖跟爸说乖一样意思啊" — 不一样。Stern 数据 — 同词不同人,we meanings 不同。
+    家庭对"好/坏"标准矛盾 → 宝宝识别困难 → 焦虑型 identity 根源。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Stern
+  - G-PERSON-Vygotsky
+  - G-TERM-verbal-self
+
+citation:
+  book_title_zh: "婴儿的人际世界"
+  book_title_en: "The Interpersonal World of the Infant"
+  authors: ["Daniel N. Stern"]
+  authors_zh: ["丹尼尔·斯特恩"]
+  publisher_en: "Basic Books"
+  year_en: 1985
+  isbn_en: "978-0-465-09559-9"
+  location: "Ch 8 · We Meanings (Vygotsky + Holquist dialogism)"
+  publisher_zh: "华东师范大学出版社"
+  year_zh: 2017
+  translator_zh: ["刘旭东"]
+  source_id: SRC-018
+
+unit_ids: []
+related_cards:
+  - C-S6-299       # Stern 给情感贴标签要准
+  - C-S7-135       # Lillard 婚姻在孩子之前
+  - C-S4-200       # Stern selective attunement
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

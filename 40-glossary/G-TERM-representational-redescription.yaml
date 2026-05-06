@@ -1,0 +1,64 @@
+glossary_id: G-TERM-representational-redescription
+type: term
+display_name: 表征重描述 (RR)
+
+full_name_zh: 表征重描述 / RR 模型
+full_name_en: Representational Redescription / RR
+
+one_liner: |
+  Karmiloff-Smith 1992 提出 — 知识 4 层重描述,从隐性到完全意识。
+  6 岁孩子"过度规则错"是 RR 进步信号,不是退步。
+
+detail: |
+  ## 定义
+  Karmiloff-Smith 1992 RR 模型:知识在大脑里被反复重写。
+
+  ## 4 层
+  1. **Implicit**(隐性)— 行为正确但不能解释("我会但说不出怎么")
+  2. **Explicit-1**(程序)— 程序性可调用("能拼但只一个顺序")
+  3. **Explicit-2**(部分意识)— 能言语解释步骤
+  4. **Explicit-3**(完全意识)— 跨域可用 + 可教
+
+  ## 经典案例:平衡积木
+  - 4 岁:能平衡(隐性)
+  - 6 岁:能"中心放"(过度泛化错重 / 轻物体)
+  - 8 岁:能调整(显性 2)
+  - 10 岁:能教(显性 3)
+
+  ## 立场
+  - 反 Spelke 纯先天模块论
+  - 跟 Carey 概念革命部分同方向
+  - 神经建构主义派
+
+  ## 在本知识库中
+  - SRC-028 Lerner V2 Ch14/Ch16 引用
+  - C-S8-424 Karmiloff-Smith RR
+
+  ## 中国家长意义
+  - 6 岁孩子拼图突然"忘了" — 是过度规则化(进步)
+  - 不要见错就慌 — 重描述过程
+  - 4 岁能拼≠真懂结构 — 6-10 岁逐步意识化
+  - 鼓励解释("你怎么做的") — 促重描述
+
+key_facts:
+  - Karmiloff-Smith 1992 模型
+  - 4 层从隐性到完全意识
+  - 过度规则错 = 进步信号
+  - 神经建构主义派核心
+
+related_glossary:
+  - G-PERSON-Karmiloff-Smith
+  - G-PERSON-Carey
+  - G-PERSON-Spelke
+
+related_cards:
+  - C-S8-424
+
+sources:
+  - source_id: SRC-028
+  - external: Karmiloff-Smith 1992《Beyond Modularity》/ Wikipedia RR
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

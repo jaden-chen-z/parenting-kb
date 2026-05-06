@@ -1,0 +1,69 @@
+card_id: C-S8-750
+stages: [S8]
+tags: [parenting_science, bornstein, lerner_v4]
+
+front:
+  title: 育儿要看具体行为
+  hook: 育儿是具体不万能
+
+back:
+  why_matters: |
+    Bornstein V4 Ch 22(S8 学龄前应用)。
+    **Bornstein 2 原则深化**:
+    - **specificity(特异性)**:某育儿做法只对某结果有特定影响
+      - 例:讲故事 → 词汇好,但**不一定**情绪稳
+      - 例:抱抱 → 安全感,但**不一定**学业好
+      - 反"好妈妈万能"假设
+    - **continuity(连续性)**:同一行为 1 年 > 几次 high-intensity
+      - 每天读 10 分钟 > 周末 1 小时
+      - 每天 1 次拥抱 > 偶尔大拥抱
+    **3 大育儿迷思破除**:
+    - ❌ "好父母什么都对"(specificity 反对)
+    - ❌ "完美一次比平常多次重要"(continuity 反对)
+    - ❌ "用力越猛效果越强"(过度刺激反伤)
+    **Bornstein 给中国家长 5 建议**:
+    - 看具体行为对具体结果
+    - 看 1 年累积不看一次完美
+    - 接受不完美但持续
+    - 别"什么都教"
+    - 自己先轻松跟现库:跟 C-S0-1231 Bornstein 2 原则 + Powell 5 原则(C-S0-1233)+ 松田不焦虑(SRC-024)对接。
+    对中国家长意义:
+    - 不"全才训练"娃
+    - 看具体哪个行为对应哪个结果
+    - 持续胜过完美
+    - 自己别给自己 too much pressure
+  what_to_do:
+    - '不"全才训练"娃'
+    - 看具体行为对具体结果
+    - 持续胜过完美
+    - 自己别给太大压力
+  failure_mode: |
+    "好妈万能"— 错。specificity 反对。
+    "完美一次最重要"— 错。continuity。
+    "用力越猛越好"— 错。过度反伤。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Bornstein
+  - G-TERM-parenting-specificity
+  - G-TERM-parenting-continuity
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 4 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 4 卷"
+  authors: ['Marc H. Bornstein']
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 22 · Bornstein · Specificity + continuity 2 principles · pp. 906-925"
+  source_id: SRC-029
+
+unit_ids: []
+related_cards:
+  - C-S0-1231     # Bornstein 2 原则
+  - C-S0-1233     # Powell 5 原则
+  - C-S0-517     # 松田不焦虑
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

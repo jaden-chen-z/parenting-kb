@@ -1,0 +1,95 @@
+card_id: C-S2-834
+stages: [S2]
+tags: [pikler, motor-发展, free-play, source-de, controversy]
+
+front:
+  title: "每天地板时间数小时"
+  hook: "平面仰卧 + 自由动"
+
+back:
+  why_matters: |
+    Pikler 1969 Ch2 实操核心:1-3 月婴儿每天需要
+    "freie Bewegung"(自由活动)时间 — 几小时仰卧平面,大人不抱不撑不打扰。
+
+    德文原书数据:Pikler 跟踪的家庭婴儿每天 4-6 小时地板 / 床自由动腿。这些婴儿大动作发展全部按
+    Pikler 7-8 阶段表自然完成,无一例需"训练"。
+
+    跟 AAP 趴卧时间(tummy time)(2026 推 — 防 SIDS 后颈肌)
+    立场张力:Pikler 1969 反趴卧时间(tummy time)(俯卧不利自然翻身),建议仰卧 + 自由翻。冲突记 conflicts F3。
+
+    这是 Magda Educaring + Lansbury 7 myths play 的德文源头(SRC-019 Ch15 / SRC-022 Ch3)。
+
+  what_to_do:
+    - 每天累计 3-5 小时仰卧地板时间(分散做)
+    - 平面要硬(地垫 / 木地板 + 薄毯,不用床垫)
+    - 不放玩具堆在身上(给空间动腿)
+    - 大人在视野内但不互动(玩观分离)
+    - 不抱起来"换姿势"(婴儿自己会动)
+
+  failure_mode: |
+    "宝宝一放地下就哭" → Pikler 视角:多半是被抱抱坐惯了,自由活动时反而不知所措。慢慢延长地板时间 — 第一次 5 分钟,第二次 10 分钟,逐步加。
+
+  evidence_level: B
+
+  positions:
+    issue: 大动作发展该不该训练 · 学步车 / Bumbo / 撑坐 / 训练表是否有用
+    views:
+      - school: Pikler
+        source: SRC-026
+        stance: 反 Tummy Time — 仰卧位最佳,俯卧不利自然翻身。1969 立场(那时 Tummy Time 概念尚未出现)。
+      - school: Magda Gerber / RIE / Lansbury
+        source: SRC-022/019
+        stance: 继承 Pikler 立场 — 里程碑不是赛跑,不撑坐 8 理由,7 类婴儿设备先放下。
+      - school: 蒙氏(Davies/Lillard)
+        source: SRC-014/016
+        stance: 平面活动 OK,但反对"训练"方式;给地板时间让婴儿自由探索俯卧。
+      - school: AAP
+        source: SRC-002
+        stance: 推 Tummy Time — 防 SIDS 后颈肌发育 + 防扁头综合征(2026 现行立场,Back to Sleep 1994 后配套)。
+      - school: Brazelton
+        source: SRC-010
+        stance: 反学步车,跟 Pikler 立场一致;主张孩子自然探索大动作。
+      - school: 松田道雄
+        source: SRC-024
+        stance: 温和支持自然 — 不催孩子翻 / 坐 / 爬 / 走的时间表,部分跟 Pikler 共鸣。
+      - school: 鲍秀兰
+        source: SRC-009
+        stance: 支持训练 — 婴儿体操 / 抓握训练 / 撑坐;跟 Pikler 派 8 派立场严重对立。
+      - school: 中国主流
+        stance: '"4 月翻 / 6 月坐 / 9 月爬 / 12 月走" 训练表 + 80% 家庭曾用学步车。跟 Pikler 派全面对立。'
+      - school: Magda Gerber / Lansbury
+        source: SRC-022/019
+        stance: 继承 Pikler — 永远仰卧不俯卧;给地板时间让婴儿自由探索。
+      - school: 海蒂
+        source: SRC-040
+        stance: 每天清醒至少 30 分钟分多次累计(对齐 AAP)— 主流大众派背书 Tummy Time + 防扁头。
+      - school: 折中建议
+        stance: 不强迫 Tummy Time,但给地板时间允许婴儿自己俯卧探索;若选 AAP 派则醒着每天几次,每次几分钟。
+glossary_refs:
+  - G-PERSON-Pikler
+  - G-TERM-bewegungsentwicklung
+  - G-TERM-supine-position
+  - G-TERM-pflege-vs-spiel
+
+citation:
+  book_title_de: "Friedliche Babys – zufriedene Mütter"
+  book_title_zh: "和平的婴儿 — 满足的母亲"
+  authors:
+    - Emmi Pikler
+  publisher_de: HERDER (HERDER / SPEKTRUM Band 4141)
+  year: 1969
+  location: "Ch2 Die Entwicklung der Bewegung pp. 35-40"
+  source_id: SRC-026
+
+unit_ids: []
+related_cards:
+  - C-S2-290  # Lansbury 不撑坐 8 理由
+  - C-S3-191  # Lillard 大动作发展
+  - C-S1-409  # Gerber 永远仰卧不俯卧
+  - C-S0-167  # Magda 7 大育儿原则
+  - C-S4-349  # Gerber 里程碑不是赛跑
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

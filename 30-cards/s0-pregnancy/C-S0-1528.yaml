@@ -1,0 +1,52 @@
+card_id: C-S0-1528
+stages: ['S0']
+tags: ['philosophy', 'lerner_v1', 'brandtstadter', 'action_theory', 'foundational']
+
+front:
+  title: "同化 vs 调节双过程"
+  hook: "改环境还是改自己"
+
+back:
+  why_matters: |
+    Brandtstädter(Lerner V1 Ch 10)给 action theory of self-发展 —
+    人面对发展挑战有 2 大策略:
+    - Assimilation(同化)— 改环境让它适应自己(我家厨房改造让娃能自己取水)
+    - Accommodation(调节)— 改自己适应环境(娃学规则 / 学等待 / 学忍受)
+    两者交替使用 — 不是非此即彼。
+    中国家长常 over-accommodation(让娃一直适应) — 让娃超龄学 / 强忍 / 守规矩 → 培养"懂事娃"代价是真实需求被压制。
+    理想模式 — 该 assimilate 时(改环境支持娃) + 该 accommodate 时(教娃适应)平衡。
+    意义 — 育儿 = 双向 action — 改环境 + 改孩子双管齐下。
+  what_to_do:
+    - "该 assimilate — 改家具高度让娃用"
+    - "该 accommodate — 教娃等 / 守规则"
+    - "看情境选哪个(都有用)"
+    - "不 over-accommodate(让娃一直适应)"
+    - "双策略交替,不是单选"
+  failure_mode: |
+    一直 accommodation(逼娃适应)— 培养压抑型懂事娃。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Brandtstadter
+  - G-TERM-action-theory
+  - G-TERM-assimilation-accommodation
+
+related_cards:
+  - C-S0-1500
+  - C-S0-1522
+  - C-S0-722
+  - C-S6-816
+
+citation:
+  source_id: SRC-030
+  source_title: "Handbook of Child Psychology Vol 1: Theoretical Models of Human Development"
+  chapter: "Ch 10 Action Theory of Self-Development (Brandtstadter)"
+  chapter_offset: 2770000
+  chapter_title: 'Brandtstädter — Action Theory of Self-Development'
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_followup_needed: 'SRC-030 用 PDF 字节偏移代页码 — 待加 page_pdf 反查工具'

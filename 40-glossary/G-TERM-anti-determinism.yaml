@@ -1,0 +1,28 @@
+glossary_id: G-TERM-anti-determinism
+type: term
+display_name: "反决定论 / anti-determinism"
+
+name_en: "anti-determinism"
+name_zh: "反决定论"
+
+description: |
+  V1 跨章共识 — 反对基因 / 早期 / 阶段 / 文化 任何形式的"决定论"。
+  发展是 probabilistic + 多层 + 双向 + 可塑。
+
+one_liner: |
+  反决定论(anti-determinism)— V1 跨章共识 — 反对基因 / 早期 / 阶段 / 文化 任何形式的"决定论"。
+
+key_facts:
+  - "Lerner V1 元理论卷核心术语"
+  - "学派:Lerner V1 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

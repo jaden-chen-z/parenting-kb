@@ -1,0 +1,56 @@
+glossary_id: G-PERSON-Munakata
+type: person
+display_name: Munakata
+
+full_name_en: Yuko Munakata
+full_name_zh: 弯方由子
+
+one_liner: |
+  日裔美国发展心理学家(UC Davis 教授),神经网络模型 + 渐变表征理论奠基人。
+  解释 A-not-B 错误的连接主义模型权威。
+
+detail: |
+  ## 个人背景
+  - Carnegie Mellon 博士
+  - UC Davis 心理学教授(原 Colorado Boulder)
+  - 美国心理协会会士
+
+  ## 核心研究:Graded Representations(渐变表征)
+  - 大脑表征不是"有/没",是渐变强度
+  - 弱表征也存在,只是行为不体现
+  - 解释 A-not-B 错误:视觉表征强,行动表征更强 → 错去 A
+
+  ## 立场
+  - 神经建构主义派
+  - 连接主义模型派
+  - 跟 Karmiloff-Smith 同方向
+  - 反 Piaget 阶段说
+
+  ## 在本知识库中
+  - SRC-028 Lerner V2 Ch10 主笔(91 hits)
+  - C-S5-1139 A-not-B 解释
+  - C-S7-1101 Munakata 渐变表征
+
+key_facts:
+  - UC Davis 心理学教授
+  - 渐变表征理论奠基
+  - 连接主义 A-not-B 模型
+  - Lerner V2 Ch10 主笔
+
+related_glossary:
+  - G-PERSON-Karmiloff-Smith
+  - G-PERSON-Piaget
+  - G-TERM-baby-scientist
+
+related_cards:
+  - C-S5-1139
+  - C-S7-1101
+
+sources:
+  - source_id: SRC-028
+  - external: Munakata 1998+ / Wikipedia Yuko Munakata
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

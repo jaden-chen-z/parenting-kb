@@ -1,0 +1,53 @@
+card_id: C-S1-1000
+stages: [S1]
+tags: []
+
+front:
+  title: "1 小时内开奶"
+  hook: "黄金 1 小时不能错"
+
+back:
+  why_matters: |
+    Early Initiation(出生 1 小时内开奶)— WHO+UNICEF 共同建议。
+    全球只 ~45% 婴儿在出生 1 小时内开奶,中国比例更低。
+    关键作用:① 初乳免疫保护(IgA + lactoferrin + 寡糖)② 妈妈泌乳启动(吸吮 → 泌乳素)③ 母婴 bonding 关键窗。
+    BFHI 第 4 步具体化为'立即且不间断的肌肤接触 + 1 小时内开奶'。
+    中国传统产院:出生立即包裹+测量+称重+洗澡 → 错过 1 小时窗口。
+  what_to_do:
+    - "出生立即肌肤接触(skin-to-skin)— 不要先包裹"
+    - "1 小时内尝试第一次吸吮(就算只 5 分钟)"
+    - "测量/称重等 → 推到 1 小时后"
+    - "剖宫产同样:妈妈条件允许就立即接触"
+    - "产前跟医生提前沟通 — 写入分娩计划"
+  failure_mode: |
+    出生立即被分离测量包裹 → 错过 1 小时窗口 + 初乳免疫保护 + 泌乳启动延迟。
+    黄金 1 小时 only once,不能补。
+  evidence_level: A
+
+glossary_refs:
+  - G-TERM-early-initiation
+  - G-TERM-skin-to-skin
+  - G-TERM-colostrum
+
+citation:
+  page_title: "BFHI Step 4 + WHO IYCF Fact Sheet"
+  publisher: "World Health Organization & UNICEF"
+  page_url_primary: https://www.who.int/teams/nutrition-and-food-safety/food-and-nutrition-actions-in-health-systems/ten-steps-to-successful-breastfeeding
+  accessed: 2026-05-04
+  language: en
+  location: "出生 1 小时内开奶 + 立即肌肤接触 + 初乳保护"
+  source_id: SRC-031
+
+unit_ids: []
+related_cards:
+  - C-S1-1000
+  - C-S0-1025
+  - C-S1-051
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_doc_id_pending: D10
+citation_followup_needed: '已映射真实 doc_id (D10 = Lancet Breastfeeding Series 2016)'

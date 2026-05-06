@@ -1,0 +1,66 @@
+card_id: C-S7-133
+stages: [S7]
+tags: [montessori, practical-life, real-tools]
+
+front:
+  title: 2 岁切香蕉用真钝刀
+  hook: 真物不要塑料假装
+
+back:
+  why_matters: |
+    Lillard Ch6 详细 — **2 岁宝宝可以用真钝刀切香蕉**(蒙氏经典操作):
+    工具:
+    - 真小刀(filed blade — 把刀尖磨钝)
+    - 真小砧板
+    - 真 2 个碗(果肉 + 垃圾)
+    - 真小围裙操作步骤(15 月起教,2 岁完成):
+    1. 大人切去香蕉一头(便于宝宝剥皮起步)
+    2. 宝宝穿围裙
+    3. 妈妈坐左边演示(不是对面)
+    4. 宝宝右手握刀柄,左手按刀背向下压
+    5. 切一片 → 立即放果肉碗
+    6. 不允许中途吃(影响专注)
+    7. 完成后洗刀 + 工具归位为什么用真物 + 真效果:
+    - 假塑料刀切不动 → 宝宝学不会真技能
+    - 真物有真反馈("我切到指头了")— 学小心
+    - 自我效能("我做了真事")
+    - 蒙氏 100 年实证 — 2 岁可安全用,前提是大人在场 + 工具适合
+    Lillard 立场坚定:**用真物,不用塑料假装**。
+    跟"宝宝小不能用真刀"主流**对立** — Lillard:**钝刀 + 监护下绝对安全**,假物剥夺真技能。
+  what_to_do:
+    - 真钝刀 + 真小工具
+    - 大人坐左边演示
+    - 妈妈在旁监护
+    - 一片一切,不抢着多切
+    - 完成 = 工具收 + 围裙脱
+  failure_mode: |
+    "宝宝太小用刀危险" — 反:钝刀 + 监护 = 安全,蒙氏 100 年实证。
+    假塑料刀 → 宝宝长大不会真技能 → 自我效能差。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Lillard
+  - G-PERSON-Jessen
+  - G-TERM-practical-life
+  - G-TERM-cycle-of-activity
+
+citation:
+  book_title_zh: "蒙台梭利从 0 岁开始"
+  book_title_en: "Montessori from the Start"
+  authors: ["Paula Polk Lillard", "Lynn Lillard Jessen"]
+  authors_zh: ["宝拉·波尔克·莉拉德", "琳·莉拉德·杰森"]
+  publisher_en: "Schocken Books"
+  year_en: 2003
+  isbn_en: "978-0-8052-1112-1"
+  location: "Ch 6 · 'Practical Life' (banana cutting)"
+  source_id: SRC-016
+
+unit_ids: []
+related_cards:
+  - C-S5-133       # Davies 自喂手指食
+  - C-S6-130       # Davies 12-15 月生活技能起步
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

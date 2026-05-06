@@ -1,0 +1,49 @@
+card_id: C-S1-763
+stages: [S1]
+tags: [cleft-lip, cleft-palate, surgery-timing]
+
+front:
+  title: 唇腭裂手术时机
+  hook: 3 月 5kg 后做唇裂
+
+back:
+  why_matters: |
+    松田给硬时机表 — 中国家长易听偏方/急于早做。
+    唇裂:3 月左右 + 体重 > 5 kg 做(术后可几乎不留瘢痕)。
+    唇裂痕红 1 年自然消;4-5 岁可修补;鼻整形 10 岁后(鼻部还在长)。
+    腭裂:1.5-3 岁有争议(早做利吃奶/防发音异常,但伤牙胚)。
+  what_to_do:
+    - 唇裂等 3 月 + 5 kg 才手术
+    - 唇裂痕术后红 1 年别二次手术
+    - 找专门做这种手术的医院
+    - 腭裂宝宝防慢性中耳炎
+    - 1 次手术解决不了,需多次
+  failure_mode: |
+    妈急于"出生立刻手术" → 体重低 + 瘢痕大 + 后续要二次修补。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Matsuda
+
+citation:
+  book_title_zh: "定本《育儿百科》"
+  book_title_jp: "育児の百科(定本)"
+  authors: ["松田道雄"]
+  translators_zh: ["王少丽"]
+  publisher_zh: null
+  year: 1980
+  edition: "定本"
+  location: "第 55 节唇裂与腭裂"
+  source_id: SRC-023
+
+unit_ids: []
+related_cards:
+  - C-S1-612  # 自卷:未成熟儿出院别松懈
+  - C-S1-613  # 自卷:黄疸不消退要警戒
+  - C-S1-061  # AAP 婴儿急性红旗:8 项立刻找医生
+  - C-S1-068  # 鲍秀兰 照料新生儿 4 大禁忌
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

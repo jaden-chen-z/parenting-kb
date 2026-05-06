@@ -1,0 +1,128 @@
+source_id: SRC-018
+title: "婴儿的人际世界:精神分析与发展心理学的视野"
+title_en: "The Interpersonal World of the Infant: A View from Psychoanalysis and Developmental Psychology"
+org: null
+tier: 3
+source_type: book
+url: null
+isbn_en: "978-0-465-09559-9"
+publisher_en: "Basic Books"
+location_en: "New York"
+year_en: 1985
+year_updated: 2000
+accessed: 2026-05-03
+language: en
+notes_path: tier3-books/notes/SRC-018.yaml
+
+authors:
+  - name_en: "Daniel N. Stern"
+    name_zh: "丹尼尔·斯特恩"
+    role: "瑞士裔美国精神分析师 + 发展心理学家 + self 心理学教父"
+    background: "1934-2012,日内瓦大学 / Cornell Med 教授,Brazelton/Bowlby 学术圈核心,世界婴儿心理健康协会(WAIMH)创办人之一,首次系统化 4 阶段自我感理论 + 情感调谐(affective attunement)概念"
+
+# 章节地图(按字节偏移)
+chapter_offsets:
+  front_matter: 0
+  toc_etc: 2371
+  ch1_questions_background: 10953        # Questions and Their Background (4 senses overview)
+  ch2_perspectives_approaches: 34951     # Observed vs Clinical infant + 方法论
+  ch3_emergent_self: 87336                # Sense of Emergent Self(0-2 月)⭐ 首次 self
+  ch4_core_self_vs_other: 167502         # Core Self - 自他区分(2-6 月)⭐
+  ch5_core_self_with_other: 244015       # Core Self - 与他人在一起(2-6 月)RIGs / evoked companion
+  ch6_subjective_self_overview: 301348   # Sense of Subjective Self 总览(7-15 月)
+  ch7_affective_attunement: 333767       # Affective Attunement ⭐⭐⭐ Stern 最强 + 独有
+  ch8_verbal_self: 391150                # Sense of Verbal Self(15+ 月)
+  ch9_observed_infant_clinical: 441809   # 观察到的婴儿 — 临床视角(横跨)
+  ch10_reconstructed_clinical_infant: 554260  # 临床重建的婴儿(深度抽象)
+  ch11_therapeutic_implications: 613134  # 治疗反思过程意涵
+  bibliography: 664037
+  total_chars: 756079
+
+# Stern 4 阶段自我感(全书核心结构)
+core_theory:
+  - emergent_self: "新生自我(0-2 月)— 婴儿出生即开始体验各种交互组织成形,不是没自我而是"正在形成自我""
+  - core_self: "核心自我(2-6 月)— 4 个体验:self-agency(我能做)/ self-coherence(我是连贯的整体)/ self-affectivity(我有自己的感受)/ self-history(我有连续的过去)"
+  - subjective_self: "主观自我(7-15 月)— 发现"我有内心,别人也有,可分享" — Stern 命名 intersubjectivity 共主体性"
+  - verbal_self: "语言自我(15+ 月)— 能用词反映自己 + 也能扭曲自我(语言是双刃)"
+
+# Stern 独有命题(vs Bowlby/Davies/Lillard)
+unique_to_stern:
+  - 4_senses_self_layered: "4 阶段不是 succession 而是 layered — 一旦形成永远活跃,不会被替代"
+  - affective_attunement: "情感调谐 — 父母用不同感官形式(声音节奏 / 动作 / 表情强度)匹配宝宝的内心强度。Stern 独家发现 + 命名"
+  - vitality_affects: "活力情感 — categorical affects(喜怒哀乐)之外的"感觉质地"(澎湃 / 渐弱 / 爆发 / 消退),最早被婴儿感知"
+  - rigs: "RIGs(相互作用的概括表征)— 婴儿把重复的互动经验抽象成"一般预期",是 Bowlby 内部工作模型的具体化"
+  - evoked_companion: "唤起的伙伴 — 婴儿独自时,RIG 自动激活,内化的伙伴陪着,是"自我安抚"的心理基础"
+  - cross_modal_perception: "跨感官感知 — 新生儿天生就能把视觉听觉触觉信息匹配,不需后天学习"
+  - amodal_perception: "无形式感知 — 抽象出强度 / 形态 / 时间结构,从一种感官转到另一种"
+  - intersubjectivity_3_capacities: "共主体性 3 能力 — 共享注意 / 共享意图 / 共享情感(7-9 月起)"
+  - parentese_attunement: "妈语 / 婴儿语 = attunement 工具,不只是简单语言"
+  - language_double_edge: "语言出现后既能反映自我也会扭曲自我 — 词不达意是普遍人类困境"
+  - self_with_self_regulating_other: "自我 + 自我调节他者 — 婴儿在他人帮助下调节自己,内化为自我调节能力"
+
+# 立场对照(Stern vs 现有源)
+controversies:
+  - vs_classical_psychoanalysis:
+      issue: "Mahler 共生 / 分离-个体化理论 — 婴儿初期跟妈妈"融合"再分离"
+      stern_view: "婴儿出生即有 self 感,不存在初期共生融合阶段"
+      strong_position: "Stern 直接挑战 Mahler 经典理论"
+  - vs_freud_oral_anal_phallic:
+      issue: "Freud 性发展阶段(口欲 / 肛欲 / 性器)"
+      stern_view: "Self 4 阶段才是更准确的发展轴"
+      compatible: "不否定 Freud 但替换"
+  - vs_modern_attachment_only:
+      issue: "Bowlby 依恋理论只讲关系不讲 self"
+      stern_view: "Attachment 是 self 的一部分(self with self-regulating other)"
+      complement: "Stern 给 Bowlby 添了 self 心理机制"
+  - vs_montessori_self_construction:
+      issue: "蒙氏 self-formation 是哲学命题,缺乏心理机制"
+      stern_view: "4 senses of self 给蒙氏哲学添了科学心理细节"
+      complement: "蒙氏 + Stern 互补:哲学 + 心理"
+
+# 跨源关联点
+crossreferences:
+  - SRC-011_bowlby:
+      shared: "依恋安全 / 内部工作模型(Stern RIGs 是 Bowlby IWM 的具体化)"
+      complement: "Stern 给 Bowlby 添了 self 维度"
+  - SRC-012_bowlby_v2:
+      shared: "分离反应 / 抗议-绝望-脱离"
+      complement: "Stern 解释为 evoked companion 的失败"
+  - SRC-014_davies_montessori:
+      shared: "self-construction / 出生即有意识"
+      complement: "蒙氏哲学 + Stern 心理机制双轨"
+  - SRC-016_lillard:
+      shared: "Self-formation 4 plane / cycle of activity"
+      complement: "Stern 4 senses self 比 Lillard 4 plane 更细"
+  - SRC-013_wonder_weeks:
+      shared: "心理跃迁 / 7-9 月主观跃迁"
+      complement: "Stern intersubjectivity 解释 WW 第 5 跃迁的本质"
+  - SRC-009_baoxiulan:
+      shared: "母婴情感 / 安全感建立"
+      complement: "Stern attunement 给鲍秀兰本能母爱添了心理机制"
+  - SRC-010_brazelton:
+      shared: "婴儿能力 / 母婴互动观察"
+      complement: "Brazelton 是 Stern 的临床合作者"
+  - SRC-003_karp:
+      shared: "新生儿能力 / 第四产程"
+      complement: "Karp 5S 安抚 = Stern attunement 的前身实操版"
+  - SRC-015_gopnik:
+      shared: "婴儿是科学家 / theory of mind 起源"
+      complement: "Gopnik 认知科学 + Stern 情感心理学"
+
+# 评级标尺(本书)
+evidence_level_calibration:
+  A: "与 Tier 1 共识对齐(罕见,Stern 跟现代神经科学 / Bowlby 一致处)"
+  B: "Stern 引用研究 + 临床观察 + 跨派一致(主体)"
+  C: "Stern 个人精神分析推断(罕见,Stern 严谨)"
+  expected_distribution: "B 占多 — Stern 学术派特征"
+
+# focus_strategy:
+focus_strategy:
+  zh: "聚焦中国家长高频痛点 + Stern 独有维度。深度处理 Ch 3-8(4 senses self + attunement)产 35-45 张卡。Ch 9-11 临床抽象,只产 3-5 张精选(治疗性反思 / 自我组合 / 临床干预案例)。"
+
+referenced_by_units: []
+referenced_by_cards: []  # Phase 7 完成后填充
+
+language: zh
+status: complete
+created: 2026-05-03
+updated: 2026-05-03

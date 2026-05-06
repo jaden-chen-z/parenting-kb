@@ -1,0 +1,81 @@
+card_id: C-S3-807
+stages: [S3]
+tags: [shonkoff, nrc, hubel_wiesel, visual_deprivation, critical_period]
+
+front:
+  title: "斜视错过 = 永久"
+  hook: "学龄前必须矫正完"
+
+back:
+  why_matters: |
+    NRC 综述 Ch 8 引 Hubel-Wiesel 诺奖工作(1981 诺奖)— 视觉皮层关键期:
+    **Hubel-Wiesel 猫实验**:
+    - 小猫 2-3 月剥夺一眼视觉(缝合上)→ 该眼**永久失明**
+    - 即便日后睁眼 → 视觉皮层连接已被裁掉,无法恢复
+    - 这是 **真 critical period** 经典案例
+    **人类对应**:
+    - **斜视**(strabismus)— 一眼肌力不足无法对齐 → 大脑选另一只 → 弱视眼连接萎缩
+    - **白内障**(婴儿先天)→ 同样原理
+    - **必须在学龄前矫正** — 错过永久弱视
+    **NRC 警告**:
+    - 这是**少数真 critical period** 之一
+    - 大部分人类发展是 sensitive 不是 critical(可补)
+    - 但视觉缺陷是真不可逆 — 早查早治
+    **对中国家长**:
+    - 0-2 岁观察:宝宝是否两眼对称 / 总爱看一边 / 经常眯眼
+    - 6 月起一定做眼科筛查
+    - 发现斜视 / 弱视 → 立刻矫正(eye patch / 手术)
+    - 别等"长大自然好" — Hubel-Wiesel 数据明确不可逆
+    - 这是少数 NRC 用强语气说"必须早治"的领域
+  what_to_do:
+    - 6 月起做眼科筛查
+    - 发现斜视立刻治
+    - 别等"长大自然好"
+    - eye patch + 手术早做
+    - 学龄前必须矫正完
+  failure_mode: |
+    "孩子还小斜视等长大" — 错,Hubel-Wiesel 数据明确不可逆。
+    "戴 eye patch 不舒服 — 不戴" — 短痛不戴长痛 — 永久弱视。
+    家庭忽视斜视的代价 = 一生单眼视力。
+  evidence_level: A
+
+  positions:
+    issue: 0-3 岁是真"关键期"(critical)还是"敏感期"(sensitive)
+    views:
+      - school: Shonkoff / NRC
+        source: SRC-025
+        stance: 严格区分 critical(完全错过)vs sensitive(可补)。绝大多数发展是 sensitive 不是 critical,反"3 岁定终身"恐慌。
+      - school: Gopnik
+        source: SRC-015
+        stance: 强调突触修剪 + 关键期窗口(语言 / 视觉 / 知觉重组),认知科学立场偏 critical 端。
+      - school: Lillard(蒙氏)
+        source: SRC-016
+        stance: absorbent mind 强调 0-6 岁是哲学性关键期,但不是临床 critical(可补)。
+      - school: 罗马尼亚孤儿数据
+        stance: 即便严重剥夺,6 月领养仍可大幅恢复 → 实证偏 sensitive 论;支持 NRC 立场。
+      - school: 中国主流
+        stance: 普遍误信 critical 论 — "3 岁定终身" / "0-3 是黄金期错过不能补",制造焦虑。
+glossary_refs:
+  - G-PERSON-Shonkoff
+  - G-TERM-critical-period
+  - G-TERM-experience-expectant
+  - G-TERM-NRC
+
+citation:
+  book_title_en: "From Neurons to Neighborhoods"
+  authors: ["Jack P. Shonkoff", "Deborah A. Phillips"]
+  org: "NRC/IOM"
+  year_en: 2000
+  location: "Ch 8 · Hubel-Wiesel visual deprivation studies"
+  source_id: SRC-025
+
+unit_ids: []
+related_cards:
+  - C-S0-620    # Shonkoff 0-3 sensitive vs critical(本卷)
+  - C-S2-013    # AAP 视觉筛查 SRC-002
+  - C-S3-006    # 鲍秀兰 视觉发育 SRC-009
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Saarni
+type: person
+display_name: "Saarni(卡罗琳·萨尔尼)"
+
+full_name_en: "Carolyn Saarni"
+full_name_zh: "卡罗琳·萨尔尼"
+
+position: |
+  Sonoma State University 心理学教授
+
+contribution: |
+  情绪能力 8 项框架奠基人;情绪发展 + 显示规则
+
+one_liner: |
+  卡罗琳·萨尔尼 — 情绪能力 8 项框架奠基人;情绪发展 + 显示规则
+
+key_facts:
+  - "本卷章节:Ch 5"
+  - "Lerner V3 命中:76 次"
+  - "学派:Lerner V3 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-027
+    chapter: "Ch 5"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,56 @@
+card_id: C-S4-704
+stages: [S4]
+tags: [teething, milestones, matsuda]
+
+front:
+  title: "出牙慢不是缺钙"
+  hook: "1 岁前出齐就行"
+
+back:
+  why_matters: |
+    松田 §217 给"邻居孩子 6 月出牙我家 7 月还没"的妈妈定心丸：
+    1. 出牙快慢由婴儿体质决定 — 不是病;
+    2. 不是维生素 D 缺乏(佝偻病);
+    3. 出牙不引起发热 — "发热看似巧合"是因为同期免疫力下降;
+    4. 顺序一般下两颗门牙先出 — 但有先长侧切牙的、先长上门牙的，
+       都正常，长齐就行;
+    5. 黄褐色牙是孕期吃过四环素 — 别再让孩子吃四环素类;
+    6. 1 岁内还没出牙也别急。
+
+  what_to_do:
+    - 不跟邻居家比出牙时间
+    - 1 岁前出齐就行
+    - 长牙夜啼是正常 — 不归病
+    - 黄褐色牙避免再用四环素类
+    - 不必额外补钙补维生素 D
+
+  failure_mode: |
+    "我家 7 月还没出牙是不是缺钙" → 强补维 D + 钙片 → 没用。
+    "邻居家 5 月出牙我家慢是不是发育迟缓" → 看儿科 + 焦虑 → 8 月就出了。
+    松田立场: 出牙是体质表达，不是育儿方法或营养决定。
+    跟 AAP 出牙里程碑表 + 鲍秀兰 6 月红旗 4 项一致 — 出齐就 OK。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Matsuda
+
+citation:
+  book_title_zh: "定本育儿百科"
+  authors:
+    - 松田道雄
+  publisher_ja: 岩波书店
+  year_first_edition: 1967
+  location: "§217 出牙"
+  source_id: SRC-024
+
+unit_ids: []
+related_cards:
+  - C-S3-024  # 鲍秀兰 6 月红旗 4 项
+  - C-S6-012  # 鲍秀兰 18 月红旗 4 项
+  - C-S0-517  # 松田 不焦虑育儿(同源不和别人比)
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

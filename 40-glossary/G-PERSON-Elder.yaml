@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Elder
+type: person
+display_name: "Elder(格伦·埃尔德)"
+
+full_name_en: "Glen H. Elder Jr."
+full_name_zh: "格伦·埃尔德"
+
+position: |
+  University of North Carolina Carolina Population Center
+
+contribution: |
+  life course theory + linked lives + 5 大原则
+
+one_liner: |
+  格伦·埃尔德 — life course theory + linked lives + 5 大原则
+
+key_facts:
+  - "本卷章节:Ch 12"
+  - "Lerner V1 命中:200+ 次"
+  - "学派:Lerner V1 生命历程派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+    chapter: "Ch 12"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

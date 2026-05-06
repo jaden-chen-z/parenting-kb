@@ -1,0 +1,34 @@
+stage: S1
+total_cards_in_stage: 238
+key_findings:
+  L1_real_dedups:
+    - {topic: Gerber 21/22 双卷 Ch3 同节, cards_pairs: [[C-S1-406, C-S1-556], [C-S1-408, C-S1-557], [C-S1-410, C-S1-559], [C-S1-411, C-S1-558]], action: 4 组合并保 022 卡(英文原版引用更准),减卡 4 张}
+    - {topic: 脐带护理(自然干燥), cards: [C-S1-092, C-S1-2204], keeper: C-S1-092, action: AAP+Heidi 内容 90%+ 重叠}
+    - {topic: 黄疸三类识别+母乳性不必断奶, cards: [C-S1-091, C-S1-2203], keeper: C-S1-091}
+    - {topic: 维生素 D 400IU 母乳娃必补, cards: [C-S1-095, C-S1-2500], keeper: C-S1-2500}
+    - {topic: 母乳按需 8-12 次反对定时, cards: [C-S1-050, C-S1-1005, C-S1-2103], keeper: C-S1-050}
+  L2_实质重复待拍板:
+    - {topic: 回应/抱不会宠坏 (0-3月), cards: [C-S1-007, C-S1-122, C-S1-410, C-S1-559, C-S1-760, C-S1-866, C-S1-1311], keeper: C-S1-007, sources: 7 卡 6 SRC}
+    - {topic: 把新生儿当完整人/动手前先告知, cards: [C-S1-256, C-S1-352, C-S1-406, C-S1-556, C-S1-895], keeper: C-S1-352}
+    - {topic: 30cm 焦距+人脸偏好, cards: [C-S1-184, C-S1-244], keeper: C-S1-244}
+    - {topic: 出生即仰卧/不竖抱, cards: [C-S1-016, C-S1-409, C-S1-896], keeper: C-S1-409, sources: Karp+Gerber+Pikler 三派}
+    - {topic: 奶嘴使用时机 3-4 周后, cards: [C-S1-022, C-S1-051, C-S1-1006], keeper: C-S1-051}
+    - {topic: 尿布换=慢动作仪式, cards: [C-S1-188, C-S1-353, C-S1-406], keeper: C-S1-353}
+  L4_立场对立保留多元:
+    - {topic: 包裹立场对立 Karp pro vs Davies anti, cards: [C-S1-013, C-S1-014, C-S1-187]}
+    - {topic: 共睡立场对立 Karp 10 步 vs AAP 全反, cards: [C-S1-028, C-S1-037]}
+    - {topic: 摇晃安抚 Karp 5S vs Pikler 反机械摇晃, cards: [C-S1-009, C-S1-029, C-S1-899], action: 需新加 mutual_link}
+    - {topic: 夜哭安抚分歧 Pikler/Magda/AAP/NRC 4 立场, cards: [C-S1-046, C-S1-867, C-S1-900], action: 需 mutual_link}
+    - {topic: 新生儿面孔识别 Gopnik 先天 vs Lerner V2 涌现, cards: [C-S1-244, C-S1-1100], action: 需 mutual_link}
+hotspot_findings:
+  hotspot_1_karp_vs_pikler_RIE: 三流派立场对立但实操可中道结合,建议建"Karp/Pikler-RIE/主流医学"三轴对照表
+  hotspot_2_gerber_internal: 4 组 L1 真重复(同书 Ch3 双源记录)— S1 最大 dedup 价值
+  hotspot_3_aap_vs_heidi_clinical: 3 处 L1 真重复(黄疸/脐带/VD),Heidi 独家补充 ~14 张(包皮/囟门/奶瓶/双胞胎/急救等)无 dedup
+  hotspot_4_bowlby_x_stern: L3 互补,已 cross-link
+  hotspot_5_brazelton_pikler_gerber_psych: L3 互补保持
+notes: |
+  S1 共 238 卡(题述 ~182 偏低,因 Phase 13 WHO+UNICEF + 海蒂 + Lerner V2/V3/V4 扩张)。
+  最大发现:Gerber SRC-021/022 是同一作者《Your Self-Confident Baby》双源记录(中译本+英文原版),Ch3 同节 4 组 L1 真重复,可减卡 4 张。
+  跨源真 L1 重复 4 组(Gerber 内 + AAP-Heidi 临床 3 组)— 减卡 7-8 张总计。
+  跨源 L2 实质重复 6 组建议保留 + cross-link(待用户拍板)。
+  立场对立 L4 mutual_link 5 对(包裹/共睡/摇晃/夜哭/面孔识别)— 已知分歧需明确标"立场对立"。

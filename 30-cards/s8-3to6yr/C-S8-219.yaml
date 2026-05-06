@@ -1,0 +1,65 @@
+card_id: C-S8-219
+stages: [S8]
+tags: [shonkoff, nrc, paternal_unemployment, family_dynamics, china_high_freq]
+
+front:
+  title: "爸爸失业更伤娃"
+  hook: "失业 = 家庭张力源"
+
+back:
+  why_matters: |
+    NRC 综述 Ch 10 给"父亲失业 vs 母亲就业"对孩子影响**完全不同**:
+    **NRC 综述对比**:
+    - **母亲就业**:多数中性 / 略正(尤其低收入家庭)
+    - **父亲失业**:**普遍负面** — 通过家庭张力 / 父母关系 / 育儿质量传递
+    **机制**(Conger-Elder 1994):
+    1. 父亲失业 → 财务压力升 → 父母张力
+    2. 父母张力升 → 育儿:温暖少 / 严厉多
+    3. 育儿质量降 → 孩子情感 + 行为问题升
+    4. 长期:孩子受教育 + 心理健康受损
+    **关键校准 — 跟传统观念冲突**:
+    - 传统观念:"妈妈带娃为正" → NRC 反:质量决定
+    - 传统观念:"爸爸赚钱顾家" → NRC 半接受 — 但**工作仅有效若家庭张力低**
+    - 传统观念:"妈妈失业是小事" → NRC 反:任何主要照护人精神状态都重要
+    **对中国家长**:
+    - 中国传统"男主外女主内" → 跟 NRC 部分一致(爸爸经济责任)+ 部分对立(妈妈唯一照护人)
+    - **爸爸失业** → 必须**特别关注**家庭氛围 + 育儿质量 + 父母关系
+    - 别"失业了就怕孩子知道" → 透明 + 共同应对反而更好
+    - **爸爸长期失业 + 妈妈承压** → 高风险家庭 — 寻求支持
+    - **失业不羞耻** — 关键是处理方式
+  what_to_do:
+    - 爸爸失业别瞒娃
+    - 透明应对家庭压力
+    - 警觉家庭张力升
+    - 寻求外部支持
+    - 失业不羞耻
+  failure_mode: |
+    "爸爸失业别让娃知道" — 错,孩子能感知 + 不解释更焦虑。
+    "失业是男人面子事 — 自己解决" — 不寻求帮助 → 张力累积 → 育儿质量降。
+    "妈妈来兼挑就行" — 妈妈过度承压也降育儿质量 — 双方都伤。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Shonkoff
+  - G-TERM-NRC
+  - G-TERM-cortisol
+
+citation:
+  book_title_en: "From Neurons to Neighborhoods"
+  authors: ["Jack P. Shonkoff", "Deborah A. Phillips"]
+  org: "NRC/IOM"
+  year_en: 2000
+  location: "Ch 10 · Paternal unemployment + family dynamics"
+  source_id: SRC-025
+
+unit_ids: []
+related_cards:
+  - C-S8-211    # Shonkoff 贫困应激(本卷)
+  - C-S2-806    # Shonkoff 妈妈抑郁(本卷)
+  - C-S7-865    # Shonkoff 爸爸跟妈一样(本卷)
+  - C-S0-517    # 松田 §21 父亲作用 SRC-024
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

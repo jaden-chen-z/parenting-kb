@@ -1,0 +1,43 @@
+card_id: C-S1-2217
+stages: [S1]
+tags: [safety, feeding]
+front:
+  title: 奶瓶喂奶 5 不要
+  hook: 不托瓶不躺喂
+back:
+  why_matters: |
+    奶瓶喂养看似简单,但有几个常见做法会出大问题 — 海蒂列 5 不要。
+    1)不托着奶瓶让宝宝自己吃(窒息风险 + 失去亲密 + 中耳炎风险升高);
+    2)不让宝宝躺着含瓶睡(吸入性肺炎 + 龋齿 — 长牙后特别);
+    3)不强迫吃完瓶子(宝宝知道饱;过喂 = 长大胖);
+    4)不冲完就用 — 检查流速;
+    5)不忽略空气 — 奶瓶向上倾斜让奶充满奶嘴。
+    与亲喂的最大差别:人为创造亲密 — 解开衣服肌肤接触、交换臂膀、目光交流。
+  what_to_do:
+    - 永远抱着喂不托瓶
+    - 不躺着喂不含瓶睡
+    - 让宝宝决定停止不强逼吃完
+    - 喂前检查奶嘴流速
+    - 创造亲密 — 肌肤接触+目光
+  failure_mode: |
+    托瓶让宝宝自己吃 → 窒息或中耳炎或龋齿。
+    强迫吃完 → 长大胖墩 + 破坏自我饱食感。
+  evidence_level: B
+glossary_refs: []
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors: ["Heidi Murkoff", "Sharon Mazel"]
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh: ["莫夏迪","张敏"]
+  location: "第 4 章新生儿 · 用奶瓶喂奶 5 不要, 页 109-112"
+  source_id: SRC-040
+related_cards: []
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

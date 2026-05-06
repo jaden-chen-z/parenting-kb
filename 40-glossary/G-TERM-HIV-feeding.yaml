@@ -1,0 +1,52 @@
+glossary_id: G-TERM-HIV-feeding
+type: term
+display_name: "HIV+ 妈妈喂养"
+
+en_term: "HIV and Infant Feeding Guidelines (WHO 2010)"
+zh_term: "HIV 母乳喂养指南"
+
+one_liner: |
+  WHO 2010 ART 时代修订 — 从'HIV+ 避免母乳'转到'AFASS 评估决定'。
+
+detail: |
+  ## WHO 2010 立场转变
+  verbatim:'If replacement feeding is acceptable, feasible, affordable and safe (AFASS), HIV-infected mothers are recommended to use replacement feeding. Otherwise, exclusive breastfeeding is recommended.'
+  
+  ## ART 时代关键改变
+  - 2003 旧立场:HIV+ 妈妈尽量避免母乳
+  - 2010 新立场:
+    ① AFASS 满足 → 用配方
+    ② AFASS 不全 → EBF + 妈妈 ART
+  
+  ## MTCT 风险数据
+  - 不 ART:bottle-fed 19% MTCT vs breastfed 49%
+  - 高资源区(美/欧):MTCT 几乎消除
+  - 低资源区(撒哈拉):EBF + ART 推荐
+  
+  ## 关键
+  不要混合喂养(母乳+配方)— 比纯一种风险更高。
+  
+  ## 中国 PMTCT
+  中国 PMTCT 指南推荐配方(AFASS 满足)+ 个案评估。
+
+key_facts:
+  - "WHO 2010 ART 时代修订"
+  - "AFASS 5 条件"
+  - "不混合喂养"
+  - "高资源 MTCT 几乎消除"
+
+related_glossary:
+  - G-TERM-AFASS
+  - G-ABBR-EBF
+  - G-TERM-mixed-feeding
+
+related_cards:
+  - C-S1-1013
+
+sources:
+  - source_id: SRC-031
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

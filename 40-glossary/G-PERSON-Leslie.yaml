@@ -1,0 +1,60 @@
+glossary_id: G-PERSON-Leslie
+type: person
+display_name: Leslie
+
+full_name_en: Alan M. Leslie
+full_name_zh: 艾伦·M·莱斯利
+
+one_liner: |
+  美国认知心理学家(罗格斯大学教授),ToMM(心智理论模块)理论奠基人。
+  1987 元表征 + 假装游戏研究,自闭症 ToM 缺损派代表。
+
+detail: |
+  ## 个人背景
+  - 牛津大学博士
+  - 罗格斯大学心理学教授
+  - 美国艺术与科学院院士
+
+  ## 核心理论:ToMM(Theory of Mind Module)
+  - 18 月起 ToMM 模块启动
+  - 假装需要元表征(metarepresentation)
+  - 同时表征"现实"和"假装"两层
+  - 自闭症 = ToMM 缺损
+
+  ## 经典研究
+  - Leslie 1987 假装游戏 + ToMM 论文
+  - Baron-Cohen/Leslie/Frith 1985 自闭症 Sally-Anne 研究
+
+  ## 立场
+  - 强先天模块派
+  - 反 Karmiloff-Smith 渐进派
+  - 自闭症 ToM 模块缺损派代表
+
+  ## 在本知识库中
+  - SRC-028 Lerner V2 Ch19 引用经典(68 hits)
+  - C-S6-1171 Leslie ToMM 18 月假装起步
+  - C-S8-428 自闭症 ToM 延迟
+
+key_facts:
+  - 罗格斯大学心理学教授
+  - ToMM 模块理论奠基
+  - 1985 自闭症 Sally-Anne 实验(三作者)
+  - 强先天模块派代表
+  - 美国艺术与科学院院士
+
+related_glossary:
+  - G-PERSON-Wellman
+  - G-TERM-theory-of-mind
+
+related_cards:
+  - C-S6-1171
+  - C-S8-428
+
+sources:
+  - source_id: SRC-028
+  - external: Leslie 1987 / Baron-Cohen/Leslie/Frith 1985 / Wikipedia Alan Leslie
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,1272 @@
+## Phase 14 · Part 6 (海蒂 SRC-040) · 卡片包(待写入 30-cards/)
+##
+## 由于本 session 沙箱不允许写入 30-cards/ 目录,卡片在此交付 — 25 张
+## 编排者 / 父任务请按 ID 拆到对应 30-cards/sX-XXX/C-SX-NNNN.yaml
+##
+## 段分布:S1 = 6 张(2302-2307)/ S2 = 4 张(2105-2108)/
+##         S3 = 5 张(2346-2350)/ S4 = 5 张(2244-2248)/ S5 = 5 张(2243-2247)
+## 共 25 张
+
+---
+# ═══════════════ S1(0-1 月)6 张 ═══════════════
+card_id: C-S1-2302
+stages: [S1]
+tags: [safety, red_flag]
+
+front:
+  title: 1 岁内噎食:5 拍背 + 5 胸压
+  hook: 头朝下,拳头不上腹
+
+back:
+  why_matters: |
+    噎食(choking)= 食物或异物堵住气道。1 岁以下不能用大人海姆立克(腹冲)
+    — 婴儿肝脾大且不固定,腹冲会致内伤。海蒂"5+5"循环是 AHA 标准婴儿急救。
+    判断窒息红线:宝宝**咳不出声、喘鸣高亢、嘴唇/脸发青** → 立刻动手。
+    只是用力咳嗽且能哭出声 → 不要打,自己排出概率高,2-3 分钟仍卡才打 120。
+  what_to_do:
+    - 跨在你前臂,**头低于身体 60°**,下巴托住
+    - 掌根**连续拍后背肩胛之间 5 次**(向上斜推力)
+    - 翻身仰躺(头仍低),两乳头连线下方一指,**两指按胸 5 次**(深 1.3 cm)
+    - 看口腔有无异物 — 看到才抠,**看不见绝不盲扫**(会推得更深)
+    - 仍不通 → **重复 5+5 循环**,同时请人打 120;独自先做 1 分钟再打
+  failure_mode: |
+    1 岁内做大人海姆立克(双手压腹)→ 肝脾撕裂大出血。
+    盲扫口腔 → 把异物推进气道。
+    只咳就立刻动手 → 干扰自然咳出反而恶化。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-AAP
+
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1 岁"
+  authors: [Heidi Murkoff, Sharon Mazel]
+  publisher_en: Workman Publishing
+  publisher_zh: 南海出版公司(中译)
+  year: 1989
+  edition: 3rd (2014)
+  location: "第 19 章《急救常识》'宝宝窒息时 / 1 岁以下的宝宝',587-589 页中译"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards: [C-S3-004, C-S1-2303, C-S1-061]
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04
+
+---
+card_id: C-S1-2303
+stages: [S1]
+tags: [safety, red_flag]
+
+front:
+  title: 婴儿 CPR:30 压 2 吹 100 次/分
+  hook: 用 2-3 指,不用掌根
+
+back:
+  why_matters: |
+    心肺复苏(CPR)= 心跳/呼吸停止时,人工呼吸 + 胸部按压维持血氧到救援到达。
+    1 岁以下与成人差异:**用 2-3 指按压**(不是掌根),按压深度仅 1.3-2.5 cm,
+    呼吸时**口对口鼻一起密封**(婴儿嘴小)。海蒂强调:**先做 1 分钟再打 120**,
+    再继续 — 缺氧 4 分钟脑损伤,救援平均 8-10 分钟到。会做 vs 不会做 = 生死。
+  what_to_do:
+    - 拍脚底 + 喊名字判意识;无反应 → 仰放硬平面,头与心脏齐平
+    - 仰头抬下巴**开气道**,**看 / 听 / 感觉 3-5 秒**有无呼吸
+    - 无呼吸 → **缓慢 2 次人工呼吸**(口盖鼻+嘴,1-1.5 秒/次,见胸起伏)
+    - 检查生命迹象;无 → 两乳连线下一指,**2-3 指按 5 次/约 1.3-2.5 cm 深**
+    - **5 压 1 吹循环**,频率 100 次/分,1 分钟后打 120,继续到救援到
+  failure_mode: |
+    用掌根按婴儿胸 → 肋骨断、内脏伤。
+    吹气太猛 → 空气进胃 → 呕吐 → 误吸入肺。
+    "等救护车来再做" → 4 分钟脑损伤,等不起。
+    怀疑颈椎伤却乱翻身 → 截瘫(用双手托颌法开气道)。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-AAP
+
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1 岁"
+  authors: [Heidi Murkoff, Sharon Mazel]
+  publisher_en: Workman Publishing
+  publisher_zh: 南海出版公司(中译)
+  year: 1989
+  edition: 3rd (2014)
+  location: "第 19 章《急救常识》'心肺复苏术 + 1-2-3 步检查 + A-B-C 步骤',590-596 页中译"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards: [C-S1-2302, C-S1-061, C-S1-2308]
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04
+
+---
+card_id: C-S1-2304
+stages: [S1]
+tags: [safety, red_flag]
+
+front:
+  title: 烫伤先冷水 30 分,别用冰
+  hook: 1 岁内任何烫伤都打电话
+
+back:
+  why_matters: |
+    烫伤(烧伤)在婴儿期是家居最高频伤之一(热饮、洗澡水、电器)。
+    海蒂铁律:**冷水冲 / 浸 30 分钟 → 不粘绷带松裹 → 1 岁内任何烫伤打医生**。
+    错误操作会**加深烫伤等级**:冰致冻伤,黄油/牙膏闷热,挑水泡感染。
+    手 / 脸 / 脚 / 生殖器 / 大面积(> 25% 体表)→ 直接急诊,不在家处理。
+  what_to_do:
+    - 立刻用**冷水(10-15℃)冲或浸 30 分钟**直到痛感缓解
+    - 衣物:**未粘的脱掉,粘住的不撕**(剪开周围)
+    - **不挑水泡**,不涂黄油 / 牙膏 / 烧伤膏 / 凡士林
+    - 用不粘绷带或干净布**轻覆**(铝箔应急也行)
+    - 1 岁内任何烫伤 → 打医生;脸/手/脚/生殖器/大面积 → 急诊
+  failure_mode: |
+    冰块直接敷 → 冻伤叠加烫伤。
+    挑破水泡 → 失去天然保护层,感染。
+    涂黄油/牙膏 → 闷热 + 脏污,加深创面。
+    化学品烫伤先冲水之前不脱衣 → 残液继续烧。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-AAP
+
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1 岁"
+  authors: [Heidi Murkoff, Sharon Mazel]
+  publisher_en: Workman Publishing
+  publisher_zh: 南海出版公司(中译)
+  year: 1989
+  edition: 3rd (2014)
+  location: "第 19 章《急救常识》'烧伤和烫伤 11-15',573-574 页中译"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards: [C-S1-058, C-S1-2308]
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04
+
+---
+card_id: C-S1-2305
+stages: [S1]
+tags: [safety, red_flag]
+
+front:
+  title: 撞头后观察 6 小时,12 红旗送医
+  hook: 摔与身高相当 = 警戒
+
+back:
+  why_matters: |
+    1 岁内"小撞头"几乎人人遇上;但**与身高相当或更高**摔下、撞**头侧**伤害最重。
+    海蒂规定:**撞后认真观察 6 小时**,小睡每 1-2 小时叫醒一次,夜间每 2-3 小时一次。
+    出现下列**12 红旗任 1 项立刻打 120 / 急诊**;反之安抚 + 观察。
+    家长意义:不是所有撞头都急诊 — 但有红旗就一秒不能拖,中间灰色地带最易误判。
+  what_to_do:
+    - 观察 6 小时,睡眠中每 1-3 小时**确认能叫醒**
+    - 红旗:失意识 / 惊厥 / 难唤醒 / 呕吐≥2 次
+    - 颅骨凹陷 / 鼻耳出血或流清液 / 眼周或耳后乌青
+    - 瞳孔不等大或对光不收缩 / 异常苍白持久 / 平衡丧失头晕>1h
+    - 行为反常(混乱 / 不认人 / 极笨拙)/ 疼痛>1h 妨碍睡眠
+  failure_mode: |
+    "撞完哭一会就好"放心睡觉 → 错过迟发硬膜下出血(2-6 h 高峰)。
+    叫不醒以为"睡得香" → 已昏迷。
+    瞳孔不等大被忽略 → 颅内压升高未减压 → 脑疝。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-AAP
+
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1 岁"
+  authors: [Heidi Murkoff, Sharon Mazel]
+  publisher_en: Workman Publishing
+  publisher_zh: 南海出版公司(中译)
+  year: 1989
+  edition: 3rd (2014)
+  location: "第 19 章《急救常识》'头部受到的伤害 32-33',579-580 页中译,12 红旗清单"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards: [C-S1-057, C-S1-061]
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04
+
+---
+card_id: C-S1-2306
+stages: [S1]
+tags: [safety, red_flag]
+
+front:
+  title: 中毒:别催吐,先打中毒中心
+  hook: 带瓶子 / 标签 / 残留去医院
+
+back:
+  why_matters: |
+    宝宝爱嚼任何东西 — 药品 / 清洁剂 / 化妆品 / 植物叶片都可能中毒。
+    海蒂铁律:**不要自行催吐(不用吐根糖浆 / 活性炭),先拨毒物控制中心**
+    — 错误处理弊大于利(腐蚀剂吐回程二次烧伤食道)。
+    无症状也要打 — 症状可能数小时后才出现(对乙酰氨基酚就是典型迟发性肝损)。
+    紫外线:中毒中心 24 小时,医生不能立刻接通时直接打。
+  what_to_do:
+    - **立刻打毒物控制中心**(美 1-800-222-1222 / 中国各地不同)
+    - 带**容器 + 完整标签 + 残留物**到电话旁
+    - 报告:物名 / 估计摄入量 / 宝宝年龄+体重+症状
+    - **不催吐**,无医嘱不喂水 / 牛奶 / 活性炭
+    - 失去意识或停止呼吸 → 打 120 + 立刻 CPR(C-S1-2303)
+  failure_mode: |
+    用吐根糖浆催吐 → 二次损伤(腐蚀剂)+ 误吸入肺。
+    "看起来没事就不打" → 错过对乙酰氨基酚 / 铁中毒迟发期。
+    把容器扔掉再去医院 → 医生不知是什么物质,延误用药。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-AAP
+
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1 岁"
+  authors: [Heidi Murkoff, Sharon Mazel]
+  publisher_en: Workman Publishing
+  publisher_zh: 南海出版公司(中译)
+  year: 1989
+  edition: 3rd (2014)
+  location: "第 19 章《急救常识》'中毒 42-43',582-583 页中译"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards: [C-S1-059, C-S1-2308]
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04
+
+---
+card_id: C-S1-2307
+stages: [S1]
+tags: [safety, red_flag]
+
+front:
+  title: 家庭急救包 + 急救电话墙贴
+  hook: 紧急时手抖找不到信息
+
+back:
+  why_matters: |
+    海蒂数据:**急救成败差距常在前 5 分钟** — 拿绷带翻 5 分钟、找医生电话翻 3 分钟,
+    都是宝贵窗口。预先做"信息工程":急救包定点 + 电话清单上墙 + 路线图熟。
+    紧急时父母手抖、心慌、记忆短路 — 此时必须靠**纸质流程 + 物理位置**而非记忆。
+    家长意义:不是"知道",是"能在 30 秒内做到"。
+  what_to_do:
+    - 急救包(便携小袋):创可贴/无菌纱布/不粘绷带/温度计/凡士林/对乙酰氨基酚/吸鼻器/小镊子
+    - 墙贴电话:儿科医生 / 毒物中心 / 最近急诊 / 药店 / 邻居 / 120
+    - 同款卡片放尿布包 + 司机存手机
+    - 提前**实地走 1 次**到急诊室路线
+    - 学**婴儿 CPR + 噎食急救课**(红十字会 / 当地医院)
+  failure_mode: |
+    "我手机存了号码就行" — 没电 / 找不到 / 手抖,统统失效。
+    急救包散落各处 → 紧急时少一样是一样。
+    课不学只看视频 → 真实姿势手感差很远,关键时打不出深度。
+  evidence_level: B
+
+glossary_refs:
+  - G-ABBR-AAP
+
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1 岁"
+  authors: [Heidi Murkoff, Sharon Mazel]
+  publisher_en: Workman Publishing
+  publisher_zh: 南海出版公司(中译)
+  year: 1989
+  edition: 3rd (2014)
+  location: "第 19 章《急救常识》'做好准备',574 页中译"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards: [C-S1-2302, C-S1-2303, C-S1-2306]
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04
+
+---
+# ═══════════════ S2(1-3 月)4 张 ═══════════════
+card_id: C-S2-2105
+stages: [S2]
+tags: [safety, red_flag]
+
+front:
+  title: 2-6 月发烧:38°C 找医生
+  hook: 直肠测最准,别用耳温
+
+back:
+  why_matters: |
+    2-3 月免疫弱,任何发烧可能是脓毒症 / 脑膜炎信号。海蒂月龄阈值:
+    **< 3 月 ≥ 38°C 立刻找医生 / 3-6 月 ≥ 38.3°C 通知医生 / 6 月+ ≥ 39.4°C 通知**。
+    任何月龄反复 ≥ 40°C 找医生。**测温首选直肠(对 < 6 月最准)**,
+    耳温计不准 < 6 月(耳道太小 + 耳垢干扰),海蒂建议至少满 1 岁后用。
+  what_to_do:
+    - **< 3 月任何 ≥ 38°C → 立刻找医生**(午夜也打)
+    - 3-6 月:≥ 38.3°C / 101°F → 通知医生
+    - 6 月+:≥ 39.4°C / 103°F → 通知医生
+    - 直肠测温:凡士林润滑探头,趴大腿,**不强行用力**
+    - **绝不用阿司匹林**(Reye 综合征致死);6 月内只用对乙酰氨基酚
+  failure_mode: |
+    2 月低烧 38.5°C 在家观察 → 错过脓毒症 / 脑膜炎黄金时间。
+    给阿司匹林退烧 → Reye 综合征致死。
+    用耳温计测 2 月宝宝以为正常 → 实际已高烧。
+    强行直肠测温激烈反抗 → 戳伤直肠。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-AAP
+
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1 岁"
+  authors: [Heidi Murkoff, Sharon Mazel]
+  publisher_en: Workman Publishing
+  publisher_zh: 南海出版公司(中译)
+  year: 1989
+  edition: 3rd (2014)
+  location: "第 18 章《宝宝生病》'判定发烧 + 应对发烧',561-568 页中译"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards: [C-S1-060, C-S1-062]
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04
+
+---
+card_id: C-S2-2106
+stages: [S2]
+tags: [safety]
+
+front:
+  title: 退烧三步:轻穿+多水+用药
+  hook: 别盖被发汗,会中暑
+
+back:
+  why_matters: |
+    海蒂强调:**不要盖被发汗 / 不要穿厚 / 不要捂房间** — 会让体温升到危险度引中暑。
+    正确顺序:**降室温 + 轻穿 → 多喝液体 → 必要时退烧药 → 温水擦拭(可选)**。
+    海绵擦拭只用**温水**(不是冰水 / 酒精) — 冷水致颤抖反升温,酒精挥发危险。
+    擦拭至少 20-30 分钟才有效;若宝宝抗拒不用强迫,药物为主。
+  what_to_do:
+    - 室温保持 20-21°C(用空调 / 风扇但**不直吹**)
+    - 轻穿(夏天只尿布),多喂母乳 / 配方奶 / 水
+    - 2-6 月直肠 ≥ 38°C / 6 月+ ≥ 39.2°C 才考虑用对乙酰氨基酚或布洛芬
+    - 6 月内只用对乙酰氨基酚;6 月+ 两药可选,不交替用
+    - 温水擦拭:水温≈体温,擦颈/腋下/腹股沟,持续 20-30 分钟
+  failure_mode: |
+    "盖被发汗"老办法 → 体温升到 41°C 中暑性高烧。
+    冰水或酒精擦拭 → 颤抖反升温 + 酒精吸入致危。
+    频繁交替对乙酰氨基酚和布洛芬 → 长期肾损。
+    给 6 月内宝宝吃布洛芬 → 海蒂禁用(脱水/呕吐时也禁)。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-AAP
+
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1 岁"
+  authors: [Heidi Murkoff, Sharon Mazel]
+  publisher_en: Workman Publishing
+  publisher_zh: 南海出版公司(中译)
+  year: 1989
+  edition: 3rd (2014)
+  location: "第 18 章《宝宝生病》'应对发烧 + 对乙酰氨基酚或布洛芬',565-568 页中译"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards: [C-S2-2105, C-S1-060]
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04
+
+---
+card_id: C-S2-2107
+stages: [S2]
+tags: [safety]
+
+front:
+  title: 发热性痉挛:侧躺+不喂+计时
+  hook: 嘴里别塞东西 5 分钟打 120
+
+back:
+  why_matters: |
+    发热性痉挛(febrile seizure)= 高热引发的全身抽搐,**6 月-5 岁**最常见。
+    海蒂事实:**短时(1-2 分钟)发热痉挛不危险**,不会留神经损伤,30-40% 复发率
+    且退烧药也无法预防(因为痉挛在病初未治时已发生)。
+    家长致命错误:**塞东西到嘴里**(怕咬舌头)→ 反致窒息。第一次发作必须就医。
+  what_to_do:
+    - 让宝宝**侧身躺**在柔软表面,头略低
+    - **绝不往嘴里塞任何东西**(手指/勺/奶嘴/乳头)
+    - 计时;**超过 5 分钟立刻打 120**
+    - 痉挛时不要哺乳 / 喂水 / 强行约束身体
+    - 痉挛后通常昏睡 — 让其睡,通知医生
+  failure_mode: |
+    塞勺 / 手指防咬舌 → 牙崩 / 窒息(舌不会被咬掉,这是误传)。
+    把宝宝放浴缸降温 → 第二次痉挛可能溺水。
+    第一次发作不就医 → 错过发现脑膜炎或其他严重病因。
+    长期吃退烧药防痉挛 → 无效且伤肝肾。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-AAP
+
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1 岁"
+  authors: [Heidi Murkoff, Sharon Mazel]
+  publisher_en: Workman Publishing
+  publisher_zh: 南海出版公司(中译)
+  year: 1989
+  edition: 3rd (2014)
+  location: "第 18 章《宝宝生病》'应对发热性痉挛',564-565 页中译"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards: [C-S2-2105, C-S1-060]
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04
+
+---
+card_id: C-S2-2108
+stages: [S2]
+tags: [safety, red_flag]
+
+front:
+  title: 感冒红旗 6 项:何时找医生
+  hook: < 3 月初次感冒 = 直接打
+
+back:
+  why_matters: |
+    宝宝免疫还在搭建,1 年感冒 6-8 次正常,大多数不用医生。
+    但海蒂列**6 大红旗任 1 → 通知医生**:< 3 月初次感冒、突涨体温 / > 2 天烧、
+    干咳 > 2 周、稠黄绿涕 > 1 天、哭明显增多、完全不吃。
+    频繁感冒**反而有益**(免疫训练,日托宝宝上学后反而少病)— 别恐慌。
+    抗生素不治感冒(病毒病),**只在继发细菌感染时用**。
+  what_to_do:
+    - **< 3 月任何感冒** → 通知医生(免疫弱)
+    - 烧 ≥ 38°C 持续 > 2 天 / 突然反弹升温 → 通知
+    - 干咳 > 2 周影响睡 / 引起呕吐 / 呼吸困难 → 通知
+    - 稠黄绿涕 > 1 天 / 涕带血 → 通知
+    - 居家:加湿空气 / 多喝水 / 抬高头睡 / 凡士林涂鼻周
+  failure_mode: |
+    自己买减充血滴鼻剂连用 > 3 天 → 反弹性鼻塞更糟。
+    要求医生开抗生素治普通感冒 → 滥用 → 耐药性。
+    6 月内宝宝吃止咳药 → 海蒂明禁(无证据有效且有害)。
+    给婴儿吃蜂蜜止咳 → 1 岁内严禁(肉毒杆菌)。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-AAP
+
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1 岁"
+  authors: [Heidi Murkoff, Sharon Mazel]
+  publisher_en: Workman Publishing
+  publisher_zh: 南海出版公司(中译)
+  year: 1989
+  edition: 3rd (2014)
+  location: "第 18 章《宝宝生病》'感冒 / 什么时候通知医生',541-547 页中译"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards: [C-S1-060, C-S2-2105]
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04
+
+---
+# ═══════════════ S3(3-6 月)5 张 ═══════════════
+card_id: C-S3-2346
+stages: [S3]
+tags: [safety, red_flag]
+
+front:
+  title: 婴儿脱水 6 信号:1 项就医
+  hook: 婴儿脱水快,几小时就危险
+
+back:
+  why_matters: |
+    脱水(dehydration)= 体液流失超过摄入,婴儿**几小时就可严重**(体水比例高 + 储备少)。
+    腹泻 + 呕吐是最常见诱因。海蒂列**6 红旗**,任 1 → 立刻通知医生:
+    尿量明显减(尿布不像往常湿)/ 尿色深 / **无泪 + 眼眶凹陷**(经典)/
+    囟门凹陷(zea)/ 皮肤干燥 / 唾液不足。脱水严重需住院静脉补液,延误致休克。
+  what_to_do:
+    - 24 h 内**密切监尿布数**(婴儿 < 6 / 24h 警戒)
+    - 哭无泪 + 嘴唇干裂 + 囟门凹 → 立刻打医生
+    - **每 2-3 分钟一勺**口服补液(不灌大口刺激呕吐)
+    - **绝不**给可乐 / 稀果汁 / 运动饮料 / 自制咸甜水(渗透压乱)
+    - 母乳宝宝:继续频繁哺乳;配方奶宝宝:必要时换无乳糖配方
+  failure_mode: |
+    "宝宝不哭就是缓解了" — 实际是脱水 → 无泪可哭。
+    用运动饮料"补水" → 高糖加重腹泻 + 钠失衡。
+    "等明天看医生" → 婴儿脱水 6-12 h 可休克。
+    强灌水 → 呕吐恶化 → 加速脱水。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-AAP
+
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1 岁"
+  authors: [Heidi Murkoff, Sharon Mazel]
+  publisher_en: Workman Publishing
+  publisher_zh: 南海出版公司(中译)
+  year: 1989
+  edition: 3rd (2014)
+  location: "第 18 章《宝宝生病》'腹泻 / 脱水信号',548-549 页中译"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards: [C-S1-061, C-S3-2347]
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04
+
+---
+card_id: C-S3-2347
+stages: [S3]
+tags: [safety]
+
+front:
+  title: 腹泻喂养:继续奶+少量勤补
+  hook: 别禁食,越早吃越快好
+
+back:
+  why_matters: |
+    旧观念"腹泻禁食 24 h" 已被海蒂否定 — 研究表明**继续吃固体食物的宝宝腹泻更快好**,
+    脂肪 + 膳食纤维(燕麦 / 酸奶 / 鸡肉)反帮恢复。母乳更要继续喂(防腹泻特殊成分)。
+    呕吐持续时**先液体后固体**;每 2-3 分钟一小勺,一次别超 1-2 勺。
+    水果 / 蔬菜短期暂停(除香蕉);白葡萄汁好于苹果汁(无山梨醇)。
+  what_to_do:
+    - 继续母乳 / 配方奶 — **不停哺乳是核心原则**
+    - 已加固食的宝宝继续吃,**优先燕麦 / 酸奶 / 鸡肉 / 香蕉**
+    - 每小时**至少 56g 液体**(口服补液 / 母乳 / 配方奶)
+    - 呕吐时一次 1-2 勺(更小宝宝更少),停吐恢复正常吃
+    - 暂停乳制品 1-2 天(母乳/配方奶不算)+ 暂停果汁蔬菜(香蕉除外)
+  failure_mode: |
+    腹泻 24 h 禁食 → 营养不良 + 腹泻反更长。
+    给止泻药(婴儿) → 海蒂明禁,部分对宝宝有害。
+    腹泻给苹果汁"补水" → 山梨醇 + 高果糖恶化腹泻。
+    脏尿布换得不勤 → 红屁股 + 二次感染。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-AAP
+
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1 岁"
+  authors: [Heidi Murkoff, Sharon Mazel]
+  publisher_en: Workman Publishing
+  publisher_zh: 南海出版公司(中译)
+  year: 1989
+  edition: 3rd (2014)
+  location: "第 18 章《宝宝生病》'腹泻饮食处理',548-549 页中译"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards: [C-S3-2346, C-S2-2105]
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04
+
+---
+card_id: C-S3-2348
+stages: [S3]
+tags: [safety, red_flag]
+
+front:
+  title: 中耳炎红旗:疼痛 +2 天不消
+  hook: 别自治,80% 4-7 天自愈
+
+back:
+  why_matters: |
+    急性中耳炎(AOM)1 岁内常见,因婴儿**耳咽管短 + 水平 + 排水差**。
+    海蒂证据:**80% 不复杂中耳炎 4-7 天自愈,无需抗生素** — 美国儿科趋势是"小心观察"
+    而非自动开药。但需要医生区分是否复杂 / 鼓膜状态。
+    **疼痛 + 发烧 + 拉揉耳朵** 经典三联,2 天不缓解或恶化 → 必须就医。
+    预防:母乳 6 月 + 仰躺哺乳别 + 二手烟禁 + 倾斜奶瓶。
+  what_to_do:
+    - **疼痛持续 + 发烧 + 拉/揉耳朵** → 通知医生
+    - 2 天不缓解或加重 → 复诊评估抗生素
+    - 居家:**对乙酰氨基酚或布洛芬**止痛,温热水袋低温敷
+    - 抗生素一旦开 5-10 天**全程吃完**(防耐药)
+    - 预防:母乳至少 6 月,**禁躺着喂**,生活区禁烟
+  failure_mode: |
+    自买滴耳液 / 抗生素 → 选错药 + 鼓膜穿孔时禁某些液。
+    一发烧就要求开抗生素 → 80% 自愈,滥用反耐药。
+    抗生素开 5 天只吃 3 天就停 → 复发 + 耐药。
+    琥珀牙链止痛 → 海蒂禁(C-S3-013 已收录,窒息+勒颈风险)。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-AAP
+
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1 岁"
+  authors: [Heidi Murkoff, Sharon Mazel]
+  publisher_en: Workman Publishing
+  publisher_zh: 南海出版公司(中译)
+  year: 1989
+  edition: 3rd (2014)
+  location: "第 18 章《宝宝生病》'急性中耳炎 AOM / 处理 + 预防',550-552 页中译"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards: [C-S3-013, C-S2-2105]
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04
+
+---
+card_id: C-S3-2349
+stages: [S3]
+tags: [safety, red_flag]
+
+front:
+  title: RSV 红旗:皮肤变蓝立刻急诊
+  hook: 1 岁前 2/3 都中,大多轻
+
+back:
+  why_matters: |
+    呼吸道合胞病毒(RSV)= 婴幼儿下呼吸道感染头号杀手,**1 岁前约 2/3 婴儿感染**。
+    高发期 4-10 月。**大多轻微像感冒**,但早产 / 先天肺病 / 不母乳 / 二手烟 / 多胎宝宝
+    可能恶化为支气管炎需住院。
+    红线症状:**呼吸急促 + 鼻翼煽动 + 肋骨间皮肤凹陷 + 嘴周/指甲发蓝(青紫)**
+    → 立刻急诊。轻微 RSV 居家 3-5 天好转。
+  what_to_do:
+    - 出现**任何"用力呼吸"信号**(鼻翼煽 / 凹胸 / 喘鸣)→ 立刻送医
+    - **嘴周或指甲变蓝**(青紫病)→ 拨 120
+    - 烧 > 4-5 天不退 / 已退烧又升 → 通知医生
+    - 居家:多液体 / 加湿器 / 鼻吸器
+    - 高风险宝宝(早产/先天肺病):4-10 月期月打帕利株单抗预防
+  failure_mode: |
+    "看着像感冒就当感冒处理" → 错过支气管炎住院窗口。
+    给抗生素治 RSV → 病毒病无效。
+    家中吸烟 → 二手烟使 RSV 病情翻倍恶化。
+    高风险宝宝去人多商场 → 极易染上重型 RSV。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-AAP
+  - G-ABBR-RSV
+
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1 岁"
+  authors: [Heidi Murkoff, Sharon Mazel]
+  publisher_en: Workman Publishing
+  publisher_zh: 南海出版公司(中译)
+  year: 1989
+  edition: 3rd (2014)
+  location: "第 18 章《宝宝生病》'呼吸道合胞病毒 RSV / 症状 + 处理',557-559 页中译"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards: [C-S1-063, C-S2-2108]
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04
+
+---
+card_id: C-S3-2350
+stages: [S3]
+tags: [safety]
+
+front:
+  title: 反流(GER)4-7 月达峰自愈
+  hook: 拍嗝直立 + 少食多次
+
+back:
+  why_matters: |
+    胃食管反流(GER)= 胃内容物逆流到食管,**1/3 婴儿出现**,因下食管括约肌未发育成熟。
+    海蒂时间表:**2-4 周起,4 月达峰,7 月学站立 + 加固食后改善**。
+    轻度反流不需治疗,自愈率高。**严重 GER**(影响生长 / 极痛苦)需药物或手术。
+    家长意义:**别和"急症呕吐"混淆** — GER 是常态,只在影响生长/睡眠时干预。
+  what_to_do:
+    - **少量多次喂**(母乳 / 配方奶)
+    - 喂时和喂后 1-2 小时**保持直立位**
+    - 喂后给奶嘴(吸吮自然降反流)
+    - 母乳妈妈减咖啡因(诱发反流)
+    - 严重(影响生长 / 极痛苦)→ 通知医生评药物
+  failure_mode: |
+    把所有吐奶都当 GER 焦虑 → 误把正常 spit-up 当病。
+    GER 宝宝喂完玩翻身游戏 → 大量呕吐。
+    喷射呕 + 体重不增却以为只是反流 → 错过幽门狭窄(C-S1-054)。
+    自买质子泵抑制剂(PPI)长期吃 → 影响骨骼 + 感染风险。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-AAP
+
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1 岁"
+  authors: [Heidi Murkoff, Sharon Mazel]
+  publisher_en: Workman Publishing
+  publisher_zh: 南海出版公司(中译)
+  year: 1989
+  edition: 3rd (2014)
+  location: "第 18 章《宝宝生病》'胃食管反流症 GER / 处理 + 预防',553-555 页中译"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards: [C-S1-054]
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04
+
+---
+# ═══════════════ S4(6-9 月)5 张 ═══════════════
+card_id: C-S4-2244
+stages: [S4]
+tags: [safety, red_flag]
+
+front:
+  title: 蜜蜂叮咬:刮不挤 + 过敏 4 项
+  hook: 全身荨麻疹立刻打 911
+
+back:
+  why_matters: |
+    宝宝爬 / 走后户外蛰咬高发。海蒂错误操作警告:
+    **不能用镊子或手指挤蜂刺**(挤会注更多毒素),应**刮**(信用卡 / 钝刀 / 指甲)。
+    **过敏反应**(anaphylaxis)红线:全身荨麻疹 / 呼吸困难 / 头晕 / 面舌肿 / 虚弱昏厥
+    → **立刻打 911 + 急诊**,有 EpiPen 立即用。
+    第一次被蛰若有这些症状 → 后续可能升级,医生会建议做过敏测试。
+  what_to_do:
+    - **刮出蜂刺**(信用卡边 / 钝刀)— 不要挤压
+    - 蜱虫:**镊子贴皮捏头部稳拔**(不扭/不挤);怀疑莱姆病通知医生
+    - 肥皂水洗 + 冰敷 10-15 分钟止痒消肿
+    - 涂炉甘石液(不用含抗组胺洗剂)
+    - **过敏 4 红旗:全身疹 / 呼吸难 / 面舌肿 / 头晕昏厥 → 911**
+  failure_mode: |
+    用凡士林 / 火柴试图"闷死"蜱虫 → 它呕回更多病原体。
+    挤蜂刺 → 注更多毒。
+    过敏体质宝宝外出无 EpiPen → 严重蛰伤致死。
+    "孩子第一次被蛰没事就不会过敏" → 二次叮咬可能更严重。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-AAP
+
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1 岁"
+  authors: [Heidi Murkoff, Sharon Mazel]
+  publisher_en: Workman Publishing
+  publisher_zh: 南海出版公司(中译)
+  year: 1989
+  edition: 3rd (2014)
+  location: "第 19 章《急救常识》'昆虫叮咬 5',570-571 页中译"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards: [C-S1-061]
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04
+
+---
+card_id: C-S4-2245
+stages: [S4]
+tags: [safety, red_flag]
+
+front:
+  title: 中暑红线:皮肤热干无汗
+  hook: 立刻冷毛巾包 + 急诊
+
+back:
+  why_matters: |
+    中暑(heatstroke)≠ 普通发烧 — **体温调节失灵**(大于 41°C 可能 45°C),需立刻干预。
+    婴幼儿热调节未成熟,最易中暑。**经典场景:停在车内的宝宝**
+    — 室外仅 30°C、车窗开 5 cm,车内**几分钟升至 45°C**。
+    其他场景:酷热剧烈活动 / 穿太厚 / 桑拿。
+    红线:**皮肤热而干、无汗 + 高烧 + 嗜睡或惊厥** → 立刻急救。
+  what_to_do:
+    - **绝不**把宝宝单独留在车内(哪怕 1 分钟,哪怕窗开)
+    - 怀疑中暑 → **冷水浸湿大毛巾包裹宝宝**(可加冰块)
+    - **立刻打 120 / 急诊**
+    - 毛巾热了**重新冷却再包**
+    - **不要给阿司匹林或对乙酰氨基酚**(中暑机制不同,无效且加肝负)
+  failure_mode: |
+    "就 5 分钟不下车" → 宝宝在车内中暑致死(美国年案例数十)。
+    给中暑宝宝吃退烧药 → 无效且伤肝(中暑非感染)。
+    用冰块直接接触皮肤 → 局部冻伤。
+    没意识到"皮肤干"是中暑信号(以为没汗就没事)→ 延误抢救。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-AAP
+
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1 岁"
+  authors: [Heidi Murkoff, Sharon Mazel]
+  publisher_en: Workman Publishing
+  publisher_zh: 南海出版公司(中译)
+  year: 1989
+  edition: 3rd (2014)
+  location: "第 18 章 + 19 章 '中暑 / 热损伤 34',561 + 580 页中译"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards: [C-S1-056, C-S2-2105]
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04
+
+---
+card_id: C-S4-2246
+stages: [S4]
+tags: [safety]
+
+front:
+  title: 晒伤 + 防晒:6 月内只遮挡
+  hook: 6 月+ 才用低刺激防晒
+
+back:
+  why_matters: |
+    海蒂规则:**< 6 月不涂防晒**(皮肤太薄,化学吸收率高),
+    只能**物理遮挡**(帽子 / 长袖 / 婴儿车遮阳棚 / 避开 10-16 点强光时段)。
+    6 月+ 才可用**矿物防晒(锌/钛)SPF 30+**(避免化学防晒)。
+    晒伤(轻烧伤)处理:温水浸 10-15 分钟 → 凝胶 / 温和保湿;
+    严重晒伤可有头痛 / 呕吐 → 急诊。
+  what_to_do:
+    - < 6 月:**只物理遮挡**(帽 / 长袖 / 棚)+ 避 10-16 点
+    - 6 月+:矿物防晒(锌/钛 SPF 30+)出门前 15 分钟涂
+    - 游泳后 / 出汗后**每 2 小时补涂**
+    - 晒伤后温水浸 10-15 min,**不涂凡士林**(闷热)
+    - 严重晒伤(发热 / 呕吐)→ 急诊
+  failure_mode: |
+    给 < 6 月宝宝涂化学防晒 → 经皮吸收风险。
+    "阴天不用防晒" — UV 穿透云层 80%。
+    涂防晒后不补 → 出汗洗掉,实际无防护。
+    晒伤涂凡士林 → 闷热加重 + 阻碍愈合。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-AAP
+
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1 岁"
+  authors: [Heidi Murkoff, Sharon Mazel]
+  publisher_en: Workman Publishing
+  publisher_zh: 南海出版公司(中译)
+  year: 1989
+  edition: 3rd (2014)
+  location: "第 19 章《急救常识》'晒伤 15',574 页中译"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards: [C-S4-2245]
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04
+
+---
+card_id: C-S4-2247
+stages: [S4]
+tags: [safety, red_flag]
+
+front:
+  title: 鼻血 + 鼻腔异物:别仰头
+  hook: 仰头会咽血致呕
+
+back:
+  why_matters: |
+    宝宝爬 / 探物期会塞东西到鼻子 / 撞鼻流血。海蒂常见错误:
+    **流鼻血时仰头** → 血流入咽部 → 呕吐 + 误吸。正确是**身体直立 + 略前倾 + 捏鼻 10 分钟**。
+    **鼻腔异物**绝不能用棉签 / 针挑(更深入或弄伤),只能让宝宝模仿吹气或就医。
+    频繁鼻血(即使易止)也要告诉医生,可能是出血障碍信号。
+  what_to_do:
+    - 流鼻血:身体**直立 + 略前倾**,**捏两侧鼻 10 分钟**(让其嘴呼吸)
+    - 仍不止 → 再 10 分钟;仍流 → 医生(打电话时保持直立)
+    - **鼻腔异物**:让宝宝平静嘴呼吸,**不深探不挑**
+    - 教宝宝模仿你的鼻吹气;不出 → 急诊
+    - 鼻被打:直立前倾防咽血 + 冰敷消肿,医生检查骨折
+  failure_mode: |
+    仰头止鼻血 → 血咽下 → 呕吐 + 误吸。
+    棉签/镊子取鼻内异物 → 推得更深或穿破鼻黏膜。
+    频繁鼻血不告诉医生 → 错过出血性疾病诊断。
+    打鼻后不冰敷不查 → 漏诊鼻骨折致歪鼻。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-AAP
+
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1 岁"
+  authors: [Heidi Murkoff, Sharon Mazel]
+  publisher_en: Workman Publishing
+  publisher_zh: 南海出版公司(中译)
+  year: 1989
+  edition: 3rd (2014)
+  location: "第 19 章《急救常识》'鼻子受伤 39-41',581-582 页中译"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards: []
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04
+
+---
+card_id: C-S4-2248
+stages: [S4]
+tags: [safety, red_flag]
+
+front:
+  title: 眼外伤:不揉不压 + 化学冲 15 分
+  hook: 异物冲水 / 钝伤冰敷
+
+back:
+  why_matters: |
+    眼睛伤无小事 — 角膜划伤、化学烧灼、钝伤都可能影响视力终生。
+    海蒂铁律:**不施压、不揉、未经医嘱不滴眼药水**。给宝宝拿杯子限制双手以防自抠。
+    **化学物入眼:温水冲 15 分钟全程不停**(冲单眼时未受影响眼放高位防交叉)。
+    异物 / 划伤 / 钝伤都需要眼科评估,**外观看着轻不代表真没事**。
+  what_to_do:
+    - **任何眼伤都让宝宝拿杯子**(转移手以防揉)
+    - 异物可见在眼白 / 下眼睑:**湿棉球轻拭远离瞳孔**
+    - **化学品入眼:温水冲 15 分钟**,头转向使受影响眼低位
+    - 钝器伤:**冰袋敷 15 分钟**(隔布,不直接皮肤)
+    - 看东西模糊 / 持续揉眼 / 高速碰撞 → 立刻眼科
+  failure_mode: |
+    用手揉异物入眼 → 划伤角膜。
+    化学品入眼冲不到 15 分钟就停 → 残留持续烧。
+    自己滴眼药水"消炎" → 错过角膜划伤诊断 + 部分药物加重。
+    "孩子眼黑了过一天就消" → 漏掉视网膜出血或眼眶骨折。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-AAP
+
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1 岁"
+  authors: [Heidi Murkoff, Sharon Mazel]
+  publisher_en: Workman Publishing
+  publisher_zh: 南海出版公司(中译)
+  year: 1989
+  edition: 3rd (2014)
+  location: "第 19 章《急救常识》'眼外伤 22-25',576-577 页中译"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards: []
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04
+
+---
+# ═══════════════ S5(9-12 月)5 张 ═══════════════
+card_id: C-S5-2243
+stages: [S5]
+tags: [safety, red_flag]
+
+front:
+  title: 误吞硬币:观察便便,纽扣电池急诊
+  hook: 纽扣电池 = 化学烧伤 2 小时穿食道
+
+back:
+  why_matters: |
+    9-12 月宝宝抓握精进,小物吞食高发。海蒂分级:
+    - **微小圆形物**(硬币 / 弹珠 / 小球):无症状 → 观察便便 2-3 天
+    - **纽扣电池 / 磁铁 / 尖锐物**:**立刻急诊**
+    纽扣电池在食道**2 小时**就开始**化学烧灼穿孔**(电池漏氢氧化钠);
+    多颗磁铁可在肠内吸附挤穿肠壁。
+    任何吞食后:哮鸣 / 呼吸困难 / 流口水 / 呕吐 / 吞咽困难 → 食道卡 → 急诊。
+  what_to_do:
+    - 纽扣电池 / 磁铁 / 尖锐物 / 化学品 → **立刻急诊**(不等)
+    - 硬币 / 弹珠 / 小球无症状 → 观察便便 2-3 天
+    - 出现哮鸣 / 呼吸困难 / 流口水 / 吞咽痛 → 急诊(卡食道)
+    - 误吸入气管(咳嗽 + 呼吸困难)→ 按窒息处理(C-S1-2302)
+    - 居家:**纽扣电池 + 磁铁 + 小硬币** 全锁起来 / 高处放
+  failure_mode: |
+    纽扣电池吞下"等便便排出" → 2-4 小时食道穿孔,致命。
+    给吞物宝宝催吐 → 二次划伤食道。
+    多颗磁铁误吞当一颗处理 → 互相吸住挤穿肠壁,需手术。
+    家中遥控器 / 助听器 / 电子钟拆开扔旁 → 纽扣电池随手可得。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-AAP
+
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1 岁"
+  authors: [Heidi Murkoff, Sharon Mazel]
+  publisher_en: Workman Publishing
+  publisher_zh: 南海出版公司(中译)
+  year: 1989
+  edition: 3rd (2014)
+  location: "第 19 章《急救常识》'吞食异物 54-55',586-587 页中译"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards: [C-S1-2302, C-S4-2247]
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04
+
+---
+card_id: C-S5-2244
+stages: [S5]
+tags: [safety, red_flag]
+
+front:
+  title: 牙齿脱落:乳牙别复位,带去看
+  hook: 乳牙复位会伤恒牙胚
+
+back:
+  why_matters: |
+    1 岁前后开始走 / 摔嘴是高频伤。海蒂关键:
+    **乳牙脱落不要复位**(再植可能形成囊肿,且压坏下方恒牙胚)— 与成人/恒牙完全不同。
+    但**仍带牙齿**给牙医看,确认完整;残牙留口腔可能脱落被吸入致窒息。
+    牙齿断裂:温水清理 + 冰敷脸颊;尽快牙医。
+    咬到电线导致嘴唇烧伤需通知医生(电烧伤可能延后出血)。
+  what_to_do:
+    - 乳牙完全脱落:**不复位**,带牙齿(湿纱布包裹)给牙医看
+    - 牙齿断裂:**温水 + 纱布清残渣**,冰敷脸颊
+    - 嘴唇 / 舌头出血:**冰袋 + 纱布按压 10-15 分钟**
+    - 出血超 15 分钟 / 伤口在咽喉后 / 上颚 / 电线咬伤 → 通知医生
+    - 残牙在口腔 → 取出(防误吸),立刻找牙医或急诊
+  failure_mode: |
+    把乳牙塞回牙槽 → 损伤恒牙胚 → 永久缺牙。
+    残牙留口腔 → 误吸入气管致窒息。
+    嘴唇撕裂"小事" 不去缝 → 留疤变形。
+    咬电线后嘴角烧伤"看着小" → 数天后伤口动脉出血。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-AAP
+
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1 岁"
+  authors: [Heidi Murkoff, Sharon Mazel]
+  publisher_en: Workman Publishing
+  publisher_zh: 南海出版公司(中译)
+  year: 1989
+  edition: 3rd (2014)
+  location: "第 19 章《急救常识》'嘴巴受伤 35-38',580-581 页中译"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards: []
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04
+
+---
+card_id: C-S5-2245
+stages: [S5]
+tags: [safety, red_flag]
+
+front:
+  title: 出血止血:压 15 分 + 高过心脏
+  hook: 不用止血带,弊大于利
+
+back:
+  why_matters: |
+    伤口出血是高频伤。海蒂铁律:
+    **直接按压 15 分钟 + 受伤部位高过心脏**;**不用止血带**(风险大于收益,可能致截肢)。
+    深伤 / 30 分内不止 / 脸部 > 1.3 cm → 急诊缝合或外科黏合剂。
+    破伤风:**任何皮肤创伤**都核查疫苗时间,过期补针;
+    红肿热痛流脓出现 → 感染信号 → 通知医生。
+  what_to_do:
+    - **干净纱布 / 尿布用力按 15 分钟**,**伤口高过心脏**
+    - 仍流 → 加垫不挪走**继续按**,送医或叫救护
+    - **不用止血带**(无医嘱)
+    - 30 分不止 / 深伤 / 脸 > 1.3 cm → 急诊
+    - 破伤风疫苗到期检查 + 感染信号(红/热/肿/脓)→ 找医生
+  failure_mode: |
+    不停揭开看是否止血 → 凝血块脱落 → 重新流。
+    用碘酒 / 防腐剂深抹伤口 → 海蒂禁(无医嘱),刺激组织。
+    自打止血带过紧或忘记定期松 → 远端缺血坏死。
+    狗咬人 / 动物咬不告诉医生 → 漏狂犬疫苗。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-AAP
+
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1 岁"
+  authors: [Heidi Murkoff, Sharon Mazel]
+  publisher_en: Workman Publishing
+  publisher_zh: 南海出版公司(中译)
+  year: 1989
+  edition: 3rd (2014)
+  location: "第 19 章《急救常识》'皮肤创伤 47-53',584-586 页中译"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards: [C-S1-2304, C-S1-061]
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04
+
+---
+card_id: C-S5-2246
+stages: [S5]
+tags: [safety, red_flag]
+
+front:
+  title: 牵拉肘:只哭不抬手 = 急诊
+  hook: 别再"飞起"了
+
+back:
+  why_matters: |
+    桡骨头半脱位(俗称"保姆肘"/"牵拉肘"),宝宝学步期高发。
+    机制:**被大人拉手臂提起或"飞机"** → 桡骨头从环状韧带滑出。
+    症状典型:**宝宝突然不动伤侧手臂 + 哭 + 不抬不抓**。
+    海蒂建议:**急诊或骨科**让有经验医师手法复位 — 几秒钟就能解除疼痛。
+    家长意义:这种"没看见摔"的急诊 80% 是牵拉肘。预防 = 别拉手提宝宝。
+  what_to_do:
+    - **绝不拉宝宝单手抬起 / "坐飞机" / 摆秋千**
+    - 突然不抬侧臂 + 痛 + 哭 → 怀疑牵拉肘
+    - 痛严重前去医院:**冰敷 + 用纸板/杂志夹板固定**
+    - 别自己尝试复位 — 让医生做(几秒钟搞定)
+    - 拉手摔倒(常被忽视)也是常见诱因,牵小孩走时拉**衣服**而非手腕
+  failure_mode: |
+    "甩一甩自己好" — 长时间脱位致软组织损伤。
+    自己学网上方法复位 → 错位反加重。
+    "下次注意就好" — 不告诉照看者 → 重复发生。
+    拉宝宝单手起床 / 拽手离开 → 一周内再次脱白。
+  evidence_level: B
+
+glossary_refs:
+  - G-ABBR-AAP
+
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1 岁"
+  authors: [Heidi Murkoff, Sharon Mazel]
+  publisher_en: Workman Publishing
+  publisher_zh: 南海出版公司(中译)
+  year: 1989
+  edition: 3rd (2014)
+  location: "第 19 章《急救常识》'肘部脱白 17',575 页中译"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards: []
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04
+
+---
+card_id: C-S5-2247
+stages: [S5]
+tags: [safety, red_flag]
+
+front:
+  title: 流感疫苗:6 月+ 起每年打
+  hook: 宝宝住院率最高人群之一
+
+back:
+  why_matters: |
+    流感不是"重感冒" — 6-23 月婴幼儿感染流感**通常需要住院**(婴幼儿 + 老人是住院最高人群)。
+    海蒂规定:**6 月+ 每年 10 月起打流感疫苗**,首年要**打 2 针间隔 1 个月**。
+    保护从第 2 周开始,持 1 年。**6 月内宝宝**没有疫苗可打,只能靠**全家打 + 勤洗手**保护。
+    家长意义:孕期 + 全家打流感疫苗是给婴儿的"被动免疫罩"。
+  what_to_do:
+    - 6 月+ 每年 10 月接种(美 11 月-次年 4 月流感季)
+    - 首年 2 剂间隔 ≥ 1 月,以后每年 1 剂
+    - **孕期妈妈打** → 抗体经胎盘传给婴儿,保护出生后 6 月
+    - 全家(爷爷奶奶 / 兄姐 / 看护)都打 → 包围式保护
+    - 婴儿期勤洗手 + 避开流感季的人多场所
+  failure_mode: |
+    "宝宝没事不用打" — 6-23 月婴儿流感住院率高。
+    "去年打了今年不用" — 流感病毒每年变异,必须每年打。
+    家人不打 → 把流感带回家给婴儿(婴儿 6 月内无防护)。
+    给 6 月内宝宝打流感疫苗 → 不可,只能靠间接保护。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-AAP
+
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1 岁"
+  authors: [Heidi Murkoff, Sharon Mazel]
+  publisher_en: Workman Publishing
+  publisher_zh: 南海出版公司(中译)
+  year: 1989
+  edition: 3rd (2014)
+  location: "第 18 章《宝宝生病》'对流感病毒的了解',542 页中译"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards: [C-S1-064, C-S5-007]
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

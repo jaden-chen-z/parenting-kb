@@ -1,0 +1,82 @@
+card_id: C-S5-295
+stages: [S5]
+tags: [self, philosophy, parent_attitude]
+
+front:
+  title: 共在 vs 沟通别混
+  hook: 单纯陪 vs 想改变
+
+back:
+  why_matters: |
+    Stern 引入一个被忽略的关键区分 — **共在** vs **communication(沟通)** — 这影响家长怎么"陪"宝宝。
+    **沟通**:
+    - 目的 = **传达信息 / 改变对方信念或行动**
+    - "我跟你说话是为了让你做点什么"
+    - 教育 / 训练 / 提醒 / 命令都是 communication
+    - 中国家长 90% 时间都在 沟通
+    **共在**:
+    - 目的 = **跟你一起体验,不试图改变什么**
+    - "我跟你在一起,只为了在一起"
+    - 没有 议程,没有"教 / 训 / 改"
+    - **调谐 主要是 共在** — 不是 教学
+    **Stern 实验数据**:
+    - 父母 调谐 的**最大动机**是"to be with"/"to 分享"/"to 参与" — 这就是 共在
+    - 其他动机(回应 / 提振 / 平静 / 重构 / 强化 / 标准游戏)是 communication
+    - **真正的 调谐 = 共在 主导** — 不带改变意图
+    **对中国家长的核心反思**:
+    - "我陪宝宝玩 30 分钟" — 是 共在 还是 communication?
+    - 边陪边教(认字 / 学颜色 / 数数)= communication 主导 — 不是真陪
+    - 单纯坐在旁边一起看蚂蚁 = 共在 主导 — 是真陪
+    - **宝宝最需要的不是"被教育" — 是"被陪伴"** — 共在
+    - 中文文化"陪伴"常被误解为"教育" — 其实不一样
+    **Stern 关键观察**:
+    - 没有 共在 的童年 → 成人后**容易孤独** + **难以享受单纯在一起**
+    - 总是被 沟通 → 成人后总在"做事 / 表现"模式 → 不会"单纯存在"
+    - 这是中国家长最容易忽略的方面
+    **怎么 共在**:
+    - 跟宝宝一起看一只虫子,不教什么
+    - 一起听一首歌,不解释
+    - 安静地抱着,不说话
+    - 共看一片云,不要"这是什么形状"
+    **跟 Lillard 蒙氏"观察 = 科学家方式"(C-S7-136)有共通**:
+    - 蒙氏 观察 也是非干预的"在一起"
+    - 跟"蒙氏要 性格 非 快乐"(C-S7-132)兼容
+  what_to_do:
+    - 每天留时间纯 共在(不教)
+    - 安静共看 / 共听 / 共在
+    - 不每件事都要"教育意义"
+    - 闭嘴跟宝宝在一起
+    - 别让陪伴=communication
+  failure_mode: |
+    "我陪宝宝时总是边玩边教" — 这是 communication 不是 共在。宝宝长期这样会变"做事 / 表现"模式。
+    "陪宝宝不就是教他东西吗" — 错。共在 才是 调谐 的核心。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Stern
+  - G-TERM-affective-attunement
+
+citation:
+  book_title_zh: "婴儿的人际世界"
+  book_title_en: "The Interpersonal World of the Infant"
+  authors: ["Daniel N. Stern"]
+  authors_zh: ["丹尼尔·斯特恩"]
+  publisher_en: "Basic Books"
+  year_en: 1985
+  isbn_en: "978-0-465-09559-9"
+  location: "Ch 7 · Communion vs Communication (attunement primary motive)"
+  publisher_zh: "华东师范大学出版社"
+  year_zh: 2017
+  translator_zh: ["刘旭东"]
+  source_id: SRC-018
+
+unit_ids: []
+related_cards:
+  - C-S5-291       # Stern attunement 主卡
+  - C-S7-136       # Lillard 观察 = 科学家方式
+  - C-S7-132       # Lillard 蒙氏要 character 非 happiness
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

@@ -1,0 +1,93 @@
+glossary_id: G-TERM-amodal-perception
+type: term
+display_name: 无形式感知 (amodal perception)
+
+full_name_zh: 无形式感知 / 跨感官感知
+full_name_en: Amodal Perception
+
+one_liner: |
+  Stern 引用的婴儿天生能力 — 把一种感官的信息**直接转换**成另一种,不需后天学习。
+  Meltzoff & Borton 1979 经典实验:3 周大新生儿盲眼吮特殊形状奶嘴后,看到能立刻挑出"刚才吮的"。是 attunement 的底层机制。
+
+detail: |
+  ## 定义
+  Amodal perception(无形式感知)= 感知一些**不属于任何单一感官**的抽象属性 — **强度 / 时间 / 形态 / 节奏 / 数量**。
+  - 这些属性可以从任何感官**抽取**
+  - 然后**转换**到任何其他感官
+  - 婴儿出生即有这能力 — 不需学习
+
+  ## 经典实验
+  ### 1. Meltzoff & Borton 1979(触觉 → 视觉)
+  - 3 周大新生儿戴眼罩
+  - 吸特殊形状奶嘴(球形 vs 带凸起)
+  - 摘眼罩 + 看两个奶嘴
+  - **立刻看向"刚才吮的"** — 没有学习
+
+  ### 2. Lewcowicz & Turkewitz 1980(听觉 ↔ 视觉)
+  - 3 周大新生儿能匹配:
+    - 某响度的声音 ↔ 某亮度的光
+    - 大人选的对应关系也是同样的
+
+  ### 3. McKain 1981 / Kuhl & Meltzoff 1982(听觉 ↔ 视觉)
+  - 4-6 月宝宝看 2 个脸 + 听 1 种声音
+  - 自动看向"嘴在做对应声音"的脸
+
+  ### 4. Field 1982(视觉 → 本体感觉)
+  - 出生 2 天宝宝模仿大人的笑 / 皱眉 / 惊讶
+
+  ## Aristotle 早就观察到
+  - "common sense"(共通感)— 第六感
+  - 能感知所有感官共有的"primary qualities"(强度 / 时间 / 形态 / 数量)
+  - Stern 用现代神经科学验证
+
+  ## 在 attunement 中的角色
+  - **Amodal 是 attunement 的底层机制**
+  - 妈妈用动作能匹配宝宝声音 — 因为强度 / 节奏 / 形态都是 amodal
+  - 不是"翻译" — 是直接感知共有属性
+
+  ## 跟 vitality affects 关系
+  - vitality affects(澎湃 / 渐弱)是**最 amodal 的体验**
+  - 可以从任何感官感知 — 看到 / 听到 / 摸到 / 自己内心都行
+  - 这就是为什么 attunement 主要 match vitality 而非 categorical
+
+  ## 反 Piaget
+  - Piaget 假设婴儿要**先经验**才能跨感官连接(逐步搭建 sensorimotor schemas)
+  - **Stern + 实验数据反**:出生即有,不需学
+  - Piaget 错在用成人视角推断婴儿
+
+  ## 跟艺术关系
+  - 通感(synesthesia)— 听觉引发视觉(听音乐看到颜色)
+  - 隐喻(metaphor)— "她的声音像阳光" — 跨感官
+  - Baudelaire《Correspondences》(1857)是诗化的 amodal
+  - 艺术能跨语言"打动人" — 靠 amodal
+
+  ## 中国家长应用
+  - 别以为"小宝宝只能感觉 1 种感官"
+  - 出生即能跨感官识别(C-S1-255)
+  - 不必"先训练听后训练看"
+  - 信任宝宝"立刻就懂"
+
+key_facts:
+  - Stern 引用 Meltzoff & Borton 1979 经典证据
+  - 出生即有,跨感官转换能力
+  - 是 attunement 的底层机制
+  - vitality affects 是最 amodal 的体验
+  - 反 Piaget"先经验后整合"
+
+related_glossary:
+  - G-PERSON-Stern
+  - G-PERSON-Meltzoff
+  - G-TERM-vitality-affects
+  - G-TERM-affective-attunement
+  - G-TERM-emergent-self
+
+related_cards: []
+
+sources:
+  - source_id: SRC-018
+  - external: Meltzoff & Borton 1979 Nature / Stern《The Interpersonal World of the Infant》Ch 3 + Ch 7
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

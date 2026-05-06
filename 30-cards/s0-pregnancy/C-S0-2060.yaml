@@ -1,0 +1,55 @@
+card_id: C-S0-2060
+stages: [S0]
+tags: [philosophy]
+
+front:
+  title: 婴儿衣服直接买大码
+  hook: 6-12 月码最实用
+
+back:
+  why_matters: |
+    婴儿衣服尺码标"月龄"是建议值,各品牌偏差大 — 有的 6 月款只够 4 月穿,有的 6 月款能穿到 9 月。
+    海蒂建议:没把握时买大码,理由有 3:
+    (1) 衣服洗后会缩水,棉质尤其;
+    (2) 宝宝长得比衣服快;
+    (3) 大点的衣服可以卷起袖子,小了的衣服只能扔。
+    标签注明"6 月"=约 7-10 千克,但中国宝宝可能 4 月就到。
+    一个例外:贴身内衣需要正合身,买大了会皱褶磨皮肤。
+  what_to_do:
+    - 主要买 6-9 月码,卷袖子穿
+    - 买前查品牌实际尺寸,别只看标签月龄
+    - 棉质衣服按标签往上加 1 码
+    - 季末清仓便宜不要买:可能等不到下季就过码
+    - 贴身内衣例外:正合身买
+  failure_mode: |
+    严格按标签买 → 3 周宝宝穿上"3 月码",马上就紧。
+    清仓时买未来季节的 → 到时候宝宝已经长出去。
+  evidence_level: C
+
+glossary_refs: []
+
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors:
+    - Heidi Murkoff
+    - Sharon Mazel
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh:
+    - 莫夏迪
+    - 张敏
+  location: "第 2 章婴儿用品采购 · 宝宝的衣柜"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards:
+  - C-S0-2059
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

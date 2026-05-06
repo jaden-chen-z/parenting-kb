@@ -1,0 +1,49 @@
+card_id: C-S4-2245
+stages: [S4]
+tags: [safety, red_flag]
+
+front:
+  title: 中暑红线:皮肤热干无汗
+  hook: 立刻冷毛巾包 + 急诊
+
+back:
+  why_matters: |
+    中暑(heatstroke)≠ 普通发烧 — **体温调节失灵**(大于 41°C 可能 45°C),需立刻干预。
+    婴幼儿热调节未成熟,最易中暑。**经典场景:停在车内的宝宝**
+    — 室外仅 30°C、车窗开 5 cm,车内**几分钟升至 45°C**。
+    其他场景:酷热剧烈活动 / 穿太厚 / 桑拿。
+    红线:**皮肤热而干、无汗 + 高烧 + 嗜睡或惊厥** → 立刻急救。
+  what_to_do:
+    - 绝不把宝宝单独留在车内(哪怕 1 分钟,哪怕窗开)
+    - 怀疑中暑 → 冷水浸湿大毛巾包裹宝宝(可加冰块)
+    - 立刻打 120 / 急诊
+    - 毛巾热了重新冷却再包
+    - 不要给阿司匹林或对乙酰氨基酚(中暑机制不同,无效且加肝负)
+  failure_mode: |
+    "就 5 分钟不下车" → 宝宝在车内中暑致死(美国年案例数十)。
+    给中暑宝宝吃退烧药 → 无效且伤肝(中暑非感染)。
+    用冰块直接接触皮肤 → 局部冻伤。
+    没意识到"皮肤干"是中暑信号(以为没汗就没事)→ 延误抢救。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-AAP
+
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1 岁"
+  authors: [Heidi Murkoff, Sharon Mazel]
+  publisher_en: Workman Publishing
+  publisher_zh: 南海出版公司(新经典发行)
+  year: 1989
+  edition: 3rd (2014)
+  location: "第 18 章 + 19 章 '中暑 / 热损伤 34',561 + 580 页中译"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards: [C-S1-056, C-S2-2105]
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

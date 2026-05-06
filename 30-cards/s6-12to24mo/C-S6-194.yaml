@@ -1,0 +1,66 @@
+card_id: C-S6-194
+stages: [S6]
+tags: [montessori, will, language, controversy]
+
+front:
+  title: 描述法替"讲道理"
+  hook: 描述法替讲道理
+
+back:
+  why_matters: |
+    Lillard Ch9 独有干预法 — **18 月-3 岁意志重定向工具,跟"选 2"(C-S6-188)配对使用**:
+    传统"跟孩子讲道理"的问题:
+    - 18 月-3 岁孩子大脑没"reasoning" 能力
+    - 你说"上厕所对身体好" — 孩子完全听不懂
+    - 你说越多,孩子越固执
+    Lillard 替代法 = **描述法**(description as redirect):
+    - 把孩子的注意力**转移到一个具体真实的事物**
+    - 用语言描述细节,让孩子大脑跟着你"看"
+    - 大脑在"看"的同时,自动忘了之前的对抗
+    Lillard 案例(蒙氏园的 18 月孩子):
+    - 早上爸爸要走,孩子哭闹拒绝
+    - 老师不说"爸爸下午就来" — 孩子不懂时间
+    - 老师把孩子带到金鱼缸:**"你看,这条鱼的鳍是黑色的。看它怎么在水里游。看它的嘴在动。它要吃东西了 — 我教你怎么喂它。"**
+    - 孩子目光从"爸爸走"转到"鱼" — 几分钟内忘了哭使用要点:
+    - **选真实有趣的物**(动物 / 植物 / 食物 / 工具)
+    - **用细节描述**(颜色 / 动作 / 声音 / 形状)
+    - **慢说 + 平静**(不带焦虑)
+    - **接着引出动作**("我教你怎么...")
+    - **最好是活物**(动植物吸引力大)
+    跟"跟孩子讲道理"主流**对立** — Lillard 立场:**18 月-3 岁不能讲道理,描述 + 选 2 才有效**。
+  what_to_do:
+    - 看到对抗 → 找真实有趣的物
+    - 用细节描述(颜色 / 动作)
+    - 慢说 + 平静
+    - 接着引出动作("我教你...")
+    - 不解释 / 不讲道理
+  failure_mode: |
+    "我跟他讲道理他懂的" — 18 月-3 岁大脑没 reasoning 能力,讲道理 = 加强对抗。
+    描述法用错地方(找了个 boring 物品) — 没吸引力 = 无效。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Lillard
+  - G-PERSON-Jessen
+
+citation:
+  book_title_zh: "蒙台梭利从 0 岁开始"
+  book_title_en: "Montessori from the Start"
+  authors: ["Paula Polk Lillard", "Lynn Lillard Jessen"]
+  authors_zh: ["宝拉·波尔克·莉拉德", "琳·莉拉德·杰森"]
+  publisher_en: "Schocken Books"
+  year_en: 2003
+  isbn_en: "978-0-8052-1112-1"
+  location: "Ch 9 · 'Developing Will' (description as redirect)"
+  source_id: SRC-016
+
+unit_ids: []
+related_cards:
+  - C-S6-188       # Lillard 选 2 法
+  - C-S6-191       # Lillard 12-18 月物理移除
+  - C-S6-192       # Lillard No 永远是 No
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

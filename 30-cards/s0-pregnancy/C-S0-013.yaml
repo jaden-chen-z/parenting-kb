@@ -1,0 +1,58 @@
+card_id: C-S0-013
+stages: [S0]
+tags: [montessori, philosophy, theory]
+
+front:
+  title: 蒙氏育儿公式
+  hook: 大人+环境+自由责任
+
+back:
+  why_matters: |
+    Lillard Ch1 总结蒙氏教育公式 = **3 个元素**:
+    1. **准备好的大人**(prepared adult) — 模范 + 观察者 + 引导者(不是仆人不是雕刻师)
+    2. **准备好的环境**(预备环境) — 物理(矮桌椅 / 真物 / 美 / 秩序) + 心理(平静 / 慢)
+    3. **自由 + 责任**(freedom with responsibility) — 给选择,但选择有后果这 3 个元素缺一不可。Maria Montessori 1900 年代提出,Lillard 完整论述。
+    实操含义 — 育儿不是"我教孩子规矩",是这 3 件事:
+    - 我自己活成什么样(大人)
+    - 家是什么样(环境)
+    - 在家里能做什么 / 不能做什么(自由 + 后果)
+    跟 Karpathy 第二大脑思路相似 — **做好环境,孩子自己学**。
+    传统育儿观说"管教" + "听话",蒙氏立场:**准备 + 退后**。
+  what_to_do:
+    - 自己先活成想让娃成为的样子
+    - 把家改成宝宝能自己探索的尺寸
+    - 给 2-3 个选择,然后接受结果
+    - 当观察者,不当导演
+    - 错误是学习,不是惩罚理由
+  failure_mode: |
+    "我先教好,他自己就懂" — 蒙氏立场:孩子从环境吸收,不是听教。
+    "给完全自由 = 放任" — 自由 + 责任,不是只自由。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Lillard
+  - G-PERSON-Montessori
+  - G-TERM-self-construction
+  - G-TERM-prepared-environment
+
+citation:
+  book_title_zh: "蒙台梭利从 0 岁开始"
+  book_title_en: "Montessori from the Start"
+  authors: ["Paula Polk Lillard", "Lynn Lillard Jessen"]
+  authors_zh: ["宝拉·波尔克·莉拉德", "琳·莉拉德·杰森"]
+  publisher_en: "Schocken Books"
+  year_en: 2003
+  isbn_en: "978-0-8052-1112-1"
+  location: "Ch 1 · 'Montessori's educational formula' (末段)"
+  source_id: SRC-016
+
+unit_ids: []
+related_cards:
+  - C-S0-009       # Davies 蒙氏起步装清单
+  - C-S4-130       # Davies yes space
+  - C-S6-133       # Davies 温柔但清晰边界
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

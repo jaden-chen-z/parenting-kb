@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Parten
+type: person
+display_name: "Parten(米尔德里德·帕滕)"
+
+full_name_en: "Mildred Parten"
+full_name_zh: "米尔德里德·帕滕"
+
+position: |
+  同伴游戏阶段研究奠基人(1932)
+
+contribution: |
+  同伴游戏 6 阶段(独自/旁观/平行/关联/合作)
+
+one_liner: |
+  米尔德里德·帕滕 — 同伴游戏 6 阶段(独自/旁观/平行/关联/合作)
+
+key_facts:
+  - "本卷章节:Ch 10 historical"
+  - "Lerner V3 命中:5 次"
+  - "学派:Lerner V3 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-027
+    chapter: "Ch 10 historical"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,59 @@
+card_id: C-S5-802
+stages: [S5]
+tags: [sleep, japan, matsuda]
+
+front:
+  title: "哄睡看天性 + 白天累"
+  hook: "8 点睡是过时"
+
+back:
+  why_matters: |
+    松田 §308 给"宝宝怎么哄都不睡"妈妈具体处方:
+    1. 入睡难易是天性 — 训练改不了;
+    2. **核心办法:让宝宝十分疲倦后再进被窝** —
+       白天多户外 + 临睡前洗澡;
+    3. 过早进被窝 = 增加磨人时间;
+    4. 即使能玩到 10 点 — 比 8 点睡见不到爸爸好;
+    5. 不必信"吮吸手指 = 欲求没满足" 类说法;
+    6. 跟妈妈一起睡能立刻入睡就一起睡;
+    7. 抱着 + 录音机摇篮曲 + 房间走 = **最不好的习惯**;
+    8. 夜里醒喝 200ml 牛奶能睡到天亮就给 — 不必逐渐减。
+    跟 Karp 5S + Lansbury "respectful sleep" 立场互补。
+
+  what_to_do:
+    - 白天 1-2 小时户外消耗
+    - 临睡前洗澡再入睡
+    - 不到困极不进被窝
+    - 不抱 + 不放摇篮曲走来走去
+    - 夜醒喝奶能睡就给 200ml
+
+  failure_mode: |
+    "8 点必须睡"派:7 点哄睡 → 不困 → 反复磨人 → 9 点才睡 + 妈妈崩溃。
+    "见不到爸爸"误区:每天 8 点哄睡 = 爸爸成"陌生人" → 后续亲子关系受损。
+    "睡眠训练"派:抱起来摇 + 放下哭 + 再抱 → 神经折磨。
+    替代:松田立场 — 白天累 + 临睡前洗 + 困了一秒入睡。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Matsuda
+
+citation:
+  book_title_zh: "定本育儿百科"
+  authors:
+    - 松田道雄
+  publisher_ja: 岩波书店
+  year_first_edition: 1967
+  location: "§308 哄婴儿睡觉"
+  source_id: SRC-024
+
+unit_ids: []
+related_cards:
+  - C-S3-703  # 松田 夜啼必能消除(同源 sleep)
+  - C-S5-021  # Brazelton 9 月学站夜醒机制
+  - C-S1-071  # 鲍秀兰 1 月睡 14-20 小时是正常
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

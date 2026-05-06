@@ -1,0 +1,56 @@
+card_id: C-S1-249
+stages: [S1]
+tags: [montessori, newborn, environment, controversy]
+
+front:
+  title: 头月 1 房 + 3 人
+  hook: 不带出门不见亲友
+
+back:
+  why_matters: |
+    Patricia(Lillard 案例)6 月+宝宝 Charlie 头 1 月:**只在 2 个房间** + **只见 3 个人**(妈妈 + 爸爸 + 1 个家人)。
+    Lillard Ch2/Ch3 立场 — 头 1 月是 **"吸收性心智"开始建参照点**的关键期:
+    - 1 个稳定环境 → 宝宝大脑能内化"这个房间是什么样"
+    - 3 个稳定的人 → 宝宝大脑能识别"自己人 vs 陌生人"
+    - 频繁带出门 / 见亲友 → 大脑信号过载,无法形成稳定参照点
+    Patricia 案例的结果:Charlie 6 月时是个"calm + happy + 安全感强"的宝宝。
+    跟传统中国"满月酒所有亲戚来看"**直接对立** — 蒙氏立场 = 这个时间窗口给宝宝建脑,不给亲友炫耀。
+    爸爸的"挡门"角色(C-S0-014)是这条卡的执行手段。
+  what_to_do:
+    - 头 1 月只在 2 个房间(卧室 + 宝宝房)
+    - 头 1 月只见 3 个人(妈妈 / 爸爸 / 1 个固定帮手)
+    - 拒绝大型亲友访视(满月推到 2-3 月)
+    - 不带宝宝出门买菜 / 散步(除非纯安静)
+    - 给宝宝大量独处时间
+  failure_mode: |
+    "亲友都来看才热闹" — 头 1 月不是热闹的时间,是建脑的时间。
+    "宝宝得多见人才不怕生" — 蒙氏立场:稳定参照点先建好,3 月后再扩展。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Lillard
+  - G-PERSON-Jessen
+  - G-TERM-symbiosis-period
+  - G-TERM-points-of-reference
+  - G-TERM-absorbent-mind
+
+citation:
+  book_title_zh: "蒙台梭利从 0 岁开始"
+  book_title_en: "Montessori from the Start"
+  authors: ["Paula Polk Lillard", "Lynn Lillard Jessen"]
+  authors_zh: ["宝拉·波尔克·莉拉德", "琳·莉拉德·杰森"]
+  publisher_en: "Schocken Books"
+  year_en: 2003
+  isbn_en: "978-0-8052-1112-1"
+  location: "Ch 2 + Ch 10 · Patricia's interview"
+  source_id: SRC-016
+
+unit_ids: []
+related_cards:
+  - C-S1-183       # Davies 蒙氏新生儿期 6-8 周
+  - C-S1-184       # Davies 新生儿能看 30cm
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

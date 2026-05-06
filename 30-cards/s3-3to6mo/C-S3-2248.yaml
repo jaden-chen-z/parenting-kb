@@ -1,0 +1,50 @@
+card_id: C-S3-2248
+stages: [S3]
+tags: [feeding, allergy, safety, red_flag]
+front:
+  title: 米粉先上,过敏家族再延 6 月
+  hook: 大麦燕麦优于小麦
+back:
+  why_matters: |
+    海蒂主张固体食物按"过敏风险阶梯"逐级引入,这是 2010 版的稳妥共识。
+    一般娃 4-6 月起加米糊;但有家族过敏史(父母双方都过敏)的娃,固体食物推迟到至少 6 月,且单一食物每天连吃一周再换下一种,以便锁定致敏源。
+  what_to_do:
+    - 第一口选铁强化米糊
+    - 大麦/燕麦优于小麦/玉米
+    - 单一食物连吃 7 天再换
+    - 出现疹/腹泻/喘息立即停
+    - 家族过敏史推迟到 6 月+
+  failure_mode: 以为"早吃多样化好",一周内连引 5 种新食物,娃出现皮疹无法定位元凶,只能全停从头来。
+  evidence_level: B
+  positions:
+    issue: 过敏原(花生 / 蛋 / 奶等)何时引入 — 早引入还是延后避免
+    views:
+      - school: 海蒂(2014 第 5 版)
+        source: SRC-040
+        stance: 过敏原 6 月起早引入,反"预防过敏的延后" — 直接对接 LEAP 2015 / AAP 2017 共识。
+      - school: 海蒂(2010 第 4 版)
+        source: SRC-040
+        stance: 旧版延后立场(避免高致敏食物到 1-3 岁)。需明示自我修正以防中国老人引旧版。
+      - school: LEAP / AAP 2017
+        source: SRC-006
+        stance: 早引入 — 4-6 月起规律暴露过敏原可降低过敏率;LEAP 试验对花生过敏率降 80%。
+      - school: 中国老人禁忌
+        stance: '"1 岁前不能给鸡蛋 / 海鲜 / 坚果";基于过时的延后避免理论,与现行循证立场对立。'
+glossary_refs: [G-TERM-allergy-introduction]
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors: ["Heidi Murkoff", "Sharon Mazel"]
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh: ["莫夏迪","张敏"]
+  location: "第 9 章 《第 5 个月》, 页 326-329"
+  source_id: "SRC-040"
+related_cards: [C-S3-2249, C-S3-2150]
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

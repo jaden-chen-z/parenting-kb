@@ -1,0 +1,67 @@
+card_id: C-S8-423
+stages: [S8]
+tags: [cognitive_science, culture, cole, lerner_v2]
+
+front:
+  title: 文化是认知工具不是修饰
+  hook: 工具决定怎么思考
+
+back:
+  why_matters: |
+    Cole 1996 文化心理学(Lerner V2 Ch15 Cole 主笔)。
+    Cole 立场:**文化不是认知的"额外修饰",是认知的工具**。
+    经典实验:
+    - 给 Yucatec Maya 儿童测"远近概念" — 用山脉为参照
+    - 给西方儿童测 — 用左/右身体方向
+    - 不同文化用不同"认知工具"
+    - 不是"哪个对" — 是"哪个适合环境"
+    Vygotsky 同方向(Lerner V2 引用):
+    - 高级心理功能源自社会文化工具
+    - 心理工具(语言 / 数字 / 写作)塑造思维
+    - 工具变化 → 思维变化意义:
+    - 反"普世发展时间表"(eg 物体永久 8 月)
+    - 跨文化研究是认知发展必要(不是装饰)
+    - 中国孩子用普通话 + 算盘 / 美国孩子用英语 + 计算器 — 不同思维路径跟现库:Spelke 核心知识(C-S4-1141)说基础先天 + Cole 说文化定具体方向。
+    Lerner V2 Ch15 综述。
+    对中国家长意义:
+    - 中文教汉字 + 算盘 = 给孩子独特认知工具
+    - 不必"用美国教学法"才好(各文化各工具)
+    - 双语 = 双套认知工具(双优势)
+    - 不要把"中国传统"全弃(部分是认知工具)
+  what_to_do:
+    - 教孩子文化工具(汉字 / 算盘 / 中医基础概念)
+    - 不焦虑"跟西方一样"
+    - 双文化背景 = 双工具(优势)
+    - 接触多文化(看历史 / 旅行 / 故事)
+  failure_mode: |
+    "西方教学法最科学" — 错。各文化各工具。
+    "中国传统是落后" — 部分错。某些是高级认知工具。
+    "全球化只一种思维" — 错。文化工具仍异。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Vygotsky
+  - G-TERM-baby-scientist
+  - G-PERSON-Cole
+  - G-PERSON-Spelke
+  - G-TERM-core-knowledge
+  - G-TERM-object-permanence
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 2 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 2 卷"
+  authors: ["Michael Cole"]
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 15 · Culture as cognitive tool · pp. 660-680"
+  source_id: SRC-028
+
+unit_ids: []
+related_cards:
+  - C-S8-422       # Geary 跨文化数学
+  - C-S4-1141     # Spelke 5 系统
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

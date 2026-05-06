@@ -1,6 +1,6 @@
 card_id: C-S1-039
 stages: [S1]
-tags: [safety]
+tags: [safety, controversy]
 
 front:
   title: 睡前给奶嘴降 SIDS 风险
@@ -24,6 +24,21 @@ back:
     挂脖子 / 系衣服 → 勒颈或窒息死亡。
   evidence_level: A
 
+  positions:
+    issue: 安抚奶嘴何时用 · 是否影响发育 · 何时戒
+    views:
+      - school: Karp
+        source: SRC-003
+        stance: 鼓励使用,但母乳建立后 3-4 周再用,防乳头混淆。配方奶宝宝可即用。
+      - school: AAP
+        source: SRC-004/006
+        stance: 鼓励 — 是 SIDS 保护因子;睡眠时给;4 岁前戒以防牙列影响。
+      - school: 蒙氏(Davies/Lillard)
+        source: SRC-014/016
+        stance: 反对 — 妨碍婴儿嘴部发声练习与口腔早期探索;主张让孩子用嘴部自我安抚替代。
+      - school: Davies
+        source: SRC-014
+        stance: 接受 0-1 岁安抚作用,但 1 岁前戒,防影响牙列发育和语言起步。
 glossary_refs:
   - G-ABBR-SIDS
   - G-ABBR-AAP

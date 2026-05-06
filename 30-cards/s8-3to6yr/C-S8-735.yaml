@@ -1,0 +1,69 @@
+card_id: C-S8-735
+stages: [S8]
+tags: [spatial, liben, lerner_v4]
+
+front:
+  title: 空间思维被忽视
+  hook: 空间思维一直被忽视
+
+back:
+  why_matters: |
+    Liben V4 Ch 6 空间思维章(Liben 是空间认知奠基)。
+    **空间思维**(spatial thinking):
+    - 旋转 / 折叠 / 路径 / 地图
+    - 工程 / 数学 / 科学 / 建筑都需要
+    - **被传统教育忽视的智能**
+    **性别差异**(本章关键发现):
+    - 男娃空间均值高
+    - 但**差异 80% 是经验**(玩玩具 / 运动 / 游戏)
+    - 训练可以缩小差距
+    - 不是"男娃天生强空间"
+    **5-6 岁是关键窗口**:
+    - 玩积木 / 拼图 / 户外探索 / 折纸
+    - 性别中立(不要"女娃玩娃娃男娃玩积木")
+    - 父母的空间用语("左边" / "更高")
+    意义:
+    - 中国教育低估空间思维
+    - 数学好 ≠ 空间好(独立维度)
+    - 性别差异是经验造成,不是基因
+    - 5-6 岁开始训练跟现库:跟 V2 Spelke 5 系统(C-S4-1141 含空间)+ V3 Ruble 性别(C-S6-1076)对接。
+    对中国家长意义:
+    - 给女娃也玩积木 / 拼图
+    - 户外探索 / 跑跳爬都练空间
+    - 用空间用语("左 / 远 / 折叠")
+    - 反"女娃数学不行"刻板印象
+  what_to_do:
+    - 给女娃也玩积木拼图
+    - 户外跑跳练空间
+    - 用空间用语描述
+    - '反"女娃数学不行"刻板'
+  failure_mode: |
+    "男娃天生空间好"— 错。80% 经验。
+    "数学好就是空间好"— 错。独立维度。
+    "积木是男娃的"— 错。性别中立训练。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Liben
+  - G-TERM-spatial-thinking
+  - G-PERSON-Spelke
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 4 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 4 卷"
+  authors: ['Lynn S. Liben']
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 6 · Liben · Spatial thinking · pp. 197-215"
+  source_id: SRC-029
+
+unit_ids: []
+related_cards:
+  - C-S4-1141     # V2 Spelke 5 系统
+  - C-S6-1076     # V3 Ruble 性别 3 阶段
+  - C-S6-018     # Lillard 数学雏形
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

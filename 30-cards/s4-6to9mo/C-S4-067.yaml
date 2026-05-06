@@ -1,6 +1,6 @@
 card_id: C-S4-067
 stages: [S4]
-tags: []
+tags: [philosophy, controversy]
 
 front:
   title: 6-12 月是依恋形成关键期
@@ -40,7 +40,7 @@ citation:
   year_en: 1969
   year_zh: 2017
   isbn: "978-7-5192-2927-6"
-  location: "第十五章 聚焦在一个对象上 + 第十八章 依恋模式的稳定和变化(在六个月到十二个月期间婴儿很敏感,已准备好建立有区分的依恋。在六个月后,婴儿仍然可以建立依恋,但随着岁月流逝,困难日益增加 / Tizard & Hodges 1978)"
+  location: "第十五章聚焦在一个对象上 + 第十八章依恋模式的稳定和变化(在六个月到十二个月期间婴儿很敏感,已readiness建立有区分的依恋。在六个月后,婴儿仍然可以建立依恋,但随着岁月流逝,困难日益增加 / Tizard & Hodges 1978)"
   source_id: SRC-011
 
 unit_ids: []

@@ -1,0 +1,77 @@
+card_id: C-S7-128
+stages: [S7]
+tags: [philosophy, parenting_policy, cross_cultural]
+
+front:
+  title: 育儿不是私事是公共事
+  hook: 大人时间是稀缺品
+
+back:
+  why_matters: |
+    Gopnik 三人 1999 年提出的政策呼吁(Ch7"What Is to Be Done?")。
+    核心论点:
+    - 100 年前美国大部分人是农民,父母都在家工作
+    - 30 年前美国少部分妇女工作,父亲在外
+    - 现在双职工普遍,**儿童失去最重要资源:大人时间 / 精力 / 陪伴**
+    - 1973 年至今家庭收入未涨,但**双职工才能维持** — 父母时间双缺
+    Gopnik 政策建议:
+    - 公共支持婴儿 / 学龄前儿童照看(就像支持公立学校 + 老人医保)
+    - 灵活工作时间 / 兼职 / 在家办公(儿童 ≠ 工作障碍)
+    - 重新引入扩展家庭(祖父母 / 叔叔阿姨参与育儿)
+    Gopnik 反驳"自由市场决定一切":
+    - 育儿是**公共物品**(public good)— 像教育像医疗
+    - 私人解决方案(早教班 / 育儿嫂)有钱才行 — 制造不公
+    - 全社会共担,所有孩子都受益对中国家长意义(中国情境调整):
+    - 中国老人参与育儿是**优势** — 不要因"代际差异"全排斥
+    - 双职工 + 老人 + 育儿假是**最优组合**(不是缺陷)
+    - 不要用钱买"专家照看" — 用钱买"自己时间"(请阿姨做家务)
+    - 灵活工作 / 在家办公值得争取一句话:**陪孩子 = 投资国家未来**,不是私事。
+  what_to_do:
+    - 想办法争取灵活工作 / 在家办公时间
+    - 用钱买家务外包(自己的时间留给陪伴)
+    - 让祖父母参与育儿(讨论而非排斥)
+    - 寻找育儿支持网络(社区 / 朋友 / 邻居)
+  failure_mode: |
+    "陪不陪是我私事" — 错。Gopnik:育儿是公共物品。
+    "请阿姨陪宝宝,我专心赚钱" — 阿姨可代家务,代不了陪伴。
+    全权交给祖父母不参与 — 父母陪伴有特殊价值(依恋专一)。
+  evidence_level: B
+
+  positions:
+    issue: 0-3 岁是否需要主动教学 · 早教班 · 闪卡 · Mozart 效应
+    views:
+      - school: Brazelton
+        source: SRC-010
+        stance: 3 岁前不教读写。Erikson 框架下情感发展优先于认知训练。
+      - school: Gopnik
+        source: SRC-015
+        stance: Mozart 效应是骗局;闪卡无效;教越多越拖累自主探索;突触修剪是优化非损失。
+      - school: 蒙氏(Lillard/Davies)
+        source: SRC-014/016
+        stance: 反对主动教学。提供 prepared environment + 观察 + 不打扰,孩子主导探索节奏。
+      - school: 中国主流
+        stance: 早教班 / 闪卡 / 双语早教 / Mozart 胎教 / "赢在起跑线" — 商业产业链已成熟。
+glossary_refs:
+  - G-PERSON-Gopnik
+  - G-TERM-baby-scientist
+  - G-TERM-attachment
+
+citation:
+  book_title_en: "The Scientist in the Crib"
+  book_title_zh: "摇篮里的科学家"
+  authors: ["Alison Gopnik", "Andrew N. Meltzoff", "Patricia K. Kuhl"]
+  publisher_en: William Morrow
+  year: 1999
+  location: "Chapter 7 · What Is to Be Done? (public support for parenting)"
+  source_id: SRC-015
+
+unit_ids: []
+related_cards:
+  - C-S7-125       # 反早教
+  - C-S6-127       # Wonder Week 质量时间伪概念
+  - C-S1-243       # 长童年期是优势
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

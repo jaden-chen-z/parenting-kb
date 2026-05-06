@@ -1,0 +1,22 @@
+glossary_id: G-TERM-popularity-vs-friendship
+type: term
+display_name: "流行度 vs 友谊"
+
+one_liner: |
+  Hartup 区分:流行度是群体注意度,友谊是 1 对 1 关系深度;后者更预测心理健康。
+
+detail: |
+  Hartup 区分:流行度是群体注意度,友谊是 1 对 1 关系深度;后者更预测心理健康。
+
+  来源:Lerner V3《Handbook of Child Psychology Vol 3》(Wiley 2006 第 6 版,Eisenberg 主编)。
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-027
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

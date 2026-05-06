@@ -1,0 +1,57 @@
+card_id: C-S7-1102
+stages: [S7]
+tags: []
+
+front:
+  title: "自然离乳 vs 主动断奶"
+  hook: "等娃自己说不要了"
+
+back:
+  why_matters: |
+    WHO 立场:断奶时机 / 方式由妈妈和娃共同决定 — 不强加。
+    两种路径:
+    ① 自然离乳(child-led weaning):娃自己减少 → 自己停 — 多在 2-4 岁
+    ② 主动断奶(mother-led weaning):妈妈主动减少 → 停 — 任何月龄
+    WHO 推:能继续就自然离乳;不能 → 渐进减少不突然停。
+    突然断奶 risks:
+    - 妈妈乳腺炎(milk stasis)
+    - 娃心理冲击(尤其在分离焦虑期)
+    - 妈妈情绪波动(激素剧变)
+    中国常见'2 岁送奶奶家断' = 突然断 + 母婴分离 = 双重伤害。
+  what_to_do:
+    - "默认自然离乳 — 等娃自己减/停"
+    - "需要主动断 → 渐进(每周减 1 次)"
+    - "绝不'送奶奶家断'(突然 + 分离)"
+    - "突然断 → 妈妈乳腺炎 + 娃心理冲击"
+    - "妈妈用乳头涂辣椒 / 黄连 → 不推"
+  failure_mode: |
+    突然断奶或'送奶奶家断' → 妈妈乳腺炎 / 娃心理冲击 / 妈妈情绪激素紊乱。
+    WHO 立场:自然或渐进,不强行。
+  evidence_level: A
+
+glossary_refs:
+  - G-TERM-WHO-two-years
+  - G-PERSON-Detwyler
+
+citation:
+  page_title: "WHO Weaning Approach + Detwyler Natural Weaning"
+  publisher: "World Health Organization & UNICEF"
+  page_url_primary: https://www.who.int/news-room/questions-and-answers/item/breastfeeding
+  accessed: 2026-05-04
+  language: en
+  location: "WHO 默认自然离乳 + 渐进 vs 突然断奶风险 + Detwyler 2.5-7 岁人类生物学"
+  source_id: SRC-031
+
+unit_ids: []
+related_cards:
+  - C-S7-1099
+  - C-S6-1064
+  - C-S5-001
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_doc_id_pending: D1
+citation_followup_needed: '已映射真实 doc_id (D1 = WHO IYCF Fact Sheet)'

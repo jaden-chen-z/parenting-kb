@@ -1,0 +1,41 @@
+card_id: C-S1-2221
+stages: [S1]
+tags: [red_flag]
+front:
+  title: 脐疝按压禁忌
+  hook: 6 岁前等等看
+back:
+  why_matters: |
+    宝宝大哭/咳嗽/用力时肚脐凸出,大小从指尖到柠檬不等 — 这是脐疝(出生时腹壁未完全闭合)。
+    海蒂明确:不要按压(无效 + 潜在伤害)、不要绑硬币胶布等土法(传统做法但无效甚至有害)、不要急着手术。
+    自然规律:很小的几个月内愈合 / 大的可能到 2 岁 / 大多到 6-7 岁前都能闭合。
+    手术指征:腹部开口很大、正在变大、宝宝异常烦躁。
+    真红旗(立即就医):1)大哭后疝不缩回;2)按压不能进去;3)突然变大;4)开始变软;5)开始呕吐 → 可能嵌顿,需立即手术。
+  what_to_do:
+    - 看到肚脐凸不按压不土法
+    - 看大小 — 小的等到 6-7 岁
+    - 不急着手术
+    - 5 个红旗任一立刻就医手术
+    - 等等看大多自愈
+  failure_mode: |
+    用硬币 + 胶带"压回去"皮肤损伤/感染 + 无效。
+    错过嵌顿信号(疝不回 + 变软 + 呕吐) → 急症变手术延误。
+  evidence_level: B
+glossary_refs: []
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors: ["Heidi Murkoff", "Sharon Mazel"]
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh: ["莫夏迪","张敏"]
+  location: "第 6 章第一个月 · 脐疝, 页 194"
+  source_id: SRC-040
+related_cards: []
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

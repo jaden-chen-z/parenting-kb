@@ -1,0 +1,60 @@
+card_id: C-S4-192
+stages: [S4]
+tags: [montessori, movement, controversy]
+
+front:
+  title: 别替宝宝坐和走
+  hook: 替扶 = 剥夺训练
+
+back:
+  why_matters: |
+    Lillard Ch5 列 4 大动作障碍中 **第 3 个 = "替宝宝做"**:
+    - 7 月还坐不稳就 prop up(枕头扶起来)
+    - 8 月不会爬就拉着学走
+    - 10 月不会站就拉两手"走"
+    - 12 月会走还经常抱着后果 — **看似帮宝宝早达里程碑,实际剥夺关键肌肉发展**:
+    - prop up 坐 → 背肌 / 平衡感不练 → 真正能坐时反而更晚
+    - 拉着走 → 平衡感跳过自主练习 → 走不稳 / 经常摔
+    - 长期抱 → 宝宝学到"我不用自己走" → 1.5-2 岁还要抱
+    Lillard 立场:**做"准备者"不做"操作者"** — 提供拉起的家具(矮架 / 婴儿握杆),让宝宝自己拉自己起。
+    不主动做的具体例子:
+    - 看宝宝想坐 → 不扶,放枕头在身后(防摔不替坐)
+    - 看宝宝想拉起来 → 不抱,放矮椅 / 婴儿杆在旁
+    - 看宝宝想走 → 不拉手,让他扶家具走跟"宝宝早会走 = 聪明"焦虑文化**对立**。
+  what_to_do:
+    - 不 prop up 坐(不主动扶起来)
+    - 不拉手"教"走
+    - 不长期抱(尤其 1 岁+ )
+    - 提供拉起家具(矮架 / 杆)
+    - 让宝宝自己练习
+  failure_mode: |
+    "不帮宝宝怎么会走?" — 反:不帮宝宝才会自己学,帮反而拖累。
+    扶坐扶走 → 宝宝以为"我不用自己来" → 真到该自己来时反而抗拒。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Lillard
+  - G-PERSON-Jessen
+  - G-TERM-coordinated-movement
+  - G-TERM-self-construction
+
+citation:
+  book_title_zh: "蒙台梭利从 0 岁开始"
+  book_title_en: "Montessori from the Start"
+  authors: ["Paula Polk Lillard", "Lynn Lillard Jessen"]
+  authors_zh: ["宝拉·波尔克·莉拉德", "琳·莉拉德·杰森"]
+  publisher_en: "Schocken Books"
+  year_en: 2003
+  isbn_en: "978-0-8052-1112-1"
+  location: "Ch 5 · 'Crawling to Coordination' (don't prop)"
+  source_id: SRC-016
+
+unit_ids: []
+related_cards:
+  - C-S2-131       # Davies 别 propping 宝宝坐
+  - C-S5-131       # Davies 不替宝宝做能做的事
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

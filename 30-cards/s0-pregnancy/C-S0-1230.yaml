@@ -1,0 +1,66 @@
+card_id: C-S0-1230
+stages: [S0]
+tags: [applied_developmental, lerner_v4, sigel]
+
+front:
+  title: 研究到实操有翻译鸿沟
+  hook: 研究到实操要翻译
+
+back:
+  why_matters: |
+    Lerner V4 全卷核心命题(主编 Renninger-Sigel + 压轴 Ch 24 Sigel)。
+    应用发展科学(applied developmental science)立场:
+    - 基础研究 ≠ 实操指南
+    - 学术结论 → 育儿建议 → 政策落地 — 3 次翻译
+    - 每次翻译都有失真风险
+    Sigel Ch 24 列出**3 大陷阱**:
+    - **翻译失真**:学术语言到家长语言的简化扭曲
+    - **文化盲点**:美中产假设普世化(Greenfield 反复批)
+    - **政治化**:政策选择性引用研究(Heckman 经济曲线被 cherry-pick)
+    Lerner 个人立场:研究者必须懂实操语境,实操者必须读原研究。
+    意义:
+    - 反"专家说就对"
+    - 反"所有研究都能直接用"
+    - 中国家长读西方育儿书时尤其要警惕跟现库:跟松田道雄日本视角(SRC-024)+ 鲍秀兰中国视角(SRC-009)对照。
+    V4 是综合应用层综述,不是单本派指南。
+    对中国家长意义:
+    - 西方研究 ≠ 直接搬运
+    - 文化语境影响有效性
+    - 多看综述少看单本爆款
+    - 自己孩子需要什么自己判断
+  what_to_do:
+    - 西方研究读原始不只看媒体
+    - 注意文化语境差异
+    - 多家综述胜过单家爆款
+    - 观察自己孩子才是根
+  failure_mode: |
+    "专家说就对"— 错。研究有失真。
+    "美国研究普世适用"— 错。文化盲点常见。
+    "读一本就够"— 错。综述对照才稳。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Lerner
+  - G-PERSON-Sigel
+  - G-PERSON-Renninger
+  - G-TERM-applied-developmental-science
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 4 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 4 卷"
+  authors: ['Irving E. Sigel']
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 24 · Sigel · Research to practice redefined · pp. 1017-1023"
+  source_id: SRC-029
+
+unit_ids: []
+related_cards:
+  - C-S0-722     # Eisenberg V3 序章发展研究
+  - C-S0-619     # Shonkoff NRC 综述权威
+  - C-S0-517     # 松田不焦虑育儿哲学
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

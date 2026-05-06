@@ -1,0 +1,44 @@
+card_id: C-S5-2145
+stages: [S5]
+tags: [philosophy, mainstream, feeding, weaning]
+
+front:
+  title: 断奶 1 岁前后
+  hook: 不催不拖看信号
+
+back:
+  why_matters: |
+    WHO 推荐母乳到 2 岁,AAP 推荐至少 1 岁。前情:S4 辅食已主导热量摄入。海蒂书强调断奶没有"必须几月"的死规定,1 岁前后是大多数家庭的自然窗口:辅食已能提供主要营养、宝宝对奶兴趣下降、妈妈生活需要调整。强行延后或提前都不如顺势而为。
+  what_to_do:
+    - 1 岁前后观察:辅食吃饱、喝奶兴趣减弱
+    - 一次断一顿,2-4 周慢慢减
+    - 先断白天最不重要那顿,夜奶最后断
+    - 用杯子代替奶瓶过渡
+  failure_mode: |
+    亲戚施压"1 岁必须断"突然停母乳,妈妈涨奶娃情绪崩溃,母婴关系被破坏。
+  evidence_level: B
+
+glossary_refs: [G-TERM-weaning-table, G-TERM-whole-milk-toddler]
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors:
+    - Heidi Murkoff
+    - Sharon Mazel
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh:
+    - 莫夏迪
+    - 张敏
+  location: "第 12 章第 12 个月, 页 495-501"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards: [C-S5-2146, C-S5-2153]
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

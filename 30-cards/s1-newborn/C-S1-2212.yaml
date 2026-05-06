@@ -1,0 +1,41 @@
+card_id: C-S1-2212
+stages: [S1]
+tags: []
+front:
+  title: 周期性呼吸正常
+  hook: 暂停 5-10 秒别恐慌
+back:
+  why_matters: |
+    新手父母最大恐惧之一:夜里看宝宝胸膛起伏不规律,以为停止呼吸。
+    海蒂解释:醒着每分钟呼吸 40 次,睡着降到 20 次。深睡时可能 15-20 秒快浅呼吸 → 暂停约 10 秒(真的停止呼吸)→ 又开始 — 这叫周期性呼吸,完全正常。
+    机制:大脑呼吸控制中枢未发育成熟 — 6 个月后会逐渐规律。
+    宝宝用横膈呼吸(肺下大块肌肉),所以胸腹起伏不像成人那么规律。
+    真红旗:每分钟超 60 次、鼻翼煽动、咕噜声、脸色发蓝、肋间内陷 → 立即就医。
+  what_to_do:
+    - 暂停不超过 10 秒不要叫醒不要恐慌
+    - 看胸腹是否在动(不止看口鼻)
+    - 红旗:超过 60 次/分 + 蓝紫 + 肋间内陷立即就医
+    - 不要每 5 分钟去查呼吸
+    - 仰睡 + 硬床垫 + 无枕头 = 减少 SIDS 焦虑
+  failure_mode: |
+    每隔几分钟去查呼吸 → 自己睡眠崩溃 + 弄醒宝宝。
+    错过真急症(发蓝/呼吸过快/肋间内陷)的就医时机。
+  evidence_level: B
+glossary_refs: [G-TERM-periodic-breathing]
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors: ["Heidi Murkoff", "Sharon Mazel"]
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh: ["莫夏迪","张敏"]
+  location: "第 6 章第一个月 · 宝宝的呼吸, 页 180-181"
+  source_id: SRC-040
+related_cards: []
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

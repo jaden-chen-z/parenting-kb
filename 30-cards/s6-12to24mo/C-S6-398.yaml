@@ -1,0 +1,58 @@
+card_id: C-S6-398
+stages: [S6]
+tags: [discipline, RIE, lansbury, controversy]
+
+front:
+  title: "不 time-out 不打不威胁"
+  hook: "Magda:出生命外吗?"
+
+back:
+  why_matters: |
+    Lansbury Ch22 引 Magda Gerber:
+    "Time out 出什么 — 出生命外吗?"
+    RIE 反 time-out / 反惩罚 / 反威胁 / 反打。
+    替代:
+    - 真失控 → 抱回家 / 抱到房间(陪伴下宣泄,非惩罚)
+    - 自然结果代替惩罚(扔食物 = 饭结束;不穿衣 = 不出门)
+    - "我不让你..." + 物理挡
+    - 哭 / 怒 = 允许,不"不许哭"
+    打孩子的研究证:3 岁多打 → 5 岁更暴力(Park 综述)。
+
+  what_to_do:
+    - 不"罚站去那里冷静"(那是惩罚)
+    - 公共场所失控 = 抱走(平和,不惩罚)
+    - 自然结果 > 人为惩罚
+    - 哭 / 闹情绪允许,但行为坚定挡
+    - 永远不打 / 不威胁打
+
+  failure_mode: |
+    "我打他是为他好" → 研究证短期止 + 长期更暴力。
+    或反向:"反 time-out = 啥规矩没有" → 错。
+    Magda:"没限度不是仁慈,是失职"。RIE 要"非惩罚 + 严格限度"。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Lansbury
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+
+citation:
+  book_title_en: "Elevating Child Care: A Guide to Respectful Parenting"
+  book_title_zh: "尊重孩子:RIE 育儿之道"
+  authors:
+    - Janet Lansbury
+  publisher_en: JLML Press
+  year: 2014
+  location: "Ch22 No Bad Kids — Rules 5/6/9"
+  source_id: SRC-019
+
+unit_ids: []
+related_cards:
+  - C-S6-192  # Lillard No 永远是 No
+  - C-S6-397  # Lansbury 我不让你
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

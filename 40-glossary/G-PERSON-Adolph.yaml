@@ -1,0 +1,73 @@
+glossary_id: G-PERSON-Adolph
+type: person
+display_name: Adolph
+
+full_name_en: Karen E. Adolph
+full_name_zh: 凯伦·E·阿道夫
+
+one_liner: |
+  美国发展心理学家(纽约大学教授),婴幼儿大动作 + 学走研究权威。
+  精细统计:学走每天 1500-9000 步,每小时跌 17 次是常态。
+
+detail: |
+  ## 个人背景
+  - Emory 大学博士(Bertenthal 学生)
+  - 纽约大学(NYU)心理学教授
+  - Infant Action Lab 主任
+
+  ## 核心研究
+  ### 1. 学走精细数据
+  - 11-15 月学走儿每天行走 1500-9000 步
+  - 每小时跌倒平均 17 次
+  - 1 岁累计行走相当于绕赤道几次
+
+  ### 2. 视觉悬崖跟运动经验关联
+  - 跳过爬行(用学步车)— 视觉悬崖反应延迟
+  - 运动经验是深度感知触发条件
+
+  ### 3. 跨情境运动学习
+  - 学会"走斜坡"不会自动迁移到"走桥"
+  - 每个情境需独立练
+  - 不存在"通用运动技能"
+
+  ## 立场
+  - 反"运动技能可一次学会"
+  - 反"学步车有助于学走"
+  - 跟 Pikler 反"教大动作"立场对接(实证版)
+
+  ## 中国家长意义
+  - 跌 17 次/小时 = 完全正常
+  - 不要学步车 / 学步带
+  - 给大空间 + 软地 + 自由练
+  - 不焦虑"几月学会走"(范围 9-18 月)
+
+  ## 在本知识库中
+  - SRC-028 Lerner V2 Ch4 主笔(193 hits)
+  - C-S5-1138 Adolph 学走 1500-9000 步
+
+  ## 学术影响
+  - 大动作发展实证派权威
+  - 跟 Thelen 动态系统立场互补
+  - 跨情境运动学习研究开创
+
+key_facts:
+  - 纽约大学心理学教授
+  - 学走精细统计奠基
+  - 反学步车实证派
+  - 跟 Pikler 立场实证印证
+
+related_glossary:
+  - G-PERSON-Pikler
+  - G-PERSON-Brazelton
+
+related_cards:
+  - C-S5-1138
+
+sources:
+  - source_id: SRC-028
+  - external: Adolph 2003+ / NYU Infant Action Lab
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

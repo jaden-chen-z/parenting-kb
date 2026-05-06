@@ -1,0 +1,62 @@
+card_id: C-S8-1146
+stages: ['S8']
+tags: ['philosophy', 'lerner_v1', 'benson', 'developmental_assets']
+
+front:
+  title: "Search 40 项发展资产"
+  hook: "内 + 外资产清单"
+
+back:
+  why_matters: |
+    Benson(Search Institute,via Lerner Ch 16)给 40 项 developmental assets —
+    分内部(20)+ 外部(20)资产:
+    
+    **外部资产**:
+    - Support(家庭支持 / 邻居 / 学校 / 父母参与)
+    - Empowerment(被重视 / 安全感 / 资源 / 服务社区)
+    - Boundaries(家庭 / 学校 / 邻居边界 + 成人榜样)
+    - Constructive Use of Time(创造性活动 / 青年项目 / 信仰社区 / 居家时间)
+    
+    **内部资产**:
+    - Commitment to Learning(成就动机 / 阅读 / 学习参与)
+    - Positive Values(关怀 / 平等 / 诚实 / 责任)
+    - Social Competencies(规划 / 同理 / 决策 / 文化能力)
+    - Positive Identity(个人力量 / 自尊 / 目的感 / 未来观)
+    
+    意义 — 中国父母看清单 — 你家娃有哪些资产已建?哪些缺?
+    数据 — 高 30+ 资产的青少年:risky behavior 大幅下降 + 学业 + 关系全面好。
+  what_to_do:
+    - "清单逐项看 — 我家娃有哪些资产"
+    - "40 项中目标 30+(高 thriving)"
+    - "外部资产先建(支持 / 边界)"
+    - "内部资产 = 长期目标"
+    - "asset 视角 = 替代成绩中心"
+  failure_mode: |
+    "成绩中心" 立场 — 错。40 项 assets 数据:多维平衡更预测福祉。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Benson
+  - G-PERSON-Lerner
+  - G-TERM-developmental-assets
+  - G-TERM-positive-youth-development
+
+related_cards:
+  - C-S0-1522
+  - C-S0-1553
+  - C-S8-1145
+  - C-S0-1500
+
+citation:
+  source_id: SRC-030
+  source_title: "Handbook of Child Psychology Vol 1: Theoretical Models of Human Development"
+  chapter: "Ch 16 Lerner PYD (Benson assets)"
+  chapter_offset: 4860000
+  chapter_title: 'Lerner / Benson / Scales / Hamilton / Sesma — Positive Youth Development'
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_followup_needed: 'SRC-030 用 PDF 字节偏移代页码 — 待加 page_pdf 反查工具'

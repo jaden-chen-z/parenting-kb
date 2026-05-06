@@ -1,0 +1,66 @@
+card_id: C-S0-1241
+stages: [S0]
+tags: [boekaerts, self_regulation, lerner_v4]
+
+front:
+  title: 自我调节 3 层不只意志
+  hook: 自我调节有 3 层
+
+back:
+  why_matters: |
+    Boekaerts V4 Ch 9 自我调节综述章。
+    **自我调节 3 层模型**(Boekaerts 1992+):
+    - **认知层**:学习策略 / 元认知 / 计划监控
+    - **动机层**:目标 / 兴趣 / 自我效能
+    - **情境层**:情绪管理 / 应激应对 / 同伴关系
+    **三层互动**(本章核心):
+    - 单层失败 → 整体失败
+    - 学渣不是认知差,可能是动机或情境断
+    - "意志力"是浅层概念,真自我调节是 3 层协调干预设计原则:
+    - 不只教"怎么学"(认知)
+    - 还要建"为啥学"(动机)
+    - 还要稳"什么状态学"(情境)
+    意义:
+    - 反"意志力决定一切"
+    - 反"刷题就行"
+    - 自我调节是 3 维系统不是单维品质跟现库:跟 V3 Eisenberg effortful control(SRC-027)+ Tools of the Mind(待建)对接。
+    对中国家长意义:
+    - 学渣不是懒 — 看 3 层哪层断
+    - 鸡娃 + 鸡认知不够 — 还要鸡动机
+    - 情绪稳定是学习前提
+    - "刻苦"是浅层,自我调节才深
+  what_to_do:
+    - 学渣别只看认知
+    - 同时鸡动机+情境
+    - 情绪稳是学习前提
+    - '反"意志力决定"立场'
+  failure_mode: |
+    "意志力决定学习"— 错。3 层系统。
+    "刷题就行"— 错。动机+情境断会失败。
+    "懒孩子注定不行"— 错。可能是某层断了。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Boekaerts
+  - G-TERM-self-regulation
+  - G-TERM-effortful-control
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 4 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 4 卷"
+  authors: ['Monique Boekaerts']
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 9 · Boekaerts · Self-regulation 3 layers · pp. 345-360"
+  source_id: SRC-029
+
+unit_ids: []
+related_cards:
+  - C-S0-1232     # Cicchetti 4 原则
+  - C-S0-619     # NRC 自我调节核心
+  - C-S5-1041     # Eisenberg 自我调节
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,70 @@
+card_id: C-S6-1382
+stages: [S6]
+tags: [media, comstock, toddler, lerner_v4]
+
+front:
+  title: 12-24 月禁屏理由
+  hook: 12-24 月禁屏因
+
+back:
+  why_matters: |
+    Comstock V4 Ch 20(12-24mo 禁屏立场)。
+    **12-24 月看屏 4 大伤害**:
+    - **语言延迟**:看屏 → 真人互动减少 → 词汇少
+    - **注意力短**:快速剪辑 → 大脑期待"不停变化" → 注意力短
+    - **睡眠差**:蓝光 + 兴奋 → 入睡难 + 浅睡
+    - **活动减**:看屏代替运动 / 探索
+    **实证**(Comstock 元分析):
+    - 12-24 月每多 1 小时屏幕 → 语言延迟风险 +12%
+    - 注意力问题 +15%
+    - 睡眠问题 +20%
+    - 但**质量内容 + 父母陪看**部分抵消
+    **AAP / WHO / V4 立场一致**:
+    - 0-18 月**绝对禁屏**(除视频通话)
+    - 18-24 月**限优质内容 + 父母陪看**
+    - 24+ 月**< 1 小时优质内容**
+    **3 大替代**:
+    - 户外(走 / 跑 / 探)
+    - 阅读(绘本 + 父母读)
+    - 互动玩具(积木 / 拼图 / 角色扮演)
+    跟现库:跟 C-S0-1236 Comstock 5 效应 + AAP 反屏(SRC-002)+ 松田 §428 反电视(SRC-024)对接。
+    对中国家长意义:
+    - 18 月前绝对不给屏幕
+    - 18-24 月特别情况限优质 + 陪看
+    - 户外 / 阅读 / 玩耍替代
+    - iPad 不是早教工具是伤害源
+  what_to_do:
+    - 18 月前绝对禁屏
+    - 18-24 月限优质+陪看
+    - 户外+阅读+玩耍替代
+    - iPad 不是早教工具
+  failure_mode: |
+    "教育 app 18 月看没事"— 错。语言延迟 +12%。
+    "陪看就抵消"— 错。注意力影响仍在。
+    "打疫苗看动画安抚"— 错。建立坏习惯。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Comstock
+  - G-TERM-anti-screen
+  - G-TERM-media-effects
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 4 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 4 卷"
+  authors: ['George Comstock', 'Erica Scharrer']
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 20 · Comstock · Toddler 12-24mo screen ban · pp. 830-840"
+  source_id: SRC-029
+
+unit_ids: []
+related_cards:
+  - C-S0-1236     # Comstock 5 效应
+  - C-S8-101     # 松田反电视
+  - C-S8-749     # V4 屏幕 5 大伤娃 S8
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

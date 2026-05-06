@@ -1,0 +1,61 @@
+card_id: C-S1-1013
+stages: [S1]
+tags: []
+
+front:
+  title: "HIV+ART 时代可母乳"
+  hook: "AFASS 决定怎么喂"
+
+back:
+  why_matters: |
+    WHO 2010 修订 — 抗病毒治疗(ART)时代立场转变(白话翻译):
+    > 如果替代喂养(用配方)可接受、可行、可负担、可持续、安全 (AFASS 5 条件),
+    > 推荐 HIV+ 妈妈使用配方;否则推荐纯母乳。
+
+    **AFASS 5 条件**:可接受 / 可行 / 可负担 / 可持续 / 安全 — 全部满足才用配方。
+
+    - 高资源区(美 / 欧 / 中国一线城市)+ AFASS 满足 → 用配方,母婴传播几乎消除
+    - 低资源区(撒哈拉以南非洲)+ AFASS 不全 → 纯母乳 + 妈妈服抗病毒药(降低传播率)
+
+    **关键**:不要混合喂养(母乳 + 配方)— 比纯一种风险更高。
+
+    中国母婴阻断指南:HIV+ 妈妈推荐用配方(AFASS 满足),但需个案评估。
+  what_to_do:
+    - "HIV+ 妈妈不必然停母乳 — 看 AFASS 评估"
+    - "AFASS 满足 + 高资源区 → 用配方(母婴传播 < 1%)"
+    - "AFASS 不全 → 纯母乳 + 抗病毒治疗"
+    - "绝对不混合喂养 — 任何一边纯"
+    - "中国 HIV+ 妈妈先到母婴阻断门诊评估再决定"
+  failure_mode: |
+    把"HIV+"等于"必须配方" → 老立场,2010 修订改了。
+    AFASS 5 条件评估:有抗病毒治疗 + 有支持环境 + 个案。
+  evidence_level: A
+
+glossary_refs:
+  - G-TERM-HIV-feeding
+  - G-TERM-AFASS
+  - G-TERM-mixed-feeding
+
+citation:
+  page_title: "WHO HIV and Infant Feeding Guidelines (2010 ART era)"
+  publisher: "World Health Organization & UNICEF"
+  page_url_primary: https://en.wikipedia.org/wiki/Breastfeeding_and_HIV
+  accessed: 2026-05-04
+  language: en
+  location: "WHO 2010 ART 时代修订 + AFASS 5 条件 + MTCT 数据"
+  source_id: SRC-031
+
+unit_ids: []
+related_cards:
+  - C-S1-1012
+  - C-S1-1003
+  - C-S0-1024
+  - C-S1-053
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_doc_id_pending: D9
+citation_followup_needed: '已映射真实 doc_id (D9 = Breastfeeding HIV 2010 ART)'

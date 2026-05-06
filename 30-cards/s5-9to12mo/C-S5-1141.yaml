@@ -1,0 +1,67 @@
+card_id: C-S5-1141
+stages: [S5]
+tags: [cognitive_science, pointing, tomasello, lerner_v2]
+
+front:
+  title: 9 月真指不是要东西
+  hook: 是分享惊喜不是要
+
+back:
+  why_matters: |
+    Tomasello/Carpenter/Liszkowski 2007 经典(Lerner V2 Ch6)。
+    9 月前后宝宝出现两类"指"动作:
+    - **Imperative pointing**(要 — 早,9 月)— 指糖果想要
+    - **Declarative pointing**(分享 — 关键,9-12 月)— 指飞机让你看
+    Declarative pointing 是 9 月革命的核心:
+    - 不是"我要" — 是"我跟你分享我注意到这"
+    - 黑猩猩**不会**declarative pointing(只 imperative)
+    - 是人类独有的认知能力实验:跟宝宝玩,他指了房顶飞机
+    - 妈妈看飞机 + 评论 → 宝宝满足(目的达到)
+    - 妈妈给宝宝玩具(以为他要玩具)→ 宝宝不满(没分享到)
+    - 证明 declarative 意图存在意义:
+    - 不只是动作,是"分享意图"标记
+    - 是 theory of mind 雏形(知道你能跟我看)
+    - 是语言学习社交基础跟现库:G-TERM-joint-attention 已建,V2 给 declarative vs imperative 关键区分。
+    跟 Stern intersubjectivity 接 — 9-12 月知道"我们都注意到这"。
+    对中国家长意义:
+    - 9 月起认真"看宝宝指的方向" + 评论
+    - 不要"以为他要东西就给"
+    - 这是培养 ToM 的窗口
+    - 中文家长容易忽视 — 觉得"指就是要"
+  what_to_do:
+    - 9 月起跟随宝宝指的方向看
+    - 言语标记(看,飞机!对,小鸟!)
+    - 不要默认"指 = 要东西"
+    - 不要扫一眼就过去 — 真分享惊喜
+  failure_mode: |
+    "宝宝指就是要" — 错。9 月后多是 declarative。
+    "随便看一眼回应" — 错。不算分享。
+    "指物没意义" — 错。是 ToM 雏形。
+  evidence_level: B
+
+glossary_refs:
+  - G-TERM-joint-attention
+  - G-TERM-theory-of-mind
+  - G-PERSON-Tomasello
+  - G-TERM-9-month-revolution
+  - G-PERSON-Stern
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 2 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 2 卷"
+  authors: ["Michael Tomasello"]
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 6 · Pointing imperative vs declarative · pp. 270-275"
+  source_id: SRC-028
+
+unit_ids: []
+related_cards:
+  - C-S5-1140     # Tomasello 9 月革命
+  - C-S5-1142     # Bates 手势-语言连续(下一张)
+  - C-S6-001       # Stern intersubjectivity
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

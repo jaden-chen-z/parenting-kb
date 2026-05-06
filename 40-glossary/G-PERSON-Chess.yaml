@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Chess
+type: person
+display_name: "Chess(斯特拉·切斯)"
+
+full_name_en: "Stella Chess"
+full_name_zh: "斯特拉·切斯"
+
+position: |
+  NYU Medical Center 儿童精神科教授
+
+contribution: |
+  NYLS 纽约纵向研究 + 9 维度气质;Thomas 妻
+
+one_liner: |
+  斯特拉·切斯 — NYLS 纽约纵向研究 + 9 维度气质;Thomas 妻
+
+key_facts:
+  - "本卷章节:Ch 3 historical"
+  - "Lerner V3 命中:55 次"
+  - "学派:Lerner V3 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-027
+    chapter: "Ch 3 historical"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,74 @@
+card_id: C-S8-748
+stages: [S8]
+tags: [child_witness, bruck_ceci, lerner_v4]
+
+front:
+  title: 问娃问错就扭曲
+  hook: 问娃问错就扭曲了
+
+back:
+  why_matters: |
+    Bruck-Ceci-Principe V4 Ch 19 儿童与法律章。
+    **儿童证人记忆扭曲 4 大机制**:
+    - **暗示性**:成人重复问 → 娃说"是"(讨好)
+    - **重复**:同一问题问 5+ 次 → 答案变(不确定→编)
+    - **情感压力**:大人焦虑 → 娃改答(讨好)
+    - **stereotype induction**:"那个叔叔坏吗?" → 后续记忆扭曲
+    **实证**(Bruck-Ceci 1990s+ 经典):
+    - 儿童证人在性虐待 / 离异争夺中频频被错误询问
+    - "没有发生"被询问后 30% 娃说"发生了"
+    - **不是娃说谎,是误以为发生**
+    **正确询问方式**:
+    - 开放式问题:"告诉我那天发生了啥"
+    - 不重复:一次问完
+    - 不暗示:不带答案选项
+    - 多人询问扭曲度高
+    **家庭场景**:
+    - 兄弟姐妹打架(谁先动手)
+    - 离婚父母争夺(娃说"喜欢谁")
+    - 老师询问行为(娃讨好答)
+    意义:
+    - 4 岁起询问可信度差
+    - 严重事件请专业人员
+    - 别在情绪中重复问娃跟现库:跟 V3 Saarni 情绪能力(C-S6-1068)+ V2 Karmiloff-Smith 元认知(C-S8-424)对接。
+    对中国家长意义:
+    - 别"逼问"小娃
+    - 开放式问"发生了啥"
+    - 别多人重复问同一问题
+    - 严重事件找专业人员
+  what_to_do:
+    - '别"逼问"小娃'
+    - '开放式问"发生啥"'
+    - 别多人重复同一问
+    - 严重事件找专业
+  failure_mode: |
+    "娃说就是真"— 错。问法定扭曲。
+    "重复问会更准"— 错。重复问改答。
+    "小娃记得清"— 错。4 岁起易扭曲。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Bruck
+  - G-PERSON-Ceci
+  - G-TERM-child-witness
+  - G-TERM-suggestibility
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 4 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 4 卷"
+  authors: ['Maggie Bruck', 'Stephen J. Ceci', 'Gabrielle F. Principe']
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 19 · Bruck-Ceci · Child witness suggestibility · pp. 776-795"
+  source_id: SRC-029
+
+unit_ids: []
+related_cards:
+  - C-S6-1068     # V3 Saarni 8 情绪能力
+  - C-S8-424     # V2 Karmiloff-Smith RR
+  - C-S0-1232     # Cicchetti 4 原则
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

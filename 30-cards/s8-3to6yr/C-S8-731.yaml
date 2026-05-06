@@ -1,0 +1,71 @@
+card_id: C-S8-731
+stages: [S8]
+tags: [reading, paris, literacy, lerner_v4]
+
+front:
+  title: 阅读 5 要素缺一不可
+  hook: 阅读 5 要素全要
+
+back:
+  why_matters: |
+    Paris-Paris V4 Ch 2 早期阅读评估章(基于 NRP National Reading Panel)。
+    **早期阅读 5 大要素**(NRP 2000 + Paris 综述):
+    - **音韵意识**:能听出 ba-ba-bu 的不同
+    - **字母知识**:认字母 + 字母-音对应
+    - **词汇**:已知词数(直接预测后期阅读)
+    - **流利度**:速度 + 准确 + 表达
+    - **理解**:从词到意义的整合
+    **5 个不能跳**:
+    - 缺音韵 → 拼读卡死
+    - 缺字母 → 解码慢
+    - 缺词汇 → 理解浅
+    - 缺流利 → 读得累放弃
+    - 缺理解 → 读了也白读
+    **反"早识字就是好"**(本章核心):
+    - 中国家长爱"3 岁认 1000 字"
+    - Paris 立场:认字 ≠ 阅读
+    - 真正阅读 5 要素综合发展意义:
+    - 反"识字早 = 阅读早"误解
+    - 5 要素需要综合发展
+    - 识字+音韵+词汇+流利+理解都重要跟现库:跟 Snow 双语(C-S8-732 待建)+ V2 Goswami 音韵(C-S5-1140)对接。
+    对中国家长意义:
+    - 别只 focus 识字数量
+    - 多读绘本(培养理解 + 词汇)
+    - 唱儿歌(培养音韵)
+    - 让孩子讲故事(培养流利度)
+  what_to_do:
+    - 不只 focus 识字数量
+    - 多读绘本培养理解
+    - 唱儿歌练音韵意识
+    - 让孩子讲故事练流利
+  failure_mode: |
+    "3 岁认 1000 字就是阅读好"— 错。5 要素综合。
+    "读得快就是好"— 错。理解才是核心。
+    "识字早 = 阅读早"— 错。多要素并行。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Paris-Scott
+  - G-TERM-NRP
+  - G-TERM-phonological-awareness
+  - G-TERM-reading-fluency
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 4 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 4 卷"
+  authors: ['Scott G. Paris', 'Alison H. Paris']
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 2 · Paris-Paris · 5 reading components · pp. 48-60"
+  source_id: SRC-029
+
+unit_ids: []
+related_cards:
+  - C-S0-1235     # Hyson DAP 反学业前移
+  - C-S5-1140     # V2 Goswami 音韵意识
+  - C-S6-927     # Shonkoff 词汇爆发
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

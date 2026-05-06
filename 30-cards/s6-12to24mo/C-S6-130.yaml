@@ -1,0 +1,68 @@
+card_id: C-S6-130
+stages: [S6]
+tags: [montessori, practical-life, independence]
+
+front:
+  title: 12-15 月生活技能起步
+  hook: 自己穿 / 装 / 扔
+
+back:
+  why_matters: |
+    1 岁后蒙氏教育进入 **practical life**(生活技能)阶段 — 让宝宝参与日常家务,这就是他的"工作"。
+    12-15 月可以做的事(蒙氏 0-3 标准):
+    | 类别 | 具体 |
+    |---|---|
+    | **穿衣** | 自己塞手到袖子 / 拉裤腰 / 摘袜 |
+    | **吃** | 自己拿勺(乱不要紧)/ 自己拿杯 |
+    | **餐后** | 自己端空碗到水池(矮桌)/ 拿抹布擦桌 |
+    | **物品归位** | 玩完玩具放回低货架 |
+    | **个人** | 鼻子流出自己用纸巾(你示范几次) |
+    | **门** | 自己开关安全门 |
+    | **垃圾** | 拿自己的尿布去垃圾桶 |
+    准备物:
+    - **儿童尺寸工具**(矮桌椅 / 矮挂钩 / 矮货架)
+    - **真物**(真碗 / 真勺 / 真抹布,不卡通塑料)
+    - **流程固定**(吃完→端碗→擦桌→放玩具)
+    - **慢慢来** — 1 件 1 件加,不一次性意义:
+    - **真正的独立性建立** — 不是说"独立"是做"独立的事"
+    - **自我效能感** — "我能为家做事"
+    - **手脚配合 + 精细动作**自然练
+    - 1-3 岁是练生活技能的黄金时期家长难处:**慢 + 乱**。蒙氏立场:慢和乱是必须付的学费。
+  what_to_do:
+    - 12 月起每周加 1 件他能做的事
+    - 工具用真物 + 儿童尺寸
+    - 示范 1-2 次,然后让他做
+    - 不催 / 不替 — 慢就慢
+    - 接受 50% 不完美,他在学
+  failure_mode: |
+    "他还小,等大点再让他做" — 1-3 岁是 practical life 黄金期。错过,4 岁再教难得多。
+    "我做更快" — 短期是,长期他学不会自我照顾。
+    "桌上一团糟,我擦了" — 他擦不干净没关系,他在练。你二次擦也行。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Davies
+  - G-PERSON-Montessori
+  - G-TERM-prepared-environment
+
+citation:
+  book_title_zh: "蒙特梭利的小宝宝(0-1岁)"
+  book_title_en: "The Montessori Baby"
+  authors: ["Simone Davies", "Junnifa Uzodike"]
+  authors_zh: ["西蒙·戴维斯", "君妮法·乌佐迪克"]
+  publisher_en: "Workman Publishing"
+  year_en: 2021
+  isbn_en: "978-1-5235-0693-7"
+  location: "Chapter 4 · Preparing the home for a young toddler"
+  source_id: SRC-014
+
+unit_ids: []
+related_cards:
+  - C-S5-131       # 蒙氏 不替他做
+  - C-S5-133       # 蒙氏 自喂
+  - C-S6-122       # Wonder Week 程序世界
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

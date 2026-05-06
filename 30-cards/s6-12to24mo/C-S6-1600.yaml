@@ -1,0 +1,36 @@
+card_id: C-S6-1600
+stages: [S6]
+tags: [sibling, communication]
+front:
+  title: 怀孕 3 月末告诉老大刚好
+  hook: 太早等不及太晚被剥夺
+back:
+  why_matters: |
+    前情:老大已 1-2 岁,父母担心怎么宣布二胎。
+    9 个月对幼儿是漫长时间,1-2 岁的老大对时间没概念。海蒂建议怀孕 3 个月末或第 4 个月初告诉老大,这时早期流产风险已过、肚子还不明显但不久会显怀,留够心理适应期又不至于让老大干等到崩溃。一定要在他从别人那听说前告诉他。
+  what_to_do:
+    - 怀孕 3 月末-4 月初告诉老大
+    - 用宝宝心跳/超声照让老大参与
+    - 带老大去 1-2 次产检
+    - 用大宝宝照片讲他刚出生时
+    - 别在大人聊天时让他无意听到
+  failure_mode: 太早说老大问"宝宝什么时候来"问到崩溃;太晚说老大从亲戚或别人嘴里听到觉得被瞒,信任受损。
+  evidence_level: B
+glossary_refs: []
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors: ["Heidi Murkoff", "Sharon Mazel"]
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh: ["莫夏迪", "张敏"]
+  location: "第 25 章 《二胎》, 页 722-724"
+  source_id: "SRC-040"
+related_cards: [C-S6-1601]
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

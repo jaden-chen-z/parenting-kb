@@ -1,0 +1,100 @@
+glossary_id: G-TERM-affective-attunement
+type: term
+display_name: 情感调谐 (affective attunement)
+
+full_name_zh: 情感调谐
+full_name_en: Affective Attunement / Affect Attunement
+
+one_liner: |
+  ⭐⭐⭐ Stern 最重要的原创概念 — **9 月起父母用不同感官形式匹配宝宝内心活力质地**,达成"心理同频"。
+  不是 imitation(模仿外在),不是 mirroring(镜映),而是**跨感官 + vitality 层 + 90% 无意识**的本能行为。是 secure attachment 的心理机制 + self-affectivity 的形成器。
+
+detail: |
+  ## 定义
+  Affective attunement(情感调谐)= 父母通过**不同感官形式**匹配宝宝**内心 vitality affect 质地**的行为。
+  - 9 月起开始(intersubjectivity 启动后)
+  - 87% 跨感官(声音 ↔ 动作 ↔ 表情)
+  - 主要匹配 intensity / timing / shape
+  - 90% 在 unawares(无意识)中发生
+
+  ## Stern 实验经典案例
+  - **案例 1**:9 月女宝抓玩具兴奋叫"aaaah!" → 妈妈耸肩 + 上身像 go-go 舞者抖动 — 匹配兴奋度 + 持续时间
+  - **案例 2**:9 月男宝有节奏敲软玩具 → 妈"kaaa-bam"匹配节奏
+  - **案例 3**:8.5 月男宝伸手用力够物 → 妈"uuuh!"声音渐强匹配物理努力
+
+  ## 跟相关概念区别
+  | 概念 | 时机 | 信息层 | 关键特征 |
+  |---|---|---|---|
+  | **Imitation** | 0-9 月主要 | 外在行为(form)| 同感官重现 |
+  | **Mirroring** | 临床多义 | 不清 | 模糊 |
+  | **Attunement** | 9 月+ | 内心质地(feeling)| 跨感官 + vitality |
+  | **Empathy** | 后期 + 成人 | 内心 + 认知 | 加抽象 + 反思 |
+
+  ## 6 个匹配维度(Stern 实验)
+  1. **Absolute intensity**(绝对强度)— 61%
+  2. **Intensity contour**(强度轮廓)— 81% **最常用**
+  3. **Temporal beat**(节拍)— 13%
+  4. **Rhythm**(节奏)— 11%
+  5. **Duration**(持续时间)— 69%
+  6. **Shape**(形态)— 47%
+  匹配 1 维度即可成立 attunement,大多数同时匹配 2+ 维度。
+
+  ## 底层机制 — amodal perception
+  - 强度 / 时间 / 形态 都是 amodal(跨感官)
+  - 这就是为什么妈妈能用动作匹配宝宝声音
+  - 婴儿出生即能跨感官识别(Meltzoff & Borton 1979)
+
+  ## Misattunement 类型
+  - **Tuning(故意失调谐)** — 故意调高 / 调低,目的是带宝宝到新状态
+  - **True misattunement(真失调谐)** — 没读对宝宝内心,或自己找不到对应感觉
+
+  ## Selective attunement = socialization 工具
+  - 父母**选择性**回应某些情感,忽略某些 → 教宝宝"哪些可分享,哪些不能"
+  - 中文家庭高频:压抑愤怒 / 恐惧 / 悲伤的回应
+
+  ## Communion vs Communication
+  - **Communion** — 单纯共在,no agenda
+  - **Communication** — 试图改变对方
+  - 真正的 attunement = communion 主导
+
+  ## 频率
+  - 玩耍中:1 次 attunement / 65 秒(Stern 实验数据)
+  - 是健康母婴互动的密度标准
+
+  ## 临床意义
+  - 是 secure attachment(Bowlby)的**心理机制**层
+  - 是 self-affectivity(core self)的形成器
+  - 缺失 → alexithymia / 心理孤独 / 焦虑型依恋根源
+  - 心理治疗核心机制 — therapist 对来访者做 attunement
+
+  ## 90% unawares 的解放性
+  - 是天生的 + 本能的 — 不需"专门学习"
+  - 只需"心在场" + "看着宝宝"
+  - 焦虑型妈妈反而 attunement 差(太用力)
+  - 信任本能 — 不要分析
+
+key_facts:
+  - Stern 最重要原创概念
+  - 9 月起,跨感官匹配宝宝内心活力
+  - 87% 跨感官,90% 无意识
+  - 是 secure attachment 心理机制
+  - 1 次 / 65 秒 = 玩耍黄金标准
+
+related_glossary:
+  - G-PERSON-Stern
+  - G-TERM-vitality-affects
+  - G-TERM-amodal-perception
+  - G-TERM-RIGs
+  - G-TERM-subjective-self
+  - G-TERM-attachment
+
+related_cards: []
+
+sources:
+  - source_id: SRC-018
+  - external: Stern《The Interpersonal World of the Infant》Ch 7 + Stern et al. (in press) 实验
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

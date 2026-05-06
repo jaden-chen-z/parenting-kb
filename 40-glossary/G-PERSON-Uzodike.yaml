@@ -1,0 +1,54 @@
+glossary_id: G-PERSON-Uzodike
+type: person
+display_name: Uzodike (君妮法·乌佐迪克)
+
+full_name_en: Junnifa Uzodike
+full_name_zh: 君妮法·乌佐迪克
+
+one_liner: |
+  尼日利亚籍蒙氏 0-3 + 3-6 双 AMI 教师,Fruitful Orchard Montessori 学校创办人。
+  Davies 合著《The Montessori Baby》(2021),把蒙氏 0-3 教育引入西非,3 个孩子的母亲。
+
+detail: |
+  ## 背景
+  - 出生于尼日利亚,后留学美国,现居尼日利亚阿布贾(Abuja)
+  - 蒙氏 0-3 + 3-6 双 AMI(国际蒙特梭利协会)认证教师
+  - 2014 年创办 Fruitful Orchard Montessori 学校(西非首批 0-6 蒙氏校之一)
+  - 育有 3 个孩子(本卷写作时 2-8 岁)
+
+  ## 主要著作
+  - 2021《蒙特梭利的小宝宝》(The Montessori Baby) — 与 Simone Davies 合著,本卷
+  - 蒙氏 0-3 实操工作坊导师
+
+  ## 在本卷的贡献
+  - 把蒙氏 0-3 从欧美中产视角延伸到非洲家庭
+  - 多个章节"Junnifa 的故事"(如 1 岁两份大礼 / floor bed 转换 / topponcino 使用)
+  - 特别贡献:Junnifa 的"互相照顾"(siblings 互助,不让老大背"大孩子"压力)
+
+  ## 风格
+  - 跟 Davies 的"低压力欧式蒙氏"互补
+  - 强调蒙氏可以在任何文化 / 经济条件下实施
+  - 反对"蒙氏 = 进口教具"的市场化误解
+
+key_facts:
+  - 尼日利亚阿布贾蒙氏教师
+  - 蒙氏 0-3 + 3-6 双 AMI 认证
+  - Fruitful Orchard Montessori 创办人
+  - 3 个孩子的母亲
+  - 跟 Davies 合著本卷
+
+related_glossary:
+  - G-PERSON-Davies
+  - G-PERSON-Montessori
+  - G-TERM-prepared-environment
+
+related_cards: []
+
+sources:
+  - source_id: SRC-014
+  - external: Fruitful Orchard 官网
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

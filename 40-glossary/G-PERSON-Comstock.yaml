@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Comstock
+type: person
+display_name: "Comstock(乔治·康斯托克)"
+
+full_name_en: "George Comstock"
+full_name_zh: "乔治·康斯托克"
+
+position: |
+  Syracuse University
+
+contribution: |
+  媒体效应综述权威
+
+one_liner: |
+  乔治·康斯托克 — 媒体效应综述权威
+
+key_facts:
+  - "本卷章节:Ch 20 主笔"
+  - "Lerner V4 命中:12 次"
+  - "学派:Lerner V4 应用心理学派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-029
+    chapter: "Ch 20 主笔"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

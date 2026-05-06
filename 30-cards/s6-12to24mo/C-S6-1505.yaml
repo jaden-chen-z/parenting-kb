@@ -1,0 +1,50 @@
+card_id: C-S6-1505
+stages: ['S6']
+tags: ['philosophy', 'lerner_v1', 'lerner', 'PYD', 'controversy']
+
+front:
+  title: "看优势不是修缺点"
+  hook: "资产视角不是赤字"
+
+back:
+  why_matters: |
+    Lerner V1 Ch 16 PYD 反 deficit model — 不是看孩子"少了什么"修补,是看"多了什么"放大。
+    中国家长习惯 deficit 视角 — "我家娃数学差 / 不爱社交 / 不爱阅读" → 拼命补。
+    PYD asset 视角 — "我家娃有 X 优势 / 兴趣 / 关系" → 放大 + 衍生其他能力。
+    1-2 岁这个阶段建立的视角终生影响:
+    - deficit 视角 → 娃感到自己是"问题",自卑根
+    - asset 视角 → 娃感到自己有价值,自信根意义 — 父母选"看优势"还是"修缺点"决定娃自我感。
+  what_to_do:
+    - "每天找娃 1 个优势夸(具体的)"
+    - "不在缺点上反复 nag"
+    - "兴趣 + 优势放大 → 衍生其他能力"
+    - "弱项慢慢补(用优势带)"
+    - "asset 视角 = 长期自信根"
+  failure_mode: |
+    只盯缺点修 — 错。PYD 数据:asset 视角发展更全面。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Lerner
+  - G-TERM-positive-youth-development
+  - G-TERM-asset-based-model
+
+related_cards:
+  - C-S0-1522
+  - C-S6-1064
+  - C-S6-816
+  - C-S6-1075
+
+citation:
+  source_id: SRC-030
+  source_title: "Handbook of Child Psychology Vol 1: Theoretical Models of Human Development"
+  chapter: "Ch 16 Lerner PYD"
+  chapter_offset: 4860000
+  chapter_title: 'Lerner / Benson / Scales / Hamilton / Sesma — Positive Youth Development'
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_followup_needed: 'SRC-030 用 PDF 字节偏移代页码 — 待加 page_pdf 反查工具'

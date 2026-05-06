@@ -1,0 +1,37 @@
+glossary_id: G-TERM-down-syndrome-strengths
+type: term
+display_name: 唐氏综合征强项分布
+
+en_term: Down Syndrome Strength Profile
+zh_term: 唐氏综合征强项分布
+
+one_liner: |
+  Hodapp-Dykens — 唐氏娃语言落后但社交+情绪强。重语言 + 顺势社交训练。
+
+detail: |
+  ## 定义
+  Hodapp-Dykens — 唐氏娃语言落后但社交+情绪强。重语言 + 顺势社交训练。
+
+  ## V4 出处
+  Lerner Handbook of Child Psychology Vol 4 (Wiley 2006 第 6 版)反复引用。
+
+  ## 跨派对接
+  V4 综述权威立场,跨章节多次出现,跟现库其他派有立场对照。
+
+  ## 中国家长意义
+  详见相关知识卡。
+
+key_facts:
+  - "Lerner V4 反复引用术语"
+  - "应用心理学综述权威定义"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-029
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,56 @@
+card_id: C-S0-1503
+stages: ['S0']
+tags: ['philosophy', 'lerner_v1', 'gottlieb', 'probabilistic_epigenesis', 'foundational']
+
+front:
+  title: "基因不决定 4 层互动"
+  hook: "基因 + 环境 4 层"
+
+back:
+  why_matters: |
+    Gottlieb / Wahlsten / Lickliter(Lerner V1 Ch 5)给当代权威反基因决定论模型 —
+    probabilistic epigenesis(概率性表观遗传)4 层双向互动:
+    1. genetic activity(基因活动)
+    2. neural activity(神经活动)
+    3. behavior(行为)
+    4. environment(环境)
+    4 层之间是 ↑↓ 双向因果,不是单向"基因决定行为"。
+    意义 — 你不能说"这孩子天生 X"。基因表达受环境影响,环境影响行为,行为影响神经,神经又调基因表达。
+    中国家长"我家娃天生 X"立场是过时(20 世纪中前期)的 preformist 立场。
+    当代综述:基因 ≠ 命运 = 概率而非必然。
+  what_to_do:
+    - "不说'天生' — 说'目前倾向'"
+    - "改环境 → 改行为 → 影响神经发展"
+    - "坏脾气娃 5-10 年 environment 改变可能转"
+    - "基因测试不能预测命运(只是概率)"
+    - "'环境一辈子可改'是 V1 共识立场"
+  failure_mode: |
+    "基因决定" 立场 — 错。Gottlieb 综述明确反对,4 层双向。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Gottlieb
+  - G-PERSON-Wahlsten
+  - G-PERSON-Lickliter
+  - G-TERM-probabilistic-epigenesis
+  - G-TERM-canalization
+
+related_cards:
+  - C-S0-1125
+  - C-S0-1500
+  - C-S0-722
+  - C-S0-008
+
+citation:
+  source_id: SRC-030
+  source_title: "Handbook of Child Psychology Vol 1: Theoretical Models of Human Development"
+  chapter: "Ch 5 Significance of Biology (Gottlieb / Wahlsten / Lickliter)"
+  chapter_offset: 1140000
+  chapter_title: 'Gottlieb / Wahlsten / Lickliter — Significance of Biology + probabilistic epigenesis'
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_followup_needed: 'SRC-030 用 PDF 字节偏移代页码 — 待加 page_pdf 反查工具'

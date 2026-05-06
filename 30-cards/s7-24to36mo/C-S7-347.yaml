@@ -1,0 +1,61 @@
+card_id: C-S7-347
+stages: [S7]
+tags: [emotion, RIE, lansbury]
+
+front:
+  title: "让孩子对你生气是给他的礼物"
+  hook: "妈妈哪儿也不会去"
+
+back:
+  why_matters: |
+    Lansbury Ch26 最深个人故事:
+    她妈妈"完美" — 但忍不了她生气,
+    一次小冲突导致 5 天冷战。
+    Lansbury 童年深处恐惧:"妈妈会消失"。
+    成年后:酗酒 + 焦虑 + 自我怀疑。
+    她的觉悟:孩子需要知道"对你生气也安全",
+    "你的怒气我接得住,我哪儿也不去"。
+    很多中国家长可能从未给过孩子这个许可。
+
+  what_to_do:
+    - 孩子吼"我恨你 / 你最坏" = 不报复 / 不冷战
+    - 平静接:"你很生气,我懂,我在这"
+    - 不"妈妈这么辛苦你怎么忍心说" — 那是情绪敲诈
+    - 自己冷静后回:"刚才你生气,我接住了"
+    - 终生信号:你可以是你,我都在
+
+  failure_mode: |
+    "孩子敢吼我?要好好教育他什么是孝顺" → 制造长期内疚 + 焦虑。
+    或反向:"我要永远是好妈妈" → 假装无伤害,孩子学到情绪不被接受。
+    Lansbury:接住孩子的愤怒 = 给他一生的安全感。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Lansbury
+  - G-PERSON-Gerber
+  - G-TERM-acknowledging-feelings
+  - G-TERM-RIE
+
+citation:
+  book_title_en: "Elevating Child Care: A Guide to Respectful Parenting"
+  book_title_zh: "尊重孩子:RIE 育儿之道"
+  authors:
+    - Janet Lansbury
+  publisher_en: JLML Press
+  year: 2014
+  location: "Ch26 Let Your Kids Be Mad At You(Lansbury 个人故事)"
+  source_id: SRC-019
+
+unit_ids: []
+related_cards:
+  - C-S6-403  # Lansbury 限度 + 哭怒并存
+  - C-S2-293  # Lansbury 对宝宝说真话
+  - C-S5-130  # Davies 1 岁前两份心理大礼(无条件爱)
+  - C-S6-068  # Bowlby V1 2 岁依恋顶峰然后过渡
+  - C-S5-070  # Bowlby V1 12 月可测依恋类型
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

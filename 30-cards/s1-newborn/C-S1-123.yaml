@@ -1,6 +1,6 @@
 card_id: C-S1-123
 stages: [S1]
-tags: []
+tags: [philosophy, controversy]
 
 front:
   title: 出生几天就能认妈妈
@@ -37,7 +37,7 @@ citation:
   year_en: 1969
   year_zh: 2017
   isbn: "978-7-5192-2927-6"
-  location: "第十四章 依恋行为的开始(几天之后,他就可以区分不同个体的气味和声音 / DeCasper & Fifer 1980 / Macfarlane 1975)"
+  location: "第十四章依恋行为的开始(几天之后,他就可以区分不同个体的气味和声音 / DeCasper & Fifer 1980 / Macfarlane 1975)"
   source_id: SRC-011
 
 unit_ids: []

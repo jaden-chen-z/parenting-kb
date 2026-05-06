@@ -1,0 +1,59 @@
+card_id: C-S7-757
+stages: [S7]
+tags: [tantrum, self_harm, japan, matsuda]
+
+front:
+  title: "撞头第一次抱走玩"
+  hook: "屈服 1 次 6 月战"
+
+back:
+  why_matters: |
+    松田 §404 给"娃哭闹自己撞地板"妈妈核心规则:
+    1. 1.5 岁起倔强孩子发明"撞头战术";
+    2. 趴地板上哐哐撞 / 仰卧用后脑撞 — 都有;
+    3. 跟癫痫区别: 不直直倒下,
+       是先屁股着地横倒再仰;
+    4. 撞头不会撞坏脑 — 但别让持续太长;
+    5. **第 1 次最关键** — 立即抱起来带户外玩别的;
+    6. 转移注意力让他忘记;
+    7. 一旦成"惯用手段"就难破 — 必须地板铺东西 + 戴毛织睡帽。
+    跟松田 C-S6-816 1 岁打滚 + Brazelton tantrum 立场一致。
+
+  what_to_do:
+    - 第 1 次撞头立即抱出户外
+    - 给别的喜悦让他忘了原要求
+    - 不立即满足原要求
+    - 真养成了铺地板布 / 戴毛帽
+    - 不打不骂同时不屈服
+
+  failure_mode: |
+    最常见误区:撞头 → 妈妈心疼 → 抱起 + 满足要求 → 孩子学会"撞头 = 立即得到"。
+    几个月后:每次不满 → 撞头 → 全家被绑架。
+    奶奶最容易心软投降。
+    松田明确说"如果孩子用这种方法常常获得成功而成为惯用手段,就不好办了"。
+    替代:第 1 次 = 抱出户外转移 + 不满足要求。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Matsuda
+
+citation:
+  book_title_zh: "定本育儿百科"
+  authors:
+    - 松田道雄
+  publisher_ja: 岩波书店
+  year_first_edition: 1967
+  location: "§404 自己用头撞地板"
+  source_id: SRC-024
+
+unit_ids: []
+related_cards:
+  - C-S6-816  # 松田 1 岁打滚第一次最关键(同源)
+  - C-S6-820  # 松田 屏气哭死过去(同源)
+  - C-S6-008  # 鲍秀兰 16-18 月发脾气中场休息
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

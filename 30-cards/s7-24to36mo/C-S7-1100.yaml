@@ -1,0 +1,53 @@
+card_id: C-S7-1100
+stages: [S7]
+tags: [sibling]
+front:
+  title: 分配时间略偏老大可以
+  hook: 暂时偏心是过渡设计
+back:
+  why_matters: |
+    前情:老大 2-3 岁,小宝刚出生,父母怕偏心。
+    海蒂明确:多年看分工应近乎平等,但现在略微偏向老大不仅可接受而且最好。三个理由:老大原本独享、小宝并不知道被"少陪",家里热闹本身就在刺激小宝。等小宝大一些再回归平均分配,这是过渡期合理设计而非长期偏心。
+  what_to_do:
+    - 现在略多陪老大不必内疚
+    - 老大玩拼图时小宝坐你腿上
+    - 推老大秋千时小宝坐婴儿车
+    - 让爷奶或保姆补位陪小宝
+    - 6-12 个月后逐步回归平均
+  failure_mode: 强求"绝对公平"反而让老大觉得地位被颠覆、敌意上升;或长期偏心让小宝长大感到被忽视。
+  evidence_level: B
+  positions:
+    issue: 持续母乳时长 — WHO 2 年 vs AAP/鲍/松田 1 年可断
+    views:
+      - school: WHO / UNICEF
+        source: SRC-031
+        stance: ≥ 2 岁 'or beyond' — 12-24m 母乳仍提供 33% 营养;Detwyler 2004 自然离乳 2.5-7 岁支持。
+      - school: AAP
+        source: SRC-006
+        stance: 1 岁可断(也可继续不强求);1 岁后母乳不再是营养必需,以家庭决定为主。
+      - school: 鲍秀兰
+        source: SRC-009
+        stance: 1 岁可断;跟中国本土实操更一致,无明确反对延长喂。
+      - school: 松田道雄
+        source: SRC-024
+        stance: 弹性立场 / 妈妈决定;不强求时间表。
+      - school: 中国家长压力
+        stance: 1 岁后哺乳常被亲戚说"丢人"或"没营养";WHO 国际共识可作为反传统压力的依据。
+glossary_refs: []
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors: ["Heidi Murkoff", "Sharon Mazel"]
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh: ["莫夏迪", "张敏"]
+  location: "第 25 章 《二胎》, 页 736-737"
+  source_id: "SRC-040"
+related_cards: [C-S7-1101]
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

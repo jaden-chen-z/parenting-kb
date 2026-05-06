@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Sesma
+type: person
+display_name: "Sesma(阿图罗·塞斯马)"
+
+full_name_en: "Arturo Sesma Jr."
+full_name_zh: "阿图罗·塞斯马"
+
+position: |
+  Search Institute 研究员
+
+contribution: |
+  youth assets research + Lerner PYD 共著
+
+one_liner: |
+  阿图罗·塞斯马 — youth assets research + Lerner PYD 共著
+
+key_facts:
+  - "本卷章节:Ch 16"
+  - "Lerner V1 命中:30+ 次"
+  - "学派:Lerner V1 PYD 派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+    chapter: "Ch 16"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

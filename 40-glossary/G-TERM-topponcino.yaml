@@ -1,0 +1,70 @@
+glossary_id: G-TERM-topponcino
+type: term
+display_name: 蒙氏小毯 (topponcino)
+
+full_name_zh: 托邦奇诺 / 蒙氏新生儿衬垫
+full_name_en: Topponcino
+
+one_liner: |
+  蒙氏 0-3 标志性育儿物。一张约 60×30cm 的薄椭圆衬垫,从新生儿出生起,作为宝宝的"移动小床":亲友抱时垫,从怀里放到床上时不惊醒,身上沾着妈妈味道作为安全锚。
+  共生期 6-8 周最有用,3-4 月后退役。
+
+detail: |
+  ## 物理形态
+  - 椭圆形,约 60×30cm(比新生儿稍大稍宽)
+  - 薄,内填棉花或羊毛,不蓬松
+  - 天然纤维外套(纯棉 / 亚麻),可拆洗
+  - 重量约 200-400 克
+  - 不是定位枕(不放在床里)— 是"流动垫"
+
+  ## 三大功能
+  1. **温度+气味稳定** — 宝宝从怀里放到床上,垫不变,触感+气味连续
+  2. **缓冲过度刺激** — 亲友抱宝宝时垫在中间,减少陌生触感
+  3. **激活 Moro 反射缓冲** — 平稳放下不会突然下坠惊醒
+  4. **安全锚** — 妈妈睡前抱过的垫,让独自入睡的宝宝有"妈妈在"的感觉
+
+  ## 何时用
+  - **从出生第一天**就用
+  - **共生期 6-8 周**最有用
+  - **3-4 月后**逐渐退役(宝宝会自己滚动)
+
+  ## 与同类物品对比
+  | 物品 | 区别 |
+  |---|---|
+  | swaddle 包裹 | swaddle 包住宝宝身体 / topponcino 是垫在下面 |
+  | 婴儿安抚毯 | 安抚毯是 1 岁后 transitional object / topponcino 是 0-3 月安全锚 |
+  | sleeping bag 睡袋 | 睡袋是穿在身上 / topponcino 是垫 |
+
+  ## 中国家长怎么用
+  - 不需要进口 — 自己缝:30×60 椭圆,薄棉填充,纯棉外套
+  - 工厂购:淘宝搜"蒙氏 topponcino"
+  - 关键不是品牌,是**带着妈妈味道**的连续锚
+
+  ## 不属于必需品
+  - 没 topponcino 也能养蒙氏宝宝
+  - 但用过的家庭普遍反馈:抱→放过程哭闹大幅减少
+  - 蒙氏 0-3 教师课程中 topponcino 是基础物之一
+
+key_facts:
+  - 60×30cm 椭圆薄衬垫
+  - 共生期 6-8 周最有用
+  - 解决"放下就醒"问题
+  - 中国可自缝,不需进口
+  - 蒙氏 0-3 标志物之一
+
+related_glossary:
+  - G-PERSON-Davies
+  - G-PERSON-Montessori
+  - G-TERM-Moro-reflex
+  - G-TERM-fourth-trimester
+
+related_cards: []
+
+sources:
+  - source_id: SRC-014
+  - external: AMI 蒙氏 0-3 培训资料
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

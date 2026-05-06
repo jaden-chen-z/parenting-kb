@@ -1,0 +1,49 @@
+glossary_id: G-TERM-WHO-six-months
+type: term
+display_name: "WHO 6 月 EBF 共识"
+
+en_term: "WHO Six-Months Exclusive Breastfeeding Recommendation"
+zh_term: "WHO 6 月专母乳共识"
+
+one_liner: |
+  WHO 推 0-6 月纯母乳 — 国际医学共识,跟 AAP 4-6 月辅食立场略分歧。
+
+detail: |
+  ## WHO 立场 verbatim
+  'WHO and UNICEF recommend that children initiate breastfeeding within the first hour of birth and be exclusively breastfed for the first 6 months.'
+  
+  ## 依据
+  - 6 月前母乳能量 + 营养充足
+  - 6 月前肠道未成熟,早期辅食增过敏/感染风险
+  - Lancet 2016 元分析:6 月 EBF 比 4 月 EBF 益处更多
+  
+  ## 跟其他派对照
+  - AAP(SRC-006):4-6 月,看 readiness 信号(LEAP 早引入立场)
+  - 鲍秀兰:6 月起辅食(跟 WHO 一致)
+  - 松田:5-6 月起,有弹性
+  
+  ## Cochrane 元分析
+  Kramer & Kakuma 2012 'Optimal duration of exclusive breastfeeding' 支持 6 月。
+
+key_facts:
+  - "WHO + UNICEF 共同推 0-6 月"
+  - "Cochrane 元分析支持"
+  - "AAP 4-6 月立场略分歧"
+
+related_glossary:
+  - G-ABBR-EBF
+  - G-ABBR-WHO
+  - G-ABBR-CF
+
+related_cards:
+  - C-S3-1042
+  - C-S3-1043
+  - C-S6-1069
+
+sources:
+  - source_id: SRC-031
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

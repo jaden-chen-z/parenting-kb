@@ -1,0 +1,75 @@
+card_id: C-S8-744
+stages: [S8]
+tags: [SEL, kress, casel, lerner_v4]
+
+front:
+  title: SEL 5 能力学校教
+  hook: SEL 5 能力
+
+back:
+  why_matters: |
+    Kress-Elias V4 Ch 15 学校 SEL 项目章(CASEL 框架代言)。
+    **CASEL 5 能力**(社会情绪学习):
+    - **自察**(自我觉察):识别自己情绪 + 优势 + 限制
+    - **自管**(自我管理):调节情绪 + 应激 + 目标
+    - **社察**(社交觉察):理解他人 + 尊重多元
+    - **关系**(relationships):合作 + 沟通 + 解决冲突
+    - **决策**(decision-making):做有责任的选择
+    **RCT 证据**(Durlak 元分析 213 个 SEL 项目):
+    - 学业:成绩提升 11 个百分点
+    - 行为:问题行为减 9-10%
+    - 情绪:抑郁焦虑减 9%
+    - ROI:11:1(每投入 1 元回报 11 元)
+    **PATHS(促进选择性思维策略) 课程**(SEL 元分析最强):
+    - Promoting Alternative Thinking Strategies
+    - 学龄前 + 小学 RCT 证据扎实
+    - 中国可借鉴(已有翻译版本)
+    **中国版本困难**:
+    - "情绪教育"传统薄弱
+    - 男娃情感表达被压制
+    - 老师 + 家长培训缺意义:
+    - SEL 不是软实力,是核心
+    - 学业 + 情绪 + 关系互相支撑
+    - 中国教育最大的缺口跟现库:跟 V3 Saarni 8 情绪能力(C-S6-1068)+ V3 Eisenberg effortful control(C-S5-1041)对接。
+    对中国家长意义:
+    - 选幼儿园 / 小学看 SEL 课程
+    - 在家教 5 能力
+    - 情绪不是软弱
+    - 男娃也要表达情感
+  what_to_do:
+    - 选幼儿园看 SEL 课程
+    - 在家教 5 能力(自察自管)
+    - 情绪不是软弱
+    - 男娃也要表达情感
+  failure_mode: |
+    "情绪教育是软实力"— 错。学业核心支柱。
+    "男娃不哭"— 错。压抑伤娃。
+    "自我调节就够"— 错。5 能力综合。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Kress
+  - G-PERSON-Elias
+  - G-TERM-CASEL
+  - G-TERM-SEL
+  - G-TERM-PATHS
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 4 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 4 卷"
+  authors: ['Jeffrey S. Kress', 'Maurice J. Elias']
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 15 · Kress-Elias · CASEL SEL 5 competencies · pp. 592-610"
+  source_id: SRC-029
+
+unit_ids: []
+related_cards:
+  - C-S6-1068     # V3 Saarni 8 情绪能力
+  - C-S5-1041     # V3 Eisenberg effortful control
+  - C-S0-1241     # Boekaerts 自我调节
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

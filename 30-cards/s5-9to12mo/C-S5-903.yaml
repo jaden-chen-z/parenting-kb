@@ -1,0 +1,67 @@
+card_id: C-S5-903
+stages: [S5]
+tags: [shonkoff, nrc, separation_anxiety, china_high_freq]
+
+front:
+  title: "分离焦虑 8-15 月正常"
+  hook: "认生黏妈不是娇气"
+
+back:
+  why_matters: |
+    NRC 综述 Ch 9 给"分离焦虑 + 陌生焦虑" — 跟依恋形成同步的发展正常现象:
+    **时间线**(NRC 综述):
+    - **8 月起**:陌生人焦虑(看到陌生人哭 / 紧贴妈)
+    - **8-15 月**:分离焦虑高峰(离开妈大哭)
+    - **15-24 月**:渐渐缓解(随客体永久性 + 语言成熟)
+    - **2-3 岁**:基本消除(除非有特殊情境如离婚 / 搬家)
+    **NRC 立场**:
+    - 这是**发展进步标志** — 不是"娃娇气"
+    - 反映宝宝**已识别 primary caregiver** + **客体永久性形成**
+    - 跟 Bowlby V2 分离三阶段(抗议 → 绝望 → 脱离)一致
+    - 跟 Wonder Weeks 第 7 跃迁 / Mary Ainsworth 陌生情境共识
+    **应对原则**(NRC 综述):
+    - 别"溜走偷偷走" → 失去信任
+    - 道别 + 简短 + 给安全物 + 必回时段
+    - 重逢热情 + 不指责他哭
+    - 接受过渡期 — 不强行"训练独立"
+    **对中国家长**:
+    - "认生 / 黏妈"不是娇气 — 是发展正常
+    - 别因"丢人"强行让陌生人抱
+    - 别"溜走"消失 — 道别更稳
+    - 真正分离(妈上班)→ 给固定时段 + 替代依恋人跟 Bowlby V2 + 松田 §401 立场一致。
+  what_to_do:
+    - 道别不溜走
+    - 给安全物 + 时段
+    - 重逢热情不指责
+    - 别陌生人强抱
+    - 接受过渡期
+  failure_mode: |
+    "他黏妈娇气 — 让陌生人抱锻炼" — 错,强迫加重 inhibited 倾向。
+    "悄悄走他不哭" — 短期省事长期失信任。
+    "8 月不让他认生 — 多让大家抱" — 跟发展规律对抗。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Shonkoff
+  - G-TERM-attachment
+  - G-TERM-stranger-anxiety
+  - G-TERM-NRC
+
+citation:
+  book_title_en: "From Neurons to Neighborhoods"
+  authors: ["Jack P. Shonkoff", "Deborah A. Phillips"]
+  org: "NRC/IOM"
+  year_en: 2000
+  location: "Ch 9 · Separation and stranger anxiety"
+  source_id: SRC-025
+
+unit_ids: []
+related_cards:
+  - C-S5-086    # Bowlby V2 分离 SRC-012
+  - C-S7-756    # 松田 §401 认生 SRC-024
+  - C-S5-070    # Bowlby 安全基地 SRC-011
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

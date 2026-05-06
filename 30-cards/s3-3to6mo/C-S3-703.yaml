@@ -1,0 +1,60 @@
+card_id: C-S3-703
+stages: [S3]
+tags: [crying, sleep, night_waking, matsuda, japan]
+
+front:
+  title: "夜啼必能消除"
+  hook: "白天散步是处方"
+
+back:
+  why_matters: |
+    ⚠️ **2026 修订**:松田 §159 (1967) 原文含两处现代证据不支持的建议:
+    "灌肠"(对正常婴儿不推荐,有黏膜损伤风险)+ "母亲停喝牛奶"(乳糖不通过母乳,
+    现代证据不支持)。本卡 what_to_do 已删除 + 改为可疑过敏咨询儿科。
+
+    松田核心立场仍有价值:
+    1. 夜啼是从古至今的现象,不是病;
+    2. 第一信念"父母要坚信夜啼可以消除";
+    3. 白天散步消耗能量 + 心态稳是核心;
+    4. 跟肠套叠不同(持续性 vs 反复 5 分钟 + 吐奶);
+    5. 跟 Brazelton "9 月学站夜醒机制" + Karp "兜风式安抚" + Wonder Weeks "跃迁周睡眠倒退" 互补。
+
+  what_to_do:
+    - 白天多带出门 1-2 小时(消耗能量)
+    - 喂奶喂慢防吸气 + 拍嗝
+    - 怀疑过敏 → 咨询儿科(不要自己停母乳/牛奶)
+    - 不灌肠(黏膜损伤,现代不推荐)
+    - 实在不行 1 月后兜风车安抚
+
+  failure_mode: |
+    夜啼第一夜父母惊动急诊 — 医生看不出问题 → 全家两个月没睡好 →
+    妈妈崩溃 → 怀疑孩子有病。
+    实际:跟肠套叠不同 — 夜啼是持续性,肠套叠是反复 5 分钟一次 + 吐奶。
+    松田明确:"夜啼婴儿体重增加正常,大便通畅" — 排查掉病因后接受这是阶段,
+    白天散步消耗 + 心态稳是核心。
+    ❌ 用 1960s 灌肠或自己停母乳法 — 现代证据不支持,过敏疑虑请儿科评估。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Matsuda
+
+citation:
+  book_title_zh: "定本育儿百科"
+  authors:
+    - 松田道雄
+  publisher_ja: 岩波书店
+  year_first_edition: 1967
+  location: "§159 夜啼"
+  source_id: SRC-024
+
+unit_ids: []
+related_cards:
+  - C-S5-021  # Brazelton 9 月学站夜醒机制
+  - C-S3-029  # Brazelton 4 月夜醒增多别冲进去
+  - C-S2-549  # 松田 1 月起每天必须出门(同源散步处方)
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

@@ -1,0 +1,61 @@
+card_id: C-S2-1136
+stages: [S2]
+tags: [cognitive_science, language, categorical_perception, lerner_v2]
+
+front:
+  title: 1 月就能区分 ba 和 pa
+  hook: 范畴知觉天生就有
+
+back:
+  why_matters: |
+    Eimas/Siqueland/Jusczyk/Vigorito 1971 经典(Lerner V2 Ch2 引用)。
+    给 1-4 月宝宝听 ba 和 pa(英语关键音素差):
+    - 跨范畴差(ba ↔ pa)— 宝宝吸吮力增加(听到差异)
+    - 范畴内差(同 ba 但语音参数变)— 宝宝吸吮没变意义:**1 月就有"范畴知觉"** — 不是连续光谱,是离散范畴。
+    这是 V2 Ch2 综述的奠基实验(语音知觉研究 35 年源头)。
+    跟现库:跟 Werker reorganization(C-S5-1137)对接 — 1 月有所有范畴,6-12 月聚焦母语。
+    跟 Stern emergent self(0-2 月)接 — 婴儿一开始就有结构。
+    对中国家长意义:
+    - 1 月就能听 b/p 差,不必"等他大点再说话"
+    - 普通话特有声调(阳上去入)— 婴儿也按范畴知觉听
+    - 多种语言暴露不混乱 — 宝宝跑多套范畴
+  what_to_do:
+    - 0-3 月起多说话(parentese)
+    - 不必担心"他听不懂这么细"
+    - 双语家庭一人一语,各跑范畴
+    - 普通话父母讲究声调清晰 — 宝宝在抓
+  failure_mode: |
+    "新生儿耳朵分不清细差" — 错。1 月就有范畴知觉。
+    "等他会说再教" — 错。1 月就在听辨。
+    "听一种语言才不混乱" — 不必。婴儿能跑多套。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Kuhl
+  - G-TERM-perceptual-narrowing
+  - G-TERM-phoneme
+  - G-PERSON-Werker
+  - G-PERSON-Saffran
+  - G-TERM-parentese
+  - G-PERSON-Stern
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 2 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 2 卷"
+  authors: ["Jenny R. Saffran", "Janet F. Werker", "Lynne A. Werner"]
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 2 · Eimas 1971 categorical perception · pp. 72-74"
+  source_id: SRC-028
+
+unit_ids: []
+related_cards:
+  - C-S2-1135     # Parentese species-specific
+  - C-S3-1139     # Vowel 重组先
+  - C-S5-1137     # Werker reorganization
+  - C-S5-016       # 鲍秀兰 parentese
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

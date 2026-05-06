@@ -1,0 +1,48 @@
+card_id: C-S7-998
+stages: [S7]
+tags: [saarni, emotion_coping_strategies, 24_36mo, lerner_v3]
+
+front:
+  title: "2-3 岁教情绪应对"
+  hook: "情绪有出口才不爆"
+
+back:
+  why_matters: |
+    Saarni(Ch 5)综述 — 2-3 岁要主动教 4 类情绪应对策略:
+    ① 转移(画画/玩水)② 求助(叫妈)③ 用语言(我生气了)④ 体感平静(深呼吸/抱布偶)。
+    没策略的孩子只会爆,有策略的能选。一句话 — 4 类策略要明示给他,他不会自己想。
+  what_to_do:
+    - "他生气教深呼吸(吹生日蜡烛)"
+    - "教用词:我生气因 X"
+    - "提供安全角(回到这里平静)"
+    - "夸具体应对(你今天会用词)"
+    - "你也用策略示范(妈生气先深呼吸)"
+  failure_mode: |
+    觉得 2-3 岁会自己长出应对策略,只等他长大就好了。
+    Saarni — 不教不会,2-3 岁不教,5 岁更难教。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Saarni
+  - G-TERM-emotion-coping-strategies
+  - G-TERM-deep-breathing-children
+
+related_cards:
+  - C-S7-348      # Lansbury 温柔但坚决
+  - C-S7-552      # Gerber 自律
+  - C-S7-604      # 松田反反抗期
+  - C-S7-128      # Gopnik 心智成熟
+
+citation:
+  source_id: SRC-027
+  source_title: "Handbook of Child Psychology Vol 3"
+  chapter: "Ch 5 Saarni — Coping Strategies"
+  chapter_offset: 1322297
+  chapter_title: 'Saarni Campos Camras Witherington — 情绪发展'
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_followup_needed: 'SRC-027 用 PDF 字节偏移代页码 — 待加 page_pdf 反查工具'

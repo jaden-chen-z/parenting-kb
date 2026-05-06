@@ -1,0 +1,33 @@
+audit_dimension: 11_number_discrepancies
+verdict: 整体自洽 — 大多数跨派数字差是合理立场差,而非错传
+P0_single_source_self_conflict:
+  - {card_id: C-S1-2500, src: SRC-040 Heidi, issue: VD 补充起始时机内部冲突 — title 写"从 2 周起补",why_matters 写"AAP 建议从出生头 2 个月起" — 同卡内"2 周"vs"2 个月"不一致, action: 回 Heidi 原书 §第 6 章 校对真值, severity: P0}
+P2_注释错绑:
+  - {card_id: C-S2-132, issue: related_cards 写"C-S1-079 # Brazelton 6-7 周哭闹峰"但 C-S1-079 实际是"burst-pause 喂奶", action: 改用 C-S2-020}
+  - {card_id: C-S1-190, issue: 同上 related_cards 注释错绑}
+  - {card_id: C-S2-001, note: "标题'6 周达峰'引 Karp→Brazelton 1962 vs SRC-010 Touchpoints '8 周'是跨年代合理演化}
+cross_party_legitimate_differences_keep:
+  - {topic: PURPLE 哭闹峰, range: 6w(Karp/Brazelton 1962) - 8w(Touchpoints) - 6-8w(NRC 综述合并), note: 同人不同期数据演化}
+  - {topic: 纯母乳时长 EBF, positions: WHO 6m / AAP 4-6m 弹性 / Lillard 9-10m 戒奶瓶, note: 跨派立场差,已标 controversy}
+  - {topic: Tummy time 时长, positions: AAP 15-30 分钟/天 vs Heidi 30 分钟, note: 接近,口径差}
+  - {topic: VD 阈值, positions: AAP 800ml/天不需要 vs Heidi 450 克, note: 阈值近 1 倍差,跨源,可加注另一权威建议}
+  - {topic: 戒奶瓶时机, positions: AAP 12-18m / 海蒂 12-15m / Lillard 9-10m, note: 跨派}
+  - {topic: 铁补充时机, positions: AAP 4 月起补铁滴 vs 海蒂 6 月起靠饮食, note: 立场差}
+  - {topic: SIDS bed-sharing, positions: AAP 5-10× 全反 vs Karp 10 步合规可, note: controversy 已知}
+high_consistency_topics:
+  - {topic: 30M words gap, cards_count: 8, consistency: 完全一致, note: 4500-1500=3000 自洽}
+  - {topic: 嘘声/白噪音 dB, consistency: 一致(80-90dB)}
+  - {topic: 出生 1 小时开奶, consistency: 一致}
+  - {topic: 物体永久 8-10m 萌芽 5-6m, consistency: 一致}
+  - {topic: 仰睡/包裹 4 月翻身后停, consistency: 一致}
+  - {topic: 果汁限量 1-3 岁 ≤120ml/天, consistency: 一致(118 vs 120 是四舍五入)}
+  - {topic: 18m rouge test, consistency: 一致}
+  - {topic: 依恋形成 6-12m, consistency: 一致}
+  - {topic: Wessel 333 colic, consistency: 跨 NRC+AAP 一致}
+  - {topic: Lancet 82 万婴儿生命/年, consistency: 一致}
+notes: |
+  现库 1437 张卡数字事实大致自洽。
+  主要正字形冲突集中在跨派立场差(WHO 6m vs AAP 4-6m 等)— 跨派合理分歧不是坏数据。
+  单源 P0:仅 1 张(C-S1-2500 VD 起补)— 必须回 Heidi 原书校对。
+  P2 注释错绑 2 处(C-S2-132/C-S1-190),建议批量修正。
+  高频数字(WHO 6m/Lancet 820k/Wessel 333/Hart-Risley 30M/dB 80-90/视距 30cm/SIDS 50%-67×)跨卡严格一致 — 编卡时数字纪律好。

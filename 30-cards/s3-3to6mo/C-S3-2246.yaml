@@ -1,0 +1,36 @@
+card_id: C-S3-2246
+stages: [S3]
+tags: [feeding, breastfeeding, bottle, controversy]
+front:
+  title: 母乳娃拒奶瓶,6 周前就该练
+  hook: 5 月才补,娃认准你的胸
+back:
+  why_matters: |
+    海蒂第三阶段聚焦 4-6 月喂养转型,母乳娃需要适度接受奶瓶才方便妈妈外出或返岗。
+    海蒂指出:5 个月后才引入奶瓶,娃已有强烈"想要 vs 不要"的意识——他想要柔软温暖的乳房,不想要橡胶塑料奶嘴。最佳窗口是 6 周之前混入奶瓶,过了这个窗口要靠多重技巧硬磨。
+  what_to_do:
+    - 6 周前每周 1-2 次混入奶瓶
+    - 已晚:饿时或饱时各试一次,二选一
+    - 妈妈别在场,让爸爸/姥姥喂
+    - 假装漠不关心,娃哭就停
+    - 试不同形状奶嘴,接近乳头质感
+  failure_mode: 妈妈坚持自喂奶瓶+娃哭就立刻撤奶瓶给乳房,等于反向训练:娃学会"哭→获得乳房",奶瓶永远进不去。
+  evidence_level: B
+glossary_refs: [G-TERM-nipple-confusion, G-TERM-mixed-feeding]
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors: ["Heidi Murkoff", "Sharon Mazel"]
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh: ["莫夏迪","张敏"]
+  location: "第 9 章 《第 5 个月》, 页 356-358"
+  source_id: "SRC-040"
+related_cards: [C-S3-2247]
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

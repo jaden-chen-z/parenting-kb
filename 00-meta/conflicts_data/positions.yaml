@@ -1,0 +1,936 @@
+# 立场对照数据集 — 全 84 项冲突的"立场对照"版块原始数据
+# 由 build_positions.py 读取,写入对应卡片 YAML 的 back.positions 字段
+#
+# 维护规范:
+#   1. issue:议题一句话(15-30 字),冒号或破折号风格皆可
+#   2. cards:本议题涉及的所有卡片 ID(对照 conflicts.md 涉及卡片清单)
+#   3. views:派别立场,2-5 派,每派 1 句话(40-80 字),不偏不倚
+#      - school:派别名(中文为主,可中英混)
+#      - source:SRC-XXX 编号(对应 10-sources/),可空
+#      - stance:立场描述(40-80 字)
+#   4. 卡片可同属多议题(union merge 规则:多议题合并显示在同一 positions 块)
+#
+# v2.0:A-F + K + L + A19-A21 完成 — 38 项 / 162 卡
+# 跳过的 G/H/I/J 节(学术理论辩论,conflicts.md 自标"不是真冲突")可后续按需补
+# 已并入策略:D1→A2 / D5→A4 / E3→D2 / F5→A4 / L1→A1 / L2→B2 / L3→standalone L3 / L4→standalone L4 /
+#            L5→D2 / L6→standalone L6 / L7→B3 / L8→B1 / A20→D4 / A21→F3 / D6→跳过
+
+A1:
+  issue: 包裹(swaddle)该不该用 · 怎么用 · 何时停
+  cards:
+    - C-S1-013
+    - C-S1-014
+    - C-S1-015
+    - C-S1-027
+    - C-S1-038
+    - C-S1-068
+    - C-S1-185
+    - C-S1-187
+    # - C-S1-252  # 已移除:此卡是奶嘴主题(蒙氏 anti-pacifier),归 A3,非 A1
+    - C-S2-014
+    - C-S1-2205    # L1 海蒂"包裹要不要做"(conflicts.md 写错为 2204,实际是 2205)
+  views:
+    - school: Karp
+      source: SRC-003
+      stance: 5S 安抚法第一招(Swaddle)。紧裹 + 双臂内 + 配白噪音,可延长睡眠 1-2 小时;锁住莫罗反射(惊跳反射)防止干扰其他四招。
+    - school: AAP
+      source: SRC-004
+      stance: 可用,但只起安抚作用,不防 SIDS;宝宝出现翻身迹象立刻停。髋部需留蛙腿位空间。
+    - school: 蒙氏(Davies/Lillard)
+      source: SRC-014/016
+      stance: 反对包裹 — 妨碍婴儿练习自我安抚,且干扰莫罗反射的整合发育。改用小毯或睡袋。
+    - school: 鲍秀兰
+      source: SRC-009
+      stance: 反对中国式"蜡烛包"(腿绑直会导致 DDH 髋发育不良,有终身风险);接受松松的"蛙腿位"包裹。
+    - school: 海蒂
+      source: SRC-040
+      stance: 中性立场 — 决策权交给父母,中立列利弊;不站队,作为"主流家长方案"参考。
+
+A2:
+  issue: 同床 vs 同房不同床 · 何时安全 · SIDS 风险 · 分龄差异
+  cards:
+    - C-S1-028
+    - C-S1-037
+    - C-S1-040
+    - C-S1-085
+    - C-S4-700      # D1 松田分龄同睡卡(8 月后 OK)合并入 A2
+  views:
+    - school: Karp
+      source: SRC-003
+      stance: 在 10 步安全协议下可同床(无烟酒、硬床垫、无松软被等);否则不建议。
+    - school: AAP
+      source: SRC-004
+      stance: 严禁 bed-sharing。推荐同房不同床(共室不共床)到 6 月,可降 SIDS 50%。
+    - school: Brazelton
+      source: SRC-010
+      stance: 不给统一指南,视家庭文化决定;睡眠安排是亲子关系的反映,无单一正确答案。
+    - school: 松田道雄
+      source: SRC-024
+      stance: 分龄立场 — 3 月内禁同床(母乳房压窒息风险);8 月后可同床(寒冷季节实用,母乳更增多)。
+    - school: 中国传统
+      source: ""
+      stance: 普遍同床(便于喂奶 / 保暖 / 安抚),无明确安全协议;部分家庭长期同床至学龄。
+
+A3:
+  issue: 安抚奶嘴何时用 · 是否影响发育 · 何时戒
+  cards:
+    - C-S1-021
+    - C-S1-022
+    - C-S1-039
+    - C-S1-051
+    - C-S1-252
+    - C-S5-134
+  views:
+    - school: Karp
+      source: SRC-003
+      stance: 鼓励使用,但母乳建立后 3-4 周再用,防乳头混淆。配方奶宝宝可即用。
+    - school: AAP
+      source: SRC-004/006
+      stance: 鼓励 — 是 SIDS 保护因子;睡眠时给;4 岁前戒以防牙列影响。
+    - school: 蒙氏(Davies/Lillard)
+      source: SRC-014/016
+      stance: 反对 — 妨碍婴儿嘴部发声练习与口腔早期探索;主张让孩子用嘴部自我安抚替代。
+    - school: Davies
+      source: SRC-014
+      stance: 接受 0-1 岁安抚作用,但 1 岁前戒,防影响牙列发育和语言起步。
+
+A4:
+  issue: 如厕训练何时开始 · 谁主导 · 什么方法
+  cards:
+    - C-S5-012
+    - C-S6-189
+    - C-S6-190
+    - C-S7-007
+    - C-S7-018
+    - C-S3-701       # D5 松田 4-5 月把屎把尿是错的
+    - C-S4-703       # D5 松田 7-8 月可试便盆 1 分钟
+    - C-S6-823       # D5 松田 1.5 岁夏天撤尿布
+    - C-S7-405       # F5 Magda Gerber 学如厕不是训练
+  views:
+    - school: Lillard(蒙氏)
+      source: SRC-016
+      stance: 12-18 月敏感期介入。反对长期纸尿裤拖延,孩子主导探索如厕,环境提供小马桶。
+    - school: AAP / 主流
+      source: SRC-006
+      stance: 18 月-3 岁。等待神经括约肌成熟与孩子表达意愿,避免提前训练造成抗拒。
+    - school: 鲍秀兰
+      source: SRC-009
+      stance: 9 月起坐盆训练,25-30 月用语言表达替代动作信号。早期建立排便规律。
+    - school: Brazelton
+      source: SRC-010
+      stance: 24 月以后多数孩子才准备好,孩子主导,称 toilet learning 而非 training。反对 EC 出生训练。
+    - school: 松田道雄
+      source: SRC-024
+      stance: 4-5 月把屎把尿是错的;7-8 月可试便盆(每次 1 分钟为限);1.5 岁夏天撤尿布最佳。
+    - school: Pikler / Magda / Lansbury
+      source: SRC-026/022/019
+      stance: 不训练 — 等 24-30 月孩子自己准备好;"学如厕"而非"训练"。反对绑 / 揍 / 久坐 / 太早 4 大错。
+    - school: 中国传统
+      source: ""
+      stance: 把屎把尿(EC) + 3 岁前完成,以家长信号为主;中医认为憋尿伤肾。
+
+A5:
+  issue: 0-3 岁是否需要主动教学 · 早教班 · 闪卡 · Mozart 效应
+  cards:
+    - C-S7-020
+    - C-S7-125
+    - C-S7-126
+    - C-S7-127
+    - C-S7-128
+    - C-S6-181
+  views:
+    - school: Brazelton
+      source: SRC-010
+      stance: 3 岁前不教读写。Erikson 框架下情感发展优先于认知训练。
+    - school: Gopnik
+      source: SRC-015
+      stance: Mozart 效应是骗局;闪卡无效;教越多越拖累自主探索;突触修剪是优化非损失。
+    - school: 蒙氏(Lillard/Davies)
+      source: SRC-014/016
+      stance: 反对主动教学。提供 prepared environment + 观察 + 不打扰,孩子主导探索节奏。
+    - school: 中国主流
+      source: ""
+      stance: 早教班 / 闪卡 / 双语早教 / Mozart 胎教 / "赢在起跑线" — 商业产业链已成熟。
+
+A6:
+  issue: 婚姻关系 vs 亲子关系 · 谁优先 · 自我照顾
+  cards:
+    - C-S7-135
+    - C-S6-138
+    - C-S7-043
+    - C-S0-014
+  views:
+    - school: Lillard
+      source: SRC-016
+      stance: 婚姻关系优先于亲子。父母回家先找配偶不是孩子,夫妻关系是孩子安全感的根基。
+    - school: Davies
+      source: SRC-014
+      stance: 父母先照顾自己,connection over perfection;同方向但语气更柔。
+    - school: Bowlby V2
+      source: SRC-012
+      stance: 母亲焦虑会代际传递。妈妈心理健康即孩子心理健康(机制层面)。
+    - school: 中国主流
+      source: ""
+      stance: 为孩子牺牲一切 / 妈妈全心扑娃 / "为了你不离婚" — 父母自我消耗常态化。
+
+A7:
+  issue: '"妈不要你了" 等威胁话术作为管教手段是否可行'
+  cards:
+    - C-S6-087
+    - C-S6-098
+    - C-S6-099
+    - C-S6-133
+    - C-S6-192
+  views:
+    - school: Bowlby V2
+      source: SRC-012
+      stance: 强烈反对 — 等同系统性精神虐待,直接破坏依恋安全。属儿童虐待范畴。
+    - school: Davies
+      source: SRC-014
+      stance: 温柔而清晰的边界,不撤回爱。规则讲明,情绪仍在场。
+    - school: Lillard
+      source: SRC-016
+      stance: No 永远是 No,但界限设置不带情绪 / 不带威胁。
+    - school: 鲍秀兰
+      source: SRC-009
+      stance: 不打孩子立场对齐反虐待派,但未直接禁此话术。
+    - school: 中国主流
+      source: ""
+      stance: "\"妈不要你了\" 是常用威胁话术;\"我是为你好\" 是常用绑架话术。"
+
+B1:
+  issue: 戒奶瓶何时进行 · 是否用 sippy 过渡 · 夜奶持续多久
+  cards:
+    - C-S5-001
+    - C-S5-188
+    - C-S5-023
+    - C-S5-2146      # L8 海蒂 1 岁戒奶瓶防龋齿
+  views:
+    - school: AAP
+      source: SRC-006
+      stance: 12-18 月戒奶瓶,sippy 杯作过渡;延迟戒会增加奶瓶龋齿与肥胖风险。
+    - school: Lillard(蒙氏)
+      source: SRC-016
+      stance: 9-10 月戒奶瓶,反对 sippy(本质是"伪奶瓶",延长吸吮反射 + 影响牙列)。
+    - school: Brazelton
+      source: SRC-010
+      stance: 反对僵硬时间线,跟孩子节奏决定;依赖型娃可晚戒,主导型娃自然提前。
+    - school: 海蒂
+      source: SRC-040
+      stance: 1 岁戒奶瓶防龋齿;比 AAP 12-18 月略早,比 Lillard 9-10 月略晚,落在主流大众派中道。
+    - school: 中国传统
+      source: ""
+      stance: 夜奶持续到 2 岁,白天奶瓶可至 3 岁,不强求时间表。
+
+B2:
+  issue: 睡眠训练方法选择 · 何时启动 · 哭多久才合理
+  cards:
+    - C-S5-189
+    - C-S5-021
+    - C-S5-137
+    - C-S3-2148      # L2 海蒂 Ferber 法
+    - C-S3-2258      # L2 海蒂 改良 Ferber
+  views:
+    - school: Lillard(蒙氏)
+      source: SRC-016
+      stance: 6 月起关门睡 + 不抱不晃,孩子哭也不进。训练派立场最激进。
+    - school: Brazelton
+      source: SRC-010
+      stance: 温和拍背 + 浅睡期演练。中间立场,父母在场但减少介入。
+    - school: Davies
+      source: SRC-014
+      stance: 反对强训 — 6-16 月黏人是健康表现,过度训练有依恋代价。
+    - school: AAP / Bowlby
+      source: SRC-006/011
+      stance: AAP 6 月+ 可启动温和方法;Bowlby 反对长时间哭训,需评估孩子类型。
+    - school: 海蒂(Ferber 派)
+      source: SRC-040
+      stance: 温和 Ferber 法 / 改良 Ferber — 主流大众方案;节奏接近 Lillard 但更弹性,不极端关门。
+    - school: 中国传统
+      source: ""
+      stance: 陪睡到学龄,不"训练"以避免分离焦虑;倾向自然戒断。
+
+B3:
+  issue: 不爬行(skip crawling)是否影响发育 · 跳爬直立是否健康
+  cards:
+    - C-S4-008
+    - C-S4-191
+    - C-S4-2147      # L7 海蒂 8 月不爬正常
+  views:
+    - school: 鲍秀兰
+      source: SRC-009
+      stance: 缺乏爬行 → 学龄期反应迟钝 / 动作笨拙。中国家长普遍焦虑源,提倡多爬。
+    - school: Lillard(蒙氏)
+      source: SRC-016
+      stance: sitter(坐型)也健康,看整体发育而非只看爬行;路径多样不必矫正。
+    - school: AAP
+      source: SRC-004
+      stance: 不爬也正常,跳爬 / 直立都属正常发育路径;无明确"不爬有害"立场。
+    - school: 海蒂
+      source: SRC-040
+      stance: 8 月不爬正常,跳爬直立也行 — 主流大众派对 AAP 立场的明确背书,缓和中国家长焦虑。
+    - school: 中国传统
+      source: ""
+      stance: 不爬必须矫正,否则未来"协调差";常见"训练爬"商业课程。
+
+B4:
+  issue: 拒学(school refusal)与逃学(truancy)是否应区分对待
+  cards:
+    - C-S7-041
+  views:
+    - school: Bowlby V2
+      source: SRC-012
+      stance: 严格区分 — 拒学是焦虑型(分离焦虑),逃学是反社会型(品行障碍);混淆会让焦虑娃被错误惩罚。
+    - school: 中国教育界
+      source: ""
+      stance: 普遍统称"厌学"或"不肯上学",不区分焦虑型与反社会型,处理方式趋同(惩罚 / 说教)。
+
+B5:
+  issue: '"懂事不哭" 是赞美还是依恋警告 · 强独立是好品质还是焦虑回避'
+  cards:
+    - C-S7-037
+    - C-S7-042
+    - C-S7-238
+    - C-S7-240
+  views:
+    - school: Bowlby V2
+      source: SRC-012
+      stance: '"强忍不哭" 可能是压力反应(Lottie 案例);"早独立" 可能是焦虑回避型(航天员证据)。'
+    - school: Bowlby V3
+      source: SRC-017
+      stance: 同方向加固 — "看似没事" 的孩子在临床上往往最危险,内化压力比外显更难干预。
+    - school: 中国主流
+      source: ""
+      stance: '"懂事不哭不闹" 是亲戚常见夸赞;"独立" 被视为好品质,与回避型依恋区分模糊。'
+
+# ──────────────────────────────────────────────────────────
+# C 节:视角差异(6 项,非真冲突,只是同一现象不同命名 / 测试范式)
+# 立场对照展示各派"叫法 + 视角",而非对错
+# ──────────────────────────────────────────────────────────
+
+C1:
+  issue: 第四产程命名群 — 同一概念多种叫法
+  cards:
+    - C-S1-001
+    - C-S1-073
+    - C-S1-183
+    - C-S1-243
+    - C-S1-245
+  views:
+    - school: Karp
+      source: SRC-003
+      stance: 第四产程(fourth trimester)— 出生后头 4 月,继续模拟子宫感是核心。
+    - school: 蒙氏(Davies/Lillard)
+      source: SRC-014/016
+      stance: exterogestation 外孕期 — 强调婴儿"在外"继续发育的生物学连续性。
+    - school: Brazelton
+      source: SRC-010
+      stance: 不用"第四产程"标签,讲"独立的人 + 触点(touchpoints)",视婴儿为完整个体。
+    - school: Gopnik
+      source: SRC-015
+      stance: 长童年期(extended childhood)是进化优势,人类大脑发育期长于其他灵长类。
+
+C2:
+  issue: 6-8 周事件命名群 — 同一发育跃迁的多个名字
+  cards:
+    - C-S2-001
+    - C-S2-002
+    - C-S2-018
+    - C-S2-019
+    - C-S2-020
+    - C-S2-021
+    - C-S2-067
+    - C-S2-068
+    - C-S2-121
+  views:
+    - school: Karp
+      source: SRC-003
+      stance: 哭闹峰(peak fussing)— 6 周是哭闹达高峰、随后递减的关键节点。
+    - school: Brazelton
+      source: SRC-010
+      stance: 6-8 周触点(touchpoint)— 父母最焦虑、亲子关系重新校准的发育节点。
+    - school: Wonder Weeks
+      source: ""
+      stance: WW8 模式跃迁 — 婴儿大脑首次能识别复杂模式,行为外显为不安。
+    - school: Bowlby
+      source: SRC-011
+      stance: 6 周非选择性微笑 — 社会性微笑出现,但尚不区分照顾者。
+
+C3:
+  issue: 物体永久性月龄 — 8-10 月还是 4 月
+  cards:
+    - C-S3-021
+    - C-S3-188
+    - C-S4-003
+  views:
+    - school: Piaget / 鲍秀兰
+      source: SRC-009
+      stance: 8-10 月成熟(行为版)— 用动作测,孩子能找盖布下藏起的物体。
+    - school: Spelke / Gopnik
+      source: SRC-015
+      stance: 4 月就有雏形(认知版)— violation-of-expectation 范式测惊讶反应,雏形早在 4 月。
+    - school: AAP
+      source: SRC-004
+      stance: 8-10 月萌芽(主流行为派立场,临床观察一致)。
+    - school: 学界争议
+      source: ""
+      stance: Heyes 2014 等批评 violation-of-expectation 范式可能过度解读;两者层级不同,都对。
+
+C4:
+  issue: 3 岁画像 — 平静 vs 难过 · 能力跃升 vs 分离焦虑
+  cards:
+    - C-S7-019
+    - C-S7-036
+    - C-S7-131
+  views:
+    - school: Brazelton
+      source: SRC-010
+      stance: '"second honeymoon" — 3 岁比 2 岁平静,亲子关系重新进入蜜月期。'
+    - school: Bowlby V2
+      source: SRC-012
+      stance: 3 岁分离比 2 岁更难(Shirley 1941 实证),分离焦虑窄域更突出。
+    - school: Lillard(蒙氏)
+      source: SRC-016
+      stance: 3 岁是"上学龄"— 能力跃升正面,适合进入 prepared environment。
+    - school: 中国主流
+      source: ""
+      stance: '"threes are worse than twos"(无人正面写,gap)— 实操常感 3 岁更难带。'
+
+C5:
+  issue: 关键期(critical) vs 敏感期(sensitive)— 同义还是不同概念
+  cards:
+    - C-S2-133
+    - C-S4-134
+  views:
+    - school: 鲍秀兰
+      source: SRC-009
+      stance: critical period 关键期 — 错过几乎不可逆(Lorenz 印随 / Hubel-Wiesel 视觉 / Genie 案例)。
+    - school: 蒙氏(Davies/Lillard)
+      source: SRC-014/016
+      stance: sensitive period 敏感期 — 窗口闭合后仍可学,只是费力。本质不同概念。
+    - school: 本知识库
+      source: ""
+      stance: 已新建 G-TERM-sensitive-periods 词条明确区分;两者并非同义术语,不可混用。
+
+C6:
+  issue: 主依恋形成路径 — 喂养者还是敏感回应者
+  cards:
+    - C-S2-070
+  views:
+    - school: 鲍秀兰
+      source: SRC-009
+      stance: 中国文化默认"妈妈喂养 = 主依恋",喂养是依恋核心通道。
+    - school: Bowlby
+      source: SRC-011
+      stance: 敏感回应者 = 主依恋,喂养无关。直接颠覆中国"奶妈/月嫂带 ≠ 主依恋"假设。
+    - school: Brazelton / Davies / Lillard
+      source: SRC-010/014/016
+      stance: 同 Bowlby 立场 — 谁回应得敏感,谁就是主依恋,可以是父亲、奶奶、月嫂。
+    - school: 中国实操
+      source: ""
+      stance: 月嫂带 / 奶奶带 / 妈妈出现少 → 主依恋可能不是妈妈,对中国家庭高度颠覆。
+
+# ──────────────────────────────────────────────────────────
+# D 节:Phase 9 松田道雄(SRC-024)新增冲突
+# D1(分龄同睡)→ 已并入 A2
+# D5(把屎把尿)→ 已并入 A4
+# D6 → 跳过(无具体卡片,是元汇总)
+# 此处只保留 D2 / D3 / D4 三项独立议题
+# ──────────────────────────────────────────────────────────
+
+D2:
+  issue: 3 岁孩子的体罚边界 · 大发雷霆体罚 vs 瞬间危险打手
+  cards:
+    - C-S8-100
+    - C-S6-396
+    - C-S6-403
+    - C-S6-007
+    - C-S6-932       # E3 Shonkoff/NRC 完全反体罚卡(神经科学证据)合并入 D2
+    - C-S5-2151      # L5 海蒂"管教 ≠ 体罚:10 月起步"
+  views:
+    - school: 松田道雄
+      source: SRC-024
+      stance: 大发雷霆体罚是错的;但孩子做危险动作(冲马路、玩刀具)时瞬间打手作为警告有效。立场分情境。
+    - school: Lansbury / RIE
+      source: SRC-019
+      stance: 温柔而坚定的限度,完全不打。任何体罚(包括瞬间打手)都破坏信任与自我调节学习。
+    - school: Bowlby
+      source: SRC-011
+      stance: secure attachment 派完全反对体罚;依恋安全是学龄前儿童最优先的发育基础。
+    - school: AAP
+      source: SRC-004
+      stance: 完全反对体罚 — 2018 政策声明明确指出体罚对儿童心理发展有害,无任何益处。
+    - school: Shonkoff / NRC
+      source: SRC-025
+      stance: 完全反体罚 — cortisol 累积损伤前额叶皮层(PFC),与儿童反社会行为正相关。
+    - school: 鲍秀兰
+      source: SRC-009
+      stance: 反对打孩子,主张正面管教;在中国本土实证派中是少有的明确反体罚立场。
+    - school: 海蒂
+      source: SRC-040
+      stance: 管教 ≠ 体罚 — 10 月起步用其他管教法。美国主流大众派背书,降低中国家长"反体罚 = 西式精英"偏见。
+    - school: 中国传统
+      source: ""
+      stance: '"棍棒底下出孝子" / "不打不成器" — 体罚被视为负责任管教的一部分。'
+
+D3:
+  issue: 安抚物(lovey)是健康过渡还是依赖癖好
+  cards:
+    - C-S4-702
+    - C-S6-025
+  views:
+    - school: 松田道雄
+      source: SRC-024
+      stance: 不要养成 lovey 癖 — 8-9 月起经常更换毛巾被毯,避免婴儿对特定物品形成强依赖。
+    - school: Brazelton
+      source: SRC-010
+      stance: 破破烂烂的小毛绒 = 内心强大;lovey 是健康过渡物,代表自我安抚能力的发展。
+    - school: Davies
+      source: SRC-014
+      stance: 支持 lovey 是健康发育表现,无需干预或替换。
+    - school: Winnicott(经典)
+      source: ""
+      stance: transitional object 是从母婴融合到独立自我的过渡桥梁,精神分析视角下是健康标志。
+
+D4:
+  issue: '"反抗期" 是孩子叛逆还是大人剥夺玩耍空间'
+  cards:
+    - C-S7-759       # conflicts.md 写错为 C-S7-755,实际是 759(松田反"反抗期")
+    - C-S6-022
+    - C-S7-604       # A20 松田 §387 反"反抗期"标签
+    - C-S6-1079      # A20 Erikson autonomy vs shame
+  views:
+    - school: 松田道雄
+      source: SRC-024
+      stance: 反抗期不存在 — 是大人剥夺玩耍场所导致孩子抗议。不是孩子反抗你,是你在反抗孩子的自立。
+    - school: Brazelton
+      source: SRC-010
+      stance: 18 月狂说 No 是健康信号 — negativism 是自我形成的发育表现,无需打压。
+    - school: 现代心理学
+      source: ""
+      stance: 气质 + 大脑发育 + 自主性需要交互;"反抗期" 不是单一现象,而是多因素综合。
+    - school: 中国传统
+      source: ""
+      stance: '"叛逆期需打压" — 把孩子说 No 视为不听话表现,主张严格管教纠正。'
+
+# ──────────────────────────────────────────────────────────
+# E 节:Phase 10 Shonkoff / NRC 综述(SRC-025)新增冲突
+# E3(体罚)→ 已并入 D2
+# 此处保留 E1 / E2 / E4 / E5 四项
+# ──────────────────────────────────────────────────────────
+
+E1:
+  issue: 0-3 岁是真"关键期"(critical)还是"敏感期"(sensitive)
+  cards:
+    - C-S0-620
+    - C-S0-619
+    - C-S5-907
+    - C-S3-806
+    - C-S3-807
+  views:
+    - school: Shonkoff / NRC
+      source: SRC-025
+      stance: 严格区分 critical(完全错过)vs sensitive(可补)。绝大多数发展是 sensitive 不是 critical,反"3 岁定终身"恐慌。
+    - school: Gopnik
+      source: SRC-015
+      stance: 强调突触修剪 + 关键期窗口(语言 / 视觉 / 知觉重组),认知科学立场偏 critical 端。
+    - school: Lillard(蒙氏)
+      source: SRC-016
+      stance: absorbent mind 强调 0-6 岁是哲学性关键期,但不是临床 critical(可补)。
+    - school: 罗马尼亚孤儿数据
+      source: ""
+      stance: 即便严重剥夺,6 月领养仍可大幅恢复 → 实证偏 sensitive 论;支持 NRC 立场。
+    - school: 中国主流
+      source: ""
+      stance: 普遍误信 critical 论 — "3 岁定终身" / "0-3 是黄金期错过不能补",制造焦虑。
+
+E2:
+  issue: 0-3 岁需要哲学结构(蒙氏 prepared)还是科学共识(NRC 6 原则)
+  cards:
+    - C-S0-622
+    - C-S6-186
+    - C-S8-215
+  views:
+    - school: Shonkoff / NRC
+      source: SRC-025
+      stance: 6 大原则(全人 / 时机 / 自主能动 / 文化 / 关系 / 多重适应),反对单一结构强加,给"科学校准底盘"。
+    - school: Lillard(蒙氏)
+      source: SRC-016
+      stance: prepared environment + 教具序列 + 4 plane of development 哲学结构,给"具体实操结构"。
+    - school: Davies
+      source: SRC-014
+      stance: 蒙氏 0-1 岁实操(floor bed / topponcino 等),实操优先,哲学不僵化。
+    - school: Lansbury / RIE
+      source: SRC-019
+      stance: 自由探索,反对结构化干预;父母提供安全 + 不打扰即可。
+    - school: 互补结论
+      source: ""
+      stance: NRC 跟蒙氏可同时用 — 蒙氏给实操,NRC 给科学校准;NRC 反"过度结构化"非反 prepared 本身。
+
+E4:
+  issue: 0-3 岁需要系统化早期干预还是只需"陪 + 不打扰"
+  cards:
+    - C-S8-207
+    - C-S8-208
+    - C-S8-209
+    - C-S8-210
+    - C-S8-215
+  views:
+    - school: Shonkoff / NRC
+      source: SRC-025
+      stance: 系统化早期干预(Perry / Abecedarian RCT)— 主要针对高风险家庭(贫困 / 抑郁 / 单亲)。
+    - school: Lansbury / Gerber RIE
+      source: SRC-019/022
+      stance: 不打扰 + 自由探索 + Quality time 短就够;反对系统化干预介入正常家庭。
+    - school: Lillard(蒙氏)
+      source: SRC-016
+      stance: 介于二者之间 — 有 prepared environment(结构),但 follow the child(不强加)。
+    - school: 适用建议
+      source: ""
+      stance: 普通家庭偏 RIE(高质量陪伴);高风险家庭(贫困 / 妈妈抑郁)需 NRC 推荐的系统干预。
+
+E5:
+  issue: 商业早教(脑潜能开发课)对 0-3 岁孩子是否有用
+  cards:
+    - C-S0-619
+    - C-S3-808
+    - C-S7-866
+    - C-S8-216
+  views:
+    - school: Shonkoff / NRC
+      source: SRC-025
+      stance: 强反对 — 神经科学不告诉你怎么早教,只告诉你别毁孩子;experience-expectant 类发展靠普通陪伴足够。
+    - school: Gopnik
+      source: SRC-015
+      stance: 反对 — 教学悖论 + Kuhl 数据 — DVD / 视频教学对婴儿无效。
+    - school: 松田道雄
+      source: SRC-024
+      stance: 反对 — 不焦虑育儿,留自由空间给孩子玩。
+    - school: Lansbury / Gerber RIE
+      source: SRC-019/022
+      stance: 反对 — 减少结构化刺激,父母主要任务是不打扰孩子的自主探索。
+    - school: 蒙氏(Lillard / Davies)
+      source: SRC-016/014
+      stance: 部分接受 — 蒙氏环境是"特殊设计"但不是商业早教,要求专业 prepared 而非 fancy 课程。
+    - school: 鲍秀兰
+      source: SRC-009
+      stance: 部分支持早教 — 中国早期智力开发派,跟其他 5 派立场对立。
+    - school: 中国主流
+      source: ""
+      stance: '"脑潜能开发" / "蒙氏早教" / "感统课" / "全脑开发" 商业课程产业链发达,焦虑驱动消费。'
+
+# ──────────────────────────────────────────────────────────
+# F 节:Phase 10 第二本 Pikler《Friedliche Babys》(SRC-026, 1969 德文)立场对立
+# F1 + F2 合并(同属"训练 vs 自然发展"主线,F2 学步车是 F1 子集)
+# F4 跳过(无具体卡片)
+# F5(便盆训练)→ 已并入 A4
+# ──────────────────────────────────────────────────────────
+
+F1:
+  issue: 大动作发展该不该训练 · 学步车 / Bumbo / 撑坐 / 训练表是否有用
+  cards:
+    - C-S1-894
+    - C-S2-832
+    - C-S2-834
+    - C-S2-835
+    - C-S4-834
+    - C-S4-835
+    - C-S4-836
+    - C-S4-837
+    - C-S4-838
+    - C-S4-839
+    - C-S4-840
+    - C-S5-933
+    - C-S5-934
+    - C-S5-935
+    - C-S5-936
+    - C-S5-937
+    - C-S7-891
+    - C-S7-892
+  views:
+    - school: Pikler
+      source: SRC-026
+      stance: 完全反对训练 — 自然顺序 + 安全空间 + 时间 = 大动作全部自动发生;严反一切撑物(学步车 / Bumbo / 跳跳器 / 婴儿座椅)。
+    - school: Magda Gerber / RIE / Lansbury
+      source: SRC-022/019
+      stance: 继承 Pikler 立场 — 里程碑不是赛跑,不撑坐 8 理由,7 类婴儿设备先放下。
+    - school: 蒙氏(Davies/Lillard)
+      source: SRC-014/016
+      stance: 立场一致 — floor bed + 自由动作空间 + 反早期撑坐。
+    - school: AAP
+      source: SRC-002
+      stance: 反学步车(Policy Statement + 数百起伤亡报道);加拿大 2004 立法全球首例禁售。
+    - school: Brazelton
+      source: SRC-010
+      stance: 反学步车,跟 Pikler 立场一致;主张孩子自然探索大动作。
+    - school: 松田道雄
+      source: SRC-024
+      stance: 温和支持自然 — 不催孩子翻 / 坐 / 爬 / 走的时间表,部分跟 Pikler 共鸣。
+    - school: 鲍秀兰
+      source: SRC-009
+      stance: 支持训练 — 婴儿体操 / 抓握训练 / 撑坐;跟 Pikler 派 8 派立场严重对立。
+    - school: 中国主流
+      source: ""
+      stance: '"4 月翻 / 6 月坐 / 9 月爬 / 12 月走" 训练表 + 80% 家庭曾用学步车。跟 Pikler 派全面对立。'
+
+F3:
+  issue: 醒着时该不该让宝宝俯卧"练颈肌"(Tummy Time)
+  cards:
+    - C-S1-409
+    - C-S1-054
+    - C-S2-003
+    - C-S3-194
+    - C-S2-834       # A21 Pikler 反 Tummy Time
+    - C-S4-838       # A21 Pikler 反 Tummy Time
+    - C-S1-2502      # A21 海蒂偏头干预
+    - C-S4-194       # A21 Lillard 蒙氏立场
+  views:
+    - school: AAP
+      source: SRC-002
+      stance: 推 Tummy Time — 防 SIDS 后颈肌发育 + 防扁头综合征(2026 现行立场,Back to Sleep 1994 后配套)。
+    - school: Pikler
+      source: SRC-026
+      stance: 反 Tummy Time — 仰卧位最佳,俯卧不利自然翻身。1969 立场(那时 Tummy Time 概念尚未出现)。
+    - school: Magda Gerber / Lansbury
+      source: SRC-022/019
+      stance: 继承 Pikler — 永远仰卧不俯卧;给地板时间让婴儿自由探索。
+    - school: 海蒂
+      source: SRC-040
+      stance: 每天清醒至少 30 分钟分多次累计(对齐 AAP)— 主流大众派背书 Tummy Time + 防扁头。
+    - school: 蒙氏(Davies/Lillard)
+      source: SRC-014/016
+      stance: 平面活动 OK,但反对"训练"方式;给地板时间让婴儿自由探索俯卧。
+    - school: 折中建议
+      source: ""
+      stance: 不强迫 Tummy Time,但给地板时间允许婴儿自己俯卧探索;若选 AAP 派则醒着每天几次,每次几分钟。
+
+# ──────────────────────────────────────────────────────────
+# K 节:Phase 13 WHO + UNICEF Infant and Young Child Feeding(SRC-031)国际公卫立场
+# 7 项立场对照,中国家长高频实操议题
+# ──────────────────────────────────────────────────────────
+
+K1:
+  issue: 辅食(CF)何时引入 — 6 月 EBF 还是 4-6 月看 readiness
+  cards:
+    - C-S3-1042
+    - C-S3-1043
+    - C-S3-1044
+    - C-S4-1045
+  views:
+    - school: WHO / UNICEF
+      source: SRC-031
+      stance: 6 月起辅食(不早不晚)— EBF 0-6 月明确操作定义(连水都不给,例外 ORS / 维生素 / 药物)。
+    - school: AAP
+      source: SRC-006
+      stance: 4-6 月,看 readiness 信号(头控 / 伸手抓 / 能从勺到喉)+ LEAP 早引入立场。
+    - school: 鲍秀兰
+      source: SRC-009
+      stance: 6 月起辅食,跟 WHO 一致;反对 4 月前给水或辅食。
+    - school: 松田道雄
+      source: SRC-024
+      stance: 5-6 月起,有弹性;不等到严格 6 月,但也反对 4 月前提前。
+    - school: 中国家长共识
+      source: ""
+      stance: 默认 6 月起,4 月前坚决不给(4 派立场一致,中国家长普遍接受)。
+
+K2:
+  issue: 持续母乳时长 — WHO 2 年 vs AAP/鲍/松田 1 年可断
+  cards:
+    - C-S6-1064
+    - C-S6-1065
+    - C-S7-1099
+    - C-S7-1100
+  views:
+    - school: WHO / UNICEF
+      source: SRC-031
+      stance: ≥ 2 岁 'or beyond' — 12-24m 母乳仍提供 33% 营养;Detwyler 2004 自然离乳 2.5-7 岁支持。
+    - school: AAP
+      source: SRC-006
+      stance: 1 岁可断(也可继续不强求);1 岁后母乳不再是营养必需,以家庭决定为主。
+    - school: 鲍秀兰
+      source: SRC-009
+      stance: 1 岁可断;跟中国本土实操更一致,无明确反对延长喂。
+    - school: 松田道雄
+      source: SRC-024
+      stance: 弹性立场 / 妈妈决定;不强求时间表。
+    - school: 中国家长压力
+      source: ""
+      stance: 1 岁后哺乳常被亲戚说"丢人"或"没营养";WHO 国际共识可作为反传统压力的依据。
+
+K3:
+  issue: 婴儿生长曲线基线 — WHO 2006 母乳 vs CDC 2000 配方
+  cards:
+    - C-S4-1052
+  views:
+    - school: WHO Growth Standards 2006
+      source: SRC-031
+      stance: 6 国 MGRS 母乳样本(prescriptive — 'should grow like this');反映理想生长。
+    - school: CDC 2000 / AAP
+      source: SRC-002/006
+      stance: 美国数据,以配方喂养为主(descriptive — '实际长成什么样');反映平均现况。
+    - school: 中国实操
+      source: ""
+      stance: 卫健委 2018 起逐步采用 WHO,但部分医院仍用 CDC 老图 → 母乳娃在 CDC 图常 P25,被误判加奶粉,母乳量降。
+
+K4:
+  issue: 奶粉营销规则 — WHO Code 1981 vs 中国实际营销
+  cards:
+    - C-S1-1009
+    - C-S6-1070
+  views:
+    - school: WHO Code 1981
+      source: SRC-031
+      stance: 全面禁止 4 大利益方营销(妈妈 / 医生 / 医院 / 标签);IBFAN / NetCode 持续监测违规。
+    - school: 中国法规
+      source: ""
+      stance: 《婴幼儿配方乳粉广告法》仅部分对接 — 主要禁 0-6 月配方奶广告,6 月+ 跟随奶 / 增长奶营销宽松。
+    - school: 中国奶粉品牌实操
+      source: ""
+      stance: 产院送试用装 / 母婴店推销 / 直播带货 / 1-2-3-4 段分阶 / KOL 软广 — 多数违反 WHO Code。
+
+K5:
+  issue: 0-4 周新生儿能否用奶嘴 — BFHI 严 vs Karp/AAP 宽
+  cards:
+    - C-S1-1006
+    - C-S1-1018
+  views:
+    - school: BFHI / WHO
+      source: SRC-031
+      stance: 0-4 周尽量避免奶嘴 — 防 nipple confusion;若需安抚用杯 / 勺 / 注射器替代。
+    - school: Karp
+      source: SRC-005
+      stance: 母乳建立后 3-4 周可用奶嘴 — 防 SIDS 视角占优,母乳建立期过后即可。
+    - school: AAP
+      source: SRC-006
+      stance: 3-4 周后可用 — 跟 Karp 立场一致,以 SIDS 防护因子为主要考量。
+    - school: 折中
+      source: ""
+      stance: 0-4 周尽量避免(WHO);需要安抚优先用杯 / 勺;4 周母乳稳定后可考虑奶嘴(Karp/AAP)。
+
+K6:
+  issue: 喂养节律 — 反馈喂养(信号驱动)vs 3 小时定时
+  cards:
+    - C-S1-1005
+    - C-S1-1016
+    - C-S2-1044
+    - C-S4-1050
+    - C-S1-761
+  views:
+    - school: BFHI / WHO
+      source: SRC-031
+      stance: 看信号反馈喂(responsive feeding)— 婴儿饿了就喂,不计时间表。
+    - school: AAP
+      source: SRC-006
+      stance: on demand 立场一致 — 新生儿不应严格定时,看信号优先。
+    - school: 松田道雄
+      source: SRC-024
+      stance: 反产院'3 小时定时 + 用枕头支奶瓶'(C-S1-761),跟 BFHI 完全一致。
+    - school: 中国传统产院
+      source: ""
+      stance: 3 小时定时喂奶仍普遍,部分爱婴医院实操参差;BFHI 中国 6,000+ 医院落地不一致。
+
+K7:
+  issue: 中国'早断早好'传统 vs WHO 2 年共识
+  cards:
+    - C-S6-1064
+    - C-S6-1065
+    - C-S7-1099
+  views:
+    - school: WHO
+      source: SRC-031
+      stance: ≥ 2 岁 + 'or beyond' + 文化无关共识;12-24m 母乳 33% 营养硬数据。
+    - school: 全球医学共识
+      source: ""
+      stance: 北欧国家普遍 2 岁;母亲乳腺癌每哺乳 12 月降 6%;WHO 立场是国际医学共识不是西方偏好。
+    - school: 中国传统
+      source: ""
+      stance: '"1 岁就该断" / "2 岁还在喂丢人" / "1 岁后没营养" / "惯坏依赖" — 文化压力源。'
+    - school: 实操建议
+      source: ""
+      stance: 中国家长选 WHO 2 年立场不是落后是国际接轨;反传统压力可拿 33% 营养 + 乳腺癌数据作背书。
+
+# ──────────────────────────────────────────────────────────
+# L 节:海蒂育儿大百科(SRC-040)立场对照
+# L1 / L2 / L5 / L7 / L8 → 已并入 A1 / B2 / D2 / B3 / B1
+# L3 / L4 / L6 三项独立
+# ──────────────────────────────────────────────────────────
+
+L3:
+  issue: 过敏原(花生 / 蛋 / 奶等)何时引入 — 早引入还是延后避免
+  cards:
+    - C-S3-2249
+    - C-S3-2248
+  views:
+    - school: 海蒂(2014 第 5 版)
+      source: SRC-040
+      stance: 过敏原 6 月起早引入,反"预防过敏的延后" — 直接对接 LEAP 2015 / AAP 2017 共识。
+    - school: 海蒂(2010 第 4 版)
+      source: SRC-040
+      stance: 旧版延后立场(避免高致敏食物到 1-3 岁)。需明示自我修正以防中国老人引旧版。
+    - school: LEAP / AAP 2017
+      source: SRC-006
+      stance: 早引入 — 4-6 月起规律暴露过敏原可降低过敏率;LEAP 试验对花生过敏率降 80%。
+    - school: 中国老人禁忌
+      source: ""
+      stance: '"1 岁前不能给鸡蛋 / 海鲜 / 坚果";基于过时的延后避免理论,与现行循证立场对立。'
+
+L4:
+  issue: 母乳还是配方奶 — 道德题还是权衡题
+  cards:
+    - C-S0-2056
+    - C-S0-2057
+    - C-S1-2104
+  views:
+    - school: 海蒂
+      source: SRC-040
+      stance: 权衡而非道德题;真正不能母乳的 7 种情境;"决定不喂别内疚"。挑战道德绑架,授权职场妈不内疚。
+    - school: WHO / BFHI
+      source: SRC-031
+      stance: 母乳唯一 + 只医学指征用配方;技术层面承认母乳更优,情感框架上母乳是道德选择。
+    - school: AAP
+      source: SRC-006
+      stance: 推母乳但承认家庭情况差异;不强加道德标签,以家庭决定为本位。
+    - school: 中国家长压力
+      source: ""
+      stance: '亲戚 / 月嫂 / 育儿群常用 "不母乳的妈不爱孩子" 道德绑架,缺"不内疚"授权来源。'
+
+L6:
+  issue: 隔代育儿边界 — 月嫂 / 婆媳 / 祖父母角色分工
+  cards:
+    - C-S0-2062
+    - C-S0-003
+  views:
+    - school: 海蒂
+      source: SRC-040
+      stance: 祖父母首次到访先约边界;提供操作脚本(角色分工 + 时段安排),直击中国家庭核心冲突。
+    - school: Brazelton
+      source: SRC-010
+      stance: 全家都抢着照顾的描述呼应 — 但侧重发展观察而非边界设定。
+    - school: 中国传统
+      source: ""
+      stance: 月嫂 / 奶奶 / 姥姥多人照顾 + 边界模糊 — "都是为了娃好",冲突常发但缺协商工具。
+
+# ──────────────────────────────────────────────────────────
+# v2.2 追加冲突 · A19-A21
+# A19 松田哮喘(P0 高风险)→ 独立
+# A20 松田反"反抗期"→ 已并入 D4(只补 cards)
+# A21 Pikler Tummy Time → 已是 F3,只补卡片
+# ──────────────────────────────────────────────────────────
+
+A19:
+  issue: 儿童哮喘 — 心因放大还是器质性疾病(P0 风险)
+  cards:
+    - C-S7-761
+  views:
+    - school: 松田 1980
+      source: SRC-024
+      stance: '"哮喘晚发作是娇惯出 / 全家围观才叫发作" — 反过度医疗派立场。仅适用于"家长放大紧张"的心因部分。'
+    - school: 现代呼吸医学 / GINA
+      source: ""
+      stance: 哮喘是器质性疾病,需规范用药(吸入激素 + 支气管舒张剂);拒诊延误可致急性发作 / 慢性肺损害。
+    - school: AAP
+      source: SRC-006
+      stance: 小儿哮喘有明确诊断标准 + 长期控制方案;急诊指征明确,需立即就医。
+    - school: P0 安全提醒
+      source: ""
+      stance: 父母按松田立场可能延误器质性哮喘治疗。如孩子有反复喘息 / 夜咳 / 运动后喘 → 立即儿科呼吸科评估,不可仅按"娇惯"处理。

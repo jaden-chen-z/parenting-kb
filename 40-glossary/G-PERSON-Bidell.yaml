@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Bidell
+type: person
+display_name: "Bidell(托马斯·比德尔)"
+
+full_name_en: "Thomas R. Bidell"
+full_name_zh: "托马斯·比德尔"
+
+position: |
+  Boston College 教育学教授
+
+contribution: |
+  dynamic skill theory + Fischer 共著
+
+one_liner: |
+  托马斯·比德尔 — dynamic skill theory + Fischer 共著
+
+key_facts:
+  - "本卷章节:Ch 7"
+  - "Lerner V1 命中:50+ 次"
+  - "学派:Lerner V1 动态技能派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+    chapter: "Ch 7"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

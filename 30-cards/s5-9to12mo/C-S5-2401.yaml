@@ -1,0 +1,54 @@
+card_id: C-S5-2401
+stages: [S5, S6]
+tags: [feeding, nutrition, mainstream, mom]
+front:
+  title: 1 岁挑食宝宝替代蛋白 7 法
+  hook: 宝宝不吃肉?海蒂列出 1 岁全天蛋白需求只需 2 杯奶 +2 片面包。
+back:
+  why_matters: |
+    Phase B+C 已盖"1 岁后食欲变小"+"拒辅食 4 招"+"12-36m 跟家庭饮食",
+    但具体"不吃肉/蔬菜怎么补"的实操替代方案没卡。
+    中国家长焦虑:
+    - "孩子不吃肉营养不够"
+    - "不吃蔬菜以后会便秘"
+    - 强迫喂 → 战争 → 厌食海蒂数据级反焦虑:
+    - 1 岁宝宝营养需求"非常这意味着很容易就吃饱"
+    - 1 整天蛋白可由:2 杯牛奶+2 片全麦面包满足
+    - 或:2 杯牛奶+30g 奶酪满足
+    - 或:1 杯奶+1 杯酸奶+1 小碗燕麦+1 片全麦面包满足
+    "肉类不是唯一蛋白来源"是关键反常识。
+  what_to_do:
+    - 蛋白替代清单(7 类):奶酪 / 硬奶酪 / 牛奶 / 酸奶 / 鸡蛋 / 全麦谷物面包 / 豆类(豆腐/豆浆) / 高蛋白意面
+    - 蔬菜"隐藏术":南瓜松饼 / 胡萝卜蛋糕 / 西蓝花炒鸡蛋 / 冷酸奶蘸蔬菜
+    - 加工蛋白法:酸奶水果奶昔 / 法式面包(全麦+蛋+奶浸泡)/ 蛋花汤加奶酪
+    - 不强迫不批评,孩子自我调节(几顿合计而非一顿合计)
+    - 一两顿不吃也不补,下顿等饿了自然吃
+    - 每天 1 杯水果汁(限 120ml 内)补维生素 C
+    - 担心铁:加铁奶粉 / 红肉碎(藏意面酱里)/ 含铁强化谷物
+  failure_mode: |
+    常见错误:
+    - "不吃完不让走" → 形成餐桌权力斗争
+    - "用 iPad 哄着喂" → 长期注意力不在食物
+    - "做特殊饭" → 永远是挑食专业户
+    - 一顿不吃就喂奶/零食代替 → 正餐永远不饿
+    - 量焦虑(对比"别人家孩子吃多少") → 每个宝宝胃容量不同
+  evidence_level: B
+glossary_refs: []
+citation:
+  publisher_en: "Workman Publishing"
+  source_id: SRC-040
+  book_title_en: What to Expect the First Year
+  book_title_zh: 海蒂育儿大百科 0-1 岁
+  authors: ["Heidi Murkoff", "Sharon Mazel"]
+  publisher_zh: 南海出版公司
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh: [莫夏迪, 张敏]
+  chapter: Part 5 Ch 14 挑食
+  page_zh: 488
+related_cards: [C-S5-2143]
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

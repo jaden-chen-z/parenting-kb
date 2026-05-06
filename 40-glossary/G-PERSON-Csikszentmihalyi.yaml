@@ -1,0 +1,77 @@
+glossary_id: G-PERSON-Csikszentmihalyi
+type: person
+display_name: Csikszentmihalyi (米哈里·齐克森米哈里)
+
+full_name_en: Mihaly Csikszentmihalyi
+full_name_zh: 米哈里·齐克森米哈里
+
+one_liner: |
+  匈牙利裔美国心理学家(1934-2021),提出"flow(心流)"理论 — 人深度专注做事时进入的最优心理状态。
+  Lillard 把这理论应用到 0-3 岁宝宝的"专注力培养",作为蒙氏 cycle of activity 的现代心理学背书。
+
+detail: |
+  ## 背景
+  - 1934 生于匈牙利
+  - 1956 移居美国
+  - 芝加哥大学心理学博士
+  - Claremont 研究生院 + 芝加哥大学 + 加州大学教授
+  - Drucker 研究院共同创办人
+  - 2021 逝世
+
+  ## 主要贡献:flow 理论
+  Flow(心流)= 人完全沉浸在一项活动中的最优心理状态:
+  - 完全集中注意力(忘了时间)
+  - 做事跟意识合一
+  - 内在动机驱动(不为奖励)
+  - 立即反馈(知道做得好不好)
+  - 挑战 + 技能匹配(不太难不太易)
+  - 有掌控感
+  - 有清晰目标
+
+  ## 主要著作
+  - 1990《Flow: The Psychology of Optimal Experience》(心流:最优体验心理学)
+  - 1996《Creativity》(创造力)
+  - 1997《Finding Flow》(寻找心流)
+
+  ## Lillard 的应用
+  Lillard 把 flow 理论应用到 0-3 岁:
+  - 婴儿专注于一个活动(看 mobile / 玩玻璃杯倒水) = flow
+  - 大人打断 = 把宝宝拉出 flow → 长大不能专注
+  - cycle of activity = 让 flow 反复发生的结构
+  - **0-3 岁建立"自己进入 flow"的能力** = 关键发展
+
+  Lillard Ch2 引用 Csikszentmihalyi 研究:**家庭对 flow 的支持有 4 类**(C-S2-190 卡讲)。
+
+  ## 跟其他心理学家比
+  - Maria Montessori(1900s)— 直觉观察到孩子的"工作专注"
+  - Csikszentmihalyi(1990s)— 用心理学定义这个状态
+  - 神经科学(2000s+)— 用 fMRI 证实 flow 的脑活动模式
+  - 这条线证实蒙氏 100 年观察是科学的
+
+  ## 中国知名度
+  - 心流理论在中国创业 / 学习圈广为人知
+  - 但应用到育儿 0-3 岁 = Lillard 独有
+  - 跟 "番茄工作法" / "深度工作"(Cal Newport)同源
+
+key_facts:
+  - 1934-2021 匈牙利裔美国心理学家
+  - flow(心流)理论提出者(1990)
+  - 内在动机 + 挑战技能匹配 = flow 6 要素
+  - Lillard 把 flow 应用到 0-3 岁专注力发展
+
+related_glossary:
+  - G-PERSON-Lillard
+  - G-PERSON-Jessen
+  - G-TERM-self-construction
+  - G-TERM-cycle-of-activity
+
+related_cards: []
+
+sources:
+  - source_id: SRC-016
+  - external: Csikszentmihalyi《Flow》1990
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

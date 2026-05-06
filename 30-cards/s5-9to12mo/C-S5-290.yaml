@@ -1,0 +1,62 @@
+card_id: C-S5-290
+stages: [S5]
+tags: [bowlby, loss, attachment, philosophy, china_high_freq]
+
+front:
+  title: 月嫂阿姨离别要重视
+  hook: 9 月起已是真"丧失"
+
+back:
+  why_matters: |
+    Bowlby Ch24-25 + 已有 V1/V2 卡综合:**9-12 月宝宝对持续陪伴的人(月嫂 / 阿姨 / 奶奶)已经形成依恋**,这个人离开 = 真的"丧失",不是"换个人陪而已"。
+    具体证据(Ch25):
+    - 7 个月以上婴儿在陌生环境拒绝陌生人当替代
+    - 10 个月住院 3 周回家会粘妈妈数月
+    - 9 月已能保留主依恋人形象(C-S6-293)
+    - 简(17 月)与养母建立浓浓依恋,养母后续探望要慎重中国家庭最大坑:
+    - **月嫂"按合同 3 个月 / 6 个月走"** — 对宝宝就是真"失去主依恋人"
+    - **保姆频繁更换** — 9 月以后宝宝每次都经历完整哀伤
+    - **奶奶带大的孩子换妈妈带** — 宝宝可能 1-2 周不认妈
+    Bowlby 立场:**这种"小型丧失"的累积,跟一次重大丧失一样有害**。
+    实操原则:**主依恋人替换要慢慢过渡 + 给宝宝时间哀悼**。
+  what_to_do:
+    - 月嫂 / 阿姨离开前 1 周开始过渡
+    - 让宝宝看告别不偷溜
+    - 离开后留照片 / 物品给宝宝
+    - 接受宝宝 1-4 周难过反应
+    - 同一阿姨稳定用 1+ 年最佳
+  failure_mode: |
+    "月嫂走那天偷偷不告诉宝宝免得哭" → 偷溜更伤(C-S5-135 蒙氏 / 三派一致)。
+    "保姆 3 个月一换反正小宝宝不懂" → 累积创伤 → 焦虑型依恋直接成因。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Bowlby
+  - G-TERM-attachment
+  - G-TERM-secure-base
+  - G-TERM-mourning
+  - G-TERM-primary-attachment-figure
+
+citation:
+  book_title_zh: "依恋三部曲 · 第三卷:丧失"
+  book_title_en: "Attachment and Loss, Vol 3: Loss, Sadness and Depression"
+  authors: ["John Bowlby"]
+  authors_zh: ["约翰·鲍尔比"]
+  publisher_zh: "世界图书出版有限公司北京分公司"
+  year_zh: 2018
+  year_en: 1980
+  isbn_zh: "978-7-5192-3383-9"
+  location: "Ch 24-25 · 综合(中国家庭场景应用)"
+  source_id: SRC-017
+
+unit_ids: []
+related_cards:
+  - C-S5-135       # Davies 蒙氏 不偷溜 + 告别仪式
+  - C-S5-088       # Bowlby V2 分离时玩偶毯子
+  - C-S6-293       # Bowlby V3 1岁半已会想念(why_matters inline 引用)
+  - C-S6-294       # Bowlby V3 替代照顾者最关键
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

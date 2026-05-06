@@ -1,0 +1,92 @@
+card_id: C-S5-934
+stages: [S5]
+tags: [pikler, motor-发展, source-de, controversy]
+
+front:
+  title: "站起初用手不踩脚"
+  hook: "看脚是踩还是悬空"
+
+back:
+  why_matters: |
+    皮克勒 1969 第 2 章"站立"经典观察 — 婴儿初期站立是
+    "**用手挂**"而不是"**用脚撑**":
+
+    德语原话 + 白话翻译:
+    > 初期 — 虽然他们站着 — 几乎不踩脚,而是用手紧紧抓住,垂直维持自己。
+
+    这意味着:
+    - 婴儿"会站" ≠ 脚承重 — 是手维持
+    - 几周到几月后才慢慢用脚
+    - 这个过程不能跳 — 是平衡控制建立期
+
+    跟中国"扶他站,他踩脚就是会站了"完全冲突。
+    皮克勒立场:那不是"会站",是被撑。
+
+    玛格达"教育护理"(SRC-022)+ 兰斯伯里第 7 章(SRC-019)
+    没有这么细的描述 — 本卷是德文原版独家细节。
+
+  what_to_do:
+    - 9-14 月看到宝宝"站着"先看脚 — 是踩还是悬空
+    - 悬空 = 还在练手维持(给时间)
+    - 慢慢踩脚 = 进入下一阶段(几周后)
+    - 完全踩脚 + 单手放开 = 真会站(往走过渡)
+    - 这个过程顺其自然 — 不催不练不夸
+
+  failure_mode: |
+    "扶他站,他能踩脚 = 会站了" → 皮克勒反:扶站踩脚是被动承重。
+    真"会站"是他自己抓栏杆 + 自己用脚 + 自己单手放开 — 这才是平衡建立。
+
+  evidence_level: B
+
+  positions:
+    issue: 大动作发展该不该训练 · 学步车 / Bumbo / 撑坐 / 训练表是否有用
+    views:
+      - school: Pikler
+        source: SRC-026
+        stance: 完全反对训练 — 自然顺序 + 安全空间 + 时间 = 大动作全部自动发生;严反一切撑物(学步车 / Bumbo / 跳跳器 / 婴儿座椅)。
+      - school: Magda Gerber / RIE / Lansbury
+        source: SRC-022/019
+        stance: 继承 Pikler 立场 — 里程碑不是赛跑,不撑坐 8 理由,7 类婴儿设备先放下。
+      - school: 蒙氏(Davies/Lillard)
+        source: SRC-014/016
+        stance: 立场一致 — floor bed + 自由动作空间 + 反早期撑坐。
+      - school: AAP
+        source: SRC-002
+        stance: 反学步车(Policy Statement + 数百起伤亡报道);加拿大 2004 立法全球首例禁售。
+      - school: Brazelton
+        source: SRC-010
+        stance: 反学步车,跟 Pikler 立场一致;主张孩子自然探索大动作。
+      - school: 松田道雄
+        source: SRC-024
+        stance: 温和支持自然 — 不催孩子翻 / 坐 / 爬 / 走的时间表,部分跟 Pikler 共鸣。
+      - school: 鲍秀兰
+        source: SRC-009
+        stance: 支持训练 — 婴儿体操 / 抓握训练 / 撑坐;跟 Pikler 派 8 派立场严重对立。
+      - school: 中国主流
+        stance: '"4 月翻 / 6 月坐 / 9 月爬 / 12 月走" 训练表 + 80% 家庭曾用学步车。跟 Pikler 派全面对立。'
+glossary_refs:
+  - G-PERSON-Pikler
+  - G-TERM-bewegungsentwicklung
+
+citation:
+  book_title_de: "Friedliche Babys – zufriedene Mütter"
+  book_title_zh: "和平的婴儿 — 满足的母亲"
+  authors:
+    - Emmi Pikler
+  publisher_de: HERDER (HERDER / SPEKTRUM Band 4141)
+  year: 1969
+  location: "Ch2 Stehen 段 verbatim"
+  source_id: SRC-026
+
+unit_ids: []
+related_cards:
+  - C-S5-933  # Pikler 不教站(本卷)
+  - C-S4-836  # 自坐 vs 撑坐怎么分(本卷)
+  - C-S4-834  # Pikler 反撑坐 6 论证
+  - C-S2-290  # Lansbury 不撑坐 8 理由
+  - C-S4-298  # Lansbury 宝宝是依赖但不是无能
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

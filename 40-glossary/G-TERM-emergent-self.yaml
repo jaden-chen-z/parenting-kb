@@ -1,0 +1,72 @@
+glossary_id: G-TERM-emergent-self
+type: term
+display_name: 新生自我 (emergent self)
+
+full_name_zh: 新生自我
+full_name_en: Sense of an Emergent Self
+
+one_liner: |
+  Stern 命名的 self 第一阶段 — **0-2 月** 婴儿"在组装自己"的过程体验。
+  不是"完整的自我感",是体验"组织正在形成"本身。是后续 core / subjective / verbal self 的奠基阶段,**一辈子都活跃**。
+
+detail: |
+  ## 定义
+  Emergent self(新生自我)= **组织正在形成中**的 self 体验。
+  - 0-2 月婴儿不是混沌,也不是有完整自我
+  - 在主动"yoking"(搭桥)分散的感觉(妈的脸 / 妈的声音 / 自己的手)成"组织"
+  - 体验**这个组装过程**就是 emergent self
+
+  ## Stern 反传统
+  - 反 Freud "刺激屏障":婴儿不是被屏障挡住跟外界无交流
+  - 反 Mahler "正常自闭":婴儿绝不"自闭"
+  - 反 Piaget "先经验后整合":婴儿出生即跨感官识别(amodal)
+  - 婴儿是 hypothesis tester + 积极组装者
+
+  ## 关键特征
+  - **从出生起开始** — 不是某个里程碑后才有
+  - **2 月跃迁后**逐步整合成 core self
+  - **一辈子都活跃** — 大人此刻看新画 / 听新音乐时仍在用 emergent self
+  - 是体验"组织化的过程",不只是"产物"
+
+  ## 怎么帮 emergent self 形成
+  - **多感官同时输入**(脸 + 声音 + 触摸)
+  - **alert inactivity 时不打断**(C-S1-253)
+  - **真实世界刺激**(不限制于安静床上)
+  - **跟人互动**(不只看物)
+
+  ## 跟其他理论对照
+  - **Mahler "normal autism"**:Stern 完全反对
+  - **Bowlby "attachment 形成"**:都从出生起,Stern 给心理机制
+  - **蒙氏 "absorbent mind"**:概念呼应,蒙氏哲学 + Stern 心理双轨
+  - **Wonder Weeks 跃迁 1**(5 周):同时间不同视角
+
+  ## 临床意义
+  - 严重缺失 → 后期 core self 基础不牢
+  - 需要的"养料"是**跟人的多感官互动**,不是单纯刺激
+  - 产后抑郁妈妈无法提供 → 早期干预关键
+
+key_facts:
+  - Stern 4 senses of self 第一阶段
+  - 0-2 月,婴儿"在组装自己"
+  - 反 Mahler 共生融合论
+  - 一辈子都活跃,不会被 core self 取代
+  - 需要多感官人际输入
+
+related_glossary:
+  - G-PERSON-Stern
+  - G-TERM-core-self
+  - G-TERM-subjective-self
+  - G-TERM-verbal-self
+  - G-TERM-amodal-perception
+  - G-TERM-six-states
+
+related_cards: []
+
+sources:
+  - source_id: SRC-018
+  - external: Stern《The Interpersonal World of the Infant》Ch 3
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

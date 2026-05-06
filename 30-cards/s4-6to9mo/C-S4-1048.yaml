@@ -1,0 +1,57 @@
+card_id: C-S4-1048
+stages: [S4]
+tags: []
+
+front:
+  title: "辅食 4 大食物组"
+  hook: "4 大食物组打底"
+
+back:
+  why_matters: |
+    WHO 食物多样性(dietary diversity)标准:每日辅食至少含 4 大食物组(共 7 组之中):
+    ① 谷物/根茎(米/面/土豆)
+    ② 豆类/坚果(豆腐/碎花生酱)
+    ③ 奶制品(母乳/配方/酸奶)
+    ④ 肉/禽/鱼/动物蛋白
+    ⑤ 蛋黄(铁源)
+    ⑥ 维A 富含(胡萝卜/南瓜/绿叶菜)
+    ⑦ 其他蔬果
+    WHO 数据:全球 6-23 月辅食多样性达标率 < 1/4 — 中国估计也不高。
+    中国通病:米粉/粥为主,蛋白/铁不足。
+  what_to_do:
+    - "每日 4+ 食物组 — 看碗里几种颜色"
+    - "肉/鱼/蛋黄一定要有(6 月起)"
+    - "蔬菜不只胡萝卜 — 绿叶/紫色都加"
+    - "米粉/粥不能为主 — 是碳水占比高蛋白少"
+    - "记口诀'有色彩有蛋白才算完整餐'"
+  failure_mode: |
+    辅食以米粉/粥为主 → 缺铁缺蛋白 → 6 月后铁性贫血 + 肌肉发育慢。
+    全球 < 1/4 达标,中国家长可以做更好。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-CF
+  - G-TERM-WHO-CF-principles
+
+citation:
+  page_title: "WHO Dietary Diversity Standard"
+  publisher: "World Health Organization & UNICEF"
+  page_url_primary: https://www.who.int/health-topics/complementary-feeding
+  accessed: 2026-05-04
+  language: en
+  location: "WHO 4+ 食物组标准 + 全球 < 1/4 达标"
+  source_id: SRC-031
+
+unit_ids: []
+related_cards:
+  - C-S4-1046
+  - C-S4-1051
+  - C-S3-006
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_doc_id_pending: D6
+citation_followup_needed: '已映射真实 doc_id (D6 = WHO Complementary Feeding)'

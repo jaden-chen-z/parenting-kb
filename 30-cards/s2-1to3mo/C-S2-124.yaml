@@ -1,0 +1,65 @@
+card_id: C-S2-124
+stages: [S2]
+tags: [safety, red_flag, controversy]
+
+front:
+  title: 烦躁期再崩溃也别摇宝宝
+  hook: SBS(摇婴综合征) 几秒就脑出血
+
+back:
+  why_matters: |
+    第 8 周 / 第 12 周的烦躁阶段,是 0-3 月家长最容易"崩溃想摇"的时段:
+    - 哭闹强度比之前几周陡增
+    - 妈妈睡眠不足到极限
+    - 各方"建议"("再哭让他哭累就好")火上浇油
+    - 一些妈妈在书里直接承认"我把宝宝重重摔在尿布台上 / 抓住摇晃"
+
+    凡德里特在第 8 周 + 第 12 周章节都加了红色 Baby Care 警告框(白话翻译):
+    > 永远不要摇晃宝宝。摇晃幼儿是你能做的最糟糕的事之一。
+    > 它会非常容易地造成颅骨下方的颅内出血,导致脑损伤,
+    > 进而可能引发后续的学习障碍,甚至死亡。
+
+    摇婴综合征(SBS):**几秒钟剧烈摇晃就可能造成永久脑损伤甚至死亡**。
+
+    家长意义:认识到"想摇"是正常情绪反应,但**绝不能化为行动**。
+  what_to_do:
+    - 感觉到自己即将崩溃 → 把宝宝放在安全地方,自己离开 5 分钟
+    - 让伴侣 / 父母 / 朋友替手,不是软弱是责任
+    - 哭闹耐受不了就让烦躁宝宝在床上哭一会儿(安全)— 优于摇
+    - 反复有强烈伤害冲动 → 求医(可能是产后抑郁,见 C-S1-033)
+    - 跃迁完成后情况会突然好转,撑过几天-2 周
+  failure_mode: |
+    "我就摇了几下应该没事" — 几秒的剧烈摇晃可造成永久脑损伤,无安全摇晃量。
+    "我控制得住" — 极限疲劳 + 持续哭闹 + 单人带娃 = 极易失控,提前找替手才安全。
+    认为求助是软弱 → 独自硬撑 → 突破临界点 → 不可挽回。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-vanderijt
+  - G-PERSON-plooij
+  - G-ABBR-SBS
+  - G-TERM-fussy-phase
+  - G-TERM-postpartum-depression
+
+citation:
+  book_title_zh: "婴儿大脑跃迁 10 周(神奇周)"
+  book_title_en: "The Wonder Weeks"
+  authors: ["Hetty van de Rijt", "Frans X. Plooij"]
+  authors_zh: ["海蒂·凡德里特", "弗朗斯·普洛伊"]
+  publisher_en: "Kiddy World Publishing"
+  year_en_first: 1992
+  isbn_en: "978-90-79208-12-1"
+  location: "Chapter 4 + Chapter 5 Baby Care boxes: Shaking Can Be Harmful(Never shake a baby... internal bleeding just below the skull, brain damage, learning difficulties or even death)"
+  source_id: SRC-013
+
+unit_ids: []
+related_cards:
+  - C-S1-020       # Karp 摇晃 vs SBS
+  - C-S1-033       # 产后抑郁
+  - C-S1-178       # 三 C 信号
+  - C-S2-121       # WW8 模式世界(同期跃迁)
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

@@ -1,0 +1,65 @@
+card_id: C-S1-188
+stages: [S1]
+tags: [montessori, newborn, diaper, respect, philosophy]
+
+front:
+  title: 慢动作换尿布
+  hook: 不是动作快就是好
+
+back:
+  why_matters: |
+    新手家长换尿布的常见做法:**速度第一**(2 分钟搞定 = 哭得少 = 好妈妈)。
+    蒙氏完全反过来 — **慢就是好**。
+    理由:
+    - 新生儿对触感 / 温度 / 动作变化极敏感
+    - 快速 = 大量陌生刺激同时来 = 紧张 → 哭
+    - 慢动作 + 解说 = 宝宝有时间预期 + 配合
+    - 这是宝宝**学"被尊重"的最早体验**
+    Karin Slabaugh(蒙氏新生儿专家)在书中明确说:
+    > "不是快速换完然后安抚哭,是从一开始就别让他哭。"
+    具体做法:
+    1. 抱前先说:"我要换尿布了"
+    2. 解开一边,等 3 秒
+    3. 抬起腿,慢
+    4. 擦,慢,跟他说在做什么
+    5. 新尿布,慢,再说
+    6. 整个过程跟他对话(他能听懂语调)
+    长期意义 — 宝宝从最早体验中学到"我的身体被尊重"。这对青春期的身体边界感都有影响。
+  what_to_do:
+    - 每次换尿布前先告诉宝宝
+    - 动作放慢到自己觉得"是不是太慢了"
+    - 全程对话,描述在做什么
+    - 不强行扯衣服 / 不快速翻身
+    - 接受换尿布 8 分钟,不追 2 分钟
+  failure_mode: |
+    "慢慢换他哭得更久" — 通常反而不哭。哭是因为快=陌生刺激轰炸。
+    "上班累,2 分钟搞定就好" — 一天 6-8 次,慢 3 分钟 vs 快 1 分钟+哭 2 分钟,时长差不多。
+    把换尿布当"麻烦事" — 错过最早 / 最频繁的连接 + 学习场景。
+  evidence_level: C
+
+glossary_refs:
+  - G-PERSON-Davies
+  - G-PERSON-Montessori
+  - G-TERM-symbiosis-period
+
+citation:
+  book_title_zh: "蒙特梭利的小宝宝(0-1岁)"
+  book_title_en: "The Montessori Baby"
+  authors: ["Simone Davies", "Junnifa Uzodike"]
+  authors_zh: ["西蒙·戴维斯", "君妮法·乌佐迪克"]
+  publisher_en: "Workman Publishing"
+  year_en: 2021
+  isbn_en: "978-1-5235-0693-7"
+  location: "Chapter 3 · Karin Slabaugh interview > Diaper changes"
+  source_id: SRC-014
+
+unit_ids: []
+related_cards:
+  - C-S1-073       # Brazelton 6 states
+  - C-S1-077       # Brazelton 物理护理时机
+  - C-S1-078       # Brazelton 安抚
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

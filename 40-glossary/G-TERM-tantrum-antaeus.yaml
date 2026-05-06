@@ -1,0 +1,103 @@
+glossary_id: G-TERM-tantrum-antaeus
+type: term
+display_name: Antaeus 故事 (扑地补能比喻)
+
+full_name_zh: Antaeus 故事 / 大地之子 tantrum 比喻
+full_name_en: Tantrums — The Antaeus Story
+
+one_liner: |
+  Magda Gerber 独家用希腊神话 Antaeus 解释 tantrum:
+  Antaeus 是大地母亲的儿子,跟强对手打架被扔到地上,
+  从大地吸力又站起来。
+  Magda 说幼儿崩溃扑地 = 找大地补能,大人不该制止。
+  RIE 派 tantrum 处理框架的核心隐喻。
+
+detail: |
+  ## 故事原型
+  希腊神话:Antaeus 是 Poseidon(海神)+ Gaia(大地母亲)的儿子。
+  他是个巨人,挑战所有路过 Libya 的人摔角。
+  没人打得过他 — 因每次被打倒,他从大地母亲身上吸力,起来更强。
+  最后 Hercules 发现秘密,把他举在空中绞死。
+
+  ## Magda 的隐喻应用
+  Magda《Your Self-Confident Baby》Ch8 §Tantrums。
+  她用 Antaeus 故事解释幼儿 tantrum 的本质:
+  - 孩子崩溃 → 扑地大哭 = 找大地补能(emotional refueling)
+  - 大人制止 / 抱起 = 把他举离地 = 让他无法补能
+  - 让他完整"过完"tantrum = 让他从大地吸力再起来
+
+  > "When a child gets totally desperate and doesn't know what else
+  > to do, he throws himself on the ground.
+  > When I see children do this, I say, 'That's the Antaeus story.'"
+  > — Magda Gerber
+
+  ## RIE 派 tantrum 处理框架
+
+  Magda 立场:**you cannot stop a tantrum, nor should you try.**
+
+  ### 不要做
+  1 不抱不搂(some experts 推荐"紧抱 holding therapy" — Magda 反)
+  2 不离场不"等你冷静"(那是惩罚 + 抛弃)
+  3 不哄不分散("看小鸟" 派)
+  4 完了不追问 / 不讲道理 / 不用作教育素材
+
+  ### 要做
+  1 留下来,坐他旁边(他可见你)
+  2 默默在,不说话不评价
+  3 唯一介入:不让伤己伤人
+  4 公共场合实在尴尬抱去车里(给他 + 你私密空间)
+  5 完了如果他要,可以抱
+
+  ## 神经科学视角(后期 Lansbury 接续)
+  现代理论(Daniel Siegel 等)证实 Magda 直觉:
+  - Tantrum 是 prefrontal cortex 暂时离线 + amygdala 主导
+  - 制止 / 讲道理无效(prefrontal 不在线)
+  - 完整 release → 重新整合(integration)
+  - 大人在场 = 神经系统外部调节(co-regulation)
+  - 不在场 = 抛弃感 + 长期 dysregulation
+
+  ## 中国家长适用
+  - 替代"打骂止哭"(短期止 + 长期更频繁)
+  - 替代"冷处理"(误读为"不理")
+  - 不在公共场合羞辱孩子
+  - 信任 tantrum 的"自愈"机制
+
+  ## 误用警告
+  Antaeus 不是"放任"的借口:
+  - 不让伤己伤人是必须介入的
+  - "在场" ≠ "离场"
+  - "不制止" ≠ "不在乎"
+  - 完了 → 平静温暖陪伴
+
+  ## 命名冲突说明(2 session 并行 Phase 8)
+  本术语 ID:`G-TERM-tantrum-antaeus`(SRC-021 第一轮我建)
+  另见:`G-TERM-Antaeus-tantrum`(SRC-022 第二轮深度本同概念,
+  并行 session 独立建立)— 两术语同概念,可合并。
+  本卷 SRC-021 卡片(C-S6-607 等)引用 `G-TERM-tantrum-antaeus`,
+  SRC-022 卡片引用 `G-TERM-Antaeus-tantrum`。用户决定后续合并方式。
+
+key_facts:
+  - Magda Gerber 用希腊神话 Antaeus 比喻 tantrum 本质
+  - 孩子扑地 = 找大地补能,不该制止
+  - '"你停不下 tantrum,也不该试" — Magda 经典立场'
+  - 大人三件事:留 / 不评 / 防伤
+  - 现代神经科学(Siegel)证实 Magda 直觉
+
+related_glossary:
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+  - G-TERM-acknowledging-feelings
+  - G-TERM-respectful-parenting
+
+related_cards:
+  - C-S6-607  # Antaeus tantrum 案例
+  - C-S6-403  # Lansbury 限度+情绪并存
+
+sources:
+  - source_id: SRC-021
+  - external: Greek mythology / Daniel Siegel《The Whole-Brain Child》
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

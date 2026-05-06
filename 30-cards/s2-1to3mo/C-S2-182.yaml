@@ -1,0 +1,60 @@
+card_id: C-S2-182
+stages: [S2]
+tags: [cognitive_science, language, turn_taking]
+
+front:
+  title: 3 月 cooing 就是第一场对话
+  hook: 你停他叫,跟节奏
+
+back:
+  why_matters: |
+    Cooing(咕咕声)= 3 月宝宝发出的元音声音(ooh / aah / eee)。
+    Gopnik 三人观察:婴儿发声**自带轮流节奏**(turn-taking)。
+    宝宝不是随机叫,是在你停顿时叫,在你说话时静听。
+    这是人类对话的最早雏形 — 婴儿天生懂"对话有来回"。
+    Gopnik 描述:像在跳一支无声的舞 / 一段无字情书。
+    实验证据:
+    - 录像分析:婴儿发声时机跟妈妈停顿时机高度同步
+    - 即使陌生人也能立刻调入这节奏
+    - 跨文化普适(Pat Kuhl 跨语言验证)
+    意义:婴儿不是被动听众,是**主动对话伙伴**。
+    对中国家长意义:跟宝宝"咕咕"对话不是逗他,是建立沟通根基。
+    "他还不会说话,跟他说啥" — 错。3 月已经在练对话节奏。
+    亲子游戏:你说 → 等他叫 → 你回应 → 等他叫,循环。
+  what_to_do:
+    - 跟宝宝说话后留 1-2 秒等他响应
+    - 他叫了,你立刻回应(模仿他的声音也行)
+    - 不打断他发声,让他完成"自己那段"
+    - 不要把对话当独白,等待是关键
+  failure_mode: |
+    "他还不会说话,我说我的就行" — 错。对话节奏 3 月就开始练。
+    宝宝一发声就立刻打断 — 错。错过他完成轮的机会。
+    把哭声当唯一沟通方式 — 忽略 cooing 阶段的对话练习。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Gopnik
+  - G-PERSON-Kuhl
+  - G-TERM-turn-taking
+  - G-TERM-cooing
+  - G-TERM-parentese
+
+citation:
+  book_title_en: "The Scientist in the Crib"
+  book_title_zh: "摇篮里的科学家"
+  authors: ["Alison Gopnik", "Andrew N. Meltzoff", "Patricia K. Kuhl"]
+  publisher_en: William Morrow
+  year: 1999
+  location: "Chapter 2 · Babies flirt · 3-month cooing turn-taking"
+  source_id: SRC-015
+
+unit_ids: []
+related_cards:
+  - C-S2-013       # 鲍秀兰母婴交谈链
+  - C-S2-181       # parentese 是科学的
+  - C-S1-241       # Meltzoff 模仿
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

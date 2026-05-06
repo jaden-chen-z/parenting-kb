@@ -1,0 +1,64 @@
+card_id: C-S1-866
+stages: [S1]
+tags: [shonkoff, nrc, kung_san, cross_culture, carry_more, china_high_freq]
+
+front:
+  title: "多抱减一半哭"
+  hook: "!Kung 妈天天抱孩"
+
+back:
+  why_matters: |
+    NRC 综述 Ch 5 引 **Hunziker-Barr 1986** 关键实验 — 跨文化哭闹研究:
+    **!Kung 部落**(非洲喀拉哈里游猎民族)育儿:
+    - 婴儿 24 小时贴妈身上(白天背着 / 晚上贴睡)
+    - 每 15 分钟一次小口母乳
+    - 0 容忍 fuss (一 fuss 立刻回应)
+    - 不强调"睡整觉"
+    **结果**:!Kung 婴儿哭闹时长比北美少一半。
+    **Hunziker-Barr 加拿大实验**:
+    - 给一组北美妈妈"每天多抱 2 小时"指令
+    - 控制组保持原样
+    - 结果:多抱组哭闹**频率不变**,但**安抚速度大幅快**
+    **重要校准**:"多抱"不减哭闹**频率**,只减"哭闹**时长**"。
+    **NRC 综述结论**:婴儿哭闹**峰值时间**(6-8 周)跨文化一致 —
+    生理决定;但**总时长**受育儿方式影响很大。
+    **对中国家长**:
+    - "多抱不会宠坏" — NRC 明确支持(跟松田 §67/§100 一致)
+    - !Kung 模式 = 给中国家长的"多抱不焦虑"科学背书
+    - 别强训"自己睡 / 自己哭" — 跟 NRC 综述对立
+    - 婴儿哭就回应 + 抱起 — 减一半哭
+  what_to_do:
+    - 婴儿哭立刻抱别等
+    - 每天多抱 2 小时
+    - 别强训"自己哭睡"
+    - 多接触多 skin-to-skin
+    - 接受哭闹峰值 6-8 周
+  failure_mode: |
+    "多抱会宠坏" — 错。NRC 明确反驳:多抱减一半哭闹时长。
+    "哭就抱会让他知道哭有效" — 实证反驳:!Kung 婴儿哭得更少不是更多。
+    "我们北美 / 中国不是 !Kung 不能照搬" — Hunziker-Barr 实测北美家庭也有效。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Shonkoff
+  - G-TERM-NRC
+
+citation:
+  book_title_en: "From Neurons to Neighborhoods"
+  authors: ["Jack P. Shonkoff", "Deborah A. Phillips"]
+  org: "NRC/IOM"
+  year_en: 2000
+  location: "Ch 5 Self-Regulation · Hunziker-Barr cross-cultural carrying study"
+  source_id: SRC-025
+
+unit_ids: []
+related_cards:
+  - C-S2-546    # 松田 §67 抱不养成毛病 SRC-024
+  - C-S1-018    # Karp 5S 安抚 SRC-003
+  - C-S1-253    # Stern attunement 起步 SRC-018
+  - C-S2-009    # 鲍秀兰 母婴情感 SRC-009
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,58 @@
+card_id: C-S3-297
+stages: [S3]
+tags: [environment, RIE, lansbury, yes-space]
+
+front:
+  title: "栅栏围出的玩区不是监狱"
+  hook: '没"不"的安全大场地'
+
+back:
+  why_matters: |
+    Lansbury Ch15 误区 4:
+    很多家长觉得"用婴儿门 / 围栏圈出来"是把宝宝关起来。
+    Lansbury 说反:这是 yes space — 没有一个"不"的可探索区。
+    不必每秒说"别动 / 别拿",宝宝才能真投入玩。
+    跟着大人到处跑的"自由"宝宝,反而无法专注。
+    yes space 中的宝宝才是真自由。
+
+  what_to_do:
+    - 选一个房间或圈一片,全部安全
+    - 拿走玻璃 / 电线 / 化学品 / 重物
+    - 大人在 yes space 里坐着不动,做安全基地
+    - 让宝宝爬到任何地方都没风险
+    - 大人不必反复说"不",宝宝放松投入
+
+  failure_mode: |
+    "围栏限制宝宝探索" → 错。
+    yes space 不是囚笼,是"无 No 的安全大场地"。
+    或反向:全屋大改造没限制 → 大人还是 30 秒一次"别动"。
+    Yes space 是策略性"圈一片做对",不是全屋革命。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Lansbury
+  - G-PERSON-Gerber
+  - G-TERM-yes-space
+  - G-TERM-RIE
+  - G-TERM-prepared-environment
+
+citation:
+  book_title_en: "Elevating Child Care: A Guide to Respectful Parenting"
+  book_title_zh: "尊重孩子:RIE 育儿之道"
+  authors:
+    - Janet Lansbury
+  publisher_en: JLML Press
+  year: 2014
+  location: "Ch15 Myth 4 Gated Play Areas"
+  source_id: SRC-019
+
+unit_ids: []
+related_cards:
+  - C-S4-130  # Davies yes space
+  - C-S3-133  # Davies floor bed
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

@@ -1,6 +1,6 @@
 card_id: C-S5-001
 stages: [S5]
-tags: [safety]
+tags: [safety, controversy]
 
 front:
   title: 戒奶瓶 12-18 月,sippy 只过渡
@@ -8,22 +8,39 @@ front:
 
 back:
   why_matters: |
-    6-12 月是婴儿口腔肌肉(咀嚼 / 吞咽 / 发音)飞速发育期 — 需要 open cup 训练,不能继续用奶嘴吸吮模式。
+    6-12 月是婴儿口腔肌肉(咀嚼 / 吞咽 / 发音)飞速发育期 — 需要敞口杯训练,不能继续用奶嘴吸吮模式。
     中国"睡前奶瓶"传统普遍,导致奶瓶蛀牙(baby bottle tooth decay)成中国儿科牙科主诉之一。
     AAP:6-9 月开始引入 cup,12-18 月完全戒奶瓶。
     拖太久 4 大风险:漏餐(填饱不饿)/ 肥胖 / 早期蛀牙 / 牙齿错位 + 发音延迟。
-    Sippy cup 只是过渡,2 岁前用 open cup(无 spout);sippy 选无 valve 的(有 valve 跟奶瓶一样,无学习意义)。
+    鸭嘴杯(sippy) 只是过渡,2 岁前用敞口杯(无 spout);sippy 选无 valve 的(有 valve 跟奶瓶一样,无学习意义)。
   what_to_do:
     - 6 月引入辅食时同时引入 cup(可装母乳/配方/水)
     - 6-12 月逐步减奶瓶餐数,先减白天再减睡前
     - 12-18 月完全戒奶瓶
-    - 2 岁前过渡到 open cup(无 spout 那种)
-    - sippy cup 只装水(不装奶/果汁,防整天吸蛀牙)
+    - 2 岁前过渡到敞口杯(无 spout 那种)
+    - 鸭嘴杯(sippy) 只装水(不装奶/果汁,防整天吸蛀牙)
   failure_mode: |
     1 岁后还睡前奶瓶 → 牙浸在奶里 → "奶瓶蛀牙"(常见原因之一)。
     Sippy 装果汁/奶整天吸 → 偏食 + 蛀牙 + 漏正餐。
   evidence_level: A
 
+  positions:
+    issue: 戒奶瓶何时进行 · 是否用 sippy 过渡 · 夜奶持续多久
+    views:
+      - school: AAP
+        source: SRC-006
+        stance: 12-18 月戒奶瓶,sippy 杯作过渡;延迟戒会增加奶瓶龋齿与肥胖风险。
+      - school: Lillard(蒙氏)
+        source: SRC-016
+        stance: 9-10 月戒奶瓶,反对 sippy(本质是"伪奶瓶",延长吸吮反射 + 影响牙列)。
+      - school: Brazelton
+        source: SRC-010
+        stance: 反对僵硬时间线,跟孩子节奏决定;依赖型娃可晚戒,主导型娃自然提前。
+      - school: 海蒂
+        source: SRC-040
+        stance: 1 岁戒奶瓶防龋齿;比 AAP 12-18 月略早,比 Lillard 9-10 月略晚,落在主流大众派中道。
+      - school: 中国传统
+        stance: 夜奶持续到 2 岁,白天奶瓶可至 3 岁,不强求时间表。
 glossary_refs:
   - G-ABBR-AAP
   - G-TERM-baby-bottle-tooth-decay

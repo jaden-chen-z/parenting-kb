@@ -1,0 +1,51 @@
+card_id: C-S6-1510
+stages: ['S6']
+tags: ['philosophy', 'lerner_v1', 'spencer', 'identity_formation']
+
+front:
+  title: "身份从应对中长"
+  hook: "身份不是天生标签"
+
+back:
+  why_matters: |
+    Spencer PVEST 关键命题 — identity(身份)不是天生标签,是孩子主动应对环境的产物。
+    1-2 岁还没明确"身份"概念,但身份的根从这阶段开始 —
+    - 通过反复经验 — 形成"我是 X 的人"叙事
+    - 通过应对挑战 — 形成"我能 / 我不能"自我效能
+    - 通过被对待 — 形成"我值得 / 不值得"价值感意义 — 中国家长贴标签("我家娃就是内向 / 害羞 / 慢热") → 进入娃身份建构 → 长期固化。
+    反向用 PVEST — 不贴标签,描述行为("今天她在 playground 试了新滑梯")。
+    让娃从应对中自然涌现 identity,不是被父母标签锁定。
+  what_to_do:
+    - "不贴'她就是 X'标签"
+    - "描述行为 — 不评价人"
+    - "让娃自然涌现身份"
+    - "'应对挑战' 经验积累 = 自我效能"
+    - "identity 是应对出来的不是天生"
+  failure_mode: |
+    "她就是内向"标签 — 锁定娃 identity 长期固化。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Spencer
+  - G-TERM-PVEST
+  - G-TERM-identity-formation
+
+related_cards:
+  - C-S0-1532
+  - C-S6-1066
+  - C-S6-1064
+  - C-S6-1505
+
+citation:
+  source_id: SRC-030
+  source_title: "Handbook of Child Psychology Vol 1: Theoretical Models of Human Development"
+  chapter: "Ch 15 Spencer PVEST"
+  chapter_offset: 4551844
+  chapter_title: 'Spencer — Phenomenological Variant of Ecological Systems Theory (PVEST)'
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_followup_needed: 'SRC-030 用 PDF 字节偏移代页码 — 待加 page_pdf 反查工具'

@@ -1,0 +1,71 @@
+glossary_id: G-TERM-experience-expectant
+type: term
+display_name: experience-expectant 期待型经验
+
+en_term: experience-expectant synaptogenesis
+zh_term: 期待型突触发生
+
+one_liner: |
+  Greenough-Black 1986/1992 框架 — 大脑"预设期待"的输入(光 / 声音 / 人脸 / 母语),
+  每个孩子都有的普通经验 = 健康脑发育的食粮。
+  缺失这些(eg 罗马尼亚孤儿院)→ 严重发育迟滞。**普通陪伴足够**,不需 fancy 输入。
+
+detail: |
+  ## 概念由来
+  - Greenough & Black 1986 + 1992 框架
+  - 区分 experience-expectant vs experience-dependent
+  - 解决"0-3 关键期" 商业焦虑的科学校准
+
+  ## experience-expectant 特征
+  - **物种典型经验** — 所有人类婴儿都有
+  - 大脑遗传 wired 期待这些输入
+  - 缺失 → 永久或严重发育受损
+  - 提供 → 健康发展
+  - 不需特殊或 fancy 输入
+
+  ## 例子
+  - 普通光照 → 视觉皮层发育
+  - 母语音频 → 语言区发育
+  - 人脸 → 社交脑发育
+  - 触摸 → 触觉皮层发育
+  - 关爱 → 依恋系统发育
+
+  ## 跟 critical period 关系
+  - experience-expectant 缺失多对应 critical period
+  - eg 视觉:0-2 月剥夺 → 永久弱视
+  - eg 语言:0-3 岁剥夺 → 严重语言迟滞
+  - 但**多数育儿环境都提供 expectant 经验** — 即便不完美
+
+  ## 政策含义
+  - 反"0-3 关键期" 商业话术
+  - 普通家庭已提供 expectant 经验 → 不需 fancy 早教
+  - 真担心:严重忽视 / 虐待 / 极度感官剥夺
+
+  ## 跟 experience-dependent 对比
+  - experience-expectant = 物种共同需要(普通)
+  - experience-dependent = 个体差异化(特殊)
+  - 二者构成 Greenough-Black 双轨
+
+key_facts:
+  - Greenough-Black 1986/1992 框架
+  - 物种典型经验 = 大脑预设期待
+  - 普通陪伴足够 = 反早教焦虑科学根
+  - 缺失 = 罗马尼亚孤儿后果
+
+related_glossary:
+  - G-PERSON-Shonkoff
+  - G-TERM-experience-dependent
+  - G-TERM-NRC
+  - G-TERM-critical-period
+  - G-TERM-sensitive-periods
+
+related_cards: []
+
+sources:
+  - source_id: SRC-025
+  - external: Greenough & Black 1992 chapter
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

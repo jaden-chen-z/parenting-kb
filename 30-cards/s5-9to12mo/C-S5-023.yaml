@@ -19,6 +19,23 @@ back:
     听信"6 个月必须断"的群体压力快刀斩乱麻，宝宝突然失去最安全的退行通道，转而抓住瓶子或咬指甲等替代品，妈妈也情绪低落。
   evidence_level: B
 
+  positions:
+    issue: 戒奶瓶何时进行 · 是否用 sippy 过渡 · 夜奶持续多久
+    views:
+      - school: AAP
+        source: SRC-006
+        stance: 12-18 月戒奶瓶,sippy 杯作过渡;延迟戒会增加奶瓶龋齿与肥胖风险。
+      - school: Lillard(蒙氏)
+        source: SRC-016
+        stance: 9-10 月戒奶瓶,反对 sippy(本质是"伪奶瓶",延长吸吮反射 + 影响牙列)。
+      - school: Brazelton
+        source: SRC-010
+        stance: 反对僵硬时间线,跟孩子节奏决定;依赖型娃可晚戒,主导型娃自然提前。
+      - school: 海蒂
+        source: SRC-040
+        stance: 1 岁戒奶瓶防龋齿;比 AAP 12-18 月略早,比 Lillard 9-10 月略晚,落在主流大众派中道。
+      - school: 中国传统
+        stance: 夜奶持续到 2 岁,白天奶瓶可至 3 岁,不强求时间表。
 glossary_refs:
   - G-TERM-weaning
   - G-PERSON-Brazelton

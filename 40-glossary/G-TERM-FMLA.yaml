@@ -1,0 +1,22 @@
+glossary_id: G-TERM-FMLA
+type: abbreviation
+display_name: FMLA
+full_name_en: "Family and Medical Leave Act"
+full_name_zh: "美国家庭医疗假法"
+one_liner: |
+  美国法律允许 50 人以上公司员工分娩前后请 12 周不带薪假。
+detail: |
+  Family and Medical Leave Act,1993 年生效。规定 50 人或以上
+  企业的员工(无论男女)在子女出生、收养、生病等情形下,可
+  申请最长 12 周的不带薪假期且不影响工龄和职位保留。多数情况
+  不带薪是其主要局限,导致大多数美国爸爸只请 1-2 天而非完整
+  12 周。中国对应的是各地《人口与计划生育条例》规定的陪产假
+  (15-30 天不等,带薪)。
+related_glossary: []
+related_cards: [C-S0-2164]
+sources:
+  - external: "Murkoff H, What to Expect the First Year, Ch 24"
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

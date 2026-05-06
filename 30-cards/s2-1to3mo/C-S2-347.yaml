@@ -1,0 +1,58 @@
+card_id: C-S2-347
+stages: [S2]
+tags: [attention, presence]
+
+front:
+  title: "全注意才叫共度"
+  hook: "看手机抱 = 0"
+
+back:
+  why_matters: |
+    Magda 重新定义 高质量陪伴:
+    不是时间长 / 不是物理在身边,是**全部注意力**给他那刻。
+    一边抱一边刷手机 / 看电视 / 讲电话 = 不是 高质量陪伴。
+    Magda 原话:"几分钟全注意,胜过几小时心不在焉"。
+    跟 Stern C-S2 affective attunement(情感同调)+ Davies 父母先照顾自己同源。
+    神经科学:孩子能感觉到注意力是否真的对准。
+
+  what_to_do:
+    - 每天定 2-3 个"全注意"时段(喂奶 / 换尿布 / 洗澡)
+    - 这些时段手机放别屋,不接电话
+    - 跟他眼神接触 + 专注于他的反应
+    - 平时背着他做事时不假装"高质量陪伴"
+    - 量短没关系,关键是真的"在那"
+
+  failure_mode: |
+    "我陪了他一整天他还黏" → 一整天里真"全注意"可能 0 分钟。
+    Magda 原话:"几分钟全注意 vs 一整天物理同处但心不在 — 前者更补充宝宝的电"。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Gerber
+  - G-PERSON-Stern
+  - G-TERM-quality-time
+  - G-TERM-affective-attunement
+  - G-TERM-RIE
+
+citation:
+  book_title_en: "Your Self-Confident Baby"
+  book_title_zh: "自信的宝宝"
+  authors:
+    - Magda Gerber
+    - Allison Johnson
+  publisher_en: John Wiley & Sons
+  year: 1998
+  location: "Ch3 Observing Your Baby + What Is Quality Time?"
+  source_id: SRC-022
+
+unit_ids: []
+related_cards:
+  - C-S6-138  # Davies 父母先照顾自己
+  - C-S1-353  # Lansbury 尿布换是连接仪式
+  - C-S6-406  # Lansbury 0-2 不看屏
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

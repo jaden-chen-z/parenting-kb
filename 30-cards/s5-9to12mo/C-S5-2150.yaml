@@ -1,0 +1,44 @@
+card_id: C-S5-2150
+stages: [S5]
+tags: [mainstream, cognitive, object_permanence]
+
+front:
+  title: 物体永久性质变
+  hook: 看不见≠不存在
+
+back:
+  why_matters: |
+    皮亚杰提出物体永久性是感知运动期核心成就,12 月达到稳定阶段。前情:S4 已能找到部分藏起的玩具。12 月起宝宝知道:东西藏在毯子下还在、妈妈进厨房还存在、玩具掉地还能找。这是认知质变,直接驱动:分离焦虑加剧、躲猫猫变好玩、开始主动找东西、记忆系统建立。
+  what_to_do:
+    - 多玩躲猫猫和藏玩具游戏
+    - 离开前说明"妈妈一会就回"
+    - 让娃自己找当面藏起的物品
+    - 用透明盒子让娃看见东西
+  failure_mode: |
+    觉得娃黏人就少抱躲着走,反而破坏物体永久性建立的信任;或把所有"找东西"游戏当无聊不陪,错过认知刺激黄金期。
+  evidence_level: A
+
+glossary_refs: [G-TERM-object-permanence, G-TERM-peekaboo]
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors:
+    - Heidi Murkoff
+    - Sharon Mazel
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh:
+    - 莫夏迪
+    - 张敏
+  location: "第 11 章第 11 个月, 页 437-440"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards: [C-S5-2144]
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

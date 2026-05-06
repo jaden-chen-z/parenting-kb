@@ -1,0 +1,56 @@
+card_id: C-S3-351
+stages: [S3]
+tags: [modeling, discipline]
+
+front:
+  title: "你做的他都看"
+  hook: "嘴说没用,身教才有"
+
+back:
+  why_matters: |
+    Magda 命名"Modeling Behavior"作为核心原则。
+    宝宝从 3 月起就在录像式存储父母行为。
+    "Do as I say, not as I do"对幼童无效 —
+    他模仿你的语调 / 步伐 / 焦虑 / 平静,胜过你说的话。
+    Lansbury Ch22 + 蒙氏 absorbent mind 同源,Magda 1998 早讲。
+    后期"让他变好"的捷径 = 你自己先变好。
+
+  what_to_do:
+    - 说话音量 = 你想他长大用的音量
+    - 抱手机时间 = 你想他长大刷屏的时间
+    - 跟伴侣吵架方式 = 他将来跟人吵架方式
+    - 吃饭快慢 = 他将来吃饭节奏
+    - 不"私下偷做但教他别做"(他都看到了)
+
+  failure_mode: |
+    "我吼他是为他好,长大他自己懂" → 他长大不只懂,还学会吼。
+    Magda 原话:"模范是最强教育,胜过任何说教"。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+  - G-TERM-absorbent-mind
+
+citation:
+  book_title_en: "Your Self-Confident Baby"
+  book_title_zh: "自信的宝宝"
+  authors:
+    - Magda Gerber
+    - Allison Johnson
+  publisher_en: John Wiley & Sons
+  year: 1998
+  location: "Ch5 Modeling Behavior + Ch8 Discipline includes modeling"
+  source_id: SRC-022
+
+unit_ids: []
+related_cards:
+  - C-S6-138  # Davies 父母先照顾自己
+  - C-S6-187  # Lillard 演示要慢
+  - C-S6-403  # Lansbury 限度+情绪并存
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

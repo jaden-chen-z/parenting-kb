@@ -1,0 +1,67 @@
+card_id: C-S4-1143
+stages: [S4]
+tags: [cognitive_science, face_processing, lerner_v2]
+
+front:
+  title: 9 月只识本族脸
+  hook: 面孔识别 9 月专门化
+
+back:
+  why_matters: |
+    Pascalis/de Schonen 2002 + Kelly 2007(Lerner V2 Ch3 + Ch5 综述)。
+    新生儿:能区分**任何种族 + 物种**面孔(包括猴子)
+    9-12 月:开始**只识本族脸**
+    - 6 月白人宝宝能区分两只猴子脸 + 两个东亚脸
+    - 9 月白人宝宝只能区分两个白人脸(猴子 + 东亚已弱)
+    - 12 月稳定"只识本族" + "只认人"
+    意义:
+    - **面孔识别也有"知觉重组"窗口**(像语言)
+    - Werker 母语音素重组(C-S5-1137)的视觉版
+    - 跨种族识别困难的认知根源
+    - 双族家庭暴露可保留更多识别能力实验后续(Lerner V2):
+    - 给 6-9 月白人宝宝看东亚脸 / 猴子脸的视频 = 维持能力
+    - 9-12 月已有面孔重组窗口,但可延缓跟现库:跟 Werker 母语音素重组(C-S5-1137)同结构。
+    跟 G-TERM-perceptual-narrowing 同机制。
+    对中国家长意义:
+    - 9 月起宝宝主要识"中国脸" — 难辨外国人
+    - 跨种族家庭让宝宝多看不同种族(可保留识别)
+    - 9 月开始"陌生人焦虑"部分原因 = 识别窗口收紧
+    - 不必担心"宝宝只认妈妈" — 是识别专门化
+  what_to_do:
+    - 6-12 月多看不同种族脸(实人 / 照片)
+    - 不必怕"陌生人焦虑"(自然过程)
+    - 跨族家庭多互动多种族
+    - 9 月起观察识别专门化
+  failure_mode: |
+    "宝宝识脸是天生不变" — 错。9 月有重组。
+    "陌生人焦虑要训练消除" — 错。是发育。
+    "跨种族脸盲是天生" — 错。是经验决定。
+  evidence_level: B
+
+glossary_refs:
+  - G-TERM-perceptual-narrowing
+  - G-TERM-baby-scientist
+  - G-PERSON-Kellman
+  - G-PERSON-Werker
+  - G-PERSON-Leslie
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 2 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 2 卷"
+  authors: ["Philip J. Kellman", "Martha E. Arterberry", "Leslie B. Cohen"]
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 3/Ch 5 · Face processing perceptual narrowing · pp. 152-155, 240-243"
+  source_id: SRC-028
+
+unit_ids: []
+related_cards:
+  - C-S1-1100     # 新生儿面孔偏好
+  - C-S5-1137     # Werker 母语音素重组
+  - C-S3-1139     # Vowel 重组
+  - C-S5-016       # 鲍秀兰 parentese
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

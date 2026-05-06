@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Thompson
+type: person
+display_name: "Thompson(罗斯·汤普森)"
+
+full_name_en: "Ross A. Thompson"
+full_name_zh: "罗斯·汤普森"
+
+position: |
+  UC Davis 心理学教授
+
+contribution: |
+  早期社会发展 + 良知 + 内部工作模型 + self
+
+one_liner: |
+  罗斯·汤普森 — 早期社会发展 + 良知 + 内部工作模型 + self
+
+key_facts:
+  - "本卷章节:Ch 2"
+  - "Lerner V3 命中:55 次"
+  - "学派:Lerner V3 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-027
+    chapter: "Ch 2"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

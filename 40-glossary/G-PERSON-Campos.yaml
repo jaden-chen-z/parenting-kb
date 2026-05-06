@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Campos
+type: person
+display_name: "Campos(约瑟夫·坎波斯)"
+
+full_name_en: "Joseph J. Campos"
+full_name_zh: "约瑟夫·坎波斯"
+
+position: |
+  UC Berkeley 心理学教授
+
+contribution: |
+  social referencing 实验奠基人;视觉悬崖 + 婴儿情绪研究
+
+one_liner: |
+  约瑟夫·坎波斯 — social referencing 实验奠基人;视觉悬崖 + 婴儿情绪研究
+
+key_facts:
+  - "本卷章节:Ch 5"
+  - "Lerner V3 命中:50 次"
+  - "学派:Lerner V3 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-027
+    chapter: "Ch 5"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

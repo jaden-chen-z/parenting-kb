@@ -1,0 +1,44 @@
+glossary_id: G-PERSON-Tomasello
+type: person
+display_name: "Tomasello(迈克尔·托马塞洛)"
+
+full_name_en: "Michael Tomasello"
+full_name_zh: "迈克尔·托马塞洛"
+
+position: |
+  Duke University 心理学教授
+
+contribution: |
+  联合关注 + 文化传递 + 灵长类比较
+
+one_liner: |
+  迈克尔·托马塞洛 — 联合关注 + 文化传递 + 灵长类比较
+
+key_facts:
+  - "Duke University 心理学教授(原 Max Planck EVA 主任)"
+  - "9 月革命 + 共享意图理论奠基"
+  - "Lerner V3(SRC-027 Ch 11)= 25 次 / Lerner V2(SRC-028 Ch 6 主笔)= 164 次"
+  - "反 Chomsky 普遍语法 / 跨派联合关注根源"
+  - "美国国家科学院院士"
+
+related_glossary:
+  - G-PERSON-Stern
+  - G-PERSON-Bruner
+  - G-TERM-joint-attention
+  - G-TERM-theory-of-mind
+
+related_cards:
+  - C-S5-1140
+  - C-S5-1141
+  - C-S5-1142
+
+sources:
+  - source_id: SRC-027
+    chapter: "Ch 11(Lerner V3 社会化)"
+  - source_id: SRC-028
+    chapter: "Ch 6 主笔(Lerner V2 语言习得 + 9 月革命 + 共享意图)"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

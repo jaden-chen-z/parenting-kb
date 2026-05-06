@@ -1,0 +1,59 @@
+card_id: C-S6-469
+stages: [S6]
+tags: [discipline, consequences]
+
+front:
+  title: "自然后果替惩罚"
+  hook: "扔饭就直接收起来"
+
+back:
+  why_matters: |
+    Magda 命名的 Cause/Consequence(因果后果)替"罚":
+    行为 → 直接相关后果 → 孩子学到"我做这个 = 那个发生"。
+    跟"罚 = 跟行为不相关的痛苦"对比 — 因果后果是真教育。
+    Magda 经典案例:
+    - 扔饭 → 饭收起(不是罚站)
+    - 不戴帽 → 太阳晒着(不是吼)
+    - 拿笔画墙 → 笔收起(不是吼)
+    跟蒙氏"自然后果"哲学一致,跟 Lansbury "I won't let you" 互补。
+
+  what_to_do:
+    - 行为 + 后果必须直接相关(不是跨情境惩罚)
+    - 后果立即执行(说到做到,不警告 3 次)
+    - 不情绪化("我生气你才会被罚")
+    - 跟他解释:"你扔饭 → 饭收掉,因为饭桌上不能扔"
+    - 后果要可承受(不打 / 不羞辱 / 不孤立)
+
+  failure_mode: |
+    "你扔饭就罚站 5 分钟" → 行为跟惩罚不相关,孩子学不到。
+    Magda 原话:"罚 ≠ 后果,后果是行为的自然延伸"。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+  - G-TERM-traffic-light-limits
+  - G-TERM-time-out
+
+citation:
+  book_title_en: "Your Self-Confident Baby"
+  book_title_zh: "自信的宝宝"
+  authors:
+    - Magda Gerber
+    - Allison Johnson
+  publisher_en: John Wiley & Sons
+  year: 1998
+  location: "Ch8 §Let Your Child See That Actions Cause Consequences"
+  source_id: SRC-022
+
+unit_ids: []
+related_cards:
+  - C-S6-403  # Lansbury 限度+情绪并存
+  - C-S6-465  # Magda 自律靠自己接管(本卷)
+  - C-S6-192  # Lillard No 永远 No
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

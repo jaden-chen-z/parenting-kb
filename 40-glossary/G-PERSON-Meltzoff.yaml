@@ -1,0 +1,77 @@
+glossary_id: G-PERSON-Meltzoff
+type: person
+display_name: Meltzoff
+
+full_name_en: Andrew N. Meltzoff
+full_name_zh: 安德鲁·N·梅尔佐夫
+
+one_liner: |
+  美国发展心理学家(华盛顿大学 I-LABS 联合主任),新生儿模仿研究奠基人。
+  1977 年经典实验证明:新生儿 42 分钟就能模仿大人伸舌头 / 张嘴 — 推翻"婴儿是空白"假设。
+
+detail: |
+  ## 个人背景
+  - 1950 年生
+  - 哈佛大学博士(Jerome Kagan 学生)
+  - 华盛顿大学(University of Washington)心理学教授
+  - I-LABS(Institute for Learning & Brain Sciences)联合主任 + 联合创始人
+  - 美国艺术与科学院院士
+
+  ## 核心研究
+
+  ### 1. Meltzoff & Moore 1977 新生儿模仿实验(经典!)
+  - **Science 1977 发表**(发展心理学最被引用的论文之一)
+  - 测最小婴儿:**42 分钟大**(出生不到 1 小时)
+  - 实验员伸舌头 → 婴儿伸舌头;张嘴 → 婴儿张嘴
+  - 录像独立打分(评价员不知道实验员做的什么)
+  - 推翻 Piaget"婴儿模仿要 8-10 月"假设
+  - 证明"like me"机制:出生即识"对方是和我一样的存在"
+
+  ### 2. 延迟模仿(deferred imitation)
+  - 给 9-18 月宝宝看大人用额头碰盒子让盒子亮(不让宝宝试)
+  - 1 周后再给宝宝盒子 — 宝宝立刻用额头碰
+  - 证明长期记忆存在 + 自发模仿动作
+
+  ### 3. 跨模态匹配(cross-modal matching)
+  - 婴儿能匹配看到的脸 ↔ 自己脸的运动感觉(无镜子)
+  - 这是 theory of mind 的根
+
+  ## 中国家长意义
+  - "新生儿啥都看不懂" — 错。出生 42 分钟就模仿
+  - "宝宝学走 / 学说话靠教" — 错。模仿是天生的
+  - 宝宝在你眼皮底下时,他在做"like me"匹配 — 你的表情他在抓
+  - **暴力 / 焦虑 / 冷脸都被宝宝镜像** — 不要在宝宝面前激烈情绪表达
+
+  ## 在本知识库中
+  - SRC-015《摇篮里的科学家》三作者之一
+  - Meltzoff 1977 实验是 Wonder Week WW64(模仿一切)的实证基础
+  - 跟 Brazelton "新生儿能 alert" + Davies 蒙氏"30cm 焦距"对接
+
+  ## 学术影响
+  - 1977 论文是发展心理学经典
+  - I-LABS 是全球婴儿语言 / 模仿研究中心(Patricia Kuhl 同所)
+
+key_facts:
+  - 华盛顿大学 I-LABS 联合主任
+  - 1977 新生儿 42 分钟模仿实验奠基人
+  - 推翻 Piaget 婴儿空白假设
+  - like me 机制提出者
+  - 师承 Jerome Kagan
+
+related_glossary:
+  - G-PERSON-Gopnik
+  - G-PERSON-Kuhl
+  - G-PERSON-Piaget
+  - G-TERM-imitation
+  - G-TERM-baby-scientist
+
+related_cards: []
+
+sources:
+  - source_id: SRC-015
+  - external: Meltzoff & Moore 1977 Science / Wikipedia Andrew Meltzoff / I-LABS UW
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

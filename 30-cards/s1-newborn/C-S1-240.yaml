@@ -1,0 +1,57 @@
+card_id: C-S1-240
+stages: [S1]
+tags: [cognitive_science, myth_busting, philosophy]
+
+front:
+  title: 婴儿不是白板,是天生科学家
+  hook: 他出生就在做研究
+
+back:
+  why_matters: |
+    "白板论"(tabula rasa)= 17 世纪 Locke 假设:婴儿是空容器,等大人灌输。
+    Gopnik / Meltzoff / Kuhl 1999《摇篮里的科学家》推翻这假设:
+    婴儿出生就有学习引擎,在用统计学习 / 假设检验 / 因果推理学世界。
+    核心命题:**孩子不是小科学家,科学家是大孩子**(scientists are big children)。
+    实证支持:
+    - Meltzoff 1977:新生儿 42 分钟就能模仿伸舌头(出生即识"对方像我")
+    - Saffran 1996:8 月宝宝听 2 分钟无意义音节流就抓到统计模式
+    - Spelke 1985:4 月就有物体永久性(早于 Piaget 8 月说)
+    - Gopnik blicket detector:18 月就能从观察推因果对中国家长意义:不需要"教"宝宝什么,提供安全 + 互动,他自己研究世界。
+    早教焦虑("3 岁前没学 X 就输了")是反科学的。
+  what_to_do:
+    - 跟着兴趣走,他盯什么你陪什么
+    - 不打断专注,他正在做实验
+    - 不抢答,让他自己摆弄玩具
+    - 真人对话 > 录像 / CD / 早教 App
+  failure_mode: |
+    把宝宝当空容器灌知识 — 早教班 KPI 式。
+    抢着教他 — 他失去自己推理的机会。
+    "宝宝啥都不懂,跟他说话没用" — 错。他在收集数据。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Gopnik
+  - G-PERSON-Meltzoff
+  - G-PERSON-Kuhl
+  - G-TERM-baby-scientist
+  - G-TERM-statistical-learning
+
+citation:
+  book_title_en: "The Scientist in the Crib: What Early Learning Tells Us About the Mind"
+  book_title_zh: "摇篮里的科学家"
+  authors: ["Alison Gopnik", "Andrew N. Meltzoff", "Patricia K. Kuhl"]
+  publisher_en: William Morrow
+  year: 1999
+  location: "Chapter 1 · Ancient Questions and a Young Science"
+  source_id: SRC-015
+
+unit_ids: []
+related_cards:
+  - C-S1-179       # Wonder Week 跃迁(神经维度同主题)
+  - C-S6-127       # Wonder Week 质量时间是伪概念(同反 KPI)
+  - C-S1-087       # Brazelton 优势视角(同反早教焦虑)
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

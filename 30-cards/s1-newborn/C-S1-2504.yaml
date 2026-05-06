@@ -1,0 +1,53 @@
+card_id: C-S1-2504
+stages: [S1]
+tags: [safety, red_flag]
+
+front:
+  title: 涨奶 → 堵奶 → 乳腺炎三阶梯识别
+  hook: 越早处理越简单
+
+back:
+  why_matters: |
+    哺乳前 2 周妈妈最常遇到的乳房问题三阶梯:涨奶(engorgement)→ 局部堵奶(plugged duct)→ 乳腺炎(mastitis)。
+    分阶梯识别 + 对症处理是关键 — **早期热敷 + 多喂 90% 自愈,拖到乳腺炎要抗生素**,2% 演成乳腺脓肿要手术。
+    海蒂区分症状:涨 = 全乳房硬、对称;堵 = 局部硬块、皮肤正常;乳腺炎 = 红/热/痛 + 发烧 ≥ 38°C + 类流感肌肉酸痛。
+  what_to_do:
+    - 涨奶:多喂 + 喂前热敷 + 喂后冷敷,2-3 天自然平衡
+    - 堵奶:喂时用宝宝下巴对准硬块、按摩从硬块往乳头方向推,每次喂这一侧
+    - 乳腺炎红旗(任一项即就医):一侧红肿热痛 / 发烧 ≥ 38°C / 全身酸痛 / 硬块 24 小时不消
+    - 乳腺炎处理:**继续哺乳**(细菌不会感染宝宝,反而帮你排空)+ 抗生素 10-14 天 + 大量休息
+    - 卷心菜冷敷叶贴胸 20 分钟可缓解涨痛
+    - 乳头保护罩出门别忘记戴(吸湿垫频繁换)
+  failure_mode: |
+    涨奶停喂"让奶散了" → 越积越严重,72 小时演堵奶。
+    乳腺炎停喂宝宝 → 错!继续喂才能排空脓液,停喂 = 加重。
+    硬块 24 小时不消 + 发烧 → 不是堵奶是乳腺炎,自服抗生素错(剂量/时长不对)。
+    乳房脓肿不切开排脓自我吸收 → 不可能,延误成败血症。
+  evidence_level: A
+
+glossary_refs: []
+
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors:
+    - Heidi Murkoff
+    - Sharon Mazel
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh:
+    - 莫夏迪
+    - 张敏
+  location: "第 3 章母乳喂养 · 涨奶/堵奶/乳腺炎专题 + 第 23 章产后恢复"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards: []
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

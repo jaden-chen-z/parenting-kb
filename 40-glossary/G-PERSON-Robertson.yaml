@@ -1,0 +1,78 @@
+glossary_id: G-PERSON-Robertson
+type: person
+display_name: Robertson
+
+full_name_en: James Robertson & Joyce Robertson
+full_name_zh: 詹姆斯·罗伯逊 & 乔伊斯·罗伯逊
+
+one_liner: |
+  英国精神病学社会工作者夫妇,**Bowlby 的合作者**,1952 年纪录片《A Two-Year-Old Goes to Hospital》
+  改变了全球儿童住院制度,Bowlby 第二卷《分离》大量引用其住院儿童观察资料。
+  抗议-绝望-超脱 3 阶段 (protest-despair-detachment) 的实证基础来自他们的工作。
+
+detail: |
+  ## 个人背景
+  - **James Robertson**(1911-1988):苏格兰人,二战期间在 Anna Freud 的 Hampstead 战时托儿所做木匠
+    后转入精神病学社会工作,1948 年加入 Tavistock Clinic 与 Bowlby 合作
+  - **Joyce Robertson**(1919-2013):James 的妻子,同样从事儿童精神病学社会工作
+
+  ## 核心贡献:住院儿童研究
+  二战后英国医院普遍**禁止父母陪伴住院儿童**(防交叉感染 + 减少哭闹)。
+  Robertson 夫妇 1948-1952 长期观察住院儿童,记录到所有孩子都经历:
+  1. **抗议(protest)**:哭闹拒食,几小时-几天
+  2. **绝望(despair)**:静默退缩,几天-几周
+  3. **超脱(detachment)**:看似适应,情感隔离,妈妈来时不认
+
+  ### 1952 年纪录片《A Two-Year-Old Goes to Hospital》
+  拍摄一个名叫 Laura 的 2 岁女孩 8 天住院全程,**镜头记录她从抗议到绝望到对妈妈情感隔离的全过程**。
+  这部 45 分钟的黑白片在英国医学界引发巨大震动:
+  - 推动英国住院制度改革(1959 Platt 报告 = 父母陪伴权确立)
+  - 至今仍是儿童精神病学经典教学材料
+  - 被 Bowlby Vol 2 第一章大量引用
+
+  ### 1971 年实验:替代性照顾的对照
+  Robertson 夫妇接 4 个 1.5-2.5 岁孩子(母亲住院)到自己家寄养,
+  用 5 个特殊设计(关系熟+习惯熟+带物品+谈妈妈+爸爸探望)显著降低分离伤害。
+  这套方法成为**现代住院 / 异地分离的家长操作手册**(C-S7-034)。
+
+  ## Bowlby Vol 2 中的地位
+  - 第一章 "人类悲伤的原型" 几乎全章基于 Robertson 观察
+  - 抗议-绝望-超脱 3 阶段术语来自 Robertson & Bowlby 1952
+  - Heinicke & Westheimer 1966 大规模复制 Robertson 早期发现
+  - Vol 2 第十七章引用 Robertson 临床洞察
+
+  ## 在本知识库中
+  - C-S6-082 分离反应 3 阶段 — 直接源于 Robertson & Bowlby 1952
+  - C-S7-034 妈妈住院/出差降低伤害 5 招 — Robertson 1971 实验
+  - C-S6-094 分离后愤怒是健康 — Robertson 临床观察(Laura 案例)
+  - C-S6-083 / C-S6-084 / C-S6-085 多张卡引用 Robertson 数据
+
+key_facts:
+  - 英国精神病学社会工作者夫妇,Bowlby 长期合作者
+  - 1952 年纪录片《A Two-Year-Old Goes to Hospital》
+  - 抗议-绝望-超脱(protest-despair-detachment)3 阶段术语提出者
+  - 1971 实验证明精心设计的寄养可大幅降低分离伤害
+  - 推动英国住院制度改革(Platt Report 1959)
+
+related_glossary:
+  - G-PERSON-Bowlby
+  - G-PERSON-Ainsworth
+  - G-TERM-protest-despair-detachment
+  - G-TERM-attachment
+
+related_cards:
+  - C-S6-082      # 分离反应 3 阶段
+  - C-S7-034      # Robertson 5 招
+  - C-S6-083      # 回家后变更黏
+  - C-S6-084      # 兄弟姐妹陪着分离好得多
+  - C-S6-085      # 重聚不认妈是危险信号
+  - C-S6-094      # 分离后愤怒是健康
+
+sources:
+  - source_id: SRC-012
+  - external: "Robertson J. (1952) A Two-Year-Old Goes to Hospital (film) / Robertson & Bowlby (1952) Responses of young children to separation from their mothers / Robertson & Robertson (1971) Young children in brief separation"
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

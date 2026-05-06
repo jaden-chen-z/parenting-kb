@@ -1,0 +1,75 @@
+card_id: C-S8-752
+stages: [S8]
+tags: [triple_p, parent_training, lerner_v4]
+
+front:
+  title: Triple P 父母 5 级
+  hook: Triple P 5 级
+
+back:
+  why_matters: |
+    Triple P(积极育儿项目)— V4 Ch 14 Powell 重点引用。
+    **Triple P 5 级**(Sanders 1999+):
+    - **Level 1**:全民信息(媒体 + 海报 + 网页)
+    - **Level 2**:简短咨询(1-2 次,普通问题)
+    - **Level 3**:技能训练(4 次,中度问题)
+    - **Level 4**:标准 Triple P(8-10 次,典型行为问题)
+    - **Level 5**:加强 Triple P(15-20 次,严重 + 创伤)
+    **金字塔逻辑**:
+    - 大多数家长用 Level 1-2 就够
+    - 少数 Level 3-4
+    - 极少 Level 5
+    - 跟 Selman 预防金字塔(C-S0-1240)结构一致
+    **RCT 元分析证据**(Sanders 2014):
+    - 儿童行为问题减 24-44%
+    - 父母焦虑减 19%
+    - 父母婚姻满意度升
+    - 跨 25+ 国家有效(包括中国版)
+    **澳洲国家政策**:
+    - Triple P 是澳洲国家育儿政策核心
+    - 美国 / 英国 / 中国(部分)推广意义:
+    - 中国家长焦虑高,Triple P 适合
+    - 不是治疗,是普通育儿支持
+    - 5 级匹配自己需要跟现库:跟 NFP(C-S0-1242)+ Powell 5 原则(C-S0-1233)+ Selman 金字塔(C-S0-1240)对接。
+    对中国家长意义:
+    - 普通家长 Level 1-2(网课 + 微信群)
+    - 行为问题 Level 3-4(找咨询)
+    - 找有 RCT 证据的项目(不是网红课)
+    - Triple P 中国版有引进
+  what_to_do:
+    - 普通家长 Level 1-2 网课
+    - 行为问题 Level 3-4 咨询
+    - 看 RCT 证据不光网红
+    - Triple P 中国版可找
+  failure_mode: |
+    "找咨询羞耻"— 错。Triple P 是普通支持。
+    "治疗 = 严重"— 错。预防为主。
+    "网红课就行"— 错。找 RCT 证据。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Sanders
+  - G-TERM-triple-p
+  - G-TERM-parent-training
+  - G-TERM-RCT
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 4 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 4 卷"
+  authors: ['Matthew Sanders (cited)']
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 14 · Triple P 5 levels parent training (cross-chapter) · pp. 550-565"
+  source_id: SRC-029
+
+unit_ids: []
+related_cards:
+  - C-S0-1240     # Selman 预防金字塔
+  - C-S0-1233     # Powell 5 原则
+  - C-S0-1242     # NFP 30 年
+  - C-S0-619     # Shonkoff 综述
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

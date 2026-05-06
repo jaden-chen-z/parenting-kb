@@ -1,0 +1,62 @@
+card_id: C-S1-867
+stages: [S1]
+tags: [shonkoff, nrc, sleep, self_settling, infant_sleep, china_high_freq]
+
+front:
+  title: "睡整觉的秘密是入睡环境"
+  hook: "宝宝想自醒就自醒"
+
+back:
+  why_matters: |
+    NRC 综述 Ch 5 引 Anders 1992 录像研究 — 关键洞察:
+    **所有婴儿夜里都会短暂醒来** — 这是正常的 90 分钟睡眠循环。
+    "睡整觉" vs "夜醒哭" 的差别:
+    1. **会自我安抚的婴儿**:短暂醒来 → 看四周 → 自己再睡
+    2. **不会自我安抚的婴儿**:短暂醒来 → 大哭叫醒妈妈
+    **关键发现**:决定差异的是 **入睡环境** 跟醒来环境是否一致:
+    - **婴儿在床上自己睡着** → 醒来还在床上 → 环境一致 → 自醒
+    - **婴儿被抱着 / 喂着睡着** → 醒来发现没人抱了 → 环境不一致 → 哭叫
+    **所以**:让宝宝在床上"困但还醒着"时放下,他学到"床 = 睡觉",醒来还能再睡。
+    **NRC 立场比"哭睡训练"温和**:
+    - 不是"让他哭" — 那是 cry-it-out 过激
+    - 是"让他在床上学着自入睡" — 渐进式
+    **跟 AAP / Brazelton / 鲍秀兰一致** — 4 派共识。
+    **对中国家长**:
+    - 抱睡 / 喂睡 → 必夜醒(科学规律,不是"宝宝坏")
+    - 想睡整觉 → 让他困着但还醒着时放下
+    - 别突然换"哭睡法" — 渐进调整入睡环境
+  what_to_do:
+    - 困着但还醒时放下
+    - 别抱睡 / 别喂睡
+    - 床等于睡觉的关联建立
+    - 渐进调整不哭训
+    - 4 月起开始练习
+  failure_mode: |
+    "他不抱不睡是太黏人了" — 错。是入睡环境跟醒来环境不一致,大脑混乱。
+    哭睡 / 抱睡 / 喂睡都让宝宝学到"睡觉需要别人在",醒来必哭。
+    硬训 cry-it-out 过激 → 引发 cortisol 应激升高(Ch 8 警告)→ 不推荐。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Shonkoff
+  - G-TERM-self-regulation
+  - G-TERM-NRC
+
+citation:
+  book_title_en: "From Neurons to Neighborhoods"
+  authors: ["Jack P. Shonkoff", "Deborah A. Phillips"]
+  org: "NRC/IOM"
+  year_en: 2000
+  location: "Ch 5 Self-Regulation · Anders sleep videotape studies"
+  source_id: SRC-025
+
+unit_ids: []
+related_cards:
+  - C-S2-546    # 松田 §67 抱不养成毛病 SRC-024
+  - C-S2-013    # AAP supine sleep + safe sleep SRC-002
+  - C-S4-700    # 松田母婴同睡 SRC-024
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

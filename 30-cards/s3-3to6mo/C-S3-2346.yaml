@@ -1,0 +1,49 @@
+# ═══════════════ S3(3-6 月)5 张 ═══════════════
+card_id: C-S3-2346
+stages: [S3]
+tags: [safety, red_flag]
+
+front:
+  title: 婴儿脱水 6 信号:1 项就医
+  hook: 婴儿脱水快,几小时就危险
+
+back:
+  why_matters: |
+    脱水(dehydration)= 体液流失超过摄入,婴儿**几小时就可严重**(体水比例高 + 储备少)。
+    腹泻 + 呕吐是最常见诱因。海蒂列**6 红旗**,任 1 → 立刻通知医生:
+    尿量明显减(尿布不像往常湿)/ 尿色深 / **无泪 + 眼眶凹陷**(经典)/
+    囟门凹陷(zea)/ 皮肤干燥 / 唾液不足。脱水严重需住院静脉补液,延误致休克。
+  what_to_do:
+    - 24 h 内密切监尿布数(婴儿 < 6 / 24h 警戒)
+    - 哭无泪 + 嘴唇干裂 + 囟门凹 → 立刻打医生
+    - 每 2-3 分钟一勺口服补液(不灌大口刺激呕吐)
+    - 绝不给可乐 / 稀果汁 / 运动饮料 / 自制咸甜水(渗透压乱)
+    - 母乳宝宝:继续频繁哺乳;配方奶宝宝:必要时换无乳糖配方
+  failure_mode: |
+    "宝宝不哭就是缓解了" — 实际是脱水 → 无泪可哭。
+    用运动饮料"补水" → 高糖加重腹泻 + 钠失衡。
+    "等明天看医生" → 婴儿脱水 6-12 h 可休克。
+    强灌水 → 呕吐恶化 → 加速脱水。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-AAP
+
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1 岁"
+  authors: [Heidi Murkoff, Sharon Mazel]
+  publisher_en: Workman Publishing
+  publisher_zh: 南海出版公司(新经典发行)
+  year: 1989
+  edition: 3rd (2014)
+  location: "第 18 章《宝宝生病》'腹泻 / 脱水信号',548-549 页中译"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards: [C-S1-061, C-S3-2347]
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,102 @@
+glossary_id: G-TERM-mourning
+type: term
+display_name: 哀伤(mourning)
+
+full_name_en: Mourning
+full_name_zh: 哀伤(哀悼)
+
+one_liner: |
+  Bowlby 概念:面对重大丧失(亲人去世 / 长期分离)的**心理过程**,目标是**接受丧失 + 内化已逝者的形象 + 重新组织生活继续向前**。
+  跟 grief(短暂悲伤)区别:mourning 是**完整的过程**,可能持续几个月到数年,有 4 个阶段。
+
+detail: |
+  ## 跟相近词的区别
+  - **grief(悲伤)**:对丧失的直接情绪反应(哭 / 难过 / 痛)
+  - **mourning(哀伤)**:消化丧失的**完整心理过程**,包含 grief
+  - **bereavement(丧亲)**:丧失亲人这件事本身
+  - **pathological mourning(病理性哀伤)**:被卡在某阶段无法走完(见 G-TERM-pathological-mourning)
+
+  ## Bowlby 4 阶段哀伤(健康完成版)
+  ### 1. 麻木(Numbing)
+  - 几小时-几天
+  - 难以相信 / 否认 / 感觉不真实
+  - 可能伴随短暂愤怒爆发
+
+  ### 2. 渴望和搜寻(Yearning and Searching)
+  - 几周-数月
+  - 强烈想念 / 寻找 / 期待对方回来
+  - 可能听见 / 看见已逝者(幻觉式)
+  - 怒(为什么离我而去)
+
+  ### 3. 解组和绝望(Disorganization and Despair)
+  - 几月-1 年
+  - 接受不会回来
+  - 失去意义感 / 抑郁 / 退缩
+  - 旧的生活模式不能用了 但新的还没建起来
+
+  ### 4. 重组(Reorganization)
+  - 1 年-数年
+  - 慢慢建立新生活
+  - 内化已逝者形象 → 永久存在心中但不卡住
+  - 能再次投入新关系
+
+  ## 儿童 vs 成人哀伤
+  ### 相似处(Bowlby Vol 3 反复强调)
+  - 4 阶段反应类型基本相同
+  - 17 个月以上儿童已经能进入完整哀悼过程(Ch25 客体永存论证)
+  - 2 岁半儿童在条件好的情况下,反应跟成人差异不大
+
+  ### 不同处
+  - 儿童更敏感 / 更易卡住病理化
+  - 儿童认知能力有限 → 需要大人解释 + 重复
+  - 儿童容易"魔法思维":自责亲人去世
+  - 儿童可能延迟数月才表达(温妮 7 个月后才提母亲)
+  - 儿童的反应可能是细节性的:揪耳朵 / 抱毯子 / 食欲差 / 退化
+  - 儿童更依赖周围大人是否支持哀悼
+
+  ## 健康哀悼的必要条件(儿童版,Bowlby Ch16)
+  1. 丧失前有安全依恋(C-S6-097)
+  2. 被告知真相,允许提问
+  3. 健在父母 / 替代照顾者稳定可信
+  4. 允许参与家庭悲伤(包括大人哭)
+  5. 不被禁止表达情感
+
+  ## 在本知识库中
+  - C-S7-237 谈死亡用真话(条件 2)
+  - C-S7-238 看似没事是危险信号
+  - C-S7-239 别威胁再哭就不要你
+  - C-S7-240 重聚冷淡是修复期
+  - C-S7-241 告诉娃不是他的错
+  - G-TERM-pathological-mourning(被卡的版本)
+  - G-TERM-protest-despair-detachment(分离 vs 哀伤的近似 3 阶段)
+
+key_facts:
+  - 完整心理过程(grief 是其中一部分)
+  - 健康完成有 4 阶段:麻木/渴望/解组/重组
+  - 17 月起儿童已能哀悼(客体永存能力)
+  - 儿童反应类型跟成人相似但更易卡住
+  - 健康完成需 5 个条件(安全依恋 / 真相 / 稳定 / 参与 / 允许)
+
+related_glossary:
+  - G-PERSON-Bowlby
+  - G-TERM-pathological-mourning
+  - G-TERM-protest-despair-detachment
+  - G-TERM-childhood-mourning
+  - G-TERM-attachment
+  - G-TERM-four-phases-mourning
+
+related_cards:
+  - C-S7-237        # 谈死亡用真话
+  - C-S7-238        # 看似没事是最危险信号
+  - C-S7-239        # 别威胁再哭就不要你
+  - C-S7-240        # 重聚冷淡是修复期
+  - C-S7-241        # 告诉娃不是他的错
+
+sources:
+  - source_id: SRC-017
+  - external: "Bowlby J. (1980) Attachment and Loss Vol 3 / Parkes CM (1972) Bereavement / Furman E. (1974) A Child's Parent Dies"
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

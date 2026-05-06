@@ -1,0 +1,21 @@
+glossary_id: G-TERM-fontanel
+type: term
+display_name: 囟门
+full_name_en: "fontanel (fontanelle)"
+full_name_zh: "囟门"
+one_liner: |
+  婴儿头骨上未完全闭合的"软点",由头骨缝隙未骨化形成。
+detail: |
+  作用:1)分娩时让胎儿头部通过产道(头骨可叠合);2)出生后允许大脑在第一年快速生长。
+  前囟:菱形,头顶,可达 5cm,6 个月开始闭合,18 个月完全闭合。
+  后囟:三角形,头后,小于 1.5cm,第 3 个月完全闭合。
+  正常:平静时摸到搏动(头皮下脑血管)、大哭时略凸出。
+  红旗:1)持续凸出 → 颅内压增高;2)明显凹陷 → 脱水;3)后囟过早闭合 → 头部畸形。
+related_glossary: []
+related_cards: [C-S1-2210]
+sources:
+  - external: "Murkoff H, What to Expect the First Year, Ch 6"
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

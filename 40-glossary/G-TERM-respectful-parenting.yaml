@@ -1,0 +1,114 @@
+glossary_id: G-TERM-respectful-parenting
+type: term
+display_name: 尊重式育儿 (respectful parenting)
+
+full_name_zh: 尊重式育儿 / 尊重型养育
+full_name_en: Respectful Parenting
+
+one_liner: |
+  Magda Gerber 命名 + Janet Lansbury 推广的现代育儿哲学统称。
+  核心:把婴儿 / 幼儿当完整的人对待 — 信任他们能力,真实沟通,清楚限度,
+  接住情绪,不打不威胁不分散不哄骗。
+  跟"传统严管"+ "亲密溺爱"+ "行为奖罚"三派都不同。
+
+detail: |
+  ## 命名来源
+  - **Magda Gerber**(1910-2007)首先用 "respect" 描述 RIE 方法
+  - **Janet Lansbury** 把"respectful parenting"作为本卷副标题(2014)
+  - 后被广泛采用为流派统称
+
+  ## 核心 4 维度
+  1. **真实沟通**:不假笑 / 不哄骗 / 不分散 / 用真话
+  2. **信任能力**:婴儿不是 helpless,是 dependent + capable
+  3. **清楚限度**:不打不罚但严格执行(CEO 语调)
+  4. **接住情绪**:哭 / 怒 / 失望 都允许 + 命名
+
+  ## 流派包括
+  - **RIE 派**(Magda Gerber 起源,Lansbury 推广)
+  - **蒙氏 0-3**(Davies / Lillard)— 80% 重合
+  - **Pikler 派**(布达佩斯 Pikler 研究所)
+  - **Hand in Hand**(Patty Wipfler)— 亲子连接派
+  - 部分 **Faber & Mazlish**(《How to Talk So Kids Will Listen》作者)
+
+  ## 跟其他流派对比
+
+  ### vs 传统严管派(中国老一辈)
+  - 严管派:打 / 罚 / 威胁 / "你要听话"
+  - 尊重式:不打 / 不罚 / 但严格执行限度
+
+  ### vs 亲密育儿派(Sears)
+  - 亲密派:几乎全程抱 / 婴儿 helpless / 全程满足
+  - 尊重式:婴儿 capable / 给独立空间 / 接受小哭
+
+  ### vs 哭声免疫派(CIO)
+  - CIO:放任哭直到睡着
+  - 尊重式:在场陪伴 + 接受情绪 + 渐进 un-training
+
+  ### vs 行为奖罚派(Skinner / 部分正面管教)
+  - 奖罚派:好行为奖糖 / 不好行为 time-out
+  - 尊重式:内在动机 / 不奖励不惩罚 / 自然结果
+
+  ### vs 主流"分散注意"派
+  - 分散派:婴儿想要 X 就给 Y 转移
+  - 尊重式:诚实"不行" + 接受情绪
+
+  ## 7 大实操工具
+  1. sportscasting(实况转播)
+  2. magic word: wait(魔法词:等)
+  3. acknowledge feelings(承认情绪)
+  4. "I won't let you..."(限度公式)
+  5. CEO tone(CEO 语调)
+  6. yes space(可探索区)
+  7. observation(观察先于反应)
+
+  ## 在中文社群的位置
+  - 国内"温柔派"/"正面管教"派接近但不完全等于
+  - "正面管教"派(Jane Nelsen)更系统化教程,但部分主张奖励 / 鼓励等同
+  - 尊重式育儿 = "正面管教"+ 反奖励 + 反哄骗 + 更强限度
+
+  ## 对中国家长的特殊意义
+  - 替代"不打不成器"严管文化
+  - 替代"溺爱"陷阱
+  - 替代"分散转移"主流
+  - 替代"哭就糖"哄骗
+  - 提供一套完整 0-3 实操工具
+
+  ## 主要书目(中文世界已有)
+  - Lansbury《Elevating Child Care》(本卷,SRC-019)
+  - Lansbury《No Bad Kids》
+  - Magda Gerber《Your Self-Confident Baby》
+  - Davies《The Montessori Baby》(蒙氏 + 尊重式)
+  - Hammond《Respecting Babies》
+
+key_facts:
+  - Magda Gerber 命名,Lansbury 推广
+  - 核心 4 维度:真实 + 信任 + 限度 + 情绪
+  - 跟传统严管 / 亲密育儿 / 行为奖罚都不同
+  - 流派包括 RIE / 蒙氏 / Pikler 等多派
+  - 7 大实操工具(sportscasting / wait / acknowledge feelings / 限度公式...)
+
+related_glossary:
+  - G-PERSON-Gerber
+  - G-PERSON-Lansbury
+  - G-PERSON-Pikler
+  - G-PERSON-Davies
+  - G-TERM-RIE
+  - G-TERM-sportscasting
+  - G-TERM-magic-word-wait
+  - G-TERM-acknowledging-feelings
+
+related_cards:
+  - C-S0-115
+  - C-S0-116
+  - C-S1-352
+
+sources:
+  - source_id: SRC-019
+  - source_id: SRC-014
+  - source_id: SRC-016
+  - external: rie.org / janetlansbury.com
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

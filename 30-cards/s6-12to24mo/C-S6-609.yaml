@@ -1,0 +1,68 @@
+card_id: C-S6-609
+stages: [S6]
+tags: [discipline, RIE, consequences]
+
+front:
+  title: "自然后果替惩罚"
+  hook: "翻饭就把饭直接收掉"
+
+back:
+  why_matters: |
+    玛格达《自信的宝宝》第 8 章"让孩子看到行为带后果"。
+
+    玛格达命名"**自然后果**"(原文 cause / consequence)— 替代惩罚 / 隔离反省 / 打骂。
+
+    定义:行为后果跟行为**自然连接**(不是大人随机施加)。
+
+    举例:
+    - 翻饭 → "翻了 = 不饿了" → 收掉饭
+    - 跑出院子 → "跑了 = 不能在院里玩了" → 进屋
+    - 撕书 → "撕了 = 没书了" → 给杂志撕
+    - 把杯子倒了 → "倒了 = 没水喝了" → 收掉
+
+    关键:**自然 + 立刻 + 不报复 + 不羞辱**。
+
+    玛格达原话翻译:
+    > 传统惩罚跟行为没关系,且不成比例 — 制造羞耻,不教改。
+    > 自然后果让娃负责自己 → 信心增长。
+
+  what_to_do:
+    - 行为发生立刻反应
+    - 用"自然后果"句式:"你 X = 我 Y"
+    - 平静不带情绪宣布
+    - 不算账,不秋后清算
+    - 后果完了 = 完了,不再提
+
+  failure_mode: |
+    "他翻饭我就让他饿一顿教训" → 玛格达反:那是惩罚不是后果。
+    自然后果 = 收掉饭(他下顿可吃),不是禁食。
+    或"小娃听不懂" → 反:1 岁就懂"翻饭 = 没饭了",做几次就记心里了。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+  - G-TERM-cause-consequence
+
+citation:
+  book_title_en: "Your Self-Confident Baby"
+  book_title_zh: "自信的宝宝"
+  authors:
+    - Magda Gerber
+    - Allison Johnson
+  publisher_en: John Wiley & Sons
+  year: 1998
+  location: "Ch8 §Let Your Child See That Actions Cause Consequences(p212-213)"
+  source_id: SRC-021
+
+unit_ids: []
+related_cards:
+  - C-S6-403  # Lansbury 限度+情绪并存
+  - C-S6-398  # Lansbury 不 time-out 不打不威胁
+  - C-S6-133  # Davies 温柔边界
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

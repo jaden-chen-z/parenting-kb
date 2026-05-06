@@ -1,0 +1,66 @@
+card_id: C-S6-1165
+stages: [S6]
+tags: [cognitive_science, word_learning, mutual_exclusivity, lerner_v2]
+
+front:
+  title: 已知词的不会重命
+  hook: 互斥约束帮宝宝速学
+
+back:
+  why_matters: |
+    Markman 互斥约束实证细节(Lerner V2 Ch7)。
+    实验:18-24 月宝宝
+    - 桌上放熟物(狗)+ 陌生物(没见过的电子设备)
+    - 大人说"给我 dax"(陌生词)
+    - 宝宝**自动**给陌生物 = 假设新词指新物
+    - 不会"狗 = dax"(因为狗已有词)
+    意义:
+    - 互斥约束让宝宝把"未知词"快速锁定到"未知物"
+    - 这是词汇爆炸算法基础
+    - 不需要大人多解释,自动逻辑特殊情况:
+    - 宝宝有时会"过度互斥"(认为只有一个名字)
+    - eg 妈妈说"狗"和"动物" — 宝宝起初困惑
+    - 24-30 月学会"层次互斥"(分类层次)
+    跟现库:G-TERM-fast-mapping 已建,V2 给互斥约束机制。
+    跟 Bloom 词汇爆炸(下卡)对接。
+    对中国家长意义:
+    - 18 月起新词学得快是有原因的 — 互斥算法
+    - 一物多词("妈妈"和"母亲")让孩子自然分等级
+    - 不必焦虑"重名混乱" — 大脑自动处理
+  what_to_do:
+    - 18-24 月稳定词汇环境(每物一稳定主词)
+    - 同时给"层次"(妈妈 = 女性 = 人 = 动物)
+    - 不必怕 "doggie / dog / 狗" 混乱(不混)
+    - 看到宝宝"过度互斥"现象,慢慢解
+  failure_mode: |
+    "重名宝宝就乱" — 错。互斥约束自动分类。
+    "一物多词混乱" — 错。是层次学习起步。
+    "教词必须解释互斥" — 错。约束自动。
+  evidence_level: B
+
+glossary_refs:
+  - G-TERM-fast-mapping
+  - G-TERM-language-explosion
+  - G-PERSON-Markman
+  - G-TERM-mutual-exclusivity
+  - G-PERSON-Bloom
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 2 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 2 卷"
+  authors: ["Sandra R. Waxman", "Jeffrey L. Lidz"]
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 7 · Mutual exclusivity · pp. 312-315"
+  source_id: SRC-028
+
+unit_ids: []
+related_cards:
+  - C-S6-1164     # Markman 3 约束总
+  - C-S6-1166     # Fast mapping(下一张)
+  - C-S6-018       # Lillard 词汇爆炸
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

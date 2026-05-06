@@ -1,0 +1,48 @@
+card_id: C-S4-551
+stages: [S4]
+tags: [weaning, milk-floor, nutrition]
+
+front:
+  title: 7 月奶量底线 500ml
+  hook: 不论辅食奶不能少
+
+back:
+  why_matters: |
+    松田硬数字:7 月用牛奶喂养,每天奶量不能少于 500 ml。
+    这是底线 — 防妈"娃辅食吃多了"为由减奶,反致钙/蛋白质/能量不足。
+    主流以为"7 月辅食为主"是错的 — 辅食是练习,主食仍奶。
+    母乳同理 — 哺乳次数不少于 4-5 次。
+  what_to_do:
+    - 牛奶喂养记每日总奶量 ≥ 500 ml
+    - 母乳记每日哺乳 4-5 次以上
+    - 辅食吃太多就减辅食,不减奶
+    - 别因娃爱吃粥就用粥替奶
+    - 一周称体重看是否健康增
+  failure_mode: |
+    妈"娃喜欢吃米粥就少喂奶" → 蛋白质/钙不足 → 缺铁性贫血 + 增长停滞。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Matsuda
+
+citation:
+  book_title_zh: "定本《育儿百科》"
+  book_title_jp: "育児の百科(定本)"
+  authors: ["松田道雄"]
+  translators_zh: ["王少丽"]
+  publisher_zh: null
+  year: 1980
+  edition: "定本"
+  location: "第 237 节断奶的方法"
+  source_id: SRC-023
+
+unit_ids: []
+related_cards:
+  - C-S4-550  # 自卷:断奶量因孩子异
+  - C-S5-023  # Brazelton 9 月断奶不必赶
+  - C-S3-028  # Brazelton 4 月喂奶分心不是断奶信号
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

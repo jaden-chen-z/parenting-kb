@@ -1,0 +1,126 @@
+glossary_id: G-TERM-cause-consequence
+type: term
+display_name: 自然后果 (cause/consequence)
+
+full_name_zh: 自然后果 / Cause-Consequence(Magda 命名替代惩罚)
+full_name_en: Cause/Consequence (vs Punishment)
+
+one_liner: |
+  Magda Gerber 命名的纪律工具,替代 punishment(惩罚)/ time-out / 打骂。
+  定义:行为后果跟行为自然连接,不是大人随机施加的报复。
+  "翻饭 = 我把饭收掉",不是"翻饭 = 罚站"。
+  RIE 派核心纪律方法之一。
+
+detail: |
+  ## 命名来源
+  Magda《自信的宝宝》Ch8 §Let Your Child See That Actions Cause Consequences。
+
+  Magda 立场:
+  > "传统 punishment 跟行为没关系,且不成比例,
+  > 制造羞耻而不教改。
+  > 我用 cause/consequence — 行为有自然后果,
+  > 让孩子负责自己。"
+
+  ## 核心特征
+
+  自然后果 4 要素:
+  1 **自然**:跟行为有逻辑连接(不是任意添加)
+  2 **立刻**:行为发生 → 立即跟进(不秋后清算)
+  3 **不报复**:平静宣布,无情绪敲诈
+  4 **不羞辱**:就事论事,不贴标签("你坏" / "你不乖")
+
+  ## 经典案例(Magda 给)
+
+  ### 案例 1:吃饭翻饭
+  - 翻饭 → 平静说:"翻了 = 你不饿了" → 收掉饭
+  - 不:打手 / 罚不准吃 / 唠叨"我多辛苦做"
+  - 自然连接:翻 = 不饿 = 没饭
+
+  ### 案例 2:撕书(Magda Ch8 给的实例)
+  妈妈说:"你撕书 → 我把书拿走 → 但你可以撕杂志(给替代)"
+  孩子学到:撕这类的可以,那类的不行 + 后果是失去
+  Magda 报告:这之后孩子停止撕书,因为想要书回来
+
+  ### 案例 3:跑出院子
+  - 跑出去 → 平静说:"跑了 = 不能在院里玩了" → 进屋
+  - 不:打 / 关禁闭 / 威胁"以后不带你出来"
+  - 自然连接:跑 = 你管不住 = 失去户外
+
+  ### 案例 4:翻杯子
+  - 翻 → 平静说:"翻了 = 没水喝了" → 收掉
+  - 不:打手 / 大叫"为什么翻"
+  - 自然连接:翻 = 没了
+
+  ## 跟传统惩罚的对比
+
+  | 维度 | Cause/Consequence | Punishment(惩罚)|
+  |---|---|---|
+  | 跟行为关系 | 有逻辑连接 | 任意施加(罚站 / 没收手机) |
+  | 时机 | 立刻(行为发生时) | 可延迟("回家给你好看") |
+  | 父母情绪 | 平静宣布 | 愤怒 / 羞辱 |
+  | 教学效果 | 教因果 → 内化 | 教恐惧 → 外管 |
+  | 长期 | 自我责任感 | 怨气 / 偷做 / 反抗 |
+
+  ## 跟 time-out 的对比
+  Time-out(罚站 / 隔离)= 跟行为脱钩的惩罚
+  Cause/Consequence = 跟行为连接的后果
+  Magda 1998 立场:**Time-out 出生命吗** —
+  跟行为脱钩 = 制造羞耻 + 孤立 + 不教改
+
+  ## 跟"自然后果"派(Adler / Dreikurs)的关系
+  Alfred Adler / Rudolf Dreikurs 1930s-40s 提出"natural consequences"。
+  Magda 的 cause/consequence 是同源 — 但她在 RIE 框架内系统化:
+  + 加"立刻"要素
+  + 加"平静无情绪"要素
+  + 跟 RIE "尊重 + 信任"哲学绑定
+
+  ## 中国家长适用
+
+  替代:
+  - 打骂(短期止 + 长期反抗)
+  - 罚站 / 关黑屋(创伤型,Magda 反)
+  - "等爸爸回来收拾你"(延迟 + 第三方,无效)
+  - "你再 X 我就不爱你"(情绪敲诈)
+  - 唠叨"我多辛苦"(内疚控制)
+
+  用:
+  - 翻饭 → 收
+  - 跑院子 → 进屋
+  - 抢同伴玩具 → 还
+  - 不收玩具 → 玩具收柜里(明天才能拿)
+  - 闹剧 = 不去公园
+
+  ## 操作要点
+  1 行为发生立刻反应(2-3 秒内)
+  2 用句式:"你 X = 我 Y" 或 "X = Y"
+  3 平静像播报员,不带情绪
+  4 不算账,不秋后翻
+  5 后果完了 = 完了,不再提
+
+key_facts:
+  - Magda Gerber 命名(替代 punishment)
+  - 4 要素:自然 / 立刻 / 不报复 / 不羞辱
+  - Magda 1998 经典:撕书案例
+  - 跟 Adler/Dreikurs natural consequences 同源,RIE 框架内系统化
+  - 替代打骂 / time-out / 情绪敲诈
+
+related_glossary:
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+  - G-TERM-respectful-parenting
+  - G-TERM-red-yellow-green-light
+
+related_cards:
+  - C-S6-609  # 自然后果替惩罚
+  - C-S6-610  # Time-out 出生命吗
+  - C-S4-498  # RIE 班香蕉仪式(离桌 = 收餐)
+
+sources:
+  - source_id: SRC-021
+  - source_id: SRC-019
+  - external: Adler/Dreikurs natural consequences theory
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

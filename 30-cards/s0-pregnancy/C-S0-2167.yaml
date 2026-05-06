@@ -1,0 +1,38 @@
+card_id: C-S0-2167
+stages: [S0]
+tags: [postpartum, dad]
+front:
+  title: 爸爸的触摸对宝宝同样重要
+  hook: 不只是辅助是必需品
+back:
+  why_matters: |
+    前情:一些妈妈认为爸爸笨手笨脚不让碰宝宝。
+    海蒂明确除了哺乳,爸爸能做的事跟妈妈一样多——抱、换尿布、
+    洗澡、安抚、读绘本。爸爸独有的游戏方式(更刺激、更敏感、
+    富有挑战)能塑造宝宝青少年和成年期的人际关系质量。妈妈若把爸爸排除在外,等于剥夺宝宝一半的依恋经验。
+  what_to_do:
+    - 别用"我做得更好"挡爸爸接手
+    - 让爸爸独立带宝宝几小时
+    - 鼓励爸爸独有的高刺激游戏
+    - 哺乳之外的事都让爸爸轮值
+    - 遇到爸爸做错先教不要嘲讽
+  failure_mode: 妈妈门口监督式让爸爸帮忙,爸爸越做越没信心,最终退出参与,宝宝失去父子依恋通道。
+  evidence_level: B
+glossary_refs: []
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors: ["Heidi Murkoff", "Sharon Mazel"]
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh: ["莫夏迪", "张敏"]
+  location: "第 24 章 《父亲》, 页 718-720"
+  source_id: "SRC-040"
+related_cards: [C-S0-2168, C-S0-2163]
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

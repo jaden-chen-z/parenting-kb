@@ -1,0 +1,68 @@
+card_id: C-S2-129
+stages: [S2]
+tags: [montessori, concentration, philosophy]
+
+front:
+  title: 别打断 1 月宝宝看自己手
+  hook: 专注从 0 月开始练
+
+back:
+  why_matters: |
+    1-2 月宝宝盯着自己的手看 5-15 分钟 — 很多家长以为"无聊"或"傻乎乎",赶紧逗他玩 / 给玩具 / 抱起来。
+    这是错的。
+    蒙氏视角 — 宝宝在做**最早的专注工作**:
+    - 看自己手 = 看清楚 + 知道是自己
+    - 看 mobile 摆动 = 眼睛跟着练
+    - 看自己脚 = 知道身体长这样这不是"无聊",是**大脑在做工作**。
+    打断 = 切断专注练习 = 宝宝学到"专注会被打断,不如不专注"。
+    Davies 在原书:
+    > "Concentration in babies is fragile. When broken a few times, they stop trying."
+    9 条建立专注的环境清单(Davies):
+    1. 睡够(1-12 月需 14-15 小时)
+    2. 喝够 / 吃饱
+    3. 环境有秩序
+    4. 有安静时段
+    5. 不靠"被娱乐"
+    6. 2 岁前不看屏幕
+    7. 简单玩具(不要电子)
+    8. 观察(看到他在专注)
+    9. **不打断**
+  what_to_do:
+    - 看到宝宝盯着什么看 — 不要逗 / 不要给新东西
+    - 等他自己看完(5-15 分钟正常)
+    - 不要"哎呀好聪明"打断他专注
+    - 不挂会唱歌的玩具(剥夺自主专注)
+    - 每天至少 1 小时的安静无背景音乐时段
+  failure_mode: |
+    "他盯了好久不动,是不是有问题" — 不是。这是专注工作。
+    "看那么久没意思,我给他玩个会响的" — 切断他自主专注训练。
+    "夸他'好棒'" — 也是打断。微笑看就好,不开口。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Davies
+  - G-PERSON-Montessori
+  - G-TERM-absorbent-mind
+  - G-TERM-prepared-environment
+
+citation:
+  book_title_zh: "蒙特梭利的小宝宝(0-1岁)"
+  book_title_en: "The Montessori Baby"
+  authors: ["Simone Davies", "Junnifa Uzodike"]
+  authors_zh: ["西蒙·戴维斯", "君妮法·乌佐迪克"]
+  publisher_en: "Workman Publishing"
+  year_en: 2021
+  isbn_en: "978-1-5235-0693-7"
+  location: "Chapter 5 · Encouraging concentration > 9 conditions"
+  source_id: SRC-014
+
+unit_ids: []
+related_cards:
+  - C-S2-014       # 鲍秀兰 1-3 月专注
+  - C-S2-122       # Wonder Week 跃迁后专注
+  - C-S2-126       # Wonder Week 跃迁后陪练
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

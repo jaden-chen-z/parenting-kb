@@ -3,14 +3,14 @@ stages: [S2]
 tags: [safety]
 
 front:
-  title: 7 周起每天 15-30 分钟 tummy time
+  title: 7 周起每天 15-30 分钟趴卧时间(tummy time)
   hook: 防扁头 + 加颈部肌肉
 
 back:
   why_matters: |
-    tummy time(趴卧练习)= 婴儿清醒时趴在硬平面玩,大人在旁强制监督。
-    1992 AAP "Back to Sleep" 推广仰睡后,扁头综合征(positional plagiocephaly)发病率上升。
-    Tummy time 是配套设计,平衡仰睡造成的颈部 + 后脑发育不足。
+    趴卧时间(tummy time)(趴卧练习)= 婴儿清醒时趴在硬平面玩,大人在旁强制监督。
+    1992 AAP "仰睡" 推广仰睡后,扁头综合征(positional plagiocephaly)发病率上升。
+    趴卧时间(tummy time) 是配套设计,平衡仰睡造成的颈部 + 后脑发育不足。
     AAP:出院当天就可开始,7 周龄达每天 15-30 分钟。
     益处:防扁头 + 颈肌发育 + 帮以后翻身 / 爬 / 坐。
   what_to_do:
@@ -24,6 +24,26 @@ back:
     在沙发上趴让他自己玩 → SIDS 高危(沙发是死亡热区)。
   evidence_level: A
 
+  positions:
+    issue: 醒着时该不该让宝宝俯卧"练颈肌"(Tummy Time)
+    views:
+      - school: AAP
+        source: SRC-002
+        stance: 推 Tummy Time — 防 SIDS 后颈肌发育 + 防扁头综合征(2026 现行立场,Back to Sleep 1994 后配套)。
+      - school: Pikler
+        source: SRC-026
+        stance: 反 Tummy Time — 仰卧位最佳,俯卧不利自然翻身。1969 立场(那时 Tummy Time 概念尚未出现)。
+      - school: Magda Gerber / Lansbury
+        source: SRC-022/019
+        stance: 继承 Pikler — 永远仰卧不俯卧;给地板时间让婴儿自由探索。
+      - school: 海蒂
+        source: SRC-040
+        stance: 每天清醒至少 30 分钟分多次累计(对齐 AAP)— 主流大众派背书 Tummy Time + 防扁头。
+      - school: 蒙氏(Davies/Lillard)
+        source: SRC-014/016
+        stance: 平面活动 OK,但反对"训练"方式;给地板时间让婴儿自由探索俯卧。
+      - school: 折中建议
+        stance: 不强迫 Tummy Time,但给地板时间允许婴儿自己俯卧探索;若选 AAP 派则醒着每天几次,每次几分钟。
 glossary_refs:
   - G-ABBR-AAP
   - G-TERM-tummy-time

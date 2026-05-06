@@ -1,0 +1,48 @@
+glossary_id: G-TERM-NetCode
+type: term
+display_name: "NetCode 监测网"
+
+en_term: "Network for Global Monitoring and Support for Implementation of the International Code"
+zh_term: "国际守则全球监测网"
+
+one_liner: |
+  NetCode = WHO + IBFAN + UNICEF 联合监测奶粉公司 Code 违规的全球网络。
+
+detail: |
+  ## 定义
+  NetCode(Network for Global Monitoring and Support for Implementation of the International Code)— WHO 与 IBFAN/UNICEF 联合发起的 Code 实施监测网络。
+  
+  ## 职能
+  - 监测各国 Code 实施
+  - 监测奶粉公司违规
+  - 发布定期违规报告
+  
+  ## 数据
+  - 84 国立法实施 Code 全部或部分(1981 至今)
+  - 违规仍广泛
+  - Nestle 1977 抵制运动是历史标志
+  
+  ## 中国
+  中国法规仅部分对接 Code,违规普遍 — IBFAN 中国报告长期上榜。
+
+key_facts:
+  - "WHO + IBFAN + UNICEF 联合"
+  - "84 国立法监测"
+  - "中国违规普遍"
+
+related_glossary:
+  - G-TERM-WHO-Code
+  - G-TERM-IBFAN
+  - G-TERM-formula-marketing
+
+related_cards:
+  - C-S1-1009
+  - C-S1-1011
+
+sources:
+  - source_id: SRC-031
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,31 @@
+stage: S2
+total_cards_in_stage: 130
+key_findings:
+  hardest_inter_source_conflict:
+    - {topic: "Tummy Time", aap_card: C-S2-003, pikler_card: C-S2-834, status: "已标 conflicts F3,需双向反链 + meta 桥接卡"}
+  L1_overlap:
+    - {cluster: [C-S2-547, C-S2-696], src_pair: SRC-023+024 同书并行, action: merge_into_C-S2-696, reason: "§111 经常哭婴儿 W2/W4 两轮自审重叠"}
+  L3_super_clusters:
+    - {topic: 6-8周哭闹峰, sources_count: 7, cards: 9, action: 保留全部 — 跨源共识范本}
+    - {topic: parentese 妈妈语, sources_count: 8, cards: 8, action: 保留全部}
+    - {topic: 母婴对话/turn-taking, sources_count: 6, cards: 6, action: 保留}
+    - {topic: 反撑坐 propping, sources_count: 4, cards: 4, action: 保留(德文 Pikler 原版 + 英文复述谱系)}
+    - {topic: 哭闹回应"承认情绪"诚实派, sources_count: 3, cards: 3, action: 保留}
+    - {topic: RIE/蒙氏 quality-time, sources_count: 5, cards: 5, action: 保留}
+    - {topic: 反宠坏神话, sources_count: 5, cards: 5, action: 保留}
+    - {topic: 气质/个体差异, sources_count: 6, cards: 8, action: 保留}
+    - {topic: 静止脸/情绪镜像, sources_count: 7, cards: 10, action: 保留}
+    - {topic: 2 月儿保 + 5 针疫苗, source: 海蒂独家, cards: 6, action: 保留(清单系列)}
+    - {topic: 发烧/退烧药, source: 海蒂独家, cards: 5, action: 保留}
+    - {topic: WHO 母乳/配方/混合, sources_count: 2, cards: 7, action: 保留}
+    - {topic: 日托/保育园选择, sources_count: 5, cards: 5, action: 保留}
+hotspot_findings:
+  hotspot_3_matsuda_internal: 发现 1 个 L1 重叠(547+696 §111 自审)
+  hotspot_5_anti_tummy_time: 唯一硬源间冲突,已标 F3
+  hotspot_2_gerber_internal: SRC-021 vs SRC-022 在 S2 段无明显冲突,理念 ↔ 实操互补
+notes: |
+  S2 共审 ~130 卡 / 24 SRCs。
+  整体结论:跨源共识极强(5 大主题各自 5-8 源覆盖),不应做内容合并。
+  唯一 L1 重叠 547+696(松田 §111 同书并行)。
+  唯一硬源间冲突 003 vs 834(Tummy Time)— 已标 F3,需双向反链 + meta 桥接卡。
+  Lerner V3/V4 综述卡普遍缺反向 related_cards 链至同立场早期源,建议批量补。

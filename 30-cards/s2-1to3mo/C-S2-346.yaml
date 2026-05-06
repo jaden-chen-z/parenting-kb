@@ -1,0 +1,55 @@
+card_id: C-S2-346
+stages: [S2]
+tags: [crying, emotion, communication]
+
+front:
+  title: "别说宝宝没事"
+  hook: "你不能替她说没事"
+
+back:
+  why_matters: |
+    Magda 把"You're okay"列为 RIE 黑名单。
+    她哭 = 她在告诉你她不 okay,你回"你没事" = 否认 + 闭嘴信号。
+    长大后如果父母也这样回:"别难过,小事" — 孩子学会"我感受不被认"。
+    Magda 推荐替代回应:"我希望你舒服 / 我听到你哭了 / 怎么帮你"。
+    跟 Lansbury C-S3-299 acknowledge 是钥匙 + Davies C-S2-132 哭闹 5 步同源。
+
+  what_to_do:
+    - 把"宝宝没事"从词库删掉
+    - 改说:"我听到你哭了,我在想是为什么"
+    - 改说:"你不开心,我在这"
+    - 改说:"我希望你能舒服一点"
+    - 不要拍背 / 摇晃 / 转移注意力当"修复"
+
+  failure_mode: |
+    "宝宝没事别哭了" → 你先否认了她的感受 → 信任根基受损。
+    Magda 黑色幽默:"你叫她别哭,以后送她去原始尖叫疗法"。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+  - G-TERM-acknowledging-feelings
+
+citation:
+  book_title_en: "Your Self-Confident Baby"
+  book_title_zh: "自信的宝宝"
+  authors:
+    - Magda Gerber
+    - Allison Johnson
+  publisher_en: John Wiley & Sons
+  year: 1998
+  location: "Ch3 How to Respond to Crying"
+  source_id: SRC-022
+
+unit_ids: []
+related_cards:
+  - C-S3-299  # Lansbury 承认情绪是钥匙
+  - C-S2-132  # Davies 哭闹 5 步法
+  - C-S1-408  # Magda 哭是孩子的语言
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

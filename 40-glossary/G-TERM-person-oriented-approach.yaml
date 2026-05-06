@@ -1,0 +1,28 @@
+glossary_id: G-TERM-person-oriented-approach
+type: term
+display_name: "人取向方法 / person-oriented approach"
+
+name_en: "person-oriented approach"
+name_zh: "人取向方法"
+
+description: |
+  Magnusson 方法学 — 跟 variable-oriented 对立。
+  看人的整体动态模式,不只单变量分数。
+
+one_liner: |
+  人取向方法(person-oriented approach)— Magnusson 方法学 — 跟 variable-oriented 对立。
+
+key_facts:
+  - "Lerner V1 元理论卷核心术语"
+  - "学派:Lerner V1 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

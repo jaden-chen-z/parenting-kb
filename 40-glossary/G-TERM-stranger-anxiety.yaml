@@ -35,14 +35,21 @@ detail: |
   - **分离焦虑**:对主要养育人离开的反应(10-18 月峰值)
   - 两者认知基础都是物体永久性 + 健康依恋
 
+  ## 松田道雄临床观察(SRC-023 §187)
+  5-6 月婴儿能认清母亲脸,见到陌生男人脸有的就大哭(陌生人警觉萌芽,比传统 8 月稍早)。
+  打针反应也分天性 — 一声不吭的、过会才哭的、针头触皮就哭的,都正常。
+  "这是娃的天性,不是教育能改变的" — 反"我家娃太敏感"焦虑。
+
 key_facts:
-  - ~8 月起出现
+  - ~5-6 月起萌芽(松田观察)/ ~8 月起明显(AAP)
   - 是健康认知里程碑(不是性格问题)
   - 18-24 月自然消退
   - 不强迫,让宝宝主动接近
+  - 打针反应天性差异,不是"教不出来"
 
 related_glossary:
   - G-ABBR-AAP
+  - G-PERSON-Matsuda
   - G-TERM-separation-anxiety
   - G-TERM-attachment
   - G-TERM-object-permanence
@@ -50,9 +57,11 @@ related_glossary:
 related_cards:
   - C-S4-004     # 陌生人焦虑 ~8 月,健康发展
   - C-S5-004     # 分离焦虑
+  - C-S3-553     # 松田 5-6 月见生人哭是天性
 
 sources:
   - source_id: SRC-007
+  - source_id: SRC-023    # 松田 5-6 月陌生人警觉萌芽
   - external: AAP Emotional and Social Development 8-12 Months
 
 language: zh

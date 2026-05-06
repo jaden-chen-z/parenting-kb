@@ -1,0 +1,63 @@
+card_id: C-S5-129
+stages: [S5]
+tags: [development_burst, philosophy, controversy]
+
+front:
+  title: 8-12 月妈妈最累
+  hook: 提前找替手别硬撑
+
+back:
+  why_matters: |
+    8-12 月期间宝宝经历**两个跃迁连续**:WW37(分类,8.6 月)+ WW46(序列,10.7 月),
+    烦躁 阶段 加起来可达 9 周以上。
+    妈妈日记摘录:
+    - "我感觉完全崩溃,得不到任何支持"(46 周)
+    - "对我来说这是最难的年龄了 — 之前所有阶段都不及这个"(46 周)
+    - "我连写日记都集中不了精神"(46 周)
+    - "我感觉像在监狱里"(WW19 烦躁类似)
+    特殊困难:
+    - 宝宝技能多了,精力旺盛(走 / 爬 / 模仿)
+    - 但情感需求依然 100% 黏妈
+    - 妈妈睡眠依然不足(夜醒 / 早醒)
+    - 跃迁间隔短(8.6 月 + 10.7 月 = 2 月内 2 次跃迁)
+    家长意义:**8-12 月感到"撑不住了" = 普遍现象,主动求助不是失败**。
+  what_to_do:
+    - 提前安排 8-12 月家庭支持(老人 / 钟点工 / 伴侣)
+    - 每天找 30 分钟独处(哪怕只是去阳台 / 卫生间)
+    - 主动跟伴侣说"我现在状态很差"(不是抱怨,是预警)
+    - 持续 2 周以上无力或无希望感 → 看医生排查产后抑郁
+    - 把双跃迁集中区当作"特殊困难期",降低其他要求
+  failure_mode: |
+    "其他妈妈都行我也得行" — 比较只让自责加深。
+    把"我崩溃了"当成育儿失败 → 不求助 → 更崩溃。
+    8-12 月开始上班 + 单独带娃 + 没有支持 = 高风险情绪问题。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-vanderijt
+  - G-TERM-wonder-week
+  - G-TERM-fussy-phase
+  - G-TERM-postpartum-depression
+
+citation:
+  book_title_zh: "婴儿大脑跃迁 10 周(神奇周)"
+  book_title_en: "The Wonder Weeks"
+  authors: ["Hetty van de Rijt", "Frans X. Plooij"]
+  authors_zh: ["海蒂·凡德里特", "弗朗斯·普洛伊"]
+  publisher_en: "Kiddy World Publishing"
+  year_en_first: 1992
+  isbn_en: "978-90-79208-12-1"
+  location: "Chapter 9 · You May (Yet Again) Be Exhausted(Emily's mom 46th week: I feel that I've broken down completely... To me, this is the most difficult age so far)"
+  source_id: SRC-013
+
+unit_ids: []
+related_cards:
+  - C-S5-126       # WW37 分类世界
+  - C-S5-127       # WW46 序列世界
+  - C-S1-033       # 产后抑郁
+  - C-S3-132       # 4 月想逃走不是失败
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

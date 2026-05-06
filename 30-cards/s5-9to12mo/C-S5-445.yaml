@@ -1,0 +1,58 @@
+card_id: C-S5-445
+stages: [S5]
+tags: [separation-anxiety, attachment, healthy]
+
+front:
+  title: "分离焦虑是健康"
+  hook: "黏人是依恋的勋章"
+
+back:
+  why_matters: |
+    Magda 反"分离焦虑 = 问题":
+    Separation Anxiety Is **Healthy** — 章节标题就这样写。
+    宝宝从 6-9 月起开始意识到"我跟妈妈是两个人" → 怕。
+    这是依恋建好的信号 — 不是没建好。
+    Bowlby V1 + Ainsworth Strange Situation 一致:
+    安全依恋的孩子才会在分离时有反应。
+
+  what_to_do:
+    - 不批评他"黏人"或"小气"
+    - 离开前一定告诉他("我去厨房,马上回")
+    - 短分离次数多 = 比 1 次长分离温柔
+    - 不偷溜不假装离开他没注意
+    - 接受期长可能数月,不强行"治"
+
+  failure_mode: |
+    "他这么黏一定是没安全感" → 反着 — 黏是有安全感的证明。
+    Magda 原话:"分离焦虑 + 基本信任 = 健康依恋两面"。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Gerber
+  - G-PERSON-Bowlby
+  - G-PERSON-Ainsworth
+  - G-TERM-attachment
+  - G-TERM-RIE
+
+citation:
+  book_title_en: "Your Self-Confident Baby"
+  book_title_zh: "自信的宝宝"
+  authors:
+    - Magda Gerber
+    - Allison Johnson
+  publisher_en: John Wiley & Sons
+  year: 1998
+  location: "Ch7 Separation Anxiety Is Healthy"
+  source_id: SRC-022
+
+unit_ids: []
+related_cards:
+  - C-S5-076  # Bowlby V1 secure base
+  - C-S5-137  # Davies 黏人是健康
+  - C-S5-393  # Lansbury 分离焦虑
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

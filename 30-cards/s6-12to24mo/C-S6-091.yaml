@@ -1,0 +1,63 @@
+card_id: C-S6-091
+stages: [S6, S7]
+tags: [coping_strategy]
+
+front:
+  title: 日托稳定 > 全职妈妈
+  hook: 别管谁带稳就行
+
+back:
+  why_matters: |
+    Moore 1964 伦敦 167 个孩子 6 年纵向研究 — 比较 5 岁前不同日托类型对 6 岁孩子的影响。
+    关键对比:**稳定的日托照顾** vs **不稳定的日托照顾**(频换照顾人,常 2 岁前开始)。
+    结果:
+    - 稳定日托组孩子 6 岁时**与全职妈妈带的孩子无差异**
+    - 不稳定日托组(2 岁前频换照顾人)6 岁明显**焦虑型依恋特征**:
+      - 高度依赖 / 黏人
+      - 紧张 / 难以适应环境
+      - 对医生 / 黑暗特别怕
+      - 睡眠问题 / 咬指甲 / 噩梦
+    Bowlby 解读:**关键不是"妈带还是别人带",是"是否有稳定的主依恋人"**。
+    家长意义(职场妈妈福音):
+    - **职场妈妈 ≠ 焦虑型依恋孩子**
+    - 关键是日托人选稳定 + 长期 + 敏感回应
+    - 一个稳定阿姨 > 5 个轮换的祖辈
+    - 全职妈妈不一定胜过稳定日托(品质 + 心理可触达更重要)
+  what_to_do:
+    - 上班前先把日托人定稳 ≥ 12 月
+    - 阿姨签约长期 + 给好待遇留人
+    - 选托班看老师任职年限
+    - 别多人轮换照顾(妈+爸+奶+外婆轮转 = 不稳)
+    - 主依恋人 ≤ 3 个,定一不变
+  failure_mode: |
+    "妈妈不上班才是最好的" — Moore 数据:稳定日托孩子和全职妈妈孩子无差异。
+    "我上班大家轮流帮忙带就行" — 轮流 = 不稳定 = 焦虑型依恋风险源。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Bowlby
+  - G-TERM-attachment
+  - G-TERM-anxious-attachment
+
+citation:
+  book_title_zh: "依恋三部曲 · 第二卷:分离"
+  book_title_en: "Attachment and Loss · Volume 2: Separation"
+  authors: ["John Bowlby"]
+  authors_zh: ["约翰·鲍尔比"]
+  translators_zh: ["汪智攀", "王婷婷"]
+  publisher_zh: "世界图书出版有限公司北京分公司"
+  year_en: 1973
+  year_zh: 2017
+  isbn: "978-7-5192-2926-9"
+  location: "第十五章焦虑型依恋及一些促成条件(Moore 1964 6 年纵向:接受了不稳定的日间替代性照顾的孩子明显在之后的生活中表现得焦虑没有安全感;稳定日托组与全职妈妈带的孩子无差异)"
+  source_id: SRC-012
+
+unit_ids: []
+related_cards:
+  - C-S5-087      # 7 月起寄养换家年龄越大越痛苦
+  - C-S6-090      # 现代托儿所也救不了
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Lewis
+type: person
+display_name: "Lewis(迈克尔·刘易斯)"
+
+full_name_en: "Michael Lewis"
+full_name_zh: "迈克尔·刘易斯"
+
+position: |
+  Rutgers Robert Wood Johnson 医学院教授
+
+contribution: |
+  自我意识情绪(羞愧/内疚/骄傲)18 月起源
+
+one_liner: |
+  迈克尔·刘易斯 — 自我意识情绪(羞愧/内疚/骄傲)18 月起源
+
+key_facts:
+  - "本卷章节:Ch 5"
+  - "Lerner V3 命中:147 次"
+  - "学派:Lerner V3 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-027
+    chapter: "Ch 5"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

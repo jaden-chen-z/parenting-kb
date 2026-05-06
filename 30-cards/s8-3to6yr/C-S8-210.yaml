@@ -1,0 +1,86 @@
+card_id: C-S8-210
+stages: [S8]
+tags: [shonkoff, nrc, fade_out, sleeper_effect, intervention]
+
+front:
+  title: "IQ 涨了又跌别慌"
+  hook: "学业基础是软技能"
+
+back:
+  why_matters: |
+    NRC 综述 Ch 13 给"早期干预 IQ fade-out"现象的科学解读:
+    **常见误解**:
+    - "Head Start 让孩子 IQ 涨 5-10 点"
+    - "但 6 岁后 IQ 优势消失了"
+    - "所以 — 早期干预没用?"
+    **NRC 校准**:
+    - IQ fade-out 是**真实**现象
+    - 但**长期效益**仍存在 — 在 IQ 之外的指标:
+      - 高中毕业率
+      - 收入
+      - 犯罪率
+      - 健康
+      - 关系质量
+    - 这是 **"sleeper effect 沉睡效应"** — 早期效益**潜伏**到青春期 / 成年才显现
+    **机制**(NRC 综合):
+    - IQ 反映**当前认知**水平 — 容易被后期影响平均化
+    - 但**软技能**(自调 / 执行功能 / 学习态度 / 社交)**永久内化**
+    - 这些软技能 → 在青春期 / 成年决定大方向
+    **关键反"IQ 至上"立场**:
+    - 早期干预的目标**不是**让孩子"更聪明"
+    - 是让孩子**有能力使用聪明** — 自我调节 + 坚持 + 应对失败
+    **对中国家长**:
+    - 别只看"IQ / 测试分数"评估早教
+    - 看"性格 + 自调 + 学习热情"
+    - 短期分数差异 5-10 岁后会消失 — 别焦虑
+    - 长期赢家是软技能强的孩子
+  what_to_do:
+    - 别只看 IQ / 分数
+    - 看性格 + 自调 + 热情
+    - 别为短期分数焦虑
+    - 软技能是长期赢
+    - 别比"我家孩子 IQ"
+  failure_mode: |
+    "他 5 岁 IQ 高 — 一定能赢" — 错,IQ 不预测软技能。
+    "他 IQ 没涨 — 早教白做" — 错,长期效益不在 IQ 而在软技能。
+    "学业型 preschool IQ 涨多 — 选这个" — 错,Perry 数据反驳 — 短期高长期低。
+  evidence_level: A
+
+  positions:
+    issue: 0-3 岁需要系统化早期干预还是只需"陪 + 不打扰"
+    views:
+      - school: Shonkoff / NRC
+        source: SRC-025
+        stance: 系统化早期干预(Perry / Abecedarian RCT)— 主要针对高风险家庭(贫困 / 抑郁 / 单亲)。
+      - school: Lansbury / Gerber RIE
+        source: SRC-019/022
+        stance: 不打扰 + 自由探索 + Quality time 短就够;反对系统化干预介入正常家庭。
+      - school: Lillard(蒙氏)
+        source: SRC-016
+        stance: 介于二者之间 — 有 prepared environment(结构),但 follow the child(不强加)。
+      - school: 适用建议
+        stance: 普通家庭偏 RIE(高质量陪伴);高风险家庭(贫困 / 妈妈抑郁)需 NRC 推荐的系统干预。
+glossary_refs:
+  - G-PERSON-Shonkoff
+  - G-TERM-NRC
+  - G-TERM-executive-function
+
+citation:
+  book_title_en: "From Neurons to Neighborhoods"
+  authors: ["Jack P. Shonkoff", "Deborah A. Phillips"]
+  org: "NRC/IOM"
+  year_en: 2000
+  location: "Ch 13 · IQ fade-out and long-term effects"
+  source_id: SRC-025
+
+unit_ids: []
+related_cards:
+  - C-S8-207    # Shonkoff Perry(本卷)
+  - C-S7-863    # Shonkoff 执行功能(本卷)
+  - C-S7-866    # Shonkoff 反早期学业(本卷)
+  - C-S7-125    # Gopnik 反早教焦虑 SRC-015
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

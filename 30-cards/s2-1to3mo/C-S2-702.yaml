@@ -1,0 +1,53 @@
+card_id: C-S2-702
+stages: [S2]
+tags: [safety, accident-prevention, newborn]
+
+front:
+  title: 0-3 月防事故 6 项
+  hook: 烫伤 + 一氧化碳排首位
+
+back:
+  why_matters: |
+    松田列 0-3 月最常见 6 类事故 — 全部是周围大人责任,可避免。
+    1. 烫伤(端热水滑跤淋娃 + 热水袋开关不严 + 电脚炉接触脚跟)
+    2. 一氧化碳中毒(密窗整夜煤气炉 + 父亲室内吸烟)
+    3. 妈躺喂奶睡着乳房压婴(1-2 月没力气反抗)
+    4. 塑料袋盖脸窒息(铺枕头下风吹起)
+    5. 床上坠落(踢被反作用 + 无围栏)
+    6. 车内事故(颈未直 + 妈抱副驾驶)
+  what_to_do:
+    - 准备热水时绝不在娃旁
+    - 不用热水袋
+    - 卧室不放任何煤气/煤炭炉
+    - 妈坐着喂奶 + 喂完拍嗝
+    - 床上坠落:围栏 + 长毛地毯
+  failure_mode: |
+    "刚 1 个月不会动" → 妈躺喂睡着 + 塑料袋枕下 → 真发生窒息已经晚。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Matsuda
+  - G-ABBR-SIDS
+
+citation:
+  book_title_zh: "定本《育儿百科》"
+  book_title_jp: "育児の百科(定本)"
+  authors: ["松田道雄"]
+  translators_zh: ["王少丽"]
+  publisher_zh: null
+  year: 1980
+  edition: "定本"
+  location: "第 80 / 102 节防止事故"
+  source_id: SRC-023
+
+unit_ids: []
+related_cards:
+  - C-S0-367  # 自卷:父亲戒烟孕期硬指标
+  - C-S5-648  # 自卷:9-10 月探索期防事故
+  - C-S1-058  # AAP 水龙头温 ≤ 49°C,不端热饮抱
+  - C-S1-041  # AAP 过热也增 SIDS
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

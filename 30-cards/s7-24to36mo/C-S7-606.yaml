@@ -1,0 +1,48 @@
+card_id: C-S7-606
+stages: [S7]
+tags: [peer-play, urban-decline, social-发展]
+
+front:
+  title: 战前协作空间消失
+  hook: 城市汽车毁了娃自由
+
+back:
+  why_matters: |
+    松田 1980 已警示:战前孩子有大孩子带的"自由空间" — 任性会被排斥,自然学协作。
+    现在汽车多+空地少+妈门锁住,娃没机会跟同龄孩子自由玩。
+    家长再"教协作"也补不回 — 不是教出来的,是体验出来的。
+    现代中国小区"娃在家爹妈管" → 协作能力天然弱。
+  what_to_do:
+    - 找带娃伙伴每周 2-3 次约
+    - 优选户外公园,不选商场
+    - 大人退后,看孩子自己解决
+    - 不立刻调解小冲突
+    - 保持 30 分以上自由时间
+  failure_mode: |
+    "怕磕碰小气娃" → 妈替娃出头 → 娃没机会学协作,3 岁仍打架。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Matsuda
+
+citation:
+  book_title_zh: "定本《育儿百科》"
+  book_title_jp: "育児の百科(定本)"
+  authors: ["松田道雄"]
+  translators_zh: ["王少丽"]
+  publisher_zh: null
+  year: 1980
+  edition: "定本"
+  location: "第 387 节什么是反抗期"
+  source_id: SRC-023
+
+unit_ids: []
+related_cards:
+  - C-S7-604  # 自卷:反"反抗期"概念
+  - C-S6-668  # 自卷:1.5-2 岁物权意识强
+  - C-S7-016  # Brazelton 2 岁三件大事
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

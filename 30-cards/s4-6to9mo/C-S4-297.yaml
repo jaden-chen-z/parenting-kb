@@ -1,0 +1,60 @@
+card_id: C-S4-297
+stages: [S4]
+tags: [communication, RIE, lansbury]
+
+front:
+  title: "9-12 月分离焦虑:别偷溜"
+  hook: "诚实告知建立信任"
+
+back:
+  why_matters: |
+    Lansbury Ch11:9-12 月宝宝开始意识"我跟你是分开的人"。
+    分离焦虑期,主流反射:趁宝宝不注意溜走,免得哭。
+    Lansbury 说:这建立"妈妈会消失"的恐惧 → 焦虑加重。
+    诚实分别 + 接受情绪 = 长期更安全。
+    "妈妈去厕所 5 分钟就回来" + 哭也接受 → 信任建立。
+
+  what_to_do:
+    - 离开前清楚告知:"我去厕所,5 分钟回来"
+    - 不偷溜,不假装不离开
+    - 不加"好吗?"(别征求宝宝同意)
+    - 自信离开,带平和不焦虑
+    - 哭就承认:"你不想我走,我听到了"
+
+  failure_mode: |
+    "趁他玩得开心赶紧溜" → 宝宝下次更不敢放松玩。
+    或反向:不敢离开半步 → 大人崩溃。
+    Lansbury:离开是必须的,关键是诚实 + 自信 + 接受情绪。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Lansbury
+  - G-PERSON-Gerber
+  - G-PERSON-Bowlby
+  - G-TERM-acknowledging-feelings
+  - G-TERM-RIE
+
+citation:
+  book_title_en: "Elevating Child Care: A Guide to Respectful Parenting"
+  book_title_zh: "尊重孩子:RIE 育儿之道"
+  authors:
+    - Janet Lansbury
+  publisher_en: JLML Press
+  year: 2014
+  location: "Ch11 Calming Your Clingy Child"
+  source_id: SRC-019
+
+unit_ids: []
+related_cards:
+  - C-S1-354  # Lansbury 听情绪
+  - C-S4-296  # Lansbury 习惯被造
+  - C-S4-129  # Wonder Weeks 6 月起绝不偷溜走
+  - C-S5-135  # Davies 不偷溜 + 告别仪式
+  - C-S7-035  # Bowlby V2 别偷偷溜要正面告别
+  - C-S4-067  # Bowlby V1 6-12 月依恋形成关键期
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

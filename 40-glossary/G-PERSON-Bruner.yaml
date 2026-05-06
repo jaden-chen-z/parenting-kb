@@ -1,0 +1,85 @@
+glossary_id: G-PERSON-Bruner
+type: person
+display_name: Bruner
+
+full_name_en: Jerome S. Bruner
+full_name_zh: 杰罗姆·布鲁纳
+
+one_liner: |
+  美国认知心理学家(1915-2016),20 世纪发展心理学奠基人之一。
+  提出"长童年期 = 学习窗口"假说 + scaffolding(脚手架)概念,Gopnik 的师承。
+
+detail: |
+  ## 个人背景
+  - 1915 年生于纽约,2016 年卒于纽约(101 岁)
+  - 哈佛大学博士(1941)
+  - 哈佛 / 牛津 / NYU 教授
+  - 帮助创建哈佛认知研究中心(1960)
+  - 美国心理学会前主席
+  - 美国国家科学奖(1965)
+
+  ## 核心贡献
+
+  ### 1. 长童年期假说(immaturity hypothesis)
+  - 人类比其他物种童年期更长(0-18 岁完全依赖父母)
+  - 这不是"缺陷",是**进化优势** — 给学习留窗口
+  - 其他动物靠本能,人类靠学习适应任何环境
+  - Gopnik 在《摇篮里的科学家》Ch1 引用 + 扩展
+
+  ### 2. 脚手架(scaffolding)
+  - 大人给孩子"刚好够用的"帮助
+  - 孩子掌握后撤掉脚手架
+  - 跟 Vygotsky 最近发展区(ZPD)互补
+  - "scaffolding"这个词是 Bruner 命名
+
+  ### 3. 三阶段心理图式理论
+  儿童认知发展三种"在脑里装世界"的方式:
+  - **行动式**(enactive,0-3 岁):用动作理解世界
+  - **图像式**(iconic,3-7 岁):用图像理解
+  - **符号式**(symbolic,7+ 岁):用语言 / 符号
+  - 跟 Piaget 阶段论平行但侧重信息装载方式
+
+  ### 4. 叙事认知
+  - 认为人类用"故事"组织经验
+  - 反对纯逻辑型认知模型
+  - 影响了文学批评 + 教育学
+
+  ## Gopnik 师承
+  - Gopnik 在牛津大学读博士,导师就是 Bruner
+  - Bruner 时任牛津 Wolfson College 院长
+  - "婴儿是天生科学家"命题受 Bruner 影响
+  - Gopnik 在《摇篮里的科学家》多次引用 Bruner
+
+  ## 在本知识库中
+  - C-S1-243 长童年期是人类最大优势 — 直接用 Bruner 假说
+  - 间接影响 baby scientist 命题(C-S1-240)
+  - Gopnik 师承
+
+  ## 学术影响
+  - 20 世纪发展心理学三大奠基人之一(另两个 Piaget + Vygotsky)
+  - "认知革命"(Cognitive Revolution)发起人之一
+  - 影响 Howard Gardner 多元智能理论 / Gopnik 理论理论 / 现代教育学
+
+key_facts:
+  - 1915-2016,美国认知心理学家
+  - 长童年期假说提出者
+  - scaffolding 概念命名者
+  - Gopnik 牛津博士导师
+  - 20 世纪发展心理学三大奠基人
+
+related_glossary:
+  - G-PERSON-Gopnik
+  - G-PERSON-Piaget
+  - G-PERSON-Vygotsky
+  - G-TERM-baby-scientist
+
+related_cards: []
+
+sources:
+  - source_id: SRC-015
+  - external: Bruner 1972 / Wikipedia Jerome Bruner
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

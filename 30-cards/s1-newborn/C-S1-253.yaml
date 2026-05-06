@@ -1,0 +1,66 @@
+card_id: C-S1-253
+stages: [S1]
+tags: [self, 观察, china_high_freq]
+
+front:
+  title: 别错过安静警觉态
+  hook: 安静警觉是黄金窗
+
+back:
+  why_matters: |
+    Wolff 1966 命名的 安静警觉态= 新生儿出生即有的特殊状态:**清醒 + 身体安静 + 在主动吸收外界**。
+    新手父母常以为宝宝就 4 种状态:**睡 / 吃 / 哭 / 乱动**。其实新生儿规律地、频繁地处在第 5 种状态 — 安静警觉:
+    - 出生第一周开始出现
+    - 每次持续几分钟,有时更长
+    - 一天反复多次
+    - 是宝宝大脑在"录音录像吸收外界"的窗口
+    - **几乎所有婴儿能力研究都靠这个状态做实验**(MacFarlane 母乳气味实验 / Fantz 面孔偏好 / Meltzoff 模仿)
+    Stern 指出:中国家长常错过这个窗口,因为:
+    - 错觉 1 — "宝宝醒了 = 该哭 / 该饿 / 该换尿布" → 立刻干预,不让宝宝"看世界"
+    - 错觉 2 — "宝宝不哭 = 没事,我去做家务" → 错过宝贵的安静警觉窗
+    **正确做法**:宝宝清醒、不哭、不闹、目光在游移时:
+    - 不要立刻喂 / 不要立刻抱起来逗
+    - **靠近(35-50cm)+ 慢说话 + 缓慢面部表情**
+    - 让宝宝看你 / 听你 / 闻你
+    - 这是 新生自我 形成的"养料时刻"
+    跟 Karp 5S 第四产程理论(C-S1-018)兼容 — Karp 主张安抚,Stern 补充"安静警觉时不要安抚要互动"。
+  what_to_do:
+    - 学会识别第 5 种状态(安静警觉)
+    - 不哭不闹时不立刻干预
+    - 靠近 35-50cm 慢说话
+    - 缓慢面部表情让宝宝看
+    - 一天抓 2-3 次 安静警觉态 互动
+  failure_mode: |
+    "宝宝不哭就别打扰他" — 半对。安静警觉时是黄金互动窗,错过会少 新生自我 的形成材料。
+    "宝宝醒了就立刻喂奶" — 喂前留 5-10 分钟眼神 / 声音互动。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Stern
+  - G-TERM-six-states
+  - G-TERM-emergent-self
+
+citation:
+  book_title_zh: "婴儿的人际世界"
+  book_title_en: "The Interpersonal World of the Infant"
+  authors: ["Daniel N. Stern"]
+  authors_zh: ["丹尼尔·斯特恩"]
+  publisher_en: "Basic Books"
+  year_en: 1985
+  isbn_en: "978-0-465-09559-9"
+  location: "Ch 3 · Observing the Young Infant (Wolff 1966 alert inactivity)"
+  publisher_zh: "华东师范大学出版社"
+  year_zh: 2017
+  translator_zh: ["刘旭东"]
+  source_id: SRC-018
+
+unit_ids: []
+related_cards:
+  - C-S1-018       # Karp 第四产程
+  - C-S1-247       # Lillard 蒙氏新生儿房 4 区
+  - C-S1-248       # Lillard 别打断专注
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

@@ -1,0 +1,27 @@
+glossary_id: G-TERM-individual-pathway
+type: term
+display_name: "个体路径 / individual pathway"
+
+name_en: "individual pathway"
+name_zh: "个体路径"
+
+description: |
+  Magnusson 概念 — 每个人发展轨迹独特,群体均值不代表任何具体个体。
+
+one_liner: |
+  个体路径(individual pathway)— Magnusson 概念 — 每个人发展轨迹独特,群体均值不代表任何具体个体。
+
+key_facts:
+  - "Lerner V1 元理论卷核心术语"
+  - "学派:Lerner V1 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

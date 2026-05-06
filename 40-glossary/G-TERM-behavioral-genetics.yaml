@@ -1,0 +1,22 @@
+glossary_id: G-TERM-behavioral-genetics
+type: term
+display_name: "行为遗传学"
+
+one_liner: |
+  Plomin 学派:用双胞胎/收养研究计算性状遗传率。
+
+detail: |
+  Plomin 学派:用双胞胎/收养研究计算性状遗传率。
+
+  来源:Lerner V3《Handbook of Child Psychology Vol 3》(Wiley 2006 第 6 版,Eisenberg 主编)。
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-027
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

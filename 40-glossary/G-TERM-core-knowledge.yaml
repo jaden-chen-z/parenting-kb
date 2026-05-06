@@ -1,0 +1,77 @@
+glossary_id: G-TERM-core-knowledge
+type: term
+display_name: 核心知识 (core knowledge)
+
+full_name_zh: 核心知识 5 系统
+full_name_en: Core Knowledge / Five Systems
+
+one_liner: |
+  Spelke 提出婴儿出生即有 5 个先天认知系统(物体 / 行动 / 数 / 空间 / 社会)。
+  反 Piaget 婴儿空白说,后续认知发展 = 在这 5 系统上添加细节。
+
+detail: |
+  ## 定义
+  Spelke 核心知识理论:婴儿出生就有 5 个先天结构化认知系统,
+  作为后续学习的"基石"。
+
+  ## 5 系统
+  1. **物体系统**(Object)— 物理学
+     - 物体连续 / 不穿越固体 / 不消失
+     - 实证:Baillargeon 4 月吊桥实验
+  2. **行动系统**(Agent)— 因果 + 意图
+     - 区分有意行为 vs 无意运动
+     - 实证:Cohen 撞球因果(4 月)
+  3. **数字系统**(Number)— approximate number
+     - 大致估算数量
+     - 实证:Wynn 1992 5 月 1+1=2
+  4. **空间系统**(Geometry)— 几何
+     - 理解空间关系
+     - 实证:Newcombe 自我中心 → 客观坐标
+  5. **社会系统**(Social Partner)— like-me 识别
+     - 别人是 like-me agent
+     - 实证:Meltzoff 模仿 + Hamlin 道德雏形
+
+  ## 立场争议
+  - Spelke 强先天派
+  - Carey:部分认同 + 加"概念革命"过渡
+  - Cohen-Cashon:经验派反驳
+  - Karmiloff-Smith:神经建构主义反
+
+  ## 在本知识库中
+  - SRC-028 Lerner V2 Ch5/Ch16/Ch17/Ch18 多章引用
+  - C-S4-1141 Spelke 5 系统总览
+  - 各 5 系统单独卡(物体 / 数 / 空间 / 行动 / 社会)
+
+  ## 中国家长意义
+  - 婴儿不是空白,出生即有结构
+  - 早教灌输 ≠ 帮"建系统",系统已建
+  - 经验是"调谐"5 系统,不是"灌输"
+
+key_facts:
+  - 5 个先天认知系统(物体 / 行动 / 数 / 空间 / 社会)
+  - 反 Piaget 空白说
+  - 后续认知 = 在 5 系统上加细节
+  - 跨多章实证
+
+related_glossary:
+  - G-PERSON-Spelke
+  - G-PERSON-Carey
+  - G-PERSON-Baillargeon
+  - G-PERSON-Wynn
+  - G-TERM-baby-scientist
+  - G-TERM-object-permanence
+
+related_cards:
+  - C-S4-1141
+  - C-S3-1140
+  - C-S3-1144
+  - C-S3-1142
+
+sources:
+  - source_id: SRC-028
+  - external: Spelke/Kinzler 2007《Core Knowledge》/ Wikipedia Core Knowledge Theory
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

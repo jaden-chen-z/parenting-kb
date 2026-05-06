@@ -1,0 +1,59 @@
+card_id: C-S7-351
+stages: [S7]
+tags: [communication, RIE, lansbury, controversy]
+
+front:
+  title: "反'分散注意力'派教育"
+  hook: "诚实长期胜过哄骗"
+
+back:
+  why_matters: |
+    Lansbury Ch28 #2 + Ch22 反对"分散注意"派育儿:
+    主流"温和派"建议:"宝宝想要 X 就给他看 Y 转移"。
+    Lansbury 强烈反:这是回避,不是诚实关系。
+    第一年起就要直接沟通:"我不让你拿这个" + 接受抗议。
+    逃避诚实对话 → 后期更多限度问题 → 大人更累 → 吼。
+    不分散是难的,但是 RIE 关系基石。
+
+  what_to_do:
+    - 婴儿想拿剪刀:"我不让你拿剪刀,这个危险"+ 拿走
+    - 不"看那只鸟!"(分散)
+    - 接受宝宝随之而来的哭闹抗议
+    - 把哭当沟通,不当"问题"
+    - 长期看:诚实的孩子未来更好沟通
+
+  failure_mode: |
+    "宝宝哭就分散一下没事" → 短期解决,长期模糊限度。
+    或反向:"我反分散就死板" → 不是,继续接受情绪。
+    Lansbury:分散 = 短期工具,但不能成默认。
+    诚实更难 + 短期更哭,但建立真关系。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Lansbury
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+  - G-TERM-acknowledging-feelings
+
+citation:
+  book_title_en: "Elevating Child Care: A Guide to Respectful Parenting"
+  book_title_zh: "尊重孩子:RIE 育儿之道"
+  authors:
+    - Janet Lansbury
+  publisher_en: JLML Press
+  year: 2014
+  location: "Ch28 Yelling — Reason 2 + Ch22 Discipline"
+  source_id: SRC-019
+
+unit_ids: []
+related_cards:
+  - C-S6-397  # Lansbury 我不让你
+  - C-S6-403  # Lansbury 限度 + 哭怒并存
+  - C-S6-134  # Davies 1 岁打咬扔不是坏
+  - C-S2-127  # Davies 跟宝宝用真词不嘎嘎
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

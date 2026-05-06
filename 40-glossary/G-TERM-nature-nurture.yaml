@@ -1,0 +1,68 @@
+glossary_id: G-TERM-nature-nurture
+type: term
+display_name: nature-nurture 先天后天
+
+en_term: nature vs nurture / gene-environment interaction
+zh_term: 先天后天 / 基因环境交互
+
+one_liner: |
+  发展心理学最古老辩论 — "天生 vs 后天养"。
+  NRC 综述 Ch 2 立场:**这是错问题** — 每个能力都是基因 + 环境共同产物。
+  现代立场是 epigenetics + gene-environment interaction (GxE)。
+  问题应改为:"基因 + 环境怎么交互产生这能力?"
+
+detail: |
+  ## 历史辩论
+  - **17-19 世纪**:Locke 白板说(全是 nurture) vs Galton 优生学(全是 nature)
+  - **20 世纪初**:行为主义(Watson)— 全 nurture
+  - **20 世纪中**:精神分析 + 遗传学冲突
+  - **20 世纪后**:行为遗传学双胞胎研究 — 50/50
+  - **21 世纪**:epigenetics — 基因 + 环境真正交互
+
+  ## NRC 综述立场(Ch 2)
+  - "nature vs nurture" 是错问题
+  - 每个能力都是 GxE 产物
+  - 同一基因在不同环境表达不同
+  - 同一环境对不同基因型作用不同
+  - 父母给孩子的不只 DNA 还有育儿环境
+
+  ## 5 条 NRC 共识(Ch 2)
+  1. 所有能力是 GxE 产物 — 没纯先天 / 纯后天
+  2. 双胞胎研究:智商 / 性格 50% 基因 50% 环境
+  3. epigenetics:环境改变基因表达
+  4. 基因影响人选择什么环境
+  5. 行为遗传学跟教育心理学交汇
+
+  ## 含义对家长
+  - 别说"天生就这样" — 接受现状
+  - 别说"全靠教育" — 否认先天差异
+  - 接受先天倾向 + 提供高质量环境
+  - **基因不决定终点**,但**起点不同** —— 因材施教
+
+  ## 跟其他派别对比
+  - 鲍秀兰:偏 nurture 偏教育(早期智力开发)
+  - 蒙氏 / Lillard:nurture + nature 共同(prepared environment)
+  - 松田:nature 接受 + 不过度焦虑塑造
+  - NRC 综述:严格 GxE 共识
+
+key_facts:
+  - 错问题 = 先天 vs 后天
+  - 对问题 = 怎么交互
+  - 50/50 双胞胎研究
+  - epigenetics 现代立场
+
+related_glossary:
+  - G-PERSON-Shonkoff
+  - G-TERM-NRC
+  - G-TERM-temperament
+
+related_cards: []
+
+sources:
+  - source_id: SRC-025
+  - external: Plomin behavioral genetics + epigenetics literature
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,65 @@
+card_id: C-S0-1240
+stages: [S0]
+tags: [risk_prevention, selman, lerner_v4]
+
+front:
+  title: 预防分 3 级金字塔
+  hook: 预防 3 级看孩子
+
+back:
+  why_matters: |
+    Selman-Dray V4 Ch 10 风险与预防综述章。
+    **风险预防 3 级金字塔**(Selman 公共卫生模型):
+    - **普遍预防**(Universal):全部孩子都做(疫苗 / DAP 教育)
+    - **选择性预防**(Selective):风险群体(贫困 / 早产 / 单亲)
+    - **指标性预防**(Indicated):已有早期信号(语言迟 / 攻击行为 / 抑郁)
+    原则:**早 + 系统 > 晚 + 治疗**
+    - 治疗 1 个孩子 = 几十万
+    - 普遍预防成本 = 1/100
+    - 但需要政策推动,不是单家长
+    **Selman 视角**(独家):
+    - 预防 = 关系 + 价值观 + 自我反思
+    - 不只是"教技能",是"塑造关系认知"
+    意义:
+    - 中国家长不必每事都焦虑(普遍预防够)
+    - 但风险群体需要主动找选择性干预
+    - 早期信号不能拖跟现库:跟 Powell 早期干预(C-S0-1233)+ Cicchetti 4 原则(C-S0-1232)对接。
+    对中国家长意义:
+    - 普通家庭主要做普遍预防(亲子陪伴 + 健康饮食 + 反屏)
+    - 风险家庭(单亲/早产/移民)主动找资源
+    - 早期信号(2 岁不说话 / 4 岁不交往)立即介入
+  what_to_do:
+    - 普通家做普遍预防(陪伴+饮食+反屏)
+    - 风险家主动找选择性资源
+    - 早期信号别拖延
+    - 预防胜过治疗
+  failure_mode: |
+    "全焦虑全干预"— 错。3 级金字塔分层。
+    "等大了再说"— 错。早期信号拖 = 治疗成本翻倍。
+    "普通家不需要预防"— 错。普遍预防是底层。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Selman
+  - G-TERM-risk-prevention
+  - G-TERM-prevention-pyramid
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 4 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 4 卷"
+  authors: ['Robert L. Selman', 'Amy J. Dray']
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 10 · Selman-Dray · Risk and prevention pyramid · pp. 378-395"
+  source_id: SRC-029
+
+unit_ids: []
+related_cards:
+  - C-S0-1233     # Powell 早期干预 5 原则
+  - C-S0-1232     # Cicchetti 4 原则
+  - C-S0-619     # NRC 综述
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

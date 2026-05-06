@@ -1,0 +1,52 @@
+card_id: C-S6-1700
+stages: [S5, S6, S7]
+tags: [philosophy, gender, controversy, mainstream]
+front:
+  title: 性别中立教养 6 招(反对标签化)
+  hook: 别说"男孩穷养女孩富养" — 海蒂的反性别刻板 6 招。
+back:
+  why_matters: |
+    Phase B+C 完全无性别教养主题卡。
+    海蒂在 Part 5 Ch 16 单独有"性别培养"长节,
+    与中国主流的"男孩要勇敢/女孩要文静""穷养富养"立场对照鲜明。
+    海蒂承认天生差异(女宝注意人脸、男宝注意物体;肌肉/疼痛阈值/视听敏感度有差),
+    但反对家长强化刻板:
+    - "你是大孩子不能哭" + "妹妹哭就抱"
+    - 男孩只夸"你强壮",女孩只夸"你漂亮"
+    - 玩具按性别选(女不许玩车,男不许玩娃娃)
+    - "做爸爸=赚钱,做妈妈=带娃"的角色暗示海蒂目标:培养"无性别定向"的宝宝,长大按自身长处选择,而非传统期待。
+  what_to_do:
+    - 接受先天差异(平均差),但视宝宝为个体(差异大于性别均差)
+    - 玩具选择按宝宝兴趣,不按"男娃买车女娃买娃娃"
+    - 表扬话术多元化:女儿也可"你跑得真快""你解题真聪明"; 儿子也可"你照顾妹妹真温柔"
+    - 家务分配按能力兴趣,不按"做饭=妈妈/修水管=爸爸"
+    - 不评论"男孩不能哭"或"女孩要文静" — 情感表达不分性别
+    - 父母做榜样:跑步妈妈 + 做饭爸爸比 "玩娃娃培养教养型男孩"更有效
+  failure_mode: |
+    常见错误:
+    - 完全无视性别差异 → 海蒂不主张这个,平均差异是真的
+    - 强行让男孩穿粉色裙子证明"中性"→ 这是另一种刻板
+    - 看到女儿粗野就压制 → 压抑她的天性
+    - 看到儿子温柔就嘲笑"娘炮" → 严重伤害自尊
+    - "中国老人说男孩就是要野" → 把刻板包装成天性
+    - 玩具按性别完全分隔 → 错过不同维度的发展刺激
+  evidence_level: B
+glossary_refs: [G-TERM-gender-stereotypes-peak, G-TERM-gender-schema, G-TERM-gender-labeling]
+citation:
+  publisher_en: "Workman Publishing"
+  source_id: SRC-040
+  book_title_en: What to Expect the First Year
+  book_title_zh: 海蒂育儿大百科 0-1 岁
+  authors: ["Heidi Murkoff", "Sharon Mazel"]
+  publisher_zh: 南海出版公司
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh: [莫夏迪, 张敏]
+  chapter: Part 5 Ch 16 性别培养
+  page_zh: 493-494
+related_cards: []
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

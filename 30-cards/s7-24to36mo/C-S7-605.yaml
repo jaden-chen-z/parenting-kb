@@ -1,0 +1,48 @@
+card_id: C-S7-605
+stages: [S7]
+tags: [literacy, anti-early-reading, story-time]
+
+front:
+  title: 教字 vs 听故事不同
+  hook: 早识字不等于一生优势
+
+back:
+  why_matters: |
+    松田直击中国家长高频痛点:能记住字 ≠ 爱听讲故事,是两回事。
+    硬教娃认字 → 让娃喜欢看书 = 错的。
+    "早识字孩子一生有优势"是无依据。
+    特别喜欢听故事的孩子,3 岁能自己认字 — 是娃问字时教,不是家长硬塞。
+  what_to_do:
+    - 多讲故事不抢着教字
+    - 娃问字时再教
+    - 用画册不用识字卡
+    - 看不感兴趣的娃也别强求
+    - 选丰富画+生动文字的画册
+  failure_mode: |
+    妈"识字早开窍" → 闪卡训练 → 娃厌学 + 后续小学反不爱读书。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Matsuda
+
+citation:
+  book_title_zh: "定本《育儿百科》"
+  book_title_jp: "育児の百科(定本)"
+  authors: ["松田道雄"]
+  translators_zh: ["王少丽"]
+  publisher_zh: null
+  year: 1980
+  edition: "定本"
+  location: "第 396 节给孩子讲故事"
+  source_id: SRC-023
+
+unit_ids: []
+related_cards:
+  - C-S6-405  # Lansbury 鼓励幼儿说话:6 个真招
+  - C-S7-016  # Brazelton 2 岁三件大事:假装/认同/模仿
+  - C-S6-1072  # Stern 15-18 月语言自我启动
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

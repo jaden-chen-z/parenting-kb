@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Stattin
+type: person
+display_name: "Stattin(哈坎·斯塔丁)"
+
+full_name_en: "Håkan Stattin"
+full_name_zh: "哈坎·斯塔丁"
+
+position: |
+  Örebro University 社会学教授
+
+contribution: |
+  holistic-interactionistic + Magnusson 共著
+
+one_liner: |
+  哈坎·斯塔丁 — holistic-interactionistic + Magnusson 共著
+
+key_facts:
+  - "本卷章节:Ch 8"
+  - "Lerner V1 命中:80+ 次"
+  - "学派:Lerner V1 整体派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+    chapter: "Ch 8"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,58 @@
+card_id: C-S6-1069
+stages: [S6]
+tags: []
+
+front:
+  title: "158 天 vs 6 月"
+  hook: "差 1 个月怎么办"
+
+back:
+  why_matters: |
+    中国法律产假 158 天(约 5 月) — 比 WHO 推荐 ≥ 6 月理想短约 1 月。
+    影响:产假结束(5 月)+ 未到 EBF 6 月目标 → 妈妈两难。
+    WHO 立场对策:
+    ① 优先 EBF 6 月 → 产假末挤奶储奶(让娃 5-6 月用杯喝挤的奶)
+    ② 工作场所必须有哺乳室 + 弹性时间(中国劳动法支持)
+    ③ 产假可申请延长(单位政策 / 病假 / 弹性)
+    ④ Relactation(重新泌乳)— 即使中断也可恢复
+    ⑤ 配偶/家人帮助(送奶/接送)
+    瑞典 / 北欧产假 ≥ 12 月,中国 5 月差距大但仍可努力。
+  what_to_do:
+    - "产假 158 天但目标 EBF 6 月 — 挤奶补 1 月"
+    - "回工作前 2 周开始预存冷冻奶"
+    - "上班后挤奶 2-3 次/天"
+    - "争取工作哺乳室 + 弹性时间"
+    - "Relactation 是后路 — 即使中断可恢复"
+  failure_mode: |
+    产假结束就放弃 EBF 6 月 → 错过 5-6 月最后 1 月免疫保护期。
+    中国 158 天差 WHO 6 月 1 月 — 努力补上。
+  evidence_level: B
+
+glossary_refs:
+  - G-TERM-WHO-six-months
+  - G-TERM-relactation
+  - G-ABBR-WHO
+
+citation:
+  page_title: "WHO 6 Months EBF vs China 158 Days Maternity Leave"
+  publisher: "World Health Organization & UNICEF"
+  page_url_primary: https://www.who.int/news-room/questions-and-answers/item/breastfeeding
+  accessed: 2026-05-04
+  language: en
+  location: "WHO 6 月理想 vs 中国 158 天产假 + 工作妈妈对策"
+  source_id: SRC-031
+
+unit_ids: []
+related_cards:
+  - C-S6-1068
+  - C-S6-1064
+  - C-S2-1045
+  - C-S2-001
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_doc_id_pending: D1
+citation_followup_needed: '已映射真实 doc_id (D1 = WHO IYCF Fact Sheet)'

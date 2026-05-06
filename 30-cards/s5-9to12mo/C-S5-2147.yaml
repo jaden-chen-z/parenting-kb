@@ -1,0 +1,47 @@
+card_id: C-S5-2147
+stages: [S5]
+tags: [mainstream, feeding, milk]
+
+front:
+  title: 1 岁起换全脂牛奶
+  hook: 全脂不是低脂
+
+back:
+  why_matters: |
+    AAP 明确建议 12-24 月喝全脂牛奶(约 3.25% 脂肪),不要低脂或脱脂。前情:S5 准备从配方/母乳过渡。这阶段大脑髓鞘化高速期,需要高脂肪供能,牛奶脂肪是日常重要来源;选低脂会影响脑发育。每日量 480-720ml,过量挤占其他食物且导致缺铁。
+  what_to_do:
+    - 1 岁生日后逐渐换全脂牛奶
+    - 不要选低脂、脱脂、植物奶
+    - 每天 480-720ml,不超过 720ml
+    - 用学饮杯不用奶瓶喝
+  failure_mode: |
+    跟着减肥潮流给宝宝喝低脂奶,脑发育原料不足;或喝太多牛奶吃不下饭,几个月后查出缺铁性贫血。
+  evidence_level: A
+
+glossary_refs: [G-TERM-whole-milk-toddler, G-TERM-iron-deficiency-anemia]
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors:
+    - Heidi Murkoff
+    - Sharon Mazel
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh:
+    - 莫夏迪
+    - 张敏
+  location: "第 12 章第 12 个月, 页 488-492"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards:
+  - C-S5-2145
+  - C-S5-2154
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

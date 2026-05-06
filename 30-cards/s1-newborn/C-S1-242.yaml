@@ -1,0 +1,56 @@
+card_id: C-S1-242
+stages: [S1]
+tags: [cognitive_science, hearing, attachment]
+
+front:
+  title: 新生儿出生即识妈妈声音
+  hook: 子宫里听了 9 个月
+
+back:
+  why_matters: |
+    新生儿研究:出生当天就能区分"妈妈的声音"vs"陌生女声"— 转头偏向妈妈。
+    机制:子宫内最后 3 月,胎儿听到的是妈妈声音的低频部分(高频被腹壁过滤)。
+    9 个月每天听 → 出生即识。
+    DeCasper 1980 经典实验:孕晚期妈妈每天读《戴帽子的猫》给胎儿听
+    → 出生后,新生儿听这本书时吸吮节奏比听别的故事快(用吸吮表"喜欢")。
+    Gopnik 解读:新生儿不是空白,出生就带着 9 个月数据进入世界。
+    对中国家长意义:
+    - 孕期跟胎儿说话不是迷信,有研究证据
+    - 新生儿哭闹时妈妈声音最有效(子宫记忆)
+    - "他还小听不懂"= 错。从子宫开始一直在收集数据实操:抱着宝宝时多说话,声音是建立联结的捷径。
+  what_to_do:
+    - 孕晚期每天跟胎儿说话 / 唱歌 / 读书
+    - 哭闹时优先用妈妈声音安抚(不只是抱)
+    - 不要对新生儿沉默(他识声但需输入)
+    - 爸爸用低沉缓慢的声音,跟妈妈频段配合
+  failure_mode: |
+    "他听不懂,沉默喂奶就行" — 错。声音是认知输入。
+    妈妈情绪不好时把宝宝交给保姆 — 错。妈妈声音不可替代。
+    孕期不跟胎儿说话 — 错过 9 个月数据采集窗。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Gopnik
+  - G-PERSON-Kuhl
+  - G-TERM-baby-scientist
+  - G-TERM-statistical-learning
+
+citation:
+  book_title_en: "The Scientist in the Crib"
+  book_title_zh: "摇篮里的科学家"
+  authors: ["Alison Gopnik", "Andrew N. Meltzoff", "Patricia K. Kuhl"]
+  publisher_en: William Morrow
+  year: 1999
+  location: "Chapter 2 · What Newborns Know · DeCasper studies"
+  source_id: SRC-015
+
+unit_ids: []
+related_cards:
+  - C-S1-241       # 42 分钟模仿(同新生儿能力)
+  - C-S2-013       # 鲍秀兰母婴交谈链
+  - C-S1-122       # Bowlby 依恋前奏
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

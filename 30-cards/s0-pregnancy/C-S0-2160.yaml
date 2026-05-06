@@ -1,0 +1,36 @@
+card_id: C-S0-2160
+stages: [S0]
+tags: [postpartum, mom, pregnancy, safety]
+front:
+  title: 12 周内意外再孕的识别
+  hook: 乳汁突然减少要警惕
+back:
+  why_matters: |
+    前情:产后哺乳期没来月经又恢复性生活,可能已意外受孕。
+    海蒂明确产后第一个排卵就在月经前发生。哺乳妈妈如果突然乳量明显下降、宝宝怎么吸都不够、乳房不再胀,且最近无防护性生活,要警惕已再次怀孕——孕激素会抑制泌乳。
+  what_to_do:
+    - 乳量突然减少 + 无防护性生活就验孕
+    - 验孕棒可在最后一次性生活后 2 周用
+    - 阳性立刻找医生评估
+    - 决定继续妊娠就换孕期营养方案
+    - 不论决定如何都尽早检查
+  failure_mode: 把奶量下降归咎于宝宝厌奶或自己饮食,延误几周才发现已怀孕,孕检和孕期营养双双滞后。
+  evidence_level: B
+glossary_refs: [G-TERM-postpartum-recovery]
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors: ["Heidi Murkoff", "Sharon Mazel"]
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh: ["莫夏迪", "张敏"]
+  location: "第 23 章 《妈妈的第一年》, 页 689"
+  source_id: "SRC-040"
+related_cards: [C-S0-2156, C-S0-2157]
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

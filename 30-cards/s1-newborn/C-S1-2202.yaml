@@ -1,0 +1,41 @@
+card_id: C-S1-2202
+stages: [S1]
+tags: [care, hygiene]
+front:
+  title: 包皮环切术后护理
+  hook: 流脓正常凡士林防粘
+back:
+  why_matters: |
+    美国约 60% 男婴出生时做包皮环切术,文化习俗 + AAP 中性立场。
+    海蒂版给出术后细节 — 这块在国内书里几乎找不到,因为国内非主流。
+    术后 1-2 天会有少量出血、有黄色分泌物、伤口处液体渗出 — 这是身体自愈反应,不是感染。
+    第一天用双层尿布缓冲、防止大腿压伤口;医生通常用纱布包裹 + 凡士林防粘。
+    伤口完全愈合前(约 7-10 天)只能擦浴,不能盆浴。如果愈合后用肥皂水正常清洁即可。
+  what_to_do:
+    - 第一天双层尿布缓冲 + 不让大腿压到
+    - 换尿布时用干净纱布 + 凡士林/矿物油防粘
+    - 伤口愈合前只擦浴不浸水
+    - 愈合后用肥皂水正常清洗
+    - 看到红肿/恶臭/持续大出血就立刻就医
+  failure_mode: |
+    把术后正常的少量分泌物当感染恐慌,或者错过真感染征兆(红肿、发热、恶臭)。
+    伤口未愈合就盆浴 → 感染风险升高。
+  evidence_level: B
+glossary_refs: [G-TERM-circumcision]
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors: ["Heidi Murkoff", "Sharon Mazel"]
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh: ["莫夏迪","张敏"]
+  location: "第 5 章育婴入门 · 阴茎护理 / 第 6 章第一个月 · 包皮环切术的护理, 页 147-148, 194-195"
+  source_id: SRC-040
+related_cards: []
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

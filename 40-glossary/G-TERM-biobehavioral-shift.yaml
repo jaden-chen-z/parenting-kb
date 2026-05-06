@@ -1,0 +1,67 @@
+glossary_id: G-TERM-biobehavioral-shift
+type: term
+display_name: 第一次行为转折期(3-4 月)
+
+en_term: first biobehavioral shift
+zh_term: 第一次生物行为转折期
+
+one_liner: |
+  Emde 1976 提出 — 婴儿 3-4 月发生大转折,EEG / 注意 / 哭闹 / 睡眠 / 气质同时变化。
+  解释为什么 0-3 月最折腾 + 4 月起明显好转。
+  科学定理是任务最重(从子宫调节转为自我调节)— 不是宝宝难带或父母做错。
+
+detail: |
+  ## 概念由来
+  - Emde et al 1976 提出
+  - NRC Ch 5 引用为发展科学定理
+  - 解释 0-3 月跨文化普遍折腾
+
+  ## 转折期变化(3-4 月同时发生)
+  1. **EEG 脑电波模式变化**(Emde 1976)
+  2. **视觉注意力规律化**(Rothbart 1994)
+  3. **哭闹高峰**(6-8 周)开始下降
+  4. **气质开始稳定**(4 月起 trait 可读 — Kagan 经典)
+  5. **睡眠时长稳**(14-15 小时 / 天 + 整夜睡延长)
+  6. **哺乳节律稳**
+
+  ## 含义
+  - **0-3 月是 "intrauterine → extrauterine transition"** —
+    宝宝从"妈妈身体调节他"过渡到"自己身体调节自己"
+  - 这 3 个月最折腾不是因为"宝宝不正常"
+  - 是**任务最重**:体温 / 睡醒 / 哭闹 / 进食 / 排便 — 全都从子宫帮做转自己做
+  - **4 月起会突然好转** — 撑过去就行
+
+  ## 跟其他派别衔接
+  - Brazelton "触摸点" — 退步 + 整合 + 跃迁三段式
+  - Wonder Weeks — 心理跃迁(虽 WW 起点更早)
+  - Stern — emergent self → core self 转折
+  - Karp 第四产程(出生 12 周后才稳)
+  - 松田 — 1-3 月是 "保持温度 / 锻炼 / 集体保育" 起步期
+
+  ## 中文家长含义
+  - 前 3 月最累不是你做错了
+  - 4 月起会自然好转 — 撑过去就行
+  - 别在 0-3 月轻易给"难带"标签
+  - 4 月起气质才稳定 — 这时再判断
+
+key_facts:
+  - Emde 1976 提出
+  - 3-4 月同时多系统变化
+  - intrauterine → extrauterine 调节转折
+  - NRC Ch 5 引用
+
+related_glossary:
+  - G-PERSON-Shonkoff
+  - G-TERM-self-regulation
+  - G-TERM-temperament
+
+related_cards: []
+
+sources:
+  - source_id: SRC-025
+  - external: Emde et al 1976
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

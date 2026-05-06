@@ -1,0 +1,56 @@
+card_id: C-S5-450
+stages: [S5]
+tags: [feeding, new-foods]
+
+front:
+  title: "新食物 30 次再试"
+  hook: "不是 3 次拒绝就放弃"
+
+back:
+  why_matters: |
+    Magda Ch7 经典实操:
+    新食物对宝宝是"异国食物" — 第一次拒绝是正常。
+    重新 introduce 30 次后,可能从抗拒变最爱 —
+    关键是**不要 3-4 次就放弃**。
+    Magda 比喻:你出去吃外国餐,第一口可能不喜欢 —
+    但第 10 次第 20 次吃后,可能爱上。
+    跟 Karp 4S + AAP 多次接触一致。
+
+  what_to_do:
+    - 一次只 introduce 1 种新食物,持续 2 周
+    - 拒绝时不强迫,过几天再 introduce
+    - 30 次累计后再决定他真不爱
+    - 选他饿渴时介绍新食物,接受度高
+    - 不奖励吃("吃完有糖") — 反而毁内在动机
+
+  failure_mode: |
+    "他试 3 次都不吃以后再不给" → 标签"挑食",可能错过他本来会爱的食物。
+    Magda 原话:"30 次后才算他真不爱"。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+
+citation:
+  book_title_en: "Your Self-Confident Baby"
+  book_title_zh: "自信的宝宝"
+  authors:
+    - Magda Gerber
+    - Allison Johnson
+  publisher_en: John Wiley & Sons
+  year: 1998
+  location: "Ch7 Trying New Foods(整节 + 30 次比喻)"
+  source_id: SRC-022
+
+unit_ids: []
+related_cards:
+  - C-S5-448  # Magda 矮桌矮椅(本卷)
+  - C-S2-345  # Magda 可预测胜新奇(本卷)
+  - C-S5-135  # Davies 心理大礼
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

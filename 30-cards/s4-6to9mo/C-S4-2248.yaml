@@ -1,0 +1,48 @@
+card_id: C-S4-2248
+stages: [S4]
+tags: [safety, red_flag]
+
+front:
+  title: 眼外伤:不揉不压 + 化学冲 15 分
+  hook: 异物冲水 / 钝伤冰敷
+
+back:
+  why_matters: |
+    眼睛伤无小事 — 角膜划伤、化学烧灼、钝伤都可能影响视力终生。
+    海蒂铁律:**不施压、不揉、未经医嘱不滴眼药水**。给宝宝拿杯子限制双手以防自抠。
+    **化学物入眼:温水冲 15 分钟全程不停**(冲单眼时未受影响眼放高位防交叉)。
+    异物 / 划伤 / 钝伤都需要眼科评估,**外观看着轻不代表真没事**。
+  what_to_do:
+    - 任何眼伤都让宝宝拿杯子(转移手以防揉)
+    - 异物可见在眼白 / 下眼睑:湿棉球轻拭远离瞳孔
+    - 化学品入眼:温水冲 15 分钟,头转向使受影响眼低位
+    - 钝器伤:冰袋敷 15 分钟(隔布,不直接皮肤)
+    - 看东西模糊 / 持续揉眼 / 高速碰撞 → 立刻眼科
+  failure_mode: |
+    用手揉异物入眼 → 划伤角膜。
+    化学品入眼冲不到 15 分钟就停 → 残留持续烧。
+    自己滴眼药水"消炎" → 错过角膜划伤诊断 + 部分药物加重。
+    "孩子眼黑了过一天就消" → 漏掉视网膜出血或眼眶骨折。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-AAP
+
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1 岁"
+  authors: [Heidi Murkoff, Sharon Mazel]
+  publisher_en: Workman Publishing
+  publisher_zh: 南海出版公司(新经典发行)
+  year: 1989
+  edition: 3rd (2014)
+  location: "第 19 章《急救常识》'眼外伤 22-25',576-577 页中译"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards: []
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

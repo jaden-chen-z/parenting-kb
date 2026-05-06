@@ -1,0 +1,89 @@
+card_id: C-S8-215
+stages: [S8]
+tags: [shonkoff, nrc, intervention_principles, framework]
+
+front:
+  title: "干预成功 3 要素"
+  hook: "对 + 接受 + 实施好"
+
+back:
+  why_matters: |
+    NRC 综述 Ch 13 总结所有早期干预数据 — 成功 3 要素:
+    **NRC 立场**(综述式权威):
+    成功的早期干预 = **对 + 接受 + 实施好**
+    1. **strategy soundness 方法对** — 选了科学支持的方法
+    2. **acceptability 接受** — 家庭愿意 + 能配合
+    3. **implementation quality 实施好** — 老师 / 家访人员真做到
+    **任一缺失 = 失败**:
+    - 方法对 + 实施差 → 失败
+    - 实施好 + 家庭抗拒 → 失败
+    - 家庭乐意 + 方法错 → 失败
+    **NRC 含义对家庭**:
+    - 不只是选"流行的"育儿派
+    - 看你是否真信(否则做不到)
+    - 看你是否真做到(否则没用)
+    **对中国家长**:
+    - 别盲选"美式 / 日式 / 蒙氏 / 鲍秀兰" — 选你能持续的
+    - 你不信的派别 → 即便科学支持也实施不好
+    - 一致 + 持续 + 真做到 → 任何派别基本都健康
+    - "今天蒙氏 + 明天虎妈 + 周末送早教" → 实施差 → 没用
+    **关键**:
+    - 选 1-2 个你认同的派别
+    - 真持续做到
+    - 别盲跟潮
+  what_to_do:
+    - 选你能持续的派
+    - 一致比多变重要
+    - 真做到不只读
+    - 别盲跟潮流
+    - 1-2 派深做不广撒
+  failure_mode: |
+    "今天看到蒙氏好就改 / 明天看 RIE 好又改" — 多变 → 实施差 → 孩子混乱。
+    "我都报 — 蒙氏 + 鲍秀兰 + Karp" — 矛盾 → 实施 0。
+    "派对了就行 — 我做不到不要紧" — 错,实施是关键。
+  evidence_level: A
+
+  positions:
+    issue: 0-3 岁需要哲学结构(蒙氏 prepared)还是科学共识(NRC 6 原则)
+    views:
+      - school: Shonkoff / NRC
+        source: SRC-025
+        stance: 系统化早期干预(Perry / Abecedarian RCT)— 主要针对高风险家庭(贫困 / 抑郁 / 单亲)。
+      - school: Lillard(蒙氏)
+        source: SRC-016
+        stance: 介于二者之间 — 有 prepared environment(结构),但 follow the child(不强加)。
+      - school: Davies
+        source: SRC-014
+        stance: 蒙氏 0-1 岁实操(floor bed / topponcino 等),实操优先,哲学不僵化。
+      - school: Lansbury / RIE
+        source: SRC-019
+        stance: 自由探索,反对结构化干预;父母提供安全 + 不打扰即可。
+      - school: 互补结论
+        stance: NRC 跟蒙氏可同时用 — 蒙氏给实操,NRC 给科学校准;NRC 反"过度结构化"非反 prepared 本身。
+      - school: Lansbury / Gerber RIE
+        source: SRC-019/022
+        stance: 不打扰 + 自由探索 + Quality time 短就够;反对系统化干预介入正常家庭。
+      - school: 适用建议
+        stance: 普通家庭偏 RIE(高质量陪伴);高风险家庭(贫困 / 妈妈抑郁)需 NRC 推荐的系统干预。
+glossary_refs:
+  - G-PERSON-Shonkoff
+  - G-TERM-NRC
+
+citation:
+  book_title_en: "From Neurons to Neighborhoods"
+  authors: ["Jack P. Shonkoff", "Deborah A. Phillips"]
+  org: "NRC/IOM"
+  year_en: 2000
+  location: "Ch 13 · Intervention success principles"
+  source_id: SRC-025
+
+unit_ids: []
+related_cards:
+  - C-S0-622    # Shonkoff NRC 6 原则(本卷)
+  - C-S0-619    # Shonkoff 反早教 4 定理(本卷)
+  - C-S0-517    # 松田不焦虑育儿 SRC-024
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

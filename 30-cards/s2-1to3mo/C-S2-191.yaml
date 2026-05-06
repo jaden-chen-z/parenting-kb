@@ -1,0 +1,72 @@
+card_id: C-S2-191
+stages: [S2]
+tags: [self, milestone, china_high_freq]
+
+front:
+  title: 2 月跃迁启动核心自我
+  hook: 2 月自我整合启动
+
+back:
+  why_matters: |
+    Stern 跟所有婴儿研究者一致 — **2 月是宝宝的"质性跃迁"(qualitative shift)**:行为 + 大脑 + 自我感**同时**改变,跟出生几乎同等重要。
+    **2 月跃迁的可观察标志**(7 个研究者一致):
+    - **眼神接触** — 直接对眼,不再"飘"
+    - **应答性微笑** — 你笑他笑(不只是"satisfied smile")
+    - **咕咕声** — 主动发声
+    - **学习速度大幅加快**
+    - **视觉扫描模式改变**
+    - **EEG 重大变化**
+    - **昼夜激素 + 睡醒周期稳定**
+    - **运动模式成熟**
+    Stern 解释 — 这一系列变化背后是 **新生自我 → 核心自我 的过渡** 启动:
+    - 之前(0-2 月):宝宝在"组装"自我感(新生)
+    - 跃迁后(2-6 月):**整合的自我感**开始形成 — 4 个核心体验(self-能动性 / 连贯性 / 情感性 / history)
+    - 父母会感到"宝宝突然变了一个人" — 不只是新行为,是**整体在场感**变了
+    **对中国家长的核心信息**:
+    - 2 月这次跃迁意味着宝宝**已是"完整的人"**(虽然仍依赖)
+    - 你跟宝宝的互动方式必须升级 — 之前主要是物理调节,现在加 社交 方面
+    - 错过这个跃迁的回应窗 → 后期 核心自我 4 体验受损
+    **跟其他理论对照**:
+    - 奇迹周 第 2 跃迁(8 周):同一个时间点,WW 描述行为,Stern 解释心理
+    - Brazelton 2 月 触摸点:同一时间,Brazelton 描述发育里程碑,Stern 解释自我感
+    - Mahler 共生期:Stern 反对(宝宝不"融合",是开始整合自我)
+  what_to_do:
+    - 2 月起把宝宝当"社交伙伴"而非"被照顾对象"
+    - 每天 face-to-face 互动 30+ 分钟
+    - 注意宝宝"主动眼神接触"信号
+    - 回应宝宝咕咕声(对话节奏)
+    - 解读宝宝表情(他在表达感受)
+  failure_mode: |
+    "2 月跃迁后宝宝就该自己玩了" — 错。2 月跃迁让宝宝**进入**密集社交期(2-6 月是终生最社交期),要更多 face-to-face 不是更少。
+    错过 2 月跃迁的密集回应 → 核心自我 4 体验底子薄。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Stern
+  - G-TERM-emergent-self
+  - G-TERM-core-self
+
+citation:
+  book_title_zh: "婴儿的人际世界"
+  book_title_en: "The Interpersonal World of the Infant"
+  authors: ["Daniel N. Stern"]
+  authors_zh: ["丹尼尔·斯特恩"]
+  publisher_en: "Basic Books"
+  year_en: 1985
+  isbn_en: "978-0-465-09559-9"
+  location: "Ch 3 + Ch 4 · 2-month qualitative shift"
+  publisher_zh: "华东师范大学出版社"
+  year_zh: 2017
+  translator_zh: ["刘旭东"]
+  source_id: SRC-018
+
+unit_ids: []
+related_cards:
+  - C-S0-015       # Stern 4 senses of self
+  - C-S2-121       # Wonder Weeks 8 周第二跃迁
+  - C-S2-186       # Lillard 说话慢 + 等回应
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

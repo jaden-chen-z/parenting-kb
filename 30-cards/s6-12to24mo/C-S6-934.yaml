@@ -1,0 +1,68 @@
+card_id: C-S6-934
+stages: [S6]
+tags: [shonkoff, nrc, attention, focus, executive]
+
+front:
+  title: "注意力 1-3 岁练"
+  hook: "专注力慢慢练出来"
+
+back:
+  why_matters: |
+    NRC 综述 Ch 5 给"注意力调节(attention regulation)"作为自我调节的关键子能力:
+    **注意力发展时间线**(NRC 综述,引 Ruff-Rothbart 1996):
+    - **3-4 月**:外部刺激吸引注意(被动)
+    - **6-9 月**:能延长注视(15-30 秒)
+    - **12-18 月**:开始**主动**注意(选择看哪里)
+    - **2-3 岁**:能持续注意 5-10 分钟玩同一玩具
+    - **3-6 岁**:进入"sustained attention"窗口期
+    **NRC 立场**:
+    - 注意力是**渐次发展**不是"会不会"二元
+    - 1-3 岁注意时长有限 — 别期待 30 分钟专注
+    - 屏幕(快剪辑 / 高刺激)→ **重塑注意力倾向短刺激**
+    - 真人玩具 / 自由玩耍 → 培养 sustained attention
+    **机制证据**:
+    - 注意力调节是渐次发展的核心子能力(Ruff-Rothbart 1996 in NRC Ch 5)
+    - 自由玩耍中"专注 5-10 分钟"→ 发展未来 sustained attention
+    📝 注:NRC 2000 出版,涉屏幕/ADHD 风险的 Christakis 2004 研究是 NRC 后的工作,
+    本卡核心引 Ruff-Rothbart;屏幕/ADHD 进一步证据见 C-S2-807(Shonkoff Center 后续工作)。
+    **对中国家长**:
+    - 别期待 1 岁宝宝坐 30 分钟看书
+    - 5-10 分钟专注玩玩具 = 1-2 岁正常
+    - 屏幕短刺激 → 重塑大脑求短刺激
+    - 真人玩耍 + 阅读 + 户外 → 培养 sustained attention
+    - 闹腾不是 ADHD — 大多是发展正常跟 Lansbury 不打断 + 蒙氏 cycle of activity 一致。
+  what_to_do:
+    - 别强求长时间专注
+    - 5-10 分钟正常
+    - 减屏幕短刺激
+    - 多自由玩耍
+    - 别贴 ADHD 标签
+  failure_mode: |
+    "他 2 岁不能坐着看书 — 注意力差" — 错,2-3 岁 5-10 分钟专注是正常。
+    "屏幕动画就是给宝宝看的" — 错,快剪辑可能损害 sustained attention 发展。
+    "他闹是 ADHD" — 错,大多 1-3 岁闹腾是 PFC 还在长。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Shonkoff
+  - G-TERM-attention-regulation
+  - G-TERM-self-regulation
+
+citation:
+  book_title_en: "From Neurons to Neighborhoods"
+  authors: ["Jack P. Shonkoff", "Deborah A. Phillips"]
+  org: "NRC/IOM"
+  year_en: 2000
+  location: "Ch 5 · Ruff-Rothbart attention regulation"
+  source_id: SRC-025
+
+unit_ids: []
+related_cards:
+  - C-S6-928    # Shonkoff tantrum PFC(本卷)
+  - C-S2-807    # Shonkoff 0-2 不开屏(本卷)
+  - C-S6-186    # Lillard cycle of activity SRC-016
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

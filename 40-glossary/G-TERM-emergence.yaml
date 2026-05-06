@@ -1,0 +1,28 @@
+glossary_id: G-TERM-emergence
+type: term
+display_name: "涌现 / emergence"
+
+name_en: "emergence"
+name_zh: "涌现"
+
+description: |
+  系统达到一定复杂度后涌现出无法从组件预测的新属性。
+  应用 — 走 / 说 / 自我意识 都是涌现,不是预设。
+
+one_liner: |
+  涌现(emergence)— 系统达到一定复杂度后涌现出无法从组件预测的新属性。
+
+key_facts:
+  - "Lerner V1 元理论卷核心术语"
+  - "学派:Lerner V1 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

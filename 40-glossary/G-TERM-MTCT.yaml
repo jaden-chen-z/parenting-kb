@@ -1,0 +1,53 @@
+glossary_id: G-TERM-MTCT
+type: term
+display_name: "MTCT 母婴垂直传播"
+
+en_term: "Mother-to-Child Transmission"
+zh_term: "母婴垂直传播"
+
+one_liner: |
+  MTCT = HIV/HBV 等病毒从妈妈传给娃的途径(产前/产中/母乳)。
+
+detail: |
+  ## 定义
+  Mother-to-Child Transmission — 母亲传染病(HIV / HBV / 梅毒等)垂直传给婴儿的途径。
+  
+  ## 3 大途径
+  - 产前(intrauterine,经胎盘)
+  - 产中(intrapartum,经产道)
+  - 产后(postnatal,经母乳)
+  
+  ## HIV MTCT 数据
+  - 不 ART:总 MTCT 30-45%
+  - 母乳 MTCT 5-20%(累积 24 月)
+  - ART 下:< 1-2%(高资源区几乎消除)
+  
+  ## WHO 2010 立场转变
+  - 旧:HIV+ 妈妈避免母乳
+  - 新:AFASS 评估
+    - 满足 → 用配方
+    - 不满足 → EBF + ART
+  
+  ## 中国 PMTCT
+  中国 PMTCT(Prevention of MTCT)国家项目自 2010s 推广。
+
+key_facts:
+  - "3 途径:产前/产中/产后"
+  - "HIV 不 ART 总 MTCT 30-45%"
+  - "ART 下 < 1-2%"
+
+related_glossary:
+  - G-TERM-PMTCT
+  - G-TERM-HIV-feeding
+  - G-TERM-AFASS
+
+related_cards:
+  - C-S1-1013
+
+sources:
+  - source_id: SRC-031
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

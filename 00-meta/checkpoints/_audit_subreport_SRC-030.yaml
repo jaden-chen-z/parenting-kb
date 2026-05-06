@@ -1,0 +1,36 @@
+source_id: SRC-030
+total_cards: 95
+totals_per_issue:
+  wrong_evidence_level: 43   # 95 张中 ~45% 标 A,但元理论本身不是实证发现
+  xueque_tone: 8
+  hook_descriptive: 6
+  tag_misuse: 8              # 大量观点性 tag(anti_X)非规范分类
+  missing_citation_field: 7  # 章节简写缺副标题
+  missing_glossary_refs: 9
+  broken_related_ref: 1
+  total_intrinsic: 82
+  intra_source_dedups_L2: 12
+  intra_source_dedups_L3: 2
+key_issues_p1:
+  - {card_id: 43_cards, type: wrong_evidence_level, severity: P1, fix: 元理论本身不是实证发现,Overton/RDS/Lerner 等概念框架应 B 或 philosophy 级}
+  - {card_id: C-S6-1500, type: tag_misuse, severity: P2, fix: tag swaddle_dilemma 是临时术语,改 controversy/philosophy/metatheory}
+  - {card_id: 8_cards, type: tag_misuse, severity: P2, fix: anti_critical_period/anti_genetic_determinism/anti_white_middle_class 等观点性 tag 非规范}
+intra_source_dedups_summary:
+  - "PYD 5C 集群 10 张:C-S0-1522 + C-S0-1553 + C-S6-1505 + 7 张 stage 应用 — C-S6-1505 vs C-S8-1145 几乎重复"
+  - "Dynamic systems 集群 11 张:C-S2-1502 走步 vs C-S5-1643 走步 重复"
+  - "Cultural psychology 集群 5 张:C-S6-1506 vs C-S8-1138 中国娃不是落后 重复"
+  - "Spencer identity 集群 4 张:C-S6-1510 vs C-S7-1610 仅差 1 年龄段"
+  - "Powell 干预 6 张:5 原则总论 + 5 stage 应用反复"
+  - "Bornstein 5 张:specificity/continuity 反复"
+  - "Bronfenbrenner 5 系统 9 张:S0/S2/S6/S8 各段拆分,合理设计"
+  - "Brandtstadter 行动 4 张:assimilation/accommodation"
+  - "Elder life course 5 张:linked lives/timing"
+  - "anti-genetic-determinism 5 张:Gottlieb/Lickliter/反测试/nature×nurture"
+  - "developmental science/RDS 5 张:1535/1536 重叠"
+  - "C-S0-1125 vs C-S8-631 同主题不同段:'10 本书 10 派别'"
+notes: |
+  Lerner V1 元理论卷,任务书 hotspot 4 (NRC × Lerner) 警告精准 — 内部 dedup 集群 12 个 L2。
+  最大问题:43 张评级偏高(理论框架/学派分类/哲学命题应 B 而非 A)。
+  优点:无 L1 真重复;白话度整体良好(8 处学究腔集中在 Overton 入门 + Werner/Baldwin/A-not-B);
+  glossary_refs 全部 95 张用 v3.5 规范,无 inline 展开;所有 failure_mode 均填。
+  Cross-source 必查:Bronfenbrenner / dynamic systems / lifespan 等命题在 SRC-025 NRC 重叠概率极高。

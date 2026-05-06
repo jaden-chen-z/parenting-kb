@@ -1,0 +1,57 @@
+glossary_id: G-PERSON-Ferber
+type: person
+display_name: Ferber
+full_name_en: "Richard Ferber"
+full_name_zh: "理查德·法伯"
+
+one_liner: |
+  美国波士顿儿童医院睡眠中心创始人,睡眠训练'渐延法'(Ferber method)发明者,海蒂书引用为睡眠倒退首选方案之一。
+
+detail: |
+  ## 身份背景
+  Richard Ferber(1944- ),美国儿科医生、儿童睡眠研究者,
+  哈佛医学院助理教授,波士顿儿童医院儿童睡眠紊乱中心
+  (Center for Pediatric Sleep Disorders)创始人(1978)。
+
+  ## 代表作
+  《Solve Your Child's Sleep Problems》1985 年初版,2006 修订版。
+  美国销量超 100 万册,被简称为"Ferberizing"或"Ferber method"。
+
+  ## Ferber 法核心
+  - **渐进式延迟回应法**(graduated extinction):
+    宝宝哭闹时不立即抱起,**逐次延长等待时间**(5/10/15 分钟),
+    避免完全不回应(纯 cry-it-out)的冷漠。
+  - **不是不抱**:每次延迟期满进房安抚 1-2 分钟(拍拍轻语),
+    但不抱起也不喂奶,重在让宝宝学会自我入睡。
+  - 适用月龄:海蒂书建议 4-6 月起,作为睡眠倒退期方案之一。
+
+  ## 争议
+  - 支持派(AAP 部分专家):有效率 80%+,3-7 天见效,
+    长期不影响依恋安全感(2016 年 Pediatrics RCT 证实)。
+  - 反对派(Sears 等亲密育儿派):"延迟回应"仍是 CIO 变体,
+    可能升高皮质醇、损伤依恋。
+  - **海蒂立场**:中性介绍,与椅子法、系统唤醒法并列,
+    家长按自身情况选择。
+
+  ## 与海蒂书关系
+  C-S3-2258(5 月睡眠倒退)直接引 Ferber 法为 4 种解决方案之一。
+  也是国内"睡眠咨询师"行业的核心方法学源头。
+
+related_glossary:
+  - G-TERM-cry-it-out
+  - G-TERM-anti-cry-it-out
+  - G-TERM-self-soothing
+  - G-TERM-sleep-cycle
+
+related_cards:
+  - C-S3-2258      # 5 月睡眠倒退,法伯/法伯改良
+  - C-S5-2152      # 睡前焦虑温和应对(Ferber 是其中一选)
+
+sources:
+  - source_id: SRC-040
+  - external: "Ferber R, Solve Your Child's Sleep Problems (1985, rev 2006)"
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,62 @@
+card_id: C-S6-613
+stages: [S6]
+tags: [autonomy, RIE, separation]
+
+front:
+  title: "1 岁说不是分离过程"
+  hook: "他在划清自己的边界"
+
+back:
+  why_matters: |
+    Magda《自信的宝宝》Ch8 §No! No! No!。
+    1-2 岁宝宝会突然爱说"不"。Magda 给经典案例:
+    冰淇淋店妈妈舔甜筒,问娃要不要,娃伸手拿来 + 说"不!"
+    Magda 解读:这不是真拒绝,是宝宝**在练习"我跟你不是一个人"** —
+    分离过程的语言版。
+    "大多数时候忽略 No 就好。这是会过去的口头发现期。
+    但要分辨:真不要 vs 享受说不。"
+    操作差别:
+    - 真不要(他实际抗拒):接受
+    - 享受说不(他还要做):不被绑架
+    Magda:"娃有的是时间精力跟你抬杠,你没有 — 留精力给重要的事。"
+
+  what_to_do:
+    - 大多数 No 直接忽略
+    - 不被"不"绑架:他想要还是不想要
+    - 不当"重大事件"处理
+    - 给 2 选项让他真选:"红还是蓝"
+    - 跟他确认理解:"你说不,但你又拿起了"
+
+  failure_mode: |
+    "娃说不就尊重他不强迫" → Magda 反:那他每次 No 都得逞 →
+    No 变武器。或"娃不能这么没礼貌"严管 → 反:1-2 岁说不是发展任务,
+    管它 = 反发展。Magda 中道:有的认真听,有的笑而过。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+  - G-TERM-respectful-parenting
+
+citation:
+  book_title_en: "Your Self-Confident Baby"
+  book_title_zh: "自信的宝宝"
+  authors:
+    - Magda Gerber
+    - Allison Johnson
+  publisher_en: John Wiley & Sons
+  year: 1998
+  location: "Ch8 §No! No! No!(p196-198)"
+  source_id: SRC-021
+
+unit_ids: []
+related_cards:
+  - C-S5-393  # Lansbury 黏人是健康
+  - C-S6-403  # Lansbury 限度+情绪并存
+  - C-S6-192  # Lillard No 永远 No
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

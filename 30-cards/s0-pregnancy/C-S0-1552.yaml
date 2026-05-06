@@ -1,0 +1,54 @@
+card_id: C-S0-1552
+stages: ['S0']
+tags: ['philosophy', 'lerner_v1', 'csikszentmihalyi', 'neoteny', 'lifelong_play']
+
+front:
+  title: "人是终生玩家物种"
+  hook: "童心是进化的优势"
+
+back:
+  why_matters: |
+    Csikszentmihalyi(Ch 9)借生物学 neoteny 概念 — 人是动物界 neoteny 最强物种。
+    neoteny = 保留幼年特性进入成年(玩 / 好奇 / 学习能力)。
+    意义 —
+    - 黑猩猩 5 岁 + 就 "成年化",失去玩 / 探索动力
+    - 人 5 岁 50 岁都能玩 / 学 / 好奇 — 这是进化优势
+    - 老人有童心 — 不是退化,是 neoteny 完整保留
+    - 父母自己也要保 neoteny — 跟娃一起玩是双向收益中国家长意义 — "成熟"不是去除童心,是把童心 + 责任结合。
+    - 不必教娃"早成熟"(剥夺 neoteny = 剥夺学习能力)
+    - 父母自己保童心(跟娃一起好奇 / 玩 / 学)
+    - 老人保童心 — 鼓励别压制意义 — neoteny 是 flow + 终生学习能力的根基。
+  what_to_do:
+    - "不教娃'早成熟' — 保 neoteny"
+    - "父母自己保童心(跟娃一起玩)"
+    - "老人有童心鼓励别压"
+    - "'成熟' = 童心 + 责任"
+    - "neoteny = 终生学习根基"
+  failure_mode: |
+    "教娃早成熟" 立场 — 剥夺 neoteny = 剥夺学习能力。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Csikszentmihalyi
+  - G-TERM-neoteny
+  - G-TERM-flow-theory
+
+related_cards:
+  - C-S0-1527
+  - C-S0-1517
+  - C-S6-1507
+  - C-S0-722
+
+citation:
+  source_id: SRC-030
+  source_title: "Handbook of Child Psychology Vol 1: Theoretical Models of Human Development"
+  chapter: "Ch 9 Csikszentmihalyi & Rathunde"
+  chapter_offset: 2507393
+  chapter_title: 'Rathunde & Csikszentmihalyi — Optimal Experience / Flow'
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_followup_needed: 'SRC-030 用 PDF 字节偏移代页码 — 待加 page_pdf 反查工具'

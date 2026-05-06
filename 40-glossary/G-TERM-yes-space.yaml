@@ -1,0 +1,73 @@
+glossary_id: G-TERM-yes-space
+type: term
+display_name: 可探索区 (yes space)
+
+full_name_zh: 可探索区 / "可以"空间
+full_name_en: Yes Space
+
+one_liner: |
+  RIE / 蒙氏共用的环境概念。一片对宝宝完全安全 + 父母不需要说"不"的物理空间,让宝宝自由爬 / 站 / 拿 / 探索,父母不必持续干预。
+  最早由 RIE 创始人 Magda Gerber 提出,蒙氏借用并发展。
+
+detail: |
+  ## 定义
+  Yes space = 父母在房间里圈出一片或一个房间,做到:
+  1. 全部物品对宝宝安全(不会噎 / 不会破 / 无尖角 / 无电线)
+  2. 全部物品宝宝可以自由触摸 / 拿 / 探索
+  3. 父母完全放心,不需要每隔 30 秒说"别动"
+  4. 宝宝在这里能玩到主动喊出来,而非被一直打断
+
+  ## 来源
+  - **Magda Gerber**(RIE 创始人,1910-2007)首先命名
+  - 蒙氏借用,在 0-3 岁体系里普及
+  - 现已成跨流派(RIE / 蒙氏 / 部分 AAP 立场)共享术语
+
+  ## 与传统设计的对比
+  | 传统 | yes space |
+  |---|---|
+  | 客厅装饰好看(对成人) | 宝宝高度全部安全 |
+  | 围栏 / playpen 关住宝宝 | 把房间打造成"开放笼" |
+  | 父母全程喊"别拿" | 父母可放心走开 30 分钟 |
+  | 宝宝学到"环境危险" | 宝宝学到"我能自主" |
+
+  ## 物理设置清单
+  1. **拿走**或**藏起**:有线 / 易碎物 / 化学品 / 重物
+  2. **固定**:书架贴墙,防倾倒
+  3. **铺**:动作毯(movement mat)给柔软爬区
+  4. **低**:活动放低货架,宝宝自取
+  5. **少**:出 5-6 个活动,其他存起来轮换
+  6. **真物**:用真碗 / 真镜 / 真植物(蒙氏特色,不用塑料)
+
+  ## yes space ≠ 婴儿围栏(playpen)
+  - playpen 是把宝宝**关在小空间**
+  - yes space 是把**整片房间**打造成可探索
+  - 蒙氏直接反对 playpen — "为成人方便,不为孩子"
+
+  ## 父母心理收益
+  - 不用持续紧盯
+  - 不用反复说"不"破坏关系
+  - 宝宝建立"环境是友好的"信任(Bowlby 内在工作模型)
+  - 宝宝建立"我能"的自我效能
+
+key_facts:
+  - RIE 创始人 Magda Gerber 命名
+  - 蒙氏 / RIE 跨流派共享术语
+  - 全屋或局部圈出,全部安全 + 全部可碰
+  - 替代 playpen 而非配套
+  - 父母心理负担大幅降低
+
+related_glossary:
+  - G-PERSON-Davies
+  - G-TERM-prepared-environment
+  - G-TERM-secure-base
+
+related_cards: []
+
+sources:
+  - source_id: SRC-014
+  - external: Magda Gerber《Your Self-Confident Baby》/ RIE 官网
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

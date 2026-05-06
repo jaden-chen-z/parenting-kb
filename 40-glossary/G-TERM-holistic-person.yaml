@@ -1,0 +1,28 @@
+glossary_id: G-TERM-holistic-person
+type: term
+display_name: "整体人 / holistic person"
+
+name_en: "holistic person"
+name_zh: "整体人"
+
+description: |
+  Magnusson 立场 — 把 person 当整体单位,不是把人拆成"变量"分别测。
+  人是模式不是变量。
+
+one_liner: |
+  整体人(holistic person)— Magnusson 立场 — 把 person 当整体单位,不是把人拆成"变量"分别测。
+
+key_facts:
+  - "Lerner V1 元理论卷核心术语"
+  - "学派:Lerner V1 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

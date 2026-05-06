@@ -1,0 +1,48 @@
+glossary_id: G-TERM-nipple-confusion
+type: term
+display_name: "Nipple confusion 奶头错乱"
+
+en_term: "Nipple Confusion"
+zh_term: "奶头错乱"
+
+one_liner: |
+  母乳建立期(0-4 周)用奶嘴/奶瓶 → 干扰乳头吸吮模式 → 奶量减少。
+
+detail: |
+  ## 定义
+  Nipple confusion — 婴儿在母乳建立期接触奶嘴/奶瓶后,改变乳头吸吮模式,导致母乳吸吮效率降低。
+  
+  ## 机制
+  - 乳头吸吮:婴儿用舌头按压 + 吸吮 → 母乳分泌
+  - 奶嘴/奶瓶吸吮:被动流出,机制不同
+  - 婴儿混淆 → 不会有效吸乳头 → 母乳量减少
+  
+  ## BFHI 第 9 步立场
+  - 母乳建立期(0-4 周)避免奶嘴/奶瓶
+  - 必须用 → 用杯子/勺/注射器(spoon/cup feeding)
+  - 4 周后母乳稳定再考虑
+  
+  ## 跟 AAP/Karp 立场对照
+  - Karp(SRC-005):母乳建立后 3-4 周可用奶嘴(防 SIDS)
+  - AAP(SRC-006):3-4 周后可用
+  - BFHI(SRC-031):立场更严,能避就避
+
+key_facts:
+  - "0-4 周避免奶嘴/奶瓶"
+  - "BFHI 第 9 步立场"
+  - "比 AAP/Karp 更严"
+
+related_glossary:
+  - G-TERM-BFHI-10-steps
+
+related_cards:
+  - C-S1-1006
+  - C-S1-1018
+
+sources:
+  - source_id: SRC-031
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

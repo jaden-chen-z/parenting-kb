@@ -1,0 +1,62 @@
+card_id: C-S5-181
+stages: [S5]
+tags: [cognitive_science, imitation, memory, controversy]
+
+front:
+  title: 9 月延迟模仿 1 周还记
+  hook: 别"反正他不记得"
+
+back:
+  why_matters: |
+    Meltzoff forehead box 经典实验:
+    - 给 9 月宝宝看大人**用额头**碰盒子让盒子亮(不让宝宝试)
+    - 1 周后再带宝宝来,只给盒子,大人不演示
+    - "**宝宝立刻用额头碰盒子**(不用手)"
+    意义:9 月宝宝有**长期记忆 + 自发再现**能力。
+    Gopnik 解读:推翻"婴儿没记忆 / 反正不记得"的旧观念。
+    宝宝"看你做"的事,**1 周后能复制**。
+    含义延伸到行为:
+    - 你打骂他 1 周后他还记得,会复制(打人 / 骂人)
+    - 你温柔回应他 1 周后他还记得,会复制(温柔)
+    - 长期累积模式 → 性格 / 行为基线对中国家长意义:
+    - "他还小不记得,我吼几声没事" — 错。9 月起 1 周仍记。
+    - 不在宝宝面前激烈情绪表达 / 摔东西 / 互相指责
+    - 你做什么比你说什么重要 100 倍
+    - 暴力 / 焦虑被宝宝学走(Bowlby + Wonder Week + Gopnik 三派一致)
+    **注**:延迟模仿在 9 月+ 较稳健(Meltzoff 1988 forehead box 复制结果较好),但新生儿模仿仍存复制争议(见 C-S1-241)。"1 周仍记得"在不同实验差异较大,核心结论"婴儿能延迟模仿"是稳固的。
+  what_to_do:
+    - 自己情绪不好先离开房间几分钟
+    - 不在宝宝面前激烈情绪表达
+    - 想他温柔,自己先温柔(每天每刻)
+    - 打骂教育别用 — 复制率高
+  failure_mode: |
+    "反正他不记得,这次破例吼一下" — 错。9 月起 1 周仍记。
+    打骂作为"教育手段" — 宝宝学到"暴力是合理的解决方式"。
+    在宝宝面前夫妻吵架 — 宝宝学到"亲密关系 = 冲突"。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Meltzoff
+  - G-PERSON-Gopnik
+  - G-TERM-imitation
+  - G-TERM-baby-scientist
+
+citation:
+  book_title_en: "The Scientist in the Crib"
+  book_title_zh: "摇篮里的科学家"
+  authors: ["Alison Gopnik", "Andrew N. Meltzoff", "Patricia K. Kuhl"]
+  publisher_en: William Morrow
+  year: 1999
+  location: "Chapter 2 · Andy's forehead box (deferred imitation)"
+  source_id: SRC-015
+
+unit_ids: []
+related_cards:
+  - C-S1-241       # Meltzoff 出生模仿
+  - C-S6-126       # Wonder Week 跃迁期不打不骂
+  - C-S2-183       # 你的情绪宝宝镜像
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

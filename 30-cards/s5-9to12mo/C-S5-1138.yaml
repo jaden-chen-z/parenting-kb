@@ -1,0 +1,63 @@
+card_id: C-S5-1138
+stages: [S5]
+tags: [cognitive_science, motor_development, adolph, lerner_v2]
+
+front:
+  title: 学走每天 1.5-9 千步
+  hook: 跌 17 次/小时正常
+
+back:
+  why_matters: |
+    Adolph 2003+ 系列研究(Lerner V2 Ch4 Adolph/Berger 主笔)。
+    精细统计学走儿数据:
+    - **每天行走 1500-9000 步**(中位 ~5000 步)
+    - **每小时跌倒 17 次**(平均)
+    - **学走前期(11-13 月)**累计跌数百次仍坚持练
+    - 1 岁累计行走相当于绕赤道几次的距离意义:
+    - 学走不是"几月学会就完了" — 是大量重复的运动学习
+    - 跌倒是常态,不是病态
+    - 这跟 Pikler 反"教翻坐爬站走"立场对接 — 婴儿自己练跟现库:Pikler SRC-026 不教大动作 + Lansbury 自然发育立场。
+    Lerner V2 给精细数据 + Adolph 实证基础。
+    跟 Brazelton "balance 跟 reach"触摸点对接。
+    对中国家长意义:
+    - 跌 17 次/小时 = 完全正常,不是孩子"笨"
+    - 不需要学步车 / 学步带 / 牵手
+    - 让孩子自由练 — 反而最有效
+    - 不要"看到要跌就拽住"(打断练习)
+    - 1 岁日均 5000 步 = 给足空间
+  what_to_do:
+    - 11 月起给宝宝大空间练(去掉障碍 + 软地)
+    - 不用学步车 / 不牵手过度
+    - 跌倒不抢救(无危险时)— 让他自己起
+    - 不焦虑"几月学会走"(范围 9-18 月正常)
+  failure_mode: |
+    "跌 17 次/小时是病" — 错。是正常学习量。
+    "学步车帮助学走" — 错。延缓 + 错运动模式。
+    "1 岁还不会走是落后" — 错。范围到 18 月。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Pikler
+  - G-PERSON-Brazelton
+  - G-PERSON-Adolph
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 2 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 2 卷"
+  authors: ["Karen E. Adolph", "Sarah E. Berger"]
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 4 · Walking experience · pp. 165-170"
+  source_id: SRC-028
+
+unit_ids: []
+related_cards:
+  - C-S5-016       # 鲍秀兰大动作
+  - C-S5-006       # AAP 大动作里程碑
+  - C-S6-957       # Pikler 不教站(SRC-026)
+  - C-S6-963       # Pikler 自然站起(SRC-026)
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

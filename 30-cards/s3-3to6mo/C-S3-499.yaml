@@ -1,0 +1,59 @@
+card_id: C-S3-499
+stages: [S3]
+tags: [caregiving, RIE, diapering, quality-time]
+
+front:
+  title: "尿布换是六千次仪式"
+  hook: "脏不脏从来不是关键"
+
+back:
+  why_matters: |
+    Magda《自信的宝宝》Ch3 §What Is 高质量陪伴? 经典数字。
+    Magda 算账:宝宝一辈子换尿布约 **6000 次**,喂奶更多。
+    这些不是杂活是"高质量陪伴 的天然机会"。
+    Magda 给两个尿布场景:
+    A 妈妈快快换:嫌脏 + 接电话 + 喊大孩子 → 完事
+    B 妈妈先告知 + 等眼神交流 + 慢拿用品 + 全程对话:
+      "你的尿布脏了,我要换。你能抬下小屁股吗?好,清理干净。"
+    A 在"对宝宝做事",B 在"跟宝宝合作"。
+    6000 次 × 哪种 = 终身关系奠基。
+
+  what_to_do:
+    - 换前:"我要换尿布,准备好了吗"
+    - 等 2-3 秒看宝宝眼神
+    - 解说每一步:"现在脱掉脏的"
+    - 邀请合作:"抬一下小屁股"
+    - 完事说:"我们一起做完了"
+
+  failure_mode: |
+    "急着出门顾不上慢" → Magda 反:急的话留 5 分钟 buffer 而不是省尿布步骤。或"娃这么小听不懂" → 反:习惯不是为现在,是为
+    1 岁后他自然合作不抗拒。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+  - G-TERM-respectful-parenting
+
+citation:
+  book_title_en: "Your Self-Confident Baby"
+  book_title_zh: "自信的宝宝"
+  authors:
+    - Magda Gerber
+    - Allison Johnson
+  publisher_en: John Wiley & Sons
+  year: 1998
+  location: "Ch3 §What Is Quality Time?(p41-44)"
+  source_id: SRC-021
+
+unit_ids: []
+related_cards:
+  - C-S1-353  # Lansbury 尿布是连接仪式
+  - C-S2-128  # Davies 等 3 秒回应
+  - C-S5-130  # Davies 1 岁前两份心理大礼
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

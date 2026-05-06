@@ -1,0 +1,51 @@
+card_id: C-S0-2055
+stages: [S0]
+tags: [philosophy]
+
+front:
+  title: 独立 vs 合伙 vs 团体诊所
+  hook: 一对一 vs 24 小时随叫
+
+back:
+  why_matters: |
+    儿科诊所有 3 种行医方式:独立医生(1 人)、合伙(2 人)、团体(3+ 人)。
+    海蒂的判断:没有最好的,只有最适合的 — 一对一关系强但休假找替班;团体 24 小时随叫但每次见不同人。
+    中国家长容易陷入"一定要找最有名的"误区,忽视了"能否每次见同一人"和"能否半夜联系上"是更日常的指标。
+  what_to_do:
+    - 想要紧密一对一关系 → 选独立医生
+    - 怕医生休假没人接班 → 选合伙(2 人)
+    - 想 24 小时随叫 → 选团体(3-5 人)
+    - 选合伙/团体必问:'每次能预约同一医生吗?'
+    - 团体诊所:接受'半数时间见副手'再签
+  failure_mode: |
+    选了团体诊所却以为'每次都能见到主治医生' → 副手/护士接诊时焦虑。
+    选了独立医生却没问'休假谁接班'→ 关键时刻找不到人。
+  evidence_level: C
+
+glossary_refs: []
+
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors:
+    - Heidi Murkoff
+    - Sharon Mazel
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh:
+    - 莫夏迪
+    - 张敏
+  location: "第 1 章临产前的准备 · 哪种行医方式最完美"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards:
+  - C-S0-2054
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

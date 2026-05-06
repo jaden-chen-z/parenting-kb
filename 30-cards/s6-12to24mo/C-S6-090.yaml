@@ -1,0 +1,58 @@
+card_id: C-S6-090
+stages: [S5, S6, S7]
+tags: [philosophy, controversy, red_flag]
+
+front:
+  title: 现代托儿所也救不了
+  hook: 20 个护士换着照顾
+
+back:
+  why_matters: |
+    Tizard 夫妇 1971 经典研究 — 把现代化托儿所(英国 1970s,有"特殊护士"特别关注的进步制度)
+    跟普通工人阶层家庭对比 30 个 2 岁孩子。结果令人深思:
+    - 托儿所孩子从 12 月入园起平均经历 **20+ 个不同护士照顾**(对比家庭儿童只 2 个)
+    - 实验当周内甚至有 6 个护士轮换
+    - 工作人员"消失几天 / 几周 / 永远"很常见托儿所孩子表现 vs 家庭儿童:
+    - **依恋行为更焦虑**(80% vs 43% 在照顾者离开时哭)
+    - **更怕陌生人**(50% 拒绝见陌生研究员 vs 只 13% 家庭组)
+    - 认知水平**落后家庭儿童 3 个月**
+    Bowlby 结论:**"无论结构多现代化,只要主依恋人不稳定,孩子的世界就是高度不可测的。"**
+    家长意义:选托班看的是**主带老师能否长期稳定 ≥ 1 年**,不是设施豪华。
+  what_to_do:
+    - 选托班看主带老师稳定性,不看硬件
+    - 老师 1 年内换 ≥ 3 次 = 立刻换园
+    - 询问"小班生师比 + 主班老师任职年限"
+    - 留守 / 外婆家 = 类同托儿所风险,主依恋人能稳定才行
+    - 国际学校 + 高师生比 ≠ 安全感保证
+  failure_mode: |
+    "这家托儿所五星级,孩子肯定好" — Tizard 数据:再现代化的设施也不能补偿主依恋人不稳定。
+    "我家小区没有好托班所以送外婆家" — 外婆家如人来人往,等同托儿所风险。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Bowlby
+  - G-TERM-attachment
+  - G-TERM-anxious-attachment
+
+citation:
+  book_title_zh: "依恋三部曲 · 第二卷:分离"
+  book_title_en: "Attachment and Loss · Volume 2: Separation"
+  authors: ["John Bowlby"]
+  authors_zh: ["约翰·鲍尔比"]
+  translators_zh: ["汪智攀", "王婷婷"]
+  publisher_zh: "世界图书出版有限公司北京分公司"
+  year_en: 1973
+  year_zh: 2017
+  isbn: "978-7-5192-2926-9"
+  location: "第十五章焦虑型依恋及一些促成条件(Tizard 夫妇 1971:即便托儿所有'特殊护士'特别关注,2 岁孩子从入园起平均接受 20+ 个不同护士的照顾,实验当周内可达 6 个;托儿所儿童在依恋行为方面显著地表现得更焦虑)"
+  source_id: SRC-012
+
+unit_ids: []
+related_cards:
+  - C-S5-087      # 7 月起寄养换家年龄越大越痛苦
+  - C-S6-085      # 重聚不认妈是危险信号
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

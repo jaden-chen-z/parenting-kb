@@ -1,0 +1,37 @@
+card_id: C-S4-2148
+stages: [S4]
+tags: [safety]
+front:
+  title: 8 月起婴儿安全防护,四肢着地视角
+  hook: 家长趴下看娃眼里的家
+back:
+  why_matters: |
+    上卡讲爬行不强求,但一旦娃开始移动,家就成最大伤害源——意外伤害是 1 岁后儿童死亡首因。
+    海蒂强调"用娃的视角"做家庭安全审计:父母四肢着地从娃身高扫一遍每个房间,直径小于 3.5 cm 的物品都要清空(可吞窒息)。重点:楼梯口装栏门、电插座盖、抽屉锁、家具锐角包、清洁剂上锁、地毯下沉防滑垫、家具防倾倒。
+  what_to_do:
+    - 父母四肢着地审视每个房间
+    - 楼梯顶/底各装一道栏门
+    - 直径小于 3.5cm 物品全清空
+    - 清洁剂/药品上锁
+    - 家具防倾倒+锐角包
+    - 浴缸防滑垫+水温低于 49°C
+  failure_mode: 觉得"娃还不会爬不急",娃 8 月某天突然会挪动,几分钟就吞掉地上硬币或扯下台灯砸头。
+  evidence_level: A
+glossary_refs: [G-TERM-babyproofing, G-ABBR-CPSC]
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors: ["Heidi Murkoff", "Sharon Mazel"]
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh: ["莫夏迪","张敏"]
+  location: "第 12 章 《第 8 个月》, 页 393-394, 399-404"
+  source_id: "SRC-040"
+related_cards: [C-S4-2147]
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

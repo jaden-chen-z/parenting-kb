@@ -1,0 +1,56 @@
+card_id: C-S7-1607
+stages: ['S7']
+tags: ['philosophy', 'lerner_v1', 'lerner', 'PYD', 'caring']
+
+front:
+  title: "同理心 5C 的 caring"
+  hook: "关怀是 PYD 维度"
+
+back:
+  why_matters: |
+    Lerner PYD 5C 中 Caring(关怀)— 同理 + 利他 — 是发展维度,不是天生有/没有。
+    2-3 岁是关键发展期 —
+    - 24 月 — instrumental helping(帮够不到的东西)
+    - 30 月 — 共情情绪(看别人哭也难过)
+    - 36 月 — 主动安慰(给安慰物 / 拍手 / 抱)
+    意义 — 中国家长常 "她还小不懂" 跳过教 caring — 错。
+    Eisenberg 综述 + Lerner PYD 一致:caring 在 2-3 岁开始,父母示范 + 反思 + 鼓励是发展引擎。
+    做法 —
+    - 父母示范 caring(对老人 / 对邻居 / 对宠物)
+    - 让娃参与照顾(浇花 / 喂宠物 / 给奶奶递东西)
+    - 看到娃 caring 行为 — 描述不评价("你给奶奶递水真贴心")
+    - 不强迫(强迫的不是 caring 是表演)
+  what_to_do:
+    - "父母示范 caring(对老人 / 邻居 / 宠物)"
+    - "让娃参与照顾(浇花 / 喂宠物)"
+    - "描述不评价 — '你给奶奶递水真贴心'"
+    - "不强迫(强迫的不是 caring)"
+    - "PYD 5C 维度 — 长期培养"
+  failure_mode: |
+    "她还小不懂"跳过 caring 培养 — 错。2-3 岁是关键期。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Lerner
+  - G-TERM-positive-youth-development
+  - G-TERM-5C-framework
+
+related_cards:
+  - C-S0-1522
+  - C-S6-1505
+  - C-S7-1602
+  - C-S2-941
+
+citation:
+  source_id: SRC-030
+  source_title: "Handbook of Child Psychology Vol 1: Theoretical Models of Human Development"
+  chapter: "Ch 16 Lerner PYD"
+  chapter_offset: 4891805
+  chapter_title: 'Lerner / Benson / Scales / Hamilton / Sesma — Positive Youth Development'
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_followup_needed: 'SRC-030 用 PDF 字节偏移代页码 — 待加 page_pdf 反查工具'

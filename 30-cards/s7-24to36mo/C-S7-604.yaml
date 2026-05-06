@@ -1,0 +1,62 @@
+card_id: C-S7-604
+stages: [S7]
+tags: [terrible-twos, anti-label, cooperation, philosophy, controversy]
+
+front:
+  title: 反"反抗期"概念
+  hook: 不是生理现象是教养出
+
+back:
+  why_matters: |
+    松田尖锐反"反抗期":不同于青春期/更年期(必经生理现象)。
+    只在家里养的孩子才有"反抗期";幼儿园集体生活的孩子没有。
+    "反抗期"是现代家庭对协作性教育不得体产生的现象 — 父母方法有问题才把孩子推进反抗期。
+    把娃 2 岁哭闹归因"反抗期"= 推卸自己教育不当。
+  what_to_do:
+    - 别用"反抗期"标签解释一切
+    - 看自己沟通方式是否压制
+    - 增加娃跟同龄孩子玩的机会
+    - 减少不必要的禁令
+    - 给娃自己做选择空间
+  failure_mode: |
+    妈一句"反抗期到了" → 不反思自己,等娃"过了" → 错过教协作的窗口。
+  evidence_level: B
+
+  positions:
+    issue: '"反抗期" 是孩子叛逆还是大人剥夺玩耍空间'
+    views:
+      - school: 松田道雄
+        source: SRC-024
+        stance: 反抗期不存在 — 是大人剥夺玩耍场所导致孩子抗议。不是孩子反抗你,是你在反抗孩子的自立。
+      - school: Brazelton
+        source: SRC-010
+        stance: 18 月狂说 No 是健康信号 — negativism 是自我形成的发育表现,无需打压。
+      - school: 现代心理学
+        stance: 气质 + 大脑发育 + 自主性需要交互;"反抗期" 不是单一现象,而是多因素综合。
+      - school: 中国传统
+        stance: '"叛逆期需打压" — 把孩子说 No 视为不听话表现,主张严格管教纠正。'
+glossary_refs:
+  - G-PERSON-Matsuda
+
+citation:
+  book_title_zh: "定本《育儿百科》"
+  book_title_jp: "育児の百科(定本)"
+  authors: ["松田道雄"]
+  translators_zh: ["王少丽"]
+  publisher_zh: null
+  year: 1980
+  edition: "定本"
+  location: "第 379 / 387 节从 2 岁到 3 岁 / 什么是反抗期"
+  source_id: SRC-023
+
+unit_ids: []
+related_cards:
+  - C-S6-669  # 自卷:1.5-2 岁躺地哭闹
+  - C-S7-016  # Brazelton 2 岁三件大事:假装/认同/模仿
+  - C-S6-298  # Stern 语言是双刃剑
+  - C-S6-403  # Lansbury 限度+情绪并存
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

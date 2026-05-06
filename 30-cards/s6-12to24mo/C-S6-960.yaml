@@ -1,0 +1,67 @@
+card_id: C-S6-960
+stages: [S6]
+tags: [pikler, philosophy, anti-条件反射式训练, source-de]
+
+front:
+  title: "适应不能靠机械习惯"
+  hook: "强迫养出「懂事」是空的"
+
+back:
+  why_matters: |
+    皮克勒 1969 第 10 章关键立场 — 12-24 月孩子开始适应他人,
+    但适应**不能通过机械习惯或强迫**实现。
+
+    皮克勒区分两种"适应":
+    - **机械习惯型**:大人重复要求 + 孩子记住执行
+      → 看似懂事,但只在大人盯着时做
+    - **理解型**:孩子看见 + 理解规则的意义 → 自己接管
+      (玛格达后来命名"持久的规矩长在心里")
+
+    皮克勒立场:第二种才是真适应,需要大人的"**耐心 + 时间**"。
+    机械训练在短期看似有效,长期反而损害自主性 + 内在动机。
+
+    跟中国"立规矩从小立"传统张力 — 皮克勒立场:
+    规矩要立,但要让孩子自己理解,不能机械执行。
+
+    玛格达"持久规矩长在心里"(SRC-022)+ 兰斯伯里"幼儿管教真有效"(SRC-019)立场源头。
+
+  what_to_do:
+    - 不重复"不可以"几十次让他记住 — 解释一次
+    - 给情境 + 简单说明("烫!别碰")
+    - 让他自己看到后果(安全前提下)
+    - 不威胁 / 不利诱 / 不打分(损内在动机)
+    - 等他能真正理解 — 通常 2-3 岁后
+
+  failure_mode: |
+    "孩子不听话就重复说" → 皮克勒立场:重复不是教,
+    是条件反射式训练 — 跟训练狗一样。
+    孩子需要的是理解,不是反射。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Pikler
+  - G-TERM-geduld-pikler
+
+citation:
+  book_title_de: "Friedliche Babys – zufriedene Mütter"
+  book_title_zh: "和平的婴儿 — 满足的母亲"
+  authors:
+    - Emmi Pikler
+  publisher_de: HERDER (HERDER / SPEKTRUM Band 4141)
+  year: 1969
+  location: "Ch10 Übergang pp. 227-235"
+  source_id: SRC-026
+
+unit_ids: []
+related_cards:
+  - C-S6-465  # Gerber 自律靠自己接管(本卷源头)
+  - C-S6-461  # Gerber 幼儿不需要被教
+  - C-S0-167  # Magda 7 大育儿原则
+  - C-S6-462  # Gerber 红黄绿三色限度
+  - C-S6-822  # 松田硬塞会变创伤
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

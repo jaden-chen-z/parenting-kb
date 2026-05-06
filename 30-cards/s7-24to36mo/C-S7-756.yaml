@@ -1,0 +1,57 @@
+card_id: C-S7-756
+stages: [S7]
+tags: [shyness, temperament, social, japan, matsuda]
+
+front:
+  title: "认生是性格非病"
+  hook: "敏感娃成大才"
+
+back:
+  why_matters: |
+    松田 §401 给"我家娃 2 岁还认生" 妈妈一针强心剂:
+    1. 8-9 月起认生 → 2 岁后越来越严重 = 常见;
+    2. **不是育儿方法不好** — 是天生敏感性格;
+    3. 敏感的孩子幼儿期不好养，但长大后具有别人不具备的长处;
+    4. 害怕是为了保护自己 — 不要责备;
+    5. 处方: 让他跟小朋友一起玩 — 慢慢感觉不可怕;
+    6. 不要急着批评、锻炼。
+    跟 Brazelton "Kagan 气质论 — 内向不是病"+ Brazelton "高敏宝宝识别清单"
+    一致。
+
+  what_to_do:
+    - 不标"我家娃认生" 当病讨论
+    - 多创造跟小朋友相处机会
+    - 不批评、不强迫加入
+    - 在熟悉环境慢慢介绍人
+    - 等 4-5 岁自然好转
+
+  failure_mode: |
+    "他得克服认生" → 强迫去人群 → 孩子哭爆 → 反更严重。
+    跟陌生人见面被指着说"叫叔叔" → 哭 → 妈妈尴尬骂 → 孩子学会"我有问题"。
+    现代妈妈最容易陷入"内向 = 缺陷"焦虑 — 但研究显示内向孩子长大后专注力 / 创造力反而高(参 Brazelton C-S6-032)。
+    替代:把"克服"翻成"接纳" + 慢慢扩展舒适圈。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Matsuda
+
+citation:
+  book_title_zh: "定本育儿百科"
+  authors:
+    - 松田道雄
+  publisher_ja: 岩波书店
+  year_first_edition: 1967
+  location: "§401 认生"
+  source_id: SRC-024
+
+unit_ids: []
+related_cards:
+  - C-S6-032  # Brazelton 内向不是病别硬掰(Kagan 气质论)
+  - C-S1-084  # Brazelton 高敏宝宝识别清单
+  - C-S3-031  # Brazelton 6-7 月陌生人焦虑应对术
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

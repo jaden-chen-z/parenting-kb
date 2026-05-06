@@ -1,0 +1,69 @@
+card_id: C-S0-1238
+stages: [S0]
+tags: [cultural_pathways, greenfield, lerner_v4]
+
+front:
+  title: 文化 5 维度独立 vs 互依
+  hook: 5 维度看中美差异
+
+back:
+  why_matters: |
+    Greenfield-Suzuki-Rothstein-Fisch V4 Ch 17 文化路径综述章。
+    **Greenfield 5 文化维度**(独立 vs 互依):
+    - **自我**:个人主义 vs 关系自我
+    - **依恋**:独立分离健康 vs 持续亲密健康
+    - **教养**:鼓励自主 vs 鼓励服从
+    - **道德**:个人权利 vs 群体责任
+    - **学习**:辩论 + 创造 vs 模仿 + 重复两端都健康,都有适应价值,**没有"现代 vs 落后"对错**。
+    中国 → 美国移民研究(本章重点):
+    - 第一代:互依模式
+    - 第二代:互依 + 独立混合
+    - 第三代:更倾向独立
+    - **不是"进化",是适应"宿主文化"**
+    意义:
+    - 反"美式独立才是现代"
+    - 反"中式服从都过时"
+    - 文化路径是适应,不是发展阶段
+    - 中国家长不必焦虑"是否够独立"
+    跟现库:跟 Bornstein 文化特异性(C-S0-1231)+ 松田日式(SRC-024)对接。
+    对中国家长意义:
+    - 互依不是落后
+    - 服从不等于压抑
+    - 移民家娃可以双文化
+    - 不必崇美式独立育儿
+  what_to_do:
+    - 互依不是落后是文化
+    - 中式不必崇美改
+    - 移民家娃可双文化
+    - '看适应文化不看"现代"'
+  failure_mode: |
+    "美式独立才现代"— 错。两端都健康。
+    "服从是压抑"— 错。互依文化的健康表达。
+    "美式育儿就是科学"— 错。文化盲点常见。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Greenfield
+  - G-TERM-cultural-pathways
+  - G-TERM-cultural-specificity
+  - G-TERM-individualism-collectivism
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 4 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 4 卷"
+  authors: ['Patricia M. Greenfield', 'Lalita K. Suzuki', 'Carrie Rothstein-Fisch']
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 17 · Greenfield · Cultural pathways 5 dimensions · pp. 655-670"
+  source_id: SRC-029
+
+unit_ids: []
+related_cards:
+  - C-S0-517     # 松田不焦虑日式
+  - C-S0-1231     # Bornstein 文化特异性
+  - C-S0-723     # Bronfenbrenner 5 层
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

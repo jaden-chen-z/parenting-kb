@@ -1,0 +1,65 @@
+card_id: C-S6-131
+stages: [S6]
+tags: [montessori, sleep, 过渡, floor-bed]
+
+front:
+  title: 12-15 月转矮床
+  hook: 没用地板床的过渡
+
+back:
+  why_matters: |
+    没从出生用 floor bed 的家庭(中国大多数 — 用婴儿床) — 12-15 月需要转 toddler bed。
+    不能等到 3-4 岁直接转大床,理由:
+    - 1 岁宝宝**爬出 crib 风险高**(15 月左右身高超栏顶)
+    - 跌出栏杆**头着地高度伤害大**(60-80cm)
+    - **自主作息**需求开始 — crib 关住宝宝,他没法自己起 / 自己睡
+    - 蒙氏的"两份信任"(C-S5-130)都建立完成,需要**自主空间**
+    转法 — Davies 推荐:
+    1. **白天先用** — 先在 toddler bed 上玩 / 看书 / 短暂午睡
+    2. **晚上从入睡开始** — 哄睡到 toddler bed,夜醒可去 crib
+    3. **过渡 1-2 周** — 完全转
+    4. **父母陪睡几晚** — 旁边坐 / 摸,让他建立"这是新睡处"
+    5. **房间婴儿安全防护** — 他可能会爬出来玩,环境安全是前提
+    Toddler bed 选择:
+    - 矮(地板上 30cm 内)
+    - 边带护栏(防滚出)但低(他能自己进出)
+    - 可以是 floor bed + 低边框或:**直接 floor bed**(把 crib 的床垫搬到地板上,周围空)。
+    中国家长抗拒"地板床" — 可妥协用低矮 toddler bed。
+  what_to_do:
+    - 12-15 月开始转 toddler bed
+    - 白天先用,晚上跟进
+    - 父母陪睡 1-2 周过渡
+    - 房间彻底婴儿安全防护
+    - 预算紧 — 把 crib 床垫直接搬地板
+  failure_mode: |
+    "等 3 岁直接转大床" — 1-3 岁爬出 crib 跌伤风险高。
+    "床改了他不睡了" — 1-2 周过渡正常,坚持下来反而更稳。
+    "床上铺垫子不安全" — 错。AAP SIDS 指南只看床面 + 周围 + 仰睡,不看床高度。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Davies
+  - G-PERSON-Montessori
+  - G-TERM-floor-bed
+  - G-TERM-prepared-environment
+
+citation:
+  book_title_zh: "蒙特梭利的小宝宝(0-1岁)"
+  book_title_en: "The Montessori Baby"
+  authors: ["Simone Davies", "Junnifa Uzodike"]
+  authors_zh: ["西蒙·戴维斯", "君妮法·乌佐迪克"]
+  publisher_en: "Workman Publishing"
+  year_en: 2021
+  isbn_en: "978-1-5235-0693-7"
+  location: "Chapter 4 · Floor bed > Note for non-floor-bed families"
+  source_id: SRC-014
+
+unit_ids: []
+related_cards:
+  - C-S3-133       # 蒙氏 floor bed
+  - C-S6-019       # Brazelton 12 月睡眠
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

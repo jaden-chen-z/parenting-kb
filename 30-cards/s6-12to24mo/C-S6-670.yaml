@@ -1,0 +1,48 @@
+card_id: C-S6-670
+stages: [S6]
+tags: [breastfeeding, weaning, anti-rush]
+
+front:
+  title: 12-24 月断母乳等娃
+  hook: 1 岁未断不必硬断
+
+back:
+  why_matters: |
+    松田说:1 周岁左右没断好母乳的孩子,到 1.5-2 岁仍在妈胸前缠着要吃。
+    甚至从早不用妈陪睡的娃,入睡前还要缠妈。
+    强行拒绝 → 娃代偿:抱毛毯、咬毛巾、吮指。
+    "1 岁断奶"不是硬规则,等娃自然准备好,代偿物比强断好得多。
+  what_to_do:
+    - 1 岁未断不焦虑,等娃自然
+    - 入睡前可继续陪喂
+    - 白天逐渐用其他活动替
+    - 准备好"过渡物"(毛毯/玩偶)
+    - 不强行涂苦/隔离
+  failure_mode: |
+    妈听人"1 岁该断" → 强行涂苦 → 娃哭闹崩 + 形成长期吮指/咬指甲。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Matsuda
+
+citation:
+  book_title_zh: "定本《育儿百科》"
+  book_title_jp: "育児の百科(定本)"
+  authors: ["松田道雄"]
+  translators_zh: ["王少丽"]
+  publisher_zh: null
+  year: 1980
+  edition: "定本"
+  location: "第 360 节从 1 岁半到 2 岁"
+  source_id: SRC-023
+
+unit_ids: []
+related_cards:
+  - C-S4-553  # 自卷:夜喂奶不必焦虑
+  - C-S5-023  # Brazelton 9 月断奶不必赶
+  - C-S5-134  # Lansbury 1 岁前戒奶嘴
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

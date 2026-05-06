@@ -1,0 +1,71 @@
+card_id: C-S6-1172
+stages: [S6]
+tags: [cognitive_science, number_sense, dehaene, lerner_v2]
+
+front:
+  title: 不用数 1-3 立即知
+  hook: 不数 1-3 立即知
+
+back:
+  why_matters: |
+    Dehaene + Geary 综述(Lerner V2 Ch18 Geary 主笔)。
+    Subitize(秒数) — 不数就立即知数量:
+    - **1-3 个物体**:立即识别(<200ms)
+    - **4 个**:勉强 subitize(部分人靠数)
+    - **5+ 个**:必须数婴幼儿研究:
+    - 5 月已有 1+1=2 雏形(C-S3-1144 Wynn)
+    - 12 月**subitize 1-3** 已稳定
+    - 18-24 月开始数符号映射(说"二"指 2 个)
+    - 3 岁稳定 1-3 数符号
+    Dehaene 立场:**两套数表征**
+    - **Approximate Number System**(近似数 — 大致估算)— 婴儿期天生
+    - **Exact Number System**(精确数 — 数符号)— 后天学
+    - subitize 是过渡机制意义:
+    - 数感天生(婴儿期)+ 数符号后天(2-3 岁)
+    - 闪卡 教 1-100 没用 — 没有数符号映射
+    - 真正有效:具体物体 + 1-3 命名跟现库:G-PERSON-Spelke 5 系统(C-S4-1141)中"数"系统。
+    Lerner V2 Ch18 给 Dehaene/Geary 综述。
+    对中国家长意义:
+    - 12 月起教 1-2-3(具体物体)
+    - 不教 4+(超 subitize 范围)
+    - 用积木 / 食物示例,不用 闪卡
+    - 等 3 岁 subitize 1-3 稳定再加 4-5
+  what_to_do:
+    - 12 月起 1-2-3 命名(具体)
+    - 用真实物体示例(不抽象)
+    - 不教超 3 的数(过早)
+    - 3 岁后再加 4-5
+  failure_mode: |
+    "教 1-100 早教好" — 没用。没有数感映射。
+    "12 月没数概念" — 错。subitize 已起。
+    "数感是后天学的" — 错。天生 + 后天双轨。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Spelke
+  - G-TERM-baby-scientist
+  - G-PERSON-Dehaene
+  - G-PERSON-Geary
+  - G-TERM-subitize
+  - G-PERSON-Wynn
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 2 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 2 卷"
+  authors: ["David C. Geary"]
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 18 · Subitize / Dehaene · pp. 783-786"
+  source_id: SRC-028
+
+unit_ids: []
+related_cards:
+  - C-S3-1144     # Wynn 5 月加法
+  - C-S4-1141     # Spelke 5 系统
+  - C-S7-1099     # Subitize 详解(后续)
+  - C-S6-018       # Lillard 词汇爆炸 + 数概念雏形
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

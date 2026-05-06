@@ -1,0 +1,49 @@
+card_id: C-S3-2150
+stages: [S3]
+tags: [safety, red_flag]
+
+front:
+  title: 1 岁内禁全脂牛奶补充
+  hook: 配方奶不能用牛奶代
+
+back:
+  why_matters: |
+    1 岁内宝宝**绝对不能用全脂牛奶代替母乳/配方奶**作为主要营养。
+    原因:牛奶蛋白 + 盐高于母乳/配方奶 → 增加肾脏负担;铁含量低 → 缺铁性贫血;部分宝宝肠道轻微出血(隐性,导致贫血)。
+    这是中国家长高频误区 — 觉得全脂奶"营养够"就用,海蒂明确禁。
+    断奶后必须用配方奶或挤出的母乳,**直到 1 岁后**才能转牛奶。
+  what_to_do:
+    - "1 岁内主奶:母乳 / 配方奶,二选一不混"
+    - "断奶时换配方奶(不是牛奶)"
+    - "不能挤出母乳量足够 → 配方奶补"
+    - "1 岁后才能转全脂牛奶,2 岁后转低脂"
+    - "酸奶 / 奶酪可 6 月后少量(已分解蛋白)"
+  failure_mode: |
+    "牛奶比配方奶天然" → 1 岁内会致缺铁性贫血。
+    "我家娃喝牛奶没事" → 隐性肠道出血 + 长期累积影响发育。
+    用奶水冲米糊喂奶瓶 → 海蒂明确禁。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-AAP
+
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1 岁"
+  authors: ["Heidi Murkoff", "Sharon Mazel"]
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 2010
+  edition: "Third Edition"
+  location: "第 8 章 / 用牛奶补充节,p.264-265"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards:
+  - C-S3-2147
+  - C-S3-006
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

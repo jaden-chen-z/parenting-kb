@@ -1,0 +1,28 @@
+glossary_id: G-TERM-self-efficacy
+type: term
+display_name: self-efficacy 自我效能感
+
+en_term: self-efficacy
+zh_term: 自我效能感
+
+one_liner: |
+  Bandura 1977 提出 — "我能影响别人 / 改变环境"的内化感受。
+  NRC Ch 9 把 self-efficacy 列为依恋的第二个核心功能(第一是 secure base)。
+  父母的 contingent response 偶联回应 → 宝宝学到"行为有效 → 我有 agency"。
+  跟 Stern self-agency + Lillard self-formation 一致。
+
+related_glossary:
+  - G-PERSON-Shonkoff
+  - G-TERM-attachment
+  - G-TERM-secure-base
+
+related_cards: []
+
+sources:
+  - source_id: SRC-025
+  - external: Bandura 1977
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

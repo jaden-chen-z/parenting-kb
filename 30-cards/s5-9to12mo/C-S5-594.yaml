@@ -1,0 +1,61 @@
+card_id: C-S5-594
+stages: [S5]
+tags: [separation, RIE, attachment]
+
+front:
+  title: "分离焦虑是健康信号"
+  hook: "黏人是依恋成功的证据"
+
+back:
+  why_matters: |
+    Magda《自信的宝宝》Ch7 §Separation Anxiety Is Healthy。
+    家长怕"娃 9-12 月突然黏人哭闹是有问题"。Magda 反:
+    **分离焦虑是依恋形成成功的证据,不是问题。**
+    9-12 月宝宝意识到"自己跟妈妈是两个人",会感到害怕。
+    这是心智长大带来的自然后果。
+    Magda 关键立场:**诚实,绝不偷溜。**
+    "走的时候告诉他,接受他的难过,告诉他你会回来,然后走。"
+    Magda 例子:课上有妈妈"等娃玩起来再溜",Magda 直接反:
+    那制造长期不信任。即使他哭,也要告别。
+    跟 Bowlby V1/V2 完全一致(secure base 理论)。
+
+  what_to_do:
+    - 走前明确告诉:"我去 X,几点回"
+    - 接受他难过:"你不想我走,我懂"
+    - 哭也要走,不偷溜
+    - 短分离开始(2-3 分钟)练习
+    - 「this too shall pass」 mantra
+
+  failure_mode: |
+    "他这么黏怕是没安全感" → Magda 反:相反,黏 = 依恋成功 +
+    心智长大。或"他不哭再走免得伤害" → 反:那是欺骗,长期摧毁信任。
+    Magda 立场:可以难过 + 必须走 = 给宝宝处理分离的练习。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+  - G-TERM-acknowledging-feelings
+
+citation:
+  book_title_en: "Your Self-Confident Baby"
+  book_title_zh: "自信的宝宝"
+  authors:
+    - Magda Gerber
+    - Allison Johnson
+  publisher_en: John Wiley & Sons
+  year: 1998
+  location: "Ch7 §Separation Anxiety Is Healthy(p150-152)"
+  source_id: SRC-021
+
+unit_ids: []
+related_cards:
+  - C-S5-393  # Lansbury 黏人是健康
+  - C-S5-076  # Bowlby V1 分离焦虑高峰
+  - C-S5-070  # Bowlby V1 12 月可测依恋类型
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

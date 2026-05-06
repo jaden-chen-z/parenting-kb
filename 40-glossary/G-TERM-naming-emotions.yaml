@@ -1,0 +1,22 @@
+glossary_id: G-TERM-naming-emotions
+type: term
+display_name: "命名情绪"
+
+one_liner: |
+  Pennebaker 命名疗效:能命名就能调节;是 Saarni 8 项的应用。
+
+detail: |
+  Pennebaker 命名疗效:能命名就能调节;是 Saarni 8 项的应用。
+
+  来源:Lerner V3《Handbook of Child Psychology Vol 3》(Wiley 2006 第 6 版,Eisenberg 主编)。
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-027
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

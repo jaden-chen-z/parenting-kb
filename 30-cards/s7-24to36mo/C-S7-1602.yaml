@@ -1,0 +1,53 @@
+card_id: C-S7-1602
+stages: ['S7']
+tags: ['philosophy', 'lerner_v1', 'lerner', 'PYD', 'connection']
+
+front:
+  title: "连接是 5C 之首"
+  hook: "关系比能力更重要"
+
+back:
+  why_matters: |
+    Lerner V1 Ch 16 PYD 5C 中,Connection(连接)是"基础维度" —
+    没有 connection,其他 4C(competence/confidence/character/caring)都难发展。
+    Connection 包括 — 父母 / 同伴 / 老师 / 社区 / 文化的多元关系网。
+    2-3 岁阶段 Connection 建设 —
+    - 跟父母 → 安全依恋(Bowlby)
+    - 跟同伴 → 早期友谊(Hartup)
+    - 跟祖辈 → 多代关系网
+    - 跟社区 → 邻居 / 公园 / 早教接触中国家庭常 Connection 单一 — 父母 1 + 老人 1,缺同伴 / 社区 → PYD 弱。
+    意义 — 给娃一个 Connection 网比给一堆早教课更重要。
+  what_to_do:
+    - "父母关系是 base — 安全依恋"
+    - "同伴关系刻意创造(playground / 邻居)"
+    - "祖辈关系健康(不只帮带)"
+    - "社区接触 — 邻居 / 公园 / 早教"
+    - "Connection 网 = 终生 PYD 基础"
+  failure_mode: |
+    只跟父母 + 老人 connection — 错。同伴 / 社区缺导致 PYD 单薄。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Lerner
+  - G-TERM-positive-youth-development
+  - G-TERM-5C-framework
+
+related_cards:
+  - C-S0-1522
+  - C-S7-996
+  - C-S7-1001
+  - C-S7-754
+
+citation:
+  source_id: SRC-030
+  source_title: "Handbook of Child Psychology Vol 1: Theoretical Models of Human Development"
+  chapter: "Ch 16 Lerner PYD"
+  chapter_offset: 4891805
+  chapter_title: 'Lerner / Benson / Scales / Hamilton / Sesma — Positive Youth Development'
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_followup_needed: 'SRC-030 用 PDF 字节偏移代页码 — 待加 page_pdf 反查工具'

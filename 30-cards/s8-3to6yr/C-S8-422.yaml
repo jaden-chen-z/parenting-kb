@@ -1,0 +1,66 @@
+card_id: C-S8-422
+stages: [S8]
+tags: [cognitive_science, mathematics, geary, lerner_v2]
+
+front:
+  title: 中国孩子算数早是因为词
+  hook: 中文数词更短一致
+
+back:
+  why_matters: |
+    Geary 综述 + Miller/Smith/Stigler 1995(Lerner V2 Ch18 Geary 主笔)。
+    跨文化数学发展研究:
+    - **中国孩子**(普通话)4 岁数到 50,5 岁数到 100
+    - **美国孩子**(英语)4 岁数到 30,5 岁数到 50
+    Geary 解释:**中文数词更短 + 更规则**
+    - 中文"二十一" = 字面"二十一"(规则)
+    - 英文"twenty-one" = 不规则
+    - 中文每个数词 1-2 音节
+    - 英文每个数词 2-4 音节工作记忆容量限制 = 中文优势意义:
+    - 不是中国孩子"更聪明" — 是语言系统的优势
+    - 真正认知能力(数感 / Spelke 数系统)跨文化一致
+    - 中国数学教育优势部分来自语言
+    - 不是早教 + 训练赢的(Lerner V2 关键校准)
+    跟现库:跟 Spelke 5 系统(C-S4-1141)+ Wynn 5 月数概念(C-S3-1144)对接。
+    对中国家长意义:
+    - 中国孩子数学"早起步"是语言优势,不是天赋
+    - 不必"加速"训练 — 已有自然优势
+    - 数感(Spelke)跨文化一致 — 不要用速算证明智力
+    - 美国孩子赶上是因为概念革命后期同步
+  what_to_do:
+    - 4-5 岁让孩子顺数(用语言优势)
+    - 不必加速训练(已有优势)
+    - 数感培养(具体物体 + 1-3)更重要
+    - 不要过度自豪"我家孩子早算"
+  failure_mode: |
+    "中国孩子数学天赋好" — 错。是语言优势。
+    "5 岁数到 100 = 数学好" — 错。是数词记忆。
+    "美国孩子数学差" — 不,概念后期赶上。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Spelke
+  - G-TERM-baby-scientist
+  - G-PERSON-Geary
+  - G-PERSON-Wynn
+  - G-TERM-conceptual-revolution
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 2 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 2 卷"
+  authors: ["David C. Geary"]
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 18 · Cross-linguistic math · pp. 793-800"
+  source_id: SRC-028
+
+unit_ids: []
+related_cards:
+  - C-S6-1172     # Dehaene 数感
+  - C-S3-1144     # Wynn 5 月加法
+  - C-S8-423       # Cole 文化认知(下一张)
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

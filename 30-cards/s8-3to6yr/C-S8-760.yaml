@@ -1,0 +1,73 @@
+card_id: C-S8-760
+stages: [S8]
+tags: [math, de_corte, word_problems, lerner_v4]
+
+front:
+  title: 数学应用题误区多
+  hook: 应用题不只是算法
+
+back:
+  why_matters: |
+    De Corte-Verschaffel V4 Ch 4(应用题研究)。
+    **Word Problems(应用题)5 大误区**(De Corte 综述):
+    - ❌ "孩子不会应用题 = 数学差"(可能阅读问题)
+    - ❌ "套公式就行"(不是真理解)
+    - ❌ "标准答案"(应用题应有多解)
+    - ❌ "算对就好"(过程比结果重要)
+    - ❌ "题型刷"(失去现实链接)
+    **真应用题** = **真情境 + 多解 + 解释**:
+    - 例:"3 个人吃 6 个苹果怎么分"
+    - 答案不只 2,可能 3-2-1 / 2-2-2 / 都给小妹 / 你想怎么分
+    - 重点:**为啥这么分**比"答 2"重要
+    **De Corte 立场**:
+    - 应用题是**数学到生活的桥**
+    - 中国应用题"火车追及"等脱离生活 → 反 De Corte
+    - RME 派主张**真情境** — 分糖 / 算账 / 时间
+    **3 大改革方向**:
+    - **真情境**:孩子能想象的场景
+    - **多解**:鼓励不同答案
+    - **过程**:解释比答案重要
+    **反"算速度 = 数学好"**:
+    - 算快只是熟练
+    - 真数学是推理 + 解释 + 迁移
+    - 中国奥数训练失去 De Corte 立场跟现库:跟 V2 Geary 数感(C-S6-1172)+ Wynn 加法(C-S3-1144)+ V4 De Corte 数学总论(C-S8-733)对接。
+    对中国家长意义:
+    - 应用题用**生活情境**(分糖 / 算账)
+    - 鼓励多解 + 解释
+    - 反"标准答案" + 反"算速度"
+    - 阅读理解差也影响应用题
+  what_to_do:
+    - 应用题用生活情境
+    - 鼓励多解+解释
+    - 反标准答案+反算速度
+    - 阅读差也影响应用题
+  failure_mode: |
+    "应用题差 = 数学差"— 错。可能阅读。
+    "套公式就行"— 错。失真理解。
+    "算速度 = 数学好"— 错。只是熟练。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-De-Corte
+  - G-TERM-RME
+  - G-PERSON-Geary
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 4 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 4 卷"
+  authors: ['Erik De Corte', 'Lieven Verschaffel']
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 4 · De Corte · Word problems 5 misconceptions · pp. 120-135"
+  source_id: SRC-029
+
+unit_ids: []
+related_cards:
+  - C-S8-733     # V4 De Corte 数学总论
+  - C-S6-1172     # V2 Geary 数感
+  - C-S3-1144     # V2 Wynn 加法
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Elias
+type: person
+display_name: "Elias(莫里斯·埃利亚斯)"
+
+full_name_en: "Maurice J. Elias"
+full_name_zh: "莫里斯·埃利亚斯"
+
+position: |
+  Rutgers University
+
+contribution: |
+  SEL + CASEL 框架
+
+one_liner: |
+  莫里斯·埃利亚斯 — SEL + CASEL 框架
+
+key_facts:
+  - "本卷章节:Ch 15 主笔"
+  - "Lerner V4 命中:12 次"
+  - "学派:Lerner V4 应用心理学派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-029
+    chapter: "Ch 15 主笔"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

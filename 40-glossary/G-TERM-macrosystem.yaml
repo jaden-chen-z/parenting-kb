@@ -1,0 +1,27 @@
+glossary_id: G-TERM-macrosystem
+type: term
+display_name: "宏观系统 / macrosystem"
+
+name_en: "macrosystem"
+name_zh: "宏观系统"
+
+description: |
+  Bronfenbrenner 第 4 层 — 文化 / 经济 / 政治 / 价值观。
+
+one_liner: |
+  宏观系统(macrosystem)— Bronfenbrenner 第 4 层 — 文化 / 经济 / 政治 / 价值观。
+
+key_facts:
+  - "Lerner V1 元理论卷核心术语"
+  - "学派:Lerner V1 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

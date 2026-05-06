@@ -1,0 +1,76 @@
+card_id: C-S8-745
+stages: [S8]
+tags: [trauma, klingman, lerner_v4]
+
+front:
+  title: 创伤恢复 3 力量
+  hook: 创伤 3 力量复
+
+back:
+  why_matters: |
+    Klingman V4 Ch 16 战争创伤章(以色列研究权威)。
+    **创伤后恢复 3 大力量**:
+    - **文化**:仪式 / 信仰 / 传统给意义
+    - **关系**:稳定主要照护人是核心
+    - **仪式**:固定日常 + 哀悼 + 庆祝
+    **4 阶段创伤反应**(Klingman 综述):
+    - **急性反应**(0-1 月):震惊 / 恐惧 / 失眠
+    - **应对反应**(1-6 月):适应 / 找资源
+    - **后创伤反应**(6-24 月):闪回 / 焦虑 / 抑郁(部分)
+    - **整合**(2 年+):意义化 / 重建生活
+    **反 PTSD 误区**:
+    - 不是所有经历创伤的娃都得 PTSD(只 30%)
+    - 关系 + 文化 + 仪式 = 韧性来源
+    - "强迫遗忘"反而伤娃,需要承认+表达
+    **中国家长场景**:
+    - 灾难(地震 / 火灾 / 车祸)
+    - 家庭危机(离异 / 丧亲)
+    - 暴力目击(家暴 / 校园)
+    - 移民流离
+    **3 力量在中国家庭**:
+    - 文化:春节 / 清明 / 家庭聚会
+    - 关系:稳定主要照护人不变
+    - 仪式:每天固定睡前 / 起床 / 吃饭流程意义:
+    - 创伤不是注定毁
+    - 3 力量是恢复源
+    - 反"强迫遗忘"立场跟现库:跟 Bowlby V3 丧失(SRC-017)+ Cicchetti 4 原则(C-S0-1232)对接。
+    对中国家长意义:
+    - 离异 / 丧亲 / 灾难后稳定关系是核心
+    - 文化仪式给意义
+    - 固定日常恢复
+    - 不强迫遗忘 — 承认 + 表达
+  what_to_do:
+    - 创伤后稳定主要照护人不变
+    - 文化仪式给意义
+    - 固定每日流程
+    - 不强迫遗忘 — 表达
+  failure_mode: |
+    "创伤注定毁娃"— 错。70% 不发展 PTSD。
+    "快忘了就好"— 错。承认+表达更稳。
+    "换环境刺激好"— 错。稳定 = 恢复。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Klingman
+  - G-TERM-trauma-recovery
+  - G-TERM-resilience
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 4 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 4 卷"
+  authors: ['Avigdor Klingman']
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 16 · Klingman · Trauma recovery 3 forces · pp. 619-635"
+  source_id: SRC-029
+
+unit_ids: []
+related_cards:
+  - C-S0-1232     # Cicchetti 4 原则
+  - C-S0-1500     # V3 Sroufe 韧性
+  - C-S7-864     # Shonkoff 主要照护人不变
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

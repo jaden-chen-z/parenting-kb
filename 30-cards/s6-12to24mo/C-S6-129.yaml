@@ -1,0 +1,63 @@
+card_id: C-S6-129
+stages: [S6]
+tags: [development_burst, evidence, controversy]
+
+front:
+  title: 跃迁有 EEG 物理证据
+  hook: 不是玄学是脑科学
+
+back:
+  why_matters: |
+    很多家长(尤其爸爸 / 老人)对"跃迁"持怀疑:"这不就是宝宝随便闹两天?有什么科学依据?"
+    Wonder Weeks 每章 Brain Changes 框给出**独立神经科学证据**:
+    - **WW8(8 周)**:头围突然增大 + 6-8 周 EEG 脑电波改变
+    - **WW12(12 周)**:10-11 周头围突然增大
+    - **WW19(19 周)**:大脑电活动改变
+    - **WW26(26 周)**:大脑电活动改变
+    - **WW37(37 周)**:大脑电活动改变
+    - **WW55(55 周)**:头围增大 + 大脑葡萄糖代谢改变
+    - **WW75(75 周 = 17.5 月)**:**16-24 月大脑额叶突触爆增**,眶额叶成熟,
+      "良心 / 共情 / 自我控制基础"涌现(非常具体的神经科学发现)
+    后记延伸:
+    - 1.5-16 岁 EEG 研究:跨发展阶段都有大脑变化
+    - 青春期跃迁 = 大脑确实在变(不只是激素)
+    家长意义:**跃迁不是"玄学" — 至少 6/10 跃迁有独立 EEG / 头围 / 葡萄糖代谢证据**。
+  what_to_do:
+    - 跟怀疑的家人 / 老人讲:6/10 跃迁有 EEG 验证
+    - 强调"头围 + 脑电波"是物理可测的,不是行为推断
+    - 16-24 月脑连接爆增,解释 2 岁难带的身体根源
+    - 跨年龄(1.5-16 岁)持续跃迁 → 长期育儿视角
+    - 数据帮父母放下"是不是我教育不对"的自责
+  failure_mode: |
+    "跃迁是父母想象出来安慰自己的" — 不,有 EEG / 头围 / 葡萄糖代谢三重证据。
+    "宝宝太皮 = 我没教好" — 14-17 月模仿 + 测试规则有大脑额叶突触爆增的物理基础。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-vanderijt
+  - G-PERSON-plooij
+  - G-TERM-wonder-week
+  - G-TERM-mental-leap
+  - G-TERM-cognitive-burst
+
+citation:
+  book_title_zh: "婴儿大脑跃迁 10 周(神奇周)"
+  book_title_en: "The Wonder Weeks"
+  authors: ["Hetty van de Rijt", "Frans X. Plooij"]
+  authors_zh: ["海蒂·凡德里特", "弗朗斯·普洛伊"]
+  publisher_en: "Kiddy World Publishing"
+  year_en_first: 1992
+  isbn_en: "978-90-79208-12-1"
+  location: "Chapter 4-12 · Brain Changes boxes(WW8: head circumference + EEG / WW12: head + 10-11 weeks / WW19/26/37: brain wave changes / WW55: head + glucose metabolism / WW75: 16-24 months synapses vastly increase + orbitofrontal lobe maturation) + Postscript: 1.5-16 years EEG research"
+  source_id: SRC-013
+
+unit_ids: []
+related_cards:
+  - C-S1-179       # 10 跃迁时间表
+  - C-S6-124       # WW75 系统世界
+  - C-S6-123       # WW64 原则世界
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

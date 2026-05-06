@@ -1,0 +1,59 @@
+card_id: C-S4-296
+stages: [S4]
+tags: [philosophy, RIE, lansbury]
+
+front:
+  title: "好习惯都是大人创出来的"
+  hook: "依赖是被造出来的"
+
+back:
+  why_matters: |
+    Lansbury Ch6 + Ch15 反复强调:
+    宝宝的"需要"很多其实是大人造出来的:
+    - 摇睡 / 抱睡 / 推车睡 → 宝宝学到"必须如此才能睡"
+    - 哭就奶嘴 → 学到"情绪要被堵"
+    - 撑坐 → 习惯靠人到达姿势
+    - 全程逗 → 不会自己玩
+    Magda 说:"我们创造的条件,会变成宝宝的需要"。
+    所以小心选择"通常做什么"。
+
+  what_to_do:
+    - 入睡通道:多元化(床上 / 大人怀里 / 推车都用过)
+    - 不让一个习惯变唯一
+    - 哭原因排查后,允许哭一点情绪
+    - 不撑坐 → 宝宝不会渴望坐
+    - 想反转一个习惯 = 给宝宝适应期
+
+  failure_mode: |
+    "宝宝就是需要这样" → 可能是大人造出的依赖。
+    一旦"需要"成型,反转通常需要 1-2 周适应期 + 一些哭。
+    Lansbury 不是反对建立任何习惯,是反对"只有一种通道"。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Lansbury
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+
+citation:
+  book_title_en: "Elevating Child Care: A Guide to Respectful Parenting"
+  book_title_zh: "尊重孩子:RIE 育儿之道"
+  authors:
+    - Janet Lansbury
+  publisher_en: JLML Press
+  year: 2014
+  location: "Ch6 Sleep + Ch15 Myth 2 Cries When Placed Down"
+  source_id: SRC-019
+
+unit_ids: []
+related_cards:
+  - C-S1-355  # Lansbury 睡眠 un-training
+  - C-S2-290  # Lansbury 不撑坐
+  - C-S5-130  # Davies 1 岁前两份心理大礼(信任 vs 依赖)
+  - C-S6-187  # Lillard 演示要慢 + 同顺序
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

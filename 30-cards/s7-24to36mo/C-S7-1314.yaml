@@ -1,0 +1,76 @@
+card_id: C-S7-1314
+stages: [S7]
+tags: [self_regulation, boekaerts, preschool, lerner_v4]
+
+front:
+  title: 2-3 岁等 5-10 分钟
+  hook: 2-3 岁能等 5 分钟
+
+back:
+  why_matters: |
+    Boekaerts V4 Ch 9(2-3 岁自我调节里程碑)。
+    **2-3 岁自我调节里程碑**:
+    - 24 月:等 1-2 分钟(短)
+    - 30 月:等 3-5 分钟
+    - 36 月:等 5-10 分钟(典型)
+    - **不要期待 2 岁等 30 分钟**
+    **3 层调节 2-3 岁版**:
+    - **认知**:用"我数到 3"内化语言调节
+    - **动机**:目标导向("我要 X")
+    - **情境**:学习应对挫折(从大哭到表达)
+    **marshmallow test**(著名研究 2-3 岁版):
+    - 4-5 岁的 marshmallow 是经典
+    - 2-3 岁版本:1 块糖现在 vs 2 块糖等 3 分钟
+    - 大多数 2-3 岁不能等 → 正常
+    - 3-4 岁逐步能等
+    **支持自我调节 4 大方法**:
+    - **私语鼓励**(Vygotsky):"我能等"
+    - **可视化时间**:沙漏 / 计时器
+    - **替代行为**:不能给 X 试 Y
+    - **情绪命名**:"你着急"
+    **反 3 误区**:
+    - ❌ "2 岁该会等 30 分钟"(过早)
+    - ❌ "等不了就给"(无原则)
+    - ❌ "硬要等"(过度逼)
+    跟现库:跟 C-S6-1388 学步自我调节萌芽 + C-S8-738 学渣 3 层 + Tools of Mind(C-S8-756)对接。
+    对中国家长意义:
+    - 2-3 岁等 5-10 分钟正常
+    - 用沙漏 + 计时器可视化
+    - 私语训练("我能等")
+    - 别强行 30 分钟等
+  what_to_do:
+    - 2-3 岁等 5-10 分钟正常
+    - 沙漏+计时器可视化
+    - '私语鼓励"我能等"'
+    - 别强行 30 分钟等
+  failure_mode: |
+    "2 岁该等 30 分"— 错。过早。
+    "等不了就给"— 错。无原则。
+    "硬要等"— 错。过度逼。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Boekaerts
+  - G-TERM-self-regulation
+  - G-TERM-private-speech
+  - G-PERSON-Vygotsky
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 4 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 4 卷"
+  authors: ['Monique Boekaerts']
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 9 · Boekaerts · 2-3yr self-regulation milestones · pp. 355-365"
+  source_id: SRC-029
+
+unit_ids: []
+related_cards:
+  - C-S6-1388     # V4 学步自我调节萌芽
+  - C-S8-738     # V4 学渣 3 层
+  - C-S5-1041     # V3 Eisenberg effortful control
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

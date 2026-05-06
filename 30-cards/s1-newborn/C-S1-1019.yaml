@@ -1,0 +1,55 @@
+card_id: C-S1-1019
+stages: [S1]
+tags: []
+
+front:
+  title: "BFHI 第 3 步产前讨论"
+  hook: "孕期就开始聊母乳"
+
+back:
+  why_matters: |
+    BFHI 第 3 步 原文:'Discuss the importance and management of breastfeeding with pregnant women and their families.'
+    产前(孕中后期)产院应该主动跟妈妈+家人讨论:
+    ① 母乳重要性(初乳 + IgA + lactoferrin)
+    ② 实操(衔乳 + 频率 + 信号)
+    ③ 常见困难 + 求助路径
+    ④ Code 警惕(产后会被推销奶粉)
+    ⑤ BFHI 10 步流程预告中国产院常规:产前不讨论母乳 → 产后突然要求妈妈母乳 → 妈妈没准备 → 衔乳困难 → 加配方奶。
+  what_to_do:
+    - "孕期约产前母乳咨询(产院或居家 IBCLC)"
+    - "提前学衔乳姿势(YouTube + IBCLC 课程)"
+    - "全家(老公/婆婆/妈妈)一起听 — 不只妈妈"
+    - "Code 警惕预演:'谢谢但我不要试用装'"
+    - "产前写分娩计划(立即 SSC + 24h 同室 + 不给配方)"
+  failure_mode: |
+    产前不讨论母乳 → 产后临场没准备 → 衔乳困难 → 妈妈焦虑 + 加配方。
+    BFHI 第 3 步要求产前讨论 — 中国常被忽略。
+  evidence_level: A
+
+glossary_refs:
+  - G-TERM-BFHI-10-steps
+  - G-ABBR-BFHI
+
+citation:
+  page_title: "BFHI Step 3 (Antenatal Discussion)"
+  publisher: "World Health Organization & UNICEF"
+  page_url_primary: https://www.who.int/teams/nutrition-and-food-safety/food-and-nutrition-actions-in-health-systems/ten-steps-to-successful-breastfeeding
+  accessed: 2026-05-04
+  language: en
+  location: "BFHI 第 3 步产前讨论 + 中国常被忽略"
+  source_id: SRC-031
+
+unit_ids: []
+related_cards:
+  - C-S1-1002
+  - C-S0-1025
+  - C-S1-1007
+  - C-S0-007
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_doc_id_pending: D2
+citation_followup_needed: '已映射真实 doc_id (D2 = BFHI Ten Steps 2018)'

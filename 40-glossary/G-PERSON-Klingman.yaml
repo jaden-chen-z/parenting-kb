@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Klingman
+type: person
+display_name: "Klingman(阿维多·克林曼)"
+
+full_name_en: "Avigdor Klingman"
+full_name_zh: "阿维多·克林曼"
+
+position: |
+  University of Haifa, Israel
+
+contribution: |
+  战争创伤儿童研究
+
+one_liner: |
+  阿维多·克林曼 — 战争创伤儿童研究
+
+key_facts:
+  - "本卷章节:Ch 16 主笔"
+  - "Lerner V4 命中:8 次"
+  - "学派:Lerner V4 应用心理学派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-029
+    chapter: "Ch 16 主笔"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,74 @@
+card_id: C-S1-257
+stages: [S1]
+tags: [self, milestone]
+
+front:
+  title: 出生 2 天已模仿表情
+  hook: 2 天已会模仿
+
+back:
+  why_matters: |
+    Field 1982 经典实验:**新生儿出生 2 天就会模仿大人的笑、皱眉、惊讶表情** — 这是 Stern 反"小宝宝不互动"的硬数据。
+    **实验**:
+    - 出生 2 天的新生儿
+    - 大人在 30cm 处做笑、皱眉、惊讶表情
+    - 录像显示:宝宝**可靠地匹配**对应的脸部肌肉动作
+    - 即使宝宝从未见过自己的脸 / 没人教过
+    **意义重大**(Stern 解释):
+    - 宝宝不是"被动的接收者" — 是**主动的回应者**
+    - 跨感官能力(看到大人脸 → 自己脸做出对应肌肉动作)是天生的,不是学来的
+    - 这是**最早的"社交反馈"** — 宝宝在跟你互动,你跟宝宝在互动
+    **Meltzoff 1977 早期实验**:
+    - 出生 3 周:模仿伸舌头、张嘴
+    - 但 Field 把这个推到 2 天 = 几乎"出生即可"
+    **对中国家长 — 反传统视角**:
+    - 老人:"小宝宝懵的,你跟他做表情没用"
+    - Stern + Field 数据:**新生儿就是社交能手** — 你做表情他在认真"对话"
+    - 这是 新生自我 形成的关键养料 — 有"社交回馈"的体验
+    **实操**:
+    - 抱新生儿时面对面 30cm
+    - 慢慢做表情(笑 → 停 → 皱眉 → 停)
+    - 给宝宝时间反应(几秒到 30 秒)
+    - 看到宝宝做出类似动作 → 反过来回应
+    - 这是"非语言对话"的雏形跟 Lillard 蒙氏"出生前已认识妈妈"+ Karp 第四产程同立场。
+  what_to_do:
+    - 抱新生儿面对面 30cm
+    - 慢慢做表情让宝宝看
+    - 给 5-30 秒反应时间
+    - 看到回应就再做
+    - 别说"小宝宝看不懂"就放弃
+  failure_mode: |
+    "新生儿看你只是反射不是真的认你" — 错。Field 数据 + Meltzoff 数据 = 出生即真的社交回应,不是反射。
+    距离太远(超过 50cm)→ 宝宝看不清你的表情 → 互动失效。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Stern
+  - G-PERSON-Field
+  - G-PERSON-Meltzoff
+  - G-TERM-imitation
+
+citation:
+  book_title_zh: "婴儿的人际世界"
+  book_title_en: "The Interpersonal World of the Infant"
+  authors: ["Daniel N. Stern"]
+  authors_zh: ["丹尼尔·斯特恩"]
+  publisher_en: "Basic Books"
+  year_en: 1985
+  isbn_en: "978-0-465-09559-9"
+  location: "Ch 3 · Cross-Modal (Field 1982 + Meltzoff & Moore 1977)"
+  publisher_zh: "华东师范大学出版社"
+  year_zh: 2017
+  translator_zh: ["刘旭东"]
+  source_id: SRC-018
+
+unit_ids: []
+related_cards:
+  - C-S1-256       # Stern 父母给主体属性
+  - C-S1-255       # Stern 出生即跨感官辨认
+  - C-S2-188       # Lillard 出生前已认识妈妈
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

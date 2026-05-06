@@ -1,6 +1,6 @@
 card_id: C-S3-076
 stages: [S3]
-tags: []
+tags: [philosophy]
 
 front:
   title: 14 周开始认妈妈的脸
@@ -36,7 +36,7 @@ citation:
   year_en: 1969
   year_zh: 2017
   isbn: "978-7-5192-2927-6"
-  location: "第十四章 依恋行为的开始(到十四周后,在家里长大的婴儿对母亲形象的面孔识别就非常明显了 / Thomas 1973 / Polak et al. 1964)"
+  location: "第十四章依恋行为的开始(到十四周后,在家里长大的婴儿对母亲形象的面孔识别就非常明显了 / Thomas 1973 / Polak et al. 1964)"
   source_id: SRC-011
 
 unit_ids: []

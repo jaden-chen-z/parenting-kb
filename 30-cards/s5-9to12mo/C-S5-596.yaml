@@ -1,0 +1,61 @@
+card_id: C-S5-596
+stages: [S5]
+tags: [feeding, weaning, RIE]
+
+front:
+  title: "断奶让娃带节奏"
+  hook: "妈妈舍不得别绑架"
+
+back:
+  why_matters: |
+    Magda《自信的宝宝》Ch7 §Weaning Slowly and Lovingly。
+    Magda 立场:**断奶时机由宝宝定,不是妈妈定。**
+    通常出现在第一年最后季(9-12 月)— 宝宝学坐 / 爬 / 走时 →
+    自然分心 → 喂奶兴趣下降。
+    Magda 反两极:
+    1 反"哺乳到 3 岁强行延" — 妈妈舍不得,宝宝自己已不感兴趣
+    2 反"3 天速断奶" — 强烈拒绝 → 宝宝心理创伤顺序建议:
+    - 早上奶最后断(对宝宝最重要)
+    - 晚上奶最难放,但不能最后
+    - 一次少一顿,渐进几周到几月
+    - 看宝宝信号(吃几口就不要 = 准备好)
+    "妈妈本身因享受哺乳而潜意识阻止断奶 — 要意识到。"
+
+  what_to_do:
+    - 9-12 月观察宝宝兴趣下降
+    - 一次去一顿,慢慢加
+    - 早奶留到最后断
+    - 不强断也不强延
+    - 配杯子练习(替代吸吮)
+
+  failure_mode: |
+    "母乳到 2 岁才好" → Magda 反:WHO 推荐 2 岁是营养角度,
+    但断奶时机以宝宝信号为准。或"3 天速断锻炼意志" → 反:断奶不是意志教育,是关系协商。Magda 1998 立场比 AAP 更看重"宝宝节奏"。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+
+citation:
+  book_title_en: "Your Self-Confident Baby"
+  book_title_zh: "自信的宝宝"
+  authors:
+    - Magda Gerber
+    - Allison Johnson
+  publisher_en: John Wiley & Sons
+  year: 1998
+  location: "Ch7 §Weaning Slowly and Lovingly(p152-153)"
+  source_id: SRC-021
+
+unit_ids: []
+related_cards:
+  - C-S5-391  # Lansbury 小份+信身体信号
+  - C-S6-130  # Davies 自主吃饭
+  - C-S5-130  # Davies 1 岁前两份心理大礼
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

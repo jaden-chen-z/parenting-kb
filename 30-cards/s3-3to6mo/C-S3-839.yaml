@@ -1,0 +1,63 @@
+card_id: C-S3-839
+stages: [S3]
+tags: [pikler, toys, philosophy, source-de]
+
+front:
+  title: "玩具堆反而不会玩"
+  hook: "越多玩具越不专注"
+
+back:
+  why_matters: |
+    Pikler 1969 Ch3(geistige Entwicklung)反例段经典描述 — 妈妈抱怨:"宝宝有这么多玩具,差不多一个玩具店,但什么都不玩。看一眼,拿一下,弄坏,扔掉,
+    继续磨我。"
+
+    Pikler 分析:这种婴儿被持续"刺激"养成了"被娱乐"
+    依赖。天生好奇心(unversiegbares Interesse)被切碎 — 没机会专注一个玩具,所以不会真玩。
+
+    Pikler 反诘:"婴儿不需要被 amüsiert(逗乐)"—
+    内在好奇心是天然的。给他时间 + 简单环境 + 1-2 个简单玩具,他会沉浸式玩。
+
+    这是 Magda passive toys 概念(SRC-019 G-TERM-passive-toys)
+    + Lansbury 7 myths play(SRC-019 Ch15)的德文源头。
+
+  what_to_do:
+    - 玩具一次出 1-2 个(不全摆出)
+    - 选简单 / 被动玩具(布块 / 木环 / 真物)
+    - 不闪光不响 — 越简单越主动玩
+    - 看到他玩就别打扰(别评论别夸)
+    - 累了再换玩具(他自己决定)
+
+  failure_mode: |
+    "玩具多才能开发智力" → Pikler 反:科学证据相反 —
+    选项太多 = 大脑过载 = 切换不专注 = 智力发展反而慢。
+    简单环境 + 自由探索才是 0-3 岁智力开发最有效路径。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Pikler
+  - G-TERM-passive-toys
+  - G-TERM-pflege-vs-spiel
+
+citation:
+  book_title_de: "Friedliche Babys – zufriedene Mütter"
+  book_title_zh: "和平的婴儿 — 满足的母亲"
+  authors:
+    - Emmi Pikler
+  publisher_de: HERDER (HERDER / SPEKTRUM Band 4141)
+  year: 1969
+  location: "Ch3 geistige Entwicklung pp. 96-105"
+  source_id: SRC-026
+
+unit_ids: []
+related_cards:
+  - C-S3-295  # Lansbury 被动玩具 + 主动孩子(本卷源头)
+  - C-S3-350  # Gerber 玩环境少而简
+  - C-S2-189  # Lillard 0-6 岁只给真实
+  - C-S4-296  # Lansbury 好习惯都是大人创出来的
+  - C-S0-167  # Magda 7 大育儿原则
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

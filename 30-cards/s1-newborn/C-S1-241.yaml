@@ -1,0 +1,59 @@
+card_id: C-S1-241
+stages: [S1]
+tags: [cognitive_science, imitation, myth_busting, controversy]
+
+front:
+  title: 出生 42 分钟就模仿大人
+  hook: 没镜子也会伸舌头
+
+back:
+  why_matters: |
+    Meltzoff & Moore 1977 Science 经典实验:
+    实验员在新生儿面前伸舌头 / 张嘴 → 新生儿模仿。
+    最小测试婴儿:**出生 42 分钟**(还没开始正常进食)。
+    录像独立打分(评价员事先不知道实验员做了什么动作),排除"妈妈滤镜"。
+    意义:推翻 Piaget"模仿要 8-10 月"假设,推翻 Locke"婴儿空白"。
+    更深含义:新生儿没看过自己脸,怎么知道伸舌头是什么动作?
+    答案:跨模态匹配 — 看到的脸 ↔ 自己脸的运动感觉。
+    这是**"like me"机制** — 出生即识"对方是和我一样的存在"。
+    是 theory of mind(推断他人心智)的根。
+    对中国家长意义:你的表情 / 语气 / 动作宝宝全在抓 — 他在镜像你。
+    不要在宝宝面前激烈情绪表达 / 摔东西 / 互相指责。
+    **复制争议(2016+)**:Oostenbroek 等 2016 PLOS ONE 大规模 109 名婴儿前瞻性研究 + 2018 Developmental Science 复制研究 → **未能重现**新生儿模仿。
+    Meltzoff 2018 反驳辩护,但科学界共识倾向"未通过严格复制"。"42 分钟即模仿"强主张需谨慎引用 — like me / 跨模态机制本身仍有大量证据,但具体的"出生即模仿"时间表存疑。
+  what_to_do:
+    - 出生即跟宝宝眼神接触,夸张表情
+    - 喂奶时面向宝宝,不刷手机
+    - 你想他温柔,你先温柔
+    - 焦虑 / 暴怒情绪自己处理后再面对宝宝
+  failure_mode: |
+    "新生儿啥都看不懂" — 错。42 分钟就模仿。
+    "他不记得,我吼他没事" — 错。延迟模仿 1 周仍记。
+    在宝宝面前激烈情绪表达 — 他在镜像。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Meltzoff
+  - G-TERM-imitation
+  - G-TERM-theory-of-mind
+  - G-TERM-baby-scientist
+
+citation:
+  book_title_en: "The Scientist in the Crib"
+  book_title_zh: "摇篮里的科学家"
+  authors: ["Alison Gopnik", "Andrew N. Meltzoff", "Patricia K. Kuhl"]
+  publisher_en: William Morrow
+  year: 1999
+  location: "Chapter 2 · What Children Learn About People"
+  source_id: SRC-015
+
+unit_ids: []
+related_cards:
+  - C-S1-184       # Davies 30cm 焦距(同源新生儿视觉)
+  - C-S6-128       # Wonder Week WW64 模仿一切跃迁
+  - C-S1-122       # Bowlby 依恋前奏
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

@@ -1,0 +1,82 @@
+card_id: C-S7-250
+stages: [S7]
+tags: [self, language, 依恋]
+
+front:
+  title: 学说话是为重建跟妈共在
+  hook: 说话动机 = 找回亲密
+
+back:
+  why_matters: |
+    Dore 1985(Stern 引用)给"宝宝为什么要学说话"一个深刻答案 — **不是为了沟通,是为了重建跟妈的"个人秩序"** — 跟传统语言学论完全不同。
+    **背景**(Dore 观察):
+    - 0-15 月妈和宝宝玩耍时是 **个人秩序(私人秩序)** — 自由、即兴、没目的、"只为在一起"
+    - **15-18 月起妈开始要求宝宝按 社交 order 行动**:
+      - "自己拿球"(不再帮)
+      - "自己吃"(不再喂)
+      - "不要扔玩具"(社会规矩)
+      - "不要动那个"(安全规矩)
+    - 宝宝感到"失去了之前的自由共在" → 一种"失去"
+    **Dore + Stern 论点**:
+    - 宝宝学说话**不只是因为聪明 + 大脑发育**
+    - 是因为**强烈的关系动机** — 想用新工具(语言)**重建跟妈的连接**
+    - 词不是为传达信息,是**为靠近** — "妈,你听我说"="妈,跟我在一起"
+    **意义重大**:
+    - **学说话 = 依恋 在 verbal level 的延续**
+    - 不是"独立"的开始,是"新的在一起"的开始
+    - 跟 Stern 主观自我 / 共主体性 一脉相承
+    **对中国家长的核心信息**:
+    - **宝宝学说话时不只是听内容,更要听关系** — 他在求"被听见"
+    - **"我累了"** 可能不是信息("我物理累") — 是**求 调谐**("妈,我需要你")
+    - 用纯信息回应("那你睡觉吧")会**错过关系层** — 宝宝沮丧
+    - 用关系回应("你今天累了对吧妈陪你休息")**满足真正需求**
+    **错误做法**:
+    - 用"训练独立"思路对 18-24 月 — "你自己想办法 / 你大了"
+    - 强迫"用嘴说不要哭" — 让 verbal 取代 调谐
+    - 把宝宝学说话当"语言能力"竞赛 — 错过关系动机
+    **正确做法**:
+    - **听宝宝说话时 调谐**(C-S5-291)— 不只听内容
+    - **承认关系层** — "你想跟妈说话对吧"
+    - **多用 we / 我们** — "我们一起..."满足关系需求
+    - **保留无目的的玩耍时间** — 给 个人秩序 留空间跟 Lillard"母-师角色"(C-S6-186)、Bowlby 安全基地一致 — 都看到 18 月+ 关系仍是核心需求。
+  what_to_do:
+    - 听宝宝说话时同时 调谐
+    - 不只听内容也听关系层
+    - 多用我们 / we
+    - 保留无目的玩耍时间
+    - 不强迫"用嘴说不要哭"
+  failure_mode: |
+    "宝宝会说话了就该独立了" — 错。Dore + Stern — 学说话动机是重建关系,不是分离。
+    用纯信息回应 → 错过关系层 → 宝宝学到"妈不懂我" → 安全的 受损。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Stern
+  - G-PERSON-Bowlby
+  - G-TERM-verbal-self
+  - G-TERM-attachment
+
+citation:
+  book_title_zh: "婴儿的人际世界"
+  book_title_en: "The Interpersonal World of the Infant"
+  authors: ["Daniel N. Stern"]
+  authors_zh: ["丹尼尔·斯特恩"]
+  publisher_en: "Basic Books"
+  year_en: 1985
+  isbn_en: "978-0-465-09559-9"
+  location: "Ch 8 · Dore 1985 - 学说话动机是 re-establish personal order"
+  publisher_zh: "华东师范大学出版社"
+  year_zh: 2017
+  translator_zh: ["刘旭东"]
+  source_id: SRC-018
+
+unit_ids: []
+related_cards:
+  - C-S6-300       # Stern 会说话后 attunement 仍要
+  - C-S5-291       # Stern attunement 主卡
+  - C-S6-186       # Lillard 母-师角色
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

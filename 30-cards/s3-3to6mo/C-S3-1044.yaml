@@ -1,0 +1,73 @@
+card_id: C-S3-1044
+stages: [S3]
+tags: []
+
+front:
+  title: "中国提前加米粉"
+  hook: "WHO 数据:中国差距大"
+
+back:
+  why_matters: |
+    中国家长辅食通病 — 跟 WHO 国际共识差距:
+    - 老人压力 '4 月加米粉助消化' → WHO 4 月前 NO
+    - '米粉助睡眠' → 无证据,WHO/AAP 共识反对
+    - '蛋黄抹嘴 1 月起' → 蛋白过敏风险
+    - '葡萄糖水/果汁' → 1 岁内禁(AAP)+ 干扰母乳(WHO)
+    - '中药/八珍粉' → 安全性无证据,WHO 反对
+    - '让娃尝大人饭菜' → 钠/糖/油负担超婴儿肾肝
+    WHO 立场:0-6 月只母乳/配方;6 月后辅食才开始。
+  what_to_do:
+    - "顶住老人压力 — 4 月前不给任何辅食"
+    - "拿 WHO 6 月共识做盾牌(国际医学共识)"
+    - "米粉助睡 / 蛋黄抹嘴 / 葡萄糖水 → 都是中国通病不是科学"
+    - "让娃尝家人饭菜 → 钠糖超标,等 1 岁再说"
+    - "全家对齐(老公一起堵老人话)"
+  failure_mode: |
+    为家庭和谐让步给老人传统 → WHO 标准下娃可能过敏 + 肠损 + 母乳率降。
+    守住 6 月这条线最重要。
+  evidence_level: B
+
+  positions:
+    issue: 辅食(CF)何时引入 — 6 月 EBF 还是 4-6 月看 readiness
+    views:
+      - school: WHO / UNICEF
+        source: SRC-031
+        stance: 6 月起辅食(不早不晚)— EBF 0-6 月明确操作定义(连水都不给,例外 ORS / 维生素 / 药物)。
+      - school: AAP
+        source: SRC-006
+        stance: 4-6 月,看 readiness 信号(头控 / 伸手抓 / 能从勺到喉)+ LEAP 早引入立场。
+      - school: 鲍秀兰
+        source: SRC-009
+        stance: 6 月起辅食,跟 WHO 一致;反对 4 月前给水或辅食。
+      - school: 松田道雄
+        source: SRC-024
+        stance: 5-6 月起,有弹性;不等到严格 6 月,但也反对 4 月前提前。
+      - school: 中国家长共识
+        stance: 默认 6 月起,4 月前坚决不给(4 派立场一致,中国家长普遍接受)。
+glossary_refs:
+  - G-ABBR-CF
+  - G-TERM-WHO-six-months
+
+citation:
+  page_title: "中国辅食通病 (估计) + WHO 立场"
+  publisher: "World Health Organization & UNICEF"
+  page_url_primary: https://www.who.int/health-topics/complementary-feeding
+  accessed: 2026-05-04
+  language: en
+  location: "中国家长跟 WHO 6 月共识差距 + 老人传统压力"
+  source_id: SRC-031
+
+unit_ids: []
+related_cards:
+  - C-S3-1042
+  - C-S3-1043
+  - C-S0-1024
+  - C-S3-001
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_doc_id_pending: D6
+citation_followup_needed: '已映射真实 doc_id (D6 = WHO Complementary Feeding)'

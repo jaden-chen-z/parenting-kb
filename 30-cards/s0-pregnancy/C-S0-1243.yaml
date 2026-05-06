@@ -1,0 +1,78 @@
+card_id: C-S0-1243
+stages: [S0]
+tags: [parenting_science, sigel, distancing, lerner_v4]
+
+front:
+  title: Sigel 距离化提问引
+  hook: Sigel 距离化提问
+
+back:
+  why_matters: |
+    Sigel V4 Ch 24 + Sigel 经典 距离化策略。
+    **Distancing Strategies**(距离化策略 — Sigel 创始):
+    - 父母用**提问**引导孩子思考
+    - 不是直接告诉答案
+    - 让孩子自己找(认知"距离化")
+    - 这培养**抽象思维 + 自主认知**
+    **3 级距离化提问**:
+    - **Level 1 直接观察**:"你看到啥"(认知近)
+    - **Level 2 推理**:"为啥这样"(认知中)
+    - **Level 3 抽象**:"如果换情况会怎样"(认知远)
+    **Sigel 立场**:
+    - 父母 IQ ≠ 孩子 IQ
+    - 父母**问问题的方式**比父母 IQ 更预测后期学业
+    - "距离化提问"是**最强父母行为**
+    **反 3 误区**:
+    - ❌ "直接告诉答案省时间"(失自主认知)
+    - ❌ "孩子小不会想"(从小练)
+    - ❌ "提问只在课堂"(日常生活才是关键)
+    **实操**(从 18 月起):
+    - 看绘本时问"你看到啥"
+    - 散步时问"那花为啥红"
+    - 吃饭时问"如果没苹果会怎样"
+    **Sigel 综述**:
+    - 距离化提问父母的孩子学业 +20%
+    - 长期效益持续到青少年期
+    - 跟 Vygotsky 私语 + Tools of the Mind 同方向跟现库:跟 V4 Sigel 研究到实践(C-S0-1230)+ Tools of Mind(C-S8-756)+ V2 Vygotsky 影响(C-S6-018 周边)对接。
+    对中国家长意义:
+    - 用提问引导孩子思考
+    - 不直接告诉答案
+    - 3 级距离化(观察 → 推理 → 抽象)
+    - 日常生活中练 — 18 月起
+  what_to_do:
+    - 用提问引导思考
+    - 不直接告诉答案
+    - 3 级距离化(观察+推理+抽象)
+    - 日常生活中练
+  failure_mode: |
+    "直接告答案省时间"— 错。失自主认知。
+    "小娃不会想"— 错。从小练。
+    "提问只在课堂"— 错。日常关键。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Sigel
+  - G-TERM-applied-developmental-science
+  - G-PERSON-Vygotsky
+  - G-TERM-tools-of-the-mind
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 4 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 4 卷"
+  authors: ['Irving E. Sigel']
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 24 · Sigel · Distancing strategies · pp. 1019-1023"
+  source_id: SRC-029
+
+unit_ids: []
+related_cards:
+  - C-S0-1230     # V4 Sigel 研究到实践
+  - C-S8-756     # V4 Tools of Mind
+  - C-S0-1241     # V4 Boekaerts 自我调节
+  - C-S0-619     # Shonkoff NRC 综述
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

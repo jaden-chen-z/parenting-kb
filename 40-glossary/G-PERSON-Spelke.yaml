@@ -1,0 +1,88 @@
+glossary_id: G-PERSON-Spelke
+type: person
+display_name: Spelke
+
+full_name_en: Elizabeth Spelke
+full_name_zh: 伊丽莎白·斯佩尔克
+
+one_liner: |
+  美国发展心理学家(哈佛大学教授),"核心知识"(core knowledge)理论奠基人。
+  发现 4 月婴儿就有物体永久性 — 比 Piaget 8 月说早一倍。
+
+detail: |
+  ## 个人背景
+  - 1949 年生
+  - 康奈尔大学博士
+  - 哈佛大学心理学教授(2001 至今)
+  - 曾任 MIT / 宾大 / 康奈尔教职
+  - 美国国家科学院院士
+  - 2009 年获 Pius XI Medal(梵蒂冈科学院)
+
+  ## 核心理论:Core Knowledge(核心知识)
+  Spelke 提出婴儿出生就有几个**先天系统**:
+  1. **物体系统**(物理学):物体连续 / 不穿越 / 不消失
+  2. **行动系统**:能区分"有意行为"vs"无意运动"
+  3. **数字系统**:大致估算数量
+  4. **空间系统**:理解几何关系
+  5. **社会系统**:识"自己人"vs"陌生人"
+
+  这些是其他知识发展的"基石"— 不需要学,出生即有。
+
+  ## 经典实验
+
+  ### 1. 物体永久性 4 月版(1985 推翻 Piaget)
+  - 给 4 月宝宝看球滚到屏后
+  - "魔术"消失 → 宝宝盯更久(惊讶)
+  - 正常出现 → 宝宝盯一会儿就移开(预料中)
+  - 证明 4 月就有物体永久性雏形(不是 Piaget 的 8 月)
+
+  ### 2. Violation-of-Expectation 实验法
+  - Spelke 发明的实验方法
+  - 用婴儿"看的时间"测他知道什么
+  - 比 Piaget 的"找物体"测试灵敏 4-5 个月
+  - 已成为发展心理学标准工具
+
+  ### 3. 物体边界识别
+  - 4 月婴儿懂"两个物体接触 ≠ 同一物体"
+  - 出生即有物理学常识
+
+  ## 跟 Gopnik 关系
+  - Spelke + Gopnik = 同代认知发展科学家
+  - 都反 Piaget"婴儿无能"假设
+  - 但理论侧重不同:
+    - Spelke:**先天系统**(基因预设)
+    - Gopnik:**理论建构**(经验驱动)
+  - 二人在学术辩论中互相挑战 + 互相完善
+
+  ## 在本知识库中
+  - C-S3-188 物体永久性 4 月雏形(Spelke / Baillargeon 1985)
+  - C-S3-190 size constancy(Spelke 系列)
+  - 推翻 Piaget 的核心证据来源
+
+  ## 学术影响
+  - "核心知识"理论是认知发展三大主流模型之一(另两个 Gopnik 理论理论 + Chomsky 模块论)
+  - APA 终身成就奖
+
+key_facts:
+  - 哈佛大学心理学教授
+  - 核心知识理论奠基人
+  - 1985 推翻 Piaget 物体永久性 8 月说
+  - violation-of-expectation 实验法发明者
+  - 美国国家科学院院士
+
+related_glossary:
+  - G-PERSON-Gopnik
+  - G-PERSON-Piaget
+  - G-TERM-object-permanence
+  - G-TERM-baby-scientist
+
+related_cards: []
+
+sources:
+  - source_id: SRC-015
+  - external: Spelke 1985 Cognition / Wikipedia Elizabeth Spelke
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

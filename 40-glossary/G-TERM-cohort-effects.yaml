@@ -1,0 +1,27 @@
+glossary_id: G-TERM-cohort-effects
+type: term
+display_name: "世代效应 / cohort effects"
+
+name_en: "cohort effects"
+name_zh: "世代效应"
+
+description: |
+  Elder & Shanahan 概念 — 同时代出生的人受历史时段塑造 (大萧条 / 战争 / 经济危机)— 影响超越个人选择。
+
+one_liner: |
+  世代效应(cohort effects)— Elder & Shanahan 概念 — 同时代出生的人受历史时段塑造 (大萧条 / 战争 / 经济危机)— 影响超越个人选择。
+
+key_facts:
+  - "Lerner V1 元理论卷核心术语"
+  - "学派:Lerner V1 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,82 @@
+card_id: C-S6-823
+stages: [S6]
+tags: [potty, toilet_training, japan, matsuda]
+
+front:
+  title: "1.5 岁夏天撤尿布"
+  hook: "短裤湿一次就懂"
+
+back:
+  why_matters: |
+    松田 §327 给 1-1.5 岁排便训练 3 个条件:
+    1. **气候要暖和**(夏天最佳);
+    2. 小便间隔时间要相对长一些;
+    3. 孩子性格必须老实。
+    核心机制: **撤尿布让孩子感到下半身解放感** —
+    尿在短裤上沿大腿流的不愉快感 → 孩子学会告诉妈妈。
+    1. 不要批评"都尿完才告诉" — 那已经是排便训练第一步;
+    2. 母亲要表扬"嘘嘘" + 主动带去卫生间;
+    3. 体罚 = 最大失败 — 孩子吓到就不再说;
+    4. 10 天没成功就放弃 — 等 1 个月再试;
+    5. 1-2 岁不撤尿布对将来无影响。
+
+  what_to_do:
+    - 1.5 岁夏天试撤尿布只穿短裤
+    - 主动每隔 1.5-2 小时领去卫生间
+    - 孩子说"嘘嘘"立即表扬
+    - 失败了不批评、不体罚
+    - 10 天没成功就放 1 个月再试
+
+  failure_mode: |
+    冬天硬训:孩子穿毛裤无解放感 → 训了 3 个月没成 → 焦虑加倍。
+    批评型:"都尿完才说不行" → 孩子学会"以后不告诉"。
+    体罚型:尿了就打 → 孩子吓得几个月不告诉 + 抗拒卫生间。
+    替代:松田中道 — 夏天 + 撤尿布 + 表扬 + 不打不骂。
+
+  evidence_level: B
+
+  positions:
+    issue: 如厕训练何时开始 · 谁主导 · 什么方法
+    views:
+      - school: Lillard(蒙氏)
+        source: SRC-016
+        stance: 12-18 月敏感期介入。反对长期纸尿裤拖延,孩子主导探索如厕,环境提供小马桶。
+      - school: AAP / 主流
+        source: SRC-006
+        stance: 18 月-3 岁。等待神经括约肌成熟与孩子表达意愿,避免提前训练造成抗拒。
+      - school: 鲍秀兰
+        source: SRC-009
+        stance: 9 月起坐盆训练,25-30 月用语言表达替代动作信号。早期建立排便规律。
+      - school: Brazelton
+        source: SRC-010
+        stance: 24 月以后多数孩子才准备好,孩子主导,称 toilet learning 而非 training。反对 EC 出生训练。
+      - school: 松田道雄
+        source: SRC-024
+        stance: 4-5 月把屎把尿是错的;7-8 月可试便盆(每次 1 分钟为限);1.5 岁夏天撤尿布最佳。
+      - school: Pikler / Magda / Lansbury
+        source: SRC-026/022/019
+        stance: 不训练 — 等 24-30 月孩子自己准备好;"学如厕"而非"训练"。反对绑 / 揍 / 久坐 / 太早 4 大错。
+      - school: 中国传统
+        stance: 把屎把尿(EC) + 3 岁前完成,以家长信号为主;中医认为憋尿伤肾。
+glossary_refs:
+  - G-PERSON-Matsuda
+
+citation:
+  book_title_zh: "定本育儿百科"
+  authors:
+    - 松田道雄
+  publisher_ja: 岩波书店
+  year_first_edition: 1967
+  location: "§327 排便训练"
+  source_id: SRC-024
+
+unit_ids: []
+related_cards:
+  - C-S3-701  # 松田 4 月把屎把尿是错的(同源排便训练)
+  - C-S4-703  # 松田 7-8 月便盆超 1 分钟就抱起(同源)
+  - C-S7-018  # Brazelton 厕所训练孩子主导
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

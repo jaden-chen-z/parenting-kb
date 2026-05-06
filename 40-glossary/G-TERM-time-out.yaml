@@ -1,0 +1,97 @@
+glossary_id: G-TERM-time-out
+type: term
+display_name: Time-out(罚站 / 反思椅)
+
+full_name_en: Time-out
+full_name_zh: 罚站 / 反思椅 / 隔离惩罚
+
+one_liner: |
+  美国主流"正面管教"派 1980-2010 年代推广的"温和"惩罚法:
+  孩子做错事时让他独自坐反思椅 X 分钟(年龄 = 分钟数)。
+  RIE / Magda / Lansbury 全部反对 — Magda 名言:"Time out of what — life?"
+  跟 1987 加州法律(2 岁以下托儿所禁用)一致。
+
+detail: |
+  ## 来源 + 设计
+
+  - **B.F. Skinner 行为主义** 1950s 起源
+  - **Sheila Eyberg + Patrick Friman** 1970s 临床推广
+  - **Supernanny / 1-2-3 Magic** 等流行书 2000s 推到大众
+  - 主流 2010 前认为这是"温和惩罚",比打骂"先进"
+
+  ## 怎么操作(主流版本)
+
+  1. 孩子做"不可接受行为"(打人 / 咬 / 抢)
+  2. 父母警告 1-2 次
+  3. 把孩子放到"反思椅" / 卫生间 / 角落
+  4. 坐 X 分钟(X = 年龄)
+  5. 平静后回到"生活"
+
+  ## RIE / Magda / Lansbury 反对的理由
+
+  ### Magda 经典反驳(Ch8)
+  > "Time out of what — life? Isn't it better to stay 'in' life and figure out how to do better the next time?"
+
+  - 行为跟惩罚**不相关** = 孩子学不到"为什么不行"
+  - "切出生命" = 信号"妈妈不要你了" — 破坏依恋
+  - 教孩子"做错事 = 孤独惩罚"
+  - 累积"自我惩罚"接管(Magda 案例:RIE 班一男孩自己反复去 time-out 椅)
+
+  ### Lansbury Ch22 复述
+  - "Time-out 等于把孩子排除出关系"
+  - "孩子需要的是连接 + 教导,不是隔离 + 反思"
+
+  ## 替代方案(RIE 推)
+
+  ### 1. 限度执行(I won't let you)
+  - "我不让你打妹妹" + 物理阻止
+  - 不放他独自,继续在身边
+
+  ### 2. 连接性后果
+  - "你扔饭饭就拿走" — 跟行为相关
+  - "你打妈妈,妈妈走开 1 分钟" — 大人调节
+
+  ### 3. 暴怒等过去
+  - Antaeus 模型:让脾气穿过孩子
+  - 不评论 + 不哄 + 等
+  - 过完抱回来
+
+  ## 现代研究方向
+
+  - 2010 后批评 time-out 增多
+  - Daniel Siegel《全脑教养法》(2014)反 time-out
+  - 加州 1987 法律:2 岁以下托儿所禁用
+
+  ## 中国家长意义
+
+  - 中国传统多用"打 / 骂 / 罚跪"
+  - 引进"正面管教"派后,time-out 被当"先进"推广
+  - RIE 视角:time-out 也是惩罚,不是教育
+
+key_facts:
+  - Skinner 行为主义起源,1980s 主流推广
+  - Magda 经典反对名言:"Time out of what — life?"
+  - 加州 1987 法律:2 岁以下托儿所禁用
+  - RIE 替代:限度执行 + 连接后果 + 暴怒等过
+
+related_glossary:
+  - G-PERSON-Gerber
+  - G-PERSON-Lansbury
+  - G-TERM-RIE
+  - G-TERM-traffic-light-limits
+  - G-TERM-Antaeus-tantrum
+  - G-TERM-acknowledging-feelings
+
+related_cards:
+  - C-S6-467
+  - C-S6-465
+  - C-S6-403
+
+sources:
+  - source_id: SRC-022
+  - external: Magda Gerber《Your Self-Confident Baby》Ch8 What about Time-out?
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

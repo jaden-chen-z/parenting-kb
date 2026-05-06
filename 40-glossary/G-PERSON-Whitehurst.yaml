@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Whitehurst
+type: person
+display_name: "Whitehurst(格罗弗·怀特赫斯特)"
+
+full_name_en: "Grover J. Whitehurst"
+full_name_zh: "格罗弗·怀特赫斯特"
+
+position: |
+  Stony Brook University 心理学教授,后任 Brookings Institution 早教研究中心主任
+
+contribution: |
+  Dialogic Reading 对话式阅读 + PEER 提示法创始
+
+one_liner: |
+  格罗弗·怀特赫斯特 — Dialogic Reading 1988 创始,RCT 显示词汇 +50%
+
+key_facts:
+  - "本卷章节:Ch 2(引用)"
+  - "Lerner V4 命中:8 次"
+  - "学派:Lerner V4 阅读应用派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-029
+    chapter: "Ch 2"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

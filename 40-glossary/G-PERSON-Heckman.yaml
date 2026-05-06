@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Heckman
+type: person
+display_name: "Heckman(詹姆斯·赫克曼)"
+
+full_name_en: "James J. Heckman"
+full_name_zh: "詹姆斯·赫克曼"
+
+position: |
+  University of Chicago
+
+contribution: |
+  经济学家 + Heckman 经济曲线 + 早教 ROI
+
+one_liner: |
+  詹姆斯·赫克曼 — 经济学家 + Heckman 经济曲线 + 早教 ROI
+
+key_facts:
+  - "本卷章节:Ch 18 + 21(引用)"
+  - "Lerner V4 命中:4 次"
+  - "学派:Lerner V4 应用心理学派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-029
+    chapter: "Ch 18 + 21(引用)"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

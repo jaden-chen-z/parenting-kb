@@ -1,0 +1,59 @@
+card_id: C-S1-406
+stages: [S1]
+tags: [communication, RIE, caregiving]
+
+front:
+  title: "动他之前先告知"
+  hook: "他不是被搬来搬去的物件"
+
+back:
+  why_matters: |
+    Magda 原版核心实操:
+    抱起 / 放下 / 喂奶 / 换尿布前,先用真声音告知,
+    然后等几秒看他反应,再开始动作。
+    不是"教他听话",是给他**预备时间**。
+    Magda 自比喻:你在巨人世界,巨人没说一声就把你抓起来 —
+    你会怎么想?宝宝感受是同样的。
+    Lansbury C-S1-353 "尿布换是连接仪式"延伸版,Magda 是源头。
+
+  what_to_do:
+    - 抱起前:"我现在要抱你了"
+    - 放下前:"我要把你放到床上了"
+    - 换尿布前:"你尿了,我现在帮你换"
+    - 喂奶前:"妈妈给你准备奶了"
+    - 说完等 1-3 秒看表情变化,有反应再动手
+
+  failure_mode: |
+    "他这么小听不懂,说什么都白搭" → 错过 0-3 月最佳信任建立期。
+    宝宝从出生起就在记录"被预告吗" — 没预告 = 学会"我没掌控感"。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Gerber
+  - G-PERSON-Pikler
+  - G-TERM-RIE
+  - G-TERM-tell-before-do
+  - G-TERM-active-participant-caregiving
+
+citation:
+  book_title_en: "Your Self-Confident Baby"
+  book_title_zh: "自信的宝宝"
+  authors:
+    - Magda Gerber
+    - Allison Johnson
+  publisher_en: John Wiley & Sons
+  year: 1998
+  location: "Ch3 Tell Your Child What You Are Going to Do(整段)"
+  source_id: SRC-022
+
+unit_ids: []
+related_cards:
+  - C-S1-353  # Lansbury 尿布换是连接仪式
+  - C-S1-352  # Lansbury 把新生儿当完整人
+  - C-S2-127  # Davies 真词不嘎嘎
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

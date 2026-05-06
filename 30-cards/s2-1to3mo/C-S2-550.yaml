@@ -1,0 +1,48 @@
+card_id: C-S2-550
+stages: [S2]
+tags: [daycare, quality-criteria, working-mother]
+
+front:
+  title: 优质保育园 5 标准
+  hook: 1:3 比是底线不能让
+
+back:
+  why_matters: |
+    松田给出硬标准:1 名保育员照料 ≤ 3 个婴儿,正常保育才能开展。
+    其他 4 条:仅收 0-1 岁(避混龄)/ 婴儿室不窄+通阳台空气浴 / 跟家庭密切沟通+家访 / 离家越近越好。
+    中国家长选保育园多看"硬件",不看 1:3 比。1:5 / 1:8 比的园,实质是事故防范不是教育。
+    8 小时是国家公务员标准,延长保育不利娃发育(母子 8 小时以上分离)。
+  what_to_do:
+    - 实地看保育员:婴儿比例 ≤ 1:3
+    - 拒绝 0-3 岁混龄园
+    - 选有阳台/可空气浴的
+    - 看家访制度,定期沟通
+    - 选离家近,即使硬件次
+  failure_mode: |
+    选名牌远程保育园 → 妈每天 1 小时通勤 → 娃延长保育疲惫,回家喝奶就睡,失去家庭生活体验。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Matsuda
+
+citation:
+  book_title_zh: "定本《育儿百科》"
+  book_title_jp: "育児の百科(定本)"
+  authors: ["松田道雄"]
+  translators_zh: ["王少丽"]
+  publisher_zh: null
+  year: 1980
+  edition: "定本"
+  location: "第 117-118 节集体保育是优是劣 / 创建优质保育园"
+  source_id: SRC-023
+
+unit_ids: []
+related_cards:
+  - C-S6-090  # Bowlby V2 现代托儿所也救不了
+  - C-S3-020  # 鲍秀兰 5 月陪宝宝玩 = 早教课程
+  - C-S0-005  # Brazelton 上班妈妈选不选母乳的真相
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

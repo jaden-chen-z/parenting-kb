@@ -1,0 +1,60 @@
+card_id: C-S2-130
+stages: [S2]
+tags: [montessori, vision, mobile, color, philosophy]
+
+front:
+  title: 1-3 月 mobile 升级
+  hook: 黑白 → 三色 → 渐变
+
+back:
+  why_matters: |
+    第 1 个月用 Munari 黑白几何 → 1-3 月升级。
+    蒙氏 mobile 的顺序是**跟着视觉发育**走的:
+    - **0-6 周:Munari 黑白几何** — 视觉细胞最早只对高对比敏感
+    - **6-8 周:Octahedron 八面体** — 三色(红 / 黄 / 蓝),反光纸,练颜色辨识
+    - **2-3 月:Gobbi 渐变球** — 5 个同色不同深浅球,练色阶辨识 + 阴影看见
+    - **3 月后:Dancers 舞者** — 金色 / 银色剪纸人形,空气流动摆动,练追踪每个 mobile 用 1-3 周,看宝宝兴趣减弱就换。
+    挂法不变:动作毯上方,30cm 距离,不挂睡眠区。
+    不要省事一次买 5 个挂上 — 一次只挂 1 个,让宝宝专注。
+    DIY 难度低:
+    - Octahedron — 三色彩纸折八面体
+    - Gobbi — 5 个泡沫球绕同色不同深浅毛线
+    - Dancers — 金箔 / 银箔剪人形
+    Davies + Junnifa 提供模板下载(workman.com/montessori)。
+  what_to_do:
+    - 6-8 周换 Octahedron(三色)
+    - 2-3 月换 Gobbi(同色渐变 5 球)
+    - 3 月+ 换 Dancers(舞者)
+    - 一次只挂 1 个
+    - 每个 mobile 用 1-3 周
+  failure_mode: |
+    "全部一起挂上,宝宝看哪个看哪个" — 视觉过载,无法专注。一次 1 个。
+    "市面买的电子彩色 mobile 也行" — 会唱会闪 = 剥夺自主视觉训练。
+    "1 个 mobile 一直用到 6 月" — 错过分阶段视觉发育,浪费窗口。
+  evidence_level: C
+
+glossary_refs:
+  - G-PERSON-Davies
+  - G-PERSON-Montessori
+  - G-TERM-prepared-environment
+
+citation:
+  book_title_zh: "蒙特梭利的小宝宝(0-1岁)"
+  book_title_en: "The Montessori Baby"
+  authors: ["Simone Davies", "Junnifa Uzodike"]
+  authors_zh: ["西蒙·戴维斯", "君妮法·乌佐迪克"]
+  publisher_en: "Workman Publishing"
+  year_en: 2021
+  isbn_en: "978-1-5235-0693-7"
+  location: "Chapter 6 · Visual mobiles > Octahedron / Gobbi / Dancers"
+  source_id: SRC-014
+
+unit_ids: []
+related_cards:
+  - C-S1-189       # 蒙氏 Munari 黑白
+  - C-S2-008       # 鲍秀兰 视觉训练
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

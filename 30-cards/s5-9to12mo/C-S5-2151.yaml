@@ -1,0 +1,73 @@
+card_id: C-S5-2151
+stages: [S5]
+tags: [mainstream, discipline, controversy]
+
+front:
+  title: 管教不是体罚
+  hook: 引导≠打骂
+
+back:
+  why_matters: |
+    AAP 2018 年明确反对任何形式的体罚和言语羞辱。前情:S5 宝宝开始有"故意"行为如扔东西、打人。海蒂书强调 10-12 月就要开始管教,但管教(discipline)的本意是"教导",不是惩罚。这阶段宝宝大脑前额叶不成熟、不会"听道理",有效管教是:转移注意、设置边界、坚定温和,体罚只制造恐惧不教是非。
+  what_to_do:
+    - 用"不可以"+ 转移注意取代打骂
+    - 移走危险物比阻止娃更有效
+    - 重复温和提醒不情绪化
+    - 全家管教标准一致
+  failure_mode: |
+    觉得娃"听不懂"懒得管,等大了一发不可收拾;或受老一辈影响"不打不成器",留下长期心理创伤。
+  evidence_level: A
+
+  positions:
+    issue: 3 岁孩子的体罚边界 · 大发雷霆体罚 vs 瞬间危险打手
+    views:
+      - school: 松田道雄
+        source: SRC-024
+        stance: 大发雷霆体罚是错的;但孩子做危险动作(冲马路、玩刀具)时瞬间打手作为警告有效。立场分情境。
+      - school: Lansbury / RIE
+        source: SRC-019
+        stance: 温柔而坚定的限度,完全不打。任何体罚(包括瞬间打手)都破坏信任与自我调节学习。
+      - school: Bowlby
+        source: SRC-011
+        stance: secure attachment 派完全反对体罚;依恋安全是学龄前儿童最优先的发育基础。
+      - school: AAP
+        source: SRC-004
+        stance: 完全反对体罚 — 2018 政策声明明确指出体罚对儿童心理发展有害,无任何益处。
+      - school: Shonkoff / NRC
+        source: SRC-025
+        stance: 完全反体罚 — cortisol 累积损伤前额叶皮层(PFC),与儿童反社会行为正相关。
+      - school: 鲍秀兰
+        source: SRC-009
+        stance: 反对打孩子,主张正面管教;在中国本土实证派中是少有的明确反体罚立场。
+      - school: 海蒂
+        source: SRC-040
+        stance: 管教 ≠ 体罚 — 10 月起步用其他管教法。美国主流大众派背书,降低中国家长"反体罚 = 西式精英"偏见。
+      - school: 中国传统
+        stance: '"棍棒底下出孝子" / "不打不成器" — 体罚被视为负责任管教的一部分。'
+glossary_refs: [G-TERM-discipline, G-TERM-corporal-punishment]
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors:
+    - Heidi Murkoff
+    - Sharon Mazel
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh:
+    - 莫夏迪
+    - 张敏
+  location: "第 10 章第 10 个月, 页 410-415"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards:
+  - C-S5-2159
+  - C-S5-2160
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,27 @@
+glossary_id: G-TERM-anti-early-education
+type: term
+display_name: "反早教焦虑 / anti-early-education-anxiety"
+
+name_en: "anti-early-education-anxiety"
+name_zh: "反早教焦虑"
+
+description: |
+  Baltes / Pikler / Davies 立场 — 0-3 早教不必焦虑,陪伴质量 > 课程数量。
+
+one_liner: |
+  反早教焦虑(anti-early-education-anxiety)— Baltes / Pikler / Davies 立场 — 0-3 早教不必焦虑,陪伴质量 > 课程数量。
+
+key_facts:
+  - "Lerner V1 元理论卷核心术语"
+  - "学派:Lerner V1 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

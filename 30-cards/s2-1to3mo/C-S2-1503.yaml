@@ -1,0 +1,53 @@
+card_id: C-S2-1503
+stages: ['S2']
+tags: ['gross_motor', 'lerner_v1', 'thelen', 'A_not_B']
+
+front:
+  title: "A 非 B 误读不是 P"
+  hook: "动态视角解 P 错觉"
+
+back:
+  why_matters: |
+    Piaget 经典 A-not-B error — 8-10 月婴儿明明看到玩具藏在 B 杯,还是去找 A 杯。
+    Piaget 解释 — 没有"物体永久性"概念。
+    Thelen-Smith 反驳 — 不是没概念,是动态系统强化了 A 杯的"伸手 attractor"(之前几次找 A 都成功)。
+    当延迟伸手时间 / 改变姿势 / 减少之前 A 找次数 — A-not-B error 消失。
+    意义 — Piaget 阶段论很多"概念"其实是动态系统的副产品。
+    中国家长意义 — 不要拿 Piaget 月龄表给孩子贴标签("我家 8 月还有 A-not-B 是不是落后")。
+    动态视角:能力随情境变化,不是固定阶段。
+  what_to_do:
+    - "不拿 Piaget 月龄表当圣经"
+    - "'概念有没有'看情境(不同情境表现不同)"
+    - "能力 emergent — 不是预定阶段"
+    - "8 月找错杯不是'概念'问题是 attractor"
+    - "动态视角看每一次表现"
+  failure_mode: |
+    Piaget 阶段论严格用 — 当代综述视角已超越。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Thelen
+  - G-PERSON-Smith-LB
+  - G-PERSON-Piaget
+  - G-TERM-dynamic-systems-theory
+  - G-TERM-A-not-B-error
+
+related_cards:
+  - C-S0-1508
+  - C-S2-1502
+  - C-S0-1508
+  - C-S2-700
+
+citation:
+  source_id: SRC-030
+  source_title: "Handbook of Child Psychology Vol 1: Theoretical Models of Human Development"
+  chapter: "Ch 6 Thelen & Smith"
+  chapter_offset: 1440888
+  chapter_title: 'Thelen & Smith — Dynamic Systems Theories'
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_followup_needed: 'SRC-030 用 PDF 字节偏移代页码 — 待加 page_pdf 反查工具'

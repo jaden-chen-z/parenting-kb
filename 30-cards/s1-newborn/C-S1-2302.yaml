@@ -1,0 +1,48 @@
+# ═══════════════ S1(0-1 月)6 张 ═══════════════
+card_id: C-S1-2302
+stages: [S1]
+tags: [safety, red_flag]
+
+front:
+  title: 1 岁内噎食:5 拍背 + 5 胸压
+  hook: 头朝下,拳头不上腹
+
+back:
+  why_matters: |
+    噎食(窒息)= 食物或异物堵住气道。1 岁以下不能用大人海姆立克(腹冲)
+    — 婴儿肝脾大且不固定,腹冲会致内伤。海蒂"5+5"循环是 AHA 标准婴儿急救。
+    判断窒息红线:宝宝**咳不出声、喘鸣高亢、嘴唇/脸发青** → 立刻动手。
+    只是用力咳嗽且能哭出声 → 不要打,自己排出概率高,2-3 分钟仍卡才打 120。
+  what_to_do:
+    - 跨在你前臂,**头低于身体 60°**,下巴托住
+    - 掌根**连续拍后背肩胛之间 5 次**(向上斜推力)
+    - 翻身仰躺(头仍低),两乳头连线下方一指,**两指按胸 5 次**(深 1.3 cm)
+    - 看口腔有无异物 — 看到才抠,**看不见绝不盲扫**(会推得更深)
+    - 仍不通 → **重复 5+5 循环**,同时请人打 120;独自先做 1 分钟再打
+  failure_mode: |
+    1 岁内做大人海姆立克(双手压腹)→ 肝脾撕裂大出血。
+    盲扫口腔 → 把异物推进气道。
+    只咳就立刻动手 → 干扰自然咳出反而恶化。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-AAP
+
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1 岁"
+  authors: [Heidi Murkoff, Sharon Mazel]
+  publisher_en: Workman Publishing
+  publisher_zh: 南海出版公司(新经典发行)
+  year: 1989
+  edition: 3rd (2014)
+  location: "第 19 章《急救常识》'宝宝choking时 / 1 岁以下的宝宝',587-589 页中译"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards: [C-S3-004, C-S1-2303, C-S1-061]
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

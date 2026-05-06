@@ -1,0 +1,41 @@
+card_id: C-S1-2216
+stages: [S1]
+tags: [safety, feeding]
+front:
+  title: 母乳储存时间表
+  hook: 室温 6h 冷藏 48h
+back:
+  why_matters: |
+    挤出来的母乳到底能放多久?海蒂版的黄金对照表 — 比口口相传准。
+    室温 6 小时;冰箱冷藏 48 小时;单门冰箱冷冻室 1-2 周;双门冰箱无霜冷冻 3 个月;深冷冻 -18°C 6 个月。
+    技巧:每次冻 85-113 ml(不超过)、易解冻、减少浪费;容器/保鲜袋只装 3/4(膨胀空间)、注明日期。
+    解冻方式:温水浴 30 分钟内用、或冰箱解冻 24 小时内用;禁用微波炉/炉子/室温解冻(破坏抗体)。
+    宝宝吃剩的母乳要丢弃 — 不能再冷冻。
+  what_to_do:
+    - 室温不超过 6h / 冷藏不超过 48h / 冷冻按冰箱类型分
+    - 每次冻 85-113 ml 小份
+    - 解冻用温水浴或冷藏 24h 内
+    - 不用微波炉解冻
+    - 喝剩的不能再冷冻
+  failure_mode: |
+    用微波炉加热 → 破坏免疫成分(母乳的核心价值)。
+    解冻后再冷冻 → 细菌大量繁殖。
+  evidence_level: B
+glossary_refs: []
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors: ["Heidi Murkoff", "Sharon Mazel"]
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh: ["莫夏迪","张敏"]
+  location: "第 6 章第一个月 · 储存乳汁, 页 159"
+  source_id: SRC-040
+related_cards: []
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

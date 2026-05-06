@@ -22,6 +22,24 @@ back:
     包到 6 月不松 → 错过翻身关键期。
   evidence_level: A
 
+  positions:
+    issue: 包裹(swaddle)该不该用 · 怎么用 · 何时停
+    views:
+      - school: Karp
+        source: SRC-003
+        stance: 5S 安抚法第一招(Swaddle)。紧裹 + 双臂内 + 配白噪音,可延长睡眠 1-2 小时;锁住莫罗反射(惊跳反射)防止干扰其他四招。
+      - school: AAP
+        source: SRC-004
+        stance: 可用,但只起安抚作用,不防 SIDS;宝宝出现翻身迹象立刻停。髋部需留蛙腿位空间。
+      - school: 蒙氏(Davies/Lillard)
+        source: SRC-014/016
+        stance: 反对包裹 — 妨碍婴儿练习自我安抚,且干扰莫罗反射的整合发育。改用小毯或睡袋。
+      - school: 鲍秀兰
+        source: SRC-009
+        stance: 反对中国式"蜡烛包"(腿绑直会导致 DDH 髋发育不良,有终身风险);接受松松的"蛙腿位"包裹。
+      - school: 海蒂
+        source: SRC-040
+        stance: 中性立场 — 决策权交给父母,中立列利弊;不站队,作为"主流家长方案"参考。
 glossary_refs:
   - G-PERSON-Bao
   - G-TERM-swaddle

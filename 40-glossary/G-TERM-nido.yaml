@@ -1,0 +1,91 @@
+glossary_id: G-TERM-nido
+type: term
+display_name: nido (蒙氏婴儿园)
+
+full_name_zh: 蒙氏婴儿园 / 蒙氏托
+full_name_en: Nido (Italian for "nest")
+
+one_liner: |
+  蒙特梭利 0-16 月专用教育环境的官方名称(意大利语 "nest" = 巢)。
+  跟"幼儿园"(3-6 岁)/"小学"(6-12 岁)是平行的蒙氏教育层级。中国蒙氏机构通常翻译为"婴儿班"或"小婴儿之家"。
+
+detail: |
+  ## 定义
+  Nido = 意大利语"巢",蒙氏教育对 **0-16 月**婴儿环境的命名。
+  接续 Nido 的是:
+  - **Infant Community**(16 月-3 岁)
+  - **Casa dei Bambini / Children's House**(3-6 岁)
+  - **Elementary**(6-12 岁)
+  - **Adolescent**(12-18 岁)
+
+  Nido 由 Maria Montessori 后期(1940-50 年代)确立,但**实际全球普及度低**(蒙氏机构主要做 3-6 岁)。
+
+  ## Nido 物理环境特征
+  - 整间教室**就是一个 yes space**(全部安全 + 无围栏)
+  - **floor bed**(地板床)代替 crib
+  - **低货架**放 5-6 个活动
+  - **真物**(真碗 / 真镜 / 真植物)
+  - **mirror + mobile** 在动作毯上方
+  - **低桌椅** 给会坐的宝宝用真餐具
+  - **不强光 + 不强音** + 自然色调
+
+  ## Nido 师生比 + 师资
+  - **1 老师 : 3 宝宝**(蒙氏建议)
+  - **同一组老师服务 0-3 岁全程**(consistency 关键)
+  - 老师必须是 **AMI 蒙氏 0-3 认证**(Assistant to Infancy)
+  - **少 turnover**(8-24 月是 consistency 最敏感期)
+
+  ## Nido 老师工作内容
+  - **观察**(主要工作)
+  - 喂奶 / 换尿布(每个宝宝有固定老师)
+  - 介绍新活动
+  - 在宝宝挣扎时给最少帮助
+  - 跟父母一致沟通
+  - **不教**(没有"上课")
+
+  ## 中国 Nido 现状
+  - 全国 Nido 数量极少(< 100 家)
+  - 多数蒙氏园只做 3-6 岁
+  - 0-3 蒙氏服务多以 **playgroup**(亲子班)形式
+  - 月费高(8000-20000 / 月,北上广)
+
+  ## Davies 选 Nido / day care 的标准(本卷 Ch9)
+  - 老师抱宝宝喂奶时**眼神接触**,不刷手机
+  - 环境**放松吸引人**
+  - **天然材质**活动
+  - 睡眠区**floor bed**(可自主起 / 睡)
+  - 6 月+ 可**自喂 + 低桌椅**
+  - 老师**慢动作 + 抱前先告知**
+  - **1:3 师生比**
+  - **无电视 / 无屏幕**
+
+  ## 找不到 Nido 怎么办
+  - 找最接近条件的 day care(温和老师 + 自然材料)
+  - 自办 home day care(几个家庭合作)
+  - 找 RIE / Pikler 派(理念相通)
+  - 自家做(0-3 岁很多家庭就在家)
+
+key_facts:
+  - 蒙氏 0-16 月专用教育环境
+  - 意大利语"巢"
+  - 1:3 师生比 + 同一组老师 0-3 全程
+  - 整教室就是 yes space + floor bed
+  - 中国数量极少 + 月费高
+
+related_glossary:
+  - G-PERSON-Montessori
+  - G-PERSON-Davies
+  - G-TERM-yes-space
+  - G-TERM-floor-bed
+  - G-TERM-prepared-environment
+
+related_cards: []
+
+sources:
+  - source_id: SRC-014
+  - external: AMI 蒙氏 0-3 培训资料
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

@@ -1,0 +1,70 @@
+card_id: C-S2-127
+stages: [S2]
+tags: [montessori, language, parentese, communication]
+
+front:
+  title: 跟宝宝用真词不嘎嘎
+  hook: 用真词代替嘎嘎话
+
+back:
+  why_matters: |
+    新手父母对宝宝最常见的说话方式:**baby talk**(嘎嘎咕咕 / 宝宝吃饭饭 / 拿哥哥 → 拿gege)。
+    蒙氏明确反对 — 用**真词 + 慢语速 + 高音调**(parentese)。
+    区别:
+    | 不要 baby talk | 用 parentese |
+    |---|---|
+    | "宝宝吃饭饭哦" | "Lulu,我们要吃晚饭了" |
+    | "嘎嘎,你笑了" | "你在笑,看到爸爸开心吗" |
+    | "拿gege" | "拿这个,这是哥哥" |
+    | 模糊 / 简化词 | 真实 / 完整词 |
+    Parentese 的特征:
+    - 高音调(吸引宝宝注意)
+    - 慢语速(每个音节清楚)
+    - 夸张表情(宝宝看嘴学发音)
+    - **真实词汇**(就用普通的 / 准确的词)
+    理由 — 蒙氏的"吸收性心智":
+    - 0-1 岁宝宝**全收**你说的语言
+    - 你说什么,他就吸收什么进去
+    - 用真词 → 1 岁说话直接对
+    - 用嘎嘎 → 后面要花更长时间纠
+    Davies:"我们用最美 / 最准的词,因为他在吸收一切。"
+  what_to_do:
+    - 平时怎么说话就怎么对宝宝说
+    - 高音调 + 慢语速 + 真词
+    - 名字 + 完整词("这是苹果",不是"苹果苹")
+    - 鼓励 cooing 时回应同样的音
+    - 边做事边说出来(narrate)
+  failure_mode: |
+    "他听不懂,说嘎嘎让他开心" — 0-3 月已在吸收语音规律,你说什么他都在归档。
+    "用真词他听不懂啊" — 听懂在 6-9 月,但语言学习从 0 月就开始。
+    把"宝宝话"当亲昵 — 短期可爱,长期他要二次学正常词。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Davies
+  - G-PERSON-Montessori
+  - G-TERM-parentese
+  - G-TERM-absorbent-mind
+  - G-TERM-cooing
+
+citation:
+  book_title_zh: "蒙特梭利的小宝宝(0-1岁)"
+  book_title_en: "The Montessori Baby"
+  authors: ["Simone Davies", "Junnifa Uzodike"]
+  authors_zh: ["西蒙·戴维斯", "君妮法·乌佐迪克"]
+  publisher_en: "Workman Publishing"
+  year_en: 2021
+  isbn_en: "978-1-5235-0693-7"
+  location: "Chapter 6 · Language activities > 0-3 months / 3-6 months"
+  source_id: SRC-014
+
+unit_ids: []
+related_cards:
+  - C-S2-008       # 鲍秀兰 1-3 月语言准备
+  - C-S2-021       # Brazelton 2-3 月对话回应
+  - C-S2-122       # Wonder Week 8 周模式
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

@@ -1,0 +1,90 @@
+glossary_id: G-TERM-RIGs
+type: term
+display_name: RIGs (互动概括化表征)
+
+full_name_zh: 互动概括化表征
+full_name_en: Representations of Interactions Generalized (RIGs)
+
+one_liner: |
+  Stern 命名 — 婴儿把多次重复的互动经验**抽象成"原型记忆"**的心理建造单元。
+  是 Bowlby 内部工作模型(IWM)的"积木块"。**终身存在**,可被任何属性触发,是 evoked companion(独自时仍有伴感)的基础。
+
+detail: |
+  ## 定义
+  RIG(Representations of Interactions Generalized)= 多次具体互动经验**平均化**形成的原型记忆。
+  - 不是单一记忆
+  - 是 prototype(原型) — 像把多张照片叠加成一张
+  - 灵活可更新
+
+  ## 形成过程
+  - 第 1 次玩 peek-a-boo:宝宝记下"具体事件 1"
+  - 第 2-3 次:开始平均
+  - 第 12 次后:形成 **RIG_peek-a-boo** — 代表所有 peek-a-boo,不是其中任一次
+  - 历史越长,惯性越大(单次新经验影响越小)
+
+  ## 跟 Bowlby IWM 关系
+  - **RIGs 是 IWM 的"积木块"**
+  - 多个 RIG(peek-a-boo + 喂奶 + 哄睡 + 玩耍 ...)→ 组合成 IWM_with_mom
+  - **RIGs 比 IWM 更细** — 每个具体互动一个
+  - **IWM 比 RIGs 更宏观** — 整体"跟妈妈在一起是什么感觉"
+
+  ## 关键特征
+  - **灵活** — 新经验进来,RIG 自动更新
+  - **多种激活线索** — 任何属性(声音 / 表情 / 动作)可触发
+  - **终身存在** — 一辈子,可激活
+  - **historical inertia** — 老 RIG 越稳越难改
+
+  ## 临床意义
+  - 安全 / 焦虑 / 矛盾 / 紊乱依恋的**根源在 RIG 累积质量**
+  - 早期高频高质量互动 → RIG 数量多 + 质量好 → secure
+  - 不一致的互动(温柔 vs 凶反复)→ RIG 不稳 → 焦虑型
+  - 替代照顾者(爷奶 / 月嫂)如果稳定,会形成自己的 RIG,跟妈不冲突
+
+  ## RIG 跟 evoked companion(C-S3-199)关系
+  - RIG 是**抽象表征**(stored)
+  - Evoked companion 是 RIG 的**激活实例**(retrieved + active memory)
+  - 当宝宝独自玩时,某个属性触发 RIG → evoked companion 激活 → "伙伴在场"
+  - 这是宝宝最早的"自我安抚"心理基础
+
+  ## 跟 Lillard cycle of activity 类比
+  - 都重视"重复互动建认知 / 情感框架"
+  - 蒙氏 cycle 是行为周期 — RIG 是心理积累
+  - 互补
+
+  ## 跟 Pavlov / 行为主义区别
+  - 不是简单的"刺激 → 反应"关联
+  - 是**整个互动场景**的概括化(context + actor + feeling + sequence)
+  - 比 conditioning 复杂得多
+
+  ## 中国家长应用
+  - 每次小互动都重要(在写 RIG)
+  - 求稳定性 > 求完美
+  - 一两次失控不会摧毁 RIG
+  - 替代照顾者要稳定
+  - 别说"宝宝小不会记的" — 在记原型
+
+key_facts:
+  - Stern 命名,Bowlby IWM 的"积木块"
+  - 多次重复互动平均化的原型记忆
+  - 终身存在,可被任何属性触发
+  - Evoked companion 是 RIG 的激活实例
+  - 早期高频高质量 → secure attachment
+
+related_glossary:
+  - G-PERSON-Stern
+  - G-PERSON-Bowlby
+  - G-TERM-internal-working-model
+  - G-TERM-affective-attunement
+  - G-TERM-attachment
+  - G-TERM-core-self
+
+related_cards: []
+
+sources:
+  - source_id: SRC-018
+  - external: Stern《The Interpersonal World of the Infant》Ch 5 + Bowlby attachment trilogy
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

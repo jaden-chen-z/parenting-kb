@@ -1,0 +1,484 @@
+source_id: SRC-031
+title: "WHO + UNICEF Infant and Young Child Feeding Policy Compendium (国际公共卫生指南合集)"
+org: World Health Organization & UNICEF
+source_type: policy_compendium
+url_root: https://www.who.int/health-topics/breastfeeding
+doi: null
+isbn: null
+tier: 1
+language: en
+paywall: false
+captcha: false
+accessed: 2026-05-04
+fetch_method: webfetch_multi
+local_file: null
+file_size_bytes_total: null
+
+# 多文档合集 — WHO+UNICEF 数十年喂养政策汇编
+documents:
+  - doc_id: D1
+    title: "WHO Infant and Young Child Feeding Fact Sheet"
+    url: https://www.who.int/news-room/fact-sheets/detail/infant-and-young-child-feeding
+    last_updated: 2023-12-20
+    status: success
+    notes: "核心数字 + EBF/BFHI/Code 总览"
+
+  - doc_id: D2
+    title: "Ten Steps to Successful Breastfeeding (BFHI 2018 Revised)"
+    url: https://www.who.int/teams/nutrition-and-food-safety/food-and-nutrition-actions-in-health-systems/ten-steps-to-successful-breastfeeding
+    status: success
+    notes: "BFHI 10 步骤完整 — 1991 启动,2018 修订"
+
+  - doc_id: D3
+    title: "International Code of Marketing of Breast-milk Substitutes (1981)"
+    url_primary: https://en.wikipedia.org/wiki/International_Code_of_Marketing_of_Breast-milk_Substitutes
+    status: success_via_wikipedia
+    notes: "WHO 1981 第 34 届 WHA 通过 + 后续决议;主 WHO URL 404,Wikipedia fallback"
+
+  - doc_id: D4
+    title: "Baby-Friendly Hospital Initiative Implementation Status"
+    url: https://en.wikipedia.org/wiki/Baby_Friendly_Hospital_Initiative
+    status: success_via_wikipedia
+    notes: "中国 6,000+ 爱婴医院 + 全球 152+ 国家 15,000+ 设施数据"
+
+  - doc_id: D5
+    title: "WHO Child Growth Standards (2006)"
+    url: https://www.who.int/tools/child-growth-standards
+    status: success_partial
+    notes: "6 国 MGRS 研究 + 7 指标 + 6 大动作里程碑;具体 SD 阈值与中国采纳状态需补"
+
+  - doc_id: D6
+    title: "WHO Complementary Feeding Guidance"
+    url: https://www.who.int/health-topics/complementary-feeding
+    status: success
+    notes: "4 支柱 + 月龄餐数 + WHO 6 月 vs AAP 4-6 月"
+
+  - doc_id: D7
+    title: "WHO ELENA Exclusive Breastfeeding for First Six Months"
+    url: https://www.who.int/tools/elena/interventions/exclusive-breastfeeding
+    status: success_partial
+    notes: "EBF 操作定义(ORS / 维生素 / 药物例外);Cochrane Kramer-Kakuma 引用"
+
+  - doc_id: D8
+    title: "WHO Breastfeeding Topic Page (Continued BF + Targets)"
+    url: https://www.who.int/health-topics/breastfeeding
+    status: success
+    notes: "6-12 月母乳 50% 能量 + 12-24 月 33% + 2030 目标"
+
+  - doc_id: D9
+    title: "Breastfeeding & HIV (2010 ART Era WHO Guidelines)"
+    url: https://en.wikipedia.org/wiki/Breastfeeding_and_HIV
+    status: success_via_wikipedia
+    notes: "AFASS / EBF + ART / 2010 立场转变"
+
+  - doc_id: D10
+    title: "Lancet Breastfeeding Series 2016 (Victora 主编)"
+    url: https://en.wikipedia.org/wiki/Breastfeeding
+    status: success_via_wikipedia
+    notes: "820k 婴儿生命可救 + 44% 全球 EBF + 母乳免疫成分(IgA/lactoferrin)"
+
+  - doc_id: D11
+    title: "Lactational Amenorrhea Method (LAM)"
+    url: https://en.wikipedia.org/wiki/Lactational_amenorrhea
+    status: success_via_wikipedia
+    notes: "3 条件 + >98% 有效 + 泌乳素机制"
+
+  - doc_id: D12
+    title: "WHO Q&A on Breastfeeding"
+    url: https://www.who.int/news-room/questions-and-answers/item/breastfeeding
+    status: success
+    notes: "停母乳决策 + 1 岁后母乳价值 + 奶量不够实操"
+
+  failed_documents:
+    - title: "Innocenti Declaration 1990 + 2005 (UNICEF)"
+      urls_tried:
+        - https://www.unicef.org/innocenti-declaration-1990
+        - https://www.unicef.org/nutrition/innocenti-declaration
+        - https://www.unicef.org/innocenti
+        - https://en.wikipedia.org/wiki/Innocenti_Declaration
+        - https://en.wikipedia.org/wiki/Innocenti_Declaration_on_the_Protection,_Promotion_and_Support_of_Breastfeeding
+      reason: "404 / 403 — 多 URL 全失败"
+      fallback: "高层 framing 通过 BFHI Wikipedia 间接覆盖(1990 Innocenti 是 BFHI 启动的政治基础);具体 4+9 目标细节缺,记 gaps.md"
+
+    - title: "Acceptable Medical Reasons for Breast-milk Substitutes (WHO/UNICEF 2009)"
+      urls_tried:
+        - https://www.who.int/publications/i/item/WHO-NMH-NHD-09.01
+      reason: "404"
+      fallback: "BFHI 第 6 步 'unless medically indicated' 间接覆盖;具体临床清单(半乳糖血症 / PKU / 严重早产等)缺,记 gaps.md"
+
+    - title: "PAHO/WHO Guiding Principles for Complementary Feeding (2003) 10 大原则全文"
+      urls_tried:
+        - https://www.paho.org/hq/dmdocuments/2009/principlescompfeeding.pdf
+        - https://en.wikipedia.org/wiki/Complementary_feeding
+      reason: "404"
+      fallback: "WHO Complementary Feeding 主页拿到 4 支柱 + 月龄餐数;具体 10 条原则需 PDF,记 gaps.md"
+
+metadata:
+  publishers: ["World Health Organization", "UNICEF"]
+  portal: "WHO.int + UNICEF.org + en.wikipedia.org (fallback)"
+  geographic_scope: global
+
+# WHO 独家维度 — 跟现库其他喂养源(SRC-006 AAP / SRC-009 鲍秀兰 / SRC-024 松田)的差异化
+who_unique_themes:
+  - theme: "国际公共卫生政策维度"
+    detail: "现库已有 AAP(美)/ 鲍秀兰(中)/ 松田(日)三国指南,WHO 是唯一全球医学共识"
+
+  - theme: "BFHI 母婴友好医院 10 步骤"
+    detail: "现库无任何来源讲产院实操标准 — 中国 6,000+ 爱婴医院实际效果差距"
+
+  - theme: "International Code of Marketing 1981 (奶粉营销禁令)"
+    detail: "现库无来源讲奶粉公司监管 — 中国奶粉品牌(飞鹤/雅培/惠氏/合生元)实际是否守 Code 是独家维度"
+
+  - theme: "WHO Growth Standards 2006 母乳基线"
+    detail: "AAP CDC 2000 是配方奶基线;WHO 2006 是母乳基线 — 同一个娃在两图上位置不同"
+
+  - theme: "持续母乳到 2 岁国际共识"
+    detail: "AAP 推 1 岁可断;鲍秀兰 1 岁可断;松田弹性;WHO 是唯一明确推 2 岁内继续"
+
+  - theme: "EBF 0-6 月操作定义 + ORS/维生素/药物例外"
+    detail: "AAP/鲍秀兰只说 6 月,没明确 ORS / 维生素 / 药物 是否打破 EBF 资格 — WHO 给清单"
+
+  - theme: "HIV+ 妈妈喂养 2010 ART 时代修订"
+    detail: "现库唯一覆盖 — AAP/鲍秀兰/松田 都不专章讲"
+
+  - theme: "Lancet 2016 系列 820k 生命数字"
+    detail: "Victora 主编 Lancet 2016 给出全球 EBF 普及可救 820,000 婴儿生命的硬数据"
+
+  - theme: "LAM 哺乳闭经法天然避孕"
+    detail: "WHO 列为 4 大产后避孕方法之一;3 条件 + >98% 有效 — 现库无来源覆盖"
+
+  - theme: "WHO 全球目标 2025 EBF ≥ 50%"
+    detail: "政策性硬指标 — 中国 EBF 率距此目标多远"
+
+# 跟现库各派关系
+relationship_to_aap:
+  共识: "出生 1 小时内开奶 / 8-12/24h 频次 / EBF 益处"
+  分歧: "辅食时机(WHO 6 月 vs AAP 4-6 月) / 持续母乳(WHO 2 年 vs AAP 1 年可断) / Growth chart(WHO 2006 母乳基线 vs CDC 2000 配方奶基线)"
+  独家: "BFHI 10 步 / Code / Innocenti / HIV+ 喂养"
+
+relationship_to_baoxiulan:
+  共识: "母乳重要 / 6 月 EBF / 辅食 6 月"
+  分歧: "中国'早断早好'传统 vs WHO 2 年 / 中国奶粉营销宽松 vs Code 严格"
+  独家: "Code 监管 / BFHI 国际标准"
+
+relationship_to_matsuda:
+  共识: "反对产院定时喂奶(松田 SRC-024 C-S1-761 一致 BFHI 第 8 步)/ 反对奶瓶过早(BFHI 第 9 步)/ 母乳至上"
+  分歧: "松田给妈妈更多弹性,WHO 立场更绝对(EBF 6 月 / 持续 2 年)"
+  独家: "Code 营销禁令 / BFHI 步骤化标准 / Lancet 数字证据"
+
+relationship_to_brazelton_karp:
+  共识: "母乳重要 / 早期信号识别"
+  分歧: "Karp 推奶嘴(母乳建立后 3-4 周)vs BFHI 第 9 步明确警告奶嘴风险"
+  独家: "国际公共卫生政策视角 vs 临床实操视角"
+
+relationship_to_shonkoff:
+  共识: "早期发展决定一生 / 营养是基础"
+  分歧: "Shonkoff 是美国 NRC 综述,WHO 是国际公共卫生 — 美国国家 vs 全球"
+  独家: "BFHI / Code 是 WHO 独家政策杠杆"
+
+relationship_to_lerner:
+  共识: "Lerner V4 SRC-029 已有 G-TERM-WHO-feeding 引用 WHO 立场"
+  独家: "本卷给 G-TERM-WHO-feeding 提供完整 verbatim"
+
+evidence_level_calibration:
+  A级: "≥ 70% 应是 A 级 — Tier 1 国际权威 + Cochrane / Lancet 元分析支持"
+  B级: "5-15% — 政策建议(政治+科学混合,如 2 岁底线)"
+  C级: "5-10% — 委员会推断 / 不同流行区差异(如 HIV+ 喂养在高资源 vs 低资源区)"
+
+# verbatim 关键内容(按主题组织)
+verbatim_content:
+
+  ebf_operational_definition:
+    quote_en: "Exclusive breastfeeding means that the infant receives only breast milk. No other liquids or solids are given – not even water – with the exception of oral rehydration solution, or drops/syrups of vitamins, minerals or medicines."
+    detail_zh: |
+      WHO EBF 操作定义:婴儿只喝母乳,任何其他液体/固体都不给(连水都不给),例外是:
+      - 口服补液(ORS)
+      - 维生素/矿物质 滴剂或糖浆
+      - 药物
+      [跟 AAP/鲍秀兰/松田 区分:其他派只说 "EBF 6 月",没明确这些边界]
+    sources: [D7]
+
+  six_months_recommendation:
+    quote_en: "WHO and UNICEF recommend that children initiate breastfeeding within the first hour of birth and be exclusively breastfed for the first 6 months."
+    detail_zh: |
+      WHO+UNICEF 共同建议:
+      - 出生 1 小时内开奶(early initiation)
+      - 0-6 月纯母乳喂养(EBF)
+      - 6 月起辅食 + 继续母乳到 2 岁或更久
+    sources: [D1, D8]
+
+  continued_bf_to_two_years:
+    quote_en: "From the age of 6 months, children should begin eating safe and adequate complementary foods while continuing to breastfeed for up to two years of age or beyond."
+    detail_zh: |
+      6 月后,母乳依然提供:
+      - 6-12 月:up to half(≥ 50%)能量 + 营养
+      - 12-24 月:up to one third(≥ 33%)营养
+      跟 AAP "1 岁可断" / 中国"早断早好"立场对立。
+    sources: [D8]
+
+  bfhi_10_steps_full:
+    quote_en: |
+      Critical Management Procedures:
+      Step 1a: Comply fully with the International Code of Marketing of Breast-milk Substitutes
+      Step 1b: Have a written infant feeding policy
+      Step 1c: Establish ongoing monitoring and data management systems
+      Step 2: Ensure staff have sufficient knowledge, competence and skills
+
+      Key Clinical Practices:
+      Step 3: Discuss the importance and management of breastfeeding with pregnant women
+      Step 4: Facilitate immediate skin-to-skin contact and support breastfeeding initiation
+      Step 5: Support mothers to initiate and maintain breastfeeding
+      Step 6: Do not provide breastfed newborns any food or fluids other than breast milk, unless medically indicated
+      Step 7: Enable mothers and babies to remain together 24 hours a day (rooming-in)
+      Step 8: Support mothers to recognize and respond to infant feeding cues
+      Step 9: Counsel mothers on use and risks of bottles, teats, pacifiers
+      Step 10: Coordinate discharge for ongoing community support
+    detail_zh: |
+      BFHI(母婴友好医院倡议)1991 启动,2018 修订。10 步:
+      关键管理(1a/1b/1c/2):遵守 Code / 书面政策 / 持续监测 / 员工训练
+      关键临床(3-10):产前讨论 / 立即肌肤接触 / 持续支持 / 仅医学指征补充 / 24h 同室 / 反馈信号 / 警告奶瓶 / 出院衔接
+    sources: [D2]
+
+  code_of_marketing_summary:
+    quote_en: "All forms of product advertising and promotion are prohibited. Mothers should not be given free product samples. Promotion of any product is forbidden in a health care facility. Pictures or text which may idealize the use of infant formula should not be used. Since 1981, 84 countries have enacted legislation implementing all or many of the provisions of the Code."
+    detail_zh: |
+      WHO Code 1981 通过(第 34 届 WHA),后续 WHA 决议(1986/1990/1994/2005/2010/2016)持续加强。
+      4 大利益相关方禁令:
+      - 妈妈端:无广告 + 无样品 + 公司不得直接联系
+      - 医生端:无礼物 + 无回扣 + 样品不得转给妈妈
+      - 医院端:无 promotion + 不得免费/低价提供
+      - 标签端:无理想化图文 + 必须警告污染风险
+      实施:1981 至今 84 国立法,但违规仍广泛(IBFAN/UNICEF/WHO 监测)
+      涵盖产品:配方奶 / 跟随奶 / 增长奶 / 1 岁内任何乳制品 / 奶瓶 / 奶嘴
+    sources: [D3]
+
+  bfhi_global_status:
+    quote_en: |
+      "approximately 15,000 facilities in 152+ countries accredited" (2011)
+      China: "6,000+ Baby-Friendly Hospitals; exclusive breastfeeding rose from 29% (1992) to 68% (1994) in rural areas"
+      Sweden: "all 65 maternity centers designated by 1997"
+      US 2018: "512 hospitals (24.57% of annual births)"
+    detail_zh: |
+      BFHI 全球认证现状(2011 数据):
+      - 全球 152+ 国 15,000+ 设施
+      - 中国:6,000+ 爱婴医院(早期签署国);1992-1994 农村 EBF 率从 29% → 68%
+      - 瑞典:1997 所有 65 个产科中心全认证
+      - 美国 2018:512 医院(覆盖年新生儿 24.57%)
+      [中国数字层级首位,但实操"是否真守 10 步"质量参差不齐 — 独家维度]
+    sources: [D4]
+
+  iycf_global_indicators:
+    quote_en: |
+      "About 44% of infants 0-6 months old are exclusively breastfed" (2015-2020)
+      "Over 820,000 children's lives could be saved every year"
+      "45% of child deaths" linked to malnutrition
+      "149 million stunted, 45 million wasted, 37 million overweight" (2022, under 5)
+    detail_zh: |
+      Lancet 2016 系列 + WHO 数据:
+      - 全球 EBF 率(0-6 月)44%(目标 2025 ≥ 50%)
+      - 普及 EBF 每年可救 82 万婴儿生命
+      - 营养不良关联 45% 儿童死亡
+      - 全球 5 岁以下:1.49 亿矮小 + 4500 万消瘦 + 3700 万超重
+    sources: [D1, D10]
+
+  complementary_feeding_4_pillars:
+    quote_en: |
+      Four pillars: 及时性 (Timely - 6 months);
+      充分性 (Adequate - sufficient energy, protein, micronutrients);
+      安全性 (Safe - hygienic preparation);
+      反馈式 (Responsive - to child's hunger cues)
+    detail_zh: |
+      WHO 辅食 4 大支柱:及时(6 月起)+ 充分(能量/蛋白/微营养)+ 安全(卫生)+ 反馈(看信号)
+      餐数随月龄:
+      - 6-8 月:日 2-3 餐(辅食)
+      - 9-11 月:日 3-4 餐(辅食)
+      - 12-23 月:日 3-4 餐 + 1-2 加餐
+      食物质地:6 月泥糊半固体 → 8 月 finger food → 12 月家庭食物
+    sources: [D6]
+
+  who_growth_standards:
+    quote_en: "WHO Multicentre Growth Reference Study (MGRS) — 6 countries: Brazil, Ghana, India, Norway, Oman, USA. Indicators: length/height-for-age, weight-for-age, weight-for-length, BMI-for-age, head circumference. Plus six gross motor milestones with windows of achievement."
+    detail_zh: |
+      WHO 2006 生长标准 — 母乳喂养基线(vs CDC 2000 配方奶基线):
+      - 6 国 MGRS 研究(巴西/加纳/印度/挪威/阿曼/美国)
+      - 7 大指标 + 6 大动作里程碑(独坐 / 扶站 / 爬 / 扶走 / 独站 / 独走)
+      - 跟 CDC 2000 不同:CDC 是配方奶喂养婴儿,WHO 是 EBF + 持续母乳
+      母乳娃在 CDC 图上"显轻",在 WHO 图上正常 — 别误判生长不良
+    sources: [D5]
+
+  hiv_feeding_2010_revision:
+    quote_en: "If replacement feeding is acceptable, feasible, affordable and safe (AFASS), HIV-infected mothers are recommended to use replacement feeding. Otherwise, exclusive breastfeeding is recommended."
+    detail_zh: |
+      WHO 2010 修订 — ART 时代立场转变:
+      - 旧立场(2003):HIV+ 妈妈尽量避免母乳(传播风险)
+      - 新立场(2010 ART):
+        a. 替代喂养 AFASS(可接受/可行/可负担/可持续/安全)→ 用配方奶
+        b. AFASS 不全 → EBF + 妈妈服 ART(降低传播)
+      - 高资源区(美/欧):MTCT 几乎消除
+      - 低资源区(撒哈拉):EBF + ART 推荐
+      关键:不要混合喂养(母乳+配方)— 比纯一种风险更高
+    sources: [D9]
+
+  lam_natural_contraception:
+    quote_en: "For women who follow the suggestions and meet the criteria, lactational amenorrhea method (LAM) is >98% effective during the first six months postpartum. Three conditions: exclusive breastfeeding, infant under six months, no menstrual return after 56 days postpartum."
+    detail_zh: |
+      LAM(哺乳闭经法)— WHO 推荐 4 大产后避孕方法之一:
+      3 条件同时满足才有效(>98%):
+      ① 完全母乳(EBF,夜间日间≥4-6 小时一次)
+      ② 婴儿 < 6 月
+      ③ 月经未恢复(产后 56 天后)
+      失败率 < 2%
+      机制:吸吮 → 泌乳素 → 抑制 GnRH → 抑制排卵
+      任一条件失效 → 立刻找其他避孕方法
+    sources: [D11]
+
+  bfhi_step_8_responsive_feeding:
+    quote_en: "Step 8: Support mothers to recognize and respond to infant feeding cues. (反对定时喂养,倡导按需喂养)"
+    detail_zh: |
+      BFHI 第 8 步明确反对产院"3 小时定时喂奶":
+      - 跟松田 SRC-024 C-S1-761 一致(松田反产院"3 小时定时 + 用枕头支奶瓶")
+      - 跟 AAP "on demand" 立场一致
+      - 中国传统产院仍多见定时喂奶 — BFHI 标准与实操差距
+    sources: [D2]
+
+  bfhi_step_9_pacifiers_bottles:
+    quote_en: "Step 9: Counsel mothers on the use and risks of bottles, teats, pacifiers."
+    detail_zh: |
+      BFHI 第 9 步对奶瓶/奶嘴/安抚奶嘴的立场:
+      - 母乳建立期(0-4 周)避免奶嘴(防 nipple confusion)
+      - 跟 AAP/Karp"3-4 周后可用"立场不同 — 更严格
+      - 跟松田反产院"枕头支奶瓶"一致
+    sources: [D2]
+
+  workplace_breastfeeding_support:
+    quote_en: |
+      Recommendations include workplace breastfeeding support, paid maternity leave (≥6 months ideal), pumping breaks, and clean lactation rooms.
+    detail_zh: |
+      WHO 工作场所母乳支持建议:
+      - 带薪产假 ≥ 6 月(理想)
+      - 哺乳室(干净/隐私/冰箱)
+      - 弹性时间挤奶
+      - 中国法律产假 158 天(约 5 月)— 仍短于 WHO 6 月理想
+    sources: [D12]
+
+  iron_after_six_months_complementary:
+    quote_en: "From 6 months onwards, complementary foods need to be high in iron, e.g. meat, poultry, fish, iron-fortified cereals."
+    detail_zh: |
+      6 月起辅食含铁优先(母乳铁吸收率高但量降):
+      - 推荐:肉/禽/鱼/强化铁米粉
+      - 跟 AAP 一致(SRC-006 提铁强化米粉)
+      - 跟松田一致(SRC-024 鱼/肉早期引入)
+      - 中国跟随:鸡蛋黄(铁源)、肝泥、瘦肉泥
+    sources: [D6]
+
+  bfhi_step_4_skin_to_skin:
+    quote_en: "Step 4: Facilitate immediate and uninterrupted skin-to-skin contact and support mothers to initiate breastfeeding as soon as possible after birth."
+    detail_zh: |
+      BFHI 第 4 步出生肌肤接触(skin-to-skin):
+      - 出生立即开始,不间断
+      - 持续 ≥ 1 小时(直到完成第一次吸吮)
+      - 早产/剖宫产同样适用(只要妈妈状况允许)
+      - 中国产院常规快速包裹 + 测量 + 称重 → 跟 BFHI 标准差距
+    sources: [D2]
+
+  immunological_components_breastmilk:
+    quote_en: "Breast milk contains secretory immunoglobulin A (IgA), lactoferrin, oligosaccharides, antioxidants, and anti-inflammatory proteins."
+    detail_zh: |
+      母乳免疫成分(配方奶不可能完全模拟):
+      - sIgA(分泌型免疫球蛋白 A):覆盖喉/肺/肠黏膜病原体
+      - lactoferrin(乳铁蛋白):广谱抗病原
+      - oligosaccharides(寡糖):喂益生菌 / 防病原黏附
+      - 抗氧化酶 + 抗炎蛋白
+      "母乳是活的食物" — Lancet 2016 关键论点
+    sources: [D10]
+
+  maternal_health_benefits_breastfeeding:
+    quote_en: "Mothers who breastfeed have reduced risk of breast cancer, ovarian cancer, type 2 diabetes, cardiovascular disease, and rheumatoid arthritis."
+    detail_zh: |
+      母乳妈妈长期健康益处(打破"母乳只为娃")
+      - 乳腺癌降 6%(每 12 月母乳)
+      - 卵巢癌降
+      - 2 型糖尿病降
+      - 心血管疾病降
+      - 类风湿关节炎降
+      Lancet 2016 系列硬数据
+    sources: [D10]
+
+  breastfeeding_iq_benefit:
+    quote_en: "Children who were breastfed scored higher on IQ tests in later life. Horta et al. 2015 meta-analysis."
+    detail_zh: |
+      母乳 IQ 益处:
+      - Horta 2015 元分析:母乳娃 IQ 高 ~3 点(中低收入国家更明显)
+      - Lancet 2016 重述
+      - 长期效应:学校成绩 + 成年收入提升
+      [跟 G-TERM-WHO-feeding 已存在引用对接 SRC-029 Lerner V4]
+    sources: [D7, D10]
+
+  who_2025_targets:
+    quote_en: "Global targets for 2025: at least 50% of infants 0-6 months exclusively breastfed."
+    detail_zh: |
+      WHO 全球营养目标 2025:
+      - EBF(0-6 月)≥ 50%(目前 44%)
+      - 矮小儿童降 40%(stunting)
+      - 出生体重过低降 30%
+      - 肥胖儿童不增
+      中国当前 EBF 率(数据估算 30-40%)— 距目标还有距离
+    sources: [D1]
+
+  early_initiation_first_hour:
+    quote_en: "Initiation of breastfeeding within the first hour of life."
+    detail_zh: |
+      出生 1 小时内开奶(early initiation):
+      - WHO+UNICEF 共同建议
+      - 全球只 ~45% 婴儿在 1 小时内开奶
+      - 关键作用:初乳(colostrum)免疫保护 + 妈妈泌乳启动 + 母婴 bonding
+      - BFHI 第 4 步具体化
+    sources: [D1, D2]
+
+  netcode_monitoring:
+    quote_en: "NetCode (Network for Global Monitoring and Support for Implementation of the International Code) supervises Code violations globally."
+    detail_zh: |
+      NetCode(WHO + IBFAN + UNICEF 联合监测网):
+      - 监测各国 Code 实施 + 违规
+      - 84 国立法实施 Code 全部或部分条款
+      - 违规仍广泛 — Nestle 1977 抵制运动是历史标志
+      - 中国 Code 实施法规弱(《婴幼儿配方乳粉广告法》仅部分对接 Code)
+    sources: [D3]
+
+# 给后续单元/产卡用的精简摘要
+summary: |
+  WHO + UNICEF 婴幼儿喂养政策合集(SRC-031,Tier 1)— 国际公共卫生权威立场。
+
+  **6 大独家维度填补现库**:
+  1. **国际共识**(vs AAP 美 / 鲍秀兰 中 / 松田 日)— 完成 4 国卫生指南闭环
+  2. **BFHI 母婴友好医院 10 步骤**(产院实操标准)— 中国 6,000+ 爱婴医院实操差距
+  3. **International Code of Marketing 1981**(奶粉营销禁令)— 中国奶粉品牌监管现状
+  4. **WHO Growth Standards 2006 母乳基线**(vs CDC 2000 配方奶基线)
+  5. **持续母乳到 2 岁明确推荐**(vs AAP 1 年 / 中国"早断早好"传统)
+  6. **HIV+ 妈妈喂养 2010 ART 时代立场**(现库唯一覆盖)
+
+  **核心硬数据**:
+  - 全球 EBF 率(0-6 月)44%(2025 目标 ≥ 50%)
+  - 普及 EBF 每年可救 82 万婴儿生命(Lancet 2016)
+  - 6-12 月母乳供 ≥ 50% 能量,12-24 月供 ≥ 33%
+  - LAM >98% 有效避孕(3 条件)
+  - 母乳娃 IQ 高 ~3 点(Horta 2015 元分析)
+
+  **关键政策杠杆**:
+  - BFHI 1991 启动 → 2018 修订 → 全球 152+ 国 15,000+ 设施
+  - Code 1981 通过 + 后续 WHA 决议加强
+  - Innocenti Declaration 1990(具体目标记 gaps)+ 2005 补充
+  - NetCode 监测网络
+
+  **跟现库各派对照**:
+  - 共识:出生 1 小时内开奶 / 6 月 EBF / 反产院定时喂奶
+  - 分歧:辅食时机(WHO 6 月 vs AAP 4-6 月)/ 持续母乳(WHO 2 年 vs AAP 1 年)/ Growth chart 基线
+  - 独家:Code / BFHI / Innocenti / 国际数据 / HIV+ART
+
+referenced_by_cards: []
+
+notes: |
+  Phase 13 抓取(2026-05-04)。WebFetch 多文档合集策略,12 文档抓取成功,3 个失败(Innocenti 全 URL / Acceptable Medical Reasons / PAHO 10 原则全文)— gaps.md 留记。
+  Wikipedia 作为 WHO 政策性文档失败时的 fallback,关键 verbatim 引用保留。
+  Tier 1 路径:`10-sources/tier1-authoritative/notes/SRC-031.yaml`(政策性国际权威,不放 tier3-books)。
+  跟现库:SRC-006(AAP Feeding) / SRC-009(鲍秀兰) / SRC-024(松田) 喂养立场对照,完成 4 国卫生指南闭环。

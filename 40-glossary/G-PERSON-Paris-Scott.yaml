@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Paris-Scott
+type: person
+display_name: "Paris(斯科特·帕里斯)"
+
+full_name_en: "Scott G. Paris"
+full_name_zh: "斯科特·帕里斯"
+
+position: |
+  University of Michigan
+
+contribution: |
+  早期阅读 5 要素综述
+
+one_liner: |
+  斯科特·帕里斯 — 早期阅读 5 要素综述
+
+key_facts:
+  - "本卷章节:Ch 2 主笔"
+  - "Lerner V4 命中:25 次"
+  - "学派:Lerner V4 应用心理学派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-029
+    chapter: "Ch 2 主笔"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,173 @@
+source_id: SRC-040
+title: "海蒂育儿大百科 0-1岁(中译本)"
+title_en: "What to Expect the First Year"
+org: null
+source_type: book_chapter
+url: null
+doi: null
+isbn: 978-7-5442-6992-6
+isbn_zh: 978-7-5442-6992-6
+tier: 3
+language: zh
+paywall: false
+captcha: false
+accessed: 2026-05-04
+fetch_method: user_provided_pdf_ocr
+local_file: ../raw_pdfs/murkoff_what_to_expect_zh.md
+file_size_bytes: 1878759
+chunks_dir: ../raw_pdfs/murkoff_chunks/
+
+metadata:
+  authors_en:
+    - Heidi Murkoff
+    - Sandee Hathaway
+    - Arlene Eisenberg
+  authors_zh:
+    - 海蒂·墨可夫
+    - 桑德·海瑟薇
+    - 阿琳·艾森伯格
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典文化发行)"
+  publisher_loc: 海口
+  year_en: 1989
+  year_2nd_ed_en: 2010
+  year_zh: 2014
+  edition: "全新第 2 版"
+  edition_zh: "中文第 1 版"
+  translator_zh:
+    - 莫夏迪
+    - 张敏
+  series_zh: 海蒂育儿大百科系列
+  global_sales: "1000 万册以上(英文原版)/ 3400 万册以上(系列全球销量)"
+  ranking: "美国亚马逊孕产类图书排行榜第 3 名"
+  time_magazine: 'Heidi Murkoff 入选《时代》周刊 2011 年度"世界最具影响力的 100 人"'
+
+# 流派定位
+school: "美国主流大众育儿百科"
+positioning: |
+  非流派原典,定位"主流共识对照"。
+  与 Karp(流派)、AAP(机构)、Brazelton(临床)、Bowlby(理论)、Pikler/Davies/Lillard(蒙氏 RIE)等专题书籍互补。
+  代表"普通美国家庭实际遵循的共识",在中国家庭中是少有的"美国主流大众派"权威。
+
+# verbatim 关键内容(按主题组织,中文为主)
+verbatim_content:
+  prenatal_decisions:
+    - "包皮环切术(circumcision):AAP 1999 立场中性 — 健康好处略大于风险,但不强烈推荐"
+    - "母乳/配方决定:权衡而非道德题,1 个月也比没喂强"
+    - "祖父母到访:头几周三人独处建立亲密最关键 — 老人晚到几周更好"
+    - "婴儿用品:先列清单别先买全套,等亲友送、衣服买 6-9 月码"
+    - "乳房产前不需任何'锻炼' — 越折腾越糟"
+    - "纸尿裤 vs 棉布尿布:没绝对赢家"
+  newborn_care:
+    - "黄疸三类:生理性(第 5 天最重)、母乳性(2% 母乳宝宝、可持续 6 周、不需断奶)、核黄疸(危险,哭声弱+反射差)"
+    - "脐带护理:酒精退场,干燥就好(新研究显示酒精反而增感染)"
+    - "包裹要不要做:看孩子定,会翻身后必须停止"
+    - "婴儿粉刺:'新生儿青春期' — 只洗不挤不涂"
+    - "胎记 6 类区分:草莓/海绵/扩张斑/葡萄酒色斑/咖啡牛奶斑/蒙古斑"
+    - "鹅口疮:母婴双向感染,必须双向同治才能根除"
+    - "囟门红旗:凸=颅压增高,凹=脱水,过早闭合=头部畸形"
+    - "周期性呼吸:5-10 秒暂停是正常的,不是 SIDS 前兆"
+    - "6 种意识状态:安静醒/活动醒/大哭/昏昏欲睡/安静睡/REM 睡"
+  feeding:
+    - "妈妈端 7 大好处:子宫复旧/恶露少/-500 卡/抑制排卵/降癌风险/降骨质疏松/强制休息"
+    - "母乳频喂正常,母乳消化快,8-12 次/天是 AAP 标准"
+    - "配方奶冲调:水必须烧开放凉,严格按罐比例,1 小时内喝完"
+    - "母乳储存:室温 6h / 冷藏 48h / 冷冻按冰箱类型 1 周到 6 月,禁微波解冻"
+    - "奶瓶喂奶 5 不要:不托瓶不躺喂不强迫不忽略流速空气"
+    - "排气 3 种姿势:肩抱/坐腿/趴腿,轻拍非重打"
+    - "牛奶 1 岁前禁,加铁奶粉替;12 月-2 岁全脂,2 岁后才低脂(脂肪助脑发育)"
+    - "贫血 6/9/12 月筛,母乳娃 6 月起必补铁"
+    - "1 岁戒奶瓶防龋齿,18 月前完成"
+    - "1 岁后食欲下降很正常(年增长率从 3 倍降到 1/3)"
+  vaccines_milestones:
+    - "2 月第一波疫苗:DTaP/Hib/IPV/PCV/HepB/Rotavirus 集中"
+    - "DTaP 副反应:1/3 局部红肿是正常"
+    - "疫苗 5 大流言一句话破:不致自闭/汞早已无/不超载/天然免疫不安全/不打更危险"
+    - "疫苗后 7 大红旗:高烧>40.5°C 抽搐 哭闹>3h 异常昏睡 严重过敏 身体瘫软 失去意识"
+    - "12 月儿保 + 第四波疫苗:MMR/Varicella/HepA/PCV4/Hib4"
+    - "9-15 月走路都正常,18 月不走才需就医"
+    - "12 月真词:妈妈/爸爸 vs 真词,9-16 月第一个真词都正常"
+    - "指物 10-12 月起,P0 缺口语言能力最强预测因子"
+  sleep_discipline:
+    - "5 月睡眠倒退:Ferber 渐延法/椅子法/系统唤醒/增强节奏 4 选 1 坚持 2 周"
+    - "睡前分离焦虑温和应对:雷打不动流程 + 过渡物品 + 渐进退出"
+    - "戒夜奶 1 岁前后,断奶进程同时改睡前喂养习惯"
+    - "管教 ≠ 体罚:10 月起步,AAP 反对,幽默+替代选择优于责骂"
+  safety_emergency:
+    - "1 岁内噎食:5 拍背 + 5 胸压(婴儿海姆立克)"
+    - "婴儿 CPR:30 压 2 吹 100 次/分"
+    - "烫伤先冷水 30 分,别用冰"
+    - "撞头后观察 6 小时,12 红旗送医"
+    - "中毒:别催吐,先打中毒中心"
+    - "餐椅 7 安全要点 + 学步车 AAP 已禁 + 婴儿秋千 30 分钟 ×2 上限"
+    - "8 月起 babyproofing,四肢着地视角"
+    - "5 岁前两个宝宝绝不独处一房"
+  mom_first_year:
+    - "哺乳妈妈每天多吃 400-500 卡(双胞胎 800-1000)"
+    - "父母疲劳综合征第一年逃不掉,不是失败是规律"
+    - "产后抑郁 vs Baby Blues 区分(60-80% 妈妈有 Blues / 10-20% 持续 PPD)"
+    - "哺乳期避孕仍可怀(月经前已排卵)"
+    - "产后 6 周内禁剧烈动作 + 凯格尔健肌法防尿失禁"
+    - "给自己留时间不是自私 + 不同风格妈妈都没错"
+  father:
+    - "美国 FMLA 12 周陪产假但少给薪"
+    - "居家爸爸不是稀奇 250 万人在做"
+    - "父亲也会产后抑郁(雌激素水平也升高)"
+    - "爸爸的触摸对宝宝同样重要(除哺乳外都行)"
+    - "爸爸塑造的孩子 5 岁更自信"
+  sibling:
+    - "怀孕 3 月末告诉老大刚好"
+    - "老大退化是正常的别施压"
+    - "老大伤害小宝多是好奇不是恶意"
+    - "老大想喝奶让他试一口"
+    - "5 岁前两个宝宝绝不独处一房"
+    - "分配时间略偏老大可以(过渡期合理)"
+    - "让老大当主助手不当小家长"
+
+summary: |
+  Murkoff《What to Expect the First Year》是美国孕产育儿全民参考最畅销系列。
+  与流派原典互补,定位"主流大众共识对照"。覆盖 0-1 岁全段 + 妈妈第一年 + 父亲 + 多胎 + 二孩。
+  在国内由南海出版公司 2014 年发行(译者莫夏迪、张敏),全新第 2 版(英文 2010)。
+
+  核心价值:
+  - 填补 P0 缺口 8 项:G6 黄疸 / G7 脐带 / G8 新筛 / G9 2 月疫苗 / G10 昼夜节律 / G11 母乳→混合 / G12 LEAP / G13 睡眠训练
+  - 海蒂独家章节:父亲(中国家长稀缺指导)+ 多胎喂养 + 二孩老大反应 + 美国 FMLA 陪产假 + 居家爸爸正常化
+  - 中性立场示范:包裹/共睡/奶嘴/睡眠训练 都给两派列利弊不站队
+  - 美国主流大众视角:为中国家长提供"AAP 西医背书 + 大众派可执行"双重维度
+  - 自我修正示例:海蒂 2010 旧版延后过敏原 vs 2014 新版接受 LEAP 早引入,展示主流共识更新轨迹
+
+  与现有 23 源(Karp/AAP/鲍秀兰/Brazelton/Bowlby/WW/Davies/Gopnik/Lillard/Stern/Lansbury/Gerber/松田/Shonkoff/Pikler/Lerner V1-V4/WHO 等)
+  形成完整对照,补足"美国主流家庭实际遵循的共识"维度。
+
+referenced_by_cards: |
+  Phase 14 共产 156 张知识卡 + 11 张术语卡:
+  - s0-pregnancy: 31 张(C-S0-2053..2066, 2153..2168, 2400)
+  - s1-newborn: 38 张(C-S1-2102..2104, 2202..2223, 2302..2307, 2500..2506)
+  - s2-1to3mo: 17 张(C-S2-2005..2016, 2105..2108, 2200)
+  - s3-3to6mo: 27 张(C-S3-2146..2152, 2246..2259, 2346..2350, 2400)
+  - s4-6to9mo: 13 张(C-S4-2144..2151, 2244..2248)
+  - s5-9to12mo: 23 张(C-S5-2143..2160, 2243..2247)
+  - s6-12to24mo: 5 张(C-S6-1600..1604)
+  - s7-24to36mo: 2 张(C-S7-1100..1101)
+
+  evidence_level 分布:A=63 / B=87 / C=6
+
+  新术语卡 11 张:G-PERSON-Murkoff, G-TERM-circumcision, G-TERM-cradle-cap, G-TERM-thrush, G-TERM-fontanel,
+                G-TERM-periodic-breathing, G-TERM-LEAP-trial, G-TERM-allergy-introduction, G-TERM-babyproofing,
+                G-TERM-postpartum-recovery, G-TERM-FMLA
+
+notes: |
+  Phase 14 / 2026-05-04 自主 session 完成。任务书 PHASE14_MURKOFF.md。
+  与 SRC-031 WHO + UNICEF 并行 — ID 严格隔离避撞:SRC-040 + 段 ID +500 buffer。
+
+  OCR 质量中等(~74 万中文字符 / 单行文件 / 版权页前 22000 字符乱码 / 正文可读)。
+  Phase A 工程化分块:7 个 ~103K Part 文件 to murkoff_chunks/(带 500 字符 overlap)。
+  Phase B-D 全部 subagent 路径权限受限,主线 Python 搬运 yaml(参 PHASE14_PART1-7_PLAN.md + AUDIT_PLAN.md checkpoints)。
+
+  Phase D 跨源整合:
+  - 6 张 evidence_level 升级 B → A
+  - conflicts.md L1-L8 节追加(海蒂 vs Karp/AAP/Bowlby/Lillard/Davies/松田 8 大立场对照)
+  - gaps.md ✅ 8 项 P0 + 9 项 P1 resolved
+  - related_cards 双向链接 48 对识别(主线本次未批量执行,建议 Phase 15 处理)
+
+  完工时 books_to_buy.md 16 条目最终状态:16/16 100% 完成 ✅

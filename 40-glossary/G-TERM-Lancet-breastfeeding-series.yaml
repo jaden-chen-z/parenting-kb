@@ -1,0 +1,54 @@
+glossary_id: G-TERM-Lancet-breastfeeding-series
+type: term
+display_name: "Lancet 2016 母乳喂养系列"
+
+en_term: "Lancet 2016 Breastfeeding Series"
+zh_term: "Lancet 2016 母乳系列"
+
+one_liner: |
+  Lancet 2016 系列(Victora 主编)— 母乳证据集大成,核心数据:82 万生命可救。
+
+detail: |
+  ## 系列概况
+  The Lancet 2016 Breastfeeding Series — Cesar Victora(巴西 Pelotas 大学)主编,母乳证据综述集大成。
+  
+  ## 核心数字 verbatim
+  'Increased breastfeeding to near-universal levels in low and middle income countries could prevent approximately 820,000 deaths of children under the age of five annually.'
+  
+  ## 关键发现
+  - 全球 EBF 普及节省 3000 亿美元/年医疗
+  - 母乳娃 IQ 高 ~3 点(Horta 2015 元分析)
+  - 妈妈乳腺癌每 12 月哺乳降 6%
+  - 卵巢癌 / 2 型糖尿病 / 心血管 / 类风湿 全降
+  
+  ## 母乳免疫成分
+  - sIgA(分泌型免疫球蛋白 A)
+  - lactoferrin(乳铁蛋白)
+  - oligosaccharides(寡糖)
+  - 抗氧化酶 + 抗炎蛋白
+  
+  ## 跟 WHO 立场对接
+  学术综述+政策共识双背书 — Lancet 数据是 WHO IYCF 政策的科学根基。
+
+key_facts:
+  - "Victora 主编 Lancet 2016"
+  - "82 万婴儿生命/年"
+  - "IQ +3 点"
+  - "妈妈乳腺癌降 6%/12m"
+
+related_glossary:
+  - G-PERSON-Victora
+  - G-PERSON-Horta
+  - G-ABBR-EBF
+
+related_cards:
+  - C-S0-1027
+  - C-S1-1015
+
+sources:
+  - source_id: SRC-031
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

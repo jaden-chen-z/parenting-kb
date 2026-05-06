@@ -1,0 +1,77 @@
+card_id: C-S6-1390
+stages: [S6]
+tags: [health, ramey, toddler, lerner_v4]
+
+front:
+  title: 12-24 月健康综合
+  hook: 12-24 月综合健康
+
+back:
+  why_matters: |
+    Ramey-Lanzi V4 Ch 21 儿童健康章(12-24mo 应用)。
+    **12-24 月综合健康 4 维度**:
+    - **身体**:营养 + 运动 + 睡眠 + 疫苗
+    - **认知**:语言 + 探索 + 学习
+    - **情绪**:依恋 + 安全感 + 表达
+    - **社交**:互动 + 同伴 + 家庭
+    **Ramey 综合干预原则**:
+    - **不只是"治病"**
+    - 不只是"长身体"
+    - 4 维度同时关注 = comprehensive
+    - Abecedarian 模式应用到健康
+    **12-24 月关键检查**:
+    - 18 月发育评估(M-CHAT 自闭谱筛查)
+    - 24 月语言评估
+    - 牙齿 + 视力 + 听力
+    - 营养 + 体重 + 身高
+    **Reach Out and Read**(本章重点):
+    - 儿科医生发书 + 教读法
+    - 中国 18-24 月可行(妇幼 / 社区医院)
+    - 每次 well-baby visit + 1 本书
+    - ROI 高 + 易复制
+    **反 3 误区**:
+    - ❌ "健康 = 不生病"(comprehensive 反对)
+    - ❌ "看儿科只看长高"(发育评估是核心)
+    - ❌ "我家娃壮就好"(全维度才健康)
+    跟现库:跟 C-S0-1237 Ramey Abecedarian + AAP 健康(SRC-008)+ Shonkoff 综合健康(SRC-025)对接。
+    对中国家长意义:
+    - 18-24 月儿科看综合不只长高
+    - 18 月做 M-CHAT 自闭谱筛查
+    - 24 月做语言评估
+    - 找推 Reach Out and Read 项目的医院
+  what_to_do:
+    - 18-24 月看综合健康
+    - 18 月做 M-CHAT 筛查
+    - 24 月做语言评估
+    - Reach Out and Read 项目找
+  failure_mode: |
+    "健康 = 不生病"— 错。comprehensive。
+    "只看长高"— 错。发育是核心。
+    "娃壮就好"— 错。全维度才健康。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Ramey
+  - G-TERM-comprehensive-intervention
+  - G-TERM-reach-out-and-read
+  - G-TERM-MCHAT
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 4 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 4 卷"
+  authors: ['Craig T. Ramey', 'Sharon L. Ramey', 'Robin G. Lanzi']
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 21 · Ramey · Toddler 12-24mo comprehensive health · pp. 870-880"
+  source_id: SRC-029
+
+unit_ids: []
+related_cards:
+  - C-S0-1237     # Ramey Abecedarian
+  - C-S6-1389     # V4 早期干预黄金期
+  - C-S0-619     # NRC 综合健康
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

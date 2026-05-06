@@ -1,0 +1,69 @@
+card_id: C-S3-1140
+stages: [S3]
+tags: [cognitive_science, object_permanence, baillargeon, lerner_v2]
+
+front:
+  title: 4 月看吊桥不可能动惊呆
+  hook: 物体不会穿越固体
+
+back:
+  why_matters: |
+    Baillargeon 1985 吊桥实验(Lerner V2 Ch5)— Spelke 核心知识"物体系统"硬证据。
+    实验设计:
+    - 4 月宝宝看吊桥从平面转到 90 度(180 度也可能)
+    - 第一阶段:背后无物 → 吊桥转 180 度 OK
+    - 第二阶段:背后藏一方块 → 吊桥应该被挡住停在 90 度
+    - 关键测试:吊桥**仍转 180 度**(不可能 — 方块应该挡住)
+    - 4 月宝宝盯这个"不可能事件"明显更久 = 知道"物体不能穿越"
+    意义:
+    - 4 月就懂物理"固体性"原则
+    - Piaget 8 月物体永久错(他用"找物体"测,需要协调动作)
+    - V2 综述:Baillargeon 是 Spelke 核心知识"物体系统"的奠基实验
+    - 可重复多研:Hespos 2001 + Wang 2004 都复制跟现库:C-S3-188 已建 Spelke/Baillargeon 物体永久 4 月,V2 给吊桥实验细节。
+    G-PERSON-Spelke 已建,补 SRC-028 引用。
+    对中国家长意义:
+    - 4 月就懂"东西不会穿墙" — 不是 8 月
+    - 玩"消失再现"游戏 4 月就 OK(简化版躲猫猫)
+    - 不要"他还小什么都不懂"为不互动找理由
+  what_to_do:
+    - 4 月起玩简单"消失再现"
+    - 让物体进入袋子 / 容器,再取出
+    - 不必等 8 月才认知互动
+    - 看到宝宝"惊讶"反应 — 他在做实验
+  failure_mode: |
+    "4 月物体不见就忘" — 错。盯不可能事件就证明记得。
+    "Piaget 是对的" — V2 综述明确推翻。
+    "4 月给玩具藏起来太早" — 不早,他在测物理规律。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Spelke
+  - G-PERSON-Piaget
+  - G-TERM-object-permanence
+  - G-TERM-baby-scientist
+  - G-PERSON-Baillargeon
+  - G-TERM-core-knowledge
+  - G-TERM-violation-of-expectation
+  - G-TERM-naive-physics
+  - G-PERSON-Leslie
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 2 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 2 卷"
+  authors: ["Leslie B. Cohen", "Cara H. Cashon"]
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 5 · Baillargeon drawbridge · pp. 222-223"
+  source_id: SRC-028
+
+unit_ids: []
+related_cards:
+  - C-S3-188       # Spelke/Baillargeon 4 月物体永久(Gopnik)
+  - C-S4-003       # AAP 8 月物体永久(传统 Piaget)
+  - C-S3-1141     # Cohen-Cashon vs Spelke 立场之争(下一张)
+  - C-S4-1141     # Spelke 因果推理(下章)
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

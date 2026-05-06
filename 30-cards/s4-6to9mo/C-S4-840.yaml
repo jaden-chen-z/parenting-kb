@@ -1,0 +1,90 @@
+card_id: C-S4-840
+stages: [S4]
+tags: [pikler, motor-发展, source-de, controversy]
+
+front:
+  title: "不抱手让走 / 不抱起立"
+  hook: "中国奶奶常做的事"
+
+back:
+  why_matters: |
+    Pikler 1969 Ch2 立场:婴儿大动作发展过程中,大人不应"帮"孩子做他自己还做不到的姿势。三个常见错误干预:
+
+    1. **抱起立着**(In den Stand bringen):
+       6-9 月把宝宝抱在大腿前"让他站"— 脊椎承重未建立,被动直立 = 受压
+    2. **抱手让走**(An den Händen führen):
+       9-12 月抓宝宝手"教走"— 重心控制未建立,被拽走 = 平衡感学不到
+    3. **跳跳器** / **学步车**(Lauflerngerät):
+       同前两条根源 — 让宝宝维持他不会自然达到的姿势,跳过过渡
+
+    Pikler 数据:这些干预的孩子,自然走路平均晚 4-6 周,
+    且步态不稳(分腿宽 / 摇摆大)— 因为没建立独立平衡感。
+
+    跟中国"奶奶抱手让娃走两步" / "宝宝坐学步车好"
+    完全冲突(conflicts F1)。
+
+  what_to_do:
+    - 不抱起来"让他站着" — 脊椎未发育成熟
+    - 不抓他手"让他走两步" — 平衡感建立不了
+    - 不用学步车 / 跳跳器(立场跟 AAP / Brazelton 一致)
+    - 让他自己抓栏杆 / 沙发扶手站起来
+    - 第一次走是他自己 — 没有大人手在(关键)
+
+  failure_mode: |
+    "他想站想走我帮一下而已" → Pikler 反:"想"是看到大人站走的模仿欲望,不等于身体准备好。帮一次跳过他自己学,后期走路不稳要更长适应。
+
+  evidence_level: B
+
+  positions:
+    issue: 大动作发展该不该训练 · 学步车 / Bumbo / 撑坐 / 训练表是否有用
+    views:
+      - school: Pikler
+        source: SRC-026
+        stance: 完全反对训练 — 自然顺序 + 安全空间 + 时间 = 大动作全部自动发生;严反一切撑物(学步车 / Bumbo / 跳跳器 / 婴儿座椅)。
+      - school: Magda Gerber / RIE / Lansbury
+        source: SRC-022/019
+        stance: 继承 Pikler 立场 — 里程碑不是赛跑,不撑坐 8 理由,7 类婴儿设备先放下。
+      - school: 蒙氏(Davies/Lillard)
+        source: SRC-014/016
+        stance: 立场一致 — floor bed + 自由动作空间 + 反早期撑坐。
+      - school: AAP
+        source: SRC-002
+        stance: 反学步车(Policy Statement + 数百起伤亡报道);加拿大 2004 立法全球首例禁售。
+      - school: Brazelton
+        source: SRC-010
+        stance: 反学步车,跟 Pikler 立场一致;主张孩子自然探索大动作。
+      - school: 松田道雄
+        source: SRC-024
+        stance: 温和支持自然 — 不催孩子翻 / 坐 / 爬 / 走的时间表,部分跟 Pikler 共鸣。
+      - school: 鲍秀兰
+        source: SRC-009
+        stance: 支持训练 — 婴儿体操 / 抓握训练 / 撑坐;跟 Pikler 派 8 派立场严重对立。
+      - school: 中国主流
+        stance: '"4 月翻 / 6 月坐 / 9 月爬 / 12 月走" 训练表 + 80% 家庭曾用学步车。跟 Pikler 派全面对立。'
+glossary_refs:
+  - G-PERSON-Pikler
+  - G-TERM-anti-baby-walker
+  - G-TERM-bewegungsentwicklung
+
+citation:
+  book_title_de: "Friedliche Babys – zufriedene Mütter"
+  book_title_zh: "和平的婴儿 — 满足的母亲"
+  authors:
+    - Emmi Pikler
+  publisher_de: HERDER (HERDER / SPEKTRUM Band 4141)
+  year: 1969
+  location: "Ch2 Stehen + Gehen pp. 80-95"
+  source_id: SRC-026
+
+unit_ids: []
+related_cards:
+  - C-S3-033  # Brazelton 反学步车
+  - C-S4-834  # Pikler 反撑坐 6 论证(本卷)
+  - C-S4-839  # Pikler 反所有运动训练(本卷)
+  - C-S2-290  # Lansbury 不撑坐 8 理由
+  - C-S4-296  # Lansbury 好习惯都是大人创出来的
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

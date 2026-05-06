@@ -1,0 +1,57 @@
+card_id: C-S4-351
+stages: [S4]
+tags: [safety, environment, yes-space]
+
+front:
+  title: "100% 安全房间"
+  hook: "你和他双方都放松"
+
+back:
+  why_matters: |
+    Magda 推 RIE 经典实操:
+    全屋安全难,但**至少一间房 100% 安全**。
+    宝宝在里面玩 — 你不用 2 秒看一次。
+    你能去厕所 / 接电话 / 喘 5 分钟,他不会受伤。
+    Davies / Lansbury 命名 yes-space,Magda 1998 早讲。
+    跟"全屋开放但你 24 小时盯"的代价相比 — 一房省心 + 给宝宝自由。
+
+  what_to_do:
+    - 选一间房:他自己房间 / 客厅一角 / 阳台
+    - 拆插座 / 锁柜 / 钉重家具 / 换无线绳窗帘
+    - 移走小颗粒 / 蜡笔 / 玻璃画
+    - 装门栏(春锁式可拆)+ 监听器
+    - 跟他建立"这里是你的玩耍地"习惯
+
+  failure_mode: |
+    "全屋盯死 / 全屋封死" → 你累 + 他憋 → 双方崩溃。
+    Magda 原话:"100% 安全房 = 给你和他双方的呼吸空间"。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+  - G-TERM-yes-space
+  - G-TERM-prepared-environment
+
+citation:
+  book_title_en: "Your Self-Confident Baby"
+  book_title_zh: "自信的宝宝"
+  authors:
+    - Magda Gerber
+    - Allison Johnson
+  publisher_en: John Wiley & Sons
+  year: 1998
+  location: "Ch7 Making Your Home Safe + Safeproofing Your Child's Room(13 条清单)"
+  source_id: SRC-022
+
+unit_ids: []
+related_cards:
+  - C-S4-130  # Davies yes-space
+  - C-S6-192  # Lillard No 永远 No
+  - C-S3-350  # Magda 玩环境少而简
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

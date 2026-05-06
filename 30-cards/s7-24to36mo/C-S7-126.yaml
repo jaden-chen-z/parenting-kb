@@ -1,0 +1,75 @@
+card_id: C-S7-126
+stages: [S7]
+tags: [philosophy, controversy, teaching_paradox]
+
+front:
+  title: 越主动教效果越差
+  hook: 越教效果越差的真相
+
+back:
+  why_matters: |
+    Gopnik 系列实验发现的"教学悖论"(teaching paradox)— 反早教最硬证据之一。
+    实验设计(Bonawitz / Gopnik 系列):
+    - 给学龄前儿童看一个新玩具,有多种玩法
+    - 组 A:大人**主动演示**一种玩法("看,这样按它会响")
+    - 组 B:大人**只示意**新玩具("这是个新玩具!")然后退后结果:
+    - 组 A 儿童只复制大人演示的玩法,**不主动探索**
+    - 组 B 儿童**自由探索**,发现多种玩法
+    Gopnik 解读:大人"教"的同时,儿童默认"我已经知道答案了,不必探索"。
+    "教"反而**关闭**了儿童的因果学习引擎。
+    这是 baby scientist 命题的关键推论 — 儿童是研究员,不是学生。
+    对中国家长意义:
+    - "早教班教孩子认字 / 数数 / 英语" — 反而打断自然学习
+    - "妈妈来教你这个怎么玩" — 不如让他自己摸索
+    - 演示后留空让他探索(演示 = 起点,不是终点)
+    - 越焦虑要"教"什么,越打断他自己的学习一句话:**陪伴的最高境界是不教,只在场**。
+  what_to_do:
+    - 给玩具时只说"这是新玩具",不主动演示玩法
+    - 演示一次后退后,不要"看妈妈再做一次"
+    - 鼓励他自己尝试 — 不评判对错
+    - 他玩"错"了不要纠正(那不是错,是他的实验)
+  failure_mode: |
+    "我教他更高效" — 错。教学悖论 — 主动教反而打断学习。
+    一直在旁边"看着" + "提示" + "纠正" — 关闭探索引擎。
+    "孩子不会玩这玩具,我得教他" — 错。给他时间自己研究。
+  evidence_level: A
+
+  positions:
+    issue: 0-3 岁是否需要主动教学 · 早教班 · 闪卡 · Mozart 效应
+    views:
+      - school: Brazelton
+        source: SRC-010
+        stance: 3 岁前不教读写。Erikson 框架下情感发展优先于认知训练。
+      - school: Gopnik
+        source: SRC-015
+        stance: Mozart 效应是骗局;闪卡无效;教越多越拖累自主探索;突触修剪是优化非损失。
+      - school: 蒙氏(Lillard/Davies)
+        source: SRC-014/016
+        stance: 反对主动教学。提供 prepared environment + 观察 + 不打扰,孩子主导探索节奏。
+      - school: 中国主流
+        stance: 早教班 / 闪卡 / 双语早教 / Mozart 胎教 / "赢在起跑线" — 商业产业链已成熟。
+glossary_refs:
+  - G-PERSON-Gopnik
+  - G-TERM-baby-scientist
+  - G-TERM-causal-learning
+  - G-TERM-prepared-environment
+
+citation:
+  book_title_en: "The Scientist in the Crib"
+  book_title_zh: "摇篮里的科学家"
+  authors: ["Alison Gopnik", "Andrew N. Meltzoff", "Patricia K. Kuhl"]
+  publisher_en: William Morrow
+  year: 1999
+  location: "Chapter 7 (extended in Bonawitz/Gopnik 2011 Cognition)"
+  source_id: SRC-015
+
+unit_ids: []
+related_cards:
+  - C-S7-125       # 反早教
+  - C-S6-181       # 18 月 blicket detector
+  - C-S6-127       # Wonder Week 质量时间伪概念
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

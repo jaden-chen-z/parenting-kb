@@ -1,0 +1,81 @@
+card_id: C-S3-701
+stages: [S3]
+tags: [potty, toilet_training, controversy, matsuda, japan, anti-tradition]
+
+front:
+  title: "4 月把屎把尿是错的"
+  hook: "1 岁后才会告诉你"
+
+back:
+  why_matters: |
+    松田 §170 直接拍掉中国老人 "3 月把屎把尿":
+    1. 婴儿最早 1 周岁后才能告诉大人要小便；
+    2. 一般 1.5-2 岁才不用尿布；
+    3. 4 月教按时排便毫无意义；
+    4. 妈妈每小时把尿是"排尿神经症"；
+    5. 大便和小便要分开 — 大便看表情可知，
+       小便间隔短没法预判。
+    立场跟鲍秀兰 9 月起开始排便训练对比，
+    跟 Brazelton "孩子主导，父母只示范"一致。
+
+  what_to_do:
+    - 4-5 月不教把尿
+    - 偶尔早晨醒后 / 午睡后试一次
+    - 不每隔 2 小时定闹钟
+    - 大便干硬有用力表情时再把
+    - 1 岁后再认真考虑排便训练
+
+  failure_mode: |
+    奶奶看邻居家 4 月会把尿就跟自己孙子较劲：每小时尿布脱光 + "嘘嘘" — 婴儿在冷地板坐 2 分钟憋出尿，
+    实际是"凑巧赶上排尿时间"，不是"训练成功"。
+    持续这样 → 婴儿讨厌脱裤子哭 → 8-9 月反而更抗拒便盆 →
+    妈妈怀疑自己孩子发育迟缓 → 焦虑加倍。
+    松田: "4-5 月即使训练了，婴儿也不会养成排便通知大人的习惯"。
+
+  evidence_level: B
+
+  positions:
+    issue: 如厕训练何时开始 · 谁主导 · 什么方法
+    views:
+      - school: Lillard(蒙氏)
+        source: SRC-016
+        stance: 12-18 月敏感期介入。反对长期纸尿裤拖延,孩子主导探索如厕,环境提供小马桶。
+      - school: AAP / 主流
+        source: SRC-006
+        stance: 18 月-3 岁。等待神经括约肌成熟与孩子表达意愿,避免提前训练造成抗拒。
+      - school: 鲍秀兰
+        source: SRC-009
+        stance: 9 月起坐盆训练,25-30 月用语言表达替代动作信号。早期建立排便规律。
+      - school: Brazelton
+        source: SRC-010
+        stance: 24 月以后多数孩子才准备好,孩子主导,称 toilet learning 而非 training。反对 EC 出生训练。
+      - school: 松田道雄
+        source: SRC-024
+        stance: 4-5 月把屎把尿是错的;7-8 月可试便盆(每次 1 分钟为限);1.5 岁夏天撤尿布最佳。
+      - school: Pikler / Magda / Lansbury
+        source: SRC-026/022/019
+        stance: 不训练 — 等 24-30 月孩子自己准备好;"学如厕"而非"训练"。反对绑 / 揍 / 久坐 / 太早 4 大错。
+      - school: 中国传统
+        stance: 把屎把尿(EC) + 3 岁前完成,以家长信号为主;中医认为憋尿伤肾。
+glossary_refs:
+  - G-PERSON-Matsuda
+
+citation:
+  book_title_zh: "定本育儿百科"
+  authors:
+    - 松田道雄
+  publisher_ja: 岩波书店
+  year_first_edition: 1967
+  location: "§170 进行排便训练还为时尚早"
+  source_id: SRC-024
+
+unit_ids: []
+related_cards:
+  - C-S5-012  # 鲍秀兰 9 月起坐盆训练(立场对比)
+  - C-S7-018  # Brazelton 厕所训练孩子主导父母只示范
+  - C-S6-007  # 鲍秀兰 1-2 岁管教全家一致
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

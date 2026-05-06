@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Eccles
+type: person
+display_name: "Eccles(杰奎琳·埃克尔斯)"
+
+full_name_en: "Jacquelynne S. Eccles"
+full_name_zh: "杰奎琳·埃克尔斯"
+
+position: |
+  UC Irvine 心理学教授
+
+contribution: |
+  成就动机 + 性别成就差研究;expectancy-value 模型
+
+one_liner: |
+  杰奎琳·埃克尔斯 — 成就动机 + 性别成就差研究;expectancy-value 模型
+
+key_facts:
+  - "本卷章节:Ch 15"
+  - "Lerner V3 命中:337 次"
+  - "学派:Lerner V3 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-027
+    chapter: "Ch 15"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

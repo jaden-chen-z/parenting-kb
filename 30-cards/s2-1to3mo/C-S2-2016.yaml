@@ -1,0 +1,50 @@
+card_id: C-S2-2016
+stages: [S2]
+tags: [safety]
+
+front:
+  title: 婴儿车 / 背带 4 大风险
+  hook: 不只是"安全推就好"
+
+back:
+  why_matters: |
+    婴儿车 / 背带是带宝宝出门的核心工具,但 1-3 月使用有 4 类被忽视风险:
+    1. 过热(密闭车厢 + 厚毯 = 痱子甚至中暑)
+    2. 视觉刺激不足(只能看到天花板,错过认知窗口)
+    3. 睡过多(车上一坐就睡,白天补过晚上不睡)
+    4. 颈部受伤(慢跑跳动 → 颈未稳定支撑不住)
+    海蒂明确:婴儿车不能取代汽车安全座椅。
+  what_to_do:
+    - "热天频检:摸娃后颈,凉为正常"
+    - "用便携式 = 娃可朝外看世界"
+    - "车上睡 → 限制使用,白天保证清醒玩耍"
+    - "1-3 月禁慢跑推车(颈未稳)"
+    - "私家车里绝不用婴儿车代座椅"
+  failure_mode: |
+    "出门用婴儿车更省事"过度依赖 → 错失父母互动。
+    看着娃在车上睡很乖不叫醒 → 夜间不睡。
+    把背带当固定工具长时间挂 → 娃髋关节压力。
+  evidence_level: B
+
+glossary_refs:
+  - G-ABBR-CPSC
+  - G-ABBR-AAP
+
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1 岁"
+  authors: ["Heidi Murkoff", "Sharon Mazel"]
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 2010
+  edition: "Third Edition"
+  location: "第 6 章 / 使用婴儿车或婴儿背带节,p.231-233"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards: []
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,32 @@
+source_id: SRC-031
+total_cards: 65
+totals_per_issue:
+  跨源对比越界: 10           # 本应 Phase C 的对比直接做在 SRC-031 内部卡
+  品牌点名风险: 1            # C-S1-1011 飞鹤雅培惠氏具名指控法律风险
+  医学准确性: 1
+  内部不一致: 1
+  引文链断: 3                # WebFetch 失败已诚实标记
+  数字精度: 3
+  引用文本残留: 1            # C-S4-1054 出现 'Lerner V4 G-TERM' 草稿残留
+key_issues:
+  - {card_id: C-S1-1011, type: 品牌点名风险, severity: P1, fix: hook"飞鹤雅培惠氏都做"+ 正文具名指控,evidence_level B + 'estimate' 不支持具名,改泛化或具名引用 IBFAN}
+  - {card_id: C-S6-1071, type: 医学准确性, severity: P2, fix: '所有疫苗都安全继续母乳'过度泛化,部分活疫苗(黄热)需医生评估}
+  - {card_id: C-S2-1047, type: 内部不一致, severity: P2, fix: LAM '夜间不喂' 模糊,WHO 定义夜间间隔 > 6 小时算失效}
+  - {card_id: C-S1-1012, type: 引文链断, severity: P1, fix: WebFetch 失败但 evidence_level A,降 B 或补全 verbatim 后升 A}
+  - {card_id: C-S4-1054, type: 引用文本残留, severity: P2, fix: 删除 'Lerner V4 G-TERM-WHO-feeding 已建术语' 草稿残留句}
+  - {card_id: 8_cards, type: 跨源对比越界, severity: P2, fix: SRC-031 内部卡(C-S3-1042/C-S6-1064 等)直接做 AAP/Karp/松田 对比,应留 Phase C}
+intra_source_dedups:
+  - {cluster: [C-S5-1039, C-S6-1064, C-S6-1067], level: heavy, action: merge, keeper: C-S6-1064, reason: 'WHO 2 年 vs 中国 1 岁早断' 三张完全重叠}
+  - {cluster: [C-S5-1040, C-S6-1070, C-S8-868], level: heavy, action: merge, keeper: C-S6-1070, reason: '1 岁后不需要专门奶粉(3/4 段/增长奶/学龄前奶)' 三张重复}
+  - {cluster: [C-S1-1009, C-S1-1010, C-S1-1011, C-S0-1026, C-S1-1021], level: heavy, action: split-merge, keeper: C-S1-1009, reason: Code 营销禁令 5 张 — 精简为 3 张}
+  - {cluster: [C-S1-1000, C-S1-1001], level: heavy, action: merge, keeper: C-S1-1000, reason: BFHI Step 4 拆 2 张实质重复}
+  - {cluster: [C-S4-1052, C-S4-1054], level: heavy, action: merge, keeper: C-S4-1052, reason: WHO 母乳基线 vs CDC 配方基线 + 同概念应用}
+  - {cluster: [C-S0-1024, C-S0-1027, C-S1-1015], level: medium, action: trim, keeper: C-S0-1024, reason: 'WHO/Lancet 国际共识 + 中国差距' 叙事重叠}
+  - {cluster: [C-S4-1045, C-S4-1055], level: medium, action: merge, keeper: C-S4-1055, reason: 6-12 月母乳 + 辅食并行 50% 能量}
+  - {cluster: [C-S1-1005, C-S2-1044, C-S4-1050], level: medium, action: keep_by_stage, reason: 反馈喂养 BFHI/1-3m/6m+ 三阶段}
+notes: |
+  WHO + UNICEF Tier 1 国际权威。65 张 evidence_level A 占 ~80% 合理。
+  最大问题:大量同主题重复(BFHI 11 张 / Code 7 张 / 持续母乳 6 张 / 辅食实操 11 张)。
+  压缩潜力:65 → ~55 张(精简 8-10 张重复)。
+  品牌点名 C-S1-1011 法律敏感性。
+  Phase C 跨源比预期与 SRC-006 AAP 在 BFHI/EBF/辅食/反馈喂养/含铁辅食 大量重叠。

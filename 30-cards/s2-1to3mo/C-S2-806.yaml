@@ -1,0 +1,64 @@
+card_id: C-S2-806
+stages: [S2]
+tags: [shonkoff, nrc, parent_depression, attachment, china_high_freq]
+
+front:
+  title: "妈妈抑郁伤宝脑"
+  hook: "妈妈情绪是宝食粮"
+
+back:
+  why_matters: |
+    NRC 综述 Ch 5+9 给"母亲抑郁"对婴儿发展的影响 — 中国家长高频痛点:
+    **数据**(NRC 引 Dawson 1994, Garber 1991, Field 多研究):
+    - 抑郁母亲的婴儿 9 月时显示 **right frontal EEG 偏向**(右脑前额激活)
+    - 这是"情感反应消极倾向"的脑标志
+    - 跟 4 岁继续 inhibited(退缩)行为相关
+    - **机制**:抑郁妈减少互动 → 宝宝学到"情感不被回应" → 内化无助
+    **NRC 立场**:
+    - 妈妈情绪不是"私事" — 是宝宝大脑的输入
+    - 产后抑郁 → 必须治
+    - 早期干预(home visiting)能短路恶化路径
+    **跟 Bowlby SRC-011 母婴分离 + Stern SRC-018 attunement 共识**:
+    - 妈妈 emotionally 在场比生理在场更重要
+    - 不 attune 的妈妈 = "在但不在"(Stern)
+    **对中国家长**:
+    - 产后抑郁不是"你软弱" — 是大脑生理变化
+    - 早治不只为你 — 是为宝宝大脑
+    - 中国家庭"忍忍就好" 立场跟 NRC 综述对立
+    - 寻求心理咨询 / 药物 / 家庭支持 — 不羞耻
+    - 爸爸 / 老人多担当 = 给妈妈喘息 = 给宝宝情感后备
+  what_to_do:
+    - 产后抑郁立刻就医
+    - 别"忍忍就好"
+    - 药物 + 心理治疗双轨
+    - 爸爸老人轮班
+    - 家访早期干预接受
+  failure_mode: |
+    "我抑郁孩子还小 — 等他大了再治" — 错。NRC 数据明确:0-1 岁是脑发育最敏感期。
+    "中国传统不流行抑郁说法" — 文化没用,生理客观存在。
+    "吃药会传宝宝 — 我硬扛" — 跟医生商量哪种安全 — 不治才是最大风险。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Shonkoff
+  - G-TERM-NRC
+
+citation:
+  book_title_en: "From Neurons to Neighborhoods"
+  authors: ["Jack P. Shonkoff", "Deborah A. Phillips"]
+  org: "NRC/IOM"
+  year_en: 2000
+  location: "Ch 5+9 · maternal depression effects synthesis"
+  source_id: SRC-025
+
+unit_ids: []
+related_cards:
+  - C-S5-291    # Stern attunement SRC-018
+  - C-S5-070    # Bowlby 安全依恋 SRC-011
+  - C-S2-009    # 鲍秀兰 母婴情感 SRC-009
+  - C-S4-202    # Stern 抑郁妈案例 SRC-018
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,57 @@
+card_id: C-S0-012
+stages: [S0]
+tags: [montessori, philosophy, 发展, theory]
+
+front:
+  title: 蒙氏 4 大发展阶段
+  hook: 0-24 岁 4 段长跑
+
+back:
+  why_matters: |
+    Maria Montessori 把人的发展分 4 阶段,每段约 6 年:
+    - **第 1 段 0-6 岁** — 个体形成期(吸收性心智)
+    - **第 2 段 6-12 岁** — 社会形成期(理性 + 想象)
+    - **第 3 段 12-18 岁** — 重建期(像第 1 段一样脆弱)
+    - **第 4 段 18-24 岁** — 成熟期(脑前额叶 24 岁完工)
+    Lillard Ch1 完整论述。
+    每段需求不同 — **0-6 岁** 父母准备空间 / **6-12 岁** 引导社交 / **12-18 岁** 给"导师 + 同伴" / **18-24 岁** 放手。
+    现代神经科学证:**前额叶 24 岁才完成髓鞘** — 跟蒙氏 100 年前命题完全吻合。
+    实操含义 — 育儿不是"6 岁前必须教完",而是 24 年的接力。
+  what_to_do:
+    - 0-6 岁主战场是"准备环境"
+    - 6-12 岁帮孩子接触世界做朋友
+    - 12-18 岁给"非父母的大人"做导师
+    - 18-24 岁让自己退到背景
+    - 不催 / 不焦虑 / 各阶段有时间
+  failure_mode: |
+    "6 岁前必须超前教,不然输在起跑线" — 蒙氏立场:0-6 岁是建脑期,不是塞知识期。
+    "12-18 岁我管不了" — 这段反而最需要陪伴(脆弱程度类似 0-3 岁)。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Lillard
+  - G-PERSON-Jessen
+  - G-PERSON-Montessori
+  - G-TERM-self-construction
+  - G-TERM-absorbent-mind
+
+citation:
+  book_title_zh: "蒙台梭利从 0 岁开始 — 0-3 岁的教育"
+  book_title_en: "Montessori from the Start"
+  authors: ["Paula Polk Lillard", "Lynn Lillard Jessen"]
+  authors_zh: ["宝拉·波尔克·莉拉德", "琳·莉拉德·杰森"]
+  publisher_en: "Schocken Books"
+  year_en: 2003
+  isbn_en: "978-0-8052-1112-1"
+  location: "Introduction · The four planes of development + Ch 1"
+  source_id: SRC-016
+
+unit_ids: []
+related_cards:
+  - C-S0-011       # Davies going slow
+  - C-S5-130       # Davies 1 岁前两份心理大礼
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

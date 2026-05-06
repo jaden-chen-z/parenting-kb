@@ -1,0 +1,66 @@
+card_id: C-S5-1142
+stages: [S5]
+tags: [cognitive_science, gesture, bates, lerner_v2]
+
+front:
+  title: 12 月几手势 = 几词
+  hook: 手语先于嘴语半年
+
+back:
+  why_matters: |
+    Bates 1979/1990 经典 + Goldin-Meadow 综述(Lerner V2 Ch6/Ch8)。
+    9-18 月期间,手势 + 词共发展:
+    - **Deictic gestures**(指/给/伸手)9-12 月起,先于词
+    - **Conventional gestures**(挥手再见 / 摇头不)10-13 月
+    - **Symbolic gestures**(假装喝水)15-18 月
+    - 真词数 ≈ 手势数(同时间窗扩张)
+    Bates 立场:**手势是语言的早期形式** — 不是替代,是连续。
+    意义:
+    - 12 月会 5 个手势的孩,18 月会 5 词
+    - 12 月手势量预测 24 月词汇量(Goldin-Meadow 综述)
+    - 手势先于词 = 概念先于声音输出
+    - 不必等会说才教 — 9 月就在用手"说"
+    跟现库:Davies + 鲍秀兰 baby sign 立场对接。
+    Lerner V2 给 Bates 实证综述。
+    对中国家长意义:
+    - 9 月起教简单手势(再见 / 拜拜 / 抱抱)
+    - 手势教得多 → 词汇也快
+    - 不必担心"手势耽误说话" — 是促进的
+    - 看到宝宝用手"说" — 认真回应
+  what_to_do:
+    - 9 月起教 baby sign(简单 5-10 个)
+    - 跟随宝宝手势 + 言语回应
+    - 不必等 18 月才教语言
+    - 手势 + 词同时给 — 翻倍输入
+  failure_mode: |
+    "宝宝用手势是因为不会说" — 错。手势是语言早期形式。
+    "教手势耽误说话" — 错。促进。
+    "12 月没词就是慢" — 看手势数,不只看词。
+  evidence_level: B
+
+glossary_refs:
+  - G-TERM-joint-attention
+  - G-TERM-language-explosion
+  - G-PERSON-Tomasello
+  - G-PERSON-Goldin-Meadow
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 2 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 2 卷"
+  authors: ["Michael Tomasello", "Susan Goldin-Meadow"]
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 6 · Gesture-language continuum / Ch 8 · Becoming gesture producer"
+  source_id: SRC-028
+
+unit_ids: []
+related_cards:
+  - C-S5-1141     # Pointing 9 月分享
+  - C-S5-1140     # Tomasello 9 月革命
+  - C-S6-1170     # Goldin-Meadow 手势先于词(后续)
+  - C-S6-018       # Lillard 词汇爆炸
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

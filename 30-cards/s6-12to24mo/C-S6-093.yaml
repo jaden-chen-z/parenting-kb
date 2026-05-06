@@ -1,0 +1,65 @@
+card_id: C-S6-093
+stages: [S6, S7]
+tags: [philosophy, red_flag, controversy]
+
+front:
+  title: 别让娃当你情绪保姆
+  hook: 角色倒置 = 隐秘虐待
+
+back:
+  why_matters: |
+    Bowlby Vol 2 重要新概念 **角色倒置(role reversal)** — 一种被忽视的精神虐待形式:
+    **"父母公开或私底下要求孩子以一个照顾者的身份出现并照顾家长。这颠倒了正常的父母-儿童角色。
+    在这些案例中是父母过度依赖,而非孩子。"**
+    中文文化高频版本:
+    - "妈妈不开心,你赶紧抱抱妈妈"
+    - "你听话妈妈才不会难过"
+    - "妈妈这辈子就指望你了"
+    - "你别让妈妈生气啊"
+    - 用孩子"懂事 / 听话"换妈妈的情绪稳定机制:孩子学会**牺牲自己的情感需求来调节父母情绪** → 长大后边界感差 / 取悦型人格 / 无自我。
+    Bowlby 临床观察:**那些"懂事得让人心疼"的孩子,内心多是焦虑型依恋**。
+    家长意义:
+    - 父母自己的情绪要自己管,不能让孩子负责
+    - 婚姻冲突 / 抑郁 / 焦虑 → 找成人帮助,不依靠孩子
+    - "他这么乖懂事真好" — 反思一下是不是过早成熟
+  what_to_do:
+    - 自己难受找朋友 / 治疗师,不告诉孩子
+    - 不说"为了你妈才..."类绑架话
+    - 抑郁 / 焦虑要先治自己
+    - 别让孩子背"家庭和睦"的责任
+    - 鼓励孩子表达自己情绪,不只迎合你
+  failure_mode: |
+    "我家娃懂事真贴心" — 可能他正在 30+ 岁后才意识到童年少了一段任性。
+    "夫妻吵架靠孩子粘合" — 把孩子推到精神泥潭里。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Bowlby
+  - G-TERM-attachment
+  - G-TERM-role-reversal
+  - G-TERM-anxious-attachment
+  - G-TERM-internal-working-model
+  - G-TERM-role-reversal
+
+citation:
+  book_title_zh: "依恋三部曲 · 第二卷:分离"
+  book_title_en: "Attachment and Loss · Volume 2: Separation"
+  authors: ["John Bowlby"]
+  authors_zh: ["约翰·鲍尔比"]
+  translators_zh: ["汪智攀", "王婷婷"]
+  publisher_zh: "世界图书出版有限公司北京分公司"
+  year_en: 1973
+  year_zh: 2017
+  isbn: "978-7-5192-2926-9"
+  location: "第十六章过度依赖和溺爱理论(父母公开或者私底下要求孩子以一个照顾者的身份出现并照顾家长,这颠倒了正常的父母-儿童角色。在这些案例中是父母过度依赖或者焦虑型依恋,而非孩子)"
+  source_id: SRC-012
+
+unit_ids: []
+related_cards:
+  - C-S6-087      # 再不听话妈妈就走是精神虐待
+  - C-S6-092      # 父母吵架孩子怕分开
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

@@ -1,0 +1,80 @@
+card_id: C-S3-194
+stages: [S3]
+tags: [montessori, tummy-time, movement]
+
+front:
+  title: 醒着多趴 vs AAP 仰睡
+  hook: 大动作发育的必备
+
+back:
+  why_matters: |
+    Lillard Ch5 关键提醒 — **AAP 推荐仰睡防 SIDS,但带来副作用**:**宝宝大动作发育延迟**。
+    - 趴 = 大动作发展的物理基础(推臂 / 抬头 / 翻 / 撑起 / 跪)
+    - 仰睡好,但宝宝醒着就多在仰位 → 趴时间不够
+    - Lillard Time Line 是基于以前都趴睡的时代 — 现代宝宝按这个时间表会落后几个月
+    Lillard 的解决:
+    - **接受 AAP 仰睡建议**(SIDS 优先)
+    - **但醒着时父母必须主动多趴**(每天累计 1-2 小时)
+    - 喂奶完抱起拍嗝时趴在妈妈胸口
+    - 换尿布时趴一会儿
+    - 醒着的活动垫上趴 + mobile 在头顶
+    Lillard:**没有趴时间 → 大动作落后 → 学步晚 → 整个 self-formation 链条延后**。
+    跟 AAP 不冲突 — 是补全 AAP 没强调的部分。
+  what_to_do:
+    - 接受 AAP 仰睡(SIDS 防护)
+    - 醒着时累计 1-2 小时趴
+    - 喂奶后拍嗝时贴妈妈胸口趴
+    - 换尿布前趴 1-2 分钟
+    - 活动垫 + 头顶 mobile = 趴时间利器
+  failure_mode: |
+    "宝宝不喜欢趴,我就让他仰着" — 反:不是"喜欢与否",是必须练。哭闹 = 体能不够 = 更要练。
+    睡仰 + 醒仰 → 大动作落后 → 整个发育晚。
+  evidence_level: A
+
+  positions:
+    issue: 醒着时该不该让宝宝俯卧"练颈肌"(Tummy Time)
+    views:
+      - school: AAP
+        source: SRC-002
+        stance: 推 Tummy Time — 防 SIDS 后颈肌发育 + 防扁头综合征(2026 现行立场,Back to Sleep 1994 后配套)。
+      - school: Pikler
+        source: SRC-026
+        stance: 反 Tummy Time — 仰卧位最佳,俯卧不利自然翻身。1969 立场(那时 Tummy Time 概念尚未出现)。
+      - school: Magda Gerber / Lansbury
+        source: SRC-022/019
+        stance: 继承 Pikler — 永远仰卧不俯卧;给地板时间让婴儿自由探索。
+      - school: 海蒂
+        source: SRC-040
+        stance: 每天清醒至少 30 分钟分多次累计(对齐 AAP)— 主流大众派背书 Tummy Time + 防扁头。
+      - school: 蒙氏(Davies/Lillard)
+        source: SRC-014/016
+        stance: 平面活动 OK,但反对"训练"方式;给地板时间让婴儿自由探索俯卧。
+      - school: 折中建议
+        stance: 不强迫 Tummy Time,但给地板时间允许婴儿自己俯卧探索;若选 AAP 派则醒着每天几次,每次几分钟。
+glossary_refs:
+  - G-PERSON-Lillard
+  - G-PERSON-Jessen
+  - G-TERM-coordinated-movement
+  - G-ABBR-SIDS
+  - G-ABBR-AAP
+
+citation:
+  book_title_zh: "蒙台梭利从 0 岁开始"
+  book_title_en: "Montessori from the Start"
+  authors: ["Paula Polk Lillard", "Lynn Lillard Jessen"]
+  authors_zh: ["宝拉·波尔克·莉拉德", "琳·莉拉德·杰森"]
+  publisher_en: "Schocken Books"
+  year_en: 2003
+  isbn_en: "978-0-8052-1112-1"
+  location: "Ch 5 · 'Crawling to Coordination' (back sleep + tummy time)"
+  source_id: SRC-016
+
+unit_ids: []
+related_cards:
+  - C-S2-003       # AAP tummy time
+  - C-S1-016       # AAP 仰睡 SIDS
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

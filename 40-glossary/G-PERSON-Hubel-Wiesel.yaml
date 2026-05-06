@@ -1,0 +1,64 @@
+glossary_id: G-PERSON-Hubel-Wiesel
+type: person
+display_name: Hubel-Wiesel(休贝尔-维瑟尔)
+
+full_name_en: David H. Hubel + Torsten N. Wiesel
+full_name_zh: 大卫·休贝尔 + 托斯腾·维瑟尔
+
+one_liner: |
+  美国神经生理学家二人组 — 1981 年因视觉皮层研究获诺贝尔奖。
+  小猫 2-3 月剥夺一眼视觉 → 该眼永久失明。
+  这是发展神经科学**critical period 关键期**最经典证据 — 直接对应人类婴儿斜视 / 白内障必须学龄前矫正。
+  NRC 综述 Ch 8 反复引用为"少数真 critical period"案例。
+
+detail: |
+  ## 背景
+  - **David H. Hubel**(1926-2013)加拿大裔美国神经生理学家
+  - **Torsten N. Wiesel**(1924-)瑞典裔美国神经生理学家
+  - 在 Harvard / Rockefeller 大学合作 30+ 年
+  - 1981 年获 Nobel 生理 / 医学奖
+
+  ## 经典实验(1960-70 年代)
+  - 给新生小猫一只眼睛缝合 2-3 月
+  - 解开缝合后:**该眼皮层永久无法处理视觉**
+  - 即便另一只眼正常,弱视永久不可逆
+  - 关键期 = 出生后 ~3-12 周
+
+  ## 在 NRC 综述中的地位
+  - **少数真 critical period** 经典证据
+  - **大多数人类发展是 sensitive 不是 critical**(可补)
+  - 这二者区分对家长育儿决策重要
+
+  ## 人类对应
+  - **斜视(strabismus)**:一眼肌力不足 → 大脑选另一眼 → 弱视
+  - **先天白内障**:同样原理
+  - **必须学龄前矫正** — 错过永久弱视
+  - 这是 NRC 用强语气说"必须早治"的少数领域之一
+
+  ## 影响
+  - 推动新生儿眼科筛查全球普及
+  - 改变婴儿白内障 / 斜视治疗时间(从"等长大"改"立刻治")
+  - 是神经科学发展的奠基实验之一
+
+key_facts:
+  - 1981 Nobel 生理医学奖
+  - 视觉皮层关键期奠基实验
+  - 小猫剥夺视觉 = 永久失明
+  - 人类婴儿斜视必须学龄前矫正
+
+related_glossary:
+  - G-PERSON-Shonkoff
+  - G-TERM-critical-period
+  - G-TERM-experience-expectant
+  - G-TERM-NRC
+
+related_cards: []
+
+sources:
+  - source_id: SRC-025
+  - external: Hubel-Wiesel multiple papers / Nobel Lecture 1981
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

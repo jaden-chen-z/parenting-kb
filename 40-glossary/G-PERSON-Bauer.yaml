@@ -1,0 +1,69 @@
+glossary_id: G-PERSON-Bauer
+type: person
+display_name: Bauer
+
+full_name_en: Patricia J. Bauer
+full_name_zh: 帕特里夏·J·鲍尔
+
+one_liner: |
+  美国发展心理学家(Emory 大学教授),婴儿事件记忆 + 自传记忆研究权威。
+  证明 13 月宝宝能记 1 个月以上 — 远超 Piaget 假设。
+
+detail: |
+  ## 个人背景
+  - Miami 大学博士
+  - Emory 大学心理学教授(原 Minnesota)
+  - 美国心理协会会士
+
+  ## 核心研究:延迟模仿 + 长记忆
+  - **9 月**:看示范 + 24 小时后能模仿
+  - **13 月**:1 个月后还能记
+  - **20 月**:6 个月后还记得
+  - **24 月**:1 年后能记忆部分
+
+  ## 自传记忆研究
+  - 童年早期失忆(childhood amnesia)≠ 没记忆
+  - 是 3-5 岁后表征切换 = 不是真"忘"
+  - 早期一次性事件可保留数月
+
+  ## 立场
+  - 反 Piaget"婴儿短记忆"立场
+  - 强调早期记忆神经基础
+  - 跟 Meltzoff 模仿研究互补
+
+  ## 中国家长意义
+  - 13 月看到的可记 1 月 — 不是"小他不记"
+  - 暴力 / 焦虑 / 创伤事件**记得**
+  - 不要面对面激烈情绪表达
+  - 一次正面体验也算"教育"
+
+  ## 在本知识库中
+  - SRC-028 Lerner V2 Ch9 主笔(234 hits)
+  - C-S6-1169 Bauer 13 月 1 月记忆
+
+  ## 学术影响
+  - 婴儿记忆研究领域奠基
+  - 跟 Meltzoff / Rovee-Collier 形成记忆派
+  - 著作《Remembering the Times of Our Lives》
+
+key_facts:
+  - Emory 大学心理学教授
+  - 婴儿延迟模仿 + 长记忆研究
+  - 反 Piaget 婴儿短记忆立场
+
+related_glossary:
+  - G-PERSON-Meltzoff
+  - G-PERSON-Piaget
+  - G-TERM-imitation
+
+related_cards:
+  - C-S6-1169
+
+sources:
+  - source_id: SRC-028
+  - external: Bauer 1996+ / Wikipedia Patricia Bauer
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

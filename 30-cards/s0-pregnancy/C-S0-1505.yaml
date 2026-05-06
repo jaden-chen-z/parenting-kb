@@ -1,0 +1,49 @@
+card_id: C-S0-1505
+stages: ['S0']
+tags: ['philosophy', 'lerner_v1', 'gottlieb', 'controversy']
+
+front:
+  title: "基因测试不能预测"
+  hook: "基因不是孩子命运"
+
+back:
+  why_matters: |
+    Gottlieb V1 Ch 5 综述明确指出 — 基因测试 / GWAS / 多基因风险评分等不能预测个人发展结果,因为 4 层互动(基因 / 神经 / 行为 / 环境)是 probabilistic 不是 deterministic。
+    中国家长越来越多接触基因测试营销 — "你家娃天赋是 X / 易得 Y"等。
+    V1 立场 — 这些预测最多解释 5-15% 的变异,远不能定个人。
+    另外 — 基因表达本身受环境影响(epigenetics),所以"测出来"的不是固定的,是当下状态。
+    意义 — 不要被基因报告唬住,环境干预总是有空间。
+  what_to_do:
+    - "基因测试报告看 — 不当圣经"
+    - "'高风险'≠ 一定得病(只是概率)"
+    - "'低天赋'≠ 没希望(环境可改 50%+)"
+    - "钱花在 environment 改善 > 花在基因测试"
+    - "基因 ↔ 环境双向终生"
+  failure_mode: |
+    基因测试结果决定育儿方向 — 错。误解 V1 综述立场。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Gottlieb
+  - G-TERM-probabilistic-epigenesis
+  - G-TERM-anti-genetic-determinism
+
+related_cards:
+  - C-S0-1503
+  - C-S0-1504
+  - C-S0-722
+  - C-S0-008
+
+citation:
+  source_id: SRC-030
+  source_title: "Handbook of Child Psychology Vol 1: Theoretical Models of Human Development"
+  chapter: "Ch 5 Gottlieb / Wahlsten / Lickliter"
+  chapter_offset: 1231253
+  chapter_title: 'Gottlieb / Wahlsten / Lickliter — Significance of Biology + probabilistic epigenesis'
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_followup_needed: 'SRC-030 用 PDF 字节偏移代页码 — 待加 page_pdf 反查工具'

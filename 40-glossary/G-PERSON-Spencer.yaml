@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Spencer
+type: person
+display_name: "Spencer(玛格丽特·斯宾塞)"
+
+full_name_en: "Margaret Beale Spencer"
+full_name_zh: "玛格丽特·斯宾塞"
+
+position: |
+  University of Pennsylvania 心理学教授
+
+contribution: |
+  PVEST + identity formation + racism in development
+
+one_liner: |
+  玛格丽特·斯宾塞 — PVEST + identity formation + racism in development
+
+key_facts:
+  - "本卷章节:Ch 15"
+  - "Lerner V1 命中:150+ 次"
+  - "学派:Lerner V1 PVEST 派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+    chapter: "Ch 15"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

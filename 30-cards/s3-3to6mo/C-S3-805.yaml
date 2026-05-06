@@ -1,0 +1,69 @@
+card_id: C-S3-805
+stages: [S3]
+tags: [shonkoff, nrc, temperament, behavioral_inhibition, china_high_freq]
+
+front:
+  title: "4 月起气质才稳"
+  hook: "3 月前测气质太早"
+
+back:
+  why_matters: |
+    NRC 综述 Ch 5 引 Kagan 1991/1998 经典 — 气质稳定测点:
+    **关键发现**:
+    - **2 月时**测气质 → 0 预测力(无关后期)
+    - **4 月时**测气质 → 显著稳定可读
+    - 4 月起 trait 可识别延伸到 4-7 岁
+    **Kagan 经典 4 月实验**:
+    - 给 4 月宝宝看 / 听 / 闻强烈刺激
+    - 反应分两端:
+      - **正向反应**(笑 / 咕咕 / 挥手)→ 长成 exuberant 活泼孩
+      - **负向反应**(fuss / 弓背 / 哭 / 挣扎)→ 长成 inhibited 退缩孩
+    - **20%** 健康婴儿是负向反应型
+    - 1/3 这些婴儿到 14 月仍 fearful
+    - 13% 到 4.5 岁仍社交退缩
+    - 6 岁 EEG 仍显示右前额激活 + 焦虑生理标志
+    **NRC 立场**:
+    - 4 月可读不等于"4 月定终身"
+    - inhibited 婴儿 + 高质量陪伴 → 安静敏感型(健康)
+    - inhibited 婴儿 + 忽视 / 创伤 → 焦虑回避(病理)
+    **对中国家长**:
+    - 0-3 月别贴气质标签 — 还乱
+    - 4 月起可观察孩子倾向
+    - 内向婴儿不是"问题" — 是天生倾向
+    - 关键是匹配孩子气质的育儿方式 — 不是改造他
+  what_to_do:
+    - 4 月再判气质倾向
+    - 内向不需改造
+    - 外向不需压制
+    - 匹配气质式育儿
+    - 别 0-3 月贴标签
+  failure_mode: |
+    "他 1 月就看出爱哭闹 — 一辈子是这样" — 错,2 月测气质 0 预测力。
+    "孩子内向 — 我得多带他社交锻炼" — 错,Kagan 数据显示强迫社交反加重 inhibited。
+    "外向才好" — 文化偏见,内向 + 高质量育儿同样健康。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Shonkoff
+  - G-PERSON-Kagan
+  - G-TERM-temperament
+  - G-TERM-NRC
+
+citation:
+  book_title_en: "From Neurons to Neighborhoods"
+  authors: ["Jack P. Shonkoff", "Deborah A. Phillips"]
+  org: "NRC/IOM"
+  year_en: 2000
+  location: "Ch 5 · Kagan behavioral inhibition data"
+  source_id: SRC-025
+
+unit_ids: []
+related_cards:
+  - C-S7-756    # 松田 §401 认生 SRC-024
+  - C-S2-019    # Brazelton 触摸点 SRC-010
+  - C-S0-018    # Stern 婴儿 reality tester SRC-018
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

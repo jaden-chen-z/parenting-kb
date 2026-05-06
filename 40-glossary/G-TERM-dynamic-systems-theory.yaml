@@ -1,0 +1,28 @@
+glossary_id: G-TERM-dynamic-systems-theory
+type: term
+display_name: "动态系统理论 / dynamic systems theory (DST)"
+
+name_en: "dynamic systems theory (DST)"
+name_zh: "动态系统理论"
+
+description: |
+  Thelen-Smith 当代发展心理学最有影响力元理论。
+  发展是 self-organization + emergence + variability,不是预定阶段。
+
+one_liner: |
+  动态系统理论(dynamic systems theory (DST))— Thelen-Smith 当代发展心理学最有影响力元理论。
+
+key_facts:
+  - "Lerner V1 元理论卷核心术语"
+  - "学派:Lerner V1 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

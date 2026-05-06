@@ -1,0 +1,67 @@
+glossary_id: G-TERM-marshmallow-test
+type: term
+display_name: 棉花糖实验(延迟满足)
+
+en_term: marshmallow test / Stanford delay of gratification
+zh_term: 棉花糖实验 / 斯坦福延迟满足实验
+
+one_liner: |
+  Walter Mischel 1960-70 年代斯坦福经典 — 给 4-5 岁孩子一颗棉花糖,
+  "如果你等 15 分钟我回来 — 给你两颗"。
+  跟踪到 30+ 岁:**等待时长**跟成年学业 / 收入 / 健康 / 关系正相关。
+  NRC 综述 Ch 5 引为执行功能(executive function)长期预测力的最强证据。
+
+detail: |
+  ## 实验设计
+  - Walter Mischel 1960-70 年代斯坦福
+  - 4-5 岁孩子 + 1 颗棉花糖(或饼干 / 椒盐)
+  - "现在吃 1 个,或等 15 分钟我回来给你 2 个"
+  - 录像观察孩子"等待策略"
+  - 跟踪到 30 岁 / 40 岁
+
+  ## 关键发现
+  - **能等的孩子**(占 1/3)→ 长大学业 / 收入 / 健康指标显著好
+  - **不能等的孩子**(占 2/3)→ 长大跟成年指标负面更多
+  - 跟孩子 IQ **独立** — 即同 IQ 孩子,等待时长仍预测后期
+  - 是**执行功能**(抑制控制)的早期标志
+
+  ## 关键校准(后期研究)
+  - 不只是"意志力"问题
+  - 也跟**信任水平**相关 — 不信"15 分钟后真给"的孩子(eg 经历过承诺被违背)→ 不等
+  - 跟家庭社会经济地位部分相关 — 不是纯个体因子
+
+  ## NRC 综述含义
+  - 4-5 岁执行功能 → 比 IQ 更预测长期
+  - **可训练**(执行功能比 IQ 更可塑)
+  - 早期干预目标:培养"等待能力" — 不是死磨"意志力"
+  - 是 Perry / Abecedarian RCT 长期效益的部分机制解释
+
+  ## 对家长含义
+  - 不要"测"孩子 — 这不是评估工具
+  - 但可以**支持**等待能力发展:
+    - 信守你给孩子的承诺 → 让他相信"等待值得"
+    - 假装游戏 + 规则游戏 → 练抑制
+    - 阅读 + 自由玩 → 练注意力 + 抑制
+  - **不能等不是道德缺陷** — 大多 1-3 岁不能,3-6 岁渐能
+
+key_facts:
+  - Mischel 斯坦福 1960-70 年代
+  - 4-5 岁等待 → 30+ 岁结果
+  - 比 IQ 更预测长期
+  - 执行功能可训练
+
+related_glossary:
+  - G-PERSON-Shonkoff
+  - G-TERM-executive-function
+  - G-TERM-self-regulation
+
+related_cards: []
+
+sources:
+  - source_id: SRC-025
+  - external: Mischel multiple papers + 30-year follow-up
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

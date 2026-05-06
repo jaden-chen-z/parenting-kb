@@ -1,0 +1,55 @@
+card_id: C-S0-116
+stages: [S0]
+tags: [philosophy, mindset, RIE, lansbury]
+
+front:
+  title: "孕期心态:做我自己,不演完美"
+  hook: "孩子需要的不是模范"
+
+back:
+  why_matters: |
+    很多准父母焦虑"我够好吗 / 我会带吗",
+    Lansbury 整本书的底色:你不需要成为 Mary Poppins。
+    宝宝能察觉大人的真实状态(67 项 Stern + Pikler 共识),
+    与其装"永远耐心"再爆炸,不如做真实的自己 + 学诚实沟通。
+    "我累了,需要 5 分钟"对宝宝来说,比"假装高兴"更安全。
+
+  what_to_do:
+    - 不追求"完美妈妈",追求"真实妈妈"
+    - 累 / 烦 / 焦虑就直说,孩子学诚实
+    - 心理预期:第一年是 un-knowing 状态,正常
+    - 读 Magda Gerber 自信宝宝原典打底
+    - 找 RIE 派或蒙氏派同伴交流,不只是大众群
+
+  failure_mode: |
+    把"完美耐心"当目标 → 撑不住时全爆炸 + 自责。
+    或反向:"我就是急性子" → 不学也不变。
+    Lansbury 说:做真实的自己,但保持学习的心态。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Lansbury
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+  - G-TERM-respectful-parenting
+
+citation:
+  book_title_en: "Elevating Child Care: A Guide to Respectful Parenting"
+  book_title_zh: "尊重孩子:RIE 育儿之道"
+  authors:
+    - Janet Lansbury
+  publisher_en: JLML Press
+  year: 2014
+  location: "Introduction + Ch30 The Parent I Might Have Been"
+  source_id: SRC-019
+
+unit_ids: []
+related_cards:
+  - C-S0-014  # Lillard 爸爸 8 周缓冲器
+  - C-S0-115  # Lansbury 永远不晚
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

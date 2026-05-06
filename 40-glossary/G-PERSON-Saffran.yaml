@@ -1,0 +1,66 @@
+glossary_id: G-PERSON-Saffran
+type: person
+display_name: Saffran
+
+full_name_en: Jenny R. Saffran
+full_name_zh: 詹妮·R·萨弗兰
+
+one_liner: |
+  美国认知科学家(威斯康星大学教授),婴儿统计学习奠基人。
+  1996 年经典实验证明 8 月婴儿听 2 分钟无意义音节就能分割出"词"。
+
+detail: |
+  ## 个人背景
+  - Carnegie Mellon 大学博士(Aslin 学生)
+  - 威斯康星大学心理学教授 + Infant Learning Lab 主任
+  - 美国心理科学协会会士
+
+  ## 核心研究
+  ### 1. Saffran/Aslin/Newport 1996 — 统计学习奠基
+  - 给 8 月宝宝听 2 分钟无意义音节流(golabu pabiku tutipu...)
+  - 婴儿根据"同词内 vs 跨词边界"音节连续概率自动分词
+  - 证明:**婴儿大脑天生跑统计算法**
+  - Science 1996 发表,被引 5000+ 次
+
+  ### 2. 婴儿统计学习扩展
+  - 不只语言 — 视觉序列 / 音乐 / 抽象模式都能统计学习
+  - 跟 Aslin / Werker 协作研究
+  - 是 Werker 母语音素重组的"算法基础"
+
+  ## 中国家长意义
+  - 婴儿不需要"教"分词 — 自动跑统计
+  - 8 月起多说话,正常语速即可
+  - 双语家庭别担心混乱 — 各跑统计
+
+  ## 在本知识库中
+  - SRC-028 Lerner V2 Ch2 共同主笔(74 hits)
+  - C-S4-1140 Saffran 8 月统计学习
+
+  ## 学术影响
+  - 统计学习领域奠基者
+  - 跟 Aslin / Werker 形成"统计学习派"
+  - 反"语言模块论"立场代表
+
+key_facts:
+  - 威斯康星大学心理学教授
+  - 婴儿统计学习 1996 经典
+  - 跟 Aslin / Werker 协作
+  - 反语言模块论立场
+
+related_glossary:
+  - G-PERSON-Kuhl
+  - G-PERSON-Gopnik
+  - G-TERM-statistical-learning
+  - G-TERM-perceptual-narrowing
+
+related_cards:
+  - C-S4-1140
+
+sources:
+  - source_id: SRC-028
+  - external: Saffran/Aslin/Newport 1996 Science / Wikipedia Jenny Saffran
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

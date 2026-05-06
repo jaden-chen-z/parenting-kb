@@ -1,0 +1,52 @@
+glossary_id: G-PERSON-Newcombe
+type: person
+display_name: Newcombe
+
+full_name_en: Nora S. Newcombe
+full_name_zh: 诺拉·S·纽科姆
+
+one_liner: |
+  美国发展心理学家(天普大学教授),空间认知发展研究权威。
+  自我中心 → 客观坐标(allocentric)发展轨迹奠基人。
+
+detail: |
+  ## 个人背景
+  - 哈佛大学博士
+  - 天普大学(Temple)心理学教授
+  - 美国心理协会会士
+
+  ## 核心研究
+  - **空间认知发展**:0-2 岁 egocentric / 2-3 岁 allocentric 雏形 / 4-5 岁稳定地标 / 6-7 岁坐标系
+  - **跨文化空间研究**:跟 Cole 文化心理学接
+  - **男女空间能力差异**:经验差异比生物差异大
+
+  ## 立场
+  - 反"空间能力天生分性别"
+  - 经验决定空间能力(可训练)
+  - 跟 Spelke 空间系统部分一致(基础先天)
+
+  ## 在本知识库中
+  - SRC-028 Lerner V2 Ch17 主笔(77 hits)
+  - C-S7-1100 自我中心 → 客观坐标
+
+key_facts:
+  - 天普大学心理学教授
+  - 空间认知发展研究权威
+  - 反空间能力性别差天生说
+  - Lerner V2 Ch17 主笔
+
+related_glossary:
+  - G-PERSON-Spelke
+  - G-TERM-baby-scientist
+
+related_cards:
+  - C-S7-1100
+
+sources:
+  - source_id: SRC-028
+  - external: Newcombe/Huttenlocher 1992 / Wikipedia Nora Newcombe
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

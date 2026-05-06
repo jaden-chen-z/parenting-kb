@@ -1,0 +1,51 @@
+card_id: C-S0-1504
+stages: ['S0']
+tags: ['philosophy', 'lerner_v1', 'gottlieb', 'canalization', 'waddington']
+
+front:
+  title: "渠化 = 路径有但不固"
+  hook: "基因画路环境定走"
+
+back:
+  why_matters: |
+    Waddington 的 canalization(渠化)是 epigenesis 的核心比喻 —
+    基因像在山谷里挖了几条"渠道"(发展路径),孩子的发展 tend to fall into 这些渠道。
+    但 — 环境扰动可以让发展轨迹脱离渠道,进入另一条。
+    意义 —
+    - "深渠道"(强 canalization)= 几乎所有娃都走这条,环境影响小(eg 走路 / 说话)
+    - "浅渠道"(弱 canalization)= 环境影响大(eg 阅读偏好 / 性格)
+    中国家长意义 — 哪些发展是"深渠道"(随便都行),哪些是"浅渠道"(投入有效),分清就不焦虑。
+  what_to_do:
+    - "深渠道(走路 / 说话 / 长牙) — 不需要 push"
+    - "浅渠道(读书习惯 / 兴趣) — 投入有效"
+    - "气质大方向 = 深渠道 / 表达方式 = 浅渠道"
+    - "不在深渠道上'加速'(浪费精力)"
+    - "在浅渠道上'加投入'(投入回报高)"
+  failure_mode: |
+    把所有发展都当浅渠道猛投入 — 错。深渠道你 push 也没用。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Gottlieb
+  - G-TERM-canalization
+  - G-TERM-probabilistic-epigenesis
+
+related_cards:
+  - C-S0-1503
+  - C-S0-1500
+  - C-S0-722
+  - C-S2-549
+
+citation:
+  source_id: SRC-030
+  source_title: "Handbook of Child Psychology Vol 1: Theoretical Models of Human Development"
+  chapter: "Ch 5 Gottlieb / Wahlsten / Lickliter"
+  chapter_offset: 1179582
+  chapter_title: 'Gottlieb / Wahlsten / Lickliter — Significance of Biology + probabilistic epigenesis'
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_followup_needed: 'SRC-030 用 PDF 字节偏移代页码 — 待加 page_pdf 反查工具'

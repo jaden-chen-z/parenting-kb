@@ -1,0 +1,58 @@
+card_id: C-S2-2007
+stages: [S2]
+tags: [safety, gap_g9_filled]
+
+front:
+  title: 4 种疫苗节奏:IPV/Hib/PCV/HepB/Rota
+  hook: 这 4 种贯穿 0-18 月
+
+back:
+  why_matters: |
+    海蒂详列 2 月起 5 种疫苗的全程节奏(除 DTaP 见 C-S2-2006):
+    - IPV(灭活脊髓灰质炎):2/4/6-18 月 + 4-6 岁,共 4 剂,基本无副作用
+    - Hib(b 型流感嗜血杆菌):2/4/6 + 12-15 月,共 4 剂,防儿童脑膜炎
+    - PCV(肺炎球菌结合疫苗 PCV7/13):2/4/6 + 12-15 月,共 4 剂,防耳朵 / 脑膜 / 肺
+    - HepB(乙肝):出生 + 1-4 月 + 6-18 月共 3 剂(若用 Pediarix 联苗 = 2 针)
+    - Rotavirus(轮状病毒口服):2/4/6 月,口服非注射
+  what_to_do:
+    - "看时间表表格(海蒂 p.227)对每剂打勾"
+    - "Hib + PCV 副作用小,极少发烧"
+    - "母亲乙肝阳性 → 出生 12h 内打 HepB + 免疫球蛋白"
+    - "Rota 是口服,不算扎针总数"
+    - "甲肝 HepA 满 1 岁后再打"
+  failure_mode: |
+    把 IPV / Hib 当 "外语缩写没听过 = 不重要"跳过 → 这些恰是儿童脑膜炎/会厌炎主因。
+    不区分 PCV7 vs PCV13 — 国内现已升级 PCV13,确认医生用的是新版。
+    HepB 出生第 1 针漏掉(海蒂强调出生即打)→ 母婴垂直传播窗口期。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-IPV
+  - G-ABBR-Hib
+  - G-ABBR-PCV
+  - G-ABBR-HepB
+  - G-ABBR-Rotavirus
+  - G-ABBR-AAP
+
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1 岁"
+  authors: ["Heidi Murkoff", "Sharon Mazel"]
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 2010
+  edition: "Third Edition"
+  location: "第 6 章 / IPV/Hib/HepB/PCV 节,p.225-228"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards:
+  - C-S1-064
+  - C-S2-2005
+  - C-S2-2006
+  - C-S3-2146
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

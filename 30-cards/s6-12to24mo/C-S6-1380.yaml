@@ -1,0 +1,66 @@
+card_id: C-S6-1380
+stages: [S6]
+tags: [DAP, hyson, toddler, lerner_v4]
+
+front:
+  title: 学步娃 DAP 玩为主
+  hook: 学步玩为主不要教
+
+back:
+  why_matters: |
+    Hyson V4 Ch 1 早期教育(12-24mo 学步段应用)。
+    **12-24 月 DAP 核心**:
+    - **不要认字**:大脑还不能处理符号
+    - **不要数字**:概念还在 1-3 subitize 阶段(对接 V2 C-S6-1172)
+    - **要玩+模仿+探索**:学习方式
+    - **要语言互动**:词汇爆发期的核心
+    **学步阶段 4 大学习**:
+    - **大动作**:走稳 / 跑 / 爬 / 推拉
+    - **精细动作**:抓 / 捏 / 涂 / 撕
+    - **语言**:听+说+词汇增长
+    - **社交情绪**:依恋深化 + 自我意识萌芽
+    **反 3 误区**:
+    - ❌ "12 月开始认字"(违反 DAP 知识维度)
+    - ❌ "1 岁报班学英文"(语言习得需关系不需教)
+    - ❌ "提前学了起跑线赢"(违反学习领域均衡)
+    跟现库:跟 C-S0-1235 Hyson DAP 总论 + Lansbury 不教(SRC-019)+ Pikler 慢节奏(SRC-026)对接。
+    对中国家长意义:
+    - 12-24 月别着急认字
+    - 多说话 + 多读绘本 + 多玩
+    - 不报"早教班"(关系比教学重要)
+    - 跟孩子玩,不教孩子
+  what_to_do:
+    - 12-24 月别认字
+    - 多说+读+玩
+    - 不报早教班
+    - 跟娃玩不教娃
+  failure_mode: |
+    "12 月认字早起跑"— 错。违反 DAP。
+    "早教班好"— 错。关系比教学重要。
+    "提前学就赢"— 错。学业前移有害。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Hyson
+  - G-PERSON-Bredekamp
+  - G-TERM-DAP
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 4 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 4 卷"
+  authors: ['Marilou Hyson', 'Carol Copple', 'Jacqueline Jones']
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 1 · Hyson · DAP toddler 12-24mo · pp. 20-30"
+  source_id: SRC-029
+
+unit_ids: []
+related_cards:
+  - C-S0-1235     # Hyson DAP 总论
+  - C-S6-927     # Shonkoff 词汇爆发
+  - C-S6-1172     # V2 Geary 数感
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

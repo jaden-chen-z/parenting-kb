@@ -1,0 +1,77 @@
+card_id: C-S6-1389
+stages: [S6]
+tags: [干预, powell, toddler, lerner_v4]
+
+front:
+  title: 12-24 月干预要早
+  hook: 12-24 月干预要早
+
+back:
+  why_matters: |
+    Powell V4 Ch 14(12-24mo 早期干预黄金期)。
+    **12-24 月为啥是黄金期**:
+    - 大脑可塑性最强
+    - 行为模式还未固化
+    - 父母-娃关系还在塑造
+    - 干预成本最低 + 效果最强
+    **5 大早期信号 12-24 月**:
+    - **18 月不会指物 / 不响应名字** → 自闭谱筛查
+    - **24 月词汇 < 50** → 语言迟缓筛查
+    - **过度 tantrum** → 自我调节断裂可能
+    - **退缩 + 不接触** → 依恋问题筛查
+    - **睡眠 + 进食问题持续** → 综合评估
+    **早期发现 → 早期介入 = 最大化结果**:
+    - 自闭谱:18 月介入比 36 月强 5-10 倍
+    - 语言迟缓:24 月介入比 4 岁强 3 倍
+    - 行为问题:24 月介入比 6 岁强 5 倍
+    **反 4 误区**:
+    - ❌ "等大了再说"(每月延迟成本翻倍)
+    - ❌ "我家娃没问题别评估"(早评估不丢人)
+    - ❌ "找 N 家医院"(找 1 家专业的开始)
+    - ❌ "贴标签伤娃"(早干预是最好的爱)
+    **3 步行动**:
+    - 看儿科(基础筛查)
+    - 转介专业评估(发育儿科 / 心理)
+    - 跟进早期干预(语言治疗 / 行为治疗 / OT)
+    跟现库:跟 C-S0-1233 Powell 5 原则 + C-S0-1242 NFP + V3 Caspi 人格延续(C-S7-997)对接。
+    对中国家长意义:
+    - 12-24 月发现信号别拖
+    - 找儿科基础筛查
+    - 转介专业评估不丢人
+    - 早干预 5-10 倍效果
+  what_to_do:
+    - 12-24 月信号别拖
+    - 儿科基础筛查 → 专业评估
+    - 早评估不丢人
+    - 早干预 5-10 倍效果
+  failure_mode: |
+    "等大了再说"— 错。每月延迟成本翻倍。
+    "找咨询丢人"— 错。早评估是负责任。
+    "贴标签伤娃"— 错。早干预是爱。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Powell
+  - G-TERM-early-intervention
+  - G-TERM-NFP
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 4 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 4 卷"
+  authors: ['Douglas R. Powell']
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 14 · Powell · Toddler 12-24mo intervention golden window · pp. 555-565"
+  source_id: SRC-029
+
+unit_ids: []
+related_cards:
+  - C-S0-1233     # Powell 5 原则
+  - C-S0-1242     # NFP 30 年
+  - C-S6-1384     # V4 学步虐待最敏感
+  - C-S0-619     # Shonkoff NRC 综述
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

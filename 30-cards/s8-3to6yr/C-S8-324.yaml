@@ -1,0 +1,50 @@
+card_id: C-S8-324
+stages: [S8]
+tags: [parke, ethnic_culture, lerner_v3]
+
+front:
+  title: "白人中产不是普世"
+  hook: "管教看你家文化的"
+
+back:
+  why_matters: |
+    Parke & Buriel(Ch 8)综述 — 主流育儿研究 80% 是白人中产美国家庭,
+    其他文化的"严厉"父母不一定是 Baumrind 专制型。
+    例 — 非裔母亲严厉但温暖,孩子结果好(独立性强)。亚裔父母训练式严要求,
+    在亚裔文化背景下结果好(成绩+自律)。一句话 — 你照搬美国育儿书可能错配中国家庭。
+  what_to_do:
+    - "Baumrind 4 类型不是宇宙真理"
+    - "中国严父慈母 ≠ 全错"
+    - "看效果不看是否符合美式"
+    - "你的方法 + 文化 + 娃气质 = 三角"
+    - "适合你的不一定适合邻居"
+  failure_mode: |
+    照搬美国育儿书,用严就是专制自我归罪,实则你的严在中国家庭语境是常态。
+    Parke-Buriel — 文化情境决定教养效果。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Parke
+  - G-PERSON-Buriel
+  - G-TERM-ethnic-parenting
+  - G-TERM-cultural-context
+
+related_cards:
+  - C-S8-104      # 松田 IQ 测试
+  - C-S8-103      # 松田反虎妈
+  - C-S8-100      # 松田反体罚
+  - C-S8-105      # 松田反性别刻板
+
+citation:
+  source_id: SRC-027
+  source_title: "Handbook of Child Psychology Vol 3"
+  chapter: "Ch 8 Parke & Buriel — Ethnic"
+  chapter_offset: 2475372
+  chapter_title: 'Parke & Buriel — 家庭社会化(种族 + 生态)'
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_followup_needed: 'SRC-027 用 PDF 字节偏移代页码 — 待加 page_pdf 反查工具'

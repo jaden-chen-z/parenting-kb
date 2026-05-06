@@ -1,0 +1,74 @@
+card_id: C-S3-199
+stages: [S3]
+tags: [self, philosophy, china_high_freq]
+
+front:
+  title: 独自时也"有人陪"
+  hook: 独自摇玩具也有伙伴
+
+back:
+  why_matters: |
+    Stern 解释一个被传统心理学错过的关键现象 — **唤起的伙伴**:**6 月宝宝独自玩耍时,内心有"伙伴陪着"的体验**。
+    **场景**:
+    - 6 月宝宝独自坐着,抓住拨浪鼓,摇出声音
+    - **初始反应**:小喜悦(成功的 mastery)
+    - **之后突然**:大喜悦 + 笑 + 发声 + 全身扭动 = "超出 mastery 应有的程度"
+    - **传统解释**:nothing。或者笼统说"开心"
+    - **Stern 解释**:成功的 mastery 触发了 RIG_with-mom-during-play(以前妈陪玩时 mom 同样兴奋反应),**唤起的伙伴 被激活**,宝宝实际是"跟内心妈妈一起在庆祝"
+    **唤起的伙伴 的含义**:
+    - 宝宝独自时**实际并不孤单** — 内心 互动原型记忆(RIGs) 在被激活,有"伙伴在场"
+    - 这是宝宝**最早的"自我安抚"心理基础** — 用内化的"陪伴"调节自己
+    - 一辈子都有,不会消失
+    - 失去亲人时(成人哀伤),唤起的伙伴 会被强烈激活,产生"那个人还在"的感觉(Freud 1917 哀伤理论)
+    - 恋爱时,情人不在也"在场" — 也是 唤起的伙伴
+    **对中国家长的核心信息**:
+    - **6 月起宝宝可以短时独玩** — 不是"被遗弃",是有 唤起的伙伴 陪
+    - 但这要靠**前期高质量互动**累积出 互动原型记忆(RIGs)
+    - 缺少 互动原型记忆(RIGs) 的宝宝(被忽视)→ 没有 唤起的伙伴 可激活 → 真的孤单
+    - **这就是为什么"前期不能省事推托"** — 你给的每次互动都在为宝宝**未来独立**奠定基础
+    **反"陪到底" 中文家长迷思**:
+    - 中国家长担心"宝宝独自玩 = 我对他不好"
+    - Stern: **正常宝宝独自玩时不孤单** — 有 唤起的伙伴
+    - 你的任务不是 24/7 陪 — 是建好 互动原型记忆(RIGs),然后让宝宝去"内化"
+    跟 Bowlby 安全基地 + Lillard 蒙氏"独自专注"(C-S1-248)同立场。
+  what_to_do:
+    - 6 月起允许宝宝短时独玩
+    - 不必 24/7 在视线内
+    - 前期高质量互动建 互动原型记忆(RIGs)
+    - 宝宝独玩时不打扰
+    - 别说"我对宝宝不好" — 是健康独立
+  failure_mode: |
+    "宝宝独自玩看着可怜要去陪" — 错过 唤起的伙伴 启动机会,宝宝学不会自我安抚。
+    24/7 陪 → 宝宝没机会用 唤起的伙伴 → 离开你时真的崩溃。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Stern
+  - G-PERSON-Bowlby
+  - G-TERM-evoked-companion
+  - G-TERM-RIGs
+
+citation:
+  book_title_zh: "婴儿的人际世界"
+  book_title_en: "The Interpersonal World of the Infant"
+  authors: ["Daniel N. Stern"]
+  authors_zh: ["丹尼尔·斯特恩"]
+  publisher_en: "Basic Books"
+  year_en: 1985
+  isbn_en: "978-0-465-09559-9"
+  location: "Ch 5 · Evoked Companions (rattle example)"
+  publisher_zh: "华东师范大学出版社"
+  year_zh: 2017
+  translator_zh: ["刘旭东"]
+  source_id: SRC-018
+
+unit_ids: []
+related_cards:
+  - C-S3-198       # Stern RIGs
+  - C-S1-248       # Lillard 别打断专注
+  - C-S5-070       # Bowlby 安全依恋
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

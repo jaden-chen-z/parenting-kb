@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Bruck
+type: person
+display_name: "Bruck(玛吉·布鲁克)"
+
+full_name_en: "Maggie Bruck"
+full_name_zh: "玛吉·布鲁克"
+
+position: |
+  Johns Hopkins University
+
+contribution: |
+  儿童证人记忆暗示性研究
+
+one_liner: |
+  玛吉·布鲁克 — 儿童证人记忆暗示性研究
+
+key_facts:
+  - "本卷章节:Ch 19 主笔"
+  - "Lerner V4 命中:16 次"
+  - "学派:Lerner V4 应用心理学派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-029
+    chapter: "Ch 19 主笔"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

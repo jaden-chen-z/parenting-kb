@@ -1,0 +1,47 @@
+card_id: C-S1-610
+stages: [S1]
+tags: [breastfeeding, supplement-criteria]
+
+front:
+  title: 母乳不足补救数字法
+  hook: 日增 30-40g 算够
+
+back:
+  why_matters: |
+    松田给硬数字:母乳分泌好的话,1 周内日增 30-40 g。
+    > 50 g/日要怀疑过喂(尤其奶瓶喂养)。
+    < 30 g/日 + 半月时比出院还少 + 半夜常哭闹 = 母乳真不足,可加奶。
+    没硬数字时,妈只能凭"够不够"焦虑感乱加,过/欠都伤娃。
+  what_to_do:
+    - 准婴儿秤,在家每日称
+    - 周称 1 次取均值,看日增 g
+    - 30-40 g 内别动,继续母乳
+    - < 30 g 持续 1 周才考虑加奶
+    - 加奶不替母乳 — 先母乳后补
+  failure_mode: |
+    "感觉奶不够"凭空加奶粉 → 母乳吸吮少 → 泌乳更降 → 真不够 → 全奶粉,本可母乳的没了。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Matsuda
+
+citation:
+  book_title_zh: "定本《育儿百科》"
+  book_title_jp: "育児の百科(定本)"
+  authors: ["松田道雄"]
+  translators_zh: ["王少丽"]
+  publisher_zh: null
+  year: 1980
+  edition: "定本"
+  location: "第 36-37 节是不是母乳不足 / 母乳不足时的补救措施"
+  source_id: SRC-023
+
+unit_ids: []
+related_cards:
+  - C-S0-369  # 自卷:母乳孕期决策
+  - C-S0-005  # Brazelton 上班妈母乳
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

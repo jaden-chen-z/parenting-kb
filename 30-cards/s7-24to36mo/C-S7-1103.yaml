@@ -1,0 +1,55 @@
+card_id: C-S7-1103
+stages: [S7]
+tags: []
+
+front:
+  title: "12-36m 跟家庭饮食"
+  hook: "盐糖油减量是关键"
+
+back:
+  why_matters: |
+    WHO 12 月+ 立场:跟随家庭饮食(family foods)+ 持续母乳。
+    12-36 月饮食原则:
+    ① 形态:跟大人桌(切碎/煮软)
+    ② 多样:5+ 食物组
+    ③ 量:大人量的 ~1/4-1/2(分多餐 + 加餐)
+    ④ 减盐:< 1g/天(总),不另加盐
+    ⑤ 减糖:不另加糖(果汁/糕点限)
+    ⑥ 减油:不油炸,蒸/煮/炒优先中国通病:1 岁后跟大人吃 = 大人盐糖量 → 学步儿肝肾负担超。
+  what_to_do:
+    - "12+ 月跟大人桌 — 但盐/糖/油单独减"
+    - "不另加盐(< 1g/天)"
+    - "不另加糖(果汁糕点限)"
+    - "蒸/煮/炒为主 — 不油炸"
+    - "母乳/全奶继续(WHO 持续 2 年)"
+  failure_mode: |
+    1 岁后直接跟大人吃含盐糖油 → 钠超 / 蛀牙 / 肝肾负担超。
+    12-36 月仍是儿童食品标准。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-CF
+  - G-ABBR-WHO
+
+citation:
+  page_title: "WHO 12+ Months Family Foods"
+  publisher: "World Health Organization & UNICEF"
+  page_url_primary: https://www.who.int/health-topics/breastfeeding
+  accessed: 2026-05-04
+  language: en
+  location: "WHO 12+ 跟随家庭饮食 + 减盐糖油"
+  source_id: SRC-031
+
+unit_ids: []
+related_cards:
+  - C-S6-1066
+  - C-S6-1064
+  - C-S6-001
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_doc_id_pending: D8
+citation_followup_needed: '已映射真实 doc_id (D8 = WHO Breastfeeding Topic + Targets)'

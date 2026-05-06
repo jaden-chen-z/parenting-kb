@@ -1,0 +1,84 @@
+glossary_id: G-PERSON-Sears
+type: person
+display_name: Sears
+
+full_name_en: William Sears
+full_name_zh: 威廉·西尔斯
+
+one_liner: |
+  美国儿科医生,**亲密育儿(Attachment Parenting, AP)派创始人**(1980s 起),
+  主张"7 个 Bs"(母乳 / 抱孩子 / 共睡 / 等等),与"严格按时不哄"派对立。
+
+detail: |
+  ## 个人背景
+  - 1939 年生,美国儿科医生
+  - 跟妻子 Martha Sears(注册护士)+ 8 个孩子合著《Sears Parenting Library》系列(20+ 本)
+  - 受 Bowlby 依恋理论 + Lamaze 自然分娩 + 母乳运动启发
+
+  ## 核心立场:亲密育儿(Attachment Parenting,AP)
+
+  ### 1. 7 大原则(7 Bs)
+  1. **Birth bonding** 出生即建立联结
+  2. **Breastfeeding** 母乳喂养
+  3. **Babywearing** 用背带抱
+  4. **Bedding close to baby** 共睡或同房
+  5. **Belief in baby's cries** 相信宝宝哭声(不让 CIO)
+  6. **Beware of baby trainers** 警惕"宝宝训练师"派(反 Ferber)
+  7. **Balance** 平衡(父母也要照顾自己)
+
+  ### 2. 跟其他流派对照
+  - **vs Ferber 哭出来法(CIO)**:Sears 强烈反对,认为伤依恋
+  - **vs Babywise(Ezzo)**:Sears 反对严格按时喂奶/睡眠
+  - **vs Karp 5S**:Sears 接受 5S 部分实操(摇晃/嘘声)但不接受奶嘴
+  - **vs Magda Gerber/RIE**:RIE 反对过度干预 + 自我安抚导向,Sears 更偏即时回应
+  - **vs Bowlby**:Sears 把依恋理论转化为家庭实操,但放大了"母乳/共睡/抱"等具体做法
+  - **vs AAP**:AAP 反对共睡(SIDS 风险),Sears 推动共睡 — 这是主要张力
+
+  ### 3. 主要著作
+  - 《The Baby Book》(主流家庭参考,200 万+ 销量)
+  - 《The Attachment Parenting Book》(2001)
+  - 《The Discipline Book》
+  - 《The Successful Child》
+
+  ### 4. 主要争议
+  - **共睡安全性**:AAP 反对(SIDS),Sears 推动 — 立场对立
+  - **过度回应**:批评者认为放大父母焦虑 + 削弱孩子自主
+  - **母乳延长**:Sears 推到 2-3 岁,跟"1 岁断奶"主流文化冲突
+  - **CIO 立场**:跟 Ferber/Karp 派强烈对立
+
+  ## 在本知识库中
+  - 多个流派对照卡(分离焦虑 / 睡眠训练 / 共睡 / 母乳延长)中作为"AP 派"代表
+  - C-S5-NEW-SEPARATION 9 派对照可加入 AP 立场
+  - 跟 Bowlby 一起作为现代依恋实操的"普及派"
+
+  ## 重要提醒
+  Sears 部分立场已被现代证据修正:
+  - 共睡 vs AAP 反对(SIDS) — 中国家长决策需谨慎
+  - "宝宝哭都要立即抱" 跟 NRC / Magda 立场有张力
+  - 但 7 Bs 整体方向跟 RIE / Bowlby / WHO 母乳 兼容度高
+
+key_facts:
+  - 美国儿科医生(1939-)
+  - 亲密育儿(Attachment Parenting)派创始人
+  - 7 Bs 框架(母乳/抱/共睡/相信哭/反 CIO 等)
+  - 跟 Ferber 哭出来法 + Babywise 严格作息派对立
+  - 共睡立场跟 AAP 长期张力
+
+related_glossary:
+  - G-PERSON-Bowlby
+  - G-TERM-attachment-parenting
+  - G-ABBR-AAP
+
+related_cards:
+  - C-S1-028     # Karp 10 步共睡
+  - C-S1-037     # AAP 反 bed-sharing
+  - C-S2-291     # Lansbury 独处不是被忽视
+  - C-S4-298     # Lansbury dependent vs helpless
+
+sources:
+  - external: Sears W &amp; Sears M. The Baby Book (1993) Little Brown / The Attachment Parenting Book (2001) / Sears Parenting Library / askdrsears.com
+
+language: zh
+status: draft
+created: 2026-05-05
+updated: 2026-05-05

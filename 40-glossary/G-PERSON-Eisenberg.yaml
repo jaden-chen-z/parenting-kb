@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Eisenberg
+type: person
+display_name: "Eisenberg(南希·艾森伯格)"
+
+full_name_en: "Nancy Eisenberg"
+full_name_zh: "南希·艾森伯格"
+
+position: |
+  Arizona State University 心理学教授
+
+contribution: |
+  共情、亲社会发展、情绪调节研究奠基人;Lerner V3 主编
+
+one_liner: |
+  南希·艾森伯格 — 共情、亲社会发展、情绪调节研究奠基人;Lerner V3 主编
+
+key_facts:
+  - "本卷章节:Ch 1, Ch 11"
+  - "Lerner V3 命中:688 次"
+  - "学派:Lerner V3 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-027
+    chapter: "Ch 1, Ch 11"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

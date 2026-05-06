@@ -1,0 +1,66 @@
+card_id: C-S1-900
+stages: [S1]
+tags: [pikler, sleep, anti-cry-it-out, source-de]
+
+front:
+  title: "夜里也回应自然睡通宵"
+  hook: "Pikler 反夜哭训练"
+
+back:
+  why_matters: |
+    皮克勒 1969 第 1 章关键立场 — 反**"哭训练"**(让婴儿哭累自己睡 / 即"哭到睡着"法 cry-it-out):
+
+    **皮克勒数据**:健康 2-4 月龄婴儿,**白天好好照顾 + 夜里饿了喂、哭了回应** → 几周内自然睡通宵。
+
+    **皮克勒反例**:夜里饿哭让孩子哭着自己睡 ≠ 学会"睡通宵" → 反而让婴儿**焦躁不安**。
+
+    皮克勒立场跟玛格达(SRC-022:白天平静 → 晚上才安睡)+ 鲍尔比安全基地
+    + 松田道雄(反"哭到睡着"法)一致。**4 派共识源头**(见 G-TERM 反"哭到睡着"法)。
+
+    跟 1980-2000s 美国流行的费伯法 / Weissbluth 派立场严重对立。
+    皮克勒 1969 早 30 年就反对了。
+
+    **关键鉴别**:皮克勒不是"全程抱睡 / 摇睡"派(她反那个),
+    而是"白天好好照顾 + 夜里也好好回应"派 — 中道。
+
+  what_to_do:
+    - 夜里饿了喂(2-4 月仍可能 1-2 次夜奶)
+    - 夜里哭了先看 — 屎尿 / 衣服紧 / 冷热
+    - 安静放回床上 — 不长时间抱,不机械摇
+    - 几周后自然睡眠延长(2-4 月可整夜)
+    - 不让孩子哭着入睡(任何时段)
+
+  failure_mode: |
+    "夜哭训练让孩子学会自己睡更独立" → 皮克勒反:
+    研究证明夜哭训练让婴儿"睡得好"是表面 — 实际压力激素皮质醇仍高,只是放弃求救。
+    皮克勒 / 4 派立场:回应夜哭不会"宠坏",反而建立基础信任。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Pikler
+  - G-TERM-anti-cry-it-out
+  - G-TERM-attachment
+
+citation:
+  book_title_de: "Friedliche Babys – zufriedene Mütter"
+  book_title_zh: "和平的婴儿 — 满足的母亲"
+  authors:
+    - Emmi Pikler
+  publisher_de: HERDER (HERDER / SPEKTRUM Band 4141)
+  year: 1969
+  location: "Ch1 Erziehung zum Weinen pp. 13-16"
+  source_id: SRC-026
+
+unit_ids: []
+related_cards:
+  - C-S1-899  # Pikler 反摇晃唱歌麻醉(本卷)
+  - C-S1-408  # Gerber 哭是孩子的语言
+  - C-S2-348  # Gerber 白天平静晚上才睡(立场一致)
+  - C-S6-816  # 松田反 CIO(松田立场一致)
+  - C-S0-167  # Magda 7 大育儿原则
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

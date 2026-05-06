@@ -1,0 +1,61 @@
+card_id: C-S4-500
+stages: [S4]
+tags: [language, RIE, learning]
+
+front:
+  title: "不教 ABC 多说生活"
+  hook: "晚说话不等于晚智"
+
+back:
+  why_matters: |
+    Magda《自信的宝宝》Ch8 §Supporting Toddler's Language Development。
+    Magda 反"早教 ABC"派立场鲜明。她引 Einstein 故事:
+    爱因斯坦 3 岁才说话(Katherine Reef 1991 传记记载),
+    晚说话 ≠ 不聪明。语言先在内在长(comprehensive language),
+    再长出表达(expressive language)。
+    Magda:"不必教 ABC / 颜色 / 数字。多说生活:
+    '我累了,要躺一会。' '我在切苹果给你做加餐。'
+    '爸爸出门了。' '宝宝在哭。'"
+    宝宝学语言是从语境抽象的,不是从教学卡片。
+    跟 Tier 1 神经语言学一致(Bloom / Tomasello 都同):
+    1000 个生活词 > 100 个 flashcard 词。
+
+  what_to_do:
+    - 取消 ABC 卡片 / 早教 app
+    - 全程说生活解说
+    - 简单短句:"妈妈剪苹果"
+    - 听到他说啥重复:"狗,你看见狗了"
+    - 不焦虑晚说,3 岁前差异大
+
+  failure_mode: |
+    "邻居娃 1 岁会说 50 词我家 18 月才 5 词" → Magda 反:
+    不要比较,3 岁前差异巨大。或"必须早教不然落后" → 反:Einstein
+    给的反例就是回答 — 晚说不等于晚智。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+
+citation:
+  book_title_en: "Your Self-Confident Baby"
+  book_title_zh: "自信的宝宝"
+  authors:
+    - Magda Gerber
+    - Allison Johnson
+  publisher_en: John Wiley & Sons
+  year: 1998
+  location: "Ch8 §Supporting Toddler's Language Development(p213-214)"
+  source_id: SRC-021
+
+unit_ids: []
+related_cards:
+  - C-S6-405  # Lansbury 鼓励幼儿说话 6 招
+  - C-S2-127  # Davies 真词不嘎嘎
+  - C-S5-188  # Lillard 选 2 法
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

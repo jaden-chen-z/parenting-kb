@@ -1,0 +1,69 @@
+card_id: C-S8-741
+stages: [S8]
+tags: [mental_retardation, hodapp, lerner_v4]
+
+front:
+  title: 智力迟滞 ≠ 一类
+  hook: 智力迟滞病因特定
+
+back:
+  why_matters: |
+    Hodapp-Dykens V4 Ch 12 智力迟滞章。
+    **etiology-具体的(病因特定)立场**:
+    - 反"智力迟滞 = 一类娃"传统观点
+    - 不同病因 = 不同发展轨迹 + 不同干预
+    - **3 大常见类型**:
+      - **唐氏综合征**:语言落后但社交+情绪强 → 重语言训练
+      - **威廉斯综合征**:社交+音乐强但空间弱 → 重空间训练
+      - **自闭谱系障碍**:社交弱但视觉强 → 重社交故事
+    - **干预不能一刀切**
+    **Hodapp 关键发现**:
+    - 同一 IQ 60 娃,病因不同,干预完全不同
+    - 唐氏娃用唐氏专用方法,不用通用智力迟滞方法
+    - 这改变了过去 30 年的特殊教育
+    **早期发现**:
+    - 0-1 岁基因检测 / 12 月发育评估
+    - 早期发现 = 早期专门干预意义:
+    - 中国特殊教育偏"一刀切"
+    - 病因特定 = 高效干预
+    - 家长要主动了解病因跟现库:跟 V3 Caspi 人格延续(C-S7-997)+ Cicchetti 发展精神病理(C-S0-1232)对接。
+    对中国家长意义:
+    - 智力迟滞 ≠ 全部一样
+    - 找病因特定干预
+    - 早期诊断重要
+    - 不接受"通用"训练班
+  what_to_do:
+    - '不接受"通用"特殊教育'
+    - 主动了解娃病因
+    - 早期诊断+专门干预
+    - 不一刀切训练
+  failure_mode: |
+    "智力迟滞都一样"— 错。病因特定。
+    "通用训练班够"— 错。需专门方法。
+    "等大了再说"— 错。早诊断 = 早专门。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Hodapp
+  - G-PERSON-Dykens
+  - G-TERM-etiology-specific
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 4 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 4 卷"
+  authors: ['Robert M. Hodapp', 'Elisabeth M. Dykens']
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 12 · Hodapp-Dykens · Etiology-specific intervention · pp. 453-470"
+  source_id: SRC-029
+
+unit_ids: []
+related_cards:
+  - C-S7-997     # V3 Caspi 人格延续
+  - C-S0-1232     # Cicchetti 4 原则
+  - C-S8-739     # Selman 信号
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

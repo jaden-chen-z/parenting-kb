@@ -1,0 +1,67 @@
+card_id: C-S4-804
+stages: [S4]
+tags: [shonkoff, nrc, attachment, secure_base, china_high_freq]
+
+front:
+  title: "依恋形成于 6-12 月"
+  hook: "宝宝认主要看护人"
+
+back:
+  why_matters: |
+    NRC 综述 Ch 9 引 Bowlby + Ainsworth + Sroufe 共识 — 依恋形成时间线:
+    **关键发展**(NRC 综述):
+    1. **6-12 月**:依恋"组织化"— 宝宝把行为有目的地导向一个或几个特定人
+    2. **8 月起**:陌生焦虑 / 分离抗议 — 跟依恋形成同步
+    3. **secure base behavior 安全基地行为**:探索 → 累 → 回到妈身边充电 → 再探索
+    **NRC 立场超越 Bowlby 母亲专一**:
+    - **依恋对象不必是生母** — 是稳定 + 高质量回应的人
+    - 可以是父亲 / 爷爷奶奶 / 长期保姆 / 养母
+    - **质量比血缘重要**(Lamb 数据)
+    - 多依恋对象不矛盾(可同时跟妈和奶奶都安全依恋)
+    **关键洞察**:
+    - 依恋是**主动建构** — 婴儿会找最稳定回应的人形成 primary attachment
+    - 即便回应只是"中等" — 也会形成依恋(Romanian 孤儿院数据)
+    - 但**质量决定 secure 还是 insecure**
+    **对中国家长**:
+    - 老人带 / 妈妈带不是关键 — 关键是"稳定 + 高质量回应"
+    - 突然换主要照护人 → 8-12 月最敏感期 → 是创伤
+    - 二胎 / 妈妈上班 / 老人轮流带 → 提前过渡 + 主要人保稳定
+    - "他不爱我了"(妈上班宝宝跟奶奶亲)→ 不是不爱,是依恋随回应走跟 Bowlby V1/V2 + Ainsworth + 松田立场一致。
+  what_to_do:
+    - 6-12 月主要照护人保稳定
+    - 别突然换看护人
+    - 二胎前提前调适
+    - 多人共同高质量回应
+    - 信"质量重于血缘"
+  failure_mode: |
+    "他妈跑了 — 我们 8 月接手能弥补" — 6-12 月换 primary 是高风险期。
+    "8 月不让妈上班 — 上了娃跟保姆亲" — 错,主要回应人决定依恋。
+    "二胎一来扔老家给老人 6 月" — 8-12 月是 worst timing。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Shonkoff
+  - G-PERSON-Bowlby
+  - G-PERSON-Ainsworth
+  - G-TERM-attachment
+  - G-TERM-secure-base
+
+citation:
+  book_title_en: "From Neurons to Neighborhoods"
+  authors: ["Jack P. Shonkoff", "Deborah A. Phillips"]
+  org: "NRC/IOM"
+  year_en: 2000
+  location: "Ch 9 · Attachment formation timeline"
+  source_id: SRC-025
+
+unit_ids: []
+related_cards:
+  - C-S5-070    # Bowlby 安全依恋 SRC-011
+  - C-S5-292    # Stern core self with other SRC-018
+  - C-S6-666    # Ainsworth 陌生情境 SRC-023
+  - C-S4-700    # 松田 母婴同睡 SRC-024
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

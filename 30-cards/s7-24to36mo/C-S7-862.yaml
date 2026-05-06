@@ -1,0 +1,68 @@
+card_id: C-S7-862
+stages: [S7]
+tags: [shonkoff, nrc, theory_of_mind, false_belief]
+
+front:
+  title: "3 岁懂别人想错"
+  hook: "心智推理在慢慢长"
+
+back:
+  why_matters: |
+    NRC 综述 Ch 5 引"theory of mind 心智理论"经典 — 3 岁里程碑:
+    **关键发展**(NRC 综述):
+    - **2 岁前**:不知别人有自己内心
+    - **2-3 岁**:理解别人有不同欲望(他想要的我不一定要)
+    - **3-4 岁**:**false belief task 错信任务通过** — 理解别人可能有错的想法
+    - **4-6 岁**:复杂心智(理解假装 / 欺骗 / 隐藏想法)
+    **Sally-Anne 经典实验**:
+    - Sally 把球放篮子 → 离开
+    - Anne 把球移到盒子里
+    - Sally 回来找球 — 哪里找?
+    - 3-4 岁:答篮子(知道 Sally 不知 Anne 移了)
+    - <3 岁:答盒子(把自己知道的当 Sally 知道的)
+    **NRC 立场**:
+    - 心智理论是社交 + 道德 + 沟通基础
+    - <3 岁孩子不能"将心比心" — 这不是自私
+    - 3 岁起逐渐成熟 — 但 4-5 岁仍在长
+    - 自闭症孩子 false belief 通过延迟
+    **跟 Gopnik / Stern intersubjectivity / Wonder Weeks 第 5 跃迁一致**。
+    **对中国家长**:
+    - 3 岁前讲"换位思考"不通 — 大脑还没长好
+    - 3 岁起可以慢慢说"妈妈不知道呀 — 你告诉妈妈"
+    - 别让 2 岁宝宝"想想别人感受" — 跨越发展阶段
+    - 3-4 岁是 false belief 起点
+  what_to_do:
+    - 3 岁前别讲换位思考
+    - 3 岁起渐进引导
+    - 用故事教心智理论
+    - 别强求 2 岁懂别人
+    - 5 岁仍在长别催
+  failure_mode: |
+    "他怎么这么自私 — 不知道顾及别人" — 错,3 岁前 ToM 还没长出来。
+    "我跟 2 岁解释为什么不能" — 大脑层级不到,白费口舌。
+    "他骗我了" — 4 岁前还不真"骗",是混淆现实跟想象。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Shonkoff
+  - G-TERM-theory-of-mind
+  - G-TERM-NRC
+
+citation:
+  book_title_en: "From Neurons to Neighborhoods"
+  authors: ["Jack P. Shonkoff", "Deborah A. Phillips"]
+  org: "NRC/IOM"
+  year_en: 2000
+  location: "Ch 5 · Theory of mind development"
+  source_id: SRC-025
+
+unit_ids: []
+related_cards:
+  - C-S5-295    # Stern intersubjectivity SRC-018
+  - C-S6-179    # Gopnik mental milestones SRC-015
+  - C-S6-929    # Shonkoff empathy(本卷)
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

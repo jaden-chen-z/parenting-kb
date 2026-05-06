@@ -1,0 +1,62 @@
+card_id: C-S4-499
+stages: [S4]
+tags: [motor-发展, RIE, pikler, controversy]
+
+front:
+  title: "Pikler 自然大动作"
+  hook: "不教不撑信小马驹"
+
+back:
+  why_matters: |
+    Magda《自信的宝宝》Ch5 引 Pikler《Peaceful Babies》核心:
+    "学走路不只是学动作,是学'怎么学':
+    自己尝试 / 坚持 / 克服困难 / 体会成功 = 终身能力的根。"
+    Magda 类比:小马驹生下来几分钟就站,猫狐象都按本物种自然方式动 —
+    宝宝也一样,如果你不打扰。
+    所谓"打扰":撑坐 / 学步车 / 牵手走 / 替宝宝翻身 / 越级位置。
+    Magda + Pikler 立场比 Lansbury 更严:**任何宝宝自己进不到的姿势,大人不许放他进。**
+    举例:不会爬 → 不许撑趴;不会坐 → 不许扶坐 / Bumbo;
+    不会站 → 不许扶站 / 拉手走。
+    每个宝宝按自己时间表完成 — 早晚不算什么。
+
+  what_to_do:
+    - 平躺仰睡为基础(0-3 月)
+    - 趴姿等他自己翻过来
+    - 不撑坐 / 不扶站 / 不拉手
+    - 全部前置姿势让他自然过
+    - 给安全大空间 + 简单玩具
+
+  failure_mode: |
+    "我家邻居 5 月坐 7 月走我家 9 月才坐怎么办" → Magda 反:
+    Pikler 100 个家庭研究都按自己时间表,无相关性长期结果。
+    或"撑坐看世界看得多对发展好" → 反:被困视角不是好视角,
+    撑坐宝宝物体掉了只能干等。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Gerber
+  - G-PERSON-Pikler
+  - G-TERM-RIE
+
+citation:
+  book_title_en: "Your Self-Confident Baby"
+  book_title_zh: "自信的宝宝"
+  authors:
+    - Magda Gerber
+    - Allison Johnson
+  publisher_en: John Wiley & Sons
+  year: 1998
+  location: "Ch5 起始(p65-66 引 Pikler)+ Ch2 First Pikler Babies(p14-15)"
+  source_id: SRC-021
+
+unit_ids: []
+related_cards:
+  - C-S2-290  # Lansbury 不撑坐 8 理由
+  - C-S3-191  # Lillard 大动作发展
+  - C-S3-133  # Davies floor bed
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

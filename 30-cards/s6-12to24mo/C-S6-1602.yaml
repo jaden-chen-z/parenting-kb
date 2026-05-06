@@ -1,0 +1,36 @@
+card_id: C-S6-1602
+stages: [S6]
+tags: [sibling, safety]
+front:
+  title: 老大伤害小宝多是好奇不是恶意
+  hook: 不知轻重不等于坏孩子
+back:
+  why_matters: |
+    前情:1-2 岁老大可能戳小宝眼睛、捏脸、推一下。
+    海蒂强调这通常是好奇而非恶意,1-2 岁的孩子还不理解小宝脆弱、不知力度。父母不要过激反应让他觉得"了解人体是不好的事情",而是温和制止+解释+示范温柔触摸。但好奇不等于可放任,必须 100% 看护到位。
+  what_to_do:
+    - 看到伤害先冷静温和阻止
+    - 解释"宝宝很娇嫩要轻轻"
+    - 示范用一根手指轻摸
+    - 转移注意力到老大的玩具
+    - 大原则:任何时候不让两人独处
+  failure_mode: 把好奇行为定性"坏孩子",训斥羞辱让老大对小宝产生真正敌意,问题从误伤升级为故意攻击。
+  evidence_level: B
+glossary_refs: []
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors: ["Heidi Murkoff", "Sharon Mazel"]
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh: ["莫夏迪", "张敏"]
+  location: "第 25 章 《二胎》, 页 733-734"
+  source_id: "SRC-040"
+related_cards: [C-S6-1601, C-S6-1604]
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

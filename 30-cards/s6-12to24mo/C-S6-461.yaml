@@ -1,0 +1,57 @@
+card_id: C-S6-461
+stages: [S6]
+tags: [learning, no-teaching]
+
+front:
+  title: "幼儿不需要被教"
+  hook: "他每天自己都在学"
+
+back:
+  why_matters: |
+    Magda Ch8 Do I Need to Teach My Toddler?
+    一句反:**不需要**。
+    幼儿的核心任务是"分离 + 探索世界",
+    不是 ABC / 数数 / 闪卡 / 编程。
+    日常对话里宝宝自然学会形 / 色 / 名字。
+    Magda 警告:推得太早 → 孩子失去"想学"的胃口。
+    跟蒙氏 absorbent mind + 跟随孩子兴趣同源。
+
+  what_to_do:
+    - 不报"启蒙班"(2 岁以下)
+    - 不闪卡 / 不"识字早教"
+    - 让他主导兴趣,你跟随
+    - 日常对话里自然出现的词足够喂语言区
+    - 想读书就跟他读书,不"任务式"教字
+
+  failure_mode: |
+    "别人家宝 18 月会 100 字我家不行 / 早教不能输在起跑线" → 推坏胃口 + 长期厌学。
+    Magda 原话:"推他 = 他失去想学的胃口"。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+  - G-TERM-absorbent-mind
+
+citation:
+  book_title_en: "Your Self-Confident Baby"
+  book_title_zh: "自信的宝宝"
+  authors:
+    - Magda Gerber
+    - Allison Johnson
+  publisher_en: John Wiley & Sons
+  year: 1998
+  location: "Ch8 Do I Need to Teach My Toddler?"
+  source_id: SRC-022
+
+unit_ids: []
+related_cards:
+  - C-S6-187  # Lillard 演示要慢
+  - C-S2-189  # Lillard 0-6 岁只给真实
+  - C-S6-406  # Lansbury 0-2 不看屏
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

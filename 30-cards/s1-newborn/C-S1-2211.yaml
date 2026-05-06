@@ -1,0 +1,41 @@
+card_id: C-S1-2211
+stages: [S1]
+tags: []
+front:
+  title: 莫罗反射正常信号
+  hook: 没有惊跳才该担心
+back:
+  why_matters: |
+    新生宝宝睡觉时突然手脚向外伸张、再缩回 — 这是莫罗反射(惊跳反射)。
+    诱因:大声、震动、突然的下落感(没支撑好抱起或放下)。
+    反应过程:身体变硬→对称双臂向上向外→拳头紧握→腿弯起→几秒缩回。
+    海蒂关键点:这是神经系统正常的信号 — 医生体检时反而要测试这个反射,没有反射才让医生担心。
+    4-6 个月后会自然消失(被其他发育取代),消失前频率会越来越低。
+  what_to_do:
+    - 抱起/放下时托好头颈 — 减少诱发频率
+    - 看到惊跳不必担心 — 是健康信号
+    - 4-6 个月后会消失
+    - 频率明显多于平时 + 没刺激也发作 → 让医生看
+    - 如果完全没看到过 → 提醒医生检查
+  failure_mode: |
+    把正常莫罗反射当"宝宝有问题"焦虑就医。
+    粗鲁抱放频繁触发 → 宝宝睡眠破坏。
+  evidence_level: B
+glossary_refs: []
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors: ["Heidi Murkoff", "Sharon Mazel"]
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh: ["莫夏迪","张敏"]
+  location: "第 4 章新生儿 · 惊跳反射, 页 124"
+  source_id: SRC-040
+related_cards: []
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

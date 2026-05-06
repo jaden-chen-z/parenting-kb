@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Lapsley
+type: person
+display_name: "Lapsley(丹尼尔·拉普斯利)"
+
+full_name_en: "Daniel K. Lapsley"
+full_name_zh: "丹尼尔·拉普斯利"
+
+position: |
+  University of Notre Dame
+
+contribution: |
+  品格教育 4 支柱
+
+one_liner: |
+  丹尼尔·拉普斯利 — 品格教育 4 支柱
+
+key_facts:
+  - "本卷章节:Ch 7 主笔"
+  - "Lerner V4 命中:10 次"
+  - "学派:Lerner V4 应用心理学派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-029
+    chapter: "Ch 7 主笔"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

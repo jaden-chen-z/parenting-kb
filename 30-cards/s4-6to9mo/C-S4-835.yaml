@@ -1,0 +1,91 @@
+card_id: C-S4-835
+stages: [S4]
+tags: [pikler, motor-发展, source-de, philosophy]
+
+front:
+  title: "永不强迫宝宝坐!"
+  hook: "Pikler 不松动名言"
+
+back:
+  why_matters: |
+    Pikler 1969 Ch2 关键德文原话:
+    **"Nötigen wir also nie ein Kind zum Sitzen."**
+    (永远不强迫孩子坐!)
+
+    这是 Pikler 全书最绝对的命令式句子之一。她在 Ch2
+    描述完撑坐的错位 + 不省力之后明确这条立场 — 没有任何例外条件。
+
+    背景:1960s 欧洲 + 中国主流想法是"教坐 = 帮孩子发展"。Pikler 反:发展不需要"教",只需要"不阻止"。
+
+    Magda Educaring(SRC-022)+ Lansbury Ch7(SRC-019)
+    + Davies / Lillard 蒙氏 0-3 全部继承这条立场。
+
+    跟中国奶奶"宝宝怎么这么大不会坐,扶他练练"完全冲突(conflicts F1)— Pikler 立场:孩子 9-12 月会自坐起来,等就行。
+
+  what_to_do:
+    - 6-12 月只仰卧 + 趴爬 + 跪起 — 不让"坐"
+    - 看到孩子尝试坐 — 看着不评论(不"加油"不"帮一下")
+    - 不放靠垫 / 不让沙发上"半坐"
+    - 等他自己从跪起转坐起 — 那一刻很短(几秒)
+    - 见证不参与 — 这是他的成就
+
+  failure_mode: |
+    "宝宝想坐我帮一下又怎样" → Pikler 反:"想坐"和
+    "能坐"差很多月。"想"看到大人坐姿 ≠ 身体准备好。
+    帮一次 = 跳过他自己学,留下被动模式。
+
+  evidence_level: B
+
+  positions:
+    issue: 大动作发展该不该训练 · 学步车 / Bumbo / 撑坐 / 训练表是否有用
+    views:
+      - school: Pikler
+        source: SRC-026
+        stance: 完全反对训练 — 自然顺序 + 安全空间 + 时间 = 大动作全部自动发生;严反一切撑物(学步车 / Bumbo / 跳跳器 / 婴儿座椅)。
+      - school: Magda Gerber / RIE / Lansbury
+        source: SRC-022/019
+        stance: 继承 Pikler 立场 — 里程碑不是赛跑,不撑坐 8 理由,7 类婴儿设备先放下。
+      - school: 蒙氏(Davies/Lillard)
+        source: SRC-014/016
+        stance: 立场一致 — floor bed + 自由动作空间 + 反早期撑坐。
+      - school: AAP
+        source: SRC-002
+        stance: 反学步车(Policy Statement + 数百起伤亡报道);加拿大 2004 立法全球首例禁售。
+      - school: Brazelton
+        source: SRC-010
+        stance: 反学步车,跟 Pikler 立场一致;主张孩子自然探索大动作。
+      - school: 松田道雄
+        source: SRC-024
+        stance: 温和支持自然 — 不催孩子翻 / 坐 / 爬 / 走的时间表,部分跟 Pikler 共鸣。
+      - school: 鲍秀兰
+        source: SRC-009
+        stance: 支持训练 — 婴儿体操 / 抓握训练 / 撑坐;跟 Pikler 派 8 派立场严重对立。
+      - school: 中国主流
+        stance: '"4 月翻 / 6 月坐 / 9 月爬 / 12 月走" 训练表 + 80% 家庭曾用学步车。跟 Pikler 派全面对立。'
+glossary_refs:
+  - G-PERSON-Pikler
+  - G-TERM-no-propping
+  - G-TERM-bewegungsentwicklung
+
+citation:
+  book_title_de: "Friedliche Babys – zufriedene Mütter"
+  book_title_zh: "和平的婴儿 — 满足的母亲"
+  authors:
+    - Emmi Pikler
+  publisher_de: HERDER (HERDER / SPEKTRUM Band 4141)
+  year: 1969
+  location: "Ch2 Sitzen 段 p. 30 verbatim"
+  source_id: SRC-026
+
+unit_ids: []
+related_cards:
+  - C-S4-834  # Pikler 反撑坐 6 论证(本卷)
+  - C-S2-290  # Lansbury 不撑坐 8 理由
+  - C-S2-832  # Pikler 1-3 月不在大腿坐
+  - C-S4-296  # Lansbury 好习惯都是大人创出来的
+  - C-S6-822  # 松田硬塞会变创伤
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

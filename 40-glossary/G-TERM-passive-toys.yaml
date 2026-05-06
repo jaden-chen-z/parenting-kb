@@ -1,0 +1,93 @@
+glossary_id: G-TERM-passive-toys
+type: term
+display_name: 被动玩具 (passive toys)
+
+full_name_zh: 被动玩具(给主动孩子玩)
+full_name_en: Passive Toys (for Active Children)
+
+one_liner: |
+  Magda Gerber 经典命名:"主动的孩子 + 被动的玩具"。
+  指简单 / 无电池 / 无声光电的玩具(木块 / 球 / 布 / 圈 / 真物 / 自然物)。
+  对立面是"主动玩具"(会哔哔 / 发光 / 自动放歌的电子玩具)。
+  Lansbury Ch15 + RIE / 蒙氏 / Pikler 三派共识。
+
+detail: |
+  ## 核心命题
+  > "Active children + passive toys = learning."
+  > "Passive children + active toys = entertainment."
+  > — Magda Gerber
+
+  - 玩具越被动,孩子越主动
+  - 玩具越主动,孩子越被动旁观
+  - "学习"vs "娱乐" 的根本区别
+
+  ## 被动玩具范例
+  - **基础**:木块 / 球 / 圈 / 圆柱 / 布
+  - **真物(蒙氏标配)**:真碗 / 真镜 / 真木勺 / 真小玻璃杯
+  - **自然物**:松果 / 石头 / 树叶 / 沙
+  - **生活物**:厨房锅 / 木夹子 / 海绵 / 纸盒
+  - **简单艺术**:蜡笔 / 白纸 / 黏土
+
+  ## 主动玩具(应避免)
+  - 电池玩具(发光 / 发声 / 自动)
+  - 卡通形象玩具(米老鼠 / 小猪佩奇)
+  - 电子学习板 / 平板游戏
+  - 自动跳舞娃娃
+  - "家家酒"塑料完整套装(过于具象)
+
+  ## 选择原则(Lansbury / Magda)
+  1. **简单**:一个玩具一种功能不行,要 100 种玩法
+  2. **真物**:真实的胜过仿真的(蒙氏共识)
+  3. **少**:5-6 件够,其他存起来轮换
+  4. **质感好**:木 / 布 / 金属 > 塑料
+  5. **开放**:没"对错"玩法
+  6. **无电池**:不发光不发声不自动
+
+  ## 跟"益智玩具"营销对比
+  - 营销:"高科技益智玩具开发宝宝大脑"
+  - RIE:刺激越强,创造力越弱
+  - 研究(Hirsh-Pasek 2015)证:简单玩具 → 更丰富语言互动
+
+  ## 蒙氏"准备好的环境"对照
+  - 蒙氏 prepared environment 也强调真物 + 简单
+  - 蒙氏:5-6 件活动放低货架,宝宝自取
+  - RIE / Lansbury 直接借用此概念
+
+  ## 婴儿期被动玩具
+  - 0-3 月:布 / 软球 / 手帕(可触感)
+  - 3-6 月:木块 / 摇铃(简单)/ 真镜
+  - 6-12 月:圆柱 / 套圈 / 木碗 / 真厨具
+  - 12-24 月:积木 / 黏土 / 拼图 / 真打蛋器
+  - 24-36 月:画材 / 真小厨具 / 自然物
+
+  ## 对中国家长的特殊意义
+  - 替代"电动玩具开发智力"焦虑
+  - 替代"贵的就是好"消费主义
+  - 1 个鸡蛋盒 + 几个木夹子 > 1000 元电子玩具
+
+key_facts:
+  - Magda Gerber 命名
+  - "Active children + passive toys = learning"
+  - 简单 / 无电池 / 真物
+  - RIE / 蒙氏 / Pikler 三派共识
+  - 替代电子益智营销陷阱
+
+related_glossary:
+  - G-PERSON-Gerber
+  - G-PERSON-Lansbury
+  - G-TERM-RIE
+  - G-TERM-prepared-environment
+  - G-TERM-yes-space
+
+related_cards:
+  - C-S3-295
+  - C-S2-189  # Lillard 0-6 岁只给真实
+
+sources:
+  - source_id: SRC-019
+  - external: Magda Gerber《Your Self-Confident Baby》
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

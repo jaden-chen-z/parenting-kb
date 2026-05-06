@@ -1,0 +1,20 @@
+glossary_id: G-TERM-periodic-breathing
+type: term
+display_name: 周期性呼吸
+full_name_en: "periodic breathing"
+full_name_zh: "周期性呼吸"
+one_liner: |
+  新生儿(尤其早产)睡眠时常见的呼吸模式,5-10 秒快浅呼吸 → 呼吸暂停约 5-10 秒 → 又开始,循环往复。
+detail: |
+  机制:大脑呼吸控制中枢未完全发育成熟,通常 6 个月后逐渐规律。
+  完全正常,不需要治疗,不是窒息也不是 SIDS 前兆。
+  与呼吸暂停综合征(apnea)的区别:周期性呼吸的暂停通常不超过 20 秒、不伴发绀/缓脉/张力下降。
+  真危险信号(立即就医):1)每分钟呼吸超过 60 次;2)鼻翼煽动;3)咕噜声;4)脸色发蓝;5)肋间内陷。
+related_glossary: []
+related_cards: [C-S1-2212]
+sources:
+  - external: "Murkoff H, What to Expect the First Year, Ch 6"
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

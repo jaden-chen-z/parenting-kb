@@ -1,0 +1,62 @@
+card_id: C-S7-075
+stages: [S7]
+tags: [philosophy, cross_cultural, controversy]
+
+front:
+  title: 跃迁是普遍 = 育儿不孤单
+  hook: 全世界宝宝同节奏
+
+back:
+  why_matters: |
+    Wonder Weeks 的核心情感价值:**告诉父母"你不是一个人"**。
+    van de Rijt + Plooij 35 年观察:
+    - 荷兰 / 西班牙 / 瑞典 / 美国宝宝 → 同样的 10 个跃迁时间表
+    - 神经科学独立验证 6/10 跃迁
+    - 跨文化实测:**所有正常健康宝宝都经历**,无一例外跃迁普适性的家长意义:
+    - "我家宝宝特别难带" → 不,所有宝宝在那个周龄都难带
+    - "我教育方法不对" → 不是教育问题,是大脑在重新连接
+    - "邻居家宝宝怎么不闹" → 别人家妈妈可能在憋着没说,或者气质温和但同样在跃迁
+    - "国外宝宝就乖" → 跨文化数据反:全世界都一样更广的意义:
+    - 育儿挑战可预测 = 心理压力小
+    - 育儿挑战普遍 = 减少自责
+    - 育儿挑战短暂 = "Soon the sun will shine again"
+    家长意义:**Wonder Weeks 最大的礼物不是技能列表,是"你不孤单"的安全感**。
+  what_to_do:
+    - 跃迁日历记好,提前知道下个挑战在哪
+    - 跟其他妈妈交流时分享真实困境(不是炫耀型育儿)
+    - 跃迁期看其他妈妈"日记"(本书 + 妈妈群)缓解孤独感
+    - 把"我不行"换成"现在大家都不行"
+    - 跃迁完成后立刻总结心得,下次更稳
+  failure_mode: |
+    跟"完美宝宝叙事"比 → 自责加深。
+    把焦虑情绪都自我消化 → 突破临界。
+    觉得"求助 = 软弱" → 错过支持。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-vanderijt
+  - G-PERSON-plooij
+  - G-TERM-wonder-week
+  - G-TERM-fussy-phase
+
+citation:
+  book_title_zh: "婴儿大脑跃迁 10 周(神奇周)"
+  book_title_en: "The Wonder Weeks"
+  authors: ["Hetty van de Rijt", "Frans X. Plooij"]
+  authors_zh: ["海蒂·凡德里特", "弗朗斯·普洛伊"]
+  publisher_en: "Kiddy World Publishing"
+  year_en_first: 1992
+  isbn_en: "978-90-79208-12-1"
+  location: "Postscript · Countless Wonders(every mom will, at some time, have to deal with a baby who is tearful, cranky, or fussy... Every mother is facing problems like these. All mothers experience worries and irritations when their infants reach certain ages)"
+  source_id: SRC-013
+
+unit_ids: []
+related_cards:
+  - C-S1-178       # 三 C 信号
+  - C-S3-132       # 4 月想逃走不是失败
+  - C-S5-129       # 8-12 月双跃迁极限
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

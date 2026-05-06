@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Damon
+type: person
+display_name: "Damon(威廉·达蒙)"
+
+full_name_en: "William Damon"
+full_name_zh: "威廉·达蒙"
+
+position: |
+  Stanford 青少年发展中心主任
+
+contribution: |
+  Handbook of Child Psychology 全 4 卷总主编
+
+one_liner: |
+  威廉·达蒙 — Handbook of Child Psychology 全 4 卷总主编
+
+key_facts:
+  - "本卷章节:Editor"
+  - "Lerner V3 命中:98 次"
+  - "学派:Lerner V3 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-027
+    chapter: "Editor"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

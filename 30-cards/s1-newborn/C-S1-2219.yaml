@@ -1,0 +1,41 @@
+card_id: C-S1-2219
+stages: [S1]
+tags: [feeding]
+front:
+  title: 双胞胎喂养策略
+  hook: 同时合分别洗
+back:
+  why_matters: |
+    双胞胎不是单胎乘 2,海蒂的核心策略是"该合时合,该分时分"。
+    合:同时喂两个(母乳可双侧同时含、橄榄球抱姿 + 枕头支撑;每次换边喂确保两侧均匀刺激);轮流洗澡(不用每天都两个洗);一起出门散步。
+    分:夜里只喂醒的那个,不叫醒另一个(否则你永远没觉睡);白天小睡错开 → 给醒的那个一对一时间。
+    奶瓶喂双:坐两宝中间脚朝外 / 一个奶瓶支架 + 另一个抱着喂。
+    妈妈的能量需求:每个宝宝额外 +400-500 卡热量(总计可能 +800-1000 卡)。
+  what_to_do:
+    - 同时喂母乳 — 橄榄球抱+枕头
+    - 每次换边均衡两侧
+    - 夜里只喂醒的那个
+    - 隔天洗澡不强求每天
+    - 妈妈+800-1000 卡 + 充足休息
+  failure_mode: |
+    一个醒就叫醒另一个一起喂 → 双倍折腾 + 无法睡。
+    每次都同一侧喂同一个 → 一侧产奶不足另一个吃不饱。
+  evidence_level: B
+glossary_refs: []
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors: ["Heidi Murkoff", "Sharon Mazel"]
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh: ["莫夏迪","张敏"]
+  location: "第 6 章第一个月 · 双胞胎双倍麻烦双倍快乐, 页 165-167"
+  source_id: SRC-040
+related_cards: []
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

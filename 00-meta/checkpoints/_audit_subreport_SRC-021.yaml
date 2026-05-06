@@ -1,0 +1,299 @@
+source_id: SRC-021
+total_cards: 35
+intrinsic_issues:
+  - card_id: C-S0-316
+    issue_type: wrong_evidence_level
+    severity: P1
+    detail: Magda 8 条好父母品质 = 流派哲学(philosophy/RIE),无外部研究支撑
+    suggested_fix: 降为 C
+  - card_id: C-S0-316
+    issue_type: tag_misuse
+    severity: P2
+    detail: tags 含 [gerber, magda] — 重复作者(citation 已显示)+ 不是概念 tag
+    suggested_fix: 移除 [gerber, magda]
+  - card_id: C-S0-317
+    issue_type: tag_misuse
+    severity: P2
+    detail: tags 含 [doula, gerber] — doula 应去 glossary,gerber 是作者重复
+    suggested_fix: 保留 [parenting-mindset, RIE],doula 加 glossary_refs
+  - card_id: C-S0-317
+    issue_type: missing_glossary_refs
+    severity: P2
+    detail: 'doula' 未列入 glossary_refs
+    suggested_fix: 添加 G-TERM-doula
+  - card_id: C-S1-555
+    issue_type: wrong_evidence_level
+    severity: P1
+    detail: Quality Time 二分概念是 Magda 个人独家划分,无外部循证
+    suggested_fix: 降为 C
+  - card_id: C-S1-555
+    issue_type: tag_misuse
+    severity: P2
+    detail: tags 有 [gerber, magda]
+    suggested_fix: 移除 [gerber, magda]
+  - card_id: C-S1-556
+    issue_type: wrong_evidence_level
+    severity: P1
+    detail: '抱前先告知' 是 Magda 流派教学,虽援引 Bowlby 但未给具体研究
+    suggested_fix: 降为 C 或 B
+  - card_id: C-S1-556
+    issue_type: missing_glossary_refs
+    severity: P2
+    detail: 'Bowlby一致' 引用作权威,G-PERSON-Bowlby 未列入
+    suggested_fix: 添加 G-PERSON-Bowlby
+  - card_id: C-S1-557
+    issue_type: wrong_evidence_level
+    severity: P1
+    detail: Magda 引 Solter 引 Frey 是流派内引用,非主流循证
+    suggested_fix: 降为 B 或 C
+  - card_id: C-S1-557
+    issue_type: missing_glossary_refs
+    severity: P2
+    detail: Aletha Solter / Dr. Frey / Primal Scream Therapy 未在 glossary_refs
+    suggested_fix: 添加 G-PERSON-Solter / G-PERSON-Frey / G-TERM-primal-scream-therapy
+  - card_id: C-S1-558
+    issue_type: wrong_evidence_level
+    severity: P1
+    detail: Magda 反 7 类设备 — RIE 立场,Wachs 引用为流派依据
+    suggested_fix: 降为 B(部分有外部研究)或 C
+  - card_id: C-S1-558
+    issue_type: missing_glossary_refs
+    severity: P2
+    detail: Theodore Wachs(研究)未在 glossary_refs
+    suggested_fix: 添加 G-PERSON-Wachs
+  - card_id: C-S1-558
+    issue_type: tag_misuse
+    severity: P2
+    detail: tags 含 [gerber] 作者重复
+    suggested_fix: 移除 [gerber]
+  - card_id: C-S1-559
+    issue_type: tag_misuse
+    severity: P2
+    detail: tags 含 [gerber] 重复作者
+    suggested_fix: 移除 [gerber]
+  - card_id: C-S2-493
+    issue_type: wrong_evidence_level
+    severity: P0
+    detail: RIE 7 大原则纯哲学骨架,Magda+Lansbury 个人提炼,完全无外部循证
+    suggested_fix: 降为 C
+  - card_id: C-S2-493
+    issue_type: missing_failure_mode
+    severity: P2
+    detail: failure_mode 偏推介(再赞 RIE),没体现常见错误
+    suggested_fix: 补"家长把 7 项当 checklist 死磕 → 焦虑"
+  - card_id: C-S2-494
+    issue_type: wrong_evidence_level
+    severity: P1
+    detail: Selective Intervention 三层级 = DIP 项目 1972 自创 + Piaget 哲学背书
+    suggested_fix: 降为 C 或 B
+  - card_id: C-S2-494
+    issue_type: missing_glossary_refs
+    severity: P2
+    detail: Tom Forrest / DIP / Piaget 重要概念未在 glossary_refs
+    suggested_fix: 添加 G-PERSON-Piaget / G-TERM-DIP
+  - card_id: C-S2-495
+    issue_type: tag_misuse
+    severity: P2
+    detail: tags 含 [gerber]
+    suggested_fix: 移除 [gerber]
+  - card_id: C-S2-496
+    issue_type: wrong_evidence_level
+    severity: P1
+    detail: Modeling Behavior 是流派立场,无具体外部研究引用
+    suggested_fix: 降为 C 或 B
+  - card_id: C-S2-496
+    issue_type: tag_misuse
+    severity: P2
+    detail: tags 含 [gerber] 作者重复
+    suggested_fix: 移除 [gerber]
+  - card_id: C-S3-499
+    issue_type: wrong_evidence_level
+    severity: P1
+    detail: 尿布换 6000 次仪式 = Magda 经典叙述,纯哲学
+    suggested_fix: 降为 C
+  - card_id: C-S3-499
+    issue_type: tag_misuse
+    severity: P2
+    detail: tags 含 [gerber]
+    suggested_fix: 移除 [gerber]
+  - card_id: C-S3-500
+    issue_type: wrong_evidence_level
+    severity: P1
+    detail: 高脚椅 = 小监狱 + 小桌小凳替代是 Magda + 蒙氏哲学立场,无 RCT
+    suggested_fix: 降为 C
+  - card_id: C-S3-500
+    issue_type: tag_misuse
+    severity: P2
+    detail: tags 含 [gerber]
+    suggested_fix: 移除 [gerber]
+  - card_id: C-S3-501
+    issue_type: missing_glossary_refs
+    severity: P2
+    detail: 印第安谚语未列入 glossary_refs
+    suggested_fix: 可加 G-TERM-involve-me-saying
+  - card_id: C-S4-498
+    issue_type: tag_misuse
+    severity: P2
+    detail: tags 含 [magda-class, gerber] — 课程名当 tag,非概念 tag
+    suggested_fix: 移除 [magda-class, gerber]
+  - card_id: C-S4-499
+    issue_type: wrong_evidence_level
+    severity: P1
+    detail: Pikler 自然大动作 — Pikler Institute 100 家庭研究是流派内部研究
+    suggested_fix: 降为 B 或 C
+  - card_id: C-S4-500
+    issue_type: wrong_evidence_level
+    severity: P1
+    detail: '不教 ABC 多说生活' Magda 立场,Bloom/Tomasello 凭印象提及
+    suggested_fix: 降为 B(若加引用)或 C
+  - card_id: C-S4-500
+    issue_type: missing_glossary_refs
+    severity: P2
+    detail: Einstein / Bloom / Tomasello / Katherine Reef 未在 glossary_refs
+    suggested_fix: 添加 G-PERSON-Bloom / G-PERSON-Tomasello
+  - card_id: C-S5-594
+    issue_type: wrong_evidence_level
+    severity: P2
+    detail: 分离焦虑健康信号 — Magda + Bowlby 一致,边缘合理
+    suggested_fix: 保 A 或降 B
+  - card_id: C-S5-595
+    issue_type: tag_misuse
+    severity: P2
+    detail: tags 含 [gerber]
+    suggested_fix: 移除 [gerber]
+  - card_id: C-S5-597
+    issue_type: wrong_evidence_level
+    severity: P0
+    detail: Magda 引 Ferber method 立场标 A 严重不当;Ferber 法本身是争议睡眠流派
+    suggested_fix: 降为 C + 加 controversy
+  - card_id: C-S5-597
+    issue_type: missing_glossary_refs
+    severity: P2
+    detail: Dr. Ferber 未在 glossary_refs
+    suggested_fix: 添加 G-PERSON-Ferber
+  - card_id: C-S5-597
+    issue_type: tag_misuse
+    severity: P2
+    detail: tags 含 [magda, ferber, gerber] — 三个作者名,无 [controversy]
+    suggested_fix: 移除作者 tag,加 [controversy]
+  - card_id: C-S6-607
+    issue_type: wrong_evidence_level
+    severity: P1
+    detail: Antaeus 故事 + tantrum 处理立场,纯哲学
+    suggested_fix: 降为 C
+  - card_id: C-S6-607
+    issue_type: tag_misuse
+    severity: P2
+    detail: tags 含 [magda, antaeus, gerber] — 重复作者 + 用比喻名当 tag
+    suggested_fix: 移除作者 + 比喻 tag
+  - card_id: C-S6-608
+    issue_type: wrong_evidence_level
+    severity: P1
+    detail: 红黄绿三灯是 Magda 独家命名,无外部循证
+    suggested_fix: 降为 C
+  - card_id: C-S6-609
+    issue_type: wrong_evidence_level
+    severity: P1
+    detail: 自然后果 vs 惩罚 = Magda + Adlerian/Dreikurs 派教育哲学
+    suggested_fix: 降为 B 或 C
+  - card_id: C-S6-610
+    issue_type: wrong_evidence_level
+    severity: P1
+    detail: 反 spanking 部分 A 合理(AAP 2018);反 time-out 超出 AAP 立场
+    suggested_fix: 整体降为 B,或拆开
+  - card_id: C-S6-611
+    issue_type: tag_misuse
+    severity: P2
+    detail: tags 含 [beverly-case, gerber] — 用案例名当 tag
+    suggested_fix: 移除
+  - card_id: C-S6-612
+    issue_type: wrong_evidence_level
+    severity: P1
+    detail: '规矩长心里' = Magda 用 Freud 框架叙述,流派+哲学
+    suggested_fix: 降为 C
+  - card_id: C-S6-612
+    issue_type: missing_glossary_refs
+    severity: P2
+    detail: Freud / superego / id / ego 未在 glossary_refs
+    suggested_fix: 添加 G-PERSON-Freud
+  - card_id: C-S6-613
+    issue_type: wrong_evidence_level
+    severity: P1
+    detail: 1 岁 No 是分离过程 — Magda + Mahler 立场,无外部循证
+    suggested_fix: 降为 C
+  - card_id: C-S6-614
+    issue_type: wrong_evidence_level
+    severity: P1
+    detail: '语言替打咬' Magda 立场,与 Tier 1 方向一致但本卡未引
+    suggested_fix: 降为 B 或 C
+  - card_id: C-S6-615
+    issue_type: missing_glossary_refs
+    severity: P2
+    detail: Gottman 是核心引用,未在 glossary_refs
+    suggested_fix: 添加 G-PERSON-Gottman
+  - card_id: C-S6-616
+    issue_type: missing_glossary_refs
+    severity: P2
+    detail: Lynne Bond 1982 引文未在 glossary_refs
+    suggested_fix: 可加 G-PERSON-Bond
+  - card_id: C-S7-552
+    issue_type: missing_glossary_refs
+    severity: P2
+    detail: Bruce Taubman / Maslow 未在 glossary_refs
+    suggested_fix: 添加 G-PERSON-Taubman / G-PERSON-Maslow
+  - card_id: C-S7-553
+    issue_type: missing_glossary_refs
+    severity: P2
+    detail: Faber & Mazlish 是核心引用,未在 glossary_refs
+    suggested_fix: 添加 G-PERSON-Faber / G-PERSON-Mazlish
+  - card_id: C-S7-554
+    issue_type: wrong_evidence_level
+    severity: P1
+    detail: 全书收官 + Hungarian 谚语 + permission slip = 纯哲学/情感
+    suggested_fix: 降为 C
+intra_source_dedups:
+  - cluster: [C-S1-555, C-S3-499, C-S3-501]
+    level: L2
+    action: merge_candidate
+    keeper: C-S1-555
+    reason: 三张都讲尿布换 = quality time / 6000 次 / 印第安谚语,内容高度重叠
+  - cluster: [C-S0-316, C-S0-317, C-S2-495, C-S7-554]
+    level: L3
+    action: mutual_link
+    reason: Magda 父母心态/简单生活/不必完美主题,各自独立但同主题
+  - cluster: [C-S2-493, C-S2-494, C-S2-496, C-S6-612]
+    level: L3
+    action: mutual_link
+    reason: RIE 7 大原则总纲 + Selective Intervention + Modeling + Lasting Discipline,RIE 哲学骨架不同切片
+  - cluster: [C-S6-607, C-S6-608, C-S6-609, C-S6-610, C-S6-612]
+    level: L3
+    action: mutual_link
+    reason: tantrum/限度/自然后果/反 time-out 反打/规矩长心里,Discipline 章节五张
+  - cluster: [C-S5-594, C-S5-595, C-S6-613]
+    level: L3
+    action: mutual_link
+    reason: 分离焦虑+怕生+1岁说不,分离-个体化主题
+  - cluster: [C-S1-558, C-S4-499]
+    level: L3
+    action: mutual_link
+    reason: 7 类设备一律不要 + Pikler 自然大动作,本质同立场
+  - cluster: [C-S6-614, C-S4-500]
+    level: L3
+    action: mutual_link
+    reason: 不教 ABC + 语言替打咬,RIE 语言立场不同阶段
+  - cluster: [C-S6-616, C-S1-559]
+    level: L3
+    action: mutual_link
+    reason: 好奇是创造力门 + 宠坏 4 真原因(替娃做),同根概念
+totals_per_issue:
+  wrong_evidence_level: 19
+  tag_misuse: 23
+  missing_glossary_refs: 13
+  missing_failure_mode: 2
+notes: |
+  核心问题:evidence_level 系统性高估(19/35 标 A 但实际 RIE/philosophy 应 C 或 B)。
+  Tag 系统性问题:几乎所有卡 tags 含 [gerber/magda] 作者名,违反 tag 是概念维度的惯例。
+  glossary_refs 系统性遗漏:大量重要引用人物(Bowlby/Solter/Wachs/Piaget/Freud/Gottman/Taubman/Maslow/Faber/Mazlish 等)未列。
+  C-S5-597 Magda 引 Ferber method 是 P0 争议点,需加 controversy。
+  L2 dedup 簇:C-S1-555 + C-S3-499 + C-S3-501(尿布换主题三张高度重叠)。
+  跨 SRC-022 dedup 留 Phase C 处理。

@@ -1,0 +1,85 @@
+card_id: C-S7-125
+stages: [S7]
+tags: [philosophy, myth_busting, controversy]
+
+front:
+  title: 反早教 ≠ 反教育
+  hook: 莫扎特光盘没用
+
+back:
+  why_matters: |
+    1990 年代美国"早教焦虑"风潮 — 闪卡 / 莫扎特录音 / "更好的宝宝研究所"等产品卖到家家户户。
+
+    高普尼克 / 梅尔佐夫 / 库尔 1997 年应邀到白宫做"早期学习与大脑"会议,
+    给希拉里·克林顿的话(白话翻译):
+    > **这些早教产品至多无用,糟则分散注意力**。
+
+    科学共识:
+    - 婴儿**已经够聪明了** — 不用"补课"也已经全力运转
+    - 婴儿已经知道他们需要知道什么 — 在主动学
+    - "丰富环境" = **正常环境**,不是超量刺激
+    - 老鼠丰富环境实验:剥夺(隔离笼)= 大脑萎缩;有玩伴 + 玩具 = 正常发育
+    - 家庭日常环境**已经够"丰富"** — 有人陪 + 真物 + 互动
+
+    重点反驳:
+    - **莫扎特效应**:无重复研究证实,商业骗局
+    - **闪卡**:婴儿大脑学的是"统计学习",不是"卡片记忆"
+    - **"宝宝爱因斯坦"录像**:库尔实验证明被动音视频对 0-3 岁无效
+    - **"赢在起跑线"**:婴儿期不是"知识积累"期,是"规律学习"期
+
+    对中国家长意义:
+    - 不必买昂贵早教产品 — 你陪伴 + 真人对话 + 真物探索就够
+    - 早教班 ≠ 早教(早教 = 安全 + 互动 + 真实环境)
+    - 焦虑"别家孩子都报班" — 看科学,不看焦虑
+  what_to_do:
+    - 不买闪卡 / 莫扎特光盘等早教品
+    - 不报"宝宝爱因斯坦"类机构
+    - 多带宝宝去公园 / 厨房 / 商场(真实环境)
+    - 自己花时间陪伴 > 任何"专家"教学
+    - 家庭日常对话 / 玩耍 = 最好的"早教"
+  failure_mode: |
+    "别家孩子都报早教班,我家落后" — 焦虑非科学,看证据。
+    "不买莫扎特光盘怕娃输" — 莫扎特效应是商业骗局。
+    把"陪伴"外包给早教机构 — 失去社交线索 + 真人互动核心。
+  evidence_level: A
+
+  positions:
+    issue: 0-3 岁是否需要主动教学 · 早教班 · 闪卡 · Mozart 效应
+    views:
+      - school: Brazelton
+        source: SRC-010
+        stance: 3 岁前不教读写。Erikson 框架下情感发展优先于认知训练。
+      - school: Gopnik
+        source: SRC-015
+        stance: Mozart 效应是骗局;闪卡无效;教越多越拖累自主探索;突触修剪是优化非损失。
+      - school: 蒙氏(Lillard/Davies)
+        source: SRC-014/016
+        stance: 反对主动教学。提供 prepared environment + 观察 + 不打扰,孩子主导探索节奏。
+      - school: 中国主流
+        stance: 早教班 / 闪卡 / 双语早教 / Mozart 胎教 / "赢在起跑线" — 商业产业链已成熟。
+glossary_refs:
+  - G-PERSON-Gopnik
+  - G-PERSON-Kuhl
+  - G-TERM-baby-scientist
+  - G-TERM-statistical-learning
+  - G-TERM-critical-period
+
+citation:
+  book_title_en: "The Scientist in the Crib"
+  book_title_zh: "摇篮里的科学家"
+  authors: ["Alison Gopnik", "Andrew N. Meltzoff", "Patricia K. Kuhl"]
+  publisher_en: William Morrow
+  year: 1999
+  location: "Chapter 7 · What Is to Be Done? (anti early-ed pseudoscience)"
+  source_id: SRC-015
+
+unit_ids: []
+related_cards:
+  - C-S6-127       # Wonder Week 质量时间伪概念(同反 KPI)
+  - C-S5-183       # 录像 CD 学外语没用
+  - C-S1-087       # Brazelton 优势视角(同反早教焦虑)
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

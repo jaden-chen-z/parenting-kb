@@ -1,0 +1,73 @@
+card_id: C-S7-1315
+stages: [S7]
+tags: [risk_prevention, selman, preschool, lerner_v4]
+
+front:
+  title: 2-3 岁普遍预防
+  hook: 2-3 岁普遍预防
+
+back:
+  why_matters: |
+    Selman V4 Ch 10(2-3 岁普遍预防层)。
+    **2-3 岁普遍预防 5 大支柱**:
+    - **依恋**:稳定主要照护人 + 响应
+    - **语言**:每天读+说+互动
+    - **健康**:营养+睡眠+运动
+    - **关系**:同伴 + 家庭 + 老师
+    - **反屏**:< 1 小时优质内容
+    **Selman 普遍预防原则**:
+    - 不针对"风险娃",针对**所有娃**
+    - 是"基础打牢"不是"治疗"
+    - 5 支柱并行不偏废
+    **反 4 误区**:
+    - ❌ "我家娃没问题不需预防"(普遍预防是底层)
+    - ❌ "重点鸡某一项"(5 支柱并行)
+    - ❌ "焦虑全方位"(普遍预防是放松,不是焦虑源)
+    - ❌ "等问题出现再说"(预防胜过治疗)
+    **家庭实操**:
+    - 主要照护人 1-2 年稳定
+    - 每天读绘本 10-20 分钟
+    - 户外 1 小时
+    - 同伴互动 1-2 次/周
+    - 屏幕 < 1 小时跟现库:跟 C-S0-1240 Selman 3 级金字塔 + C-S8-739 指标性预防 + Powell 5 原则(C-S0-1233)对接。
+    对中国家长意义:
+    - 2-3 岁打 5 支柱基础
+    - 不焦虑 / 不过度
+    - 5 支柱并行不偏鸡
+    - 有问题再上指标性预防
+  what_to_do:
+    - 2-3 岁打 5 支柱基础
+    - 稳定主要照护人 1-2 年
+    - 每天读+户外+互动+反屏
+    - 不焦虑不过鸡
+  failure_mode: |
+    "等问题出现"— 错。预防为主。
+    "重点鸡一项"— 错。5 支柱并行。
+    "焦虑全方位"— 错。普遍预防是放松。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Selman
+  - G-TERM-prevention-pyramid
+  - G-TERM-universal-prevention
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 4 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 4 卷"
+  authors: ['Robert L. Selman', 'Amy J. Dray']
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 10 · Selman · 2-3yr universal prevention · pp. 385-395"
+  source_id: SRC-029
+
+unit_ids: []
+related_cards:
+  - C-S0-1240     # Selman 3 级金字塔
+  - C-S8-739     # V4 指标性预防
+  - C-S0-1233     # Powell 5 原则
+  - C-S0-619     # Shonkoff NRC 综述
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,68 @@
+card_id: C-S1-1009
+stages: [S1]
+tags: []
+
+front:
+  title: "Code 4 大禁令"
+  hook: "妈妈/医生/医院/标签"
+
+back:
+  why_matters: |
+    《国际母乳代用品销售守则》(简称"WHO 守则",原英文 WHO Code)
+    1981 年第 34 届世界卫生大会通过。
+
+    **针对 4 个利益方的禁令**(白话翻译,原英文条款保留备案):
+    ① **妈妈端**:禁止任何形式的产品广告和推广 + 不得发样品 + 公司不得直接联系妈妈
+    ② **医生端**:不得收礼物 / 财务回扣 + 收到的样品在任何情况下都不得转给妈妈
+    ③ **医院端**:任何医疗机构内禁止配方奶推广 + 不得免费 / 低价向医院供应
+    ④ **标签端**:不得用任何美化配方奶的图片或文字 + 必须警告冲调不当的污染风险
+
+    1981 至今,**84 国** 立法实施全部或部分守则;违规仍然广泛(由 IBFAN / UNICEF / WHO 监测)。
+  what_to_do:
+    - "电视 / 直播奶粉广告(智商 / 抗病等暗示)→ 违反 WHO Code"
+    - "母婴店送试用装 / 满减促销 → 违反 WHO Code"
+    - "医生送奶粉样品 / 推销品牌 → 违反 WHO Code"
+    - "产院的迎新礼包(welcome bag)里含奶粉 → 违反 WHO Code"
+    - "标签上写'像母乳一样营养' / 用可爱婴儿图 → 违反 WHO Code"
+  failure_mode: |
+    信中国奶粉广告做奶粉选择 → 多花钱 + 可能提前断母乳 + 智商抗病等暗示其实没证据支持。
+    WHO Code 不是禁配方奶,禁的是营销手段让你买不必要的。
+  evidence_level: A
+
+  positions:
+    issue: 奶粉营销规则 — WHO Code 1981 vs 中国实际营销
+    views:
+      - school: WHO Code 1981
+        source: SRC-031
+        stance: 全面禁止 4 大利益方营销(妈妈 / 医生 / 医院 / 标签);IBFAN / NetCode 持续监测违规。
+      - school: 中国法规
+        stance: 《婴幼儿配方乳粉广告法》仅部分对接 — 主要禁 0-6 月配方奶广告,6 月+ 跟随奶 / 增长奶营销宽松。
+      - school: 中国奶粉品牌实操
+        stance: 产院送试用装 / 母婴店推销 / 直播带货 / 1-2-3-4 段分阶 / KOL 软广 — 多数违反 WHO Code。
+glossary_refs:
+  - G-TERM-WHO-Code
+  - G-TERM-formula-marketing
+
+citation:
+  page_title: "International Code of Marketing of Breast-milk Substitutes (1981)"
+  publisher: "World Health Organization & UNICEF"
+  page_url_primary: https://en.wikipedia.org/wiki/International_Code_of_Marketing_of_Breast-milk_Substitutes
+  accessed: 2026-05-04
+  language: en
+  location: "Code 4 大利益方禁令 verbatim + 84 国立法实施现状"
+  source_id: SRC-031
+
+unit_ids: []
+related_cards:
+  - C-S0-1026
+  - C-S1-1009
+  - C-S1-1011
+  - C-S1-022
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_doc_id_pending: D3
+citation_followup_needed: '已映射真实 doc_id (D3 = International Code of Marketing 1981)'

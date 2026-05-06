@@ -1,0 +1,53 @@
+card_id: C-S0-1507
+stages: ['S0']
+tags: ['philosophy', 'lerner_v1', 'equifinality', 'multifinality', 'foundational']
+
+front:
+  title: "同终点 vs 同起点"
+  hook: "殊途同归同途殊归"
+
+back:
+  why_matters: |
+    发展心理学双向性原则:
+    - equifinality(同终点) — 不同起点 / 路径可达到同一发展结果(条条大路通罗马)
+    - multifinality(同起点) — 同样起点不同环境到不同结果(同娘养不同娃)
+    意义 —
+    - equifinality:多种育儿方式都能养出健康娃 — 不必追求"唯一正确"
+    - multifinality:同样基因 / 家庭环境,孩子不同 — 不要责怪自己没"复制"老大成功
+    Lerner V1 综述把双向性当核心原则 — 不是 X 必然导致 Y,而是 X-Y 关系是概率的。
+    中国家长意义 — 二胎"同样养"不同娃属正常(multifinality);
+    不必学某派才能养好(equifinality)。
+  what_to_do:
+    - "老大老二不同 → multifinality 正常"
+    - "不必追求'唯一对的方法' → equifinality"
+    - "同养出大儿子 ≠ 同样会养出小女儿"
+    - "邻居娃养法 ≠ 一定适合你家"
+    - "看大方向(健康发展),不强求路径"
+  failure_mode: |
+    "我老大这样养就行老二肯定也行" — 错,multifinality 警告。
+  evidence_level: B
+
+glossary_refs:
+  - G-TERM-equifinality
+  - G-TERM-multifinality
+  - G-TERM-probabilistic-epigenesis
+
+related_cards:
+  - C-S0-1503
+  - C-S0-1504
+  - C-S0-722
+  - C-S6-1064
+
+citation:
+  source_id: SRC-030
+  source_title: "Handbook of Child Psychology Vol 1: Theoretical Models of Human Development"
+  chapter: "Ch 5 Gottlieb / Wahlsten / Lickliter + Ch 6 Thelen-Smith"
+  chapter_offset: 1140000
+  chapter_title: 'Gottlieb / Wahlsten / Lickliter — Significance of Biology + probabilistic epigenesis'
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_followup_needed: 'SRC-030 用 PDF 字节偏移代页码 — 待加 page_pdf 反查工具'

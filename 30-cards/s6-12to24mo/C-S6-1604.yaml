@@ -1,0 +1,36 @@
+card_id: C-S6-1604
+stages: [S6]
+tags: [sibling, safety, red_flag]
+front:
+  title: 5 岁前两个宝宝绝不独处一房
+  hook: 即使老大很乖也不行
+back:
+  why_matters: |
+    前情:老大显得很喜欢小宝,父母想去厕所/接电话留两人 1 分钟。
+    海蒂硬规则:5 岁以下的老大单独面对小宝不可以,哪怕只是转身去隔壁倒水。5 岁以下还无法判断力度和后果——好奇捏一下、想抱起来摔倒、用枕头"和宝宝玩"都可能致命。这不是不信任老大,是匹配他认知发展的现实。
+  what_to_do:
+    - 任何房间转移都把小宝带走
+    - 接电话前确认两人在同一视线内
+    - 上厕所带小宝/把老大带到门口
+    - 教家人和保姆同样规则
+    - 5 岁后才逐步放松监护要求
+  failure_mode: 留两个孩子独处 30 秒接电话,小宝被压、被塞食物、从床上摔下,造成不可逆伤害甚至窒息死亡。
+  evidence_level: A
+glossary_refs: []
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors: ["Heidi Murkoff", "Sharon Mazel"]
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh: ["莫夏迪", "张敏"]
+  location: "第 25 章 《二胎》, 页 733"
+  source_id: "SRC-040"
+related_cards: [C-S6-1602, C-S6-1601]
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

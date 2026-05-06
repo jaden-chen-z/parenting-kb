@@ -1,0 +1,73 @@
+glossary_id: G-PERSON-Werker
+type: person
+display_name: Werker
+
+full_name_en: Janet F. Werker
+full_name_zh: 珍妮特·F·沃克
+
+one_liner: |
+  加拿大发展心理学家(UBC 教授),婴儿语音知觉重组研究奠基人。
+  1984 经典实验证明:6-12 月婴儿失去外语音素辨别 = 注意力重组,不是失能。
+
+detail: |
+  ## 个人背景
+  - UBC(英属哥伦比亚大学)心理学教授
+  - Infant Studies Centre 主任
+  - 加拿大皇家学会院士
+  - Canada Research Chair Tier 1
+
+  ## 核心研究
+  ### 1. Werker/Tees 1984 — 母语音素重组奠基
+  - 6-8 月英语宝宝能区分 Hindi 音素
+  - 12 月只能区分英语音素
+  - 之前认为"失去能力"
+
+  ### 2. Werker/Logan 1985 — 关键澄清
+  - 不是失去能力 — 是注意力重组
+  - 强制注意条件下仍能辨外语音素
+  - 这跟 Polka/Werker 1994 vowel 重组先于 consonant 同方向
+
+  ## 立场
+  - 反"婴儿能力下降说" — 是聚焦不是失能
+  - 跟 Kuhl 同方向 + 互补(Kuhl 偏神经科学,Werker 偏行为)
+  - 双语家庭研究权威
+
+  ## 中国家长意义
+  - 6 月后学外语不是"过窗口" — 是更费力但仍可
+  - 12 月后默认注意力锁母语 — 需要互动激活
+  - 双语 0-12 月最优窗口
+
+  ## 在本知识库中
+  - SRC-028 Lerner V2 Ch2 共同主笔(120 hits)
+  - C-S5-1137 Werker reorganization 不是 loss
+  - C-S3-1139 Vowel 重组先于 consonant
+
+  ## 学术影响
+  - 婴儿语音知觉领域奠基者
+  - 跟 Saffran / Aslin / Kuhl 形成"早期语言派"
+  - 双语 / 多语研究权威
+
+key_facts:
+  - UBC 心理学教授
+  - 1984 母语音素重组研究奠基
+  - Vowel 4-8 月先于 consonant 6-12 月
+  - 反"婴儿失能"立场代表
+
+related_glossary:
+  - G-PERSON-Kuhl
+  - G-PERSON-Saffran
+  - G-TERM-perceptual-narrowing
+  - G-TERM-phoneme
+
+related_cards:
+  - C-S5-1137
+  - C-S3-1139
+
+sources:
+  - source_id: SRC-028
+  - external: Werker/Tees 1984 / Werker/Logan 1985 / Wikipedia Janet Werker
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

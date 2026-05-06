@@ -1,0 +1,105 @@
+card_id: C-S4-838
+stages: [S4]
+tags: [pikler, motor-发展, source-de, controversy]
+
+front:
+  title: "不教爬:Robben → 爬"
+  hook: "跳过爬阶段动作不流畅"
+
+back:
+  why_matters: |
+    Pikler 1969 Ch2 描述爬行(Kriechen)发展:
+    自然顺序是 Robben(匍匐 — 肚子贴地拖动)→
+    klassisches Krabbeln(经典爬 — 手脚交叉跪起)→
+    站起。
+
+    Robben 是 6-9 月初期形态 — 婴儿肚子贴地用手肘
+    + 脚趾拖动 — 看似笨拙但是核心练习:
+    - 交叉配合(左手 + 右脚同时动)
+    - 腹背肌力建立
+    - 视觉空间感(从低视角看世界)
+
+    经典爬(手脚跪起)是 8-12 月,基于 Robben 建立的配合能力。
+
+    Pikler 反对一切干预:
+    - 不"练趴卧时间(tummy time)"(俯卧训练 — Pikler 反)
+    - 不"教爬"(抓他手脚动)
+    - 不"用玩具引诱往前爬"
+    - 不"跳过爬直接练走"(中国常见)
+
+    跟 AAP 推趴卧时间(tummy time)(SRC-002)立场张力 — 详记
+    conflicts F3。
+
+  what_to_do:
+    - 6-9 月地板时间(平面 + 安全 + 玩具放手边)
+    - 看到 Robben(肚子拖)— 别评论别帮(他在练配合)
+    - 看到经典爬 — 同样别评论
+    - 不引诱 — 玩具放固定位置不"动来动去"
+    - 跨过他 / 抱起他时不评论"哎呀爬这么慢"
+
+  failure_mode: |
+    "宝宝跳过爬直接走更厉害" → Pikler 反:跳爬意味着没建立交叉配合 + 视觉空间感。短期看不出,3-6 岁后可能笨手笨脚 / 写字差 / 平衡感弱。
+
+  evidence_level: B
+
+  positions:
+    issue: 大动作发展该不该训练 · 学步车 / Bumbo / 撑坐 / 训练表是否有用
+    views:
+      - school: Pikler
+        source: SRC-026
+        stance: 反 Tummy Time — 仰卧位最佳,俯卧不利自然翻身。1969 立场(那时 Tummy Time 概念尚未出现)。
+      - school: Magda Gerber / RIE / Lansbury
+        source: SRC-022/019
+        stance: 继承 Pikler 立场 — 里程碑不是赛跑,不撑坐 8 理由,7 类婴儿设备先放下。
+      - school: 蒙氏(Davies/Lillard)
+        source: SRC-014/016
+        stance: 平面活动 OK,但反对"训练"方式;给地板时间让婴儿自由探索俯卧。
+      - school: AAP
+        source: SRC-002
+        stance: 推 Tummy Time — 防 SIDS 后颈肌发育 + 防扁头综合征(2026 现行立场,Back to Sleep 1994 后配套)。
+      - school: Brazelton
+        source: SRC-010
+        stance: 反学步车,跟 Pikler 立场一致;主张孩子自然探索大动作。
+      - school: 松田道雄
+        source: SRC-024
+        stance: 温和支持自然 — 不催孩子翻 / 坐 / 爬 / 走的时间表,部分跟 Pikler 共鸣。
+      - school: 鲍秀兰
+        source: SRC-009
+        stance: 支持训练 — 婴儿体操 / 抓握训练 / 撑坐;跟 Pikler 派 8 派立场严重对立。
+      - school: 中国主流
+        stance: '"4 月翻 / 6 月坐 / 9 月爬 / 12 月走" 训练表 + 80% 家庭曾用学步车。跟 Pikler 派全面对立。'
+      - school: Magda Gerber / Lansbury
+        source: SRC-022/019
+        stance: 继承 Pikler — 永远仰卧不俯卧;给地板时间让婴儿自由探索。
+      - school: 海蒂
+        source: SRC-040
+        stance: 每天清醒至少 30 分钟分多次累计(对齐 AAP)— 主流大众派背书 Tummy Time + 防扁头。
+      - school: 折中建议
+        stance: 不强迫 Tummy Time,但给地板时间允许婴儿自己俯卧探索;若选 AAP 派则醒着每天几次,每次几分钟。
+glossary_refs:
+  - G-PERSON-Pikler
+  - G-TERM-bewegungsentwicklung
+  - G-TERM-pikler-milestones
+
+citation:
+  book_title_de: "Friedliche Babys – zufriedene Mütter"
+  book_title_zh: "和平的婴儿 — 满足的母亲"
+  authors:
+    - Emmi Pikler
+  publisher_de: HERDER (HERDER / SPEKTRUM Band 4141)
+  year: 1969
+  location: "Ch2 Kriechen 段 pp. 65-80"
+  source_id: SRC-026
+
+unit_ids: []
+related_cards:
+  - C-S3-835  # Pikler 大动作 6 阶段顺序(本卷)
+  - C-S4-834  # Pikler 反撑坐 6 论证(本卷)
+  - C-S4-349  # Gerber 里程碑不是赛跑
+  - C-S2-290  # Lansbury 不撑坐 8 理由
+  - C-S3-191  # Lillard 大动作发展
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

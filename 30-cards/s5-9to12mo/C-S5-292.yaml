@@ -1,0 +1,78 @@
+card_id: C-S5-292
+stages: [S5]
+tags: [self, 调谐, framework]
+
+front:
+  title: 调谐 ≠ 模仿 ≠ 镜像
+  hook: 不模仿不镜映是同频
+
+back:
+  why_matters: |
+    家长 / 老师 / 心理师常混淆 调谐(情感调谐)和 模仿/ 镜映。Stern 严格区分这 4 个概念 — 它们过程 + 时机 + 后果都不同。
+    **4 个概念的精确区别**:
+    | 概念 | 是什么 | 时机 | 信息层 | 例子 |
+    |---|---|---|---|---|
+    | **模仿** | 重现外在行为(同模) | 0-9 月主要 | 外在行为(form)| 宝宝伸舌 → 妈也伸舌 |
+    | **镜映** | 临床多义 — 有时模仿,有时调谐 | 不清 | 不清 | "我在镜映你" |
+    | **调谐** | 跨感官匹配内心活力质地 | 9 月起 | 内心(feeling)| 宝宝抓玩具 "aaah!" → 妈上身 shimmy |
+    | **共情** | 调谐 + 理性抽象 + 反思 + 角色取替 | 后期 + 成人 | 内心 + 理解 | "我懂你这种失望感" |
+    **模仿 vs 调谐 关键区别**:
+    - 模仿 用**同感官**(声音对声音, 动作对动作)
+    - 调谐 用**不同感官** — 87% 至少部分跨模(Stern 数据)
+    - 模仿 重现"宝宝做了什么"
+    - 调谐 匹配"宝宝感觉如何"
+    **传统育儿的混乱**:
+    - "镜映宝宝" → 不清楚是 imitate 还是 调谐
+    - "做宝宝的镜子" → 容易变成 模仿,错过 调谐
+    - **Stern 推荐**:
+      - 0-9 月:大量 模仿(回应宝宝的 face / vocal)
+      - 9 月起:**升级到 调谐** — 仍 imitate 一部分,但加 跨模态 活力 matching
+    **临床应用**:
+    - 童年早期缺 调谐 → 成人后 情感失语症(述情障碍 — 不会用词描述自己感受)
+    - 成人后亲密关系紧张 — 因为不知道"被人 调谐"是什么感觉
+    - 心理治疗的核心过程 — therapist 对来访者做 调谐
+    **对家长**:
+    - **9 月起从 模仿 升级到 调谐** — 不要停留在简单模仿
+    - **跨感官** — 宝宝声音你可以用动作回应,反之亦然
+    - **匹配 活力** 不只是匹配 form
+  what_to_do:
+    - 9 月起从 模仿 升级到 调谐
+    - 用不同感官回应(声音 ↔ 动作)
+    - 匹配宝宝活力质地不只是行为
+    - 别只 mirror 一定要 调谐
+    - 不要混用"镜映" 改用"调谐"
+  failure_mode: |
+    "我对宝宝总是镜像他做什么我做什么" — 半对。0-9 月 OK,9 月起要升级到 调谐(跨感官 + 活力 层)。
+    停留在 模仿 → 错过 主观自我 心理深度连接。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Stern
+  - G-TERM-affective-attunement
+  - G-TERM-imitation
+
+citation:
+  book_title_zh: "婴儿的人际世界"
+  book_title_en: "The Interpersonal World of the Infant"
+  authors: ["Daniel N. Stern"]
+  authors_zh: ["丹尼尔·斯特恩"]
+  publisher_en: "Basic Books"
+  year_en: 1985
+  isbn_en: "978-0-465-09559-9"
+  location: "Ch 7 · Alternative Conceptualizations (vs imitation/mirroring/empathy)"
+  publisher_zh: "华东师范大学出版社"
+  year_zh: 2017
+  translator_zh: ["刘旭东"]
+  source_id: SRC-018
+
+unit_ids: []
+related_cards:
+  - C-S5-291       # Stern affective attunement 主卡
+  - C-S1-257       # Stern 出生 2 天已模仿(imitation 早期)
+  - C-S2-127       # Davies 跟宝宝用真词不嘎嘎(蒙氏 imitation 实操)
+  - C-S1-018       # Karp 5S(节奏 imitation)
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

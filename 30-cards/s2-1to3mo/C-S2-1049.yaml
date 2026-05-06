@@ -1,0 +1,59 @@
+card_id: C-S2-1049
+stages: [S2]
+tags: []
+
+front:
+  title: "Cochrane 元分析"
+  hook: "元分析硬证据支撑"
+
+back:
+  why_matters: |
+    WHO 6 月 EBF 推荐的科学根基:Cochrane 系统综述(Kramer & Kakuma 2012)。
+    对比 4 月 EBF + 2 月混合 vs 6 月 EBF:
+    **6 月 EBF 优势(原文 from Cochrane)**:
+    ① 婴儿胃肠感染少
+    ② 婴儿母亲铁缺率低(母乳铁吸收高)
+    ③ 母亲泌乳期长(月经回归晚)
+    ④ 母亲产后体重恢复快
+    **4 月 EBF 唯一优势**:'flexibility' — 但 WHO 不接受这点足以推迟 EBF
+    Cochrane Cochrane 是 Tier 1 元分析方法学权威 — 这个综述是 WHO + AAP 6 月 EBF 立场的科学根基。
+    AAP 4-6 月立场基于 LEAP 早期过敏引入,跟 EBF 时长不是同问题。
+  what_to_do:
+    - "WHO 6 月 EBF 不是凭感觉 — Cochrane 元分析支持"
+    - "Kramer-Kakuma 2012 是关键文献"
+    - "记 4 优势:感染少/铁少/泌乳长/瘦快"
+    - "AAP 4-6 月是过敏引入立场,不是 EBF 时长"
+    - "Cochrane 是元分析方法学权威 — 信"
+  failure_mode: |
+    信'4 月 EBF 跟 6 月一样' → Cochrane 元分析直接反对 → 错过 4 大优势。
+    EBF 6 月有硬科学根基,不是政策推断。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-EBF
+  - G-TERM-WHO-six-months
+  - G-PERSON-Kramer
+
+citation:
+  page_title: "Cochrane Kramer-Kakuma 2012 'Optimal duration of exclusive breastfeeding'"
+  publisher: "World Health Organization & UNICEF"
+  page_url_primary: https://www.who.int/tools/elena/interventions/exclusive-breastfeeding
+  accessed: 2026-05-04
+  language: en
+  location: "Cochrane 元分析 6 月 vs 4 月 EBF 4 大优势"
+  source_id: SRC-031
+
+unit_ids: []
+related_cards:
+  - C-S3-1042
+  - C-S0-1024
+  - C-S1-1015
+  - C-S3-001
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_doc_id_pending: D7
+citation_followup_needed: '已映射真实 doc_id (D7 = WHO ELENA EBF First Six Months)'

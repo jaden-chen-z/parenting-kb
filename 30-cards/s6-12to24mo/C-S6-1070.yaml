@@ -1,0 +1,66 @@
+card_id: C-S6-1070
+stages: [S6]
+tags: []
+
+front:
+  title: "增长奶 Code 禁"
+  hook: "营销话术不要上当"
+
+back:
+  why_matters: |
+    中国奶粉品牌 1 岁后营销:'3 段奶粉' / '4 段儿童奶' / '学步成长奶' → WHO Code 重点监管对象。
+    WHO 2016 决议加强对'follow-on formula'(跟随奶 6-12m)和'growing-up milk'(增长奶 12m+)的监管 — 这些产品 Code 早就涵盖。
+    立场:1 岁+ 母乳 + 家庭饮食 + 全奶(若需要)足够 — 不需要任何专门奶粉。
+    中国家长常见误区:
+    - '1 岁后转 3 段奶粉更营养' → 错(配方主营销话术)
+    - '4 段儿童奶补钙' → 全奶(普通奶) + 蔬果就够
+    - '专门学步奶口感更好' → 加糖 + 香精,反而风险高
+  what_to_do:
+    - "1 岁后不需要 '3 段 / 4 段' 奶粉"
+    - "母乳继续 + 家庭饮食 + 全奶(若需)= 足够"
+    - "'儿童奶' / '学步奶' = Code 禁的营销"
+    - "看包装'适合 6-12 月' / '适合 12 月+' → 警惕"
+    - "1 岁后省下奶粉钱 → 买高质量蛋白(肉/鱼/蛋)更值"
+  failure_mode: |
+    信'1 岁转 3 段奶粉''4 段儿童奶补钙'话术 → 多花钱 + 母乳被替代 + WHO Code 营销陷阱。
+    WHO 立场:1 岁+ 不需要专门奶粉。
+  evidence_level: B
+
+  positions:
+    issue: 奶粉营销规则 — WHO Code 1981 vs 中国实际营销
+    views:
+      - school: WHO Code 1981
+        source: SRC-031
+        stance: 全面禁止 4 大利益方营销(妈妈 / 医生 / 医院 / 标签);IBFAN / NetCode 持续监测违规。
+      - school: 中国法规
+        stance: 《婴幼儿配方乳粉广告法》仅部分对接 — 主要禁 0-6 月配方奶广告,6 月+ 跟随奶 / 增长奶营销宽松。
+      - school: 中国奶粉品牌实操
+        stance: 产院送试用装 / 母婴店推销 / 直播带货 / 1-2-3-4 段分阶 / KOL 软广 — 多数违反 WHO Code。
+glossary_refs:
+  - G-TERM-WHO-Code
+  - G-TERM-formula-marketing
+  - G-TERM-breastmilk-substitutes
+
+citation:
+  page_title: "WHO Code + WHO 2016 Follow-on/Growing-up Milk Resolution"
+  publisher: "World Health Organization & UNICEF"
+  page_url_primary: https://en.wikipedia.org/wiki/International_Code_of_Marketing_of_Breast-milk_Substitutes
+  accessed: 2026-05-04
+  language: en
+  location: "WHO Code 涵盖跟随/增长奶 + 中国 1 岁+ 营销陷阱"
+  source_id: SRC-031
+
+unit_ids: []
+related_cards:
+  - C-S1-1010
+  - C-S6-1070
+  - C-S6-1067
+  - C-S5-001
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_doc_id_pending: D3
+citation_followup_needed: '已映射真实 doc_id (D3 = International Code of Marketing 1981)'

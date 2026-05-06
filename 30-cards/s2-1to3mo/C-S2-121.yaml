@@ -1,0 +1,72 @@
+card_id: C-S2-121
+stages: [S2]
+tags: [development_burst, controversy]
+
+front:
+  title: 8 周第二跃迁:模式世界
+  hook: 突然爱看条纹和栏杆
+
+back:
+  why_matters: |
+    第 8 周(7-9 周)是 Wonder Week 第二跃迁 — **模式世界**(World of Patterns)。
+    怎么回事:大脑从"信号混杂的子宫式感知"升级到能识别简单模式 — 形状/线条/颜色对比/声音节奏/手脚运动模式。
+    跃迁前烦躁 阶段 持续几天到 2 周,3 C 信号(哭/黏/烦)+ 突然怕生 + 食欲乱 + 睡不好。
+    跃迁完成后宝宝突然:
+    - 盯着栏杆 / 罐头排列 / 树叶晃动看很久(模式识别)
+    - 发现自己的手和脚(身体模式)
+    - 发出 ah / uh / eh 短音节(声音模式)
+    - 反射开始消失,被有意动作取代神经科学:7-8 周宝宝头围突然增大 + EEG 脑电波出现新模式(B 级证据)。
+  what_to_do:
+    - 7-9 周出现 3 C → 第二跃迁来了
+    - 烦躁 阶段 期间多抱多哺,不强求规律
+    - 跃迁后给高对比度物品(黑白条纹 / 红白格)看
+    - 跟宝宝"对话"用 ah / uh / eh 回应他的声音
+    - 不必加奶粉(频繁要奶 = 安全感需求,不是饿)
+  failure_mode: |
+    "宝宝突然怕陌生人 = 性格内向" — 其实是跃迁。
+    "频繁要奶 = 我奶不够" — 加奶粉 / 换配方反让宝宝更紧张。
+    跃迁期开始睡眠训练 → 注定失败 + 破坏信任。
+  evidence_level: B
+
+  positions:
+    issue: 6-8 周事件命名群 — 同一发育跃迁的多个名字
+    views:
+      - school: Karp
+        source: SRC-003
+        stance: 哭闹峰(peak fussing)— 6 周是哭闹达高峰、随后递减的关键节点。
+      - school: Brazelton
+        source: SRC-010
+        stance: 6-8 周触点(touchpoint)— 父母最焦虑、亲子关系重新校准的发育节点。
+      - school: Wonder Weeks
+        stance: WW8 模式跃迁 — 婴儿大脑首次能识别复杂模式,行为外显为不安。
+      - school: Bowlby
+        source: SRC-011
+        stance: 6 周非选择性微笑 — 社会性微笑出现,但尚不区分照顾者。
+glossary_refs:
+  - G-PERSON-vanderijt
+  - G-TERM-wonder-week
+  - G-TERM-mental-leap
+  - G-TERM-3C-signs
+  - G-TERM-fussy-phase
+
+citation:
+  book_title_zh: "婴儿大脑跃迁 10 周(神奇周)"
+  book_title_en: "The Wonder Weeks"
+  authors: ["Hetty van de Rijt", "Frans X. Plooij"]
+  authors_zh: ["海蒂·凡德里特", "弗朗斯·普洛伊"]
+  publisher_en: "Kiddy World Publishing"
+  year_en_first: 1992
+  isbn_en: "978-90-79208-12-1"
+  location: "Chapter 4 · Wonder Week 8: The World of Patterns(at approximately 8 weeks... your baby will discover that his hands belong to him + Brain Changes box: head circumference dramatically increases at 7-8 weeks)"
+  source_id: SRC-013
+
+unit_ids: []
+related_cards:
+  - C-S1-178       # 三 C 信号
+  - C-S1-179       # 10 个跃迁时间表
+  - C-S2-122       # WW12 第三跃迁
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

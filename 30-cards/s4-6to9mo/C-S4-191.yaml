@@ -1,0 +1,76 @@
+card_id: C-S4-191
+stages: [S4]
+tags: [montessori, milestone, individual]
+
+front:
+  title: 坐型 vs 爬型都健康
+  hook: 8 月分流别焦虑
+
+back:
+  why_matters: |
+    Lillard Ch5 描述 8 月**宝宝的"分型"现象** — 即使有充分爬空间,部分宝宝选择"先坐看世界",部分宝宝"立刻爬走":
+    - **"坐型"**(sitter) — 8 月坐稳,但不急着爬,长时间坐着观察
+    - **"爬型"**(crawler) — 8 月就开始爬,精力放在大动作
+    Lillard 观察:
+    - **"坐型"宝宝语言早**(精力转语言 / 看 / 想)
+    - **"爬型"宝宝大动作早**(精力转身体)
+    - 大脑似乎一次只能集中"全力"在一种发展上
+    - 两种都健康,不是"我家娃慢"
+    实操含义 — **不要因为隔壁宝宝早爬就焦虑** + **不要急着推**。看你家宝宝整体状态:
+    - 如果 8 月不爬但语言 / 社交 / 探索都积极 → 是"坐型",等等就好
+    - 如果 8 月不爬而且没什么互动 → 找儿保
+    Lillard 也提醒:**前提是有足够爬空间** — 如果宝宝被关在 crib/playpen 不能爬,那就不是"坐型",是"被剥夺型"。
+    跟 Davies(C-S4-134 6-9 月秩序敏感期)互补,Lillard 给个体差异角度。
+  what_to_do:
+    - 给充分爬空间(yes space)
+    - 8 月不爬别焦虑
+    - 看宝宝其他方面(语言 / 社交 / 探索)
+    - 如全方位停滞才找儿保
+    - 不"教爬"(强行训练)
+  failure_mode: |
+    "隔壁宝宝 7 月爬,我家 9 月还没爬肯定不行" — 反:分型现象,看整体状态。
+    给爬空间但没足够时间 → 不能称"坐型",其实是"机会不够"。
+  evidence_level: B
+
+  positions:
+    issue: 不爬行(skip crawling)是否影响发育 · 跳爬直立是否健康
+    views:
+      - school: 鲍秀兰
+        source: SRC-009
+        stance: 缺乏爬行 → 学龄期反应迟钝 / 动作笨拙。中国家长普遍焦虑源,提倡多爬。
+      - school: Lillard(蒙氏)
+        source: SRC-016
+        stance: sitter(坐型)也健康,看整体发育而非只看爬行;路径多样不必矫正。
+      - school: AAP
+        source: SRC-004
+        stance: 不爬也正常,跳爬 / 直立都属正常发育路径;无明确"不爬有害"立场。
+      - school: 海蒂
+        source: SRC-040
+        stance: 8 月不爬正常,跳爬直立也行 — 主流大众派对 AAP 立场的明确背书,缓和中国家长焦虑。
+      - school: 中国传统
+        stance: 不爬必须矫正,否则未来"协调差";常见"训练爬"商业课程。
+glossary_refs:
+  - G-PERSON-Lillard
+  - G-PERSON-Jessen
+  - G-TERM-coordinated-movement
+
+citation:
+  book_title_zh: "蒙台梭利从 0 岁开始"
+  book_title_en: "Montessori from the Start"
+  authors: ["Paula Polk Lillard", "Lynn Lillard Jessen"]
+  authors_zh: ["宝拉·波尔克·莉拉德", "琳·莉拉德·杰森"]
+  publisher_en: "Schocken Books"
+  year_en: 2003
+  isbn_en: "978-0-8052-1112-1"
+  location: "Ch 5 · 'Crawling to Coordination' (sitter vs crawler)"
+  source_id: SRC-016
+
+unit_ids: []
+related_cards:
+  - C-S4-134       # Davies 6-9 月秩序敏感期
+  - C-S4-190       # Lillard 第二次出生
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

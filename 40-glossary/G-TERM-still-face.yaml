@@ -1,0 +1,25 @@
+glossary_id: G-TERM-still-face
+type: term
+display_name: "Tronick 静止脸"
+
+one_liner: |
+  Tronick 实验:妈跟娃互动时突然变扑克脸,30 秒内娃从困惑→愤怒→大哭。
+
+detail: |
+  Tronick 实验:妈跟娃互动时突然变扑克脸,30 秒内娃从困惑→愤怒→大哭。
+
+  来源:Lerner V3《Handbook of Child Psychology Vol 3》(Wiley 2006 第 6 版,Eisenberg 主编)。
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-027
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04
+
+merged_into: G-TERM-still-face-experiment
+merge_reason: '术语卡冲突 — 同一 Tronick 1978 实验,扑克脸译法主流使用 13 vs 静止脸 5'

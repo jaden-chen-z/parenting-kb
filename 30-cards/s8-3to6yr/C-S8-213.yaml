@@ -1,0 +1,67 @@
+card_id: C-S8-213
+stages: [S8]
+tags: [shonkoff, nrc, school_readiness, 过渡]
+
+front:
+  title: "学龄前 5 项准备"
+  hook: "不只是会拼音字母"
+
+back:
+  why_matters: |
+    NRC 综述 Ch 13 给"school 准备好学龄前准备"5 项 — 反"会拼音 / 数学 = 准备好":
+    **NRC 5 项准备**:
+    1. **身体健康** — 营养 + 听 / 视力 + 运动协调
+    2. **社交情感** — 跟人合作 + 情绪调节 + 自信
+    3. **学习途径** — 好奇 + 坚持 + 主动 + 创造
+    4. **语言** — 跟人对话 + 听懂指令 + 词汇
+    5. **认知** — 数概念 + 文字概念 + 模式识别(**不是 "提前会拼音"**)
+    **NRC 关键校准**:
+    - **认知准备**指**前期概念**(数 1-10 / 字母认识)
+    - **不是**"已经会拼音 / 会算数"
+    - 1-3 项实际比 5 项更重要
+    - 第 5 项过度重视 → 牺牲其他
+    **数据**(NRC 综述):
+    - 学龄前自调 + 社交 → 最强预测一年级表现
+    - 提前学拼音 → 不预测一年级 + 没持久优势
+    - 同伴互动经验 → 一年级社交基础
+    **对中国家长**:
+    - "幼小衔接"在中国普遍 — 但科学支持有限
+    - 真准备 = 健康 + 社交 + 学习态度 + 词汇 + 概念熟
+    - **不是** "会拼音 / 算 100 以内"
+    - 6-7 月集训认字 / 数学 → 错配资源
+    - 6 个月内能教会的内容,小学 1 个月就教会跟松田 §470 不必教认字 + Lillard 蒙氏 + Gopnik 反早教共识。
+  what_to_do:
+    - 重健康 + 社交 + 态度
+    - 不必提前学拼音
+    - 多对话练词汇
+    - 玩中学概念
+    - 别报幼小衔接班
+  failure_mode: |
+    "他 5 岁会拼音 / 数学 — 我家厉害" — 错,这不预测学业,小学 1 月学完。
+    "我得多报班准备入学" — 错,5 项准备多在玩中得不在班里。
+    "学龄前 = 准学业训练" — 错,NRC 立场:学龄前是发展软技能。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Shonkoff
+  - G-TERM-NRC
+  - G-TERM-school-准备好
+
+citation:
+  book_title_en: "From Neurons to Neighborhoods"
+  authors: ["Jack P. Shonkoff", "Deborah A. Phillips"]
+  org: "NRC/IOM"
+  year_en: 2000
+  location: "Ch 13 · School readiness 5 domains"
+  source_id: SRC-025
+
+unit_ids: []
+related_cards:
+  - C-S8-103    # 松田 §470 不必教认字 SRC-024
+  - C-S7-866    # Shonkoff 反提前学业(本卷)
+  - C-S0-619    # Shonkoff 反早教(本卷)
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

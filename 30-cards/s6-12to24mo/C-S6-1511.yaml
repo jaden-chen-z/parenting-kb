@@ -1,0 +1,54 @@
+card_id: C-S6-1511
+stages: ['S6']
+tags: ['philosophy', 'lerner_v1', 'oser', 'religious_development', 'spirituality']
+
+front:
+  title: "信仰发展也有阶段"
+  hook: "信仰小时候就萌芽"
+
+back:
+  why_matters: |
+    Oser / Scarlett / Bucher(Lerner V1 Ch 17)给 religious/spiritual 发展 综述。
+    信仰发展不只 "宗教信仰",是 "对意义 / 超越 / 价值的体验" — 包括无宗教家庭。
+    1-2 岁开始的灵性发展征兆 —
+    - 对自然的好奇 + 敬畏(看星星 / 大海 / 大树)
+    - 对死亡的早期感知(看到死蝉 / 死宠物)
+    - 对"为什么"的追问(超越具体答案)
+    意义 — 中国父母常 "孩子还小不懂" 跳过这话题 — 错过灵性发展窗口。
+    建议 —
+    - 自然敬畏 — 多带户外 / 看天 / 看夜空
+    - 死亡话题 — 不回避(看到死蝉可以谈)
+    - 神秘感受 — 接纳不解释意义 — 灵性 ≠ 宗教 = 对意义的体验,是 wellbeing 重要维度。
+  what_to_do:
+    - "多带户外培养自然敬畏"
+    - "不回避死亡话题(适当年龄)"
+    - "神秘感受 — 接纳不解释"
+    - "'为什么' 追问 — 容纳不完美答案"
+    - "灵性 ≠ 宗教 = 意义感"
+  failure_mode: |
+    "小不懂"跳过灵性话题 — 错过早期发展窗口。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Oser
+  - G-TERM-religious-spiritual-development
+
+related_cards:
+  - C-S6-1064
+  - C-S6-1505
+  - C-S0-1517
+  - C-S6-820
+
+citation:
+  source_id: SRC-030
+  source_title: "Handbook of Child Psychology Vol 1: Theoretical Models of Human Development"
+  chapter: "Ch 17 Religious/Spiritual Development (Oser / Scarlett / Bucher)"
+  chapter_offset: 5105000
+  chapter_title: 'Oser / Scarlett / Bucher — Religious/Spiritual Development'
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_followup_needed: 'SRC-030 用 PDF 字节偏移代页码 — 待加 page_pdf 反查工具'

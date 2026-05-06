@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Cohen-Sheldon
+type: person
+display_name: "Cohen(谢尔登·科恩)"
+
+full_name_en: "Sheldon Cohen"
+full_name_zh: "谢尔登·科恩"
+
+position: |
+  Carnegie Mellon University
+
+contribution: |
+  应激与免疫研究 + 童年应激
+
+one_liner: |
+  谢尔登·科恩 — 应激与免疫研究 + 童年应激
+
+key_facts:
+  - "本卷章节:Ch 13 + 18(引用)"
+  - "Lerner V4 命中:118 次"
+  - "学派:Lerner V4 应用心理学派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-029
+    chapter: "Ch 13 + 18(引用)"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

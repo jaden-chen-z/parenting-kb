@@ -1,0 +1,46 @@
+card_id: C-S2-2011
+stages: [S2]
+tags: [gap_g10_filled]
+
+front:
+  title: 早期昼夜节律 6-8 周开始萌
+  hook: 夜长睡的生理时刻表
+
+back:
+  why_matters: |
+    昼夜节律(circadian rhythm)= 身体内置的 24 小时生理周期,由大脑松果体分泌褪黑素(melatonin)驱动。
+    新生儿出生时无昼夜节律,完全混乱;6-8 周起松果体开始分泌褪黑素,夜里持续睡眠时段开始拉长。
+    海蒂观察:1/2 宝宝 3-4 月起夜里能连续 6-8 小时(不再每 2-3 小时醒)。
+    这不是"训练"出来的,是生理成熟。强行训反而打乱节律。
+  what_to_do:
+    - "白天明亮 + 互动多 + 有声音"
+    - "晚 7 点后调暗光线 + 降低声音"
+    - "夜里换尿布尽量不开大灯(夜灯)"
+    - "夜里不互动不逗笑(信号:晚 = 安静)"
+    - "6-8 周起开始用同一个睡前流程"
+  failure_mode: |
+    出生第 1 周就期待整晚睡 → 生理上不可能,自我消耗。
+    白天娃睡过长不叫醒 → 拉长的睡眠误植到白天。
+    夜里开亮灯换尿布 + 跟娃说话 → 重置褪黑素,前功尽弃。
+  evidence_level: B
+
+glossary_refs:
+  - G-ABBR-AAP
+
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1 岁"
+  authors: ["Heidi Murkoff", "Sharon Mazel"]
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 2010
+  edition: "Third Edition"
+  location: "第 6-7 章 / 睡眠时间安排节,p.250-254"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards: [C-S2-2012, C-S2-005]
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

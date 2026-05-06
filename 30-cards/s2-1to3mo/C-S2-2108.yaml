@@ -1,0 +1,49 @@
+card_id: C-S2-2108
+stages: [S2]
+tags: [safety, red_flag]
+
+front:
+  title: 感冒红旗 6 项:何时找医生
+  hook: < 3 月初次感冒 = 直接打
+
+back:
+  why_matters: |
+    宝宝免疫还在搭建,1 年感冒 6-8 次正常,大多数不用医生。
+    但海蒂列**6 大红旗任 1 → 通知医生**:< 3 月初次感冒、突涨体温 / > 2 天烧、
+    干咳 > 2 周、稠黄绿涕 > 1 天、哭明显增多、完全不吃。
+    频繁感冒**反而有益**(免疫训练,日托宝宝上学后反而少病)— 别恐慌。
+    抗生素不治感冒(病毒病),**只在继发细菌感染时用**。
+  what_to_do:
+    - < 3 月任何感冒 → 通知医生(免疫弱)
+    - 烧 ≥ 38°C 持续 > 2 天 / 突然反弹升温 → 通知
+    - 干咳 > 2 周影响睡 / 引起呕吐 / 呼吸困难 → 通知
+    - 稠黄绿涕 > 1 天 / 涕带血 → 通知
+    - 居家:加湿空气 / 多喝水 / 抬高头睡 / 凡士林涂鼻周
+  failure_mode: |
+    自己买减充血滴鼻剂连用 > 3 天 → 反弹性鼻塞更糟。
+    要求医生开抗生素治普通感冒 → 滥用 → 耐药性。
+    6 月内宝宝吃止咳药 → 海蒂明禁(无证据有效且有害)。
+    给婴儿吃蜂蜜止咳 → 1 岁内严禁(肉毒杆菌)。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-AAP
+
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1 岁"
+  authors: [Heidi Murkoff, Sharon Mazel]
+  publisher_en: Workman Publishing
+  publisher_zh: 南海出版公司(新经典发行)
+  year: 1989
+  edition: 3rd (2014)
+  location: "第 18 章《宝宝生病》'感冒 / 什么时候通知医生',541-547 页中译"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards: [C-S1-060, C-S2-2105]
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

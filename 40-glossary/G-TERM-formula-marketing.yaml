@@ -1,0 +1,60 @@
+glossary_id: G-TERM-formula-marketing
+type: term
+display_name: "奶粉营销监管"
+
+en_term: "Formula Marketing Regulation"
+zh_term: "奶粉营销监管"
+
+one_liner: |
+  WHO Code 1981 + 后续决议禁止奶粉公司不当营销 — 中国实施部分。
+
+detail: |
+  ## Code 监管对象
+  - 配方奶(0-6 月)
+  - 跟随奶(follow-on formula 6-12 月)
+  - 增长奶(growing-up milk 12 月+)
+  - 1 岁内任何乳制品/婴儿食品
+  - 奶瓶 + 奶嘴
+  
+  ## 4 大利益方禁令
+  妈妈 / 医生 / 医院 / 标签 — 见 G-TERM-WHO-Code。
+  
+  ## 中国奶粉品牌实操
+  违规普遍:
+  - 产院送试用装
+  - 母婴店推销
+  - 直播带货
+  - 1-2-3-4 段分阶营销
+  - KOL 软广
+  
+  ## 中国法规
+  《婴幼儿配方乳粉广告法》仅部分对接 Code(主要禁 0-6 月配方奶广告),6 月+ 跟随奶/增长奶营销宽松。
+  
+  ## 监督
+  - IBFAN(International Baby Food Action Network)
+  - NetCode(WHO + IBFAN + UNICEF 联合监测网)
+
+key_facts:
+  - "WHO Code 1981 起"
+  - "中国法规仅部分对接"
+  - "IBFAN/NetCode 监督"
+  - "1-2-3-4 段营销 Code 禁"
+
+related_glossary:
+  - G-TERM-WHO-Code
+  - G-TERM-breastmilk-substitutes
+  - G-TERM-IBFAN
+
+related_cards:
+  - C-S0-1026
+  - C-S1-1009
+  - C-S1-1011
+  - C-S6-1070
+
+sources:
+  - source_id: SRC-031
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

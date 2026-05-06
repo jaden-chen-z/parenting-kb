@@ -1,0 +1,58 @@
+card_id: C-S4-1046
+stages: [S4]
+tags: []
+
+front:
+  title: "辅食 4 大支柱"
+  hook: "及时充分安全反馈"
+
+back:
+  why_matters: |
+    WHO 辅食 4 大支柱(白话翻译):
+    ① **及时性** — 6 月开始(不早不晚)
+    ② **充分性** — 足够能量 + 蛋白 + 微量元素
+    ③ **安全性** — 卫生准备 + 干净餐具 + 干净的手
+    ④ **反馈式** — 跟着孩子的饥饱信号走
+
+    PAHO / WHO 2003 进一步给 10 大原则(全文 WebFetch 失败,见 gaps G_WHO_3)。
+
+    4 支柱缺一不可 — 中国家长常缺反馈式(逼吃) + 充分性(米粉为主缺铁缺蛋白)。
+  what_to_do:
+    - "4 支柱:及时 + 充分 + 安全 + 反馈"
+    - "中国传统'米粉为主' → 缺反馈(逼吃) + 充分性(蛋白铁不够)"
+    - "看 4 支柱自查家里辅食实操"
+    - "及时性 — 不早不晚,6 月开始"
+    - "反馈式 — 看娃信号,不逼吃"
+  failure_mode: |
+    只关注"吃了多少" → 缺反馈式(逼吃)+ 充分性(米粉低密度)。
+    4 支柱平衡才合 WHO 标准。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-CF
+  - G-TERM-WHO-CF-principles
+  - G-TERM-responsive-feeding
+
+citation:
+  page_title: "WHO Complementary Feeding 4 Pillars"
+  publisher: "World Health Organization & UNICEF"
+  page_url_primary: https://www.who.int/health-topics/complementary-feeding
+  accessed: 2026-05-04
+  language: en
+  location: "WHO 4 支柱 + PAHO 10 原则(部分覆盖,gaps G_WHO_3)"
+  source_id: SRC-031
+
+unit_ids: []
+related_cards:
+  - C-S4-1045
+  - C-S4-1050
+  - C-S4-1051
+  - C-S4-001
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_doc_id_pending: D6
+citation_followup_needed: '已映射真实 doc_id (D6 = WHO Complementary Feeding)'

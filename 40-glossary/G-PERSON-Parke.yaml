@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Parke
+type: person
+display_name: "Parke(罗斯·帕克)"
+
+full_name_en: "Ross D. Parke"
+full_name_zh: "罗斯·帕克"
+
+position: |
+  UC Riverside 心理学教授
+
+contribution: |
+  父亲角色研究;家庭社会化 + 族群视角
+
+one_liner: |
+  罗斯·帕克 — 父亲角色研究;家庭社会化 + 族群视角
+
+key_facts:
+  - "本卷章节:Ch 8"
+  - "Lerner V3 命中:207 次"
+  - "学派:Lerner V3 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-027
+    chapter: "Ch 8"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

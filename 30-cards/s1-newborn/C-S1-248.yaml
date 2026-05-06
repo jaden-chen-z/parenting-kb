@@ -1,0 +1,56 @@
+card_id: C-S1-248
+stages: [S1]
+tags: [montessori, concentration, philosophy, controversy]
+
+front:
+  title: 别打断专注!掌声破坏
+  hook: 夸"宝宝好棒"也算
+
+back:
+  why_matters: |
+    Lillard Ch2 反复强调:**宝宝专注的时候不要打断,任何形式都不要 — 包括夸奖 / 鼓掌 / 亲一下**。
+    为什么:
+    - 宝宝大脑在"flow 状态"(Csikszentmihalyi 心流理论)
+    - 这种深度专注是大脑剪枝的物理过程
+    - 任何干扰 = 把宝宝从 flow 拉到"自我意识"(self-conscious)
+    - 自我意识起来 = 专注力崩溃现代 ADHD / 注意力问题为什么这么多?Lillard Ch2 提出假说:
+    > "我们把孩子从 0-3 岁的 flow 一次次扯出来,长大后他们就再难找回 flow。"
+    跟 Carol Dweck 成长型思维一致 — 不夸天赋,看过程。但 Lillard 更激进:**连过程也不夸,看就好**。
+    跟传统育儿"宝宝好棒"反复夸**完全对立**。
+  what_to_do:
+    - 看到宝宝专注就退后(不靠近 / 不出声)
+    - 等他自然停止活动再说话
+    - 不夸"宝宝好聪明 / 好棒"
+    - 不鼓掌 / 不亲吻 / 不打断
+    - 等宝宝来找你才回应
+  failure_mode: |
+    "宝宝做对了我就要夸,不夸他怎么知道做对了" — 蒙氏立场:正确 = 完成 + 顺序对,本身就是反馈。
+    一直夸 → 宝宝长大成"求认可"型 → 失去内在动机。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Lillard
+  - G-PERSON-Jessen
+  - G-PERSON-Montessori
+  - G-TERM-self-construction
+
+citation:
+  book_title_zh: "蒙台梭利从 0 岁开始"
+  book_title_en: "Montessori from the Start"
+  authors: ["Paula Polk Lillard", "Lynn Lillard Jessen"]
+  authors_zh: ["宝拉·波尔克·莉拉德", "琳·莉拉德·杰森"]
+  publisher_en: "Schocken Books"
+  year_en: 2003
+  isbn_en: "978-0-8052-1112-1"
+  location: "Ch 2 · 'Welcoming the Newborn' (concentration + flow)"
+  source_id: SRC-016
+
+unit_ids: []
+related_cards:
+  - C-S2-129       # Davies 别打断 1 月宝宝看自己手
+  - C-S5-132       # Davies 别说"宝宝好棒"
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

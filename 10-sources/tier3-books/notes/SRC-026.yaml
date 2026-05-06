@@ -1,0 +1,305 @@
+source_id: SRC-026
+type: tier3-book
+tier: tier3
+
+title_en: "Peaceful Babies — Contented Mothers (Pädagogische Ratschläge einer Kinderärztin)"
+title_de: "Friedliche Babys – zufriedene Mütter"
+title_zh: "和平的婴儿 — 满足的母亲(一位儿科医生的教育建议)"
+
+authors:
+  - name_en: "Emmi Pikler"
+    name_zh: "艾米·皮克勒"
+    role: "匈牙利儿科医生 + Lóczy 研究所创始人"
+    background: |
+      1902 维也纳生 — 1984 布达佩斯逝。儿科 + 整形外科双训练。
+      1930s 起做家庭儿科医生,跟踪 100+ 家庭 30 年。
+      1946 二战后接管布达佩斯 Lóczy 研究所(0-3 岁孤儿),
+      把"自然大动作发展 + 不教 + 信任宝宝身体智慧"系统化为机构规程。
+      女儿 Anna Tardos 继承研究所,推 Pikler 哲学到全欧洲。
+      Magda Gerber(RIE 创始人)的导师 + 朋友 — 1956 Magda 移民
+      美国创 RIE 之前在 Lóczy 工作多年。
+
+publisher_de: HERDER (HERDER / SPEKTRUM Band 4141)
+publisher_year_de: 1969 (Erstausgabe)
+location_de: "Freiburg im Breisgau"
+year: 1969
+language_original: de
+language_acquired: de  # 本卷读德文原版,Claude 翻译产中文卡
+
+format: pdf_to_md
+file_path: "10-sources/tier3-books/raw_pdfs/pikler_friedliche_babys.md"
+file_size_chars: 357185
+file_lines: 7151
+
+# 流派 + 范围
+school: Pikler 派(自然大动作发展 / Bewegungsentwicklung)
+sub_school: 罗茨研究所规程 + 家庭儿科建议
+age_coverage: 0-36 月(主体)+ 36 月后过渡到幼儿期
+
+# 章节地图(实测 11 章 + 引言 + 总结 + 图说)
+chapter_map:
+  einleitung: { offset: 3398, chars: ~6300, title: "Einleitung(引言)— Pikler 哲学起点" }
+  ch1: { offset: 9700, chars: 17518, title: "Jedes Kind entwickelt sich anders(每个孩子发展不同)" }
+  ch2: { offset: 27218, chars: 68970, title: "Die Entwicklung der Bewegung(大动作发展)⭐⭐⭐ Pikler 核心" }
+  ch3: { offset: 96188, chars: 15087, title: "Über die geistige Entwicklung(精神发展 + abschreckendes Beispiel 反例)⭐⭐" }
+  ch4: { offset: 111275, chars: 22851, title: "Verhältnis von Mutter und Kind(母婴关系)⭐⭐" }
+  ch5: { offset: 134126, chars: 2926, title: "Das Kind und die Welt(孩子与世界,短)" }
+  ch6: { offset: 137052, chars: 21921, title: "Daumen lutschen(吸大拇指)" }
+  ch7: { offset: 158973, chars: 17300, title: "Spielen wir mit dem Kind?(怎么跟孩子玩)⭐⭐" }
+  ch8: { offset: 176273, chars: 24721, title: "Erlernen der Sprache(语言学习)" }
+  ch9: { offset: 200994, chars: 26301, title: "Sauberkeitserziehung / Topf(如厕训练)⭐⭐" }
+  ch10: { offset: 227295, chars: 55437, title: "Übergang vom Säuglingsalter ins Kleinkindalter(婴幼儿过渡)⭐⭐⭐ 副主战场" }
+  ch11: { offset: 282732, chars: ~9000, title: "Abschließende Bemerkungen(总结)" }
+  bilderverzeichnis: { offset: ~292000, chars: ~65000, title: "图片索引 + 图说(本卷略)" }
+  total_chars: 357185
+
+# Pikler 独家命题(本书 vs 现库 16 派对照)
+pikler_unique_themes:
+  - bewegungsentwicklung_natural: "自然大动作发展(Bewegungsentwicklung) — Pikler 派根源,Magda 命名 Educaring 之前的德文版"
+  - 7_8_milestones_table: "7-8 阶段大动作里程碑表 — 比 WHO 4 阶段精细,vs 现代鼓励训练"
+  - no_teaching_motor: "三不:不教翻身 / 不教坐 / 不教站 — 全部自然到时间发生"
+  - no_propping_8_reasons: '不撑坐 8 理由原始论证(1969 德文版)— Lansbury Ch7 Sitting Babies Up 引用根源'
+  - supine_optimal_position: "仰卧位最佳起点 — 出生起到能自己翻才换姿势"
+  - loczy_1946_protocol: "Lóczy 研究所 1946 规程 — 0-3 孤儿 1:1 nurse + Pflege 全注意"
+  - pflege_vs_spiel: "Pflege(护理)vs Spiel(玩耍)二分 — Magda Selective Attention 源"
+  - 30_year_720_babies_study: "30 年家庭儿科 + Lóczy 720 婴儿大动作发育统计(原始数据)"
+  - beobachten_ohne_eingreifen: "Beobachten ohne Eingreifen(观察不干预)— Magda Lansbury wait 哲学起源"
+  - geduld_grundprinzip: "Geduld(耐心)是 Pikler 最强育儿原则 — 大人节奏 vs 孩子节奏"
+  - selbstandig_freies_spiel: "Selbstständig(自主)+ freies Spiel(自由玩) — Magda uninterrupted play 源"
+  - anti_baby_walker_anti_bumbo: "反学步车(Lauflerngerät)+ 反 Bumbo + 反一切"撑物" — Pikler 立场源头"
+  - keine_sauberkeitserziehung: "不便盆训练(Sauberkeitserziehung)— 强迫成创伤"
+  - finger_lutschen_gesund: "吸大拇指是健康自我安抚 — 不强戒"
+  - kein_kindersport_kein_babyturnen: "反所有运动训练 / 婴儿体操 / 早期游泳课 — 干扰自然"
+
+# 立场对照(Pikler vs 现有 SRC)— 师承对接是本卷硬指标
+relationship_to_gerber:
+  description: "Pikler(SRC-026 师承根源)→ Gerber(SRC-021/022 RIE 创始人)直接师承"
+  shared:
+    - "自然大动作发展(Magda 整章 Ch7 复述)"
+    - "不撑坐 / 不竖抱 / 不抱起立"
+    - "Pflege vs Spiel(Magda 命名 Selective Attention 即此)"
+    - "Loczy 是 Magda Educaring 哲学根基(SRC-022 Ch2 全章讲 Loczy 故事)"
+    - "观察不干预(Magda 重命名 Sensitive Observation)"
+  source_relationship:
+    - "Magda 1946 跟 Pikler 工作 → 1956 移民美国 → 1978 创 RIE"
+    - "Magda 名言:'我所有都来自 Pikler' (verbatim)"
+    - "RIE Basic Principles 7 条直接对应 Pikler 章节"
+  expected_overlap_in_cards: "Pikler ↔ Gerber related ≥ 70%(师承直接对接)"
+
+relationship_to_lansbury:
+  description: "Pikler(SRC-026 根源)→ Lansbury(SRC-019 推广人)隔代传承"
+  shared:
+    - "Lansbury Ch7 不撑坐 8 理由 = Pikler 1969 原版"
+    - "Lansbury 7 myths independent play(Ch15)= Pikler freies Spiel"
+    - "Magic word wait = Pikler Geduld + Beobachten"
+  source_relationship:
+    - "Lansbury 师承 Magda Gerber,Pikler 是隔代师祖"
+    - "Lansbury 60+ 处提 Magda → 30+ 处追溯到 Pikler"
+  expected_overlap_in_cards: "Pikler ↔ Lansbury related ≥ 60%(隔代但密切)"
+
+relationship_to_lillard_davies:
+  description: "Pikler(SRC-026)vs 蒙氏 0-3(Lillard SRC-016 / Davies SRC-014)邻近派"
+  shared:
+    - "floor bed(Pikler 1946 起源 → 蒙氏 0-3 借用)"
+    - "婴儿是主动学习者(Active Learner)"
+    - "准备好的环境(prepared environment / yes space)"
+    - "0-3 是奠基期"
+  divergence:
+    - "Pikler 更强调身体大动作 + 不打扰"
+    - "蒙氏更强调认知教具 + practical life"
+    - "Pikler 反对所有运动训练 vs 蒙氏支持 practical life 锻炼"
+
+relationship_to_bowlby_ainsworth:
+  description: "Pikler(SRC-026)vs Bowlby + Ainsworth(SRC-011/012/017/023)依恋派"
+  shared:
+    - "0-3 母婴关系是发展核心"
+    - "敏感回应促安全依恋"
+    - "长期机构婴儿数据(Pikler Loczy + Bowlby V2 ICRC)"
+  complement:
+    - "Bowlby 给 attachment 进化框架"
+    - "Pikler 给 attachment 实操规程(1:1 nurse + 全注意 Pflege)"
+    - "二人是同代欧洲专家,数据互证"
+
+relationship_to_baoxiulan_matsuda:
+  description: "Pikler(SRC-026 反训练)vs 鲍秀兰 + 松田(中日鼓励训练派)"
+  divergence:
+    - "中国主流'4 月翻 / 6 月坐 / 9 月爬'训练表 vs Pikler 全部自然"
+    - "鲍秀兰婴儿体操 / Tummy Time / 训练抓握 vs Pikler 全反"
+    - "松田部分支持空气浴 + 自由活动 vs Pikler 完全自由"
+    - "中国'撑坐看世界'高频 vs Pikler 8 理由严反"
+  shared_with_matsuda:
+    - "不焦虑育儿 / 信任孩子(松田 SRC-024 § 1 跟 Pikler 一致)"
+    - "反鼓励训练在 Pikler-松田这条线上有共鸣(松田更温和 + 部分妥协)"
+
+relationship_to_aap_brazelton:
+  description: "Pikler(SRC-026)vs AAP + Brazelton(SRC-002/010 美国主流)"
+  shared:
+    - "Brazelton NBAS 婴儿能力(婴儿主动 = Pikler Aktiv)"
+    - "AAP 反学步车跟 Pikler 一致"
+    - "Brazelton Touchpoints 倒退期 = Pikler 过渡期"
+  divergence:
+    - "AAP 6-9 月教坐 + 9-12 月教站操作 vs Pikler 不教"
+    - "AAP Tummy Time 2026+ 推 vs Pikler 1969 反对(俯卧不利自然翻)"
+
+relationship_to_shonkoff:
+  description: "Pikler(SRC-026 1969 临床)vs Shonkoff(SRC-025 NRC 2000 综述)— 并行 session"
+  shared:
+    - "0-3 是发展奠基期"
+    - "母婴关系是核心"
+    - "Loczy 720 婴儿数据是 Shonkoff Ch9 Nurturing Relationships 引用源之一"
+  complement:
+    - "Pikler 给 1940s-60s 欧洲临床实操规程"
+    - "Shonkoff 给 2000 美国综述科学共识"
+
+relationship_to_gopnik:
+  description: "Pikler(SRC-026 1969 不教)vs Gopnik(SRC-015 摇篮里的科学家 主动学习)"
+  shared:
+    - "婴儿是主动学习者"
+    - "反早教焦虑"
+    - "信任孩子的天生能力"
+
+# 跨源关联(Pikler 是源头 → 多派引用)
+crossreferences:
+  - SRC-019_lansbury:
+      shared: "Ch7 不撑坐 8 理由(Pikler 原版)+ Ch15 7 myths play(Pikler freies Spiel)+ Magic word wait(Pikler Geduld)"
+  - SRC-021_gerber:
+      shared: "RIE 起源 + Loczy + 8 Basic Principles 哲学根基 + Antaeus(Magda 命名,Pikler 观察基础)"
+  - SRC-022_gerber_deep:
+      shared: "Educaring + Pflege/Spiel = Selective Attention 源 + Loczy 全章 Ch2"
+  - SRC-014_davies:
+      shared: "floor bed(Pikler 1946 → Davies 借用)+ observation"
+  - SRC-016_lillard:
+      shared: "0-3 奠基 + 自由 + 大动作发展(Lillard Ch X)"
+  - SRC-011_bowlby_v1:
+      shared: "0-3 母婴关系 + 安全依恋"
+  - SRC-012_bowlby_v2:
+      shared: "Loczy 长期住院婴儿数据 vs Bowlby ICRC 数据"
+  - SRC-023_ainsworth:
+      shared: "母婴敏感回应 + Pflege 全注意 = sensitive responsiveness"
+  - SRC-024_matsuda:
+      shared: "不焦虑育儿 + 反训练立场部分共鸣"
+  - SRC-025_shonkoff:
+      shared: "0-3 奠基 + Loczy 数据(Shonkoff Ch9 引)"
+      conflict: "Pikler 临床实操 vs Shonkoff 综述政策"
+  - SRC-002_aap:
+      shared: "反学步车 + 反摇晃 + 母婴关系"
+      conflict: "AAP 教坐教站 vs Pikler 全反"
+  - SRC-009_baoxiulan:
+      shared: "0-3 奠基期"
+      conflict: "鲍秀兰训练表 vs Pikler 全部自然"
+  - SRC-010_brazelton:
+      shared: "婴儿能力 NBAS + 触摸点过渡"
+
+# 评级标尺(本书)
+evidence_level_calibration:
+  A: "Pikler 30 年家庭 + 720 Loczy 婴儿统计 + 跟现代研究一致(50-60%)— 1969 立场被 70 年实证验证"
+  B: "Pikler 个人临床观察 + Loczy 数据 + 跟 Magda/Lansbury 后续验证(30-40%)"
+  C: "Pikler 独家立场跟主流稍冲突(eg 反所有运动训练)(< 10%)"
+  expected_distribution: "A 50-60% / B 30-40% / C < 10%"
+
+# 现有库的术语 / 卡片复用 + 新建
+reuse_existing_glossary:
+  - G-PERSON-Pikler         # 已建,本卷扩展加 source_id: SRC-026 + 大量 related_cards
+  - G-PERSON-Gerber         # 已建,本卷师承直系
+  - G-PERSON-Lansbury       # 已建,本卷隔代师承
+  - G-PERSON-Davies         # 已建,本卷蒙氏邻近
+  - G-PERSON-Lillard        # 已建,本卷蒙氏邻近
+  - G-PERSON-Bowlby         # 已建,本卷依恋派对照
+  - G-TERM-RIE              # 已建,Pikler 是 RIE 哲学源头
+  - G-TERM-Loczy-institute  # 已建(SRC-022),本卷扩展加 source_id: SRC-026
+  - G-TERM-floor-bed        # 已建,Pikler 1946 起源
+  - G-TERM-yes-space        # 已建(蒙氏 + RIE),Pikler 风格类似
+  - G-TERM-passive-toys     # 已建(Magda),Pikler 玩具观源
+  - G-TERM-magic-word-wait  # 已建(Lansbury),Pikler Geduld 源
+
+new_glossary_to_create:
+  - G-TERM-bewegungsentwicklung      # ⭐ Pikler 自然大动作发展核心德文
+  - G-TERM-pikler-milestones         # ⭐ Pikler 7-8 阶段大动作里程碑表
+  - G-TERM-no-propping               # ⭐ 不撑坐立场命名(独家)
+  - G-TERM-supine-position           # ⭐ 仰卧位最佳起点
+  - G-TERM-pflege-vs-spiel           # ⭐ 护理 vs 玩耍二分(德文)
+  - G-TERM-720-babies-study          # ⭐ Pikler 30 年统计原始数据
+  - G-TERM-beobachten-ohne-eingreifen # ⭐ 观察不干预德文核心
+  - G-TERM-anti-baby-walker          # ⭐ 反学步车命名(整合 Pikler/Brazelton 立场)
+  - G-TERM-geduld-pikler             # ⭐ Geduld 耐心是最强育儿(Pikler 名言)
+  - G-TERM-keine-sauberkeitserziehung # ⭐ 不便盆训练立场(德文)
+
+# Phase 10 任务范围
+phase10_target:
+  knowledge_cards: 33-37  # 内容紧凑,按需调整
+  glossary_cards: 10-11
+  segments_covered: S1-S7 全(S0/S8 跳过)
+  emphasis: S4 (6-9 月) — Pikler 主战场:不撑坐 + 大动作里程碑 + Pflege/Spiel
+  id_strategy: "Shonkoff 起点 + 30 buffer 起点(避撞 Shonkoff 实占 + 给 Shonkoff 留 30 卡余量)"
+  id_starts:
+    s0: skip   # Pikler 不涉孕期
+    s1: 894    # 864(Shonkoff)+ 30
+    s2: 832    # 802 + 30
+    s3: 835    # 805 + 30
+    s4: 834    # 804 + 30(主战场)
+    s5: 933    # 903 + 30
+    s6: 956    # 926 + 30(主战场)
+    s7: 891    # 861 + 30
+    s8: skip   # Pikler 主要 0-3
+
+# 本次特别约定
+special_notes:
+  - 德文原版 1969 — Magda Gerber 1946-1956 跟 Pikler 工作时使用此书理论的草稿版本
+  - 本卷由 Claude 翻译德文 → 中文白话(关键概念保留德文原词 + 中文翻译)
+  - 跟 Lansbury / Gerber 已有英文版本对照交叉避免误译
+  - Pikler 7-8 阶段大动作里程碑表 = Magda 红黄绿三色限度的精神源头
+  - Pflege/Spiel 二分是 Magda Selective Attention 命名前的德文版
+  - 不写 RIE 派已建概念 — 只补 Pikler 原始论证 / 数据 / 立场源头
+
+# 本卷重要立场(给 conflicts.md F 节的预定义)
+conflicts_to_record:
+  F1_pikler_vs_chinese_training:
+    - "Pikler 全部自然 vs 中国主流'4月翻6月坐9月爬12月走'训练表"
+    - "鲍秀兰 Tummy Time / 抓握训练 vs Pikler 全反"
+  F2_pikler_anti_walker_with_brazelton:
+    - "Pikler 反学步车 + Brazelton C-S3-033 反学步车 = 立场一致"
+    - "AAP 反学步车跟 Pikler 一致"
+  F3_pikler_supine_vs_aap_tummy_time:
+    - "Pikler 1969 反 Tummy Time(俯卧不利自然翻)"
+    - "AAP 2026 推 Tummy Time(防 SIDS 后 + 颈肌)"
+    - "时代差 + 立场张力(本卷不判对错,记录)"
+  F4_pikler_floor_bed_montessori_borrowed:
+    - "Pikler 1946 Lóczy floor bed → 蒙氏 0-3 借用"
+    - "现代蒙氏 0-3(Davies/Lillard)+ Pikler 共同根源"
+  F5_pikler_no_potty_training_vs_chinese:
+    - "Pikler 不便盆训练 vs 中国把屎把尿传统"
+    - "松田 1.5 岁夏天撤尿布 vs Pikler 完全不训练 = 渐进对比"
+
+referenced_by_units: []
+referenced_by_cards: []
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04
+
+notes: |
+  Phase 10 并行第二本 — Pikler《Friedliche Babys – zufriedene Mütter》(HERDER 1969)。
+
+  - OCR 已存在(.md, 7151 行 / 357K 字符 / 11 章 + 引言 + 总结 + 图说)
+  - 章节 offset 已实测确认 11 章主题分章(非月龄分章)
+  - 关键校准:本书 1969 出版,是 Magda Gerber 1946-1956 跟 Pikler 工作期间的
+    理论草稿。RIE 派(SRC-019/021/022)是英文复述 + 美国化扩展,本卷是德文原典。
+  - 实际本书核心:Bewegungsentwicklung(自然大动作)/ 不教 / 仰卧位 / Loczy 规程 /
+    Pflege vs Spiel / 30 年统计 / Geduld(耐心)
+
+  段 ID 起点(实测 Shonkoff 起点 + 30 buffer,避撞):
+  S1: 864 + 30 = 894, S2: 802 + 30 = 832,
+  S3: 805 + 30 = 835, S4: 804 + 30 = 834,
+  S5: 903 + 30 = 933, S6: 926 + 30 = 956, S7: 861 + 30 = 891
+
+  跨派对照硬指标(本卷调整版):
+  - 跨 12 派 ≥ 90%(任何 1 张含 12 派关联)
+  - 师承 ≥ 60%(Gerber/Lansbury related)— 机构数据卡(Loczy 720)豁免
+  - 立场对立处全部记 conflicts.md F1-F5 节
+
+  并行场景隔离:
+  - SRC-026(SRC-025 Shonkoff 已占)
+  - 段 ID +30 buffer(避 Shonkoff +100 起点 + 已产 10 卡范围)
+  - Phase F 索引文件全部 Edit 单点改(避免覆盖 Shonkoff session 并行更新)
+  - Phase F 启动前需 grep "SRC-025" 在 source_index.yaml 确认 Shonkoff 已写入

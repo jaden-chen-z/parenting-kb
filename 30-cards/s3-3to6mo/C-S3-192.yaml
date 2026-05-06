@@ -1,0 +1,59 @@
+card_id: C-S3-192
+stages: [S3]
+tags: [montessori, mobile, environment]
+
+front:
+  title: 蒙氏 mobile 5 阶升级
+  hook: Munari 到木质
+
+back:
+  why_matters: |
+    Lillard Ch3 详细描述蒙氏 0-5 月 mobile 升级路径(Davies 在 C-S1-189 / C-S2-130 提过,Lillard 给完整 5 阶):
+    1. **0-6 周 Munari** — 黑白几何 + 玻璃球(视觉对比训练 + 跟踪)
+    2. **5-8 周八面体**(Octahedron) — 3 个金属彩纸八面体,3 原色(色彩辨别)
+    3. **2-3 月 Gobbi** — 5 个棉线球,同色深浅渐变(细微色辨)
+    4. **3-4 月跳舞图形**(Dancers) — 金属彩纸人形,微风动(更高对比)
+    5. **4-5 月木质** — 木质形状,可抓握(从"看"转"摸")
+    每个 mobile 用 2 周左右,然后换下一个。**不是"宝宝看腻了换",是按发展阶段升级**。
+    第 4 阶后转弹簧抓握(C-S3-193)。
+    自制可以:
+    - Munari:打印黑白几何图形 + 串起来
+    - Gobbi:5 个相同球涂染色不同深浅
+    - 不需要进口 — 网上 30 块能搞定全套跟"五颜六色音乐 mobile"商业品**对立** — 那种 mobile 实际对宝宝视觉发展不友好。
+  what_to_do:
+    - 按月龄升级 mobile(不是"宝宝喜欢哪个")
+    - 每个 mobile 用 2 周,然后换
+    - 自制可以(打印 + 串起来)
+    - 别买"音乐大转盘"(过度刺激)
+    - 4 月后转弹簧抓握型
+  failure_mode: |
+    "买个进口 mobile 一劳永逸" — 反:5 阶升级是宝宝视觉发展的对应,不是"高端品就行"。
+    用商业 mobile(亮颜色 / 音乐)— 实际不能配合发展。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Lillard
+  - G-PERSON-Jessen
+  - G-TERM-prepared-environment
+  - G-TERM-absorbent-mind
+
+citation:
+  book_title_zh: "蒙台梭利从 0 岁开始"
+  book_title_en: "Montessori from the Start"
+  authors: ["Paula Polk Lillard", "Lynn Lillard Jessen"]
+  authors_zh: ["宝拉·波尔克·莉拉德", "琳·莉拉德·杰森"]
+  publisher_en: "Schocken Books"
+  year_en: 2003
+  isbn_en: "978-0-8052-1112-1"
+  location: "Ch 3 · 'Discovering the World' (mobile sequence)"
+  source_id: SRC-016
+
+unit_ids: []
+related_cards:
+  - C-S1-189       # Davies 第一个 mobile 是黑白
+  - C-S2-130       # Davies 1-3 月 mobile 升级
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

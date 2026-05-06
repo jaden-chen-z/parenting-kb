@@ -1,0 +1,41 @@
+card_id: C-S1-2208
+stages: [S1]
+tags: [skin]
+front:
+  title: 胎记 6 类区分
+  hook: 草莓蒙古要分清
+back:
+  why_matters: |
+    新生宝宝胎记常让父母吓一跳,其实大多无害自愈,但要会区分类型。
+    海蒂列 6 类:草莓状血管瘤(10% 宝宝、5-10 岁消失)、海绵状(深蓝色、更慢退)、毛细血管扩张斑(淡橙色、95% 完全退)、葡萄酒色斑(紫红、不消退、可激光改善)、咖啡牛奶斑(扁平棕、6 个以上要查)、蒙古斑(蓝灰、亚洲/非洲后裔常见、第一年退)。
+    先天性色痣大的(巨大色痣)恶变风险高、需皮肤科跟进。
+    什么时候治疗:草莓状只在反复出血/感染/影响视力等功能时治疗,大多不动。
+    定期拍照测量是简单的家庭跟踪法。
+  what_to_do:
+    - 区分 6 类 — 知道哪类自愈
+    - 草莓痣定期拍照测量记录
+    - 葡萄酒色斑/巨大色痣 → 皮肤科
+    - 咖啡牛奶斑 6 个以上 → 让医生看(神经纤维瘤排查)
+    - 别盲目要求"激光去除"小胎记
+  failure_mode: |
+    把蒙古斑误以为淤伤(尤其混血宝宝在西方就医被怀疑虐待)。
+    没识别巨大色痣高风险特征 → 错过监测时机。
+  evidence_level: B
+glossary_refs: []
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors: ["Heidi Murkoff", "Sharon Mazel"]
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh: ["莫夏迪","张敏"]
+  location: "第 4 章新生儿 · 胎记, 页 124-126"
+  source_id: SRC-040
+related_cards: []
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

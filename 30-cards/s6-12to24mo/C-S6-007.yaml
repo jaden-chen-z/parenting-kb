@@ -22,6 +22,32 @@ back:
     家中一人严一人惯 → 孩子操纵分化。
   evidence_level: A
 
+  positions:
+    issue: 3 岁孩子的体罚边界 · 大发雷霆体罚 vs 瞬间危险打手
+    views:
+      - school: 松田道雄
+        source: SRC-024
+        stance: 大发雷霆体罚是错的;但孩子做危险动作(冲马路、玩刀具)时瞬间打手作为警告有效。立场分情境。
+      - school: Lansbury / RIE
+        source: SRC-019
+        stance: 温柔而坚定的限度,完全不打。任何体罚(包括瞬间打手)都破坏信任与自我调节学习。
+      - school: Bowlby
+        source: SRC-011
+        stance: secure attachment 派完全反对体罚;依恋安全是学龄前儿童最优先的发育基础。
+      - school: AAP
+        source: SRC-004
+        stance: 完全反对体罚 — 2018 政策声明明确指出体罚对儿童心理发展有害,无任何益处。
+      - school: Shonkoff / NRC
+        source: SRC-025
+        stance: 完全反体罚 — cortisol 累积损伤前额叶皮层(PFC),与儿童反社会行为正相关。
+      - school: 鲍秀兰
+        source: SRC-009
+        stance: 反对打孩子,主张正面管教;在中国本土实证派中是少有的明确反体罚立场。
+      - school: 海蒂
+        source: SRC-040
+        stance: 管教 ≠ 体罚 — 10 月起步用其他管教法。美国主流大众派背书,降低中国家长"反体罚 = 西式精英"偏见。
+      - school: 中国传统
+        stance: '"棍棒底下出孝子" / "不打不成器" — 体罚被视为负责任管教的一部分。'
 glossary_refs:
   - G-PERSON-Bao
 

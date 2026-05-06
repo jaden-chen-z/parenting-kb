@@ -1,0 +1,82 @@
+card_id: C-S8-NEW-ANTI-EARLY-EDU
+stages: [S8]
+tags: [meta_cross, anti_early_education, controversy, philosophy]
+
+front:
+  title: 反早教焦虑 5+派对照
+  hook: 莫扎特效应 是骗局, 别赢起跑线
+
+back:
+  why_matters: |
+    前情:中国家长 3-6 岁是"幼小衔接"焦虑高峰 — 闪卡/双语/Mozart 胎教/早识字/拼音班/数学班。
+    跨 5+ 派(神经科学 + 认知心理 + 蒙氏 + 临床 + 元理论)合声反对。
+
+    **5+ 派立场**:
+    - **NRC Shonkoff(SRC-025)**:4 定理(C-S0-619)— "脑发育不需要专门刺激,普通陪伴就够";学龄前 5 项准备(C-S8-213)— 自我调节 / 社交 > 早学拼音
+    - **Gopnik(SRC-015)**:莫扎特效应 是骗局(C-S7-125)+ 闪卡 无用(C-S7-126)+ 教学悖论(教越多效果越差)+ 突触修剪不是损失(C-S7-127)
+    - **Lillard 蒙氏(SRC-016)**:反主动教学,主张 预备环境 + 观察(C-S7-126 联手 Gopnik)
+    - **Brazelton(SRC-010)**:3 岁前别教读写 + Erikson "emotional 比 cognitive 重要"(C-S7-020)
+    - **Lerner V1 Baltes(SRC-030)**:可塑性 70+ 岁,6 岁不是命运分水岭(C-S0-1513-1514 / C-S8-1135)
+    - **Lerner V4 NAEYC(美国幼教协会) Bredekamp(SRC-029 C-S6-1392)**:反学业前移 — 行业标准
+    - **Lerner V4 Paris 阅读 5 要素(SRC-029 C-S8-731)**:反"早识字就好"— 真正阅读 5-7 岁稳
+    - **Lerner V2 Geary(SRC-028 C-S8-422)**:中国孩子算数早是因为词,不是因为聪明
+    - **海蒂(SRC-040 C-S8-103)**:4 岁不必硬教认字 — 中道立场
+    - **松田 1980(SRC-024 C-S8-104)**:反 IQ 测试,反早教 — 6 派+1 大 popular book
+
+    **共同核心论点**:
+    1. 0-6 岁脑发育不需要"专门刺激"— 普通互动 + 自由玩 + 户外 + 阅读已足
+    2. "Mozart 胎教" / 闪卡 / 双语早教 = 营销神话
+    3. 早识字早学不是优势 — 5-7 岁开始反而更稳更可持续
+    4. 6 岁不定终身 — Baltes 60+ 年纵向数据反"6 岁分水岭"
+    5. 应该投入的是:自我调节 + 自我效能 + 关系品质 + 韧性 — 这些 SEL 能力比 IQ 强 50% 预测成年幸福
+    6. 中国早教焦虑(80% 用于学业前移)= 营销 + 文化竞争产物,不是发展心理学结论
+
+  what_to_do:
+    - 不报闪卡班 / Mozart 班 / 早识字班 / 思维班 / 双语早教班(< 4 岁)
+    - 替代:每天 30 分钟亲子阅读 + 户外 1-2 小时 + 自由玩(5+ 派一致)
+    - 家庭对话(不是教学)— Hart-Risley 30M words gap 数据(C-S6-926)
+    - 5 岁开始可引入 SEL 能力训练(自察/自管/社察/关系/决策)
+    - 上学前最重要 5 项:遵规则/与人合作/独立做事/坚持完成/语言表达(NRC C-S8-213)
+
+  failure_mode: |
+    "我家娃没上早教班会落后" — 5 派一致反:0-6 岁专门刺激无效,有时反害(注意力短期化)。
+    "上幼小衔接班拼音班数学班" — 真正阅读 5-7 岁稳,2-4 岁强教 = 可能伤兴趣 + 强化非学习信号。
+    "中国国情" — 5 派包括日本 popular book 海蒂 + 松田都反 — 不是西方vs中方,是发展心理学共识。
+    陷入"我懒了我家娃就输了"焦虑 — 这是营销话术不是科学。
+
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Shonkoff
+  - G-PERSON-Gopnik
+  - G-PERSON-Baltes
+  - G-PERSON-Lillard
+  - G-TERM-mozart-effect
+
+citation:
+  source_id: META-CROSS
+  primary_sources: ["SRC-010 Brazelton", "SRC-015 Gopnik", "SRC-016 Lillard", "SRC-024 松田", "SRC-025 NRC", "SRC-028 Lerner V2", "SRC-029 Lerner V4", "SRC-030 Lerner V1", "SRC-040 海蒂"]
+  location: "META-CROSS hub 卡 — 5+ 派反早教焦虑立场整合"
+
+unit_ids: []
+related_cards:
+  - C-S0-619    # NRC 4 定理(原引 C-S0-619 已 merged_into 619)
+  - C-S0-1513   # Baltes plasticity
+  - C-S6-1392   # NAEYC 反学业前移
+  - C-S6-1503   # Baltes plasticity 70+ 岁
+  - C-S7-020    # Brazelton 3 岁前别教读写
+  - C-S7-125    # Gopnik Mozart effect 骗局
+  - C-S7-126    # Gopnik 反 flash cards
+  - C-S7-127    # Gopnik 突触修剪不是损失
+  - C-S8-103    # 海蒂 4 岁不必硬教认字
+  - C-S8-104    # 松田 反 IQ 测试
+  - C-S8-213    # NRC 学龄前 5 项准备
+  - C-S8-216    # NRC 5 句话总结
+  - C-S8-422    # Geary 中国早算数是词
+  - C-S8-731    # Paris 阅读 5 要素
+  - C-S8-1135   # Baltes 6 岁不是命运
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

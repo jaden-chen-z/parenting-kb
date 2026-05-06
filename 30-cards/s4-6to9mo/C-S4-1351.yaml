@@ -1,0 +1,75 @@
+card_id: C-S4-1351
+stages: [S4]
+tags: [cultural, greenfield, infant, lerner_v4]
+
+front:
+  title: 6-9 月喂养跨文化
+  hook: 6-9 月喂养文化
+
+back:
+  why_matters: |
+    Greenfield V4 Ch 17(6-9 月辅食喂养跨文化)。
+    **6-9 月辅食 4 大文化分歧**:
+    - **何时开始**:6 月(WHO 推荐)vs 4 月(传统)
+    - **谁喂**:妈喂 vs 多人喂
+    - **哺乳期**:< 1 年(美式)vs 2+ 年(WHO + 传统)
+    - **食物**:固体优先 vs 流食优先
+    **Greenfield 立场反"美式标准"**:
+    - 不同文化都健康
+    - 母乳 2+ 年是最佳实践(WHO)
+    - 多人喂没问题
+    - "美式 1 年断奶"不是金标准
+    **WHO 标准**:
+    - 母乳 ≥ 6 月纯母乳
+    - 6-12 月母乳 + 辅食
+    - 12-24 月母乳是营养主体
+    - **2 年是底线** 不是上限
+    **反 4 误区**:
+    - ❌ "1 年必须断奶"(WHO 反对)
+    - ❌ "妈乳水到 1 年没营养"(反例)
+    - ❌ "辅食越早越好"(< 6 月不优)
+    - ❌ "美式喂养金标"(文化盲点)
+    **实证**:
+    - 长期母乳:免疫 + 智力 + 情绪
+    - 多人喂:社交早起
+    - 这两个传统中国 / 日本 / 拉丁都有跟现库:跟 C-S0-1238 Greenfield 5 维度 + 松田 §256 (SRC-024)+ AAP 母乳(SRC-006)对接。
+    对中国家长意义:
+    - 6-9 月辅食跟文化走
+    - 母乳 2 年是 WHO 标准
+    - 多人喂没问题
+    - 不必"美式断奶时间"焦虑
+  what_to_do:
+    - 6-9 月辅食跟文化
+    - 母乳 2 年是 WHO 标准
+    - 多人喂没问题
+    - 不必美式断奶焦虑
+  failure_mode: |
+    "1 年必断奶"— 错。WHO 推 2+ 年。
+    "晚母乳没营养"— 错。反例。
+    "美式喂养金标"— 错。文化盲点。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Greenfield
+  - G-TERM-cultural-pathways
+  - G-TERM-WHO-feeding
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 4 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 4 卷"
+  authors: ['Patricia M. Greenfield', 'Lalita K. Suzuki', 'Carrie Rothstein-Fisch']
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 17 · Greenfield · 6-9mo feeding cultural diversity · pp. 670-680"
+  source_id: SRC-029
+
+unit_ids: []
+related_cards:
+  - C-S0-1238     # Greenfield 5 维度
+  - C-S2-1342     # V4 1-3 月节律
+  - C-S6-670     # 松田 §256 不强制断奶
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

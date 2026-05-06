@@ -1,0 +1,37 @@
+glossary_id: G-TERM-chicago-cpc
+type: term
+display_name: CPC 芝加哥亲子中心
+
+en_term: Chicago Child-Parent Centers
+zh_term: CPC 芝加哥亲子中心
+
+one_liner: |
+  Reynolds 1967+ 美国第二大早教项目。0-9 岁连续 + 父母参与 + 学业准备。25 年长效 RCT。
+
+detail: |
+  ## 定义
+  Reynolds 1967+ 美国第二大早教项目。0-9 岁连续 + 父母参与 + 学业准备。25 年长效 RCT。
+
+  ## V4 出处
+  Lerner Handbook of Child Psychology Vol 4 (Wiley 2006 第 6 版)反复引用。
+
+  ## 跨派对接
+  V4 综述权威立场,跨章节多次出现,跟现库其他派有立场对照。
+
+  ## 中国家长意义
+  详见相关知识卡。
+
+key_facts:
+  - "Lerner V4 反复引用术语"
+  - "应用心理学综述权威定义"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-029
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

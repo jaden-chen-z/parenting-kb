@@ -1,0 +1,62 @@
+card_id: C-S2-833
+stages: [S2]
+tags: [pikler, mother-child-bond, source-de]
+
+front:
+  title: "爱要恒温不忽冷忽热"
+  hook: "不冷不热,中道恒温"
+
+back:
+  why_matters: |
+    Pikler 1969 Ch4 比喻 — 母婴关系应该像"舒服恒温的水浴"(angenehmes, gleichmäßiges, warmes Bad):
+    持续 / 均匀 / 温暖,不冷不热不变。
+
+    1-3 月最关键 — 婴儿建立"基础信任"(Erikson basic
+    trust + Bowlby secure base 同代欧洲共识)。
+
+    两种坏模式都伤:
+    - 冷淡型:只满足吃喝拉撒,不看不抱不说话
+    - 过度型:亲戚轮抱 / 一直逗 / 玩具不停切换后果都是婴儿不平静 — 持续哭闹 / 不睡 / 焦躁。
+    Pikler 中道:温暖 + 持续在场 + 但不刺激。
+
+  what_to_do:
+    - 护理时全注意 — 看着眼睛 + 简单说话 + 慢动作
+    - 玩时观察 — 不打断不替做不切换玩具
+    - 让宝宝知道大人在(声音 / 视野内 / 温度)
+    - 1-3 月不亲戚轮抱(打破恒温,宝宝难适应)
+    - 节奏稳定 — 喂 / 睡 / 玩有大致顺序(不必表)
+
+  failure_mode: |
+    "我又上班又带娃做不到全注意吧" → Pikler 立场:
+    每天 1-2 小时全注意护理(换尿 / 喂 / 洗澡)就够建立基础信任。"全注意"指质量,不指时长。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Pikler
+  - G-TERM-pflege-vs-spiel
+  - G-TERM-attachment
+  - G-TERM-basic-trust
+
+citation:
+  book_title_de: "Friedliche Babys – zufriedene Mütter"
+  book_title_zh: "和平的婴儿 — 满足的母亲"
+  authors:
+    - Emmi Pikler
+  publisher_de: HERDER (HERDER / SPEKTRUM Band 4141)
+  year: 1969
+  location: "Ch4 Verhältnis von Mutter und Kind pp. 58-62"
+  source_id: SRC-026
+
+unit_ids: []
+related_cards:
+  - C-S2-347  # Gerber 全注意才叫共度(本卷源头)
+  - C-S0-167  # Magda 7 大育儿原则
+  - C-S2-292  # Ainsworth 敏感回应(同代依恋)
+  - C-S2-261  # Bowlby 安全基地
+  - C-S1-353  # Lansbury 尿布换 = 连接仪式
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

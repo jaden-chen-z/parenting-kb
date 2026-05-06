@@ -1,6 +1,6 @@
 card_id: C-S1-046
 stages: [S1]
-tags: [controversy]
+tags: [controversy, safety]
 
 front:
   title: 都试过不行,放婴儿床让他哭
@@ -20,7 +20,7 @@ back:
     - 同时大人去冷静 10-15 分钟(C-S1-049)
     - 这只是某次应急,不等于 cry-it-out 训练
   failure_mode: |
-    觉得让宝宝哭就是失职硬撑 → 大人崩溃风险升 → SBS 风险升。
+    觉得让宝宝哭就是失职硬撑 → 大人崩溃风险升 → SBS(摇婴综合征) 风险升。
     在沙发上让他哭 → 沙发睡 SIDS 风险 67 倍。
   evidence_level: A
 

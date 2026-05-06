@@ -23,6 +23,23 @@ back:
     抽烟者偶尔同床 → 风险叠乘极高,致死案例不少。
   evidence_level: A
 
+  positions:
+    issue: 同床 vs 同房不同床 · 何时安全 · SIDS 风险 · 分龄差异
+    views:
+      - school: Karp
+        source: SRC-003
+        stance: 在 10 步安全协议下可同床(无烟酒、硬床垫、无松软被等);否则不建议。
+      - school: AAP
+        source: SRC-004
+        stance: 严禁 bed-sharing。推荐同房不同床(共室不共床)到 6 月,可降 SIDS 50%。
+      - school: Brazelton
+        source: SRC-010
+        stance: 不给统一指南,视家庭文化决定;睡眠安排是亲子关系的反映,无单一正确答案。
+      - school: 松田道雄
+        source: SRC-024
+        stance: 分龄立场 — 3 月内禁同床(母乳房压窒息风险);8 月后可同床(寒冷季节实用,母乳更增多)。
+      - school: 中国传统
+        stance: 普遍同床(便于喂奶 / 保暖 / 安抚),无明确安全协议;部分家庭长期同床至学龄。
 glossary_refs:
   - G-ABBR-SIDS
   - G-ABBR-AAP

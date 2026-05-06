@@ -1,0 +1,67 @@
+card_id: C-S0-1235
+stages: [S0]
+tags: [DAP, hyson, preschool, lerner_v4]
+
+front:
+  title: DAP 反学业前移
+  hook: DAP 反学业前移
+
+back:
+  why_matters: |
+    Hyson-Copple-Jones V4 Ch 1 早期教育综述章(NAEYC(美国幼教协会) 标准代言)。
+    **DAP(Developmentally Appropriate Practice)4 原则**:
+    - **基于发展知识**:孩子能干啥不能干啥
+    - **基于个体差异**:同龄孩子差异大,不能一刀切
+    - **基于文化语境**:中产白人课程对移民家失效
+    - **基于学习领域**:认知 + 社会 + 动作 + 情绪并重
+    **反学业前移**(本卷反复立场):
+    - 5 岁不该练写字 / 不该背 100 词
+    - 学业任务后置,游戏 + 探究前置
+    - 美国 90 年代以后学业前移现象 NAEYC(美国幼教协会) 反复批评意义:
+    - 反"5 岁不识字就晚了"
+    - 反"幼儿园应该当小学过"
+    - 游戏 + 探究 = 学习
+    - 中国"学龄前学拼音"是被 V4 直接反驳跟现库:跟 Lillard Montessori(SRC-016)+ Lansbury(SRC-019)+ 松田反早教(SRC-024)对接。
+    跟 V2 认知卷的 Spelke / Karmiloff-Smith 实证对接。
+    对中国家长意义:
+    - 5 岁不该练拼音 / 字 / 算
+    - 玩 + 问 + 探索 = 学习
+    - 上小学前压力越大反而越糟
+    - 选游戏园不选学业园
+  what_to_do:
+    - 5 岁不练拼音算字
+    - 玩+问+探索就是学
+    - 不选学业型幼儿园
+    - 别提前小学化
+  failure_mode: |
+    "5 岁不识字晚了"— 错。学业前移有害。
+    "幼儿园当小学过"— 错。DAP 反对。
+    "玩不算学习"— 错。游戏+探究是核心学习。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Hyson
+  - G-PERSON-Copple
+  - G-PERSON-Bredekamp
+  - G-TERM-DAP
+  - G-TERM-NAEYC
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 4 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 4 卷"
+  authors: ['Marilou Hyson', 'Carol Copple', 'Jacqueline Jones']
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 1 · Hyson · DAP overview · pp. 3-15"
+  source_id: SRC-029
+
+unit_ids: []
+related_cards:
+  - C-S0-619     # Shonkoff 反早教 4 定理
+  - C-S0-517     # 松田不焦虑育儿
+  - C-S0-722     # Eisenberg 应用研究
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

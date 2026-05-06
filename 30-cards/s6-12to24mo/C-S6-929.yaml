@@ -1,0 +1,66 @@
+card_id: C-S6-929
+stages: [S6]
+tags: [shonkoff, nrc, empathy_age2, prosocial, china_high_freq]
+
+front:
+  title: "2 岁起会安慰人"
+  hook: "他会主动给你抱抱"
+
+back:
+  why_matters: |
+    NRC 综述 Ch 5 引 Zahn-Waxler 经典 — empathy 共情发展时间线:
+    **关键发展**(NRC 综述):
+    - **1 岁前**:看到人哭会跟着哭(情绪传染,不是共情)
+    - **12-18 月**:开始尝试安慰(给玩偶 / 摸 / 说什么)
+    - **24 月**:**真正共情** — 不只情绪传染,还会主动帮人
+    - **24-36 月**:能调整自己行为响应别人情绪
+    - **3-6 岁**:理解他人感受 + 假装情绪
+    **Zahn-Waxler 实验**:
+    - 妈装哭 → 18 月宝宝看
+    - 15-18 月一些宝宝拿玩具递给妈
+    - 24 月宝宝主动抱 + 摸 + 说"妈妈不哭"
+    **NRC 立场**:
+    - 共情**不是教**出来的 — 是发展自然出现
+    - 但**安全依恋的孩子共情发育更早 + 更深**
+    - 经常被忽视的孩子 → 共情发育延迟
+    - 经常被打骂的孩子 → 共情转化为恐惧 / 顺从而不是真正理解
+    **对中国家长**:
+    - 18 月前别强教"分享 / 安慰"
+    - 24 月起会自然出现共情 — 鼓励但不强迫
+    - 你共情他 → 他学共情你
+    - 别说"你怎么没安慰妈妈呢" → 反让共情焦虑化跟 Stern subjective self + Lillard 蒙氏 grace and courtesy 一致。
+  what_to_do:
+    - 18 月前别强教分享
+    - 你示范共情他学
+    - 24 月鼓励但不强迫
+    - 别羞辱"没安慰我"
+    - 信发展自然程序
+  failure_mode: |
+    "他怎么这么自私" — 18 月前共情还没发育成熟 — 不是性格。
+    "我得教他分享 / 礼貌" — 强教 → 表面顺从,内里没真正共情。
+    "他打了别人 — 必须道歉" — 2 岁前还不理解"道歉"的内心层 — 仪式空壳。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Shonkoff
+  - G-TERM-empathy
+  - G-TERM-NRC
+
+citation:
+  book_title_en: "From Neurons to Neighborhoods"
+  authors: ["Jack P. Shonkoff", "Deborah A. Phillips"]
+  org: "NRC/IOM"
+  year_en: 2000
+  location: "Ch 5 · Zahn-Waxler empathy development"
+  source_id: SRC-025
+
+unit_ids: []
+related_cards:
+  - C-S6-928    # Shonkoff tantrum PFC(本卷)
+  - C-S7-249    # Stern verbal self SRC-018
+  - C-S6-396    # Lansbury 共情语调 SRC-019
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

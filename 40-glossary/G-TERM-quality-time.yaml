@@ -1,0 +1,74 @@
+glossary_id: G-TERM-quality-time
+type: term
+display_name: Quality Time(全注意时段)
+
+full_name_en: Quality Time
+full_name_zh: 全注意时段(玛格达定义)
+
+one_liner: |
+  Magda Gerber 重新定义的术语:
+  不是"亲子互动",是**全部注意力给孩子那刻**。
+  几分钟全注意 > 几小时心不在焉。
+  护理时段(尿布 / 喂 / 洗 / 抱)= 自然 quality time。
+
+detail: |
+  ## 跟传统的"亲子时间"不同
+
+  | 传统亲子时间 | Magda Quality Time |
+  |---|---|
+  | 量长(2 小时一起) | 量短(5-15 分钟全注意) |
+  | 物理在身边 | 注意力在他身上 |
+  | 一边做事 | 不分心 |
+  | "陪着" | "全部在" |
+
+  ## Magda 的两关键句
+  - "几分钟全注意,胜过几小时心不在焉"
+  - "Quality 优于 Quantity"
+
+  ## Quality Time 的具体形式
+  1. **护理时段**(尿布 / 喂 / 洗) — 天然就是 QT,因为有理由全注意
+  2. **观察时段** — 坐边上看他玩,不指挥
+  3. **共读时段** — 你身体放下手机
+  4. **专门陪玩时段** — 1 对 1,他主导
+
+  ## 不算 Quality Time 的:
+  - 一边抱一边刷手机
+  - 一边推车一边讲电话
+  - 一边背着他做饭一边"哎对你乖"
+  - 一边看电视一边把他放腿上
+
+  ## 神经科学证据
+  Stern《婴儿人际世界》(SRC-018)affective attunement 概念一致:
+  孩子能感觉到注意力是否真的对准。
+
+  ## 在家忙时如何提供 QT
+  - 计划 1 天 2-3 个 5-15 分钟"完全在"窗口
+  - 这些窗口手机放别屋
+  - 跟伴侣轮班"全注意"职责
+
+key_facts:
+  - Magda Gerber 1998 重定义
+  - 不是时间长,是注意力专注
+  - 护理时段是天然 QT
+  - 几分钟全注意 > 几小时分心
+
+related_glossary:
+  - G-PERSON-Gerber
+  - G-PERSON-Stern
+  - G-TERM-RIE
+  - G-TERM-affective-attunement
+  - G-TERM-active-participant-caregiving
+
+related_cards:
+  - C-S2-347
+  - C-S3-352
+  - C-S1-406
+
+sources:
+  - source_id: SRC-022
+  - external: Magda Gerber《Your Self-Confident Baby》Ch3
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

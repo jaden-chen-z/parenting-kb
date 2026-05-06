@@ -1,6 +1,6 @@
 card_id: C-S5-071
 stages: [S5]
-tags: []
+tags: [philosophy]
 
 front:
   title: B 安全型 ~60-65%
@@ -43,7 +43,7 @@ citation:
   year_en: 1969
   year_zh: 2017
   isbn: "978-7-5192-2927-6"
-  location: "第十六章 依恋的模式和影响因素(B 型被划为安全依恋的婴儿在大部分样本中都占据大多数 / Ainsworth et al. 1978 / Sroufe 1979 5 岁纵向)"
+  location: "第十六章依恋的模式和影响因素(B 型被划为安全依恋的婴儿在大部分样本中都占据大多数 / Ainsworth et al. 1978 / Sroufe 1979 5 岁纵向)"
   source_id: SRC-011
 
 unit_ids: []

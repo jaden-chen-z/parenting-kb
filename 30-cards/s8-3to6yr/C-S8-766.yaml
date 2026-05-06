@@ -1,0 +1,78 @@
+card_id: C-S8-766
+stages: [S8]
+tags: [mental_retardation, hodapp, williams, lerner_v4]
+
+front:
+  title: Williams 智能不均衡
+  hook: Williams 智能差
+
+back:
+  why_matters: |
+    Hodapp-Dykens V4 Ch 12(Williams 综合征案例)。
+    **Williams Syndrome**(威廉斯综合征):
+    - 基因疾病(7q11.23 缺失)
+    - IQ 平均 60-70(智力迟滞)
+    - 但**社交+音乐+语言强**
+    - **空间+数学极弱**
+    - **反"基因决定智力"立场** — 智能不均衡
+    **3 大独特特征**:
+    - **过度社交**:对陌生人异常友善(无差别)
+    - **音乐能力**:绝对音感比例高
+    - **语言成熟**:说话比同龄智力迟滞娃强很多
+    **Hodapp 干预原则**:
+    - 用强项(社交+音乐+语言)
+    - 补弱项(空间+数学)
+    - **不能用"通用智力迟滞"方法**
+    - 这就是 etiology-具体的 的典范
+    **3 大跟普通智力迟滞对照**:
+    - **唐氏综合征**:语言弱 + 社交强 + 视觉强
+    - **威廉斯综合征**:社交+语言强 + 空间+数学极弱
+    - **自闭谱系**:社交弱 + 视觉强 + 模式识别强
+    - **3 类完全不同 → 不同干预**
+    **反 3 误区**:
+    - ❌ "智力迟滞都一样"(病因决定)
+    - ❌ "Williams 娃看起来正常社交所以没问题"(空间数学需特别帮)
+    - ❌ "通用方法就行"(无效)
+    跟现库:跟 V4 Hodapp 病因特定(C-S8-741)+ V2 Karmiloff-Smith RR(C-S8-424)+ V3 Caspi 人格(C-S7-997)对接。
+    对中国家长意义:
+    - 不"通用智力迟滞"方法
+    - 找病因特定干预
+    - Williams 娃要补空间+数学
+    - 唐氏 vs Williams vs 自闭谱完全不同
+  what_to_do:
+    - '不"通用智力迟滞"方法'
+    - 找病因特定干预
+    - Williams 补空间+数学
+    - 3 类完全不同方法
+  failure_mode: |
+    "智力迟滞都一样"— 错。病因决定。
+    "Williams 看起来 OK"— 错。空间需补。
+    "通用方法行"— 错。无效。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Hodapp
+  - G-PERSON-Dykens
+  - G-TERM-etiology-specific
+  - G-TERM-williams-syndrome
+  - G-TERM-down-syndrome-strengths
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 4 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 4 卷"
+  authors: ['Robert M. Hodapp', 'Elisabeth M. Dykens']
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 12 · Hodapp-Dykens · Williams syndrome case · pp. 470-485"
+  source_id: SRC-029
+
+unit_ids: []
+related_cards:
+  - C-S8-741     # V4 Hodapp 病因特定
+  - C-S8-424     # V2 Karmiloff-Smith RR
+  - C-S7-997     # V3 Caspi 人格
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

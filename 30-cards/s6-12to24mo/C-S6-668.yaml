@@ -1,0 +1,48 @@
+card_id: C-S6-668
+stages: [S6]
+tags: [property, sharing, anti-share-pressure]
+
+front:
+  title: 1.5-2 岁物权意识强
+  hook: 别强迫娃"分享"
+
+back:
+  why_matters: |
+    松田说:1.5-2 岁孩子,"这东西是我自己的"意识十分强烈。
+    别的孩子摸自己娃娃/玩具,会非常生气并使劲抱住不放。
+    这是发展正常,不是"自私"。强迫分享 → 物权未建立就被剥夺。
+    中国家长爱说"给弟弟妹妹玩"压力娃,反误自我建立。
+  what_to_do:
+    - 接受 1.5-2 岁强物权
+    - 别强迫分享自己玩具
+    - 邻居娃来玩前收起娃最爱的
+    - 教娃"问能不能玩"代替强夺
+    - 3 岁后再谈分享
+  failure_mode: |
+    妈逼娃"给妹妹玩" → 娃哭闹 + 物权失控 + 后续越发护物。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Matsuda
+
+citation:
+  book_title_zh: "定本《育儿百科》"
+  book_title_jp: "育児の百科(定本)"
+  authors: ["松田道雄"]
+  translators_zh: ["王少丽"]
+  publisher_zh: null
+  year: 1980
+  edition: "定本"
+  location: "第 360 节从 1 岁半到 2 岁"
+  source_id: SRC-023
+
+unit_ids: []
+related_cards:
+  - C-S1-611  # 自卷:老大不天然爱二宝
+  - C-S6-136  # Lansbury 老大迎二宝
+  - C-S6-298  # Stern 语言是双刃剑
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

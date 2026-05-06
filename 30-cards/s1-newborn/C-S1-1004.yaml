@@ -1,0 +1,53 @@
+card_id: C-S1-1004
+stages: [S1]
+tags: []
+
+front:
+  title: "24 小时同室"
+  hook: "同室不分离最关键"
+
+back:
+  why_matters: |
+    BFHI 第 7 步:'Enable mothers and babies to remain together 24 hours a day (rooming-in)'。
+    Rooming-in(24 小时同室)= 妈妈和娃整天整夜在同个房间,不分母婴室。
+    效果:① 妈妈识别早期信号(吸吮动作/寻乳)② 按需喂养实操 ③ 减少配方奶补充 ④ 增加 EBF 成功率 ⑤ 母婴 bonding。
+    例外:妈妈或娃需要 NICU / 严重医疗。
+    中国传统产院常规分母婴室,只哺乳时送过来 → 跟 BFHI 第 7 步对立。
+  what_to_do:
+    - "选产院问 '24 小时同室还是分母婴室'"
+    - "分母婴室 → 立刻要求改 24 小时同室"
+    - "晚上累 → 让爸爸或家人帮换尿布,妈妈休息但娃不分离"
+    - "看医学指征(NICU)分离是必要的 — 别强求"
+    - "出院前跟产院明确这点(写入分娩计划)"
+  failure_mode: |
+    接受'母婴室分开睡你休息好'话术 → 错过早期信号识别 + 母乳建立慢。
+    累一点但娃留身边,长远母乳建立更快。
+  evidence_level: A
+
+glossary_refs:
+  - G-TERM-rooming-in
+  - G-ABBR-BFHI
+
+citation:
+  page_title: "BFHI Step 7"
+  publisher: "World Health Organization & UNICEF"
+  page_url_primary: https://www.who.int/teams/nutrition-and-food-safety/food-and-nutrition-actions-in-health-systems/ten-steps-to-successful-breastfeeding
+  accessed: 2026-05-04
+  language: en
+  location: "BFHI 第 7 步:24 小时同室 + 母婴 bonding"
+  source_id: SRC-031
+
+unit_ids: []
+related_cards:
+  - C-S1-1002
+  - C-S1-1005
+  - C-S1-1003
+  - C-S1-001
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_doc_id_pending: D1
+citation_followup_needed: '已映射真实 doc_id (D1 = WHO IYCF Fact Sheet)'

@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Buriel
+type: person
+display_name: "Buriel(雷蒙德·布里埃尔)"
+
+full_name_en: "Raymond Buriel"
+full_name_zh: "雷蒙德·布里埃尔"
+
+position: |
+  Pomona College 心理学教授
+
+contribution: |
+  族群家庭社会化 + 跨文化育儿;Parke 合作者
+
+one_liner: |
+  雷蒙德·布里埃尔 — 族群家庭社会化 + 跨文化育儿;Parke 合作者
+
+key_facts:
+  - "本卷章节:Ch 8"
+  - "Lerner V3 命中:30 次"
+  - "学派:Lerner V3 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-027
+    chapter: "Ch 8"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

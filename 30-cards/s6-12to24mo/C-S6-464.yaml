@@ -1,0 +1,55 @@
+card_id: C-S6-464
+stages: [S6]
+tags: [behavior, self-regulation]
+
+front:
+  title: "撞头摇晃是自我调节"
+  hook: "他用身体降焦虑感"
+
+back:
+  why_matters: |
+    Magda Ch8 立场:
+    撞头 / 摇晃 / 重复挑塞 = 幼儿的**自我安抚**做法。
+    他用身体律动消化未知 + 紧张 + 累。
+    不是病,不要强行阻 — 你阻这个他换别的。
+    Magda 预防:在床上加防撞条 / 软包,但不强行抱住制止。
+    跟 Bowlby V2 attachment behaviour 自调一致。
+
+  what_to_do:
+    - 不当病看,把它当"幼儿的瑜伽"
+    - 在床上 / 撞墙处加防撞条降伤害
+    - 不抱住制止,他正在用这个调节
+    - 观察出现频率 / 强度,异常飙升才看医生
+    - 大部分 12-24 月会自然消失
+
+  failure_mode: |
+    "这肯定是自闭症 / 有问题先制止" → 强阻 = 他失去这个调节工具。
+    Magda 原话:"他在自我安抚,大人和孩子都用各种方法降焦虑"。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+
+citation:
+  book_title_en: "Your Self-Confident Baby"
+  book_title_zh: "自信的宝宝"
+  authors:
+    - Magda Gerber
+    - Allison Johnson
+  publisher_en: John Wiley & Sons
+  year: 1998
+  location: "Ch8 Headbanging, Rocking, and Repetitive Behaviors"
+  source_id: SRC-022
+
+unit_ids: []
+related_cards:
+  - C-S6-463  # Magda Antaeus(本卷)
+  - C-S5-394  # Lansbury 玩是自我治疗
+  - C-S2-185  # Lillard 完整循环活动
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

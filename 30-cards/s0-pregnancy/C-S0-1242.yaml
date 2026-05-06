@@ -1,0 +1,68 @@
+card_id: C-S0-1242
+stages: [S0]
+tags: [nfp, olds, lerner_v4, home_visiting]
+
+front:
+  title: NFP 护士家访 30 年
+  hook: NFP 护士访 30 年
+
+back:
+  why_matters: |
+    Olds NFP(Nurse Family Partnership)— 跨章引用(Ch 14 Powell + Ch 21 Ramey + Ch 13 Cicchetti)。
+    **NFP 模型**:
+    - 注册护士定期家访低收入首胎妈妈
+    - 怀孕到孩子 2 岁(~30 月)
+    - 共 ~64 次家访
+    - 教育 + 支持 + 链接资源
+    **30 年长效 RCT**(Olds 1977-2010+ 多次追踪):
+    - 母亲:就业 + 经济独立 + 不再贫穷
+    - 孩子:学业 + 健康 + 减少 50% 虐待
+    - ROI: ~5-7 倍 / 比 Head Start 早 + 强 + 持
+    **3 大成功要素**:
+    - **专业护士**(不是 paraprofessional)
+    - **早期介入**(怀孕开始)
+    - **关系导向**(护士-妈关系是介入核心)
+    意义:
+    - 早期家访 RCT 最强证据
+    - 跟 Powell 5 原则(C-S0-1233)完全一致
+    - 中国还没有类似项目,可借鉴跟现库:跟 Abecedarian(C-S0-1237)+ 鲍秀兰早期(SRC-009)对接。
+    对中国家长意义:
+    - 高风险家庭(青少年妈/移民/低收入)需要主动找资源
+    - 中国版可类比社区医生 + 月嫂 + 公益组织
+    - "不知道怎么带娃"是常见问题不丢人
+    - 早期专业支持比晚期治疗便宜
+  what_to_do:
+    - 高风险家积极找资源
+    - 社区医生+月嫂+公益组合
+    - 不知道带娃别羞耻
+    - 早支持便宜过晚治疗
+  failure_mode: |
+    "问帮助没面子"— 错。NFP 证明早支持长效。
+    "自己摸索就好"— 错。高风险家需要专业支持。
+    "晚点再说"— 错。怀孕介入比 2 岁强。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Olds
+  - G-TERM-NFP
+  - G-TERM-home-visiting
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 4 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 4 卷"
+  authors: ['David Olds (cross-cited)']
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 14 · NFP cross-chapter (Powell + Ramey + Cicchetti) · pp. 550-560 + 868-870"
+  source_id: SRC-029
+
+unit_ids: []
+related_cards:
+  - C-S0-1233     # Powell 5 原则
+  - C-S0-1237     # Ramey Abecedarian
+  - C-S0-619     # NRC 早期干预
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

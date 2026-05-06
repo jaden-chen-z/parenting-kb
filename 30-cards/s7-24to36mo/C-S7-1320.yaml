@@ -1,0 +1,91 @@
+card_id: C-S7-1320
+stages: [S7]
+tags: [mst, multisystemic, preschool, lerner_v4]
+
+front:
+  title: MST 学龄前严重问题
+  hook: MST 严重多系统
+
+back:
+  why_matters: |
+    MST(多系统疗法,Multisystemic Therapy)V4 第 14 章学龄前应用。
+
+    **MST 学龄前 = 严重行为问题家庭治疗**:
+    - 不是普通"不听话"
+    - 是严重攻击 / 破坏性 / 创伤后
+    - 家访模式(治疗师到家)
+    - 4-6 月密集 + 1 年随访
+
+    **4 个系统在学龄前家庭**:
+    - **家庭**:亲子互动 + 父母情绪 + 家庭规则
+    - **幼儿园**:幼儿园老师协作
+    - **同伴**:同伴关系 / 朋友圈
+    - **社区**:邻居 / 亲戚 / 资源链接
+
+    **反"病在娃"立场**(学龄前重要):
+    - 严重行为问题 ≠ 娃问题
+    - 是多系统失衡的**信号**
+    - 改系统 = 改娃
+    - **4 个都改**才有效
+
+    **随机对照研究证据 — 严重问题学龄前**(Henggeler):
+    - 减少机构化(送特殊学校)50%
+    - 减少父母离异 30%
+    - 减少社区投诉 60%
+    - 投入产出比 5-7 倍
+
+    **反 3 误区**:
+    - ❌ "送特殊学校就行"(没改系统)
+    - ❌ "管教就好"(单一焦点)
+    - ❌ "MST 太贵"(机构化更贵)
+
+    **何时考虑 MST**:
+    - 严重攻击(打人 / 咬人 / 损坏物品)持续 3+ 月
+    - 多系统失衡(家 + 园 + 朋 + 社)
+    - 普通治疗(不可思议岁月 IY / 积极教养 Triple P)无效
+    - 即将被赶出幼儿园
+
+    跟现库:跟 V4 MST 总论(C-S8-758)+ V3 帕特森(C-S6-1075)+
+    布朗芬布伦纳(C-S0-723 周边)对接。
+
+    对中国家长意义:
+    - 严重行为问题别只看孩子
+    - 家 + 园 + 朋 + 社 4 系统协同
+    - 普通班课无效再升级 MST
+    - 北上广深部分医院引入
+  what_to_do:
+    - 严重行为问题别只看孩子
+    - 4 系统协同改
+    - 普通班课无效再 MST
+    - 北上广深可找
+  failure_mode: |
+    "送特殊学校就行"— 错。没改系统。
+    "管教就好"— 错。单一焦点。
+    "MST 太贵"— 错。机构化更贵。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Henggeler
+  - G-TERM-mst
+  - G-TERM-multisystemic
+  - G-PERSON-Bronfenbrenner
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 4 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 4 卷"
+  authors: ['Scott W. Henggeler (cited)']
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 14 · MST · Preschool severe behavior · pp. 575-585"
+  source_id: SRC-029
+
+unit_ids: []
+related_cards:
+  - C-S8-758     # V4 MST 总论
+  - C-S6-1075     # V3 Patterson 强制家庭
+  - C-S8-753     # V4 Incredible Years
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,27 @@
+glossary_id: G-TERM-SOC-model
+type: term
+display_name: "SOC 模型 / Selection-Optimization-Compensation (SOC)"
+
+name_en: "Selection-Optimization-Compensation (SOC)"
+name_zh: "SOC 模型"
+
+description: |
+  Baltes 提出 — 应对发展挑战 3 大策略:Selection(选)+ Optimization(优)+ Compensation(补)。
+
+one_liner: |
+  SOC 模型(Selection-Optimization-Compensation (SOC))— Baltes 提出 — 应对发展挑战 3 大策略:Selection(选)+ Optimization(优)+ Compensation(补)。
+
+key_facts:
+  - "Lerner V1 元理论卷核心术语"
+  - "学派:Lerner V1 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Greenough
+type: person
+display_name: "Greenough(威廉·格里诺)"
+
+full_name_en: "William T. Greenough"
+full_name_zh: "威廉·格里诺"
+
+position: |
+  University of Illinois 心理学教授
+
+contribution: |
+  experience-expectant vs experience-dependent 突触分类 + 终生神经可塑性实证
+
+one_liner: |
+  威廉·格里诺 — experience-expectant vs experience-dependent 突触分类 + 终生神经可塑性实证
+
+key_facts:
+  - "本卷章节:Ch 11 (via Baltes)"
+  - "Lerner V1 命中:50+ 次"
+  - "学派:Lerner V1 神经可塑性派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+    chapter: "Ch 11 (via Baltes)"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

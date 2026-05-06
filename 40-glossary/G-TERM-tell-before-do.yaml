@@ -1,0 +1,87 @@
+glossary_id: G-TERM-tell-before-do
+type: term
+display_name: 告知再行动(护理前预告)
+
+full_name_en: Tell Before You Do
+full_name_zh: 告知再行动(玛格达原版)
+
+one_liner: |
+  Magda Gerber 实操核心:
+  抱起 / 放下 / 喂奶 / 换尿布前,**先用真声音告知**,
+  然后等几秒看反应,再开始动作。
+  不是"教他听话",是给他**预备时间**。
+
+detail: |
+  ## Magda 的原话
+  Ch3 Tell Your Child What You Are Going to Do:
+  > "Tell your child what you are going to do before you do it. Before you pick up your child, say, 'I'm going to pick you up now.' ... Wait for her response."
+
+  ## 经典脚本
+  | 动作 | 说什么 |
+  |---|---|
+  | 抱起 | "我现在要抱你了" |
+  | 放下 | "我要把你放到床上" |
+  | 换尿布 | "你尿了,我现在帮你换" |
+  | 喂奶 | "妈妈给你准备奶了" |
+  | 洗澡 | "我要把你放进澡盆,先脚后身" |
+  | 出门交给月嫂 | "妈妈出去,阿姨陪你 1 小时回" |
+
+  ## 等待时间
+  - 说完等 **1-3 秒** 看反应
+  - 反应可能是:表情变 / 眼神 / 身体放松或紧张
+  - 有反应再动手
+  - 没反应也动手,但慢一点
+
+  ## 为什么这样做
+
+  ### Magda 的"巨人世界"比喻
+  Ch3 原话:
+  > "Imagine that we inhabit a world of giants ... How would we feel if we were snatched up by a giant and carried..."
+
+  你住巨人世界,巨人没说一声把你抓起来 — 你会怎么想?
+  宝宝感受是同样的。
+
+  ### 神经科学
+  - 0-3 月宝宝大脑加工延迟比成人慢 1-2 秒
+  - 给"预告时间" = 他不"突然被搬"
+  - 长期累积 = 信任根基
+
+  ## 失败模式
+  - "他这么小听不懂,说什么都白搭" → 0-3 月没建立信任,后期纠正难
+  - "不能慢,要赶时间" → 一次省 5 秒,长期付出 100 倍代价
+
+  ## 跟其他派对照
+  - Lansbury C-S1-353 尿布换 = 连接仪式 — 实操延伸
+  - Davies C-S2-127 真词不嘎嘎 — 同源
+  - 蒙氏 prepared environment — 邻近思想
+
+  ## 一天 200 次的实践机会
+  - 0-3 月一天换 8-10 次尿布 = 8-10 次告知
+  - 加上抱起 / 放下 / 喂 = 一天 30-50 次告知机会
+  - 头 3 月 = 累积 3000+ 次"被尊重"练习
+
+key_facts:
+  - Magda 1998 命名实操
+  - 行动前用真声音告知 + 等反应
+  - 不是教听话,是给预备时间
+  - 1 天 30-50 次累积"被尊重"信任
+
+related_glossary:
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+  - G-TERM-active-participant-caregiving
+  - G-TERM-respectful-parenting
+
+related_cards:
+  - C-S1-406
+  - C-S4-353
+  - C-S5-449
+
+sources:
+  - source_id: SRC-022
+  - external: Magda Gerber《Your Self-Confident Baby》Ch3
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

@@ -1,0 +1,71 @@
+card_id: C-S8-730
+stages: [S8]
+tags: [DAP, hyson, kindergarten, lerner_v4]
+
+front:
+  title: DAP 4 原则选幼儿园
+  hook: DAP 4 原则选园
+
+back:
+  why_matters: |
+    Hyson-Copple-Jones V4 Ch 1(NAEYC(美国幼教协会) 标准代言)。
+    **幼儿园选择 4 大 DAP 标准**:
+    - **基于发展知识**:看老师懂不懂"3 岁能干啥"
+    - **基于个体差异**:不一刀切,允许"慢娃"
+    - **基于文化语境**:中国家长能不能进得去
+    - **基于学习领域**:玩+问+探索 ≠ 浪费时间
+    **DAP 反例**(中国常见 — V4 直接批判):
+    - 5 岁练写字(违反发展知识)
+    - 全班统一进度(违反个体差异)
+    - 单语英文(违反文化敏感)
+    - 全程"上课"(违反学习领域)
+    **DAP 正例**:
+    - 自由游戏 + 探究项目
+    - 老师跟孩子兴趣走
+    - 双语 / 多元文化
+    - 户外 + 艺术 + 社交均衡意义:
+    - "学得多"不等于"学得好"
+    - 选幼儿园看 DAP 4 原则
+    - 5 岁不识字 ≠ 输在起跑线跟现库:跟松田反早教(SRC-024 §470)+ Lansbury(SRC-019 反过度结构)+ Lillard(SRC-016 蒙氏)对接。
+    对中国家长意义:
+    - 公立 vs 私立看的是 DAP
+    - 学业型 ≠ 优秀
+    - 看老师是否懂个体差异
+    - 看孩子是否被允许"慢"
+  what_to_do:
+    - '看老师懂不懂"3岁能干啥"'
+    - 允许个体差异+慢娃节奏
+    - 玩+问+探索是真学习
+    - 5岁不识字别焦虑
+  failure_mode: |
+    "学得多就是好"— 错。学业前移有害。
+    "统一进度才公平"— 错。违反个体差异。
+    "玩是浪费"— 错。游戏是真学习。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Hyson
+  - G-PERSON-Copple
+  - G-PERSON-Bredekamp
+  - G-TERM-DAP
+  - G-TERM-NAEYC
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 4 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 4 卷"
+  authors: ['Marilou Hyson', 'Carol Copple', 'Jacqueline Jones']
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 1 · Hyson · DAP kindergarten selection · pp. 15-30"
+  source_id: SRC-029
+
+unit_ids: []
+related_cards:
+  - C-S0-1235     # Hyson DAP 反学业前移
+  - C-S8-101     # 松田 §428 反早教看电视
+  - C-S0-619     # Shonkoff 反早教 4 定理
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

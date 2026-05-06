@@ -1,0 +1,89 @@
+card_id: C-S4-202
+stages: [S4]
+tags: [self, 调谐, china_high_freq, controversy]
+
+front:
+  title: 过度刺激 vs 不足刺激
+  hook: 太热情太冷淡都坏
+
+back:
+  why_matters: |
+    Stern Ch 9 临床案例 — 父母在"刺激度"上的两个极端**都伤宝宝 self**。中国家长容易在第一种(过度热情型),少数在第二种(冷淡退缩型)。
+    **极端 1:过度刺激 / 入侵型(intrusive overstimulation)**
+    - **典型场景**:Stern Stevie 案例 — 妈不停面对面逗宝宝,宝宝转头躲,妈追着不放,宝宝最后哭
+    - **中国常见**:
+      - 老人 / 亲戚轮流逗宝宝,不让休息
+      - 妈"努力做最好",不停说话 / 表演 / 玩
+      - "宝宝被关注得越多越好"思维
+    - **后果**:
+      - 宝宝学到"我的边界被忽视"
+      - **追逐与躲避**(追-躲)模式形成 互动原型记忆(RIGs) → 焦虑型依恋根源
+      - 长期 → 成人后**害怕亲密 / 情感淹没感**
+    **极端 2:不足刺激 / 退缩型(不足刺激 / 退缩)**
+    - **典型场景**:Stern Ch 9 抑郁母亲案例 — 妈情感麻木,宝宝主动求互动妈反应迟缓
+    - **中国常见**:
+      - 产后抑郁妈
+      - 带娃太累的妈
+      - 双职工家庭,陪伴时间少 + 心不在场
+      - "宝宝自己玩就行"思维
+    - **后果**:
+      - 宝宝学到"我求互动没人回应"
+      - 长期 → **回避型依恋** + 情感失语症 + 抑郁倾向
+    **Stern 关键洞察 — 健康的"中间"**:
+    - 不是"绝对中性的刺激量" — 是**跟着宝宝的耐受度走**
+    - **看宝宝的信号**:转头 / 闭眼 = 太多;主动找你 + 笑 = 想要更多
+    - **稍微推一点**(working in zone of proximal 情感的 发展)— 健康的
+    - **超过宝宝耐受 + 不调整** = 入侵
+    - **低于宝宝耐受 + 不响应** = 退缩
+    **怎么自查**:
+    - 宝宝转头 / 避目光 — 你是否立刻退一步?(还是继续追?)
+    - 宝宝主动找你 — 你是否立刻响应?(还是觉得"他自己玩就好")
+    - 一天里你是 亢奋 还是 麻木?
+    - 你的"陪伴节奏"是你的还是宝宝的?
+    **跟 Stern 调谐(C-S5-291) + 调谐(C-S5-294)互补**:
+    - 调谐 = 同频(通过同感受觉察)
+    - 调谐 = 故意稍升级 / 稍降级(在 zone 内)
+    - 入侵 / 退缩 = 出 zone
+    跟 Lillard 蒙氏母-师角色(C-S6-186) + 鲍秀兰本能母爱一致。
+  what_to_do:
+    - 看宝宝信号(转头 vs 求互动)
+    - 宝宝转头立刻退一步
+    - 宝宝主动找你立刻响应
+    - 不要 亢奋 也不要 麻木
+    - 跟着宝宝节奏不是你的
+  failure_mode: |
+    "我热情逗宝宝是好事" — 不一定。如果宝宝转头你不退,就是入侵,会形成 追逐与躲避 互动原型记忆(RIGs)。
+    "他自己玩就行不打扰" — 不响应宝宝主动求互动 = 退缩,会形成回避型依恋。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Stern
+  - G-TERM-affective-attunement
+  - G-TERM-RIGs
+
+citation:
+  book_title_zh: "婴儿的人际世界"
+  book_title_en: "The Interpersonal World of the Infant"
+  authors: ["Daniel N. Stern"]
+  authors_zh: ["丹尼尔·斯特恩"]
+  publisher_en: "Basic Books"
+  year_en: 1985
+  isbn_en: "978-0-465-09559-9"
+  location: "Ch 9 · Overstimulation + Understimulation (Stevie + 抑郁母亲案例)"
+  publisher_zh: "华东师范大学出版社"
+  year_zh: 2017
+  translator_zh: ["刘旭东"]
+  source_id: SRC-018
+
+unit_ids: []
+related_cards:
+  - C-S5-291       # Stern attunement 主卡
+  - C-S5-299       # Stern still-face
+  - C-S5-294       # Stern misattunement
+  - C-S6-186       # Lillard 母-师角色
+  - C-S5-070       # Bowlby V1 安全依恋
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

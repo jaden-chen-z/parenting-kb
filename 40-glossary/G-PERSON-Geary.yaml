@@ -1,0 +1,74 @@
+glossary_id: G-PERSON-Geary
+type: person
+display_name: Geary
+
+full_name_en: David C. Geary
+full_name_zh: 戴维·C·吉里
+
+one_liner: |
+  美国发展心理学家(密苏里大学教授),进化心理学 + 数学认知发展权威。
+  跨语言研究证明:中国孩子算数早起步是中文数词优势,不是天赋。
+
+detail: |
+  ## 个人背景
+  - 加州大学河滨分校博士
+  - 密苏里大学心理学教授 + Curators' Distinguished Professor
+  - 美国心理协会会士
+
+  ## 核心研究
+  ### 1. 跨文化数学发展
+  - 中文 vs 英文数词系统对比
+  - 中文短 + 规则 → 工作记忆容量优势
+  - 4 岁中国孩数到 50,美国孩 30(语言原因)
+
+  ### 2. 进化心理学派
+  - 区分"生物初级"vs"生物次级"认知能力
+  - 数学是"生物次级"(需要文化 + 教学)
+  - 数感是"生物初级"(天生 + 进化遗产)
+
+  ### 3. 数学发展实证
+  - 数感(approximate number system)— 婴儿期天生
+  - 数符号(exact number system)— 后天学
+  - 跟 Dehaene 数感双系统对接
+
+  ## 立场
+  - 进化心理学派
+  - 数学是"生物次级" — 需教学
+  - 反"中国孩子数学天赋"说
+
+  ## 中国家长意义
+  - 中国孩子数学"早起步"是语言优势
+  - 不要"加速"训练(已有自然优势)
+  - 数感 ≠ 速算
+  - 美国孩子概念后期赶上
+
+  ## 在本知识库中
+  - SRC-028 Lerner V2 Ch18 主笔(76 hits)
+  - C-S6-1172 Dehaene 数感
+  - C-S8-422 中国孩子算数早语言原因
+
+  ## 学术影响
+  - 进化心理学派 + 数学认知双领域
+  - 著作《Children's Mathematical Development》(1994)
+
+key_facts:
+  - 密苏里大学心理学教授
+  - 跨语言数学发展研究
+  - 进化心理学派
+  - 中文数词优势立场
+
+related_glossary:
+  - G-PERSON-Spelke
+
+related_cards:
+  - C-S6-1172
+  - C-S8-422
+
+sources:
+  - source_id: SRC-028
+  - external: Geary 1994 / Wikipedia David Geary
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

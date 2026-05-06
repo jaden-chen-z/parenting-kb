@@ -1,0 +1,49 @@
+card_id: C-S5-1043
+stages: [S5]
+tags: [belsky, parental_sensitivity, attachment_origins, lerner_v3]
+
+front:
+  title: "Belsky 母敏 = 依恋钥"
+  hook: "敏感比频次更重要"
+
+back:
+  why_matters: |
+    Belsky(via Ch 8 Parke 综述)— 母性敏感性(maternal 敏感度)是安全依恋的最强预测因子。
+    敏感性 4 维:① 觉察(看出他需要什么) ② 解读(读对了)
+    ③ 及时(快速回应) ④ 适当(回应方式对)。
+    一句话 — 不是回应次数多就行,是回应得对才行。
+  what_to_do:
+    - "9-12 月练读他需求(饿/累/厌)"
+    - "他哭你猜:饿了?困了?换尿布?"
+    - "猜错没关系,过程在练敏感性"
+    - "及时不等于秒回(让他有空间表达)"
+    - "夫妻一起练敏感性"
+  failure_mode: |
+    "我每次哭都喂奶就够了" — 这是机械回应不是敏感回应。
+    Belsky — 频次 ≠ 敏感性,机械回应不建安全依恋。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Belsky
+  - G-PERSON-Parke
+  - G-TERM-maternal-sensitivity
+
+related_cards:
+  - C-S5-072      # Bowlby V1 内部模型
+  - C-S5-291      # Stern attunement
+  - C-S5-393      # Lansbury 设限
+  - C-S5-906      # Shonkoff PFC
+
+citation:
+  source_id: SRC-027
+  source_title: "Handbook of Child Psychology Vol 3"
+  chapter: "Ch 8 Parke / Belsky"
+  chapter_offset: 2475372
+  chapter_title: 'Parke & Buriel — 家庭社会化(种族 + 生态)'
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_followup_needed: 'SRC-027 用 PDF 字节偏移代页码 — 待加 page_pdf 反查工具'

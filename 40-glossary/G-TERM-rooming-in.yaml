@@ -1,0 +1,51 @@
+glossary_id: G-TERM-rooming-in
+type: term
+display_name: "Rooming-in 24 小时同室"
+
+en_term: "Rooming-in"
+zh_term: "母婴同室"
+
+one_liner: |
+  Rooming-in = 妈妈和娃 24 小时整天整夜同室不分离 — BFHI 第 7 步。
+
+detail: |
+  ## 定义
+  Rooming-in — 妈妈和娃 24 小时同房,不分母婴室。
+  
+  ## BFHI 第 7 步 verbatim
+  'Enable mothers and babies to remain together 24 hours a day.'
+  
+  ## 效果
+  - 妈妈识别早期信号(吸吮动作/寻乳)
+  - 按需喂养实操
+  - 减少配方奶补充
+  - 增加 EBF 成功率
+  - 母婴 bonding
+  
+  ## 例外
+  - NICU 需要
+  - 妈妈或娃严重医疗
+  
+  ## 中国传统差距
+  中国传统产院常规分母婴室,只哺乳时送过来 → 跟 BFHI 第 7 步对立。
+
+key_facts:
+  - "BFHI 第 7 步"
+  - "24 小时同室不分离"
+  - "中国传统产院差距"
+
+related_glossary:
+  - G-TERM-BFHI-10-steps
+  - G-TERM-responsive-feeding
+
+related_cards:
+  - C-S1-1002
+  - C-S1-1004
+
+sources:
+  - source_id: SRC-031
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

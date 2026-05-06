@@ -1,0 +1,79 @@
+glossary_id: G-TERM-educaring
+type: term
+display_name: Educaring(教育-照护合体)
+
+full_name_en: Educaring
+full_name_zh: 教育-照护一体(玛格达自创词)
+
+one_liner: |
+  Magda Gerber 自创的合成词,合 educator(教育者) + caregiver(照护者) → educarer。
+  含义:照护就是教育,把宝宝换尿布 / 喂奶 / 洗澡当跟"上课"同等重要。
+  RIE 名字里的 E 就是这个。
+
+detail: |
+  ## 起源
+  - **Magda Gerber 1998 在《Your Self-Confident Baby》Introduction 自创**
+  - 拒绝 caregiver / caretaker:
+    - caregiver 暗示"给"(强调付出)
+    - caretaker 暗示"拿"(强调照看)
+  - educarer 强调:既不是单方"给",也不是单方"拿",
+    是**双向参与**的关系活动
+
+  ## 哲学含义
+  Magda 原话(Ch1 + Introduction):
+  > "A carer puts love into action. The way you care for your baby is how he experiences your love. Everyday caregiving routines, like feeding and diapering, can be educational and loving interactions."
+
+  - 喂奶 = quality time + 学语言 + 建依恋
+  - 换尿布 = 学身体边界 + 学合作 + 学被尊重
+  - 洗澡 = 学身体感觉 + 学预告 + 学等
+
+  ## 跟传统"育儿"对比
+  | 传统育儿 | Educaring |
+  |---|---|
+  | 把照护当"杂活"(快做完) | 把照护当"上课"(慢慢做) |
+  | 你做他被动 | 邀请他参与 |
+  | 高效率 | 高质量(quality time) |
+  | 父母累 | 父母也补充能量 |
+
+  ## 实战 5 条
+  1. 换尿布前告知 + 等回应
+  2. 跟他对话(不静默执行)
+  3. 邀请配合("现在伸手")
+  4. 速度调慢一半
+  5. 全注意 — 不刷手机
+
+  ## 跟 Lansbury 沿用
+  Lansbury(SRC-019)整本书都用 Magda 这个词。
+  本卷是源头。
+
+key_facts:
+  - Magda Gerber 1998 自创词
+  - educator + carer 合成
+  - RIE 名字里 E 的来源
+  - 把照护活动当教育时间
+
+related_glossary:
+  - G-PERSON-Gerber
+  - G-PERSON-Lansbury
+  - G-TERM-RIE
+  - G-TERM-quality-time
+  - G-TERM-active-participant-caregiving
+
+related_cards:
+  - C-S0-167
+  - C-S1-406
+  - C-S4-353
+  - C-S2-493  # Magda 7 大原则原版
+  - C-S1-555  # Wants something/nothing QT
+  - C-S3-499  # 6000 次尿布
+
+sources:
+  - source_id: SRC-021  # Magda 1998 原典(Educaring 本源)
+  - source_id: SRC-022  # Shonkoff(并行 session 添加)
+  - source_id: SRC-019  # Lansbury 沿用
+  - external: rie.org / Magda Gerber《Your Self-Confident Baby》Introduction + Educaring Newsletter
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

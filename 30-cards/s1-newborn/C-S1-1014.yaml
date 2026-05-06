@@ -1,0 +1,57 @@
+card_id: C-S1-1014
+stages: [S1]
+tags: []
+
+front:
+  title: "母乳活配方粉冲"
+  hook: "母乳是活的食物啊"
+
+back:
+  why_matters: |
+    母乳免疫成分(WHO + Lancet 2016 原文):
+    ① sIgA(分泌型免疫球蛋白 A):覆盖喉/肺/肠黏膜病原体
+    ② lactoferrin(乳铁蛋白):广谱抗病原 + 抗炎
+    ③ oligosaccharides(寡糖):喂益生菌 + 防病原黏附
+    ④ 抗氧化酶 + 抗炎蛋白 + 生长因子
+    ⑤ 妈妈病原暴露后 24-48 小时,母乳含特定抗体
+    Lancet 2016 关键论点:'母乳是活的食物' — 配方奶模拟得到营养，模拟不到免疫保护。
+    WHO:母乳保护胃肠感染 + 降低腹泻/肺炎死亡。
+  what_to_do:
+    - "知道母乳免疫成分(IgA/lactoferrin/寡糖)"
+    - "妈妈感冒 → 母乳含针对性抗体,继续喂保护娃"
+    - "配方奶'添加 DHA/HMO 仿母乳' → 单点不能模拟全套"
+    - "活的食物 vs 粉冲 — 配方奶不是同等替代"
+    - "EBF 6 月免疫保护最强期,值得坚持"
+  failure_mode: |
+    信奶粉广告'添加母乳成分' → 母乳免疫是几百种成分协同,单点添加是营销。
+    母乳是活的,配方是粉冲的。
+  evidence_level: A
+
+glossary_refs:
+  - G-TERM-colostrum
+  - G-ABBR-EBF
+  - G-TERM-Lancet-breastfeeding-series
+
+citation:
+  page_title: "Lancet 2016 + WHO Breastfeeding Topic"
+  publisher: "World Health Organization & UNICEF"
+  page_url_primary: https://en.wikipedia.org/wiki/Breastfeeding
+  accessed: 2026-05-04
+  language: en
+  location: "母乳免疫成分(IgA/lactoferrin/寡糖)+ 'living food'"
+  source_id: SRC-031
+
+unit_ids: []
+related_cards:
+  - C-S0-1027
+  - C-S1-1015
+  - C-S1-1000
+  - C-S1-050
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_doc_id_pending: D10
+citation_followup_needed: '已映射真实 doc_id (D10 = Lancet Breastfeeding Series 2016)'

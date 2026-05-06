@@ -1,0 +1,59 @@
+card_id: C-S8-101
+stages: [S8]
+tags: [screen, tv, anti_screen, japan, matsuda]
+
+front:
+  title: "看电视 4 小时 = 弃娃"
+  hook: "电视给情报不给智慧"
+
+back:
+  why_matters: |
+    松田 §428 给"3-4 岁能不能看电视"硬立场:
+    1. **每天 4 小时看电视 = 对家庭教育的放弃**;
+    2. 电视播孩子容易接受的成型内容 → 不用脑 → 长成无创造力 / 无积极性的人;
+    3. 电视商人用演员的夸大 / 奉承 / 逗笑 / 卖名 → 让人不知道节制力 / 羞耻心;
+    4. 电视频道支配权交给孩子 = 孩子成不知忍耐的人;
+    5. **电视可给孩子知识，但不能给孩子智慧** ;
+    6. 智慧是孩子在现实生活中才能学到的;
+    7. 父母如果能"把电视赶出家"就不一般。
+    跟 Lansbury "0-2 岁不看屏" + Brazelton "2 岁前一秒别看屏" 一致 +
+    扩到 3-4 岁更激进。
+
+  what_to_do:
+    - 3-4 岁电视每天最多 1 小时 (能赶就赶出家)
+    - 看电视是亲子共看,不一个人扔他面前
+    - 不让 iPad/手机代替家庭活动
+    - 智慧靠现实玩耍 / 散步 / 跟人交流
+    - 不用电视哄饭
+
+  failure_mode: |
+    现代版:iPad 哄饭 + 平板看动画 4 小时 + 手机抖音轮播。
+    后果:松田说"长成没创造力没积极性的人"。
+    "我不让看不行" → 是父母自己依赖电视的延伸。
+    **关键反转**:不是孩子需要电视,是父母要"清静片刻"。
+    替代:父母减少电视使用 → 孩子自然减少 → 用散步/阅读/玩具填补。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Matsuda
+
+citation:
+  book_title_zh: "定本育儿百科"
+  authors:
+    - 松田道雄
+  publisher_ja: 岩波书店
+  year_first_edition: 1967
+  location: "§428 可以让孩子看电视吗"
+  source_id: SRC-024
+
+unit_ids: []
+related_cards:
+  - C-S6-406  # Lansbury 0-2 岁不看 TV / 视频 / 平板
+  - C-S6-031  # Brazelton 2 岁前一秒别看屏
+  - C-S5-799  # 松田 教说话先把电视关了(同源 anti-TV)
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

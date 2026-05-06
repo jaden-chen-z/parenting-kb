@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Wahlsten
+type: person
+display_name: "Wahlsten(道格拉斯·瓦尔斯滕)"
+
+full_name_en: "Douglas Wahlsten"
+full_name_zh: "道格拉斯·瓦尔斯滕"
+
+position: |
+  University of Windsor 心理学教授
+
+contribution: |
+  行为遗传学 + 反基因决定论 + Gottlieb 共著
+
+one_liner: |
+  道格拉斯·瓦尔斯滕 — 行为遗传学 + 反基因决定论 + Gottlieb 共著
+
+key_facts:
+  - "本卷章节:Ch 5"
+  - "Lerner V1 命中:50+ 次"
+  - "学派:Lerner V1 行为遗传派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+    chapter: "Ch 5"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

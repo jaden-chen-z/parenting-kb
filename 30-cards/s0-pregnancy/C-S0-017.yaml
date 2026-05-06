@@ -1,0 +1,70 @@
+card_id: C-S0-017
+stages: [S0]
+tags: [framework, cross-school]
+
+front:
+  title: 三派 self 框架互补
+  hook: 哲学关系心理三足
+
+back:
+  why_matters: |
+    现代育儿理论 0-3 岁有 3 个最有影响力的"自我形成"框架,**互补不互斥**,每个回答不同问题:
+    | 框架 | 视角 | 核心 | 时间窗 |
+    |---|---|---|---|
+    | **蒙氏(Montessori / Davies / Lillard)** | 哲学 | 婴儿任务 = 完成自己(自我形成),靠"有准备的环境" | 0-3 岁 + 4 plane |
+    | **Bowlby 依恋** | 关系 | 婴儿任务 = 跟主依恋人建立安全基地 | 0-3 岁 + 终身 |
+    | **Stern 自我感** | 心理 | 婴儿任务 = 4 阶段叠加形成自我感(新生 → core → 主观 → verbal) | 0-2 / 2-6 / 7-15 / 15+ 月 |
+    **三角互补关系**:
+    - 蒙氏告诉你"为什么要给宝宝自由 + 真物"(哲学)
+    - Bowlby 告诉你"为什么宝宝离开妈会哭"(关系)
+    - **Stern 告诉你"宝宝心里发生了什么"**(心理过程)
+    举例 — 1 岁宝宝跟妈妈分开几天:
+    - **蒙氏视角**:破坏了"参照点"环境,影响 自我建构
+    - **Bowlby 视角**:依恋分离反应 → 抗议 → 绝望 → 脱离
+    - **Stern 视角**:唤起的伙伴失败 → 核心自我 受创
+    **3 个框架同时在场**才能完整看懂宝宝。中国家长往往只用 1 个(常常是直觉式的"妈妈直觉"= 接近依恋视角),错过另外 2 个方面。
+    跟 奇迹周 跃迁、Karp 第四产程、Brazelton 触摸点 也兼容。
+  what_to_do:
+    - 不只看一种理论
+    - 蒙氏关注环境 + 自由
+    - Bowlby 关注稳定主依恋人
+    - Stern 关注 4 层自我感的细节
+    - 综合判断你家宝宝当前需要
+  failure_mode: |
+    只用一种框架看孩子(尤其只用"妈妈直觉")→ 错过另外 2 个方面的关键信号。
+    例:只关心安全感(Bowlby)忽略 自我形成(蒙氏)→ 帮太多反而剥夺独立。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Stern
+  - G-PERSON-Bowlby
+  - G-PERSON-Montessori
+  - G-PERSON-Lillard
+  - G-PERSON-Davies
+  - G-TERM-attachment
+  - G-TERM-self-construction
+
+citation:
+  book_title_zh: "婴儿的人际世界"
+  book_title_en: "The Interpersonal World of the Infant"
+  authors: ["Daniel N. Stern"]
+  authors_zh: ["丹尼尔·斯特恩"]
+  publisher_en: "Basic Books"
+  year_en: 1985
+  isbn_en: "978-0-465-09559-9"
+  location: "Ch 1 (Stern 框架) + 跨源整合"
+  publisher_zh: "华东师范大学出版社"
+  year_zh: 2017
+  translator_zh: ["刘旭东"]
+  source_id: SRC-018
+
+unit_ids: []
+related_cards:
+  - C-S0-015       # Stern 4 senses of self
+  - C-S0-012       # Lillard 4 plane of development
+  - C-S0-013       # Lillard 蒙氏教育公式
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

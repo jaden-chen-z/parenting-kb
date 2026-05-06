@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Riegel
+type: person
+display_name: "Riegel(克劳斯·里格尔)"
+
+full_name_en: "Klaus F. Riegel"
+full_name_zh: "克劳斯·里格尔"
+
+position: |
+  University of Michigan(已故)
+
+contribution: |
+  dialectical psychology + 早期生命周期 + 反阶段论
+
+one_liner: |
+  克劳斯·里格尔 — dialectical psychology + 早期生命周期 + 反阶段论
+
+key_facts:
+  - "本卷章节:Ch 11"
+  - "Lerner V1 命中:30+ 次"
+  - "学派:Lerner V1 辩证派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+    chapter: "Ch 11"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Bredekamp
+type: person
+display_name: "Bredekamp(苏·布雷德坎普)"
+
+full_name_en: "Sue Bredekamp"
+full_name_zh: "苏·布雷德坎普"
+
+position: |
+  NAEYC
+
+contribution: |
+  DAP 标准 NAEYC 主笔
+
+one_liner: |
+  苏·布雷德坎普 — DAP 标准 NAEYC 主笔
+
+key_facts:
+  - "本卷章节:Ch 1(引用)"
+  - "Lerner V4 命中:20 次"
+  - "学派:Lerner V4 应用心理学派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-029
+    chapter: "Ch 1(引用)"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,6 +1,6 @@
 card_id: C-S1-029
 stages: [S1]
-tags: []
+tags: [philosophy]
 
 front:
   title: 5S 怎么按顺序慢慢淡出
@@ -21,7 +21,7 @@ back:
   failure_mode: |
     一夜全撤 5 招 → 宝宝惊醒哭闹,父母前功尽弃。
     4 月后还硬包紧 → 限制翻身,SIDS 风险反而增加。
-  evidence_level: B
+  evidence_level: C
 
 glossary_refs:
   - G-TERM-five-s

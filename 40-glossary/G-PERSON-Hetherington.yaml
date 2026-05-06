@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Hetherington
+type: person
+display_name: "Hetherington(梅维斯·赫瑟林顿)"
+
+full_name_en: "E. Mavis Hetherington"
+full_name_zh: "梅维斯·赫瑟林顿"
+
+position: |
+  University of Virginia 心理学教授
+
+contribution: |
+  离婚对儿童影响纵向研究 + 再婚家庭
+
+one_liner: |
+  梅维斯·赫瑟林顿 — 离婚对儿童影响纵向研究 + 再婚家庭
+
+key_facts:
+  - "本卷章节:Ch 8"
+  - "Lerner V3 命中:25 次"
+  - "学派:Lerner V3 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-027
+    chapter: "Ch 8"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

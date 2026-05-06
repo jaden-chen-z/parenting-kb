@@ -8,20 +8,27 @@ front:
 
 back:
   why_matters: |
-    CPSC = 美国消费品安全委员会,负责婴儿睡眠产品强制安全标准。
-    2017 年 Fisher-Price Rock 'n Play 等数百万 inclined sleeper 因致死案例被召回。
-    AAP:必须 CPSC 认证的 crib / bassinet / portable crib / play yard,平整非倾斜面。
-    倾斜 >10 度禁用;Boppy 哺乳枕、Dock-a-Tot、inclined sleeper 都不能睡。
-    家用心率 / 呼吸监测器不防 SIDS,只给虚假安心(periodic breathing 易误判)。
+    美国消费品安全委员会(CPSC)负责婴儿睡眠产品强制安全标准。
+
+    2017 年 Fisher-Price 摇摇睡(Rock 'n Play)等数百万**倾斜式婴儿摇床**
+    因致死案例被召回。
+
+    AAP:必须用 CPSC 认证的婴儿床 / 摇篮床 / 便携婴儿床 / 围栏游戏床,
+    **平整非倾斜面**。
+
+    - 倾斜 >10 度禁用
+    - Boppy 哺乳枕、Dock-a-Tot 婴儿巢、倾斜式摇床都不能睡
+    - 家用心率 / 呼吸监测器不防婴儿猝死综合征(SIDS),
+      只给虚假安心(婴儿"周期性呼吸"易误判)
   what_to_do:
-    - 床/bassinet/portable crib/play yard 必须 CPSC 认证 + 未召回
-    - 倾斜 >10 度禁用(包括 inclined sleeper)
-    - Boppy 哺乳枕、Dock-a-Tot 只能清醒辅助,绝不睡眠
-    - 不买家用心率/呼吸监测器(无 SIDS 保护证据)
+    - 婴儿床 / 摇篮床 / 便携婴儿床 / 围栏游戏床必须 CPSC 认证 + 未召回
+    - 倾斜 >10 度禁用(包括倾斜式摇床)
+    - Boppy 哺乳枕、Dock-a-Tot 婴儿巢只能清醒辅助,绝不睡眠
+    - 不买家用心率 / 呼吸监测器(无 SIDS 保护证据)
     - 凡是声称"防 SIDS"的产品 = 无证据,跳过
   failure_mode: |
-    买 inclined sleeper 觉得"倾斜助眠" → 召回史已证致命。
-    买 wearable monitor 给虚假安心感 → 反而疏忽其他防护。
+    买倾斜式摇床觉得"倾斜助眠" → 召回史已证致命。
+    买可穿戴式监测器给虚假安心感 → 反而疏忽其他防护。
   evidence_level: A
 
 glossary_refs:

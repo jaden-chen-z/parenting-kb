@@ -1,0 +1,107 @@
+glossary_id: G-TERM-pikler-milestones
+type: term
+display_name: Pikler 大动作里程碑
+
+full_name_de: Pikler-Bewegungsstufen
+full_name_zh: Pikler 大动作 6 阶段顺序
+full_name_en: Pikler Motor Milestones (6-Stage Order)
+
+one_liner: |
+  Pikler 1969 描述的婴儿大动作 6 阶段自然顺序:仰卧 → 翻 →
+  爬 → 坐 → 站 → 走。每阶段间有"必经过渡"姿势(侧躺 / 跪 /
+  扶物侧移等)— 跳过过渡 = 后期动作不流畅。Anna Tardos 1979
+  精细化为 8 阶段表。
+
+detail: |
+  ## Pikler 1969 6 阶段顺序
+
+  ### 1. Liegen(仰卧)— 0-3 月
+  - 出生即开始
+  - 仰卧位最佳 — 自由动腿伸臂
+  - 跟 AAP Back to Sleep 立场一致(早 25 年)
+
+  ### 2. Drehen(翻身)— 3-7 月
+  - 必经过渡:仰卧 → 单腿抬 → 侧躺蓄力 → 半翻 → 全翻
+  - 侧躺(Seitenlage)是关键过渡阶段(数天到数周)
+  - 跳过侧躺 = 翻身僵硬
+
+  ### 3. Kriechen + Robben(爬 + 匍匐)— 6-10 月
+  - Robben(匍匐):肚子贴地拖动 — 6-9 月初期形态
+  - Klassisches Krabbeln(经典爬):手脚跪起 — 8-12 月
+  - 跳过爬 = 缺交叉协调 / 视觉空间感
+
+  ### 4. Sitzen(坐)— 7-12 月
+  - 自学坐:从跪 / 单腿伸 转坐起
+  - 健康坐姿:直立 + 坐骨承重 + 不累
+  - 撑坐姿:弯背 + 紧绷 + 累 — 错误
+
+  ### 5. Stehen(站)— 9-14 月
+  - 自抓栏杆 / 稳定物体往上拉
+  - 初期"用手维持 + 几乎不踩脚"
+  - 慢慢踩脚 + 单手放开 = 真会站
+
+  ### 6. Gehen(走)— 12-18 月
+  - 扶物侧移走(Cruising):重心从一脚转到另一脚
+  - 单手扶 + 单手抓物移动
+  - 第一独立步:无大人手 + 无扶物 + 自己用脚
+
+  ## 跟 Anna Tardos 1979 8 阶段表区别
+  - Pikler 1969:6 大阶段 + 描述性叙事(不是清单)
+  - Tardos 1979《Lasst mir Zeit》:8 阶段精确表 +
+    每阶段月龄范围 + 过渡条件
+  - 本卷不引用 Tardos 1979(post-Pikler 整理)
+
+  ## 实操立场
+  - 不查月龄表对照(焦虑没好处)
+  - 看孩子能否在阶段内"自由切换"(关键鉴别)
+  - 不跳过 / 不撑坐 / 不抱手让走
+  - 拍照保留过渡姿势(短暂但宝贵)
+
+  ## 跟现代派对照
+  - **WHO 4 阶段表**(2006):坐 / 站 / 爬 / 走 — 比 Pikler 简化
+  - **Magda RIE**(SRC-022):无具体里程碑表,但立场相同
+  - **Lansbury**(SRC-019):Ch7 引用 Pikler 顺序
+  - **中国训练表**:4 月翻 / 6 月坐 / 9 月爬 — 跟 Pikler 严重对立
+
+  ## 关键鉴别(自然 vs 训练)
+  - 自然:每阶段有充分过渡练习,动作流畅
+  - 训练:跳过过渡,动作生硬,后期协调差
+
+key_facts:
+  - Pikler 1969 6 大阶段顺序
+  - 每阶段间必经过渡姿势
+  - 跳过过渡 = 后期动作不流畅
+  - 不是月龄表 — 是顺序 + 过渡描述
+  - Anna Tardos 1979 精细化为 8 阶段表
+
+related_glossary:
+  - G-PERSON-Pikler
+  - G-TERM-bewegungsentwicklung
+  - G-TERM-no-propping
+  - G-TERM-supine-position
+  - G-TERM-natural-rolling
+  - G-TERM-anti-baby-walker
+
+related_cards:
+  - C-S3-835  # Pikler 大动作 6 阶段顺序
+  - C-S3-837  # Pikler 侧躺是翻身蓄力
+  - C-S4-834  # Pikler 反撑坐 6 论证
+  - C-S4-836  # 自坐 vs 撑坐怎么分
+  - C-S4-838  # Pikler 不教爬
+  - C-S5-933  # Pikler 不教站
+  - C-S5-934  # Pikler 站起初用手不踩脚
+  - C-S5-935  # Pikler 会站不等于会走
+  - C-S5-936  # Pikler 第一步必须无大人手
+  - C-S7-891  # Pikler 24-36 月大动作终态
+  - C-S4-129  # Wonder Weeks 大动作里程碑
+  - C-S2-290  # Lansbury 不撑坐 8 理由
+
+sources:
+  - source_id: SRC-026  # Pikler 1969 德文原典
+  - source_id: SRC-019  # Lansbury 复述
+  - external: Anna Tardos《Lasst mir Zeit》(1979)/ pikler.org
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-McLoyd
+type: person
+display_name: "McLoyd(冯妮·麦克洛伊德)"
+
+full_name_en: "Vonnie C. McLoyd"
+full_name_zh: "冯妮·麦克洛伊德"
+
+position: |
+  University of North Carolina
+
+contribution: |
+  儿童贫困经济压力模型
+
+one_liner: |
+  冯妮·麦克洛伊德 — 儿童贫困经济压力模型
+
+key_facts:
+  - "本卷章节:Ch 18 主笔"
+  - "Lerner V4 命中:45 次"
+  - "学派:Lerner V4 应用心理学派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-029
+    chapter: "Ch 18 主笔"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

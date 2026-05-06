@@ -1,0 +1,55 @@
+card_id: C-S7-241
+stages: [S7]
+tags: [bowlby, loss, grief, philosophy, china_high_freq]
+
+front:
+  title: 告诉娃不是他的错
+  hook: 主动说不要等问
+
+back:
+  why_matters: |
+    Bowlby 第十六 / 二十三章反复强调:
+    年幼孩子有"魔法思维" — 容易认为**亲人去世 / 病了 / 离开是因为自己淘气 / 自己不乖**。这是 2-4 岁孩子普遍的想法,不是孩子奇怪。
+    温蒂案例(4 岁失母):咨询师让父亲主动告诉温蒂"你偶尔生妈妈气的想法不会影响妈妈健康",在母亲病重期间反复跟温蒂确认。
+    温妮案例(2 岁半失母):治疗师建议父亲跟温妮讲"有些小女孩会以为是自己淘气导致妈妈生病死亡 — 但事实不是这样",温妮听后慢慢恢复。
+    **关键:孩子可能不会主动表达这个内疚,但会潜在影响**。需要大人**主动**说,不能等孩子问。
+    中国家庭最大坑:**老人爷爷生病前刚刚批评过孩子 → 孩子内心默默认为"是我害的"** + **没人主动澄清** = 长期内疚。
+  what_to_do:
+    - 主动说"这不是你的错不是因为你"
+    - 不只说一次在不同时刻重复
+    - 解释具体原因(生病 / 老了)
+    - 不让其他亲戚说"你看你不听话奶奶都气病了"
+    - 观察孩子是否有奇怪自责行为
+  failure_mode: |
+    "孩子那么小不会想这么多" → Bowlby 反:孩子比大人想的更多,只是说不出。
+    没人澄清 → 内疚埋一辈子 → 长大莫名抑郁 + 强迫性照顾他人(劳拉模式)。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Bowlby
+  - G-PERSON-Piaget
+  - G-TERM-mourning
+  - G-TERM-childhood-mourning
+  - G-TERM-magical-thinking
+
+citation:
+  book_title_zh: "依恋三部曲 · 第三卷:丧失"
+  book_title_en: "Attachment and Loss, Vol 3: Loss, Sadness and Depression"
+  authors: ["John Bowlby"]
+  authors_zh: ["约翰·鲍尔比"]
+  publisher_zh: "世界图书出版有限公司北京分公司"
+  year_zh: 2018
+  year_en: 1980
+  isbn_zh: "978-7-5192-3383-9"
+  location: 'Ch 16 + Ch 23 · 温蒂 / 温妮案例(主动澄清"不是你的错")'
+  source_id: SRC-017
+
+unit_ids: []
+related_cards:
+  - C-S7-237       # Bowlby V3 谈死亡用真话
+  - C-S7-238       # 看似没事是最危险信号
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

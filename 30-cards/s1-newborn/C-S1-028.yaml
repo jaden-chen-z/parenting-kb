@@ -11,7 +11,7 @@ back:
     共同入睡(bed-sharing)= 父母婴儿共睡一张床。
     AAP 强烈反对(SIDS 风险高 5-10×),但 Karp 反驳:
     1999 CPSC 报告里 80% 死亡可避免——只要严格遵守 10 步安全
-    (不抽烟 / 不喝酒 / 不肥胖 / 无松散卧具 等)。
+    (不抽烟 / 不喝酒 / 不肥胖 / 无松散卧具等)。
     父母选择题,不是绝对禁忌。
     这是 Karp vs AAP 真冲突 — 详见 conflicts.md。
   what_to_do:
@@ -25,6 +25,23 @@ back:
     没遵守 10 步硬照做 → 婴儿窒息致死。
   evidence_level: C
 
+  positions:
+    issue: 同床 vs 同房不同床 · 何时安全 · SIDS 风险 · 分龄差异
+    views:
+      - school: Karp
+        source: SRC-003
+        stance: 在 10 步安全协议下可同床(无烟酒、硬床垫、无松软被等);否则不建议。
+      - school: AAP
+        source: SRC-004
+        stance: 严禁 bed-sharing。推荐同房不同床(共室不共床)到 6 月,可降 SIDS 50%。
+      - school: Brazelton
+        source: SRC-010
+        stance: 不给统一指南,视家庭文化决定;睡眠安排是亲子关系的反映,无单一正确答案。
+      - school: 松田道雄
+        source: SRC-024
+        stance: 分龄立场 — 3 月内禁同床(母乳房压窒息风险);8 月后可同床(寒冷季节实用,母乳更增多)。
+      - school: 中国传统
+        stance: 普遍同床(便于喂奶 / 保暖 / 安抚),无明确安全协议;部分家庭长期同床至学龄。
 glossary_refs:
   - G-TERM-bed-sharing
   - G-TERM-room-sharing

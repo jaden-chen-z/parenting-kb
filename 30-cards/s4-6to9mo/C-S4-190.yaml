@@ -1,0 +1,59 @@
+card_id: C-S4-190
+stages: [S4]
+tags: [montessori, milestone, philosophy, separation]
+
+front:
+  title: 8-9 月"第二次出生"
+  hook: 爬 = 自愿分离
+
+back:
+  why_matters: |
+    Lillard Ch5 给爬这个里程碑一个深刻命名 — **"第二次出生"**(second birth):
+    - 9 个月怀胎 = 子宫内
+    - 9 个月外怀(external gestation)= 出生到 8-9 月
+    - **8-9 月爬 = 宝宝主动从外怀离开,转向外部世界**
+    爬之前:宝宝完全靠妈妈接近物品爬以后:宝宝**自己决定去哪 / 看什么**
+    这是宝宝第一次主动离开父母 — 心理意义大于物理意义。
+    Lillard 这个观念让父母看待"爬"的态度变了:
+    - 不是"宝宝会爬走了真烦,得追着" — 是"宝宝在做自我形成的关键一步"
+    - 不是抱着不放 — 是给爬的空间
+    - 不是"小心摔" — 是接受磕碰是必经跟 Karp"第四产程"(出生到 3 月还是孕期)对应 — Karp 命名前 3 月,Lillard 命名 8-9 月,合起来就是完整的"内孕 + 外孕 = 18 个月"。
+    跟 Bowlby "依恋阶段 3"(8 月起明确依恋形成 + 探索)同步出现 — 安全依恋让宝宝敢爬走,爬走加强安全感。
+  what_to_do:
+    - 把家先 baby-proof 好(电源 / 楼梯 / 危险物)
+    - 给爬空间(地板床 + yes 空间)
+    - 别一直追着抱
+    - 接受磕碰是学习
+    - 庆祝爬走的瞬间
+  failure_mode: |
+    "爬走危险,关在围栏里安全" — 反:剥夺第二次出生 = 剥夺自我形成关键步。
+    一直抱着不放手 → 8-12 月该放手时反而困难 → "黏人宝宝"。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Lillard
+  - G-PERSON-Jessen
+  - G-TERM-coordinated-movement
+  - G-TERM-self-construction
+
+citation:
+  book_title_zh: "蒙台梭利从 0 岁开始"
+  book_title_en: "Montessori from the Start"
+  authors: ["Paula Polk Lillard", "Lynn Lillard Jessen"]
+  authors_zh: ["宝拉·波尔克·莉拉德", "琳·莉拉德·杰森"]
+  publisher_en: "Schocken Books"
+  year_en: 2003
+  isbn_en: "978-0-8052-1112-1"
+  location: "Ch 5 · 'Crawling to Coordination' (second birth)"
+  source_id: SRC-016
+
+unit_ids: []
+related_cards:
+  - C-S4-130       # Davies yes 空间替代 playpen
+  - C-S5-070       # Bowlby 安全基地
+  - C-S1-001       # Karp 第四孕期
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

@@ -1,0 +1,83 @@
+card_id: C-S5-291
+stages: [S5]
+tags: [self, 调谐, china_high_freq]
+
+front:
+  title: 情感调谐 = 心同频
+  hook: 调谐 = 心同频共振
+
+back:
+  why_matters: |
+    Stern 的最重要原创概念 — **情感的 调谐(情感调谐)**:9 月起父母用**不同感官形式**匹配宝宝**内心活力质地**,达成"心理同频"。
+    **3 个真实案例**(Stern 实验):
+    - **案例 1**:9 月女宝抓到玩具兴奋叫"aaaah!" → 妈妈耸肩 + 上身**像 go-go 舞者一样抖动** — 持续时间一致 + 兴奋度一致
+    - **案例 2**:9 月男宝快乐地敲打软玩具,有节奏 → 妈妈"kaaa-bam, kaaa-bam"声音匹配宝宝的**节奏**
+    - **案例 3**:8.5 月男宝伸手够远处玩具,**身体紧绷** → 妈妈"uuuh! uuuh!"声音**渐强** = 跟宝宝的物理努力同步
+    **调谐 的 3 个必要条件**:
+    1. 父母**读到**宝宝内心(从外在行为推断 感受状态)
+    2. 父母做出 **对应行为**(对应行为)— 不是模仿
+    3. 宝宝能**读出**这个回应是关于自己内心,不只是模仿外在
+    **关键特征**:
+    - 不是 模仿(模仿外在)
+    - 不是 镜映(临床模糊术语,有时是 模仿 有时是 调谐)
+    - **用不同感官形式**匹配相同内心质地(声音 ↔ 动作 ↔ 表情)
+    - 主要在 **无意识**(无意识)中发生 — 父母 24% 完全不知道自己在做
+    **调谐 的临床意义**(Stern):
+    - **是 9 月起父母最重要的心理育儿行为**
+    - 没有 调谐 → 宝宝学到"我的内心没人懂" → 心理隔绝
+    - 有 调谐 → 宝宝学到"我的内心可分享 + 被理解" → 安全的 self
+    - 是 安全依恋 的**深层心理过程**(Bowlby 描述行为,Stern 解释心理)
+    - 也是 自我情感化(C-S3-196)的形成过程 — 通过 调谐 宝宝**确认**自己的感受真实
+    **跟传统的"共情的 镜映"区别**:
+    - 镜映 模糊 + 临床多义
+    - 调谐 精确定义 + 跨感官 + 活力 层面 + 90% 无意识
+    - 共情 是 调谐 的"理性化版本"(加抽象 + 反思)
+    **对中国家长**:
+    - **中文家长 调谐 频率普遍偏低** — 因为常用"训练 + 教育"框架,不用"陪伴 + 同频"框架
+    - **每天 1 次/65 秒 调谐** = Stern 测出的健康玩耍标准
+    - 你不需要"有趣" — 只需要**真心 调谐**
+    跟 Bowlby 安全依恋 + Lillard 母-师角色 + Karp 5S = 4 派一致看"父母对宝宝的本能行为"。
+  what_to_do:
+    - 9 月起每天 调谐 宝宝活力质地
+    - 用动作 / 声音 / 表情都可
+    - 不是模仿宝宝是匹配他的 气场
+    - 别只 做事 不 调谐
+    - 别太忙没时间 调谐
+  failure_mode: |
+    "我没那么多时间逗宝宝" — 错。调谐 不需要 fancy 玩,日常 1 分钟也行。每天高频小 调谐 比偶尔大游戏更重要。
+    边玩手机边逗宝宝 → 活力 不同频 → 调谐 失败 → 宝宝感觉妈"在但不在"。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Stern
+  - G-TERM-affective-attunement
+  - G-TERM-vitality-affects
+  - G-TERM-amodal-perception
+
+citation:
+  book_title_zh: "婴儿的人际世界"
+  book_title_en: "The Interpersonal World of the Infant"
+  authors: ["Daniel N. Stern"]
+  authors_zh: ["丹尼尔·斯特恩"]
+  publisher_en: "Basic Books"
+  year_en: 1985
+  isbn_en: "978-0-465-09559-9"
+  location: "Ch 7 · Affect attunement (3 case examples)"
+  publisher_zh: "华东师范大学出版社"
+  year_zh: 2017
+  translator_zh: ["刘旭东"]
+  source_id: SRC-018
+
+unit_ids: []
+related_cards:
+  - C-S2-193       # Stern vitality affects
+  - C-S4-201       # Stern vitality affects 是 attunement 燃料
+  - C-S5-070       # Bowlby 安全依恋
+  - C-S2-009       # 鲍秀兰 母婴情感(SRC-009)
+  - C-S6-186       # Lillard 母-师角色(SRC-016)
+  - C-S1-018       # Karp 5S 安抚(SRC-003)
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

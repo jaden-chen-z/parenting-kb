@@ -1,0 +1,48 @@
+glossary_id: G-PERSON-Cole
+type: person
+display_name: Cole
+
+full_name_en: Michael Cole
+full_name_zh: 迈克尔·科尔
+
+one_liner: |
+  美国文化心理学家(UCSD 名誉教授),文化心理学派奠基人。
+  Vygotsky 思想美国推广人,文化作为认知工具立场。
+
+detail: |
+  ## 个人背景
+  - 印第安纳大学博士
+  - UCSD 名誉教授(原 Distinguished Professor)
+  - 美国艺术与科学院院士
+
+  ## 核心立场:文化心理学
+  - 文化不是认知的"修饰",是认知的工具
+  - Vygotsky 思想美国推广人(LCHC 实验室)
+  - 跨文化 + 认知发展辩论方
+  - 反"普世发展时间表"
+
+  ## 在本知识库中
+  - SRC-028 Lerner V2 Ch15 主笔
+  - C-S8-423 Cole 文化认知
+
+key_facts:
+  - UCSD 名誉教授
+  - 文化心理学派奠基
+  - Vygotsky 美国推广
+  - Lerner V2 Ch15 主笔
+
+related_glossary:
+  - G-PERSON-Vygotsky
+  - G-TERM-baby-scientist
+
+related_cards:
+  - C-S8-423
+
+sources:
+  - source_id: SRC-028
+  - external: Cole 1996《Cultural Psychology》/ Wikipedia Michael Cole
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

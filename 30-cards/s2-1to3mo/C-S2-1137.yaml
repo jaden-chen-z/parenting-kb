@@ -1,0 +1,65 @@
+card_id: C-S2-1137
+stages: [S2]
+tags: [cognitive_science, visual_cliff, gibson, lerner_v2]
+
+front:
+  title: 6 月才有深度怕跌
+  hook: 视觉悬崖 6 月里程碑
+
+back:
+  why_matters: |
+    Gibson/Walk 1960 视觉悬崖经典(Lerner V2 Ch3 Kellman)。
+    实验设计:玻璃台中间一半"悬崖"(玻璃下面是地)
+    - 4-6 月以前:婴儿不爬过去也不犹豫
+    - 6 月以后:婴儿到悬崖边停 + 看妈妈
+    - 妈妈鼓励 → 部分爬过(社会参考)
+    - 妈妈紧张 → 不爬
+    Lerner V2 综述更新:
+    - 6 月不是"突然懂悬崖" — 是"运动经验积累"
+    - 爬行 4-6 周 → 视觉悬崖反应出现
+    - **运动经验是深度感知的触发条件**(Bertenthal)
+    - 用学步车的婴儿(无爬行经验)— 视觉悬崖反应延迟意义:
+    - 反"怕高是天生" — 是经验后天习得
+    - 这跟 Adolph 学走数据(C-S5-1138)同方向
+    - 学步车跳过爬行 = 跳过深度学习跟现库:Pikler 不教大动作 + Lansbury 自由爬立场对接。
+    Lerner V2 Ch3 给视觉悬崖经典 + 现代综述。
+    对中国家长意义:
+    - 不要给学步车(跳过爬 = 跳过深度学习)
+    - 4-6 月让宝宝充分爬(深度感知触发)
+    - 6 月反应"怕悬崖"是健康发育
+    - 跌一两次有学习意义,过度保护反而没经验
+  what_to_do:
+    - 4-6 月给爬空间(地垫 + 安全)
+    - 不用学步车
+    - 6 月起观察"怕悬崖"反应(里程碑)
+    - 适度让宝宝在低台边练习
+  failure_mode: |
+    "怕高是天生" — 错。运动经验后习得。
+    "学步车帮助平衡" — 错。跳过深度感知。
+    "6 月不怕悬崖 = 大胆好" — 错。可能学习不足。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Pikler
+  - G-PERSON-Kellman
+  - G-PERSON-Adolph
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 2 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 2 卷"
+  authors: ["Philip J. Kellman", "Martha E. Arterberry"]
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 3 · Visual cliff Gibson · pp. 140-145"
+  source_id: SRC-028
+
+unit_ids: []
+related_cards:
+  - C-S5-1138     # Adolph 学走 1500-9000 步
+  - C-S3-1143     # Kellman 物体一致性
+  - C-S6-957       # Pikler 不教(SRC-026)
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

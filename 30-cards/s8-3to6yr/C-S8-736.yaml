@@ -1,0 +1,74 @@
+card_id: C-S8-736
+stages: [S8]
+tags: [character, lapsley, lerner_v4]
+
+front:
+  title: 品格教育 4 支柱
+  hook: 品格教育 4 支柱
+
+back:
+  why_matters: |
+    Lapsley-Narvaez V4 Ch 7 品格教育章。
+    **品格教育 4 支柱**(Lapsley 综述):
+    - **道德敏感**:看出情境的道德含义
+    - **道德判断**:会想"该不该"
+    - **道德动机**:愿意做正确的
+    - **道德行动**:实际做出来
+    **反 2 误区**:
+    - ❌ 单纯"贴标签"教育("好孩子" / "坏孩子")
+    - ❌ 单纯说教("应该 / 不应该")
+    真品格 = **整合 4 支柱**:
+    - 看到老人摔倒(敏感)
+    - 知道该帮(判断)
+    - 愿意帮(动机)
+    - 跑过去帮(行动)
+    缺一支柱就断:
+    - 只敏感不判断 = 看到不知怎么办
+    - 只判断不动机 = 知道但懒
+    - 只动机不行动 = 想但怕
+    **Narvaez 发现**:
+    - 4 支柱可以独立训练
+    - 道德教育不是"教是非"是"练 4 维度"
+    跟现库:跟 V3 Turiel 道德 4 域(C-S7-1004)+ V3 Eisenberg 亲社会(C-S7-1006)对接。
+    对中国家长意义:
+    - 不只说教"应该 / 不应该"
+    - 让孩子识别情境(敏感)
+    - 一起想方法(判断)
+    - 鼓励动作(动机+行动)
+    - 4 支柱都要练
+  what_to_do:
+    - 不只说教让孩子识别情境
+    - '一起想"该怎么办"'
+    - 鼓励实际动作不只说
+    - 4 支柱都要练
+  failure_mode: |
+    "贴好坏孩子标签"— 错。4 支柱综合。
+    "说教就够"— 错。需 4 支柱整合。
+    "知道该做就够"— 错。动机+行动也要。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Lapsley
+  - G-PERSON-Narvaez
+  - G-TERM-character-education
+  - G-TERM-moral-4-pillars
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 4 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 4 卷"
+  authors: ['Daniel K. Lapsley', 'Darcia Narvaez']
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 7 · Lapsley-Narvaez · Character education 4 pillars · pp. 248-260"
+  source_id: SRC-029
+
+unit_ids: []
+related_cards:
+  - C-S7-1004     # V3 Turiel 道德 4 域
+  - C-S7-1006     # V3 Eisenberg 亲社会
+  - C-S0-1235     # Hyson DAP
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

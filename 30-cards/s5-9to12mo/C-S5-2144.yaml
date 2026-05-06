@@ -1,0 +1,44 @@
+card_id: C-S5-2144
+stages: [S5]
+tags: [philosophy, mainstream, attachment, controversy]
+
+front:
+  title: 分离焦虑是好事
+  hook: 黏人=认知升级
+
+back:
+  why_matters: |
+    9-12 月宝宝突然变黏人、妈妈一走就大哭,很多家长以为是性格变差或被惯坏了。前情:S4 已认生,这是依恋形成的标志。分离焦虑恰恰说明物体永久性发展到位、对主要照护者建立了安全依恋,是认知和情感的双重进步,不是退步,通常 18-24 月自然减弱。
+  what_to_do:
+    - 离开前明确告知"妈妈去厨房就回"
+    - 玩躲猫猫练习"消失=会回来"
+    - 每次告别简短不拖沓不偷溜
+    - 留下熟悉的安抚物如小毯子
+  failure_mode: |
+    觉得娃太黏狠心偷溜,反而加剧焦虑;或被骂"娇气"用强制隔离逼独立,破坏安全感。
+  evidence_level: B
+
+glossary_refs: [G-TERM-separation-anxiety, G-TERM-attachment, G-TERM-object-permanence]
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors:
+    - Heidi Murkoff
+    - Sharon Mazel
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh:
+    - 莫夏迪
+    - 张敏
+  location: "第 11 章第 11 个月, 页 440-444"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards: [C-S5-2150, C-S5-2152]
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

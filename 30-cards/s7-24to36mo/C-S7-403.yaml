@@ -1,0 +1,56 @@
+card_id: C-S7-403
+stages: [S7]
+tags: [philosophy, all-ages]
+
+front:
+  title: "RIE 哲学不止 2 岁"
+  hook: "所有年龄都管用啊"
+
+back:
+  why_matters: |
+    Magda Ch8 末章节标题:RIE Doesn't End at Two。
+    虽然 RIE 班级 2 岁"毕业",哲学**不毕业**。
+    Tell Before Do / 真声音 / 慢下来 / 红黄绿 /
+    限度+情绪 / 不 time-out — 全部到学龄前 + 学龄都适用。
+    Magda 自家案例:5 岁孩子妈妈仍按 RIE 说话(Liz 故事)。
+    跟蒙氏 6-12 岁延伸思路一致。
+
+  what_to_do:
+    - 学龄前不抛弃 RIE 原则,继续用
+    - 接上下文调整("跟 5 岁说话"和"跟 1 岁说话"语句深度变了)
+    - 不"长大了就该听话"
+    - 学龄期跟伴侣讨论用哪些 RIE 原则
+    - 把 RIE 当家庭文化而不是育儿阶段
+
+  failure_mode: |
+    "RIE 那是给 0-2 婴儿的 / 长大要严管" → 18 月 RIE,3 岁突然换严管 = 孩子困惑。
+    Magda 原话:"尊重不分年龄,从此一辈子"。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+  - G-TERM-respectful-parenting
+
+citation:
+  book_title_en: "Your Self-Confident Baby"
+  book_title_zh: "自信的宝宝"
+  authors:
+    - Magda Gerber
+    - Allison Johnson
+  publisher_en: John Wiley & Sons
+  year: 1998
+  location: "Ch8 RIE Doesn't End at Two(收官段)"
+  source_id: SRC-022
+
+unit_ids: []
+related_cards:
+  - C-S7-352  # Lansbury 对症下药才能放手
+  - C-S7-135  # Lillard 学龄 1.0
+  - C-S6-403  # Lansbury 限度+情绪并存
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

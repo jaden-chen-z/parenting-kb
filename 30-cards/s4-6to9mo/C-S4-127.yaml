@@ -1,0 +1,55 @@
+card_id: C-S4-127
+stages: [S4]
+tags: [development_burst, controversy]
+
+front:
+  title: 6-8 月拒绝换尿布
+  hook: 距离感知带来的失控感
+
+back:
+  why_matters: |
+    WW26 + WW37(6-8.6 月)期间一个反复出现的"小烦恼":宝宝**突然狂烈抗拒换尿布 / 穿衣服**。
+    多个妈妈日记:
+    - "23 周开始,每次换尿布都哭"
+    - "35 周给她穿衣服,她从早哭到晚"
+    - "38 周给他套毛衣,简直要打仗"
+    怎么回事:跃迁期间宝宝刚发现"距离 / 关系"的感知能力,**被强行约束在尿布台上**让她失去对距离的控制感,产生强烈抗议。
+    不是身体不适,不是腰痛(很多妈妈担心),是**心理失控感**。
+    这种抗拒在跃迁后期(尤其 35-37 周)达到高峰。
+    家长意义:**这是 6-9 月最易被误判为"被宠坏 / 不听话"的行为之一**。
+  what_to_do:
+    - 换尿布给宝宝可以握的玩具(分散对约束感的注意)
+    - 边换边说话 / 唱歌(让她感到没失联)
+    - 让她在床上换(更宽阔)而不是尿布台
+    - 跃迁完成后(几周后)抗拒会大幅减弱
+    - 不必跟宝宝"较劲" — 越强迫她越激烈
+  failure_mode: |
+    "宝宝是不是腰疼" → 反复就医排查物理问题。
+    "宝宝在跟我对着干" → 严厉训斥 → 宝宝更加抗拒。
+    "她要是这样我就不给她换" → 尿疹风险增加。
+  evidence_level: B
+
+glossary_refs:
+  - G-TERM-wonder-week
+  - G-TERM-fussy-phase
+
+citation:
+  book_title_zh: "婴儿大脑跃迁 10 周(神奇周)"
+  book_title_en: "The Wonder Weeks"
+  authors: ["Hetty van de Rijt", "Frans X. Plooij"]
+  authors_zh: ["海蒂·凡德里特", "弗朗斯·普洛伊"]
+  publisher_en: "Kiddy World Publishing"
+  year_en_first: 1992
+  isbn_en: "978-90-79208-12-1"
+  location: "Chapter 7 + Chapter 8 · She May Refuse to Have Her Diaper Changed(repeated mom diaries 23-38 weeks: dressing/changing diapers becomes a battle)"
+  source_id: SRC-013
+
+unit_ids: []
+related_cards:
+  - C-S4-124       # WW26 关系世界
+  - C-S4-128       # WW37 跃迁前奏
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

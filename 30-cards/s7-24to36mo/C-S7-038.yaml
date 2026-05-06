@@ -1,0 +1,59 @@
+card_id: C-S7-038
+stages: [S7]
+tags: [milestone]
+
+front:
+  title: 9 岁前不怕死
+  hook: 死 = 一种永久分离
+
+back:
+  why_matters: |
+    Bowlby 引 Anthony 1940《儿童发现死亡》经典研究:
+    **9 岁以下的 200 名儿童中,无一人提到害怕死亡**。
+    9-12 岁的 200 名儿童中,**只有 6 人**提到怕死。
+    Anthony 解释:孩子要先理解"死亡 = 永久分离"这个抽象概念,才能产生死亡恐惧。
+    大概 9-10 岁认知到这一点,在此之前他们对"死亡"的认识非常模糊。
+    家长意义:
+    - 3-7 岁的孩子说"我会不会死 / 你会不会死",问的不是死亡,是分离
+    - 用"分离"框架回答比用"死亡"框架回答更切题
+    - 别避讳谈死,但别灌输宗教 / 哲学色彩重的死亡观
+    - 葬礼 / 看遗体的儿童保护考量:孩子无法处理"永久"概念引申:Bowlby 认为讨论死亡时,要给死亡赋予"和分离同样多的情绪意义"。
+    9 岁后突然冒出怕死,大概是认知发展到位 + 内部工作模型把死等同于妈妈失去。
+  what_to_do:
+    - 3-7 岁孩子问死,先理解为问分离
+    - 回答用"很久很久不见"框架,不用"消失"
+    - 葬礼 / 看遗体年龄 ≥ 7 岁较合适
+    - 9 岁起出现的死亡恐惧要正面接住
+    - 别用"妈妈死了"威胁孩子,等于把死装进他的内部模型
+  failure_mode: |
+    "他还小不懂死,随便说说没事" — 数据:9 岁以下没真正"懂"死,但"分离"概念已能感知。
+    "葬礼带着他长见识" — 7 岁以下可能创伤;视情况评估。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Bowlby
+  - G-TERM-attachment
+  - G-TERM-separation-anxiety
+
+citation:
+  book_title_zh: "依恋三部曲 · 第二卷:分离"
+  book_title_en: "Attachment and Loss · Volume 2: Separation"
+  authors: ["John Bowlby"]
+  authors_zh: ["约翰·鲍尔比"]
+  translators_zh: ["汪智攀", "王婷婷"]
+  publisher_zh: "世界图书出版有限公司北京分公司"
+  year_en: 1973
+  year_zh: 2017
+  isbn: "978-7-5192-2926-9"
+  location: "第七章唤起人类恐惧感的情境(9 岁以下的 200 名儿童并没有提到对于死亡的恐惧,9-12 岁的 200 名儿童中只有 6 个提到自己会害怕死亡 - Anthony 1940)"
+  source_id: SRC-012
+
+unit_ids: []
+related_cards:
+  - C-S6-082      # 分离反应 3 阶段
+  - C-S7-035      # 别偷偷溜走
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

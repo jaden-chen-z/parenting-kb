@@ -1,0 +1,68 @@
+glossary_id: G-TERM-WPSS
+type: term
+display_name: WPSS 量表
+
+full_name_zh: WPSS / 心智理论 5 阶段量表
+full_name_en: Wellman/Liu Theory of Mind Scale
+
+one_liner: |
+  Wellman/Liu 2004 心智理论发展 5 阶段量表 — 顺序固定跨文化普适。
+  从 18 月"知你想要不一样"到 5-7 岁"假装情绪"的发展轴。
+
+detail: |
+  ## 定义
+  Wellman/Liu 2004 ToM Scale(WPSS):
+
+  ### 5 阶段(顺序固定)
+  1. **Diverse Desires**(18-24 月)— "你想要 A,我想要 B"
+  2. **Diverse Beliefs**(2-3 岁)— "你信 A,我信 B"
+  3. **Knowledge Access**(3-4 岁)— "你知道我知道吗"
+  4. **False Belief**(4-5 岁)— Sally-Anne 通过
+  5. **Hidden Emotion**(5-7 岁)— "他装不开心其实生气"
+
+  ## 跨文化普适
+  - 中国 / 美国 / 西班牙语 / 伊朗 / 泰国 — 顺序一样
+  - 通过年龄略有差异(2-3 个月)
+  - 自闭症儿童阶段顺序对,延迟 4-5 年
+
+  ## 立场
+  - Wellman 渐进派(vs Leslie 强先天模块派)
+  - 顺序固定不能跳级
+  - 是主流 ToM 评估工具
+
+  ## 在本知识库中
+  - SRC-028 Lerner V2 Ch19 Harris 综述
+  - C-S7-1098 Wellman ToM 5 阶段
+  - C-S8-420 Sally-Anne
+  - C-S8-428 自闭症 ToM 延迟
+
+  ## 中国家长意义
+  - 不必"测"孩子 — 阶段自然展开
+  - 阶段顺序固定,跨文化一致
+  - 中国孩子跟美国孩子一样按顺序
+
+key_facts:
+  - Wellman/Liu 2004 量表
+  - 5 阶段顺序固定
+  - 跨文化普适
+  - 自闭症延迟 4-5 年
+
+related_glossary:
+  - G-PERSON-Wellman
+  - G-PERSON-Leslie
+  - G-TERM-theory-of-mind
+  - G-TERM-false-belief
+
+related_cards:
+  - C-S7-1098
+  - C-S8-420
+  - C-S8-428
+
+sources:
+  - source_id: SRC-028
+  - external: Wellman/Liu 2004 / Wikipedia Theory of Mind
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,45 @@
+glossary_id: G-TERM-IBFAN
+type: term
+display_name: "IBFAN 国际母婴行动网"
+
+en_term: "International Baby Food Action Network"
+zh_term: "国际母婴食品行动网"
+
+one_liner: |
+  IBFAN = 全球 NGO 网络,定期发布 Code 违规公司报告 — 中国市场长期上榜。
+
+detail: |
+  ## 定义
+  International Baby Food Action Network — 1979 年成立的全球非政府组织网络,目标监督奶粉公司 Code 合规。
+  
+  ## 职能
+  - 监测全球奶粉公司 Code 违规
+  - 发布定期 'Breaking the Rules' 报告
+  - 跟 WHO/UNICEF 合作 NetCode
+  
+  ## 历史
+  Nestle 1977 抵制运动 — IBFAN 起源前情。
+  
+  ## 中国数据
+  中国市场在 IBFAN 报告中长期上榜违规品牌 — 飞鹤/雅培/惠氏/合生元等。
+
+key_facts:
+  - "1979 年成立"
+  - "全球 NGO 网络"
+  - "Breaking the Rules 报告"
+
+related_glossary:
+  - G-TERM-WHO-Code
+  - G-TERM-NetCode
+  - G-TERM-formula-marketing
+
+related_cards:
+  - C-S1-1011
+
+sources:
+  - source_id: SRC-031
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

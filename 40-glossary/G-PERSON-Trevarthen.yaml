@@ -1,0 +1,31 @@
+glossary_id: G-PERSON-Trevarthen
+type: person
+display_name: "Trevarthen(科尔温·特雷瓦特恩)"
+
+full_name_en: "Colwyn Trevarthen"
+full_name_zh: "科尔温·特雷瓦特恩"
+
+position: |
+  University of Edinburgh 心理学教授
+
+contribution: |
+  intersubjectivity(主体间性)概念奠基人,Stern 4 self 派直接根基
+
+one_liner: |
+  特雷瓦特恩 — 母婴主体间性奠基人,Stern self 心理学根基
+
+key_facts:
+  - "本卷章节:Ch 5 Saarni"
+  - "Stern 派直接前驱"
+
+related_glossary:
+  - G-TERM-intersubjectivity
+related_cards: []
+
+sources:
+  - source_id: SRC-027
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

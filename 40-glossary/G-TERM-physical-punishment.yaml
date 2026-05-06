@@ -1,0 +1,95 @@
+glossary_id: G-TERM-physical-punishment
+type: term
+display_name: 反体罚立场
+
+full_name_en: Anti-Physical-Punishment Stance
+full_name_zh: 反体罚立场
+
+one_liner: |
+  反对打骂/体罚/打屁股的派系。跨派共识:松田道雄 / Lansbury / Bowlby V1+V2 / 蒙氏(Lillard) — 都反对体罚。
+  松田观察:1.5-2 岁娃看到体罚就怕,记住暴力,长期阴影。
+
+detail: |
+  ## 跨派立场
+
+  ### 1. 松田道雄(SRC-023 §360)⭐
+  - 1.5-2 岁孩子看到体罚或医院强按打点滴的情形,会怕得抱紧别人或揪住母亲
+  - 这年龄已能看懂/记住"暴力" — 不是没记忆
+  - 当面打骂 → 后续怕陌生人/怕医生/怕大声
+
+  ### 2. Janet Lansbury(SRC-019 RIE 派)
+  - "I won't let you" 公式替代打 — 用身体阻止 + 语言确认
+  - CEO 语调:平静坚定不动手
+  - Why You're Yelling 4 reasons — 自我反思替代发泄
+
+  ### 3. Bowlby 依恋理论(SRC-011 V1)
+  - 体罚 = 攻击信号 → 触发依恋系统警报
+  - 长期体罚 → 混乱型依恋(D 类)风险
+  - 受虐儿童混乱型依恋(SRC-011 V1 §18)
+
+  ### 4. Lillard 蒙氏(SRC-016)
+  - "No" 永远是 "No" — 但是温和的 "No"
+  - 限度并存,不需暴力执行
+
+  ### 5. Davies 蒙氏 0-1(SRC-014)
+  - 温柔边界 — 不打不骂
+  - 哭闹 5 步回应法
+
+  ## 中国家长高频痛点
+  - "我打你是为你好" → 娃记住的是"父母会伤我"
+  - "小时候打了大了好" → 实际是亲子关系长期裂痕
+  - 当众打孩子 → 羞辱 + 陌生人怕
+  - "棍棒底下出孝子" → 现代研究:体罚跟成年抑郁/焦虑/暴力强相关
+
+  ## 替代工具(跨派整合)
+  1. **承认情绪**(Lansbury Ch3) — "你很生气,妈知道"
+  2. **限度并存**(Lillard) — "我不让你打弟弟" + 抱住手
+  3. **离开现场**(Davies) — 大人先冷静再回应
+  4. **自我反思**(Lansbury Why You're Yelling) — 看自己是疲劳/挫折/历史触发
+
+  ## 反派对照(支持体罚的极少派)
+  - 极传统老人(被动接受家暴循环) — 现代心理学全面反对
+  - "棍棒底下出孝子"中国传统 — 已无现代育儿派支持
+  - WHO 2018 全球禁止体罚立场
+
+  ## 实操 4 工具
+  1. 1.5 岁起绝不在娃面前打骂任何人
+  2. 别用"看医生打针"吓娃
+  3. 邻居家暴力场面立刻带娃离开
+  4. 想发火时先离开 5 分钟
+
+key_facts:
+  - 5 派共识:松田/Lansbury/Bowlby/蒙氏 都反体罚
+  - 1.5-2 岁能看懂/记住暴力,长期阴影
+  - 体罚跟混乱型依恋(D 类)风险相关
+  - WHO 2018 全球禁止体罚立场
+  - 替代工具:承认情绪 + 限度并存 + 离开冷静 + 自我反思
+
+related_glossary:
+  - G-PERSON-Matsuda
+  - G-PERSON-Bowlby
+  - G-PERSON-Lansbury
+  - G-PERSON-Lillard
+  - G-PERSON-Davies
+  - G-TERM-anti-cry-it-out
+  - G-TERM-disorganized-attachment
+  - G-TERM-secure-base
+
+related_cards:
+  - C-S6-671     # 松田 1 岁后看体罚会怕
+  - C-S7-758     # 松田 自慰是常见的不是病(反打骂)
+  - C-S6-403     # Lansbury 限度+情绪并存
+  - C-S2-132     # Lansbury 哭闹 5 步回应法
+  - C-S2-128     # Lansbury 等 3 秒再回应
+
+sources:
+  - source_id: SRC-023    # 松田反体罚
+  - source_id: SRC-019    # Lansbury "I won't let you"
+  - source_id: SRC-011    # Bowlby V1 受虐儿童混乱型依恋
+  - source_id: SRC-016    # Lillard No 永远是 No
+  - external: WHO 2018 Position Statement on Ending Corporal Punishment
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

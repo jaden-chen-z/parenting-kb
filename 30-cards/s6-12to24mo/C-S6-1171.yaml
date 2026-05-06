@@ -1,0 +1,66 @@
+card_id: C-S6-1171
+stages: [S6]
+tags: [cognitive_science, pretense, leslie, lerner_v2]
+
+front:
+  title: 18 月开始假装是核心
+  hook: ToMM 模块启动
+
+back:
+  why_matters: |
+    Leslie 1987 ToMM(Theory of Mind Module)— Lerner V2 Ch19 综述。
+    18-24 月真正"假装游戏"开始:
+    - 18 月:用空杯"喝水"(替代假装)
+    - 22-24 月:洋娃娃"哭了"(指代假装)
+    - 24+ 月:扮演不同角色(self vs other 区分)
+    Leslie 立场:**假装需要 metarepresentation**
+    - 知道这杯子是空的(现实)
+    - 同时假设它是满的(假装)
+    - 两层表征同时,不混 = ToMM 已启动
+    - 这是后续 4-5 岁通过 Sally-Anne 任务的奠基意义:
+    - 假装不是简单模仿,是认知里程碑
+    - 自闭症孩子 18+月仍少假装 = ToMM 缺损
+    - 假装游戏越多 → ToM 发展越早 + Sally-Anne 通过越早跟现库:跟 Stern verbal self(15+ 月)对接。
+    跟蒙氏 Lillard 假装游戏立场对接(蒙氏部分反但 V2 综述支持)。
+    对中国家长意义:
+    - 18 月看到孩子拿空杯"喝水" — 重要里程碑
+    - 多陪假装游戏 = 培养 ToM
+    - 不要"那不是真的"打断假装
+    - 假装少需观察(可能 ToMM 慢)
+  what_to_do:
+    - 18 月起多假装游戏(假装吃 / 喝 / 抱玩偶)
+    - 进入孩子假装情境,不打断
+    - 不嘲笑"那不是真的"
+    - 陪玩 = 认知投资
+  failure_mode: |
+    "假装是浪费时间" — 错。是 ToM 奠基。
+    "18 月不假装就是慢" — 范围 18-24 月。
+    "孩子 24 月仍少假装看医生" — 可能 ToMM 信号。
+  evidence_level: B
+
+glossary_refs:
+  - G-TERM-theory-of-mind
+  - G-PERSON-Leslie
+  - G-TERM-false-belief
+  - G-PERSON-Stern
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 2 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 2 卷"
+  authors: ["Paul L. Harris"]
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 19 · Pretense / Leslie 1987 · pp. 822-830"
+  source_id: SRC-028
+
+unit_ids: []
+related_cards:
+  - C-S5-1140     # Tomasello 9 月革命
+  - C-S5-1141     # Pointing 分享
+  - C-S7-1098     # Wellman ToM 5 阶段(后)
+  - C-S8-422       # Sally-Anne(后)
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

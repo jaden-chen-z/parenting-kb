@@ -1,0 +1,65 @@
+card_id: C-S5-905
+stages: [S5]
+tags: [shonkoff, nrc, joint_attention, language_pre, china_high_freq]
+
+front:
+  title: "联合注意是语言钥匙"
+  hook: "宝宝看你看的方向"
+
+back:
+  why_matters: |
+    NRC 综述 Ch 6 引 Tomasello 经典 — joint attention 联合注意:
+    **9-12 月发展**:
+    - 宝宝开始**跟随你的视线**(gaze following)
+    - 9 月起**指物**(pointing)— 指着东西要你看
+    - 12 月起**回头看** — 你说"看那只猫" 他扭头看 + 回头确认你也看
+    - 这是 **joint attention 联合注意**
+    **NRC 立场**:
+    - **联合注意是语言学习的前奏**
+    - 没有 joint attention → 词汇学习几乎不可能
+    - 自闭症早期标志之一就是 joint attention 缺失
+    **机制**:
+    - 妈说"看那只狗"+ 妈看狗 + 宝宝跟随看狗
+    - 宝宝把"狗"这个声音 + 那个动物连起来
+    - **没有 joint attention** → 不知道妈说的是哪个东西
+    **对中国家长**:
+    - 9-12 月多用"看 + 指 + 命名"组合
+    - "看,飞机!"+ 指 + 等宝宝看 + 再说一次
+    - 跟宝宝玩"指物找东西"游戏
+    - 9-12 月没指物 / 没跟随视线 → 看儿科(自闭症筛查)
+    跟 Stern intersubjectivity + Wonder Weeks 第 5 跃迁 + Gopnik joint attention 一致。
+  what_to_do:
+    - 多"看 + 指 + 命名"
+    - 等宝宝跟随视线
+    - 玩指物找物游戏
+    - 9-12 月不指物去儿科
+    - 多 joint attention 互动
+  failure_mode: |
+    "他还小不会跟视线" — 错,9 月起开始。
+    "我说话他不看 — 不要说了" — 反向加深 — 多用动作 + 指物吸引。
+    9-12 月持续无 joint attention → 自闭症筛查重要 — 别等。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Shonkoff
+  - G-TERM-joint-attention
+  - G-TERM-NRC
+
+citation:
+  book_title_en: "From Neurons to Neighborhoods"
+  authors: ["Jack P. Shonkoff", "Deborah A. Phillips"]
+  org: "NRC/IOM"
+  year_en: 2000
+  location: "Ch 6 · Tomasello joint attention research"
+  source_id: SRC-025
+
+unit_ids: []
+related_cards:
+  - C-S5-295    # Stern intersubjectivity SRC-018
+  - C-S4-807    # Shonkoff parentese(本卷)
+  - C-S5-298    # Stern repair / mutual SRC-018
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

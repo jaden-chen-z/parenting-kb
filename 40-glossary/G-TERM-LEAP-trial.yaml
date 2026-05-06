@@ -1,0 +1,19 @@
+glossary_id: G-TERM-LEAP-trial
+type: term
+display_name: LEAP 试验
+full_name_en: "Learning Early About Peanut Allergy (LEAP) trial"
+full_name_zh: "LEAP 试验(早期学会花生过敏)"
+one_liner: |
+  2015 NEJM 随机对照试验(N=640,4-11 月高危婴儿),证明 4-11 月就少量引入花生比延后引入显著降低 5 岁时花生过敏率(差异 81%)。
+detail: |
+  Du Toit 等人主持,招募 4-11 月已有湿疹或鸡蛋过敏的高危婴儿 640 名,随机分两组:一组每周吃花生制品 6g+(蛋白)直至 5 岁,一组完全避免花生。
+  结果:5 岁时,皮试阴性组花生过敏率,避免组 13.7% vs 早引组 1.9%,相对风险降低 86%;皮试阳性组,避免组 35.3% vs 早引组 10.6%,相对风险降低 70%。
+  影响:直接推翻 2000 年 AAP 建议(高危儿延后到 3 岁吃花生),促成 2017 NIAID 新指南——4-6 月起医生指导下早引高危过敏原,反向预防过敏。
+related_glossary: [G-ABBR-LEAP, G-TERM-allergy-introduction, G-ABBR-NEJM, G-ABBR-AAP]
+related_cards: [C-S3-2249]
+sources:
+  - external: "Du Toit G et al. NEJM 2015;372:803-813. doi:10.1056/NEJMoa1414850"
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

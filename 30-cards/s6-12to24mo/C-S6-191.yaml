@@ -1,0 +1,61 @@
+card_id: C-S6-191
+stages: [S6]
+tags: [montessori, will, discipline]
+
+front:
+  title: 12-18 月限度物理移除
+  hook: 替换物不能再哄
+
+back:
+  why_matters: |
+    Lillard Ch9 区分 — **不同月龄宝宝的限度策略要变**:
+    - **0-9 月** — 直接换物(给另个东西转移注意)
+    - **9-12 月** — 仍可换物,但宝宝开始记住"我刚才想要的"
+    - **12-18 月** — **必须物理移除**(把物品 / 宝宝挪走)
+    - **18-36 月** — **加语言**(选 2 + 描述,见 C-S6-188)
+    - **3 岁+** — 可讲道理(reasoning)
+    为什么 12-18 月物理移除:
+    - 这阶段宝宝大脑能"记住物品" — 即使物品不在眼前
+    - 给另个物品哄不再有用 — 宝宝会"哭着要那个"
+    - 必须物理移除("我把电源插座挡板挡了" / "我把宝宝抱到另一个房间")
+    - 宝宝无法建立"明明大人已经替我换了为什么还在哭"的逻辑
+    Lillard 实操技巧:
+    - 看宝宝想抓危险物 → 走过去站他前面 + 转身让他改方向(不要从背后抱)
+    - 转身能引导,转身 = 给宝宝"主动转身"的尊严
+    - 不要从背后抱起 — 宝宝学到"我不能控制结果"
+    跟"再说一次他就懂" / "讲道理"(对 12-18 月)**对立** — Lillard:**12-18 月没有讲道理的脑能力,必须物理执行**。
+  what_to_do:
+    - 12-18 月限度 = 物理移除
+    - 转身在前面挡(不背后抱)
+    - 给安全替代物
+    - 不"讲道理"
+    - 平静坚定,不挑战
+  failure_mode: |
+    "我跟他讲道理,他懂" — 反:12-18 月不懂"道理",物理执行才有效。
+    从背后抱起 → 宝宝学"我不能控结果",自我效能受损。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Lillard
+  - G-PERSON-Jessen
+
+citation:
+  book_title_zh: "蒙台梭利从 0 岁开始"
+  book_title_en: "Montessori from the Start"
+  authors: ["Paula Polk Lillard", "Lynn Lillard Jessen"]
+  authors_zh: ["宝拉·波尔克·莉拉德", "琳·莉拉德·杰森"]
+  publisher_en: "Schocken Books"
+  year_en: 2003
+  isbn_en: "978-0-8052-1112-1"
+  location: "Ch 9 · 'Developing Will' (12-18 month strategy)"
+  source_id: SRC-016
+
+unit_ids: []
+related_cards:
+  - C-S6-188       # Lillard 选 2 法
+  - C-S6-133       # Davies 温柔边界
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

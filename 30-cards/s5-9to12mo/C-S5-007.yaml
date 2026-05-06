@@ -1,6 +1,6 @@
 card_id: C-S5-007
 stages: [S5]
-tags: [safety]
+tags: [safety, controversy]
 
 front:
   title: 12 月疫苗:MMR + 水痘 + HepA
@@ -34,7 +34,7 @@ citation:
   page_url_primary: https://www.healthychildren.org/English/safety-prevention/immunizations/Pages/Your-Babys-First-Vaccines.aspx
   accessed: 2026-05-02
   language: en
-  location: "'12-18 个月' 段 (MMR / 水痘 / 甲肝 第 1 剂)"
+  location: "'12-18 个月' 段 (MMR / 水痘 / 甲肝第 1 剂)"
   source_id: SRC-008
 
 unit_ids: []

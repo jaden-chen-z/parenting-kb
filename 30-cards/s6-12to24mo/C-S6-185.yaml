@@ -1,0 +1,62 @@
+card_id: C-S6-185
+stages: [S6]
+tags: [montessori, cycle-of-activity, practical-life]
+
+front:
+  title: 蒙氏完整循环活动
+  hook: 准备 + 做 + 收尾
+
+back:
+  why_matters: |
+    Lillard Ch6 详细描述 — 蒙氏 15 月+ 工作的内在结构 = **cycle of activity**(完整 3 段):
+    1. **准备** — 拿围裙 + 摆托盘 + 取物品
+    2. **做** — 切水果 / 倒水 / 擦桌
+    3. **收尾** — 洗工具 / 工具归位 / 脱围裙每段都是孩子的(大人不替任何一段做)。
+    切香蕉的完整循环示例:
+    1. 围裙穿上 → 取托盘 → 2 个碗(果肉 + 垃圾)→ 取香蕉 + 钝刀
+    2. 剥皮(每片立即放垃圾碗)→ 切片(立即放果肉碗)
+    3. 端走果肉碗 → 擦托盘 → 洗刀 → 工具归位 → 脱围裙为什么完整循环至关重要:
+    - 大脑学"做事是有头有尾的"(秩序内化)
+    - 注意力训练(每段都需要专注)
+    - 责任感(不留烂摊子 = 责任的开始)
+    - 自我效能(我自己完成了)
+    - 未来阅读 / 写作的顺序基础(左到右 / 上到下)
+    跟"宝宝玩两下就好" / "宝宝累了大人收尾"**对立** — Lillard 立场:**完整周期是教育核心,缺一段就不算"工作"**。
+  what_to_do:
+    - 设计完整循环(3 段)
+    - 大人示范一遍慢慢
+    - 让宝宝完整做(包括收尾)
+    - 速度慢没关系,坚持完整
+    - 用围裙作"始" + "终"信号
+  failure_mode: |
+    "宝宝累了我帮他收尾" — 反:这正是关键学习段,替了就剥夺。
+    "宝宝玩多久玩多久" — 蒙氏立场:有完整周期才是工作,没周期是漫无目的。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Lillard
+  - G-PERSON-Jessen
+  - G-PERSON-Montessori
+  - G-TERM-cycle-of-activity
+  - G-TERM-practical-life
+
+citation:
+  book_title_zh: "蒙台梭利从 0 岁开始"
+  book_title_en: "Montessori from the Start"
+  authors: ["Paula Polk Lillard", "Lynn Lillard Jessen"]
+  authors_zh: ["宝拉·波尔克·莉拉德", "琳·莉拉德·杰森"]
+  publisher_en: "Schocken Books"
+  year_en: 2003
+  isbn_en: "978-0-8052-1112-1"
+  location: "Ch 6 · 'Practical Life' (cycle of activity)"
+  source_id: SRC-016
+
+unit_ids: []
+related_cards:
+  - C-S6-184       # Lillard 15 月转工作
+  - C-S6-130       # Davies 12-15 月生活技能起步
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

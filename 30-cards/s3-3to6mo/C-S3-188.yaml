@@ -1,0 +1,76 @@
+card_id: C-S3-188
+stages: [S3]
+tags: [cognitive_science, object_permanence, myth_busting]
+
+front:
+  title: 4 月就懂物体永久性
+  hook: Piaget 8 月说错了
+
+back:
+  why_matters: |
+    Piaget 经典理论:物体永久性(知道东西消失后还存在)= 8-10 月才有。
+    Spelke / Baillargeon 1985 推翻这一假设:**4 月就有雏形**。
+    实验设计(violation-of-expectation):
+    - 给 4 月宝宝看球滚到屏后
+    - "魔术"消失(不该消失)→ 宝宝盯更久(惊讶)
+    - 在屏后正常出现 → 宝宝盯一会儿就移开(预料中)
+    Gopnik 解读:4 月宝宝**心里已经有"东西继续存在"模型**。
+    Piaget 错在哪:他用"找不找盖布下的东西"测,需要协调动作能力。
+    宝宝可能心里知道,但手还不会找。
+    后续实验用"看的时间"测 = 能力提前 4-5 个月。
+    含义:婴儿"心里"懂的东西远超"行为"展示的。
+    对中国家长意义:
+    - 宝宝早就在思考世界,只是手脚跟不上
+    - 不要"他还没那么大不懂"作为不互动的理由
+    - 4 月就可以玩躲猫猫 / 让物体 disappear-reappear
+  what_to_do:
+    - 4 月起玩简单躲猫猫(用布盖脸再露)
+    - 让宝宝看物体进入容器再取出
+    - 跟宝宝解释"东西去哪了"(语言 + 动作配合)
+    - 不必等"8 月才认知发展"
+  failure_mode: |
+    "他不懂,玩躲猫猫太早" — 错。4 月就懂物体永久性雏形。
+    用 Piaget 理论判断"他几月该会什么" — 错。Piaget 工具不够灵敏。
+    宝宝盯一个东西看半天 — 不要打断,他在做实验。
+  evidence_level: A
+
+  positions:
+    issue: 物体永久性月龄 — 8-10 月还是 4 月
+    views:
+      - school: Piaget / 鲍秀兰
+        source: SRC-009
+        stance: 8-10 月成熟(行为版)— 用动作测,孩子能找盖布下藏起的物体。
+      - school: Spelke / Gopnik
+        source: SRC-015
+        stance: 4 月就有雏形(认知版)— violation-of-expectation 范式测惊讶反应,雏形早在 4 月。
+      - school: AAP
+        source: SRC-004
+        stance: 8-10 月萌芽(主流行为派立场,临床观察一致)。
+      - school: 学界争议
+        stance: Heyes 2014 等批评 violation-of-expectation 范式可能过度解读;两者层级不同,都对。
+glossary_refs:
+  - G-PERSON-Gopnik
+  - G-PERSON-Piaget
+  - G-TERM-object-permanence
+  - G-TERM-baby-scientist
+  - G-TERM-peekaboo
+
+citation:
+  book_title_en: "The Scientist in the Crib"
+  book_title_zh: "摇篮里的科学家"
+  authors: ["Alison Gopnik", "Andrew N. Meltzoff", "Patricia K. Kuhl"]
+  publisher_en: William Morrow
+  year: 1999
+  location: "Chapter 3 · Object permanence (Spelke/Baillargeon)"
+  source_id: SRC-015
+
+unit_ids: []
+related_cards:
+  - C-S4-003       # 物体永久性 8-10 月,peekaboo 教(早期建)
+  - C-S1-240       # baby scientist 总论
+  - C-S1-244       # 新生儿 Rembrandt 视觉
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

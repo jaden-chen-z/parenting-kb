@@ -1,0 +1,59 @@
+card_id: C-S5-185
+stages: [S5]
+tags: [montessori, movement, sensory, philosophy]
+
+front:
+  title: 走稳就赤脚
+  hook: 平衡 + 触觉双发展
+
+back:
+  why_matters: |
+    Lillard Ch5 关键观点 — **宝宝学走和走稳后,室内尽量赤脚**(室温合适时):
+    为什么:
+    - **赤脚 = 触觉反馈完整** — 软地毯 / 木地板 / 草 / 湿地全是大脑信号
+    - **赤脚 = 平衡更好** — 脚趾能抓地,微调身体
+    - **赤脚 = 脚肌肉强** — 长大后不容易扁平足 / 拇外翻
+    - **袜子 / 鞋 = 反馈打折扣 + 摔了袜子滑** — 宝宝学到"我不能信脚"
+    实操:
+    - 室温适合就赤脚(摸脚冰再加袜子)
+    - 公共场所穿鞋时选**软底** + **真鞋头**
+    - 室内若穿袜 → 选有橡胶防滑底的
+    - 不穿硬底 / 高帮 / 系带子复杂的鞋
+    Lillard 让大人体验:**自己脱袜脱鞋走 1 分钟,感觉一下** — 平衡感差异立刻明显。
+    跟"走早需要硬底鞋支撑"误区**对立** — 蒙氏 + 现代足科一致:**学走期间硬底鞋反而妨碍发展**。
+  what_to_do:
+    - 室内尽量赤脚(摸脚冰再袜子)
+    - 室外鞋选软底 + 短帮
+    - 不穿硬底 / 系带难鞋
+    - 袜子选橡胶防滑底
+    - 让宝宝感觉地面纹理变化
+  failure_mode: |
+    "宝宝赤脚冷 / 脏" — 反:摸脚才是判断,看天气 / 地面温度 / 脏度。
+    硬底高帮鞋 → 走得反而晚 / 不稳。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Lillard
+  - G-PERSON-Jessen
+  - G-TERM-coordinated-movement
+
+citation:
+  book_title_zh: "蒙台梭利从 0 岁开始"
+  book_title_en: "Montessori from the Start"
+  authors: ["Paula Polk Lillard", "Lynn Lillard Jessen"]
+  authors_zh: ["宝拉·波尔克·莉拉德", "琳·莉拉德·杰森"]
+  publisher_en: "Schocken Books"
+  year_en: 2003
+  isbn_en: "978-0-8052-1112-1"
+  location: "Ch 5 · 'Crawling to Coordination' (bare feet)"
+  source_id: SRC-016
+
+unit_ids: []
+related_cards:
+  - C-S5-008       # 鲍秀兰 12 月走
+  - C-S4-194       # Lillard Walker Wagon
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

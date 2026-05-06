@@ -1,0 +1,57 @@
+card_id: C-S5-801
+stages: [S5]
+tags: [discipline, manage, japan, matsuda]
+
+front:
+  title: "9 月起制止靠转场"
+  hook: "9 月讲理太早"
+
+back:
+  why_matters: |
+    松田 §291(10-11 月制止婴儿做不该做的事情)给硬规则:
+    1. 9-10 月起婴儿能听懂"不能";
+    2. 但不能讲道理 — 注意力短;
+    3. 危险动作(碰取暖炉 / 拿打火机)要严厉但简短;
+    4. 不要打骂作惩罚 — 婴儿记不住"行为 = 后果";
+    5. 转场比讲理快 — 抱到别处比"为什么不能"有效;
+    6. 反复做错只能反复制止 — 不要期望"教一次就会";
+    7. 真要制止时表情 + 声调要"反差大"才记得住。
+    跟 RIE / Lansbury "限度温柔但坚定"一致 + 加日式"转场"操作。
+
+  what_to_do:
+    - 危险物碰之前先转场
+    - 制止用短句"不行" + 严肃表情
+    - 不打不骂作"惩罚"
+    - 反复做错心理上接受
+    - 不期望 9-10 月真"听懂"
+
+  failure_mode: |
+    讲道理派："为什么不能 — 因为危险" → 9-10 月听不懂 → 反复犯 → 妈妈崩溃打孩子。
+    沉默派："不说他自然就会" → 危险物 / 哭闹 / 打人都不管 → 1 岁后习惯坏掉。
+    松田中道: 严肃但简短 + 转场 + 不打骂。
+    类似 Lansbury "I won't let you" 立场，但松田更早(9 月起就用)。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Matsuda
+
+citation:
+  book_title_zh: "定本育儿百科"
+  authors:
+    - 松田道雄
+  publisher_ja: 岩波书店
+  year_first_edition: 1967
+  location: "§291 制止婴儿做不该做的事情"
+  source_id: SRC-024
+
+unit_ids: []
+related_cards:
+  - C-S6-396  # Lansbury CEO 语调 + I won't let you
+  - C-S6-021  # Brazelton Discipline 是教导
+  - C-S6-007  # 鲍秀兰 1-2 岁管教全家一致 + 不打孩子
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

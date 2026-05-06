@@ -1,0 +1,72 @@
+glossary_id: G-TERM-cortisol
+type: term
+display_name: cortisol 皮质醇
+
+en_term: cortisol
+zh_term: 皮质醇 / 应激激素
+
+one_liner: |
+  人体应激反应核心激素 — 由肾上腺(adrenal glands)分泌,经 HPA 轴控制。
+  短暂应激 → cortisol 上升 → 应激退后下降 = 健康。
+  慢性应激 → cortisol 持续高 → 海马(记忆区)+ PFC(思考区)受损。
+  婴儿 cortisol 完全靠**照护者调节** — 安全依恋是最强缓冲器。
+
+detail: |
+  ## 生理机制
+  - 由肾上腺皮质分泌
+  - HPA 轴(下丘脑 - 垂体 - 肾上腺)控制
+  - 自然 24 小时节律(早高 + 晚低)
+  - 应激事件 → 急升
+
+  ## 在儿童发展中的作用
+  - 短暂 cortisol 上升 → 健康(motivates 行动)
+  - 慢性高 cortisol → 海马受损(记忆 + 学习)
+  - 慢性高 cortisol → PFC 发育受阻(自我调节)
+  - 慢性高 cortisol → 免疫系统弱
+  - 慢性高 cortisol → 心血管风险
+
+  ## 婴儿期特别
+  - 婴儿没有"反思"能力调节 cortisol
+  - 完全靠**照护者调节**
+  - 安全依恋宝宝在压力情境 cortisol 上升较少
+  - 不安全依恋宝宝 cortisol 大幅上升
+  - **NRC Ch 9 关键点**:照护者 = 应激缓冲器
+
+  ## 慢性应激源(对婴儿)
+  - 虐待 / 严重忽视
+  - 母亲严重抑郁
+  - 长期分离主要照护人
+  - 家暴
+  - 严重不安全 / 暴力环境
+
+  ## NRC 立场
+  - 普通生活波折(妈妈累 / 偶尔吵架 / 短暂托管)→ 不是慢性应激
+  - 极端应激源 → 必须早干预
+  - 安全依恋是最强缓冲
+
+  ## 跟 toxic stress 关系
+  - "toxic stress" 是 Shonkoff/Center on the Developing Child 后期概念(2006+)
+  - 本书(2000)用的是 "chronic stress / cortisol elevation"
+  - 后期 toxic stress 框架 = 慢性 cortisol + 缺缓冲
+
+key_facts:
+  - 肾上腺分泌的应激激素
+  - HPA 轴控制
+  - 慢性高 cortisol 伤海马 + PFC
+  - 婴儿靠照护者调节
+
+related_glossary:
+  - G-PERSON-Shonkoff
+  - G-TERM-HPA-axis
+  - G-TERM-attachment
+
+related_cards: []
+
+sources:
+  - source_id: SRC-025
+  - external: Gunnar et al multiple studies
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,50 @@
+card_id: C-S3-2249
+stages: [S3]
+tags: [feeding, allergy, safety, controversy, red_flag]
+front:
+  title: 过敏原 6 月起早引,反预防过敏
+  hook: 海蒂主张延后,LEAP 推翻
+back:
+  why_matters: |
+    上卡讲海蒂主张过敏家族延后引入固体,坚果/鸡蛋甚至到 3 岁。这本 2010 版书代表"延后预防"主流。
+    但 2015 年 NEJM 的 LEAP 试验(640 名高危娃)证伪:4-11 月就少量引入花生,5 岁时花生过敏率反而比延后组低 81%。本卡警示:海蒂的延后建议已过时,与现行 NIAID/AAP 2017 指南冲突。
+  what_to_do:
+    - 高危娃 4-6 月就咨询过敏科
+    - 花生粉/花生酱稀释后小量先试
+    - 鸡蛋黄 6 月起,不必拖到 1 岁
+    - 在医院或诊所附近第一次试
+    - 出现喘鸣/面部肿即送急诊
+  failure_mode: 严格按海蒂书延后到 1 岁后才引花生,反而错过免疫耐受窗口,娃终身花生过敏的风险显著升高。
+  evidence_level: A
+  positions:
+    issue: 过敏原(花生 / 蛋 / 奶等)何时引入 — 早引入还是延后避免
+    views:
+      - school: 海蒂(2014 第 5 版)
+        source: SRC-040
+        stance: 过敏原 6 月起早引入,反"预防过敏的延后" — 直接对接 LEAP 2015 / AAP 2017 共识。
+      - school: 海蒂(2010 第 4 版)
+        source: SRC-040
+        stance: 旧版延后立场(避免高致敏食物到 1-3 岁)。需明示自我修正以防中国老人引旧版。
+      - school: LEAP / AAP 2017
+        source: SRC-006
+        stance: 早引入 — 4-6 月起规律暴露过敏原可降低过敏率;LEAP 试验对花生过敏率降 80%。
+      - school: 中国老人禁忌
+        stance: '"1 岁前不能给鸡蛋 / 海鲜 / 坚果";基于过时的延后避免理论,与现行循证立场对立。'
+glossary_refs: [G-TERM-LEAP-trial, G-TERM-allergy-introduction, G-ABBR-LEAP]
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors: ["Heidi Murkoff", "Sharon Mazel"]
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh: ["莫夏迪","张敏"]
+  location: "第 9 章 《第 5 个月》, 页 327-330"
+  source_id: "SRC-040"
+related_cards: [C-S3-2248, C-S4-2144]
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

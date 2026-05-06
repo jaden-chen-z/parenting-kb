@@ -8,27 +8,33 @@ front:
 
 back:
   why_matters: |
-    BLW(Baby-Led Weaning)= 6 月起让宝宝自喂 finger food,跳过传统泥糊阶段。
-    英国注册护士 Gill Rapley 2008 提出,后在国际接受度上升;国内一线城市采纳率上升。
+    BLW(Baby-Led Weaning,婴儿主导添加辅食)= 6 月起让宝宝坐高椅、自己抓长条手指食物,
+    跳过传统勺喂泥糊阶段。英国健康访问员 Gill Rapley 2008 年提出,后国际接受度上升;
+    国内一线城市采纳率上升。
+
     传统勺喂泥糊 vs BLW 各有优劣:
-    - BLW 优势:自我饱腹调节(防过喂)+ 多种 textures + 训练抓握自主
-    - BLW 劣势:营养间隙 + choking 风险高
-    AAP 立场:"families can combine BLW with spoon-feeding without guilt." 不偏不倚。
-    母乳/配方奶继续填(BLW 不是替代,是补充)。
+    - BLW 优势:自我饱腹调节(防过喂)+ 接触多种质地 + 训练抓握和自主
+    - BLW 劣势:头几月营养可能间隙 + 窒息风险需控
+
+    AAP 立场原文:"families can combine BLW with spoon-feeding without guilt."
+    白话翻译:可以结合 BLW + 勺喂,不必有罪恶感。AAP 不偏一种。
+
+    母乳 / 配方奶继续供主要营养(BLW 不是替代,是补充)。
   what_to_do:
-    - 不必非选一种 — BLW + spoon-feed 可结合
-    - BLW:6 月起,坐高椅,长条 finger food
-    - 泥糊:更易控量 + 引入新食物 + 含铁强化米粉
-    - 母乳/配方奶继续填(BLW 营养可能不足)
-    - 早产 / 坐不稳 / 嚼吞困难 → 推迟 BLW
+    - 不必二选一,BLW 跟勺喂可以结合
+    - 试 BLW:6 月起、能稳坐、坐高椅、给长条手指食物
+    - 试勺喂:更易控量 + 方便引入新食物 + 优先含铁强化米粉
+    - 母乳 / 配方奶继续给(头几月 BLW 营养可能不足)
+    - 早产 / 坐不稳 / 嚼吞困难的宝宝 → 推迟 BLW
   failure_mode: |
-    强行 BLW 但宝宝没 readiness → 营养不够 + 烦躁。
-    完全 spoon-fed 到 1 岁 → 错过 finger food 训练抓握。
+    强行 BLW 但宝宝还没准备好(不能稳坐 / 没抓握)→ 营养不够 + 烦躁。
+    完全勺喂到 1 岁,从不给手指食物 → 错过训练抓握和自主吃饭的机会。
   evidence_level: A
 
 glossary_refs:
   - G-ABBR-AAP
   - G-ABBR-BLW
+  - G-PERSON-Rapley
   - G-TERM-responsive-feeding
 
 citation:
@@ -38,7 +44,7 @@ citation:
   page_url_primary: https://www.healthychildren.org/English/ages-stages/baby/feeding-nutrition/Pages/baby-led-weaning-is-it-safe.aspx
   accessed: 2026-05-01
   language: en
-  location: "全文 — Definition + How BLW Works + Potential Benefits + Safety Concerns + AAP Recommendations + Readiness Considerations"
+  location: "全文 — Definition + How BLW Works + Potential Benefits + Safety Concerns + AAP Recommendations + 准备评估"
   source_id: SRC-006
 
 unit_ids: []

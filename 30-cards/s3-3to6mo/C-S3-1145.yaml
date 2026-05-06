@@ -1,0 +1,63 @@
+card_id: C-S3-1145
+stages: [S3]
+tags: [cognitive_science, cross_modal, meltzoff, lerner_v2]
+
+front:
+  title: 1 月嘴口形匹配奶嘴
+  hook: 跨感官天生就连得上
+
+back:
+  why_matters: |
+    Meltzoff/Borton 1979 经典(Lerner V2 Ch3 综述)。
+    给 1 月宝宝戴眼罩,然后给一个"光滑"或"凸点"奶嘴吸:
+    - 然后摘眼罩,看两个奶嘴(光滑 + 凸点)
+    - **宝宝盯刚才"嘴里那个"的视觉版本更久** — 50%+ 概率高于巧合意义:
+    - **跨模式知觉(cross-modal perception)** — 触觉 → 视觉自动连
+    - 不需要看 + 摸的"经验关联",出生就有
+    - Stern "amodal perception"(无模式知觉)同方向
+    - Stern 4 阶段 self 的"emergent self"(0-2 月)的认知机制
+    Lerner V2 Ch3 综述:
+    - 视觉 + 听觉同步(看说话嘴形 → 知发音)— 4 月
+    - 视觉 + 触觉同步(看抓 → 抓得到)— 1 月已有
+    - 这是 self 形成的认知奠基跟现库:跟 Stern emergent self(C-S2-001 系列)接 + G-TERM-amodal-perception 已建。
+    Lerner V2 给跨模式经典实证综述。
+    对中国家长意义:
+    - 1 月宝宝吸到的(嘴感)+ 看到的(视觉)自动连
+    - 给宝宝多种感官同步刺激(妈妈的脸 + 声 + 触)
+    - 不用单一感官输入 — 综合更有效
+    - 出生即有跨模式 = 不需要"教"感官联觉
+  what_to_do:
+    - 0-3 月多感官同步刺激
+    - 妈妈说话 + 看脸 + 触摸 = 联合感官
+    - 不要"只视觉"或"只听觉"训练
+    - 让宝宝一边吸一边看物体(不冲突)
+  failure_mode: |
+    "感官单独训练效果好" — 错。综合比单一好。
+    "跨模式要 6 月后" — 错。1 月已有。
+    "婴儿感官分离" — 错。出生即融合。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Meltzoff
+  - G-PERSON-Stern
+  - G-PERSON-Kellman
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 2 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 2 卷"
+  authors: ["Philip J. Kellman", "Martha E. Arterberry"]
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 3 · Cross-modal perception · pp. 145-150"
+  source_id: SRC-028
+
+unit_ids: []
+related_cards:
+  - C-S1-244       # 新生儿 Rembrandt 视觉
+  - C-S2-1137     # 视觉悬崖
+  - C-S3-1143     # Kellman 物体一致性
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

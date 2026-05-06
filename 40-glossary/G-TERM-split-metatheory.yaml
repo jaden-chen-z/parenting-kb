@@ -1,0 +1,28 @@
+glossary_id: G-TERM-split-metatheory
+type: term
+display_name: "分裂元理论 / split metatheory"
+
+name_en: "split metatheory"
+name_zh: "分裂元理论"
+
+description: |
+  Overton 提出 — 将世界看成对立二分(基因 vs 环境 / 个体 vs 环境 / 心 vs 身),非此即彼立场。
+  中国家长接触的 Karp / 鲍秀兰部分 / 行为训练派属于 split。
+
+one_liner: |
+  分裂元理论(split metatheory)— Overton 提出 — 将世界看成对立二分(基因 vs 环境 / 个体 vs 环境 / 心 vs 身),非此即彼立场。
+
+key_facts:
+  - "Lerner V1 元理论卷核心术语"
+  - "学派:Lerner V1 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

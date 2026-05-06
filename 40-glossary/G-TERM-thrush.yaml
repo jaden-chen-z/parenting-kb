@@ -1,0 +1,20 @@
+glossary_id: G-TERM-thrush
+type: term
+display_name: 鹅口疮
+full_name_en: "thrush (oral candidiasis)"
+full_name_zh: "鹅口疮"
+one_liner: |
+  白色念珠菌引起的口腔感染,口腔内壁有像凝乳的白色斑块,擦掉会出血。
+detail: |
+  新生儿很常见(产道感染来),也见于服抗生素/激素后菌群失衡的较大宝宝。
+  哺乳母婴双向感染:宝宝口腔 ↔ 妈妈乳头 — 妈妈症状是乳头粉红/疼/灼烧/瘙痒。
+  治疗:抗真菌药(制霉菌素口服液擦宝宝口/同步妈妈乳头),双方同时治 1-2 周才能根除。
+  无需停哺乳。
+related_glossary: []
+related_cards: [C-S1-2209]
+sources:
+  - external: "Murkoff H, What to Expect the First Year, Ch 4"
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,56 @@
+card_id: C-S3-296
+stages: [S3]
+tags: [play, RIE, lansbury]
+
+front:
+  title: "宝宝玩 = 不需要逗"
+  hook: "陪伴不等于主导玩法"
+
+back:
+  why_matters: |
+    Lansbury Ch15 误区 5 + Ch9:
+    主流以为陪玩 = 大人主动想活动 / 演示玩法。
+    Lansbury 说:最好的"陪"是观察 + 回应,不是主导。
+    Magda Gerber:大人越参与,宝宝越跟着大人走 →
+    创造力萎缩,自主选择能力退化。
+    "陪"= 在场,信任宝宝的玩法是"够的"(perfect actually)。
+
+  what_to_do:
+    - 坐在宝宝身边,不演示不教怎么玩
+    - 等宝宝主动眼神接触再说话
+    - 不主动建议"试试这个" — 让宝宝自己决定
+    - 看见宝宝重复 = 在学,不打断
+    - 真心欣赏:他在认真,虽然你看不出"成果"
+
+  failure_mode: |
+    "我陪玩,我得带节奏给他玩什么" → 越主导越剥夺创造力。
+    或反向:扔玩具走人 → 宝宝感觉被抛下。
+    Lansbury 区分:在场 + 静观 vs 缺席,vs 主导。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Lansbury
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+  - G-TERM-observation
+
+citation:
+  book_title_en: "Elevating Child Care: A Guide to Respectful Parenting"
+  book_title_zh: "尊重孩子:RIE 育儿之道"
+  authors:
+    - Janet Lansbury
+  publisher_en: JLML Press
+  year: 2014
+  location: "Ch15 Myth 5 + Ch9 Infant Play"
+  source_id: SRC-019
+
+unit_ids: []
+related_cards:
+  - C-S2-185  # Lillard 完整循环活动
+  - C-S2-291  # Lansbury 独处不是被忽视
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

@@ -1,0 +1,60 @@
+card_id: C-S6-616
+stages: [S6]
+tags: [creativity, RIE, learning]
+
+front:
+  title: "好奇是创造力的门"
+  hook: "替娃做就是关上门"
+
+back:
+  why_matters: |
+    Magda《自信的宝宝》Ch8 §Curiosity Is Part of Creativity。
+    Magda 立场:**好奇是创造力的天然门。**
+    "如果我们替孩子做或批评他们,我们让过程变难 — 他从负面感觉开始。"
+    Magda 香蕉案例(经典):
+    1.5 岁娃学手抓饭,香蕉切片粘桌上拿不起 → 多次手指尝试失败 →
+    最后他**用嘴贴桌叼起来**。学勺子时**用勺柄扎食物**(不是舀)。
+    Magda:"我很高兴爸爸允许儿子实验。3 岁他用刀叉很漂亮。"
+    替"成人导向 / 教正确方法 / 看不下去帮他"派。
+    儿童不在乎结果,在乎过程 — 试错 + 创造性解决 = 学习本身。
+    "Effort is a positive step in the learning process."(努力本身就是进步)
+
+  what_to_do:
+    - 看不下去也别替娃做
+    - 不评"对错"只评"试了"
+    - 错答案也是答案
+    - 反馈用"你试了"替"做对了"
+    - 给重复机会,不抢拍
+
+  failure_mode: |
+    「他用嘴叼桌上脏死了我帮他」 → Magda 反:你帮他 = 教他
+    "你不行" + 关闭创造力门。或「他舀错了我教他」 → 反:他用勺柄扎是创造性解决,3 岁自然会用对。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+  - G-TERM-respectful-parenting
+
+citation:
+  book_title_en: "Your Self-Confident Baby"
+  book_title_zh: "自信的宝宝"
+  authors:
+    - Magda Gerber
+    - Allison Johnson
+  publisher_en: John Wiley & Sons
+  year: 1998
+  location: "Ch8 §Curiosity Is Part of Creativity(p171-173,香蕉/勺子案例 + Lynne Bond 1982 引)"
+  source_id: SRC-021
+
+unit_ids: []
+related_cards:
+  - C-S5-131  # Davies 不替宝宝做
+  - C-S6-401  # Lansbury 不替宝宝解决
+  - C-S6-188  # Lillard 选 2 法
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

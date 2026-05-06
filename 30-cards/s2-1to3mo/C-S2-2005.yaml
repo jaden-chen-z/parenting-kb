@@ -1,0 +1,56 @@
+card_id: C-S2-2005
+stages: [S2]
+tags: [safety, gap_g9_filled]
+
+front:
+  title: 2 月儿保:疫苗第一波 5 针集中
+  hook: 2 月节点 5 针同打
+
+back:
+  why_matters: |
+    儿保(well-baby visit)= 美国 AAP 推荐的固定儿科体检节点。
+    2 月儿保是 1-3 月最关键节点,5 种疫苗第 1 剂同时打:DTaP / IPV / Hib / PCV / Rotavirus。
+    海蒂明确:多苗联打安全有效;1-3 月被动免疫衰减期,推迟 = 主动让娃裸奔。
+    群体免疫需 90% 接种率才抑制传播,缺一个补一个。
+  what_to_do:
+    - "**2 月儿保固定 5 针**:DTaP/IPV/Hib/PCV/Rota"
+    - "Pediarix 联合苗能省 1-2 针"
+    - "轻微感冒不必推迟疫苗"
+    - "前 1 小时可用麻醉乳膏(医生开)"
+    - "打完观察 72 小时(尤其前 48)"
+  failure_mode: |
+    "宝宝太小先打 1 针看反应"→ 拖延打乱时间表,补种麻烦。
+    严重病时未推迟 → 真有副反应难辨。
+    打完不留意红旗 7 天内行为变化(海蒂列入)。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-DTaP
+  - G-ABBR-IPV
+  - G-ABBR-Hib
+  - G-ABBR-PCV
+  - G-ABBR-Rotavirus
+  - G-ABBR-AAP
+
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1 岁"
+  authors: ["Heidi Murkoff", "Sharon Mazel"]
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 2010
+  edition: "Third Edition"
+  location: "第 6 章《第 2 个月》/ 免疫节,p.221-228"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards:
+  - C-S1-064
+  - C-S2-2006
+  - C-S2-2007
+  - C-S2-2009
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

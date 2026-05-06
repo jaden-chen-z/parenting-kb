@@ -1,0 +1,74 @@
+card_id: C-S2-1342
+stages: [S2]
+tags: [parenting_science, bornstein, infant, lerner_v4]
+
+front:
+  title: 1-3 月节律稳基础
+  hook: 1-3 月节律稳
+
+back:
+  why_matters: |
+    Bornstein V4 Ch 22(1-3 月育儿核心)。
+    **1-3 月育儿核心 = 节律**:
+    - **睡眠节律**:逐步形成日夜区别
+    - **喂养节律**:按需 + 自然规律
+    - **互动节律**:晨醒 / 哺乳 / 玩 / 睡
+    - **响应节律**:稳定不大起大落
+    **Bornstein 立场**:
+    - 节律不是"训练"是"配合"
+    - 看娃信号(困 / 饿 / 不舒服)
+    - **不要按"专家时间表"硬训**
+    - 反"哭声免疫法"
+    **反 4 误区**:
+    - ❌ "按时间表硬训"(违反个体差异)
+    - ❌ "哭声免疫不抱"(违反响应原则)
+    - ❌ "不要规律全按需"(过分散)
+    - ❌ "1 月就睡整觉"(过早,5-6 月才稳)
+    **实操**:
+    - 看娃信号不看钟
+    - 主线动作稳(晨 / 午 / 晚)
+    - 响应稳定但有节律
+    - 父母自己也节律稳定
+    **Specificity 视角**:
+    - 节律稳 → 睡眠 + 自我调节
+    - 不一定 → 学业(具体的 有限)
+    跟现库:跟 V3 Rothbart 气质(C-S1-1003)+ 松田 §99 节律(SRC-024)+ Brazelton 触摸点(SRC-010)对接。
+    对中国家长意义:
+    - 1-3 月看娃信号配合节律
+    - 不按时间表硬训
+    - 不哭声免疫
+    - 主线 / 大方向稳定 OK
+  what_to_do:
+    - 1-3 月看信号不看钟
+    - 不按时间表硬训
+    - 不哭声免疫
+    - 主线稳定 OK
+  failure_mode: |
+    "按时间表训"— 错。违反个体差异。
+    "哭声免疫"— 错。违反响应。
+    "1 月睡整觉"— 错。5-6 月才稳。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Bornstein
+  - G-TERM-parenting-specificity
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 4 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 4 卷"
+  authors: ['Marc H. Bornstein']
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 22 · Bornstein · 1-3mo rhythm foundation · pp. 910-920"
+  source_id: SRC-029
+
+unit_ids: []
+related_cards:
+  - C-S1-1311     # V4 新生儿响应
+  - C-S1-1003     # V3 Rothbart 气质
+  - C-S2-549     # 松田 §99 空气浴
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

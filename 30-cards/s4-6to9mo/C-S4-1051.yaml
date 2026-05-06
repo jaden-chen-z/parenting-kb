@@ -1,0 +1,58 @@
+card_id: C-S4-1051
+stages: [S4]
+tags: []
+
+front:
+  title: "6 月起含铁优先"
+  hook: "辅食第一口先含铁"
+
+back:
+  why_matters: |
+    WHO 辅食含铁优先 原文:'From 6 months onwards, complementary foods need to be high in iron, e.g. meat, poultry, fish, iron-fortified cereals.'
+    为什么 6 月起首选含铁:
+    - 母乳铁吸收率高但量降(6 月后)
+    - 婴儿出生储铁在 6 月用完
+    - 缺铁 → 缺铁性贫血 → IQ 影响(不可逆)
+    推荐含铁辅食:
+    ① 红肉(牛肉泥/猪肉泥)— 血红素铁吸收最好
+    ② 禽肉(鸡肉/鸭肉)
+    ③ 鱼(三文鱼/鳕鱼)— 兼顾 DHA
+    ④ 蛋黄 — 中国传统但需注意过敏
+    ⑤ 强化铁米粉 — 方便但单一中国通病:米粉为主 / 怕肉硬不消化 / 蔬菜为主 → 缺铁。
+  what_to_do:
+    - "6 月起第一批辅食:含铁优先"
+    - "肉/鱼/蛋黄/强化铁米粉 — 4 选 2-3"
+    - "肉别等 8 月 — 6 月起就能吃肉泥"
+    - "蔬菜/水果是补充不是主体"
+    - "12 月做铁缺普查(AAP/WHO 一致)"
+  failure_mode: |
+    辅食以米粉/果蔬为主缺肉 → 6-12 月铁缺贫血 → IQ/动作发育影响。
+    肉/鱼是 6 月起的优先,不是 8 月。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-CF
+  - G-TERM-WHO-CF-principles
+
+citation:
+  page_title: "WHO + AAP Iron-rich Complementary Foods"
+  publisher: "World Health Organization & UNICEF"
+  page_url_primary: https://www.who.int/health-topics/complementary-feeding
+  accessed: 2026-05-04
+  language: en
+  location: "WHO 6 月起含铁优先 + 肉/鱼/蛋黄/强化米粉"
+  source_id: SRC-031
+
+unit_ids: []
+related_cards:
+  - C-S4-1046
+  - C-S3-006
+  - C-S4-1048
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_doc_id_pending: D6
+citation_followup_needed: '已映射真实 doc_id (D6 = WHO Complementary Feeding)'

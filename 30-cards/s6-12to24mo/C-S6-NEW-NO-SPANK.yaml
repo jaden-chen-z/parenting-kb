@@ -1,0 +1,74 @@
+card_id: C-S6-NEW-NO-SPANK
+stages: [S6]
+tags: [meta_cross, discipline, anti_corporal_punishment, controversy]
+
+front:
+  title: 反 time-out + 反 spank 7 派对照
+  hook: 7 流派一致反打骂
+
+back:
+  why_matters: |
+    前情:1-2 岁宝宝跟你扛会越来越频繁(13 月起渐多,18-24 月达峰),很多家长想"打一巴掌"或"罚站"。
+    7 大派从不同切入点一致反对打和 time-out:依恋创伤 + 神经科学 + 流派哲学 + 跨文化伦理。
+
+    **7 派立场**:
+    - **Bowlby V1+V2(SRC-011/012)**:被打 → D 混乱型依恋 + 同伴攻击 + 主动孤立(C-S6-070);撤回爱比体罚更深的伤(C-S6-098)
+    - **Brazelton(SRC-010)**:discipline = teaching 不是 punishment,目标是自我控制(C-S6-021)
+    - **NRC Shonkoff(SRC-025)**:tantrum 是 PFC 还没长好,不是道德问题(C-S6-928)— 神经科学锚
+    - **Magda Gerber(SRC-022)**:1987 加州 2 岁以下 time-out 立法非法,反打 4 理由(C-S6-610)
+    - **Wonder Weeks(SRC-013)**:跃迁期(WW55 程序世界等)不打不骂(C-S6-126)— 整合 Bowlby + AAP + 鲍秀兰
+    - **松田 1980(SRC-024)**:1 岁后看体罚会怕,长期阴影(C-S6-671)— 注:虽然松田部分立场较老,但反体罚跟现代主流一致
+    - **鲍秀兰(SRC-009)**:千万不能打,无效反害,全家一致(C-S6-007)— 中国本土派
+
+    **现代医学背书**:
+    - AAP 2018 共识反对体罚(此前 1998 立场较中立)
+    - APA / WHO / NICE 一致反对
+
+    **唯一派内分歧**:tantrum 处理 — 鲍秀兰主张 10 秒隔离(C-S6-008);RIE/Brazelton/松田主张在场不干预(C-S6-020/607/669)。这是"应对方式"分歧不是"反不反 spank"分歧。
+
+  what_to_do:
+    - 默认立场:不打不骂不 time-out(7 派一致)
+    - tantrum 处理选边:在场不干预(RIE/Brazelton)or 短隔离(鲍秀兰)— 跟孩子气质匹配
+    - 替代:语言命名情绪 + 物理边界(抱住手)+ 等暴风过 + 修复对话
+    - 全家一致 — 一个人打另一个不打 = 混乱信号
+    - 自己情绪上头时先离场 5 分钟,不在情绪中管教
+
+  failure_mode: |
+    "我家娃不打不行" — Bowlby D 型 + Patterson 强制循环数据反驳:打越多越升级。
+    "罚站很温和啊" — Magda 立场:对 < 2 岁完全无效;AAP 也只支持 ≥ 2 岁短 time-out(每岁 1 分钟)。
+    "撤回爱总比打温和" — Bowlby V2 反:撤回爱伤害比体罚更深更隐蔽。
+
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Bowlby
+  - G-PERSON-Brazelton
+  - G-PERSON-Shonkoff
+  - G-TERM-corporal-punishment
+  - G-TERM-attachment
+
+citation:
+  source_id: META-CROSS
+  primary_sources: ["SRC-009 鲍秀兰", "SRC-010 Brazelton", "SRC-011 Bowlby V1", "SRC-012 Bowlby V2", "SRC-013 Wonder Weeks", "SRC-022 Magda Gerber", "SRC-024 松田", "SRC-025 NRC"]
+  location: "META-CROSS hub 卡 — 7 派反 spank/time-out 立场整合"
+
+unit_ids: []
+related_cards:
+  - C-S6-007    # 鲍秀兰 — 千万不能打
+  - C-S6-008    # 鲍秀兰 — 10 秒隔离(派内分歧子卡)
+  - C-S6-020    # Brazelton — 五胞胎实验
+  - C-S6-021    # Brazelton — discipline = teaching
+  - C-S6-070    # Bowlby — D 混乱型依恋
+  - C-S6-098    # Bowlby — 撤回爱比体罚伤
+  - C-S6-126    # Wonder Weeks — 跃迁期不打
+  - C-S6-607    # Magda — Antaeus 故事
+  - C-S6-610    # Magda — Time-out 出生命吗
+  - C-S6-669    # 松田 — 躺地哭
+  - C-S6-671    # 松田 — 1 岁后看体罚会怕
+  - C-S6-816    # 松田 — 第一次最关键
+  - C-S6-928    # NRC — tantrum 是 PFC
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

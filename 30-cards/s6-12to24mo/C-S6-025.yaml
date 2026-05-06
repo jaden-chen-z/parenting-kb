@@ -19,6 +19,20 @@ back:
     觉得 lovey "看起来可怜" → 偷扔 / 强制换新 → 巨大依恋创伤。强制断 lovey "都几岁了" → 失去自我安抚工具,转向更严重的安全感缺失行为。在公共场合羞辱孩子带 lovey → 让孩子学到"自我安抚是丢人的"。
   evidence_level: B
 
+  positions:
+    issue: 安抚物(lovey)是健康过渡还是依赖癖好
+    views:
+      - school: 松田道雄
+        source: SRC-024
+        stance: 不要养成 lovey 癖 — 8-9 月起经常更换毛巾被毯,避免婴儿对特定物品形成强依赖。
+      - school: Brazelton
+        source: SRC-010
+        stance: 破破烂烂的小毛绒 = 内心强大;lovey 是健康过渡物,代表自我安抚能力的发展。
+      - school: Davies
+        source: SRC-014
+        stance: 支持 lovey 是健康发育表现,无需干预或替换。
+      - school: Winnicott(经典)
+        stance: transitional object 是从母婴融合到独立自我的过渡桥梁,精神分析视角下是健康标志。
 glossary_refs:
   - G-TERM-lovey
   - G-PERSON-Winnicott

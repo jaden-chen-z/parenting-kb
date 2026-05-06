@@ -1,0 +1,74 @@
+card_id: C-S2-133
+stages: [S2]
+tags: [montessori, language, bilingual, OPOL]
+
+front:
+  title: 双语家庭一人一语
+  hook: OPOL 原则简单可行
+
+back:
+  why_matters: |
+    中国家庭常见情况 — 普通话+方言(妈妈讲粤语 / 上海话)/ 普通话+英语 / 三语。
+    家长担心:**"宝宝会不会混乱?会不会语言延迟?"**
+    Davies 推荐 **OPOL**(One Person, One Language)— 一人一语原则:
+    - **每个人选自己的母语**跟宝宝说
+    - 全家选一个**"家庭语言"**
+    - 例:妈妈全程粤语 / 爸爸全程普通话 / 全家英语为家庭语言或 **Domains of Use**(场合分语):
+    - 周末英语 / 出门当地语 / 家里父母母语研究证明:
+    - **不会延迟**(对比:1.5 岁单语宝宝 10 个词,双语宝宝可能每语 5 个词,合计仍 10 词)
+    - 看似"少",实际语言能力同等
+    - 双语优势:执行功能更强 / 元语言意识更早
+    - **吸收性心智 + 敏感期**让宝宝轻松学多语,不费力要点:**每语种至少占 30% 醒着时间**,才能学到能用的程度。
+    操作:
+    - 选 1 个 OPOL 安排,坚持
+    - 不混在一句话里(不要"今天 we go 公园")
+    - 不强求,跟着宝宝兴趣
+    - 1.5 岁前他不主动说也不要急
+  what_to_do:
+    - 选 OPOL(谁讲什么)+ 家庭语
+    - 每语种保证 30% 醒着时间
+    - 一人一语 — 不混在一句话
+    - 不强求宝宝说,他在吸收
+    - 1.5 岁后看他主动用哪个
+  failure_mode: |
+    "双语会让宝宝糊涂 / 延迟说话" — 反:研究反复证明不会。看似少是因为词分散在多语。
+    "妈妈不会英语,只能买英语磁带" — 不行。OPOL 要求"人"而非"音频",录音不算输入。
+    全家随意切换语言 — 宝宝混乱。OPOL 的关键是**一致性**。
+  evidence_level: B
+
+  positions:
+    issue: 关键期(critical) vs 敏感期(sensitive)— 同义还是不同概念
+    views:
+      - school: 鲍秀兰
+        source: SRC-009
+        stance: critical period 关键期 — 错过几乎不可逆(Lorenz 印随 / Hubel-Wiesel 视觉 / Genie 案例)。
+      - school: 蒙氏(Davies/Lillard)
+        source: SRC-014/016
+        stance: sensitive period 敏感期 — 窗口闭合后仍可学,只是费力。本质不同概念。
+      - school: 本知识库
+        stance: 已新建 G-TERM-sensitive-periods 词条明确区分;两者并非同义术语,不可混用。
+glossary_refs:
+  - G-PERSON-Davies
+  - G-TERM-absorbent-mind
+  - G-TERM-critical-period
+
+citation:
+  book_title_zh: "蒙特梭利的小宝宝(0-1岁)"
+  book_title_en: "The Montessori Baby"
+  authors: ["Simone Davies", "Junnifa Uzodike"]
+  authors_zh: ["西蒙·戴维斯", "君妮法·乌佐迪克"]
+  publisher_en: "Workman Publishing"
+  year_en: 2021
+  isbn_en: "978-1-5235-0693-7"
+  location: "Chapter 6 · Language activities > Bilingualism"
+  source_id: SRC-014
+
+unit_ids: []
+related_cards:
+  - C-S2-127       # 蒙氏 真词不嘎嘎
+  - C-S5-003       # AAP 第一个词
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

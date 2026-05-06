@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Coie
+type: person
+display_name: "Coie(约翰·科伊)"
+
+full_name_en: "John D. Coie"
+full_name_zh: "约翰·科伊"
+
+position: |
+  Duke University 心理学教授
+
+contribution: |
+  同伴拒绝 + 攻击儿童研究;Dodge 合作者
+
+one_liner: |
+  约翰·科伊 — 同伴拒绝 + 攻击儿童研究;Dodge 合作者
+
+key_facts:
+  - "本卷章节:Ch 12"
+  - "Lerner V3 命中:83 次"
+  - "学派:Lerner V3 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-027
+    chapter: "Ch 12"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

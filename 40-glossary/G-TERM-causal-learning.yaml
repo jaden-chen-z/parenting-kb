@@ -1,0 +1,89 @@
+glossary_id: G-TERM-causal-learning
+type: term
+display_name: 因果学习 (causal learning)
+
+full_name_zh: 因果学习 / 因果推理
+full_name_en: Causal Learning / Causal Reasoning
+
+one_liner: |
+  Gopnik 经典实验(blicket detector)证明:18 月幼儿就能从观察推因果 — A 引起 B 而 C 不引起 B。
+  这是 baby scientist 命题最硬的证据 — 婴儿在做"因果实验",不是看图识物。
+
+detail: |
+  ## 定义
+  从一组观察中推出**"什么导致什么"**的能力。
+  不仅是相关("A 出现 B 也出现"),是真正的因果("A 引起了 B")。
+
+  ## Gopnik 经典 blicket detector 实验
+
+  ### 设计
+  - 一个机器(blicket detector),放上特定物体会亮 + 响
+  - 给 18 月幼儿看:
+    - 物体 A 单独放 → 灯亮
+    - 物体 B 单独放 → 灯不亮
+    - A + B 一起放 → 灯亮
+  - 然后问幼儿:"哪个是 blicket?"
+  - 18 月幼儿正确指 A(不是 B)
+
+  ### 关键
+  - 这不是简单相关学习
+  - 幼儿排除了"AB 联合 → 亮"的解释
+  - 推出"A 引起亮,B 没引起"
+  - 是真正的因果推理
+
+  ### 后续实验
+  - Gopnik 系列发现:幼儿因果推理在某些方面**比成人更强**
+  - 因为成人有"成见",会过滤可能假设
+  - 幼儿没成见,愿意尝试反直觉假设
+
+  ## 为什么这是革命性发现
+  - 推翻 Piaget"因果推理要 7 岁后"假设
+  - 证明 Gopnik baby scientist 命题
+  - 让"婴儿是天生研究员"从隐喻变成实证
+
+  ## 中国家长意义
+
+  ### 1. 不打断"破坏行为"
+  - 宝宝扔玩具 / 摔东西 = 在做因果实验("会不会落"/"会不会响"/"妈妈反应")
+  - 不要立刻"不许扔!"— 他正在学物理 + 学社会
+
+  ### 2. 让宝宝自己排查
+  - 宝宝试新玩具,先让他自己摆弄
+  - 不要立刻演示"按这里!"— 你抢答,他失去因果推理机会
+
+  ### 3. 多样性 > 重复
+  - 同样玩具不同玩法 = 多个因果实验
+  - 不同物体 / 场景 / 人 = 大脑收集到更多数据
+
+  ### 4. 解释 vs 教学
+  - "为什么灯关了?"+ 让宝宝看 + 你说"妈妈按了开关"
+  - 不要"开关按了灯就灭了,记住!" — 灌输不是因果推理
+
+  ## 跟其他术语关系
+  - **Baby Scientist**:因果学习是"做科学"的核心
+  - **Statistical Learning**:因果是统计的高阶版
+  - **Wonder Week WW46 序列 / WW55 程序**:因果推理跃迁的神经基础
+
+key_facts:
+  - Gopnik blicket detector 实验
+  - 18 月就能推因果
+  - 推翻 Piaget 7 岁说
+  - 幼儿某些方面比成人强
+  - 实操:不打断"破坏",让他做实验
+
+related_glossary:
+  - G-PERSON-Gopnik
+  - G-TERM-baby-scientist
+  - G-TERM-statistical-learning
+  - G-TERM-mental-leap
+
+related_cards: []
+
+sources:
+  - source_id: SRC-015
+  - external: Gopnik & Schulz 2007 / Gopnik et al. 2004 Developmental Science
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

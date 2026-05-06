@@ -1,0 +1,75 @@
+card_id: C-S1-183
+stages: [S1]
+tags: [montessori, symbiosis, newborn, philosophy]
+
+front:
+  title: 蒙氏新生儿期 6-8 周
+  hook: 类似第四孕期概念
+
+back:
+  why_matters: |
+    蒙氏给"新生儿期"起了专有名词:**共生期**(symbiosis),指出生后 6-8 周。
+    意思 — 脐带剪了,但宝宝跟妈妈仍是"生理共同体":
+    - 体温调节靠抱
+    - 心率 / 呼吸自动同步妈妈
+    - 喂养 100% 依赖
+    - 情绪通过妈妈读世界这跟 Karp 的"第四孕期"(fourth trimester,12 周)说的是同一回事,蒙氏强调 6-8 周。
+    实操含义 — 这阶段宝宝**频繁要抱 / 频繁喂 / 不能放下** = 正常,不是"被宠坏"。
+    应对:接受这时期,降低期待 + 减少访客 + 慢动作 + 多肌肤接触。
+    8 周后宝宝开始变化(更长清醒 / 关注自己手 / 短暂离开妈妈视线不哭)— 自然进入下阶段。
+  what_to_do:
+    - 6-8 周接受高需求,不强行训练独立
+    - 灯暗 + 声轻 + 室温稳(类子宫)
+    - 大量肌肤接触(每天 1+ 小时)
+    - 减少访客 + 减少出门
+    - 用 topponcino 减少抱→放过程惊醒
+  failure_mode: |
+    "新生儿就是这么烦,我家这周开始训独睡" — 共生期训练独立 = 反生理。8 周后才是过渡时机。
+    "他出生 3 周就能自己睡 4 小时,你家是娃没养好" — 个体差异 + 早熟可能,但平均 6-8 周才稳。
+    把共生期当"问题时期"硬扛,父母容易抑郁,宝宝也学到"哭无人应"。
+  evidence_level: B
+
+  positions:
+    issue: 第四产程命名群 — 同一概念多种叫法
+    views:
+      - school: Karp
+        source: SRC-003
+        stance: 第四产程(fourth trimester)— 出生后头 4 月,继续模拟子宫感是核心。
+      - school: 蒙氏(Davies/Lillard)
+        source: SRC-014/016
+        stance: exterogestation 外孕期 — 强调婴儿"在外"继续发育的生物学连续性。
+      - school: Brazelton
+        source: SRC-010
+        stance: 不用"第四产程"标签,讲"独立的人 + 触点(touchpoints)",视婴儿为完整个体。
+      - school: Gopnik
+        source: SRC-015
+        stance: 长童年期(extended childhood)是进化优势,人类大脑发育期长于其他灵长类。
+glossary_refs:
+  - G-PERSON-Davies
+  - G-PERSON-Montessori
+  - G-TERM-symbiosis-period
+  - G-TERM-fourth-trimester
+  - G-TERM-bonding
+
+citation:
+  book_title_zh: "蒙特梭利的小宝宝(0-1岁)"
+  book_title_en: "The Montessori Baby"
+  authors: ["Simone Davies", "Junnifa Uzodike"]
+  authors_zh: ["西蒙·戴维斯", "君妮法·乌佐迪克"]
+  publisher_en: "Workman Publishing"
+  year_en: 2021
+  isbn_en: "978-1-5235-0693-7"
+  location: "Chapter 3 · Symbiosis—the first 6 to 8 weeks with our baby"
+  source_id: SRC-014
+
+unit_ids: []
+related_cards:
+  - C-S1-001       # Karp 第四孕期
+  - C-S1-073       # Brazelton 出生 6 states
+  - C-S1-122       # Bowlby 依恋形成开始
+  - C-S1-178       # Wonder Week 跃迁不是病
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

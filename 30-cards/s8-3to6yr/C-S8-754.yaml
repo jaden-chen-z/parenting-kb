@@ -1,0 +1,72 @@
+card_id: C-S8-754
+stages: [S8]
+tags: [pcit, parent_child, lerner_v4]
+
+front:
+  title: PCIT 实时教练训
+  hook: PCIT 实时教练
+
+back:
+  why_matters: |
+    PCIT(亲子互动疗法)— V4 Ch 14 重点。
+    **PCIT 独特 — 实时教练**:
+    - 治疗师**实时**通过耳机指导父母
+    - 父母跟娃在 1 个房间
+    - 治疗师在另 1 个房间观察 + 指导
+    - 父母现场学 + 现场用
+    - 跟 Triple P / IY 班课模式不同
+    **2 阶段 PCIT**:
+    - **CDI(孩子主导互动)**:父母跟娃玩,练 PRIDE 技能(praise/reflect/imitate/describe/enthusiasm)
+    - **PDI(父母主导互动)**:父母给指令,练有效命令 + 后果
+    **RCT 证据**:
+    - 行为问题减 50-60%(单干预最高之一)
+    - 适合 2-7 岁
+    - 短(12-20 次,3-4 月)
+    - 长效 5+ 年稳定
+    **目标群体**:
+    - 严重行为问题(攻击 / 反抗 / ADHD)
+    - 创伤恢复
+    - 高冲突亲子关系
+    **中国引入**:
+    - 北上广深部分医院 + 心理诊所
+    - 比纯心理咨询更有结构跟现库:跟 V3 Patterson(C-S6-1075)+ IY(C-S8-753)+ Triple P(C-S8-752)对接。
+    对中国家长意义:
+    - 严重行为问题找 PCIT
+    - 实时教练比班课见效快
+    - 12-20 次短期高效
+    - 跟治疗师面对面
+  what_to_do:
+    - 严重行为找 PCIT
+    - 实时教练比班课见效快
+    - 12-20 次短期高效
+    - 北上广深可找
+  failure_mode: |
+    "轻度问题用 PCIT"— 错。Triple P 1-2 级够。
+    "班课就够"— 错。严重需实时教练。
+    "心理咨询无结构"— PCIT 比纯咨询更结构。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Eyberg
+  - G-TERM-pcit
+  - G-TERM-CBT
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 4 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 4 卷"
+  authors: ['Sheila Eyberg (cited)']
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 14 · PCIT real-time coaching (cross-chapter) · pp. 570-580"
+  source_id: SRC-029
+
+unit_ids: []
+related_cards:
+  - C-S6-1075     # V3 Patterson 强制家庭
+  - C-S8-753     # Incredible Years
+  - C-S8-752     # Triple P
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

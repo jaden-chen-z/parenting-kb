@@ -1,6 +1,6 @@
 card_id: C-S4-068
 stages: [S4]
-tags: []
+tags: [philosophy, controversy]
 
 front:
   title: 8 月怕陌生人 = 依恋形成证据
@@ -42,7 +42,7 @@ citation:
   year_en: 1969
   year_zh: 2017
   isbn: "978-7-5192-2927-6"
-  location: "第十五章 聚焦在一个对象上(陌生人恐惧 — 在大部分婴儿身上,是到八个月大时出现 / Bowlby 反驳 Spitz '八月焦虑'理论:陌生人本身就是常见的恐惧来源,不需要再去寻找别的解释)"
+  location: "第十五章聚焦在一个对象上(陌生人恐惧 — 在大部分婴儿身上,是到八个月大时出现 / Bowlby 反驳 Spitz '八月焦虑'理论:陌生人本身就是常见的恐惧来源,不需要再去寻找别的解释)"
   source_id: SRC-011
 
 unit_ids: []

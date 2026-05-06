@@ -1,0 +1,48 @@
+card_id: C-S1-613
+stages: [S1]
+tags: [jaundice, warning-signs]
+
+front:
+  title: 黄疸不消退要警戒
+  hook: 大便白色立即就医
+
+back:
+  why_matters: |
+    松田说:生理性黄疸 7-10 天消,母乳性黄疸可持续 1-2 月,病理性需查肝胆。
+    最危险信号 — 大便白色或灰色 → 胆道闭锁可能,1 月内手术效果好。
+    妈不能凭"反正会消"等,要会鉴别 3 类。
+    现代医学新增蓝光治疗,胆红素超阈值不能拖。
+  what_to_do:
+    - 7 天后还黄,找儿科测胆红素
+    - 每次换尿布看大便颜色
+    - 白/灰色立刻去医院(不等明天)
+    - 母乳性黄疸不停母乳,除非医嘱
+    - 严重要蓝光,别拒绝
+  failure_mode: |
+    "黄一点没事过几天就好" → 错过胆道闭锁 1 月手术窗 → 后续要换肝。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Matsuda
+
+citation:
+  book_title_zh: "定本《育儿百科》"
+  book_title_jp: "育児の百科(定本)"
+  authors: ["松田道雄"]
+  translators_zh: ["王少丽"]
+  publisher_zh: null
+  year: 1980
+  edition: "定本"
+  location: "第 72 / 88 节黄疸不消退 / 黄疸还没消退"
+  source_id: SRC-023
+
+unit_ids: []
+related_cards:
+  - C-S1-612  # 自卷:未成熟儿出院
+  - C-S1-609  # 自卷:反标准体重
+  - C-S1-091  # AAP 黄疸看皮肤蔓延范围 — 过腹要送医
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

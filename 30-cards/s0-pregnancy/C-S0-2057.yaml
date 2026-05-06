@@ -1,0 +1,71 @@
+card_id: C-S0-2057
+stages: [S0]
+tags: [safety, red_flag]
+
+front:
+  title: 真正不能母乳的 7 种情况
+  hook: 其余都能母乳
+
+back:
+  why_matters: |
+    母乳禁忌(contraindications to breastfeeding)= 母乳真正会伤宝宝的少数医学情况。
+    中国家长常被错误"建议"停母乳:感冒、轻微吃药、剖腹产 — 这些都不是禁忌。
+    真禁忌很少:母亲严重传染病(未控 TB、未治 HIV、化疗放疗期)、宝宝先天代谢病(PKU、半乳糖血症)。
+    青霉素、产后抗生素、乳腺炎期间可以继续喂(WHO 与 AAP 一致)。
+    多数药物哺乳期可调整剂型 — 用药前必问医生"哺乳期方案"。
+  what_to_do:
+    - 妈妈端禁忌:未治 HIV / 未控 TB / 化疗 / 锂剂 / 抗甲状腺
+    - 妈妈滥用药/酒精 → 不能母乳(可恢复后再开始)
+    - 宝宝端禁忌:PKU(配特殊配方)/ 半乳糖血症
+    - 普通感冒 / 流感 → 继续喂(抗体反而保护宝宝)
+    - 用任何新药前先问医生"哺乳兼容性"
+  failure_mode: |
+    把'妈妈感冒了得停母乳'当真 → 抗体走不进宝宝,反而失去保护。
+    一概'吃任何药就停' → 错过母乳期,且很多药其实兼容。
+    HIV+ 时代变了:见 C-S1-1013 AFASS 评估,不再一刀切。
+  evidence_level: A
+
+  positions:
+    issue: 母乳还是配方奶 — 道德题还是权衡题
+    views:
+      - school: 海蒂
+        source: SRC-040
+        stance: 权衡而非道德题;真正不能母乳的 7 种情境;"决定不喂别内疚"。挑战道德绑架,授权职场妈不内疚。
+      - school: WHO / BFHI
+        source: SRC-031
+        stance: 母乳唯一 + 只医学指征用配方;技术层面承认母乳更优,情感框架上母乳是道德选择。
+      - school: AAP
+        source: SRC-006
+        stance: 推母乳但承认家庭情况差异;不强加道德标签,以家庭决定为本位。
+      - school: 中国家长压力
+        stance: 亲戚 / 月嫂 / 育儿群常用 "不母乳的妈不爱孩子" 道德绑架,缺"不内疚"授权来源。
+glossary_refs:
+  - G-TERM-acceptable-medical-reasons
+
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors:
+    - Heidi Murkoff
+    - Sharon Mazel
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh:
+    - 莫夏迪
+    - 张敏
+  location: "第 1 章给宝宝喂奶 · 如果你无法母乳喂养"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards:
+  - C-S1-1013   # WHO HIV AFASS 修订
+  - C-S1-1003   # BFHI 第 6 步医学指征
+  - C-S0-005    # 孕期/哺乳期用药
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

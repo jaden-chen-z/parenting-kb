@@ -1,0 +1,78 @@
+glossary_id: G-PERSON-Vygotsky
+type: person
+display_name: Vygotsky
+
+full_name_en: Lev S. Vygotsky
+full_name_zh: 列夫·维果茨基
+
+one_liner: |
+  苏联发展心理学家(1896-1934),社会文化建构论奠基人。
+  跟 Piaget 同时代,核心观点:儿童认知发展是**社会互动**的产物,不是孤立成熟。
+
+detail: |
+  ## 个人背景
+  - 1896 年生于白俄罗斯,1934 年因肺结核早逝(38 岁)
+  - 苏联心理学家 / 文学批评家 / 医生
+  - 莫斯科大学教授
+  - Alexander Luria(苏联神经科学奠基人)的导师
+
+  ## 核心理论
+
+  ### 1. 社会文化建构论
+  - 儿童认知 = **社会互动 + 文化工具**(语言 / 数字 / 符号)
+  - 反对 Piaget"儿童独立成熟"的孤立论
+  - 学习 → 发展(不是发展 → 学习)
+
+  ### 2. 最近发展区(Zone of Proximal Development, ZPD)
+  - 儿童**独自能做** vs **有大人帮助能做**之间的差
+  - 教育应在 ZPD 内推动 — 不太难也不太易
+
+  ### 3. 脚手架(scaffolding,后人 Bruner 命名)
+  - 大人提供"刚好够用的"帮助
+  - 孩子掌握后撤掉脚手架
+  - 蒙特梭利"prepared environment"+ Brazelton "touchpoint"+ RIE "observation"都隐含这个
+
+  ## 在本知识库中
+  - Gopnik《摇篮里的科学家》提到的"第三派"(Piaget + Vygotsky + 二者综合)
+  - Bowlby 内部工作模型与 Vygotsky 内化理论遥相呼应
+  - 中国家长熟悉的"陪练 / 引导"概念,本质就是 Vygotsky 的 ZPD
+
+  ## 跟 Piaget 对立
+  | 议题 | Piaget | Vygotsky |
+  |---|---|---|
+  | 发展驱动 | 个体成熟 | 社会互动 |
+  | 语言作用 | 思维副产物 | 思维工具 |
+  | 学习与发展 | 发展先,学习后 | 学习先,发展后 |
+  | 文化 | 通用阶段 | 文化塑造 |
+
+  ## 中国家长意义
+  - 不是越早教越好,但**适时引导**比独自摸索快
+  - "脚手架"思维:孩子能做 80%,你做剩 20%,不是反过来
+  - 平日陪伴质量 > 早教班(Vygotsky 也支持这立场)
+
+  ## 学术影响
+  - 1980 年代后西方"重新发现"Vygotsky(俄文遗著到 80 年代才英译完)
+  - 教育心理学 + 认知发展 + 二语习得 都广泛引用
+  - 跟 Piaget 一起被尊为发展心理学双璧
+
+key_facts:
+  - 1896-1934,苏联心理学家
+  - 社会文化建构论奠基人
+  - 最近发展区(ZPD)理论提出者
+  - 反 Piaget 孤立成熟论
+  - 38 岁因肺结核早逝
+
+related_glossary:
+  - G-PERSON-Piaget
+  - G-PERSON-Gopnik
+
+related_cards: []
+
+sources:
+  - source_id: SRC-015
+  - external: Vygotsky 1934 / Cole 1978 / Wikipedia Lev Vygotsky
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

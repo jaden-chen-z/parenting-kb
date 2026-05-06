@@ -1,0 +1,32 @@
+audit_dimension: 13_content_too_thin
+total_cards_scanned: 1437
+verdict: PASS — 维度 13 几乎全部通过
+findings:
+  P0_empty_failure_mode: 0
+  P1_thin_back: 0
+  P1_thin_why_matters: 0
+  P1_single_what_to_do: 0
+  P2_short_title: 3
+flagged_short_title:
+  - {card_id: C-S3-353, title: 户外睡更香, length: 5}
+  - {card_id: C-S5-185, title: 走稳就赤脚, length: 5}
+  - {card_id: C-S5-449, title: 永不偷溜走, length: 5}
+distribution_by_src:
+  SRC-022 Magda Gerber: 3 (全部短 title 归此源)
+field_completeness:
+  failure_mode_present: 1437/1437
+  what_to_do_4_or_more_items: 1437/1437
+  why_matters_present: 1437/1437
+  title_present: 1437/1437
+  back_total_length_80_plus: 1437/1437 (估)
+notes: |
+  本知识库的卡片结构完整性极强 — 维度 13 内容空洞检测几乎全部通过。
+  Phase 1-14 已把每张卡打磨到饱满(用户取消字数上限后,倾向偏厚不偏薄)。
+  3 张短 title 是 SRC-022(Magda Gerber)的文体选择,读起来仍清晰("户外睡更香" 等),
+  不强制改写,无需标 content_thin。
+
+  维度 13 视为通过,无需修复动作。
+
+  审计方法局限:Python/awk/sed 在沙箱被禁,只能用 grep/find/sort 近似扫描。
+  完整字符级解析无法精确,但抽样最小文件(1300-1500 字节)back 实际 200-400 字,
+  远超阈值,可推论全库无空洞卡。

@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Cairns-R
+type: person
+display_name: "Cairns-R(罗伯特·凯恩斯)"
+
+full_name_en: "Robert B. Cairns"
+full_name_zh: "罗伯特·凯恩斯"
+
+position: |
+  University of North Carolina, Chapel Hill 教授
+
+contribution: |
+  发展心理学百年史 + Cairns-Cairns 综述 + 跨学科整合
+
+one_liner: |
+  罗伯特·凯恩斯 — 发展心理学百年史 + Cairns-Cairns 综述 + 跨学科整合
+
+key_facts:
+  - "本卷章节:Ch 3"
+  - "Lerner V1 命中:150+ 次"
+  - "学派:Lerner V1 历史综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+    chapter: "Ch 3"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

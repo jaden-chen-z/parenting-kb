@@ -1,0 +1,64 @@
+card_id: C-S4-125
+stages: [S4]
+tags: [development_burst, philosophy, controversy]
+
+front:
+  title: 跃迁周龄 ↔ 依恋时间表对照
+  hook: 三派理论说同一件事
+
+back:
+  why_matters: |
+    Wonder Week 26-37(6-8.6 月)的烦躁 阶段 + 怕陌生人 + 分离焦虑加剧与三个独立理论时间表**完美重合**:
+    1. **Wonder Week**(本书):26 周(关系世界)+ 37 周(分类世界)跃迁
+    2. **Bowlby 依恋形成**(C-S4-069):6-9 月真依恋形成关键期
+    3. **AAP / Spitz 八月焦虑**(C-S4-068):8 月怕陌生人 = 依恋形成证据
+    4. **Brazelton 触摸点**(G-TERM-touchpoint):6-7 月 + 9 月是 13 个触点中两个三派从不同角度解释同一行为:
+    - Wonder Week:大脑重新连接(神经科学视角)
+    - Bowlby:依恋本能进化适应(进化心理学视角)
+    - Brazelton:触摸点退步前进(临床观察视角)
+    家长意义:**6-9 月宝宝突然怕生 + 分离焦虑 = 三重健康信号**,不是性格弱也不是缺爱。
+  what_to_do:
+    - 把 6-9 月当"跃迁集中区",入园/断奶/旅行推后到 9 月+
+    - 维持稳定主依恋人 + 不强行送托
+    - 看到宝宝怕陌生人 → 庆祝(意味依恋健康)
+    - 离开时清晰告别(不偷溜)+ 回来时立刻回应
+    - 用 peek-a-boo / 捉迷藏练物体永久性
+  failure_mode: |
+    "宝宝 7 月还不愿见外人 = 性格内向" — 是健康依恋形成。
+    把 6-9 月当成"该入园 / 早教 / 训练独立"的黄金期 — 跃迁集中区,任何强制分离最难。
+    "我家宝宝特别黏 = 缺乏安全感" — 反:**安全依恋反而让分离焦虑更早出现**(C-S5-069)。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-vanderijt
+  - G-PERSON-Bowlby
+  - G-PERSON-Brazelton
+  - G-TERM-wonder-week
+  - G-TERM-attachment
+  - G-TERM-separation-anxiety
+  - G-TERM-stranger-anxiety
+  - G-TERM-touchpoint
+
+citation:
+  book_title_zh: "婴儿大脑跃迁 10 周(神奇周)"
+  book_title_en: "The Wonder Weeks"
+  authors: ["Hetty van de Rijt", "Frans X. Plooij"]
+  authors_zh: ["海蒂·凡德里特", "弗朗斯·普洛伊"]
+  publisher_en: "Kiddy World Publishing"
+  year_en_first: 1992
+  isbn_en: "978-90-79208-12-1"
+  location: "Chapter 7 + Brazelton 序中直接背书:'van de Rijt and Plooij have observed and found the vulnerable times in an infant's development that I independently came to in my book Touchpoints'"
+  source_id: SRC-013
+
+unit_ids: []
+related_cards:
+  - C-S4-068       # Bowlby 8 月怕陌生人
+  - C-S4-069       # Bowlby 6-9 月真依恋形成
+  - C-S4-004       # AAP 陌生人焦虑
+  - C-S4-124       # WW26 关系世界
+  - C-S5-069       # Bowlby 健康依恋分离焦虑反更早
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

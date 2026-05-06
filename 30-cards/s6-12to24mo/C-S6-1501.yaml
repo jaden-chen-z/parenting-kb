@@ -1,0 +1,48 @@
+card_id: C-S6-1501
+stages: ['S6']
+tags: ['relationships', 'lerner_v1', 'bronfenbrenner', 'mesosystem']
+
+front:
+  title: "中观 = 家学校协调"
+  hook: "环境之间也在打架"
+
+back:
+  why_matters: |
+    Bronfenbrenner mesosystem 在 1-2 岁开始变重要 — 因为娃开始进入第二个 microsystem(早教 / 托班 / 奶奶家)。
+    mesosystem = 两个 microsystem 之间的关系(家 ↔ 早教 / 家 ↔ 奶奶家)。
+    关键变量 — 两边规矩是否一致 / 沟通是否顺畅 / 价值观是否兼容。
+    中国家庭最常 meso 失调:父母 vs 老人(吃饭穿衣管教标准不同)→ 娃来回切换学说谎 / 焦虑 / 走极端。
+    Lerner V1 数据:meso 失调是 1-3 岁问题行为的主因之一。
+  what_to_do:
+    - "家和奶奶家规矩商量统一(吃饭 / 屏幕 / 睡眠)"
+    - "家和早教沟通同步(教学方式 / 行为标准)"
+    - "不要让娃在两套规矩间切换"
+    - "主要看护人对齐 1-2 周开个家庭会"
+    - "meso 协调 = 减少娃焦虑根源"
+  failure_mode: |
+    家管严奶奶家放养 — 娃学会两面三刀 + 焦虑增。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Bronfenbrenner
+  - G-TERM-mesosystem
+
+related_cards:
+  - C-S0-1500
+  - C-S0-1501
+  - C-S6-1064
+  - C-S6-816
+
+citation:
+  source_id: SRC-030
+  source_title: "Handbook of Child Psychology Vol 1: Theoretical Models of Human Development"
+  chapter: "Ch 14 Bronfenbrenner & Morris"
+  chapter_offset: 4483850
+  chapter_title: 'Bronfenbrenner & Morris — Bioecological Model'
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_followup_needed: 'SRC-030 用 PDF 字节偏移代页码 — 待加 page_pdf 反查工具'

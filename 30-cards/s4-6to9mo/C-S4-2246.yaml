@@ -1,0 +1,49 @@
+card_id: C-S4-2246
+stages: [S4]
+tags: [safety]
+
+front:
+  title: 晒伤 + 防晒:6 月内只遮挡
+  hook: 6 月+ 才用低刺激防晒
+
+back:
+  why_matters: |
+    海蒂规则:**< 6 月不涂防晒**(皮肤太薄,化学吸收率高),
+    只能**物理遮挡**(帽子 / 长袖 / 婴儿车遮阳棚 / 避开 10-16 点强光时段)。
+    6 月+ 才可用**矿物防晒(锌/钛)SPF 30+**(避免化学防晒)。
+    晒伤(轻烧伤)处理:温水浸 10-15 分钟 → 凝胶 / 温和保湿;
+    严重晒伤可有头痛 / 呕吐 → 急诊。
+  what_to_do:
+    - < 6 月:**只物理遮挡**(帽 / 长袖 / 棚)+ 避 10-16 点
+    - 6 月+:矿物防晒(锌/钛 SPF 30+)出门前 15 分钟涂
+    - 游泳后 / 出汗后**每 2 小时补涂**
+    - 晒伤后温水浸 10-15 min,**不涂凡士林**(闷热)
+    - 严重晒伤(发热 / 呕吐)→ 急诊
+  failure_mode: |
+    给 < 6 月宝宝涂化学防晒 → 经皮吸收风险。
+    "阴天不用防晒" — UV 穿透云层 80%。
+    涂防晒后不补 → 出汗洗掉,实际无防护。
+    晒伤涂凡士林 → 闷热加重 + 阻碍愈合。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-AAP
+
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1 岁"
+  authors: [Heidi Murkoff, Sharon Mazel]
+  publisher_en: Workman Publishing
+  publisher_zh: 南海出版公司(新经典发行)
+  year: 1989
+  edition: 3rd (2014)
+  location: "第 19 章《急救常识》'晒伤 15',574 页中译"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards: [C-S4-2245]
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

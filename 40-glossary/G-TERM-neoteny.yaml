@@ -1,0 +1,28 @@
+glossary_id: G-TERM-neoteny
+type: term
+display_name: "幼态延续 / neoteny"
+
+name_en: "neoteny"
+name_zh: "幼态延续"
+
+description: |
+  Csikszentmihalyi 借生物学概念 — 人保留幼年特性进入成年(玩 / 好奇 / 学习能力)。
+  人类是动物界 neoteny 最强物种,这是 flow 能力的进化基础。
+
+one_liner: |
+  幼态延续(neoteny)— Csikszentmihalyi 借生物学概念 — 人保留幼年特性进入成年(玩 / 好奇 / 学习能力)。
+
+key_facts:
+  - "Lerner V1 元理论卷核心术语"
+  - "学派:Lerner V1 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,28 @@
+glossary_id: G-TERM-oakland-growth-study
+type: term
+display_name: "奥克兰成长研究 / Oakland Growth Study (Elder)"
+
+name_en: "Oakland Growth Study (Elder)"
+name_zh: "奥克兰成长研究"
+
+description: |
+  Elder 经典数据源 — 1929 大萧条期 167 名儿童终生跟踪。
+  证明历史时段(大萧条)对儿童发展影响因家庭经济状态而异 — 中产家庭逆境反而培养 resilience。
+
+one_liner: |
+  奥克兰成长研究(Oakland Growth Study (Elder))— Elder 经典数据源 — 1929 大萧条期 167 名儿童终生跟踪。
+
+key_facts:
+  - "Lerner V1 元理论卷核心术语"
+  - "学派:Lerner V1 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

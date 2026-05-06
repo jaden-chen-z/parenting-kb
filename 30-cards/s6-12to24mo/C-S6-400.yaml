@@ -1,0 +1,58 @@
+card_id: C-S6-400
+stages: [S6]
+tags: [discipline, potty, RIE, lansbury, controversy]
+
+front:
+  title: "如厕不训练,孩子自己学"
+  hook: "你定时间 = 制造抗拒"
+
+back:
+  why_matters: |
+    Lansbury Ch21 的强立场:
+    "Potty training" 这个词本身就错 — 训练是大人主动做。
+    实际:孩子准备好了自己学。
+    准备 = 身体能憋 + 心智懂 + 情绪愿意。
+    强迫孩子上厕所 → 制造抗拒 / 羞耻 / 多日憋便。
+    一些极端案例:孩子被"训"过反而到成年都需要尿布拉便。
+    RIE / 蒙氏(Lillard 12-18 月敏感期是另一派立场)有差异:
+    Lansbury 反"主动训练",Lillard 主张"敏感期前提供机会"。
+
+  what_to_do:
+    - 不强迫不哄上小马桶
+    - 看孩子信号(尿了即说 / 想换湿尿布)
+    - 准备小马桶在视野内,不主动催
+    - 孩子主动表达就配合:"你想去厕所?"
+    - 一次成功不等于完成,反复是正常
+
+  failure_mode: |
+    "三天速成训练法" → 用糖果 / 贴纸引诱 = 制造长期抗拒。
+    或反向:"孩子 5 岁还尿尿裤 = 没管" → 孩子准备时间个人差异大,
+    最早 12 月 / 最晚 4 岁都正常。
+    Lansbury 反速成,信任孩子自己时间表。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Lansbury
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+
+citation:
+  book_title_en: "Elevating Child Care: A Guide to Respectful Parenting"
+  book_title_zh: "尊重孩子:RIE 育儿之道"
+  authors:
+    - Janet Lansbury
+  publisher_en: JLML Press
+  year: 2014
+  location: "Ch21 The Trouble with Potty Training"
+  source_id: SRC-019
+
+unit_ids: []
+related_cards:
+  - C-S6-189  # Lillard 12-18 月如厕敏感期(对照不同立场)
+  - C-S6-190  # Lillard 反纸尿裤
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

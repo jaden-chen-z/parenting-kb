@@ -1,0 +1,71 @@
+card_id: C-S8-749
+stages: [S8]
+tags: [media, comstock, lerner_v4]
+
+front:
+  title: 屏幕时间 5 大伤娃
+  hook: 屏幕 5 大伤娃
+
+back:
+  why_matters: |
+    Comstock-Scharrer V4 Ch 20(S8 学龄前应用)。
+    **S8 屏幕 5 大伤害**(Comstock 综述):
+    - **暴力效应**:看暴力 → 攻击行为(效应量 .31)
+    - **性别刻板**:看刻板节目 → 强化角色定型
+    - **广告效应**:商业广告 → 不健康饮食 + 消费主义
+    - **学业排挤**:屏幕时间 → 阅读 + 户外 + 互动减少
+    - **社会化**:孩子从屏幕而非家庭学社交
+    **3-6 岁数据**(Comstock 元分析):
+    - 美国娃日均屏幕 3-5 小时
+    - 中国可能更高(iPad + 电视 + 手机)
+    - 每多 1 小时屏幕 → 词汇 -10% / 攻击 +5%
+    **反 3 误区**:
+    - ❌ "教育屏幕没事"(短视频教育=社会化短视频规则)
+    - ❌ "陪着看就行"(陪看不能完全抵消 5 大效应)
+    - ❌ "我家娃看了没事"(累积效应隐性)
+    **AAP + V4 立场一致**:
+    - 0-2 岁绝对禁
+    - 2-6 岁限 1 小时优质内容
+    - 全家有"无屏时段"
+    跟现库:跟 C-S0-1236 Comstock 5 效应 + AAP 反屏(SRC-002)+ 松田反电视(SRC-024)对接。
+    对中国家长意义:
+    - 3-6 岁限 1 小时优质内容
+    - "全家无屏时段"(吃饭 + 睡前)
+    - 父母先放下手机
+    - 替换:户外 + 阅读 + 玩耍
+  what_to_do:
+    - 3-6岁限 1 小时优质内容
+    - 全家无屏时段
+    - 父母先放手机示范
+    - 户外+阅读+玩耍替换
+  failure_mode: |
+    "教育屏幕没事"— 错。社会化效应难抵消。
+    "陪看就抵消"— 错。5 大效应叠加。
+    "娃看了没事"— 错。累积隐性。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Comstock
+  - G-PERSON-Anderson-Craig
+  - G-TERM-media-effects
+  - G-TERM-anti-screen
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 4 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 4 卷"
+  authors: ['George Comstock', 'Erica Scharrer']
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 20 · Comstock · S8 screen time + 5 effects · pp. 825-845"
+  source_id: SRC-029
+
+unit_ids: []
+related_cards:
+  - C-S0-1236     # Comstock 5 效应
+  - C-S8-101     # 松田反电视
+  - C-S0-619     # NRC 反屏
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,27 @@
+glossary_id: G-TERM-exosystem
+type: term
+display_name: "外观系统 / exosystem"
+
+name_en: "exosystem"
+name_zh: "外观系统"
+
+description: |
+  Bronfenbrenner 第 3 层 — 父母工作 / 政策 / 媒体 间接影响娃的环境。
+
+one_liner: |
+  外观系统(exosystem)— Bronfenbrenner 第 3 层 — 父母工作 / 政策 / 媒体 间接影响娃的环境。
+
+key_facts:
+  - "Lerner V1 元理论卷核心术语"
+  - "学派:Lerner V1 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,59 @@
+card_id: C-S3-132
+stages: [S3]
+tags: [philosophy, postpartum, controversy]
+
+front:
+  title: 4 月想"逃走"不是育儿失败
+  hook: 想逃走是普遍情绪
+
+back:
+  why_matters: |
+    WW19 长烦躁 阶段(可达 6 周)是父母心理 / 体力的极限考验。
+    van de Rijt 收集的真实妈妈日记里反复出现:
+    - "我希望儿子今晚消失 1 天"
+    - "我在商店里听见他哭就想说'闭嘴你这傻孩子'"
+    - "我觉得自己被关在监狱里"
+    - "我想'他要是再不停我会动手'"
+    这些感受**普遍存在**,不是少数妈妈的"心理变态"。
+    真正危险的是把这些感受**当成自己有问题**而不去求助 — 反而把情绪憋到爆发点。
+    van de Rijt 反复强调:**有这些情绪正常,行动出来才危险**(SBS(摇婴综合征) 警告框 Ch4/5/6 都重复)。
+    家长意义:**承认情绪不羞耻**,持续被情绪困扰 → 求助(伴侣 / 朋友 / 医生)。
+  what_to_do:
+    - 接受"我现在恨这个宝宝"的瞬间情绪是真实的、普遍的
+    - 把宝宝放在安全地方,自己离开 5-10 分钟
+    - 找伴侣 / 父母 / 朋友替手,哪怕只是 1-2 小时
+    - 反复 / 强烈伤害冲动 → 可能是产后抑郁(C-S1-033),需就医
+    - 烦躁 阶段 完成后情绪会大幅好转(几天-几周)
+  failure_mode: |
+    "好妈妈不应该有这种想法" → 把情绪憋住 → 突破临界点。
+    认为求助是软弱 → 单人硬撑 → 极限疲劳 → 容易做出后悔的事。
+    把跃迁期的"想逃"误判为"我不爱我宝宝" → 自我怀疑加剧。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-vanderijt
+  - G-TERM-wonder-week
+  - G-TERM-fussy-phase
+  - G-TERM-postpartum-depression
+
+citation:
+  book_title_zh: "婴儿大脑跃迁 10 周(神奇周)"
+  book_title_en: "The Wonder Weeks"
+  authors: ["Hetty van de Rijt", "Frans X. Plooij"]
+  authors_zh: ["海蒂·凡德里特", "弗朗斯·普洛伊"]
+  publisher_en: "Kiddy World Publishing"
+  year_en_first: 1992
+  isbn_en: "978-90-79208-12-1"
+  location: "Chapter 6 · You May Feel Trapped + You May Feel Resentful(Bob's mom 18th week / Steven's mom 18th week / Ashley's mom 17th week / Kevin's mom 16th week direct quotes)"
+  source_id: SRC-013
+
+unit_ids: []
+related_cards:
+  - C-S1-033       # 产后抑郁
+  - C-S2-124       # 永远不能摇宝宝
+  - C-S3-130       # 4-5 月长 fussy phase
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

@@ -1,0 +1,73 @@
+card_id: C-S4-198
+stages: [S4]
+tags: [self, milestone, communication]
+
+front:
+  title: 9 月起"为信息而沟通"
+  hook: 故意沟通不是反射
+
+back:
+  why_matters: |
+    9 月起宝宝出现 **意图沟通(故意沟通)** — 跟之前所有"信号"都不同的**新种类**通讯。
+    **传统观点**:婴儿前 9 月发出的所有信号(哭 / 笑 / cooing)是**反射性 + 应激性** — 没有"沟通意图"。
+    **Stern 引述 Bates 1979 等定义**:
+    - 故意沟通 = 发信号者**事先意识到**信号会对接收者产生效果,**为这个效果而发信号**
+    - 不是"我饿了所以哭" — 是"我希望你拿那个,所以指 + 看你 + 看物 + 看你"
+    **9 月起的 意图沟通 5 大行为**:
+    - 指物 + 同时看你(确认你跟着)
+    - 把东西**给你看**(不是给你拿)
+    - 重复某个手势直到你回应
+    - 改变语调来表达不同意思(命令 vs 询问)
+    - 用某个动作 + 表情**等你的反馈**
+    **跟 共同注视(C-S4-197)的区别**:
+    - 共同注视 是**注意力分享**
+    - 意图沟通 是**意图分享** — 我有想让你做的事,我故意发信号
+    - 两个都是 共主体性 的表现
+    **核心意义**:
+    - 这是**前语言期的"对话"** — 不需要词,但已有完整沟通结构
+    - **是后续语言爆发期(15-24 月)的"心理基础"** — 语言只是给已有的沟通意图加上词的工具
+    - 宝宝不是"等学语言才能沟通" — 是**已有沟通能力,语言只是新工具**
+    **对家长**:
+    - **响应宝宝的 意图沟通** — 即使没语言也是真沟通
+    - 假装看不到 / 不理 → 宝宝学到"沟通没用" → 后期语言发展受影响
+    - 解读宝宝的信号("哦你想要那个对吧?")— 用语言**翻译**宝宝的非语言意图跟 Lillard"说话慢 + 等回应"(C-S2-186)一致 — 都重视"双向对话"。
+  what_to_do:
+    - 9 月起把宝宝看作沟通伙伴
+    - 解读 + 回应宝宝指 / 看 / 给的信号
+    - 用语言"翻译"宝宝的非语言意图
+    - 等宝宝有反馈后再给(培养"双向")
+    - 别说"宝宝小不懂" — 已是真沟通
+  failure_mode: |
+    "宝宝还不会说话怎么沟通" — 错。Stern + Bates 数据 — 9 月起已是真沟通,不需要语言。
+    忽略宝宝的指 / 给 → 宝宝学到"沟通无用" → 影响语言发展 + 安全感。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Stern
+  - G-TERM-subjective-self
+  - G-TERM-intersubjectivity
+
+citation:
+  book_title_zh: "婴儿的人际世界"
+  book_title_en: "The Interpersonal World of the Infant"
+  authors: ["Daniel N. Stern"]
+  authors_zh: ["丹尼尔·斯特恩"]
+  publisher_en: "Basic Books"
+  year_en: 1985
+  isbn_en: "978-0-465-09559-9"
+  location: "Ch 6 · Sharing Intentions (Bates 1979 intentional communication)"
+  publisher_zh: "华东师范大学出版社"
+  year_zh: 2017
+  translator_zh: ["刘旭东"]
+  source_id: SRC-018
+
+unit_ids: []
+related_cards:
+  - C-S4-196       # Stern 7-9 月跃迁
+  - C-S4-197       # Stern joint attention
+  - C-S2-186       # Lillard 说话慢 + 等回应
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

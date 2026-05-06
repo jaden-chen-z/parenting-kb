@@ -1,0 +1,41 @@
+card_id: C-S1-2206
+stages: [S1]
+tags: [red_flag]
+front:
+  title: 大便颜色 8 类图鉴
+  hook: 黑红白条立刻就医
+back:
+  why_matters: |
+    新手父母的大便焦虑 — 颜色质地每天都不同,大多正常,但有几种是警报信号。
+    海蒂列了 8 类大便对照表 — 学会识别正常 vs 异常,省下一半的儿科电话。
+    胎便(粘绿黑、最初几次)、过渡期(黄绿棕颗粒、第 3-4 天)、母乳便(芥末黄、像凝乳)、配方便(成型、浅黄到棕绿)。
+    异常红旗:稀+多+绿(腹泻)、硬球状(便秘)、黑色(补铁过量)、红条纹(肛裂或乳过敏)、粘性绿/浅黄(病毒感染)。
+    宝宝吃啥拉啥 — 加铁的配方/维生素滴 → 大便发黑或深绿 = 正常。
+  what_to_do:
+    - 记住 8 类:胎便/过渡/母乳/配方/腹泻/便秘/黑/红
+    - 不和别的宝宝大便比较
+    - 红条纹 = 给医生看尿布
+    - 全黑/带血 → 就医排查
+    - 加固体食物后大便随饮食变也正常
+  failure_mode: |
+    把正常的母乳颗粒便当腹泻恐慌、或忽略真腹泻(频繁稀绿)/便秘信号。
+    红色条纹只当吃了红色食物,错过乳过敏或肛裂。
+  evidence_level: B
+glossary_refs: []
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors: ["Heidi Murkoff", "Sharon Mazel"]
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh: ["莫夏迪","张敏"]
+  location: "第 4 章新生儿 · 新生儿的一点大便 / 大便的颜色, 页 129-131"
+  source_id: SRC-040
+related_cards: []
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

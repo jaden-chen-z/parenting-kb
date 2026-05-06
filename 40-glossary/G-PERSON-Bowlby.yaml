@@ -29,7 +29,7 @@ detail: |
   ### 3. Mary Ainsworth 实证研究(1970s 陌生情境实验)
   Bowlby 的合作者 Ainsworth 做"陌生情境"(Strange Situation)实验,把依恋分 4 类:
   - **Secure 安全型**(60-65%)— 父母离开焦虑,回来易安抚
-  - **Anxious-Ambivalent 焦虑矛盾型**(10-15%)— 父母回来既要又推
+  - **Anxious-Ambivalent 抗拒型**(10-15%)— 父母回来既要又推
   - **Avoidant 回避型**(20-25%)— 父母回来漠然回避
   - **Disorganized 混乱型**(后期补充,5-10%)— 受虐儿童多见
 
@@ -70,11 +70,14 @@ related_glossary:
   - G-PERSON-Brazelton  # 同代美国儿科 + 触摸点理论作者
 
 related_cards:
-  # 引用依恋理论的卡片
-  - C-S4-016     # 8 月前抱抱不会宠坏(直接基于安全 vs 焦虑型)
-  - C-S2-013     # 不等啼哭再喂(及时响应)
-  - C-S1-067     # 把新生儿当懂事孩子
-  - C-S6-006     # 16-18 月跟小伙伴玩(依恋扩展)
+  # 引用依恋理论的卡片(全库太多,仅列入口卡)
+  - C-S4-016     # 8 月前抱抱不会宠坏(鲍秀兰直接基于依恋)
+  - C-S1-122     # Vol 1 粘人不是被宠的是基因
+  - C-S5-070     # Vol 1 12 月可测依恋类型
+  - C-S6-069     # Vol 1 3 岁前给娃刻内部地图
+  - C-S6-082     # Vol 2 长分离反应 3 阶段
+  - C-S6-097     # Vol 2 稳定家庭 5 个特征
+  - C-S7-042     # Vol 2 强独立不健康
 
 sources:
   - external: Bowlby J. Attachment and Loss Vol 1-3 (1969-1980) Hogarth Press / Ainsworth MDS Strange Situation 1978 / 综合发育心理学
@@ -82,4 +85,4 @@ sources:
 language: zh
 status: draft
 created: 2026-05-02
-updated: 2026-05-02
+updated: 2026-05-03

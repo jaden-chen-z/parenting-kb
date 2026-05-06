@@ -1,0 +1,63 @@
+card_id: C-S2-493
+stages: [S2]
+tags: [RIE, principles, philosophy]
+
+front:
+  title: "Magda 7 大原则原版"
+  hook: "记 7 条不如懂尊重"
+
+back:
+  why_matters: |
+    Magda《自信的宝宝》Ch1 §Basic Principles — RIE 派的哲学骨架。
+    Magda 1998 原版列 7 项(Lansbury 2014 扩到 10):
+    1 **基本信任**:相信宝宝是 initiator + explorer + self-learner
+    2 **环境**:身体安全 + 大脑挑战 + 情绪滋养(三位一体)
+    3 **自主玩时间**:不打断
+    4 **自由探索 + 同伴互动**(规则:不伤别人)
+    5 **护理时主动参与**(尿布 / 喂 / 洗澡是合作不是被动)
+    6 **细致观察**(观察 = 答案的源头)
+    7 **一致性 + 清晰限度**(rule is rule)
+    Lansbury 加的:8 自信限度 9 让娃自解决 10 模范作用 — 都是"实操工具"
+    级别。Magda 7 项是"心法",更哲学。
+
+  what_to_do:
+    - 7 项贴冰箱当 RIE 心法
+    - 每周自查:有没有 7 项做齐
+    - 缺一项就刻意补一周
+    - 不是规则是态度
+    - 跟 Lansbury 10 对照看演化
+
+  failure_mode: |
+    "RIE 太复杂记不住" → Magda 反:7 项是心法不是清单,
+    懂了"尊重 + 信任"两核心,7 项自然落地。或"7/10 谁对" → 反:
+    Lansbury 把 8/9/10 拆出是因为家长难懂,本质同源。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Gerber
+  - G-PERSON-Lansbury
+  - G-TERM-RIE
+  - G-TERM-respectful-parenting
+
+citation:
+  book_title_en: "Your Self-Confident Baby"
+  book_title_zh: "自信的宝宝"
+  authors:
+    - Magda Gerber
+    - Allison Johnson
+  publisher_en: John Wiley & Sons
+  year: 1998
+  location: "Ch1 §Basic Principles(p4-8)"
+  source_id: SRC-021
+
+unit_ids: []
+related_cards:
+  - C-S1-352  # Lansbury 把婴儿当真人
+  - C-S2-189  # Lillard 0-6 岁只给真实
+  - C-S5-130  # Davies 1 岁前两份心理大礼
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

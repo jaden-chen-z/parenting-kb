@@ -1,70 +1,54 @@
 glossary_id: G-TERM-responsive-feeding
 type: term
-display_name: 回应式喂养 (responsive feeding)
+display_name: "反馈喂养"
 
-full_name_en: Responsive Feeding
-full_name_zh: 回应式喂养
+en_term: "Responsive Feeding"
+zh_term: "反馈式喂养"
 
 one_liner: |
-  根据宝宝饥饿 / 饱腹信号决定是否喂,不按时间表强喂。AAP 推荐 — 防过度喂养 + 培养宝宝自我调节能力。
+  看娃信号决定喂,不按时间表 — BFHI 第 8 步 + 跟 AAP/松田 共识。
 
 detail: |
   ## 定义
-  喂养行为基于宝宝的内在信号(早期饥饿 cue / 饱腹 cue),而非外在时间表。
-  对应:scheduled feeding(按时定量喂)/ overfeeding(过度喂养)。
-
-  ## 早期饥饿信号
-  - 唇啜动作(lip-smacking)
-  - 吸吮动作(sucking motion)
-  - 寻乳反射(rooting)
-  - 踢腿 / 躁动 / 警觉
-  - 哭是**晚期信号**(已经过头)
-
-  ## 饱腹信号
-  - 释放奶嘴 / 乳头
-  - 转头 / 闭嘴
-  - 入睡
-  - 大点(几月后)看着大人笑或推开
-
-  ## AAP 立场
-  - 母乳:8-12 次/天,白天 2-3h 上限,夜间 4h 上限,**按需**(C-S1-050)
-  - 配方奶:看体重(2.5 oz/lb/天),也按需(C-S1-055)
-  - 不要塞奶嘴搪塞实际饥饿
-  - 不要因为"该喂了"叫醒已睡饱的宝宝
-
-  ## 益处
-  - 防过度喂养 / 肥胖
-  - 培养宝宝自我调节能力
-  - 尊重宝宝个体差异
-  - 减少 spit-up / 反流
-
-  ## 与 BLW 的关系
-  - BLW 是 responsive feeding 的辅食阶段延续
-  - 自喂 finger food → 自我饱腹调节
-  - 不强求"吃完碗里"
+  Responsive feeding — 看婴儿信号决定喂,不按时间表。
+  
+  ## 早期 vs 晚期信号
+  - 早期:唇啜 / 吸吮 / 寻乳 / 踢腿 / 警觉
+  - 晚期:哭(已过头,饿+情绪 → 难有效吸)
+  
+  ## BFHI 第 8 步 verbatim
+  'Support mothers to recognize and respond to infant feeding cues.'
+  
+  ## 频次
+  - 新生儿:8-12 次/24h
+  - 1-3 月:仍 8-12 次
+  - 'Cluster feeding'(群聚喂)正常
+  
+  ## 跟其他派关系
+  - AAP(SRC-006):'on demand' 立场一致
+  - 松田(SRC-024):反产院'3 小时定时' 一致(C-S1-761)
+  - WHO BFHI:一致
+  
+  ## 辅食期延续
+  6 月+ 加辅食仍 responsive — 看娃饱腹/饥饿信号。
 
 key_facts:
-  - 看宝宝信号,不按时间表
-  - 早期信号:唇啜 / 寻乳 / 踢腿
-  - 哭是晚期信号
-  - AAP 推荐母乳 + 配方都按需
-  - 防过度喂养 + 肥胖
+  - "BFHI 第 8 步"
+  - "AAP/松田/WHO 三方共识"
+  - "早期信号:唇啜/寻乳/踢腿/警觉"
 
 related_glossary:
-  - G-ABBR-AAP
-  - G-ABBR-BLW
-  - G-TERM-cry-it-out
+  - G-TERM-BFHI-10-steps
 
 related_cards:
-  - C-S1-050     # AAP 母乳起步:每天 8-12 次,看早期信号
-  - C-S1-055     # AAP 配方奶量 + 喂姿
-  - C-S4-001     # AAP BLW vs 泥糊
+  - C-S1-1005
+  - C-S2-1044
+  - C-S4-1050
 
 sources:
-  - source_id: SRC-006
-  - external: WHO + UNICEF Responsive Feeding 指南 / 综合儿童营养常识
+  - source_id: SRC-031
 
 language: zh
-status: draft
-created: 2026-05-02
-updated: 2026-05-02
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

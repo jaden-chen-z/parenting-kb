@@ -1,0 +1,66 @@
+card_id: C-S8-426
+stages: [S8]
+tags: [cognitive_science, arts, winner, lerner_v2]
+
+front:
+  title: 绘画跟音乐发育不同步
+  hook: 一只手发达就够了
+
+back:
+  why_matters: |
+    Winner 综述(Lerner V2 Ch20 Winner 主笔)。
+    儿童艺术发展跨域综述:
+    - **绘画**:渐进发展(2-3 岁涂鸦 → 4-5 岁形象 → 6-8 岁有规则 → 9+ 高级)
+    - **音乐**:窗口性更强(0-7 岁母语音乐 / 7+ 岁绝对音高难学)
+    - **写作**:视觉-语言双工 5-7 岁起
+    - **舞蹈**:身体协调发育跟随(5-8 岁稳定)
+    Winner 立场:
+    - 不存在"通用艺术天赋" — 各域发育独立
+    - 一个孩子可能音乐好绘画差,反之
+    - 不必逼孩子"全能艺术"
+    - 兴趣 + 持续比早期"识别天赋"重要意义:
+    - 反"艺术训练越早越好"(部分对,部分不)
+    - 中国家长容易"全报"(钢琴 + 绘画 + 舞蹈)
+    - V2 综述:专注 1-2 域更有效跟现库:Gopnik / Lillard 反早教焦虑(C-S0-619 等)。
+    Lerner V2 Ch20 给艺术综述。
+    对中国家长意义:
+    - 不必"全才"训练 — 1-2 域专注
+    - 6 岁前看孩子兴趣,不强求
+    - 音乐 0-7 岁有窗口(绝对音高 / 母语音乐)
+    - 绘画任何年龄能学(渐进)
+  what_to_do:
+    - 0-7 岁让孩子接触多艺术(不报班)
+    - 6-7 岁看真兴趣再深入 1-2 域
+    - 不"全才训练"
+    - 兴趣 + 持续 > 早起步
+  failure_mode: |
+    "艺术全才训练越早越好" — 错。各域不同。
+    "钢琴 + 绘画 + 舞蹈全报" — 错。专注 1-2 域。
+    "5 岁不学 = 没希望" — 错。绘画 / 写作任年龄学。
+  evidence_level: B
+
+glossary_refs:
+  - G-TERM-baby-scientist
+  - G-TERM-critical-period
+  - G-PERSON-Winner
+  - G-PERSON-Gardner
+  - G-PERSON-Gopnik
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 2 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 2 卷"
+  authors: ["Ellen Winner"]
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 20 · Arts development · pp. 859-895"
+  source_id: SRC-028
+
+unit_ids: []
+related_cards:
+  - C-S0-619       # Shonkoff 反早教 4 定理
+  - C-S7-1099     # Gentner 类比
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Liben
+type: person
+display_name: "Liben(林恩·利本)"
+
+full_name_en: "Lynn S. Liben"
+full_name_zh: "林恩·利本"
+
+position: |
+  Penn State University
+
+contribution: |
+  空间思维教育研究
+
+one_liner: |
+  林恩·利本 — 空间思维教育研究
+
+key_facts:
+  - "本卷章节:Ch 6 主笔"
+  - "Lerner V4 命中:11 次"
+  - "学派:Lerner V4 应用心理学派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-029
+    chapter: "Ch 6 主笔"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

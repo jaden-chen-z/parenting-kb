@@ -1,0 +1,100 @@
+glossary_id: G-TERM-theory-theory
+type: term
+display_name: 理论理论 (theory theory)
+
+full_name_zh: 理论理论
+full_name_en: Theory Theory
+
+one_liner: |
+  Gopnik 命名的认知发展模型:婴儿建"理论"像科学家建理论 — 收集数据 / 形成假设 / 测试预测 / 修正模型。
+  是 baby scientist 命题的具体机制。
+
+detail: |
+  ## 定义
+  Gopnik 系列论文提出的认知发展模型。命名来源:
+  - "理论"是儿童的认知工具
+  - "理论"也是 Gopnik 的科学假设
+  - "理论的理论"= the theory theory
+
+  核心主张:**儿童不是被动接受信息 / 也不是按基因蓝图发育**,
+  而是**主动建构理论 → 测试 → 修正** — 跟成人科学家同样机制。
+
+  ## 跟其他模型对比
+
+  ### 1. vs Piaget 阶段成熟论
+  - **Piaget**:发展按固定阶段(感知运动 → 前运算 → 具体运算 → 形式运算),基因驱动
+  - **Theory Theory**:每阶段是"当前理论",新数据触发修正,经验驱动
+
+  ### 2. vs 经验主义联想论
+  - **联想**:看到铃响 + 食物来 → 联想"铃 = 食物"(被动)
+  - **Theory Theory**:形成假设"什么导致食物来" → 测试 → 修正(主动)
+
+  ### 3. vs 模块论(Chomsky 等)
+  - **模块**:大脑有专门"语言器官",出生即有完整语法
+  - **Theory Theory**:语法也是建构的"理论",可修正
+
+  ## 三大特征
+
+  ### 1. 跨领域统一
+  同样机制运作于:
+  - 物体世界(物理理论)
+  - 他人心智(心智理论 / ToM)
+  - 语言(语法理论)
+  - 类别(生物分类理论)
+
+  ### 2. 革命式修正
+  - 不是渐进累积
+  - 是**理论崩塌 + 重建**(类似科学革命)
+  - 比如 9 月物体永久性"突然"建立(实际是底层理论质变)
+
+  ### 3. 主动实验驱动
+  - 不是等数据来
+  - 主动**做实验**(扔东西 / 试探 / 重复)
+  - 跟成人科学家做实验同性质
+
+  ## Gopnik 名言
+  > "孩子不是小科学家,科学家是大孩子。"
+  > "Children aren't little scientists; scientists are big children."
+
+  ## 经典实验支持
+  - Gopnik blicket detector(C-S6-181)— 因果理论建构
+  - Repacholi & Gopnik 1997(C-S6-179)— 心智理论建构
+  - Spelke / Baillargeon 物体永久性 — 物理理论建构
+  - Kuhl 知觉重组(C-S4-184)— 语言理论建构
+
+  ## 中国家长意义
+  - 婴儿"破坏行为"= 在做"科学实验"
+  - 婴儿"突然懂"= 理论质变,不是死记硬背
+  - 不必"教",提供安全 + 互动 + 真物 = 他自己建理论
+  - 早教灌输 ≠ 帮他建理论(反而打断)
+
+  ## 学术地位
+  - 90 年代提出,挑战 Piaget + Chomsky 主导地位
+  - 现是认知发展主流模型之一
+  - Gopnik 因此获多项学术大奖
+
+key_facts:
+  - Gopnik 90 年代提出
+  - 婴儿建理论像科学家
+  - 反 Piaget 阶段成熟 + 反 Chomsky 模块
+  - 跨领域统一机制
+  - 科学家是大孩子的理论支撑
+
+related_glossary:
+  - G-PERSON-Gopnik
+  - G-PERSON-Piaget
+  - G-PERSON-Vygotsky
+  - G-TERM-baby-scientist
+  - G-TERM-causal-learning
+  - G-TERM-statistical-learning
+
+related_cards: []
+
+sources:
+  - source_id: SRC-015
+  - external: Gopnik & Meltzoff 1997 Words, Thoughts, and Theories
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

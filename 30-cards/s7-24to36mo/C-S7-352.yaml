@@ -1,0 +1,62 @@
+card_id: C-S7-352
+stages: [S7]
+tags: [discipline, mindset, RIE, lansbury]
+
+front:
+  title: "你设限难?3 个真原因"
+  hook: "对症下药才能放手"
+
+back:
+  why_matters: |
+    Lansbury Ch23 给"温柔派"父母的诊断:
+    很多父母想做温柔的限度,但执行不了。
+    3 个根因:
+    1. 不愿让孩子难过(本能,但孩子需要的是稳定的限度)
+    2. 听了乱建议("只为安全设限" / "不让限度像惩罚" / "用搞笑化解")—
+       这些建议让你处处怀疑自己。
+    3. 觉得"孩子情绪我必须负责"(其实你只负责接住,不负责消除)
+    自查这 3 个,对症下药才能真做到温柔的限度。
+
+  what_to_do:
+    - 自查:你最常掉哪一个坑?
+    - 接受:孩子有不开心的权利
+    - 不听"只安全设限"等模糊建议
+    - 区分:你接情绪 ≠ 你消除情绪
+    - 限度 + 接情绪是一个完整动作
+
+  failure_mode: |
+    "我温柔派,但限度执行不了" → 累积到吼。
+    或反向:"我直接严管,反正温柔没用" → 走另一极。
+    Lansbury:中道是温柔关系 + 严格限度,两个都要。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Lansbury
+  - G-PERSON-Gerber
+  - G-TERM-acknowledging-feelings
+  - G-TERM-RIE
+
+citation:
+  book_title_en: "Elevating Child Care: A Guide to Respectful Parenting"
+  book_title_zh: "尊重孩子:RIE 育儿之道"
+  authors:
+    - Janet Lansbury
+  publisher_en: JLML Press
+  year: 2014
+  location: "Ch23 Struggling With Boundaries (3 Common Reasons)"
+  source_id: SRC-019
+
+unit_ids: []
+related_cards:
+  - C-S7-348  # Lansbury 你为什么吼
+  - C-S7-349  # Lansbury 大人也要边界
+  - C-S6-396  # Lansbury CEO 语调
+  - C-S6-133  # Davies 温柔但清晰的边界
+  - C-S6-192  # Lillard No 永远是 No
+  - C-S6-138  # Davies 蒙氏父母先照顾自己
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

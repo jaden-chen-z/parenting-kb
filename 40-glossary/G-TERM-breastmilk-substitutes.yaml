@@ -1,0 +1,50 @@
+glossary_id: G-TERM-breastmilk-substitutes
+type: term
+display_name: "母乳代用品"
+
+en_term: "Breast-milk Substitutes"
+zh_term: "母乳代用品"
+
+one_liner: |
+  Code 定义的'母乳代用品'广义 — 不只配方奶,还含奶瓶/奶嘴/跟随奶/增长奶。
+
+detail: |
+  ## Code 定义
+  Breast-milk substitute = 'any food being marketed or otherwise represented as a partial or total replacement for breast milk'(任何作为部分或全部替代母乳产品的营销)。
+  
+  ## 涵盖
+  - 婴儿配方奶(infant formula 0-6 月)
+  - 跟随奶(follow-on formula 6-12 月)
+  - 增长奶(growing-up milk 12 月+)— WHO 2016 决议明确加强
+  - 1 岁内任何乳制品/婴儿食品
+  - 奶瓶
+  - 奶嘴
+  - 安抚奶嘴
+  
+  ## 关键
+  1-2-3-4 段奶粉 = 中国奶粉品牌分阶营销,WHO 立场视为 Code 监管对象。
+  
+  ## WHO 立场
+  1 岁后母乳 + 家庭饮食 + 全奶 = 足够,不需要任何 'breast-milk substitute'。
+
+key_facts:
+  - "Code 广义定义"
+  - "1-2-3-4 段都是"
+  - "1 岁后不需要专门奶粉"
+
+related_glossary:
+  - G-TERM-WHO-Code
+  - G-TERM-formula-marketing
+
+related_cards:
+  - C-S1-1010
+  - C-S6-1070
+  - C-S8-868
+
+sources:
+  - source_id: SRC-031
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

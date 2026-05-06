@@ -1,0 +1,60 @@
+glossary_id: G-PERSON-Thelen
+type: person
+display_name: Thelen
+
+full_name_en: Esther Thelen
+full_name_zh: 埃丝特·特伦
+
+one_liner: |
+  美国发展心理学家(印第安纳大学教授,2004 离世),动态系统派(Dynamic Systems)奠基人。
+  反 Piaget 概念派,主张 A-not-B 错误是身体动力学不是认知。
+
+detail: |
+  ## 个人背景
+  - 1941-2004
+  - 加州大学伯克利分校博士
+  - 印第安纳大学心理学教授
+  - 美国艺术与科学院院士
+
+  ## 核心理论:Dynamic Systems(动态系统)
+  - 发展不是线性阶段,是动态系统涌现
+  - 身体 + 环境 + 任务三者互动
+  - 微小参数变化引发大转变
+
+  ## 经典研究:A-not-B 错误重新解释
+  - Piaget 解读为"概念不全"
+  - Thelen 解读为"身体动力学 + 行动惯性"
+  - 改变臂重 → A-not-B 反应模式变(证明动力学)
+
+  ## 立场
+  - 反 Piaget 概念阶段派
+  - 跟 Smith Linda 协作
+  - 现代认知 + 动作发展融合派
+
+  ## 在本知识库中
+  - SRC-028 Lerner V2 Ch4/Ch10 引用(183 hits)
+  - C-S5-1139 A-not-B Thelen 动态系统
+
+key_facts:
+  - 印第安纳大学心理学教授(已故)
+  - 动态系统理论奠基
+  - A-not-B 重解
+  - 跟 Smith L 协作派
+
+related_glossary:
+  - G-PERSON-Piaget
+  - G-PERSON-Adolph
+  - G-TERM-object-permanence
+
+related_cards:
+  - C-S5-1139
+  - C-S5-1138
+
+sources:
+  - source_id: SRC-028
+  - external: Thelen/Smith 1994《A Dynamic Systems Approach》/ Wikipedia Esther Thelen
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

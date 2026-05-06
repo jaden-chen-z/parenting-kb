@@ -1,0 +1,57 @@
+card_id: C-S6-397
+stages: [S6]
+tags: [discipline, language, RIE, lansbury]
+
+front:
+  title: '"我不让你..." 限度公式'
+  hook: "不喊不威胁不解释"
+
+back:
+  why_matters: |
+    Lansbury Ch22 标志性的限度公式(英文 "I won't let you..."):
+    - 不"别这样!"(命令)
+    - 不"妈妈说不行"(三人称权威)
+    - 不"不可以哦~"(不确定问句)
+    - 用 "我不让你..." + 物理挡住行为例:孩子拽狗毛 → "我不让你拽狗" + 把孩子的手温柔挪开。
+    第一人称 + 陈述句 + 立即行动 = 清楚不焦虑。
+    孩子接收的信息:"妈妈很清楚,这事不可以。"
+
+  what_to_do:
+    - 句式固定:"我不让你 + 行为"
+    - 立即 + 用手温柔阻止行为(不只说)
+    - 不解释为什么 / 不预告后果
+    - 不情绪 / 不威胁 / 不长说
+    - 反复出现的行为 → 反复同公式 + 阻止
+
+  failure_mode: |
+    "妈妈跟你说过多少次别打狗!" → 责备语,孩子学到自己羞耻。
+    或反向:"哎呀别这样可以吗" → 不确定,孩子继续测试。
+    Lansbury:行为出现的当下 0-2 秒,公式立刻执行。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Lansbury
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+
+citation:
+  book_title_en: "Elevating Child Care: A Guide to Respectful Parenting"
+  book_title_zh: "尊重孩子:RIE 育儿之道"
+  authors:
+    - Janet Lansbury
+  publisher_en: JLML Press
+  year: 2014
+  location: "Ch22 + Ch25 — 'I won't let you' formula"
+  source_id: SRC-019
+
+unit_ids: []
+related_cards:
+  - C-S6-396  # Lansbury CEO 语调
+  - C-S6-192  # Lillard No 永远是 No
+  - C-S6-191  # Lillard 物理移除
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

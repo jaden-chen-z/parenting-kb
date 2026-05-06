@@ -1,0 +1,74 @@
+card_id: C-S7-248
+stages: [S7]
+tags: [self, language, milestone]
+
+front:
+  title: 我 / 我的 = 客观自我
+  hook: 代词 = self 成型
+
+back:
+  why_matters: |
+    24-36 月宝宝大量使用代词("我"/"我的"/"你"/"我们")— Stern 说这是 **范畴自我(客观自我)成型**的硬指标。
+    **18 月起的进程**:
+    - **18 月** — 镜中认我(rouge test)— 刚出现 范畴自我
+    - **18-24 月** — 开始用名字 + 早期代词(常常混乱:"宝宝吃饭" / "你饿" 实际指自己)
+    - **24-36 月** — **代词使用稳定** — "我饿了 / 这是我的 / 我们去玩"
+    **关键含义**(Stern):
+    - "我" = 第一人称代词 = **从自我视角看自我**
+    - "你" = 第二人称 = **从对方视角看自己**
+    - "我们" = **共主体性的言语化** — 把 7-9 月起的 共主体的 experience 用词总结
+    - 用代词稳定 = **objectifiable self + 主观自我 整合稳定**
+    **传统观点的局限**:
+    - "宝宝早就该说我了" — 不一定 — 24-36 月才稳定
+    - "代词用错就纠正" — 错。Stern + Vygotsky:代词不是"教会"的,是 self 发育自然成型的副产品
+    - 强行教纠正 → 可能产生理解 / 自我焦虑
+    **怎么帮代词稳定**:
+    - **大量示范** — 你说"我去做饭 / 你想要那个吗 / 我们一起读"
+    - **不立刻纠正错用** — "宝宝饿"宝宝指自己时,你可以重述"哦你饿了对吧",不批评
+    - **用名字 + 代词混合** — "Sarah 是我的女儿,你今天好吗"
+    - **承认 ownership** — "这是你的鞋"/"这是妈妈的杯"— 帮 self/他者 区分
+    **中国家庭文化考量**:
+    - 中文常用第三人称("妈妈帮你 / 宝宝乖")— 不利代词成型
+    - 适当切换到第一/二人称("我帮你 / 你乖")— 加速 范畴自我
+    - 不必完全改 — 但每天有部分时间用第一/二人称很重要跟 Lillard"母-师角色"(C-S6-186)、语言自我 启动(C-S6-1072)同时间。
+  what_to_do:
+    - 24-36 月大量用第一/二人称示范
+    - '"我去做饭"不"妈妈去做饭"'
+    - 错用代词不立刻纠正
+    - 承认 ownership 帮 self/他者 区分
+    - 不强行教让自然成型
+  failure_mode: |
+    "宝宝代词用错要纠正" — 反而焦虑。Stern + Vygotsky — 代词是 self 副产品,不是技能。
+    总用第三人称跟宝宝说话 → 范畴自我 弱 → 24 月+ 仍混乱。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Stern
+  - G-PERSON-Vygotsky
+  - G-TERM-verbal-self
+  - G-TERM-self-recognition
+
+citation:
+  book_title_zh: "婴儿的人际世界"
+  book_title_en: "The Interpersonal World of the Infant"
+  authors: ["Daniel N. Stern"]
+  authors_zh: ["丹尼尔·斯特恩"]
+  publisher_en: "Basic Books"
+  year_en: 1985
+  isbn_en: "978-0-465-09559-9"
+  location: "Ch 8 · Pronouns + Objective Self"
+  publisher_zh: "华东师范大学出版社"
+  year_zh: 2017
+  translator_zh: ["刘旭东"]
+  source_id: SRC-018
+
+unit_ids: []
+related_cards:
+  - C-S6-297       # Stern 18 月镜中认我
+  - C-S6-1072       # Stern 15-18 月 verbal self
+  - C-S6-186       # Lillard 母-师角色
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

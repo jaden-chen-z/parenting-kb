@@ -1,0 +1,84 @@
+card_id: C-S6-1391
+stages: [S6]
+tags: [attachment, powell, toddler, lerner_v4]
+
+front:
+  title: 依恋干预改类型
+  hook: 不安全依恋可改变
+
+back:
+  why_matters: |
+    Powell V4 第 14 章 + Cicchetti 第 13 章(依恋干预专题)。
+
+    **依恋类型不是命定**:
+    - "依恋导向家庭治疗"等系统化干预
+    - 不安全依恋 → 安全依恋是可能的
+    - 关键:**改变父母行为,而非孩子行为**
+    - 12-24 月窗口最有效
+
+    **Cicchetti 经典随机对照研究**(2006):
+    - 母婴依恋干预
+    - 12 月不安全 → 24 月安全转化率 60%+
+    - 控制组只 30%
+    - 早期干预改变依恋类型
+
+    **3 大干预方向**:
+    - **敏感度训练**:训练母性敏感(响应 + 准确)
+    - **心智化**:看到娃心理状态(意图 / 情绪)
+    - **反思功能**:父母自我反思能力
+
+    **反 3 误区**:
+    - ❌ "依恋类型注定不变"(60% 可改)
+    - ❌ "改孩子行为"(应改父母行为)
+    - ❌ "只有有问题家需要"(普通家也受益)
+
+    **经典书 + 项目**:
+    - "安全感之环"(Circle of Security,美国成熟项目)
+    - "录像互动引导"(VIG)
+    - 中国部分医院引入
+
+    跟现库:跟鲍尔比 V1/V2 依恋(SRC-011/012)+ 安斯沃斯陌生情境(SRC-023)
+    + V3 Cassidy(C-S2-940 周边)对接。
+
+    对中国家长意义:
+    - 不安全依恋可改(60% 数据)
+    - 改父母行为,不改娃行为
+    - 普通家也可受益
+    - 找"安全感之环"类项目
+  what_to_do:
+    - 不安全依恋可改
+    - 改父母行为,不改娃行为
+    - 普通家也受益
+    - 找"安全感之环"项目
+  failure_mode: |
+    "依恋类型注定" — 错。60% 可改。
+    "改娃行为" — 错。改父母行为。
+    "只有问题家需要" — 错。普通家也好。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Cicchetti
+  - G-PERSON-Powell
+  - G-TERM-attachment-intervention
+  - G-TERM-circle-of-security
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 4 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 4 卷"
+  authors: ['Dante Cicchetti', 'Sheree L. Toth', 'Douglas R. Powell']
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 13 · Cicchetti-Powell · Attachment intervention RCT · pp. 525-535"
+  source_id: SRC-029
+
+unit_ids: []
+related_cards:
+  - C-S0-1233     # Powell 5 原则
+  - C-S6-1384     # V4 学步虐待最敏感
+  - C-S6-1389     # V4 早期干预黄金
+  - C-S0-619     # Shonkoff NRC 综述
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

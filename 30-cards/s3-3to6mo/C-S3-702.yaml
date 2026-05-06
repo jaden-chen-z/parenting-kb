@@ -1,0 +1,58 @@
+card_id: C-S3-702
+stages: [S3]
+tags: [feeding, weaning, japan, matsuda]
+
+front:
+  title: "辅食用大人饭就行"
+  hook: "不必专为他做一顿"
+
+back:
+  why_matters: |
+    松田 §190 反"断乳食品需特殊调制"：
+    1. 大人吃的食物有许多适合婴儿(半熟蛋 / 豆腐 /
+       土豆泥 / 鱼肉 / 肉末);
+    2. 不必花 1.5 小时专做 10g 米粥 — 这时间够带宝宝出门散步;
+    3. 育儿杂志的"断乳食谱"是厨师臆想的;
+    4. 用勺子背面压碎食物即可，不必研钵 + 筛网;
+    5. 5 月起每周试一次 — 不喜欢就推 1 周再试;
+    6. 不必等到 5 月 — 6 月 / 7 月也行(因人而异)。
+    立场比中国传统"专门月嫂做辅食"宽松。
+
+  what_to_do:
+    - 从大人饭里挑没辣没油的小份
+    - 用勺子背面压碎，不上研钵
+    - 5 月起每周试 1 次，宝宝顶出来就推迟
+    - 不喜欢米粥可试面包碎
+    - 不强迫"必须 5 月开始"
+
+  failure_mode: |
+    完美主义妈妈每天 1.5 小时做"定制辅食" → 错过出门散步时机 →
+    宝宝白天没释放能量 → 晚上不睡 → 妈妈累垮。
+    或反方向："反正大人饭就行" → 没注意香辣调味 →
+    婴儿胃口受刺激。
+    替代：把"专做"改成"分一份"+ 调味前先盛出婴儿份。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Matsuda
+
+citation:
+  book_title_zh: "定本育儿百科"
+  authors:
+    - 松田道雄
+  publisher_ja: 岩波书店
+  year_first_edition: 1967
+  location: "§190 断奶的途径不止一种 / §148 断乳食品的准备"
+  source_id: SRC-024
+
+unit_ids: []
+related_cards:
+  - C-S6-027  # Brazelton 12-15 月饮食极简底线
+  - C-S6-029  # Brazelton 喂食是自主权战场
+  - C-S3-023  # 鲍秀兰 6 月起硬食小饼干
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

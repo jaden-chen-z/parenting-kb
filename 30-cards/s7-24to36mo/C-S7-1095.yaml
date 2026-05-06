@@ -1,0 +1,64 @@
+card_id: C-S7-1095
+stages: [S7]
+tags: [cognitive_science, naming_insight, lerner_v2]
+
+front:
+  title: 18-24 月命名洞察
+  hook: 突然懂万物都有名
+
+back:
+  why_matters: |
+    Mervis/Bertrand 1994 经典(Lerner V2 Ch7)。
+    18-24 月之间宝宝突然有"命名洞察"(naming insight):
+    - 不再随机问 — 主动追问"那是什么?"
+    - 看新物 → 期待大人给名
+    - 此时点 = "万物都有名字"的元认知
+    - Helen Keller "water moment" 是经典个案版本意义:
+    - 这是词汇爆炸的元认知触发器
+    - 50 词阈值之后,孩子主动求词
+    - 区分早 learners(命名洞察 18 月)vs 晚(24 月)
+    - 元认知里程碑(知道自己在学)
+    跟现库:跟 Bloom 词汇爆炸(C-S6-1167)对接。
+    Lerner V2 给 naming insight 实证综述。
+    对中国家长意义:
+    - 18-24 月孩子"那是什么"问个不停 = 命名洞察
+    - 不要嫌烦 — 这是黄金窗口
+    - 每次回答(简洁 + 准确)
+    - 不会的就说"我也不知道,我们一起查"
+  what_to_do:
+    - 18-24 月做好"问什么答什么"的准备
+    - 不嫌烦每问必答
+    - 不会的也不糊弄(说"我查"或"我也不知道")
+    - 鼓励"那是什么"的提问习惯
+  failure_mode: |
+    "孩子问太多烦" — 错。是元认知里程碑。
+    "回答应付" — 错。培养习惯。
+    "不知道就乱说" — 错。教诚实。
+  evidence_level: B
+
+glossary_refs:
+  - G-TERM-language-explosion
+  - G-TERM-fast-mapping
+  - G-PERSON-Bloom
+  - G-PERSON-Markman
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 2 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 2 卷"
+  authors: ["Sandra R. Waxman", "Jeffrey L. Lidz"]
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 7 · Naming insight · pp. 305-308"
+  source_id: SRC-028
+
+unit_ids: []
+related_cards:
+  - C-S6-1167     # 词汇爆炸 Bloom
+  - C-S6-1166     # Fast mapping
+  - C-S6-1164     # Markman 3 约束
+  - C-S6-018       # Lillard 词汇爆炸
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

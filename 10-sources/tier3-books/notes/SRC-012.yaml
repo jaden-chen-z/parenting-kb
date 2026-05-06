@@ -1,0 +1,150 @@
+source_id: SRC-012
+title: "依恋三部曲 · 第二卷:分离"
+title_en: "Attachment and Loss · Volume 2: Separation, Anxiety and Anger"
+org: null
+source_type: book
+url: null
+doi: null
+isbn: "978-7-5192-2926-9"
+isbn_en: null
+tier: 3
+language: zh
+paywall: false
+captcha: false
+accessed: 2026-05-03
+fetch_method: user_provided_pdf_ocr
+local_file: ../raw_pdfs/bowlby_separation_zh.md
+file_size_bytes: 950665
+
+metadata:
+  authors_en:
+    - John Bowlby
+  authors_zh:
+    - 约翰·鲍尔比
+  translators_zh:
+    - 汪智攀
+    - 王婷婷
+  publisher_en: Hogarth Press / Tavistock Institute of Human Relations
+  publisher_zh: 世界图书出版有限公司北京分公司
+  year_en_first: 1973
+  year_zh: 2017
+  series: "依恋三部曲"
+  volume: 2
+
+author_credentials:
+  john_bowlby:
+    glossary_ref: G-PERSON-Bowlby
+  james_robertson:
+    role_en: "Tavistock Clinic / Psychoanalytic Social Worker"
+    nationality: "英国"
+    expertise: "1952 年纪录片《A Two-Year-Old Goes to Hospital》"
+    note: "Bowlby Vol 2 大量引用其住院儿童观察,抗议-绝望-超脱 3 阶段的实证基础"
+    glossary_ref: G-PERSON-Robertson
+
+verbatim_content:
+  part1_security_anxiety_distress:
+    chapter: "第一部分 安全焦虑与困扰(第 1-4 章)"
+    pages: "1-90"
+    range: "15326-82000"
+    status: "高产卡区域"
+    key_concepts:
+      - "Robertson 夫妇住院儿童观察(抗议-绝望-超脱 3 阶段)"
+      - "分离焦虑在精神病理学中的地位(取代 Freud 经济模型)"
+      - "母亲在场 vs 不在场儿童行为对比"
+      - "灵长类研究印证(Hinde 恒河猴分离实验)"
+
+  part2_anxiety_fear_theory:
+    chapter: "第二部分 焦虑与恐惧理论(第 5-12 章)"
+    pages: "90-220"
+    range: "82000-170000"
+    status: "中产卡区域"
+    key_concepts:
+      - "本能行为对恐惧的反应"
+      - "唤起恐惧的自然线索(陌生 / 黑暗 / 突然 / 独处)"
+      - "复合线索 — 单独无害,组合恐惧"
+      - "对分离的恐惧 = 对依恋对象不可得的预期"
+
+  part3_anxious_attachment:
+    chapter: "第三部分 焦虑型依恋(第 13-19 章)"
+    pages: "220-340"
+    range: "170000-271000"
+    status: "高产卡区域 — 病理性依恋详解"
+    key_concepts:
+      - "焦虑型依恋的成因(父母威胁 / 不一致回应 / 角色倒置)"
+      - "过度依赖(over-dependence)与溺爱理论 — Bowlby 反驳"
+      - "父母对孩子说'再不听话妈妈就走'/'不要你了'的精神虐待"
+      - "学校恐怖症 / 广场恐怖症 = 焦虑型依恋的成人版"
+      - "角色倒置(role reversal)— 孩子被迫照顾父母情绪"
+
+  part4_secure_attachment_growth:
+    chapter: "第四部分 家庭背景 + 安全依恋成长 + 人格(第 20-22 章)"
+    pages: "340-410"
+    range: "271000-322000"
+    status: "高产卡区域 — 治疗性 + 预测性"
+    key_concepts:
+      - "家庭背景的遗漏 / 压抑 / 弄虚作假对孩子心理的破坏"
+      - "安全依恋孩子的特征:自立 + 求助能力强(并非'独立')"
+      - "人格成长路径 — 早期依恋决定后续路径稳定性"
+
+chapter_map:
+  ch1: "人类悲伤的原型 — Robertson 观察"
+  ch2: "分离与丧失在精神病理学中的地位"
+  ch3: "母亲在场或不在场时的行为表现:人类幼儿"
+  ch4: "母亲在场或不在场时的行为表现:非人类灵长类"
+  ch5: "焦虑与恐惧理论的基本假设"
+  ch6: "本能反应对恐惧的处理"
+  ch7: "唤起人类恐惧感的情境"
+  ch8: "可引起动物恐惧的情境"
+  ch9: "危险和安全的自然线索"
+  ch10: "自然线索 / 文化线索 / 危险评估"
+  ch11: "合理化、错误归因和投射"
+  ch12: "对分离的恐惧"
+  ch13: "导致个体差异的变量"
+  ch14: "对恐惧的敏感性以及依恋对象的可得性"
+  ch15: "焦虑型依恋及一些促成条件"
+  ch16: "过度依赖和溺爱理论"
+  ch17: "(章名 OCR 缺失)"
+  ch18: "焦虑型依恋和儿童时期的恐怖症"
+  ch19: "焦虑型依恋和广场恐怖症"
+  ch20: "家庭背景的遗漏、压抑和弄虚作假"
+  ch21: "安全依恋与自立的成长"
+  ch22: "人格成长的路径"
+
+position_in_kb:
+  prerequisite: "G-PERSON-Bowlby + G-PERSON-Ainsworth 已建,SRC-011 完成"
+  series: "依恋三部曲第二卷,接续 Vol 1(SRC-011)"
+  cross_validation:
+    - source_id: SRC-011
+      relationship: "Vol 1 提出依恋本能,Vol 2 在分离场景下深化(IWM 在此正式提出)"
+    - source_id: SRC-007
+      relationship: "AAP 分离焦虑条目源头"
+    - source_id: SRC-009
+      relationship: "鲍秀兰'分离时不偷溜'的理论根基"
+
+why_this_book:
+  - "Vol 1 检测点(IWM 概念)在 Vol 2 才正式定义 — 必读以闭环理论"
+  - "抗议-绝望-超脱 3 阶段是住院 / 异地分离场景的家长实操指南"
+  - "焦虑型依恋的成因诊断 — 中文家庭'再不听话就走'是高频精神虐待形式"
+  - "OCR 已就位 950KB,工程开销低"
+
+engineering_notes:
+  ocr_quality: "中等 — '丽惧/铠惧/慌惧/恕怖' 多种'恐惧'OCR 错字,'卯独'→未发现,'狒狒'OCR 偶有失败"
+  ocr_correction_strategy: "上下文推断 + 复合错字模式识别"
+  file_format: "950KB 单长行 .md"
+  navigation_strategy: "Python 字符 offset 切片读取"
+  chunks_used:
+    - "15326-30000(Ch 1 Robertson 观察)"
+    - "30000-45000(Ch 2 精神病学定位)"
+    - "45000-66000(Ch 3 实验数据)"
+    - "97000-118000(Ch 7 唤起恐惧情境)"
+    - "165000-188000(Ch 12-14 对分离的恐惧 + 个体差异)"
+    - "188000-215000(Ch 15-16 焦虑型依恋成因 + 反驳溺爱理论)"
+    - "225000-260000(Ch 18-19 恐怖症)"
+    - "271000-322000(Ch 20-22 家庭背景 + 安全依恋 + 人格)"
+
+referenced_by_units: []
+referenced_by_cards: []
+
+status: complete
+created: 2026-05-03
+updated: 2026-05-03

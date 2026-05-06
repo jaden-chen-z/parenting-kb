@@ -1,0 +1,52 @@
+card_id: C-S0-1508
+stages: ['S0']
+tags: ['philosophy', 'lerner_v1', 'thelen', 'smith_lb', 'dynamic_systems', 'foundational']
+
+front:
+  title: "动态系统理论"
+  hook: "发展不是上楼梯走"
+
+back:
+  why_matters: |
+    Thelen & Smith(Lerner V1 Ch 6)给当代发展心理学最有影响力的元理论 —
+    dynamic systems theory(动态系统论)。
+    核心 — 发展不是按图纸上楼梯,是 self-organization(自组织)涌现出来的。
+    对比经典 Piaget 阶段论 —
+    - Piaget:阶段是预定的(感知运动 → 前操作 → 具体操作 → 形式操作)
+    - Thelen-Smith:阶段是涌现的,看似有阶段是 attractor 状态短暂稳定意义 — 你看到娃"突然会某个东西"不是按月龄解锁,是动态系统多个部件凑合到一起 self-organize 出来。
+    不能拿月龄强行 push(没到 self-organize 条件,你 push 也不会出现)。
+  what_to_do:
+    - "不按'几个月该会 X'焦虑"
+    - "看娃自己尝试 + 多个部件准备"
+    - "提供环境支持,不强行教"
+    - "看似'突然会' = 动态自组织"
+    - "看似'退步' = 系统重组中(下一步前奏)"
+  failure_mode: |
+    "该会 X 月龄" 焦虑 push — 错。动态系统视角是不强行。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Thelen
+  - G-PERSON-Smith-LB
+  - G-TERM-dynamic-systems-theory
+  - G-TERM-self-organization
+
+related_cards:
+  - C-S0-1500
+  - C-S0-1503
+  - C-S0-722
+  - C-S2-700
+
+citation:
+  source_id: SRC-030
+  source_title: "Handbook of Child Psychology Vol 1: Theoretical Models of Human Development"
+  chapter: "Ch 6 Dynamic Systems Theories (Thelen & Smith)"
+  chapter_offset: 1395000
+  chapter_title: 'Thelen & Smith — Dynamic Systems Theories'
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_followup_needed: 'SRC-030 用 PDF 字节偏移代页码 — 待加 page_pdf 反查工具'

@@ -1,0 +1,27 @@
+glossary_id: G-TERM-plasticity
+type: term
+display_name: "可塑性 / plasticity"
+
+name_en: "plasticity"
+name_zh: "可塑性"
+
+description: |
+  Baltes / Greenough — 神经系统可被经验改变的能力,持续到 70+ 岁(只是程度变低)。
+
+one_liner: |
+  可塑性(plasticity)— Baltes / Greenough — 神经系统可被经验改变的能力,持续到 70+ 岁(只是程度变低)。
+
+key_facts:
+  - "Lerner V1 元理论卷核心术语"
+  - "学派:Lerner V1 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

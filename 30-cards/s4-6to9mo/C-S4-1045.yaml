@@ -1,0 +1,78 @@
+card_id: C-S4-1045
+stages: [S4]
+tags: []
+
+front:
+  title: "6 月辅食 + 母乳"
+  hook: "辅食是补不是替代"
+
+back:
+  why_matters: |
+    WHO 立场白话翻译:
+    > 6 月起,孩子应开始吃安全充分的辅食,
+    > 同时继续母乳到 2 岁或更久。
+
+    关键:辅食是"**补充**"不是"**替代**"母乳:
+    - 6-12 月母乳供 ≥ 50% 能量
+    - 12-24 月母乳供 ≥ 33% 营养
+
+    中国 / AAP 实操常错位:加辅食 → 母乳量减少。
+    WHO 反对这个换序 — **辅食 + 母乳并行**。
+
+    顺序建议:先母乳吃饱,再加辅食(避免辅食替代母乳)。
+  what_to_do:
+    - "6 月开始加辅食,但母乳不减"
+    - "顺序:先母乳(饱)→ 再辅食(尝 / 学)"
+    - "辅食 = 补,不是替"
+    - "6-12 月每天仍 4-6 次母乳"
+    - "12-24 月仍 3-4 次母乳"
+  failure_mode: |
+    加辅食立刻减母乳次数 → 6-12 月母乳份额从 50% 跌到 30% → 12 月断奶 → 跟 WHO 2 岁立场冲突。
+    辅食是"在母乳之上加",不是"代替母乳"。
+  evidence_level: A
+
+  positions:
+    issue: 辅食(CF)何时引入 — 6 月 EBF 还是 4-6 月看 readiness
+    views:
+      - school: WHO / UNICEF
+        source: SRC-031
+        stance: 6 月起辅食(不早不晚)— EBF 0-6 月明确操作定义(连水都不给,例外 ORS / 维生素 / 药物)。
+      - school: AAP
+        source: SRC-006
+        stance: 4-6 月,看 readiness 信号(头控 / 伸手抓 / 能从勺到喉)+ LEAP 早引入立场。
+      - school: 鲍秀兰
+        source: SRC-009
+        stance: 6 月起辅食,跟 WHO 一致;反对 4 月前给水或辅食。
+      - school: 松田道雄
+        source: SRC-024
+        stance: 5-6 月起,有弹性;不等到严格 6 月,但也反对 4 月前提前。
+      - school: 中国家长共识
+        stance: 默认 6 月起,4 月前坚决不给(4 派立场一致,中国家长普遍接受)。
+glossary_refs:
+  - G-ABBR-CF
+  - G-TERM-WHO-six-months
+  - G-TERM-WHO-two-years
+
+citation:
+  page_title: "WHO Complementary Feeding + Continued Breastfeeding"
+  publisher: "World Health Organization & UNICEF"
+  page_url_primary: https://www.who.int/health-topics/complementary-feeding
+  accessed: 2026-05-04
+  language: en
+  location: "WHO 6 月辅食起 + 持续母乳 + 6-12m 50% 能量"
+  source_id: SRC-031
+
+unit_ids: []
+related_cards:
+  - C-S3-1042
+  - C-S4-1046
+  - C-S5-1037
+  - C-S4-001
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_doc_id_pending: D6
+citation_followup_needed: '已映射真实 doc_id (D6 = WHO Complementary Feeding)'

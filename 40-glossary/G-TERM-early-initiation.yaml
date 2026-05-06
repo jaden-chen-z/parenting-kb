@@ -1,0 +1,50 @@
+glossary_id: G-TERM-early-initiation
+type: term
+display_name: "Early initiation 1 小时内开奶"
+
+en_term: "Early Initiation of Breastfeeding"
+zh_term: "出生 1 小时内开奶"
+
+one_liner: |
+  出生 1 小时内开奶 — WHO+UNICEF 共同建议,全球只 ~45% 婴儿达到。
+
+detail: |
+  ## 定义
+  Early initiation — 出生 1 小时内开始母乳喂养。
+  
+  ## 关键作用
+  - 初乳免疫保护(IgA + lactoferrin + 寡糖)
+  - 妈妈泌乳启动(吸吮 → 泌乳素)
+  - 母婴 bonding 关键窗
+  
+  ## BFHI 第 4 步具体化
+  'Facilitate immediate skin-to-skin contact and support breastfeeding initiation as soon as possible after birth.'
+  
+  ## 全球数据
+  - ~45% 婴儿在 1 小时内开奶(WHO 2018)
+  - 中国比例更低(传统产院流程干扰)
+  
+  ## 中国传统差距
+  中国传统产院:出生立即包裹+测量+称重+洗澡 → 错过 1 小时窗口。
+
+key_facts:
+  - "WHO+UNICEF 共同建议"
+  - "全球 45% 达到"
+  - "BFHI 第 4 步具体化"
+
+related_glossary:
+  - G-TERM-skin-to-skin
+  - G-TERM-colostrum
+  - G-TERM-BFHI-10-steps
+
+related_cards:
+  - C-S1-1000
+  - C-S1-1017
+
+sources:
+  - source_id: SRC-031
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,72 @@
+card_id: C-S7-863
+stages: [S7]
+tags: [shonkoff, nrc, executive_function, self_control]
+
+front:
+  title: "执行功能 3 岁起步"
+  hook: "等待就是脑力训练"
+
+back:
+  why_matters: |
+    NRC 综述 Ch 5 给"executive function 执行功能"3 岁起步:
+    **3 个核心子能力**(Diamond):
+    1. **inhibitory control 抑制** — 想做但等等再做
+    2. **working memory 工作记忆** — 短时记多个信息
+    3. **cognitive flexibility 认知灵活** — 切换规则
+    **3-6 岁里程碑**(NRC 综述):
+    - 3 岁:能等 1-2 分钟拿饼干
+    - 4 岁:能玩 Simon Says(听规则做动作)
+    - 5 岁:能切换规则(先按颜色再按形状)
+    - 6 岁:能持续注意 15-30 分钟
+    **NRC 关键洞察**:
+    - 执行功能比 IQ **更预测**学业成功
+    - Mischel marshmallow test:4 岁等待时长跟 30 年后收入 / 健康 / 关系正相关
+    - 但 — **基因 + 环境共同决定** — 不是单纯训练能拉
+    **促进执行功能的玩耍**:
+    - 假装游戏(角色扮演 → 抑制 + 切换)
+    - 规则游戏(轮流 / 等候)
+    - 阅读(工作记忆训练)
+    - 户外自由玩(决策 + 调节)
+    **NRC 对早教的启示**:
+    - 不是"早学拼音 / 数学" — 这些不练执行功能
+    - 是"假装玩 + 规则游戏 + 阅读 + 自由玩" — 这才练
+    **对中国家长**:
+    - 3-6 岁的"早教"应该是玩 — 不是学
+    - Simon Says / 红绿灯 / 抢椅子 = 执行功能训练
+    - 假装玩"医生 / 老师 / 警察"= 执行功能训练
+    - 提前学拼音 → 不练执行功能 → 真正学业基础没打
+  what_to_do:
+    - 多假装玩 + 角色扮
+    - 玩规则游戏轮流
+    - 阅读练工作记忆
+    - 自由玩练决策
+    - 不提前学拼音字母
+  failure_mode: |
+    "我让他 4 岁学拼音 — 早赢起跑线" — 错,这不练执行功能 — 学业基础没打。
+    "他不能等 — 必须立刻给" — 错,等待时长是发展窗口 — 渐进延长。
+    "他不能 Simon Says 玩 — 算了" — 错,这正是练抑制的好场景。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Shonkoff
+  - G-TERM-executive-function
+  - G-TERM-self-regulation
+
+citation:
+  book_title_en: "From Neurons to Neighborhoods"
+  authors: ["Jack P. Shonkoff", "Deborah A. Phillips"]
+  org: "NRC/IOM"
+  year_en: 2000
+  location: "Ch 5 · Executive function emergence"
+  source_id: SRC-025
+
+unit_ids: []
+related_cards:
+  - C-S5-906    # Shonkoff PFC 1 岁起爆(本卷)
+  - C-S6-934    # Shonkoff 注意力(本卷)
+  - C-S6-186    # Lillard cycle of activity SRC-016
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,48 @@
+glossary_id: G-TERM-galactagogue
+type: term
+display_name: "Galactagogue 催乳"
+
+en_term: "Galactagogue"
+zh_term: "催乳食/药"
+
+one_liner: |
+  催乳物 — WHO 立场:频繁吸吮才是真解,中国传统催乳汤效果有限。
+
+detail: |
+  ## 定义
+  Galactagogue — 用于增加母乳分泌的食物或药物。
+  
+  ## WHO 立场
+  - 第一干预:增加吸吮频次(频繁刺激泌乳素)
+  - 第二:检查衔乳姿势(找 IBCLC)
+  - 第三:挤奶/双侧轮替
+  - Galactagogue(食/药)效果有限,不是首选
+  
+  ## 常见 galactagogue
+  - 食物:燕麦 / 茴香 / 葫芦巴 / 啤酒花
+  - 中医:王不留行 / 通草 / 路路通 / 桔梗
+  - 西药:多潘立酮(domperidone,RCT 有限)
+  
+  ## 关键
+  - 没证据是 magic bullet
+  - 真正提奶量靠频繁吸吮
+  - 中国 '猪蹄汤催乳' 等传统效果不显著(脂肪多但泌乳素影响弱)
+
+key_facts:
+  - "WHO 立场:吸吮才是真解"
+  - "传统催乳汤效果有限"
+  - "domperidone RCT 有限"
+
+related_glossary:
+  - G-ABBR-EBF
+
+related_cards:
+  - C-S2-1045
+
+sources:
+  - source_id: SRC-031
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,60 @@
+card_id: C-S6-608
+stages: [S6]
+tags: [discipline, RIE, limits]
+
+front:
+  title: "红黄绿三灯设限度"
+  hook: "你的需要也算需要"
+
+back:
+  why_matters: |
+    Magda《自信的宝宝》Ch8 §Respecting Your Needs — Magda 独家命名 ⭐
+    Magda 给家长一个判断"何时让步何时坚守"的坐标系:
+    🔴 **红灯 = 危险**(冲马路 / 烫 / 摔)→ 立刻停,不商量
+    🟡 **黄灯 = 可协商**(吃饭时间 / 玩具收 / 散步)→ 你掂量谁的需要更紧迫,可妥协可坚持
+    🟢 **绿灯 = 你也愿意**(玩沙 / 读书)→ 全注意陪
+    Magda 关键:**你的需要也算需要**(Iris 例子)。
+    妈妈吃饭时娃要爬上来抢:"不行,这是妈妈的食物。"
+    家长边界不是冷漠,是诚实。
+    "黄灯不要总绿处理 — 否则你长期透支变冷漠红。"
+
+  what_to_do:
+    - 每天分类:红 / 黄 / 绿
+    - 红灯:直接停,简短解释
+    - 黄灯:权衡:"我看完报纸读给你"
+    - 绿灯:放下手机全身心
+    - 「妈妈现在累不读书」也是合法答案
+
+  failure_mode: |
+    "我应该全程是绿灯不然不爱孩子" → Magda 反:全绿 = 自我牺牲 →
+    长期生气 / 冷漠 → 红灯出现。或"我家全是红灯严" → 反:那宝宝无自主感 → 反弹激烈。三灯需平衡。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+  - G-TERM-red-yellow-green-light
+  - G-TERM-respectful-parenting
+
+citation:
+  book_title_en: "Your Self-Confident Baby"
+  book_title_zh: "自信的宝宝"
+  authors:
+    - Magda Gerber
+    - Allison Johnson
+  publisher_en: John Wiley & Sons
+  year: 1998
+  location: "Ch8 §Respecting Your Needs(p207-208)"
+  source_id: SRC-021
+
+unit_ids: []
+related_cards:
+  - C-S6-404  # Lansbury 设限度=高质量时间
+  - C-S6-403  # Lansbury 限度+情绪并存
+  - C-S6-133  # Davies 温柔边界
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

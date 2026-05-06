@@ -1,0 +1,54 @@
+glossary_id: G-PERSON-Kellman
+type: person
+display_name: Kellman
+
+full_name_en: Philip J. Kellman
+full_name_zh: 菲利普·J·凯尔曼
+
+one_liner: |
+  美国认知心理学家(UCLA 教授),婴儿视觉感知研究权威。
+  1983 物体一致性 + 视觉悬崖综述派,Lerner V2 Ch3 主笔。
+
+detail: |
+  ## 个人背景
+  - 宾夕法尼亚大学博士(Spelke 学生)
+  - UCLA 心理学教授
+  - 美国心理协会会士
+
+  ## 核心研究
+  - **Kellman/Spelke 1983 物体一致性**:4 月用"共同运动"推断物体边界
+  - **视觉悬崖综述**:运动经验是深度感知触发
+  - **跨模态视觉**:视觉 + 触觉早期整合
+
+  ## 立场
+  - Spelke 派(共同运动 = 物体)
+  - 视觉发展实证派
+
+  ## 在本知识库中
+  - SRC-028 Lerner V2 Ch3 主笔(104 hits)
+  - C-S3-1143 Kellman 物体一致性
+  - C-S2-1137 视觉悬崖
+
+key_facts:
+  - UCLA 心理学教授
+  - 婴儿视觉感知研究权威
+  - 1983 物体一致性奠基
+  - Lerner V2 Ch3 主笔
+  - Spelke 学生
+
+related_glossary:
+  - G-PERSON-Spelke
+  - G-TERM-baby-scientist
+
+related_cards:
+  - C-S3-1143
+  - C-S2-1137
+
+sources:
+  - source_id: SRC-028
+  - external: Kellman/Spelke 1983 / Wikipedia Philip Kellman
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

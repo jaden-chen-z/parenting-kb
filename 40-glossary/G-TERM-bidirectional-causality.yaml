@@ -1,0 +1,27 @@
+glossary_id: G-TERM-bidirectional-causality
+type: term
+display_name: "双向因果 / bidirectional causality"
+
+name_en: "bidirectional causality"
+name_zh: "双向因果"
+
+description: |
+  Overton relational 原则 — 个体影响环境同时被环境影响,不是单向。
+
+one_liner: |
+  双向因果(bidirectional causality)— Overton relational 原则 — 个体影响环境同时被环境影响,不是单向。
+
+key_facts:
+  - "Lerner V1 元理论卷核心术语"
+  - "学派:Lerner V1 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

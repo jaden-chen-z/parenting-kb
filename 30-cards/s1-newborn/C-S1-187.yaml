@@ -1,0 +1,90 @@
+card_id: C-S1-187
+stages: [S1]
+tags: [montessori, swaddle, newborn, controversy, movement]
+
+front:
+  title: 蒙氏不主张包裹
+  hook: 跟 Karp 立场对立
+
+back:
+  why_matters: |
+    Davies 在原书直接说:**"Avoid 包裹"**(避免包裹)。
+    理由 — 蒙氏视宝宝为有"动作自由"权利的个体:
+    - 子宫里宝宝就在**自由动**(踢 / 转 / 摸)
+    - 包裹 = 强行剥夺这个权利
+    - Moro 反射(惊跳)父母可接受,几周自然消退
+    - 宝宝**伸手吃手**是自我安抚重要技能,包了就练不成这跟 Karp 的 5S 安抚法**直接对立**:
+    | 立场 | 蒙氏 Davies | Karp |
+    |---|---|---|
+    | 包裹 | 不主张 | 是 5S 第一招 |
+    | 理由 | 宝宝有动作自由 | 模拟子宫激活 calming reflex |
+    | 让步 | 必要时宽松包,留手 | 严格紧包到 4-5 月 |
+    谁对?**没人对错,看你的优先项:**
+    - 优先动作发育 + 自我安抚 → 不包(蒙氏)
+    - 优先睡眠 + 安抚 → 包(Karp / AAP 接受)
+    AAP 也明确:**包裹**不是 SIDS 预防工具,只是安抚选项。
+    家长可自己选,不是非此即彼。
+  what_to_do:
+    - 想试不包 — 用 topponcino 替代容器感
+    - 必须包 — 选宽松,留手,会翻身就停
+    - 不要把"包"和"动作自由"对立 — 有让步空间
+    - 看宝宝反应:包了哭得更凶就试不包
+    - 4-5 月会翻身后必须停包(SIDS 风险陡升)
+  failure_mode: |
+    "蒙氏说不包就坚决不包,宝宝整夜惊哭" — 教条主义。蒙氏自己也说"必要时宽松包"。
+    "Karp 说包就一直包到 6 月" — 4-5 月会翻身后包就是 SIDS 风险。立场不能盖过安全。
+    把"包 vs 不包"上升到"哪个流派对" — 都是工具,看你家宝宝反应。
+  evidence_level: B
+
+  positions:
+    issue: 包裹(swaddle)该不该用 · 怎么用 · 何时停
+    views:
+      - school: Karp
+        source: SRC-003
+        stance: 5S 安抚法第一招(Swaddle)。紧裹 + 双臂内 + 配白噪音,可延长睡眠 1-2 小时;锁住莫罗反射(惊跳反射)防止干扰其他四招。
+      - school: AAP
+        source: SRC-004
+        stance: 可用,但只起安抚作用,不防 SIDS;宝宝出现翻身迹象立刻停。髋部需留蛙腿位空间。
+      - school: 蒙氏(Davies/Lillard)
+        source: SRC-014/016
+        stance: 反对包裹 — 妨碍婴儿练习自我安抚,且干扰莫罗反射的整合发育。改用小毯或睡袋。
+      - school: 鲍秀兰
+        source: SRC-009
+        stance: 反对中国式"蜡烛包"(腿绑直会导致 DDH 髋发育不良,有终身风险);接受松松的"蛙腿位"包裹。
+      - school: 海蒂
+        source: SRC-040
+        stance: 中性立场 — 决策权交给父母,中立列利弊;不站队,作为"主流家长方案"参考。
+glossary_refs:
+  - G-PERSON-Davies
+  - G-PERSON-Karp
+  - G-PERSON-Montessori
+  - G-TERM-swaddle
+  - G-TERM-five-s
+  - G-TERM-Moro-reflex
+  - G-TERM-self-soothing
+  - G-ABBR-SIDS
+  - G-ABBR-AAP
+
+citation:
+  book_title_zh: "蒙特梭利的小宝宝(0-1岁)"
+  book_title_en: "The Montessori Baby"
+  authors: ["Simone Davies", "Junnifa Uzodike"]
+  authors_zh: ["西蒙·戴维斯", "君妮法·乌佐迪克"]
+  publisher_en: "Workman Publishing"
+  year_en: 2021
+  isbn_en: "978-1-5235-0693-7"
+  location: "Chapter 5 · Freedom of movement > Avoid 包裹"
+  source_id: SRC-014
+
+unit_ids: []
+related_cards:
+  - C-S1-001       # Karp 第四孕期
+  - C-S1-007       # Karp 包裹技术
+  - C-S1-009       # Karp 5S 总结
+  - C-S1-016       # AAP 仰睡 SIDS
+  - C-S1-185       # 蒙氏 topponcino
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

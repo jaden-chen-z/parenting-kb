@@ -1,0 +1,47 @@
+card_id: C-S5-2160
+stages: [S5]
+tags: [mainstream, behavior, self_soothing]
+
+front:
+  title: 撞头摇头多正常
+  hook: 自我安抚不是病
+
+back:
+  why_matters: |
+    9-18 月宝宝睡前撞床栏、摇头、摸耳朵很常见,发生率约 20%。前情:S5 进入活跃自我安抚期。AAP 解释这是"节律性运动行为"——通过重复动作释放紧张帮助入睡,类似大人摇腿。绝大多数 3-4 岁自然消失,不是癫痫不是自闭。除非伴随发育倒退、自伤出血、白天频繁不可控,否则无需就医也不要刻意阻止。
+  what_to_do:
+    - 床栏裹软垫防撞伤
+    - 别强行按住反而强化行为
+    - 白天多消耗体力减少睡前焦虑
+    - 伴自伤倒退/白天频繁找儿保
+  failure_mode: |
+    误以为是癫痫或自闭症焦虑就医做大量检查,或强行按住制造对抗,反而让行为持续到学龄期。
+  evidence_level: B
+
+glossary_refs: [G-TERM-self-soothing, G-TERM-rhythmic-movement-disorder]
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors:
+    - Heidi Murkoff
+    - Sharon Mazel
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh:
+    - 莫夏迪
+    - 张敏
+  location: "第 11 章第 11 个月, 页 451-454"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards:
+  - C-S5-2152
+  - C-S5-2151
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

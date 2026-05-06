@@ -1,0 +1,19 @@
+glossary_id: G-TERM-cradle-cap
+type: term
+display_name: 乳痂
+full_name_en: "cradle cap (seborrheic dermatitis)"
+full_name_zh: "乳痂"
+one_liner: |
+  婴儿头皮上出现的黄色、油性鳞屑或厚硬痂层,常见于 0-3 个月,1 岁前自然消退。
+detail: |
+  机制:可能与母亲激素影响皮脂腺过度分泌 + 皮肤酵母菌(马拉色菌)有关。
+  护理:婴儿油按摩软化 → 软毛刷轻刷 → 婴儿洗发水冲洗;不要硬抠(伤皮肤、感染)。
+  顽固/扩散到全身找医生(可能需要药用洗剂)。
+related_glossary: []
+related_cards: []
+sources:
+  - external: "Murkoff H, What to Expect the First Year"
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

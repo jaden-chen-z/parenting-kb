@@ -1,0 +1,22 @@
+glossary_id: G-TERM-rouge-test
+type: term
+display_name: "Rouge 测试"
+
+one_liner: |
+  Harter:18-24 月鼻子点红,照镜子娃指自己鼻子 = 自我意识里程碑。
+
+detail: |
+  Harter:18-24 月鼻子点红,照镜子娃指自己鼻子 = 自我意识里程碑。
+
+  来源:Lerner V3《Handbook of Child Psychology Vol 3》(Wiley 2006 第 6 版,Eisenberg 主编)。
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-027
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

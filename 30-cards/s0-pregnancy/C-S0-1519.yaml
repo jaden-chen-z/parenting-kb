@@ -1,0 +1,52 @@
+card_id: C-S0-1519
+stages: ['S0']
+tags: ['philosophy', 'lerner_v1', 'magnusson', 'stattin', 'holistic_person', 'foundational']
+
+front:
+  title: "整体人不是变量人"
+  hook: "人不是分数的堆叠"
+
+back:
+  why_matters: |
+    Magnusson & Stattin(Lerner V1 Ch 8)给 holistic-interactionistic 元理论 —
+    研究人要把 person 当整体单位,不是把人拆成"变量"分别测。
+    经典对比 —
+    - variable-oriented(变量取向)— "智商 IQ 110 + 外向性 75 + 神经质 40 = 此人"
+    - person-oriented(人取向)— 此人是动态整体,不是变量加和意义 — 中国家长常 variable-oriented:数学 90 + 英语 60 + 体育 80 = 我家娃。
+    但娃是动态整体 — 数学 90 跟英语 60 是互动出来,不是独立变量。
+    意义 — 看孩子要看模式(pattern),不只是分数(scores)。
+  what_to_do:
+    - "看孩子整体动态,不只单项分数"
+    - "各科目互动看(数学好可能因兴趣)"
+    - "'性格'是模式,不是单维分数"
+    - "同分不同人(高中生 90 分有 5 种来路)"
+    - "人取向 > 变量取向"
+  failure_mode: |
+    "我家娃 IQ 110" 单维标签 — 错。Magnusson 综述:人是模式不是变量。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Magnusson
+  - G-PERSON-Stattin
+  - G-TERM-holistic-person
+  - G-TERM-person-oriented-approach
+
+related_cards:
+  - C-S0-1500
+  - C-S0-1503
+  - C-S0-722
+  - C-S6-1064
+
+citation:
+  source_id: SRC-030
+  source_title: "Handbook of Child Psychology Vol 1: Theoretical Models of Human Development"
+  chapter: "Ch 8 Holistic Person-Context Interaction (Magnusson & Stattin)"
+  chapter_offset: 2105000
+  chapter_title: 'Magnusson & Stattin — Holistic Person-Context Interaction'
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_followup_needed: 'SRC-030 用 PDF 字节偏移代页码 — 待加 page_pdf 反查工具'

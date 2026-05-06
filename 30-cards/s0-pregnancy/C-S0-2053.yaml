@@ -1,0 +1,53 @@
+card_id: C-S0-2053
+stages: [S0]
+tags: [controversy, safety]
+
+front:
+  title: 包皮环切术:利弊都不重,自己拍
+  hook: AAP 不推也不反
+
+back:
+  why_matters: |
+    包皮环切术(circumcision)= 切掉阴茎包皮的小手术,一般出生后 24 小时做。
+    美国 1980 年代 80% 男婴做,现在降到 50% 出头。AAP 1999 年立场:有医学好处但不强到要列为常规。
+    好处:略降尿道感染、阴茎癌、艾滋病传染风险(绝对值都很低)。
+    坏处:出血/感染极少但有;做了不可逆。
+    海蒂的判断:利弊分量都不重,父母按宗教/审美/文化/现实自己定即可,没"对错"答案。
+  what_to_do:
+    - 决定权在你和配偶,不必听亲戚施压
+    - 做的话:产后 20-24 小时后做,不在产房
+    - 做的话必须用局部麻醉(AAP 推荐,别裸做)
+    - 不做的话:2 岁后教孩子翻洗包皮即可
+    - 别让没经验的医生 / 宗教执行人操作
+  failure_mode: |
+    把它当"必做"或"必拒"都是误解 — AAP 中立意味着没标准答案。
+    新生儿不打麻醉硬做 → 有证据显示宝宝心率/血压/皮质醇升高,孩子真的疼。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-AAP
+
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors:
+    - Heidi Murkoff
+    - Sharon Mazel
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh:
+    - 莫夏迪
+    - 张敏
+  location: "第 1 章临产前的准备 · 包皮环切术"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards: []
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

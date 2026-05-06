@@ -1,0 +1,75 @@
+card_id: C-S8-746
+stages: [S8]
+tags: [cultural, greenfield, lerner_v4, controversy]
+
+front:
+  title: 中美教育互依差
+  hook: 中美教育的互依差
+
+back:
+  why_matters: |
+    Greenfield V4 Ch 17(S8 学龄前应用)。
+    **中美教育 5 维度对照**:
+    
+    | 维度 | 美式独立 | 中式互依 |
+    |---|---|---|
+    | 课堂 | 提问 + 辩论 | 听讲 + 笔记 |
+    | 评价 | 创造性 + 个人观点 | 标准答案 + 一致 |
+    | 关系 | 平等(老师同学) | 等级(老师权威) |
+    | 学习 | 自主探究 | 模仿重复 |
+    | 道德 | 个人权利 | 群体责任 |
+    
+    **两种都健康,不是对错**(Greenfield 立场):
+    - 中式娃模仿能力 + 集体协作强
+    - 美式娃创造性 + 个人决断强
+    - 都对应不同社会价值
+    - 中美差距不是"现代 vs 落后"
+    **移民家娃挑战**:
+    - 学校(美式)vs 家庭(中式)冲突
+    - 第二代常困惑
+    - 解决:**双文化能力**(bicultural)
+    意义:
+    - 中国家长在美养娃别强行美化
+    - 在国内也别盲目美式化
+    - **目标是双文化能力,不是选边**
+    跟现库:跟 C-S0-1238 Greenfield 5 维度 + C-S0-1231 Bornstein 文化特异性对接。
+    对中国家长意义:
+    - 学校重创造性的可以补
+    - 家里保留互依价值不丢人
+    - 移民家培养双文化能力
+    - 不必"完全美式"或"完全中式"
+  what_to_do:
+    - 国内别盲目美式化
+    - 美国别全弃中式
+    - 培养双文化能力
+    - 看场景切换文化
+  failure_mode: |
+    "美式才现代"— 错。两端都健康。
+    "中式都过时"— 错。互依文化的健康。
+    "必须选边"— 错。双文化最优。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Greenfield
+  - G-TERM-cultural-pathways
+  - G-TERM-biculturalism
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 4 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 4 卷"
+  authors: ['Patricia M. Greenfield', 'Lalita K. Suzuki', 'Carrie Rothstein-Fisch']
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 17 · Greenfield · Bicultural competence · pp. 670-690"
+  source_id: SRC-029
+
+unit_ids: []
+related_cards:
+  - C-S0-1238     # Greenfield 5 维度
+  - C-S0-1231     # Bornstein 文化特异性
+  - C-S0-517     # 松田日式育儿
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

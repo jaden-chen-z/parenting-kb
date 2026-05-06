@@ -1,0 +1,41 @@
+glossary_id: G-PERSON-Horta
+type: person
+display_name: "Bernardo Horta"
+
+en_term: "Bernardo Lessa Horta"
+zh_term: "Bernardo Horta"
+
+one_liner: |
+  巴西 Pelotas 大学流行病学家,母乳 IQ 元分析作者(Horta 2015)。
+
+detail: |
+  ## 简介
+  Bernardo Horta — 巴西 Pelotas 大学流行病学家,跟 Victora 合作,母乳长期效应研究核心。
+  
+  ## 主要贡献
+  - Horta 2015 元分析:母乳娃 IQ 益处约 +3 点
+  - 母乳长期心血管/代谢效应研究
+  - Lancet 2016 系列主要作者
+  
+  ## 在 SRC-031 中的角色
+  Horta 2015 IQ 元分析是 WHO 母乳认知益处的核心证据。
+
+key_facts:
+  - "巴西 Pelotas 流行病学家"
+  - "Horta 2015 IQ 元分析"
+  - "母乳 IQ +3 点"
+
+related_glossary:
+  - G-TERM-Lancet-breastfeeding-series
+  - G-PERSON-Victora
+
+related_cards:
+  - C-S1-1015
+
+sources:
+  - source_id: SRC-031
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

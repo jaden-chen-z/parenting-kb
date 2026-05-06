@@ -1,0 +1,59 @@
+card_id: C-S1-251
+stages: [S1]
+tags: [montessori, breastfeeding, postpartum, philosophy]
+
+front:
+  title: 哺乳 8-10 周才"亲密"
+  hook: 8 周才显效别放弃
+
+back:
+  why_matters: |
+    Lillard Ch7 关键提醒 — **第一次当妈的妈妈,前 8-10 周哺乳基本是"生理苦差"**:
+    - 子宫缩痛(哺乳触发)
+    - 激素涨落 → 突然情绪低落
+    - 奶涨涨痛(初期供需不匹配)
+    - 奶头干裂破皮
+    - 宝宝吸吮姿势没学好,几次就饿很多新手妈妈以为 "亲密感不来 = 我不适合哺乳" → 8 周左右放弃。
+    Lillard 数据:**8-10 周是个临界点** — 跨过去后:
+    - 奶量 + 宝宝吸吮配合
+    - 真正的"亲密感"(intimate companionship)开始
+    - 哺乳变成放松时间(妈妈期待这个时间)
+    所以:**不要在 8 周以前评估"我适合哺乳吗"**。8 周后再决定继续 / 转奶粉。
+    妈妈头 8 周需要的核心支持:**爸爸挡门 + 充足睡眠 + 营养 + 多液体**(C-S0-014 + C-S6-138)。
+  what_to_do:
+    - 头 8 周哺乳难是正常,不是失败
+    - 8 周内不评估"我适合不适合"
+    - 8 周后再决定继续 / 转奶粉
+    - 用乳头润滑膏(每次哺乳后)
+    - 每 3-4 小时哺乳一次,完整排空
+  failure_mode: |
+    "我哺乳 4 周还很痛,我不行" — 4 周还在生理适应期,8 周才是真正的临界点。
+    奶头痛不正确处理 → 提早放弃(实际正确护理 + 时间能扛过去)。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Lillard
+  - G-PERSON-Jessen
+  - G-TERM-symbiosis-period
+
+citation:
+  book_title_zh: "蒙台梭利从 0 岁开始"
+  book_title_en: "Montessori from the Start"
+  authors: ["Paula Polk Lillard", "Lynn Lillard Jessen"]
+  authors_zh: ["宝拉·波尔克·莉拉德", "琳·莉拉德·杰森"]
+  publisher_en: "Schocken Books"
+  year_en: 2003
+  isbn_en: "978-0-8052-1112-1"
+  location: "Ch 7 · Food (Breastfeeding initial weeks)"
+  source_id: SRC-016
+
+unit_ids: []
+related_cards:
+  - C-S1-053       # AAP 母乳起步
+  - C-S1-033       # Karp 产后抑郁
+  - C-S0-014       # 爸爸缓冲器
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

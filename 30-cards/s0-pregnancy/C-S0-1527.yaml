@@ -1,0 +1,56 @@
+card_id: C-S0-1527
+stages: ['S0']
+tags: ['philosophy', 'lerner_v1', 'csikszentmihalyi', 'flow', 'intrinsic_motivation', 'foundational']
+
+front:
+  title: "Flow 心流是发展核"
+  hook: "内驱力比奖励更强"
+
+back:
+  why_matters: |
+    Csikszentmihalyi & Rathunde(Lerner V1 Ch 9)给 flow theory —
+    心流是 "活动本身就是奖励" 的状态(intrinsic motivation 内在动机)。
+    4 大特征 — 挑战 / 技能匹配 + 即时反馈 + 高度专注 + 自我感消失。
+    意义 — 中国家长重外部激励(奖励 / 表扬 / 物质) — 短期有效,长期破坏内驱。
+    Flow 视角 — 让娃在活动中找 flow → 内驱自然形成,不需要奖励。
+    具体做法 —
+    - 任务难度跟娃当前技能匹配(太难/太易都不会有 flow)
+    - 让娃自己选活动(选择是 flow 必要条件)
+    - 给即时反馈(不只是结果)
+    - 不打断专注期(娃在 flow 时别叫吃饭)
+    意义 — flow 是终生学习能力的基础。
+  what_to_do:
+    - "挑战 / 技能匹配是 flow 必要条件"
+    - "让娃自己选活动 + 选难度"
+    - "不打断专注期(flow 时静止旁观)"
+    - "即时反馈 — 不只是结果"
+    - "flow 比奖励更可持续"
+  failure_mode: |
+    "奖励 / 表扬" 当主激励 — 短期有效长期毁内驱。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Csikszentmihalyi
+  - G-PERSON-Rathunde
+  - G-TERM-flow-theory
+  - G-TERM-intrinsic-motivation
+
+related_cards:
+  - C-S0-1500
+  - C-S0-1522
+  - C-S6-1064
+  - C-S0-722
+
+citation:
+  source_id: SRC-030
+  source_title: "Handbook of Child Psychology Vol 1: Theoretical Models of Human Development"
+  chapter: "Ch 9 Optimal Experience (Rathunde & Csikszentmihalyi)"
+  chapter_offset: 2440000
+  chapter_title: 'Rathunde & Csikszentmihalyi — Optimal Experience / Flow'
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_followup_needed: 'SRC-030 用 PDF 字节偏移代页码 — 待加 page_pdf 反查工具'

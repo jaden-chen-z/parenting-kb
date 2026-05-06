@@ -1,0 +1,71 @@
+glossary_id: G-TERM-paroxysmal-crying
+type: term
+display_name: paroxysmal crying 无诱因哭
+
+en_term: paroxysmal crying
+zh_term: 无诱因哭 / 婴儿独有哭闹
+
+one_liner: |
+  Ronald Barr 提出 — 婴儿独特的"找不到原因"+"安抚也不停"哭闹。
+  其他物种**没有**这种哭闹 — 只人类婴儿。
+  6-8 周达高峰跨文化一致 — 生理决定。
+  NRC 综述 Ch 5 引为"哭闹峰是发展正常,不是父母失败"的科学依据。
+
+detail: |
+  ## 概念由来
+  - Ronald Barr 1990s 提出
+  - 跨文化哭闹研究中发现
+  - NRC 综述 Ch 5 重要参考
+
+  ## 特征
+  1. **无明确诱因** — 不饿 / 不尿 / 不疼 / 不困
+  2. **安抚也不停** — 喂 / 抱 / 摇都没用
+  3. **多发于傍晚 / 黄昏**(witching hour)
+  4. **6-8 周达高峰** → 渐降
+  5. **跨文化一致曲线** — 生理决定
+
+  ## 跟其他哺乳动物对比
+  - 其他物种婴儿哭都有明确诱因
+  - 找到诱因 → 哭停
+  - **只人类婴儿**有 paroxysmal crying
+  - 进化原因不明 — 假说之一是延长依赖期
+
+  ## NRC 立场含义
+  - 婴儿哭闹峰**不是父母失败**
+  - **没找到原因**也是正常 — 不必"必有原因"
+  - 撑过 12-16 周自然降
+  - **多抱减时长不减频率**(Hunziker-Barr 1986)
+
+  ## 跟 colic 区分
+  - colic = Wessel 三三三规则定义(>3h/天 + >3 天/周 + >3 周)
+  - paroxysmal crying = **更广** 概念,所有婴儿都有
+  - colic 是 paroxysmal crying 的"极端版本"
+  - 95% colic 没病理基础 — 跟普通 paroxysmal crying 是连续谱
+
+  ## 对家长含义
+  - 6-8 周哭闹峰 = 全人类婴儿都这样
+  - 找不到原因 = 不是你的失败
+  - 多抱 + 多 skin-to-skin → 减时长
+  - 撑过 12-16 周 → 自然好转
+
+key_facts:
+  - Barr 跨文化哭闹研究提出
+  - 人类婴儿独特
+  - 6-8 周高峰跨文化
+  - NRC Ch 5 反"父母失败"立场
+
+related_glossary:
+  - G-PERSON-Shonkoff
+  - G-TERM-NRC
+  - G-TERM-colic
+
+related_cards: []
+
+sources:
+  - source_id: SRC-025
+  - external: Barr 1990 + Barr et al 1987/1996
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

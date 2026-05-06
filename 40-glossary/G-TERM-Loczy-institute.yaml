@@ -1,0 +1,84 @@
+glossary_id: G-TERM-Loczy-institute
+type: term
+display_name: Loczy 罗茨研究院
+
+full_name_en: Loczy / Emmi Pikler Institute
+full_name_zh: 罗茨研究院 / 艾米·皮克勒研究所
+
+one_liner: |
+  匈牙利布达佩斯 1946 年成立的婴儿研究所(地址在 Loczy 街),
+  Emmi Pikler 创办,收容战后孤儿但成果惊人:
+  孩子全部健康发育,无 hospitalism(住院综合征)。
+  Magda Gerber 在 Loczy 实习 → 移民美国 → 创办 RIE → 把 Loczy 哲学搬到美国。
+
+detail: |
+  ## 历史
+  - **1946 年**布达佩斯 Loczy 街成立
+  - **Emmi Pikler 医生**(1902-1984)创办
+  - 战后匈牙利收容孤儿 — 大约 50-70 个 0-3 岁
+  - 创办初衷:解决战后孤儿的 hospitalism(Spitz 1945 命名)
+    问题 — 婴儿在传统孤儿院普遍发育迟缓 / 死亡率高
+
+  ## 核心方法(后来被 RIE 继承)
+  1. **每个婴儿固定的 carer**(2-3 个 carer 轮班,不变)
+  2. **告知再行动**(护理前一定先说)
+  3. **不撑坐 / 不扶站 / 不主动训练大动作**(自然发展)
+  4. **观察 + 记录每个孩子**(有详细发展笔记)
+  5. **真物玩具**(简单 + 适龄)
+  6. **慢节奏 + 可预测路线**
+
+  ## 成果
+  - **40+ 年里 700+ 个孩子全部健康**
+  - 长期跟踪到成年:孤儿院出来的孩子都顺利融入社会
+  - 颠覆了"孤儿院注定 hospitalism"的悲观论
+  - 1969 联合国儿基会(UNICEF)研究表彰
+
+  ## 跟 Magda Gerber 的连接
+  - **Magda 在匈牙利时**就是 Pikler 自家孩子的儿科医生
+  - **1956 移民美国前**深度学习 Loczy 方法
+  - **1978 创办 RIE**直接搬运 Loczy 哲学
+  - Magda 称 Loczy 为"灵感的源头"
+
+  ## 现代地位
+  - Loczy 1998 被 Pikler-Loczy 国际协会接管
+  - 至今仍在布达佩斯运营
+  - Pikler-Loczy 培训在欧洲 / 美国 / 日本继续
+  - Magda 把它叫"Pikler Institute"
+
+  ## 跟现代 RIE 的关系
+  - RIE = Loczy 在美国的现代延伸
+  - 蒙氏 0-3(Davies / Lillard) ← Loczy 也间接影响
+
+key_facts:
+  - 1946 年布达佩斯 Loczy 街成立
+  - Emmi Pikler 创办
+  - 收容战后孤儿,40+ 年 700+ 健康成长
+  - 颠覆 hospitalism 论
+  - RIE 的哲学源头
+
+related_glossary:
+  - G-PERSON-Pikler
+  - G-PERSON-Gerber
+  - G-PERSON-Spitz
+  - G-TERM-RIE
+  - G-TERM-attachment
+
+related_cards:
+  - C-S0-167
+  - C-S1-409
+  - C-S4-349
+  - C-S1-897  # Pikler 母婴关系是动作基础(SRC-026)
+  - C-S6-957  # Pikler 反便盆训练(SRC-026)
+  - C-S6-958  # Pikler 便盆 4 大错误(SRC-026)
+  - C-S6-962  # Pikler 长期跟踪结论(SRC-026)
+  - C-S2-833  # Pikler 爱要恒温(SRC-026)
+
+sources:
+  - source_id: SRC-022
+  - source_id: SRC-026  # Pikler 1969 德文原典(本卷)
+  - external: Emmi Pikler《Peaceful Babies — Contented Mothers》 / pikler.org
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-04

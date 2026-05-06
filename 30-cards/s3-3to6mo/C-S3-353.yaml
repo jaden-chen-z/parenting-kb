@@ -1,0 +1,55 @@
+card_id: C-S3-353
+stages: [S3]
+tags: [sleep, outdoors]
+
+front:
+  title: "户外睡更香"
+  hook: "新鲜空气助宝宝睡"
+
+back:
+  why_matters: |
+    Magda 引欧洲传统:阳台 / 院子第二个 crib,户外睡。
+    新鲜空气 + 自然光 + 微弱白噪 = 婴儿睡眠环境天然优。
+    1 月起足月健康婴儿可以短时户外睡(避日晒 + 极端温度)。
+    跟北欧 / 德国 / 匈牙利传统育儿一致。
+    中国传统"避风寒不出门"过度 — 纱窗下午睡 30-60 分有益。
+
+  what_to_do:
+    - 阳台 / 院子 / 树荫下放安全便携婴儿床
+    - 1 月起 15-30 分短时户外睡尝试
+    - 不直晒太阳 + 不刺骨风 + 监护人在视线内
+    - 蚊虫季用纱罩,不用驱蚊液
+    - 室内卧室 + 户外阳台两点轮换
+
+  failure_mode: |
+    "室外细菌多 / 风寒易病" → 闷在室内反而免疫力低。
+    Magda 原话:"婴儿户外睡其实非常好"。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+  - G-TERM-back-sleep
+
+citation:
+  book_title_en: "Your Self-Confident Baby"
+  book_title_zh: "自信的宝宝"
+  authors:
+    - Magda Gerber
+    - Allison Johnson
+  publisher_en: John Wiley & Sons
+  year: 1998
+  location: "Ch3 Where Should My Baby Spend Her Day?(段落'second crib outside')"
+  source_id: SRC-022
+
+unit_ids: []
+related_cards:
+  - C-S1-409  # Magda 永远仰卧
+  - C-S2-348  # Magda peaceful days
+  - C-S1-243  # AAP safe sleep
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

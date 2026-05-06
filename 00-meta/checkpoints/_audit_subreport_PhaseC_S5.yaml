@@ -1,0 +1,32 @@
+stage: S5
+total_cards_in_stage: 154
+key_findings:
+  L1_real_dedups:
+    - {id: S5-CL-B3, cards: [C-S5-450, C-S5-598], action: merge_into_C-S5-450, overlap: 70-80%, reason: "新食物 30 次再试 — Magda + 鲍秀兰内容近同"}
+  L2_clusters_needing_hub:
+    - {id: S5-CL-A1, topic: "分离焦虑 9-12 月", cards_count: 17, sources: 9, action: 建 META-CROSS C-S5-NEW-SEPARATION 导航卡}
+    - {id: S5-CL-B1, topic: "断母乳 1 岁前后", cards_count: 9, sources: 5, action: 建 META-CROSS C-S5-NEW-WEANING}
+    - {id: S5-CL-C1, topic: "学站走 训 vs 不训", cards_count: 14, sources: 7+, action: 建 META-CROSS C-S5-NEW-WALKING(决策树)}
+    - {id: S5-CL-D1, topic: "joint attention/pointing/ASD 信号", cards_count: 4, action: cross-link 加强;1140+1141 可选合并}
+  L3_partial_overlaps:
+    - {id: S5-CL-D3, cards: [C-S5-005, C-S5-2156], overlap: 60%, action: 二选一吸另一}
+    - {id: S5-CL-J1, cards: [C-S5-1041, C-S5-1351], overlap: 60-70%, action: 保留 + 差异化重写(1041 概念/1351 4 法策略)}
+  L4_intra_source_keep:
+    - {topic: "Stern 调谐 9 张", action: 保留(系统化拆分)}
+    - {topic: "蒙氏 14 张 (Davies+Lillard)", action: 保留}
+    - {topic: "Bowlby ABC 6 张", action: 保留}
+    - {topic: "Pikler 5 张 (反训站走)", action: 保留}
+hotspot_findings:
+  hotspot_1_separation: 6 派全覆盖 super cluster (17 卡 9 源) — 缺 hub 导航卡
+  hotspot_2_weaning: 5 派立场分裂 — 缺 META 导航
+  hotspot_3_walking: 鲍秀兰一派对全西方派,中国家长决定性高 — 需决策树 hub
+  hotspot_4_redflags_autism: joint attention 4 张可加强 cross-link
+  hotspot_5_fast_mapping: 各派同方向不同视角,无显著重复
+notes: |
+  S5 共 154 卡(实际比 prompt 估计 129 偏多)。
+  整体重复率偏低 (~10-15%),merge 主要价值在"建 hub"而非"删卡"。
+  关键建议优先级:
+  1. 建 3 张 META-CROSS 导航卡(分离 / 断母乳 / 学站走)— 已有 190/191 模板
+  2. 真重复 dedup 1-2 处(450↔598, 005↔2156)
+  3. 同章重叠考虑合并(1140↔1141)
+  4. Stern/蒙氏/Bowlby/Pikler 系统化拆分卡不动

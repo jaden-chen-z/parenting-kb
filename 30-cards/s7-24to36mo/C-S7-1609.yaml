@@ -1,0 +1,53 @@
+card_id: C-S7-1609
+stages: ['S7']
+tags: ['philosophy', 'lerner_v1', 'lerner', 'PYD', 'competence']
+
+front:
+  title: "能力是多维不只学业"
+  hook: "社交体能也是能力"
+
+back:
+  why_matters: |
+    Lerner PYD 5C 中 Competence(能力)— 学业 / 社交 / 体能 / 艺术 / 自调多维度,不只学业。
+    中国家长常 — 2-3 岁就开始学业 competence(数 / 字 / 双语) → 单维 → 后期失衡。
+    PYD 平衡视角 —
+    - 学业能力(认字 / 数 / 概念)— 这阶段适度
+    - 社交能力(交友 / 谈判 / 共享)— 这阶段重要(同伴互动多)
+    - 体能(爬 / 跑 / 跳 / 平衡)— 这阶段必须
+    - 艺术(画 / 唱 / 跳)— 这阶段易培养
+    - 自我调节(等 / 转移 / 选择)— 这阶段开始意义 — 5 维度都要,不要 1 维独大。
+    具体 — 每周回顾 — 这周 5 维度娃各发展了什么?哪维度最弱?下周怎么补?
+  what_to_do:
+    - "5 维度同步看(每周回顾)"
+    - "学业能力适度,不独大"
+    - "社交能力 — 多 playgroup"
+    - "体能 — 户外 1+ 小时/天"
+    - "自我调节 — 鼓励选择 + 等待"
+  failure_mode: |
+    学业能力独大(2-3 岁就读认字)— 错。PYD 视角:5 维平衡。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Lerner
+  - G-TERM-positive-youth-development
+  - G-TERM-5C-framework
+
+related_cards:
+  - C-S0-1522
+  - C-S7-1607
+  - C-S7-1608
+  - C-S7-754
+
+citation:
+  source_id: SRC-030
+  source_title: "Handbook of Child Psychology Vol 1: Theoretical Models of Human Development"
+  chapter: "Ch 16 Lerner PYD"
+  chapter_offset: 4891805
+  chapter_title: 'Lerner / Benson / Scales / Hamilton / Sesma — Positive Youth Development'
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_followup_needed: 'SRC-030 用 PDF 字节偏移代页码 — 待加 page_pdf 反查工具'

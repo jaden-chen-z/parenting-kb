@@ -1,0 +1,71 @@
+card_id: C-S1-1016
+stages: [S1]
+tags: []
+
+front:
+  title: "中国产院差距"
+  hook: "BFHI 标签≠真守"
+
+back:
+  why_matters: |
+    中国 6,000+ 爱婴医院数字层级首位,但实操参差。
+    常见'纸面 BFHI'问题:
+    - 出生立即包裹+测量+称重,不等 1 小时肌肤接触
+    - 母婴室分开,只送过来哺乳(违反第 7 步)
+    - 3 小时定时喂奶('护士说该喂了'),不看信号(违反第 8 步)
+    - 'Welcome bag' 含奶粉样品(违反第 1a/6 步双重)
+    - 葡萄糖水 / 米汤 / 助消化(违反第 6 步)
+    - 用枕头支奶瓶喂(松田 SRC-024 反对,跟 BFHI 第 9 步一致)
+    对策:孕期就跟产院/医生对齐,提前写分娩计划。
+  what_to_do:
+    - "选产院前问 BFHI 何时复评(过期未评是预警)"
+    - "产前写分娩计划(立即 SSC / 24h 同室 / 不给配方)"
+    - "产中坚持 1 小时不间断 SSC + 不离开"
+    - "看到偏离 BFHI 实操立刻问'按 WHO 标准应该是 X'"
+    - "出院前确认无 'Welcome bag' 含奶粉"
+  failure_mode: |
+    看到爱婴医院牌子就放心 → 不查实操 → 落入定时喂奶 / 母婴分离陷阱。
+    认证医院 ≠ 真守 10 步。
+  evidence_level: B
+
+  positions:
+    issue: 喂养节律 — 反馈喂养(信号驱动)vs 3 小时定时
+    views:
+      - school: BFHI / WHO
+        source: SRC-031
+        stance: 看信号反馈喂(responsive feeding)— 婴儿饿了就喂,不计时间表。
+      - school: AAP
+        source: SRC-006
+        stance: on demand 立场一致 — 新生儿不应严格定时,看信号优先。
+      - school: 松田道雄
+        source: SRC-024
+        stance: 反产院'3 小时定时 + 用枕头支奶瓶'(C-S1-761),跟 BFHI 完全一致。
+      - school: 中国传统产院
+        stance: 3 小时定时喂奶仍普遍,部分爱婴医院实操参差;BFHI 中国 6,000+ 医院落地不一致。
+glossary_refs:
+  - G-ABBR-BFHI
+  - G-TERM-BFHI-10-steps
+
+citation:
+  page_title: "BFHI Implementation Status — China"
+  publisher: "World Health Organization & UNICEF"
+  page_url_primary: https://en.wikipedia.org/wiki/Baby_Friendly_Hospital_Initiative
+  accessed: 2026-05-04
+  language: en
+  location: "中国 6,000+ 爱婴医院 + 实操参差(估计)"
+  source_id: SRC-031
+
+unit_ids: []
+related_cards:
+  - C-S0-1025
+  - C-S1-1004
+  - C-S1-1005
+  - C-S1-050
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_doc_id_pending: D4
+citation_followup_needed: '已映射真实 doc_id (D4 = BFHI Implementation Status)'

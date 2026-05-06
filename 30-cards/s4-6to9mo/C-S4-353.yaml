@@ -1,0 +1,58 @@
+card_id: C-S4-353
+stages: [S4]
+tags: [caregiving, cooperation]
+
+front:
+  title: "护理时邀请参与"
+  hook: "他不是被动接受者"
+
+back:
+  why_matters: |
+    Magda Basic Principle 5:
+    "Involvement of the child in all caregiving activities" —
+    护理时段(尿布 / 穿衣 / 喂奶 / 洗澡)
+    是宝宝主动参与而不是被动接受。
+    跟"他不懂事先做完"心态相反:
+    跟他对话 + 等他配合 + 慢一点。
+    跟 Lansbury C-S1-353 尿布换 = 连接仪式同源,Magda 是源头。
+
+  what_to_do:
+    - 换尿布前告知 + 等回应
+    - 穿衣时:"现在伸右手" 等他动
+    - 洗澡时跟他说在洗哪里:"我在洗你的脚"
+    - 头 6 月大他能配合的就让他配合
+    - 不"快点弄完不耽误时间"
+
+  failure_mode: |
+    "他这么小哪懂配合,快点换完" → 错失 0-12 月每天 8-10 次的"被尊重"实践。
+    Magda 原话:"换尿布 1 个月就 200 次,这 200 次决定他对世界的态度"。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+  - G-TERM-active-participant-caregiving
+  - G-TERM-tell-before-do
+
+citation:
+  book_title_en: "Your Self-Confident Baby"
+  book_title_zh: "自信的宝宝"
+  authors:
+    - Magda Gerber
+    - Allison Johnson
+  publisher_en: John Wiley & Sons
+  year: 1998
+  location: "Ch1 Basic Principle 5 + Ch3 Active Participant + Ch8 Cooperation in Caregiving"
+  source_id: SRC-022
+
+unit_ids: []
+related_cards:
+  - C-S1-353  # Lansbury 尿布换是连接仪式
+  - C-S1-406  # Magda 告知再行动
+  - C-S5-131  # Davies 不替宝宝做
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

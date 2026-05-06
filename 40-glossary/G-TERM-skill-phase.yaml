@@ -1,0 +1,67 @@
+glossary_id: G-TERM-skill-phase
+type: term
+display_name: 技能期 (skill phase)
+
+full_name_en: Skill Phase
+full_name_zh: 技能期(skill phase)/ 跃迁完成后的能力上线期
+
+one_liner: |
+  Wonder Weeks 中跟 fussy phase 配对的概念:跃迁完成后,宝宝突然展现一组新能力的时段。父母在这阶段是"陪练教练",不是"陪哭安抚者"。
+
+detail: |
+  ## 定义
+  Skill phase = 跃迁完成后的"能力展示期",紧接 fussy phase。
+  van de Rijt + Plooij 在每章 "How My Baby Explores the New World" 段落给出**新能力清单**(Body control / Hand control / Looking / Listening / Talking 等),
+  父母对照清单看宝宝**这次跃迁选了哪几项发展**。
+
+  ## 关键洞察
+  1. **不是清单全有** — 每个宝宝按自己气质 + 兴趣选 1-3 项重点发展,不会全部出现
+  2. **不是同步上线** — 有的能力跃迁后立刻展现,有的要等几周到几月
+  3. **个体差异大** — 同一跃迁,A 宝宝爱看 B 宝宝爱说 C 宝宝爱动,都正常
+  4. **父母角色变** — 从 fussy 期的"陪护安抚"切换到 skill 期的"陪练 + 鼓励"
+
+  ## fussy phase ↔ skill phase 配对节奏
+  | 跃迁 | fussy 期 | skill 期 | 平静期(下个 fussy 前) |
+  |---|---|---|---|
+  | WW5 | 几天-1 周 | 1-2 周 | ~2 周 |
+  | WW8 | 几天-2 周 | 2 周 | ~2 周 |
+  | WW12 | 几天-1 周 | 2 周 | ~5 周(终于喘口气) |
+  | WW19 | 1-6 周(平均 5 周) | 4-6 周 | ~3 周 |
+  | WW26 | 1-5 周(平均 4 周) | 6-8 周 | ~4 周 |
+  | WW37+ | 3-7 周 | 4-8 周 | ~5-10 周 |
+
+  ## 父母在 skill 期能做的(每章 What You Can Do to Help)
+  - **观察宝宝感兴趣的能力**(看 / 听 / 动 / 说哪一类)
+  - **提供合适刺激**(高对比物 / 模式玩具 / 因果游戏 / 模仿对象 / 假装游戏)
+  - **跟着宝宝节奏**(她累了就停)
+  - **不强求跟其他宝宝比**(她可能选了不同的能力路径)
+  - **宝宝主动来找你时全心回应**(C-S6-127 "质量时间"伪概念)
+
+  ## 误区
+  - skill 期"按教学计划早教" → 错位
+  - skill 期看见"漏掉的能力"焦虑 → 是宝宝选择,不是缺陷
+  - skill 期父母累瘫继续休息 → 错过最好的互动 / 学习窗口
+
+key_facts:
+  - 跃迁完成后宝宝展现新能力的时段
+  - 跟 fussy phase 配对(先 fussy 后 skill)
+  - 每个宝宝选 1-3 项重点发展,不是清单全有
+  - 父母角色从安抚切换到陪练
+  - skill 期的高质量陪伴 ≠ 计划"质量时间"
+
+related_glossary:
+  - G-TERM-wonder-week
+  - G-TERM-mental-leap
+  - G-TERM-fussy-phase
+  - G-TERM-3C-signs
+  - G-TERM-cognitive-burst
+
+related_cards: []
+
+sources:
+  - source_id: SRC-013
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

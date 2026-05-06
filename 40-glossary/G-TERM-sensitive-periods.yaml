@@ -1,0 +1,86 @@
+glossary_id: G-TERM-sensitive-periods
+type: term
+display_name: 敏感期 (sensitive periods)
+
+full_name_zh: 敏感期
+full_name_en: Sensitive Periods
+
+one_liner: |
+  蒙特梭利核心概念。0-6 岁有若干特定时间窗口,孩子对某类技能或概念表现出强烈、无法抗拒的兴趣,在这窗口里学习速度极快、几乎不费力。
+  窗口结束后仍可学,但需更多努力 — 与"关键期(critical period)"不同(后者是"过期不可逆")。
+
+detail: |
+  ## 定义
+  Maria Montessori 观察到孩子在 0-6 岁会出现一段段"特别的敏感",对某类刺激表现出聚焦力 + 重复行为 + 强烈情绪反应。
+  在这段时间内,该技能 / 概念能被毫不费力地掌握;窗口关闭后仍可学,但需要刻意努力。
+
+  ## 与"关键期 critical period"的核心区别
+  | 维度 | Sensitive period(蒙氏) | Critical period(发展心理学/神经科学) |
+  |---|---|---|
+  | 提出者 | Maria Montessori | Lorenz / Hubel & Wiesel |
+  | 错过后果 | 可补,但费力 | 几乎不可逆(如 Genie 案例) |
+  | 时间界限 | 柔性,因人而异 | 严格,有生理上限 |
+  | 应用例 | 秩序 / 语言 / 动作 / 精微感官 | 视觉皮层 / 语音知觉 / 母语习得 |
+  | 教育含义 | 提供环境,等待出现 | 必须在窗口内强干预 |
+
+  Davies(SRC-014)与 Lillard(SRC-016)用 sensitive period;鲍秀兰(SRC-009)沿用 critical period(中文译"关键期")。
+  这是蒙氏 vs 中文经典发展心理学最尖锐的术语对立点 — 用错术语等于消除对立。
+
+  ## 蒙氏识别的 6 个主要敏感期(0-6 岁)
+  1. **秩序敏感期**(6 月 - 3 岁):对环境一致性、物品归位、日常流程的敏感(C-S2-134 / C-S4-134)
+  2. **语言敏感期**(0 - 6 岁):对语音、词汇、语法的敏感(C-S2-133 多语家庭)
+  3. **动作敏感期**(0 - 4 岁):对自主动作发展的敏感(C-S3-134 vocal gymnastics)
+  4. **小物体敏感期**(1 - 4 岁):对小物的强烈好奇(对应 pincer grasp 发育)
+  5. **社交敏感期**(2.5 - 6 岁):对社会规则、礼貌、互动的敏感
+  6. **精微感官敏感期**(2 - 6 岁):对感官细微差别(颜色、声调、气味)的敏感
+
+  Lillard 还额外强调"如厕敏感期 12-18 月"(C-S6-189 反潮流主张),与 AAP 18 月-3 岁立场对立。
+
+  ## 父母实操含义
+  1. **观察 + 跟随**:不强加,在敏感期出现时提供环境
+  2. **抓住窗口**:窗口里学习极容易,过了仍可学但费力
+  3. **不可"加速"或"提前"**:窗口由发育节奏决定,不能催
+  4. **重复行为是敏感期信号**:同一动作做几十次不烦 = 正在固化
+  5. **不打断专注**:正在敏感期工作时(如反复倒水),不要中断
+
+  ## 神经科学对应
+  Sensitive period 概念在现代神经科学有部分对应:
+  - 突触修剪窗口(0-3 岁高峰,12 岁前完成大部分)
+  - 髓鞘化敏感窗口(动作 0-4 岁、语言 0-7 岁)
+  - 但蒙氏的具体 6 类划分尚未在神经科学层面被严格证实 — 属于临床观察 + 教育实践的可重现模式
+
+key_facts:
+  - 蒙氏 100 年田野观察总结的发展窗口
+  - 与"关键期 critical period"不同:窗口闭合后仍可学但费力
+  - 6 个主要敏感期:秩序 / 语言 / 动作 / 小物 / 社交 / 精微感官
+  - Lillard 额外加"如厕敏感期 12-18 月"(争议立场)
+  - Davies / Lillard 用此术语;鲍秀兰用 critical period
+
+related_glossary:
+  - G-TERM-absorbent-mind
+  - G-TERM-critical-period
+  - G-PERSON-Montessori
+  - G-PERSON-Davies
+  - G-PERSON-Lillard
+
+related_cards:
+  - C-S2-133
+  - C-S2-134
+  - C-S2-185
+  - C-S3-134
+  - C-S4-134
+  - C-S6-130
+  - C-S6-189
+  - C-S6-190
+  - C-S6-191
+  - C-S7-130
+
+sources:
+  - source_id: SRC-014
+  - source_id: SRC-016
+  - external: Maria Montessori《The Discovery of the Child》(1948) + Silvana Montanaro AMI 0-3 课程
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

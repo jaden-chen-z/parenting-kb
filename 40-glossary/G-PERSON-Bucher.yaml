@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Bucher
+type: person
+display_name: "Bucher(安东·布赫)"
+
+full_name_en: "Anton Bucher"
+full_name_zh: "安东·布赫"
+
+position: |
+  University of Salzburg
+
+contribution: |
+  儿童宗教发展 + Oser 共著
+
+one_liner: |
+  安东·布赫 — 儿童宗教发展 + Oser 共著
+
+key_facts:
+  - "本卷章节:Ch 17"
+  - "Lerner V1 命中:30+ 次"
+  - "学派:Lerner V1 信仰发展派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+    chapter: "Ch 17"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

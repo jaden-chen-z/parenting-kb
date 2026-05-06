@@ -1,0 +1,55 @@
+card_id: C-S1-2103
+stages: [S1]
+tags: []
+
+front:
+  title: 母乳频喂 vs 配方久饱:正常
+  hook: 不是奶不够
+
+back:
+  why_matters: |
+    新手妈妈最焦虑误判:"母乳宝宝怎么 1.5 小时又要吃,是不是奶不够?"
+    海蒂明确:母乳消化快(液态、酶辅助),配方奶在胃里形成橡胶状凝乳,消化慢 → 母乳宝宝就是该频喂。
+    AAP 立场:每天 8-12 次(白天 2-3h 一次)是正常,而不是"该 4h 一次"。
+    判断"够不够"看的是:每天 6-8 次湿尿布 + 每周增重稳定,而不是"宝宝不哭就是饱"或"间隔短就是饿"。
+    频繁吃也是宝宝主动调奶量的方式 — 越吸越多,妈妈越休息越少。
+  what_to_do:
+    - 母乳宝宝 1.5-3h 一次都正常,不必焦虑
+    - 看尿布数(每天 6-8 块湿)+ 每周增重判断够不够
+    - 别用"配方间隔 4h"的标准衡量母乳
+    - 不要混合喂养"补一瓶" → 反而打乱供需
+    - 真担心 → 找哺乳顾问或医生评估,不自我判断
+  failure_mode: |
+    用"配方间隔"标准衡量母乳 → 误以为奶不够 → 急转配方。
+    "宝宝刚吃完又哭" 立刻补配方 → 减少吸吮 → 妈妈奶量真的下降 → 自我应验。
+  evidence_level: B
+
+glossary_refs:
+  - G-ABBR-AAP
+
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors:
+    - Heidi Murkoff
+    - Sharon Mazel
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh:
+    - 莫夏迪
+    - 张敏
+  location: "第 1 章给宝宝喂奶 · 有利于配方奶喂养的事实 · 宝宝饱足感持续时间"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards:
+  - C-S1-050    # AAP 母乳起步 8-12 次
+  - C-S1-1003   # BFHI 第 6 步默认不给配方
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

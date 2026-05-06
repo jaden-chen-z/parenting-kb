@@ -1,0 +1,41 @@
+card_id: C-S1-2215
+stages: [S1]
+tags: [safety, feeding]
+front:
+  title: 配方奶冲调安全
+  hook: 水温比例不能错
+back:
+  why_matters: |
+    配方奶冲调三件大事 — 水(必须烧开放凉)、比例(严格按罐上指引)、储存(不留过夜冲好的)。
+    水温:用烧开放凉到约 40-50°C 的水(温水冲奶不能用生水/未烧开过的瓶装水);冷藏奶解冻后用温水浴恢复到室温。
+    比例:严格按罐上指引,自作主张稀释 → 营养不足/水中毒;过浓 → 肾脏负担、肠胃不适。
+    储存:冲好的奶 1 小时内喝、冰箱冷藏不超 24 小时;喝剩的奶不能下顿再用(口水细菌已进入)。
+    海蒂强调:婴儿免疫系统弱,配方污染 → 严重感染。
+  what_to_do:
+    - 水必须烧开放凉(不直接用生水)
+    - 严格按罐指引比例不擅自稀释/浓
+    - 冲好 1 小时内喝完
+    - 冰箱冷藏冲好奶不超 24 小时
+    - 宝宝喝剩的奶不能下顿再喂
+  failure_mode: |
+    擅自稀释"省钱"长期营养不足 + 体重不增。
+    剩奶留下顿再喂 → 细菌繁殖 → 腹泻甚至感染。
+  evidence_level: B
+glossary_refs: []
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors: ["Heidi Murkoff", "Sharon Mazel"]
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh: ["莫夏迪","张敏"]
+  location: "第 4 章新生儿 · 用奶瓶喂奶 / 第 6 章第一个月 · 配方奶喂养, 页 109-112, 169-170"
+  source_id: SRC-040
+related_cards: []
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

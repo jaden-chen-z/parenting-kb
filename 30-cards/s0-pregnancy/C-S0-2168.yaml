@@ -1,0 +1,37 @@
+card_id: C-S0-2168
+stages: [S0]
+tags: [postpartum, dad]
+front:
+  title: 爸爸塑造的孩子 5 岁更自信
+  hook: 父子游戏是隐形教育
+back:
+  why_matters: |
+    前情:爸爸觉得宝宝小不需要自己。
+    海蒂引专家观点:爸爸以敏感、支持、富挑战的方式与宝宝游戏,
+    宝宝青少年和成年期与他人形成更密切信任的关系。与爸爸相处得很好的宝宝,5 岁时更有信心、学校成绩更好。爸爸在 0-1 岁的投入有长达十几年的回报。
+  what_to_do:
+    - 0-1 岁就高频参与不要等大点
+    - 用爸爸特有的游戏方式(举高高、追逐)
+    - 敏感回应宝宝信号不只是逗
+    - 每周至少 3 次独立带宝宝时段
+    - 别用"等会走路再玩"推迟参与
+  failure_mode: 爸爸把"陪宝宝"推迟到学步或上学,错过 0-1 岁信任窗口,后期想补难度大几倍。
+  evidence_level: B
+glossary_refs: []
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors: ["Heidi Murkoff", "Sharon Mazel"]
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh: ["莫夏迪", "张敏"]
+  location: "第 24 章 《父亲》, 页 720"
+  source_id: "SRC-040"
+related_cards: [C-S0-2167]
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

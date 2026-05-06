@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Overton
+type: person
+display_name: "Overton(威利斯·欧弗顿)"
+
+full_name_en: "Willis F. Overton"
+full_name_zh: "威利斯·欧弗顿"
+
+position: |
+  Temple University 心理学教授
+
+contribution: |
+  split vs relational metatheory + 关系发展系统元理论奠基
+
+one_liner: |
+  威利斯·欧弗顿 — split vs relational metatheory + 关系发展系统元理论奠基
+
+key_facts:
+  - "本卷章节:Ch 2"
+  - "Lerner V1 命中:300+ 次"
+  - "学派:Lerner V1 元理论派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+    chapter: "Ch 2"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

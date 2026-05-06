@@ -1,0 +1,68 @@
+card_id: C-S6-1164
+stages: [S6]
+tags: [cognitive_science, word_learning, markman, lerner_v2]
+
+front:
+  title: 学新词必有 3 条捷径
+  hook: 不然 1 万种猜法
+
+back:
+  why_matters: |
+    Markman 1989 词义 3 约束(Lerner V2 Ch7 Waxman/Lidz 综述)。
+    问题:大人指着小狗说"狗",宝宝怎么知道"狗"指那只动物 ≠ 它的尾巴 / 它的颜色 / 它在的房间?
+    Markman 提出大脑天生有 3 条约束:
+    1. **Whole Object Constraint(整体物体约束)**
+       - 默认"狗"指整个物体,不是部分
+       - 不会想"狗 = 尾巴"或"狗 = 一片毛"
+    2. **Taxonomic Constraint(分类约束)**
+       - 默认"狗"指同类物体,不是空间相邻
+       - 不会想"狗 = 这只狗 + 这块地毯"
+    3. **Mutual Exclusivity Constraint(互斥约束)**
+       - 默认每个物体只一个词
+       - 已知"狗"的物体,新词必指它的部分 / 属性 / 同类不同种意义:
+    - 没这 3 约束,1 万种猜法都符合"指着说"
+    - 这是 Quine 哲学经典"Gavagai 问题"的认知解
+    - 24 月词汇爆炸的算法基础跟现库:G-TERM-fast-mapping 已建,V2 给 3 约束算法。
+    跟 Lillard 词汇爆炸(C-S6-018)对接 — Markman 是机制层。
+    对中国家长意义:
+    - 教词的"指 + 说 + 重复"模式有效是因为 3 约束帮孩子缩范围
+    - 不必"反复解释 = 整个物体"(自动)
+    - 给孩子稳定环境(同物 → 同词)— 互斥约束才稳
+    - 中文家长担心多词混乱 — 不必,孩子自动互斥
+  what_to_do:
+    - 12 月起教词"指物 + 同步命名"
+    - 一物一词稳定(不要狗狗 / 汪汪 / 小狗混)
+    - 讲故事时反复用同词
+    - 不必担心"教得不够细"
+  failure_mode: |
+    "宝宝学不会词是不够聪明" — 错。3 约束帮他自动学。
+    "教 1 词要解释 100 句" — 没必要。指 + 说 + 重复就够。
+    "多名混乱要清理" — 不会乱,互斥约束自动。
+  evidence_level: B
+
+glossary_refs:
+  - G-TERM-fast-mapping
+  - G-TERM-language-explosion
+  - G-PERSON-Markman
+  - G-PERSON-Bloom
+  - G-TERM-mutual-exclusivity
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 2 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 2 卷"
+  authors: ["Sandra R. Waxman", "Jeffrey L. Lidz"]
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 7 · Markman 3 constraints · pp. 309-316"
+  source_id: SRC-028
+
+unit_ids: []
+related_cards:
+  - C-S6-1166     # Fast mapping(下一张)
+  - C-S6-1167     # 词汇爆炸
+  - C-S6-018       # Lillard 12-24 月词汇爆炸
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

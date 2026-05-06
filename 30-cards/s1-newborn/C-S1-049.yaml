@@ -4,11 +4,11 @@ tags: [safety, red_flag]
 
 front:
   title: 崩溃时放下宝宝,离开 10-15 分钟
-  hook: 比硬撑安抚更安全 — 防 SBS
+  hook: 比硬撑安抚更安全 — 防 SBS(摇婴综合征)
 
 back:
   why_matters: |
-    SBS(摇晃婴儿综合征)= 用力摇晃造成的脑出血 / 视网膜出血,可能终身脑损伤或死亡。
+    SBS(摇婴综合征)(摇晃婴儿综合征)= 用力摇晃造成的脑出血 / 视网膜出血,可能终身脑损伤或死亡。
     婴儿头部占体重 1/4 + 颈肌弱,你觉得"没摇多重"也可能伤;美国每年数百例,致死率 25%。
     所以大人崩溃时怎么办?AAP 救命建议:
     先放婴儿床(只有床单,没毯子玩具)→ 离开房间 10-15 分钟 →
@@ -21,8 +21,8 @@ back:
     - 没冷静就再等,别勉强抱起
     - 平时跟所有看护人(配偶 / 老人 / 保姆)同步这流程
   failure_mode: |
-    硬撑安抚 → 自己崩溃 → 摇晃宝宝 → SBS(可能终身脑损伤甚至死亡)。
-    觉得让他哭是"狠心" → 数据上更危险的是硬撑导致 SBS。
+    硬撑安抚 → 自己崩溃 → 摇晃宝宝 → SBS(摇婴综合征)(可能终身脑损伤甚至死亡)。
+    觉得让他哭是"狠心" → 数据上更危险的是硬撑导致 SBS(摇婴综合征)。
   evidence_level: A
 
 glossary_refs:
@@ -30,10 +30,10 @@ glossary_refs:
   - G-ABBR-AAP
 
 citation:
-  page_title: "How to Calm a Fussy Baby + Responding To Your Baby's Cries"
+  page_title: "How to Calm a 烦躁 Baby + Responding To Your Baby's Cries"
   publisher: American Academy of Pediatrics
   portal: HealthyChildren.org
-  page_url_primary: https://www.healthychildren.org/English/ages-stages/baby/crying-colic/Pages/Calming-A-Fussy-Baby.aspx
+  page_url_primary: https://www.healthychildren.org/English/ages-stages/baby/crying-colic/Pages/Calming-A-烦躁-Baby.aspx
   accessed: 2026-05-01
   language: en
   location: "Calming 'Why parents & caregivers need breaks' section (含完整 10-15 分钟协议) + Responding 'Take a break & ask for help'"

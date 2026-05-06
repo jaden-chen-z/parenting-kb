@@ -1,0 +1,64 @@
+card_id: C-S1-256
+stages: [S1]
+tags: [self, parent_attitude, china_high_freq]
+
+front:
+  title: 给宝宝主体属性是对的
+  hook: 当个人不当物件
+
+back:
+  why_matters: |
+    新手父母会自然地说:"哦你想看这个啊" / "你饿了想吃奶啊" / "你故意把这个扔了" — 给宝宝**意图、动机、行动主权**等"主体属性"。
+    传统视角(老人 / 部分医生):"宝宝小哪有那么多想法,你别瞎猜" — 觉得这是"过度拟人"。
+    **Stern 直接说:这是对的,而且是必然 + 重要的**:
+    - 这是 Vygotsky 的"近端发展区(zone of proximal 发展)" — 大人把宝宝当"他即将成为的人"来对待,反推促进发展
+    - 跟宝宝互动**几乎不可能**不给主体属性 — 这就是人类社会化的本能过程
+    - 父母这样做,宝宝就会**真的发展出**这些属性(self-fulfilling prophecy 但是好的方向)
+    **怎么做**(实操):
+    - 跟新生儿说话时用第二人称("你想..." / "你看..." / "你听..."),不用第三人称("宝宝...")
+    - 解读宝宝的每个动作 / 表情:"哦你皱眉头是不是不舒服" / "你伸舌头是不是想吃奶"
+    - 给宝宝"角色"和"位置":"你是我女儿 Sara,这是你的房间,这是你的床"
+    - 替宝宝表达感受("你今天好像很高兴")— 即使你不确定
+    **反"过度拟人"的迷思**:
+    - 老人说"别跟他说那么多,他不懂" → 错。Stern 数据 — 父母这样做的家庭,宝宝 社交 cognition 发展更快
+    - 这不是"哄孩子",是 自我形成 的核心过程跟蒙氏 Lillard"母-师角色"(C-S6-186)、Bowlby 安全基地兼容。
+  what_to_do:
+    - 跟新生儿用第二人称说话
+    - 解读宝宝每个动作和表情
+    - 给宝宝清楚的角色和位置
+    - 替宝宝表达感受
+    - 不怕老人说你"过度"
+  failure_mode: |
+    "宝宝小别跟他说那么多" — 错。Stern 数据 + 蒙氏 + Bowlby 一致 — 父母给主体属性,宝宝才真的发展出主体性。
+    用第三人称("宝宝想吃奶啦")少一点 — 直接对宝宝说"你想吃了" 更好。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Stern
+  - G-PERSON-Vygotsky
+  - G-TERM-emergent-self
+
+citation:
+  book_title_zh: "婴儿的人际世界"
+  book_title_en: "The Interpersonal World of the Infant"
+  authors: ["Daniel N. Stern"]
+  authors_zh: ["丹尼尔·斯特恩"]
+  publisher_en: "Basic Books"
+  year_en: 1985
+  isbn_en: "978-0-465-09559-9"
+  location: "Ch 3 · Clinical and Parental View (Vygotsky zone of proximal development)"
+  publisher_zh: "华东师范大学出版社"
+  year_zh: 2017
+  translator_zh: ["刘旭东"]
+  source_id: SRC-018
+
+unit_ids: []
+related_cards:
+  - C-S6-186       # Lillard 母-师角色
+  - C-S0-015       # Stern 4 senses of self
+  - C-S2-186       # Lillard 说话慢 + 等回应
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

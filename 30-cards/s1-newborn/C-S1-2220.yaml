@@ -1,0 +1,41 @@
+card_id: C-S1-2220
+stages: [S1]
+tags: []
+front:
+  title: 体温调节看颈背
+  hook: 不看手脚冷热
+back:
+  why_matters: |
+    新生儿前几天体温调节系统不完善,过几天后会自己调,穿太多比穿太少更危险(过热是 SIDS 风险因素之一)。
+    判断冷热的关键:摸颈背 / 上腹 / 上臂 — 不看手脚(宝宝循环系统不全,手脚天然偏凉)。
+    原则:用你自己感觉舒适的着装来判断宝宝穿多少;难以确定时,薄一层比厚一层好(后续可加被子)。
+    打喷嚏不一定是着凉 — 可能是对光或鼻腔清理。
+    头部散热多:1 岁以下凉天戴帽子 / 太阳大戴遮阳帽,但室内睡觉不戴帽(过热)。
+  what_to_do:
+    - 摸颈背/上腹判断冷热 — 不摸手脚
+    - 用你自己感觉穿衣 — 难定就薄一层
+    - 凉天戴帽室内睡眠脱帽
+    - 多层薄衣比一件厚的好(易加减)
+    - 出汗 = 可能穿多了 = 减一件
+  failure_mode: |
+    摸手脚冷就拼命加衣 → 实际过热 → SIDS 风险升高 + 宝宝烦躁。
+    室内睡觉戴帽 → 头部散热被堵 → 过热。
+  evidence_level: B
+glossary_refs: []
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors: ["Heidi Murkoff", "Sharon Mazel"]
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh: ["莫夏迪","张敏"]
+  location: "第 6 章第一个月 · 温度适宜, 页 196-197"
+  source_id: SRC-040
+related_cards: []
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

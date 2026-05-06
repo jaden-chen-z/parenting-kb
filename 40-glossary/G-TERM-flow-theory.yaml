@@ -1,0 +1,28 @@
+glossary_id: G-TERM-flow-theory
+type: term
+display_name: "心流理论 / flow theory"
+
+name_en: "flow theory"
+name_zh: "心流理论"
+
+description: |
+  Csikszentmihalyi 提出 — 活动本身就是奖励的状态(intrinsic motivation)。
+  4 大特征:挑战/技能匹配 + 即时反馈 + 高度专注 + 自我感消失。
+
+one_liner: |
+  心流理论(flow theory)— Csikszentmihalyi 提出 — 活动本身就是奖励的状态(intrinsic motivation)。
+
+key_facts:
+  - "Lerner V1 元理论卷核心术语"
+  - "学派:Lerner V1 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

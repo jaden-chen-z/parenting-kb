@@ -1,0 +1,53 @@
+glossary_id: G-ABBR-EBF
+type: abbreviation
+display_name: "EBF 纯母乳喂养"
+
+en_term: "Exclusive Breastfeeding"
+zh_term: "纯母乳喂养"
+
+aliases:
+  - EBF
+  - 纯母乳喂养
+  - 纯母乳
+
+one_liner: |
+  EBF = 婴儿只喝母乳,任何其他液体/固体不给(连水都不给),例外 ORS / 维生素 / 药物。
+
+detail: |
+  ## WHO 操作定义 verbatim
+  'Exclusive breastfeeding means that the infant receives only breast milk. No other liquids or solids are given – not even water – with the exception of oral rehydration solution, or drops/syrups of vitamins, minerals or medicines.'
+  
+  ## 例外清单
+  - ORS(口服补液,腹泻脱水时)
+  - 维生素/矿物质 滴剂或糖浆
+  - 药物
+  
+  ## WHO 推荐时长
+  0-6 月 EBF(全球目标 2025 ≥ 50%,目前 44%)。
+  
+  ## 跟其他派关系
+  - AAP / 鲍秀兰 / 松田 都说 EBF 6 月,但没明确列例外清单
+  - WHO 是唯一明确给操作定义的派
+
+key_facts:
+  - "WHO 推 0-6 月"
+  - "全球率 44%(2015-2020)"
+  - "2025 目标 ≥ 50%"
+  - "操作定义含 ORS/维生素/药物例外"
+
+related_glossary:
+  - G-ABBR-WHO
+  - G-TERM-WHO-six-months
+  - G-ABBR-CF
+
+related_cards:
+  - C-S1-1008
+  - C-S0-1027
+
+sources:
+  - source_id: SRC-031
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

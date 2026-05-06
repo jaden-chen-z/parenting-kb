@@ -1,0 +1,65 @@
+card_id: C-S0-1236
+stages: [S0]
+tags: [media, comstock, lerner_v4]
+
+front:
+  title: 媒体 5 大伤娃
+  hook: 媒体 5 大伤娃
+
+back:
+  why_matters: |
+    Comstock-Scharrer V4 Ch 20 媒体与流行文化综述章。
+    **媒体 5 大效应**(Comstock 元分析):
+    - **暴力效应**:看暴力 → 暴力行为 + 麻木 + 接受暴力(效应量 .31)
+    - **性别刻板**:看刻板节目 → 强化性别角色
+    - **广告效应**:商业广告 → 消费主义 + 不健康饮食
+    - **学业排挤**:屏幕时间 → 阅读 + 户外 + 互动减少
+    - **社会化**:孩子从媒体而非家庭学社交规则跟 AAP(SRC-002)、松田(SRC-024)、Lansbury(SRC-019)反屏立场一致。
+    但 V4 给出最系统综述 + 元分析数据。
+    意义:
+    - 不是"屏幕都坏",是 5 大具体机制
+    - 0-2 岁绝对禁,2-6 岁限量
+    - 父母选内容比限时长更重要
+    - 中国家长 iPad 给娃当电子保姆是 5 大机制全踩跟现库:跟松田反电视(SRC-024 §428)+ AAP 反屏(SRC-002)对接。
+    对中国家长意义:
+    - iPad 不是中性工具,是有 5 类伤害
+    - 内容比时长重要 — 选教育内容 vs 短视频
+    - 父母先放下手机
+    - 户外 + 阅读 + 对话填补媒体时间
+  what_to_do:
+    - 0-2 岁绝对禁屏幕
+    - 2-6 岁限内容比限时长重要
+    - 父母先放手机示范
+    - 户外+阅读+对话填补
+  failure_mode: |
+    "短视频教育"— 错。社会化效应让娃模仿短视频规则。
+    "动画片是儿童的"— 错。商业广告嵌入。
+    "我家娃看了没事"— 错。效应是累积的。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Comstock
+  - G-PERSON-Anderson-Craig
+  - G-PERSON-Bushman
+  - G-TERM-media-effects
+  - G-TERM-anti-screen
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 4 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 4 卷"
+  authors: ['George Comstock', 'Erica Scharrer']
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 20 · Comstock-Scharrer · Media 5 effects · pp. 817-825"
+  source_id: SRC-029
+
+unit_ids: []
+related_cards:
+  - C-S0-367     # 松田反电视立场
+  - C-S0-619     # Shonkoff 反屏
+  - C-S6-816     # Karp 反屏
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

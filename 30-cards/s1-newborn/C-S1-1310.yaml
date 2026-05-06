@@ -1,0 +1,74 @@
+card_id: C-S1-1310
+stages: [S1]
+tags: [nfp, olds, newborn, lerner_v4]
+
+front:
+  title: NFP 怀孕开始介入
+  hook: NFP 怀孕开始介入
+
+back:
+  why_matters: |
+    Olds NFP V4 全卷引用(Powell Ch 14 + Ramey Ch 21 + Cicchetti Ch 13)。
+    **NFP 关键独特 = 怀孕开始**:
+    - 怀孕 28 周起注册护士开始访视
+    - 出生后继续到孩子 2 岁
+    - 共 ~64 次家访(怀孕 + 0-2 岁)
+    - **早期介入 = 怀孕介入**
+    **为啥怀孕介入最有效**:
+    - 大脑结构关键期(产前 + 0-2 岁)
+    - 母婴关系**怀孕已开始**(连接 + 期待)
+    - 母亲心理 + 健康 = 婴儿基础
+    - 错过这窗口干预成本翻倍
+    **NFP RCT 30 年长效**:
+    - 减少 50% 虐待
+    - 减少 40% 政府福利依赖
+    - 减少 30% 后期犯罪
+    - ROI 5-7 倍
+    **3 大成功要素**:
+    - **专业护士**(不是 paraprofessional)
+    - **怀孕开始**(不是出生后)
+    - **关系导向**(不只是教学)
+    **中国版本**:
+    - 妇幼保健已有产检 + 部分访视
+    - 但缺综合 + 持续 + 关系导向
+    - 高风险家(青少年妈 / 移民 / 低收入)主动找跟现库:跟 C-S0-1242 NFP 总论 + AAP 产检(SRC-006)+ 鲍秀兰早期(SRC-009)对接。
+    对中国家长意义:
+    - 高风险家从怀孕开始找资源
+    - 不是出生后才"养"
+    - 妇幼保健是基础
+    - 找有持续访视的项目
+  what_to_do:
+    - 高风险家怀孕就找资源
+    - 不是出生后才养
+    - 妇幼保健是基础
+    - 找持续访视项目
+  failure_mode: |
+    "出生后才介入"— 错。怀孕开始更稳。
+    "高风险才需要"— 错。普通家也受益。
+    "产检就够"— 错。需关系+持续。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Olds
+  - G-TERM-NFP
+  - G-TERM-home-visiting
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 4 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 4 卷"
+  authors: ['David Olds (cited)']
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 14 · NFP · Newborn home visiting (cross-chapter) · pp. 550-560"
+  source_id: SRC-029
+
+unit_ids: []
+related_cards:
+  - C-S0-1242     # NFP 30 年总论
+  - C-S0-1233     # Powell 5 原则
+  - C-S1-1000     # V3 Thompson 早期社会理解
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

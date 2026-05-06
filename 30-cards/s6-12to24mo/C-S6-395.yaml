@@ -1,0 +1,59 @@
+card_id: C-S6-395
+stages: [S6]
+tags: [discipline, sportscasting, RIE, lansbury]
+
+front:
+  title: "实况转播孩子的挣扎"
+  hook: "只看不评判不修复"
+
+back:
+  why_matters: |
+    sportscasting(实况转播)= Magda Gerber 独家命名 + Lansbury 推广,
+    RIE 派最标志性的干预法。
+    孩子玩具被抢 / 拼图卡住 / 跟同伴拉扯时,
+    大人不冲过去解决,只用平静"事实播报":
+    "你正在拼这块,看起来挣扎。"
+    "Savannah 拿着熊,现在 Ally 拿着了,你们都想要。"
+    5 个好处:孩子学独立解决 / 不被打标签为 victim/aggressor
+    / 学语言情商 / 大人不偏袒 / 信任孩子能力。
+
+  what_to_do:
+    - 蹲下平视,观察 5-10 秒
+    - 用"事实"语:"你拿着 X,他也想要"
+    - 不"对错"判断,不"是谁先" 追究
+    - 真冲突时:"我不让你打" + 用手挡
+    - 升级到 interview:"你打算怎么办?"
+
+  failure_mode: |
+    "孩子打架,大人必须当法官" → 把孩子贴 victim/aggressor 标签。
+    或反向:从不介入 → 真打人时孩子受伤。
+    Lansbury 三层级:sportscasting → interview → 物理介入。
+    安全第一,但能不主导就不主导。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Lansbury
+  - G-PERSON-Gerber
+  - G-TERM-sportscasting
+  - G-TERM-RIE
+
+citation:
+  book_title_en: "Elevating Child Care: A Guide to Respectful Parenting"
+  book_title_zh: "尊重孩子:RIE 育儿之道"
+  authors:
+    - Janet Lansbury
+  publisher_en: JLML Press
+  year: 2014
+  location: "Ch19 'Sportscasting' Your Child's Struggles"
+  source_id: SRC-019
+
+unit_ids: []
+related_cards:
+  - C-S6-188  # Lillard 选 2 法
+  - C-S6-194  # Lillard 描述法替讲道理
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

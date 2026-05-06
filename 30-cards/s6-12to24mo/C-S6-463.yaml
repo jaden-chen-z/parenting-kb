@@ -1,0 +1,57 @@
+card_id: C-S6-463
+stages: [S6]
+tags: [tantrum, emotion]
+
+front:
+  title: "脾气暴发让它过"
+  hook: "希腊神话讲清暴怒"
+
+back:
+  why_matters: |
+    Magda 用希腊神话比喻 toddler tantrum:
+    Antaeus 是大地之子,被打倒地面就吸收力量。
+    宝宝发脾气也"扔自己到地"= 大地吸收过载情绪 = 自然过去。
+    Magda 立场:**你拦不住,只能等过**。
+    每次有起 / 高峰 / 落,大概 3-15 分钟。
+    跟 Lansbury Ch28 + Davies 哭闹 5 步同源。
+
+  what_to_do:
+    - 找他在的房间陪着,不离开 + 不说话
+    - 不抱(除非他求抱) + 不拍 + 不哄
+    - 不给他要的"避免暴发"东西 — 一次就升级
+    - 不公开谈论暴发过的孩子("他刚才好凶")
+    - 等过完平静后给抱,不审讯"为什么哭"
+
+  failure_mode: |
+    "这么闹给个糖马上停 / 关黑屋让他怕" → 都错。前者养习惯,后者破坏信任。
+    Magda 原话:"暴怒必须穿过孩子,你拦它只会延长"。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+  - G-TERM-Antaeus-tantrum
+  - G-TERM-acknowledging-feelings
+
+citation:
+  book_title_en: "Your Self-Confident Baby"
+  book_title_zh: "自信的宝宝"
+  authors:
+    - Magda Gerber
+    - Allison Johnson
+  publisher_en: John Wiley & Sons
+  year: 1998
+  location: "Ch8 Tantrums: The Antaeus Story(整节)"
+  source_id: SRC-022
+
+unit_ids: []
+related_cards:
+  - C-S6-403  # Lansbury 限度+情绪并存
+  - C-S2-132  # Davies 哭闹 5 步
+  - C-S6-404  # Lansbury 让孩子对你生气
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

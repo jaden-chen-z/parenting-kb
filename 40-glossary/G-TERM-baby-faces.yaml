@@ -1,0 +1,86 @@
+glossary_id: G-TERM-baby-faces
+type: term
+display_name: 婴儿脸 (baby faces)
+
+full_name_zh: 婴儿脸 / 大人对宝宝做的夸张表情
+full_name_en: Baby Faces / Infant-Directed Facial Expressions
+
+one_liner: |
+  Stern 命名 — 大人**自动**对宝宝做的"夸张面部表情"。
+  特征:嘴张大 + 眉抬高 + 表情慢慢成型。跟 parentese(妈语)是一对工具,匹配婴儿感官偏好,调节宝宝兴奋度,帮 self-formation。
+
+detail: |
+  ## 定义
+  Baby faces(婴儿脸)= 大人**自动**对婴儿做的特殊面部表情。
+  - 特征:夸张 + 慢动作 + 缓慢成型
+  - 跟 parentese(妈语)是一对 — 一视觉 + 一听觉
+  - 自动产生 — 不需要"学"
+
+  ## 5 大特征(Stern 1977)
+  1. **嘴张大** — 嘴形比成人对话夸张
+  2. **眉抬高** — 表情上扬
+  3. **表情慢慢成型** — 不是一下完成,而是渐进
+  4. **凑近距离** — 跟宝宝面对面 < 50cm
+  5. **theme-and-variation** — 主题 + 微变化(同一个笑脸做几种)
+
+  ## 跟 parentese(妈语)是一对
+  | Baby Faces(视觉)| Parentese(听觉)|
+  |---|---|
+  | 嘴张大 | 升高音调 |
+  | 眉抬高 | 简化句子 |
+  | 慢慢成型 | 拉慢速度 |
+  | 凑近 | 接近 |
+  | theme-and-variation | theme-and-variation |
+  这两个**一起用**,达到最强宝宝注意 + self-formation 输入。
+
+  ## 为什么这样做
+  Stern 解释:
+  - 婴儿天生**偏好**夸张表情 + 慢节奏
+  - 父母自动匹配 — 不是教的,是 evolutionary
+  - 目的:**调节宝宝兴奋度**(arousal)+ 建 invariants(妈是同一个人)+ 给 attunement 燃料
+
+  ## 反传统育儿
+  - 老观点:"别用娃娃脸,正常表情" — 错。婴儿脸是工具
+  - "夸张表情让娃太兴奋" — 错。是调节兴奋度的方式
+  - "大人有威严不能做夸张表情" — 错。婴儿脸是自然 + 必要
+
+  ## 中国家长应用
+  - **0-12 月经常用** — 跟妈语一起
+  - **特别重要的时刻**:喂奶时 / 换尿布时 / 哄睡时 / 玩耍时
+  - **凑近 30-50cm** — 这是宝宝最佳焦距
+  - **慢慢成型** — 不要一下做完表情
+  - **theme-and-variation** — 同一表情做 3-5 种微变化
+
+  ## 跟 attunement(C-S5-291)关系
+  - Baby faces 是 attunement 的视觉工具
+  - 9 月起,baby faces 升级为 attunement(跨感官 + vitality 匹配)
+  - 不是替换 — 是叠加
+
+  ## 跟蒙氏 Lillard 立场
+  - Lillard 蒙氏不强调 baby faces(蒙氏更"实用")
+  - 但跟 Lillard"演示要慢"(C-S6-187)同精神 — 都强调"慢"
+  - 互补不冲突
+
+key_facts:
+  - Stern 命名,大人对宝宝的本能表情
+  - 5 特征:夸张 / 慢 / 渐进 / 近 / theme-and-variation
+  - 跟 parentese 是一对工具
+  - 调节宝宝兴奋度 + self-formation 输入
+  - 自动产生,不需教
+
+related_glossary:
+  - G-PERSON-Stern
+  - G-TERM-parentese
+  - G-TERM-affective-attunement
+  - G-TERM-emergent-self
+
+related_cards: []
+
+sources:
+  - source_id: SRC-018
+  - external: Stern 1977 The First Relationship / Stern《The Interpersonal World of the Infant》Ch 4
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

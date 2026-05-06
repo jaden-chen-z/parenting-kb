@@ -1,0 +1,65 @@
+card_id: C-S5-128
+stages: [S5]
+tags: [development_burst, controversy, philosophy]
+
+front:
+  title: 撒娇也是烦躁信号
+  hook: 突然超甜 = 跃迁前奏
+
+back:
+  why_matters: |
+    家长容易以为烦躁 阶段 只表现为哭闹和反抗。
+    van de Rijt 在 WW37 + WW46 章节都加了 "She May Act Unusually Sweet" 段:
+    一些跃迁期的宝宝**不哭闹反而突然超温柔**:
+    - 主动跑过来抱腿
+    - 拿玩具 / 书要妈妈陪玩
+    - 在妈妈腿上久久依偎
+    - 突然爱亲爱蹭
+    - 跟妈妈"小拇指碰小拇指"
+    怎么回事:跃迁的需求是"必须跟妈妈在一起",
+    不同气质宝宝表达方式不同:
+    - 焦虑型宝宝 → 哭闹强求
+    - 平和型宝宝 → 用温柔靠近
+    "黏度"一样,只是表达方式不同。
+    家长意义:**宝宝突然超甜超撒娇 + 时间窗对得上跃迁日历 = 也是烦躁信号**,
+    不是"突然变乖了",是跃迁期的另一种 3 C 表现。
+  what_to_do:
+    - 突然超甜 + 跃迁时间窗对得上 → 也是烦躁 阶段
+    - 接受温柔的撒娇,不要"还推开" 让她得到充分接触
+    - 平和气质宝宝其实"黏度"也很高,只是不哭
+    - 跃迁完成后撒娇频率会回到基线
+    - 拍视频记录这种甜蜜时刻 — 跃迁过去就少了
+  failure_mode: |
+    "我家宝宝突然变乖了 = 我之前训练的成果" — 跃迁过完会"复发"。
+    把温柔的"陪玩请求"误判为"宝宝在烦我" → 推开。
+    错过跃迁期建立的高质量亲子时刻。
+  evidence_level: C
+
+glossary_refs:
+  - G-PERSON-vanderijt
+  - G-TERM-wonder-week
+  - G-TERM-fussy-phase
+  - G-TERM-3C-signs
+  - G-TERM-temperament
+
+citation:
+  book_title_zh: "婴儿大脑跃迁 10 周(神奇周)"
+  book_title_en: "The Wonder Weeks"
+  authors: ["Hetty van de Rijt", "Frans X. Plooij"]
+  authors_zh: ["海蒂·凡德里特", "弗朗斯·普洛伊"]
+  publisher_en: "Kiddy World Publishing"
+  year_en_first: 1992
+  isbn_en: "978-90-79208-12-1"
+  location: "Chapter 8 + Chapter 9 · She May Act Unusually Sweet(Mother of an independent baby is often pleasantly surprised when her baby finally starts cuddling up to her + Matt's mom 35th week / Steven's mom 36th week / Ashley's mom 46th week diaries)"
+  source_id: SRC-013
+
+unit_ids: []
+related_cards:
+  - C-S5-126       # WW37 分类世界
+  - C-S5-127       # WW46 序列世界
+  - C-S4-074       # 气质难带 ≠ 依恋差(Bowlby)
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

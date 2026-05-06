@@ -1,0 +1,22 @@
+glossary_id: G-TERM-peer-play-stages
+type: term
+display_name: "同伴游戏阶段"
+
+one_liner: |
+  Parten:独自 → 旁观 → 平行 → 关联 → 合作,跨阶段不能跳。
+
+detail: |
+  Parten:独自 → 旁观 → 平行 → 关联 → 合作,跨阶段不能跳。
+
+  来源:Lerner V3《Handbook of Child Psychology Vol 3》(Wiley 2006 第 6 版,Eisenberg 主编)。
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-027
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

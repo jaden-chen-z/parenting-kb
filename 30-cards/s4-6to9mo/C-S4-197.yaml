@@ -1,0 +1,74 @@
+card_id: C-S4-197
+stages: [S4]
+tags: [self, milestone, joint-注意]
+
+front:
+  title: 9 月会指物 + 跟随指
+  hook: 看那你跟着 = 跃迁
+
+back:
+  why_matters: |
+    9 月起宝宝学会一个**改变人际关系根本**的能力 — **共同注视(共享注意)**。
+    **3 个里程碑动作**(Murphy & Messer 1977 / Scaife & Bruner 1975):
+    1. **跟随大人的指** — 妈指那边,宝宝**不再只看妈的手**,而是**沿手指看到目标物**
+    2. **跟随大人的目光** — 妈转头看那边,宝宝跟着转头
+    3. **自己指物** — 宝宝指着想看的物,**眼神在物和妈之间来回**(确认妈跟着看了)
+    **跃迁的意义**(Stern):
+    - 这不只是"动作里程碑" — 是**心智里程碑**
+    - 宝宝**知道**:"我有注意力的焦点 + 妈有注意力的焦点 + 这两个可以**对齐**"
+    - 这就是 **共注意** 的诞生
+    - 是 **theory of separate minds(分离心智理论)** 的硬证据
+    - 是后续语言 / 学习 / 社交的**心理基础**
+    **传统错觉**:
+    - 老观点:宝宝直到 1.5-2 岁才"摆脱自我中心"
+    - **Stern + Bruner 数据**:9 月已能"跨自我中心" — 知道别人有不同视角
+    **对家长的核心信息**:
+    - **9 月起开始大量 pointing 互动** — "看那只鸟" + 指
+    - **跟随宝宝的指** — 不要假装没看见,要明确说出"你看到那个红色的车了"
+    - **互相确认** — 看到目标后回头跟宝宝对视一下,完成"分享回路"
+    - 这就是 调谐(C-S5-291)的"注意力方面"
+    **跨源**:
+    - 蒙氏 Lillard 14 月手牵手公共场所(C-S5-184)— 同立场,共同注视 实操
+    - Wonder Week 第 5 跃迁 — 9 月行为里程碑
+    - Bowlby 安全基地 — 共同注视 是 安全基地 的"探索半径"
+  what_to_do:
+    - 9 月起每天大量 pointing 互动
+    - 跟随宝宝的指 + 命名("你看到 X 了")
+    - 跟宝宝看完后回头对视确认
+    - 别假装没看到宝宝指
+    - 这是 调谐 的注意力方面
+  failure_mode: |
+    "宝宝指着我没空看" — 错过 共同注视 关键回路,宝宝以为"分享没用"。
+    只看宝宝指的物 → 没回头确认 → 分享回路不完整。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Stern
+  - G-TERM-joint-attention
+  - G-TERM-subjective-self
+  - G-TERM-intersubjectivity
+
+citation:
+  book_title_zh: "婴儿的人际世界"
+  book_title_en: "The Interpersonal World of the Infant"
+  authors: ["Daniel N. Stern"]
+  authors_zh: ["丹尼尔·斯特恩"]
+  publisher_en: "Basic Books"
+  year_en: 1985
+  isbn_en: "978-0-465-09559-9"
+  location: "Ch 6 · Sharing the Focus of Attention (Murphy & Messer 1977)"
+  publisher_zh: "华东师范大学出版社"
+  year_zh: 2017
+  translator_zh: ["刘旭东"]
+  source_id: SRC-018
+
+unit_ids: []
+related_cards:
+  - C-S4-196       # Stern 7-9 月跃迁
+  - C-S5-184       # Lillard 14 月手牵手
+  - C-S4-124       # Wonder Weeks 26 周第五跃迁
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

@@ -1,0 +1,28 @@
+glossary_id: G-TERM-asset-based-model
+type: term
+display_name: "资产模型 / asset-based model"
+
+name_en: "asset-based model"
+name_zh: "资产模型"
+
+description: |
+  Lerner / Benson 立场 — 看孩子优势放大,不是看缺点修补。
+  反 deficit-based 视角。
+
+one_liner: |
+  资产模型(asset-based model)— Lerner / Benson 立场 — 看孩子优势放大,不是看缺点修补。
+
+key_facts:
+  - "Lerner V1 元理论卷核心术语"
+  - "学派:Lerner V1 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

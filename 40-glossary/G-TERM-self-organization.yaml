@@ -1,0 +1,28 @@
+glossary_id: G-TERM-self-organization
+type: term
+display_name: "自组织 / self-organization"
+
+name_en: "self-organization"
+name_zh: "自组织"
+
+description: |
+  dynamic systems 核心机制 — 多个部件凑合到一起涌现新能力,无中央控制器。
+  应用 — 婴儿走步是 self-organize 不是教出来。
+
+one_liner: |
+  自组织(self-organization)— dynamic systems 核心机制 — 多个部件凑合到一起涌现新能力,无中央控制器。
+
+key_facts:
+  - "Lerner V1 元理论卷核心术语"
+  - "学派:Lerner V1 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

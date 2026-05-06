@@ -1,0 +1,70 @@
+card_id: C-S8-420
+stages: [S8]
+tags: [cognitive_science, false_belief, sally_anne, lerner_v2]
+
+front:
+  title: 4-5 岁通过假信
+  hook: 知道别人有错信念
+
+back:
+  why_matters: |
+    Wimmer/Perner 1983 + Baron-Cohen 1985 经典(Lerner V2 Ch19 Harris 综述)。
+    Sally-Anne 任务:
+    1. Sally 把球放在篮子里,然后离开
+    2. Sally 不在时,Anne 把球移到盒子里
+    3. Sally 回来 — **她会先去哪里找球?**
+    答对(篮子):理解 Sally 有"错误信念"(她不知道球被移)
+    答错(盒子):不能区分"我知道"vs"Sally 知道"
+    通过率:
+    - **3 岁**:大多答错(只 30% 通过)
+    - **4 岁**:50% 通过
+    - **5 岁**:80%+ 通过(稳定)
+    意义:
+    - 真正"心智理论"的硬测试
+    - 跨文化普适(中国 / 美国 / 日本 / 印度都 4-5 岁通过)
+    - 自闭症儿童延迟 5-10 年(认知里程碑)
+    - 是 Wellman ToM 第 4 阶段跟现库:G-TERM-theory-of-mind 已建,V2 给 Sally-Anne 综述。
+    跟 Wellman WPSS(C-S7-1098)+ Leslie ToMM(C-S6-1171)对接。
+    对中国家长意义:
+    - 3 岁通不过 = 正常,不是"傻"
+    - 4-5 岁通过是认知里程碑
+    - 玩"猜别人想什么"游戏 = 培养 ToM
+    - 5+ 岁仍通不过 — 可咨询(可能 ToM 延迟信号)
+  what_to_do:
+    - 4-5 岁玩 false belief 藏物游戏
+    - 用故事书讨论"角色不知道发生了什么"
+    - 不急 3 岁通过(发育常态)
+    - 5+ 岁仍通不过 = 关注
+  failure_mode: |
+    "3 岁应该通过 Sally-Anne" — 错。大多 3 岁不能。
+    "通过测验就是聪明" — 错。是普遍发育里程碑。
+    "教孩子答案" — 错。需要理解,不是背答案。
+  evidence_level: B
+
+glossary_refs:
+  - G-TERM-theory-of-mind
+  - G-PERSON-Wellman
+  - G-PERSON-Leslie
+  - G-TERM-false-belief
+  - G-TERM-WPSS
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 2 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 2 卷"
+  authors: ["Paul L. Harris"]
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 19 · False belief Sally-Anne · pp. 819-825"
+  source_id: SRC-028
+
+unit_ids: []
+related_cards:
+  - C-S6-1171     # Leslie ToMM 18 月
+  - C-S7-1098     # Wellman ToM 5 阶段
+  - C-S5-1140     # Tomasello 9 月革命
+  - C-S8-100       # 松田道雄反早期 IQ 测
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

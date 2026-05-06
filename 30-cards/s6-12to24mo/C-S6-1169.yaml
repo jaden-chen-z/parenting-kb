@@ -1,0 +1,63 @@
+card_id: C-S6-1169
+stages: [S6]
+tags: [cognitive_science, memory, bauer, lerner_v2]
+
+front:
+  title: 13 月能记 1 个月
+  hook: 长记忆远超 Piaget
+
+back:
+  why_matters: |
+    Bauer 1996+ 系列(Lerner V2 Ch9 Bauer 主笔综述)。
+    延迟模仿(deferred imitation)实证延伸:
+    - **9 月**:看大人示范 + 24 小时后能模仿
+    - **13 月**:1 个月后还能模仿(1 次示范 ≠ 反复练)
+    - **20 月**:6 个月后还记得(限于 distinctive 动作)
+    - **24 月**:1 年后能记忆(部分动作)
+    意义:
+    - 婴幼儿"长记忆"远超 Piaget 假设(他认为 18 月才有"延迟模仿")
+    - 一次性事件可保留数月 — 不需要重复
+    - 这跟自传记忆雏形(autobiographical memory)接
+    - 童年早期失忆(childhood amnesia)≠ 没记忆,是表征切换跟现库:G-PERSON-Meltzoff(C-S1-244 Rembrandt 视觉)+ Davies 蒙氏视频反对相关。
+    Lerner V2 给 Bauer 实证综述。
+    对中国家长意义:
+    - 13 月看到的事可能记 1 月 — 不是"小他不记"
+    - 暴力 / 焦虑 / 创伤事件**记得**
+    - 但 3-5 岁后多忘 = 表征切换不是真忘
+    - 一次正面经验也记得很久(慎用大事件)
+  what_to_do:
+    - 13 月起意识到"宝宝在记"
+    - 不当面激烈情绪表达(他记得)
+    - 一次正面体验也算"教育"(记得)
+    - 不必反复重复教(一次能学)
+  failure_mode: |
+    "13 月不记事" — 错。1 月后还能模仿。
+    "童年早期失忆 = 没记忆" — 错。表征切换。
+    "看到激烈情绪宝宝忘" — 错。记得且影响。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Meltzoff
+  - G-TERM-imitation
+  - G-PERSON-Bauer
+  - G-PERSON-Piaget
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 2 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 2 卷"
+  authors: ["Patricia J. Bauer"]
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 9 · Deferred imitation · pp. 376-383"
+  source_id: SRC-028
+
+unit_ids: []
+related_cards:
+  - C-S1-244       # 新生儿模仿 Meltzoff
+  - C-S5-1140     # Tomasello 9 月革命
+  - C-S6-1170     # Goldin-Meadow 手势(下一张)
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

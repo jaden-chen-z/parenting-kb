@@ -1,0 +1,82 @@
+glossary_id: G-TERM-self-regulation
+type: term
+display_name: self-regulation 自我调节
+
+en_term: self-regulation
+zh_term: 自我调节
+
+one_liner: |
+  孩子从"无助 → 有能"的能力发展核心 — 0-6 岁三层次:
+  生理调节(0-3 月)+ 情感调节(6 月-3 岁)+ 注意行为调节(3-6 岁)。
+  NRC 综述 Ch 5 的核心概念 — 把多个发展任务统合成一条主轴。
+  比 IQ 更预测学业 / 健康 / 关系长期结果。
+
+detail: |
+  ## 概念由来
+  - NRC Ch 5 整章核心概念
+  - 综合 Bronson 2000 + Kopp 2000 + Diamond
+  - 把"睡眠 / 哭闹 / 情绪 / 注意 / 自控"统合成一条主轴
+
+  ## 3 层次发展
+  ### 1. 生理调节(0-3 月)
+  - 体温 / 心率 / 睡醒节律 / 哭闹
+  - 完全靠**照护者帮调节**
+  - **第一次行为转折期**3-4 月起开始独立
+  
+  ### 2. 情感调节(6 月-3 岁)
+  - 管理愤怒 / 害怕 / 兴奋
+  - 还需父母大量帮忙(co-regulation)
+  - 1-3 岁是 tantrum 高峰期(PFC 还没长好)
+
+  ### 3. 注意 + 行为调节(3-6 岁)
+  - 专注 / 等待 / 抑制冲动
+  - PFC + 执行功能起步
+  - 5-6 岁能 Simon Says 玩
+
+  ## 关键洞察
+  - 婴儿擅长"反应"(reaction)— 不擅长"调节反应"(regulation)
+  - 父母 = "外置调节器" → 慢慢交还给孩子
+  - 6 岁前都在学"调节自己" — 别要求一步到位
+  - tantrum 是发展正常 — 不是不听话
+
+  ## 长期预测力
+  - 自我调节 → 比 IQ **更强**预测一年级表现
+  - 跟成年学业 / 收入 / 关系 / 健康 / 心理健康正相关
+  - Mischel 4 岁棉花糖实验经典证据
+
+  ## 跟其他派别概念
+  - Bowlby:secure base = 应激调节伴侣
+  - Stern:self-with-self-regulating-other
+  - Lillard:concentration / cycle of activity
+  - Brazelton:state regulation / 触摸点
+  - Lansbury:CEO 语调 + I won't let you
+  - 鲍秀兰:婴儿情感调节训练
+
+  ## NRC 立场对家长含义
+  - 不强训"自己冷静"(跟脑发育对抗)
+  - 接受 + 你做"外置 PFC"
+  - 改环境 > 改孩子(0-3 岁)
+  - 命名情绪 → 帮认知调节
+
+key_facts:
+  - 3 层次发展 0-6 岁
+  - 比 IQ 更预测长期
+  - 父母 = 外置调节器
+  - NRC Ch 5 核心概念
+
+related_glossary:
+  - G-PERSON-Shonkoff
+  - G-TERM-executive-function
+  - G-TERM-prefrontal-cortex
+  - G-TERM-NRC
+
+related_cards: []
+
+sources:
+  - source_id: SRC-025
+  - external: Bronson 2000 + Kopp 2000
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

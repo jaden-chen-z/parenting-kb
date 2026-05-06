@@ -1,0 +1,56 @@
+card_id: C-S1-407
+stages: [S1]
+tags: [communication, language]
+
+front:
+  title: "用真声音说话"
+  hook: "嘎嘎嘎是大人编的"
+
+back:
+  why_matters: |
+    Magda 在 Ch3 直接拒"baby talk":
+    嘎嘎嘎不是宝宝的语言,是大人编出来的。
+    宝宝大脑 0-12 月在搭建语言神经回路 —
+    真声音的真句子 = 高质量营养;
+    嘎嘎嘎的虚假音调 = 营养稀薄 + 不真实。
+    Hutten­locher(芝大)研究:听到的真词数量 = 后期语言发展指标。
+    Davies C-S2-127 "真词不嘎嘎"同源,Magda 1998 早讲。
+
+  what_to_do:
+    - 跟宝宝说话用平时跟朋友的语气和句子
+    - 不学动画片"小宝宝乖乖"嗲音
+    - 用完整句子:"妈妈现在去厨房了"
+    - 解释你在做什么:"我在切菜,等会喂你"
+    - 听到他咕咕也回应:"嗯?是吗?"
+
+  failure_mode: |
+    "宝宝那么小,普通话他听不懂要嗲嗲说" → 实际反着 — 嗲音拖慢语言学习。
+    Magda 原话:"为什么对自己孩子要伪装?"
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+
+citation:
+  book_title_en: "Your Self-Confident Baby"
+  book_title_zh: "自信的宝宝"
+  authors:
+    - Magda Gerber
+    - Allison Johnson
+  publisher_en: John Wiley & Sons
+  year: 1998
+  location: "Ch3 Talking to Your Child(开头反 baby talk 段)"
+  source_id: SRC-022
+
+unit_ids: []
+related_cards:
+  - C-S2-127  # Davies 真词不嘎嘎
+  - C-S1-352  # Lansbury 把新生儿当完整人
+  - C-S6-405  # Lansbury 鼓励幼儿说话 6 招
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

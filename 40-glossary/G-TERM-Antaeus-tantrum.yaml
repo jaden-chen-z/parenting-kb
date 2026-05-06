@@ -1,0 +1,76 @@
+glossary_id: G-TERM-Antaeus-tantrum
+type: term
+display_name: Antaeus 神话比喻(脾气暴发)
+
+full_name_en: Antaeus Story / Antaeus Tantrum Metaphor
+full_name_zh: 安泰俄斯神话(描述幼儿暴怒)
+
+one_liner: |
+  Magda Gerber 用希腊神话 Antaeus 比喻 toddler tantrum:
+  Antaeus 是大地之子,被打倒地面就吸收力量。
+  幼儿暴怒时"扔自己到地" = 大地吸收过载情绪 = 自然过去。
+  父母不要拦,只能等过。
+
+detail: |
+  ## 神话原型
+  - **Antaeus 安泰俄斯**:希腊神话里大地女神 Gaia 的儿子
+  - 巨人 + 摔跤手,无敌
+  - 秘密:**只要他踩在大地上 = 母亲给他力量,不可战胜**
+  - 被赫拉克勒斯发现秘密,把他举离地面 = 失力被杀
+
+  ## Magda 的比喻
+  来自《Your Self-Confident Baby》Ch8 Tantrums 节:
+  > "When a child gets totally desperate and doesn't know what else to do, he throws himself on the ground. When I see children do this, I say, 'That's the Antaeus story.'"
+
+  暴怒的核心做法:
+  1. 情绪过载 → 神经系统超负荷
+  2. 扔自己到地 → "大地"吸收能量
+  3. 暴发 → 高峰 → 平息
+  4. 起来 = 力量回归 = 重新可对话
+
+  ## 父母怎么做
+  - **陪 + 不动**:在房间里,不抱不哄不离开
+  - **不拦**:Magda 原话 "Tantrums must run 'through' your child"
+  - **不奖励**(满足要求停哭) — 一次升级
+  - **过完平静后**再抱(他要的话)
+
+  ## 暴怒结构(每次都有)
+  - 起(过载触发)
+  - 高峰(扔自己 / 哭最响)
+  - 落(慢慢平静)
+  - 整个过程 3-15 分钟
+
+  ## 跟其他派对照
+  - Lansbury Ch28 "Why You're Yelling 4 Reasons" 同源
+  - Davies C-S2-132 哭闹 5 步法 实操延伸
+  - Bowlby V1 secure base 同源(暴怒后回到妈妈怀抱)
+
+  ## 中国家长意义
+  - 中国家长容易"哄停"(给糖 / 哄骗)= 升级
+  - 或"惩罚停"(吼 / 关黑屋)= 破坏信任
+  - Antaeus 模型给"等过去"以神话依据
+
+key_facts:
+  - Magda 1998 用希腊神话比喻 tantrum
+  - 扔自己到地 = 自然能量释放
+  - 父母拦不住,只能陪等
+  - 过完平静后接他回怀抱
+
+related_glossary:
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+  - G-TERM-acknowledging-feelings
+
+related_cards:
+  - C-S6-463
+  - C-S6-464
+  - C-S6-403
+
+sources:
+  - source_id: SRC-022
+  - external: Magda Gerber《Your Self-Confident Baby》Ch8
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

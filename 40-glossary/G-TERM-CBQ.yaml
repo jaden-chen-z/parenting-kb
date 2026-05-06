@@ -1,0 +1,22 @@
+glossary_id: G-TERM-CBQ
+type: term
+display_name: "CBQ"
+
+one_liner: |
+  Rothbart 开发的儿童行为问卷(Children's Behavior Questionnaire),3-7 岁气质测量。
+
+detail: |
+  Rothbart 开发的儿童行为问卷(Children's Behavior Questionnaire),3-7 岁气质测量。
+
+  来源:Lerner V3《Handbook of Child Psychology Vol 3》(Wiley 2006 第 6 版,Eisenberg 主编)。
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-027
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

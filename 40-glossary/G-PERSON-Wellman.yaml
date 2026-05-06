@@ -1,0 +1,42 @@
+glossary_id: G-PERSON-Wellman
+type: person
+display_name: "Wellman(亨利·韦尔曼)"
+
+full_name_en: "Henry M. Wellman"
+full_name_zh: "亨利·韦尔曼"
+
+position: |
+  University of Michigan 心理学教授
+
+contribution: |
+  心智理论 5 阶段;false belief 任务奠基人
+
+one_liner: |
+  亨利·韦尔曼 — 心智理论 5 阶段;false belief 任务奠基人
+
+key_facts:
+  - "密歇根大学心理学教授"
+  - "WPSS ToM 5 阶段量表奠基"
+  - "Lerner V3(SRC-027 Ch 2)= 37 次 / Lerner V2(SRC-028 Ch 19)= 105 次"
+  - "心智理论发展跨文化普适研究权威"
+  - "顺序固定立场,不能跳级"
+
+related_glossary:
+  - G-PERSON-Stern
+  - G-TERM-theory-of-mind
+
+related_cards:
+  - C-S7-1098
+  - C-S8-420
+  - C-S8-428
+
+sources:
+  - source_id: SRC-027
+    chapter: "Ch 2(Lerner V3 社会理解)"
+  - source_id: SRC-028
+    chapter: "Ch 19(Lerner V2 社会认知 + WPSS 量表)"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,27 @@
+glossary_id: G-TERM-embodiment
+type: term
+display_name: "具身化 / embodiment"
+
+name_en: "embodiment"
+name_zh: "具身化"
+
+description: |
+  Overton relational 4 原则之一 — 心智不在脑子里飘,是身体 + 环境一起的。
+
+one_liner: |
+  具身化(embodiment)— Overton relational 4 原则之一 — 心智不在脑子里飘,是身体 + 环境一起的。
+
+key_facts:
+  - "Lerner V1 元理论卷核心术语"
+  - "学派:Lerner V1 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

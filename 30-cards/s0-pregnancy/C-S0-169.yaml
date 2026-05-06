@@ -1,0 +1,56 @@
+card_id: C-S0-169
+stages: [S0]
+tags: [philosophy, family]
+
+front:
+  title: "求助不是无能"
+  hook: "一个人扛 = 给宝宝压力"
+
+back:
+  why_matters: |
+    Magda 给新手父母第一条建议:
+    "Ask for Help in Your Home"(在家求助)。
+    不是脆弱,是配置。
+    传统中国大家庭 4-6 个大人围一个宝宝是常态 —
+    现代核心家庭只有 1-2 个 = 反而违反生理设计。
+    Magda 在 Ch4 列了"求谁":
+    伴侣 + 父母 + 朋友 + 邻居 + 月嫂 + 钟点工 + RIE 同班。
+
+  what_to_do:
+    - 怀孕末月就排好"前三月帮手轮班表"
+    - 列具体任务清单:洗碗 / 买菜 / 抱半小时让妈睡
+    - 月嫂 / 阿姨 / 父母三选一前 30 天就定
+    - 不要把"求助 = 麻烦人"误解,直接说"我需要 X"
+    - 邻居送饭就收,不"假客气"
+
+  failure_mode: |
+    "我自己来,不麻烦人" → 第三月崩溃 + 产后抑郁 + 跟伴侣吵架。
+    Magda 原话:"独自带新生儿是反人类设计"。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+
+citation:
+  book_title_en: "Your Self-Confident Baby"
+  book_title_zh: "自信的宝宝"
+  authors:
+    - Magda Gerber
+    - Allison Johnson
+  publisher_en: John Wiley & Sons
+  year: 1998
+  location: "Ch4 Ask for Help in Your Home"
+  source_id: SRC-022
+
+unit_ids: []
+related_cards:
+  - C-S0-115  # Lansbury 新手父母
+  - C-S0-167  # Magda 8 原则
+  - C-S6-138  # Davies 父母先照顾自己
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

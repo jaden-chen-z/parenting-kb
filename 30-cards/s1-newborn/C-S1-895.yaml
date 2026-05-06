@@ -1,0 +1,62 @@
+card_id: C-S1-895
+stages: [S1]
+tags: [pikler, philosophy, source-de]
+
+front:
+  title: "婴儿不是大人的玩具"
+  hook: "他不是供你逗乐的物件"
+
+back:
+  why_matters: |
+    Pikler 1969 德文原版核心命题:
+    "Das Kind ist kein Spielzeug"(孩子不是玩具)。
+
+    亲戚朋友老人轮流逗 — 摇 / 痒 / 高高抛 / 拍照 / 喂吃 —
+    把婴儿当家庭娱乐节目。Pikler 比喻:像马戏团里被围观的人,精神早晚会崩。
+
+    后果:婴儿持续紧张 → 哭 / 焦躁 / "敏感"(被误诊)。
+    Pikler 反例:Lóczy 婴儿日常被尊重,基本不哭。
+
+    这是 RIE 派 "respect" 和 Magda Educaring 的源头哲学。
+
+  what_to_do:
+    - 拒绝"逗一下嘛"(亲戚要抱要痒 → 礼貌挡)
+    - 不要轮流抱传(婴儿没适应权)
+    - 不强迫宝宝表演(招手 / 飞吻 / 说话)
+    - 不在他面前持续讨论他(他听得到感受得到)
+    - 给独处 + 自由动腿的时间(每天数小时)
+
+  failure_mode: |
+    "宝宝爱笑就让大家逗呗" → Pikler 反:婴儿"配合笑"
+    是适应,不是开心。持续被逗 = 持续紧张 = 哭闹/不睡。
+    家人疑惑"为什么这宝宝这么爱哭?"实际是被逗出来的。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Pikler
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+
+citation:
+  book_title_de: "Friedliche Babys – zufriedene Mütter"
+  book_title_zh: "和平的婴儿 — 满足的母亲"
+  authors:
+    - Emmi Pikler
+  publisher_de: HERDER (HERDER / SPEKTRUM Band 4141)
+  year: 1969
+  location: "Einleitung(引言)pp. 8-10"
+  source_id: SRC-026
+
+unit_ids: []
+related_cards:
+  - C-S1-352  # Lansbury 把新生儿当完整的人(Pikler 源头)
+  - C-S0-167  # Magda 7 大育儿原则
+  - C-S1-406  # Gerber 动他之前先告知
+  - C-S6-816  # 松田撒娇章(中国家庭逗孩子对照)
+  - C-S2-290  # Lansbury 不撑坐(尊重身体节奏同根源)
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

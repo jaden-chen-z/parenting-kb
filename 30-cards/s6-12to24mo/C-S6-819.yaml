@@ -1,0 +1,59 @@
+card_id: C-S6-819
+stages: [S6]
+tags: [play, environment, outdoor, japan, matsuda]
+
+front:
+  title: "1 岁起每天必须散步"
+  hook: "玩是治疗工具"
+
+back:
+  why_matters: |
+    松田 §332 给 1 岁起的玩耍场所核心规则：
+    1. 1-1.5 岁的玩耍是"发现自身天分"的过程;
+    2. 大全身用力的玩具最受欢迎(秋千 / 滑梯 / 推车 / 皮球);
+    3. 想象力靠积木 + 蜡笔 + 娃娃;
+    4. 母亲读画册 — 1 岁半前最多 3 个画面;
+    5. 不能整天开电视收音机 — 削减孩子对音乐的注意力;
+    6. **每天散步是 1-1.5 岁孩子能做的锻炼** — 必须;
+    7. 散步时必须跟孩子对话 — 不是"放羊"。
+    跟 Lansbury "passive toys"+ 蒙氏"预备环境"一致 +
+    特别强调 1-1.5 岁的"散步对话"。
+
+  what_to_do:
+    - 每天 1-2 小时户外散步
+    - 散步路上跟孩子说话不刷手机
+    - 玩具偏选秋千 / 滑梯 / 大块积木
+    - 读画册 1.5 岁前最多 3 个画面
+    - 不让电视代替妈妈陪玩
+
+  failure_mode: |
+    现代版:1-1.5 岁孩子被"关家里" — 玩具一堆 / iPad 一摆 / 电视一开。
+    后果:能量没消耗 → 晚上不睡 → 妈妈崩溃 → 第二天更焦躁。
+    或散步时妈妈刷手机 → 孩子失去 social referencing 机会 → 语言滞后。
+    替代:"散步 = 消耗 + 教语言 + 建立关系" 三合一。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Matsuda
+
+citation:
+  book_title_zh: "定本育儿百科"
+  authors:
+    - 松田道雄
+  publisher_ja: 岩波书店
+  year_first_edition: 1967
+  location: "§332 给孩子创造一个游玩的场所"
+  source_id: SRC-024
+
+unit_ids: []
+related_cards:
+  - C-S6-031  # Brazelton 2 岁前一秒别看屏
+  - C-S6-406  # Lansbury 0-2 岁不看 TV
+  - C-S2-549  # 松田 1 月起每天必须出门(同源)
+  - C-S5-022  # Brazelton 8-9 月看视觉悬崖学走
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

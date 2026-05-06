@@ -1,0 +1,80 @@
+glossary_id: G-TERM-prepared-environment
+type: term
+display_name: 有准备的环境 (prepared environment)
+
+full_name_zh: 有准备的环境
+full_name_en: Prepared Environment
+
+one_liner: |
+  蒙特梭利教育法核心概念。家(或教室)= 宝宝的"第二老师"。父母不教,而是把空间设计成宝宝能自主探索 + 安全 + 美 + 有秩序的样子,然后退一步观察。
+  教育的主战场不是"父母讲什么",而是"环境呈现什么"。
+
+detail: |
+  ## 定义
+  Prepared environment = 蒙氏教育的物理 + 心理空间设计原则:
+  - 物理:家具尺寸 / 物品摆放 / 视觉美 / 安全 / 秩序
+  - 心理:成人态度 / 节奏 / 平静 / 尊重
+
+  Maria Montessori 在 1907 年 Casa dei Bambini 实验后提出:
+  > "把环境准备好,孩子会自己教自己。"
+
+  ## 5 大原则
+  1. **儿童尺寸**(child-sized)— 桌椅低、镜子低、衣钩低、宝宝自己够得着
+  2. **美**(beauty)— 真植物 / 艺术品 / 自然物,不是塑料卡通
+  3. **秩序**(order)— 一物一位,固定位置
+  4. **少即是多**(less is more)— 5-6 个活动,不超载
+  5. **独立性**(independence)— 让宝宝自取自放,而非父母递
+
+  ## 在 0-1 岁的具体形态(Davies 本卷)
+  | 区域 | 蒙氏布置 |
+  |---|---|
+  | 客厅 | 动作毯 + 低镜子 + mobile + 5-6 本布书 |
+  | 卧室 | 地板床(floor bed)+ 简单装饰 + 不挂动物 mobile |
+  | 厨房 | 低柜放宝宝餐具 + 篮子放厨具供宝宝玩 |
+  | 餐区 | 低桌椅(脚平地)+ 真碗真勺 |
+  | 换尿布区 | 低换尿布垫 + 篮子放尿布 / 湿巾就近 |
+
+  ## 与传统育儿房的对比
+  | 传统育儿房 | 蒙氏准备的环境 |
+  |---|---|
+  | 五颜六色塑料玩具 | 5-6 个木质 / 自然材质活动 |
+  | crib 高栏围住 | floor bed 平地无围 |
+  | 宝宝够不到的高架 | 全部低货架,宝宝自取 |
+  | 卡通装饰 | 真照片 / 实物画 |
+  | bouncer / jumper | 动作毯 + yes space |
+  | 父母递东西 | 宝宝自己拿 |
+
+  ## "准备"是动态的,不是一次性
+  - 宝宝从滚 → 爬 → 站 → 走,环境每月都要调
+  - 观察宝宝在做什么 → 增加 1 个匹配活动 + 收起 1 个不再用的
+  - "store and rotate"(收 + 轮换)是核心动作
+
+  ## 不需要花大钱
+  - 蒙氏官方立场:**不卖必需教具**
+  - 自然物(松果 / 石头 / 厨具)+ 二手家具 + 自缝物可达 90% 效果
+  - "贵=蒙氏"是市场化误解
+
+key_facts:
+  - 蒙氏教育法核心概念
+  - "环境是第二老师"
+  - 5 大原则:儿童尺寸 / 美 / 秩序 / 少 / 独立
+  - 动态调整,不是一次到位
+  - 不需要昂贵教具
+
+related_glossary:
+  - G-PERSON-Montessori
+  - G-PERSON-Davies
+  - G-TERM-yes-space
+  - G-TERM-floor-bed
+  - G-TERM-absorbent-mind
+
+related_cards: []
+
+sources:
+  - source_id: SRC-014
+  - external: Maria Montessori《童年的秘密》
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

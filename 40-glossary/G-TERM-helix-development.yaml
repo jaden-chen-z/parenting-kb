@@ -1,0 +1,28 @@
+glossary_id: G-TERM-helix-development
+type: term
+display_name: "螺旋发展 / helix / spiral development"
+
+name_en: "helix / spiral development"
+name_zh: "螺旋发展"
+
+description: |
+  Valsiner 模型 — 发展像螺旋上升,不是直线也不是圆周。
+  时间不可逆 + 状态似而非同 + 持续涌现新结构。
+
+one_liner: |
+  螺旋发展(helix / spiral development)— Valsiner 模型 — 发展像螺旋上升,不是直线也不是圆周。
+
+key_facts:
+  - "Lerner V1 元理论卷核心术语"
+  - "学派:Lerner V1 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

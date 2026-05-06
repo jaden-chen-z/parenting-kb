@@ -1,6 +1,6 @@
 card_id: C-S2-002
 stages: [S2]
-tags: []
+tags: [philosophy]
 
 front:
   title: 撑过哭闹峰不是父母失败
@@ -8,12 +8,11 @@ front:
 
 back:
   why_matters: |
-    哭闹峰(2-12 周)是发育曲线不是父母失败,但中文文化的"妈妈天然爱孩子"叙事
-    让很多妈妈陷入自责泥潭。
+    哭闹峰(2-12 周)是发育曲线不是父母失败,但中文文化的"妈妈天然爱孩子"叙事让很多妈妈陷入自责泥潭。
     Karp 把哭闹宝宝的父母称为"英雄"——
     哭闹无法被"消除",但能被有效缓解(5S 法 + 拥抱疗法)。
     重要的是别一边哄一边自责——自责会让你状态更差,
-    照护质量也跟着下降,严重时引发 PPD 或 SBS 风险。
+    照护质量也跟着下降,严重时引发 PPD 或 SBS(摇婴综合征) 风险。
   what_to_do:
     - 反复对自己说:"是他在过峰值,不是我没做好"
     - 哭闹时优先做 5S,接受"不能立刻止哭"的现实
@@ -22,8 +21,22 @@ back:
   failure_mode: |
     "他是不是疼?我是不是糟糕母亲?" — 这种问句会瞬间击垮信心。
     一个人硬撑不求助 → 产后抑郁加重 + 摇晃综合征风险。
-  evidence_level: B
+  evidence_level: C
 
+  positions:
+    issue: 6-8 周事件命名群 — 同一发育跃迁的多个名字
+    views:
+      - school: Karp
+        source: SRC-003
+        stance: 哭闹峰(peak fussing)— 6 周是哭闹达高峰、随后递减的关键节点。
+      - school: Brazelton
+        source: SRC-010
+        stance: 6-8 周触点(touchpoint)— 父母最焦虑、亲子关系重新校准的发育节点。
+      - school: Wonder Weeks
+        stance: WW8 模式跃迁 — 婴儿大脑首次能识别复杂模式,行为外显为不安。
+      - school: Bowlby
+        source: SRC-011
+        stance: 6 周非选择性微笑 — 社会性微笑出现,但尚不区分照顾者。
 glossary_refs:
   - G-PERSON-Karp
   - G-TERM-five-s
@@ -41,7 +54,7 @@ citation:
   year_zh: 2013
   edition: "Revised"
   translator_zh: "陈楠"
-  location: "第一部分 第 1 章《父母的福音》, 约页 4-5"
+  location: "第一部分第 1 章《父母的福音》, 约页 4-5"
   source_id: SRC-003
 
 unit_ids: []

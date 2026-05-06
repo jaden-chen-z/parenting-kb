@@ -1,6 +1,6 @@
 card_id: C-S5-075
 stages: [S5]
-tags: []
+tags: [philosophy]
 
 front:
   title: 12-18 月依恋仍可改
@@ -40,7 +40,7 @@ citation:
   year_en: 1969
   year_zh: 2017
   isbn: "978-7-5192-2927-6"
-  location: "第十八章 依恋模式的稳定和变化(Vaughn et al. 1979:超过三分之一的儿童两次结果不同 / Egeland & Sroufe 1981:祖母外祖母到来产生正面影响 / Schaffer:婴儿之家儿童回家两周内形成依恋)"
+  location: "第十八章依恋模式的稳定和变化(Vaughn et al. 1979:超过三分之一的儿童两次结果不同 / Egeland & Sroufe 1981:祖母外祖母到来产生正面影响 / Schaffer:婴儿之家儿童回家两周内形成依恋)"
   source_id: SRC-011
 
 unit_ids: []

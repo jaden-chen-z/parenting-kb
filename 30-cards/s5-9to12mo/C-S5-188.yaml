@@ -1,0 +1,81 @@
+card_id: C-S5-188
+stages: [S5]
+tags: [montessori, eating, weaning, milestone]
+
+front:
+  title: 9-10 月升级真玻璃杯
+  hook: 5-6 寸高自喂
+
+back:
+  why_matters: |
+    Lillard Ch7 详细描述 — **9-10 月宝宝从 shot 杯升级到 5-6 寸高玻璃杯,自己喝**:
+    渐进时间:
+    - **6-9 月** — shot 杯(直径 4cm),先妈妈拿,后宝宝自拿
+    - **9-10 月** — 升级 5-6 寸高玻璃杯(votive candleholder 大小)
+    - **10-12 月** — 自喝,不洒
+    - **12-14 月** — 牛奶 / 果汁也用玻璃杯(不用 sippy / bottle)
+    用真玻璃的关键好处:
+    - **看得到水线** → 学控制
+    - **打碎是反馈** → 学小心 / 学清理(蒙氏立场:打碎是学习,不是惩罚)
+    - **跟大人喝杯一致** → 自我效能 + 不被对待"特殊"
+    Lillard 立场:**不用 sippy 杯**(伪奶瓶,延长吸吮习惯)+ **9-10 月戒奶瓶**(已哺乳 9 月,够了)。
+    打碎处理:
+    - 平静("玻璃打碎了,我们一起打扫")
+    - 让宝宝看怎么扫
+    - 不夸不骂
+    - 选小杯 + 便宜的(允许打碎)
+    跟"宝宝喝水必须用 sippy 防摔"**对立** — Lillard:打碎可控,真物训练更重要。
+  what_to_do:
+    - 9-10 月升级 5-6 寸玻璃杯
+    - 别用 sippy 杯
+    - 9-10 月戒奶瓶
+    - 选便宜小玻璃(允许打碎)
+    - 打碎 = 一起打扫,不骂
+  failure_mode: |
+    "宝宝小用玻璃杯太危险" — 反:6 月起 shot 杯,9 月升级,妈妈在旁完全可控。
+    sippy 杯延长奶瓶习惯 → 长大改不掉。
+  evidence_level: B
+
+  positions:
+    issue: 戒奶瓶何时进行 · 是否用 sippy 过渡 · 夜奶持续多久
+    views:
+      - school: AAP
+        source: SRC-006
+        stance: 12-18 月戒奶瓶,sippy 杯作过渡;延迟戒会增加奶瓶龋齿与肥胖风险。
+      - school: Lillard(蒙氏)
+        source: SRC-016
+        stance: 9-10 月戒奶瓶,反对 sippy(本质是"伪奶瓶",延长吸吮反射 + 影响牙列)。
+      - school: Brazelton
+        source: SRC-010
+        stance: 反对僵硬时间线,跟孩子节奏决定;依赖型娃可晚戒,主导型娃自然提前。
+      - school: 海蒂
+        source: SRC-040
+        stance: 1 岁戒奶瓶防龋齿;比 AAP 12-18 月略早,比 Lillard 9-10 月略晚,落在主流大众派中道。
+      - school: 中国传统
+        stance: 夜奶持续到 2 岁,白天奶瓶可至 3 岁,不强求时间表。
+glossary_refs:
+  - G-PERSON-Lillard
+  - G-PERSON-Jessen
+  - G-TERM-weaning-table
+
+citation:
+  book_title_zh: "蒙台梭利从 0 岁开始"
+  book_title_en: "Montessori from the Start"
+  authors: ["Paula Polk Lillard", "Lynn Lillard Jessen"]
+  authors_zh: ["宝拉·波尔克·莉拉德", "琳·莉拉德·杰森"]
+  publisher_en: "Schocken Books"
+  year_en: 2003
+  isbn_en: "978-0-8052-1112-1"
+  location: "Ch 7 · Food (water/milk in glass)"
+  source_id: SRC-016
+
+unit_ids: []
+related_cards:
+  - C-S3-195       # Lillard 6 月正餐时给水
+  - C-S5-001       # AAP 戒奶瓶
+  - C-S5-186       # Lillard 蒙氏断奶椅
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

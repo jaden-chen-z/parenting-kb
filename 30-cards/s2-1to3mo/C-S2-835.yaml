@@ -1,0 +1,89 @@
+card_id: C-S2-835
+stages: [S2]
+tags: [pikler, motor-发展, anti-training, source-de, controversy]
+
+front:
+  title: "不教翻身不练翻身"
+  hook: "训练翻身反而拖慢自然"
+
+back:
+  why_matters: |
+    Pikler 1969 Ch2 三不立场之一:不教翻身
+    (Drehung lehrt man nicht)。
+
+    背景:1960s 父母会"帮"宝宝翻身、用玩具引诱侧翻、摆姿势"练习"。Pikler 跟踪发现 — 这些干预反而拖慢自然翻身(平均晚 1-2 周),且翻出来动作生硬(不是自然蓄力翻身)。
+
+    Pikler 7 阶段大动作里程碑表里,翻身是第 1-2 阶段
+    (3-6 月间任意时刻)— 自然到时间会做,无一例外在 720 Lóczy 婴儿统计里。
+
+    这跟中国主流"4 月练翻身 / 抓玩具引诱"完全冲突
+    (conflicts F1)。鲍秀兰早期中医结合派提倡训练,
+    Pikler 立场严反。
+
+  what_to_do:
+    - 不"帮"宝宝翻身 — 不抓手脚翻
+    - 不放玩具引诱侧翻("看!玩具!" 干扰节奏)
+    - 不摆"半侧躺"姿势让他练习
+    - 给地板 + 时间 + 空间,他自己会蓄力翻
+    - 第一次翻身是惊喜不是计划(拍下来记住)
+
+  failure_mode: |
+    "5 月还不会翻是不是发育落后" → Pikler 反:
+    Pikler 数据范围 3-7 月都正常。强行训练会跳过
+    "侧躺蓄力 → 半翻 → 全翻" 过渡阶段,动作不流畅。
+
+  evidence_level: B
+
+  positions:
+    issue: 大动作发展该不该训练 · 学步车 / Bumbo / 撑坐 / 训练表是否有用
+    views:
+      - school: Pikler
+        source: SRC-026
+        stance: 完全反对训练 — 自然顺序 + 安全空间 + 时间 = 大动作全部自动发生;严反一切撑物(学步车 / Bumbo / 跳跳器 / 婴儿座椅)。
+      - school: Magda Gerber / RIE / Lansbury
+        source: SRC-022/019
+        stance: 继承 Pikler 立场 — 里程碑不是赛跑,不撑坐 8 理由,7 类婴儿设备先放下。
+      - school: 蒙氏(Davies/Lillard)
+        source: SRC-014/016
+        stance: 立场一致 — floor bed + 自由动作空间 + 反早期撑坐。
+      - school: AAP
+        source: SRC-002
+        stance: 反学步车(Policy Statement + 数百起伤亡报道);加拿大 2004 立法全球首例禁售。
+      - school: Brazelton
+        source: SRC-010
+        stance: 反学步车,跟 Pikler 立场一致;主张孩子自然探索大动作。
+      - school: 松田道雄
+        source: SRC-024
+        stance: 温和支持自然 — 不催孩子翻 / 坐 / 爬 / 走的时间表,部分跟 Pikler 共鸣。
+      - school: 鲍秀兰
+        source: SRC-009
+        stance: 支持训练 — 婴儿体操 / 抓握训练 / 撑坐;跟 Pikler 派 8 派立场严重对立。
+      - school: 中国主流
+        stance: '"4 月翻 / 6 月坐 / 9 月爬 / 12 月走" 训练表 + 80% 家庭曾用学步车。跟 Pikler 派全面对立。'
+glossary_refs:
+  - G-PERSON-Pikler
+  - G-TERM-bewegungsentwicklung
+  - G-TERM-pikler-milestones
+
+citation:
+  book_title_de: "Friedliche Babys – zufriedene Mütter"
+  book_title_zh: "和平的婴儿 — 满足的母亲"
+  authors:
+    - Emmi Pikler
+  publisher_de: HERDER (HERDER / SPEKTRUM Band 4141)
+  year: 1969
+  location: "Ch2 Die Entwicklung der Bewegung pp. 40-50"
+  source_id: SRC-026
+
+unit_ids: []
+related_cards:
+  - C-S4-349  # Gerber 里程碑不是赛跑
+  - C-S2-290  # Lansbury 不撑坐 8 理由
+  - C-S3-191  # Lillard 大动作发展
+  - C-S4-129  # Wonder Weeks 大动作里程碑(婴儿跃迁视角)
+  - C-S6-822  # 松田硬塞会变创伤(反训练同源)
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

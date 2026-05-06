@@ -1,0 +1,37 @@
+glossary_id: G-TERM-PEER-prompts
+type: term
+display_name: PEER 阅读提示法
+
+en_term: PEER Reading Prompts
+zh_term: PEER 阅读提示法
+
+one_liner: |
+  Prompt(提问)+ Evaluate(评价)+ Expand(扩展)+ Repeat(重复)。对话式阅读核心技术。
+
+detail: |
+  ## 定义
+  Prompt(提问)+ Evaluate(评价)+ Expand(扩展)+ Repeat(重复)。对话式阅读核心技术。
+
+  ## V4 出处
+  Lerner Handbook of Child Psychology Vol 4 (Wiley 2006 第 6 版)反复引用。
+
+  ## 跨派对接
+  V4 综述权威立场,跨章节多次出现,跟现库其他派有立场对照。
+
+  ## 中国家长意义
+  详见相关知识卡。
+
+key_facts:
+  - "Lerner V4 反复引用术语"
+  - "应用心理学综述权威定义"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-029
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

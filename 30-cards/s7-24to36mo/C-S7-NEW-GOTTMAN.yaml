@@ -1,0 +1,76 @@
+card_id: C-S7-NEW-GOTTMAN
+stages: [S7]
+tags: [emotion_coaching, gottman, sel, philosophy]
+
+front:
+  title: Gottman 情绪教练 5 步法
+  hook: 接住情绪再设限,5 步公式
+
+back:
+  why_matters: |
+    前情:John Gottman 是西雅图华盛顿大学情绪研究权威,基于 119 家庭 25 年纵向数据,
+    把"情绪教练"父母 vs"情绪解雇"父母分类,发现前者孩子在 SEL / 学业 / 健康 / 同伴关系全部领先。
+
+    **Gottman 情绪教练 5 步法**:
+    1. **察觉(Aware)**:意识到孩子有情绪 — 哪怕只是低强度的不开心
+    2. **识别为机会(Recognize)**:把情绪当作亲密接触 + 教学时机,不是"赶紧搞定"的麻烦
+    3. **接住共情(Validate)**:倾听 + 用语言反映回去("你看起来很生气,因为..."),不评价不急着解决
+    4. **帮孩子命名(Help Label)**:把模糊感受转成具体词("这叫嫉妒/失望/沮丧/兴奋/担心")— 命名是情绪调节的起点
+    5. **设限度同时一起解决(Set Limits)**:接受感受不等于接受行为 — "你可以生气,但不能打人" + 一起想替代办法
+
+    **跟现有派别对照**:
+    - RIE Lansbury "接受感受 + 限度行为" = Gottman 第 3+5 步(C-S6-403)
+    - CASEL 5 能力(Lerner V4 Kress C-S7-1318)= 自察 / 自管 / 社察等 — Gottman 5 步法是父母版操作指南
+    - Saarni 4 类情绪应对(Lerner V3 C-S7-998)= 转移 / 求助 / 语言 / 体感 — 那是孩子要学的策略,Gottman 教的是"父母怎么教"
+    - 跟 Magda "别说宝宝没事"(C-S2-346) + Lansbury 承认情绪(C-S3-299) 一致
+
+    **2-3 岁起最适合开始**:18-24 月开始有情绪词汇(开心/伤心/生气/害怕),3 岁能用 4-6 个情绪词,
+    4-5 岁能区分自我意识情绪(羞愧/内疚/骄傲/嫉妒)。
+
+    **Gottman 数据**:被情绪教练养大的孩子 — 同伴冲突少 30%,感冒次数少 40%(应激缓冲),
+    数学/阅读分数高 1 个标准差,15 岁前抑郁/焦虑率低 50%。
+
+  what_to_do:
+    - 看到孩子哭 → 第 1 步先察觉,不是先制止
+    - 蹲下来视线平 → "你看起来很伤心"(第 3 步接住)
+    - 给具体词 → "这是失望" / "你嫉妒妹妹了"(第 4 步命名)
+    - 接情绪 + 设行为限度 → "你生气可以,但不能打"(第 5 步设限)
+    - 一起想替代办法 → "想砸东西时可以拍枕头"(第 5 步解决)
+    - 反例:"别哭有什么好哭" / "再哭就打" / "男子汉不哭" / 急着转移注意力 → 都是"情绪解雇"
+
+  failure_mode: |
+    "你越接他他越哭得凶吧" — Gottman 数据反驳:情绪教练短期看似哭多,长期情绪自调能力更好。
+    把"接住"跟"溺爱"混淆 — 接受感受不等于接受行为,设限度仍重要。
+    跳过命名直接给解决方案("没事吃个零食就好了")— 跳了命名 = 孩子学不会自我调节。
+    自己情绪也失控时硬上情绪教练 — 先深呼吸 5 秒,自己稳了再陪孩子。
+
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Gottman
+  - G-TERM-emotion-coaching
+  - G-TERM-self-regulation
+
+citation:
+  book_title_en: "Raising An Emotionally Intelligent Child: The Heart of Parenting"
+  authors: ["John Gottman", "Joan Declaire"]
+  publisher_en: "Simon & Schuster"
+  year_en: 1997
+  location: "整本书 5 步框架 + Ch 3 Five Key Steps of emotion coaching"
+  source_id: SRC-FUTURE-GOTTMAN
+  citation_followup_needed: '本卡是 gap 补卡,Gottman 1997 完整书未在 KB 来源列表;后续 Phase 加 SRC-XXX 时回补 source yaml'
+
+unit_ids: []
+related_cards:
+  - C-S2-346    # Magda 别说宝宝没事
+  - C-S3-299    # Lansbury 承认情绪
+  - C-S6-403    # Lansbury 限度+情绪
+  - C-S6-614    # Magda 教说话替打咬(原 C-S6-614 已 merged_into 614)
+  - C-S7-998    # Saarni 4 类情绪应对
+  - C-S7-1318   # V4 Kress CASEL 5 能力
+  - C-S6-NEW-NO-SPANK  # 反 spank 配套
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

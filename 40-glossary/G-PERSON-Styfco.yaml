@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Styfco
+type: person
+display_name: "Styfco(萨利·斯泰夫科)"
+
+full_name_en: "Sally J. Styfco"
+full_name_zh: "萨利·斯泰夫科"
+
+position: |
+  Yale University
+
+contribution: |
+  Head Start 政策研究(与 Zigler)
+
+one_liner: |
+  萨利·斯泰夫科 — Head Start 政策研究(与 Zigler)
+
+key_facts:
+  - "本卷章节:Ch 18(引用)"
+  - "Lerner V4 命中:34 次"
+  - "学派:Lerner V4 应用心理学派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-029
+    chapter: "Ch 18(引用)"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

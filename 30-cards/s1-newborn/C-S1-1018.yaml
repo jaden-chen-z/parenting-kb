@@ -1,0 +1,75 @@
+card_id: C-S1-1018
+stages: [S1]
+tags: []
+
+front:
+  title: "BFHI 关键管理 4 步"
+  hook: "10 步前 4 步是基础"
+
+back:
+  why_matters: |
+    BFHI(爱婴医院)10 步骤的前 4 步是"关键管理步骤":
+
+    **第 1a 步**:完全遵守 WHO 国际母乳代用品销售守则(产院不做奶粉营销 — 不送试用装 + 不收奶粉公司礼物)
+    **第 1b 步**:有一份书面的婴儿喂养政策(公开张贴 + 员工和家长都看得见)
+    **第 1c 步**:建立持续监测和数据管理系统(看哪些妈妈坚持纯母乳)
+    **第 2 步**:确保员工有足够的知识、能力和技能(员工训练 — 母乳支持是必修)
+
+    中国爱婴医院"纸面 BFHI"常见问题:
+    - 第 1a 步形同虚设(产房入口堆奶粉广告)
+    - 第 1b 步没书面政策
+    - 第 1c 步不做监测
+    - 第 2 步员工不会教衔乳
+  what_to_do:
+    - 选医院时问:"能看一下你们的书面喂养政策吗?"(查第 1b 步)
+    - 看产房入口有没有奶粉广告(有 = 违反第 1a 步)
+    - 问医生 / 助产士有没有受过母乳支持训练(查第 2 步)
+    - 问医院的纯母乳率监测数据(查第 1c 步)
+    - 前 4 步系统性差 → 后面 6 步实操也很难做到位
+  failure_mode: |
+    看到 BFHI 牌子但产房入口堆奶粉广告 → 第 1a 步直接违反,纸面认证。
+    10 步前 4 步是地基,后 6 步是临床。
+  evidence_level: A
+
+  positions:
+    issue: 0-4 周新生儿能否用奶嘴 — BFHI 严 vs Karp/AAP 宽
+    views:
+      - school: BFHI / WHO
+        source: SRC-031
+        stance: 0-4 周尽量避免奶嘴 — 防 nipple confusion;若需安抚用杯 / 勺 / 注射器替代。
+      - school: Karp
+        source: SRC-005
+        stance: 母乳建立后 3-4 周可用奶嘴 — 防 SIDS 视角占优,母乳建立期过后即可。
+      - school: AAP
+        source: SRC-006
+        stance: 3-4 周后可用 — 跟 Karp 立场一致,以 SIDS 防护因子为主要考量。
+      - school: 折中
+        stance: 0-4 周尽量避免(WHO);需要安抚优先用杯 / 勺;4 周母乳稳定后可考虑奶嘴(Karp/AAP)。
+glossary_refs:
+  - G-TERM-BFHI-10-steps
+  - G-ABBR-BFHI
+  - G-TERM-WHO-Code
+
+citation:
+  page_title: "BFHI Step 1a/1b/1c/2 (Critical Management Procedures)"
+  publisher: "World Health Organization & UNICEF"
+  page_url_primary: https://www.who.int/teams/nutrition-and-food-safety/food-and-nutrition-actions-in-health-systems/ten-steps-to-successful-breastfeeding
+  accessed: 2026-05-04
+  language: en
+  location: "BFHI 10 步前 4 步关键管理 + 中国'纸面 BFHI'诊断"
+  source_id: SRC-031
+
+unit_ids: []
+related_cards:
+  - C-S1-1002
+  - C-S0-1025
+  - C-S1-1009
+  - C-S1-022
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_doc_id_pending: D2
+citation_followup_needed: '已映射真实 doc_id (D2 = BFHI Ten Steps 2018)'

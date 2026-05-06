@@ -1,0 +1,48 @@
+card_id: C-S6-671
+stages: [S6]
+tags: [discipline, anti-physical-punishment, fear]
+
+front:
+  title: 1 岁后看体罚会怕
+  hook: 当面打骂吓出长期阴影
+
+back:
+  why_matters: |
+    松田说:1.5-2 岁孩子,看到被体罚或医院里被强按打点滴的情形,会怕得抱紧别人或揪住母亲。
+    这年龄已能看懂/记住"暴力" — 不是没记忆。
+    家长打骂当娃"没记忆所以无所谓"是错的。
+    长期阴影不是当下哭,是后续怕陌生人/怕医生/怕大声。
+  what_to_do:
+    - 1.5 岁起绝不在娃面前打骂
+    - 别用"看医生打针"吓娃
+    - 别强按娃打点滴(有方法商量)
+    - 邻居家暴力场面立刻带娃离开
+    - 看完医院抱娃说"妈在这里"
+  failure_mode: |
+    妈"娃这么小不懂" → 当面拍打老大/大人吵架 → 娃怕陌生人怕医院终生。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Matsuda
+
+citation:
+  book_title_zh: "定本《育儿百科》"
+  book_title_jp: "育児の百科(定本)"
+  authors: ["松田道雄"]
+  translators_zh: ["王少丽"]
+  publisher_zh: null
+  year: 1980
+  edition: "定本"
+  location: "第 360 节从 1 岁半到 2 岁"
+  source_id: SRC-023
+
+unit_ids: []
+related_cards:
+  - C-S6-407  # Lansbury 看医生剪头提前预告
+  - C-S5-070  # Bowlby V1 12 月安全依恋
+  - C-S6-023  # Brazelton 18 月咬人是失控不是恶意
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

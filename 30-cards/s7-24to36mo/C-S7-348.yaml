@@ -1,0 +1,61 @@
+card_id: C-S7-348
+stages: [S7]
+tags: [emotion, mindset, RIE, lansbury]
+
+front:
+  title: "你为什么吼?4 个真原因"
+  hook: "吼不是火气是缺工具"
+
+back:
+  why_matters: |
+    Lansbury Ch28 是博客圈最有名一篇 — 给"温柔派"父母的诊断。
+    很多家长决心不打不罚 → 没工具 → 累积爆发吼。
+    Lansbury 列 4 个根因:
+    1. 你不照顾自己(累 / 没边界 / 满足孩子所有要求)
+    2. 头一年靠"分散" / "哄骗",没诚实设限
+    3. 觉得"孩子的情绪我必须负责"
+    4. 没把孩子当 capable,只当 helpless
+    诊断对了,就能从根源修。
+
+  what_to_do:
+    - 自查:你照顾自己了吗(吃饭 / 睡 / 自己时间)
+    - 头一年起就"我去厕所 5 分钟" — 不偷溜
+    - 孩子情绪你不必"修复",只接住
+    - 把孩子当 capable + dependent,不 helpless
+    - 4 个根因都想 → 找最对应的下手
+
+  failure_mode: |
+    "我就是脾气暴" → 错。
+    Lansbury:吼是工具缺失症状,不是性格。
+    上 4 项一个个修,吼自然减少。
+    或反向:"全自查到自责" → 转成行动,不停在自责。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Lansbury
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+
+citation:
+  book_title_en: "Elevating Child Care: A Guide to Respectful Parenting"
+  book_title_zh: "尊重孩子:RIE 育儿之道"
+  authors:
+    - Janet Lansbury
+  publisher_en: JLML Press
+  year: 2014
+  location: "Ch28 I Think I Know Why You're Yelling"
+  source_id: SRC-019
+
+unit_ids: []
+related_cards:
+  - C-S6-396  # Lansbury CEO 语调
+  - C-S6-397  # Lansbury 我不让你
+  - C-S6-138  # Davies 蒙氏父母先照顾自己
+  - C-S7-034  # Bowlby V2 必须分离时怎么少伤害
+  - C-S7-135  # Lillard 婚姻在孩子之前(自我照顾源)
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

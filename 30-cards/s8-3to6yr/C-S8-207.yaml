@@ -1,0 +1,86 @@
+card_id: C-S8-207
+stages: [S8]
+tags: [shonkoff, nrc, perry_preschool, rct, intervention]
+
+front:
+  title: "Perry 学前班长效"
+  hook: "1962 实验影响一生"
+
+back:
+  why_matters: |
+    NRC 综述 Ch 13 引 **Perry Preschool RCT** 经典 — 早期干预最强证据:
+    **实验设计**(Schweinhart 等多次跟踪):
+    - 1962-1965 美国密歇根 Ypsilanti
+    - 123 个低收入非裔 3-4 岁孩子
+    - 随机分组:
+      - **治疗组**:每天上 2.5 小时高质量 preschool + 家访(2 年)
+      - **对照组**:无干预
+    - 跟踪到 27 岁 / 40 岁 / 50 岁
+    **关键数据**(NRC 综述):
+    - **短期 IQ gain** ≈ 0.5-1.0 SD,但 6-12 岁渐渐 fade out
+    - **持久不消的**:
+      - 高中毕业率 + 65% vs + 45%
+      - 40 岁年薪显著高
+      - 犯罪率显著低(40 岁 7% vs 35% 重罪)
+      - 17 岁少女怀孕率减半
+      - 受社会救济率 50% 降
+    **NRC 关键洞察**:
+    - 早期干预的 long-term 效益 **不是 IQ** — 是**软技能**
+    - 自我调节 + 执行功能 + 社交 + 学习态度 — 这些持久
+    - **每 1 美元投入 → 7-12 美元社会回报**(经济学家 Heckman 后期分析)
+    - 这数据后来推动 Heckman 经济学曲线("0-3 投资 ROI 最高")
+    **对中国家长**:
+    - 早教不是"提前学" — 是"打软技能基础"
+    - 高质量 preschool 持久效益不在 IQ 在性格 / 自调
+    - 中国"早学英语 / 拼音"做的不是 Perry 模式
+    - 真正 Perry 式投入 = 玩 + 自由 + 关系 + 自调训练
+  what_to_do:
+    - 选玩耍型 preschool 不学业型
+    - 重软技能不重 IQ
+    - 长期效益看性格不分数
+    - 别报"幼小衔接"
+    - 信玩耍是真早教
+  failure_mode: |
+    "Perry 数据 → 早教很重要 → 早学拼音" — 错,Perry 内容是玩 + 自由不是学。
+    "短期看 IQ 涨了挺好 — 投资够了" — 错,IQ 会 fade out — 关键是软技能。
+    "中国早教热做的不是 Perry 式" — 大对,中国早教多是学业型 — 真 Perry 式很少。
+  evidence_level: A
+
+  positions:
+    issue: 0-3 岁需要系统化早期干预还是只需"陪 + 不打扰"
+    views:
+      - school: Shonkoff / NRC
+        source: SRC-025
+        stance: 系统化早期干预(Perry / Abecedarian RCT)— 主要针对高风险家庭(贫困 / 抑郁 / 单亲)。
+      - school: Lansbury / Gerber RIE
+        source: SRC-019/022
+        stance: 不打扰 + 自由探索 + Quality time 短就够;反对系统化干预介入正常家庭。
+      - school: Lillard(蒙氏)
+        source: SRC-016
+        stance: 介于二者之间 — 有 prepared environment(结构),但 follow the child(不强加)。
+      - school: 适用建议
+        stance: 普通家庭偏 RIE(高质量陪伴);高风险家庭(贫困 / 妈妈抑郁)需 NRC 推荐的系统干预。
+glossary_refs:
+  - G-PERSON-Shonkoff
+  - G-TERM-NRC
+  - G-TERM-perry-preschool
+
+citation:
+  book_title_en: "From Neurons to Neighborhoods"
+  authors: ["Jack P. Shonkoff", "Deborah A. Phillips"]
+  org: "NRC/IOM"
+  year_en: 2000
+  location: "Ch 13 · Perry Preschool 30-year follow-up"
+  source_id: SRC-025
+
+unit_ids: []
+related_cards:
+  - C-S7-866    # Shonkoff 反早期学业(本卷)
+  - C-S0-619    # Shonkoff 反早教 4 定理(本卷)
+  - C-S0-622    # Shonkoff NRC 6 原则(本卷)
+  - C-S8-103    # 松田 §470 不必教认字 SRC-024
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

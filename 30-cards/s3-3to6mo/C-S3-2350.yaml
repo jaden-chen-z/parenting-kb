@@ -1,0 +1,48 @@
+card_id: C-S3-2350
+stages: [S3]
+tags: [safety]
+
+front:
+  title: 反流(GER)4-7 月达峰自愈
+  hook: 拍嗝直立 + 少食多次
+
+back:
+  why_matters: |
+    胃食管反流(GER)= 胃内容物逆流到食管,**1/3 婴儿出现**,因下食管括约肌未发育成熟。
+    海蒂时间表:**2-4 周起,4 月达峰,7 月学站立 + 加固食后改善**。
+    轻度反流不需治疗,自愈率高。**严重 GER**(影响生长 / 极痛苦)需药物或手术。
+    家长意义:**别和"急症呕吐"混淆** — GER 是常态,只在影响生长/睡眠时干预。
+  what_to_do:
+    - 少量多次喂(母乳 / 配方奶)
+    - 喂时和喂后 1-2 小时保持直立位
+    - 喂后给奶嘴(吸吮自然降反流)
+    - 母乳妈妈减咖啡因(诱发反流)
+    - 严重(影响生长 / 极痛苦)→ 通知医生评药物
+  failure_mode: |
+    把所有吐奶都当 GER 焦虑 → 误把正常 spit-up 当病。
+    GER 宝宝喂完玩翻身游戏 → 大量呕吐。
+    喷射呕 + 体重不增却以为只是反流 → 错过幽门狭窄(C-S1-054)。
+    自买质子泵抑制剂(PPI)长期吃 → 影响骨骼 + 感染风险。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-AAP
+
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1 岁"
+  authors: [Heidi Murkoff, Sharon Mazel]
+  publisher_en: Workman Publishing
+  publisher_zh: 南海出版公司(新经典发行)
+  year: 1989
+  edition: 3rd (2014)
+  location: "第 18 章《宝宝生病》'胃食管反流症 GER / 处理 + 预防',553-555 页中译"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards: [C-S1-054]
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

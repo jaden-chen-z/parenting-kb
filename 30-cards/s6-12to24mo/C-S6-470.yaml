@@ -1,0 +1,58 @@
+card_id: C-S6-470
+stages: [S6]
+tags: [special-needs, demanding-baby]
+
+front:
+  title: "高需求宝宝转化法"
+  hook: "高需求是养出来的"
+
+back:
+  why_matters: |
+    Magda Ch2 经典案例 Beverly:
+    6 月女婴一直被妈妈竖抱,放下就哭。
+    妈妈认为是"高需求宝宝"。
+    Magda + Pikler 法:平躺地上铺玩具围 → 几天后会自己翻 / 抓 / 探索。
+    "高需求"经常是**学到的**(被高需求养出来),不是天生。
+    不是责怪父母,是给一条转化路径 — 慢慢让他学自主。
+    跟蒙氏 / 行为派"特殊需求宝宝"标签化对照。
+
+  what_to_do:
+    - 不立刻信"我家宝特别黏 / 特别难"标签
+    - 试 7-14 天平躺地上玩(围栏内)
+    - 哭也接受,先观察 5-10 秒再回应
+    - 慢慢让他练自我调节 + 自玩
+    - 真有医疗 / 神经异常找儿科,不是 Magda 替代
+
+  failure_mode: |
+    "他就这样,我没办法 / 这是高需求宝宝" → 标签把可塑性给关了。
+    Magda 原话:"高需求经常是学到的,不是命定的"。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Gerber
+  - G-PERSON-Pikler
+  - G-TERM-RIE
+  - G-TERM-Loczy-institute
+
+citation:
+  book_title_en: "Your Self-Confident Baby"
+  book_title_zh: "自信的宝宝"
+  authors:
+    - Magda Gerber
+    - Allison Johnson
+  publisher_en: John Wiley & Sons
+  year: 1998
+  location: "Ch2 §DIP: Beverly 案例(p17-19) + Ch5 高需求段"
+  source_id: SRC-022
+
+unit_ids: []
+related_cards:
+  - C-S1-411  # Magda 7 设备(本卷)
+  - C-S4-350  # Magda 选择性介入(本卷)
+  - C-S5-393  # Lansbury 分离焦虑
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

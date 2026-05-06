@@ -1,0 +1,65 @@
+card_id: C-S6-935
+stages: [S6]
+tags: [shonkoff, nrc, cultural_emotion, china_specific]
+
+front:
+  title: "中国娃多内疚"
+  hook: "文化塑造孩子情绪"
+
+back:
+  why_matters: |
+    NRC 综述 Ch 5 引 Miller 1990/1996 跨文化研究 — **中国** vs 欧美儿童情绪社会化:
+    **关键发现**:
+    - 中国 / 中美裔妈妈在跟其他妈妈说自己孩子时
+    - 倾向**强调 moralistic shame** 主题(羞耻 / 内疚)
+    - 欧美妈妈倾向**正向叙事**(可爱 / 进步)
+    - 这种差异 → 中国娃 2-3 岁起发展 **shame + guilt** 比例更高
+    **NRC 立场**(中立):
+    - **不判**这种社会化"对 vs 错"
+    - 是文化建构的情绪发展轨迹差异
+    - 适度 shame/guilt = 道德发展基础
+    - 过度 shame/guilt = 焦虑 / 抑郁风险
+    **跟 Stern 4 senses self + Erikson 自主 vs 羞耻一致**:
+    - 1-3 岁是 shame/autonomy 平衡关键期
+    - 太多 shame → autonomy 受抑 → 后期 self-efficacy 弱
+    - 适度 shame + 强 autonomy → 平衡发展
+    **对中国家长**:
+    - 中国传统 "丢不丢人" 立场:**适度时支持**,**过度时谨慎**
+    - 别在他人面前**羞辱**孩子("你看你 — 这么不像样")
+    - 别用 shame 替代教育("丢死人了 / 谁不要你了")
+    - shame 对 1-3 岁过强 → 发展焦虑型 self
+    - 跟松田 §330-331 反吓唬一致
+  what_to_do:
+    - 别公开羞辱孩子
+    - 别用"丢死人"羞辱
+    - shame + autonomy 平衡
+    - 私下纠正不公开
+    - 别用"谁不要你了"
+  failure_mode: |
+    "你这样别人怎么看 — 丢不丢人" — 1-3 岁 shame 过强发展焦虑 self。
+    "再这样不要你了 — 别人都笑你" — 同时 shame + 不安全依恋双伤害。
+    "他听话因为他怕" — 错,健康发展应是"理解 + 内化"而非"恐惧 + 顺从"。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Shonkoff
+  - G-TERM-NRC
+
+citation:
+  book_title_en: "From Neurons to Neighborhoods"
+  authors: ["Jack P. Shonkoff", "Deborah A. Phillips"]
+  org: "NRC/IOM"
+  year_en: 2000
+  location: "Ch 5 · Miller cross-cultural shame socialization"
+  source_id: SRC-025
+
+unit_ids: []
+related_cards:
+  - C-S6-818    # 松田 §331 不要吓唬 SRC-024
+  - C-S6-816    # 松田 §329 撒娇 SRC-024
+  - C-S5-291    # Stern attunement SRC-018
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

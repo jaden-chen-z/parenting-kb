@@ -1,0 +1,53 @@
+card_id: C-S0-2065
+stages: [S0]
+tags: []
+
+front:
+  title: 纸尿裤 vs 棉布尿布:没赢家
+  hook: 看你最在意什么
+
+back:
+  why_matters: |
+    一次性纸尿裤 vs 棉布尿布的"环保 vs 便利"争议 — 海蒂的判断:都没绝对赢家,只看你最在意什么。
+    纸尿裤优势:换得快、夜间睡得长、不漏尿。劣势:太干 → 父母不勤换 → 反而起尿布疹;让宝宝感觉舒服 → 学如厕更晚。
+    棉布尿布优势:可重用、宝宝感不适会激励训便。劣势:必须配防水裤 → 不透气反而易尿布疹;频换更累;洗护耗水电。
+    海蒂主流策略:头几月在家用棉布,外出/夜间用纸尿裤;不强求一种。
+    中国家长容易陷入"环保焦虑"或"省钱焦虑",其实日常便利更重要。
+  what_to_do:
+    - 不必选一种 → 在家棉布 + 外出纸尿裤
+    - 纸尿裤要勤换:不靠"湿了才换"判断
+    - 用棉布 → 必备透气防水裤,夜间双层
+    - 起尿布疹换品牌 / 换种类即可
+    - 别陷入"哪种更环保"的辩论,行动更重要
+  failure_mode: |
+    纸尿裤太干懒得换 → 宝宝长时间湿在里面 → 严重尿布疹。
+    全棉布坚持 → 累垮 + 妈妈睡不好(夜间频醒换)。
+    买高价"有机"棉布 → 没证据更环保 + 经济压力。
+  evidence_level: B
+
+glossary_refs: []
+
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors:
+    - Heidi Murkoff
+    - Sharon Mazel
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh:
+    - 莫夏迪
+    - 张敏
+  location: "第 1 章临产前的准备 · 使用哪种尿布"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards: []
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

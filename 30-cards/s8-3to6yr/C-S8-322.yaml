@@ -1,0 +1,48 @@
+card_id: C-S8-322
+stages: [S8]
+tags: [saarni, emotion_display_rules, social_pretense, lerner_v3]
+
+front:
+  title: "5 岁能假装情绪"
+  hook: "知道何时要藏情绪"
+
+back:
+  why_matters: |
+    Saarni(Ch 5)综述 — 4-5 岁起孩子能"假装"情绪 — 收到不喜欢礼物也能笑谢。
+    这不是虚伪,是社会规则学习。Saarni 实证 — 这阶段孩子知道"真情绪"vs"该表达情绪"分开。
+    一句话 — 5 岁假装情绪是社会能力进步,不是变滑头。
+  what_to_do:
+    - "他笑谢不喜欢礼物别揭穿"
+    - "私下问真感受让他诚实"
+    - "教真情绪 vs 礼貌表达区分"
+    - "夸他懂礼貌也尊重真感受"
+    - "你自己也别假笑给娃看"
+  failure_mode: |
+    5 岁假笑被夸"懂事",于是孩子学到"真情绪不能表达"。
+    Saarni — 公开场合礼貌+ 私下诚实双轨才健康,只学公开就压抑。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Saarni
+  - G-TERM-display-rules
+  - G-TERM-emotional-pretense
+
+related_cards:
+  - C-S8-105      # 松田反性别刻板
+  - C-S8-100      # 松田反体罚
+  - C-S8-103      # 松田反虎妈
+  - C-S8-320      # Lerner self 5 维
+
+citation:
+  source_id: SRC-027
+  source_title: "Handbook of Child Psychology Vol 3"
+  chapter: "Ch 5 Saarni — Display Rules"
+  chapter_offset: 1322297
+  chapter_title: 'Saarni Campos Camras Witherington — 情绪发展'
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_followup_needed: 'SRC-027 用 PDF 字节偏移代页码 — 待加 page_pdf 反查工具'

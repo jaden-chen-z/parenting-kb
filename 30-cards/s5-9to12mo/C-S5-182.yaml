@@ -1,0 +1,65 @@
+card_id: C-S5-182
+stages: [S5]
+tags: [cognitive_science, language, fast_mapping]
+
+front:
+  title: 1 岁听一次新词就记住
+  hook: fast mapping
+
+back:
+  why_matters: |
+    Fast mapping(快速映射)= 1 岁宝宝**听一次新词**就把它和某个东西/动作配对。
+    Gopnik 经典实验:
+    - 给 1 岁宝宝看一个新物体(比如苹果削皮器)
+    - 实验员说"看,一个 dax!"(指着说一遍)
+    - 几周后再来,宝宝**还能正确指出 dax**
+    Gopnik 解读:婴儿不是被动联想,是**主动假设**。
+    "听一次,假设这个名 = 这个东西",存进永久词库。
+    18 月起出现"命名爆发"("what's that?"频率激增)。
+    机制:配合 social cue(看大人在看哪)缩小假设范围。
+    经典实验:
+    - 宝宝看物体 A,妈妈看物体 B,妈妈说"看,一个 dax!"
+    - 宝宝把 dax 配给 B(妈妈在看的),不是 A(自己在看的)
+    - **18 月就懂"她在说她看的那个"**
+    对中国家长意义:
+    - 1 岁起命名一切(指 + 说出名字)
+    - "你看,小猫 / 桌子 / 水果" — 一次就记(注:具体"几周后还记得"在不同实验差异较大,核心 fast mapping 现象本身有 Carey & Bartlett 1978 起多次复制)
+    - 不要重复 100 遍才"教会" — 第一次就在记
+    - 双语家庭一岁起词汇爆发期同样适用
+  what_to_do:
+    - 每天大量命名(指 + 说,真物 + 真名)
+    - 双语家庭让两种语言同时来
+    - 不必焦虑"他说错了"— 实验显示先命名后细化
+    - 命名爆发期(what's that 阶段)无限响应
+  failure_mode: |
+    "等他多大点再开始教词" — 错。1 岁就 fast mapping。
+    重复命名 100 遍才让他学 — 错。第一次就记。
+    1-2 岁不教词 / 没人对话 — 错过命名爆发窗。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Gopnik
+  - G-PERSON-Kuhl
+  - G-TERM-statistical-learning
+  - G-TERM-baby-scientist
+  - G-TERM-theory-of-mind
+
+citation:
+  book_title_en: "The Scientist in the Crib"
+  book_title_zh: "摇篮里的科学家"
+  authors: ["Alison Gopnik", "Andrew N. Meltzoff", "Patricia K. Kuhl"]
+  publisher_en: William Morrow
+  year: 1999
+  location: "Chapter 4 · Making Meanings (fast mapping experiments)"
+  source_id: SRC-015
+
+unit_ids: []
+related_cards:
+  - C-S4-184       # 知觉重组 6-12 月
+  - C-S4-185       # joint attention
+  - C-S6-180       # 18 月用 social cue 学词(将建)
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

@@ -1,0 +1,78 @@
+glossary_id: G-PERSON-Goldin-Meadow
+type: person
+display_name: Goldin-Meadow
+
+full_name_en: Susan Goldin-Meadow
+full_name_zh: 苏珊·戈尔丁-梅多
+
+one_liner: |
+  美国心理 + 语言学家(芝加哥大学教授),手势研究权威。
+  立场:**手势是思维的窗口**,手势先于词预测半年后学习。
+
+detail: |
+  ## 个人背景
+  - 宾夕法尼亚大学博士
+  - 芝加哥大学心理学教授(Beardsley 命名教授)
+  - 美国国家科学院院士
+
+  ## 核心研究
+  ### 1. 14 月手势预测 24 月词汇
+  - 跟踪研究证明手势量预测词汇量
+  - 手势先 6 个月透露概念已到位
+  - "手在嘴前透剧情"
+
+  ### 2. 失聪儿童的"自创手语"(home sign)
+  - 失聪儿童自动创"私人手语"系统
+  - 即使父母不会手语
+  - 证明语言冲动是天生
+
+  ### 3. 手势在学习中的作用
+  - 数学课堂:学生解题手势先于口语正确
+  - 手势 + 言语训练 > 单一言语训练
+  - 教学应用价值
+
+  ## 立场
+  - 手势是思维的连续 — 不是替代
+  - 跟 Bates 手势-语言连续派
+  - 跟 Pinker 强先天语言派部分一致(home sign 证据)
+
+  ## 中国家长意义
+  - 看孩子手势就知道下半年说什么
+  - 手势多 = 词汇基础好(不焦虑)
+  - 教时同步用手势(双轨)
+  - 数学几何概念用手势辅助
+
+  ## 在本知识库中
+  - SRC-028 Lerner V2 Ch8 主笔(148 hits)
+  - C-S5-1142 Bates 手势-语言连续
+  - C-S6-1170 Goldin-Meadow 手势预测学习
+
+  ## 学术影响
+  - 手势研究领域奠基
+  - 著作《The Resilience of Language》(2003)
+  - APA William James Award 等
+
+key_facts:
+  - 芝加哥大学心理学教授
+  - 手势是思维窗口立场
+  - 14 月手势预测 24 月词汇
+  - home sign 自创手语研究
+  - 美国国家科学院院士
+
+related_glossary:
+  - G-PERSON-Tomasello
+  - G-TERM-language-explosion
+  - G-TERM-fast-mapping
+
+related_cards:
+  - C-S5-1142
+  - C-S6-1170
+
+sources:
+  - source_id: SRC-028
+  - external: Goldin-Meadow 2003 / Wikipedia Susan Goldin-Meadow
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

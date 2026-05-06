@@ -1,0 +1,36 @@
+card_id: C-S3-2252
+stages: [S3]
+tags: [safety, gear, feeding]
+front:
+  title: 餐椅 7 安全要点,后倾必飞
+  hook: 离开 1 秒就栽下来
+back:
+  why_matters: |
+    娃能独坐就该上餐椅(约 5-6 月),但餐椅是家中骨折/头外伤的高发场地。
+    海蒂列出 7 条铁律:腹股沟带必扣防娃下滑、托盘单独锁、椅子不靠墙避免娃蹬墙翻车、不让大孩攀爬、不放在炉灶旁、餐椅就餐结束立即抱出、永远不离开视线。最危险的是娃发现"用脚一蹬就能飞"。
+  what_to_do:
+    - 腹股沟+腰部 5 点带必扣
+    - 餐椅离墙离炉至少 50cm
+    - 大孩不许攀爬或推餐椅
+    - 吃完立即抱出别留椅上
+    - 全程不离开视线 1 秒
+  failure_mode: 只系腰带没系腹股沟带,娃一推托盘整个人下滑,头部卡在托盘下方窒息或滑落摔头。
+  evidence_level: B
+glossary_refs: [G-ABBR-CPSC, G-ABBR-AAP]
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors: ["Heidi Murkoff", "Sharon Mazel"]
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh: ["莫夏迪","张敏"]
+  location: "第 9 章 《第 5 个月》, 页 330-331"
+  source_id: "SRC-040"
+related_cards: [C-S3-2253, C-S3-2254]
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

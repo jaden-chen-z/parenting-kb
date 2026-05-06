@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Martin
+type: person
+display_name: "Martin(卡罗尔·琳·马丁)"
+
+full_name_en: "Carol Lynn Martin"
+full_name_zh: "卡罗尔·琳·马丁"
+
+position: |
+  Arizona State University 心理学教授
+
+contribution: |
+  性别图式理论 + 性别社会化;Ruble 合作者
+
+one_liner: |
+  卡罗尔·琳·马丁 — 性别图式理论 + 性别社会化;Ruble 合作者
+
+key_facts:
+  - "本卷章节:Ch 14"
+  - "Lerner V3 命中:271 次"
+  - "学派:Lerner V3 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-027
+    chapter: "Ch 14"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

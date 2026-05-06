@@ -1,0 +1,71 @@
+card_id: C-S1-255
+stages: [S1]
+tags: [self, china_high_freq]
+
+front:
+  title: 出生即跨感官辨认
+  hook: 看摸听出生即连通
+
+back:
+  why_matters: |
+    Stern 引用 Meltzoff & Borton 1979 经典实验 — 证明新生儿"出生即跨感官辨认"的能力,**反传统 Piaget"先经验后连接"理论**。
+    **实验**:
+    - 给 3 周大新生儿戴眼罩
+    - 让他吸某种特殊形状的奶嘴(球形 vs 带凸起)
+    - 然后取下奶嘴 + 摘眼罩 + 同时摆出"球形"和"带凸起"两个奶嘴让宝宝看
+    **结果**:**宝宝几乎立刻看向"刚才吮的那个"**(没有学过,没有经验)
+    **Stern 解释**:婴儿天生有 无形式知觉(无形式觉察)— 把一种感官的信息直接转换成另一种,不需要后天学习。
+    类似实证:
+    - 出生 3 周:能匹配光强度 ↔ 声音强度(Lewcowicz & Turkewitz 1980)
+    - 出生 6 周:更长时间看"嘴在说话"的脸(对应说话的声音)
+    - 出生 4 月:能区分"嘴说 da 但播放 ba"的不一致(McGurk 效应)
+    **对家长的核心信息 — 反"宝宝小听不见看不清"**:
+    - 出生即:能闻出妈妈的母乳(MacFarlane 1975)
+    - 出生即:偏好人声 / 偏好对称 / 偏好面孔
+    - 出生 3 周:跨感官搭桥
+    - 出生 6 周:认人脸
+    - 这些都是用宝宝**已掌握的反应(吮 / 转头 / 看)**测出的硬数据
+    **后果**:
+    - 别以为"小宝宝只能感受触觉" — 视觉听觉嗅觉早就连通
+    - 宝宝能感受到你的脸、你的声音、你的气味是同一个人 — 不需"逐步学会"
+    - 这是 Stern 反 Mahler"未区分"理论的关键证据跟 Lillard"出生前已认识妈妈"(C-S2-188)同立场。
+  what_to_do:
+    - 别以为新生儿只能感觉 1 种感官
+    - 出生即给多感官同时输入
+    - 抱时让宝宝同时看脸 + 听声音
+    - 不必"先训练听后训练看"
+    - 信任宝宝"立刻就懂"
+  failure_mode: |
+    "宝宝小别给太多刺激" — 一半对(强烈刺激不要),但也别低估宝宝的整合能力。多种温和输入 OK。
+    "等宝宝大点再开始读书" — 出生即可以读,声音 + 你的脸 + 拥抱是完整体验。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Stern
+  - G-PERSON-Meltzoff
+  - G-TERM-amodal-perception
+
+citation:
+  book_title_zh: "婴儿的人际世界"
+  book_title_en: "The Interpersonal World of the Infant"
+  authors: ["Daniel N. Stern"]
+  authors_zh: ["丹尼尔·斯特恩"]
+  publisher_en: "Basic Books"
+  year_en: 1985
+  isbn_en: "978-0-465-09559-9"
+  location: "Ch 3 · Amodal Perception (Meltzoff & Borton 1979 / MacFarlane 1975 etc.)"
+  publisher_zh: "华东师范大学出版社"
+  year_zh: 2017
+  translator_zh: ["刘旭东"]
+  source_id: SRC-018
+
+unit_ids: []
+related_cards:
+  - C-S2-188       # Lillard 出生前已认识妈妈
+  - C-S0-016       # Stern 反新生儿混沌
+  - C-S1-014       # AAP 新生儿感官能力
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

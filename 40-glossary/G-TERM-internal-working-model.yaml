@@ -88,14 +88,20 @@ related_glossary:
 
 related_cards:
   - C-S5-074     # 依恋质量预测 5 岁人格
-  - C-S6-069     # 3 岁后依恋"工作模型"形成
+  - C-S6-069     # 3 岁后依恋"工作模型"形成(主入口)
   - C-S6-070     # 被虐待儿童的混乱型依恋
+  - C-S6-082     # Vol 2 长分离反应 3 阶段
+  - C-S6-086     # Vol 2 在场指心理可触达
+  - C-S6-097     # Vol 2 稳定家庭 5 个特征
+  - C-S6-099     # Vol 2 我是为你好的陷阱
+  - C-S7-040     # Vol 2 怕黑怕雷可能是怕妈走
 
 sources:
   - source_id: SRC-011
+  - source_id: SRC-012
   - external: "Bowlby (1973) Attachment and Loss Vol 2: Separation / Main, Kaplan & Cassidy (1985) AAI / Sroufe (1979)"
 
 language: zh
 status: draft
 created: 2026-05-02
-updated: 2026-05-02
+updated: 2026-05-03

@@ -1,0 +1,76 @@
+card_id: C-S4-1350
+stages: [S4]
+tags: [attachment, powell, infant, lerner_v4]
+
+front:
+  title: 6-9 月分离起步
+  hook: 6-9 月分离起步
+
+back:
+  why_matters: |
+    Powell + Cicchetti V4 Ch 14 + Ch 13(6-9 月分离焦虑)。
+    **6-9 月分离焦虑 = 健康发展**:
+    - 主要照护人离开 → 哭闹
+    - 这是**安全依恋已形成**的表现
+    - 没有分离焦虑反而是问题
+    - 高峰 8-10 月,1.5-2 岁逐步消
+    **Powell 立场**:
+    - 不"训练分离"硬抛
+    - 短分离逐步建信任
+    - "再见"仪式 + "妈会回来"
+    - 主 caregiver 不轻易换
+    **反"哭一会就好"立场**:
+    - 让娃大哭 = 应激反应(cortisol 升)
+    - 长期影响应激轴(HPA)
+    - 短分离 + 安抚是健康
+    - 长分离 + 不安抚是创伤
+    **3 大正确做法**:
+    - **短分离逐步**:5 分钟 → 30 分钟 → 几小时
+    - **再见仪式**:挥手 + "妈出去 / 回来"
+    - **可预测**:同一时间走 / 回
+    - **过渡物**:lovey / 玩偶
+    **实证**(Cicchetti 综述):
+    - 6-9 月稳定主 caregiver = 12 月安全依恋
+    - 频繁换 caregiver = 不安全依恋
+    - 短分离 + 安抚 = 韧性建立跟现库:跟 V3 Bowlby 分离焦虑(C-S5-1037)+ V4 C-S6-1391 依恋干预 + Brazelton(SRC-010)对接。
+    对中国家长意义:
+    - 6-9 月分离焦虑是健康
+    - 短分离 + 再见仪式 + 可预测
+    - 不"硬抛"训练独立
+    - 主 caregiver 不轻易换
+  what_to_do:
+    - 6-9 月分离焦虑健康
+    - 短分离+再见仪式+可预测
+    - '不"硬抛"训独立'
+    - 主 caregiver 稳定
+  failure_mode: |
+    "哭一会就好"— 错。应激轴影响。
+    "硬抛训独立"— 错。创伤。
+    "没分离焦虑娃懂事"— 错。可能依恋问题。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Powell
+  - G-PERSON-Cicchetti
+  - G-TERM-attachment-intervention
+  - G-PERSON-Bowlby
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 4 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 4 卷"
+  authors: ['Douglas R. Powell', 'Dante Cicchetti']
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 14 · Powell · 6-9mo separation anxiety healthy · pp. 560-570"
+  source_id: SRC-029
+
+unit_ids: []
+related_cards:
+  - C-S0-1233     # Powell 5 原则
+  - C-S6-1391     # V4 依恋干预
+  - C-S5-1037     # V3 Thompson 分离焦虑
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

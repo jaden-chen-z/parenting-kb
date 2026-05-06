@@ -1,0 +1,65 @@
+card_id: C-S2-134
+stages: [S2]
+tags: [montessori, oral, exploration, mouth]
+
+front:
+  title: 嘴是宝宝探索器官
+  hook: 0-14 月口含期
+
+back:
+  why_matters: |
+    宝宝把任何东西塞嘴 — 玩具 / 手指 / 钥匙 / 你的下巴。
+    家长本能:**"脏!别吃!"** + 不停拽出来。
+    蒙氏 / 神经科学视角:**这不是坏习惯,是探索器官**。
+    原因:
+    - **嘴的神经发育最早成熟**(0 月起)— 嘴是宝宝最敏感的探索工具
+    - 跟手不同 — 手要 4-9 月才精细
+    - **嘴 + 看 + 摸**是宝宝认识世界的 3 大入口
+    - 物体形状 / 质地 / 温度 / 味道 / 软硬 — 都通过嘴知道
+    Davies 引述 — **0-14 月是"口含敏感期"(oral 阶段)**,正常发育现象。
+    14-16 月后会自然减少 — 因为手部精细动作成熟,接管探索。
+    用奶嘴或瓶子的宝宝 → 口含期可能延长(嘴一直在被堵 / 在用)。
+    **该禁止吗?不**。该:
+    1. 把不安全物拿走(化学品 / 易碎 / 小到能噎)
+    2. 提供**安全可塞嘴**的物(木质 / 天然纤维 / 真碗真勺)
+    3. **不阻止**他塞安全物
+    4. 别说"脏!"— 他不能理解抽象的"脏"
+    5. 跟妈妈或外人解释:"他在学,这是正常发育"
+  what_to_do:
+    - 把不安全物全收起或锁柜
+    - 玩具选 natural 材质(可塞嘴)
+    - 不阻止他塞安全物
+    - 监护下让他用真碗真勺
+    - 不说"脏!"— 14 月后自然减少
+  failure_mode: |
+    "脏!细菌!别吃!" — 切断关键探索期 + 学到"我的好奇心被否定"。
+    "宝宝什么都吃 = 缺什么营养" — 错。是发育阶段,跟营养无关。
+    全屋塑料卡通玩具(图案油漆可能有害)— 不安全。蒙氏选天然材质。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Davies
+  - G-PERSON-Montessori
+  - G-TERM-prepared-environment
+
+citation:
+  book_title_zh: "蒙特梭利的小宝宝(0-1岁)"
+  book_title_en: "The Montessori Baby"
+  authors: ["Simone Davies", "Junnifa Uzodike"]
+  authors_zh: ["西蒙·戴维斯", "君妮法·乌佐迪克"]
+  publisher_en: "Workman Publishing"
+  year_en: 2021
+  isbn_en: "978-1-5235-0693-7"
+  location: "Chapter 7 · Common Questions > Touching/putting things in mouth"
+  source_id: SRC-014
+
+unit_ids: []
+related_cards:
+  - C-S4-130       # 蒙氏 yes space
+  - C-S5-134       # 蒙氏 1 岁前戒奶嘴
+  - C-S3-136       # 蒙氏 不替他够
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

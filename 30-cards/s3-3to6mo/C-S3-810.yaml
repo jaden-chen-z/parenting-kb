@@ -1,0 +1,66 @@
+card_id: C-S3-810
+stages: [S3]
+tags: [shonkoff, nrc, social_referencing, emotion_regulation]
+
+front:
+  title: "看妈脸决定要不要怕"
+  hook: "宝宝偷瞄妈妈表情"
+
+back:
+  why_matters: |
+    NRC 综述 Ch 5+9 引"social referencing 社交参考"经典:
+    **Sorce-Emde 1981 视觉悬崖实验**:
+    - 1 岁宝宝爬到玻璃悬崖边
+    - 看妈妈脸 → 决定继续还是停下
+    - 妈妈惊恐 → 宝宝退回
+    - 妈妈微笑 → 宝宝继续爬过
+    **NRC 立场**:
+    - **社交参考从 9 月起开始** — Stern subjective self 萌芽期
+    - 是**情感调节**的早期形式
+    - 宝宝**借妈妈的脑**评估情境(joint reference / shared meaning)
+    - 这是"intersubjectivity 共主体性"的实操形式
+    **重要含义**:
+    - 你的表情 / 反应 = 给宝宝判断"危险 vs 安全"的输入
+    - 妈妈过度焦虑 → 宝宝学到"很多事是危险的"
+    - 妈妈过度松懈 → 宝宝学不到风险评估
+    **对中国家长**:
+    - 宝宝跌倒不哭看你脸再决定哭不哭
+    - 你大惊小怪 → 他大哭
+    - 你淡定 → 他没事
+    - "好可怕!" 喊出 → 他学到"这是恐怖事件"
+    - 试试在小波折时用平和脸 → 给宝宝"安全"信号跟 Stern intersubjectivity + Bowlby 安全基地一致。
+  what_to_do:
+    - 跌倒不大惊小怪
+    - 用淡定脸示范
+    - 偶尔陌生人微笑示意
+    - 别"啊呀小心呀!"
+    - 平和脸是安全锚
+  failure_mode: |
+    "他摔了我得心疼安慰" — 用浮夸表情教他"这事可怕" → 他更易哭闹。
+    "我得提醒他危险" — 喊"啊呀!" → 他学到"世界处处危险"。
+    "他还小不会看大人脸" — 错,9 月起就在 social reference。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Shonkoff
+  - G-TERM-social-referencing
+  - G-TERM-NRC
+
+citation:
+  book_title_en: "From Neurons to Neighborhoods"
+  authors: ["Jack P. Shonkoff", "Deborah A. Phillips"]
+  org: "NRC/IOM"
+  year_en: 2000
+  location: "Ch 5+9 · Sorce-Emde visual cliff studies"
+  source_id: SRC-025
+
+unit_ids: []
+related_cards:
+  - C-S5-291    # Stern attunement SRC-018
+  - C-S5-070    # Bowlby 安全基地 SRC-011
+  - C-S5-295    # Stern intersubjectivity SRC-018
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

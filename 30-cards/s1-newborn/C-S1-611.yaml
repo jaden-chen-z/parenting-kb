@@ -1,0 +1,48 @@
+card_id: C-S1-611
+stages: [S1]
+tags: [siblings, second-child, trauma-prevention]
+
+front:
+  title: 老大不天然爱二宝
+  hook: 2 岁能让弟妹窒息
+
+back:
+  why_matters: |
+    松田直言:1 个 2 岁孩子用塑料袋使 50 天婴儿窒息的案件就是例子。
+    老大被剥夺"作为家庭孩子"的既得权 — 这是精神创伤。
+    父母忙生孩子+接客,以为老大也会高兴 — 大错。
+    "兄弟姐妹理应亲密"只是大人想法。先慰劳老大,再喂二宝。
+  what_to_do:
+    - 妈从产院回家先抱老大说话
+    - 给老大一个漂亮新玩具
+    - 3 岁以下别当老大面喂奶
+    - 老大病时不和二宝同房
+    - 别强迫老大"亲亲弟弟妹妹"
+  failure_mode: |
+    妈一回家就抱二宝喂奶 + 客人都围着新生儿 → 老大攻击二宝(掐脸/塞东西/推倒)很难防。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Matsuda
+
+citation:
+  book_title_zh: "定本《育儿百科》"
+  book_title_jp: "育児の百科(定本)"
+  authors: ["松田道雄"]
+  translators_zh: ["王少丽"]
+  publisher_zh: null
+  year: 1980
+  edition: "定本"
+  location: "第 48 节兄弟姐妹"
+  source_id: SRC-023
+
+unit_ids: []
+related_cards:
+  - C-S6-084  # Bowlby V2 兄弟姐妹陪着分离好得多
+  - C-S7-023  # Brazelton 二胎吵架你别站队
+  - C-S6-136  # Lansbury 老大迎二宝
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

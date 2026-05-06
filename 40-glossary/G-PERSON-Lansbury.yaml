@@ -1,0 +1,85 @@
+glossary_id: G-PERSON-Lansbury
+type: person
+display_name: Lansbury (珍妮特·兰斯伯里)
+
+full_name_en: Janet Lansbury
+full_name_zh: 珍妮特·兰斯伯里
+
+one_liner: |
+  当代 RIE(Resources for Infant Educarers)派代表人物,Magda Gerber 弟子。
+  美国洛杉矶 RIE 育儿教师 + 全球读者百万级博客作者 + 《Elevating Child Care》(2014)+《No Bad Kids》(2014)作者。
+  3 个孩子的母亲。把 Magda Gerber 60 年代的 RIE 理论翻译成白话实操指南。
+
+detail: |
+  ## 生平
+  - 出生年份未公开(本书出版时女儿 21 岁,推算约 1960 年代初生)
+  - **早年**:加州演员,80 年代演艺圈
+  - **转型契机**:第一个孩子出生,在主流育儿书里找不到答案
+  - **遇见 RIE**:在洛杉矶找到 Magda Gerber,成为 Magda 弟子 + 朋友
+  - **2007 年**:Magda 去世后,继承推广 RIE
+  - **现在**:RIE 认证讲师,博客 janetlansbury.com 全球数百万读者
+
+  ## RIE 派代表作
+  1. **2014《Elevating Child Care: A Guide to Respectful Parenting》**(本卷,SRC-019)
+     - 30 篇博客合集,主题:婴儿是真人 / sportscasting / 限度 / 不抱坐 / wait magic
+  2. **2014《No Bad Kids: Toddler Discipline Without Shame》**(姐妹篇)
+     - 12-3 岁限度 + 不惩罚的系统化阐述
+
+  ## 跟 Magda Gerber 的关系
+  - 直接弟子(在 RIE 课上学)
+  - 朋友 + 工作搭档
+  - "Magda 是我的导师,她的智慧贯穿我每一页"
+  - 本书 60+ 处提 Magda(几乎每章都引)
+  - 把 Magda 的"RIE 8 原则"扩展为白话实操(Introduction 10 原则)
+
+  ## 在中文社群的位置
+  - 知名度低于"正面管教"派
+  - 部分 RIE 派育儿教练在国内推广
+  - 翻译本《尊重孩子》或类似(可能繁中版)
+  - 微信里"温柔派"育儿群偶尔提
+  - 应当是"温柔派"育儿的世界级标杆之一
+
+  ## 核心立场(跟其他派对比)
+  - **vs 主流"分散注意"派**:Lansbury 反 → 反对哄骗 / 转移
+  - **vs Sears 派"亲密育儿"**:Lansbury 反 → 婴儿不是 helpless
+  - **vs 行为主义"强化训练"派**:Lansbury 反 → 不奖励 / 不糖果训练
+  - **vs 蒙氏 0-3**:80% 一致 + 20% 差异(她比蒙氏更"被动")
+  - **vs Bowlby 依恋**:100% 一致(secure attachment 同义)
+
+  ## 关键贡献(独家)
+  - 把"sportscasting"翻译给现代家长(Magda 命名,Lansbury 推广)
+  - "I won't let you..." 限度公式的 standardization
+  - "CEO 语调"的命名
+  - "Why You're Yelling 4 reasons" 诊断框架
+  - "Let kids be mad at you"系列文章
+
+key_facts:
+  - 当代 RIE 派代表人物
+  - Magda Gerber 直接弟子
+  - 全球博客读者百万级
+  - 3 个孩子的母亲
+  - 著作《Elevating Child Care》(2014)+《No Bad Kids》(2014)
+
+related_glossary:
+  - G-PERSON-Gerber
+  - G-PERSON-Pikler
+  - G-PERSON-Davies
+  - G-TERM-RIE
+  - G-TERM-respectful-parenting
+  - G-TERM-sportscasting
+
+related_cards:
+  - C-S0-115
+  - C-S0-116
+  - C-S6-395
+  - C-S6-397
+  - C-S7-347
+
+sources:
+  - source_id: SRC-019
+  - external: janetlansbury.com / Wikipedia / Magda Gerber《Your Self-Confident Baby》
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

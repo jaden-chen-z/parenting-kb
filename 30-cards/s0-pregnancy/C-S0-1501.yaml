@@ -1,0 +1,50 @@
+card_id: C-S0-1501
+stages: ['S0']
+tags: ['philosophy', 'lerner_v1', 'bronfenbrenner', 'PPCT', 'foundational']
+
+front:
+  title: "PPCT 4 维框架"
+  hook: "过程人环境时间 4 维"
+
+back:
+  why_matters: |
+    Bronfenbrenner 2006 修正版 — 不只是 5 层环境,还多 PPCT 4 维:
+    - Process(过程)— 近端日常互动是发展引擎(每天爸妈跟娃说话 / 玩耍 / 吃饭)
+    - Person(人)— 娃自己的气质 / 资源 / 能力加入互动
+    - Context(环境)— 5 层环境(microsystem 起)
+    - Time(时间)— 历史时段 + 个人时间双重中国父母常只看 Person 一维(我家娃天生 X),忽略 Process 一维(每天的近端互动质量)。
+    PPCT 框架告诉你 — 发展靠"近端日常互动 × 孩子能力 × 多层环境 × 时间"4 个轴。
+  what_to_do:
+    - "Process 是核心 — 每天 1 小时高质量陪伴 > 1 周末"
+    - "Person 看气质 — 配 Chess 适配"
+    - "Context 看 5 层 — 不只家"
+    - "Time 看历史 — 你 80 后育儿 ≠ 60 后"
+    - "PPCT 4 维同步看,缺一维就片面"
+  failure_mode: |
+    只看 Person(我家娃就这样) — 错。Process 和 Context 决定 50%+。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Bronfenbrenner
+  - G-TERM-PPCT-model
+  - G-TERM-proximal-processes
+
+related_cards:
+  - C-S0-1500
+  - C-S0-1125
+  - C-S2-940
+  - C-S6-1066
+
+citation:
+  source_id: SRC-030
+  source_title: "Handbook of Child Psychology Vol 1: Theoretical Models of Human Development"
+  chapter: "Ch 14 Bronfenbrenner & Morris"
+  chapter_offset: 4361672
+  chapter_title: 'Bronfenbrenner & Morris — Bioecological Model'
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_followup_needed: 'SRC-030 用 PDF 字节偏移代页码 — 待加 page_pdf 反查工具'

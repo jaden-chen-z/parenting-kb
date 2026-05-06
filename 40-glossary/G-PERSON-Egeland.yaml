@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Egeland
+type: person
+display_name: "Egeland(拜伦·埃格兰)"
+
+full_name_en: "Byron Egeland"
+full_name_zh: "拜伦·埃格兰"
+
+position: |
+  University of Minnesota
+
+contribution: |
+  Minnesota 依恋研究 + 虐待长期影响
+
+one_liner: |
+  拜伦·埃格兰 — Minnesota 依恋研究 + 虐待长期影响
+
+key_facts:
+  - "本卷章节:Ch 13(引用)"
+  - "Lerner V4 命中:17 次"
+  - "学派:Lerner V4 应用心理学派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-029
+    chapter: "Ch 13(引用)"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

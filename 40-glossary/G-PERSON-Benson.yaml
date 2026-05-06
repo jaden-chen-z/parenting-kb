@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Benson
+type: person
+display_name: "Benson(彼得·本森)"
+
+full_name_en: "Peter L. Benson"
+full_name_zh: "彼得·本森"
+
+position: |
+  Search Institute 主任(已故)
+
+contribution: |
+  asset-based youth development + 40 developmental assets + Lerner 共著
+
+one_liner: |
+  彼得·本森 — asset-based youth development + 40 developmental assets + Lerner 共著
+
+key_facts:
+  - "本卷章节:Ch 16"
+  - "Lerner V1 命中:50+ 次"
+  - "学派:Lerner V1 PYD 派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+    chapter: "Ch 16"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

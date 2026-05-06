@@ -1,0 +1,47 @@
+card_id: C-S2-548
+stages: [S2]
+tags: [feeding, individual-difference, small-eater]
+
+front:
+  title: 食量小婴儿是健康
+  hook: 一侧奶就睡也健康
+
+back:
+  why_matters: |
+    松田区分两类日增 20 g 婴儿 — 母乳不足 vs 食量小,完全不同处理。
+    母乳不足:两侧奶都吃净还要、夜里醒好几次、哭闹索奶。
+    食量小:吃完就满足睡去、相当安静、不哭索奶。
+    第二类是健康状态 — 不愿喝奶是娃自己调节,试加奶也不会增。
+  what_to_do:
+    - 看吃完后是否安静(健康)
+    - 看是否半夜常醒(不足)
+    - 不强加奶量给食量小娃
+    - 不试新奶粉/品牌
+    - 别比邻居娃饭量
+  failure_mode: |
+    妈把食量小当"母乳不足" → 加奶 → 娃厌奶 → 全断母乳 → 后悔。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Matsuda
+
+citation:
+  book_title_zh: "定本《育儿百科》"
+  book_title_jp: "育児の百科(定本)"
+  authors: ["松田道雄"]
+  translators_zh: ["王少丽"]
+  publisher_zh: null
+  year: 1980
+  edition: "定本"
+  location: "第 66 节关于体重增加"
+  source_id: SRC-023
+
+unit_ids: []
+related_cards:
+  - C-S1-609  # 自卷:反标准体重焦虑
+  - C-S4-022  # Brazelton 6-9 月有自我安抚就放心
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

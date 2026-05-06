@@ -1,0 +1,73 @@
+card_id: C-S7-1316
+stages: [S7]
+tags: [maltreatment, cicchetti, preschool, lerner_v4]
+
+front:
+  title: 2-3 岁虐待信号
+  hook: 2-3 岁虐待信号
+
+back:
+  why_matters: |
+    Cicchetti V4 Ch 13(2-3 岁虐待信号识别)。
+    **2-3 岁虐待 5 大行为信号**:
+    - **过度退缩**:不交往 + 怕生过度
+    - **过度亲密**:对陌生人异常黏(无差别依恋)
+    - **过激反应**:tantrum 频繁 + 难安抚
+    - **退化行为**:已学会又退(尿床 / 不会说)
+    - **奇异行为**:模仿性行为 / 自残 / 极度恐惧
+    **为啥 2-3 岁难自报**:
+    - 语言已发达但**不会描述抽象**
+    - 创伤记忆碎片化
+    - 怕受伤报复(惩罚预期)
+    - 主要靠**行为信号**+ **环境变化**识别
+    **Cicchetti 4 类型 2-3 岁影响**:
+    - **身体虐待**:怕生 + 退缩 + 过激
+    - **情感虐待**:自我贬低 + 焦虑
+    - **忽视**:语言迟缓 + 营养差 + 无依恋
+    - **性虐待**:奇异行为 + 退缩 + 性化
+    **强制报告 + 干预**:
+    - 看到 5 信号 → 找儿科 / 心理评估
+    - 不"等大了再说"
+    - 早干预改概率(60% 改变)
+    - 沉默不是"保护"是延误跟现库:跟 C-S6-1384 学步虐待最敏感 + C-S8-742 V4 虐待 4 类型 + V3 Patterson(C-S6-1075)对接。
+    对中国家长意义:
+    - 2-3 岁看 5 大行为信号
+    - 退化行为 / 过激反应别忽视
+    - 看到亲友家信号要报告
+    - 沉默是延误不是保护
+  what_to_do:
+    - 2-3 岁看 5 行为信号
+    - 退化行为别忽视
+    - 看到亲友家信号报告
+    - 沉默是延误不保护
+  failure_mode: |
+    "小娃不会被伤"— 错。2-3 岁敏感。
+    "等说自己说"— 错。难自报。
+    "亲友家不管"— 错。强制报告。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Cicchetti
+  - G-PERSON-Toth
+  - G-TERM-maltreatment-4-types
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 4 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 4 卷"
+  authors: ['Dante Cicchetti', 'Sheree L. Toth']
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 13 · Cicchetti · 2-3yr maltreatment signals · pp. 520-530"
+  source_id: SRC-029
+
+unit_ids: []
+related_cards:
+  - C-S6-1384     # V4 学步虐待
+  - C-S8-742     # V4 虐待 4 类型
+  - C-S0-1232     # Cicchetti 4 原则
+  - C-S6-1075     # V3 Patterson 强制
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

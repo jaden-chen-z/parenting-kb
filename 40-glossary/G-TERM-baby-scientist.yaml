@@ -1,0 +1,85 @@
+glossary_id: G-TERM-baby-scientist
+type: term
+display_name: 婴儿是天生科学家 (baby scientist)
+
+full_name_zh: 婴儿是天生科学家 / 摇篮里的科学家
+full_name_en: Baby Scientist / Scientist in the Crib
+
+one_liner: |
+  Gopnik / Meltzoff / Kuhl 1999《摇篮里的科学家》核心命题:
+  婴儿不是空白,是天生科学家 — 用统计学习 / 假设检验 / 因果推理学世界。
+
+detail: |
+  ## 定义
+  Gopnik 三人 1999 年提出的命题:婴儿大脑跟科学家做的是同一件事 —
+  - 收集数据(听 / 看 / 摸)
+  - 形成假设("妈妈消失了 = 没了"vs"妈妈消失了 = 还在")
+  - 做实验(扔东西看妈妈反应)
+  - 修正模型
+  - 重新预测
+
+  "孩子不是小科学家,**科学家是大孩子**" — Gopnik 名言。
+
+  ## 跟其他立场对照
+  ### vs Locke "白板"(Tabula Rasa)
+  - 白板:婴儿是空容器,等大人灌输
+  - Baby Scientist:婴儿出生就有学习引擎 + 部分先验知识
+
+  ### vs Wordsworth 浪漫主义"天真知者"
+  - 浪漫:婴儿因无知而有特殊感知
+  - Baby Scientist:婴儿不"无知",在做严谨推理
+
+  ### vs Piaget "阶段成熟论"
+  - Piaget:婴儿要 8-10 月才有物体永久性
+  - Baby Scientist:实验显示 4 月就有(Spelke / Baillargeon)— Piaget 工具不够灵敏
+
+  ## 核心证据
+  - **新生儿 42 分钟模仿**(Meltzoff 1977)— 出生即识"对方像我"
+  - **6-12 月统计学习**(Saffran 1996)— 听 2 分钟外语就抓到统计模式
+  - **物体永久性早于 8 月**(Spelke / Baillargeon 1985)— 4 月就懂
+  - **因果推理 blicket detector**(Gopnik)— 婴儿能从观察推因果
+  - **延迟模仿 1 周后仍记**(Meltzoff)— 长期记忆 + 主动复制
+
+  ## 中国家长意义
+  - 不需要"教"婴儿什么 — 他在自学
+  - 你提供的是**安全 + 互动**,不是知识灌输
+  - 早教班 ≠ 早教 — 真正的早教是平日陪伴 + 真人对话
+  - 婴儿"破坏"行为 = 做实验(扔玩具看会不会落 / 怎么落)
+
+  ## 实操含义
+  - **跟着兴趣走**:婴儿盯什么你陪什么(他在收集数据)
+  - **不打断专注**:他在"做实验",别打扰
+  - **不抢答**:不立刻给玩具,让他自己搞清楚
+  - **回应,不教学**:他指什么你说出名字,他不指就别灌输
+
+  ## 与 Wonder Week 跃迁理论关系
+  - Wonder Week:跃迁是大脑物理变化(EEG 视角)
+  - Baby Scientist:跃迁是理论修正(认知科学视角)
+  - 二者不冲突,是同一现象不同视角
+
+key_facts:
+  - Gopnik / Meltzoff / Kuhl 1999 核心命题
+  - 婴儿用统计 / 假设 / 因果学习
+  - "科学家是大孩子"
+  - 反 Locke 白板论 + 反 Wordsworth 浪漫论
+  - 实操含义:陪伴 > 教学
+
+related_glossary:
+  - G-PERSON-Gopnik
+  - G-PERSON-Meltzoff
+  - G-PERSON-Kuhl
+  - G-TERM-statistical-learning
+  - G-TERM-causal-learning
+  - G-TERM-imitation
+  - G-TERM-mental-leap
+
+related_cards: []
+
+sources:
+  - source_id: SRC-015
+  - external: Gopnik / Meltzoff / Kuhl 1999 The Scientist in the Crib
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

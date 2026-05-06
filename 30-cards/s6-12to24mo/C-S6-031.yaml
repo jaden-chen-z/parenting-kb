@@ -19,7 +19,7 @@ back:
     - 父母自己刷手机的时间也是孩子的"屏幕时间"
   failure_mode: |
     1 岁宝宝吃饭哭闹,父母塞 iPad 放儿歌——他立刻安静,父母大喜,从此每顿饭都靠屏幕。一年后孩子不看屏不吃饭、关屏就尖叫、专注力严重退化、词汇量落后同龄人;再想戒已经成了戒断反应,全家陷入"屏幕成瘾-行为问题-用更多屏幕安抚"的死循环。
-  evidence_level: A
+  evidence_level: B
 
 glossary_refs:
   - G-TERM-screen-time

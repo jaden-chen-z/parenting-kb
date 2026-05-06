@@ -1,6 +1,6 @@
 card_id: C-S2-067
 stages: [S2]
-tags: []
+tags: [philosophy]
 
 front:
   title: 5 周才开始真"看见你"
@@ -23,6 +23,20 @@ back:
     5 周后真笑出现却不积极回应 → 微笑频率会下降(消退)。
   evidence_level: B
 
+  positions:
+    issue: 6-8 周事件命名群 — 同一发育跃迁的多个名字
+    views:
+      - school: Karp
+        source: SRC-003
+        stance: 哭闹峰(peak fussing)— 6 周是哭闹达高峰、随后递减的关键节点。
+      - school: Brazelton
+        source: SRC-010
+        stance: 6-8 周触点(touchpoint)— 父母最焦虑、亲子关系重新校准的发育节点。
+      - school: Wonder Weeks
+        stance: WW8 模式跃迁 — 婴儿大脑首次能识别复杂模式,行为外显为不安。
+      - school: Bowlby
+        source: SRC-011
+        stance: 6 周非选择性微笑 — 社会性微笑出现,但尚不区分照顾者。
 glossary_refs:
   - G-PERSON-Bowlby
 
@@ -36,7 +50,7 @@ citation:
   year_en: 1969
   year_zh: 2017
   isbn: "978-7-5192-2927-6"
-  location: "第十四章 依恋行为的开始(到第五周结束时,大部分婴儿的非选择性社会微笑已非常明显 / Wolff 1963)"
+  location: "第十四章依恋行为的开始(到第五周结束时,大部分婴儿的非选择性社会微笑已非常明显 / Wolff 1963)"
   source_id: SRC-011
 
 unit_ids: []

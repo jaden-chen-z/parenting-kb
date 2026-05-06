@@ -1,0 +1,111 @@
+glossary_id: G-TERM-erziehung-zum-weinen
+type: term
+display_name: Erziehung zum Weinen(把孩子教育成爱哭的)
+
+full_name_de: Erziehung zum Weinen
+full_name_zh: 把孩子教育成爱哭的(Pikler 警示)
+full_name_en: Educating to Cry (Pikler's Warning)
+
+one_liner: |
+  Pikler 1969 Ch1 警示 — 婴儿持续哭闹常常是父母不当回应
+  教出来的,不是天性。"摇晃 / 唱歌 / 拍打" 麻醉式安抚
+  让婴儿习惯被麻醉 → 5 步恶性循环。反 CIO + 反"过度刺激"
+  双立场源头。
+
+detail: |
+  ## Pikler 1969 立场源头
+  - **Ch1 整章**讨论 — 从"为什么新生儿哭"到"为什么很多
+    宝宝持续哭闹"
+  - **核心命题**:Jeder gesunde Säugling wäre friedlich,
+    hätte man ihn nicht anders erzogen.
+    (任何健康婴儿都会平静 — 除非被养成相反的样子。)
+
+  ## 5 步恶性循环(Teufelskreis)
+
+  1. **新生儿哭**(饿 / 冷 / 热 / 衣服紧 / 不舒服)
+  2. **妈妈不查原因**:直接抱起摇晃 / 唱歌 / 拍打 / 转移
+  3. **婴儿被"麻醉式安抚"**(leichte Betäubung)— 短暂安静
+  4. **婴儿习惯被麻醉**:Pikler 比喻 — "像吸烟者尼古丁,
+     跟酒鬼酒一样" — 上瘾,放下就哭
+  5. **婴儿习惯成为家庭中心**:习惯被持续逗 + 不会自己玩
+
+  ## Pikler 反对清单
+
+  - **机械摇晃**(wiegen)— 不查因就摇
+  - **机械唱歌**(in den Schlaf singen)— 不哄不睡
+  - **拍打安抚**
+  - **跳舞 / 拨浪鼓 / 收音机**(Ablenkung 转移注意)
+  - **夜哭训练**(Schrei-Training)— 反 CIO 立场源
+  - **过度逗**(亲戚轮抱 / 全家围观)
+
+  ## Pikler 正确做法
+
+  - **听到哭先查**:饿 / 冷 / 热 / 屎尿 / 衣服紧 / 痛
+  - **解决因 → 婴儿自己平静**
+  - **真没找到原因**:抱起轻安慰但不机械摇 / 唱
+  - **白天好好照顾 + 夜里也回应** → 几周后自然睡通宵
+  - **不"过度刺激"**:亲戚轮抱 / 全家围观要拒绝
+
+  ## 跟现代派关系
+
+  - **Magda Gerber RIE**(SRC-022 Crying is language):
+    立场源头 — Magda 1998 美国版的德文根
+  - **Lansbury Acknowledging Feelings**(SRC-019):
+    跟 Pikler 一致 — 不分散不修复
+  - **Karp 5S 派**(SRC-003):**立场张力** — Karp 主张
+    包紧 + 摇晃 + 嘘嘘安抚。Pikler 反"机械摇晃" 但不
+    一定反 Karp 5S(Karp 5S 是新生儿期短期工具,Pikler
+    反的是"长期上瘾型摇晃")
+  - **松田道雄**(SRC-024):反"哭出习惯"立场跟 Pikler 一致
+  - **G-TERM-anti-cry-it-out**:4 派共识(Pikler / Magda /
+    Lansbury / 松田)
+
+  ## 对中国家长意义
+
+  中国常见"宝宝爱哭" / "一抱就好" / "晚上闹觉" — Pikler
+  立场:多是被养出来的,不是天性。改变方法 1-2 月内
+  婴儿可恢复"平静默认"。
+
+  ## 跟 CIO 派立场对立
+
+  - Pikler 1969:反 Schrei-Training,夜里饿哭要回应
+  - Ferber 1985:推 CIO 渐进延长哭法
+  - Weissbluth 1987:推"健康睡眠习惯"含 CIO
+  - **Pikler 比 Ferber 早 16 年立场** — 70 年后续依恋
+    研究 + cortisol 数据支持 Pikler 立场
+
+key_facts:
+  - Pikler 1969 Ch1 整章警示
+  - 5 步恶性循环:哭 → 麻醉 → 习惯 → 上瘾 → 不会自己玩
+  - 反"机械摇晃 / 唱歌 / 拍打 / 转移"
+  - 反"夜哭训练 Schrei-Training"
+  - 跟 Magda / Lansbury / 松田 4 派一致
+  - 立场比 Ferber CIO 派早 16 年
+
+related_glossary:
+  - G-PERSON-Pikler
+  - G-PERSON-Gerber
+  - G-PERSON-Lansbury
+  - G-TERM-anti-cry-it-out
+  - G-TERM-pflege-vs-spiel
+  - G-TERM-beobachten-ohne-eingreifen
+  - G-TERM-acknowledging-feelings
+
+related_cards:
+  - C-S1-899  # Pikler 反摇晃唱歌麻醉(本卷)
+  - C-S1-900  # Pikler 夜里也回应自然睡通宵(本卷)
+  - C-S1-898  # Pikler 平静婴儿是常态(本卷)
+  - C-S1-408  # Gerber 哭是孩子的语言
+  - C-S2-348  # Gerber 白天平静晚上才睡
+
+sources:
+  - source_id: SRC-026  # Pikler 1969 Ch1
+  - source_id: SRC-019  # Lansbury 复述
+  - source_id: SRC-022  # Gerber crying is language
+  - source_id: SRC-024  # 松田反哭出习惯
+  - external: Pikler Institute / Anti-CIO research literature
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

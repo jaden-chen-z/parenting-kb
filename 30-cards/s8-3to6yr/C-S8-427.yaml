@@ -1,0 +1,74 @@
+card_id: C-S8-427
+stages: [S8]
+tags: [cognitive_science, intuitive_theories, keil, lerner_v2]
+
+front:
+  title: 朴素物理 / 心理 / 生物
+  hook: 3 大独立认知领域
+
+back:
+  why_matters: |
+    Keil 综述(Lerner V2 Ch14 Keil 主笔)。
+    儿童认知不是"统一系统",是 3 大领域(直觉理论)并行:
+    - **Naive Physics**(朴素物理)— 物体如何动 / 重力 / 固体性
+       3-4 岁稳定,基础在 Spelke 核心知识(出生即有)
+    - **Naive Psychology**(朴素心理)— 别人有想法 / 意图 / 信念
+       4-5 岁通过 Sally-Anne(Wellman ToM)
+    - **Naive Biology**(朴素生物)— 生命 / 繁殖 / 代谢
+       7-10 岁概念革命后稳定意义:
+    - **3 个领域独立发展**(不是统一智力)
+    - 一个孩可能朴素心理强(社交好)朴素物理弱(怕摔)
+    - 不能拿单一智力测试评估
+    - V2 综述:这是认知科学派的奠基观点跟现库:跟 Spelke 5 系统(C-S4-1141)+ Carey 概念革命(C-S7-1096)+ Wellman ToM(C-S7-1098)对接。
+    Lerner V2 Ch14 给元综述。
+    对中国家长意义:
+    - 不要拿"智力 = 一个数字"评孩子
+    - 3 大领域各看(物理 / 社交 / 生命)
+    - 短板可补,但不影响其他领域
+    - 中国传统重知识(物理 / 数学)— 别忽视社交
+  what_to_do:
+    - 3 大领域均衡培养(不只学知识)
+    - 看孩子 3 大领域分布
+    - 短板补,长板继续
+    - 不"智力一个数字"评估
+  failure_mode: |
+    "智力 = 单一指标" — 错。3 领域独立。
+    "学好物理就万能" — 错。心理 / 生物独立。
+    "不会算就笨" — 错。可能其他领域强。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Spelke
+  - G-TERM-theory-of-mind
+  - G-TERM-baby-scientist
+  - G-PERSON-Keil
+  - G-TERM-intuitive-theories
+  - G-TERM-naive-physics
+  - G-TERM-naive-psychology
+  - G-TERM-naive-biology
+  - G-TERM-conceptual-revolution
+  - G-PERSON-Carey
+  - G-TERM-core-knowledge
+  - G-PERSON-Wellman
+  - G-TERM-false-belief
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 2 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 2 卷"
+  authors: ["Frank Keil"]
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 14 · Domain-specific intuitive theories · pp. 614-628"
+  source_id: SRC-028
+
+unit_ids: []
+related_cards:
+  - C-S4-1141     # Spelke 5 系统
+  - C-S7-1096     # Carey 概念革命
+  - C-S7-1098     # Wellman ToM
+  - C-S8-421       # 朴素生物学
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

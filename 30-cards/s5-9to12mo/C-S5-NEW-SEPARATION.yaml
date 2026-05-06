@@ -1,0 +1,97 @@
+card_id: C-S5-NEW-SEPARATION
+stages: [S5]
+tags: [meta_cross, separation_anxiety, attachment]
+
+front:
+  title: 分离焦虑 6 派立场对照
+  hook: 黏人不是缺安全感,是依恋勋章
+
+back:
+  why_matters: |
+    9-12 月分离焦虑爆发,妈妈准备返工,是中国家长最高频的撕裂期。
+    "他这么黏是不是没安全感?要不要训他独立?要不要偷溜避免哭?"
+    — 三连问背后是 6 派立场的混战,父母看一本书一个说法,越看越焦虑。
+    本卡首次把 6 派对照齐:**没有一派认为"黏人 = 有问题"**,
+    没有一派支持"偷溜",这是跨派最强共识。
+    **认知基础**:6-16 月是分离焦虑窗口,核心是物体永久性(C-S4-003)
+    + 依恋形成 — 知道妈妈"暂时不见 ≠ 永久消失",但信任还没完全建立 → 紧抓。
+    **关键反直觉**:**安全依恋的宝宝反而分离焦虑更早出现 + 更快通过**(Bowlby 实证)。
+    黏 = 依恋在巩固,不是性格弱、不是宠坏。
+  what_to_do:
+    - "**Bowlby V1+V2**(理论根基):依恋是生存系统;**安全依恋宝宝 6-7 月就开始分离焦虑,16-18 月消退**;不安全依恋反而 2-3 岁还黏(C-S5-069)"
+    - "**AAP 5 招缓解**(主流务实):1)别在累/饿/病时离开;2)快速告别不流连;3)看护人立刻转移注意力;4)在家从短分离练起;5)托儿所第一周陪几分钟再离开(C-S5-004)"
+    - "**Brazelton 痛在父母**(中间温和):**真正难受的是父母,不是孩子**。父母情绪稳定 → 孩子模仿调节;父母焦虑 → 孩子加倍焦虑(C-S5-026)"
+    - "**Davies/Lillard 蒙氏**(发展视角):**6-16 月黏人是健康的**,信任在巩固期;6 条处理法:离开前告知 + 远处呼应 + 回来反馈 + 新看护人提前熟悉 + 保持环境 reference 一致 + 留有妈妈气味的东西(C-S5-137)"
+    - "**Magda Gerber/Lansbury RIE**(诚实派):**永不偷溜走 — 诚实告别比哭更重要**。原话:'诚实是基本规则,即使他短时痛苦';走前面对面告别 + 哭就让他哭 + 准时回来 = 累积'她说的算数'信任(C-S5-449/C-S5-393/C-S5-594/C-S5-595)"
+    - "**鲍秀兰中医儿保**(中式):**黏人是依恋勋章**;不强训独立 + 不偷溜 + 满足依恋反而长大更独立(C-S5-594/C-S5-595)"
+    - "**中道默认推荐**:不偷溜(Magda+Davies+鲍秀兰共识)+ 准时回(Bowlby 信任基础)+ 接纳 1-4 周难过(AAP 5 招 + Brazelton 父母先稳)+ 不强训独立(蒙氏+鲍秀兰)"
+  failure_mode: |
+    **偷溜走**(6 派一致反对):"等他玩着我溜了" → 短期省哭,长期摧毁基本信任,
+    宝宝学会"妈妈会突然消失,我得 24 小时盯着她",反而更黏;
+    **每次哭就赶回来**:强化焦虑回路,永远过渡不了;
+    **在累/饿/病时离开**:必崩溃,叠加状态会失控;
+    **强训独立**(把 6-16 月健康黏期当问题):0-3 岁满足依恋的宝宝长大反而更独立,反向训练适得其反;
+    **父母先焦虑**(Brazelton 警告):宝宝感得到 → 加倍焦虑;
+    **4 派交替试**:这本书说 A、那本书说 B,一周换一个,失败 + 自责 + 越练越糟。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Bowlby
+  - G-PERSON-Brazelton
+  - G-PERSON-Davies
+  - G-PERSON-Gerber
+  - G-PERSON-Lansbury
+  - G-ABBR-AAP
+  - G-TERM-separation-anxiety
+  - G-TERM-attachment
+  - G-TERM-object-permanence
+  - G-TERM-RIE
+
+citation:
+  cross_source: true
+  primary_source_id: META-CROSS
+  cross_sources:
+    - source_id: SRC-011
+      anchor_card: C-S5-069
+      stance: Bowlby V1+V2 安全依恋反更早分离焦虑 + 更快通过(理论根基)
+    - source_id: SRC-007
+      anchor_card: C-S5-004
+      stance: AAP 5 招缓解(主流务实)
+    - source_id: SRC-010
+      anchor_card: C-S5-026
+      stance: Brazelton 真正难受的是父母,父母先稳
+    - source_id: SRC-014
+      anchor_card: C-S5-137
+      stance: Davies 蒙氏 6-16 月黏人是健康(发展视角)
+    - source_id: SRC-022
+      anchor_card: C-S5-449
+      stance: Magda Gerber 永不偷溜,诚实告别(RIE 诚实派)
+    - source_id: SRC-024
+      anchor_card: C-S5-594
+      stance: 鲍秀兰黏人是依恋勋章(中式)
+  location: META · S5 跨派对照导航卡
+
+unit_ids: []
+related_cards:
+  - C-S5-069       # Bowlby V1 安全依恋反更早分离焦虑
+  - C-S5-004       # AAP 分离焦虑 10-18 月峰值,5 招缓解
+  - C-S5-026       # Brazelton 9 月分离焦虑痛在父母
+  - C-S5-137       # Davies 蒙氏 6-16 月黏人是健康
+  - C-S5-449       # Magda Gerber 永不偷溜走
+  - C-S5-393       # Lansbury 黏人是健康
+  - C-S5-594       # Magda 分离焦虑是健康信号
+  - C-S5-595       # 鲍秀兰 黏人是依恋勋章
+  - C-S4-003       # 物体永久性(认知基础)
+  - C-S4-068       # Bowlby 8 月怕陌生人
+  - C-S5-191       # 睡眠训练 5 派(姊妹 hub)
+
+navigation_role: |
+  S5 段分离焦虑导航 hub — 与睡眠训练(C-S5-191)+ 戒奶瓶(C-S5-190)
+  并列构成"9-12 月妈妈返工准备 + 第二崩溃期"应对工具集。
+  6 派对照在中文育儿圈首次综合;关键决策点 = 是否偷溜 + 是否强训独立。
+  跨派最强共识:**不偷溜 + 接纳健康黏期**。
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

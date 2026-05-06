@@ -1,0 +1,27 @@
+glossary_id: G-TERM-individual-differences
+type: term
+display_name: "个体差异 / individual differences"
+
+name_en: "individual differences"
+name_zh: "个体差异"
+
+description: |
+  Magnusson + Brazelton 立场 — 没两个娃一样,养孩子要 fit 这个孩子。
+
+one_liner: |
+  个体差异(individual differences)— Magnusson + Brazelton 立场 — 没两个娃一样,养孩子要 fit 这个孩子。
+
+key_facts:
+  - "Lerner V1 元理论卷核心术语"
+  - "学派:Lerner V1 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,139 @@
+source_id: SRC-015
+type: book
+tier: tier3
+
+title_en: "The Scientist in the Crib: What Early Learning Tells Us About the Mind"
+title_zh: "摇篮里的科学家:心智、大脑与儿童学习"
+authors:
+  - Alison Gopnik
+  - Andrew N. Meltzoff
+  - Patricia K. Kuhl
+authors_zh:
+  - 艾莉森·高普尼克
+  - 安德鲁·N·梅尔佐夫
+  - 帕特里夏·K·库尔
+publisher_en: William Morrow / HarperCollins
+publisher_zh: 浙江人民出版社(中译)
+year: 1999
+year_zh: 2010
+isbn_en: "978-0-688-17783-1"
+language_original: en
+
+raw_file: 10-sources/tier3-books/raw_pdfs/gopnik_scientist_in_the_crib.md
+raw_format: epub_to_md
+file_size_chars: 571499
+file_size_kb: 558
+
+# 章节偏移地图(Python text[start:end] 切片)
+chapter_offsets:
+  ch1_ancient_questions: [12791, 54213]      # 41K · 古老问题与新科学(框架理论)
+  ch2_about_people: [54213, 125788]          # 71K · 宝宝怎么了解人(Meltzoff 模仿)
+  ch3_about_things: [125788, 187889]         # 62K · 宝宝怎么了解物体(物体永久性 / 因果)
+  ch4_about_language: [187889, 266710]       # 79K · 宝宝怎么学语言(Kuhl 知觉重组)
+  ch5_minds: [266710, 345858]                # 79K · 心智科学综述(theory of mind)
+  ch6_brains: [345858, 391891]               # 46K · 大脑科学(突触修剪 / 关键期)
+  ch7_clouds_of_glory: [391891, 419521]      # 28K · 启示与结论(教学悖论 / 反早教)
+
+main_topics:
+  - 婴儿是天生科学家(baby scientist)— 三作者核心命题
+  - 三大问题:Other Minds + External World + Language
+  - Meltzoff 1977 新生儿 42 分钟模仿实验(出生即模仿)
+  - 婴儿天生偏好人脸 + 30cm 焦距("like me"机制)
+  - 1 岁 social referencing(看妈妈脸决定要不要靠近)
+  - 1 岁延迟模仿(1 周后仍记)
+  - Kuhl 知觉重组(6-12 月失去外语音素辨别能力)
+  - Parentese 是科学的(Kuhl 研究反驳"装弱智")
+  - 物体永久性早于 Piaget 8 月说(Spelke / Baillargeon 实验)
+  - 婴儿用因果推理学世界(Gopnik blicket detector)
+  - 统计学习(婴儿听 2 分钟外语就抓到统计模式)
+  - 教学悖论(teaching paradox)— 越主动教效果越差
+  - 0-3 岁突触爆增 → 修剪(synaptic pruning)
+  - 关键期窗口(Hubel-Wiesel 视觉 / Kuhl 语言)
+  - 长童年期是进化优势(Bruner)
+  - 反早教焦虑 — 陪伴互动 > 教学
+  - "scientist in the crib + scientist is big child"
+
+# 核心研究 / 实验
+core_studies:
+  - meltzoff_1977: Meltzoff & Moore 1977,新生儿(42 分钟)伸舌头/张嘴模仿,Science
+  - meltzoff_2005_imitation: Meltzoff 18 月延迟模仿(forehead box 一周后仍记)
+  - kuhl_1992_perceptual_narrowing: Kuhl 知觉重组(6-12 月失去外语音素辨别)
+  - kuhl_2003_chinese_taipei: Kuhl 中文 vs 英文宝宝音素地图(9-12 月分化)
+  - spelke_baillargeon_1985_object_permanence: 物体永久性 4 月就有(早于 Piaget 8 月说)
+  - gopnik_blicket: Gopnik 因果学习实验(blicket detector)
+  - bruner_immaturity: Bruner 长童年期是学习窗口
+
+# 跨源对照(标 SRC ID)
+cross_source_pointers:
+  SRC-002:    # AAP
+    - 0-2 岁不看屏幕 ↔ Gopnik 统计学习需真人互动
+  SRC-003:    # Karp
+    - 第四产程 ↔ Gopnik 出生即识声
+  SRC-009:    # 鲍秀兰
+    - parentese ↔ Kuhl 知觉重组研究
+    - 关键期 ↔ Gopnik 突触修剪
+  SRC-010:    # Bowlby Vol 1
+    - 6-9 月依恋形成 ↔ Kuhl 知觉重组同窗口
+  SRC-011:    # Brazelton
+    - 触摸点 vs Gopnik 反早教(优势视角)
+  SRC-013:    # Wonder Weeks
+    - mental leap ↔ Gopnik baby scientist(同主题不同视角)
+    - WW64 模仿一切 ↔ Meltzoff 1977 实证基础
+  SRC-014:    # Davies (Montessori Baby) - 并行 session,可能有 Meltzoff 30cm 焦距等卡
+
+# 立场标签
+stance_tags:
+  - 反早教焦虑
+  - 反"装大人"对宝宝说话
+  - 反"被动听 CD 学外语"
+  - 反"知识灌输 = 教育"
+  - 支持互动陪伴
+  - 支持 parentese
+  - 支持双语暴露(0-3 岁)
+
+# 中文家长高频痛点 mapping
+parent_pain_points:
+  - 宝宝看不见 / 听不懂 — 反:出生 42 分钟就模仿 + 识母声
+  - 跟宝宝说话像大人才高级 — 反:Parentese 是科学的
+  - 早教班赢在起跑线 — 反:陪伴互动 > 教学,教学悖论
+  - 0-3 岁不学就完了 — 反:学的是世界规律,不是知识点
+  - 外语得 6 岁后学(怕影响母语)— 反:6-12 月就关闭外语音素窗口
+  - 刷英文动画片学外语 — 反:被动音频无效,需真人互动
+
+related_glossary:
+  - G-PERSON-Gopnik
+  - G-PERSON-Meltzoff
+  - G-PERSON-Kuhl
+  - G-PERSON-Piaget
+  - G-PERSON-Vygotsky
+  - G-TERM-baby-scientist
+  - G-TERM-theory-of-mind
+  - G-TERM-statistical-learning
+  - G-TERM-perceptual-narrowing
+  - G-TERM-imitation
+  - G-TERM-causal-learning
+  - G-TERM-synaptic-pruning
+  - G-TERM-parentese
+  - G-TERM-critical-period
+  - G-TERM-object-permanence
+
+evidence_level_default: B    # Gopnik 引具体研究 + 部分共识
+evidence_level_high: A       # Meltzoff 模仿 / Kuhl 知觉重组 / 物体永久性早于 Piaget(均经多研复制)
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03
+
+# 备注
+notes: |
+  Gopnik / Meltzoff / Kuhl 三人都是顶级认知发展科学家:
+  - Gopnik:UC Berkeley 心理学教授,因果学习权威
+  - Meltzoff:华盛顿大学 I-LABS 联合主任,新生儿模仿研究奠基(1977 经典实验)
+  - Kuhl:华盛顿大学,婴儿语言习得权威,Parentese / 知觉重组研究
+
+  本书 1999 出版,中文家长普遍仍焦虑早教 — Gopnik 三人立场是:
+  "陪伴互动 > 教学,孩子是天生研究员,你只需提供安全 + 互动"。
+
+  并行 session 注意:本 session 用 SRC-015(跳过 SRC-014 给 Davies)。
+  ID buffer +50,严格 ID 隔离。

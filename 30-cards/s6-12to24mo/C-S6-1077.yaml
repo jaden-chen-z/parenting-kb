@@ -1,0 +1,49 @@
+card_id: C-S6-1077
+stages: [S6]
+tags: [selman, friendship_5_stages, lerner_v3]
+
+front:
+  title: "Selman 友谊 5 阶段"
+  hook: "1 岁友谊 ≠ 5 岁"
+
+back:
+  why_matters: |
+    Selman(via Ch 10 Rubin 综述)友谊 5 阶段:
+    ① 1-3 岁:玩伴(谁能跟我玩谁就是)② 3-6 岁:单方援助(谁帮我)
+    ③ 6-9 岁:双向合作 ④ 9-12 岁:亲密 ⑤ 12+ :成熟 + 自治。
+    一句话 — 你 2 岁娃说 X 是好朋友不是 5 岁那种,认知层不同别强行升级。
+  what_to_do:
+    - "1-3 岁朋友 = 玩伴,换得快很正常"
+    - "3-6 岁谁帮谁就是朋友"
+    - "别强迫你跟 X 是好朋友该一起玩"
+    - "尊重他选朋友的认知层"
+    - "6+ 岁友谊才有稳定性"
+  failure_mode: |
+    用成人友谊概念套娃,期待 2 岁娃真心朋友。
+    Selman — 认知层决定友谊深度,无法跨阶段。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Selman
+  - G-PERSON-Rubin
+  - G-TERM-friendship-5-stages
+
+related_cards:
+  - C-S6-186      # Lillard 真物探索
+  - C-S6-403      # Lansbury 不打不咬
+  - C-S6-668      # 松田物权
+  - C-S6-928      # Shonkoff tantrum
+
+citation:
+  source_id: SRC-027
+  source_title: "Handbook of Child Psychology Vol 3"
+  chapter: "Ch 10 Rubin / Selman"
+  chapter_offset: 3278729
+  chapter_title: 'Rubin Bukowski Parker — 同伴互动 + 关系 + 群体'
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_followup_needed: 'SRC-027 用 PDF 字节偏移代页码 — 待加 page_pdf 反查工具'

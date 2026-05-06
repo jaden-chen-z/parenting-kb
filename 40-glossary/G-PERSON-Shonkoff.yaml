@@ -1,0 +1,70 @@
+glossary_id: G-PERSON-Shonkoff
+type: person
+display_name: Shonkoff (杰克·尚科夫)
+
+full_name_en: Jack P. Shonkoff
+full_name_zh: 杰克·尚科夫
+
+one_liner: |
+  美国儿科医生 + 早期发展科学奠基政策学家。
+  1942- Brandeis 大学 Heller Graduate School 教授,后转 Harvard 公共卫生学院,
+  创办 Center on the Developing Child (2006),
+  主编 NRC 综述《From Neurons to Neighborhoods》(2000)。
+  后期主推 toxic stress + serve-and-return 概念,
+  把发展科学翻译成公共政策语言的关键学者。
+
+detail: |
+  ## 背景
+  - 美国 Cornell + Yale 医学院儿科训练
+  - 早期是 Brandeis Heller Graduate School 院长
+  - 后转 Harvard,创办 Center on the Developing Child(2006)
+  - 美国国家儿科科学院多次主席
+
+  ## 在儿童发展科学的地位
+  - **NRC 早期发展科学综述主编**(2000)— 17 人委员会
+  - **Harvard CDC 创办人** — 把儿童发展科学转化为政策学科
+  - **toxic stress 框架奠基**(2006+)— 后续工作不在 2000 年本书
+  - **Heckman 经济学合作伙伴**(后期)
+  - **联合国 / WHO 政策顾问**(早期发展)
+
+  ## 主要著作
+  - **2000《From Neurons to Neighborhoods》** ⭐⭐⭐ — 本卷,跟 Phillips 合编
+  - 后续《Center on the Developing Child》系列工作论文(2006+)
+  - 《The Lifelong Effects of Early Childhood Adversity and Toxic Stress》(2012 Pediatrics)
+
+  ## Shonkoff 核心立场
+  - 早期发展是公共政策问题不只私事
+  - 神经科学不告诉你怎么早教,只告诉你别毁孩子
+  - 关系是发展核心,不是教学
+  - 早期干预对高风险家庭 ROI 高
+  - 普通家庭不需 fancy 投入
+
+  ## 在中文社群的影响
+  - 中文圈知名度有限(NRC 综述无中译本)
+  - 但其 toxic stress / serve-and-return 概念正在普及
+  - "0-3 关键期"商业话术常引用 Shonkoff(常误用)
+
+key_facts:
+  - NRC 综述《From Neurons to Neighborhoods》主编
+  - Harvard Center on the Developing Child 创办人
+  - 早期发展科学转政策学科奠基人
+  - toxic stress + serve-and-return 概念后期推
+
+related_glossary:
+  - G-PERSON-Phillips
+  - G-TERM-NRC
+  - G-TERM-experience-expectant
+  - G-TERM-experience-dependent
+  - G-TERM-self-regulation
+  - G-TERM-30-million-words
+
+related_cards: []
+
+sources:
+  - source_id: SRC-025
+  - external: Wikipedia / Harvard CDC official page
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

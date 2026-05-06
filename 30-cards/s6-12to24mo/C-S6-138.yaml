@@ -1,0 +1,94 @@
+card_id: C-S6-138
+stages: [S6]
+tags: [montessori, parent-self-care, mental-health, philosophy]
+
+front:
+  title: 蒙氏父母先照顾自己
+  hook: 戴上自己的氧气罩
+
+back:
+  why_matters: |
+    Ch8 整章 Davies 给父母的核心 — **照顾宝宝前先照顾自己**。
+    类比:飞机紧急情况,先戴自己的氧气罩,再帮孩子。
+    为什么?
+    - 父母**饿 / 累 / 病** → 大脑进入 fight-flight 模式
+    - fight-flight 模式下,宝宝的哭从"信号"变成"刺激"
+    - 你越累,越对宝宝失耐心
+    - **耗尽的父母 ≠ 好父母**
+    Davies 的 4 方面自我准备:
+    1. **身体** — 吃 / 喝 / 睡 / 锻炼(每天散步算)
+    2. **智力** — 学习(继续读书 / 听播客 / 不只是育儿)
+    3. **情感** — 朋友 / 伴侣 / 家庭支持
+    4. **精神** — 自我宽容 / 接受不完美
+    Davies 列的"49 个保持冷静的方法"(精选 12 个):
+    1. 早起 30 分钟有"我"的时间
+    2. 锻炼 / 瑜伽 / 跑步
+    3. 跟朋友(无娃)见面
+    4. 拒绝不喜欢的事
+    5. 数 10 个深呼吸再回应
+    6. 接受不完美 + 自我宽容
+    7. 写感恩日记(每天 1 件好事)
+    8. 看到宝宝崩溃时**先观察自己**(我累了?饿了?)
+    9. 睡早 + 午睡
+    10. 笑(自嘲)
+    11. 跟自己讲话像跟最好朋友
+    12. 找"村庄"(育儿社群 + 朋友 + 家人 + 阿姨)
+    **最重要 1 条**:**"Connection over perfection"**(连接比完美重要)。
+    Davies 引 The Four Agreements:
+    1. 言出有信(对宝宝也是)
+    2. 不要把事当成针对自己(宝宝哭 ≠ 你失败)
+    3. 不要假设(不确定就问,不脑补)
+    4. 永远尽力(尽力不等于完美)
+    自我宽容 — 育儿一定有失误。学到 + 宽容自己 + 道歉示范 = 比完美更有教育意义。
+  what_to_do:
+    - 每天保证吃 / 喝 / 睡基础需求
+    - 每周 1+ 次自己的时间(无娃)
+    - 写感恩日记(每天 1 件好事)
+    - 累的时候先承认 — 不硬扛
+    - 找"村庄"(社群 / 朋友 / 阿姨 / 家人)
+  failure_mode: |
+    "我哪有时间照顾自己,宝宝最重要" — 耗尽的妈妈对宝宝伤更大。
+    "找别人帮我太麻烦" — 接受帮助 = 给宝宝更好的妈妈。
+    "我育儿不完美 = 我失败" — Connection over perfection。Davies 反复强调。
+  evidence_level: B
+
+  positions:
+    issue: 婚姻关系 vs 亲子关系 · 谁优先 · 自我照顾
+    views:
+      - school: Lillard
+        source: SRC-016
+        stance: 婚姻关系优先于亲子。父母回家先找配偶不是孩子,夫妻关系是孩子安全感的根基。
+      - school: Davies
+        source: SRC-014
+        stance: 父母先照顾自己,connection over perfection;同方向但语气更柔。
+      - school: Bowlby V2
+        source: SRC-012
+        stance: 母亲焦虑会代际传递。妈妈心理健康即孩子心理健康(机制层面)。
+      - school: 中国主流
+        stance: 为孩子牺牲一切 / 妈妈全心扑娃 / "为了你不离婚" — 父母自我消耗常态化。
+glossary_refs:
+  - G-PERSON-Davies
+  - G-PERSON-Montessori
+  - G-TERM-postpartum-depression
+
+citation:
+  book_title_zh: "蒙特梭利的小宝宝(0-1岁)"
+  book_title_en: "The Montessori Baby"
+  authors: ["Simone Davies", "Junnifa Uzodike"]
+  authors_zh: ["西蒙·戴维斯", "君妮法·乌佐迪克"]
+  publisher_en: "Workman Publishing"
+  year_en: 2021
+  isbn_en: "978-1-5235-0693-7"
+  location: "Chapter 8 · Preparation of the Adult > 49 ideas for staying calm"
+  source_id: SRC-014
+
+unit_ids: []
+related_cards:
+  - C-S1-033       # Karp 产后抑郁
+  - C-S3-132       # Wonder Week 4 月想"逃走"
+  - C-S6-137       # 蒙氏 跟老人沟通
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

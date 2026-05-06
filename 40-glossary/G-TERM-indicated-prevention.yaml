@@ -1,0 +1,40 @@
+glossary_id: G-TERM-indicated-prevention
+type: term
+display_name: 指标性预防
+
+en_term: Indicated Prevention
+zh_term: 指标性预防
+
+one_liner: |
+  Selman 3 级金字塔顶层 — 已有早期信号才介入,跟普遍/选择性区分
+
+detail: |
+  ## 定义
+  Selman 3 级金字塔顶层 — 已有早期信号才介入,跟普遍/选择性区分
+
+  ## V4 出处
+  Lerner Handbook of Child Psychology Vol 4 (Wiley 2006 第 6 版,Renninger-Sigel 主编)
+  本卷反复引用术语 — 详细见相关章节。
+
+  ## 跨派对接
+  - V4 综述权威立场
+  - 跨章节多次出现
+  - 跟现库其他派(AAP / Brazelton / Shonkoff / 松田)有立场对照
+
+  ## 中国家长意义
+  详细见相关知识卡(C-S0-12xx / C-S6-13xx / C-S7-13xx / C-S8-7xx)
+
+key_facts:
+  - "Lerner V4 反复引用术语"
+  - "应用心理学综述权威定义"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-029
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

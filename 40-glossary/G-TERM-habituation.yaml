@@ -1,0 +1,75 @@
+glossary_id: G-TERM-habituation
+type: term
+display_name: 习惯化 (habituation)
+
+full_name_zh: 习惯化
+full_name_en: Habituation
+
+one_liner: |
+  婴儿对重复刺激(如声音、灯光)的注意力下降 — 是大脑学习"什么不重要"的最早机制。新生儿评估关键能力之一(Brazelton NBAS / Spelke 实验都用习惯化范式测婴儿认知)。
+
+detail: |
+  ## 定义
+  Habituation = 同一刺激反复出现时,反应强度逐渐下降。
+  例如:
+  - 重复响闹钟 → 起初宝宝惊跳 → 反复几次后不再反应(习惯化)
+  - 看同一张图片 → 起初盯着 → 反复几次后看时间变短
+
+  反过来 — 给一个**新刺激** → 注意力立刻恢复 = 大脑认出"这是新的"。
+
+  ## 为什么重要
+
+  ### 1. 新生儿能力评估的核心范式
+  - **Brazelton NBAS**(新生儿行为评估量表)— 习惯化是 6 大评估维度之一
+  - 健康新生儿应能在 5-10 次重复后习惯化
+  - 习惯化能力差 = 神经系统问题信号(早产 / 缺氧 / 代谢异常 / 自闭谱系早期)
+
+  ### 2. 婴儿认知研究的"窗口"
+  - Spelke 物体永久性研究(C-S3-188):用习惯化-去习惯化范式测 4 月宝宝
+    - 反复给宝宝看球 A → 宝宝习惯化(注意力下降)
+    - 给宝宝看球 A 消失了 → 注意力立刻恢复 = 宝宝"知道球应该在那"
+    - 反 Piaget 8-10 月物体永久性
+  - Meltzoff & Borton 跨模态匹配(C-S2-184)用相同范式
+
+  ### 3. 父母实操含义
+  - **过度刺激就是无法习惯化** — 高敏感宝宝(C-S1-084 Brazelton)反复刺激不习惯化 → 哭闹
+  - **白噪音原理**(Karp 5S 嘘):持续白噪音让宝宝习惯化 → 进入安抚状态
+  - **过载信号识别**:宝宝转头 / 闭眼 / 哭闹 = 他在尝试习惯化失败 → 撤掉刺激
+  - **"关闭按钮"**(C-S1-074/075 Brazelton):新生儿用打哈欠 / 打嗝 / 闭眼来主动习惯化
+
+  ## 与"敏感期 / 关键期"的区别
+  - Habituation = 即时神经反应机制(秒级到分钟级)
+  - Sensitive period = 发育阶段窗口(月级到年级)
+  - Critical period = 不可逆的关键发育窗口(月级到年级)
+  - 三者是不同时间尺度的概念,常被混用
+
+key_facts:
+  - 婴儿对重复刺激的注意力下降 = 大脑学习"什么不重要"
+  - Brazelton NBAS 评估关键维度之一
+  - 新生儿应 5-10 次重复后习惯化
+  - 习惯化范式是认知研究的核心方法(Spelke / Meltzoff)
+  - 习惯化能力差 = 神经系统警告信号
+  - 过度刺激 = 无法习惯化 → 哭闹
+
+related_glossary:
+  - G-PERSON-Brazelton
+  - G-PERSON-Spelke
+  - G-TERM-six-states
+  - G-TERM-sensitive-periods
+  - G-TERM-critical-period
+
+related_cards:
+  - C-S0-004
+  - C-S1-074
+  - C-S1-075
+  - C-S1-082
+  - C-S1-084
+
+sources:
+  - source_id: SRC-010
+  - external: Brazelton NBAS 1973 + 现代认知发展心理学教材
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

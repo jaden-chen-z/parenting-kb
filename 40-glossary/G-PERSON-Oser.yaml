@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Oser
+type: person
+display_name: "Oser(弗里茨·奥泽)"
+
+full_name_en: "Fritz K. Oser"
+full_name_zh: "弗里茨·奥泽"
+
+position: |
+  University of Freiburg 教育学教授
+
+contribution: |
+  religious development stages + 信仰发展 5 阶段
+
+one_liner: |
+  弗里茨·奥泽 — religious development stages + 信仰发展 5 阶段
+
+key_facts:
+  - "本卷章节:Ch 17"
+  - "Lerner V1 命中:50+ 次"
+  - "学派:Lerner V1 信仰发展派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+    chapter: "Ch 17"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

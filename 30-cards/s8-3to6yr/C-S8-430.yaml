@@ -1,0 +1,68 @@
+card_id: C-S8-430
+stages: [S8]
+tags: [cognitive_science, multiple_intelligences, gardner, lerner_v2]
+
+front:
+  title: 神童不是均衡发达
+  hook: 多元智能极不均衡
+
+back:
+  why_matters: |
+    Gardner/Moran 综述(Lerner V2 Ch21 主笔)+ Gardner 1983 多元智能。
+    神童(prodigy)研究跨案例:
+    - 莫扎特(音乐神童)— 音乐 IQ 230,数学 IQ 一般
+    - Picasso(艺术神童)— 视觉 IQ 顶,语言 IQ 中等
+    - 数学神童(Terence Tao)— 数学顶,社交 IQ 中等
+    - 共同点:**单域突出 + 其他域中等**
+    Gardner 多元智能(Lerner V2 Ch21):
+    - 8 类独立智能(语言 / 逻辑数学 / 空间 / 音乐 / 身体动觉 / 人际 / 内省 / 自然)
+    - 单一 IQ 测验无法捕捉
+    - 神童 = 一域极强 + 其他平意义:
+    - 反"全才神童"概念
+    - 中国家长 "全才训练"是反科学(Lerner V2 综述)
+    - 真正"天才"是专精 + 持续兴趣 + 早识别
+    - 但天才 ≠ 育儿目标(普通孩子更需均衡)
+    跟现库:跟 Winner 艺术域独立(C-S8-426)+ Keil 直觉理论 3 大领域(C-S8-427)对接。
+    Lerner V2 给多元智能 + 神童综述。
+    对中国家长意义:
+    - 别"全才"逼孩子(神童本身不是全才)
+    - 看孩子 8 类智能分布
+    - 长板继续 + 短板不焦虑(看是否影响生活)
+    - 普通孩子需均衡,神童是特例
+  what_to_do:
+    - 8 类智能均衡观察
+    - 看到长板支持(不是全报)
+    - 不"全才训练"普通孩子
+    - 接受"普通"也是健康
+  failure_mode: |
+    "神童全才" — 错。专精突出。
+    "全才训练能造神童" — 错。神童是基因 + 兴趣 + 早识别。
+    "不是神童就失败" — 错。普通才是大多数。
+  evidence_level: B
+
+glossary_refs:
+  - G-TERM-baby-scientist
+  - G-PERSON-Gardner
+  - G-PERSON-Winner
+  - G-PERSON-Keil
+  - G-TERM-intuitive-theories
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 2 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 2 卷"
+  authors: ["Seana Moran", "Howard Gardner"]
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 21 · Extraordinary achievements · pp. 905-940"
+  source_id: SRC-028
+
+unit_ids: []
+related_cards:
+  - C-S8-426     # Winner 艺术域独立
+  - C-S8-427     # Keil 3 直觉理论领域
+  - C-S0-619       # Shonkoff 反早教 4 定理
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

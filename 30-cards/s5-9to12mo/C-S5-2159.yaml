@@ -1,0 +1,44 @@
+card_id: C-S5-2159
+stages: [S5]
+tags: [mainstream, social, shyness]
+
+front:
+  title: 害羞是性格不是病
+  hook: 别贴"胆小"标签
+
+back:
+  why_matters: |
+    9-15 月宝宝面对生人躲妈妈怀里、不愿打招呼,这是分离焦虑+认生的延续,也是天生气质类型(高反应型)的体现。前情:S4 已开始认生。Kagan 长期研究表明,15-20% 宝宝天生就是"慢热型",这不是缺陷而是性格,强行推上前打招呼会强化焦虑;接纳并提供安全基地,娃自己会按节奏融入。
+  what_to_do:
+    - 不强迫打招呼也不替娃道歉
+    - 让娃在妈妈怀里观察 5-10 分钟
+    - 提前告诉娃要见谁让有预期
+    - 别当娃面贴"胆小害羞"标签
+  failure_mode: |
+    亲戚一来就推娃喊人,娃哭被骂"没礼貌",长期下来加重社交焦虑甚至学龄期选择性缄默。
+  evidence_level: B
+
+glossary_refs: [G-TERM-attachment, G-TERM-inhibited-temperament]
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors:
+    - Heidi Murkoff
+    - Sharon Mazel
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh:
+    - 莫夏迪
+    - 张敏
+  location: "第 12 章第 12 个月, 页 475-478"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards: [C-S5-2144, C-S5-2151]
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

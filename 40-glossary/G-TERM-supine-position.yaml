@@ -1,0 +1,86 @@
+glossary_id: G-TERM-supine-position
+type: term
+display_name: 仰卧位最佳起点
+
+full_name_de: Rückenlage
+full_name_zh: 仰卧位起点
+full_name_en: Supine Position (Optimal Starting Point)
+
+one_liner: |
+  Pikler 1969 立场 — 出生起到能自己翻身前,婴儿应一直仰卧。
+  跟 AAP "Back to Sleep"(SIDS 防)立场一致(早 25 年)。
+  跟 Tummy Time 立场张力(conflicts F3)。
+
+detail: |
+  ## Pikler 1969 立场源头
+  - **Ch2 Bewegungsentwicklung 起点**:仰卧 + 自由动腿 + 衣服宽松
+  - **不竖抱**(脊椎软骨,被竖立 = 受压)
+  - **不俯卧**(头颈未控制 + 不利自然翻身)
+  - **不侧卧**(不稳定)
+
+  ## 仰卧位的好处(Pikler 论证)
+  1. 双手能进视野 — 婴儿发现自己有手(Ch6 Daumen 章核心)
+  2. 双脚能动 — 建立踢腿 / 蹬腿肌力
+  3. 头能自由转 — 视觉跟踪发展
+  4. 自然转向侧躺 → 翻身蓄力(自然过渡顺序)
+  5. 安全 — 不会窒息
+  6. 看世界视角宽(顶上 + 周围)
+
+  ## 跟现代立场关系
+  - **AAP Back to Sleep**(1994 起):睡觉必须仰卧防 SIDS — 跟 Pikler 一致
+  - **AAP Tummy Time**(2026):醒着可以俯卧"练颈肌" — Pikler 反(俯卧不利
+    自然翻身,会"教"婴儿在俯卧位停留)
+  - **冲突记 conflicts.md F3**
+
+  ## 持续时长
+  - **完全仰卧**:0-3 月(婴儿不会自己翻身前)
+  - **可以侧躺**:3-6 月(婴儿自己开始翻身蓄力时)
+  - **半翻 / 全翻**:4-7 月(婴儿自己翻过来)
+  - **过这个点**:婴儿自由换姿势,大人不干预
+
+  ## Pikler 反对的常见错误
+  - **新生儿"坐起来看世界"**:脊椎软骨,看世界视角不是好视角
+  - **大腿上"练坐"**:1-3 月大腿承重 = 错误起点
+  - **婴儿椅 / Bumbo / 摇椅**:撑姿 — Pikler 严反
+  - **强迫俯卧"练颈肌"**:Pikler 立场反(他认为颈肌仰卧时也练)
+
+  ## 实操配方
+  - 出生即仰卧 — 床 / 摇篮 / 地垫
+  - 衣服宽松到能自由动腿
+  - 不连体外套 + 不紧裹 + 不襁褓白天用
+  - 包巾只在睡眠用(防 startle reflex 惊醒)
+  - 抱起来时支撑头颈(臂弯)
+
+key_facts:
+  - Pikler 1969 起点立场
+  - AAP Back to Sleep 早 25 年的立场
+  - 完全仰卧到 3-6 月(婴儿自己翻身前)
+  - Tummy Time 立场张力(conflicts F3)
+  - 撑坐 / 竖抱 / Bumbo 全反对
+
+related_glossary:
+  - G-PERSON-Pikler
+  - G-TERM-bewegungsentwicklung
+  - G-TERM-no-propping
+  - G-TERM-pikler-milestones
+  - G-ABBR-SIDS
+  - G-TERM-back-sleep
+
+related_cards:
+  - C-S1-896  # Pikler 出生即仰卧
+  - C-S1-897  # Pikler 母婴关系是动作基础
+  - C-S2-832  # Pikler 1-3 月不在大腿坐
+  - C-S2-834  # Pikler 每天地板时间
+  - C-S1-409  # Gerber 永远仰卧不俯卧
+  - C-S1-016  # Karp/AAP SIDS 仰睡
+
+sources:
+  - source_id: SRC-026  # Pikler 1969
+  - source_id: SRC-019  # Lansbury 复述
+  - source_id: SRC-022  # Gerber RIE
+  - external: AAP Back to Sleep / Pikler Institute
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

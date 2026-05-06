@@ -1,0 +1,61 @@
+card_id: C-S6-401
+stages: [S6]
+tags: [autonomy, RIE, lansbury]
+
+front:
+  title: "不替孩子拧瓶盖:让他卡住"
+  hook: "卡住就是学习入口"
+
+back:
+  why_matters: |
+    Lansbury Ch13 经典故事:
+    20 月女孩 Jenna 把拧不开的罐子递给阿姨。
+    Lansbury 拦下阿姨:"别开"。
+    Jenna 没自己尝试,被另一孩子拿走 → 那孩子递给爸爸,
+    Lansbury 又拦:"别开"。
+    最终孩子自己折腾 → 学到"我能"。
+    主流家长本能:孩子递东西 = 我得帮。
+    RIE:孩子递东西可能只是"展示" / "social gesture",
+    不一定要你帮。先观察再决定。
+
+  what_to_do:
+    - 孩子递东西 = 接住 + 等待,不立即"开"
+    - 反问:"你想我帮你开?"
+    - 鼓励先自己试:"看看你能怎么办"
+    - 真要帮 = 一小部分,不全代劳
+    - 卡住 = 学习窗口,别太快关闭
+
+  failure_mode: |
+    "孩子求助我立即帮才是好家长" → 剥夺挫败感学习。
+    或反向:"绝不帮 = 锻炼" → 长期挫折让孩子放弃。
+    Lansbury 核心:孩子越被替做,越变 helpless。
+    阿姨"过度服务"反让 Jenna 成为 audience 不是 actor。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Lansbury
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+  - G-TERM-magic-word-wait
+
+citation:
+  book_title_en: "Elevating Child Care: A Guide to Respectful Parenting"
+  book_title_zh: "尊重孩子:RIE 育儿之道"
+  authors:
+    - Janet Lansbury
+  publisher_en: JLML Press
+  year: 2014
+  location: "Ch13 Allowing Your Toddler to Succeed"
+  source_id: SRC-019
+
+unit_ids: []
+related_cards:
+  - C-S5-131  # Davies 不替宝宝做
+  - C-S4-295  # Lansbury 挣扎时先等
+  - C-S7-137  # Lillard 轮流教学法
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

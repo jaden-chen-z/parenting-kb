@@ -1,0 +1,63 @@
+card_id: C-S3-501
+stages: [S3]
+tags: [participation, RIE, communication]
+
+front:
+  title: "让我参与我才懂"
+  hook: "印第安谚语 RIE 心法"
+
+back:
+  why_matters: |
+    Magda《自信的宝宝》Ch3 §What Is 高质量陪伴? 引印第安谚语,
+    成 RIE 派教学经典:
+    **"Tell me and I'll forget."**(告诉我,我会忘)
+    **"Show me and I'll probably not remember."**(给我看,我可能不记得)
+    **"Involve me and I'll understand."**(让我参与,我才懂)
+    Magda 把这套用到护理:不是"我给你做"是"我们一起做"。
+    宝宝再小也能"参与":
+    - 0-3 月:你抱我前看我表情(我准备好了再抱)
+    - 3-6 月:换尿布时我抬屁股
+    - 6-9 月:洗澡我自己拿毛巾
+    - 9-12 月:我自己端杯子。
+    Magda:6 月就开始邀请合作,不是等"懂事"才开始。
+
+  what_to_do:
+    - 每个护理动作邀请合作
+    - "你拿这块毛巾好吗"
+    - 等宝宝看你 / 笑 / 动 = 同意
+    - 不强迫,等不到换姿势再来
+    - 1 岁前每天 5+ 次"合作"机会
+
+  failure_mode: |
+    "宝宝太小不会合作" → Magda 反:你不邀请就永远不会。
+    Magda 引这谚语就是为了说:不参与 = 不懂。或"自己做快得多" → 反:
+    快是大人时间表,不是宝宝学习时间表。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+  - G-TERM-respectful-parenting
+
+citation:
+  book_title_en: "Your Self-Confident Baby"
+  book_title_zh: "自信的宝宝"
+  authors:
+    - Magda Gerber
+    - Allison Johnson
+  publisher_en: John Wiley & Sons
+  year: 1998
+  location: "Ch3 §What Is Quality Time?(p43-44 印第安谚语)"
+  source_id: SRC-021
+
+unit_ids: []
+related_cards:
+  - C-S1-353  # Lansbury 尿布连接仪式
+  - C-S6-130  # Davies 自主吃饭
+  - C-S3-191  # Lillard 大动作发展
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

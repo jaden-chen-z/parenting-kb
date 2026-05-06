@@ -1,0 +1,69 @@
+glossary_id: G-TERM-iron-deficiency-anemia
+type: term
+display_name: 缺铁性贫血 (iron deficiency anemia, IDA)
+
+full_name_en: Iron Deficiency Anemia (IDA)
+full_name_zh: 缺铁性贫血
+
+one_liner: |
+  1-3 岁高发的营养性贫血,主因牛奶过量挤占含铁辅食。AAP 12 月儿保常规筛查,严重影响认知发育。
+
+detail: |
+  ## 定义
+  缺铁性贫血(IDA)= 体内铁储备耗尽导致血红蛋白合成不足。
+  **9-24 月是发病高峰**,WHO 数据全球婴幼儿患病率约 30%,
+  中国 6-24 月城市儿童约 10-15%、农村高达 20%+。
+
+  ## 核心原因
+  1. **牛奶过量**:每日 > 720 ml 牛奶,蛋白和钙阻碍铁吸收,
+     且挤占含铁辅食空间(海蒂书重点警示)。
+  2. **辅食结构差**:6 月后未及时引入红肉、肝、强化米粉。
+  3. **早产/低出生体重**:出生时铁储备本就低,4 月后更易耗尽。
+  4. **持续性母乳无强化辅食**:母乳铁含量低且 6 月后不足,
+     必须配富铁辅食。
+
+  ## 后果
+  - **认知发育损伤**:1-3 岁缺铁可致**永久性**注意力、
+    学习能力下降(即使后期补铁也难完全恢复,见 Lozoff 长期研究)。
+  - 免疫力下降、生长迟缓、易疲倦烦躁。
+  - 严重者心率增快、口腔炎、异食癖(吃非食物如纸/泥)。
+
+  ## AAP 筛查
+  - **12 月儿保常规筛血红蛋白**(Hb)和血清铁蛋白。
+  - Hb < 110 g/L 诊断贫血,需进一步分型。
+  - 高风险婴儿(早产/低出生体重/母亲贫血)4 月起就开始
+    口服铁补充(2 mg/kg/d)。
+
+  ## 预防
+  - **6 月起加铁强化米粉作为第一口辅食**。
+  - 7-9 月加红肉泥/肝泥(每周 2-3 次)。
+  - 1 岁后牛奶不超过 720 ml/d。
+  - 含铁食物 + 维 C(橙汁/番茄)促吸收;
+    避免与茶/牛奶同食。
+
+key_facts:
+  - 9-24 月发病高峰
+  - 主因 = 牛奶过量挤占辅食
+  - 12 月儿保 AAP 常规筛查
+  - 后果可永久损伤认知
+  - 含铁辅食 + 维 C 促吸收
+
+related_glossary:
+  - G-ABBR-AAP
+  - G-ABBR-WHO
+  - G-TERM-whole-milk-toddler
+  - G-TERM-weaning-table
+
+related_cards:
+  - C-S5-2147      # 1 岁起换全脂牛奶(过量贫血)
+  - C-S5-2154      # 1 岁后食欲变小
+  - C-S5-2156      # 12 月儿保+疫苗(贫血筛查)
+
+sources:
+  - source_id: SRC-040
+  - external: "WHO Iron Deficiency Anaemia: Assessment, Prevention, Control (2001) / Lozoff B et al, Pediatrics (2006)"
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

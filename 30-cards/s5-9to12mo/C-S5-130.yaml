@@ -1,0 +1,68 @@
+card_id: C-S5-130
+stages: [S5]
+tags: [montessori, trust, philosophy, milestone]
+
+front:
+  title: 1 岁前两份心理大礼
+  hook: 信任环境+信任自己
+
+back:
+  why_matters: |
+    Junnifa 的故事:儿子 1 岁生日时她列礼物清单 — 木积木 / 三轮车 / 音乐玩具。
+    然后突然意识到:**最好的 1 岁礼物不是物质的,是心理的**。
+    Davies 提出 "**两份基本信任**"(two basic trusts):
+    1. **基本信任 - 环境**(2 月底前形成)
+       - "这个世界是友好的,我的需求会被回应"
+       - 通过共生期(0-6 周)的及时回应建立
+       - 类似 Bowlby 的 secure base
+    2. **基本信任 - 自我**(9 月底前形成)
+       - "我能做到,我能解决问题"
+       - 通过 6-9 月不替他做、让他自己练建立
+       - 第 9 个月 = 宝宝在子宫外的时间 = 在子宫内时间("外孕期" exterogestation 结束)
+    9-12 月的某天 — 你会发现宝宝主动爬走 / 自己找玩具 / 自己拿水杯,回头看你笑笑然后继续探索。
+    那一刻 — **两份大礼到货**。
+    实操含义 — 0-12 月家长最重要的工作不是买什么 / 教什么,是给环境 + 给空间让这两份信任自然形成。
+    1 岁后影响:
+    - 信任环境 → 长大乐观 / 心理弹性强
+    - 信任自我 → 长大自信 / 不怕失败错过这两份 → 1 岁后再补很慢。
+  what_to_do:
+    - 0-6 周共生期及时回应(建信任环境)
+    - 6-9 月不替他做能做的事(建信任自我)
+    - 接受他自己探索 / 自己解决
+    - 庆祝他主动爬走的瞬间(信任成形)
+    - 不焦虑买礼物,焦虑陪伴质量
+  failure_mode: |
+    "1 岁宝宝懂什么礼物" — 不是宝宝懂,是家长准备的"礼物"应该是这两份心理基础。
+    "我家宝宝 1 岁还不爬走 = 缺乏自信" — 时间表是参考,看趋势不看单天。
+    把 0-12 月当"喂饱睡好就行" — 错过最关键心理基础窗口。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Davies
+  - G-PERSON-Bowlby
+  - G-TERM-attachment
+  - G-TERM-secure-base
+  - G-TERM-internal-working-model
+
+citation:
+  book_title_zh: "蒙特梭利的小宝宝(0-1岁)"
+  book_title_en: "The Montessori Baby"
+  authors: ["Simone Davies", "Junnifa Uzodike"]
+  authors_zh: ["西蒙·戴维斯", "君妮法·乌佐迪克"]
+  publisher_en: "Workman Publishing"
+  year_en: 2021
+  isbn_en: "978-1-5235-0693-7"
+  location: "Chapter 5 · Trust > Two basic trusts"
+  source_id: SRC-014
+
+unit_ids: []
+related_cards:
+  - C-S1-122       # Bowlby 依恋形成
+  - C-S1-127       # Bowlby 反应快宝宝独立
+  - C-S5-070       # Bowlby 安全基地
+  - C-S1-190       # 蒙氏 反应不会宠坏
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

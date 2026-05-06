@@ -1,0 +1,61 @@
+card_id: C-S3-129
+stages: [S3]
+tags: [development_burst, controversy]
+
+front:
+  title: 19 周第四跃迁:事件世界
+  hook: 4 月开始把动作串事件
+
+back:
+  why_matters: |
+    第 19 周(15-19 周)是 Wonder Week 第四跃迁 — **事件世界**(World of Events)。
+    怎么回事:大脑从"识别静态/平滑模式"升级到能感知**短序列事件** —
+    能把"伸手 → 抓 → 摇 → 看 → 放嘴里"理解为一个完整事件,而不是孤立动作。
+    跃迁前烦躁 阶段 从第 15 周(有时 14 周)开始 — 比之前所有跃迁都早 + 长。
+    跃迁完成后宝宝立刻:
+    - 抓玩具不再是单一动作,会"抓-摇-换手-看-咬"完整序列
+    - 把球丢出去会期待球的轨迹(球会落地 + 弹起)
+    - 听妈妈说话会期待应答(对话事件感)
+    - 开始尝试翻身 / 蹬腿等需要"动作序列"的能力
+    - 物体永久性的认知前提开始建立家长意义:**4 个月狂哭狂黏不是病不是断奶信号,是 WW19 跃迁**。
+  what_to_do:
+    - 14-17 周出现 3 C 信号 → 第四跃迁来了
+    - 玩"丢-捡"游戏(让宝宝预期事件结果)
+    - 不要在 4 月引入辅食(等 5-6 月跃迁完再开始更稳)
+    - 跃迁期间多陪伴 + 不强求规律
+    - 跃迁后给可抓握 + 可摇响的玩具
+  failure_mode: |
+    "4 月狂哭 + 频繁要奶 = 断奶信号 → 加奶粉" — 其实烦躁 阶段 4 周后会自动恢复。
+    "宝宝拒绝喝奶玩玩奶嘴就走" — 跃迁期食欲乱很正常,不要强喂。
+    "4 月怕陌生人 = 性格内向" — 跃迁期对陌生人格外抗拒,跃迁后会缓解。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-vanderijt
+  - G-TERM-wonder-week
+  - G-TERM-mental-leap
+  - G-TERM-3C-signs
+  - G-TERM-fussy-phase
+
+citation:
+  book_title_zh: "婴儿大脑跃迁 10 周(神奇周)"
+  book_title_en: "The Wonder Weeks"
+  authors: ["Hetty van de Rijt", "Frans X. Plooij"]
+  authors_zh: ["海蒂·凡德里特", "弗朗斯·普洛伊"]
+  publisher_en: "Kiddy World Publishing"
+  year_en_first: 1992
+  isbn_en: "978-90-79208-12-1"
+  location: "Chapter 6 · Wonder Week 19: The World of Events(at around 19 weeks... his ability to understand the world becomes far more developed... fussy phase starts at 15 weeks, lasts 1-6 weeks)"
+  source_id: SRC-013
+
+unit_ids: []
+related_cards:
+  - C-S1-178       # 三 C 信号
+  - C-S1-179       # 10 个跃迁时间表
+  - C-S2-122       # WW12 平滑过渡(前一跃迁)
+  - C-S3-130       # 4-5 月长 fussy phase
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

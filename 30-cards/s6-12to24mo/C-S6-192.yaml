@@ -1,0 +1,85 @@
+card_id: C-S6-192
+stages: [S6]
+tags: [montessori, will, discipline, controversy]
+
+front:
+  title: No 永远是 No
+  hook: No 不留商量空间
+
+back:
+  why_matters: |
+    Lillard Ch9 直接说:**"No"必须每次都是 no — 不能"再问一次说不定就给"**。
+    "No"不能意味着:
+    - "再问一次说不定我会给"
+    - "哭得够大声就能换"
+    - "在公共场所闹我就妥协"
+    - "对外公外婆撒娇就行"
+    - "说'我恨你'我就让步"
+    为什么这条至关重要:
+    - 孩子在不停"测试" — 测大人界限在哪
+    - 一次妥协 → 学到"哭闹有用" → 反复用
+    - 一致 = 安全感(界限稳定)
+    - 不一致 = 焦虑感(永远不知道哪次有用)
+    Lillard 引蒙氏培训师:
+    > **"限度由我们用爱教,或世界不带爱地教 — 二选一"**
+    实操:
+    - 答应前**先想清楚**(说了"yes"就执行)
+    - 说"no"前**先确定**(然后绝不变)
+    - 哭闹 / 闹脾气 / 公共场所闹 → 不变
+    - "我说一次,然后我执行"
+    - 不解释不商量(对 12-18 月)
+    跟"协商育儿" / "尊重孩子选择"现代主流**部分对立** — Lillard:**尊重不等于商量**,大事大人定,小事可选。
+  what_to_do:
+    - 答应前先想清楚
+    - 说 No 前先确定
+    - 任何场景不变(包括公共)
+    - 不解释不商量
+    - 哭闹 = 平静坚持
+  failure_mode: |
+    "看孩子哭得很惨,这次让他吧" — 反:这一次让 → 永远学不到 No 是 No → 长大无界限。
+    跟伴侣立场不一致 → 孩子知道找谁能"突破" → 学到操纵。
+  evidence_level: A
+
+  positions:
+    issue: '"妈不要你了" 等威胁话术作为管教手段是否可行'
+    views:
+      - school: Bowlby V2
+        source: SRC-012
+        stance: 强烈反对 — 等同系统性精神虐待,直接破坏依恋安全。属儿童虐待范畴。
+      - school: Davies
+        source: SRC-014
+        stance: 温柔而清晰的边界,不撤回爱。规则讲明,情绪仍在场。
+      - school: Lillard
+        source: SRC-016
+        stance: No 永远是 No,但界限设置不带情绪 / 不带威胁。
+      - school: 鲍秀兰
+        source: SRC-009
+        stance: 不打孩子立场对齐反虐待派,但未直接禁此话术。
+      - school: 中国主流
+        stance: '"妈不要你了" 是常用威胁话术;"我是为你好" 是常用绑架话术。'
+glossary_refs:
+  - G-PERSON-Lillard
+  - G-PERSON-Jessen
+
+citation:
+  book_title_zh: "蒙台梭利从 0 岁开始"
+  book_title_en: "Montessori from the Start"
+  authors: ["Paula Polk Lillard", "Lynn Lillard Jessen"]
+  authors_zh: ["宝拉·波尔克·莉拉德", "琳·莉拉德·杰森"]
+  publisher_en: "Schocken Books"
+  year_en: 2003
+  isbn_en: "978-0-8052-1112-1"
+  location: "Ch 9 · 'Developing Will' (No means No)"
+  source_id: SRC-016
+
+unit_ids: []
+related_cards:
+  - C-S6-188       # Lillard 选 2 法
+  - C-S6-191       # Lillard 12-18 月物理移除
+  - C-S6-133       # Davies 温柔但清晰边界
+  - C-S6-007       # 鲍秀兰 不打不骂
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

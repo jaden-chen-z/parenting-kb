@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Cairns-B
+type: person
+display_name: "Cairns-B(贝弗利·凯恩斯)"
+
+full_name_en: "Beverley D. Cairns"
+full_name_zh: "贝弗利·凯恩斯"
+
+position: |
+  University of North Carolina 研究员
+
+contribution: |
+  发展心理学史 + 纵向研究方法 + Cairns-Cairns 共著
+
+one_liner: |
+  贝弗利·凯恩斯 — 发展心理学史 + 纵向研究方法 + Cairns-Cairns 共著
+
+key_facts:
+  - "本卷章节:Ch 3"
+  - "Lerner V1 命中:50+ 次"
+  - "学派:Lerner V1 历史综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+    chapter: "Ch 3"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

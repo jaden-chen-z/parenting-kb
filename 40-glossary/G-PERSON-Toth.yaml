@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Toth
+type: person
+display_name: "Toth(雪莉·托斯)"
+
+full_name_en: "Sheree L. Toth"
+full_name_zh: "雪莉·托斯"
+
+position: |
+  University of Rochester
+
+contribution: |
+  发展精神病理学 + 虐待研究(与 Cicchetti)
+
+one_liner: |
+  雪莉·托斯 — 发展精神病理学 + 虐待研究(与 Cicchetti)
+
+key_facts:
+  - "本卷章节:Ch 13 主笔"
+  - "Lerner V4 命中:99 次"
+  - "学派:Lerner V4 应用心理学派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-029
+    chapter: "Ch 13 主笔"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

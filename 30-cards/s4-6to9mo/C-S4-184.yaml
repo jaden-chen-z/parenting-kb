@@ -1,0 +1,61 @@
+card_id: C-S4-184
+stages: [S4]
+tags: [cognitive_science, language, critical_period, perceptual_narrowing]
+
+front:
+  title: 6-12 月外语音素之窗就关了
+  hook: 错过这窗永有口音
+
+back:
+  why_matters: |
+    Kuhl 1992 经典实验 — 发展心理学最被广泛引用的发现之一。
+    0-6 月婴儿能区分**全世界所有语言**的音素差别("citizens of the world")。
+    6-12 月开始**调谐到母语** — 失去外语音素辨别能力。
+    Kuhl 跨国实验数据:
+    - 7 月日本宝宝 + 美国宝宝 — **都能区分** R / L
+    - 10 月:只有美国宝宝能区分,日本宝宝失去这能力
+    - 同样实验在加拿大宝宝 vs 印度宝宝(印度音素区分)= 一样模式机制:大脑用**统计学习**调权重 — 听得多的音素加强,听得少的修剪。
+    这是 perceptual narrowing(知觉重组)— 用辨别力换识别速度。
+    含义:**6-12 月是双语家庭的关键期窗口**。
+    错过这窗,**长大后学外语永有口音** — 不是天分问题,是窗口关了。
+    对中国家长意义:
+    - 想娃英语没口音?6-12 月真人英语对话(找人 / 视频通话亲戚)
+    - "等 6 岁后系统学外语" — 错。已错过完美口音窗口
+    - 不是不能学,是只能学到"能听能说"+ 永有口音
+  what_to_do:
+    - 6-12 月双语家庭找真人英语对话
+    - 视频通话英语亲戚 / 朋友(实时互动)
+    - 不依赖动画 / CD(被动音频无效,见 C-S5-183)
+    - 怕影响母语?反:不会,大脑自动分两套
+  failure_mode: |
+    "外语 6 岁后再学,怕影响母语" — 错。6-12 月就关窗了。
+    "听 BBC / VOA 给宝宝磨耳朵" — 错。被动音频对窗口期无效。
+    双语启蒙找老外频繁陪伴 = 对的(真人互动有效)。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Kuhl
+  - G-TERM-perceptual-narrowing
+  - G-TERM-critical-period
+  - G-TERM-statistical-learning
+  - G-TERM-phoneme
+
+citation:
+  book_title_en: "The Scientist in the Crib"
+  book_title_zh: "摇篮里的科学家"
+  authors: ["Alison Gopnik", "Andrew N. Meltzoff", "Patricia K. Kuhl"]
+  publisher_en: William Morrow
+  year: 1999
+  location: "Chapter 4 · Becoming a Language-Specific Listener (Kuhl Japan)"
+  source_id: SRC-015
+
+unit_ids: []
+related_cards:
+  - C-S1-242       # 出生即识母声
+  - C-S5-183       # Kuhl 真人 vs 录像
+  - C-S2-181       # parentese 科学
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

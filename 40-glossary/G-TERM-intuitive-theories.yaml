@@ -1,0 +1,73 @@
+glossary_id: G-TERM-intuitive-theories
+type: term
+display_name: 直觉理论 (intuitive theories)
+
+full_name_zh: 直觉理论 / 朴素理论
+full_name_en: Intuitive Theories / Naive Theories
+
+one_liner: |
+  Keil + Carey + Gelman 立场 — 儿童认知不是统一智力,是 3 大独立领域:
+  朴素物理 / 朴素心理 / 朴素生物。
+
+detail: |
+  ## 定义
+  儿童早期 3 大直觉理论(domain-specific):
+  1. **Naive Physics**(朴素物理)
+     - 物体如何动 / 重力 / 固体性
+     - 3-4 岁稳定
+     - 基础在 Spelke 核心知识"物体系统"
+  2. **Naive Psychology**(朴素心理)
+     - 别人有想法 / 意图 / 信念
+     - 4-5 岁通过 Sally-Anne(Wellman ToM)
+  3. **Naive Biology**(朴素生物)
+     - 生命 / 繁殖 / 代谢
+     - 7-10 岁概念革命后稳定
+
+  ## 关键洞察
+  - 3 个领域**独立发展**
+  - 一个孩可能朴素心理强(社交好)朴素物理弱
+  - 不能用单一智力测试评估
+
+  ## 立场
+  - Keil / Carey / Gelman 主流派
+  - 反单一 IQ 指标
+  - 部分认同 Spelke 核心知识
+
+  ## 在本知识库中
+  - SRC-028 Lerner V2 Ch14/Ch16 综述
+  - C-S8-427 直觉理论 3 大领域
+  - C-S8-421 朴素生物学
+
+  ## 中国家长意义
+  - 不要"智力 = 一个数字"评孩子
+  - 3 大领域各看(物理 / 社交 / 生命)
+  - 短板可补,但不影响其他领域
+  - 中国传统重知识 — 别忽视社交
+
+key_facts:
+  - Keil/Carey/Gelman 主流立场
+  - 3 大领域独立(物理/心理/生物)
+  - 反单一智力测试
+  - 部分先天 + 部分文化
+
+related_glossary:
+  - G-PERSON-Keil
+  - G-PERSON-Carey
+  - G-PERSON-Spelke
+  - G-PERSON-Wellman
+  - G-TERM-theory-of-mind
+  - G-TERM-baby-scientist
+
+related_cards:
+  - C-S8-427
+  - C-S8-421
+  - C-S7-1096
+
+sources:
+  - source_id: SRC-028
+  - external: Keil 1989 / Carey 1985 / Wikipedia Intuitive Theory
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

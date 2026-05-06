@@ -1,0 +1,71 @@
+card_id: C-S7-1310
+stages: [S7]
+tags: [DAP, hyson, preschool, lerner_v4]
+
+front:
+  title: 2-3 岁玩+探+建关系
+  hook: 2-3 岁玩探+关系
+
+back:
+  why_matters: |
+    Hyson V4 Ch 1(2-3 岁学龄前段)。
+    **2-3 岁 DAP 核心 = 玩 + 探索 + 关系**:
+    - **玩**:角色扮演 + 假装 + 积木
+    - **探索**:户外 + 新环境 + 提问
+    - **关系**:同伴 + 老师 + 家庭
+    - **学习**:在玩 + 探索中嵌入
+    **2-3 岁主要发展任务**:
+    - 自我意识深化(我是 X)
+    - 语言爆发(从 200 → 1000+ 词)
+    - 同伴互动起步(平行 → 联合游戏)
+    - 自我调节起步(等 / 转移 / 命名情绪)
+    **反"提前学龄"3 大误区**:
+    - ❌ "2 岁开始学拼音"(违反 DAP 知识)
+    - ❌ "3 岁专注 30 分钟"(过早,自然 5-10 分钟)
+    - ❌ "数学 100 题"(违反所有 DAP 维度)
+    **真正"早教" 4 维度**:
+    - 大动作(跳 / 跑 / 攀)
+    - 精细动作(画 / 拼 / 撕 / 贴)
+    - 语言(读 + 说 + 听 + 提问)
+    - 社交情绪(等 / 分享 / 命名情绪)
+    跟现库:跟 C-S6-1380 学步 DAP + C-S0-1235 DAP 总论 + 松田反早教(SRC-024 §470)对接。
+    对中国家长意义:
+    - 2-3 岁别教学业
+    - 玩 + 探索 + 关系 = 真早教
+    - 选幼儿园看 DAP 4 原则
+    - 报"早教班"前先想 — 是否符合 DAP
+  what_to_do:
+    - 2-3 岁别教学业
+    - 玩+探索+关系 = 真早教
+    - 选幼儿园看 DAP 4 原则
+    - 报班前查 DAP
+  failure_mode: |
+    "2 岁拼音 3 岁数学"— 错。违反 DAP。
+    "专注 30 分钟"— 错。自然 5-10 分钟。
+    "100 题刷"— 错。机会成本高。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Hyson
+  - G-PERSON-Bredekamp
+  - G-TERM-DAP
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 4 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 4 卷"
+  authors: ['Marilou Hyson', 'Carol Copple', 'Jacqueline Jones']
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 1 · Hyson · 2-3yr DAP play+explore+relate · pp. 25-35"
+  source_id: SRC-029
+
+unit_ids: []
+related_cards:
+  - C-S6-1380     # V4 学步 DAP
+  - C-S0-1235     # DAP 总论
+  - C-S7-995     # V3 Thompson self 起源
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

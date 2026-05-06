@@ -1,0 +1,70 @@
+card_id: C-S6-963
+stages: [S6]
+tags: [pikler, language, anti-training, source-de, controversy]
+
+front:
+  title: "不催说话 1-3 岁都行"
+  hook: "Pikler 反催说妈妈"
+
+back:
+  why_matters: |
+    Pikler 1969 Ch8(Erlernen der Sprache)关键立场:
+    语言发展跟其他发展**独立** — 1 岁开始说话 vs 3 岁才开口都正常,跟孩子"聪明 / 理解力"无关。
+
+    Pikler 描述自然语言发展:
+    - **6-8 周**:婴儿开始 lallen(咿呀),通常以
+      "gö-gö" 起步
+    - **数月间**:婴儿"系统学语音学" — 喉音 / 舌音 /
+      唇音按顺序练习,每天数小时
+    - **9-12 月**:Babbelsprache(咿呀语)出现 — 模仿大人语调 + 节奏(像在"流畅说话"但没词)
+    - **1-3 岁**:开始用真词 — 每孩节奏不同
+
+    Pikler 立场关键 — Sprachfertigkeit(语言能力)是个体特质,不是大人"教"出来的。
+
+    跟中国"快说妈妈" / "重复让他记单词"完全冲突。
+    Pikler 立场:重复 = 干扰 + 给孩子焦虑。
+
+    Magda Educaring "真声音"(SRC-022 C-S1-407)+
+    Lansbury Encourage Toddlers to Talk(SRC-019 Ch17)
+    立场源头在此。
+
+  what_to_do:
+    - 6-12 月听孩子 lallen / Babbelsprache — 不评论
+    - 不重复"妈妈妈妈妈妈"(不教)
+    - 不催"快说妈妈"
+    - 大人正常说话 — 用真声音不嗲嗲
+    - 1-3 岁第一个词都正常,3 岁后没词再担心
+
+  failure_mode: |
+    "1.5 岁还不会叫人是不是发育落后" → Pikler 反:
+    Pikler 数据范围 1-3 岁正常。强迫"重复教"反而拖慢自然节奏。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Pikler
+  - G-TERM-bewegungsentwicklung
+  - G-TERM-geduld-pikler
+
+citation:
+  book_title_de: "Friedliche Babys – zufriedene Mütter"
+  book_title_zh: "和平的婴儿 — 满足的母亲"
+  authors:
+    - Emmi Pikler
+  publisher_de: HERDER (HERDER / SPEKTRUM Band 4141)
+  year: 1969
+  location: "Ch8 Erlernen der Sprache pp. 176-200"
+  source_id: SRC-026
+
+unit_ids: []
+related_cards:
+  - C-S1-407  # Gerber 用真声音说话(本卷源头)
+  - C-S0-167  # Magda 7 大育儿原则
+  - C-S4-349  # Gerber 里程碑不是赛跑
+  - C-S6-461  # Gerber 幼儿不需要被教
+  - C-S6-822  # 松田硬塞会变创伤(反训练同源)
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

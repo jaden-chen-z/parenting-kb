@@ -1,0 +1,27 @@
+glossary_id: G-TERM-cross-cultural-validity
+type: term
+display_name: "跨文化效度 / cross-cultural validity"
+
+name_en: "cross-cultural validity"
+name_zh: "跨文化效度"
+
+description: |
+  Shweder / Spencer 警示 — 80% 育儿研究基于美国白人中产,不一定适合其他文化。
+
+one_liner: |
+  跨文化效度(cross-cultural validity)— Shweder / Spencer 警示 — 80% 育儿研究基于美国白人中产,不一定适合其他文化。
+
+key_facts:
+  - "Lerner V1 元理论卷核心术语"
+  - "学派:Lerner V1 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

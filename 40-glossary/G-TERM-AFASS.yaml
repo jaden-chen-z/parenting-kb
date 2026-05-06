@@ -1,0 +1,44 @@
+glossary_id: G-TERM-AFASS
+type: term
+display_name: "AFASS 5 条件"
+
+en_term: "AFASS Standard (Acceptable, Feasible, Affordable, Sustainable, Safe)"
+zh_term: "AFASS 替代喂养 5 条件"
+
+one_liner: |
+  AFASS = 替代喂养必须满足的 5 条件:可接受/可行/可负担/可持续/安全。
+
+detail: |
+  ## 5 条件
+  - Acceptable(可接受)— 文化和家庭可接受配方
+  - Feasible(可行)— 妈妈/家庭有能力准备
+  - Affordable(可负担)— 经济上可持续
+  - Sustainable(可持续)— 长期供应稳定
+  - Safe(安全)— 清洁水 + 消毒奶瓶 + 70°C 水冲
+  
+  ## 用途
+  HIV+ 妈妈喂养决策:5 全满足 → 用配方;不全 → EBF + ART。
+  
+  ## 适用扩展
+  也适用于其他需要替代喂养的情况(妈妈病/ 化疗 / 死亡等)。
+
+key_facts:
+  - "WHO 5 条件框架"
+  - "HIV+ 喂养决策核心"
+  - "5 条件全满足才用配方"
+
+related_glossary:
+  - G-TERM-HIV-feeding
+  - G-TERM-acceptable-medical-reasons
+
+related_cards:
+  - C-S1-1012
+  - C-S1-1013
+
+sources:
+  - source_id: SRC-031
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

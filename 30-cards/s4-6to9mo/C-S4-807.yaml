@@ -1,0 +1,69 @@
+card_id: C-S4-807
+stages: [S4]
+tags: [shonkoff, nrc, parentese, language_development, kuhl]
+
+front:
+  title: "婴语不是装弱智"
+  hook: "高音慢调婴语有科学"
+
+back:
+  why_matters: |
+    NRC 综述 Ch 6 引 Kuhl 多研究 — parentese(婴语 / 妈语)的科学价值:
+    **parentese 特征**(NRC 综述):
+    - 高音调
+    - 慢节奏
+    - 夸张韵律
+    - 简化词汇
+    - 重复多
+    - 看着宝宝脸说
+    **机制**:
+    1. **吸引注意力** — 高音吸引婴儿听
+    2. **凸显语音边界** — 慢节奏让宝宝听清音节
+    3. **强化关键词** — 夸张韵律帮记忆
+    4. **促进社交学习** — 看脸 + 说话 = social referencing
+    **跨文化普遍** — 全球人类妈对婴儿都自动 parentese 化(无意识)。
+    **NRC 立场**:
+    - parentese 不是"装弱智" — 是科学的
+    - 跟宝宝说"成人话"不是高级 — 是错过窗口
+    - **6-12 月**正是 parentese 黄金期
+    **对中国家长**:
+    - 别因"装弱智"羞耻而不说 parentese
+    - "宝宝你看 / 这是球球"高音慢调 → 大脑友好
+    - 别说"她还小听不懂别浪费时间" — Kuhl 数据明确支持
+    - 双语家庭 → 两种语言都用 parentese 也行跟 Gopnik SRC-015 + 鲍秀兰 SRC-009 一致。
+  what_to_do:
+    - 多 parentese 不羞耻
+    - 高音慢调夸张
+    - 看着宝宝说
+    - 重复关键词多次
+    - 双语都用 parentese
+  failure_mode: |
+    "我跟孩子用大人话说才高级" — 错,Kuhl 数据明确 parentese 才是宝宝大脑食粮。
+    "她还小听不懂" — 错,听了再多遍才学会。
+    家里来客装"大人模式"不 parentese → 客人走继续 parentese。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Shonkoff
+  - G-PERSON-Kuhl
+  - G-TERM-parentese
+  - G-TERM-NRC
+
+citation:
+  book_title_en: "From Neurons to Neighborhoods"
+  authors: ["Jack P. Shonkoff", "Deborah A. Phillips"]
+  org: "NRC/IOM"
+  year_en: 2000
+  location: "Ch 6 · Kuhl parentese research synthesis"
+  source_id: SRC-025
+
+unit_ids: []
+related_cards:
+  - C-S4-202    # Gopnik parentese / Kuhl SRC-015
+  - C-S5-295    # Stern intersubjectivity 共在 SRC-018
+  - C-S4-002    # 鲍秀兰 母婴语言 SRC-009
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

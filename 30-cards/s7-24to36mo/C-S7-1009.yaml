@@ -1,0 +1,50 @@
+card_id: C-S7-1009
+stages: [S7]
+tags: [bandura, self_efficacy, 4_sources, lerner_v3, foundational]
+
+front:
+  title: "Bandura 自效 4 来源"
+  hook: "我能做到怎么建了"
+
+back:
+  why_matters: |
+    Bandura(via Ch 9 Harter 综述)— self-efficacy(自我效能)4 来源:
+    ① mastery(掌握经验 — 自己做成)最强 ② vicarious(看别人做成)
+    ③ social persuasion(被告知你能)④ physiological(看身体反应)。
+    一句话 — 不是夸出自信,是让娃真的做成事。
+  what_to_do:
+    - "给适度难度任务(75% 能成)"
+    - "成了夸过程不夸聪明"
+    - "看哥哥姐姐做(替代经验)"
+    - "你信任他能(社会说服)"
+    - "教他读身体信号(紧张是正常)"
+  failure_mode: |
+    只夸不让做(我帮你),自效能没有 mastery 来源。
+    Bandura — 4 来源中 mastery 最强,夸是次要的。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Bandura
+  - G-PERSON-Harter
+  - G-TERM-self-efficacy
+  - G-TERM-mastery-experience
+
+related_cards:
+  - C-S7-348      # Lansbury 温柔
+  - C-S7-552      # Gerber 自律
+  - C-S7-130      # Lillard 服从
+  - C-S7-1000     # Lerner self-evaluation
+
+citation:
+  source_id: SRC-027
+  source_title: "Handbook of Child Psychology Vol 3"
+  chapter: "Ch 9 Harter / Bandura"
+  chapter_offset: 2905445
+  chapter_title: 'Harter — 自我'
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_followup_needed: 'SRC-027 用 PDF 字节偏移代页码 — 待加 page_pdf 反查工具'

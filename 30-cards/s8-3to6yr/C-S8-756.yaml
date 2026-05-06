@@ -1,0 +1,82 @@
+card_id: C-S8-756
+stages: [S8]
+tags: [tools_of_mind, vygotsky, lerner_v4]
+
+front:
+  title: 私语训出自我调节
+  hook: 靠私语练习自我调节
+
+back:
+  why_matters: |
+    "心智工具"课程(Tools of the Mind,Bodrova-Leong)— V4 第 9 章 Boekaerts + 第 1 章 Hyson 引用。
+
+    **"心智工具"哲学**:
+    - 基于**维果茨基**学派
+    - 自我调节 = 通过**私语**(自言自语 / private speech)训练
+    - 角色扮演 + 计划 + 反思 = 学前核心
+    - 反"刷字 / 刷算"早教模式
+
+    **3 大方法**:
+    - **玩耍计划**:玩前先画计划("我要扮医生")
+    - **结伴阅读**:两娃配对读书,互教互学
+    - **私语练习**:鼓励自言自语,过渡到内省
+
+    **随机对照研究证据**(Diamond 2007 经典):
+    - 4-5 岁孩子,1 年干预
+    - 自我调节 + 执行功能显著提升
+    - **效果比知识训练强**
+
+    **核心理念**(维果茨基):
+    - 自我调节先有外部对话(私语)
+    - 外部内化为内省
+    - 私语不是"奇怪",是"健康发展"
+
+    **反"安静孩子才好"**:
+    - 安静不等于自我调节好
+    - 有些自言自语是健康
+
+    跟现库:跟 V3 维果茨基(待建 G-PERSON)+ V3 艾森伯格"自控力"(C-S5-1041)
+    + Boekaerts(C-S8-738)对接。
+
+    对中国家长意义:
+    - 鼓励孩子自言自语(不是奇怪)
+    - 玩前画计划("接下来我要……")
+    - 两娃配对读 / 学
+    - 反"安静才听话"逻辑
+  what_to_do:
+    - '鼓励自言自语,不抓"奇怪"'
+    - '玩前画计划"接下来要……"'
+    - 两娃配对读 + 学
+    - '反"安静才听话"'
+  failure_mode: |
+    "安静孩子才听话" — 错。自言自语是健康。
+    "刷字刷算就够" — 错。自我调节预测学业。
+    "角色扮演是浪费" — 错。是核心训练。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Bodrova
+  - G-PERSON-Leong
+  - G-PERSON-Vygotsky
+  - G-TERM-tools-of-the-mind
+  - G-TERM-private-speech
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 4 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 4 卷"
+  authors: ['Elena Bodrova', 'Deborah Leong (cited)']
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 9 · Tools of the Mind Vygotsky-based (cross-chapter) · pp. 365-370"
+  source_id: SRC-029
+
+unit_ids: []
+related_cards:
+  - C-S8-738     # Boekaerts 自我调节 S8
+  - C-S5-1041     # V3 Eisenberg effortful control
+  - C-S6-928     # Shonkoff PFC tantrum
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

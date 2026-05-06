@@ -1,0 +1,79 @@
+glossary_id: G-TERM-perry-preschool
+type: term
+display_name: Perry Preschool RCT
+
+en_term: Perry Preschool Project
+zh_term: 佩里学前班实验
+
+one_liner: |
+  早期干预 RCT 经典 — 1962-1965 美国密歇根 Ypsilanti,123 个低收入非裔 3-4 岁孩子,
+  随机分组 high-quality preschool(2.5 小时/天 + 家访)2 年 vs 无干预。
+  跟踪到 27/40/50 岁,持续效益:高中毕业率 +20% / 犯罪率 -75% /
+  少女怀孕率 -50% / 1 美元投入 → 7-12 美元社会回报。
+
+detail: |
+  ## 实验设计
+  - 1962-1965 美国密歇根州 Ypsilanti
+  - 123 个 3-4 岁低收入非裔家庭孩子
+  - 随机分组:
+    - **治疗组(58)**:高质量 preschool 每天 2.5 小时 + 家访 1.5 小时 / 周
+    - **对照组(65)**:无干预
+  - 干预**2 年**(3-5 岁)
+  - 跟踪到 27 岁 / 40 岁 / 50 岁(独特长跟踪)
+
+  ## 干预内容(关键 — 不是学拼音!)
+  - High Scope 课程模式
+  - **plan-do-review 循环**(自调 + 计划)
+  - 自由游戏为主 + 老师 facilitator
+  - 角色扮演 + 假装游戏
+  - 阅读 + 对话
+  - **不是**:提前学拼音 / 数学 / 字母
+
+  ## 关键短期效益
+  - 短期 IQ gain 0.5-1.0 SD
+  - 学龄初期阅读 / 数学超对照组
+
+  ## **持久效益**(40 岁跟踪)
+  - **高中毕业率**:65% vs 45%(+20%)
+  - **40 岁年薪**:显著高
+  - **犯罪率**:7% vs 35% 重罪(-75%)
+  - **17 岁少女怀孕率**:50% 降
+  - **社会救济率**:50% 降
+
+  ## **关键校准** — IQ fade-out
+  - **短期 IQ 高 → 6-12 岁 fade out**
+  - **持久不消的不是 IQ**
+  - 是软技能 / 自调 / 执行功能 / 学习态度
+
+  ## 经济回报(Heckman 后期分析)
+  - 每 1 美元投入 → **7-12 美元**社会回报
+  - 推动 Heckman 经济学曲线("0-3 投资 ROI 最高")
+  - 美国联邦投资政策核心引用
+
+  ## NRC 立场(Ch 13)
+  - Perry 是早期干预最强 RCT 证据
+  - 但**校准**:早期干预目标不是 IQ
+  - 是软技能 + 长期效益
+  - 中国家长:别把"提前学" 误以为 Perry 模式
+
+key_facts:
+  - 1962 密歇根 RCT
+  - 2 年高质量 preschool(玩为主)
+  - 跟踪到 50 岁
+  - 1:7-12 投资回报
+
+related_glossary:
+  - G-PERSON-Shonkoff
+  - G-TERM-NRC
+  - G-TERM-abecedarian
+
+related_cards: []
+
+sources:
+  - source_id: SRC-025
+  - external: Schweinhart et al multiple follow-ups
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,50 @@
+card_id: C-S0-1539
+stages: ['S0']
+tags: ['philosophy', 'lerner_v1', 'cairns', 'history', '75_years']
+
+front:
+  title: "心理学 75 年史教训"
+  hook: "别再走前人的弯路"
+
+back:
+  why_matters: |
+    Cairns Ch 3 综合 1931-2006 = 75+ 年发展心理学史。
+    3 个核心教训给当代家长 —
+    1. **每代主流都被推翻** — 1930 年代 nativism / 1950 年代 behaviorism / 1960 年代 cognitivism / 1990 年代 dynamic systems → 别死信当下"科学"
+    2. **极端立场都错** — 全基因决定 / 全环境决定 / 全先天 / 全后天 — 后被实证全部推翻
+    3. **综合是答案** — 当代 RDS 是综合 + 跨学科 + 多层意义 — 中国家长接触的"最新科学" 50 年后可能被推翻 — 别全信。
+    读历史让你 — 拒绝极端立场 + 接受不确定性 + 综合多视角。
+  what_to_do:
+    - "拒绝极端立场(全基因 / 全环境)"
+    - "当代'科学'50 年后未必正确"
+    - "综合 + 多视角安全"
+    - "不确定性是常态"
+    - "历史教训 = 别迷信单一权威"
+  failure_mode: |
+    迷信"最新研究"的单一立场 — 历史教训:多被推翻。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Cairns-R
+  - G-PERSON-Cairns-B
+  - G-TERM-history-of-developmental-psych
+
+related_cards:
+  - C-S0-1537
+  - C-S0-1538
+  - C-S0-1535
+  - C-S0-722
+
+citation:
+  source_id: SRC-030
+  source_title: "Handbook of Child Psychology Vol 1: Theoretical Models of Human Development"
+  chapter: "Ch 3 Cairns 75-year history"
+  chapter_offset: 880825
+  chapter_title: 'Cairns & Cairns — Making of Developmental Psychology (history)'
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_followup_needed: 'SRC-030 用 PDF 字节偏移代页码 — 待加 page_pdf 反查工具'

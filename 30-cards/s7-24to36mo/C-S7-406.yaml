@@ -1,0 +1,56 @@
+card_id: C-S7-406
+stages: [S7]
+tags: [discipline, testing]
+
+front:
+  title: "测试限度是健康"
+  hook: "他在画世界的地图"
+
+back:
+  why_matters: |
+    Magda Ch8 立场:**幼儿测试限度是 healthy**,不是"叛逆"。
+    他在用"反复挑战"画世界地图:
+    哪些规则真的不能破?哪些是可商?
+    Magda 类比:成年人也整辈子测试限度("能闯红灯吗")。
+    保持一致 + 耐心 + 反复 = 教他真规则。
+    Magda 经典案例:Toshi 骑车踩花,妈说三次 + 一次执行 = 他自己接管。
+
+  what_to_do:
+    - 期待测试,不"为什么又来"惊讶
+    - 一致回应("每次都是不")胜过严厉一次
+    - 不感情用事("你是不是故意气我")
+    - 直接执行后果("你再骑过去车就收起")
+    - 他停下了平淡说"谢谢你合作"
+
+  failure_mode: |
+    "他怎么这么不听话 / 顶撞" → 你把测试当人格问题 = 关系紧张。
+    Magda 原话:"敢挑战父母的孩子是有安全感的孩子"。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+  - G-TERM-traffic-light-limits
+
+citation:
+  book_title_en: "Your Self-Confident Baby"
+  book_title_zh: "自信的宝宝"
+  authors:
+    - Magda Gerber
+    - Allison Johnson
+  publisher_en: John Wiley & Sons
+  year: 1998
+  location: "Ch8 Testing the Limits(Toshi 骑车故事 + Discipline 段)"
+  source_id: SRC-022
+
+unit_ids: []
+related_cards:
+  - C-S6-403  # Lansbury 限度+情绪并存
+  - C-S6-462  # Magda 红黄绿三色(本卷)
+  - C-S6-192  # Lillard No 永远 No
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

@@ -1,0 +1,73 @@
+card_id: C-S6-136
+stages: [S6]
+tags: [montessori, siblings, second-child, 过渡]
+
+front:
+  title: 老大迎二宝
+  hook: 蒙氏二胎过渡 5 步
+
+back:
+  why_matters: |
+    中国二胎家庭高频痛点 — **老大不接受二宝 / 退步行为 / 撞二宝**。
+    Davies 引述 Adele Faber《Siblings Without Rivalry》的精彩比喻:
+    > "**二宝出生 = 你伴侣告诉你,他太爱你了所以再娶一个。新人睡你的床、穿你的衣服,你还要欢迎她、帮忙照顾她。**"
+    懂了为什么老大反应大?**这是巨大冲击,不是"自私"**。
+    Davies + Junnifa 的 5 步过渡法:
+    1. **孕期就准备**
+       - 用真实图片绘本介绍二宝
+       - 让老大跟肚子里宝宝**说话 / 唱同一首歌**(出生后这首歌就是老大跟二宝的纽带)
+       - 让老大参与布置二宝空间
+    2. **见面时机** — 不要抱着二宝迎接老大
+       - 把二宝放下,先专心抱老大
+       - 然后一起去看二宝
+    3. **早期家务**简化 + 找帮手
+       - 月嫂 / 家人帮忙
+       - 让老大有些时间专属妈妈(每天 15-30 分钟)
+    4. **不给老大"大孩子"压力**
+       - 不说"你是哥哥,要让弟弟"
+       - **Junnifa 的做法**:互相照顾,不分老小
+       - "二宝哭了,你去看看好不好?"(变主动,不是被动牺牲)
+    5. **接受老大表达情绪**
+       - 老大说"我讨厌弟弟" → 不要立即"不可以这么说",而是"看起来你现在很 angry / sad,是因为弟弟吗?"
+       - **允许情绪,限制行为**(不允许打二宝)
+       - 中性时间示范温柔抱二宝实操物 — **topponcino**(C-S1-185)是绝佳工具:老大可以抱着 topponcino 上的二宝(垫子在中间,二宝不直接被翻动)。
+    长期效果:这样过渡的兄弟姐妹**长大更亲近**,不是竞争对手。
+  what_to_do:
+    - 孕期用绘本 + 唱同一首歌准备
+    - 见面前先放下二宝,专心抱老大
+    - 每天 15-30 分钟妈妈专属老大时间
+    - 不说"你是哥哥要让"
+    - 老大表达"讨厌弟弟" — 接受情绪,限行为
+  failure_mode: |
+    "你是哥哥得让弟弟" — 增加 sibling 冲突。
+    老大说"讨厌弟弟" → "不可以这么说" — 切断情绪表达,反而行为更糟。
+    见面就抱着二宝 — 老大第一印象"我被替代了"。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Davies
+  - G-PERSON-Montessori
+  - G-TERM-topponcino
+  - G-TERM-attachment
+
+citation:
+  book_title_zh: "蒙特梭利的小宝宝(0-1岁)"
+  book_title_en: "The Montessori Baby"
+  authors: ["Simone Davies", "Junnifa Uzodike"]
+  authors_zh: ["西蒙·戴维斯", "君妮法·乌佐迪克"]
+  publisher_en: "Workman Publishing"
+  year_en: 2021
+  isbn_en: "978-1-5235-0693-7"
+  location: "Chapter 7 · Other Situations > Siblings"
+  source_id: SRC-014
+
+unit_ids: []
+related_cards:
+  - C-S0-008       # 蒙氏 孕期跟宝宝建联结
+  - C-S6-135       # 蒙氏 不强迫分享
+  - C-S6-133       # 蒙氏 温柔但清晰边界
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

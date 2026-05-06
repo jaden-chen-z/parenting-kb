@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Lickliter
+type: person
+display_name: "Lickliter(罗伯特·利克利特)"
+
+full_name_en: "Robert Lickliter"
+full_name_zh: "罗伯特·利克利特"
+
+position: |
+  Florida International University 心理学教授
+
+contribution: |
+  鸟类胚胎实验 + probabilistic epigenesis 实证 + Gottlieb 共著
+
+one_liner: |
+  罗伯特·利克利特 — 鸟类胚胎实验 + probabilistic epigenesis 实证 + Gottlieb 共著
+
+key_facts:
+  - "本卷章节:Ch 5"
+  - "Lerner V1 命中:80+ 次"
+  - "学派:Lerner V1 发展生物派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+    chapter: "Ch 5"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

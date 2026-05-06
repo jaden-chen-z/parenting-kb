@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Dunn
+type: person
+display_name: "Dunn(朱迪·邓恩)"
+
+full_name_en: "Judy Dunn"
+full_name_zh: "朱迪·邓恩"
+
+position: |
+  Penn State 心理学教授
+
+contribution: |
+  兄弟姐妹关系 5 维度研究;早期社会理解奠基
+
+one_liner: |
+  朱迪·邓恩 — 兄弟姐妹关系 5 维度研究;早期社会理解奠基
+
+key_facts:
+  - "本卷章节:Ch 8"
+  - "Lerner V3 命中:209 次"
+  - "学派:Lerner V3 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-027
+    chapter: "Ch 8"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

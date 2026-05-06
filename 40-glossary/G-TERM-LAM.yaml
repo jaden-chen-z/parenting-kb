@@ -1,0 +1,53 @@
+glossary_id: G-TERM-LAM
+type: term
+display_name: "LAM 哺乳闭经法"
+
+en_term: "Lactational Amenorrhea Method"
+zh_term: "哺乳闭经法"
+
+one_liner: |
+  LAM = 完全母乳 + < 6 月 + 月经未恢复 → >98% 有效避孕。
+
+detail: |
+  ## 3 条件(同时满足)
+  ① 完全母乳(EBF,夜间日间≥4-6 小时一次)
+  ② 婴儿 < 6 月
+  ③ 月经未恢复(产后 56 天后判)
+  
+  ## 失败率
+  < 2%(完美使用)。
+  
+  ## 机制
+  吸吮 → 泌乳素(prolactin)→ 抑制 GnRH(gonadotropin-releasing hormone)→ 抑制排卵。
+  
+  ## 失效条件
+  任一条件失效 → 立刻找其他避孕方法:
+  - 月经回 → 失效
+  - 6 月到 → 失效
+  - 加辅食 / 减少夜哺 → 失效
+  
+  ## WHO 立场
+  WHO 推荐 4 大产后避孕方法之一(其他:屏障法/激素/IUD)。
+  
+  ## 中国传统认知
+  '哺乳期不会怀孕' → 部分对(LAM 满足时)+ 部分错(不满足时常误)。
+
+key_facts:
+  - "3 条件:EBF + < 6 月 + 月经未恢复"
+  - ">98% 有效"
+  - "WHO 推 4 大避孕之一"
+
+related_glossary:
+  - G-ABBR-EBF
+  - G-ABBR-WHO
+
+related_cards:
+  - C-S2-1047
+
+sources:
+  - source_id: SRC-031
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

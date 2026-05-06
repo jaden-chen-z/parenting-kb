@@ -1,6 +1,6 @@
 card_id: C-S4-005
 stages: [S4]
-tags: [safety, red_flag]
+tags: [safety, red_flag, controversy]
 
 front:
   title: 学步车 AAP 强烈反对,别买
@@ -8,16 +8,17 @@ front:
 
 back:
   why_matters: |
-    中文家庭传统爱用学步车(baby walker),以为"练走路"。
-    AAP 原话:"strongly urges parents not to use baby walkers" — **强烈反对**。
+    中文家庭传统爱用学步车(婴儿学步车),以为能"练走路"。
+    AAP 白话翻译:**"强烈呼吁父母不要使用婴儿学步车"**。
+
     3 个原因:
     ① 不帮反而**推迟**正常走路(走路靠平衡 + 重心感,学步车反而给错误重心)
     ② **楼梯翻倒事故** — 美国每年数千件急诊,翻倒是主因
     ③ 给宝宝错误的"我能走"假象,神经协调反而没建立
   what_to_do:
-    - 不买 baby walker(任何品牌任何造型)
-    - 替代:stationary exercise saucer(固定不动的玩耍站)
-    - 替代:sturdy push toys(真扶走的推车)
+    - 不买婴儿学步车(任何品牌任何造型)
+    - 替代:固定式玩耍站(stationary exercise saucer,固定不动)
+    - 替代:稳固的扶走推车(让宝宝真用脚发力)
     - 让宝宝自然爬 + 扶站 + 扶走(都不需要工具)
     - 楼梯门两端装是必须(不管用不用学步车)
   failure_mode: |

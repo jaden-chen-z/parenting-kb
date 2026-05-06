@@ -1,0 +1,47 @@
+card_id: C-S3-551
+stages: [S3]
+tags: [training, anti-early-edu, baby-gym]
+
+front:
+  title: 婴儿体操不是必须
+  hook: 日常照料已暗含锻炼
+
+back:
+  why_matters: |
+    松田说:在家养育的婴儿,不是必须做婴儿体操。
+    日本传统:不分昼夜换洗尿布、夏季每天 2 次澡 — 穿脱衣服动作已达到体操效果。
+    前苏联用棉斗篷裹婴儿不让动,所以体操才必要。
+    现代中国家长被"早教课"焦虑压住,其实日常细心照料已够。
+  what_to_do:
+    - 每天换尿布/洗澡时让娃自由动
+    - 不强加"早教课"日程
+    - 想做体操选屈伸 1-2 分钟
+    - 别强拉膝防髋关节脱臼
+    - 看娃情绪 — 不情愿就停
+  failure_mode: |
+    妈花钱报"婴儿体操班" → 没那么多用,反挤压娃自由探索时间。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Matsuda
+
+citation:
+  book_title_zh: "定本《育儿百科》"
+  book_title_jp: "育児の百科(定本)"
+  authors: ["松田道雄"]
+  translators_zh: ["王少丽"]
+  publisher_zh: null
+  year: 1980
+  edition: "定本"
+  location: "第 145 节从 3 个月到 4 个月 + 第 99 节锻炼婴儿"
+  source_id: SRC-023
+
+unit_ids: []
+related_cards:
+  - C-S3-020  # 鲍秀兰 5 月陪宝宝玩 = 早教课程
+  - C-S2-549  # 自卷:空气浴日式锻炼
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Copple
+type: person
+display_name: "Copple(卡罗尔·考普)"
+
+full_name_en: "Carol Copple"
+full_name_zh: "卡罗尔·考普"
+
+position: |
+  NAEYC
+
+contribution: |
+  DAP 标准 NAEYC 共笔(与 Bredekamp)
+
+one_liner: |
+  卡罗尔·考普 — DAP 标准 NAEYC 共笔(与 Bredekamp)
+
+key_facts:
+  - "本卷章节:Ch 1"
+  - "Lerner V4 命中:14 次"
+  - "学派:Lerner V4 应用心理学派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-029
+    chapter: "Ch 1"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

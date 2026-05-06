@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Hoffman
+type: person
+display_name: "Hoffman(马丁·霍夫曼)"
+
+full_name_en: "Martin L. Hoffman"
+full_name_zh: "马丁·霍夫曼"
+
+position: |
+  NYU 心理学教授
+
+contribution: |
+  共情 4 阶段发展模型;道德发展派
+
+one_liner: |
+  马丁·霍夫曼 — 共情 4 阶段发展模型;道德发展派
+
+key_facts:
+  - "本卷章节:Ch 11"
+  - "Lerner V3 命中:143 次"
+  - "学派:Lerner V3 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-027
+    chapter: "Ch 11"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

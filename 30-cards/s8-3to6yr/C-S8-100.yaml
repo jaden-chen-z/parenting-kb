@@ -1,0 +1,87 @@
+card_id: C-S8-100
+stages: [S8]
+tags: [discipline, corporal_punishment, controversy, japan, matsuda, conflicts, philosophy]
+
+front:
+  title: "大发雷霆体罚错"
+  hook: "瞬间打手是底线"
+
+back:
+  why_matters: |
+    松田 §421 立场跟现库 RIE / Bowlby / AAP 强对立 — 部分支持瞬间体罚:
+    1. 3 岁孩子能做什么"坏事"? 追究责任不可能;
+    2. 父母重要东西被搞坏 → 大发雷霆体罚 = **错**(原谅孩子为好);
+    3. 但"为让孩子知道做的事多大麻烦",**当场体罚 3 岁孩子是有效警告**;
+    4. 孩子做坏事根因是父母防备不足;
+    5. **绝对不能体罚的情况**:
+       - 夜尿床
+       - 来不及上厕所尿裤子
+       - 强迫吃饭打翻碗
+       - 偷喝水(不让喝)
+    6. 大发雷霆打了孩子又心软"反复折腾" = 最不可取。
+    立场跟 Lansbury / Bowlby V1 强反 — 必须 conflicts.md 记录。
+
+  what_to_do:
+    - 大发雷霆时离开 5 分钟再回来
+    - 体罚只用瞬间危险打手(打火机)
+    - 生理需要(尿床/失禁)绝对不打
+    - 打了不立即原谅 — 别反复
+    - 改环境 > 改孩子(松田核心)
+
+  failure_mode: |
+    现代家长两极分化:
+    - 完全反体罚派(Lansbury/Bowlby) → 危险时也不阻止 → 孩子学不到底线
+    - 棍棒派(中国传统) → 日常打骂 → 创伤型管教松田中道立场 — 大多情况禁,瞬间危险可一次。
+    但这立场跟 Bowlby V1 / RIE / AAP 完全对立 — 用户家庭自己定。
+    conflicts.md 必记: 松田 vs RIE / Bowlby / AAP 立场分歧。
+
+  evidence_level: C
+
+  positions:
+    issue: 3 岁孩子的体罚边界 · 大发雷霆体罚 vs 瞬间危险打手
+    views:
+      - school: 松田道雄
+        source: SRC-024
+        stance: 大发雷霆体罚是错的;但孩子做危险动作(冲马路、玩刀具)时瞬间打手作为警告有效。立场分情境。
+      - school: Lansbury / RIE
+        source: SRC-019
+        stance: 温柔而坚定的限度,完全不打。任何体罚(包括瞬间打手)都破坏信任与自我调节学习。
+      - school: Bowlby
+        source: SRC-011
+        stance: secure attachment 派完全反对体罚;依恋安全是学龄前儿童最优先的发育基础。
+      - school: AAP
+        source: SRC-004
+        stance: 完全反对体罚 — 2018 政策声明明确指出体罚对儿童心理发展有害,无任何益处。
+      - school: Shonkoff / NRC
+        source: SRC-025
+        stance: 完全反体罚 — cortisol 累积损伤前额叶皮层(PFC),与儿童反社会行为正相关。
+      - school: 鲍秀兰
+        source: SRC-009
+        stance: 反对打孩子,主张正面管教;在中国本土实证派中是少有的明确反体罚立场。
+      - school: 海蒂
+        source: SRC-040
+        stance: 管教 ≠ 体罚 — 10 月起步用其他管教法。美国主流大众派背书,降低中国家长"反体罚 = 西式精英"偏见。
+      - school: 中国传统
+        stance: '"棍棒底下出孝子" / "不打不成器" — 体罚被视为负责任管教的一部分。'
+glossary_refs:
+  - G-PERSON-Matsuda
+
+citation:
+  book_title_zh: "定本育儿百科"
+  authors:
+    - 松田道雄
+  publisher_ja: 岩波书店
+  year_first_edition: 1967
+  location: "§421 关于体罚"
+  source_id: SRC-024
+
+unit_ids: []
+related_cards:
+  - C-S6-021  # Brazelton Discipline 是教导不是惩罚(立场对立)
+  - C-S6-007  # 鲍秀兰 1-2 岁管教全家一致 + 不打孩子(立场对立)
+  - C-S6-396  # Lansbury CEO 语调 + I won't let you(立场对立)
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

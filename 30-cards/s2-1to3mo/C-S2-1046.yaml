@@ -1,0 +1,55 @@
+card_id: C-S2-1046
+stages: [S2]
+tags: []
+
+front:
+  title: "70°C 水冲奶粉"
+  hook: "70 度不是巧合"
+
+back:
+  why_matters: |
+    WHO 配方奶安全准备(2007 PIF 指南):
+    ① 用 ≥ 70°C 水冲泡(不是开水冲再凉)
+    ② 70°C 是杀阪崎肠杆菌(Cronobacter sakazakii)阈值 — 致命婴儿败血症/脑膜炎
+    ③ 配方奶不是无菌 — 粉本身可能含病原
+    ④ 冲泡后 2 小时内喝完,2 小时内冰箱冷藏 < 24 小时
+    ⑤ 装瓶前洗手 + 消毒奶瓶(开水煮 5 min / 蒸汽消毒)
+    ⑥ 不要重新加热剩奶(细菌已生长)
+    中国家长常见错误:用 40-50°C '不烫' 水冲(粉里的细菌没被杀)。
+  what_to_do:
+    - "用 ≥ 70°C 水冲奶粉 — 别用 40°C 不烫水"
+    - "冲泡后 2 小时内喝 — 不剩"
+    - "奶瓶/吸嘴洗 + 开水煮 5 min 消毒(6 月前每天)"
+    - "粉勺不要塞太满 — 不浓不稀"
+    - "外出装现冲奶 → 用保温瓶+室温下喂"
+  failure_mode: |
+    用 40-50°C 水冲(说'不烫娃')→ 阪崎杆菌不死 → 致命败血症 / 脑膜炎。
+    70°C 是 WHO 安全阈值,不是巧合。
+  evidence_level: A
+
+glossary_refs:
+  - G-TERM-breastmilk-substitutes
+  - G-ABBR-WHO
+
+citation:
+  page_title: "WHO PIF (Powdered Infant Formula) Safe Preparation 2007"
+  publisher: "World Health Organization & UNICEF"
+  page_url_primary: https://www.who.int/health-topics/breastfeeding
+  accessed: 2026-05-04
+  language: en
+  location: "70°C 水 + 阪崎杆菌阈值 + 2 小时内喝完"
+  source_id: SRC-031
+
+unit_ids: []
+related_cards:
+  - C-S2-1045
+  - C-S1-1003
+  - C-S1-053
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_doc_id_pending: D1
+citation_followup_needed: '已映射真实 doc_id (D1 = WHO IYCF Fact Sheet)'

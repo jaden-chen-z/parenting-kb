@@ -1,0 +1,58 @@
+card_id: C-S2-181
+stages: [S2]
+tags: [cognitive_science, language, myth_busting, parentese]
+
+front:
+  title: 跟宝宝"装弱智"是科学的
+  hook: 装傻说话反而科学
+
+back:
+  why_matters: |
+    Parentese(父母语)= 全世界父母对宝宝说话时的高音调 / 慢语速 / 短句子 / 重复 / 长停顿语音。
+    很多人觉得"跟宝宝装大人才高级"— Kuhl 研究证明这是错的。
+    Parentese 不是"装弱智",是**精准适配婴儿大脑**的科学输入。
+    Kuhl 实验证据:
+    - 计算机声谱分析:parentese 把元音"拉长拉清",更像该语言的"原型音"
+    - 婴儿能从 parentese 里抽取更准确的音素地图
+    - 14 月前 parentese 越多 → 24 月词汇量越大(Ramirez-Esparza 2014)
+    - 婴儿主动选择听 parentese,即使是陌生语言(用转头测)
+    生物机制:婴儿耳蜗对 200-1000 Hz 高频敏感(妈妈语调正好这频段)。
+    跨文化共性:全世界母亲都会自然进入 parentese 模式,无需教。
+    对中国家长意义:你跟宝宝那种"傻乎乎"的语调是科学的。
+    爷爷奶奶笑你"装弱智" — 你装得对。
+  what_to_do:
+    - 跟宝宝说话用高音调 / 慢语速 / 短句
+    - 重复关键词("宝宝看,小猫,小猫")
+    - 句子之间留 1-2 秒停顿,等宝宝回应
+    - 不必内容深刻,语调 + 情感更重要
+  failure_mode: |
+    "跟宝宝说话像大人才高级" — 错。Parentese 是语言加速器。
+    长期用错误儿语("饭饭""觉觉")— 错。Parentese 是语调,不是发错音。
+    沉默喂奶 / 刷手机 — 错。错过最有效的语言输入窗。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Kuhl
+  - G-TERM-parentese
+  - G-TERM-statistical-learning
+  - G-TERM-baby-scientist
+
+citation:
+  book_title_en: "The Scientist in the Crib"
+  book_title_zh: "摇篮里的科学家"
+  authors: ["Alison Gopnik", "Andrew N. Meltzoff", "Patricia K. Kuhl"]
+  publisher_en: William Morrow
+  year: 1999
+  location: "Chapter 4 · Motherese · Kuhl computer voice analysis"
+  source_id: SRC-015
+
+unit_ids: []
+related_cards:
+  - C-S2-013       # 鲍秀兰母婴交谈链
+  - C-S2-012       # 鲍秀兰跟宝宝说话 5 共性
+  - C-S1-241       # Meltzoff 出生模仿
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

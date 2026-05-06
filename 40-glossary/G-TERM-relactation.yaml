@@ -1,0 +1,52 @@
+glossary_id: G-TERM-relactation
+type: term
+display_name: "Relactation 重新泌乳"
+
+en_term: "Relactation"
+zh_term: "重新泌乳"
+
+one_liner: |
+  已停母乳的妈妈通过频繁吸吮重新建立母乳 — WHO 推荐路径。
+
+detail: |
+  ## 定义
+  Relactation — 已停母乳(部分或完全)的妈妈通过频繁吸吮重新建立母乳。
+  
+  ## 适用场景
+  - 妈妈病好后想恢复母乳
+  - 早期错误判断(以为 '没奶'加配方)后想纠正
+  - 紧急情况(收养 / 灾难)妈妈或代乳
+  
+  ## 机制
+  吸吮 → 泌乳素 + 催产素 → 重新启动泌乳。
+  
+  ## WHO 立场
+  推荐 relactation 作为'妈妈病/化疗后' 恢复母乳的路径。
+  
+  ## 实操
+  - 每 2 小时让娃吸吮(刺激泌乳素)
+  - 必要时用挤奶器辅助
+  - 同时给配方过渡 + 逐步减少
+  - 找哺乳顾问指导(IBCLC)
+  - 通常 1-2 周开始有奶,4-6 周可纯母乳
+
+key_facts:
+  - "停奶后重启母乳"
+  - "WHO 推荐路径"
+  - "1-2 周见奶,4-6 周可纯"
+
+related_glossary:
+  - G-TERM-acceptable-medical-reasons
+
+related_cards:
+  - C-S1-1012
+  - C-S5-1040
+  - C-S6-1069
+
+sources:
+  - source_id: SRC-031
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

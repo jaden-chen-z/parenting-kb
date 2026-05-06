@@ -19,6 +19,19 @@ back:
     "为什么我家孩子这么不听话!" → 当成性格缺陷处理 → 体罚 / 高压。每次 No 都跟孩子较劲 → 大量精力消耗,孩子学到"对抗是关系主旋律"。羡慕"看护人面前的乖孩子" → 错过最深的亲子信任信号。
   evidence_level: B
 
+  positions:
+    issue: '"反抗期" 是孩子叛逆还是大人剥夺玩耍空间'
+    views:
+      - school: 松田道雄
+        source: SRC-024
+        stance: 反抗期不存在 — 是大人剥夺玩耍场所导致孩子抗议。不是孩子反抗你,是你在反抗孩子的自立。
+      - school: Brazelton
+        source: SRC-010
+        stance: 18 月狂说 No 是健康信号 — negativism 是自我形成的发育表现,无需打压。
+      - school: 现代心理学
+        stance: 气质 + 大脑发育 + 自主性需要交互;"反抗期" 不是单一现象,而是多因素综合。
+      - school: 中国传统
+        stance: '"叛逆期需打压" — 把孩子说 No 视为不听话表现,主张严格管教纠正。'
 glossary_refs:
   - G-TERM-negativism
   - G-TERM-autonomy

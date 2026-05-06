@@ -1,0 +1,72 @@
+card_id: C-S4-809
+stages: [S4]
+tags: [shonkoff, nrc, child_care_distribution, parental_leave, china_high_freq]
+
+front:
+  title: "美国 3 月就入托太早"
+  hook: "中国 6 月入托不算早"
+
+back:
+  why_matters: |
+    NRC 综述第 11 章给"美国托育现状" — 中国家长对照参考:
+
+    **美国托育数据**(美国国家儿童健康与人类发展所 1991 年起跟踪):
+    - 美国娃**平均 3.31 月入托**(早早!)
+    - 入托每周 28 小时(高强度)
+    - 0-3 岁照护分布:父母 27% / 亲戚 27% / 家庭式托育 17% / 中心式托育 22% / 保姆 7%
+    - **中心式托育从 8% 暴涨到 24%**(1977-1994)
+
+    **美国 vs 其他工业国**:
+    - **美国是唯一无法律强制带薪产假的工业国**
+    - 1993《家庭与医疗休假法》(FMLA)仅给 12 周无薪假 → 89% 工作场所不覆盖
+    - 53% 美国职工无产假权益
+    - 17% 美国职工 1994-95 用了产假
+    - 2/3 没用产假的人因"无法承受失薪"
+
+    **对照中国**:
+    - 中国法定产假 98 天起 + 部分省份延伸到 6 月
+    - 比美国宽松很多
+    - 中国家长 6 月入托不算"早" — 跟美国 3 月相比晚很多
+    - 老人帮带育儿是中国独特优势
+
+    **NRC 立场含义**:
+    - 美国 3 月入托是不得已 — 不是育儿"理想"
+    - 中国家长别用美国数据焦虑
+    - 6 月再上班 + 高质量替代照护(老人 / 高质量托育)= 适合中国情况
+    - 但**入托质量比身份重要**(C-S6-933)
+  what_to_do:
+    - 中国 6 月入托正常
+    - 老人带是中国优势
+    - 别照搬美国焦虑
+    - 看托育质量胜身份
+    - 美国 3 月入托不理想
+  failure_mode: |
+    "美国娃 3 月入托 — 中国 6 月还早" — 美国是不得已 — 越早不是越好。
+    "我用美国数据焦虑" — 中国情境不同。
+    "老人带不科学" — 老人带可达高质量 — 比美国家庭外托育有优势。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Shonkoff
+  - G-PERSON-Phillips
+  - G-TERM-NRC
+
+citation:
+  book_title_en: "From Neurons to Neighborhoods"
+  authors: ["Jack P. Shonkoff", "Deborah A. Phillips"]
+  org: "NRC/IOM"
+  year_en: 2000
+  location: "Ch 11 · NICHD ECCS data + FMLA / parental leave"
+  source_id: SRC-025
+
+unit_ids: []
+related_cards:
+  - C-S6-933    # Shonkoff 托育质量(本卷)
+  - C-S8-212    # Shonkoff 妈上班(本卷)
+  - C-S4-806    # Shonkoff 依恋质量(本卷)
+  - C-S2-550    # 松田 §117 集体保育 SRC-024
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

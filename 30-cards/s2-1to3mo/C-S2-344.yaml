@@ -1,0 +1,56 @@
+card_id: C-S2-344
+stages: [S2]
+tags: [pacing, 观察]
+
+front:
+  title: "慢下来等他"
+  hook: "宝宝节奏比我们慢"
+
+back:
+  why_matters: |
+    Magda 反复说的实操密码:**Take It Slowly**。
+    宝宝大脑在搭建神经回路,处理信息需要时间 —
+    大人 1 秒做 3 件事,宝宝 1 秒只能接 1 件。
+    Magda 经典案例:6 月宝在垫上哭,妈妈先观察 1 分钟,
+    才识别出"是饿了",而不是匆忙抱起。
+    跟蒙氏 going slow + Lansbury "magic word: wait" 同源,Magda 是源头。
+
+  what_to_do:
+    - 哭了 / 闹了先观察 5-15 秒,再决定干什么
+    - 抱起前等他对你预告有反应再动
+    - 喂奶不催"快点喝完",跟着他的吸吮节奏
+    - 讲话速度调慢一半,让句子之间有空隙
+    - 别"一边抱一边看手机一边讲电话"
+
+  failure_mode: |
+    "我也想慢但太忙" → 慢不是浪费时间,是给宝宝 + 你自己降焦虑。
+    Magda 原话:"你慢下来,宝宝就平静下来"。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+  - G-TERM-magic-word-wait
+
+citation:
+  book_title_en: "Your Self-Confident Baby"
+  book_title_zh: "自信的宝宝"
+  authors:
+    - Magda Gerber
+    - Allison Johnson
+  publisher_en: John Wiley & Sons
+  year: 1998
+  location: "Ch3 Take It Slowly + Slowing Yourself Down"
+  source_id: SRC-022
+
+unit_ids: []
+related_cards:
+  - C-S2-128  # Davies 等 3 秒回应
+  - C-S6-402  # Lansbury 12 场合都先等再动
+  - C-S2-127  # Davies 真词不嘎嘎
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

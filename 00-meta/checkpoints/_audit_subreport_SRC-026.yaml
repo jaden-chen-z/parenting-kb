@@ -1,0 +1,27 @@
+source_id: SRC-026
+total_cards: 42
+totals_per_issue:
+  evidence_level_inflation: 32
+  controversy_tag_missing: 3
+  front_title_hook_duplication: 2
+  hook_too_factual: 1
+  location_imprecise: 12
+key_issues:
+  - {card_id: ALL_35_A_cards, type: evidence_level_inflation, severity: P1, fix: Pikler philosophy 流派 35 张标 A,应大量降到 B(Lóczy 实证支撑)或 C(纯 philosophy 立场)}
+  - {card_id: C-S2-834, type: controversy_tag_missing, severity: P1, fix: 反 Tummy Time 与 AAP 立场冲突,加 controversy + 入 conflicts.md}
+  - {card_id: C-S4-838, type: controversy_tag_missing, severity: P1, fix: 反 Tummy Time 同上}
+  - {card_id: C-S5-933+多卡, type: controversy_tag_missing, severity: P2, fix: "跟中国主流冲突"卡批量加 controversy}
+  - {card_id: C-S1-896, type: front_title_hook_duplication, severity: P1, fix: title 与 hook 完全一致}
+  - {card_id: C-S4-837, type: front_title_hook_duplication, severity: P2}
+  - {card_id: 12_cards, type: location_imprecise, severity: P2, fix: 多卡用"全书反复"无具体页码,需补}
+intra_source_dedups:
+  - {cluster: [C-S4-834, C-S4-835, C-S4-836], level: L2, action: merge_candidate, reason: 反撑坐三卡(论证/verbatim/鉴别),角度差异化但重叠}
+  - {cluster: [C-S6-956, C-S6-961], level: L2, action: merge_candidate, keeper: C-S6-956, reason: 自由玩两卡同段(159-176),立场动作几乎一致}
+  - {cluster: [C-S1-897, C-S2-833], level: L2, action: merge_candidate, keeper: C-S1-897, reason: warmes Bad 比喻两卡 60% 重叠}
+  - {cluster: [C-S4-839, C-S7-892], level: L2, action: merge_candidate, keeper: C-S4-839, reason: 反所有运动训练 / 反幼儿运动早教 两卡几乎同清单}
+  - {cluster: [C-S6-959, C-S6-960, C-S6-964, C-S7-893], level: L3, action: mutual_link, reason: Geduld 系列 4 卡同章互补}
+  - {cluster: [C-S4-839, C-S2-835, C-S3-836, C-S3-837, C-S4-838, C-S5-933, C-S5-936, C-S6-963], level: L4, action: keep_all, reason: 反训练系列 8 张 — 各聚焦一个具体里程碑}
+notes: |
+  Pikler RIE 思想源头,与 SRC-019 Lansbury / SRC-021/022 Gerber 概念高度重叠(留 Phase C)。
+  35/42 evidence_level A 偏高,任务书提示明确"Pikler philosophy 流派,不应大量标 A"。
+  最大问题:大批 controversy tag 漏标(反 Tummy Time / 反 swaddle / 反早练运动 与 AAP 主流冲突)。

@@ -1,0 +1,22 @@
+glossary_id: G-TERM-stereotype-threat
+type: term
+display_name: "刻板印象威胁"
+
+one_liner: |
+  Steele + Eccles:被提醒所属群体 不擅长 X → 表现真的下降。
+
+detail: |
+  Steele + Eccles:被提醒所属群体 不擅长 X → 表现真的下降。
+
+  来源:Lerner V3《Handbook of Child Psychology Vol 3》(Wiley 2006 第 6 版,Eisenberg 主编)。
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-027
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,67 @@
+card_id: C-S7-554
+stages: [S7]
+tags: [parenting-mindset, RIE, philosophy]
+
+front:
+  title: "宝宝从云上选了你"
+  hook: "匈牙利谚语收尾全书"
+
+back:
+  why_matters: |
+    玛格达《自信的宝宝》第 8 章收官两节:
+    "你不必完美" + "RIE 不是 2 岁就结束"。
+
+    玛格达 1998 全书最后两节,给焦虑家长一张"许可证"(白话翻译):
+    > 匈牙利有句老话:宝宝出生前从云上往下看,
+    > 说"我要这两个人当我的父母"。
+
+    3 个核心立场:
+    1. 不必完美(每父母都犯错,这就是人)
+    2. 内疚伤孩子比错误本身更深
+    3. RIE 哲学不在 2 岁结束 — 给 0-2 的根,影响一辈子
+
+    玛格达给的不是 24 月毕业证,是**一种活法的开始**。
+    > 继续观察 / 听 / 信任 — 跟孩子未来 30 年一起。
+
+    兰斯伯里后来扩到 RIE 适用 5+ 岁,但玛格达自己 1998 已经埋了种子。
+
+  what_to_do:
+    - 内疚一来 → 想"宝宝选了我"
+    - 犯错就道歉:"妈妈刚才急了,对不起"
+    - 不必演完美
+    - 24 月不毕业,继续观察
+    - 一辈子的关系,慢慢来
+
+  failure_mode: |
+    "我没做到完美怎么办" → 玛格达反:完美不是目标,真实才是。
+    内疚反而伤孩子。或"那 RIE 是不是 2 岁就没用了" → 反:
+    玛格达末章直接说"RIE 不在 2 岁结束",根扎深就长一辈子。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+  - G-TERM-respectful-parenting
+
+citation:
+  book_title_en: "Your Self-Confident Baby"
+  book_title_zh: "自信的宝宝"
+  authors:
+    - Magda Gerber
+    - Allison Johnson
+  publisher_en: John Wiley & Sons
+  year: 1998
+  location: "Ch8 §You Don't Have to Be Perfect(p227) + §RIE Doesn't End at Two(p228)"
+  source_id: SRC-021
+
+unit_ids: []
+related_cards:
+  - C-S0-116  # Lansbury 不演 Mary Poppins
+  - C-S7-347  # Lansbury 让孩子对你生气是给他的礼物
+  - C-S6-138  # Davies 父母先照顾自己
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

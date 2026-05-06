@@ -1,0 +1,48 @@
+card_id: C-S2-2013
+stages: [S2]
+tags: []
+
+front:
+  title: 6-8 周后大便突变少是好事
+  hook: 几天 1 次也正常
+
+back:
+  why_matters: |
+    新生儿(0-6 周)大便通常一天 6-8 次(每次喂奶后),母乳宝宝更频。
+    6-8 周后,母乳宝宝大便频率突降是正常生理变化 — 海蒂明确"不是便秘要高兴才对"。
+    原因:宝宝长大消化更彻底,副产物减少。极端可几天才一次大便,只要软就 OK。
+    这是 1-3 月家长最高频虚惊就医原因之一,海蒂直接破解。
+  what_to_do:
+    - "6-8 周后突变少:观察大便软硬,软 = 正常"
+    - "几天才 1 次:只要软不必慌"
+    - "继续记录(便秘判断要看硬度不是次数)"
+    - "母乳宝宝几乎不会便秘,放心"
+    - "配方奶宝宝:看是否硬+排难,硬难才算便秘"
+  failure_mode: |
+    "我家宝宝便秘"立即跑医院 → 母乳宝宝几乎不可能。
+    给小婴儿喝水通便 → 1 岁内不需额外水。
+    用浣肠/开塞露 → 海蒂明确禁,会损伤娇嫩肠道。
+  evidence_level: B
+
+glossary_refs:
+  - G-ABBR-AAP
+
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1 岁"
+  authors: ["Heidi Murkoff", "Sharon Mazel"]
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 2010
+  edition: "Third Edition"
+  location: "第 7 章 / 大便较少节,p.265"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards:
+  - C-S2-2014
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

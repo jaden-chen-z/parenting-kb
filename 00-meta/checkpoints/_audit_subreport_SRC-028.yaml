@@ -1,0 +1,27 @@
+source_id: SRC-028
+total_cards: 48
+totals_per_issue:
+  xueque_tone: 11
+  missing_glossary_refs: 10
+  hook_descriptive: 5
+  wrong_evidence_level: 3
+  total_intrinsic: 29
+key_issues:
+  - {card_id: 11_cards, type: xueque_tone, severity: P2, fix: 综述学术化 — Saffran/Aslin/Newport 1996 等引用直接放 why_matters 开头,需加白话前情提要}
+  - {card_id: 10_cards, type: missing_glossary_refs, severity: P1-P2, fix: 仓库术语卡建得很全(experience-expectant/categorical-perception/habituation/multiple-intelligences/williams-syndrome/symbolic-play/amodal-perception/autobiographical-memory/baby-faces/G-PERSON-Bates/Gardner)但卡片漏引,批量补}
+  - {card_id: C-S3-1142, type: wrong_evidence_level, severity: P1, fix: A→B(因果直觉 4 月,V2 同卷 Cohen-Cashon 派明确反对)}
+  - {card_id: C-S4-1141, type: wrong_evidence_level, severity: P1, fix: A→B(Spelke 5 系统是综述内争议立场,非共识)}
+  - {card_id: C-S8-426, type: wrong_evidence_level, severity: P2, fix: A→B(Winner 艺术发展是综述泛化命题非元分析)}
+intra_source_dedups:
+  - {cluster: [C-S6-1164, C-S6-1165], level: L2, action: keep_both, keeper: C-S6-1164, reason: Markman 3 约束总论 + 互斥单约束深挖}
+  - {cluster: [C-S5-1140, C-S5-1141], level: L2, action: keep_both, keeper: C-S5-1140, reason: 9 月革命总论 + declarative pointing 反直觉深挖}
+  - {cluster: [C-S5-1142, C-S6-1170], level: L2, action: keep_both, reason: Bates 手势-语言 + Goldin-Meadow 思维窗口论 — 立场不同}
+  - {cluster: [C-S3-1140, C-S4-1141], level: L2, action: keep_both, reason: Baillargeon 单实验 + Spelke 5 系统总论}
+  - {cluster: [C-S7-1096, C-S8-421], level: L2, action: keep_both, reason: Carey 概念革命 + 朴素生物学 4 阶段}
+  - {cluster: [C-S7-1098, C-S8-420], level: L2, action: keep_both, reason: Wellman ToM 5 阶段 + Sally-Anne 单测试深挖}
+  - {cluster: [C-S2-1136, C-S3-1139, C-S5-1137], level: L3, action: keep_all, reason: 语音知觉时间线 + 立场闭环}
+notes: |
+  Lerner V2 综述质量较高 — citation 精确到章页,glossary_refs 大量使用,A 级证据多数合理。
+  最大问题:11 张学究腔(综述本身学术化)+ 10 张漏引已存在的术语卡(批量补成本极低)。
+  无 L1 真重复;9 个 cluster 全 L2/L3 互补型,保留 + cross-link。
+  跨源比对(SRC-015 Gopnik / SRC-018 Stern / SRC-025 NRC / SRC-026 Pikler / SRC-029 Lillard)留 Phase C。

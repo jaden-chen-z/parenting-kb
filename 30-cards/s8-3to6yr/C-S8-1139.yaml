@@ -1,0 +1,53 @@
+card_id: C-S8-1139
+stages: ['S8']
+tags: ['philosophy', 'lerner_v1', 'csikszentmihalyi', 'flow', 'challenge_skill']
+
+front:
+  title: "挑战技能要匹配"
+  hook: "太难太易都没心流"
+
+back:
+  why_matters: |
+    Csikszentmihalyi flow 必要条件 — 挑战 ≈ 技能。
+    - 挑战 >> 技能 → 焦虑(不知所措)
+    - 挑战 << 技能 → 无聊(失去兴趣)
+    - 挑战 ≈ 技能 → flow(高度投入)
+    3-6 岁应用 —
+    - 学走路时 → 平地走会无聊,坡道挑战适中(flow)
+    - 拼图 → 12 块没难度,100 块绝望,30-50 块 flow
+    - 学画 → 完全自由空白页焦虑,临摹无趣,有 frame 自由 flow
+    意义 — 父母选活动 / 玩具 / 学习内容,要刻意调挑战难度。
+    中国"超龄学"(3 岁学小学)→ 挑战 >> 技能 → 焦虑而非 flow → 长期厌学。
+  what_to_do:
+    - "选活动看挑战 / 技能匹配"
+    - "太难 → 降难度 + 拆解步骤"
+    - "太易 → 加变化 + 升难度"
+    - "'超龄学' → 焦虑非 flow"
+    - "flow 是学习内驱的核心条件"
+  failure_mode: |
+    "超龄超难"学法 — 错。挑战 >> 技能 = 焦虑非 flow。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Csikszentmihalyi
+  - G-TERM-flow-theory
+
+related_cards:
+  - C-S0-1527
+  - C-S6-1507
+  - C-S7-1605
+  - C-S6-816
+
+citation:
+  source_id: SRC-030
+  source_title: "Handbook of Child Psychology Vol 1: Theoretical Models of Human Development"
+  chapter: "Ch 9 Csikszentmihalyi & Rathunde"
+  chapter_offset: 2440000
+  chapter_title: 'Rathunde & Csikszentmihalyi — Optimal Experience / Flow'
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_followup_needed: 'SRC-030 用 PDF 字节偏移代页码 — 待加 page_pdf 反查工具'

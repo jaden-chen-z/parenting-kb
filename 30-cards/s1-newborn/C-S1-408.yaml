@@ -1,0 +1,57 @@
+card_id: C-S1-408
+stages: [S1]
+tags: [crying, communication, emotion]
+
+front:
+  title: "哭是孩子的语言"
+  hook: "不是问题,是说话"
+
+back:
+  why_matters: |
+    Magda 命名的核心立场:
+    哭不是问题要解决,是宝宝**唯一的语言**。
+    不会说话之前,饿 / 累 / 痛 / 闷 / 怕全部用哭传达。
+    Magda 反对"You're okay"这种否认式回应 —
+    跟告诉成年人"你没事"一样无情。
+    Lansbury Ch28 "Yelling 4 reasons" + Davies C-S2-132 "哭闹 5 步"同源,
+    都是 Magda 1998 立场延伸。
+
+  what_to_do:
+    - 听到哭先观察 5-10 秒,不立刻动
+    - 检查饿 / 累 / 尿 / 闷四基本需求
+    - 跟他说:"我听到你在哭,我在想是为什么"
+    - 抱时轻不晃,语调平稳不逗
+    - 不说"宝宝没事不哭" — 改"我看到你不舒服了"
+
+  failure_mode: |
+    "哭就拍 / 摇 / 哄声" → 宝宝学会"哭→大人混乱反应"。
+    Magda 原话:"你叫她别哭,长大送她去原始尖叫疗法吧"。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+  - G-TERM-acknowledging-feelings
+
+citation:
+  book_title_en: "Your Self-Confident Baby"
+  book_title_zh: "自信的宝宝"
+  authors:
+    - Magda Gerber
+    - Allison Johnson
+  publisher_en: John Wiley & Sons
+  year: 1998
+  location: "Ch3 Crying Is Your Child's Language(整节)"
+  source_id: SRC-022
+
+unit_ids: []
+related_cards:
+  - C-S2-132  # Davies 哭闹 5 步回应法
+  - C-S1-354  # Lansbury 听情绪不堵
+  - C-S3-299  # Lansbury 承认情绪是连接钥匙
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

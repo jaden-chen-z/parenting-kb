@@ -1,0 +1,64 @@
+card_id: C-S1-869
+stages: [S1]
+tags: [shonkoff, nrc, brazelton_collab, NBAS, baby_capacity]
+
+front:
+  title: "新生儿不是空容器"
+  hook: "出生就开始主动学"
+
+back:
+  why_matters: |
+    NRC 综述 Ch 1+2 站在现代儿童研究 50 年共识上声明:
+    **新生儿出生即有 6 大能力**:
+    1. **跨感官感知**(amodal)— 视觉 / 听觉 / 触觉信息能匹配
+    2. **偏好人脸 + 30cm 焦距**(Meltzoff)
+    3. **识别母亲声音**(Karp / Brazelton)
+    4. **42 分钟模仿**(Meltzoff 1977)
+    5. **alert inactivity 学习窗**(Brazelton NBAS)
+    6. **基本情绪表达**(distress / fear / 兴趣)
+    **NRC 综述把多本单作者派(Brazelton / Stern / Gopnik / Karp)统合**:
+    新生儿是"主动学习者",不是"被动等灌"。
+    这立场反"宝宝小什么都不懂"中文文化迷思。
+    **Brazelton NBAS** 给操作工具:出生 24-48h 测 28 个行为 7 个反射 — 这是 NRC 引用的临床基础。
+    **对中国家长**:
+    - 别等"宝宝懂事再陪" — 出生第一天就在学
+    - 别说"她什么都不懂哭着玩" — 错,她在感知 / 模仿 / 学
+    - 多眼神接触 / 多说话 / 多模仿她 — 都是养料
+    - 30cm 是宝宝清晰焦距 — 哺乳时正好(妈妈脸)
+  what_to_do:
+    - 出生即多眼神接触
+    - 30cm 距离面对面
+    - 多对她说话
+    - 模仿她的表情
+    - 别等"懂事"才互动
+  failure_mode: |
+    "她还小什么都不懂" — 错。NRC 明说出生就在感知 + 学习。
+    "陪着也没用她记不住" — 错,记忆建在每次互动上(RIGs / IWM)。
+    "新生儿就吃奶睡觉" — 漏了 alert inactivity 学习窗,30 分钟 / 天黄金期。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Shonkoff
+  - G-PERSON-Brazelton
+  - G-PERSON-Meltzoff
+  - G-TERM-NRC
+
+citation:
+  book_title_en: "From Neurons to Neighborhoods"
+  authors: ["Jack P. Shonkoff", "Deborah A. Phillips"]
+  org: "NRC/IOM"
+  year_en: 2000
+  location: "Ch 1-2 · newborn capacities synthesis"
+  source_id: SRC-025
+
+unit_ids: []
+related_cards:
+  - C-S1-018    # Karp 第四产程 SRC-003
+  - C-S1-001    # Brazelton NBAS SRC-010
+  - C-S1-255    # Stern 跨感官感知 SRC-018
+  - C-S0-014    # Gopnik 婴儿是科学家 SRC-015
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

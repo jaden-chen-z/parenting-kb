@@ -1,0 +1,61 @@
+card_id: C-S0-1234
+stages: [S0]
+tags: [poverty, mcloyd, lerner_v4]
+
+front:
+  title: 穷养不是钱不够
+  hook: 穷养不只是钱不够
+
+back:
+  why_matters: |
+    McLoyd-Aikens-Burton V4 Ch 18 儿童贫困政策章。
+    **经济压力模型**(McLoyd 1998+ 经典):
+    - 贫困 → **父母心理压力**(抑郁 / 焦虑)
+    - 父母心理压力 → **教养断层**(暴躁 / 不一致 / 冷漠)
+    - 教养断层 → **孩子心理 + 学业问题**
+    - 不是"穷 → 孩子不行",是"穷 → 父母 → 孩子"
+    - 经济压力是中介变量,不是终极原因意义:
+    - 反"穷孩子注定不行"
+    - 干预点应在父母心理 + 教养支持,不只是发钱
+    - 钱解决物质,但教养断层需要单独干预
+    - 这解释为啥 Head Start 给钱不一定改善跟现库:跟 Ramey Abecedarian RCT(C-S0-1238)+ Olds NFP(待建)对接。
+    反对纯经济主义"解决贫困就解决儿童问题"。
+    对中国家长意义:
+    - 焦虑 / 抑郁 / 工作压力都影响娃,不只是钱
+    - 单亲 / 移民 / 双工 family 的核心是父母心理支持
+    - 给娃报班 ≠ 解决问题,父母放松是根
+  what_to_do:
+    - 先看父母心理状态再看娃
+    - 焦虑会传给娃
+    - 解压比报班重要
+    - '别把"穷养"当宿命'
+  failure_mode: |
+    "穷孩子注定不行"— 错。中介是父母心理。
+    "发钱解决问题"— 不全。教养断层需独立干预。
+    "父母苦娃就乖"— 错。压力会传染。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-McLoyd
+  - G-TERM-economic-pressure-model
+  - G-TERM-poverty-effects
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 4 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 4 卷"
+  authors: ['Vonnie C. McLoyd', 'Nikki L. Aikens', 'Linda M. Burton']
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 18 · McLoyd · Childhood poverty + economic pressure model · pp. 700-720"
+  source_id: SRC-029
+
+unit_ids: []
+related_cards:
+  - C-S0-619     # NRC 反早教焦虑
+  - C-S0-723     # Bronfenbrenner 生态
+  - C-S8-211     # Shonkoff 穷家娃 cortisol
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

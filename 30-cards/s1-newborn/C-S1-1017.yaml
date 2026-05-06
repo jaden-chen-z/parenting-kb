@@ -1,0 +1,56 @@
+card_id: C-S1-1017
+stages: [S1]
+tags: []
+
+front:
+  title: "初乳头 5 天黄金"
+  hook: "5 天黄金的浓汤"
+
+back:
+  why_matters: |
+    Colostrum(初乳)= 出生后头 2-5 天分泌的黏稠黄色乳。
+    成分独特:
+    - sIgA 浓度 > 成熟乳 100 倍
+    - lactoferrin 高浓度
+    - 生长因子(EGF / IGF-1) 帮肠道发育
+    - 量极少:出生第 1 天约 5 ml/餐(婴儿胃容量恰好)
+    WHO + BFHI:出生 1 小时内开奶就是为了娃尽早得到初乳。
+    中国传统'初乳脏要挤掉' / '没奶用配方过渡' → 错过初乳免疫黄金窗。
+  what_to_do:
+    - "出生头 2-5 天的黄色黏稠乳是初乳,不是 '没奶'"
+    - "初乳量小但浓度高 — 5 ml 等于配方 50 ml 营养"
+    - "听到 '初乳脏要挤掉' → 别信(老传统错的)"
+    - "听到 '没奶用配方过渡' → 也别信(初乳期是正常)"
+    - "1 小时内开奶 + 频繁吸吮 → 助初乳到成熟乳过渡"
+  failure_mode: |
+    丢初乳或加配方过渡 → 错过 sIgA 100x 浓度免疫黄金窗。
+    初乳是 evolutionary 设计完美的第一份食物。
+  evidence_level: A
+
+glossary_refs:
+  - G-TERM-colostrum
+  - G-TERM-early-initiation
+
+citation:
+  page_title: "WHO + BFHI on Colostrum"
+  publisher: "World Health Organization & UNICEF"
+  page_url_primary: https://www.who.int/teams/nutrition-and-food-safety/food-and-nutrition-actions-in-health-systems/ten-steps-to-successful-breastfeeding
+  accessed: 2026-05-04
+  language: en
+  location: "初乳 sIgA 100x 浓度 + 出生头 5 天 + 1 小时内开奶"
+  source_id: SRC-031
+
+unit_ids: []
+related_cards:
+  - C-S1-1000
+  - C-S1-1014
+  - C-S1-1003
+  - C-S1-050
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_doc_id_pending: D10
+citation_followup_needed: '已映射真实 doc_id (D10 = Lancet Breastfeeding Series 2016)'

@@ -1,0 +1,59 @@
+card_id: C-S8-105
+stages: [S8]
+tags: [gender, anti_stereotype, japan, matsuda]
+
+front:
+  title: "别让娃像男孩女孩样"
+  hook: "做自己最重要"
+
+back:
+  why_matters: |
+    松田 §504 反"性别角色刻板"派(1967 年立场前卫):
+    1. "像男孩样" / "像女孩样" 都是大人强加;
+    2. 男孩弱 / 女孩好动都不是病;
+    3. 重要是孩子做自己 — 不为符合性别期待委屈;
+    4. 男孩可以哭、可以软弱;
+    5. 女孩可以爬树、可以勇敢;
+    6. 大人的性别刻板期待是孩子心理发展障碍;
+    7. 不要让"应该这样" 否定孩子真正的样子。
+    跟 Lansbury "Let kids be mad at you"+ Brazelton "Self-image"立场一致 +
+    跟传统中国"男孩不许哭"派强对立。
+
+  what_to_do:
+    - 男孩哭就哭, 不"男子汉别哭"
+    - 女孩野就野, 不"女孩文静"
+    - 不强买"男孩玩具" / "女孩玩具"
+    - 兴趣按孩子选不按性别选
+    - 老师 / 奶奶刻板话术挡回去
+
+  failure_mode: |
+    爷爷:"男孩不许哭"教训式 → 孩子压抑情绪 → 长大成不会表达的男人。
+    奶奶:"女孩要文静" → 女孩压抑活力 → 长大成不敢追求的女性。
+    现代版:粉色公主 vs 蓝色坦克强分类 → 孩子早早学会刻板。
+    松田 1967 年立场:让孩子做自己是核心 — 跟现代心理学一致。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Matsuda
+
+citation:
+  book_title_zh: "定本育儿百科"
+  authors:
+    - 松田道雄
+  publisher_ja: 岩波书店
+  year_first_edition: 1967
+  location: "§504 像男孩样、像女孩样"
+  source_id: SRC-024
+
+unit_ids: []
+related_cards:
+  - C-S6-030  # Brazelton 别抢救他让他自己赢(Self-Image / 挫折是燃料)
+  - C-S6-032  # Brazelton 内向不是病别硬掰(Fears / Kagan 气质论)
+  - C-S6-403  # Lansbury 限度+情绪并存
+  - C-S0-517  # 松田 不焦虑育儿(同源)
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

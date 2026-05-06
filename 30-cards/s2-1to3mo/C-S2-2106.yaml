@@ -1,0 +1,48 @@
+card_id: C-S2-2106
+stages: [S2]
+tags: [safety]
+
+front:
+  title: 退烧三步:轻穿+多水+用药
+  hook: 别盖被发汗,会中暑
+
+back:
+  why_matters: |
+    海蒂强调:**不要盖被发汗 / 不要穿厚 / 不要捂房间** — 会让体温升到危险度引中暑。
+    正确顺序:**降室温 + 轻穿 → 多喝液体 → 必要时退烧药 → 温水擦拭(可选)**。
+    海绵擦拭只用**温水**(不是冰水 / 酒精) — 冷水致颤抖反升温,酒精挥发危险。
+    擦拭至少 20-30 分钟才有效;若宝宝抗拒不用强迫,药物为主。
+  what_to_do:
+    - 室温保持 20-21°C(用空调 / 风扇但**不直吹**)
+    - 轻穿(夏天只尿布),多喂母乳 / 配方奶 / 水
+    - 2-6 月直肠 ≥ 38°C / 6 月+ ≥ 39.2°C 才考虑用对乙酰氨基酚或布洛芬
+    - 6 月内只用对乙酰氨基酚;6 月+ 两药可选,不交替用
+    - 温水擦拭:水温≈体温,擦颈/腋下/腹股沟,持续 20-30 分钟
+  failure_mode: |
+    "盖被发汗"老办法 → 体温升到 41°C 中暑性高烧。
+    冰水或酒精擦拭 → 颤抖反升温 + 酒精吸入致危。
+    频繁交替对乙酰氨基酚和布洛芬 → 长期肾损。
+    给 6 月内宝宝吃布洛芬 → 海蒂禁用(脱水/呕吐时也禁)。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-AAP
+
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1 岁"
+  authors: [Heidi Murkoff, Sharon Mazel]
+  publisher_en: Workman Publishing
+  publisher_zh: 南海出版公司(新经典发行)
+  year: 1989
+  edition: 3rd (2014)
+  location: "第 18 章《宝宝生病》'应对发烧 + 对乙酰氨基酚或布洛芬',565-568 页中译"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards: [C-S2-2105, C-S1-060]
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,33 @@
+stage: S3
+total_cards_in_stage: 141
+key_findings:
+  L1_real_dedup:
+    - {topic: 海蒂 1岁内禁牛奶 within-source, cards: [C-S3-2150, C-S3-2250], keeper: C-S3-2150, action: 同 SRC-040 不同章节高度重复(95%),建议合并或 2250 拆到 S5}
+  L2_partial_overlap:
+    - {topic: 海蒂 6 月补铁 + 贫血筛查 within-source, cards: [C-S3-2400, C-S3-2251], keeper: C-S3-2400, action: 30-40% 信息重叠,合并独有信息或区分 hook}
+  L3_L4_cross_source_clusters_keep:
+    - {topic: 辅食起始 4-6 月时机 5 派, cards: [C-S3-001, C-S3-1042, C-S3-1043, C-S3-1044, C-S3-552, C-S3-2149, C-S3-2248], action: 1042 已是综述卡,加海蒂作第 5 派}
+    - {topic: 翻身/坐 训练派 vs 自然派 9 卡, cards: [C-S3-009, C-S3-010, C-S3-014, C-S3-019, C-S3-022, C-S3-835, C-S3-836, C-S3-837, C-S3-2255], action: 流派分歧本身是知识,加 contrast pair 标签 022↔835/010↔837}
+    - {topic: Stern 自我建构 6 卡 SRC-018, cards: [C-S3-196, C-S3-197, C-S3-198, C-S3-199, C-S3-200, C-S3-201], action: Ch4-5 系统性结构,无内部 dup}
+    - {topic: Lerner V2 vs Gopnik 同概念 (Spelke/Baillargeon), cards: [C-S3-188, C-S3-1140, C-S3-189, C-S3-1142, C-S3-190, C-S3-1143, C-S3-1144, C-S3-1145, C-S3-187, C-S3-1141, C-S3-021], action: 通俗+学术+操作 3-tier 互补,188 ↔ 1140 twin pair}
+    - {topic: 气质稳定窗口 4 月 (Brazelton/Kagan/Rothbart), cards: [C-S3-030, C-S3-805, C-S3-940, C-S3-941], action: 4 个独立气质框架,无 merge}
+    - {topic: Social referencing (Campos 4月 vs NRC 9月分歧), cards: [C-S3-810, C-S3-942, C-S3-553, C-S3-031], action: 学术分歧 dispute_with 标签}
+    - {topic: 反主导玩具 5 派同声, cards: [C-S3-191, C-S3-136, C-S3-295, C-S3-296, C-S3-297, C-S3-298, C-S3-350, C-S3-352, C-S3-839], action: 5 派合声 9 卡,191↔136 twin 接近 L1}
+    - {topic: 学步车反对 3 派, cards: [C-S3-033, C-S3-2253, C-S3-2254], action: 互引}
+    - {topic: 反早教焦虑/可塑性, cards: [C-S3-806, C-S3-808, C-S3-296, C-S3-298, C-S3-839]}
+hotspot_findings:
+  hotspot_1_翻身坐_训练vs自然: 9 卡显著流派分歧簇,no-merge 但加 contrast pair
+  hotspot_2_辅食5派: 1042 综述 + 4 派立场各 1 张,无 merge,加海蒂作第 5 派
+  hotspot_3_stern_brazelton_mutual_regulation: Stern 6 卡系统结构无 merge
+  hotspot_4_lerner_v2_vs_gopnik: 通俗+学术+操作 3-tier 互补,188↔1140 twin pair
+  hotspot_5_gerber_松田_within_source: 各源内部无 dup,海蒂 SRC-040 检测到 2 处 within-source 重叠
+within_source_dup_audit:
+  无_dup_sources: SRC-006/007/009/010/011/013/014/015/016/018/019/021/022/023/024/025/026/027/028/029/030/031
+  has_dup_sources: SRC-040 海蒂(2 处:2150↔2250 L1 + 2400↔2251 L2)
+notes: |
+  S3 共 141 卡 / 24 SRCs。
+  真 L1 within-source dup 仅 1 处:海蒂 2150 ↔ 2250(1 岁内禁牛奶)。
+  L2 partial overlap 1 处:海蒂 2400 ↔ 2251(6 月起补铁)。
+  L3-L4 跨源 cluster 13 个全部 no-merge — 跨源不同立场/切口/流派是 KB 价值。
+  建议增强 cross-reference 体系(twin pair / contrast pair / dispute_with)+ cluster_anchor 标签便于检索。
+  海蒂 SRC-040 建议下一轮做 internal cleanup,把延伸到 12-24 月的内容显式标 stages:[S5]。

@@ -1,0 +1,52 @@
+card_id: C-S7-034
+stages: [S7]
+tags: [coping_strategy]
+
+front:
+  title: 必须分离时怎么少伤害
+  hook: Robertson 实测 5 招
+
+back:
+  why_matters: |
+    1971 年 Robertson 夫妇做了一个经典对照实验:把 4 个 1.5-2.5 岁的孩子(妈妈住院生二胎)接到自己家寄养,
+    用 5 个特殊设计把分离伤害降到最低。**结果**:这些孩子相比寄宿幼儿园那批,几乎没出现绝望和超脱阶段,
+    回家后情感重连快得多。这套方法直接成为现代住院 / 异地分离的家长操作手册。
+  what_to_do:
+    - 分离前 1 个月:替代照顾人 ≥ 几次到家做客,孩子先认脸熟脸
+    - 替代人提前学会孩子的吃喝睡习惯,尽量复刻
+    - 让孩子带 ≥ 3 件家里东西:毯子 / 玩偶 / 妈妈照片
+    - 每天聊妈妈 + 看妈妈照片,不要回避
+    - 爸爸 / 另一亲人尽量天天探望
+  failure_mode: |
+    "突然送外婆家几周,反正小不记得" — 这套设计就是为了反驳"小孩不记得"的误解。
+    "替代人是亲戚就够" — 不够,**关系熟 + 习惯熟**两个都要;只熟人不熟习惯还是会触发分离反应。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Bowlby
+  - G-PERSON-Robertson
+  - G-TERM-protest-despair-detachment
+  - G-TERM-attachment
+
+citation:
+  book_title_zh: "依恋三部曲 · 第二卷:分离"
+  book_title_en: "Attachment and Loss · Volume 2: Separation"
+  authors: ["John Bowlby"]
+  authors_zh: ["约翰·鲍尔比"]
+  translators_zh: ["汪智攀", "王婷婷"]
+  publisher_zh: "世界图书出版有限公司北京分公司"
+  year_en: 1973
+  year_zh: 2017
+  isbn: "978-7-5192-2926-9"
+  location: "第一章人类悲伤的原型(罗伯逊夫妇 1971 实验:Joyce Robertson 一次照顾 1 个孩子,所有的关注点都在于降低环境的陌生感,提高环境的熟悉度)"
+  source_id: SRC-012
+
+unit_ids: []
+related_cards:
+  - C-S6-082      # 分离反应 3 阶段
+  - C-S7-035      # 别偷偷溜走
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

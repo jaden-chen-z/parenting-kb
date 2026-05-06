@@ -1,0 +1,86 @@
+glossary_id: G-TERM-flow
+type: term
+display_name: 心流 (flow)
+
+full_name_zh: 心流 / 最优体验
+full_name_en: Flow / Optimal Experience
+
+one_liner: |
+  Csikszentmihalyi 1990 提出的心理学概念 — 人完全沉浸在一项活动中的最优状态。
+  Lillard 把这个概念应用到 0-3 岁宝宝 — 蒙氏的 cycle of activity 就是为了帮孩子反复进入 flow,这是他们一辈子专注力的根基。
+
+detail: |
+  ## 定义
+  Flow(心流)= 人完全沉浸做一件事的最优心理状态。
+  6 个特征:
+  1. **集中注意力** — 忘了时间
+  2. **做事 + 意识合一**(no self-consciousness)
+  3. **内在动机驱动**(不为奖励 / 不为别人看)
+  4. **立即反馈**(知道做对没)
+  5. **挑战 + 技能匹配**(不太难不太易)
+  6. **掌控感** + **清晰目标**
+
+  ## Lillard 的应用(Ch2)
+  - 婴儿专注于 mobile / 玻璃杯倒水 / 切香蕉 = flow
+  - 大人打断 = 把宝宝拉出 flow → 长大不能专注
+  - 蒙氏 cycle of activity 设计就是让 flow 反复发生
+  - 0-3 岁建立"自己进入 flow"能力 = 关键
+
+  ## 4 类家庭(Diana Baumrind 研究,Lillard 引)
+  | 家庭类型 | 挑战水平 | 支持水平 | 孩子结果 |
+  |---|---|---|---|
+  | 高挑战 + 高支持 | 高 | 高 | 高成就 + 有 joy(理想)|
+  | 高挑战 + 低支持 | 高 | 低 | 高成就 + 无 joy(burnout)|
+  | 低挑战 + 高支持 | 低 | 高 | 不开心 + 没目标(任性)|
+  | 低挑战 + 低支持 | 低 | 低 | "chaotic attention"(被忽视)|
+
+  Lillard 立场:**只有"高挑战 + 高支持"才让孩子进入 flow**。
+
+  ## 跟蒙氏教学的对应
+  - **prepared environment** — 提供合适挑战
+  - **prepared adult** — 提供高支持(观察 + 在需要时帮)
+  - **freedom + responsibility** — 让孩子自主选 + 接受后果
+  - 这 3 元素合起来 = 让孩子持续进入 flow
+
+  ## 现代神经科学验证
+  - flow 状态下脑前额叶活动减弱(自我意识降低)
+  - 多巴胺 + 内啡肽分泌增加(愉悦)
+  - 这跟蒙氏 100 年观察的"孩子专注后变平静 + 满足" 完全吻合
+
+  ## 实操含义
+  - 不打断宝宝专注(C-S1-248)
+  - 给完整循环活动(C-S6-185)
+  - 让宝宝自己进入 + 自己出来
+  - 不夸不评价(打断 flow)
+  - 设计"高挑战 + 高支持"环境
+
+  ## 跟其他派对照
+  - **Karp** — 安抚优先(没强调 flow)
+  - **Bowlby** — 安全依恋让孩子敢探索(支持 flow)
+  - **Wonder Week** — 跃迁后是 flow 高峰
+  - **Gopnik** — 婴儿是科学家(自然进入 flow)
+  - **蒙氏(Davies + Lillard)** — 系统化 flow 的物理工具
+
+key_facts:
+  - Csikszentmihalyi 1990 提出
+  - 6 要素 = 集中 / 合一 / 内动机 / 反馈 / 匹配 / 控制
+  - Lillard 应用到 0-3 岁
+  - 4 类家庭挑战 + 支持矩阵
+  - 蒙氏 cycle of activity 是 flow 工具
+
+related_glossary:
+  - G-PERSON-Csikszentmihalyi
+  - G-PERSON-Lillard
+  - G-TERM-cycle-of-activity
+  - G-TERM-prepared-environment
+
+related_cards: []
+
+sources:
+  - source_id: SRC-016
+  - external: Csikszentmihalyi《Flow》1990 / Diana Baumrind 育儿研究
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

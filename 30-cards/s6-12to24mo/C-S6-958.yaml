@@ -1,0 +1,65 @@
+card_id: C-S6-958
+stages: [S6]
+tags: [pikler, potty-training, anti-coercion, source-de]
+
+front:
+  title: "便盆 4 大错误别犯"
+  hook: "4 错:绑揍久坐早"
+
+back:
+  why_matters: |
+    Pikler 1969 Ch9 用大量 原文 引用父母抱怨,展示便盆训练 4 个常见错误 + 对应代价:
+
+    1. **太早开始**(zu früh):"我从 6 月起就把他放便盆上"— Pikler 立场:6 月孩子神经控制还没建立,
+       根本做不到。
+    2. **久坐**(stundenlang sitzen):"我让他几小时坐着,便盆空空"— Pikler:身体不准备好就是不出。
+    3. **绑在便盆上**(an den Topf gebunden):"我已经把他绑上了,绳子松了大便就在地板"— Pikler 警示:
+       这是身体束缚 + 心理创伤。
+    4. **打骂**(verprügelt):"我已经狠揍过几次了,可还是不在便盆里拉"— Pikler:打骂只让孩子更"留住"
+       便意,反向加固问题。
+
+    Pikler 反诘:**孩子必须自己想 + 自己决定** —
+    任何强迫都无效 + 伤亲子关系。
+
+    跟中国"把屎把尿"老传统直接对立 — 但松田 SRC-024
+    §170 也立场反"4 月把屎把尿"(立场跟 Pikler 一致)。
+
+  what_to_do:
+    - 不 12-24 月开始(太早)
+    - 不久坐(超过 5 分钟就抱起来)
+    - 不绑不固定 — 让孩子自由
+    - 不打不骂 — 失败完全不评论
+    - 看 24-30 月孩子信号再开始
+
+  failure_mode: |
+    "我们邻居 1 岁就训练成功了" → Pikler 立场:看似
+    "成功"实际是孩子学会"在大人盯着时拉" — 不是真的自主控制。3-4 岁后会有 regression(退步) + 厕所恐惧。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Pikler
+  - G-TERM-keine-sauberkeitserziehung
+
+citation:
+  book_title_de: "Friedliche Babys – zufriedene Mütter"
+  book_title_zh: "和平的婴儿 — 满足的母亲"
+  authors:
+    - Emmi Pikler
+  publisher_de: HERDER (HERDER / SPEKTRUM Band 4141)
+  year: 1969
+  location: "Ch9 Topf machen pp. 200-203 verbatim"
+  source_id: SRC-026
+
+unit_ids: []
+related_cards:
+  - C-S6-957  # Pikler 反便盆训练(本卷)
+  - C-S6-823  # 松田 1.5 岁夏天撤尿布
+  - C-S3-701  # 松田 4 月把屎把尿错
+  - C-S7-405  # Gerber 学如厕不是训练
+  - C-S6-822  # 松田硬塞会变创伤
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

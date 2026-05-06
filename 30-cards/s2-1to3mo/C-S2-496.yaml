@@ -1,0 +1,57 @@
+card_id: C-S2-496
+stages: [S2]
+tags: [modeling, RIE, behavior]
+
+front:
+  title: "你做什么宝宝学什么"
+  hook: "你刷手机他也想刷"
+
+back:
+  why_matters: |
+    Magda《自信的宝宝》Ch5 §Modeling Behavior。
+    Magda 立场:婴儿期就在看父母怎么活,不是只学语言,而是学"怎么做人"。
+    家长抱怨"我娃为什么爱看手机" — Magda 反问:你跟伴侣吃饭低头吗?
+    模范不是说给孩子听的话,是父母真实活法。
+    Magda 经典:"别在孩子面前吃巧克力又跟他说'巧克力对你不好'。
+    如果对你也不好,就别买回家。如果是 special treat,你也只 special 时吃。"
+    这是 RIE 派"诚实不假装"的延伸。
+
+  what_to_do:
+    - 你不让娃做的自己也别做
+    - 你想娃慢自己先慢
+    - 你想娃不看屏自己先放下
+    - 不演完美只做真实
+    - 道歉示范:"妈妈刚才发火了,对不起"
+
+  failure_mode: |
+    "我跟孩子要求不一样,他还小不该懂" → Magda 反:1-2 岁每天看你 1000 次,模范信号比说教强 10 倍。或反向:
+    "我装得好就行" → 反:孩子比你想的敏感,装的破绽他看得见。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+  - G-TERM-respectful-parenting
+
+citation:
+  book_title_en: "Your Self-Confident Baby"
+  book_title_zh: "自信的宝宝"
+  authors:
+    - Magda Gerber
+    - Allison Johnson
+  publisher_en: John Wiley & Sons
+  year: 1998
+  location: "Ch5 §Modeling Behavior(p99-100) + Ch8 §Lasting Discipline(p205)"
+  source_id: SRC-021
+
+unit_ids: []
+related_cards:
+  - C-S0-116  # Lansbury 不演 Mary Poppins
+  - C-S2-127  # Davies 真词不嘎嘎
+  - C-S6-068  # Bowlby V1 内在工作模型
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

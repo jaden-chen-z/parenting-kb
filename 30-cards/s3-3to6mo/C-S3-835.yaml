@@ -1,0 +1,72 @@
+card_id: C-S3-835
+stages: [S3]
+tags: [pikler, motor-发展, source-de]
+
+front:
+  title: "Pikler 6 阶段顺序"
+  hook: "跳一阶段后面动作就不流畅"
+
+back:
+  why_matters: |
+    皮克勒 1969 第 2 章描述大动作发展自然顺序 6 大阶段:
+    1. **仰卧** — 出生 0-3 月
+    2. **翻身** — 3-7 月
+    3. **匍匐 + 爬** — 6-10 月
+    4. **坐** — 7-12 月
+    5. **站** — 9-14 月
+    6. **走** — 12-18 月
+
+    每阶段间有"必经过渡":
+    翻身 → 侧躺蓄力 → 半翻 → 全翻;
+    爬 → 跪 → 单手扶起 → 蹲 → 站等。
+
+    皮克勒立场:跳过过渡 = 后期动作不流畅 / 配合差。
+
+    跟皮克勒女儿安娜·塔尔多斯 1979《给我时间》(Lasst mir Zeit)
+    精细化的 8 阶段表区别 — 1969 原书是叙事性顺序,
+    不是清单表格(皮克勒故意不给"按月龄表",反训练哲学)。
+
+    玛格达"教育护理"(SRC-022)+ 兰斯伯里第 7 章(SRC-019)
+    "不撑坐"立场都基于此原版 6 阶段顺序。
+
+  what_to_do:
+    - 不查月龄表 — 看孩子在哪阶段
+    - 看孩子能否在阶段内"自由切换"(关键鉴别)
+    - 不跳过 — 不直接撑坐 / 不抱手让走
+    - 给地板时间 + 安全空间,过渡自己发生
+    - 拍照保留过渡姿势 — 短暂但珍贵(蹲坐 / 半翻 / 单膝跪)
+
+  failure_mode: |
+    "宝宝跳过爬直接走,是不是更厉害" → 皮克勒反:
+    跳过爬意味着没建立交叉配合(左手右脚同时动)+ 视觉空间感没充分发展。
+    短期看不出,3-6 岁后笨手笨脚 / 写字差。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Pikler
+  - G-TERM-bewegungsentwicklung
+  - G-TERM-pikler-milestones
+
+citation:
+  book_title_de: "Friedliche Babys – zufriedene Mütter"
+  book_title_zh: "和平的婴儿 — 满足的母亲"
+  authors:
+    - Emmi Pikler
+  publisher_de: HERDER (HERDER / SPEKTRUM Band 4141)
+  year: 1969
+  location: "Ch2 Die Entwicklung der Bewegung pp. 27-50"
+  source_id: SRC-026
+
+unit_ids: []
+related_cards:
+  - C-S2-290  # Lansbury 不撑坐 8 理由
+  - C-S4-349  # Gerber 里程碑不是赛跑
+  - C-S3-191  # Lillard 大动作发展
+  - C-S4-129  # Wonder Weeks 大动作里程碑
+  - C-S6-822  # 松田硬塞会变创伤(反训练同源)
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

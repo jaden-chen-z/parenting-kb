@@ -1,0 +1,49 @@
+card_id: C-S4-552
+stages: [S4]
+tags: [weaning, calorie-density, anti-rice-porridge]
+
+front:
+  title: 米粥不如牛奶能量
+  hook: 米粥比奶热量低半
+
+back:
+  why_matters: |
+    松田硬数字:吃 100 g 稀粥只产 52 kcal,加 1 块糖牛奶 100 g 产 80 kcal。
+    花 30 分钟喂米粥,营养价值不如 3 分钟喂牛奶。
+    米粥还缺动物性蛋白 — 长期吃多脂肪堆积,妨成长。
+    "米粥是中国传统辅食"是文化习惯,不是营养选择。
+  what_to_do:
+    - 米粥只是"练咀嚼",不是替奶
+    - 加蛋黄/鱼/肉末/豆腐进米粥
+    - 单纯米粥别超 1/3 餐
+    - 6-8 月加铁:红肉泥/肝泥
+    - 别用米粉代替正餐奶
+  failure_mode: |
+    奶奶坚持"米粥养人" → 娃 9 月缺铁性贫血 + 增长落后,补铁难追。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Matsuda
+
+citation:
+  book_title_zh: "定本《育儿百科》"
+  book_title_jp: "育児の百科(定本)"
+  authors: ["松田道雄"]
+  translators_zh: ["王少丽"]
+  publisher_zh: null
+  year: 1980
+  edition: "定本"
+  location: "第 212 节断奶的方法"
+  source_id: SRC-023
+
+unit_ids: []
+related_cards:
+  - C-S4-551  # 自卷:7 月奶量底线
+  - C-S4-550  # 自卷:断奶量因孩子异
+  - C-S3-006  # AAP 母乳宝宝 4 月起补铁,12 月查血
+  - C-S3-001  # AAP 辅食 4-6 月,半勺起,3-5 天 1 新
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

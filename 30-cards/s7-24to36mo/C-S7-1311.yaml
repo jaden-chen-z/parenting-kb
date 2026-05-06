@@ -1,0 +1,73 @@
+card_id: C-S7-1311
+stages: [S7]
+tags: [reading, paris, preschool, lerner_v4]
+
+front:
+  title: 2-3 岁阅读起芽
+  hook: 2-3 岁阅读起
+
+back:
+  why_matters: |
+    Paris V4 Ch 2(2-3 岁阅读萌芽)。
+    **2-3 岁阅读萌芽 4 个能力**:
+    - **音韵意识起步**:听出押韵 / 重复音(从 24 月)
+    - **字母意识萌芽**:认 5-10 个字母(36 月)
+    - **词汇增长**:200 → 1000+ 词
+    - **阅读兴趣**:把书拿起来 / 假装读 / 要求读
+    **反"提前识字"立场**:
+    - 2-3 岁**认字 ≠ 阅读**
+    - 真正阅读 5 要素需 5-7 岁稳
+    - "3 岁认 1000 字"是表演,不是阅读
+    - 真重要:**词汇 + 兴趣 + 听力理解**
+    **4 大有效活动**:
+    - **共读绘本**:每天 10-20 分钟(关键)
+    - **儿歌押韵**:培养音韵意识
+    - **数童谣**:节奏 + 重复
+    - **指物命名**:词汇增长
+    **反 3 误区**:
+    - ❌ "2-3 岁认 1000 字最优"(机会成本高)
+    - ❌ "用 闪卡"(无情境无意义)
+    - ❌ "看动画也学词汇"(被动接收无效)
+    **Snow + Paris 共识**:
+    - 阅读起源在**口语 + 共读**
+    - 不是单独认字训练跟现库:跟 C-S8-731 Paris 5 要素 + V2 Goswami 音韵(C-S5-1140)+ Shonkoff 词汇(C-S6-927)对接。
+    对中国家长意义:
+    - 2-3 岁别"认字训练"
+    - 共读绘本每天 10-20 分钟
+    - 唱儿歌培养音韵
+    - 词汇 + 兴趣才真预测阅读
+  what_to_do:
+    - '2-3 岁别"认字训练"'
+    - 共读绘本每天 10-20 分钟
+    - 唱儿歌培养音韵
+    - 词汇+兴趣预测阅读
+  failure_mode: |
+    "2 岁认 1000 字"— 错。机会成本。
+    "闪卡 训练"— 错。无情境。
+    "动画学词汇"— 错。被动无效。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Paris-Scott
+  - G-TERM-phonological-awareness
+  - G-PERSON-Snow-Catherine
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 4 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 4 卷"
+  authors: ['Scott G. Paris', 'Alison H. Paris']
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 2 · Paris · 2-3yr reading emergence · pp. 50-60"
+  source_id: SRC-029
+
+unit_ids: []
+related_cards:
+  - C-S8-731     # V4 阅读 5 要素
+  - C-S5-1140     # V2 Goswami 音韵
+  - C-S6-927     # Shonkoff 词汇爆发
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

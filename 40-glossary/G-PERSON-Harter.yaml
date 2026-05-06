@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Harter
+type: person
+display_name: "Harter(苏珊·哈特)"
+
+full_name_en: "Susan Harter"
+full_name_zh: "苏珊·哈特"
+
+position: |
+  University of Denver 心理学教授
+
+contribution: |
+  自我概念 5 维度;童年自尊量表
+
+one_liner: |
+  苏珊·哈特 — 自我概念 5 维度;童年自尊量表
+
+key_facts:
+  - "本卷章节:Ch 9"
+  - "Lerner V3 命中:226 次"
+  - "学派:Lerner V3 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-027
+    chapter: "Ch 9"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

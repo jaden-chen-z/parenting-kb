@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Greenfield
+type: person
+display_name: "Greenfield(帕特里夏·格林菲尔德)"
+
+full_name_en: "Patricia M. Greenfield"
+full_name_zh: "帕特里夏·格林菲尔德"
+
+position: |
+  UCLA
+
+contribution: |
+  文化路径 5 维度独立 vs 互依
+
+one_liner: |
+  帕特里夏·格林菲尔德 — 文化路径 5 维度独立 vs 互依
+
+key_facts:
+  - "本卷章节:Ch 17 主笔"
+  - "Lerner V4 命中:16 次"
+  - "学派:Lerner V4 应用心理学派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-029
+    chapter: "Ch 17 主笔"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

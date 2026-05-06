@@ -1,0 +1,75 @@
+card_id: C-S6-134
+stages: [S6]
+tags: [montessori, aggression, hitting, biting, behavior]
+
+front:
+  title: 1 岁打咬扔不是坏
+  hook: 蒙氏 4 步翻译
+
+back:
+  why_matters: |
+    9-15 月宝宝突然变"凶" — 打妈妈 / 咬别人 / 把玩具扔来扔去 / 推小朋友。
+    家长本能:**"小孩怎么这么没规矩!"** + 训 / 打回去 / 道歉。
+    Davies 的蒙氏视角:**这不是"坏",是无法用语言表达的求助**。
+    蒙氏 4 步翻译法:
+    1. **先理解** — "他在告诉我什么?"
+       - 打 = 不想这样 / 不想被抱
+       - 咬 = 累 / 饿 / 出牙
+       - 扔 = 在试因果(扔下去会怎样)
+       - 推 = 想过去 / 想玩
+    2. **翻译给他听** — "你是不是想 X?"
+       - "你在告诉我不想被抱"
+       - "你想要那个玩具"
+    3. **温柔但清晰边界**(C-S6-133 句式) — "我不让你打我,可以拍枕头"
+    4. **冷静后连接 + 道歉示范** — 一起去给被打的人道歉(示范不是强迫)
+    特别注意 — 早期 tantrum(发脾气):
+    - 哭崩溃时**听不进话**
+    - 先共情(给抱抱 / 在旁边)
+    - 等冷静后再讲短话
+    Davies 的"观察记录" — 行为反复出现的话,记 6 项找规律:
+    1. **时间**(饿?困?)
+    2. **变化**(出牙?新环境?)
+    3. **活动**(在玩什么?)
+    4. **同伴**(几个孩子?年龄?)
+    5. **情绪**(玩 / 沮丧 / 困惑?)
+    6. **环境**(吵?拥挤?太多刺激?)
+    找到规律 → 提前预防,而不是事后训。
+  what_to_do:
+    - 看到打/咬/扔先停 5 秒翻译
+    - '问 "你是想 X 吗" 帮他说'
+    - '温柔边界 "我不让你 X 可以 Y"'
+    - 行为重复 — 记 6 项观察找规律
+    - 不打回去 / 不当众训
+  failure_mode: |
+    "打他让他知道疼" — 学到"大的可以打小的",反复打的家庭孩子打人多。
+    "他这么小不懂事,长大就好" — 0-3 岁是规则吸收期,不教就错过窗口。
+    没找规律就硬训 — 比如出牙咬,你训他,他还是会咬。先解决根源。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Davies
+  - G-PERSON-Montessori
+  - G-TERM-tantrum
+  - G-TERM-discipline
+
+citation:
+  book_title_zh: "蒙特梭利的小宝宝(0-1岁)"
+  book_title_en: "The Montessori Baby"
+  authors: ["Simone Davies", "Junnifa Uzodike"]
+  authors_zh: ["西蒙·戴维斯", "君妮法·乌佐迪克"]
+  publisher_en: "Workman Publishing"
+  year_en: 2021
+  isbn_en: "978-1-5235-0693-7"
+  location: "Chapter 7 · Common Questions > Hitting/throwing/biting/pushing"
+  source_id: SRC-014
+
+unit_ids: []
+related_cards:
+  - C-S6-133       # 蒙氏 温柔但清晰边界
+  - C-S6-007       # 鲍秀兰 全家一致 不打
+  - C-S6-126       # Wonder Week 跃迁期不打不骂
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

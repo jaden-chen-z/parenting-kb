@@ -1,6 +1,6 @@
 card_id: C-S3-079
 stages: [S3]
-tags: []
+tags: [philosophy, controversy]
 
 front:
   title: 5-7 月起会用妈当"基地"
@@ -38,7 +38,7 @@ citation:
   year_en: 1969
   year_zh: 2017
   isbn: "978-7-5192-2927-6"
-  location: "第十五章 聚焦在一个对象上(将母亲作为探索的基地出发 — 安斯沃思在一个二十八周大的儿童身上观察到该现象,而对于八个月大的儿童,这种现象非常普遍)"
+  location: "第十五章聚焦在一个对象上(将母亲作为探索的基地出发 — 安斯沃思在一个二十八周大的儿童身上观察到该现象,而对于八个月大的儿童,这种现象非常普遍)"
   source_id: SRC-011
 
 unit_ids: []

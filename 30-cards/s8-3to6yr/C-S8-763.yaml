@@ -1,0 +1,76 @@
+card_id: C-S8-763
+stages: [S8]
+tags: [character, lapsley, moral_self, lerner_v4]
+
+front:
+  title: 道德自我 = 长期品格
+  hook: 道德自我要长期建
+
+back:
+  why_matters: |
+    Lapsley-Narvaez V4 Ch 7(道德自我)。
+    **Moral Self**(道德自我):
+    - 孩子开始把"道德"作为**自我身份的一部分**
+    - 不是"我应该这么做"是"我是这种人"
+    - 5-8 岁形成,12 岁稳定
+    - 跟 V3 Harter self 5 维度(C-S8-320)对接
+    **3 大道德自我标志**:
+    - **identity**:"我是诚实的人" / "我是友善的人"
+    - **agency**:"我决定这么做" 不是被迫
+    - **commitment**:长期投入(志愿者 / 义工 / 家庭责任)
+    **反"贴标签"教育**:
+    - ❌ "你是好孩子" / "你是坏孩子"(贴标签的反面)
+    - ✅ 让孩子**自己**形成"我是 X"
+    - 通过具体行动 + 反思形成
+    **5 大形成路径**:
+    - **示范**:看父母怎么做
+    - **反思**:做后想"我刚做的对吗"
+    - **故事**:听道德故事 + 讨论
+    - **承担**:给孩子责任(养宠物 / 帮家务)
+    - **community**:在社区中实践
+    **反 3 误区**:
+    - ❌ "说教就够"(失去自我形成)
+    - ❌ "贴好坏标签"(应让自己形成)
+    - ❌ "等大了再说"(5-8 岁是关键期)
+    跟现库:跟 V3 Harter self(C-S8-320)+ V3 Turiel 道德 4 域(C-S7-1004)+ V4 Lapsley 4 支柱(C-S8-736)对接。
+    对中国家长意义:
+    - 不"贴好坏标签"
+    - 让孩子自己形成"我是诚实的"
+    - 通过示范 + 反思 + 责任 + community
+    - 5-8 岁是关键期
+  what_to_do:
+    - '不"贴好坏标签"'
+    - '让孩子自己形成"我是X"'
+    - 示范+反思+责任+community
+    - 5-8 岁是关键期
+  failure_mode: |
+    "贴好坏标签"— 错。损害自我形成。
+    "说教就够"— 错。需自己形成。
+    "等大再说"— 错。5-8 岁关键。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Lapsley
+  - G-PERSON-Narvaez
+  - G-TERM-character-education
+  - G-TERM-character-4-pillars
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 4 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 4 卷"
+  authors: ['Daniel K. Lapsley', 'Darcia Narvaez']
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 7 · Lapsley · Moral self formation · pp. 265-280"
+  source_id: SRC-029
+
+unit_ids: []
+related_cards:
+  - C-S8-736     # V4 品格 4 支柱
+  - C-S8-320     # V3 Harter self 5 维度
+  - C-S7-1004     # V3 Turiel 道德 4 域
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

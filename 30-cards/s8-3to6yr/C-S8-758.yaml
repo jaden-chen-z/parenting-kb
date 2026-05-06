@@ -1,0 +1,75 @@
+card_id: C-S8-758
+stages: [S8]
+tags: [mst, multisystemic, lerner_v4]
+
+front:
+  title: MST 严重问题家+社
+  hook: MST 多系统介入
+
+back:
+  why_matters: |
+    MST(多系统疗法)— V4 全卷 229 hits 高频引用(青少年版,但学龄前 RCT 也存在)。
+    **MST 哲学**:
+    - 严重行为问题不是"娃个体"问题
+    - 是**多系统**(family + school + peer + community)的失衡
+    - 干预所有系统才有效
+    **MST 4 个 system**:
+    - **Family**:沟通 + 监督 + 关系
+    - **School**:与老师 + 同学
+    - **Peer**:朋友圈 + 不良 peer 替换
+    - **Community**:活动 + 资源链接
+    **RCT 证据**(Henggeler 1980s+):
+    - 严重行为问题(犯罪 / 暴力 / 物质滥用)
+    - 减少再犯 50-60%
+    - 减少机构化 70%
+    - ROI:5-7 倍
+    **学龄前版本**:
+    - 严重创伤 / 行为问题 / 多系统失衡
+    - 治疗师**家访**(不是诊室)
+    - 父母 + 老师 + 邻里联动
+    - 4-6 月密集 + 1 年随访
+    **反"病在娃"立场**:
+    - 错!问题在系统
+    - 干预系统 = 改变娃
+    - 反"管教孩子"单一焦点跟现库:跟 V3 Patterson(C-S6-1075)+ IY(C-S8-753)+ NFP(C-S0-1242)对接。
+    对中国家长意义:
+    - 严重行为问题别只看孩子
+    - 看家庭 + 学校 + 朋友 + 社区
+    - 多系统协同
+    - 找 MST(中国部分医院引入)
+  what_to_do:
+    - 严重行为别只看孩子
+    - 看家+校+朋+社区
+    - 多系统协同
+    - 严重情况找 MST
+  failure_mode: |
+    "病在娃身上"— 错。多系统失衡。
+    "管教就好"— 错。需多系统干预。
+    "换学校就行"— 错。系统协同。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Henggeler
+  - G-TERM-mst
+  - G-TERM-multisystemic
+  - G-PERSON-Bronfenbrenner
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 4 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 4 卷"
+  authors: ['Scott W. Henggeler (cited)']
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 14 · MST multisystemic (cross-chapter) · pp. 570-580"
+  source_id: SRC-029
+
+unit_ids: []
+related_cards:
+  - C-S6-1075     # V3 Patterson 强制家庭
+  - C-S8-753     # IY 三方培训
+  - C-S0-1242     # NFP 30 年
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

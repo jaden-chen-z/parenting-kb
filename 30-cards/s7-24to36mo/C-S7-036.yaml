@@ -1,0 +1,70 @@
+card_id: C-S7-036
+stages: [S7]
+tags: [milestone, controversy]
+
+front:
+  title: 3 岁可能比 2 岁更难分离
+  hook: 因为他能预期到了
+
+back:
+  why_matters: |
+    Shirley & Poyntz 1941 哈佛大学公共卫生学院 199 个 2-8 岁孩子的研究,反直觉发现:
+    **3 岁这个年龄段诅丧水平比 2 岁更高,也比更大的孩子高。**
+    Shirley 解释:**"2 岁和 2 岁半的孩子还不太清楚接下来的一天将发生什么,他们很少有预期到的恐惧。
+    而 3 岁的孩子更清楚这一天他们需要做什么,也更不愿意离开家。"**
+    数据:2-3 岁约 40%、4 岁约 20%、5-7 岁约 15% 出现明显诅丧。
+    家长大坑:看到 2 岁能去托班"很乖",以为 3 岁更应该没问题 — 实际**3 岁因为认知成熟,
+    分离痛苦反而升级**。
+    引申:不是"越大越好适应"线性关系,而是 U 型曲线,3 岁附近是个反弹点。
+  what_to_do:
+    - 别假设"3 岁了应该独立"
+    - 入园不是越早越好,2-2.5 岁最难
+    - 3 岁第一次入托可能会哭得比 2 岁严重
+    - 提前认识到:孩子哭闹是预期恐惧,不是退步
+    - 给 3 岁多一些过渡时间
+  failure_mode: |
+    "去年好好的,今年怎么哭着上学" — 你刚跨过认知成熟点,孩子开始能预期了。
+    "3 岁了还哭说明你以前太宠了" — Shirley 数据:这恰恰是认知成熟的标志,不是宠的问题。
+  evidence_level: B
+
+  positions:
+    issue: 3 岁画像 — 平静 vs 难过 · 能力跃升 vs 分离焦虑
+    views:
+      - school: Brazelton
+        source: SRC-010
+        stance: '"second honeymoon" — 3 岁比 2 岁平静,亲子关系重新进入蜜月期。'
+      - school: Bowlby V2
+        source: SRC-012
+        stance: 3 岁分离比 2 岁更难(Shirley 1941 实证),分离焦虑窄域更突出。
+      - school: Lillard(蒙氏)
+        source: SRC-016
+        stance: 3 岁是"上学龄"— 能力跃升正面,适合进入 prepared environment。
+      - school: 中国主流
+        stance: '"threes are worse than twos"(无人正面写,gap)— 实操常感 3 岁更难带。'
+glossary_refs:
+  - G-PERSON-Bowlby
+  - G-TERM-separation-anxiety
+  - G-TERM-attachment
+
+citation:
+  book_title_zh: "依恋三部曲 · 第二卷:分离"
+  book_title_en: "Attachment and Loss · Volume 2: Separation"
+  authors: ["John Bowlby"]
+  authors_zh: ["约翰·鲍尔比"]
+  translators_zh: ["汪智攀", "王婷婷"]
+  publisher_zh: "世界图书出版有限公司北京分公司"
+  year_en: 1973
+  year_zh: 2017
+  isbn: "978-7-5192-2926-9"
+  location: "第三章母亲在场或者母亲不在场时的行为表现:人类幼儿(Shirley & Poyntz 1941:3 岁的孩子似乎更容易感到诅丧和难过,2 岁和 2 岁半的孩子还不太清楚接下来的一天将发生什么,他们很少有预期到的恐惧)"
+  source_id: SRC-012
+
+unit_ids: []
+related_cards:
+  - C-S6-082      # 分离反应 3 阶段
+  - C-S7-035      # 别偷偷溜走
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

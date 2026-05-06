@@ -1,0 +1,71 @@
+glossary_id: G-TERM-HPA-axis
+type: term
+display_name: HPA 轴(应激响应轴)
+
+en_term: Hypothalamic-Pituitary-Adrenal axis
+zh_term: 下丘脑-垂体-肾上腺轴
+
+one_liner: |
+  人体应激响应系统 — 下丘脑(brain)→ 垂体(pituitary)→ 肾上腺(adrenal)的
+  3 级激素信号链。终点产物是 cortisol(皮质醇)。
+  早期慢性应激 → HPA 轴 over-active 化 → 终身应激响应失调风险。
+  Bowlby 安全依恋 → HPA 轴健康发育的关键。
+
+detail: |
+  ## 3 级信号链
+  1. **下丘脑**(脑)感知应激 → 分泌 CRH(促肾上腺皮质激素释放激素)
+  2. **垂体**收到 CRH → 分泌 ACTH(促肾上腺皮质激素)
+  3. **肾上腺**收到 ACTH → 分泌 **cortisol** + 肾上腺素
+
+  ## 自然节律
+  - 早晨 cortisol 高峰(起床信号)
+  - 晚上 cortisol 低谷(睡眠信号)
+  - 应激事件触发急升 + 退后慢下降
+
+  ## 早期发展中的关键
+  - 0-3 岁是 HPA 轴**校准期**
+  - 早期重复经验 → HPA 轴**敏感度设定**
+  - 安全依恋婴儿:HPA 轴**反应性低 + 恢复快**
+  - 不安全依恋婴儿:HPA 轴**反应性高 + 恢复慢**
+  - **永久内化** — 影响一生应激风险
+
+  ## 慢性应激后果
+  - HPA 轴 over-active(长期高敏)
+  - 海马受损(记忆 + 学习)
+  - PFC 发育受阻(自我调节 + 执行功能)
+  - 免疫低 / 心血管风险高 / 抑郁焦虑高
+  - "toxic stress" Shonkoff 后期概念
+
+  ## NRC 立场(Ch 8+9)
+  - HPA 轴是发展神经科学的"应激底座"
+  - 安全依恋是 HPA 轴健康发育**最强保护因子**
+  - 早期干预目标之一是恢复 HPA 轴正常
+  - 罗马尼亚孤儿院数据:严重剥夺 → HPA 长期失调
+
+  ## 跟其他系统关系
+  - 自主神经系统(ANS)互动
+  - 免疫系统(炎症应激响应)
+  - 海马 / PFC 发育
+  - 多巴胺奖赏系统
+
+key_facts:
+  - 3 级激素信号链
+  - 终点 = cortisol 皮质醇
+  - 0-3 岁是校准期
+  - 安全依恋是最强保护
+
+related_glossary:
+  - G-PERSON-Shonkoff
+  - G-TERM-cortisol
+  - G-TERM-attachment
+
+related_cards: []
+
+sources:
+  - source_id: SRC-025
+  - external: Gunnar et al + Center on the Developing Child later work
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

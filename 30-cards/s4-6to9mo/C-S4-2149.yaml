@@ -1,0 +1,36 @@
+card_id: C-S4-2149
+stages: [S4]
+tags: [controversy]
+front:
+  title: 婴儿手语 9 月+,不抢说话
+  hook: 不会推迟也不会加速
+back:
+  why_matters: |
+    婴儿手语近年很流行,父母担心:用手语会不会拖慢说话?海蒂给出平衡观点。
+    研究表明:婴儿手语既不会延迟语言,也没有显著加速效果——它只是给"听得懂但还不会说"的娃一个表达通道。优点是减少娃 9-15 月的挫败感和哭闹;缺点是若父母强迫使用反而压力大。已经能读懂娃的父母通常受益不大。
+  what_to_do:
+    - 9 月起从 5-10 个核心词开始
+    - 选"奶/水/还要/全完了/疼"
+    - 每次说话同时打手语
+    - 接受娃自创的手语
+    - 不强迫,娃没兴趣就停
+  failure_mode: 强迫娃必须打手语才回应需求,娃明明能哭叫却被要求"先做手势",反而压制了原生表达冲动。
+  evidence_level: B
+glossary_refs: []
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors: ["Heidi Murkoff", "Sharon Mazel"]
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh: ["莫夏迪","张敏"]
+  location: "第 12 章 《第 8 个月》, 页 388-390"
+  source_id: "SRC-040"
+related_cards: [C-S4-2147]
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

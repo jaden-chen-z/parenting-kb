@@ -1,0 +1,49 @@
+card_id: C-S2-701
+stages: [S2]
+tags: [overweight, anti-fat-baby, calorie]
+
+front:
+  title: 防婴儿过胖硬数字
+  hook: 日 120 千卡是上限
+
+back:
+  why_matters: |
+    松田硬数字:1 kg 体重每天 ≥ 120 千卡 → 婴儿过胖。
+    出生 4 个月内 1/3 热量用于生长,4 月后只 1/10。
+    奶粉袋按说明喂的 1-2 月娃,1 kg 体重已超 120 千卡。
+    中国"白胖才好看"焦虑反向 → 反"标准曲线偏高就放心",其实超 120 千卡就要减奶。
+  what_to_do:
+    - 看奶粉 100g 总热量(找包装)
+    - 算每日总奶粉量 × 热量
+    - 除以娃体重 kg → 千卡/kg/日
+    - 超 120 千卡就减奶量
+    - 母乳娃凭体感(吃饱就拉)
+  failure_mode: |
+    "胖娃才有福相"奶奶逼妈追喂 → 婴儿肥胖 → 心脏长期超负荷 + 后续儿童肥胖。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Matsuda
+
+citation:
+  book_title_zh: "定本《育儿百科》"
+  book_title_jp: "育児の百科(定本)"
+  authors: ["松田道雄"]
+  translators_zh: ["王少丽"]
+  publisher_zh: null
+  year: 1980
+  edition: "定本"
+  location: "第 96 节防止婴儿过胖"
+  source_id: SRC-023
+
+unit_ids: []
+related_cards:
+  - C-S1-609  # 自卷:反标准体重焦虑
+  - C-S2-548  # 自卷:食量小婴儿是健康
+  - C-S0-369  # 自卷:母乳孕期决策(母乳防胖)
+  - C-S3-002  # AAP 过敏食物 4-6 月引入
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

@@ -1,0 +1,72 @@
+card_id: C-S0-620
+stages: [S0]
+tags: [shonkoff, nrc, sensitive_period, critical_period, china_high_freq]
+
+front:
+  title: "0-3 不是死期是黄金期"
+  hook: "错过可补不是没救"
+
+back:
+  why_matters: |
+    NRC 综述给"0-3 关键期" vs "0-3 敏感期"做精确区分(Ch 8):
+    **critical period 关键期**:错过完全没救(eg 视觉皮层 — 婴儿白内障没及时切,失明)。
+    **sensitive period 敏感期**:最佳窗口期,错过仍可补(eg 语言 / 依恋 / 情感调节)。
+    **NRC 综述明确立场**:绝大多数人类发展能力是 sensitive 不是 critical。
+    **Hubel-Wiesel 猫实验**(诺奖 1981)显示:小猫 2-3 月剥夺视觉 = 永久失明。
+    人类对应 = 婴儿斜视没及时纠 → 学龄前不可逆。
+    **但**语言 / 依恋 / 社交 ≠ 视觉。这些"宽期开放" — 罗马尼亚孤儿院领养孩子的恢复证明可补。
+    **对中国家长**:别被"3 岁定终身"吓到。0-3 是"最佳 + 最高效"窗口,不是"唯一 + 错过永远不能"。
+    错过 0-3 高质量陪伴 = 损失了"性价比最高的窗口",不是"完了"。
+  what_to_do:
+    - 0-3 多陪是性价比最高
+    - 错过别绝望 — 仍可补
+    - 视觉 / 听觉问题必须及时检
+    - 斜视 / 白内障早治
+    - 别迷"3 岁定终身"
+  failure_mode: |
+    "孩子 4 岁了我才开始陪 — 完了" — 错。NRC 明说语言 / 依恋 / 情感调节是 sensitive 不是 critical 期。
+    晚陪比不陪强,从 4 岁起的高质量陪还是有用的(虽然性价比降)。
+    真正不可逆:0-2 岁严重视听感官缺陷未及时矫正(白内障 / 严重听力 / 严重斜视)。
+  evidence_level: A
+
+  positions:
+    issue: 0-3 岁是真"关键期"(critical)还是"敏感期"(sensitive)
+    views:
+      - school: Shonkoff / NRC
+        source: SRC-025
+        stance: 严格区分 critical(完全错过)vs sensitive(可补)。绝大多数发展是 sensitive 不是 critical,反"3 岁定终身"恐慌。
+      - school: Gopnik
+        source: SRC-015
+        stance: 强调突触修剪 + 关键期窗口(语言 / 视觉 / 知觉重组),认知科学立场偏 critical 端。
+      - school: Lillard(蒙氏)
+        source: SRC-016
+        stance: absorbent mind 强调 0-6 岁是哲学性关键期,但不是临床 critical(可补)。
+      - school: 罗马尼亚孤儿数据
+        stance: 即便严重剥夺,6 月领养仍可大幅恢复 → 实证偏 sensitive 论;支持 NRC 立场。
+      - school: 中国主流
+        stance: 普遍误信 critical 论 — "3 岁定终身" / "0-3 是黄金期错过不能补",制造焦虑。
+glossary_refs:
+  - G-PERSON-Shonkoff
+  - G-TERM-sensitive-periods
+  - G-TERM-critical-period
+  - G-TERM-NRC
+
+citation:
+  book_title_en: "From Neurons to Neighborhoods"
+  book_title_zh: "从神经元到社区"
+  authors: ["Jack P. Shonkoff", "Deborah A. Phillips"]
+  org: "National Research Council and Institute of Medicine"
+  year_en: 2000
+  location: "Ch 8 · Critical and Sensitive Periods discussion"
+  source_id: SRC-025
+
+unit_ids: []
+related_cards:
+  - C-S6-179    # Gopnik 突触修剪 + 关键期 SRC-015
+  - C-S6-180    # Gopnik 知觉重组 SRC-015
+  - C-S7-125    # Gopnik 反早教 SRC-015
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

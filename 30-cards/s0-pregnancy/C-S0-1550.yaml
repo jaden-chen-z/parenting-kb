@@ -1,0 +1,56 @@
+card_id: C-S0-1550
+stages: ['S0']
+tags: ['philosophy', 'lerner_v1', 'elder', 'trajectories', 'multiple_pathways']
+
+front:
+  title: "人生有多条轨迹"
+  hook: "不是单一一条路径"
+
+back:
+  why_matters: |
+    Elder 概念 — 人不是单一发展路径,是 multiple trajectories(多重轨迹)同时进行:
+    - 教育 trajectory(从入园到毕业)
+    - 职业 trajectory(从工作到退休)
+    - 家庭 trajectory(单身 → 婚 → 育 → 老)
+    - 健康 trajectory(从健康到老化)
+    - 关系 trajectory(朋友 / 同事 / 邻居网络变化)
+    - 灵性 trajectory(信仰 / 价值观演化)
+    意义 — 中国家长常 "教育 trajectory 唯一"立场 → 把娃发展简化成"上好学校"单线。
+    Elder 视角 — 看 6+ 条轨迹综合 — 教育只是其中一条。
+    - 学业差但社交好 → 教育轨迹弱 / 关系轨迹强 = 人生未必差
+    - 学业好但孤独 → 教育强 / 关系弱 = 一条腿走路
+    - 健康差(过劳 / 焦虑) → 健康轨迹下行 → 长期所有轨迹下行意义 — 多轨迹视角让你不焦虑单一路径,看综合发展。
+  what_to_do:
+    - "不只看教育 trajectory(就 1 条)"
+    - "同时看健康 / 关系 / 灵性 / 兴趣"
+    - "某条强可补另一条弱"
+    - "'学业好就行' 立场过简"
+    - "6+ 条轨迹综合看人生"
+  failure_mode: |
+    "教育 trajectory 唯一" 立场 — 错。Elder 视角:多轨迹综合。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Elder
+  - G-TERM-developmental-trajectories
+  - G-TERM-life-course-theory
+
+related_cards:
+  - C-S0-1529
+  - C-S0-1530
+  - C-S0-1549
+  - C-S0-008
+
+citation:
+  source_id: SRC-030
+  source_title: "Handbook of Child Psychology Vol 1: Theoretical Models of Human Development"
+  chapter: "Ch 12 Elder & Shanahan"
+  chapter_offset: 3637709
+  chapter_title: 'Elder & Shanahan — Life Course Theory'
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_followup_needed: 'SRC-030 用 PDF 字节偏移代页码 — 待加 page_pdf 反查工具'

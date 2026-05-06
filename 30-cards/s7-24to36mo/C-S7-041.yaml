@@ -1,0 +1,73 @@
+card_id: C-S7-041
+stages: [S7]
+tags: [philosophy, milestone]
+
+front:
+  title: 拒学和逃学完全不同
+  hook: 一个怕家走一个怕家归
+
+back:
+  why_matters: |
+    Bowlby Vol 2 第十八章 + Hersov 1960 50+50 对照研究 — 一个常被混淆的临床区分:
+    **拒学(school refusal)和逃学(truancy)是两个完全不同的问题**,中国家长容易把"不肯上学"统称。
+    | 维度 | 拒学 | 逃学 |
+    |---|---|---|
+    | 家长态度 | 极度关心 | 不关心 / 不知道 |
+    | 家庭 | 完整 + 亲密 | 破碎 / 冷漠 |
+    | 孩子焦虑 | 强烈 | 低 |
+    | 心身症状 | 头痛/呕吐/腹痛常见 | 罕见 |
+    | 行为 | 待家里 | 假装上学到处玩 |
+    | 心理底色 | 焦虑型依恋 | 反社会倾向 |
+    Bowlby 反直觉点:
+    - **拒学的孩子大多没有"学校问题"**(老师 / 同学 / 课业)
+    - 真正怕的是**离开家**,不是去学校
+    - 进入学校后焦虑反而下降
+    - "Estes & Johnson 1956" 主张该术语应改名"分离焦虑"
+    家长意义:孩子不肯上学 → 先排查依恋家庭因素,**别先骂学校 / 老师 / 同学**。
+  what_to_do:
+    - 不肯上学先问"在家也不愿意去吗"
+    - 看身上心身症状(头疼 / 肚子疼)是依恋焦虑信号
+    - 拒学不是逃学,别当不良行为处理
+    - 处理方向:家庭治疗 + 解开妈孩亲密压力
+    - 强迫上学反加重(让孩子担心妈)
+  failure_mode: |
+    "他不上学是被欺负" — Hersov 数据:50 例只 17 例提学校不愉快;真正怕的是离家。
+    "拒学就是熊孩子,严打" — 把焦虑型当反社会处理 → 加重错向。
+  evidence_level: B
+
+  positions:
+    issue: 拒学(school refusal)与逃学(truancy)是否应区分对待
+    views:
+      - school: Bowlby V2
+        source: SRC-012
+        stance: 严格区分 — 拒学是焦虑型(分离焦虑),逃学是反社会型(品行障碍);混淆会让焦虑娃被错误惩罚。
+      - school: 中国教育界
+        stance: 普遍统称"厌学"或"不肯上学",不区分焦虑型与反社会型,处理方式趋同(惩罚 / 说教)。
+glossary_refs:
+  - G-PERSON-Bowlby
+  - G-TERM-attachment
+  - G-TERM-anxious-attachment
+  - G-TERM-separation-anxiety
+
+citation:
+  book_title_zh: "依恋三部曲 · 第二卷:分离"
+  book_title_en: "Attachment and Loss · Volume 2: Separation"
+  authors: ["John Bowlby"]
+  authors_zh: ["约翰·鲍尔比"]
+  translators_zh: ["汪智攀", "王婷婷"]
+  publisher_zh: "世界图书出版有限公司北京分公司"
+  year_en: 1973
+  year_zh: 2017
+  isbn: "978-7-5192-2926-9"
+  location: "第十八章焦虑型依恋和儿童时期的恐怖症(Hersov 1960:学校恐怖症的患者在所谓的恐怖情境中时恐惧不会增加。患者在刚要离开家的时候或是在去学校的路上恐怖最严重)"
+  source_id: SRC-012
+
+unit_ids: []
+related_cards:
+  - C-S6-093      # 角色倒置
+  - C-S7-035      # 别偷偷溜走
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

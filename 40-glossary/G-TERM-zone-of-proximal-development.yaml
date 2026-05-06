@@ -1,0 +1,89 @@
+glossary_id: G-TERM-zone-of-proximal-development
+type: term
+display_name: 近端发展区 (zone of proximal development)
+
+full_name_zh: 近端发展区 / 最近发展区
+full_name_en: Zone of Proximal Development (ZPD)
+
+one_liner: |
+  Vygotsky 1930s 命名 — **宝宝当下能力 vs 大人帮助下能达到的**之间的"潜能区"。
+  Stern 引用解释为什么父母把宝宝当"他即将成为的人"对待是对的:大人在 ZPD 内"工作",反推促进宝宝跨越发展。也是 Stern Ch 9"过度刺激不构成 misattunement"的理论支撑(适度推动 = 在 ZPD 内)。
+
+detail: |
+  ## 定义
+  Zone of Proximal Development(ZPD)= 介于"宝宝独自能做的"和"完全做不到的"之间的**潜能区**。
+  - 独自能做:已掌握技能(蓝色)
+  - 大人帮助能做:潜能区 = ZPD(黄色)⭐
+  - 完全做不到:超出能力(红色)
+  - 教育 / 发展发生在**黄色 ZPD 区**
+
+  ## Vygotsky 经典命名(1930s)
+  - 苏联心理学家 Lev Vygotsky 提出
+  - 反 Piaget 个体认知 — 强调**社交是发展的引擎**
+  - 不只是"教什么" — 是"怎么帮"
+
+  ## Stern 引用 — 父母的本能
+  Stern 在 Ch 3 + Ch 9 引用 ZPD 解释:
+  - **父母自动**给宝宝"主体属性"(意图 / 动机 / 行动主权)
+  - 宝宝**当下**没这些属性,但**即将有**
+  - 大人提前"假设" → 反推宝宝**真发展出来**
+  - 这是 self-fulfilling prophecy 的健康版本
+  - C-S1-256(Stern 给宝宝主体属性是对的)直接基于此
+
+  ## Stern 临床应用 — 过度刺激判断
+  Stern Ch 9 Eric 案例:
+  - 妈比宝宝更兴奋,常推宝宝到更高兴奋度
+  - **不是 misattunement**(只要在 ZPD 内)
+  - 是"working in zone of proximal affective development"
+  - **稍超宝宝当下** = 健康
+  - **远超宝宝耐受** = 入侵 / 过度刺激
+
+  ## 实操判断 — 在 ZPD 内 vs 出 ZPD
+  | 在 ZPD 内 | 出 ZPD(入侵)|
+  |---|---|
+  | 宝宝跟着兴奋 | 宝宝转头躲 |
+  | 宝宝继续主动找你 | 宝宝退缩 |
+  | 慢慢学新技能 | 沮丧 / 哭 |
+  | 几次后能独立做 | 永远做不到 |
+
+  ## 跟其他理论关系
+  - **蒙氏敏感期**:某能力的最佳学习窗口 — 跟 ZPD 互补
+  - **Bowlby secure base**:有 secure base 才敢探索 ZPD
+  - **Wonder Weeks 跃迁**:每次跃迁后 ZPD 重设
+  - **Lillard 不替宝宝做**:让宝宝在 ZPD 内自己努力,不替
+
+  ## 中国家长应用
+  - 主动用第二人称("你想...")— 在 ZPD 内
+  - 解读宝宝意图 — 在 ZPD 内
+  - 给"角色"和"位置"— 在 ZPD 内
+  - 但**别推超过宝宝耐受** — 看信号(转头 / 躲)
+  - "稍微帮一点 + 让他自己做剩下" = ZPD 黄金法则
+
+  ## 临床意义
+  - 早期教育:在 ZPD 教,比"教没掌握的"或"教已掌握的"都有效
+  - 心理治疗:therapist 也在来访者的"心理 ZPD"工作
+  - Stern 给婴儿期 attunement 添了 ZPD 视角
+
+key_facts:
+  - Vygotsky 1930s 苏联心理学家命名
+  - 介于"独自能做" 和 "完全做不到"之间的潜能区
+  - Stern 用来解释父母给宝宝"主体属性"的本能
+  - 在 ZPD 内推动 = 健康,出 ZPD = 入侵
+  - 跟蒙氏敏感期 + Bowlby secure base 互补
+
+related_glossary:
+  - G-PERSON-Vygotsky
+  - G-PERSON-Stern
+  - G-TERM-affective-attunement
+  - G-TERM-sensitive-periods
+
+related_cards: []
+
+sources:
+  - source_id: SRC-018
+  - external: Vygotsky 1962《Thought and Language》/ Stern《The Interpersonal World of the Infant》Ch 3 + Ch 9
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

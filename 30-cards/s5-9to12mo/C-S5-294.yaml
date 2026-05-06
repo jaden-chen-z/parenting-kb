@@ -1,0 +1,78 @@
+card_id: C-S5-294
+stages: [S5]
+tags: [self, 调谐, china_high_freq]
+
+front:
+  title: 故意失调谐 = 调节工具
+  hook: 故意慢半拍 = 教调节
+
+back:
+  why_matters: |
+    Stern 区分 失调谐的两类 — 一类是**有用工具**,另一类是**问题信号**。
+    **类型 1:调谐(故意失调谐 — 有目的)**
+    - 父母**故意**做出比宝宝当下兴奋度**稍高 / 稍低**的回应
+    - 目的:把宝宝**带到一个新的状态**
+    - 调高 — 宝宝平静 → 你 调谐 略高 → 拉宝宝兴奋
+    - 调低 — 宝宝太兴奋 → 你 调谐 略低 → 拉宝宝平静
+    - 类似"舞伴带舞" — 你领,宝宝跟
+    **类型 2:True 失调谐(真失调谐 — 失误)**
+    - 父母**真的没读对**宝宝的 感受状态
+    - 或者**自己找不到对应**的内心感觉(累 / 烦 / 心不在焉)
+    - 宝宝**立刻察觉**(Stern 实验:9 月宝宝立刻停下来看妈"什么情况")
+    - 频繁 true 失调谐 → 宝宝学"妈不懂我" → 安全的 受损
+    **Stern 实验数据**(扰动实验):
+    - 妈妈故意"misjudge"(调高/调低)→ 宝宝**立刻**注意到 + 停下来看
+    - 证明:宝宝**知道"应该匹配的程度"** — 偏离这个程度宝宝就觉察
+    - 即使是 5% 的 mismatch 宝宝都能察觉
+    **对家长的核心信息**:
+    - **调谐(故意失调谐)是合法工具** — 用于带宝宝到新情绪状态
+    - 哄睡时:宝宝 亢奋 → 你声音渐慢渐低 → 拉低兴奋度 → 入睡
+    - 提振时:宝宝烦躁 → 你声音稍高 → 拉高 → 引导出快乐
+    - **但不要长期 true 失调谐** — 心不在焉时不如不互动
+    **跟 Karp 5S 安抚法的共通**:
+    - Karp 第 1 步 嘘声 是匹配宝宝当下的 distress(C-S1-018)
+    - 然后**逐步降低** 嘘声 强度 → 把宝宝带到平静 — 这就是 调谐(故意失调谐)
+    - Stern 给 Karp 的实操加了心理过程解释
+    **中国家长高频痛点**:
+    - 不会哄睡 → 实际是不会 调谐(没把宝宝从兴奋带到平静)
+    - 不会"安抚烦躁宝宝" → 实际是不会 调谐(没把宝宝从烦躁带到 calm)
+    - 学 调谐 是 9 月+ 育儿的核心技能
+  what_to_do:
+    - 哄睡时声音 / 节奏渐慢渐低
+    - 提振时声音 / 表情稍高
+    - 别长期 true 失调谐(心不在焉)
+    - 累了不如休息一下不要勉强陪
+    - 调谐 是工具,要学
+  failure_mode: |
+    "我跟宝宝玩总是越玩越兴奋睡不着" — 不会 调谐(没把宝宝带回平静)。哄睡需要主动降级 调谐。
+    心不在焉地陪宝宝 → true 失调谐 → 不如不陪。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Stern
+  - G-TERM-affective-attunement
+
+citation:
+  book_title_zh: "婴儿的人际世界"
+  book_title_en: "The Interpersonal World of the Infant"
+  authors: ["Daniel N. Stern"]
+  authors_zh: ["丹尼尔·斯特恩"]
+  publisher_en: "Basic Books"
+  year_en: 1985
+  isbn_en: "978-0-465-09559-9"
+  location: "Ch 7 · Misattunement (tuning vs true misattunement)"
+  publisher_zh: "华东师范大学出版社"
+  year_zh: 2017
+  translator_zh: ["刘旭东"]
+  source_id: SRC-018
+
+unit_ids: []
+related_cards:
+  - C-S5-291       # Stern attunement 主卡
+  - C-S1-018       # Karp 5S
+  - C-S5-189       # Lillard 关门睡 + 不抱晃睡
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

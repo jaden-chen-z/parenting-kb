@@ -1,0 +1,54 @@
+card_id: C-S5-2400
+stages: [S5, S6]
+tags: [philosophy, discipline, controversy, mainstream]
+front:
+  title: 9 月+宝宝咬人:别反咬别夸张反应
+  hook: 老人说"咬回去他就懂了" — 海蒂说这恰恰是教他可以咬人。
+back:
+  why_matters: |
+    Phase B+C 已盖"7-8 月乳头被咬,坚定 No+拔离"(哺乳场景),
+    但本卡是 9 月+宝宝咬人(咬妈妈肩膀/咬其他孩子/咬宠物),
+    中国家长 + 老人高频误处理:
+    - "咬回去让他知道疼" → 海蒂明确反对:这是教他公平游戏=允许咬
+    - 大叫"疼!" + 戏剧化反应 → 海蒂解释:这反而强化(宝宝觉得有趣)
+    - 打手心 → 体罚,海蒂反对(已有"管教不是体罚"卡)
+    海蒂解释:
+    - 咬人最初是实验/游戏,宝宝不知道伤人(咬过磨牙环/玩具)
+    - 人的有趣反应(惊吓/大叫/气愤)= 强化反馈
+    - 越戏剧化,咬人越多
+  what_to_do:
+    - 平静坚定语气说"不能咬人",简短不重复
+    - 立即转移注意力(歌/玩具/换房间)
+    - 提供替代咀嚼物:磨牙环/冰湿毛巾/凉的胡萝卜条(8 月+)
+    - 父母/爷爷奶奶不能"亲咬"宝宝(常见的"咬一口"亲昵动作)
+    - 哺乳被咬:坚定拔离 + 无表情(避免戏剧化反馈)
+    - 在群体玩耍中持续监督,被咬其他孩子立即用身体隔开
+    - 与孩子讨论替代发泄方式(语言/打枕头)— 1 岁+开始
+  failure_mode: |
+    常见错误:
+    - 反咬一口 → 教宝宝"咬人是允许的"
+    - 哭着说"妈妈好疼啊宝宝看妈妈哭了" → 戏剧化反馈,加剧
+    - 笑着说"小坏蛋咬人" → 宝宝学到这是正向反馈
+    - 打嘴或打手 → 体罚 + 不解决问题
+    - 关小黑屋 → 海蒂反对超过年龄理解的惩罚
+    - 不监督就让宝宝和其他孩子玩 → 被咬其他家长会有意见
+  evidence_level: B
+glossary_refs: [G-TERM-corporal-punishment]
+citation:
+  publisher_en: "Workman Publishing"
+  source_id: SRC-040
+  book_title_en: What to Expect the First Year
+  book_title_zh: 海蒂育儿大百科 0-1 岁
+  authors: ["Heidi Murkoff", "Sharon Mazel"]
+  publisher_zh: 南海出版公司
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh: [莫夏迪, 张敏]
+  chapter: Part 5 Ch 13 咬人
+  page_zh: 442
+related_cards: [C-S1-2218]
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

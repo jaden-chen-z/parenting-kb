@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Dykens
+type: person
+display_name: "Dykens(伊丽莎白·戴肯斯)"
+
+full_name_en: "Elisabeth M. Dykens"
+full_name_zh: "伊丽莎白·戴肯斯"
+
+position: |
+  Vanderbilt University
+
+contribution: |
+  智力迟滞病因特定干预
+
+one_liner: |
+  伊丽莎白·戴肯斯 — 智力迟滞病因特定干预
+
+key_facts:
+  - "本卷章节:Ch 12 主笔"
+  - "Lerner V4 命中:22 次"
+  - "学派:Lerner V4 应用心理学派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-029
+    chapter: "Ch 12 主笔"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

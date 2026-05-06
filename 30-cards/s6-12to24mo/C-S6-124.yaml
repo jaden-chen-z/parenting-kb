@@ -1,0 +1,69 @@
+card_id: C-S6-124
+stages: [S6]
+tags: [development_burst, controversy]
+
+front:
+  title: 75 周第十跃迁:系统世界
+  hook: 17.5 月有"我"概念
+
+back:
+  why_matters: |
+    第 75 周(71-75 周 ≈ 17.5 月)是 Wonder Week 第十跃迁(也是本书最后一个) — **系统世界**(World of Systems)。
+    怎么回事:大脑从"理解原则"升级到能感知**系统**:
+    - 自我作为系统(第一次意识到"我是一个独立的人")
+    - 家庭作为系统(我家跟邻居家不同)
+    - 道德系统的萌芽(可以选择诚实 / 善良 / 耐心)
+    - 性别意识(发现身体差异)
+    - 时间感(过去 / 现在 / 将来)
+    跃迁前烦躁 阶段(71 周起)持续 4-6 周(本书最长之一)。
+    神经科学 Brain change box:**16-24 月大脑额叶突触数量爆增**,
+    眶额叶成熟 → "一系列新能力涌现"(良心 / 共情 / 自我控制基础)。
+    跃迁后宝宝立刻:
+    - 用 "你" / "我" 指代(语言上的自我意识)
+    - 镜中认得自己
+    - 可以安慰别人(共情萌芽)
+    - 模仿能力达到顶峰(模仿一切)
+    - 想象游戏丰富(假装做饭 / 当妈妈 / 各种角色)
+    - 假装有"系统"(把娃娃排成"幼儿园")
+  what_to_do:
+    - 71 周后 3 C 信号 → 第十跃迁
+    - 提供假装游戏材料(玩偶 / 厨房 / 服装)
+    - 用"你 / 我"清晰说话,帮助语言上的自我意识
+    - 镜子游戏(让宝宝认自己)
+    - 跃迁完成后是建立简单家规 + 共情教育的窗口期
+  failure_mode: |
+    "她突然不听话了" — 是自我意识在长,不是叛逆。
+    "他男生女生没有区别教就好" — 17.5 月开始性别意识,自然出现是健康的。
+    跃迁完成前期望"听话懂事" — 大脑还在重组中。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-vanderijt
+  - G-TERM-wonder-week
+  - G-TERM-mental-leap
+  - G-TERM-3C-signs
+  - G-TERM-fussy-phase
+  - G-TERM-symbolic-play
+  - G-TERM-imaginary-friend
+
+citation:
+  book_title_zh: "婴儿大脑跃迁 10 周(神奇周)"
+  book_title_en: "The Wonder Weeks"
+  authors: ["Hetty van de Rijt", "Frans X. Plooij"]
+  authors_zh: ["海蒂·凡德里特", "弗朗斯·普洛伊"]
+  publisher_en: "Kiddy World Publishing"
+  year_en_first: 1992
+  isbn_en: "978-90-79208-12-1"
+  location: "Chapter 12 · Wonder Week 75: The World of Systems(around 75 weeks... she develops the idea of herself as a system + Brain Changes box: between 16 and 24 months, synapses in cerebrum vastly increase, orbitofrontal lobe matures, cascade of new skills emerge)"
+  source_id: SRC-013
+
+unit_ids: []
+related_cards:
+  - C-S6-122       # WW55 程序世界
+  - C-S6-123       # WW64 原则世界
+  - C-S6-068       # Bowlby 2 岁是依恋顶峰
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

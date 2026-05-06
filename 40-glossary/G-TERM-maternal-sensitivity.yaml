@@ -1,0 +1,40 @@
+glossary_id: G-TERM-maternal-sensitivity
+type: term
+display_name: maternal sensitivity 母亲敏感度
+
+en_term: maternal sensitivity
+zh_term: 母亲敏感度
+
+one_liner: |
+  Ainsworth 1969 概念 — 妈妈"读懂宝宝信号 + 准 / 快 / 适当回应"的能力。
+  De Wolff-Van IJzendoorn 1997 元分析:maternal sensitivity 是依恋质量**最强**预测因子。
+  跟 Stern attunement 高度重叠。NRC 综述 Ch 9 把它扩到所有 caregiver(不限母亲)。
+
+detail: |
+  ## 4 个组成元素
+  1. **awareness 觉察** — 注意到宝宝信号
+  2. **interpretation 解读** — 准确判断宝宝需要
+  3. **selection 选择** — 选合适回应
+  4. **timing 时机** — 准 / 快 / 适当
+  
+  ## NRC 综述含义
+  - 不限母亲 — 父亲 / 老人 / 保姆都适用
+  - 高质量托育的关键质量元素
+  - 跟收入 / 学历**弱相关** — 是行为不是身份
+
+related_glossary:
+  - G-PERSON-Ainsworth
+  - G-PERSON-Shonkoff
+  - G-TERM-attachment
+  - G-TERM-secure-base
+
+related_cards: []
+
+sources:
+  - source_id: SRC-025
+  - external: Ainsworth 1969 + De Wolff-Van IJzendoorn 1997
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

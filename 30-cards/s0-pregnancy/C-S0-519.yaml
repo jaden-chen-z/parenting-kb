@@ -1,0 +1,48 @@
+card_id: C-S0-519
+stages: [S0]
+tags: [prenatal-decision, return-home, china-spring-festival]
+
+front:
+  title: 回乡分娩 16-23 周
+  hook: 妊娠 6 月内回故乡
+
+back:
+  why_matters: |
+    松田给硬窗:实在没人帮忙,为安全起见,应在 16-23 周左右回到故乡。
+    妊娠过程中多少有点异常的人,应尽可能在原医院分娩。
+    16 周后 24 周前回 — 太早不必,太晚有早产风险。
+    最关键:原医院 + 故乡医院联络 — 不是"拿介绍证明就能接受"。
+  what_to_do:
+    - 16-23 周决定回不回
+    - 妈先到故乡医院产科取得同意
+    - 拿原医院妊娠详细描述(不是介绍证明)
+    - 丈夫请假同回是首选
+    - 产后无人伺候才考虑回乡
+  failure_mode: |
+    妈春节前 32 周才回,赶高铁/飞机 + 故乡医院未联络 → 早产风险陡增。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Matsuda
+
+citation:
+  book_title_zh: "定本《育儿百科》"
+  book_title_jp: "育児の百科(定本)"
+  authors: ["松田道雄"]
+  translators_zh: ["王少丽"]
+  publisher_zh: null
+  year: 1980
+  edition: "定本"
+  location: "第 17 节回乡分娩"
+  source_id: SRC-023
+
+unit_ids: []
+related_cards:
+  - C-S0-001  # Brazelton 触点孕 7 月产检
+  - C-S0-368  # 自卷:父亲进核心家庭育儿
+  - C-S0-005  # Brazelton 上班妈妈选不选母乳的真相
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

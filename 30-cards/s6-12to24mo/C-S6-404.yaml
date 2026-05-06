@@ -1,0 +1,59 @@
+card_id: C-S6-404
+stages: [S6]
+tags: [discipline, RIE, lansbury]
+
+front:
+  title: "设限度 = 跟孩子的高质量时间"
+  hook: "专业帽戴上也是陪"
+
+back:
+  why_matters: |
+    Lansbury Ch25 反主流命题:
+    主流以为"高质量时间" = 玩 / 笑 / 亲密。
+    Lansbury 说:在孩子崩溃 / 抗拒中冷静 + 坚定执行限度,
+    也是"高质量时间" — 甚至更重要。
+    比喻:大人要戴 2 顶帽子。
+    party hat(开心陪) + professional hat(冷静领导)。
+    后者孩子最需要,因为只有大人能给。
+    工作家长尤其要破"陪 = 玩"的迷思。
+
+  what_to_do:
+    - 把"孩子崩溃我冷静陪伴" 也算高质量时间
+    - 不必每次见面都"有趣"
+    - 孩子情绪暴风时 = 你的存在比方案重要
+    - 不愧疚"今天没给孩子玩"
+    - 限度 + 接受情绪 = 最深的陪
+
+  failure_mode: |
+    "陪孩子要让他笑才是好" → 失去了"professional hat"的成长意义。
+    或反向:全 professional hat 没玩 → 关系冷。
+    Lansbury 是说两顶帽都要,但后者更被低估。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Lansbury
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+
+citation:
+  book_title_en: "Elevating Child Care: A Guide to Respectful Parenting"
+  book_title_zh: "尊重孩子:RIE 育儿之道"
+  authors:
+    - Janet Lansbury
+  publisher_en: JLML Press
+  year: 2014
+  location: "Ch25 Toddler Discipline That Works — Redefine Quality Time"
+  source_id: SRC-019
+
+unit_ids: []
+related_cards:
+  - C-S6-403  # Lansbury 限度 + 哭怒并存
+  - C-S2-292  # Lansbury 几分钟真专注
+  - C-S6-138  # Davies 蒙氏父母先照顾自己
+  - C-S6-133  # Davies 温柔但清晰的边界
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

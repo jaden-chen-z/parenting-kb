@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Magnusson
+type: person
+display_name: "Magnusson(大卫·马格努森)"
+
+full_name_en: "David Magnusson"
+full_name_zh: "大卫·马格努森"
+
+position: |
+  Stockholm University 心理学教授
+
+contribution: |
+  holistic-interactionistic + person-oriented approach + 个体路径
+
+one_liner: |
+  大卫·马格努森 — holistic-interactionistic + person-oriented approach + 个体路径
+
+key_facts:
+  - "本卷章节:Ch 8"
+  - "Lerner V1 命中:180+ 次"
+  - "学派:Lerner V1 整体派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+    chapter: "Ch 8"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

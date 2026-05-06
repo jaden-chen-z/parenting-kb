@@ -1,0 +1,295 @@
+source_id: SRC-022
+total_cards: 49
+intrinsic_issues:
+  - card_id: C-S0-167
+    issue_type: wrong_evidence_level
+    severity: P1
+    detail: Magda 7 大原则是 RIE 流派定义,本质是哲学,标 A 不当
+    suggested_fix: 降为 C
+  - card_id: C-S0-168
+    issue_type: wrong_evidence_level
+    severity: P1
+    detail: '好父母不必完美' 是 Magda 个人立场,无 RCT 支撑
+    suggested_fix: 降为 C
+  - card_id: C-S0-169
+    issue_type: wrong_evidence_level
+    severity: P2
+    detail: '求助不是无能' 是 Magda 主张,无循证
+    suggested_fix: 降为 C
+  - card_id: C-S1-406
+    issue_type: wrong_evidence_level
+    severity: P1
+    detail: '动他之前先告知' Pikler-Gerber RIE 核心实操,流派一家言
+    suggested_fix: 降为 C
+  - card_id: C-S1-407
+    issue_type: wrong_evidence_level
+    severity: P2
+    detail: 反 baby talk 与主流 parentese 研究有张力
+    suggested_fix: 降为 B + 加 controversy
+  - card_id: C-S1-408
+    issue_type: wrong_evidence_level
+    severity: P1
+    detail: '哭是孩子的语言' 反 You're okay 是流派语言
+    suggested_fix: 降为 C
+  - card_id: C-S1-410
+    issue_type: wrong_evidence_level
+    severity: P1
+    detail: '关爱不会宠坏' Magda + 依恋派立场;Bowlby 部分可 B
+    suggested_fix: 降为 B
+  - card_id: C-S1-411
+    issue_type: wrong_evidence_level
+    severity: P1
+    detail: '7 类婴儿设备' Magda 立场,与 AAP 立场不同
+    suggested_fix: 降为 C + 加 controversy
+  - card_id: C-S2-344
+    issue_type: wrong_evidence_level
+    severity: P2
+    detail: '慢下来等他' 是 RIE 流派核心
+    suggested_fix: 降为 C
+  - card_id: C-S2-345
+    issue_type: wrong_evidence_level
+    severity: P2
+    detail: '可预测胜新奇' 引 Bowlby/Stern 部分可 B,Magda 强解过头
+    suggested_fix: 降为 B
+  - card_id: C-S2-346
+    issue_type: wrong_evidence_level
+    severity: P1
+    detail: '别说宝宝没事' RIE 语言立场
+    suggested_fix: 降为 C
+  - card_id: C-S2-347
+    issue_type: wrong_evidence_level
+    severity: P2
+    detail: '全注意才叫共度' 借 Stern attunement 部分可 B
+    suggested_fix: 降为 B
+  - card_id: C-S3-351
+    issue_type: wrong_evidence_level
+    severity: P2
+    detail: 'modeling' 有 Bandura 支撑但 Magda 强版本是流派演绎
+    suggested_fix: 降为 B
+  - card_id: C-S3-352
+    issue_type: wrong_evidence_level
+    severity: P1
+    detail: '护理时全注意,玩时观察' RIE Selective Attention 流派核心
+    suggested_fix: 降为 C
+  - card_id: C-S3-354
+    issue_type: wrong_evidence_level
+    severity: P1
+    detail: '选托育看 4 件事' Magda 个人选择标准
+    suggested_fix: 降为 C
+  - card_id: C-S4-349
+    issue_type: wrong_evidence_level
+    severity: P1
+    detail: '里程碑不是赛跑' 立场对,'爱因斯坦 3 岁才说话' 是流行轶事
+    suggested_fix: 降为 C;核实 Reef 1991 引用
+  - card_id: C-S4-350
+    issue_type: wrong_evidence_level
+    severity: P1
+    detail: '选择性介入' RIE 核心实操,无外部循证
+    suggested_fix: 降为 C
+  - card_id: C-S4-351
+    issue_type: wrong_evidence_level
+    severity: P2
+    detail: '100% 安全房间' 部分有循证,Magda 完整版是流派
+    suggested_fix: 降为 B
+  - card_id: C-S4-352
+    issue_type: wrong_evidence_level
+    severity: P1
+    detail: '群玩两条铁律' 不强分享 与中国传统/AAP 礼貌教育有张力
+    suggested_fix: 降为 C + 加 controversy
+  - card_id: C-S4-353
+    issue_type: wrong_evidence_level
+    severity: P1
+    detail: '护理时邀请参与' RIE Basic Principle 5 流派核心
+    suggested_fix: 降为 C
+  - card_id: C-S5-446
+    issue_type: wrong_evidence_level
+    severity: P2
+    detail: 陌生人焦虑 Bowlby/Ainsworth 支撑;实操强版本是 RIE 立场
+    suggested_fix: 保 A 或降 B
+  - card_id: C-S5-449
+    issue_type: wrong_evidence_level
+    severity: P2
+    detail: '永不偷溜走' RIE/依恋派一致立场
+    suggested_fix: 降为 B
+  - card_id: C-S5-448
+    issue_type: wrong_evidence_level
+    severity: P1
+    detail: '矮桌矮椅替高脚椅' 蒙氏+Magda 流派,无 RCT
+    suggested_fix: 降为 C
+  - card_id: C-S6-458
+    issue_type: wrong_evidence_level
+    severity: P2
+    detail: Erikson basic trust 部分 A;Magda 实操是流派
+    suggested_fix: 降为 B
+  - card_id: C-S6-459
+    issue_type: wrong_evidence_level
+    severity: P2
+    detail: '接受感受+限度行为' 有 Gottman emotion coaching 部分支撑
+    suggested_fix: 降为 B
+  - card_id: C-S6-460
+    issue_type: wrong_evidence_level
+    severity: P1
+    detail: '好奇是创造力种子' Magda 流派演绎
+    suggested_fix: 降为 C
+  - card_id: C-S6-461
+    issue_type: wrong_evidence_level
+    severity: P2
+    detail: '幼儿不需要被教' RIE 反早教立场
+    suggested_fix: 降为 C 或 B + 加 controversy
+  - card_id: C-S6-462
+    issue_type: wrong_evidence_level
+    severity: P1
+    detail: '红黄绿三色限度' Magda 命名的流派教学法
+    suggested_fix: 降为 C
+  - card_id: C-S6-463
+    issue_type: wrong_evidence_level
+    severity: P2
+    detail: '脾气暴发让它过' Antaeus 是 Magda 神话比喻
+    suggested_fix: 降为 C 或 B
+  - card_id: C-S6-465
+    issue_type: wrong_evidence_level
+    severity: P2
+    detail: '自律靠自己接管' 部分有 Erikson/Deci-Ryan 支撑
+    suggested_fix: 降为 B
+  - card_id: C-S6-466
+    issue_type: wrong_evidence_level
+    severity: P2
+    detail: '睡前序列固定' 有睡眠卫生共识 + Magda 强版本是流派
+    suggested_fix: 降为 B
+  - card_id: C-S6-467
+    issue_type: wrong_evidence_level
+    severity: P1
+    detail: '不用 Time-out' Magda 流派立场;AAP 不反对正确 time-out
+    suggested_fix: 降为 C + 加 controversy(入 conflicts.md)
+  - card_id: C-S6-468
+    issue_type: wrong_evidence_level
+    severity: P2
+    detail: Erikson 自主期 vs 羞耻是发展共识;具体实操是流派演绎
+    suggested_fix: 降为 B
+  - card_id: C-S6-469
+    issue_type: wrong_evidence_level
+    severity: P2
+    detail: '自然后果' Adler/Dreikurs 支撑,Magda 排除一切惩罚的强版本
+    suggested_fix: 降为 B
+  - card_id: C-S6-471
+    issue_type: wrong_evidence_level
+    severity: P2
+    detail: '教说话替打咬' Gottman emotion coaching 部分支撑
+    suggested_fix: 降为 B
+  - card_id: C-S7-405
+    issue_type: wrong_evidence_level
+    severity: P1
+    detail: '学如厕不是训练' Magda + Brazelton 立场,Magda 完全反训练强版本是流派
+    suggested_fix: 降为 B
+  - card_id: C-S7-406
+    issue_type: wrong_evidence_level
+    severity: P2
+    detail: '测试限度是健康' 发展心理学常识
+    suggested_fix: 降为 B
+  - card_id: C-S7-407
+    issue_type: wrong_evidence_level
+    severity: P2
+    detail: '你不必完美' Winnicott good-enough mother 部分 B
+    suggested_fix: 降为 B
+  - card_id: C-S0-167
+    issue_type: factual_inconsistency
+    severity: P2
+    detail: 标题 'Magda 7 大原则' 但 citation 写 '8 条逐个解释' — 自相矛盾
+    suggested_fix: 核对原书是 7 还是 8 条,统一标题与 citation
+  - card_id: C-S1-409
+    issue_type: factual_questionable
+    severity: P2
+    detail: AAP 1992 Back to Sleep 数字属 AAP,不是 Magda 1998 内容,混源
+    suggested_fix: 明确数字属 AAP,Gerber 仅言 Pikler 派 1960s 已倡仰睡
+  - card_id: C-S4-349
+    issue_type: citation_unverified
+    severity: P2
+    detail: 'Reef 1991' 爱因斯坦 3 岁才说话流行轶事,引用未经核实
+    suggested_fix: 删除 Reef 1991 引用或改为'传说'
+  - card_id: C-S6-467
+    issue_type: tag_misuse
+    severity: P1
+    detail: 与 AAP time-out 立场冲突,缺 controversy tag
+    suggested_fix: 加 controversy tag,入 conflicts.md
+  - card_id: C-S6-470
+    issue_type: ethical_concern
+    severity: P2
+    detail: '高需求经常是学到的' 立场敏感,可能加重新手妈妈愧疚 + 与气质天生研究冲突
+    suggested_fix: 加 controversy tag
+intra_source_dedups:
+  - cluster: [C-S0-168, C-S7-407]
+    level: L1
+    action: merge_into
+    keeper: C-S7-407
+    reason: 都是 'Don't Have to Be Perfect',原书 Ch4 + Ch8 重复制作。语义重叠 95%
+  - cluster: [C-S5-445, C-S5-446]
+    level: L2
+    action: merge_candidate
+    keeper: C-S5-445
+    reason: 分离焦虑健康 + 陌生人焦虑健康,Magda Ch7 同节并列;主题相邻可合并
+  - cluster: [C-S6-462, C-S6-468, C-S7-406]
+    level: L2
+    action: merge_candidate
+    keeper: C-S6-462
+    reason: 红黄绿三色 + 幼儿说不健康 + 测试限度健康,what_to_do 高度重叠
+  - cluster: [C-S6-465, C-S6-467, C-S6-469]
+    level: L2
+    action: merge_candidate
+    keeper: null
+    reason: 自律自己接管 + 不用 time-out + 自然后果,Magda Ch8 三节,failure_mode 三张都批奖罚
+  - cluster: [C-S1-406, C-S4-353]
+    level: L2
+    action: merge_candidate
+    keeper: null
+    reason: 'Tell Before Do' + 'Active Participant Caregiving',Magda 同源实操,重叠 70%
+  - cluster: [C-S2-344, C-S2-347, C-S3-352, C-S4-350]
+    level: L2
+    action: merge_candidate
+    keeper: null
+    reason: RIE 观察四联卡:慢下来 + 全注意 + 选择性注意 + 选择性介入,bullet 重复
+  - cluster: [C-S5-445, C-S5-449, C-S6-458]
+    level: L3
+    action: mutual_link
+    reason: 依恋三连:分离焦虑健康 + 永不偷溜走 + 继续建基本信任,告别+准时回来 实操重复
+  - cluster: [C-S2-346, C-S1-408]
+    level: L2
+    action: merge_candidate
+    keeper: C-S1-408
+    reason: '别说宝宝没事' + '哭是孩子的语言' 高度同源,what_to_do 重叠 70%
+  - cluster: [C-S2-345, C-S6-466]
+    level: L3
+    action: mutual_link
+    reason: 可预测胜新奇 (通用) + 睡前序列固定 (睡眠应用),抽象 vs 具体
+  - cluster: [C-S6-471, C-S6-459]
+    level: L3
+    action: mutual_link
+    reason: 教说话替打咬 + 接受想要限度行为,中度重叠
+  - cluster: [C-S3-351, C-S6-465]
+    level: L3
+    action: mutual_link
+    reason: 你做的他都看 (modeling) + 自律靠自己接管 (internalization),input vs output
+  - cluster: [C-S0-167, C-S4-353]
+    level: L3
+    action: mutual_link
+    reason: Magda 7 原则 (骨架) + 护理时邀请参与 (Principle 5 单点),包含关系
+  - cluster: [C-S1-411, C-S5-448]
+    level: L3
+    action: mutual_link
+    reason: 7 类婴儿设备 + 矮桌矮椅替高脚椅,合理互补
+totals_per_issue:
+  wrong_evidence_level: 38
+  factual_inconsistency: 1
+  factual_questionable: 4
+  citation_unverified: 1
+  tag_misuse: 1
+  ethical_concern: 1
+  intra_source_L1_clusters: 1
+  intra_source_L2_clusters: 7
+notes: |
+  核心问题:evidence_level 系统性通胀(38/49 = 78%)。Gerber RIE 是流派(philosophy),按 §10.7 应主标 C。
+  L1 强重复:1 簇 — C-S0-168 与 C-S7-407 (Don't Have to Be Perfect) 重复制作。
+  L2 中度重复:7 簇 — RIE 流派核心实操在多卡反复出现,bullet 级重叠 60-90%。
+  混源风险:C-S1-409 把 AAP 数字当 Gerber 卡循证。
+  未经核实引用:C-S4-349 'Reef 1991' 爱因斯坦轶事。
+  冲突卡:C-S6-467 反 time-out 与 AAP 冲突,需入 conflicts.md。
+  跨 SRC-021 dedup 留 Phase C 处理。

@@ -1,0 +1,50 @@
+card_id: C-S0-1502
+stages: ['S0']
+tags: ['philosophy', 'lerner_v1', 'bronfenbrenner', 'proximal_processes', 'foundational']
+
+front:
+  title: "近端互动是发展引擎"
+  hook: "日常陪伴比啥都重要"
+
+back:
+  why_matters: |
+    Bronfenbrenner 提 proximal processes(近端互动)— 真正驱动发展的是:
+    父母跟娃每天反复互动的具体活动(读书 / 吃饭 / 玩耍 / 散步 / 谈话)。
+    不是教育产品,不是专业课,不是设备 — 是日常重复的"足够好"互动。
+    中国父母常以为 "高级教具 + 名师 + 双语早教 = 好发展" — 错。
+    Bronfenbrenner 数据:proximal process 质量是发展第一变量,远超教学技术。
+    意义 — 你每天 1 小时高质量陪伴(蹲下听 / 一起做饭 / 一起读书) > 1 万元早教班。
+  what_to_do:
+    - "每天 1 小时不被打断的陪伴时间(关手机)"
+    - "吃饭一起 + 散步一起 + 睡前读书一起"
+    - "近端互动里反复出现'轮替'(serve & return)"
+    - "不需要昂贵教具 — 日用品就够"
+    - "亲子互动质量 > 任何外部资源"
+  failure_mode: |
+    把娃送早教班自己玩手机 — 错。Proximal process 缺失再多课弥补不了。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Bronfenbrenner
+  - G-TERM-proximal-processes
+  - G-TERM-PPCT-model
+
+related_cards:
+  - C-S0-1500
+  - C-S0-1501
+  - C-S0-014
+  - C-S2-940
+
+citation:
+  source_id: SRC-030
+  source_title: "Handbook of Child Psychology Vol 1: Theoretical Models of Human Development"
+  chapter: "Ch 14 Bronfenbrenner & Morris"
+  chapter_offset: 4361274
+  chapter_title: 'Bronfenbrenner & Morris — Bioecological Model'
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_followup_needed: 'SRC-030 用 PDF 字节偏移代页码 — 待加 page_pdf 反查工具'

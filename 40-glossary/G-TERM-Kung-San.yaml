@@ -1,0 +1,66 @@
+glossary_id: G-TERM-Kung-San
+type: term
+display_name: "!Kung San 喀拉哈里部落"
+
+en_term: "!Kung San / Ju/'hoansi"
+zh_term: 喀拉哈里游猎部落
+
+one_liner: |
+  非洲博茨瓦纳 / 纳米比亚的游猎采集部落 — 跨文化育儿研究的经典对照样本。
+  **!Kung 育儿特征**:婴儿 24 小时贴妈身上 + 每 15 分钟一次小口母乳 + 0 容忍 fuss。
+  Hunziker-Barr 1986 实验灵感来源 — 让北美妈"模仿 !Kung 多抱"减一半哭闹时长。
+  NRC 综述 Ch 5 + Ch 3 多次引用为"另一极端育儿样本"。
+
+detail: |
+  ## 部落背景
+  - 又称 Ju/'hoansi(自称)
+  - 居住非洲喀拉哈里沙漠(博茨瓦纳 / 纳米比亚)
+  - 游猎采集生活方式 — 人类最古老生活模式
+  - 人类学家 Konner / Barr 等 30+ 年研究
+
+  ## !Kung 育儿特征
+  1. **婴儿 24 小时贴妈身上** — 白天背着 / 晚上贴睡
+  2. **每 15 分钟一次小口母乳** — 频繁短哺
+  3. **0 容忍 fuss** — 一 fuss 立刻回应
+  4. **不强调"睡整觉"** — 婴儿夜醒喂奶常态
+  5. **同伴 + 多代育儿** — 部落分享照护责任
+  6. **断奶晚** — 3-4 岁才完全断
+
+  ## 跨文化对比数据
+  - !Kung 婴儿哭闹**总时长比北美少一半**
+  - **峰值时间**(6-8 周)跨文化一致 — 生理决定
+  - **哭闹安抚速度**!Kung 远快于北美
+
+  ## Hunziker-Barr 1986 加拿大实验(NRC 引)
+  - 给一组北美妈"每天多抱 2 小时"指令
+  - 模仿 !Kung 育儿特征
+  - 结果:多抱组哭闹**频率不变**,但**时长大幅减**
+  - 这是"多抱不会宠坏"的直接科学证据
+
+  ## NRC 立场含义
+  - 不是说 !Kung 育儿更好或必须照搬
+  - 但反"分睡 / 长哺间隔 / 不立刻回应 fuss"是"标准/进步"立场
+  - **婴儿适应性强** — 跨文化都健康发展
+  - 育儿没有"唯一正确"
+
+key_facts:
+  - 喀拉哈里游猎部落
+  - 跨文化育儿对照样本
+  - 24 小时贴妈 + 15 分钟哺乳
+  - Hunziker-Barr 多抱实验灵感
+  - NRC Ch 5 + Ch 3 引
+
+related_glossary:
+  - G-PERSON-Shonkoff
+  - G-TERM-NRC
+
+related_cards: []
+
+sources:
+  - source_id: SRC-025
+  - external: Konner / Barr ethnographic studies
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

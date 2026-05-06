@@ -1,0 +1,49 @@
+card_id: C-S3-554
+stages: [S3]
+tags: [eczema, skin, common-conditions]
+
+front:
+  title: 婴儿湿疹分两类
+  hook: 干性 vs 渗出区别治
+
+back:
+  why_matters: |
+    松田说:婴儿湿疹常见,妈别一律涂激素。
+    干性湿疹:皮肤红、脱皮、痒 — 保湿为主,薄涂润肤霜。
+    渗出性湿疹:有黄水、结痂、糜烂 — 找儿科开药。
+    多数湿疹 1-2 岁自愈,不需重药。常被误判过敏。
+  what_to_do:
+    - 看类型:干 vs 渗出
+    - 干性日涂 2-3 次润肤霜
+    - 渗出立刻找儿科,别自购药
+    - 衣物纯棉宽松 + 别洗太勤
+    - 母乳妈别盲目忌口
+  failure_mode: |
+    妈一见红就涂激素 → 短效但反复 + 长期皮肤变薄,反加重。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Matsuda
+
+citation:
+  book_title_zh: "定本《育儿百科》"
+  book_title_jp: "育児の百科(定本)"
+  authors: ["松田道雄"]
+  translators_zh: ["王少丽"]
+  publisher_zh: null
+  year: 1980
+  edition: "定本"
+  location: "第 109 / 162 节湿疹"
+  source_id: SRC-023
+
+unit_ids: []
+related_cards:
+  - C-S2-549  # 自卷:空气浴
+  - C-S3-552  # 自卷:4 月前不加辅食
+  - C-S3-002  # AAP 过敏食物 4-6 月就引入
+  - C-S2-024  # Brazelton 过敏积木理论早预防
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

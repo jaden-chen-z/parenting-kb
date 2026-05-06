@@ -1,0 +1,36 @@
+card_id: C-S4-2146
+stages: [S4]
+tags: [feeding, dental]
+front:
+  title: 整天零食=蛀牙根源,2-3 顿就够
+  hook: 满嘴饼干干扰发育
+back:
+  why_matters: |
+    7-8 月娃能自己抓食,父母容易让娃手里随时有饼干——海蒂列出 4 大恶果。
+    整天吃手指食物的娃营养摄入反而不全;干扰自由游戏和探索;行走中边吃边走危险高;满嘴食物影响语言;失去围桌就餐的社交学习;食物长留口中助蛀牙。正餐+2-3 个有营养零食足够。
+  what_to_do:
+    - 每天 3 正餐+2-3 营养零食
+    - 不让娃边走边吃
+    - 零食定时定点不挂手里
+    - 吃完擦嘴或漱口
+    - 围桌共餐培养礼仪
+  failure_mode: 为了让娃不哭一直塞饼干,娃 9 月正餐拒绝,只吃零食,1 岁体检龋齿+营养不均双中招。
+  evidence_level: B
+glossary_refs: []
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors: ["Heidi Murkoff", "Sharon Mazel"]
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh: ["莫夏迪","张敏"]
+  location: "第 11 章 《第 7 个月》, 页 380-381"
+  source_id: "SRC-040"
+related_cards: [C-S3-2257, C-S4-2151]
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

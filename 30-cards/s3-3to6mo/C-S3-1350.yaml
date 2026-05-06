@@ -1,0 +1,72 @@
+card_id: C-S3-1350
+stages: [S3]
+tags: [attachment, powell, infant, lerner_v4]
+
+front:
+  title: 3-6 月响应做依恋
+  hook: 3-6 月响应做依恋
+
+back:
+  why_matters: |
+    Powell V4 Ch 14(3-6 月依恋做基础)。
+    **3-6 月依恋形成核心阶段**:
+    - 4 月起娃开始**辨认主要照护人**
+    - 5-6 月开始展示偏好(哭着要妈)
+    - 0-6 月响应**总和**预测 12 月依恋类型
+    - 这阶段错过补不回(需 12-24 月再干预)
+    **Powell 干预重点 3-6 月**:
+    - 响应**速度** + **准确**
+    - 父母-娃**同步**(synchrony)— 一起笑 / 看 / 互动
+    - 共同注意力(joint attention)起源
+    - 母性敏感训练(若有 PPD 或 disrupted attachment)
+    **反 4 误区**:
+    - ❌ "3-6 月还不懂"(已经懂)
+    - ❌ "哭一会再抱训独立"(违反响应)
+    - ❌ "妈忙爸代替没事"(主 caregiver 关键)
+    - ❌ "依恋天生不能改"(可以塑造)
+    **实操**:
+    - 哭 < 1 分钟响应
+    - 同步互动:笑→你笑,看→你跟看
+    - 共同注意:你看 X 我也看 X
+    - 主 caregiver 1 个稳定跟现库:跟 V3 Cassidy(C-S2-940)+ Bowlby V1(SRC-011)+ Ainsworth 母性敏感(SRC-023)+ C-S6-1391 V4 依恋干预对接。
+    对中国家长意义:
+    - 3-6 月响应是依恋核心
+    - 同步互动 + 共同注意
+    - 主 caregiver 稳定 1 个
+    - 错过这阶段需 12-24 月补
+  what_to_do:
+    - 3-6 月响应是依恋核心
+    - 同步互动+共同注意
+    - 主 caregiver 1 个稳定
+    - 错过需 12-24 月补
+  failure_mode: |
+    "3-6 月不懂"— 错。已经懂。
+    "哭一会再抱训独立"— 错。违反响应。
+    "依恋不能改"— 错。可塑造。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Powell
+  - G-TERM-attachment-intervention
+  - G-TERM-synchrony
+  - G-PERSON-Ainsworth
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 4 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 4 卷"
+  authors: ['Douglas R. Powell']
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 14 · Powell · 3-6mo attachment foundation · pp. 555-565"
+  source_id: SRC-029
+
+unit_ids: []
+related_cards:
+  - C-S0-1233     # Powell 5 原则
+  - C-S6-1391     # V4 依恋干预
+  - C-S2-940     # V3 Cassidy 内部工作模型
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

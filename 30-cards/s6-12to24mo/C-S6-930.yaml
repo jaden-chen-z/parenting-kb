@@ -1,0 +1,69 @@
+card_id: C-S6-930
+stages: [S6]
+tags: [shonkoff, nrc, language_quality, conversation_quality, china_high_freq]
+
+front:
+  title: "对话型胜命令型"
+  hook: "问 + 等不止说"
+
+back:
+  why_matters: |
+    NRC 综述 Ch 6 给"对话型 vs 命令型"语言互动的研究:
+    **Hart-Risley 详细数据**:
+    - 高 SES 家庭对话特征:**问 + 等 + 详述 + 鼓励**
+    - 低 SES 家庭对话特征:**命令 + 禁止 + 短回应**
+    - **3 岁 IQ 与对话型相关 r=0.78**(超高相关)
+    **对话型 4 元素**:
+    1. **开放式问题** — "你看见什么?" 不是 "这是什么?"
+    2. **等待回应** — 给宝宝 5-10 秒思考
+    3. **详述扩展** — 宝宝说 "猫" → 你 "对,大花猫,毛是黑白的"
+    4. **回应正向** — 不打断不纠正发音
+    **命令型(避免)**:
+    - "快吃 / 别动 / 不行 / 听话 / 听到没"
+    - 这些主导的家庭 → 词汇延迟 + IQ 偏低
+    **NRC 立场**:
+    - 不是"少说命令型",是"多说对话型"
+    - 命令型有时必要(危险时)
+    - 但日常应当是对话型主导
+    **跟 Stern attunement + Lansbury 不打扰 + 蒙氏 follow the child 一致**。
+    **对中国家长**:
+    - "中国家长爱命令"是文化倾向 — 但科学支持对话型
+    - 改命令为问 — "把鞋穿上" → "这鞋你想自己穿吗?"
+    - 等他回应 — 别马上替他做
+    - 详述他做的事 — "你刚把鞋穿上了 — 自己穿好棒"
+  what_to_do:
+    - 问代替命令
+    - 等 5-10 秒回应
+    - 详述他在做什么
+    - 别打断别纠正
+    - 命令仅危险时
+  failure_mode: |
+    "我说他听就行 — 干嘛那么多废话" — 错,对话型 r=0.78 跟 IQ 相关。
+    "他不会回答 — 别问了" — 错,等的过程就在长大脑。
+    "命令更高效" — 短期高效长期 IQ 损失。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Shonkoff
+  - G-PERSON-Hart-Risley
+  - G-TERM-30-million-words
+  - G-TERM-NRC
+
+citation:
+  book_title_en: "From Neurons to Neighborhoods"
+  authors: ["Jack P. Shonkoff", "Deborah A. Phillips"]
+  org: "NRC/IOM"
+  year_en: 2000
+  location: "Ch 6 · Hart-Risley conversation type analysis"
+  source_id: SRC-025
+
+unit_ids: []
+related_cards:
+  - C-S6-926    # Shonkoff 30M words(本卷)
+  - C-S5-908    # Shonkoff child-directed(本卷)
+  - C-S6-396    # Lansbury 不打扰 SRC-019
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,50 @@
+card_id: C-S2-2008
+stages: [S2]
+tags: [controversy, safety, gap_g9_filled]
+
+front:
+  title: 疫苗 5 大流言一句话破
+  hook: 群里转的几乎都假
+
+back:
+  why_matters: |
+    海蒂逐条列出 5 大常见疫苗流言并精确反驳,这是 1-3 月家长疫苗焦虑高峰期最实用的"反误传弹药"。
+    误传成本极高 — 拒打疫苗导致群体免疫破裂,百日咳 / 麻疹近年在多个国家因疫苗犹豫已重新爆发。
+    海蒂立场:风险微小且可控;好处远大于风险;副作用 ≠ 致病。
+  what_to_do:
+    - "流言:多苗联打不安全 → 事实:研究证安全有效"
+    - "流言:打针太疼 → 事实:疼痛短暂 < 病痛"
+    - "流言:别人打了我可以不打 → 事实:破坏群体免疫(百日咳 7 岁后免疫力降)"
+    - "流言:1 针够保护 → 事实:必须完成全系列(否则风险更高)"
+    - "流言:多苗增糖尿病/哮喘风险 → 事实:无证据"
+  failure_mode: |
+    "我朋友的孩子打了 ___" 个案叙事 = 高情感低证据。
+    "等大点免疫力强了再打" → 1-3 月正是免疫低谷需主动加固。
+    搜索引擎信"自然免疫派"博客 → 这些来源经统计学审查后通常引用伪证。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-DTaP
+  - G-ABBR-MMR
+  - G-ABBR-AAP
+
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1 岁"
+  authors: ["Heidi Murkoff", "Sharon Mazel"]
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 2010
+  edition: "Third Edition"
+  location: "第 6 章 / 有关免疫的流言专栏,p.222"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards:
+  - C-S2-2005
+  - C-S2-2006
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

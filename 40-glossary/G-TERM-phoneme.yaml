@@ -1,0 +1,71 @@
+glossary_id: G-TERM-phoneme
+type: term
+display_name: 音素 (phoneme)
+
+full_name_zh: 音素
+full_name_en: Phoneme
+
+one_liner: |
+  语言中能区分意义的最小声音单位。
+  不同语言有不同音素集 — 6-12 月婴儿在做"知觉重组",修剪外语音素,固化母语音素。
+
+detail: |
+  ## 定义
+  能改变词义的最小声音单位。
+  例:英语 R 和 L 是 2 个音素(rake / lake 不同义)。
+  日语 R 和 L 不区分,所以是同 1 个音素。
+
+  ## 不同语言音素集
+  | 语言 | 音素数 |
+  |---|---|
+  | 英语 | ~44 |
+  | 中文普通话 | ~32(不含声调)|
+  | 日语 | ~22(R 和 L 同) |
+  | 西班牙语 | ~24 |
+  | 泰语 | ~46(三类 b/p)|
+
+  ## 婴儿如何学
+
+  ### 0-6 月:citizens of the world
+  - 能区分**全世界所有语言**的音素差别
+  - 大脑天生准备好学任何一门语言
+
+  ### 6-12 月:知觉重组(perceptual narrowing)
+  - 母语音素权重加强 → 区分更精细
+  - 外语音素权重削弱 → 失去辨别能力
+  - Kuhl R/L 实验:7 月日本 + 美国宝宝都能区分;10 月只有美国宝宝能
+
+  ### 1 岁后:类别感知(categorical perception)
+  - 大脑把连续声音流分成离散音素
+  - 即使物理声波渐变,听到的是"突然 R 变 L"
+  - 同语言成人有同样类别感知,跨语言不同
+
+  ## 中文家长意义
+  - 中文音素辨别窗:0-12 月最大
+  - 双语家庭最佳暴露窗:0-12 月真人外语
+  - 6 岁后学外语永有"口音"= 音素地图已固化
+  - "教宝宝认 a / b / c" — 那是字母,不是音素;音素学习无需"教"
+
+key_facts:
+  - 语言中区分意义的最小声音单位
+  - 不同语言不同音素集
+  - 6-12 月知觉重组关键期
+  - 类别感知现象
+  - 1 岁后失去外语音素辨别
+
+related_glossary:
+  - G-PERSON-Kuhl
+  - G-TERM-perceptual-narrowing
+  - G-TERM-statistical-learning
+  - G-TERM-parentese
+
+related_cards: []
+
+sources:
+  - source_id: SRC-015
+  - external: Kuhl 1992 / 现代语言学综述
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

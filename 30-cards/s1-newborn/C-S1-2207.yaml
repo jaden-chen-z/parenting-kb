@@ -1,0 +1,41 @@
+card_id: C-S1-2207
+stages: [S1]
+tags: [skin]
+front:
+  title: 婴儿粉刺
+  hook: 新生儿青春期别挤
+back:
+  why_matters: |
+    约 40% 新生宝宝在 2-3 周时脸上冒小红疙瘩或白头,持续到 4-6 个月。
+    海蒂称为"新生儿青春期" — 因为机制和青少年痘一样:激素 + 不发达的皮脂腺/汗腺。
+    但激素不是宝宝自己的,是母亲的激素还在循环 — 加上新生儿毛孔没完全发育、灰尘易渗入。
+    最好的治疗就是不治疗 — 别挤、别用肥皂使劲擦、别涂厚乳液。
+    每天清水洗 2-3 次拍干即可,几个月后自动消退、不留痕。
+  what_to_do:
+    - 每天清水洗 2-3 次拍干
+    - 不要挤捏不要厚涂乳液
+    - 不需药物治疗
+    - 4-6 个月会自然消退
+    - 如果疙瘩流脓/扩散到全身/伴发烧 → 就医
+  failure_mode: |
+    用婴儿润肤霜厚涂"治疗"反而堵塞毛孔加重。
+    挤压感染留疤。
+  evidence_level: B
+glossary_refs: []
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors: ["Heidi Murkoff", "Sharon Mazel"]
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh: ["莫夏迪","张敏"]
+  location: "第 6 章第一个月 · 婴儿粉刺, 页 197-198"
+  source_id: SRC-040
+related_cards: []
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

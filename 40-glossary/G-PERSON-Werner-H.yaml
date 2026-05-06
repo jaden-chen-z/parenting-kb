@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Werner-H
+type: person
+display_name: "Werner-H(海因茨·维尔纳)"
+
+full_name_en: "Heinz Werner"
+full_name_zh: "海因茨·维尔纳"
+
+position: |
+  Clark University(已故)
+
+contribution: |
+  orthogenetic principle 正交发展 + 比较心理学奠基
+
+one_liner: |
+  海因茨·维尔纳 — orthogenetic principle 正交发展 + 比较心理学奠基
+
+key_facts:
+  - "本卷章节:Ch 1, 3, 7"
+  - "Lerner V1 命中:100+ 次"
+  - "学派:Lerner V1 关系发展派(经典)"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+    chapter: "Ch 1, 3, 7"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

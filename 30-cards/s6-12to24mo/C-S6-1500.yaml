@@ -1,0 +1,52 @@
+card_id: C-S6-1500
+stages: [S6]
+tags: [philosophy, lerner_v1, overton, metatheory, swaddle_dilemma, controversy]
+
+front:
+  title: "Karp 蒙氏对立是元层差"
+  hook: "包不包不是技巧争"
+
+back:
+  why_matters: |
+    经典中国家长困惑 — Karp 派说包裹(swaddle)能哄睡,蒙氏派说包裹剥夺自主。
+    Overton(Lerner V1 Ch 2)给元层解释 — 不是哪派对错,是两派站在不同元立场:
+    - Karp = split metatheory(把婴儿和环境分开,用独立技巧调节)
+    - 蒙氏 = relational metatheory(婴儿和环境一体,环境要 prepared 让娃自调)
+    两派都"对" — 在各自元立场内自洽。
+    意义 — 别在"包还是不包"上死磕,先想自己家偏哪派(讲技巧 vs 讲环境)再选。
+    多数中国家庭 — 0-3 月 split(困了不睡用 5S),4 月+ relational(给环境让自调)。
+  what_to_do:
+    - "0-3 月哭闹 → split 技巧(5S 包裹白噪音)有效"
+    - "4 月+ 自调能力起来 → relational 给环境"
+    - "不在'包不包'纠结 — 看孩子需要哪种支持"
+    - "夫妻 0-3 用 split / 4+ relational"
+    - "看专家立场 — 不要光看'有用'还是'不用'"
+  failure_mode: |
+    把元层立场当技巧争论 — 错。两派都对在各自范围,不是非此即彼。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Overton
+  - G-PERSON-Karp
+  - G-TERM-split-metatheory
+  - G-TERM-relational-metatheory
+
+related_cards:
+  - C-S0-1125
+  - C-S1-013
+  - C-S1-185
+  - C-S2-014
+
+citation:
+  source_id: SRC-030
+  source_title: "Handbook of Child Psychology Vol 1"
+  chapter: "Ch 2 Overton + 实例延伸"
+  chapter_offset: 206940
+  chapter_title: 'Overton — Developmental Psychology: Philosophy, Concepts, Methodology (split vs relational metatheory)'
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_followup_needed: 'SRC-030 用 PDF 字节偏移代页码 — 待加 page_pdf 反查工具'

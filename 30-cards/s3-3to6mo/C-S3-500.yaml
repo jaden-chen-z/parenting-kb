@@ -1,0 +1,61 @@
+card_id: C-S3-500
+stages: [S3]
+tags: [feeding, RIE, eating, controversy]
+
+front:
+  title: "小桌小凳替高脚椅"
+  hook: "高脚椅就是个小监狱"
+
+back:
+  why_matters: |
+    Magda《自信的宝宝》Ch7 §Try a Table and a Chair — Magda 标志立场。
+    Magda 直接定义:**高脚椅是 little prison(小监狱)** —
+    便利大人但限制宝宝 = 反 RIE 哲学。替代方案:
+    1 小桌(膝盖高)+ 小凳/小椅子(宝宝能自己进出)
+    2 宝宝走 / 爬过去自主坐下
+    3 决定吃 / 不吃 / 离桌(自决感)
+    4 跟宝宝平视(蹲下 vs 你高他低)
+    Magda 班级用塑料模制小椅子 + 圆角小桌。
+    "高脚椅强化 helplessness。小桌小凳强化 competence。"
+    跟蒙氏"儿童尺寸家具"哲学一致(Magda 早 50 年提出)。
+
+  what_to_do:
+    - 6 月坐稳后扔掉 / 收起高脚椅
+    - 买 IKEA 那种小桌小凳(宝宝高度)
+    - 你蹲下或坐小凳上跟他吃
+    - 离桌 = 吃完,食物收掉
+    - 不强迫吃完,信宝宝身体
+
+  failure_mode: |
+    "高脚椅好看好打扫" → Magda 反:好看是大人需要,不是宝宝需要。
+    或"小娃在小桌乱跑收不住" → 反:这是规则练习的好机会
+    "你离桌 = 我把饭收起来",一次他就懂。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+  - G-TERM-respectful-parenting
+
+citation:
+  book_title_en: "Your Self-Confident Baby"
+  book_title_zh: "自信的宝宝"
+  authors:
+    - Magda Gerber
+    - Allison Johnson
+  publisher_en: John Wiley & Sons
+  year: 1998
+  location: "Ch7 §Try a Table and a Chair(p153-156)"
+  source_id: SRC-021
+
+unit_ids: []
+related_cards:
+  - C-S5-390  # Lansbury Magda 派小桌(Lansbury 引 Magda)
+  - C-S5-391  # Lansbury 小份+信身体信号
+  - C-S6-130  # Davies 自主吃饭
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

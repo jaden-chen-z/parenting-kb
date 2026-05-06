@@ -1,0 +1,76 @@
+card_id: C-S1-245
+stages: [S1]
+tags: [cognitive_science, philosophy]
+
+front:
+  title: 婴儿要解决的 3 大问题
+  hook: 别人 / 物体 / 语言
+
+back:
+  why_matters: |
+    Gopnik 三人书第一章核心框架:婴儿出生面对**3 个 2500 年的哲学难题**:
+    1. **Other Minds(他人心智)** — 怎么从看到的"皮囊"推出"对方有想法 / 感情"?
+    2. **External World(外部世界)** — 怎么从眼里"光斑流"推出"有桌子椅子真实存在"?
+    3. **Language(语言)** — 怎么从耳朵"声波流"推出"妈妈在说我饿"?
+    Gopnik 解读:成年人觉得这些"显然" — 因为我们已经解决了。
+    去陌生城市坐在咖啡馆听不懂的语言,你才明白这有多难 — 你听到一串"快速噪声",别人听到的是"笑话和道歉"。
+    婴儿就在这种"陌生城市"里,但他要在 3 年内解决全部 3 个问题。
+    更厉害:他**没人教语法 / 没字典 / 没翻译**,只靠**看 + 听 + 摸**。
+    每个问题都是 baby scientist 的实验场。
+    对中国家长意义:
+    - 理解婴儿在做的"宇宙级难题",才不会嫌他"啥都不会"
+    - 你的角色不是"老师",是"陪伴他做实验的研究助手"
+    - 不打扰 / 不抢答 / 不灌输 = 给他解决 3 大问题的空间
+  what_to_do:
+    - 把婴儿当"在解决难题的人"看待
+    - 给他时间观察 / 试探 / 重复(他在做实验)
+    - 真人对话 + 真物互动 = 他需要的全部"实验材料"
+    - 不灌输答案,陪他自己得出
+  failure_mode: |
+    "他啥都不懂,我教什么都行" — 错。他在解决 3 大哲学难题,你帮不了多少。
+    把婴儿当"空容器"灌输 — 错过他天生的科学家引擎。
+    打断他重复行为("别老扔这个")— 那是实验,不是无聊。
+  evidence_level: B
+
+  positions:
+    issue: 第四产程命名群 — 同一概念多种叫法
+    views:
+      - school: Karp
+        source: SRC-003
+        stance: 第四产程(fourth trimester)— 出生后头 4 月,继续模拟子宫感是核心。
+      - school: 蒙氏(Davies/Lillard)
+        source: SRC-014/016
+        stance: exterogestation 外孕期 — 强调婴儿"在外"继续发育的生物学连续性。
+      - school: Brazelton
+        source: SRC-010
+        stance: 不用"第四产程"标签,讲"独立的人 + 触点(touchpoints)",视婴儿为完整个体。
+      - school: Gopnik
+        source: SRC-015
+        stance: 长童年期(extended childhood)是进化优势,人类大脑发育期长于其他灵长类。
+glossary_refs:
+  - G-PERSON-Gopnik
+  - G-PERSON-Meltzoff
+  - G-PERSON-Kuhl
+  - G-TERM-baby-scientist
+  - G-TERM-theory-of-mind
+
+citation:
+  book_title_en: "The Scientist in the Crib"
+  book_title_zh: "摇篮里的科学家"
+  authors: ["Alison Gopnik", "Andrew N. Meltzoff", "Patricia K. Kuhl"]
+  publisher_en: William Morrow
+  year: 1999
+  location: "Chapter 1 · The Ancient Questions (Other Minds / External World / Language)"
+  source_id: SRC-015
+
+unit_ids: []
+related_cards:
+  - C-S1-240       # baby scientist 总论
+  - C-S1-241       # Meltzoff 模仿(Other Minds 入口)
+  - C-S3-188       # 物体永久性(External World)
+  - C-S4-184       # 知觉重组(Language)
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

@@ -1,0 +1,82 @@
+card_id: C-S6-1065
+stages: [S6]
+tags: []
+
+front:
+  title: "12-24m 33% 营养"
+  hook: "硬数字反'没营养'"
+
+back:
+  why_matters: |
+    WHO 原文:'In months 12-24, breastmilk continues to provide up to one third (33%) of nutritional needs.'
+    中国传统/老人话术'1 岁后母乳没营养' → 直接跟 WHO 33% 硬数字对立。
+    12-24 月母乳成分变化:
+    - 蛋白浓度上升(适应学步儿活动量)
+    - 脂肪浓度仍高
+    - IgA / lactoferrin 浓度甚至高于 6 月前
+    - 寡糖持续(肠道菌群保护)
+    Lancet 2016:12-24 月母乳依然预防腹泻 / 上呼吸道感染 / 中耳炎。
+  what_to_do:
+    - "12-24 月母乳供 33% 营养(WHO 硬数字)"
+    - "'1 岁后没营养' 是错的(免疫成分甚至更高)"
+    - "12 月后母乳蛋白上升,脂肪仍高"
+    - "IgA / lactoferrin 12 月+ 浓度高于 6 月前"
+    - "继续喂保护腹泻/呼吸道/中耳炎"
+  failure_mode: |
+    信'1 岁后没营养'断奶 → 错过 33% 营养 + 持续免疫保护(浓度高于 6 月前)。
+    WHO 数字记得:33% 不是 0%。
+  evidence_level: A
+
+  positions:
+    issue: 持续母乳时长 — WHO 2 年 vs AAP/鲍/松田 1 年可断
+    views:
+      - school: WHO / UNICEF
+        source: SRC-031
+        stance: ≥ 2 岁 'or beyond' — 12-24m 母乳仍提供 33% 营养;Detwyler 2004 自然离乳 2.5-7 岁支持。
+      - school: AAP
+        source: SRC-006
+        stance: 1 岁可断(也可继续不强求);1 岁后母乳不再是营养必需,以家庭决定为主。
+      - school: 鲍秀兰
+        source: SRC-009
+        stance: 1 岁可断;跟中国本土实操更一致,无明确反对延长喂。
+      - school: 松田道雄
+        source: SRC-024
+        stance: 弹性立场 / 妈妈决定;不强求时间表。
+      - school: 中国家长压力
+        stance: 1 岁后哺乳常被亲戚说"丢人"或"没营养";WHO 国际共识可作为反传统压力的依据。
+      - school: WHO
+        source: SRC-031
+        stance: ≥ 2 岁 + 'or beyond' + 文化无关共识;12-24m 母乳 33% 营养硬数据。
+      - school: 全球医学共识
+        stance: 北欧国家普遍 2 岁;母亲乳腺癌每哺乳 12 月降 6%;WHO 立场是国际医学共识不是西方偏好。
+      - school: 中国传统
+        stance: '"1 岁就该断" / "2 岁还在喂丢人" / "1 岁后没营养" / "惯坏依赖" — 文化压力源。'
+      - school: 实操建议
+        stance: 中国家长选 WHO 2 年立场不是落后是国际接轨;反传统压力可拿 33% 营养 + 乳腺癌数据作背书。
+glossary_refs:
+  - G-TERM-WHO-two-years
+  - G-ABBR-WHO
+
+citation:
+  page_title: "WHO Continued Breastfeeding 12-24 months"
+  publisher: "World Health Organization & UNICEF"
+  page_url_primary: https://www.who.int/health-topics/breastfeeding
+  accessed: 2026-05-04
+  language: en
+  location: "WHO 12-24m 33% 营养 + 免疫成分浓度变化"
+  source_id: SRC-031
+
+unit_ids: []
+related_cards:
+  - C-S6-1064
+  - C-S6-1064
+  - C-S1-1014
+  - C-S5-001
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_doc_id_pending: D8
+citation_followup_needed: '已映射真实 doc_id (D8 = WHO Breastfeeding Topic + Targets)'

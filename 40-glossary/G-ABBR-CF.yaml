@@ -1,0 +1,55 @@
+glossary_id: G-ABBR-CF
+type: abbreviation
+display_name: "CF 辅食"
+
+en_term: "Complementary Feeding"
+zh_term: "辅食"
+
+aliases:
+  - CF
+  - 辅食
+
+one_liner: |
+  CF = 6 月起开始的'补充'喂养(complementary 意指补母乳,不是替代)。
+
+detail: |
+  ## 定义
+  Complementary Feeding — 婴儿 6 月起开始的'补充'食物,跟母乳并行(不是替代)。
+  
+  ## WHO 4 大支柱
+  ① 及时(Timely)— 6 月开始
+  ② 充分(Adequate)— 能量+蛋白+微营养
+  ③ 安全(Safe)— 卫生准备
+  ④ 反馈(Responsive)— 看信号
+  
+  ## 月龄餐数
+  - 6-8 月:日 2-3 餐
+  - 9-11 月:日 3-4 餐
+  - 12-23 月:日 3-4 餐 + 1-2 加餐
+  
+  ## 关键
+  'Complementary' 意指补充母乳 — 6-12 月母乳仍 ≥ 50% 能量,12-24 月仍 ≥ 33%。
+  中国传统 '辅食为主' 跟 WHO 立场冲突。
+
+key_facts:
+  - "WHO 6 月起"
+  - "4 大支柱(及时/充分/安全/反馈)"
+  - "月龄递增餐数"
+  - "补充非替代"
+
+related_glossary:
+  - G-ABBR-EBF
+  - G-TERM-WHO-CF-principles
+
+related_cards:
+  - C-S4-1045
+  - C-S4-1046
+  - C-S4-1047
+
+sources:
+  - source_id: SRC-031
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

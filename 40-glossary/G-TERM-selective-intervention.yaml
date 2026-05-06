@@ -1,0 +1,137 @@
+glossary_id: G-TERM-selective-intervention
+type: term
+display_name: 选择性介入 (Selective Intervention)
+
+full_name_zh: 选择性介入 / DIP 三层级介入框架
+full_name_en: Selective Intervention
+
+one_liner: |
+  Magda Gerber 在 1972 DIP(Demonstration Infant Program)项目命名。
+  RIE 派应对宝宝挣扎的核心干预法。
+  默认 95% 不介入,真危险才物理挡。
+  "selective"是关键 — 不是"完全不管"也不是"事事插手"。
+
+detail: |
+  ## 命名来源
+  - 1972 年:Magda Gerber + Tom Forrest 在 Stanford / Palo Alto
+    Children's Health Council 创 **DIP**(Demonstration Infant Program)
+  - DIP 是预防性精神健康项目(detect potential problems early)
+  - Magda 跟 Tom 共同命名 "selective intervention"
+  - 后来成 RIE 派核心方法
+
+  ## 三层级介入框架
+
+  ### 第 1 层:不介入(默认 95%)
+  - 宝宝挣扎(够不到 / 解决不了)
+  - 蹲下平视,观察 5-10 秒
+  - 不冲过去解决 / 不指导 / 不提示
+  - 信任宝宝有 problem-solving 能力(DIP 核心信念)
+
+  ### 第 2 层:最小介入(挫败累积 / 安全边缘)
+  - 给最小有效提示("玩具在那边")
+  - 升级到 sportscasting:"你正试着 X,看起来挣扎"
+  - 升级到 interview:"你打算怎么办?"
+  - 给 1 个建议而非接管全过程
+
+  ### 第 3 层:物理介入(真危险 / 真伤害)
+  - 真打 / 真咬 / 真危险
+  - 用手挡 + 句子:"我不让你打"
+  - 必要时抱开
+  - 5% 以下情况
+
+  ## 核心信念(DIP 哲学)
+  Magda 引 Piaget:
+  > "Every time we teach a child something,
+  > we keep him from inventing it himself."
+  > (每次我们教孩子一件事,就剥夺他自己发现的机会。)
+
+  DIP 信念:**nonintervention 培养应对力**。
+  这要求父母 trust(信任) — 信任孩子是好的 problem solver。
+
+  ## 跟其他派对比
+
+  | 派 | 介入立场 |
+  |---|---|
+  | RIE/Magda | 95% 不介入,5% 物理挡 |
+  | Sears 派 | 持续 attentive(随时回应) |
+  | 蒙氏 | "不打扰原则",但有 lessons |
+  | 行为主义 | reward/punish 即时 |
+  | 主流"分散派" | 不舒服就转移 |
+  | "tiger 妈妈" | 持续指导 / 纠错 |
+
+  ## Beverly 案例(本框架的奠基性故事)
+  Beverly,6 月,出生后几乎一直哭。
+  父母 → Tom Forrest → DIP。
+  Beverly 第一天来 = 父母直立"扶着走"进来 = 木板姿。
+  放地上不动 = 大哭 1 小时。
+  父母被请到隔壁观察室。
+  渐渐:Beverly 学其他宝宝样子 — 自主探索 / 自我奖励。
+  父母也学:**少做,信任 Beverly**。
+  Magda 1998 给这案例就是说:
+  **selective intervention 不只对孩子有效,也教父母放手。**
+
+  ## 实操判断:何时升级?
+
+  默认第 1 层。何时升 2 层?
+  - 挫败累积超过宝宝 tolerance(看哭多深)
+  - 同伴冲突跑题(他想要那玩具但忘了)
+  - 持续僵局(尝试 5+ 次同方法都不通)
+
+  何时升 3 层?
+  - 真打 / 真咬 / 真伤
+  - 真危险(摸热 / 站窗 / 冲马路)
+
+  ## 跟 sportscasting 的关系
+  sportscasting 是第 2 层的具体语言工具:
+  "你拿着,他想要"(描述事实)
+  "你打算怎么办"(interview)
+  "我不让你打"(物理挡的语言)
+
+  selective intervention = 哲学
+  sportscasting = 语言实操
+  二者同源,Magda 命名 → Lansbury 系统化。
+
+  ## 跟蒙氏"不打扰"对比
+  蒙氏(Lillard / Davies)= "follow the child" + 不打断 work cycle
+  RIE/Magda = "selective intervention" + 三层级
+  共识 80%(都信任孩子能力 + 不主导)
+  差异 20%:RIE 比蒙氏更"被动"(observe more, do less)
+
+  ## 中国家长适用
+  替代:
+  - "看着他摔倒立刻扶"(过度第 3 层)
+  - "他打人也不管"(放任无第 3 层)
+  - "他卡住就给答案"(过度第 2 层)
+  用:
+  - 默认看 5-10 秒
+  - 真挫败才提示一句
+  - 真打人才物理挡
+
+key_facts:
+  - Magda Gerber + Tom Forrest 1972 DIP 项目命名
+  - 三层级:不介入 / 最小介入 / 物理挡
+  - 默认 95% 不介入,5% 物理介入
+  - Beverly 案例(奠基性故事)
+  - 跟 sportscasting 同源(哲学 vs 语言)
+
+related_glossary:
+  - G-PERSON-Gerber
+  - G-PERSON-Lansbury
+  - G-TERM-RIE
+  - G-TERM-sportscasting
+  - G-TERM-respectful-parenting
+
+related_cards:
+  - C-S2-494  # 选择性介入 三层级
+  - C-S6-611  # Beverly 案例
+  - C-S6-395  # Lansbury sportscasting
+
+sources:
+  - source_id: SRC-021
+  - source_id: SRC-019
+  - external: DIP / Children's Health Council / Stanford 1972 项目
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

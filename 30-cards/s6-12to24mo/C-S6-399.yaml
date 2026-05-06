@@ -1,0 +1,57 @@
+card_id: C-S6-399
+stages: [S6]
+tags: [discipline, sharing, RIE, lansbury, controversy]
+
+front:
+  title: "2 岁不强迫分享:S word 陷阱"
+  hook: "幼儿不懂分享概念"
+
+back:
+  why_matters: |
+    Lansbury Ch20:全公园都喊"share!"(分享),
+    实际 2 岁以下根本不懂 ownership / 让出的概念。
+    "share" 在大人嘴里 = "把你的给别人"。
+    幼儿:"mine" = "我看到的 / 我想的 / 我用着的"。
+    强迫分享 = 教孩子讨好大人,不是真分享精神。
+    RIE 主张:大人 model 慷慨 + 等孩子自己想给。
+
+  what_to_do:
+    - 不在公园 / 聚会强迫"分享给妹妹"
+    - 大人自己 model:"你想要我的饼干?给你"
+    - 孩子主动给 = 立即承认:"你跟他分享了"
+    - 抢夺中 sportscast:"你拿着,他想要"
+    - 信任孩子在 3-4 岁会自己懂
+
+  failure_mode: |
+    "我家孩子小气,得教分享" → 越强迫越抗拒。
+    Lansbury 经典例:妈妈想化解争抢,
+    递新玩具反而引发新争抢 → 孩子争的是"互动"不是"玩具"。
+    或反向:从不教 → 孩子 5 岁还独占。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Lansbury
+  - G-PERSON-Gerber
+  - G-TERM-sportscasting
+  - G-TERM-RIE
+
+citation:
+  book_title_en: "Elevating Child Care: A Guide to Respectful Parenting"
+  book_title_zh: "尊重孩子:RIE 育儿之道"
+  authors:
+    - Janet Lansbury
+  publisher_en: JLML Press
+  year: 2014
+  location: "Ch20 Toddlers and Sharing (The S Word)"
+  source_id: SRC-019
+
+unit_ids: []
+related_cards:
+  - C-S6-395  # Lansbury sportscasting
+  - C-S7-130  # Lillard 服从 3 阶段
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

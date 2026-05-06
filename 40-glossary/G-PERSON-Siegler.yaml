@@ -1,0 +1,61 @@
+glossary_id: G-PERSON-Siegler
+type: person
+display_name: Siegler
+
+full_name_en: Robert S. Siegler
+full_name_zh: 罗伯特·S·西格勒
+
+one_liner: |
+  美国发展心理学家(Carnegie Mellon 教授,后 Columbia),微观发生学方法奠基人。
+  Overlapping Waves(重叠波)模型反 Piaget 阶段说。
+
+detail: |
+  ## 个人背景
+  - Stony Brook 博士
+  - Carnegie Mellon 大学心理学教授(2002 至今)
+  - Columbia Teachers College(部分时间)
+  - Lerner V2 Vol 2 卷主编
+
+  ## 核心理论
+  ### 1. Overlapping Waves(重叠波)
+  - 学习不是"楼梯"换策略
+  - 多策略并行 + 频率波动
+  - 新策略涌现 + 旧策略仍用 + 占主导逐渐变化
+
+  ### 2. 微观发生学方法
+  - 看孩子做问题的实时变化
+  - 现代认知发展主流方法
+
+  ### 3. 数学策略选择研究
+  - 5 岁孩同周内数手指 / 数物 / 心算 / 记忆 4 策略并行
+
+  ## 立场
+  - 反 Piaget 阶段说(渐变 vs 楼梯)
+  - 跟 Karmiloff-Smith RR 同方向
+  - 微观发生学派开创者
+
+  ## 在本知识库中
+  - SRC-028 Lerner V2 Vol 2 卷主编 + Ch11 主笔(452 hits — 卷主编多次提)
+  - C-S8-425 Siegler 重叠波
+
+key_facts:
+  - Carnegie Mellon 心理学教授
+  - 重叠波模型奠基
+  - 微观发生学方法奠基
+  - Lerner V2 Vol 2 卷主编 + Ch11 主笔
+
+related_glossary:
+  - G-PERSON-Piaget
+  - G-PERSON-Karmiloff-Smith
+
+related_cards:
+  - C-S8-425
+
+sources:
+  - source_id: SRC-028
+  - external: Siegler 1996《Emerging Minds》/ Wikipedia Robert Siegler
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

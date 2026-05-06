@@ -1,0 +1,84 @@
+glossary_id: G-TERM-fast-mapping
+type: term
+display_name: 快速映射 (fast mapping)
+
+full_name_zh: 快速映射 / 一次记
+full_name_en: Fast Mapping
+
+one_liner: |
+  1 岁宝宝**听一次新词**就把它跟某个东西/动作配对存入永久词库。
+  Gopnik 经典发现:不是反复重复才学会,是一次清晰输入就记住。
+
+detail: |
+  ## 定义
+  婴幼儿听到新词后**单次接触**就能建立"词 ↔ 对象"映射,无需反复练习。
+  跟成人学外语反复重复式学习完全不同 — 婴儿大脑天生这能力。
+
+  ## 经典实验(Gopnik 系列)
+  - 给 18 月宝宝看一个新物体(苹果削皮器)
+  - 实验员说"看,一个 dax!"(指着说一遍)
+  - **几周后**再给宝宝看 — 宝宝**仍正确指出 dax**
+  - 永久存入词库,不需要复习
+
+  ## 神奇之处
+  - 成人学外语:1 个新词需要重复 7-15 次才记住
+  - 18 月宝宝:**1 次清晰输入** + social cue 就够
+  - 这是 18 月起"命名爆发期"的引擎
+
+  ## 触发条件(Gopnik 实测)
+  1. **真实物体**(不是图卡)
+  2. **指 + 说同步**(social cue)
+  3. **大人在看那物体**(joint attention)
+  4. **真人发音**(不是录音)
+
+  ## 中国家长意义
+
+  ### 1. 不重复 100 遍才"教会"
+  - 你说一次,他记住
+  - 重复反而打断他自己的统计学习
+  - 焦虑"他没听清再说一遍" — 反作用
+
+  ### 2. 命名一切真物
+  - 1 岁起每天遇到的真物都命名(食物 / 家具 / 户外)
+  - 不必"系统教",随场景命名最有效
+  - 18 月起"what's that?"轰炸 — 配合 fast mapping 词汇爆发
+
+  ### 3. 双语家庭别担心
+  - 大脑能同时 fast mapping 两种语言
+  - 不要"翻译式"教(中文说完再说英文)
+  - 各自语言独立 fast mapping
+
+  ### 4. 错过 social cue 会失败
+  - 你看手机说"看小狗" — 宝宝没获得"她看哪"线索
+  - fast mapping 配错率高
+  - 必须**眼神 + 手指 + 命名同步**
+
+  ## 跟其他术语关系
+  - **Statistical Learning**:fast mapping 是统计学习的高效形式
+  - **Social Referencing**:依赖 social cue
+  - **Naming Explosion**:18 月起 fast mapping 大爆发
+  - **Theory of Mind**:用大人意图缩小词义假设(C-S6-180)
+
+key_facts:
+  - 听一次就记住的词学习能力
+  - 18 月起"命名爆发"引擎
+  - 需要 social cue + 真人 + 真物
+  - Gopnik dax 实验经典
+  - 双语家庭可同时 fast map 两种语言
+
+related_glossary:
+  - G-PERSON-Gopnik
+  - G-TERM-statistical-learning
+  - G-TERM-baby-scientist
+  - G-TERM-theory-of-mind
+
+related_cards: []
+
+sources:
+  - source_id: SRC-015
+  - external: Gopnik & Meltzoff fast mapping experiments
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

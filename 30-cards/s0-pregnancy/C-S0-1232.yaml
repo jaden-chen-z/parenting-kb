@@ -1,0 +1,64 @@
+card_id: C-S0-1232
+stages: [S0]
+tags: [developmental_psychopathology, cicchetti, lerner_v4]
+
+front:
+  title: 4 原则看孩子能不能歪
+  hook: 4 原则判孩子风险
+
+back:
+  why_matters: |
+    Cicchetti-Toth V4 Ch 13 发展精神病理学奠基章。
+    **发展精神病理学 4 原则**:
+    - **同等终局(equifinality)**:同一结果可由不同路径达成 — 抑郁可来自基因 + 创伤 + 环境
+    - **分歧路径(multifinality)**:同一起点可达不同结果 — 父母离异娃可能崩或可能更坚强
+    - **关键期(developmental cascades)**:早期问题一层层叠加恶化
+    - **韧性(resilience)**:风险下还能正常发展是常态,不是奇迹意义:
+    - 反"基因决定论"
+    - 反"早期创伤注定毁孩子"
+    - 不是"原因 → 结果"线性思维
+    - 路径概率论思维跟现库:跟 Sroufe 韧性研究(C-S0-727 V3)+ Bowlby 依恋(SRC-011)对接。
+    反对宿命论 + 接受复杂性。
+    对中国家长意义:
+    - 离异 / 丧亲 / 创伤 ≠ 注定毁了
+    - 同一困境多种结局
+    - 早期发现早期介入概率改变路径
+    - 大多数孩子是有韧性的
+  what_to_do:
+    - '不"基因决定"评孩子'
+    - 看路径不看单一原因
+    - 早发现早介入改概率
+    - 相信韧性是常态
+  failure_mode: |
+    "基因坏注定毁"— 错。多路径多结局。
+    "早期创伤注定有问题"— 错。韧性是常态。
+    "父母对就一定好"— 错。同等终局多路径。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Cicchetti
+  - G-PERSON-Toth
+  - G-TERM-developmental-psychopathology
+  - G-TERM-equifinality
+  - G-TERM-multifinality
+  - G-TERM-resilience
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 4 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 4 卷"
+  authors: ['Dante Cicchetti', 'Sheree L. Toth']
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 13 · Cicchetti-Toth · Developmental psychopathology principles · pp. 497-510"
+  source_id: SRC-029
+
+unit_ids: []
+related_cards:
+  - C-S0-727     # Sroufe 韧性研究
+  - C-S0-1503     # Shonkoff 基因+环境互动
+  - C-S0-619     # NRC 综述权威
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

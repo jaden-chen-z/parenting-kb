@@ -1,0 +1,49 @@
+card_id: C-S3-942
+stages: [S3]
+tags: [campos, social_referencing_origins, lerner_v3]
+
+front:
+  title: "4 月偷瞄妈定情绪"
+  hook: "他偷瞄你脸定情绪"
+
+back:
+  why_matters: |
+    Campos(via Ch 5 Saarni 综述)— social referencing 不是 8 月才出来,4-6 月就有萌芽形式。
+    遇到中性刺激(陌生玩具、轻响声),婴儿先看妈表情再决定情绪反应。
+    妈紧张他怕,妈轻松他探索。一句话 — 你的脸 4-6 月起就在写他的情绪剧本。
+  what_to_do:
+    - "新东西出现你先放松"
+    - "你怕的(蜘蛛)别夸张反应"
+    - "你的自动反应 = 他的学习"
+    - "夫妻不一致他更困惑"
+    - "你脏老人不脏 → 他更怕脏"
+  failure_mode: |
+    不知道 4 月就在 referencing,自己情绪不管理,娃焦虑底色被建起来。
+    Campos — 4-6 月窗口期形成的情绪模板,后期改特别难。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Campos
+  - G-PERSON-Saarni
+  - G-TERM-social-referencing
+
+related_cards:
+  - C-S3-553      # 松田见生人哭天性
+  - C-S3-188      # Gopnik 心智雏形
+  - C-S3-296      # Lansbury Tell Before
+  - C-S3-810      # Shonkoff 偷瞄妈表情(应在 S5)
+  - C-S3-941      # Kagan 4 月反应
+
+citation:
+  source_id: SRC-027
+  source_title: "Handbook of Child Psychology Vol 3"
+  chapter: "Ch 5 Saarni & Campos"
+  chapter_offset: 1322297
+  chapter_title: 'Saarni Campos Camras Witherington — 情绪发展'
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_followup_needed: 'SRC-027 用 PDF 字节偏移代页码 — 待加 page_pdf 反查工具'

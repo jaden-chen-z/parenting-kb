@@ -1,0 +1,22 @@
+glossary_id: G-TERM-big-five
+type: term
+display_name: "Big Five"
+
+one_liner: |
+  人格 5 大因素(开放/尽责/外向/宜人/情绪稳),Caspi 童年版有对应。
+
+detail: |
+  人格 5 大因素(开放/尽责/外向/宜人/情绪稳),Caspi 童年版有对应。
+
+  来源:Lerner V3《Handbook of Child Psychology Vol 3》(Wiley 2006 第 6 版,Eisenberg 主编)。
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-027
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

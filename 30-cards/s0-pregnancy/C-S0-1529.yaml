@@ -1,0 +1,54 @@
+card_id: C-S0-1529
+stages: ['S0']
+tags: ['philosophy', 'lerner_v1', 'elder', 'shanahan', 'life_course', 'foundational']
+
+front:
+  title: "生命历程 5 大原则"
+  hook: "人发展看 5 因素"
+
+back:
+  why_matters: |
+    Elder & Shanahan(Lerner V1 Ch 12)给 life course theory 5 大原则:
+    1. Lifespan 发展 — 一辈子发展(对接 Baltes)
+    2. Human agency — 人是主动行动者(选择影响轨迹)
+    3. Time and place — 历史时段 + 地理位置塑造发展
+    4. Linked lives — 个人发展跟其他人轨迹绑定(父母 / 配偶 / 孩子互相影响)
+    5. Timing — 同一事件在不同生命阶段影响不同(20 岁失业 ≠ 50 岁失业)
+    意义 — 育儿不只是"管娃" — 是看 family 整个 life course。
+    中国家长常忽视 linked lives — 你的工作 / 婚姻 / 健康直接影响娃,娃也直接影响你。
+    家庭整体看,不只看娃。
+  what_to_do:
+    - "看 family 整体不只看娃"
+    - "夫妻 / 父母 / 老人 linked lives"
+    - "历史时段(2026 年中国)塑造育儿"
+    - "timing 重要(同事件在不同年龄不同)"
+    - "agency — 你和娃都是主动行动者"
+  failure_mode: |
+    只看娃不看 family system — 错。Linked lives 不可忽视。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Elder
+  - G-PERSON-Shanahan
+  - G-TERM-life-course-theory
+  - G-TERM-linked-lives
+
+related_cards:
+  - C-S0-1500
+  - C-S0-1513
+  - C-S0-722
+  - C-S8-1132
+
+citation:
+  source_id: SRC-030
+  source_title: "Handbook of Child Psychology Vol 1: Theoretical Models of Human Development"
+  chapter: "Ch 12 Life Course Theory (Elder & Shanahan)"
+  chapter_offset: 3505000
+  chapter_title: 'Elder & Shanahan — Life Course Theory'
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_followup_needed: 'SRC-030 用 PDF 字节偏移代页码 — 待加 page_pdf 反查工具'

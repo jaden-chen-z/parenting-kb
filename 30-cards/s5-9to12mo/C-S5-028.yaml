@@ -22,7 +22,7 @@ back:
   evidence_level: B
 
 glossary_refs:
-  - G-TERM-school-readiness
+  - G-TERM-school-准备好
   - G-PERSON-Brazelton
 
 citation:
@@ -35,7 +35,7 @@ citation:
   year: 1992
   year_revised: 2006
   edition: "Second Edition (Revised)"
-  location: "ch.34 School Readiness, p.357-364"
+  location: "ch.34 School readiness, p.357-364"
   source_id: SRC-010
 
 unit_ids: []

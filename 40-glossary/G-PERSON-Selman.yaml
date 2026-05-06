@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Selman
+type: person
+display_name: "Selman(罗伯特·塞尔曼)"
+
+full_name_en: "Robert L. Selman"
+full_name_zh: "罗伯特·塞尔曼"
+
+position: |
+  Harvard 教育学院教授
+
+contribution: |
+  友谊 5 阶段发展模型
+
+one_liner: |
+  罗伯特·塞尔曼 — 友谊 5 阶段发展模型
+
+key_facts:
+  - "本卷章节:Ch 10"
+  - "Lerner V3 命中:25 次"
+  - "学派:Lerner V3 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-027
+    chapter: "Ch 10"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

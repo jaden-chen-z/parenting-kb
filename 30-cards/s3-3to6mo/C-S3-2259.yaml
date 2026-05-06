@@ -1,0 +1,36 @@
+card_id: C-S3-2259
+stages: [S3]
+tags: [healthcare, vaccine, checkup]
+front:
+  title: 6 月儿保+第三波疫苗
+  hook: 体重身高头围+发育评估
+back:
+  why_matters: |
+    6 月儿保是上半年总结+下半年起跑线,内容比 2/4 月更全。
+    检查含:体重身高头围测量+生长曲线、全面体检含口腔(看初萌牙)、发育评估(头控翻身抓握搜索双腿受重听力语言社交)、第 3 次免疫(DTaP/IPV/Hib/PCV/Rota/HepB)、血红素查贫血(尤其低出生体重)、下月喂养睡眠安全指导。
+  what_to_do:
+    - 体检前列好担忧问题清单
+    - 准备宝宝健康记录手册
+    - 提前讨论上次免疫反应
+    - 咨询固体食物引入时机
+    - 询问下月安全清单
+  failure_mode: 临时挂号不做发育评估,只打疫苗就走,错过早期发现髋脱位、斜视、听力问题的窗口。
+  evidence_level: A
+glossary_refs: [G-ABBR-DTaP, G-ABBR-IPV, G-ABBR-Hib, G-ABBR-PCV, G-ABBR-Rotavirus]
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors: ["Heidi Murkoff", "Sharon Mazel"]
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh: ["莫夏迪","张敏"]
+  location: "第 10 章 《第 6 个月》, 页 364-366"
+  source_id: "SRC-040"
+related_cards: [C-S3-2251]
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

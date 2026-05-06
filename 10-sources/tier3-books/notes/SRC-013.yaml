@@ -1,0 +1,187 @@
+source_id: SRC-013
+title: "婴儿大脑跃迁 10 周(神奇周)"
+title_en: "The Wonder Weeks: How to Stimulate Your Baby's Mental Development"
+org: null
+source_type: book
+url: null
+doi: null
+isbn: null
+isbn_en: "978-90-79208-12-1"
+tier: 3
+language: en
+paywall: false
+captcha: false
+accessed: 2026-05-03
+fetch_method: user_provided_epub_ocr
+local_file: ../raw_pdfs/vanderijt_wonder_weeks.md
+file_size_bytes: 832558
+
+metadata:
+  authors_en:
+    - Hetty van de Rijt
+    - Frans X. Plooij
+  authors_zh:
+    - 海蒂·凡德里特
+    - 弗朗斯·普洛伊
+  contributors_en:
+    - Gayle Kidder
+    - Stephen Sonderegger
+  publisher_en: "Kiddy World Publishing (the Netherlands)"
+  publisher_zh: null
+  year_en_first: 1992               # 荷兰文原版
+  year_en_translation: 2003         # 英译第一版
+  edition_en: "5th US Edition (基于 OCR 内容版本特征)"
+  series: "The Wonder Weeks"
+
+# 作者背景(给后续卡片 evidence_level 评估用)
+author_credentials:
+  hetty_van_de_rijt:
+    role_en: "Developmental Psychologist (PhD)"
+    nationality: "荷兰"
+    life_dates: "1942-2019"
+    education: "Cambridge University 教育心理学博士"
+    expertise: "婴儿发展规律性研究 / 灵长类行为学"
+    note: "Wonder Weeks 共同发现者,与 Frans X. Plooij 35 年合作研究"
+    glossary_ref: G-PERSON-vanderijt
+  frans_plooij:
+    role_en: "Developmental Psychologist (PhD)"
+    nationality: "荷兰"
+    life_dates: "1944-"
+    education: "Cambridge University 行为生物学博士"
+    expertise: "灵长类婴儿发展 / 大脑发育跃迁(EEG 验证)"
+    note: "原 Tinbergen / Goodall 灵长类研究师承,把动物方法学迁移到人类婴儿"
+    glossary_ref: G-PERSON-plooij
+
+# 全书结构(12 章 + 后记)
+chapter_map:
+  ch1: "Growing Up: How Your Baby Does It(框架理论)"
+  ch2: "Newborn: Welcome to the World(新生儿世界)"
+  ch3: "Wonder Week 5: The World of Changing Sensations(感觉世界)"
+  ch4: "Wonder Week 8: The World of Patterns(模式世界)"
+  ch5: "Wonder Week 12: The World of Smooth Transitions(平滑过渡)"
+  ch6: "Wonder Week 19: The World of Events(事件世界)"
+  ch7: "Wonder Week 26: The World of Relationships(关系世界)"
+  ch8: "Wonder Week 37: The World of Categories(分类世界)"
+  ch9: "Wonder Week 46: The World of Sequences(序列世界)"
+  ch10: "Wonder Week 55: The World of Programs(程序世界)"
+  ch11: "Wonder Week 64: The World of Principles(原则世界)"
+  ch12: "Wonder Week 75: The World of Systems(系统世界)"
+  postscript: "Counting on Difficult Times(应对艰难时刻)"
+
+# 10 个跃迁时间表(关键数据)
+ten_leaps:
+  leap_1: { week: 5,  fussy_start_week: 5,  world: "Sensations(感觉)" }
+  leap_2: { week: 8,  fussy_start_week: 8,  world: "Patterns(模式)" }
+  leap_3: { week: 12, fussy_start_week: 12, world: "Smooth Transitions(平滑过渡)" }
+  leap_4: { week: 19, fussy_start_week: 15, world: "Events(事件)" }
+  leap_5: { week: 26, fussy_start_week: 23, world: "Relationships(关系)" }
+  leap_6: { week: 37, fussy_start_week: 34, world: "Categories(分类)" }
+  leap_7: { week: 46, fussy_start_week: 42, world: "Sequences(序列)" }
+  leap_8: { week: 55, fussy_start_week: 51, world: "Programs(程序)" }
+  leap_9: { week: 64, fussy_start_week: 60, world: "Principles(原则)" }
+  leap_10: { week: 75, fussy_start_week: 71, world: "Systems(系统)" }
+
+# 核心理论
+core_theories:
+  - "3 C's:Crying / Clinging / Cranky — 跃迁前必出现的烦躁信号"
+  - "fussy phase 在跃迁前 1-3 周开始,跃迁完成后消退"
+  - "前 3 个 fussy phase(5/8/12 周)较短(几天到 1 周)"
+  - "后期 fussy phase(19 周起)可持续 1-6 周"
+  - "10 个跃迁中 6 个有独立神经科学验证(EEG / 大脑电活动)"
+  - "时间从受孕日算起 — 早产宝宝按预产期校正,晚产宝宝按实际出生日往前推"
+  - "气质安静的宝宝也会经历 fussy phase,只是表现温和"
+  - "跃迁不等于躯体生长冲(growth spurt),两者独立但偶有重叠"
+
+# verbatim 关键内容(按章节组织,实际产卡时引用具体段落)
+verbatim_content:
+  ch1_framework:
+    chapter: "Chapter 1 · Growing Up"
+    pages: "1-15"
+    status: "已读,框架理论"
+    key_quotes:
+      - "These difficult periods are usually accompanied by the three C's: Clinginess, Crankiness, and Crying."
+      - "The fussy periods come at 5, 8, 12, 15, 23, 34, 42, 51, 60 and 71 weeks."
+      - "All babies experience fussy periods... Usually calm, easygoing babies will react to these changes just as much as more difficult, temperamental babies do."
+    cards_drawn: []  # 待补
+
+  ch2_newborn:
+    chapter: "Chapter 2 · Newborn"
+    pages: "16-35"
+    status: "待读,新生儿基础"
+
+  ch3_ww5:
+    chapter: "Chapter 3 · Wonder Week 5: Sensations"
+    status: "待读,第一跃迁"
+
+  # 后续按需补
+  remaining: "Ch4-Ch12 chunks 按段读取产卡"
+
+# 在本知识库中的位置
+position_in_kb:
+  prerequisite: "G-PERSON-Brazelton 已建(触摸点理论邻近,需 related)"
+  related_existing_terms:
+    - G-TERM-touchpoint            # Brazelton 触摸点 — 同样讲发展节点暂时退步
+    - G-TERM-regression-progression # 退步即前进 — Brazelton 同类机制
+    - G-TERM-fussy-period           # Karp/Brazelton 黄昏哭闹 — 不同概念但易混
+    - G-TERM-cognitive-burst        # 认知爆发
+    - G-TERM-attachment             # 依恋(Wonder Week fussy phase 期间宝宝特别黏人)
+    - G-TERM-separation-anxiety     # 分离焦虑(46-75 周窗口与多数跃迁重叠)
+    - G-TERM-stranger-anxiety       # 陌生人焦虑
+    - G-TERM-object-permanence      # 物体永久性(WW19 事件世界 + WW26 关系世界基础)
+  cross_validation:
+    - source_id: SRC-010   # Brazelton Touchpoints
+      relationship: "触摸点理论与 Wonder Week 跃迁理论概念邻近,Brazelton 在序里直接背书"
+    - source_id: SRC-009   # 鲍秀兰
+      relationship: "鲍秀兰月龄里程碑是结果,Wonder Week 是推背手"
+    - source_id: SRC-007   # AAP
+      relationship: "AAP colic / PURPLE crying 与 Wonder Week 早期 fussy phase 部分重叠"
+    - source_id: SRC-011   # Bowlby Vol 1
+      relationship: "Wonder Week 26+ 关系/序列世界与 Bowlby 6-12 月依恋形成关键期重叠"
+    - source_id: SRC-012   # Bowlby Vol 2(并行 session 在产)
+      relationship: "Wonder Week 后期 fussy phase 多数与分离焦虑窗口重叠,Bowlby Vol 2 深化"
+  philosophical_alignment:
+    - "实操派 + 发展规律预测派(类似触摸点)"
+    - "推翻'宝宝突然哭闹无解'的无力感 — 给父母可预测时间表"
+    - "强调:fussy phase 是健康信号,不是病"
+
+# 为什么选这本(Phase 4 第二本,并行 SRC-012)
+why_this_book:
+  - "可预测时间表 — 中国家长最焦虑'宝宝突然狂哭睡眠倒退'的痛点解药"
+  - "Brazelton 触摸点理论的姐妹篇(Brazelton 在序里直接背书),与 G-PERSON-Brazelton 形成完整理论对比"
+  - "10 个跃迁覆盖 0-20 月(0-75 周)— S1-S6 都有内容,与 Bowlby Vol 2(并行)的分离焦虑窗口完美互补"
+  - "OCR 已就位,工程开销低"
+  - "实操建议丰富 — 弥补 Bowlby/Ainsworth 偏理论"
+
+# 工程注记
+engineering_notes:
+  source_format: ".epub 转 .md(单长行)— 822544 字符 / 12298 行"
+  ocr_quality: "高 — 英文原版 epub 转换,无 OCR 错误,但需处理 <span> HTML 标签"
+  navigation_strategy: "Python 字符 offset 切片(章节地图已扫描)"
+  chapter_offsets:
+    chapter01: 25753
+    chapter02: 40964
+    chapter03: 72367
+    chapter04: 99622
+    chapter05: 146745
+    chapter06: 189308
+    chapter07: 252222
+    chapter08: 330870
+    chapter09: 385431
+    chapter10: 442850
+    chapter11: 496462
+    chapter12: 603434
+    postscript: 713615
+
+# Phase 4 第二本(并行 session)产出引用
+referenced_by_units: []
+referenced_by_cards: []      # 完成时回填
+
+status: stub                  # 主体已就位,verbatim 持续追加
+created: 2026-05-03
+updated: 2026-05-03
+
+# 注:本 SRC 在 Phase 4 第二本(Wonder Weeks)产出过程中并行建立
+# 不动 source_index.yaml(Bowlby Vol 2 session 也在使用)
+# 不动 INDEX_BY_SOURCE.md(同上)
+# 不动 SRC-012.yaml(Bowlby Vol 2 session 在写)
+# 等并行 session 完成后,用户或后续 session 合并

@@ -1,0 +1,49 @@
+# ═══════════════ S2(1-3 月)4 张 ═══════════════
+card_id: C-S2-2105
+stages: [S2]
+tags: [safety, red_flag]
+
+front:
+  title: 2-6 月发烧:38°C 找医生
+  hook: 直肠测最准,别用耳温
+
+back:
+  why_matters: |
+    2-3 月免疫弱,任何发烧可能是脓毒症 / 脑膜炎信号。海蒂月龄阈值:
+    **< 3 月 ≥ 38°C 立刻找医生 / 3-6 月 ≥ 38.3°C 通知医生 / 6 月+ ≥ 39.4°C 通知**。
+    任何月龄反复 ≥ 40°C 找医生。**测温首选直肠(对 < 6 月最准)**,
+    耳温计不准 < 6 月(耳道太小 + 耳垢干扰),海蒂建议至少满 1 岁后用。
+  what_to_do:
+    - < 3 月任何 ≥ 38°C → 立刻找医生(午夜也打)
+    - 3-6 月:≥ 38.3°C / 101°F → 通知医生
+    - 6 月+:≥ 39.4°C / 103°F → 通知医生
+    - 直肠测温:凡士林润滑探头,趴大腿,不强行用力
+    - 绝不用阿司匹林(Reye 综合征致死);6 月内只用对乙酰氨基酚
+  failure_mode: |
+    2 月低烧 38.5°C 在家观察 → 错过脓毒症 / 脑膜炎黄金时间。
+    给阿司匹林退烧 → Reye 综合征致死。
+    用耳温计测 2 月宝宝以为正常 → 实际已高烧。
+    强行直肠测温激烈反抗 → 戳伤直肠。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-AAP
+
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1 岁"
+  authors: [Heidi Murkoff, Sharon Mazel]
+  publisher_en: Workman Publishing
+  publisher_zh: 南海出版公司(新经典发行)
+  year: 1989
+  edition: 3rd (2014)
+  location: "第 18 章《宝宝生病》'判定发烧 + 应对发烧',561-568 页中译"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards: [C-S1-060, C-S1-062]
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

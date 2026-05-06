@@ -1,0 +1,61 @@
+card_id: C-S0-008
+stages: [S0]
+tags: [montessori, prenatal, environment]
+
+front:
+  title: 子宫是宝宝第一个"家"
+  hook: 蒙氏的孕期教育视角
+
+back:
+  why_matters: |
+    蒙氏的"有准备的环境"概念,从子宫就开始了。
+    宝宝在孕期已经有发育中的感官,会吸收妈妈的:
+    - **23 周起**:声音(妈妈说话 / 唱歌 / 外界音乐)
+    - **21 周起**:味觉(羊水带母亲的食物味)
+    - **28 周起**:嗅觉
+    - **32 周起**:光暗视觉
+    - **5.5 周起**:触觉(口鼻周围)
+    更深一层 — 妈妈情绪的高低也通过激素被宝宝吸收。
+    所以孕期不是"等宝宝出来再开始养",养已经在进行。
+    实操含义:孕期家长稳定的情绪 + 跟宝宝说话 + 唱歌 / 听音乐,出生后这些都成 point of reference,新生儿听到熟悉声音会安心。
+  what_to_do:
+    - 跟宝宝聊天,叫名字,告诉他今天发生什么
+    - 选一首专属"胎儿之歌",出生后继续唱
+    - 摸肚子等胎动反应,记录回应模式
+    - 情绪波动大时找支持,不让宝宝长期泡焦虑激素
+    - 准备 topponcino + 环境(卧室 / 喂养区)
+  failure_mode: |
+    "胎教就是听莫扎特" — 错。胎教 = 妈妈状态稳定 + 跟宝宝建联结,音乐只是其中一条。
+    "出生前不用做什么,等他出来再说" — 错过 23 周后听觉适应窗口,出生后陌生人声会更焦虑。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Davies
+  - G-PERSON-Montessori
+  - G-TERM-prepared-environment
+  - G-TERM-symbiosis-period
+  - G-TERM-topponcino
+  - G-TERM-bonding
+
+citation:
+  book_title_zh: "蒙特梭利的小宝宝(0-1岁)"
+  book_title_en: "The Montessori Baby"
+  authors: ["Simone Davies", "Junnifa Uzodike"]
+  authors_zh: ["西蒙·戴维斯", "君妮法·乌佐迪克"]
+  publisher_en: "Workman Publishing"
+  year_en: 2021
+  isbn_en: "978-1-5235-0693-7"
+  location: "Chapter 3 · From Conception to the First 6 Weeks"
+  source_id: SRC-014
+
+unit_ids: []
+related_cards:
+  - C-S0-001       # Brazelton 孕期触摸点
+  - C-S0-002       # Brazelton 准备父母
+  - C-S0-005       # Brazelton 孕中胎教
+  - C-S1-122       # Bowlby 依恋形成开始
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

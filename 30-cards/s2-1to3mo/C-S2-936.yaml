@@ -1,0 +1,50 @@
+card_id: C-S2-936
+stages: [S2]
+tags: [chess_thomas, rothbart, temperament_dimensions, lerner_v3]
+
+front:
+  title: "气质 9 维 vs 3 维"
+  hook: "老 9 维太碎现 3 维"
+
+back:
+  why_matters: |
+    Rothbart(Ch 3)综述史 — Thomas-Chess 1956 提 9 维度气质(活动度/节律/接近/适应/反应阈/反应强度/情绪/分心/持久),
+    奠基性但太碎,临床用难。Rothbart 1981 整合成 3 大维度(反应度/自我调节/情绪基调),
+    跨 50 年实证综述 — 3 维更稳定预测后期人格。
+    一句话 — 现在心理学综述用 3 维,9 维是给临床细分用。
+  what_to_do:
+    - "家长用 3 维评估娃就够"
+    - "9 维留给医生临床判断"
+    - "别为某个 9 维细分焦虑"
+    - "看 3 维不看局部某项"
+    - "看完接受,不试图改"
+  failure_mode: |
+    被某老婴儿测评(9 维细分)吓到,以为某项偏离就要矫正。
+    Rothbart — 9 维细分在临床有用,但日常 3 维就够,过度细分增焦虑。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Rothbart
+  - G-PERSON-Chess
+  - G-PERSON-Thomas
+  - G-TERM-9-dimensions-temperament
+  - G-TERM-temperament-3-dimensions
+
+related_cards:
+  - C-S2-547
+  - C-S2-122
+  - C-S1-1002
+
+citation:
+  source_id: SRC-027
+  source_title: "Handbook of Child Psychology Vol 3"
+  chapter: "Ch 3 Rothbart — History"
+  chapter_offset: 613636
+  chapter_title: 'Rothbart & Bates — 气质综述权威'
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_followup_needed: 'SRC-027 用 PDF 字节偏移代页码 — 待加 page_pdf 反查工具'

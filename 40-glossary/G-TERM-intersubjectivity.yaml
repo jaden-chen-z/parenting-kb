@@ -1,0 +1,86 @@
+glossary_id: G-TERM-intersubjectivity
+type: term
+display_name: 共主体性 (intersubjectivity)
+
+full_name_zh: 共主体性 / 主体间性
+full_name_en: Intersubjectivity
+
+one_liner: |
+  哲学概念,Stern 引入婴儿心理学 — **9 月起婴儿发现"我有内心,别人也有内心,可分享"**的能力。
+  是 subjective self(主观自我)的核心,跟 attunement / joint attention / sharing intentions 一起诞生。是后续语言 / 共情 / theory of mind 的奠基。
+
+detail: |
+  ## 定义
+  Intersubjectivity(共主体性)= 两个主体的内心可以**共享 + 互通**的能力。
+  - 哲学根源 — 现象学(Husserl / Merleau-Ponty)
+  - Stern 引入婴儿心理学
+  - **9 月起诞生** — 发现"我有内心,别人也有内心,可以分享"
+
+  ## 3 大可分享体验(Trevarthan & Hubley 1978)
+  1. **Joint attention(共享注意)** — 9 月会指 + 跟随大人指
+  2. **Sharing intentions(共享意图)** — 9 月起 intentional communication
+  3. **Sharing affective states(共享情感)** — 通过 affective attunement(C-S5-291)
+
+  ## 关键洞察
+  - 不是"读心术" — 是用**非语言信号**(表情 / 手势 / 体态 / 声音)推断对方内心
+  - 是 **theory of separate minds(分离心智理论)**的雏形
+  - "interfaceable separate minds"(Bretherton & Bates 1979)— 不只是知道别人有心,还要相信"两个心可以接触"
+
+  ## 反 Mahler "hatching"
+  - Mahler:7-9 月主任务是从共生融合 hatching 出来 → 独立分离
+  - **Stern 反**:这是新的"在一起" — intersubjective union
+  - 不是"分离的开始",是"心理深度连接的启动"
+
+  ## 在 self 形成中的位置
+  - 是 **subjective self** 的核心机制
+  - 之前(emergent / core)只是 self 的物理 / 体验层
+  - 现在加心理 / 共享层
+  - 之后(verbal)语言化 intersubjectivity → 但语言是双刃剑
+
+  ## 跟其他理论对照
+  - **Theory of mind**(Premack & Woodruff 1978)— 跟 intersubjectivity 重合
+  - **Empathy**(Hoffman 1977)— 是 intersubjectivity 的高级形式
+  - **Mirror neurons**(后来发现)— intersubjectivity 的神经基础
+  - **Mead "taking the role of the other"**(1934)— 哲学先驱
+
+  ## 在 attunement 中的角色
+  - Attunement 是 intersubjectivity 在 9-15 月的**主要表现形式**
+  - "心理同频"就是 intersubjective union 的实操
+  - 没有 intersubjectivity → 不可能 attunement
+
+  ## 临床意义
+  - 缺 intersubjectivity → autism spectrum 核心特征
+  - 弱 intersubjectivity → 焦虑 / 边缘人格 / 社交困难
+  - 心理治疗 = 重建 intersubjectivity 的能力
+  - 早期 attunement 不足 = intersubjectivity 不发达的根源
+
+  ## 中国家长应用
+  - **9 月起把宝宝当"心理伙伴"** — 不只关注行为
+  - **关注宝宝"想什么 + 想要什么"** — 不只看做什么
+  - **回应宝宝的 sharing 信号** — 指 / 看 / 给
+  - **保留 communion 时间**(C-S5-295)— 单纯"在一起",不带 agenda
+
+key_facts:
+  - 9 月起诞生,subjective self 核心
+  - 3 大可分享:注意 / 意图 / 情感
+  - 反 Mahler hatching/独立论
+  - Attunement 是其实操形式
+  - 缺失对应 autism / 社交障碍
+
+related_glossary:
+  - G-PERSON-Stern
+  - G-TERM-subjective-self
+  - G-TERM-affective-attunement
+  - G-TERM-joint-attention
+  - G-TERM-theory-of-mind
+
+related_cards: []
+
+sources:
+  - source_id: SRC-018
+  - external: Trevarthan & Hubley 1978 / Stern《The Interpersonal World of the Infant》Ch 6-7
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

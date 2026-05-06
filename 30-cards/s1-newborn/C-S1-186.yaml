@@ -1,0 +1,61 @@
+card_id: C-S1-186
+stages: [S1]
+tags: [montessori, newborn, hands, orientation]
+
+front:
+  title: 新生儿别戴手套
+  hook: 手是宝宝的安全锚
+
+back:
+  why_matters: |
+    很多家庭给新生儿戴手套(防自抓花脸 / 怕指甲伤眼)。
+    蒙氏强烈反对:
+    - 宝宝在子宫里就在**摸自己的脸 / 头 / 手**(这是 12 周起的触觉发育)
+    - 出生后,手是宝宝**第一个熟悉的地标**(point of reference)
+    - 把手放嘴里**自我安抚**(自我安抚)是天生能力
+    - 看手 / 玩手指(staring at hands)是**视觉发育的里程碑**
+    戴手套 / 包紧手 = 切断这些功能。
+    Davies 把这归入**人类倾向 orientation**(定向):
+    - 宝宝来到陌生世界,熟悉的标记很少
+    - 妈妈声音 + 心跳 + **自己的手**是仅有的"熟悉物"
+    - 拿走手 = 拿走 1/3 安全感指甲怕抓:可以用婴儿指甲剪定期剪短(每周 1-2 次),不戴手套。
+    抓花了:皮肤会自愈,几天好。
+  what_to_do:
+    - 不戴手套(包括过冬)
+    - 每周剪指甲 1-2 次(睡时剪最稳)
+    - 包毯 / 衣服都让手能露出
+    - 鼓励宝宝把手放嘴里(自我安抚)
+    - 0-3 月让宝宝有时间盯着自己手玩
+  failure_mode: |
+    "戴手套防抓花,出院就给戴上了" — 关键发育期被切断,宝宝失安抚 + 失定向。抓花会自愈。
+    "我家盖太多怕冷露不出手" — 过热反而 SIDS 风险高,室温 20-22℃ + 一般睡袋足够。
+    "把手包进去更安静" — 短期看是,但宝宝失去自我安抚能力,长期更难独立入睡。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Davies
+  - G-PERSON-Montessori
+  - G-TERM-self-soothing
+  - G-TERM-symbiosis-period
+
+citation:
+  book_title_zh: "蒙特梭利的小宝宝(0-1岁)"
+  book_title_en: "The Montessori Baby"
+  authors: ["Simone Davies", "Junnifa Uzodike"]
+  authors_zh: ["西蒙·戴维斯", "君妮法·乌佐迪克"]
+  publisher_en: "Workman Publishing"
+  year_en: 2021
+  isbn_en: "978-1-5235-0693-7"
+  location: "Chapter 2 · Human tendencies > Orientation + Chapter 3 Tactile"
+  source_id: SRC-014
+
+unit_ids: []
+related_cards:
+  - C-S1-001       # Karp 第四孕期
+  - C-S1-018       # Karp 自我安抚
+  - C-S1-073       # Brazelton 6 states
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

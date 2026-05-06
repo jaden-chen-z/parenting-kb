@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Grusec
+type: person
+display_name: "Grusec(琼·格鲁塞克)"
+
+full_name_en: "Joan E. Grusec"
+full_name_zh: "琼·格鲁塞克"
+
+position: |
+  University of Toronto 心理学教授
+
+contribution: |
+  社会化过程 + 父母管教研究
+
+one_liner: |
+  琼·格鲁塞克 — 社会化过程 + 父母管教研究
+
+key_facts:
+  - "本卷章节:Ch 7"
+  - "Lerner V3 命中:30 次"
+  - "学派:Lerner V3 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-027
+    chapter: "Ch 7"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

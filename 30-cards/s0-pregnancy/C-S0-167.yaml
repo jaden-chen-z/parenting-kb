@@ -1,0 +1,58 @@
+card_id: C-S0-167
+stages: [S0]
+tags: [philosophy, RIE, framework]
+
+front:
+  title: "Magda 7 大育儿原则"
+  hook: "RIE 起点都在这里"
+
+back:
+  why_matters: |
+    Magda Gerber 1978 年创立 RIE 时定下的 7 条原则
+    (Lansbury 2014 后扩到 10 条:加"模范 / 让孩子解决 / CEO 语调")。
+    Magda 原版 7 条按重要度从内向外:
+    信任孩子 → 给环境 → 不打断玩 → 给同伴 →
+    护理时邀请参与 → 敏感观察 → 一致限度。
+    跟蒙氏 80% 重叠,跟亲密派 / 哄睡派 / 分散派形成对照。
+
+  what_to_do:
+    - 1 信任:相信宝宝是探索者不是被动接收者
+    - 2 环境:安全 + 思考挑战 + 情感温暖三合一
+    - 3 不打断玩 + 邀请同伴探索互动
+    - 4 主动参与护理:换尿布也跟他说话不当物件
+    - 5 敏感观察 + 一致限度:看不做,规则不变
+
+  failure_mode: |
+    把"对宝宝好"理解成"陪玩 + 抱 + 哄 + 教",
+    全相反 7 条都犯 — 反而剥夺孩子天然学习机会。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Gerber
+  - G-PERSON-Pikler
+  - G-TERM-RIE
+  - G-TERM-respectful-parenting
+  - G-TERM-active-participant-caregiving
+
+citation:
+  book_title_en: "Your Self-Confident Baby: How to Encourage Your Child's Natural Abilities — from the Very Start"
+  book_title_zh: "自信的宝宝:激发孩子从出生起的天生能力"
+  authors:
+    - Magda Gerber
+    - Allison Johnson
+  publisher_en: John Wiley & Sons
+  year: 1998
+  location: "Ch1 Respect: Basic Principles(8 条逐个解释)"
+  source_id: SRC-022
+
+unit_ids: []
+related_cards:
+  - C-S1-352  # Lansbury 把新生儿当完整人(Magda 8 原则浓缩)
+  - C-S1-247  # Lillard 头月一房三人
+  - C-S0-115  # Lansbury 新手父母
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

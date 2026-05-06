@@ -1,0 +1,76 @@
+glossary_id: G-TERM-growth-spurt
+type: term
+display_name: 躯体生长冲 (growth spurt)
+
+full_name_en: Growth Spurt
+full_name_zh: 躯体生长冲(身体长高 / 体重突增期)
+
+one_liner: |
+  婴儿身高 / 体重在某些时段突然加速增长,常一夜长 6 mm。Wonder Weeks 强调:跃迁(mental leap)是大脑变化,growth spurt 是身体变化,**两者独立但易混**。
+
+detail: |
+  ## 定义
+  Growth spurt = 婴儿身体在某时段快速生长(身高 / 体重 / 头围)。
+  van de Rijt + Plooij 在 Ch1 框架明确强调跟 mental leap 的区别:
+  > "These ten developmental leaps that infants undergo are not necessarily in sync with physical growth spurts,
+  > although they may occasionally coincide."
+
+  ## 常见 growth spurt 时段(其他来源)
+  - 7-10 天(出生后第一次)
+  - 2-3 周
+  - 4-6 周
+  - 3 月
+  - 4 月
+  - 6 月
+  - 9 月
+  - 12 月
+  - 18 月
+
+  ## 表现
+  - 突然喝奶量大增(2-3 天)
+  - 睡眠模式短暂改变(更困或夜醒)
+  - 头围 / 身长 / 体重明显跃升
+  - 一般持续 2-7 天即恢复
+
+  ## growth spurt vs mental leap 区别
+  | 维度 | Growth Spurt(躯体长高) | Mental Leap(大脑跃迁) |
+  |---|---|---|
+  | 本质 | 身体细胞增多 | 大脑神经元重新连接 |
+  | 持续 | 2-7 天 | 几天-6 周(后期跃迁更长) |
+  | 表现 | 食量大增 + 短暂困倦 | 3 C 信号 + 行为崩盘 |
+  | 测量 | 体重秤 / 量身高 | 行为观察 / EEG |
+  | 引起 fussy | 偶尔(短暂) | 必然(长) |
+  | 时间表 | 不固定(个体差异大) | **可预测**(10 跃迁) |
+
+  ## 重叠的情况
+  Growth spurt 可能跟 mental leap 时间重合,但不是因果关系:
+  - 4 月 growth spurt + WW19 跃迁 → 宝宝特别难带
+  - 9 月 growth spurt + WW37 跃迁 → 同上
+  这种重叠让"双重 fussy"出现,父母会以为宝宝"病了"。
+
+  ## 误区
+  - 把所有 fussy 都归罪 growth spurt → 漏掉跃迁视角
+  - 把跃迁误判为"长身体" → 漏掉提供新能力刺激的窗口
+
+key_facts:
+  - 身体细胞增多 / 一夜长几 mm
+  - 跟 mental leap 是不同概念
+  - 持续 2-7 天即恢复
+  - 时间不固定(个体差异大)
+  - 可能跟跃迁重合,但不是因果
+
+related_glossary:
+  - G-TERM-mental-leap
+  - G-TERM-wonder-week
+  - G-TERM-cognitive-burst
+
+related_cards: []
+
+sources:
+  - source_id: SRC-013
+  - external: "WHO infant growth standards / 综合儿科文献"
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

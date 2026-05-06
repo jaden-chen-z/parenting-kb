@@ -1,0 +1,51 @@
+card_id: C-S0-1522
+stages: ['S0']
+tags: ['philosophy', 'lerner_v1', 'lerner', 'PYD', '5C', 'foundational']
+
+front:
+  title: "PYD 5C 框架"
+  hook: "5 个 C 替代成绩"
+
+back:
+  why_matters: |
+    Lerner et al.(Lerner V1 Ch 16)给 Positive Youth Development(PYD)5C 框架:
+    - Competence(能力)— 学习 / 社交 / 体能等具体能力
+    - Confidence(自信)— 自我效能 + 价值感
+    - Connection(连接)— 跟父母 / 同伴 / 老师 / 社区的关系
+    - Character(品格)— 道德 / 责任 / 价值观
+    - Caring(关怀)— 同理 / 利他后来加 6C — Contribution(贡献)— 给社区 / 家庭 / 社会的贡献意义 — PYD 反 deficit model(只看缺点改正),用 asset model(看优势放大)。
+    中国 "成绩中心" 育儿可对接 PYD 反思 — 5C 比成绩更预测成年福祉。
+  what_to_do:
+    - "5C 维度同步看(不只成绩)"
+    - "Competence 不只学业(社交 / 体能 / 艺术)"
+    - "Confidence 来自被尊重 + 成就感"
+    - "Connection 是父母 + 同伴 + 老师多元"
+    - "Character + Caring 比成绩更预测成年"
+  failure_mode: |
+    "成绩第一" 单维 — 错。PYD 综述:5C 全维更预测福祉。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Lerner
+  - G-TERM-positive-youth-development
+  - G-TERM-5C-framework
+
+related_cards:
+  - C-S0-1500
+  - C-S0-1513
+  - C-S0-722
+  - C-S8-323
+
+citation:
+  source_id: SRC-030
+  source_title: "Handbook of Child Psychology Vol 1: Theoretical Models of Human Development"
+  chapter: "Ch 16 Positive Youth Development (Lerner / Benson / Scales)"
+  chapter_offset: 4860000
+  chapter_title: 'Lerner / Benson / Scales / Hamilton / Sesma — Positive Youth Development'
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_followup_needed: 'SRC-030 用 PDF 字节偏移代页码 — 待加 page_pdf 反查工具'

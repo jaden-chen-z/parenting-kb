@@ -1,0 +1,152 @@
+source_id: SRC-017
+title: "依恋三部曲 · 第三卷:丧失(中译本)"
+title_en: "Attachment and Loss, Volume 3: Loss, Sadness and Depression"
+org: null
+tier: 3
+source_type: book
+url: null
+isbn_zh: "978-7-5192-3383-9"
+publisher_zh: "世界图书出版有限公司北京分公司"
+location_zh: "北京"
+year_zh: 2018
+year_en: 1980
+publisher_en: "Hogarth Press / The Tavistock Institute of Human Relations"
+accessed: 2026-05-03
+language: zh
+notes_path: tier3-books/notes/SRC-017.yaml
+
+authors:
+  - name_en: "John Bowlby"
+    name_zh: "约翰·鲍尔比"
+    role: "英国精神病学家 / 心理分析师 / 依恋理论创始人"
+    background: "1907-1990 英国,Tavistock Institute 主任,二战期间研究战争孤儿与寄宿儿童心理启发依恋理论。三部曲 1969-1980 完整呈现"
+
+translators:
+  - "付琳等译"
+reviewer: "易春丽审校"
+
+# 三部曲第三卷,本卷主题:儿童与成人对丧失的反应
+# Vol 1: Attachment 依恋(1969)
+# Vol 2: Separation 分离(1973)
+# Vol 3: Loss 丧失,哀伤,抑郁(1980)— 本卷
+trilogy:
+  vol: 3
+  prev_volumes_in_kb:
+    - SRC-011  # Vol 1 依恋
+    - SRC-012  # Vol 2 分离
+
+# 章节地图(实测正文 offset,非 TOC)
+chapter_offsets:
+  preface: 10536               # 中文版序一
+  introduction: 13751          # 第一部分总论
+  ch1: 20805                   # 丧失的创伤
+  ch2: 24586                   # 丧失与哀悼在病理心理学中的地位
+  ch3: 38383                   # 概念框架
+  ch4: 42412                   # 防御的信息加工方法 [SKIP - 偏理论]
+  ch5: 66711                   # 工作计划(年龄 + 哀悼起点)
+  ch6: 71749                   # 健康成人哀悼
+  ch7: 94537                   # 丧失孩子(父母对子女去世的反应)
+  ch8: 106001                  # 哀悼的 4 个阶段
+  ch9: 115591                  # 失调的变式 [SKIP 大部分 - 病理偏理论]
+  ch10: 168482                 # 影响哀悼进程的条件
+  ch11: 174868                 # 倾向于哀悼失调的人格特点 [SKIP - 偏理论]
+  ch12: 192050                 # 倾向于哀悼失调的童年经历 [SELECTIVE - 跳过虐待/离异案例]
+  ch13: 198136                 # 引起丧失反应变化的认知过程 [SKIP - 偏理论]
+  ch14: 210986                 # 悲伤、抑郁状态和抑郁障碍
+  ch15: 225172                 # 在儿童期和青少年期经历父母的死亡
+  ch16: 234189                 # 外部条件良好时儿童的反应 ⭐ 金矿
+  ch17: 251501                 # 儿童期丧失与精神病性障碍 [SELECTIVE]
+  ch18: 263627                 # 导致结果差异的条件
+  ch19: 270710                 # 当条件不利的情况下儿童的反应 [SKIP 极端家庭]
+  ch20: 293869                 # 失活和被区隔系统的概念 [SKIP - 偏理论]
+  ch21: 297742                 # 失调的变式和对此有影响的一些情况 [SELECTIVE]
+  ch22: 325874                 # 父亲或母亲自杀的影响 [SKIP - 极端]
+  ch23: 333039                 # 3-4 岁儿童对于丧失的反应 ⭐ 金矿
+  ch24: 352052                 # 2 岁儿童对丧失的反应 ⭐ 金矿
+  ch25: 362935                 # 根据早期认知发展所知的幼童反应 ⭐
+  references: 375732           # 参考文献
+  total_chars: 422801
+
+# 用户指示(2026-05-03):聚焦中国家长高频痛点,跳过极端家庭情境
+focus_strategy: |
+  保留(中国家庭高频):
+  - 亲人去世(爷奶 / 同辈 / 宠物)
+  - 暂时分离的丧失(住院 / 出差 / 二宝引发"失去关注")
+  - 跟孩子谈死亡(中国家庭忌讳)
+  - 健康哀伤 vs 病理性识别
+  - Bowlby 4 阶段哀伤理论
+  - 2-4 岁儿童哀伤反应实操(Ch23-25 金矿)
+  - 月嫂 / 阿姨 / 主依恋人替换
+  - 玩具 / 宠物 / 物品丧失
+  跳过:
+  - Ch22 父母自杀
+  - Ch4/13/20 防御 / 认知 / 失活偏理论
+  - Ch9/17/21 失调变式中的极端案例(虐待 / 寄宿 / 精神病院 / 离异)
+  - Ch11 哀悼失调的人格类型
+  - Ch19 父母离异 / 寄养 / 战时孤儿院
+
+# 评级标尺(本卷)
+evidence_level_rubric: |
+  A = 与 Tier 1 共识对齐 OR Bowlby + 多研究者 + 50 年验证(罕见,1980 年理论)
+  B = Bowlby 引用具体研究(Heinicke / Robertson / Bowlby & Murray-Parkes / Anna Freud / Furman 等)— 大多数
+  C = Bowlby 个人理论推断(罕见使用)
+  预计 B 占主导(约 75%),A 占 ~15%(健康哀伤 4 阶段 / 跟孩子谈死亡这类有 Tier 1 共识),C ~10%
+
+# 并行 session 协调(2026-05-03 时点)
+parallel_sessions:
+  status: |
+    本 session(SRC-017 Bowlby V3)与另一 Lillard SRC-016 session 同时活跃
+    Lillard 已产 44 张 + 8 术语,接近收尾(17:41 还在写)
+    Gopnik SRC-015 已完成(35 张,合并入 progress.md = 447 张)
+  id_isolation:
+    rule: "实时 ls max + 100 buffer"
+    starts_at_session_launch:
+      s0: 115     # max 014 + 101
+      s1: 353     # max 252
+      s2: 290     # max 189
+      s3: 296     # max 195
+      s4: 295     # max 194
+      s5: 290     # max 189(Lillard 推到 189)
+      s6: 293     # max 192(Lillard 推到 192)
+      s7: 237     # max 136
+  do_not_touch:
+    - "10-sources/source_index.yaml"        # 等用户合并
+    - "30-cards/INDEX_BY_SOURCE.md"          # 等用户合并
+    - "00-meta/progress.md"                  # 等用户合并
+    - "10-sources/tier3-books/notes/SRC-016.yaml"  # Lillard session 在写
+
+# 现有依恋术语清单(reuse,不重建)
+existing_attachment_glossary:
+  persons:
+    - G-PERSON-Bowlby
+    - G-PERSON-Robertson
+    - G-PERSON-Ainsworth
+    - G-PERSON-Spitz
+    - G-PERSON-Harlow
+  terms:
+    - G-TERM-attachment
+    - G-TERM-secure-base
+    - G-TERM-internal-working-model
+    - G-TERM-separation-anxiety
+    - G-TERM-protest-despair-detachment
+    - G-TERM-defensive-exclusion
+    - G-TERM-pathological-mourning   # V3 必引,已建于 V2 阶段
+    - G-TERM-anxious-attachment
+    - G-TERM-disorganized-attachment
+    - G-TERM-strange-situation
+    - G-TERM-transitional-object
+
+# 候选新术语卡(本卷引入)
+new_glossary_candidates:
+  - G-TERM-mourning              # 哀伤(跟 grief 区别)
+  - G-TERM-four-phases-mourning  # 4 阶段哀伤
+  - G-PERSON-Furman              # Erna Furman / 儿童哀伤主要研究者
+  - G-PERSON-Lindemann           # Erich Lindemann / 1944 急性哀伤研究奠基
+  - G-TERM-yearning-and-searching # 渴求和寻找(4 阶段第二阶段)
+  - G-TERM-childhood-mourning    # 童年哀伤
+  - G-TERM-object-permanence-loss # 客体永存与丧失反应
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

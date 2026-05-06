@@ -1,0 +1,58 @@
+card_id: C-S1-352
+stages: [S1]
+tags: [philosophy, communication, RIE, lansbury]
+
+front:
+  title: "把新生儿当完整的人"
+  hook: "他在听,在察觉,在想"
+
+back:
+  why_matters: |
+    RIE 核心命题:婴儿一出生就是完整的人(whole person),
+    有意识 / 有偏好 / 在听 / 在察觉 — 不是 "cute blob"(Magda Gerber 反对的"萌肉团"说)。
+    Gopnik / Spelke / Bloom 现代神经科学已证实:
+    新生儿大脑的觉察力远超想象。
+    Lansbury 说这是个"自我实现的预言":
+    把宝宝当 needy 无能 → 他真的变得依赖;
+    当 capable 有能 → 他真的变得有能。
+
+  what_to_do:
+    - 跟新生儿正常说话,不嗲不假
+    - 抱前先告知:"我要抱起你了"
+    - 喂奶 / 换尿布前都解释:"我现在..."
+    - 给他时间反应,不要 0.5 秒就动手
+    - 别把哭都当"哭闹",当"沟通"
+
+  failure_mode: |
+    "他这么小听不懂,说什么都白搭" → 错失了 0-6 月最佳沟通建立期。
+    宝宝从出生起就在记录"我说话有人听吗"。
+    一旦建立"没人听"的预期,后期纠正难。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Lansbury
+  - G-PERSON-Gerber
+  - G-PERSON-Pikler
+  - G-TERM-RIE
+  - G-TERM-respectful-parenting
+
+citation:
+  book_title_en: "Elevating Child Care: A Guide to Respectful Parenting"
+  book_title_zh: "尊重孩子:RIE 育儿之道"
+  authors:
+    - Janet Lansbury
+  publisher_en: JLML Press
+  year: 2014
+  location: "Ch1 What Your Baby Can't Tell You + Introduction 10 RIE 原则"
+  source_id: SRC-019
+
+unit_ids: []
+related_cards:
+  - C-S1-247  # Lillard 头月一房三人
+  - C-S1-249  # Davies 把宝宝当人
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

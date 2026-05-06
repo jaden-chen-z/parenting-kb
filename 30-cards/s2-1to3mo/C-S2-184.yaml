@@ -1,0 +1,64 @@
+card_id: C-S2-184
+stages: [S2]
+tags: [cognitive_science, cross_modal, baby_scientist, controversy]
+
+front:
+  title: 1 月嘴感觉就匹配视觉
+  hook: 不靠经验天生跨模态
+
+back:
+  why_matters: |
+    Meltzoff & Borton 1979 经典奶嘴实验 — 反 Berkeley / Locke 假设。
+    18 世纪英国哲学家 Berkeley 假设:婴儿先要**看 + 摸**反复关联,
+    才能知道"圆形看起来 = 圆形摸起来"。
+    Meltzoff 实验推翻:
+    - 给 1 月宝宝**只用嘴**吸 2 种奶嘴(光滑 / 凸点)
+    - 全程**蒙眼**,从未看到奶嘴
+    - 然后让宝宝睁眼**看**两种奶嘴(没让摸)
+    - 宝宝**盯着跟刚吸的同形状奶嘴**看更久意义:1 月宝宝**不靠经验**就能匹配"嘴感觉 ↔ 视觉形状"。
+    这叫**跨模态匹配**(cross-modal matching)— 不同感官信息天生互通。
+    Gopnik 解读:这是 baby scientist 的硬证据 — 婴儿大脑出生就有"统一物体"概念。
+    不只奶嘴 — 后续 Kuhl 实验:
+    - 5 月宝宝**听** ahhh 声 → 自动**看**张大嘴的脸(C-S3-187 唇读)
+    - 5 月宝宝**看**球弹跳 → 自动**听**对应 boing 声对中国家长意义:
+    - 不必"训练宝宝把看 / 摸 / 听对应起来" — 天生会
+    - 给真物(可看 + 可摸 + 可咬)= 跨模态信息全开
+    - 不依赖纯视觉(屏幕 / 图卡)— 损失跨模态丰富性
+    - 真物 > 任何二维图像 / 动画
+    **注**:Meltzoff & Borton 1979 奶嘴实验在新生儿/1 月婴儿身上复制结果不一致,部分研究复制成功部分失败。"跨模态匹配"现象本身有跨研究背书,但"1 月即天生匹配"具体强主张存疑。
+  what_to_do:
+    - 给宝宝可同时看 + 摸 + 听的真物(玩具 / 食物 / 自然物)
+    - 命名物体时让他能看 + 触
+    - 不依赖图卡 / 屏幕(只视觉,损失跨模态)
+    - 户外更好(光线 + 触感 + 声音 + 气味全开)
+  failure_mode: |
+    "他还小,看图卡就够了" — 错。跨模态学习需要真物。
+    长期屏幕替代真物 — 大脑跨模态回路退化。
+    "他咬玩具不卫生不让咬" — 错过嘴 + 视觉的天生匹配。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Meltzoff
+  - G-PERSON-Gopnik
+  - G-TERM-baby-scientist
+  - G-TERM-statistical-learning
+
+citation:
+  book_title_en: "The Scientist in the Crib"
+  book_title_zh: "摇篮里的科学家"
+  authors: ["Alison Gopnik", "Andrew N. Meltzoff", "Patricia K. Kuhl"]
+  publisher_en: William Morrow
+  year: 1999
+  location: "Chapter 3 · Andy's pacifier experiment (Meltzoff & Borton 1979)"
+  source_id: SRC-015
+
+unit_ids: []
+related_cards:
+  - C-S3-187       # 5 月唇读匹配(同跨模态主题)
+  - C-S1-241       # Meltzoff 出生模仿
+  - C-S1-244       # 新生儿对人脸特化
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

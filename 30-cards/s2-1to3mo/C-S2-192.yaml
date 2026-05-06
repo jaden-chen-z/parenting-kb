@@ -1,0 +1,70 @@
+card_id: C-S2-192
+stages: [S2]
+tags: [self, language, parent_attitude]
+
+front:
+  title: 妈语 + 婴儿脸都对
+  hook: 妈语夸张脸是工具
+
+back:
+  why_matters: |
+    家长跟 2-6 月宝宝说话时,会**自动**:
+    - 升高音调(baby talk / parentese)
+    - 简化句子结构
+    - 拉慢速度
+    - 夸张的语调起伏
+    - 同时做夸张的"婴儿脸"(嘴张大 + 眉抬高 + 慢慢成型)
+    - 凑近脸到宝宝面前(< 50cm)
+    老人 / 路人常说:"别用那种娃娃腔,正常说话才教得好普通话" — Stern 反:**这种行为不是"哄孩子",是有进化意义的工具**。
+    **Stern 解释**:
+    - 婴儿的感官偏好就是高音调 / 夸张表情 / 适中速度 — 父母自动"匹配"这些偏好
+    - 用 **theme-and-变奏(主题 + 变奏)** 重复 — "Hey honey... yeah honey... whatcha 做事 honey..." — 同样的"主题"反复加小变化
+    - 主题 + 变奏帮宝宝识别 不变量— 知道"妈"= 不管语调高低,这个声音就是"妈"
+    - 同时**调节宝宝的兴奋度**(兴奋度)— 太兴奋时降级,太平静时升级
+    - **这是 自我形成 的核心营养**
+    Field 1978 实验:用普通成人对成人语调跟 2 月宝宝说话 → 宝宝注意力大幅下降 + 不互动。
+    **对中国家长**:
+    - 妈语用普通话 / 方言都可以(不是英文专属)
+    - 不会因此影响宝宝"未来普通话标准"(8 月起会自动转换)
+    - 反而**不用妈语 = 错过 自我形成 关键期**
+    - 老人 / 配偶不会用没关系,你自己继续用跟蒙氏 Lillard"说话慢 + 等回应"(C-S2-186)同立场。
+  what_to_do:
+    - 0-6 月用妈语跟宝宝说话
+    - 配合夸张表情慢慢成型
+    - 凑近 30-50cm
+    - 用"主题+变奏"重复(同义不同字)
+    - 别因老人说"娃娃腔"就放弃
+  failure_mode: |
+    "用普通成人语调说话" — 错。Field 数据 — 宝宝注意力大降 + 互动减少。
+    "讲故事用书面语" — 0-2 岁不够吸引,要 dramatic + slow + 夸张表情。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Stern
+  - G-TERM-parentese
+  - G-TERM-baby-faces
+
+citation:
+  book_title_zh: "婴儿的人际世界"
+  book_title_en: "The Interpersonal World of the Infant"
+  authors: ["Daniel N. Stern"]
+  authors_zh: ["丹尼尔·斯特恩"]
+  publisher_en: "Basic Books"
+  year_en: 1985
+  isbn_en: "978-0-465-09559-9"
+  location: "Ch 4 · Caregiver behaviors (parentese + baby faces + theme-and-variation)"
+  publisher_zh: "华东师范大学出版社"
+  year_zh: 2017
+  translator_zh: ["刘旭东"]
+  source_id: SRC-018
+
+unit_ids: []
+related_cards:
+  - C-S2-186       # Lillard 说话慢 + 等回应
+  - C-S2-191       # Stern 2 月跃迁
+  - C-S2-187       # Lillard 旋转 ≠ 换新
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

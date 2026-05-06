@@ -1,0 +1,54 @@
+card_id: C-S0-2059
+stages: [S0]
+tags: [philosophy]
+
+front:
+  title: 婴儿用品别买全套,留 9 月再补
+  hook: 一半东西用不到就尺寸不合
+
+back:
+  why_matters: |
+    商场推销的"婴儿全套清单"= 50+ 件商品打包,营销目的远大于实用。
+    海蒂的核心建议:把购物清单当"参考"不当"必买" — 每个宝宝需求不同,你也会收到大量礼物。
+    亲友送的 0-3 月衣服、洗澡椅、玩具会塞满半个家;你买的反而很多用不上。
+    建议策略:先列清单 → 等亲友送 → 收到后剩下的再买 → 大部分买 6-9 月码,少买 3 月码。
+    主要是因为:宝宝长得太快,3 月码穿 4 周就废了。
+  what_to_do:
+    - 先列"清单",别先买全套
+    - 收到亲友礼物后再补不足的
+    - 衣服主要买 6-9 月码,少买 3 月码
+    - 不买:洗澡椅 / 床铃 / 婴儿椅 / 复杂玩具
+    - 季节衣按预产期挪到下季买
+  failure_mode: |
+    出生前买齐 50 件 → 一半因为礼物重了,一半因为尺寸过了。
+    买太多 0-3 月衣服 → 宝宝 3 周就长出去,标签都没拆。
+  evidence_level: C
+
+glossary_refs: []
+
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors:
+    - Heidi Murkoff
+    - Sharon Mazel
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh:
+    - 莫夏迪
+    - 张敏
+  location: "第 2 章婴儿用品采购 · 总原则"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards:
+  - C-S0-009    # 待产物品
+  - C-S0-013    # 婴儿用品
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

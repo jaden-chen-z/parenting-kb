@@ -1,0 +1,100 @@
+card_id: C-S7-892
+stages: [S7]
+tags: [pikler, anti-training, source-de, controversy]
+
+front:
+  title: "幼儿期不报「运动早教」"
+  hook: "婴儿体操 + 早教课全反"
+
+back:
+  why_matters: |
+    皮克勒 1969 立场延伸到 24-36 月 — 反对一切针对幼儿的"运动早教":
+
+    皮克勒反对清单(婴儿期已建,幼儿期延伸):
+    - **婴儿 / 幼儿体操**(德语 Babyturnen / Kleinkindturnen)
+    - **游泳课**(婴儿游泳 / 幼儿游泳)
+    - **早期感统训练**(中国流行)
+    - **早教爬行训练**(中国老传统)
+    - **平衡训练**(西方"婴儿健身房")
+    - **运动专项启蒙**(踢球 / 舞蹈 / 武术课)
+
+    皮克勒立场逻辑:
+    1. 大动作发展自动 — 训练干扰自然顺序
+    2. 训练消耗孩子能量 — 影响其他正常发展
+    3. 训练强化大人主导 — 损坏孩子自主活动的能力
+    4. 24-36 月孩子需要的是自由探索环境(公园 / 草地),不是结构化课程
+
+    跟中国"幼儿运动早教从 1 岁起"完全冲突 — 但 AAP 立场跟皮克勒一致(SRC-002):
+    "0-5 岁不需结构化运动训练,自由玩耍最好"。
+
+    跟布雷泽尔顿 C-S3-033 反学步车 + 鼓励自由玩耍立场同源(本卷 + 美国主流支持皮克勒)。
+
+  what_to_do:
+    - 不报婴儿 / 幼儿运动早教课
+    - 不在家"练"宝宝跳 / 跑(自然练)
+    - 给户外时间 — 公园草地 / 沙地 / 矮台
+    - 让孩子自己决定运动节奏
+    - 大人陪伴不参与 — 自己玩自己的(看本书)
+
+  failure_mode: |
+    "邻居娃 2 岁就报感统训练课" → 皮克勒立场:无需,
+    可能反而干扰自然发展。"感统失调"很多是被诊断出来的 — 真实统计 < 5%,大多正常发展。
+
+  evidence_level: B
+
+  positions:
+    issue: 大动作发展该不该训练 · 学步车 / Bumbo / 撑坐 / 训练表是否有用
+    views:
+      - school: Pikler
+        source: SRC-026
+        stance: 完全反对训练 — 自然顺序 + 安全空间 + 时间 = 大动作全部自动发生;严反一切撑物(学步车 / Bumbo / 跳跳器 / 婴儿座椅)。
+      - school: Magda Gerber / RIE / Lansbury
+        source: SRC-022/019
+        stance: 继承 Pikler 立场 — 里程碑不是赛跑,不撑坐 8 理由,7 类婴儿设备先放下。
+      - school: 蒙氏(Davies/Lillard)
+        source: SRC-014/016
+        stance: 立场一致 — floor bed + 自由动作空间 + 反早期撑坐。
+      - school: AAP
+        source: SRC-002
+        stance: 反学步车(Policy Statement + 数百起伤亡报道);加拿大 2004 立法全球首例禁售。
+      - school: Brazelton
+        source: SRC-010
+        stance: 反学步车,跟 Pikler 立场一致;主张孩子自然探索大动作。
+      - school: 松田道雄
+        source: SRC-024
+        stance: 温和支持自然 — 不催孩子翻 / 坐 / 爬 / 走的时间表,部分跟 Pikler 共鸣。
+      - school: 鲍秀兰
+        source: SRC-009
+        stance: 支持训练 — 婴儿体操 / 抓握训练 / 撑坐;跟 Pikler 派 8 派立场严重对立。
+      - school: 中国主流
+        stance: '"4 月翻 / 6 月坐 / 9 月爬 / 12 月走" 训练表 + 80% 家庭曾用学步车。跟 Pikler 派全面对立。'
+glossary_refs:
+  - G-PERSON-Pikler
+  - G-TERM-anti-baby-walker
+  - G-TERM-bewegungsentwicklung
+
+citation:
+  book_title_de: "Friedliche Babys – zufriedene Mütter"
+  book_title_zh: "和平的婴儿 — 满足的母亲"
+  authors:
+    - Emmi Pikler
+  publisher_de: HERDER (HERDER / SPEKTRUM Band 4141)
+  year: 1969
+  location: "Ch10 + Ch11 全书反复"
+  source_id: SRC-026
+
+unit_ids: []
+related_cards:
+  - C-S4-839  # Pikler 反所有运动训练(本卷)
+  - C-S3-033  # Brazelton 反学步车
+  - C-S7-403  # Gerber RIE 哲学不止 2 岁
+  - C-S2-700  # 松田婴儿体操(立场对照)
+  - C-S6-822  # 松田硬塞会变创伤
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_suspect: true
+citation_followup_needed: '回原书 Pikler 1969 Friedliche Babys 反查具体页 — F1 维度 10 已知问题'

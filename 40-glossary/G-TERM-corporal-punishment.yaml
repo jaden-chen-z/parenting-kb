@@ -1,0 +1,22 @@
+glossary_id: G-TERM-corporal-punishment
+type: term
+display_name: "体罚"
+
+one_liner: |
+  Parke + Larzelere meta-analysis:体罚没有任何长期正面效果,反预测攻击/焦虑/反社会。
+
+detail: |
+  Parke + Larzelere meta-analysis:体罚没有任何长期正面效果,反预测攻击/焦虑/反社会。
+
+  来源:Lerner V3《Handbook of Child Psychology Vol 3》(Wiley 2006 第 6 版,Eisenberg 主编)。
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-027
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

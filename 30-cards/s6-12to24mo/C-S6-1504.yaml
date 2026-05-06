@@ -1,0 +1,51 @@
+card_id: C-S6-1504
+stages: ['S6']
+tags: ['relationships', 'lerner_v1', 'magnusson', 'individualization', 'goodness_of_fit']
+
+front:
+  title: "个性化不是标准化"
+  hook: "没有两个娃是一样"
+
+back:
+  why_matters: |
+    Magnusson holistic 视角应用到 1-2 岁 —
+    没有"15 月该会的"标准娃,每个娃是独特模式。
+    Brazelton "个性化" + Chess "goodness of fit" + Magnusson holistic 三者一致:
+    养孩子要 fit 这个孩子,不是把孩子套标准。
+    中国家庭多孩家庭直接经验 — 老大养法不一定适合老二。
+    但很多父母还是用 "标准答案" 框架 — 一本育儿书 + 一个朋友建议 + 一个老师权威 =统一应用。
+    Magnusson 视角:每个孩子的模式不同 — 你要观察 + 实验 + 调整。
+  what_to_do:
+    - "不套'15 月应该 X' 标准"
+    - "观察自家娃当前模式"
+    - "实验不同方法 — 看哪个 fit"
+    - "老大经验不强加老二"
+    - "'个性化养' = Magnusson 视角"
+  failure_mode: |
+    "标准娃" 模板 — 错。Magnusson holistic 视角反对。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Magnusson
+  - G-TERM-holistic-person
+  - G-TERM-goodness-of-fit
+
+related_cards:
+  - C-S0-1519
+  - C-S6-1066
+  - C-S6-1064
+  - C-S6-1064
+
+citation:
+  source_id: SRC-030
+  source_title: "Handbook of Child Psychology Vol 1: Theoretical Models of Human Development"
+  chapter: "Ch 8 Magnusson & Stattin"
+  chapter_offset: 2399248
+  chapter_title: 'Magnusson & Stattin — Holistic Person-Context Interaction'
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_followup_needed: 'SRC-030 用 PDF 字节偏移代页码 — 待加 page_pdf 反查工具'

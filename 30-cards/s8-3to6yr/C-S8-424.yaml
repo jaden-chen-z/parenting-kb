@@ -1,0 +1,72 @@
+card_id: C-S8-424
+stages: [S8]
+tags: [cognitive_science, karmiloff_smith, representational_redescription, lerner_v2]
+
+front:
+  title: 知识会被反复重写
+  hook: 4 层表征重描述
+
+back:
+  why_matters: |
+    Karmiloff-Smith 1992 RR 模型(Lerner V2 Ch14 Keil + Ch16 Gelman)。
+    RR(Representational Redescription)模型 — 知识 4 层重描述:
+    1. **Implicit**(隐性)— 行为正确但不能解释("我会但说不出怎么")
+    2. **Explicit-1**(显性 1)— 程序性可调用("我能拼但只按一个顺序")
+    3. **Explicit-2**(显性 2)— 部分可言语("我能解释步骤")
+    4. **Explicit-3**(显性 3)— 完全意识 + 跨域可用("我可教你")
+    例:平衡积木
+    - 4 岁:能平衡(隐性)
+    - 6 岁:能"中心放"(过度泛化错重 / 轻物体)
+    - 8 岁:能调整(显性 2)
+    - 10 岁:能教(显性 3)
+    意义:
+    - 反"先天模块化" — 知识不是封装的
+    - 4 岁"能"不等于真懂,要 4 层重写才完整
+    - **6 岁出错(过度规则化)是进步信号,不是退步**
+    - Karmiloff-Smith 反 Spelke 核心知识纯先天派跟现库:跟 Carey 概念革命(C-S7-1096)+ Cohen-Cashon vs Spelke(C-S3-1141)对接。
+    Lerner V2 综述给 RR 模型。
+    对中国家长意义:
+    - 6 岁孩子拼图突然"忘了" — 是过度规则化(进步)
+    - 不要见错就慌 — 重描述过程
+    - 4 岁能拼≠真懂结构 — 6-10 岁逐步意识化
+    - 鼓励解释("你怎么做的") — 促重描述
+  what_to_do:
+    - 4-6 岁让孩子做(不必解释)
+    - 6-8 岁问"怎么做的"
+    - 8-10 岁问"能教别人吗"
+    - 看到"过度规则错"是发育阶段
+  failure_mode: |
+    "4 岁能做就是真懂" — 错。是隐性表征。
+    "6 岁出错 = 退步" — 错。是显性化进步。
+    "急让孩子解释 4 岁做的" — 不必。隐性 OK。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Spelke
+  - G-TERM-baby-scientist
+  - G-PERSON-Karmiloff-Smith
+  - G-TERM-representational-redescription
+  - G-PERSON-Keil
+  - G-TERM-conceptual-revolution
+  - G-PERSON-Carey
+  - G-TERM-core-knowledge
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 2 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 2 卷"
+  authors: ["Frank Keil", "Susan A. Gelman"]
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 14/16 · Karmiloff-Smith RR · pp. 622-625, 700"
+  source_id: SRC-028
+
+unit_ids: []
+related_cards:
+  - C-S7-1096     # Carey 概念革命
+  - C-S3-1141     # Cohen-Cashon vs Spelke
+  - C-S8-421       # 朴素生物学
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

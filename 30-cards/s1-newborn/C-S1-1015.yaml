@@ -1,0 +1,62 @@
+card_id: C-S1-1015
+stages: [S1]
+tags: []
+
+front:
+  title: "Lancet 82 万生命"
+  hook: "82 万生命硬数据"
+
+back:
+  why_matters: |
+    《柳叶刀》(Lancet) 2016 母乳喂养系列(Cesar Victora 主编)— 母乳证据集大成。
+
+    核心数字白话翻译:
+    > 中低收入国家母乳喂养率提高到接近全民水平,
+    > 每年可以避免约 **82 万** 5 岁以下儿童死亡。
+
+    其他关键发现:
+    - 母乳娃智商高约 3 点(Horta 2015 元分析,中低收入国家更明显)
+    - 母乳妈妈乳腺癌降 6%(每 12 月哺乳)
+    - 卵巢癌 / 2 型糖尿病 / 心血管 / 类风湿全降
+    - 全球纯母乳普及节省 3000 亿美元 / 年医疗成本
+
+    《柳叶刀》2016 跟 WHO 立场互相支撑 — 学术综述 + 政策共识双背书。
+  what_to_do:
+    - "记 82 万婴儿生命 / 年 — 母乳的硬数字"
+    - "母乳娃智商高 3 点(中低收入国家更明显)"
+    - "妈妈乳腺癌每 12 月哺乳降 6%"
+    - "全球纯母乳普及节省 3000 亿美元医疗"
+    - "母乳是公共卫生议题,不是个人偏好"
+  failure_mode: |
+    把母乳当"我自己的事" → 错过这是国际公共卫生关键的认识。
+    《柳叶刀》数字给你坚持的硬证据。
+  evidence_level: A
+
+glossary_refs:
+  - G-TERM-Lancet-breastfeeding-series
+  - G-PERSON-Victora
+  - G-PERSON-Horta
+
+citation:
+  page_title: "Lancet 2016 Breastfeeding Series"
+  publisher: "World Health Organization & UNICEF"
+  page_url_primary: https://en.wikipedia.org/wiki/Breastfeeding
+  accessed: 2026-05-04
+  language: en
+  location: "Lancet 2016 + Horta 2015 IQ + Victora 主编 + 母亲健康益处"
+  source_id: SRC-031
+
+unit_ids: []
+related_cards:
+  - C-S0-1027
+  - C-S1-1014
+  - C-S0-1024
+  - C-S1-050
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_doc_id_pending: D10
+citation_followup_needed: '已映射真实 doc_id (D10 = Lancet Breastfeeding Series 2016)'

@@ -1,0 +1,90 @@
+glossary_id: G-TERM-no-propping
+type: term
+display_name: 不撑坐
+
+full_name_de: Kein Aufsitzen / Nicht Setzen
+full_name_zh: 不撑坐立场
+full_name_en: No Propping (Sitting Babies Up)
+
+one_liner: |
+  Pikler 派核心立场 — 婴儿没自己学会坐前,不要"被撑成坐姿"
+  (用 Bumbo / 婴儿座椅 / 沙发 / 大腿)。Pikler 1969 6 论证 +
+  Lansbury 2014 整合 8 理由,RIE / 蒙氏 0-3 / AAP 共同立场。
+
+detail: |
+  ## 立场源头
+  - **Pikler 1969**(SRC-026)Ch2 Sitzen 段 — 6 论证德文原版
+  - **Lansbury 2014**(SRC-019)Ch7 — 整合扩到 8 理由(英文)
+  - **C-S2-290** 知识卡:Lansbury 8 理由清单
+
+  ## Pikler 1969 6 论证(本卷源头)
+  1. **解剖错位**:撑坐让重心落在 Kreuzbeingegend(骶骨)而非
+     坐骨,身体被迫前弯防止后倒
+  2. **不省力**:健康自学坐姿是 ökonomisch(经济),撑坐 anstrengend(费力)
+  3. **被困**:撑坐婴儿无法转身 / 不能动腿 / 玩具掉了够不到
+  4. **跳过过渡**:坐之前必经"跪 / 半坐 / 单脚跨"姿势探索
+  5. **打断爬**:撑坐养成习惯,孩子不愿趴爬
+  6. **自我效能损失**:被动经历不让宝宝建立"我能"感
+
+  ## Lansbury 2014 8 理由(英文整合版)
+  1. Sitting baby 撑姿 / 自然学坐两种,差别巨大
+  2. 撑坐限制翻 / 转 / 爬 / 蠕动
+  3. 一旦撑坐成习惯,宝宝以后只想这样
+  4. 拖延或跳过翻 / 爬等里程碑
+  5. 阻碍自主玩(撑坐玩不久)
+  6. 损害脊椎曲线 + 髋关节灵活性
+  7. 跳过过渡姿势(侧躺 → 坐)
+  8. 急什么?宝宝自己会的时候最稳
+
+  ## 反对清单(具体设备)
+  - **Bumbo seat**(1990s 南非起源,1-12 月撑坐神器)
+  - **婴儿座椅 / 摇椅**(类似 Bumbo)
+  - **沙发摆姿势**(枕头围着让"坐")
+  - **大腿上"坐"**(脊椎承重)
+  - **抱起来"看世界"**(竖抱玩 > 5 分钟)
+
+  ## 跟主流立场关系
+  - **AAP**(SRC-002):未明确反 Bumbo 但反学步车 / 跳跳器
+  - **Brazelton**(SRC-010):反学步车,跟 Pikler 一致
+  - **鲍秀兰**(SRC-009):支持婴儿体操 + 部分撑坐 — 跟 Pikler 对立
+  - **中国奶奶**:扶他练练 — 严反
+
+  ## 鉴别(自坐 vs 撑坐)
+  - 自然学坐(Pikler ökonomisch):
+    直立 + 坐骨承重 + 不累 + 自由换姿势
+  - 撑坐姿:
+    弯背 + 紧绷 + 累 + 一动不动 + 不能自己躺
+
+key_facts:
+  - Pikler 1969 6 论证德文原版
+  - Lansbury 2014 8 理由整合
+  - RIE / 蒙氏 0-3 / AAP / Brazelton 共同立场
+  - Bumbo 是典型反对设备
+  - 鉴别看孩子是不是"累"
+
+related_glossary:
+  - G-PERSON-Pikler
+  - G-PERSON-Gerber
+  - G-PERSON-Lansbury
+  - G-TERM-bewegungsentwicklung
+  - G-TERM-pikler-milestones
+  - G-TERM-anti-baby-walker
+
+related_cards:
+  - C-S2-290  # Lansbury 不撑坐 8 理由
+  - C-S2-832  # Pikler 1-3 月不在大腿上坐
+  - C-S4-834  # Pikler 反撑坐 6 论证(本卷)
+  - C-S4-835  # Pikler "永不强迫坐"
+  - C-S4-836  # 自坐 vs 撑坐怎么分
+  - C-S5-933  # Pikler 不教站
+  - C-S4-840  # Pikler 不抱手让走
+
+sources:
+  - source_id: SRC-026  # Pikler 1969(本卷源头)
+  - source_id: SRC-019  # Lansbury 整合 8 理由
+  - external: Pikler Institute / RIE / pikler.org
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

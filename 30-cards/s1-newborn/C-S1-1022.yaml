@@ -1,0 +1,53 @@
+card_id: C-S1-1022
+stages: [S1]
+tags: []
+
+front:
+  title: "BFHI 中国历史成"
+  hook: "94 年 EBF 翻倍记"
+
+back:
+  why_matters: |
+    中国 BFHI 1992 启动后 — 1992-1994 农村 EBF 率从 29% 跃升到 68%(2 年内翻倍多)— 国际公认成功案例(WHO 数据)。
+    原因:政府强力推 + 6,000+ 爱婴医院认证 + 妇幼系统配合。
+    之后:21 世纪起 BFHI 实操参差(纸面 BFHI)+ 奶粉营销加强 → 中国 EBF 率回落到 30-40%(估计)。
+    教训:政策推得起来,松了就退 — 中国家长可以参考 1990s 早期模式。
+    对照:瑞典 1997 全国 65 中心认证 + 北欧普遍 ≥ 2 岁母乳;美国 2018 仅 24.57% 医院认证。
+  what_to_do:
+    - "知道中国 1992-1994 EBF 翻倍的成功"
+    - "现在 EBF 率回落 — 系统问题非妈妈个人"
+    - "选 1990s 早期 BFHI 标准的产院"
+    - "瑞典 / 北欧普遍 ≥ 2 岁 — 国际不是'你太久'"
+    - "找妇幼保健所支持 — 是 BFHI 历史遗产"
+  failure_mode: |
+    把 EBF 失败归因 '妈妈不够努力' → 是系统问题(BFHI 实操松+营销加强)。
+    中国 1992-1994 证明做得到。
+  evidence_level: B
+
+glossary_refs:
+  - G-ABBR-BFHI
+  - G-ABBR-EBF
+
+citation:
+  page_title: "BFHI Implementation — China 1992-1994 Success"
+  publisher: "World Health Organization & UNICEF"
+  page_url_primary: https://en.wikipedia.org/wiki/Baby_Friendly_Hospital_Initiative
+  accessed: 2026-05-04
+  language: en
+  location: "中国 1992-1994 农村 EBF 29→68% + WHO 公认成功案例"
+  source_id: SRC-031
+
+unit_ids: []
+related_cards:
+  - C-S0-1027
+  - C-S1-1016
+  - C-S0-1025
+  - C-S1-050
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_doc_id_pending: D3
+citation_followup_needed: '已映射真实 doc_id (D3 = International Code of Marketing 1981)'

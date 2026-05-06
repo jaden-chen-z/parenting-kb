@@ -1,0 +1,59 @@
+card_id: C-S2-187
+stages: [S2]
+tags: [montessori, environment, philosophy]
+
+front:
+  title: 旋转 ≠ 换新
+  hook: 同物 2 周再现
+
+back:
+  why_matters: |
+    Lillard Ch3/Ch4 关键原则 — **应付宝宝玩具'习惯化'(habituation)的方法是旋转(rotation),不是换新(substitution)**:
+    - 习惯化 = 宝宝对一个物品熟到不感兴趣
+    - 现代家长反应:买新玩具
+    - 蒙氏:把这件物品收起来,2 周后再出来为什么旋转更好:
+    - 宝宝长大几周后,**同一物品大脑能"看到"新东西**(因为脑发育了)
+    - 旋转让宝宝重复深度学
+    - 不需要不停买新东西(反消费主义)
+    - 宝宝学会"东西会回来" — 早期的对象永久性 + 信任建立实操方式:
+    - 每个区只放 5-6 件物品
+    - 看宝宝对某件失去兴趣 → 收起来(放储物柜)
+    - 2-4 周后再拿出 → 宝宝当成"新东西"重新探索
+    - 同时把另一件收起来跟"玩具越多越好" / "经常买新玩具讨宝宝开心"**对立**。
+  what_to_do:
+    - 每个区只放 5-6 件物品
+    - 失去兴趣的物品收起来(不是扔)
+    - 2-4 周后重新拿出
+    - 不一次买太多新玩具
+    - 用储物柜 / 高柜存"轮换库"
+  failure_mode: |
+    "宝宝玩腻了,得买新的" — 反:同一件物品 2 周后再现,宝宝当新的探索。
+    家里玩具堆山 → 宝宝实际只能专注少数 → 大脑过载。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Lillard
+  - G-PERSON-Jessen
+  - G-TERM-prepared-environment
+  - G-TERM-absorbent-mind
+
+citation:
+  book_title_zh: "蒙台梭利从 0 岁开始"
+  book_title_en: "Montessori from the Start"
+  authors: ["Paula Polk Lillard", "Lynn Lillard Jessen"]
+  authors_zh: ["宝拉·波尔克·莉拉德", "琳·莉拉德·杰森"]
+  publisher_en: "Schocken Books"
+  year_en: 2003
+  isbn_en: "978-0-8052-1112-1"
+  location: "Ch 3 + Ch 4 (rotation vs substitution)"
+  source_id: SRC-016
+
+unit_ids: []
+related_cards:
+  - C-S0-009       # Davies 蒙氏起步装清单
+  - C-S1-250       # 反"刺激"潮流
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

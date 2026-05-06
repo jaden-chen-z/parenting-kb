@@ -1,0 +1,58 @@
+card_id: C-S8-106
+stages: [S8]
+tags: [social, peer_play, japan, matsuda, anti-isolation]
+
+front:
+  title: "3 岁玩不来 4 岁会好"
+  hook: "妈先牵线再放手"
+
+back:
+  why_matters: |
+    松田 §423 给"独生子女 3 岁不会跟同龄玩"妈妈具体处方:
+    1. 在家养的 3 岁娃 — 邻居娃来玩就抢玩具是正常;
+    2. 不知道借玩具 / 人家拿就要回;
+    3. 4 岁左右就能跟朋友玩 — **现在不用强迫**;
+    4. **妈妈先参与掌握尺度**(头几次);
+    5. **请小朋友来家 + 让娃去小朋友家** 双向;
+    6. 跟邻居母亲约定: 互相宽容 + 接受吵架;
+    7. 父母关系搞好 → 周末两家郊游 → 孩子自然玩到一起;
+    8. **绝对禁止**:让娃加入小学女孩"过家家"被当宠物。
+    跟 Brazelton "兄弟竞争别站队" + Lansbury "不强迫 sharing" 立场一致。
+
+  what_to_do:
+    - 3 岁不会玩不强迫
+    - 妈妈先陪头几次
+    - 请来家 + 去人家双向
+    - 跟邻居妈互相宽容打架
+    - 周末两家郊游让孩子自然认识
+
+  failure_mode: |
+    "我家娃太自私" 焦虑 → 强迫"分享" → 孩子哭 + 邻居不舒服。
+    "他不会玩是有问题" → 早早送托想"治"。
+    "邻居家孩子粗暴别玩" → 隔离 → 4 岁也不会玩 → 长期孤独 → 顶撞母亲。
+    替代:接受 3-4 岁是个学习期,松田明确说"4 岁左右就能玩到一起"。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Matsuda
+
+citation:
+  book_title_zh: "定本育儿百科"
+  authors:
+    - 松田道雄
+  publisher_ja: 岩波书店
+  year_first_edition: 1967
+  location: "§423 同小朋友玩不来"
+  source_id: SRC-024
+
+unit_ids: []
+related_cards:
+  - C-S6-006  # 鲍秀兰 16-18 月跟小伙伴玩
+  - C-S7-023  # Brazelton 二胎吵架你别站队
+  - C-S8-102  # 松田 独生子先送 3 年制(同源)
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

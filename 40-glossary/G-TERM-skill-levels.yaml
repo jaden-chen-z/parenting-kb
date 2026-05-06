@@ -1,0 +1,27 @@
+glossary_id: G-TERM-skill-levels
+type: term
+display_name: "技能层级 / skill levels"
+
+name_en: "skill levels"
+name_zh: "技能层级"
+
+description: |
+  Fischer 13 层级模型 — 比 Piaget 4 阶段细致 10 倍,每 4-6 月一次重组。
+
+one_liner: |
+  技能层级(skill levels)— Fischer 13 层级模型 — 比 Piaget 4 阶段细致 10 倍,每 4-6 月一次重组。
+
+key_facts:
+  - "Lerner V1 元理论卷核心术语"
+  - "学派:Lerner V1 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

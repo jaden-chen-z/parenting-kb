@@ -1,0 +1,65 @@
+card_id: C-S1-182
+stages: [S1]
+tags: [development_burst, philosophy, controversy]
+
+front:
+  title: 大脑跃迁 ≠ 身体长高
+  hook: 神经长 vs 细胞长
+
+back:
+  why_matters: |
+    凡德里特第 1 章框架专门强调:**心智跃迁和身体猛长期是两件事**(白话翻译):
+    > 这十次发育跃迁……跟身体猛长期不一定同步,
+    > 虽然偶尔会重合。
+
+    家长常把所有烦躁都归罪猛长期(长身体),漏掉跃迁视角。
+
+    两者区别:
+    - **猛长期**:身体细胞增多,2-7 天突然长高 / 体重增 / 头围大
+    - **心智跃迁**:大脑神经元重新连接,持续几天-6 周,带来新感知能力
+    - **重叠**:两者偶尔同时发生(如 4 月猛长期 + 跃迁 19)→ 双重烦躁
+
+    家长意义:**烦躁时先看时间窗对哪个**:
+    - 短(2-7 天)+ 食量大增 + 困 = 猛长期
+    - 长(几天-6 周)+ 三 C 信号 + 黏 = 心智跃迁
+    - 两者重合 = 特别难带,撑过双重期
+  what_to_do:
+    - 短烦躁 + 食量大增 → 长身体(加奶 + 加休息)
+    - 长烦躁 + 三 C 信号 → 跃迁(看 10 跃迁日历)
+    - 两者重合期 → 多陪 + 不强训 + 找替手
+    - 别把所有烦躁都归"长身体" — 漏跃迁应对窗
+    - 别把所有烦躁都归"跃迁" — 漏长身体的奶量需求
+  failure_mode: |
+    "宝宝突然吃多 + 闹 = 长身体" → 错过跃迁后的新能力刺激窗。
+    "宝宝突然黏闹 = 跃迁" → 漏掉猛长期短期需要更多奶。
+    把 4 月 / 9 月 / 12 月双重期(猛长 + 跃迁)误判为"病"。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-vanderijt
+  - G-TERM-wonder-week
+  - G-TERM-mental-leap
+  - G-TERM-growth-spurt
+  - G-TERM-fussy-phase
+
+citation:
+  book_title_zh: "婴儿大脑跃迁 10 周(神奇周)"
+  book_title_en: "The Wonder Weeks"
+  authors: ["Hetty van de Rijt", "Frans X. Plooij"]
+  authors_zh: ["海蒂·凡德里特", "弗朗斯·普洛伊"]
+  publisher_en: "Kiddy World Publishing"
+  year_en_first: 1992
+  isbn_en: "978-90-79208-12-1"
+  location: "Chapter 1 · The fussy Signs that Signal a Magical Leap Forward(These ten developmental leaps that infants undergo are not necessarily in sync with physical growth spurts, although they may occasionally coincide)"
+  source_id: SRC-013
+
+unit_ids: []
+related_cards:
+  - C-S1-178       # 三 C 信号
+  - C-S1-179       # 10 跃迁时间表
+  - C-S1-181       # WW5 第一跃迁
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

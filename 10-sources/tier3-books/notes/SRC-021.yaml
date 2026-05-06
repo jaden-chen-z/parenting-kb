@@ -1,0 +1,234 @@
+source_id: SRC-021
+type: tier3-book
+tier: tier3
+
+title_en: "Your Self-Confident Baby: How to Encourage Your Child's Natural Abilities — From the Very Start"
+title_zh: "自信的宝宝:如何鼓励孩子天生的能力 — 从最初开始"
+
+authors:
+  - Magda Gerber
+  - Allison Johnson
+
+publisher_en: John Wiley & Sons, Inc.
+year: 1998
+isbn_en: "978-0-471-23104-0"
+
+language_original: en
+language_acquired: en
+
+format: pdf_to_md
+file_path: "10-sources/tier3-books/raw_pdfs/gerber_self_confident_baby.md"
+file_size_chars: 487986
+
+# 流派 + 范围
+school: RIE (Resources for Infant Educarers)
+sub_school: 尊重型育儿 / Respectful Parenting / Educaring
+age_coverage: 0-24 月(部分延伸至 36 月,Ch8 标题为"RIE Doesn't End at Two")
+
+# 跟现库的关系
+related_sources:
+  - SRC-019  # Lansbury Elevating Child Care(本卷的姐妹篇,推广 Magda 哲学)
+  - SRC-014  # Davies Montessori Baby(yes space 共享术语,蒙氏借自 Magda)
+  - SRC-016  # Lillard Montessori from the Start(蒙氏 0-3 平行)
+  - SRC-011  # Bowlby V1(基本信任 ↔ 安全依恋)
+  - SRC-018  # Stern(婴儿心智 / quality time)
+
+# 跟 Lansbury 的关系(本卷核心定位:创始人 ↔ 推广人)
+relationship_to_lansbury:
+  framing: 创始人 ↔ 推广人 / 1998 原典 ↔ 2014 博客合集
+  shared_60_percent:
+    - yes space(Magda 命名)
+    - 真物 / 真声(authentic voice)
+    - Tell child what's happening before doing(预告哲学)
+    - 哭是语言(crying as language)— Lansbury 直接引 Magda
+    - 不撑坐 / 不学步车(Pikler-Magda 大动作派)
+    - 自主玩(uninterrupted play)
+    - Wait — magic word(Magda 哲学,Lansbury 系统化为 12 用法)
+    - 承认情绪(acknowledge feelings)
+    - 限度温柔(set limits with respect)
+    - 反 Time-out / 反惩罚 / 反羞辱
+  gerber_unique_40_percent:
+    - 7 大基本原则原版(Ch1)— Lansbury 扩展为 10
+    - "Wants something" vs "Wants nothing" Quality Time 区分(Ch3)— Magda 独家
+    - "Time of giants" 类比(Ch3)— 站在宝宝视角想象
+    - 7 类设备反对清单(slings/swings/walkers/bouncers/pacifiers/baby talk/playpen)— Magda 系统反对
+    - "Zombied out" 概念 — Magda 命名
+    - 6000 次尿布数字(Ch3 Quality Time)
+    - "Tell me / Show me / Involve me" 印第安格言(Magda 经典引)
+    - 8 条好父母品质矛盾对子(Ch4)— Secure but not rigid 等
+    - Doula 概念(Ch4)
+    - DIP / Selective Intervention 命名(Ch2,1972 美国 Children's Health Council 起源)
+    - Pikler/Loczy 第一手 Magda 视角(Ch2 1945 孤儿院故事)
+    - Beverly 6 月木板姿哭闹案例(Ch2)— Magda 经典
+    - Try a Table and a Chair(Ch7)— Magda 替高脚椅哲学(小桌小凳)
+    - RIE Class Snack — banana 仪式(Ch7)— Magda 班级实操
+    - "Tantrums: The Antaeus Story"(Ch8)— Magda 独家希腊神话比喻 ⭐
+    - Red/Yellow/Green Light 限度系统(Ch8)— Magda 独家命名 ⭐
+    - "Cause/Consequence" 自然后果哲学(Ch8)— Magda 命名
+    - Lasting Discipline Comes from Within(Ch8)— Freud id/ego/superego 框架
+    - "RIE Doesn't End at Two"(Ch8 终章)— 延续哲学
+    - "You Don't Have to Be Perfect"(Ch8)— Hungarian saying "babies chose you"
+    - Magda 第一人称口吻(Lansbury 是间接转述)+ 1998 视角
+
+# 跟 Pikler 的师承关系
+relationship_to_pikler:
+  framing: 学生 ↔ 老师(1956 Magda 移民美国,把 Pikler 哲学带到美国)
+  pikler_legacy_in_gerber:
+    - "Hands constitute the infant's first connection"(Pikler 引,Magda Ch3)
+    - 自然大动作发展(Pikler 派核心,Magda 全本贯彻)
+    - 不撑坐 / 不学步车 / 不强教(Pikler-Magda 一致)
+    - 1945 Loczy 实验(Magda 助 Pikler 训练 infant nurses)
+    - "Practice makes the master"(德语谚语,Magda 引 Pikler)
+  references_pikler_45_times: true
+  pikler_books_cited:
+    - "Peaceful Babies — Contented Mothers"(Friedliche Babys, 1940)
+
+# 8 章结构(传统书籍式,vs Lansbury 30 章博客)
+chapter_map:
+  ch1: { offset: 24385, chars: 15597, title: "Respect: The Key to Raising a Self-Confident Baby" }
+  ch2: { offset: 39982, chars: 16458, title: "The Birth of RIE(Pikler/Loczy 1945 + DIP 1972)" }
+  ch3: { offset: 56440, chars: 64881, title: "Your Newborn Baby(S1 0-1 月,巨大段)" }
+  ch4: { offset: 121321, chars: 23101, title: "Newborn Parents(S0 准父母心态)" }
+  ch5: { offset: 144422, chars: 91818, title: "The First Months(S2-S4 1-9 月,巨大段)" }
+  ch6: { offset: 236240, chars: 33622, title: "Selecting the Right Child Care" }
+  ch7: { offset: 269862, chars: 77331, title: "Your Baby Becomes Mobile(S5 9-12 月)" }
+  ch8: { offset: 347193, chars: 140793, title: "Your Budding Toddler(S6/S7 12-36 月,最大段)" }
+  total_chars: 487986
+
+# Magda 7 大基本原则(Ch1 原版,vs Lansbury 扩展 10)
+gerber_7_basic_principles:
+  - 1. Basic trust(基本信任 — 信任宝宝是 initiator/explorer/self-learner)
+  - 2. Environment(环境:身体安全 + 认知挑战 + 情绪滋养 三位一体)
+  - 3. Time for uninterrupted play(自主玩耍时间)
+  - 4. Freedom to explore + interact with other infants(自由探索 + 同伴互动)
+  - 5. Active participant in caregiving(护理时主动参与,不是被动接受)
+  - 6. Sensitive observation(细致观察)
+  - 7. Consistency + clearly defined limits(一致性 + 清晰限度)
+lansbury_extended_3_principles:
+  - 8. Confident leaders + clear boundaries
+  - 9. Allow problem solve(让孩子自己解决)
+  - 10. Modeling(模范)
+
+# Magda 8 条好父母品质矛盾对子(Ch4 §The Qualities of a Good Parent)
+gerber_8_parent_qualities:
+  - 1. Feel secure but don't become rigid(安心但不僵硬)
+  - 2. Be accepting but set limits(接纳但设限)
+  - 3. Be available but not intrusive(在但不侵入)
+  - 4. Be patient but be true to yourself(耐心但忠于自己)
+  - 5. Be realistic but consistent(实际但一致)
+  - 6. Have wisdom to resist new fads(智慧抗潮流)
+  - 7. Balance quality time for child + self(平衡)
+  - 8. Self-respect = equal respect for child(自尊 = 同等尊重)
+
+# verbatim 关键引言(中英对照)
+verbatim_key_quotes:
+  - en: "If you treat your child respectfully from birth, he may have a better chance of gaining confidence and developing good judgment. This plants the seeds of lifelong security."
+    zh: "从出生起你尊重孩子,他更可能长出信心和判断力。这是终生安全感的种子。"
+    author: Magda Gerber (Introduction)
+  - en: "Hands constitute the infant's first connection to the world. The hands are the person, the world."
+    zh: "手是婴儿跟世界的第一道连接。手就是人,就是世界。"
+    author: Emmi Pikler (via Gerber Ch3)
+  - en: "Tell me and I'll forget. Show me and I'll probably not remember. Involve me and I'll understand."
+    zh: "告诉我,我会忘。给我看,我可能不记得。让我参与,我才懂。"
+    author: Native American (via Gerber Ch3 Quality Time)
+  - en: "Every time we teach a child something, we keep him from inventing it himself."
+    zh: "每次我们教孩子一件事,就剥夺了他自己发现的机会。"
+    author: Jean Piaget (via Gerber Ch2 DIP)
+  - en: "Wait."
+    zh: "等。"
+    author: Magda Gerber (Ch4 §Take Your Time — "我那个有名的四字诀")
+  - en: "Lack of discipline is not kindness, it is neglect."
+    zh: "没有限度不是仁慈,是失职。"
+    author: Magda Gerber (Ch8)
+  - en: "Time out of what — time out of life?"
+    zh: "Time out 出什么 — 出生命吗?"
+    author: Magda Gerber (Ch8)
+  - en: "I want these two people to be my parents."
+    zh: "(匈牙利谚语)宝宝出生前从云上往下看,说:我想要这两个人当我的父母。"
+    author: Hungarian saying (via Gerber Ch8 §You Don't Have to Be Perfect)
+
+# 跨派对照(立场不同处)
+position_contrasts:
+  vs_attachment_parenting_sears:
+    - Magda 反 Sears 派"几乎全程抱"
+    - Magda 立场:婴儿不是 helpless,需要"独立空间"(Geralynn 3 周起放 playpen 独玩 30 分钟)
+  vs_distraction_school:
+    - Magda 反"哄停 / 转移"派
+    - Magda 立场:哭是语言,Don't say "Don't cry" 也不要分散
+  vs_sleep_training_extremes:
+    - Magda 反 CIO(放任哭),也反"训练睡"标签
+    - Magda 立场:帮孩子形成 sleeping habit(渐进 + 在场最少介入)
+  vs_chinese_traditional:
+    - 中国"宝宝小不懂事" → Magda 反:出生起当人对待,真声音不娃娃语
+    - 中国"硬塞最后一口" → Magda 反:小份 + 信宝宝 + 不强迫
+    - 中国"哭就抱+转移" → Magda 反:Listen,不"分散"
+    - 中国"高脚椅看世界" → Magda 反:小桌小凳,小人视角
+    - 中国"打了就长记性" → Magda 反:打孩子学到打人是 OK 的
+    - 中国"如厕训练 3 天速成" → Magda 反:Trust + Wait,98% 4 岁前学会
+  vs_baby_industry:
+    - Magda 反 swings/walkers/bouncers/pacifiers/baby slings/baby videos
+    - Magda 立场:7 类设备让宝宝"zombied out",剥夺自主动作
+
+# 评级标尺(本书)
+evidence_level_calibration:
+  A: Magda 跟 Tier 1 共识对齐(跟蒙氏 + Bowlby + AAP + Pikler 临床一致)
+  B: Magda 引用 RIE 60+ 年观察 + Pikler 1945 Loczy + DIP 1972 Palo Alto + 千+ 班级 + 自家案例
+  C: Magda 个人推断(罕见)
+  expected_distribution: A=15-18 / B=10-13 / C=0-2
+
+# 现有库的术语 / 卡片复用(60% 重叠不重建)
+reuse_existing_glossary:
+  - G-PERSON-Gerber          # 本卷主作者(SRC-019 已建,加深 detail)
+  - G-PERSON-Pikler          # Magda 师承(SRC-019 已建,本卷 45+ 处引)
+  - G-PERSON-Lansbury        # 学生(SRC-019 已建)
+  - G-TERM-RIE               # SRC-019 已建,本卷加深 8/10 原则对照
+  - G-TERM-yes-space         # SRC-014 已建,本卷确认是 Magda 命名
+  - G-TERM-sportscasting     # SRC-019 已建(Magda 命名,Lansbury 系统化)
+  - G-TERM-acknowledging-feelings  # SRC-019 已建
+  - G-TERM-magic-word-wait   # SRC-019 已建
+  - G-TERM-passive-toys      # SRC-019 已建
+  - G-TERM-respectful-parenting  # SRC-019 已建
+  - G-TERM-floor-bed         # SRC-014/016 已建,Pikler 起源
+
+# 本次新建术语
+new_glossary_to_create:
+  - G-PERSON-Johnson           # Allison Johnson 合著者
+  - G-TERM-educaring           # ⭐ Magda 自创词(educator + caregiver)
+  - G-TERM-tantrum-antaeus     # ⭐ Magda 希腊神话比喻
+  - G-TERM-red-yellow-green-light  # ⭐ Magda 限度系统
+  - G-TERM-wants-something-quality-time  # ⭐ Magda QT 二分
+  - G-TERM-cause-consequence   # Magda 自然后果命名
+  - G-TERM-selective-intervention  # Magda DIP 命名
+
+# Phase 8 并行第二本任务范围(实际)
+phase8_book2_target:
+  knowledge_cards: 25-32  # 实际预计 28-30 张
+  glossary_cards: 5-7      # 实际预计 7 张
+  segments_covered: S0-S7 全
+  emphasis: S6 (12-24 月) — Ch8 最大段(Tantrum/Discipline/No/Toilet/Limits)+ S1 Ch3 巨大段
+  id_strategy: "+200 buffer 起点(避撞 Shonkoff Phase 8 第一本 +50 buffer)"
+
+# 本次特别约定(并行 Shonkoff session)
+special_notes:
+  - Shonkoff(SRC-020)在另一 session 跑,本卷 SRC-021 严格 ID 隔离 +200 buffer
+  - 索引文件全部 Edit 单点改不全文 Write(避覆盖 Shonkoff session 更新)
+  - Lansbury(SRC-019)跟本卷重叠 60%,只建 Magda 独家 40%
+  - 每张卡至少 1 张 Lansbury related(创始人 ↔ 推广人对照,本卷核心价值)
+  - Lansbury Ch7 不撑坐 8 理由 = Magda Ch3+Ch7 反 7 设备(同根)
+  - Magda 1998 视角 vs Lansbury 2014 视角:1998 还有部分立场略温和(如 "Time-out 我不喜欢" vs Lansbury 直接"反对")
+
+# 段映射(实测产出)
+segment_mapping:
+  s0: { months: pregnancy, focus: "8 父母品质 + Doula + 头三月慢", target_cards: 2 }
+  s1: { months: 0-1, focus: "Wants smt/nothing QT + 哭是语言 + Tell first + 7 设备反对 + Spoiled 4 真因", target_cards: 5 }
+  s2: { months: 1-3, focus: "7 大原则原版 + Selective Intervention + Make life easier + Modeling", target_cards: 4 }
+  s3: { months: 3-6, focus: "6000 次尿布 + Caring Time 框架 + Try a Table & Chair", target_cards: 3 }
+  s4: { months: 6-9, focus: "RIE Snack banana 仪式 + Pikler 自然大动作 + 不教等准备", target_cards: 3 }
+  s5: { months: 9-12, focus: "Sep Anxiety 健康 + Weaning child-led + Stranger anxiety", target_cards: 3 }
+  s6: { months: 12-24, focus: "Antaeus Tantrum + Red/Yellow/Green + Cause/Consequence + No 是分离 + Demanding Baby", target_cards: 7 }
+  s7: { months: 24-36, focus: "Toilet 不训练 + Sibling 不当法官 + 不必完美 + RIE Doesn't End", target_cards: 3 }
+
+language: zh
+status: completed
+created: 2026-05-03
+updated: 2026-05-03

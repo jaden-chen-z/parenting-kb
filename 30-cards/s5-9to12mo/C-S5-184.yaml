@@ -1,0 +1,60 @@
+card_id: C-S5-184
+stages: [S5]
+tags: [montessori, will, public-safety, controversy]
+
+front:
+  title: 14 月起公共场所手牵手
+  hook: 安全 + 限度训练
+
+back:
+  why_matters: |
+    Lillard Ch5 末关键习惯 — **14 月会走稳后,公共场所必须 hand-holding(手牵手)**:
+    - 不抱(剥夺自己走)
+    - 不让自由跑(危险 + 限度概念)
+    - 大人手牢握宝宝一只手,宝宝必须跟着走
+    Lillard 立场:**14 月开始要养成**,因为这是宝宝刚找到走路自由,这时建立"在公共场所必须手牵手"反而最容易。
+    14 月没建立的代价:
+    - 2-3 岁宝宝在停车场 / 商场跑掉
+    - 父母焦虑追,公共场所成噩梦
+    - 限度概念建立晚 → 18-36 月意志期更难宝宝刚开始会抗拒(刚找到走路自由),Lillard:**坚持** — 大人保持平和但不松手,2-3 周后就习惯。
+    实操:
+    - 出门前说"我们要手牵手"
+    - 一只手牢牢握(不允许甩)
+    - 宝宝抗议 → 平静坚持
+    - 室内可以放手 → 公共场所必须牵跟"宝宝小让他自由跑" / "不愿牵手就抱起来"**对立** — Lillard:这是限度训练的第一道关。
+  what_to_do:
+    - 14 月起公共场所手牵手
+    - 出门前先说明
+    - 抗议 → 平静坚持别松
+    - 室内自由,公共场所牵
+    - 必要时直接抱起 + 离开
+  failure_mode: |
+    "宝宝不喜欢牵手就抱起来" — 反:抱起来宝宝学到"哭就能不牵手"，14 月没建好 = 2-3 岁地狱。
+    放手让宝宝自由跑 — 停车场出意外的瞬间,后悔不来。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Lillard
+  - G-PERSON-Jessen
+  - G-TERM-self-construction
+
+citation:
+  book_title_zh: "蒙台梭利从 0 岁开始"
+  book_title_en: "Montessori from the Start"
+  authors: ["Paula Polk Lillard", "Lynn Lillard Jessen"]
+  authors_zh: ["宝拉·波尔克·莉拉德", "琳·莉拉德·杰森"]
+  publisher_en: "Schocken Books"
+  year_en: 2003
+  isbn_en: "978-0-8052-1112-1"
+  location: "Ch 5 · 'Crawling to Coordination' (hand-holding habit)"
+  source_id: SRC-016
+
+unit_ids: []
+related_cards:
+  - C-S6-133       # Davies 温柔但清晰边界
+  - C-S6-007       # 鲍秀兰 不打不骂
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

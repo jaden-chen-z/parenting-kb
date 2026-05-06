@@ -1,0 +1,35 @@
+card_id: C-S6-1601
+stages: [S6]
+tags: [sibling, regression]
+front:
+  title: 老大退化是正常的别施压
+  hook: 倒退几个月反而帮他过渡
+back:
+  why_matters: |
+    前情:小宝降生后老大突然退步:原本会用杯子又要奶瓶、原本不尿裤子又开始尿。海蒂强调这是调整期常见反应,不是品行问题。绝对不要责备或惩罚,反而要用耐心理解和额外关注回应。鼓励他说出感受,告诉他"我知道你生气"。同时表扬他做出的大孩子行为,在别人面前夸效果更好。
+  what_to_do:
+    - 退化行为别责备别惩罚
+    - 让他用奶瓶/退回单词句也允许
+    - 表扬他做大孩子的行为
+    - 在外人面前夸他是当哥哥/姐姐
+    - 帮他说出来:"我知道你嫉妒"
+  failure_mode: 责骂老大"都几岁了还这样"加剧退化和敌意,把对小宝的嫉妒延长几个月甚至几年。
+  evidence_level: B
+glossary_refs: []
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors: ["Heidi Murkoff", "Sharon Mazel"]
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh: ["莫夏迪", "张敏"]
+  location: "第 25 章 《二胎》, 页 731-733"
+  source_id: "SRC-040"
+related_cards: [C-S6-1600, C-S6-1604]
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,63 @@
+card_id: C-S6-092
+stages: [S6, S7]
+tags: [philosophy, red_flag, controversy]
+
+front:
+  title: 父母吵架孩子怕分开
+  hook: 不是怕吵是怕散
+
+back:
+  why_matters: |
+    Bowlby Vol 2 引经典原文(弗洛伊德语):**"父母之间争吵以及父母婚姻不幸福会导致孩子的性发展障碍或神经性疾病"**。
+    Bowlby 在第十五章扩展:孩子在父母吵架时真正怕的不是吵的内容,而是**"他们会不会分开"**。
+    机制:
+    - 婚姻中的孩子已经形成对父母的稳定依恋(C-S4-072 多依恋)
+    - 父母吵架 = 系统级风险信号 = "我会同时失去两个依恋人"
+    - 即使孩子听不懂内容,**情绪 + 暴力声**触发"分离即将发生"预警
+    Newson 1968 案例:卡车司机老婆被丈夫抛弃后,**4 岁女儿原本能自己穿衣立刻退化到全依赖**,
+    一直问"你不会离开我吧?"。
+    引申:**威胁离开 ≈ 实际离开**(C-S6-087)。
+    家长意义:
+    - 当孩子面绝不"威胁离开"或"我们离婚算了"
+    - 真离婚也要明确"妈妈/爸爸不会离开你",反复说
+    - 吵架要私下解决,不当孩子面
+    - 不当面吵不等于不能吵 — 关闭门 / 分时段
+  what_to_do:
+    - 吵架要去房间或屋外,孩子不在场
+    - 妈/爸离婚但都还爱你反复说
+    - 孩子问"你不会离开我吧"立刻接住
+    - 真分居要让两边稳定接触
+    - 永远不说再这样妈妈走
+  failure_mode: |
+    "他听不懂没关系,小孩没事" — 听不懂内容但接收到情绪 + 危险信号,影响一样深。
+    "我们离婚孩子还小忘得快" — Newson 案例:4 岁能立刻退化全依赖,影响数月-数年。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Bowlby
+  - G-TERM-attachment
+  - G-TERM-anxious-attachment
+  - G-TERM-internal-working-model
+
+citation:
+  book_title_zh: "依恋三部曲 · 第二卷:分离"
+  book_title_en: "Attachment and Loss · Volume 2: Separation"
+  authors: ["John Bowlby"]
+  authors_zh: ["约翰·鲍尔比"]
+  translators_zh: ["汪智攀", "王婷婷"]
+  publisher_zh: "世界图书出版有限公司北京分公司"
+  year_en: 1973
+  year_zh: 2017
+  isbn: "978-7-5192-2926-9"
+  location: "第十五章焦虑型依恋及一些促成条件(在所有的其他变量中,影响最大的有以下几种:第一种是父母威胁要遗弃孩子,这经常被父母用来当作一种训练或惩罚孩子的手段;第二种孩子认为父母吵架会产生风险,导致父母分开 - Newson 1968)"
+  source_id: SRC-012
+
+unit_ids: []
+related_cards:
+  - C-S6-087      # 再不听话妈妈就走是精神虐待
+  - C-S6-069      # Vol 1 3 岁前给娃刻内部地图
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

@@ -1,0 +1,50 @@
+glossary_id: G-ABBR-WHO
+type: abbreviation
+display_name: "WHO 世界卫生组织"
+
+en_term: "World Health Organization"
+zh_term: "世界卫生组织"
+
+aliases:
+  - WHO
+  - 世界卫生组织
+
+one_liner: |
+  WHO 是联合国下属国际公共卫生机构,设日内瓦,194 成员国。
+
+detail: |
+  ## 定义
+  World Health Organization(世界卫生组织)— 联合国下属国际公共卫生机构。
+  
+  ## 历史
+  1948 年成立,设瑞士日内瓦。194 成员国。
+  
+  ## 在 SRC-031 中的角色
+  WHO 跟 UNICEF 共同发布婴幼儿喂养政策合集 — 6 月 EBF / 持续母乳到 2 岁 / BFHI / Code 等核心政策都来自 WHO。
+  
+  ## 跟其他派关系
+  WHO 是 Tier 1 国际权威 — 跟 AAP(美) / 鲍秀兰(中) / 松田(日) 各国指南并列。
+  WHO 立场是国际医学共识(全球 194 国 buy-in),非单一国家观点。
+
+key_facts:
+  - "1948 年成立"
+  - "194 成员国"
+  - "联合国下属"
+  - "Tier 1 国际权威"
+
+related_glossary:
+  - G-ABBR-EBF
+  - G-ABBR-BFHI
+  - G-TERM-WHO-Code
+
+related_cards:
+  - C-S0-1024
+  - C-S1-1000
+
+sources:
+  - source_id: SRC-031
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

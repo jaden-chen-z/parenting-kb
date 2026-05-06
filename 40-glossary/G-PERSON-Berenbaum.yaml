@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Berenbaum
+type: person
+display_name: "Berenbaum(雪莉·贝伦鲍姆)"
+
+full_name_en: "Sheri A. Berenbaum"
+full_name_zh: "雪莉·贝伦鲍姆"
+
+position: |
+  Penn State 心理学教授
+
+contribution: |
+  性别发展生物学 + 激素影响
+
+one_liner: |
+  雪莉·贝伦鲍姆 — 性别发展生物学 + 激素影响
+
+key_facts:
+  - "本卷章节:Ch 14"
+  - "Lerner V3 命中:30 次"
+  - "学派:Lerner V3 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-027
+    chapter: "Ch 14"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

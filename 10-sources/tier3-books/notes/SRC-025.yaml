@@ -1,0 +1,270 @@
+source_id: SRC-025
+title: "从神经元到社区:早期儿童发展的科学"
+title_en: "From Neurons to Neighborhoods: The Science of Early Childhood Development"
+org: "National Research Council and Institute of Medicine (NRC/IOM)"
+tier: 3
+source_type: book
+url: "https://nap.nationalacademies.org/9824"
+isbn_en: "0-309-06988-2"
+publisher_en: "National Academy Press"
+location_en: "Washington, D.C."
+year_en: 2000
+accessed: 2026-05-04
+language: en
+notes_path: tier3-books/notes/SRC-025.yaml
+
+authors:
+  - name_en: "Jack P. Shonkoff (Editor / Committee Chair)"
+    name_zh: "杰克·尚科夫"
+    role: "NRC 综述主编 + Harvard Center on the Developing Child 创始人"
+    background: |
+      1942- Brandeis 大学 Heller Graduate School 教授,后转 Harvard 公共卫生学院,
+      创办 Center on the Developing Child(2006),奠基"早期发展科学"作为公共政策学科,
+      后期推 toxic stress + serve-and-return 概念。
+  - name_en: "Deborah A. Phillips (Editor / Study Director)"
+    name_zh: "德博拉·菲利普斯"
+    role: "NRC 综述合编 + 儿童照护研究权威"
+    background: |
+      Georgetown 大学心理学教授,儿童照护质量研究奠基人,
+      主持 NICHD Early Child Care Study。
+
+# 章节地图(字符 offset)
+chapter_offsets:
+  toc: 32000
+  executive_summary: 33500
+  ch1_introduction: 75718
+  ch2_nature_nurture: 136421
+  ch3_culture: 189859
+  ch4_causal_connections: 229583
+  ch5_self_regulation: 293489
+  ch6_communicating_learning: 392979
+  ch7_friends_peers: 517911
+  ch8_developing_brain: 577274
+  ch9_nurturing_relationships: 702440
+  ch10_family_resources: 837271
+  ch11_child_care: 924669
+  ch12_neighborhood: 1015538
+  ch13_intervention: 1041544
+  ch14_conclusions: 1180086
+  references_start: 1290000
+  total_chars: 1780478
+
+# NRC 综述独有命题(本书 vs 现库 15 派对照)
+shonkoff_unique_themes:
+  - science_to_policy_bridge: "把发展科学翻译成公共政策语言 — NRC 综述权威 vs 单一作者派"
+  - both_nature_and_nurture: '基因 + 经验交互论(epigenetics 早期版本)— 反"先天 vs 后天"二元对立'
+  - critical_vs_sensitive_periods: "区分 critical(完全错过)vs sensitive(最佳窗口可补)— 比 Gopnik 更精细"
+  - self_regulation_central: "自我调节是 0-5 岁核心发展任务 — Ch 5 整章给出框架"
+  - hart_risley_30M: "Hart-Risley 1995 词汇差距研究 — 30M words 鸿沟概念被 Shonkoff 综述放大"
+  - cortisol_hpa_axis: "皮质醇 + HPA 轴应激反应 — NRC 综述给出生理底座"
+  - early_intervention_RCTs: "Perry / Abecedarian / 早期 Head Start RCT 证据 — Ch 13 系统综述"
+  - high_quality_child_care_protective: "Quality > Quantity 立场 — NICHD ECCS 数据综合"
+  - neighborhood_effects: "社区/贫困/暴力对发展的非家庭影响 — Ch 12"
+  - culture_as_developmental_context: '文化是发展环境不只是修饰 — 反"普世发展时间表"'
+  - causal_inference_standards: "因果推理在儿童研究中的方法论(对照随机化 vs 自然实验)— Ch 4"
+  - parental_employment_complex: '父母就业对孩子影响是混合的 — 反"全职妈妈 vs 职场妈妈"二元论'
+  - 6_core_principles: "6 条核心原则(Ch 14):全人 / 时机 / 自主能动 / 文化 / 关系 / 多重适应"
+
+# 立场对照(Shonkoff 综述 vs 现有 SRC)
+relationship_to_gopnik:
+  description: "Shonkoff(NRC 综述)vs Gopnik(《摇篮里的科学家》— SRC-015)"
+  shared:
+    - "突触发育 + 关键期窗口科学共识"
+    - "反早教焦虑(Quality > 知识灌输)"
+    - "parentese 价值"
+    - "Meltzoff 模仿"
+    - "Kuhl 知觉重组"
+  complement:
+    - "Gopnik 单本书的认知科学派(单一作者团 + 实证派)"
+    - "Shonkoff 是 NRC 17 人委员会综述权威(共识派)"
+    - "Shonkoff 给政策建议,Gopnik 给认知机制"
+  divergence:
+    - "critical period:Gopnik 强 critical 窗口立场;Shonkoff 更倾向 sensitive period(可补)"
+
+relationship_to_bowlby:
+  description: "Shonkoff(NRC 综述)vs Bowlby(依恋三部曲 SRC-011/012/017)"
+  shared:
+    - "早期关系的发展核心地位"
+    - "安全依恋是健康发展基础"
+    - "母婴分离的应激影响"
+  complement:
+    - "Bowlby 给 attachment 进化 + 临床框架"
+    - "Shonkoff 给 attachment 的现代神经科学证据(HPA 轴 / cortisol / 行为遗传学)"
+    - "Shonkoff 在 Bowlby 基础上扩到 caregiver-child relationships(不限母亲)"
+
+relationship_to_lillard:
+  description: "Shonkoff(NRC 综述)vs Lillard(《Montessori from the Start》SRC-016)"
+  shared:
+    - "0-3 岁是发展奠基期"
+    - "自由 + 选择 + 主动学习"
+  divergence:
+    - "Lillard 是哲学派(Montessori 实践理论)"
+    - "Shonkoff 是综述派(NRC 多学科共识)"
+    - "Lillard 强结构(prepared environment + 教具序列)"
+    - "Shonkoff 强育儿质量(quality over structure 为主)"
+
+relationship_to_stern:
+  description: "Shonkoff(NRC 综述)vs Stern(《婴儿的人际世界》SRC-018)"
+  shared:
+    - "自我调节 + 母婴互动"
+    - "早期关系是 self 形成基础"
+  complement:
+    - "Stern 给精神分析 + 心理过程"
+    - "Shonkoff 给神经生物学 + 公共政策"
+    - "Stern 4 阶段 self vs Shonkoff 自我调节发展轴"
+
+relationship_to_lansbury_gerber:
+  description: "Shonkoff(NRC)vs Lansbury(SRC-019)+ Gerber(SRC-022)RIE 派"
+  shared:
+    - "反屏幕(0-2 岁)"
+    - "育儿质量 > 数量"
+    - "婴儿是有能力的主动学习者"
+  divergence:
+    - "RIE 强不打扰 + 减少结构化干预"
+    - "Shonkoff 给系统化早期干预(Perry/Abecedarian)以纠正贫困/风险"
+
+relationship_to_matsuda:
+  description: "Shonkoff(NRC)vs 松田道雄(SRC-024)"
+  shared:
+    - "不焦虑育儿哲学(松田)= 反早教焦虑(Shonkoff)"
+    - "反屏幕"
+  divergence:
+    - "松田个人临床派 vs Shonkoff 多学科综述"
+    - '松田反对"反抗期"概念 vs Shonkoff 支持"自我调节斗争期"科学描述'
+    - "松田部分支持瞬间体罚 vs NRC 综述完全反对体罚"
+
+relationship_to_aap:
+  description: "Shonkoff(NRC)vs AAP(SRC-002)"
+  shared:
+    - "反屏幕"
+    - "早期关系是健康发展核心"
+    - "反体罚立场一致"
+  complement:
+    - "AAP 给儿科临床指南"
+    - "NRC 给科学共识 + 公共政策"
+    - "AAP 操作建议为主,NRC 政策视角为主"
+
+relationship_to_brazelton:
+  description: "Shonkoff(NRC)vs Brazelton(SRC-010)"
+  shared:
+    - "婴儿能力(Brazelton NBAS 是 NRC 引用基础)"
+    - "触摸点 + 关系核心"
+  complement:
+    - "Brazelton 是 NRC 引用源,二人在儿科政策上长期合作"
+    - "NRC 综述把 Brazelton 临床观察上升到科学共识"
+
+relationship_to_baoxiulan:
+  description: "Shonkoff(NRC 美)vs 鲍秀兰(中)"
+  shared:
+    - "早期教育的 0-3 岁奠基期立场"
+    - "母婴依恋 + 安全感"
+  divergence:
+    - "鲍秀兰中国临床派 vs NRC 美国综述权威"
+    - "鲍秀兰具体教学操作 vs NRC 政策框架"
+    - '鲍秀兰的"早期智力开发"语言 vs NRC 反早教焦虑立场'
+
+relationship_to_ainsworth:
+  description: "Shonkoff(NRC)vs Ainsworth(SRC-023)"
+  shared:
+    - "安全依恋是 NRC 综述的核心论点之一"
+    - "陌生情境法是 NRC 引用的实验范式"
+  complement:
+    - "Ainsworth 给 attachment 实验框架"
+    - "NRC 给现代神经科学 + 政策影响"
+
+# 跨源关联点
+crossreferences:
+  - SRC-002_aap:
+      shared: "反屏幕 / 反体罚 / 育儿质量 / 早期关系核心"
+  - SRC-009_baoxiulan:
+      shared: "0-3 岁奠基期 / 母婴依恋 / parentese"
+      conflict: "鲍秀兰早期智力开发 vs NRC 反早教焦虑"
+  - SRC-010_brazelton:
+      shared: "NBAS 婴儿能力 / 触摸点 / 育儿质量"
+  - SRC-011_bowlby_v1:
+      shared: "依恋形成 / 安全基地"
+  - SRC-012_bowlby_v2:
+      shared: "母婴分离应激"
+  - SRC-013_wonder_weeks:
+      shared: "心理跃迁 / 关键期"
+  - SRC-014_davies:
+      shared: "婴儿能力 / 主动学习者"
+  - SRC-015_gopnik:
+      shared: "突触发育 / parentese / 反早教"
+      conflict: "critical 窗口 vs sensitive 窗口立场强弱"
+  - SRC-016_lillard:
+      shared: "0-3 岁奠基 / 主动学习"
+      conflict: "Lillard 哲学结构 vs Shonkoff 综述实证"
+  - SRC-017_bowlby_v3:
+      shared: "丧失 / 哀伤 / 防御机制"
+  - SRC-018_stern:
+      shared: "self / attunement / 早期关系心理"
+  - SRC-019_lansbury:
+      shared: "反屏幕 / 育儿质量"
+      conflict: "RIE 不打扰 vs NRC 系统化早期干预"
+  - SRC-022_gerber:
+      shared: "婴儿主动学习者 / 反过度刺激"
+  - SRC-023_ainsworth:
+      shared: "陌生情境 / 安全依恋"
+  - SRC-024_matsuda:
+      shared: "不焦虑育儿 / 反屏幕"
+      conflict: "反抗期立场 / 体罚立场"
+
+# 评级标尺(本书)
+evidence_level_calibration:
+  A: "NRC 综述 + 跨派一致 + 实证扎实(主体 60-70%)— Tier 2 NRC 委员会权威"
+  B: "NRC 综述 + 跨派部分张力 + RCT 证据有限(20-30%)"
+  C: "NRC 政策推断 + 委员会立场 + 实证薄弱(罕见)"
+  expected_distribution: "A 占多 — NRC 综述权威决定 majority A 级"
+
+# 聚焦策略
+focus_strategy:
+  zh: |
+    NRC 综述 600 页大书,聚焦 6 章高产出:
+    Ch 5 Self-Regulation(产 8-10 张),
+    Ch 6 Communicating(产 6-8 张)Hart-Risley 30M 在此,
+    Ch 8 Developing Brain(产 8-10 张)plasticity / sensitive periods / 神经科学核心,
+    Ch 9 Nurturing Relationships(产 8-10 张)attachment 神经科学,
+    Ch 11 Child Care(产 6-8 张)quality 立场,
+    Ch 13 Intervention(产 8-10 张)Perry / Abecedarian / 早期干预 RCT。
+    其他章 Ch 1-4 / 7 / 10 / 12 / 14 各 1-3 张精选。
+
+# 中文家长高频痛点 mapping
+parent_pain_points:
+  - "早教焦虑 → NRC 反早教 + Quality > 知识灌输"
+  - "0-3 是不是关键期 → sensitive period(可补,不是 critical)"
+  - "看屏对脑发育 → NRC 强反屏幕(0-2 岁)"
+  - "词汇差距怎么补 → Hart-Risley 30M words 多对话原则"
+  - "应激创伤对孩子真伤害吗 → cortisol + HPA 轴应激反应"
+  - "二三线没好托育怎么办 → Quality > Quantity NICHD 数据"
+  - "父母上班 vs 全职带 → NRC 主张:质量决定不是身份决定"
+  - "0-3 学英语会不会影响母语 → Kuhl 知觉重组 + 双语暴露 OK"
+  - "早期干预真有用吗 → Perry/Abecedarian RCT ROI 证据"
+
+referenced_by_units: []
+referenced_by_cards: []
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04
+
+notes: |
+  Phase 10 单 session — Shonkoff《From Neurons to Neighborhoods》NRC 2000 综述。
+  
+  - 文件已 OCR(.md, 40241 行 / 1.78MB / 14 章 + Appendices)
+  - 章节 offset 已实测确认 14 章
+  - 关键校准:本书 2000 出版,Heckman 经济学曲线 + toxic stress 框架 + serve-and-return
+    都是 Shonkoff/Center on the Developing Child 在 2006+ 后续工作产生 — 本书未直接出现。
+  - 实际本书核心:plasticity / sensitive periods / Hart-Risley / cortisol / Perry-Abecedarian RCT / 
+    自我调节 / parentese / quality 育儿
+  
+  段 ID 起点(实测 max + 100 buffer):
+  S0: 519 + 100 = 619, S1: 764 + 100 = 864, S2: 702 + 100 = 802,
+  S3: 705 + 100 = 805, S4: 704 + 100 = 804, S5: 803 + 100 = 903,
+  S6: 826 + 100 = 926, S7: 761 + 100 = 861, S8: 107 + 100 = 207
+  
+  跟现库 15 派跨派对照硬指标:每张卡 ≥ 1 张 related_cards 含 12 派
+  (AAP/鲍/Brazelton/Karp/Bowlby/Stern/Gopnik/Lillard/Davies/Lansbury/Gerber/松田/Wonder Weeks)
+  
+  立场对立处全部记 conflicts.md(E1-E5 节)。

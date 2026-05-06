@@ -1,0 +1,72 @@
+card_id: C-S4-196
+stages: [S4]
+tags: [self, milestone, 共主体性]
+
+front:
+  title: 7-9 月主观自我跃迁
+  hook: 7-9 月心可以分享
+
+back:
+  why_matters: |
+    Stern 命名 7-9 月是 self 发展的第三次 跃迁(质性跃迁)— 比 2 月跃迁还重要。
+    **跃迁前(0-7 月)**:宝宝靠**外在行为**跟人互动 — 看 / 笑 / 哭 / 抱 / 喂奶
+    **跃迁后(7-9 月起)**:宝宝**发现"我有内心,别人也有内心,可以分享"** — 这就是 **共主体性**
+    **3 大可分享的内心体验**:
+    1. **共享注意(共同注视)** — 9 月会跟随大人指 + 自己也会指
+    2. **共享意图(sharing intentions)** — 9 月开始 意图沟通("故意"沟通,非反射)
+    3. **共享情感(sharing 情感的 states)** — 通过 调谐(C-S5-291)
+    **关键观点**:
+    - 这是 **theory of separate minds(分离心智理论)** 的雏形 — 宝宝意识到"你有跟我不同的内心"
+    - 不是哲学 — 是宝宝**实操理论**("我们之间可以非语言地"懂"对方")
+    - 父母此后开始**直接对宝宝的"内心"说话**,不只是行为
+    **Stern 反传统**(精神分析 / Mahler):
+    - 老观点:7-9 月是"孵化"(从共生融合中孵化出来) → 主任务是分离独立
+    - **Stern 反**:这是错的 — 7-9 月主任务是**新的"在一起"** — 共主体的 union — **比之前任何"在一起"都更深**
+    - 共生融合从未存在过(C-S0-016),"分离"也不是这个时期主任务
+    - 反而是**心理深度连接的启动**
+    **跨源对照**:
+    - **奇迹周 第 5 跃迁(8 月)** — WW 描述行为 — Stern 解释心理过程
+    - **Brazelton 9 月 触摸点** — Brazelton 描述里程碑 — Stern 给出心理框架
+    - **Lillard"第二次出生"(8-9 月爬)**(C-S4-190)— 蒙氏哲学命题 + Stern 心理过程呼应
+    - **Bowlby 安全基地(8-9 月)** — Bowlby 关系视角 + Stern 心理视角互补
+  what_to_do:
+    - 7-9 月起把宝宝当"心理伙伴"
+    - 跟宝宝分享你的"为什么"(不只行动)
+    - 主动 共同注视(看那 / 看这)
+    - 关注宝宝"想什么 + 想要什么",不只关心他做什么
+    - 不要急着"训练独立"
+  failure_mode: |
+    "7-9 月该开始分离训练了" — 错。Stern 反对 — 这是新的"在一起"启动期,不是"分开"主时期。
+    继续只关注外在行为(吃睡哭笑)→ 错过 主观自我 形成 → 后期心理深度受限。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Stern
+  - G-TERM-subjective-self
+  - G-TERM-intersubjectivity
+  - G-TERM-joint-attention
+
+citation:
+  book_title_zh: "婴儿的人际世界"
+  book_title_en: "The Interpersonal World of the Infant"
+  authors: ["Daniel N. Stern"]
+  authors_zh: ["丹尼尔·斯特恩"]
+  publisher_en: "Basic Books"
+  year_en: 1985
+  isbn_en: "978-0-465-09559-9"
+  location: "Ch 6 · The Sense of a Subjective Self - Overview"
+  publisher_zh: "华东师范大学出版社"
+  year_zh: 2017
+  translator_zh: ["刘旭东"]
+  source_id: SRC-018
+
+unit_ids: []
+related_cards:
+  - C-S0-015       # Stern 4 senses of self
+  - C-S4-190       # Lillard 第二次出生
+  - C-S4-124       # Wonder Weeks 26 周第五跃迁
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

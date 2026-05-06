@@ -1,0 +1,68 @@
+glossary_id: G-TERM-absorbent-mind
+type: term
+display_name: 吸收性心智 (absorbent mind)
+
+full_name_zh: 吸收性心智
+full_name_en: Absorbent Mind
+
+one_liner: |
+  蒙特梭利核心概念。0-6 岁特殊学习状态,孩子无意识 + 不费力地吸收环境的全部:语言 / 表情 / 态度 / 节奏 / 文化都被收纳成自己的一部分。
+  类比:把芹菜放进色素水,叶子自己变色 — 吸收发生于无形。
+
+detail: |
+  ## 定义
+  Maria Montessori 提出的发展阶段概念。把 0-6 岁分成两个亚阶段:
+  - **无意识吸收期**(0-3 岁)— 完全 unconscious,所学进入下意识
+  - **有意识吸收期**(3-6 岁)— 开始主动选择 + 整理已吸收信息
+
+  在这个阶段,孩子学习不靠"教",靠"在那里",大脑像海绵自动吸入。
+
+  ## 与成人学习的本质区别
+  | 维度 | 吸收性心智(0-6) | 成人学习 |
+  |---|---|---|
+  | 努力程度 | 无需用力 | 需要专注 |
+  | 选择性 | 无差别全收 | 主动筛选 |
+  | 持久性 | 终身刻入 | 易遗忘 |
+  | 例 | 0 岁宝宝 1 年学会母语 | 成人学外语 5 年仍口音重 |
+
+  ## 神经科学背书
+  - 0-3 岁突触快速增殖期 — 吸收性心智的物理基础
+  - 镜像神经元高活跃 — 解释模仿学习
+  - 前额叶尚未成熟 — 解释为什么孩子无法"选择性"吸收
+
+  ## 父母实操含义
+  1. **环境就是课程** — 你不教,但孩子在学你的全部
+  2. **你的态度比你的话更重要** — 言传不如身教
+  3. **不夹杂虚假语言**(baby talk 嘎嘎)— 用真词
+  4. **环境的美 / 秩序 / 平静**全被吸收
+  5. **打孩子 / 吼孩子**的伤害比表面看到的深 — 直接刻入
+
+  ## 与现有概念的关系
+  | 邻近概念 | 区别 |
+  |---|---|
+  | Critical period 关键期 | 蒙氏 absorbent mind 跨度更广(0-6 整段) |
+  | Sensitive period 敏感期 | absorbent mind 是平台,sensitive 是 spotlight |
+  | Bowlby internal working model | absorbent mind 是更广的"全收纳",IWM 只针对依恋关系 |
+
+key_facts:
+  - 蒙氏理论核心概念之一
+  - 0-6 岁特殊学习状态
+  - 无意识 + 无差别 + 终身刻入
+  - 0-3 完全无意识,3-6 部分有意识
+  - 物理基础:突触增殖 + 镜像神经元
+
+related_glossary:
+  - G-PERSON-Montessori
+  - G-PERSON-Davies
+  - G-TERM-critical-period
+
+related_cards: []
+
+sources:
+  - source_id: SRC-014
+  - external: Maria Montessori《有吸收力的心灵》(1949)
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

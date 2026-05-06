@@ -1,0 +1,67 @@
+card_id: C-S8-429
+stages: [S8]
+tags: [cognitive_science, neuroconstructivism, williams, lerner_v2]
+
+front:
+  title: Williams 反先天模块
+  hook: 基因 ≠ 决定模块
+
+back:
+  why_matters: |
+    Karmiloff-Smith 1998-2009 神经建构主义(Lerner V2 Ch1 + Ch14)。
+    Williams 综合征(WS)+ SLI(特异性语言障碍)实证:
+    - WS 儿童语言"看似"正常,但深细测有微小差异
+    - SLI 儿童语言不正常,但其他认知正常
+    - **不是"基因决定哪模块坏"** — 是发育路径不同
+    Karmiloff-Smith 立场:
+    - 基因不直接对应"认知模块"
+    - 早期微小神经差异 → 多年发育累积 → 看似不同模块
+    - **反 Pinker 强先天派** + 反 Spelke 5 系统纯先天派神经建构主义:
+    - 基因 + 经验 + 时间 = 模块
+    - 模块不是"出生即有",是"逐渐建成"
+    - 这是当代认知发展主流立场意义:
+    - "基因决定 IQ"是过简
+    - 早期干预对疾病有效因为模块在建中
+    - 跨学科融合:基因 + 神经 + 行为 + 文化跟现库:跟 Karmiloff-Smith RR(C-S8-424)+ Spelke 5 系统(C-S4-1141)对照。
+    Lerner V2 综述给神经建构主义最新立场。
+    对中国家长意义:
+    - 基因测试不能预测孩子未来(发育路径很关键)
+    - 早期干预有效(模块在建)
+    - 不要"我家孩子基因好就放松"
+    - 经验 + 时间是模块的塑造者
+  what_to_do:
+    - 不依赖基因测试预测能力
+    - 早期发育异常及时干预
+    - 持续输入(语言 / 互动 / 经验)塑模块
+    - 不"基因好就放松"
+  failure_mode: |
+    "基因决定 IQ" — 错。基因 + 经验 + 时间。
+    "Williams 综合征语言正常" — 表面对,深细异。
+    "模块是先天的不能改" — 错。神经建构主义反。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Spelke
+  - G-TERM-baby-scientist
+  - G-PERSON-Karmiloff-Smith
+  - G-PERSON-Keil
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 2 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 2 卷"
+  authors: ["Charles A. Nelson III", "Frank Keil"]
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 1/14 · Neuroconstructivism · pp. 26-30, 622"
+  source_id: SRC-028
+
+unit_ids: []
+related_cards:
+  - C-S8-424     # Karmiloff-Smith RR
+  - C-S3-1141     # Cohen-Cashon vs Spelke
+  - C-S4-1141     # Spelke 5 系统
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

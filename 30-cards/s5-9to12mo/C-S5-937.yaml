@@ -1,0 +1,97 @@
+card_id: C-S5-937
+stages: [S5]
+tags: [pikler, environment, free-play, source-de]
+
+front:
+  title: "9-12 月环境给什么"
+  hook: "围栏扶物 + 安全空地"
+
+back:
+  why_matters: |
+    皮克勒 1969 立场:大动作发展不是大人"教"出来的,
+    但环境是关键 — 婴儿需要安全的空间自己练习。
+
+    皮克勒 9-12 月环境配方:
+    - **平面**:地板 / 安全围栏内地垫 — 不在床上(易掉)
+    - **稳定扶物**:围栏栏杆 / 沙发扶手 / 矮桌(高度合适让宝宝抓)
+      — 不要摇摇晃晃不稳的家具
+    - **安全空地**:让宝宝有地方扶着东西侧着走 — 不堵满玩具 / 障碍
+    - **少玩具**:1-2 个简单玩具(他在练大动作 + 用脑,不需要太多刺激)
+    - **大人在视野内**:看着但不参与 — 摔了别马上扑
+
+    皮克勒反对清单:
+    - 学步车 — 跳过自然过渡
+    - 摇椅 / 婴儿座椅(如 Bumbo)— 撑姿
+    - 电子玩具(响 + 闪)— 干扰自由玩
+    - 大堆毛绒玩具 — 占空间
+
+  what_to_do:
+    - 弄一个安全围栏区(地垫 + 围栏)
+    - 围栏栏杆 / 沙发扶手 / 矮桌可抓
+    - 1-2 个简单玩具(布块 / 木环 / 真物)
+    - 大人坐着看不参与
+    - 摔了 5 秒等他自己反应 — 通常会自己起
+
+  failure_mode: |
+    "宝宝在床上扶站练走更舒服吧" → Pikler 反:床软
+    + 易掉,不是练大动作的好环境。地板硬平 + 围栏保护是 Pikler / Magda / Lansbury 共同立场。
+
+  evidence_level: B
+
+  positions:
+    issue: 大动作发展该不该训练 · 学步车 / Bumbo / 撑坐 / 训练表是否有用
+    views:
+      - school: Pikler
+        source: SRC-026
+        stance: 完全反对训练 — 自然顺序 + 安全空间 + 时间 = 大动作全部自动发生;严反一切撑物(学步车 / Bumbo / 跳跳器 / 婴儿座椅)。
+      - school: Magda Gerber / RIE / Lansbury
+        source: SRC-022/019
+        stance: 继承 Pikler 立场 — 里程碑不是赛跑,不撑坐 8 理由,7 类婴儿设备先放下。
+      - school: 蒙氏(Davies/Lillard)
+        source: SRC-014/016
+        stance: 立场一致 — floor bed + 自由动作空间 + 反早期撑坐。
+      - school: AAP
+        source: SRC-002
+        stance: 反学步车(Policy Statement + 数百起伤亡报道);加拿大 2004 立法全球首例禁售。
+      - school: Brazelton
+        source: SRC-010
+        stance: 反学步车,跟 Pikler 立场一致;主张孩子自然探索大动作。
+      - school: 松田道雄
+        source: SRC-024
+        stance: 温和支持自然 — 不催孩子翻 / 坐 / 爬 / 走的时间表,部分跟 Pikler 共鸣。
+      - school: 鲍秀兰
+        source: SRC-009
+        stance: 支持训练 — 婴儿体操 / 抓握训练 / 撑坐;跟 Pikler 派 8 派立场严重对立。
+      - school: 中国主流
+        stance: '"4 月翻 / 6 月坐 / 9 月爬 / 12 月走" 训练表 + 80% 家庭曾用学步车。跟 Pikler 派全面对立。'
+glossary_refs:
+  - G-PERSON-Pikler
+  - G-TERM-yes-space
+  - G-TERM-pflege-vs-spiel
+  - G-TERM-floor-bed
+
+citation:
+  book_title_de: "Friedliche Babys – zufriedene Mütter"
+  book_title_zh: "和平的婴儿 — 满足的母亲"
+  authors:
+    - Emmi Pikler
+  publisher_de: HERDER (HERDER / SPEKTRUM Band 4141)
+  year: 1969
+  location: "Ch2 + Ch7 全书反复"
+  source_id: SRC-026
+
+unit_ids: []
+related_cards:
+  - C-S5-933  # Pikler 不教站(本卷)
+  - C-S3-350  # Gerber 玩环境少而简
+  - C-S4-351  # Gerber 100% 安全房间
+  - C-S3-839  # Pikler 玩具堆反而不会玩(本卷)
+  - C-S3-133  # Davies floor bed
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_suspect: true
+citation_followup_needed: '回原书 Pikler 1969 Friedliche Babys 反查具体页 — F1 维度 10 已知问题'

@@ -1,0 +1,85 @@
+glossary_id: G-TERM-co-sleeping
+type: term
+display_name: 陪睡 / Co-sleeping
+
+full_name_en: Co-sleeping / Bed-sharing
+full_name_zh: 陪睡 / 同床睡
+
+one_liner: |
+  父母与婴儿/幼儿同床或同房睡觉的做法。东亚文化主流,西洋"独立婴儿房"派批评其"阻碍自立"。
+  AAP 反同床(SIDS 风险),但支持"同房不同床"。松田道雄/Sears 派支持陪睡,Bowlby 实证肌肤接触必要。
+
+detail: |
+  ## 定义
+  - **同床(bed-sharing)**:婴儿跟父母在同一张床
+  - **同房不同床(room-sharing)**:婴儿在父母房间但独立婴儿床
+  - **独睡(solitary sleeping)**:婴儿独立房间独立床
+
+  ## 多派立场对比
+
+  ### 1. AAP 立场(2016 / 2022 更新)
+  - 反同床(SIDS / 窒息风险升 5-10 倍)
+  - 支持同房不同床头 6-12 月
+  - 6 月后可独房
+
+  ### 2. 松田道雄立场 ⭐(支持陪睡)
+  - "陪睡"被西洋式育儿方法视为眼中钉(西洋注重夫妇分卧)
+  - 西洋说"陪睡阻碍娃自立"是误解 — 断奶不是自立
+  - 7 月娃肌肤接触还很必要
+  - 陪睡夜喂母乳大人轻松,但娃睡着后要让离乳房
+
+  ### 3. Sears 派(亲密育儿)
+  - 主张同床(bed-sharing)— 增进依恋 + 母乳便利
+  - 跟 Bowlby 依恋理论一致
+
+  ### 4. Bowlby 立场
+  - 不直接谈陪睡,但强调母婴肌肤接触建立安全依恋
+  - 早期肌肤接触是"内部工作模式"形成根基
+
+  ## 安全陪睡条件(松田 + 现代修订)
+  - 父母不吸烟/喝酒/吃药
+  - 床面硬,不软陷
+  - 不盖娃头 + 娃旁无枕
+  - 1 岁后风险降很多
+  - 沙发/扶手椅严禁陪睡(SIDS 高风险)
+
+  ## 与中国家长的关联
+  - 中国陪睡是文化主流,被海外华人质疑"不科学"
+  - 松田立场提供东亚文化合理性
+  - 关键是"安全陪睡"vs "盲目同床"
+
+  ## 与依恋理论的连接
+  - 早期陪睡 + 母乳 = 肌肤接触最大化
+  - Bowlby/Stern 都强调早期肌肤接触建立安全依恋
+  - 强行独睡 = 减少肌肤接触 = 反依恋方向
+
+key_facts:
+  - 父母与婴儿同床或同房睡
+  - AAP 反同床(SIDS 风险),支持同房不同床
+  - 松田支持陪睡 + 反西洋"阻碍自立"说
+  - Sears 派+Bowlby 派支持(肌肤接触建依恋)
+  - 安全陪睡有条件:不烟/不酒/床硬/不盖头
+
+related_glossary:
+  - G-PERSON-Matsuda
+  - G-PERSON-Bowlby
+  - G-ABBR-AAP
+  - G-ABBR-SIDS
+  - G-TERM-attachment
+  - G-TERM-secure-base
+
+related_cards:
+  - C-S4-553     # 松田 夜喂奶不必焦虑(陪睡支持)
+  - C-S6-670     # 松田 12-24 月断母乳等娃自然
+  - C-S2-546     # 松田 反"抱坏习惯"老观念
+
+sources:
+  - source_id: SRC-023    # 松田陪睡立场
+  - source_id: SRC-007    # AAP 同房不同床
+  - source_id: SRC-011    # Bowlby 依恋肌肤接触
+  - external: AAP Safe Sleep Recommendations 2022 / Sears W. The Attachment Parenting Book
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

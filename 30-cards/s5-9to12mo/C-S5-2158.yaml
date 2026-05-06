@@ -1,0 +1,47 @@
+card_id: C-S5-2158
+stages: [S5]
+tags: [safety, mainstream, screen_time]
+
+front:
+  title: 2 岁前禁屏幕
+  hook: 视频聊天除外
+
+back:
+  why_matters: |
+    AAP 2016 年正式指南:18 月以下除视频通话外,完全不用屏幕;18-24 月可用高质量内容但需大人陪伴讲解。前情:S5 宝宝大脑突触快速形成期。屏幕会:挤占面对面互动语言输入、刺激高频画面让大脑过载、影响睡眠质量、培养被动信息消费习惯。早期屏幕暴露与语言发育延迟、注意力问题强相关。
+  what_to_do:
+    - 18 月前只用视频通话
+    - 用餐睡前 1 小时严禁屏幕
+    - 大人少在娃面前刷手机
+    - 多用真实互动:亲子阅读户外
+  failure_mode: |
+    用 iPad 安抚哭闹喂饭省事,娃 18 月开口词不到 5 个被诊断语言迟缓,补救要多花数倍时间。
+  evidence_level: A
+
+glossary_refs: [G-TERM-anti-screen, G-TERM-media-effects]
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors:
+    - Heidi Murkoff
+    - Sharon Mazel
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh:
+    - 莫夏迪
+    - 张敏
+  location: "第 12 章第 12 个月, 页 519-523"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards:
+  - C-S5-2148
+  - C-S5-2149
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Staudinger
+type: person
+display_name: "Staudinger(乌苏拉·斯陶丁格)"
+
+full_name_en: "Ursula M. Staudinger"
+full_name_zh: "乌苏拉·斯陶丁格"
+
+position: |
+  International University Bremen 教授
+
+contribution: |
+  wisdom 智慧研究 + lifespan + Baltes 共著
+
+one_liner: |
+  乌苏拉·斯陶丁格 — wisdom 智慧研究 + lifespan + Baltes 共著
+
+key_facts:
+  - "本卷章节:Ch 11"
+  - "Lerner V1 命中:100+ 次"
+  - "学派:Lerner V1 生命周期派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+    chapter: "Ch 11"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

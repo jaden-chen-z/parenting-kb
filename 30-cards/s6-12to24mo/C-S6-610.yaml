@@ -1,0 +1,72 @@
+card_id: C-S6-610
+stages: [S6]
+tags: [discipline, RIE, time-out, no-spanking]
+
+front:
+  title: "隔离反省到底反省啥"
+  hook: "玛格达的犀利反问"
+
+back:
+  why_matters: |
+    玛格达《自信的宝宝》第 8 章"隔离反省真的有用吗?" + "打孩子算不算尊重?"
+
+    玛格达 1998 原版立场比兰斯伯里 2014 更直白(白话):
+    > "隔离反省" — 把孩子从生活中"隔离出去"反省什么?
+    > 更好的做法不是把他"踢出生活",
+    > 是让他**留在生活里学下次怎么做**。
+
+    玛格达反隔离反省 4 理由:
+    1. 跟行为脱钩(随机施加 = 惩罚)
+    2. 制造孤立感 / 羞耻
+    3. 加州 1987 法律:2 岁以下在托育机构做"隔离反省"是非法的
+    4. 她见过娃自动给自己"隔离反省" — 变规矩成长期内疚
+
+    玛格达反打骂 4 理由:
+    1. 教娃"打人没问题"(模范效应)
+    2. 让娃想"等我长大了我也打"
+    3. 大小不公(不是对等场景)
+    4. 跟你"不许打人"自相矛盾(虚伪)
+
+    玛格达立场超前于美国主流 30 年(2018 AAP 才正式反对体罚)。
+
+  what_to_do:
+    - 不做"隔离反省" / 罚站 / 隔离
+    - 不打骂,不威胁
+    - 用"自然后果"(C-S6-609)
+    - 严肃说话,不大声吼
+    - 自己气炸 → 离场冷静再回
+
+  failure_mode: |
+    "不打骂不立威娃骑头上" → 玛格达反:她见的最有规矩的孩子,
+    家里都不打骂。规矩来自一致性 + 自然后果,不是恐吓。
+    或"轻打没事" → 反:玛格达 1998 已说"哪怕想打都是不对"
+    — 严厉跟打不挂钩。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+  - G-TERM-respectful-parenting
+
+citation:
+  book_title_en: "Your Self-Confident Baby"
+  book_title_zh: "自信的宝宝"
+  authors:
+    - Magda Gerber
+    - Allison Johnson
+  publisher_en: John Wiley & Sons
+  year: 1998
+  location: "Ch8 §What about Time-out?(p209-210) + §Is Spanking Respectful?(p210-211)"
+  source_id: SRC-021
+
+unit_ids: []
+related_cards:
+  - C-S6-398  # Lansbury 不 time-out 不打不威胁
+  - C-S6-403  # Lansbury 限度+情绪并存
+  - C-S6-133  # Davies 温柔边界
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

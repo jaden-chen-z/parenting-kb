@@ -1,0 +1,59 @@
+card_id: C-S4-1053
+stages: [S4]
+tags: []
+
+front:
+  title: "WHO 6 大动作"
+  hook: "动作窗口比想象宽"
+
+back:
+  why_matters: |
+    WHO 儿童生长标准包括 6 大粗大动作里程碑 + 达成时间窗:
+    ① **独坐**(无支撑坐) — 中位 6 月,3-97 百分位 = 4-9 月
+    ② **扶站**(有支撑站) — 中位 7-8 月
+    ③ **手膝爬** — 中位 9 月(20% 婴儿跳过爬)
+    ④ **扶走**(有支撑走) — 中位 10 月
+    ⑤ **独站** — 中位 12 月
+    ⑥ **独走** — 中位 13 月,3-97 百分位 = 9-17 月
+
+    "达成时间窗" = 健康范围,不是"正常 vs 异常"二分。
+
+    跟 CDC 9 月里程碑(SRC-001)互补:
+    CDC 给 4 域里程碑,WHO 给 6 大动作时间窗。
+  what_to_do:
+    - "看时间窗(3-97 百分位),不是中位数"
+    - "13 月走是中位 — 9 月走也健康,17 月走也健康"
+    - "20% 娃跳过爬直接走 — 不是异常"
+    - "6 月 3 百分位还不能独坐 → 看医生"
+    - "结合 CDC 4 域里程碑参考"
+  failure_mode: |
+    看到"12 月还不会走"就焦虑加干预 → 3-97 百分位范围内都是正常。
+    WHO 的时间窗给宽容,但 3 百分位外要查。
+  evidence_level: A
+
+glossary_refs:
+  - G-TERM-WHO-growth-standards
+  - G-ABBR-WHO
+
+citation:
+  page_title: "WHO Child Growth Standards — Gross Motor Milestones"
+  publisher: "World Health Organization & UNICEF"
+  page_url_primary: https://www.who.int/tools/child-growth-standards
+  accessed: 2026-05-04
+  language: en
+  location: "WHO 6 大动作里程碑 + windows of achievement P3-P97"
+  source_id: SRC-031
+
+unit_ids: []
+related_cards:
+  - C-S4-1052
+  - C-S4-1052
+  - C-S4-001
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_doc_id_pending: D5
+citation_followup_needed: '已映射真实 doc_id (D5 = WHO Child Growth Standards 2006)'

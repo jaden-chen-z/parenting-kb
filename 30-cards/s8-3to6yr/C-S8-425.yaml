@@ -1,0 +1,68 @@
+card_id: C-S8-425
+stages: [S8]
+tags: [cognitive_science, microgenetic, siegler, lerner_v2]
+
+front:
+  title: 学习不是楼梯是齐跑
+  hook: 多策略并行不替代
+
+back:
+  why_matters: |
+    Siegler 1996+ 重叠波模型(Lerner V2 Ch11 Siegler 主笔)。
+    传统(Piaget):学习是阶段(楼梯)— 一个策略替代另一个。
+    Siegler 重叠波(Overlapping Waves):
+    - 同一时期儿童**多策略并行**
+    - 新策略涌现 + 旧策略仍用
+    - 频率波动(像波形重叠)
+    - 不是"突然换"是"逐渐占主导"
+    实验:加法学习
+    - 5 岁孩同一周内:数手指 / 数物体 / 心算 / 直接记忆 4 策略都用
+    - 不是"先用 A 再换 B"
+    - 多次试错后,效率高的策略占主导意义:
+    - 反 Piaget 阶段说(楼梯)
+    - 反 Carey 概念革命派的"突变"立场(部分)
+    - 微观发生学方法 — 看孩子做问题的实时变化
+    - 现代认知发展主流方法跟现库:跟 Carey 概念革命(C-S7-1096)+ Karmiloff-Smith RR(C-S8-424)对接。
+    Lerner V2 Ch11 给详细综述。
+    对中国家长意义:
+    - 看到孩子"反复用旧方法"不要慌(并行)
+    - 不必逼"用新方法"(重叠期)
+    - 多策略 = 灵活性 = 智力
+    - 不要"一个策略练到死"(单一会僵)
+  what_to_do:
+    - 鼓励多策略尝试
+    - 不要"用 A 不能用 B"
+    - 看到反复用旧策略 = 重叠期常态
+    - 不强行教"标准方法"
+  failure_mode: |
+    "学新方法就丢旧" — 错。重叠期并行。
+    "反复用旧 = 没学" — 错。是占比逐渐变化。
+    "教一种最优策略到底" — 错。多样化更好。
+  evidence_level: B
+
+glossary_refs:
+  - G-TERM-baby-scientist
+  - G-PERSON-Siegler
+  - G-TERM-conceptual-revolution
+  - G-PERSON-Carey
+  - G-PERSON-Piaget
+  - G-PERSON-Karmiloff-Smith
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 2 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 2 卷"
+  authors: ["Robert S. Siegler"]
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 11 · Overlapping waves · pp. 470-485"
+  source_id: SRC-028
+
+unit_ids: []
+related_cards:
+  - C-S7-1096     # Carey 概念革命
+  - C-S8-424     # Karmiloff-Smith RR
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

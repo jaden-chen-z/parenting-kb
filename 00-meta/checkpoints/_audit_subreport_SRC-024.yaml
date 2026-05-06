@@ -1,0 +1,35 @@
+source_id: SRC-024
+total_cards: 48
+totals_per_issue:
+  intrinsic_severity_high: 3       # 急救/退热药过时
+  intrinsic_severity_medium: 6
+  intrinsic_severity_low: 24
+  intra_source_dedups: 0           # SRC-024 内部无重复
+  cross_source_with_SRC-023_L1: 9  # 强烈合并
+  cross_source_with_SRC-023_L2: 13 # 保留+互链
+  unique_to_024: 23                # 48% 独有
+key_issues_high:
+  - {card_id: C-S5-803, type: outdated_emergency_advice, severity: P0, fix: 异物吞咽 "倒提摇晃" 是 1960s 做法,现代 AAP 不推荐(头部损伤)。改"5 次背部拍击 + 5 次胸部按压"循环}
+  - {card_id: C-S6-826, type: outdated_treatment, severity: P0, fix: '高于 38°C 用退热塞剂'与现代 AAP 立场冲突(退热不预防热惊复发,只缓解不适)。改口服布洛芬/对乙酰氨基酚 + caveat}
+  - {card_id: C-S3-703, type: outdated_clinical, severity: P0, fix: 夜啼 what_to_do '试灌肠 + 母亲停喝牛奶' 1960s 做法在现代证据中不成立。删灌肠 + 改"咨询儿科"}
+key_issues_medium:
+  - {card_id: C-S0-518, type: evidence_level, fix: A→B(松田引述丹麦/英国研究无具体出处,需 AAP/Surgeon General cross-validate)}
+  - {card_id: C-S4-703, type: evidence_level, fix: '便盆超 1 分钟就抱起'是 1960s 日式,降 C + 加 controversy}
+  - {card_id: C-S4-704, type: evidence_level, fix: '出牙不引起发热'与现代 2016 Pediatrics 综述不符,降 B + 加'轻微低热可能'}
+cross_source_dedup_with_SRC-023_L1_clusters:
+  - {cluster: [C-S2-696, C-S2-547], action: drop_C-S2-696, keeper: C-S2-547}
+  - {cluster: [C-S2-697, C-S2-549], action: merge, keeper: C-S2-549}
+  - {cluster: [C-S2-698, C-S2-550], action: merge, keeper: C-S2-550}
+  - {cluster: [C-S0-518, C-S0-367], action: merge, keeper: C-S0-367}
+  - {cluster: [C-S1-760, C-S2-546], action: merge, keeper: C-S2-546}
+  - {cluster: [C-S4-701, C-S6-670], action: merge, keeper: C-S6-670}
+  - {cluster: [C-S6-816, C-S7-757], action: keep_with_link, reason: 同立场不同行为}
+  - {cluster: [C-S7-755, C-S7-604], action: drop_C-S7-755, keeper: C-S7-604, reason: 100% 同主题 §387}
+  - {cluster: [C-S8-107, C-S7-758], action: merge, keeper: C-S8-107, reason: 同 §441-442 自慰主题 90% 重叠}
+notes: |
+  SRC-024 与 SRC-023 同书松田道雄《育儿百科》并行 session。
+  52% 卡片(25/48)与 SRC-023 有 L1/L2 重叠(预期内)。
+  SRC-024 内部 dedup 为零(独立性好)。
+  最大风险:3 张过时医学建议(异物急救/退热塞剂/夜啼灌肠)— P0 必修。
+  独有价值:23 张 SRC-023 没有的(自慰/反抗期/智力测试/性别刻板等敏感话题)— 不应删。
+  9 个 L1 跨源 cluster 强烈建议合并;13 个 L2 保留 + 互链。

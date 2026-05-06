@@ -1,0 +1,77 @@
+card_id: C-S2-1340
+stages: [S2]
+tags: [child_care, lamb_ahnert, infant, lerner_v4]
+
+front:
+  title: 婴儿托育 < 3 月不送
+  hook: < 3 月不送托
+
+back:
+  why_matters: |
+    Lamb-Ahnert V4 Ch 23(婴儿期托育立场)。
+    **< 3 月不送托原则**:
+    - 母婴依恋形成关键期
+    - 母亲恢复 + PPD 风险期
+    - 免疫系统未完全(感染风险高)
+    - 主要照护人需 1 个稳定
+    **3 月以后逐步**:
+    - 3-6 月:可短时托育(< 4 小时)
+    - 6-12 月:可半日托
+    - 12+ 月:可全日托(看个体)
+    **Lamb 关键发现**:
+    - 婴儿期托育**质量 + 一致性**最关键
+    - 师生比 < 1:4 是底线(< 12 月)
+    - 主要 caregiver 不轻易换
+    - 父母仍是主体
+    **母亲产假对娃影响**(Lamb 综述):
+    - 6+ 月产假:依恋形成稳
+    - 3-6 月产假:中等
+    - < 3 月产假:压力 + 依恋风险
+    - **政策应推 6+ 月产假**
+    **反 3 误区**:
+    - ❌ "新生儿可以送托"(< 3 月不优)
+    - ❌ "送早点习惯"(< 12 月不利)
+    - ❌ "父母上班娃就送"(质量更重要)
+    跟现库:跟 C-S0-1239 Lamb 总论 + Bowlby 依恋(SRC-011)+ AAP 母乳(SRC-006)对接。
+    对中国家长意义:
+    - < 3 月不送托(产假理想 6+ 月)
+    - 3-6 月可短时托
+    - 12 月以后再考虑全日
+    - 师生比 + 主 caregiver 稳定
+  what_to_do:
+    - < 3 月不送托
+    - 3-6 月可短时托
+    - 12 月后考虑全日
+    - 师生比 + 稳定为底线
+  failure_mode: |
+    "新生儿可托"— 错。< 3 月不优。
+    "早送早习惯"— 错。< 12 月不利。
+    "全送就好"— 错。质量最关键。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Lamb
+  - G-PERSON-Ahnert
+  - G-TERM-child-care-quality
+  - G-TERM-NICHD-ECCS
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 4 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 4 卷"
+  authors: ['Michael E. Lamb', 'Lieselotte Ahnert']
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 23 · Lamb-Ahnert · Infant child care timing · pp. 955-965"
+  source_id: SRC-029
+
+unit_ids: []
+related_cards:
+  - C-S0-1239     # Lamb 总论
+  - C-S6-1383     # V4 学步托育
+  - C-S8-751     # V4 5 维度选园
+  - C-S6-031     # Brazelton 选托育
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

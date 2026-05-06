@@ -1,0 +1,60 @@
+card_id: C-S4-185
+stages: [S4]
+tags: [cognitive_science, language, joint_attention]
+
+front:
+  title: 6-9 月学跟你看同一处
+  hook: 宝宝跟你看同一处
+
+back:
+  why_matters: |
+    Joint attention(共同注视)= 婴儿和大人**同时看同一个东西**的能力。
+    6-9 月起开始出现 — 是 theory of mind(心智理论)早期表现。
+    Gopnik 描述:1 岁前,宝宝发现"妈妈看的东西也值得我看"。
+    这不是被动跟随,是**主动信任他人指引**。
+    实验证据:
+    - 给 9 月宝宝看大人盯桌上某个新玩具
+    - 宝宝**也看那个玩具**(不是看大人脸)
+    - 跟随手指方向也开始(更早):6-9 月先跟眼神,后跟手指含义:你的注意力是宝宝的"探索地图" — 你看哪他看哪。
+    自闭症筛查重要节点:**18 月不会跟眼 / 不会指物 = 红旗**。
+    对中国家长意义:
+    - 跟宝宝玩"看那里"游戏(指 + 看 + 命名)
+    - 你看手机时宝宝也学会"看手机比看妈妈重要"
+    - 6-9 月起每天 30 分钟"专心看同一处"陪伴
+    - 18 月没 joint attention → 找儿保医生筛查
+  what_to_do:
+    - 抱宝宝时跟着他视线说话("你在看小狗")
+    - 引导他看你看的(指 + 命名)
+    - 6 月起多玩"指名"游戏(指物体 + 说名字)
+    - 自己少看手机,你的注意力是模板
+  failure_mode: |
+    "他还小,看不看一处无所谓" — 错。6-9 月是 joint attention 起步。
+    宝宝看一个东西你抢着指别的 — 错。先跟随他,再引导。
+    18 月仍不会跟眼 / 不会指物 — 不要忽视,找医生。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Gopnik
+  - G-PERSON-Meltzoff
+  - G-TERM-theory-of-mind
+  - G-TERM-baby-scientist
+
+citation:
+  book_title_en: "The Scientist in the Crib"
+  book_title_zh: "摇篮里的科学家"
+  authors: ["Alison Gopnik", "Andrew N. Meltzoff", "Patricia K. Kuhl"]
+  publisher_en: William Morrow
+  year: 1999
+  location: "Chapter 2 · The Really Eternal Triangle (joint attention)"
+  source_id: SRC-015
+
+unit_ids: []
+related_cards:
+  - C-S5-180       # pointing(将建)
+  - C-S4-068       # Bowlby 6-9 月依恋形成
+  - C-S5-181       # social referencing(将建)
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

@@ -1,0 +1,47 @@
+card_id: C-S1-2305
+stages: [S1]
+tags: [safety, red_flag]
+
+front:
+  title: 撞头后观察 6 小时,12 红旗送医
+  hook: 摔与身高相当 = 警戒
+
+back:
+  why_matters: |
+    1 岁内"小撞头"几乎人人遇上;但**与身高相当或更高**摔下、撞**头侧**伤害最重。
+    海蒂规定:**撞后认真观察 6 小时**,小睡每 1-2 小时叫醒一次,夜间每 2-3 小时一次。
+    出现下列**12 红旗任 1 项立刻打 120 / 急诊**;反之安抚 + 观察。
+    家长意义:不是所有撞头都急诊 — 但有红旗就一秒不能拖,中间灰色地带最易误判。
+  what_to_do:
+    - 观察 6 小时,睡眠中每 1-3 小时**确认能叫醒**
+    - 红旗:失意识 / 惊厥 / 难唤醒 / 呕吐≥2 次
+    - 颅骨凹陷 / 鼻耳出血或流清液 / 眼周或耳后乌青
+    - 瞳孔不等大或对光不收缩 / 异常苍白持久 / 平衡丧失头晕>1h
+    - 行为反常(混乱 / 不认人 / 极笨拙)/ 疼痛>1h 妨碍睡眠
+  failure_mode: |
+    "撞完哭一会就好"放心睡觉 → 错过迟发硬膜下出血(2-6 h 高峰)。
+    叫不醒以为"睡得香" → 已昏迷。
+    瞳孔不等大被忽略 → 颅内压升高未减压 → 脑疝。
+  evidence_level: A
+
+glossary_refs:
+  - G-ABBR-AAP
+
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1 岁"
+  authors: [Heidi Murkoff, Sharon Mazel]
+  publisher_en: Workman Publishing
+  publisher_zh: 南海出版公司(新经典发行)
+  year: 1989
+  edition: 3rd (2014)
+  location: "第 19 章《急救常识》'头部受到的伤害 32-33',579-580 页中译,12 红旗清单"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards: [C-S1-057, C-S1-061]
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

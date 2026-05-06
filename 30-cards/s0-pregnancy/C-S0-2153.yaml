@@ -1,0 +1,38 @@
+card_id: C-S0-2153
+stages: [S0]
+tags: [postpartum, mom, breastfeeding]
+front:
+  title: 哺乳妈妈每天多吃 400-500 大卡
+  hook: 边喂奶边减重小心断粮
+back:
+  why_matters: |
+    前情:产后想恢复身材但又在母乳。
+    哺乳要造奶,身体每天额外消耗 400-500 大卡。如果直接节食,
+    乳汁分泌会下降,妈妈也会虚脱。海蒂建议产后 6 周内不节食,
+    6 周后逐步减热量,但全程要保证基本摄入,双胞胎要加倍。
+  what_to_do:
+    - 哺乳期每天比孕前多吃 400-500 大卡
+    - 产后 6 周内不节食保乳量
+    - 6 周后减热量每天减 200-500 大卡
+    - 双胞胎乳汁需求加倍热量也要加倍
+    - 没医生监督别走极端饮食
+  failure_mode: 产后立刻减肥导致乳汁锐减、宝宝吃不饱、妈妈头晕乏力,严重时月经迟迟不来。
+  evidence_level: B
+glossary_refs: [G-TERM-postpartum-recovery]
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors: ["Heidi Murkoff", "Sharon Mazel"]
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh: ["莫夏迪", "张敏"]
+  location: "第 23 章 《妈妈的第一年》, 页 666-668"
+  source_id: "SRC-040"
+related_cards: [C-S0-2154, C-S0-2161]
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,67 @@
+glossary_id: G-ABBR-BFHI
+type: abbreviation
+display_name: "BFHI 母婴友好医院"
+
+en_term: "Baby-Friendly Hospital Initiative"
+zh_term: "母婴友好医院倡议"
+
+aliases:
+  - BFHI
+  - 母婴友好医院
+
+one_liner: |
+  BFHI 是 WHO+UNICEF 1991 启动的产院实操标准 — 10 步骤具体化母乳支持。
+
+detail: |
+  ## 定义
+  Baby-Friendly Hospital Initiative — WHO+UNICEF 1991 启动,2018 修订的产院认证标准。
+  
+  ## 10 步骤(2018 修订)
+  关键管理:
+  - 1a 遵守 Code
+  - 1b 书面婴儿喂养政策
+  - 1c 监测系统
+  - 2 员工训练
+  
+  关键临床:
+  - 3 产前讨论
+  - 4 立即肌肤接触
+  - 5 持续母乳支持
+  - 6 仅医学指征补充
+  - 7 24h 同室
+  - 8 反馈喂养
+  - 9 警告奶瓶/奶嘴
+  - 10 出院衔接
+  
+  ## 全球认证
+  - 152+ 国 15,000+ 设施(2011)
+  - 中国 6,000+ 爱婴医院(早期签署国)
+  - 瑞典 1997 全国 65 中心认证
+  - 美国 2018 512 医院
+  
+  ## 关键
+  'BFHI 标签 ≠ 真守 10 步' — 实操参差是普遍问题。
+
+key_facts:
+  - "WHO+UNICEF 1991 启动"
+  - "2018 修订 10 步"
+  - "中国 6000+ 爱婴医院"
+  - "标签≠真守 10 步"
+
+related_glossary:
+  - G-TERM-BFHI-10-steps
+  - G-ABBR-WHO
+  - G-TERM-WHO-Code
+
+related_cards:
+  - C-S0-1025
+  - C-S1-1002
+  - C-S1-1004
+
+sources:
+  - source_id: SRC-031
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

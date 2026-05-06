@@ -1,0 +1,112 @@
+glossary_id: G-TERM-wants-something-quality-time
+type: term
+display_name: Wants something / nothing 二分
+
+full_name_zh: '"Wants Something" QT / "Wants Nothing" QT(Magda QT 二分)'
+full_name_en: '"Wants Something" Quality Time / "Wants Nothing" Quality Time'
+
+one_liner: |
+  Magda Gerber 独家提出的高质量陪伴二分概念。
+  Wants Something = 有目标的合作护理(尿布 / 喂 / 洗澡)→ 慢 + 全注意 + 跟宝宝合作。
+  Wants Nothing = 无目标的在场观察 → 不要求宝宝表演。
+  替代主流"陪玩才是高质量"的简化想法。
+
+detail: |
+  ## 命名来源
+  Magda《自信的宝宝》Ch3 §What Is Quality Time? 独家二分。
+
+  Magda 反主流:
+  > "现在大家都在追 Quality Time,
+  > 又都觉得没给够,所以内疚。"
+
+  Magda 重新定义 Quality Time:**不是"陪玩"那种特殊时刻,
+  而是日常护理的态度**。
+
+  ## 核心数字
+  - 一辈子换尿布约 **6000 次**
+  - 喂奶 / 喂饭更多
+  - 这些日常时刻的累积影响远超偶尔"陪玩"
+
+  ## 二分定义
+
+  ### "Wants Something" Quality Time(有目标合作)
+  特征:
+  - 你跟宝宝有共同目标(完成尿布 / 喂完 / 洗完)
+  - 邀请合作,不是独自完成任务
+  - 慢 + 全注意 + 解说
+  - 期待宝宝参与("你能抬下小屁股吗")
+  - 即使他还做不到,期待 + 一致 = 习惯形成
+
+  Magda 给的反例(对比场景):
+  - **A 妈妈**:嫌脏 + 接电话 + 喊大孩子 + 快速换 → 5 分钟
+  - **B 妈妈**:先告知 + 等眼神 + 慢拿用品 + 全程对话 → 8 分钟
+  - 6000 次累积 → 完全不同的孩子
+
+  ### "Wants Nothing" Quality Time(无目标在场)
+  特征:
+  - 你没有目标 — 不喂不换不教
+  - 在场,看 / 听
+  - 不要求宝宝表演 / 互动
+  - 让宝宝知道:"你不必表演我才看你"
+  - 父母心也安(不必持续干预)
+
+  Magda 给的反例:
+  - 错:陪玩 = 必须给玩具 / 必须互动 / 必须假装兴奋
+  - 对:坐旁边看他研究自己的手 — 这就是给
+
+  ## 操作流程
+
+  ### Wants Something 一天 5+ 次机会
+  - 每次尿布
+  - 每次喂奶 / 喂饭
+  - 每次洗澡 / 擦身
+  - 每次穿脱衣
+  - 每次涂霜 / 剪指甲
+
+  ### Wants Nothing 一天留 10-30 分钟
+  - 你做你的事,娃自己玩
+  - 不强制陪 / 不焦虑"我没陪够"
+  - 偶尔抬眼看他,他不用回应你
+  - 跟"独立玩耍"接近但更柔(你在场不离场)
+
+  ## 跟其他派对比
+
+  | 派 | Quality Time 定义 |
+  |---|---|
+  | 主流 | 陪玩 / 出游 / 互动游戏 |
+  | RIE/Magda | 日常护理 + 在场观察 |
+  | Sears 派 | 几乎全程贴身 |
+  | 蒙氏 | uninterrupted work cycle |
+
+  ## 中国家长高频痛点
+  - "我每天忙工作没时间陪" → Magda 反:每天 6 次尿布就是 6 次 QT
+  - "我必须周末带娃出游补偿" → Magda 反:1 次特别 ≠ 6000 次日常
+  - "陪玩必须互动我累" → Magda 反:wants nothing 时段你休你的
+
+key_facts:
+  - Magda Gerber 独家二分概念
+  - Wants Something = 合作护理(尿布 / 喂 / 洗)
+  - Wants Nothing = 在场观察(不要求表演)
+  - 一辈子尿布 6000 次 = QT 累积金矿
+  - 替代"陪玩才是 QT"的主流简化
+
+related_glossary:
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+  - G-TERM-educaring
+  - G-TERM-respectful-parenting
+
+related_cards:
+  - C-S1-555  # 想要 vs 不想要 两类陪
+  - C-S3-499  # 6000 次尿布
+  - C-S3-501  # 让我参与我才懂
+
+sources:
+  - source_id: SRC-021
+  - source_id: SRC-019
+  - external: rie.org / Magda Gerber《Dear Parent》
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

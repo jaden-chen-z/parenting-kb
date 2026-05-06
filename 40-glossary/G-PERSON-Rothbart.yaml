@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Rothbart
+type: person
+display_name: "Rothbart(玛丽·罗斯巴特)"
+
+full_name_en: "Mary K. Rothbart"
+full_name_zh: "玛丽·罗斯巴特"
+
+position: |
+  University of Oregon 心理学教授
+
+contribution: |
+  气质 3 维度模型(反应度+自我调节+情绪基调);IBQ + CBQ 量表创立者
+
+one_liner: |
+  玛丽·罗斯巴特 — 气质 3 维度模型(反应度+自我调节+情绪基调);IBQ + CBQ 量表创立者
+
+key_facts:
+  - "本卷章节:Ch 3"
+  - "Lerner V3 命中:314 次"
+  - "学派:Lerner V3 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-027
+    chapter: "Ch 3"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

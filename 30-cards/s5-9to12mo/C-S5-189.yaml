@@ -1,0 +1,82 @@
+card_id: C-S5-189
+stages: [S5]
+tags: [montessori, sleep, controversy, philosophy]
+
+front:
+  title: 关门睡 + 不靠抱晃睡
+  hook: 自我入睡是关键技能
+
+back:
+  why_matters: |
+    Lillard Ch7 关于睡眠的核心立场 — **从婴儿期就建立"自己入睡"能力**:
+    Lillard 强调的反常识做法:
+    - **关门睡**(从婴儿起,关安全门 — 不在父母床上)
+    - **不抱睡**(放下来时已睡 = 永远要抱才睡)
+    - **不摇睡**(变成睡眠依赖)
+    - **不奶瓶 / pacifier 入睡**(变成依赖物)
+    - **6 周-3 月起练**(2-3 月可全夜睡,6 月该完整)
+    Lillard 直接说:**"你不是闭门关孩子,是给孩子'我能自己睡好'的礼物"**。
+    实操步骤:
+    - 7 点固定上床仪式(洗澡 → 睡前故事 → 唱歌 → 关灯 → 关门)
+    - 半夜哭 → 拍拍背 → 走开("我会早上来看你")
+    - 3 个月起就让宝宝试自己入睡(困了放下)
+    - 用过渡物(小毯 / 软玩具)当替代但不要奶瓶
+    - 不在亲子床(co-sleep)
+    Lillard 立场比 Davies 更强 — Davies(C-S5-134 戒奶嘴)说"1 岁前戒",Lillard 是从一开始就不养成。
+    跟"中国家庭妈妈陪睡到 3-5 岁"主流**完全对立** — Lillard:**这是给宝宝长期自我睡眠 + 大人也得睡好双赢**。
+  what_to_do:
+    - 7 点固定上床仪式
+    - 关门睡(安全门,不锁)
+    - 不抱睡 / 不摇睡 / 不奶瓶睡
+    - 半夜哭 = 拍背 + 走开
+    - 用小毯过渡物(不是奶瓶)
+  failure_mode: |
+    "关门睡好可怕" — 实际:这是给宝宝礼物(自我入睡)+ 大人也睡好。
+    抱睡奶睡 → 1 岁不能离开 → 2 岁还要陪睡 → 5 岁妈妈睡客厅。
+  evidence_level: B
+
+  positions:
+    issue: 睡眠训练方法选择 · 何时启动 · 哭多久才合理
+    views:
+      - school: Lillard(蒙氏)
+        source: SRC-016
+        stance: 6 月起关门睡 + 不抱不晃,孩子哭也不进。训练派立场最激进。
+      - school: Brazelton
+        source: SRC-010
+        stance: 温和拍背 + 浅睡期演练。中间立场,父母在场但减少介入。
+      - school: Davies
+        source: SRC-014
+        stance: 反对强训 — 6-16 月黏人是健康表现,过度训练有依恋代价。
+      - school: AAP / Bowlby
+        source: SRC-006/011
+        stance: AAP 6 月+ 可启动温和方法;Bowlby 反对长时间哭训,需评估孩子类型。
+      - school: 海蒂(Ferber 派)
+        source: SRC-040
+        stance: 温和 Ferber 法 / 改良 Ferber — 主流大众方案;节奏接近 Lillard 但更弹性,不极端关门。
+      - school: 中国传统
+        stance: 陪睡到学龄,不"训练"以避免分离焦虑;倾向自然戒断。
+glossary_refs:
+  - G-PERSON-Lillard
+  - G-PERSON-Jessen
+  - G-TERM-floor-bed
+
+citation:
+  book_title_zh: "蒙台梭利从 0 岁开始"
+  book_title_en: "Montessori from the Start"
+  authors: ["Paula Polk Lillard", "Lynn Lillard Jessen"]
+  authors_zh: ["宝拉·波尔克·莉拉德", "琳·莉拉德·杰森"]
+  publisher_en: "Schocken Books"
+  year_en: 2003
+  isbn_en: "978-0-8052-1112-1"
+  location: "Ch 7 · Sleep (closed door + 自我安抚)"
+  source_id: SRC-016
+
+unit_ids: []
+related_cards:
+  - C-S5-134       # Davies 1 岁前戒奶嘴
+  - C-S3-133       # Davies 地板床
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

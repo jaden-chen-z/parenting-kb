@@ -1,6 +1,6 @@
 card_id: C-S3-077
 stages: [S3]
-tags: []
+tags: [philosophy]
 
 front:
   title: 不同妈带出不同娃
@@ -39,7 +39,7 @@ citation:
   year_en: 1969
   year_zh: 2017
   isbn: "978-7-5192-2927-6"
-  location: "第十六章 依恋的模式和影响因素(David & Appell 1966 巴黎 25 对母婴研究 — 每一对母婴通常都已经发展出高度特异化的互动模式;研究者:在一岁前,互动的量更多地取决于母亲,而不是婴儿)"
+  location: "第十六章依恋的模式和影响因素(David & Appell 1966 巴黎 25 对母婴研究 — 每一对母婴通常都已经发展出高度特异化的互动模式;研究者:在一岁前,互动的量更多地取决于母亲,而不是婴儿)"
   source_id: SRC-011
 
 unit_ids: []

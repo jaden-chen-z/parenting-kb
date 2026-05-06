@@ -1,0 +1,74 @@
+card_id: C-S8-755
+stages: [S8]
+tags: [head_start, zigler, lerner_v4]
+
+front:
+  title: Head Start 60 年
+  hook: 美国早教 60 年
+
+back:
+  why_matters: |
+    Head Start(美国全国早教项目,Zigler 1965 联合创办)— V4 全卷 275 hits 高频引用。
+    **Head Start 60 年历史**:
+    - 1965 Johnson "Great Society" 政策启动
+    - Zigler 是创始人之一(V4 Ch 14 Powell + Ch 18 McLoyd 引用)
+    - 90% 以上美国低收入娃参与过
+    - 政策化 + 持续化 = 模型
+    **Head Start RCT 证据**:
+    - 短期(1-2 年):学业 + 社交提升
+    - 中期(5-10 年):学业 fade-out 但行为持续
+    - 长期(20+ 年):学业 + 健康 + 收入提升
+    - ROI:7-9 倍(Heckman 经济曲线核心源)
+    **Zigler 立场**(本卷反复):
+    - Head Start 不是单纯早教
+    - 是 **comprehensive**(包含健康 / 营养 / 父母教育)
+    - 政策连续性比单次干预强
+    - 中国"早教班"不能直接对标
+    **3 大成功要素**:
+    - **早**:3-5 岁
+    - **comprehensive**:多维(教育+健康+父母+营养)
+    - **政策化**:政府支持持续 60 年意义:
+    - 中国如何借鉴?需政策化 comprehensive 项目
+    - 单纯早教班不能替代
+    - 农村 / 流动儿童核心干预方向跟现库:跟 NFP(C-S0-1242)+ Abecedarian(C-S0-1237)+ McLoyd 贫困(C-S8-747)对接。
+    对中国家长意义:
+    - 早教不只是认字 / 数学
+    - 健康 + 营养 + 父母教育 + 教育 = comprehensive
+    - 选政策化 / 持续化项目
+    - 单次班课不持久
+  what_to_do:
+    - 早教不只是认字数学
+    - 看 comprehensive 项目(健+营+父+教)
+    - 选持续化政策化
+    - 单次班课不持久
+  failure_mode: |
+    "早教 = 认字"— 错。comprehensive 才是 Head Start。
+    "短期班就行"— 错。需持续。
+    "中国早教班 = Head Start"— 错。需政策化。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Zigler
+  - G-PERSON-Styfco
+  - G-TERM-head-start
+  - G-TERM-comprehensive-intervention
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 4 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 4 卷"
+  authors: ['Edward Zigler (cited)']
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 14 · Head Start 60-year (cross-chapter) · pp. 570-580"
+  source_id: SRC-029
+
+unit_ids: []
+related_cards:
+  - C-S8-208     # Shonkoff Abecedarian
+  - C-S8-209     # Shonkoff Head Start fade-out
+  - C-S0-1242     # NFP 30 年
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

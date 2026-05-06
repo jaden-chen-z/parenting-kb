@@ -1,0 +1,53 @@
+card_id: C-S6-1506
+stages: ['S6']
+tags: ['philosophy', 'lerner_v1', 'shweder', 'cultural_psychology', 'controversy']
+
+front:
+  title: "反白人中产单一标准"
+  hook: "美式标准非是真理"
+
+back:
+  why_matters: |
+    Lerner V1 多章(Shweder / Spencer / Parke-Buriel)指出 — 80% 育儿研究是基于美国白人中产家庭,
+    这些研究产出的"标准"不一定适合其他文化(包括中国家庭)。
+    经典例子 —
+    - "陌生人焦虑 8-10 月"是白人中产数据 → 多人养文化(中国 / 非洲)中症状不同
+    - "self-esteem 培养"是美式独立 self → 中国互依 self 不一定需要单独培养
+    - "Authoritative parenting 最优" → 是白人中产数据 → 亚洲 "严而暖" 文化下 专制型 + warm 也有好结果(Chao 1994)
+    意义 — 中国家长读美式育儿书,要"翻译"不是直接套用。
+    保留中国文化优势 — 多人养 / 集体感 / 严而暖 / 教养并重。
+  what_to_do:
+    - "美式育儿书 — 翻译不照搬"
+    - "中国'严而暖'也有效(数据支持)"
+    - "集体感 / 多人养是优势不是缺陷"
+    - "不必培养'美式 self-esteem'"
+    - "看中国文化下的研究(Chao / Chen)"
+  failure_mode: |
+    美式标准全套用 — 错。文化不匹配会反效果。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Shweder
+  - G-PERSON-Spencer
+  - G-TERM-cultural-psychology
+  - G-TERM-cross-cultural-validity
+
+related_cards:
+  - C-S0-1524
+  - C-S0-1525
+  - C-S8-323
+  - C-S8-324
+
+citation:
+  source_id: SRC-030
+  source_title: "Handbook of Child Psychology Vol 1: Theoretical Models of Human Development"
+  chapter: "Ch 13 Shweder + Ch 15 Spencer"
+  chapter_offset: 3997026
+  chapter_title: 'Shweder / Goodnow / Hatano / LeVine / Markus / Miller — Cultural Psychology'
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_followup_needed: 'SRC-030 用 PDF 字节偏移代页码 — 待加 page_pdf 反查工具'

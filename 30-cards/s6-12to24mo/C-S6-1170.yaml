@@ -1,0 +1,62 @@
+card_id: C-S6-1170
+stages: [S6]
+tags: [cognitive_science, gesture, goldin_meadow, lerner_v2]
+
+front:
+  title: 手势能预测半年后的词
+  hook: 手在嘴前透剧情提示
+
+back:
+  why_matters: |
+    Goldin-Meadow 综述(Lerner V2 Ch8 主笔)+ Iverson/Goldin-Meadow 2005。
+    长期跟踪研究:
+    - 14 月手势量(指 / 模仿 / 假装)→ 预测 24 月词汇量
+    - 手势类型转移**先于**词类型转移
+    - eg 14 月用"两手"表达"大",16-18 月才说"big"
+    - 手势先 6 个月透露概念已到位意义:
+    - Goldin-Meadow 立场:手势是"思维的窗口"
+    - 看手势 = 看孩子认知前沿
+    - 数学课堂研究:学生解题手势先于口语正确
+    - 这是 Bates 手势-语言连续的细化版跟现库:C-S5-1142 Bates 手势-语言连续。
+    Lerner V2 给 Goldin-Meadow 实证综述 + 教学应用。
+    对中国家长意义:
+    - 看宝宝手势就知道他下半年会说什么
+    - 手势多 = 词汇基础好(不用焦虑词少)
+    - 教孩子做"动作 + 词"双轨(乘车 + 比"前"手势 + 说"前面")
+    - 教学应用:数学推理时用手势更易理解
+  what_to_do:
+    - 12-18 月观察宝宝手势 + 跟随 + 命名
+    - 教内容时同步用手势(双轨学)
+    - 看到手势"先于词"现象别担心
+    - 数学几何概念用手势辅助
+  failure_mode: |
+    "手势是因为不会说" — 错。手势是思维领先。
+    "教时不用手势" — 没必要,但有益。
+    "手势多 = 词汇延迟" — 错。反而预测加速。
+  evidence_level: B
+
+glossary_refs:
+  - G-TERM-language-explosion
+  - G-TERM-fast-mapping
+  - G-PERSON-Goldin-Meadow
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 2 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 2 卷"
+  authors: ["Susan Goldin-Meadow"]
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 8 · Gesture predicts future learning · pp. 343-352"
+  source_id: SRC-028
+
+unit_ids: []
+related_cards:
+  - C-S5-1142     # Bates 手势-语言连续
+  - C-S6-1167     # 词汇爆炸
+  - C-S5-1140     # Tomasello 9 月革命
+  - C-S6-018       # Lillard 词汇爆炸
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

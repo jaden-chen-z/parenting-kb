@@ -1,0 +1,58 @@
+card_id: C-S5-595
+stages: [S5]
+tags: [stranger-anxiety, RIE, social]
+
+front:
+  title: "怕生不是没礼貌"
+  hook: "千万别强抱亲戚怀里"
+
+back:
+  why_matters: |
+    Magda《自信的宝宝》Ch7 §Stranger Anxiety。
+    9-12 月起宝宝怕陌生人(包括平时不见的爷爷奶奶 / 阿姨)。
+    Magda 立场鲜明:**绝不强迫宝宝被人抱 / 被人亲。**
+    包括亲戚朋友。Stranger anxiety 是宝宝"自我保护反应"
+    在筛选谁可信。强迫 = 教他无视自己的不安全信号。
+    中国家长高频痛点:"叫阿姨好"、"亲一下",拒绝就说"没礼貌"。
+    Magda 反:这把宝宝训练成"懂礼貌但不信自己" — 长大易被操控 / 难拒绝。
+    "保持一定的 stranger wariness 是重要的 — 一辈子都重要。"
+
+  what_to_do:
+    - 坚定:"她在我怀里就好"
+    - 跟亲戚说:"她需要观察一下"
+    - 不强迫亲 / 不强迫拥抱
+    - 让宝宝自己决定何时凑近
+    - 你跟亲戚先聊起来,宝宝看你不慌
+
+  failure_mode: |
+    "亲戚抱一下又不会怎样" → Magda 反:那一下教宝宝"我的不舒服不重要"。或"我家娃从小不怕生" → 反:或者她已学会压抑信号,
+    或者她真的没遇过陌生场,前者长期有害。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+  - G-TERM-respectful-parenting
+
+citation:
+  book_title_en: "Your Self-Confident Baby"
+  book_title_zh: "自信的宝宝"
+  authors:
+    - Magda Gerber
+    - Allison Johnson
+  publisher_en: John Wiley & Sons
+  year: 1998
+  location: "Ch7 §Stranger Anxiety(p152)"
+  source_id: SRC-021
+
+unit_ids: []
+related_cards:
+  - C-S5-393  # Lansbury 黏人是健康
+  - C-S5-076  # Bowlby V1 分离焦虑
+  - C-S6-068  # Bowlby V1 内在工作模型
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

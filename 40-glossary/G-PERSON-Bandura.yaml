@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Bandura
+type: person
+display_name: "Bandura(阿尔伯特·班杜拉)"
+
+full_name_en: "Albert Bandura"
+full_name_zh: "阿尔伯特·班杜拉"
+
+position: |
+  Stanford 心理学教授
+
+contribution: |
+  社会学习理论 + 自我效能 4 来源;模仿研究
+
+one_liner: |
+  阿尔伯特·班杜拉 — 社会学习理论 + 自我效能 4 来源;模仿研究
+
+key_facts:
+  - "本卷章节:Ch 9"
+  - "Lerner V3 命中:112 次"
+  - "学派:Lerner V3 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-027
+    chapter: "Ch 9"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

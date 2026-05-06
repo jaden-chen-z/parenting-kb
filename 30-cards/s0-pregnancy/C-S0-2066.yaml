@@ -1,0 +1,56 @@
+card_id: C-S0-2066
+stages: [S0]
+tags: [safety, red_flag]
+
+front:
+  title: 宠物迎新生儿:孕期就训练
+  hook: 别等出院才介绍
+
+back:
+  why_matters: |
+    宠物迎新生儿(pet introduction)= 家有狗/猫的孕妇必修课。
+    海蒂强调:被当"独子"养的宠物突然让位很容易嫉妒甚至攻击宝宝。攻击案例多发于"事先没准备"的家庭。
+    狗的风险:扑跳 / 守食 / 咬挑衅;猫的风险:跳进婴儿床压住宝宝口鼻、抓伤。
+    准备核心:宠物新身份过渡(从"独子"到"哥姐") + 婴儿气味提前接触 + 边界训练。
+    不要等出院才介绍 — 那时宠物完全没心理准备,反应难控。
+  what_to_do:
+    - 孕期送狗去基本服从训练班
+    - 邀请有娃朋友来家 / 用婴儿娃娃做道具排练
+    - 婴儿房门口装栏杆,不让宠物入内
+    - 出院前让爸爸把宝宝旧衣服带回家给宠物闻
+    - 喂奶时摸狗,推车出门带狗 — 让它感觉没被替代
+    - 任何攻击迹象立即隔离 / 严肃训斥
+  failure_mode: |
+    出院当天才介绍 → 宠物震惊 + 嫉妒 + 攻击概率最高。
+    宝宝出生后冷落宠物 → 宠物把负面情绪转嫁宝宝。
+    "我家狗温和不会咬" → 压力下任何狗都可能咬。
+    猫睡进婴儿床 → 压住口鼻引发窒息,需安装床帐。
+  evidence_level: B
+
+glossary_refs:
+  - G-ABBR-SIDS
+
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors:
+    - Heidi Murkoff
+    - Sharon Mazel
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh:
+    - 莫夏迪
+    - 张敏
+  location: "第 1 章临产前的准备 · 让宠物做好准备"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards: []
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

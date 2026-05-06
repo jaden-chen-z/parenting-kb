@@ -1,0 +1,27 @@
+glossary_id: G-TERM-scaffolding
+type: term
+display_name: scaffolding 搭脚手架
+
+en_term: scaffolding
+zh_term: 搭脚手架
+
+one_liner: |
+  Bruner 1976 概念(借自 Vygotsky ZPD 邻近发展区)— 比孩子能做的高一点点,
+  你帮一把 + 让他做 + 渐渐撤支持。是 NRC Ch 5 推荐的"toddler 自调发展"工具。
+  例:他想自己穿袜但滑了 → 你扶住他的手 + 他自己拉。
+
+related_glossary:
+  - G-PERSON-Shonkoff
+  - G-PERSON-Bruner
+  - G-TERM-self-regulation
+
+related_cards: []
+
+sources:
+  - source_id: SRC-025
+  - external: Bruner 1976 / Vygotsky ZPD
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

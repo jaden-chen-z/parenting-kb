@@ -1,0 +1,41 @@
+card_id: C-S1-2210
+stages: [S1]
+tags: [red_flag]
+front:
+  title: 囟门红旗信号
+  hook: 凸=压力凹=脱水
+back:
+  why_matters: |
+    宝宝头顶上的"软点"= 囟门 — 头骨未完全闭合的开口,日常护理触摸不会伤到。
+    前囟(菱形、可达 5cm、6 月开始闭合、18 月完全闭合)、后囟(三角形、不到 1.5cm、第 3 个月闭合)。
+    平静时摸到搏动正常(头皮下脑血管),宝宝大哭/用力时可能略凸出 — 也正常。
+    三种红旗:1)持续凸出(不仅大哭时)→ 可能颅内压增高;2)明显凹陷 → 脱水信号;3)前囟在 3 个月还提前闭合 → 可能头部畸形。
+    任何一种红旗都要立即就医。
+  what_to_do:
+    - 平静时摸到搏动 = 正常
+    - 大哭时略凸 = 正常
+    - 持续凸出立即就医(颅内压)
+    - 明显凹陷立即就医(脱水)
+    - 后囟过早完全闭合立即就医
+  failure_mode: |
+    害怕碰到囟门 → 该护理时不敢清洗。
+    没识别脱水的囟门凹陷信号 → 延误补液 → 加重脱水。
+  evidence_level: A
+glossary_refs: [G-TERM-fontanel]
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors: ["Heidi Murkoff", "Sharon Mazel"]
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh: ["莫夏迪","张敏"]
+  location: "第 6 章第一个月 · 囟门, 页 159-160"
+  source_id: SRC-040
+related_cards: []
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

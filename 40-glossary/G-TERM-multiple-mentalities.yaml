@@ -1,0 +1,28 @@
+glossary_id: G-TERM-multiple-mentalities
+type: term
+display_name: "多元心智论 / multiple mentalities"
+
+name_en: "multiple mentalities"
+name_zh: "多元心智论"
+
+description: |
+  Shweder 命题 — 一个心智多种表达,不是普世单一。
+  互依 self ≠ 独立 self 的初级阶段,是不同 mentality。
+
+one_liner: |
+  多元心智论(multiple mentalities)— Shweder 命题 — 一个心智多种表达,不是普世单一。
+
+key_facts:
+  - "Lerner V1 元理论卷核心术语"
+  - "学派:Lerner V1 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

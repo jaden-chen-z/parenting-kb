@@ -1,0 +1,69 @@
+card_id: C-S6-1381
+stages: [S6]
+tags: [bilingual, snow, lerner_v4]
+
+front:
+  title: 12-24 月双语接触
+  hook: 12-24 月双语接触
+
+back:
+  why_matters: |
+    Snow V4 Ch 3 双语章(12-24mo 实操)。
+    **12-24 月双语关键期**:
+    - 大脑还能轻易接受多语
+    - **接触量比深度重要**(听力曝露)
+    - 父母不必担心"中文不好怎么办"
+    - 真人互动 > 视频
+    **3 大原则**(Snow 综述):
+    - **数量**:每语 ≥ 25% 时间(每天)
+    - **质量**:跟人对话,不只听音频
+    - **稳定**:不轻易切语种(同一活动同一语言)
+    **反 4 误区**:
+    - ❌ "12 月学英文损中文"(反例:平衡双语者中文也好)
+    - ❌ "等大了再学"(12-24 月是大脑最优窗口)
+    - ❌ "看英文动画就够"(社会化效应而非语言习得)
+    - ❌ "找英文老师就够"(比父母自己说效果差)
+    **家庭策略**:
+    - **One Parent One Language(OPOL)**:爸说中文 / 妈说英文
+    - **One Place One Language**:在家中文 / 在外英文
+    - **One Time One Language**:早上中文 / 晚上英文跟现库:跟 V2 Kuhl 知觉重组(C-S5-1142)+ V4 C-S8-732 双语主论对接。
+    对中国家长意义:
+    - 12-24 月接触双语 OK 不损中文
+    - 真人对话 > 看视频
+    - OPOL/OPOL/OTOL 选一稳定执行
+    - 不必焦虑"中文不够好"
+  what_to_do:
+    - 12-24 月接触双语 OK
+    - 真人对话 > 看视频
+    - 选一种语言策略稳定执行
+    - 不焦虑中文不够好
+  failure_mode: |
+    "12 月学英文损中文"— 错。母语强双语都强。
+    "等大了再学"— 错。12-24 月是窗口。
+    "看动画就够"— 错。社会化非习得。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Snow-Catherine
+  - G-TERM-bilingual
+  - G-PERSON-Kuhl
+
+citation:
+  book_title_en: "Handbook of Child Psychology, Vol 4 (6th ed)"
+  book_title_zh: "儿童心理学百科 · 第 4 卷"
+  authors: ['Catherine E. Snow', 'Jennifer Yusun Kang']
+  publisher_en: John Wiley & Sons
+  year: 2006
+  location: "Ch 3 · Snow · 12-24mo bilingual exposure · pp. 85-95"
+  source_id: SRC-029
+
+unit_ids: []
+related_cards:
+  - C-S5-1142     # V2 Kuhl 知觉重组
+  - C-S8-732     # V4 双语不损母语主论
+  - C-S6-927     # Shonkoff 词汇爆发
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

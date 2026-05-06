@@ -1,0 +1,49 @@
+card_id: C-S5-650
+stages: [S5]
+tags: [weaning, table-food, anti-old-rule]
+
+front:
+  title: 1 岁可吃米饭
+  hook: "战前老规矩已经修改"
+
+back:
+  why_matters: |
+    松田说:战前老食谱"不满 1 岁不能给米饭"是对从 7 月才开始辅食的婴儿制定的。
+    现在 4-5 月就开始辅食,1 岁前已厌倦吃粥。
+    爸用筷子夹米饭给娃尝过 → 娃记住了米饭味,粥就不爱吃。
+    "1 岁前只能粥"已被现代修改 — 9-10 月可吃软米饭。
+  what_to_do:
+    - 9-10 月起娃要可尝软米饭
+    - 米饭比粥更耐嚼锻炼牙
+    - 跟大人同桌吃,不分桌
+    - 选大人无盐/调味的部分
+    - 别强行回粥
+  failure_mode: |
+    奶奶坚持"1 岁前不能米饭" → 娃 1 岁后突然换饭 → 适应难 + 厌食。
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Matsuda
+
+citation:
+  book_title_zh: "定本《育儿百科》"
+  book_title_jp: "育児の百科(定本)"
+  authors: ["松田道雄"]
+  translators_zh: ["王少丽"]
+  publisher_zh: null
+  year: 1980
+  edition: "定本"
+  location: "第 272 节断奶的方法"
+  source_id: SRC-023
+
+unit_ids: []
+related_cards:
+  - C-S5-649  # 自卷:反严格断奶食谱
+  - C-S4-552  # 自卷:米粥不如牛奶能量
+  - C-S5-023  # Brazelton 9 月断奶不必赶
+  - C-S5-186  # 蒙氏断奶椅替高脚椅
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

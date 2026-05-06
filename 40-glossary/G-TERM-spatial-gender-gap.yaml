@@ -1,0 +1,37 @@
+glossary_id: G-TERM-spatial-gender-gap
+type: term
+display_name: 空间思维性别差
+
+en_term: Spatial Thinking Gender Gap
+zh_term: 空间思维性别差
+
+one_liner: |
+  Liben — 男娃空间均值高,但 80% 是经验差(玩具/运动/游戏)。可训练消除。
+
+detail: |
+  ## 定义
+  Liben — 男娃空间均值高,但 80% 是经验差(玩具/运动/游戏)。可训练消除。
+
+  ## V4 出处
+  Lerner Handbook of Child Psychology Vol 4 (Wiley 2006 第 6 版)反复引用。
+
+  ## 跨派对接
+  V4 综述权威立场,跨章节多次出现,跟现库其他派有立场对照。
+
+  ## 中国家长意义
+  详见相关知识卡。
+
+key_facts:
+  - "Lerner V4 反复引用术语"
+  - "应用心理学综述权威定义"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-029
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,36 @@
+card_id: C-S4-2151
+stages: [S4]
+tags: [feeding]
+front:
+  title: 拒辅食 4 招,换形状别哄战
+  hook: 别用饭哄,会成谈判
+back:
+  why_matters: |
+    7-8 月辅食推进期娃突然拒食很常见,海蒂给出 4 个不踩坑的应对策略。
+    换形状(泥→粒→块)而非换种类——可能是质地不喜欢;自己喂(给小勺娃自主控制);短餐(15-20 分钟自然结束,不追喂);饥饿优先(餐前 2 小时不给零食奶水)。最忌:逗哄、追喂、电视下饭、用零食换正餐。
+  what_to_do:
+    - 同食物换不同形状再试
+    - 给娃自己抓自己舀的小勺
+    - 15-20 分钟撤盘不追喂
+    - 餐前 2 小时不喂奶不给零食
+    - 不开电视不演节目
+  failure_mode: 追着喂+开动画+答应给奖励才肯吃,娃学会"吃饭=要挟筹码",每顿耗 1 小时还吃不全。
+  evidence_level: B
+glossary_refs: []
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors: ["Heidi Murkoff", "Sharon Mazel"]
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh: ["莫夏迪","张敏"]
+  location: "第 11 章 《第 7 个月》, 页 415-419"
+  source_id: "SRC-040"
+related_cards: [C-S4-2146, C-S4-2144]
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

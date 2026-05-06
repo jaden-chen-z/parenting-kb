@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Sanders
+type: person
+display_name: "Sanders(马修·桑德斯)"
+
+full_name_en: "Matthew R. Sanders"
+full_name_zh: "马修·桑德斯"
+
+position: |
+  University of Queensland, Australia
+
+contribution: |
+  Triple P 5 级父母教育
+
+one_liner: |
+  马修·桑德斯 — Triple P 5 级父母教育
+
+key_facts:
+  - "本卷章节:Ch 14(引用)"
+  - "Lerner V4 命中:0 次"
+  - "学派:Lerner V4 应用心理学派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-029
+    chapter: "Ch 14(引用)"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

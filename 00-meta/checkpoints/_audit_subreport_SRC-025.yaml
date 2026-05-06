@@ -1,0 +1,31 @@
+source_id: SRC-025
+total_cards: 68
+totals_per_issue:
+  citation_scope_creep: 2          # NRC 之后(Christakis 2004)的研究混入 NRC 2000 卡
+  data_precision: 1
+  data_specificity: 2
+  data_attribution: 3
+  conflicts_unresolved: 3
+  data_outdated: 1
+  medical_advice_tone: 1
+  total_issues: 14
+key_issues:
+  - {card_id: C-S6-934, type: citation_scope_creep, severity: P1, fix: 引 'Christakis 2004 ADHD 风险'但 NRC 2000 综述里不可能有,citation 时间倒挂}
+  - {card_id: C-S2-807, type: citation_scope_creep, severity: P2, fix: 'serve-and-return' 是 Shonkoff 后续 Center work 不在 NRC 2000}
+  - {card_id: C-S5-907, type: data_precision, severity: P2, fix: '6 月领养→几乎完全恢复'数字过乐观,改'恢复较完整'}
+  - {card_id: C-S5-905, type: medical_advice_tone, severity: P2, fix: '9-12 月没指物→自闭症筛查'时间窗激进,M-CHAT 标准 18 月}
+  - {card_id: C-S6-927, type: data_specificity, severity: P2, fix: '12 月 50 词'偏高,标准是 3-5 词}
+intra_source_dedups:
+  - {cluster: [C-S0-619, C-S0-622, C-S8-216], level: L2_meta_overlap, action: keep_with_role_clarification, keeper: C-S0-622, reason: 3 张 NRC 元层总纲卡(反早教 4 定理 / 6 原则 / 5 句话总结)50%+ 重叠}
+  - {cluster: [C-S5-906, C-S7-863], level: L2, action: refactor, keeper: C-S5-906, reason: PFC 1 岁起爆 + 执行功能 3 岁起步,都引 Diamond 重叠 inhibition/working memory/cognitive flexibility}
+  - {cluster: [C-S4-810, C-S6-933], level: L2, action: refactor_or_merge, keeper: C-S6-933, reason: 选托育 4 硬指标 + 好托育胜全职妈,师生比 1:3-1:4 / 师培 / 师德 / 班级人数 完全重复}
+  - {cluster: [C-S6-926, C-S6-930], level: L2, action: refactor, keeper: C-S6-926, reason: 30M 词汇差距 + 对话型胜命令型,都引 Hart-Risley}
+  - {cluster: [C-S5-908, C-S6-926, C-S6-930], level: L2, action: tightening_review, keeper: C-S5-908, reason: Hart-Risley 三 framing(child-directed/30M words/对话 4 元素)}
+  - {cluster: [C-S0-619, C-S3-806, C-S3-808, C-S7-866, C-S8-207, C-S8-210, C-S8-213], level: L3_theme, action: phase_c_super_cluster, reason: 反早教焦虑 7 张 — 中国家长 take-away 90% 一致,Phase C 与 Gopnik/Lillard 做反早教 super cluster}
+  - {cluster: [C-S2-806, C-S3-809, C-S8-211, C-S8-219], level: L3_theme, action: keep_all, reason: cortisol/慢性应激 4 张:抑郁/HPA 机制/贫困/失业 — 系列合理}
+notes: |
+  NRC 2000 综述卡 68 张高质量。62 张 A / 6 张 B 标尺合理。
+  最大问题:2 张 NRC 之后研究(Christakis 2004 / serve-and-return Center work)混入 NRC 2000 citation。
+  conflicts.md 锚点缺失(C-S2-804/C-S6-932/C-S7-867 标 conflicts 但未指 specific record)。
+  内部 dedup 主集中在 5 个 cluster:NRC 元层总纲 / PFC + 执行功能 / 托育质量 / Hart-Risley 词汇 / 反早教主题。
+  Phase C 跨源比对预期热点:NRC ↔ Gopnik/Lillard/Bowlby/Stern/Brazelton/松田 多源高度重叠。

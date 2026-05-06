@@ -1,0 +1,72 @@
+glossary_id: G-PERSON-Markman
+type: person
+display_name: Markman
+
+full_name_en: Ellen M. Markman
+full_name_zh: 艾伦·M·马克曼
+
+one_liner: |
+  美国发展心理学家(斯坦福大学教授),词义约束 3 条理论奠基人。
+  解释为什么宝宝学新词不会"猜遍 1 万种可能"。
+
+detail: |
+  ## 个人背景
+  - 宾夕法尼亚大学博士
+  - 斯坦福大学心理学教授
+  - 美国国家科学院院士
+
+  ## 核心理论:词义 3 约束(1989)
+  解决 Quine "Gavagai 问题":大人指物说"狗",宝宝怎么知道指什么?
+
+  1. **Whole Object Constraint**(整体物体)— 默认指整个物体不是部分
+  2. **Taxonomic Constraint**(分类)— 默认指同类物体不是空间相邻
+  3. **Mutual Exclusivity Constraint**(互斥)— 默认每物只一个词
+
+  ## 经典实验
+  - 18-24 月宝宝看熟物 + 陌生物
+  - 大人说"给我 dax" — 宝宝自动给陌生物
+  - 互斥约束实证
+
+  ## 立场
+  - 词学习不靠遍试,靠先天约束
+  - 跟 Bloom 词汇爆炸 + Carey fast mapping 同方向
+  - 部分先天派
+
+  ## 中国家长意义
+  - 教词不需要"100 次解释" — 3 约束帮孩子缩范围
+  - 一物一词稳定 — 互斥约束才稳
+  - 不焦虑"多名混乱"(自动处理)
+
+  ## 在本知识库中
+  - SRC-028 Lerner V2 Ch7 引用经典(89 hits)
+  - C-S6-1164 Markman 3 约束总
+  - C-S6-1165 互斥约束实证
+
+  ## 学术影响
+  - 词学习领域奠基人之一
+  - 著作《Categorization and Naming in Children》(1989)
+  - 跟 Carey / Bloom 形成词学习派
+
+key_facts:
+  - 斯坦福大学心理学教授
+  - 词义 3 约束理论奠基
+  - 互斥约束实验
+  - 美国国家科学院院士
+
+related_glossary:
+  - G-PERSON-Carey
+  - G-TERM-fast-mapping
+  - G-TERM-language-explosion
+
+related_cards:
+  - C-S6-1164
+  - C-S6-1165
+
+sources:
+  - source_id: SRC-028
+  - external: Markman 1989 / Wikipedia Ellen Markman
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

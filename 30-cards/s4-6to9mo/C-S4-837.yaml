@@ -1,0 +1,101 @@
+card_id: C-S4-837
+stages: [S4]
+tags: [pikler, caregiving, source-de]
+
+front:
+  title: "护理时全注意,玩时观察"
+  hook: "护理全注意,玩观察"
+
+back:
+  why_matters: |
+    皮克勒 1969 整本书的隐形核心:**护理 vs 玩耍二分** —
+    大人对婴儿要有两种不同心态:
+
+    **护理(全注意时段)**:
+    - 换尿布 / 喂 / 洗澡 / 穿衣 = 连接仪式
+    - 看着眼睛 + 慢动作 + 简单说话(动他之前先告知)
+    - 不分心(不看手机不聊天)
+    - 婴儿主动参与(玛格达后来命名"主动的参与者")
+    - 这是建立**依恋**的核心时段
+
+    **玩耍(观察时段)**:
+    - 婴儿独立玩 — 大人不参与不打断
+    - 在视野内但不互动
+    - 不说"我们一起玩!"(干扰自主)
+    - 看他怎么玩 + 学到什么
+    - 这是建立**自信心**的时段
+
+    玛格达 1998 把这个二分命名为"选择性专注"。
+    兰斯伯里推广为"不被打断的玩耍"(SRC-019)。德文源头在此。
+
+  what_to_do:
+    - 护理时段 — 关掉手机 / 看眼睛 / 慢动作 / 说话
+    - 玩耍时段 — 不参与 / 不评论 / 在场就行
+    - 不混淆 — 别"边换尿布边逗"或"玩时一直跟他说话"
+    - 每天累计 1-2 小时护理 + 数小时玩耍
+    - 大人有自己的事做(玩时段)— 不必盯着
+
+  failure_mode: |
+    "我陪玩怎么会干扰呢" → 皮克勒反:大人参与 = 婴儿被动配合。
+    "我们一起玩积木" = 大人主导,孩子失去自主探索机会。
+    最好的陪是"**在场不参与**"。
+
+  evidence_level: B
+
+  positions:
+    issue: 大动作发展该不该训练 · 学步车 / Bumbo / 撑坐 / 训练表是否有用
+    views:
+      - school: Pikler
+        source: SRC-026
+        stance: 完全反对训练 — 自然顺序 + 安全空间 + 时间 = 大动作全部自动发生;严反一切撑物(学步车 / Bumbo / 跳跳器 / 婴儿座椅)。
+      - school: Magda Gerber / RIE / Lansbury
+        source: SRC-022/019
+        stance: 继承 Pikler 立场 — 里程碑不是赛跑,不撑坐 8 理由,7 类婴儿设备先放下。
+      - school: 蒙氏(Davies/Lillard)
+        source: SRC-014/016
+        stance: 立场一致 — floor bed + 自由动作空间 + 反早期撑坐。
+      - school: AAP
+        source: SRC-002
+        stance: 反学步车(Policy Statement + 数百起伤亡报道);加拿大 2004 立法全球首例禁售。
+      - school: Brazelton
+        source: SRC-010
+        stance: 反学步车,跟 Pikler 立场一致;主张孩子自然探索大动作。
+      - school: 松田道雄
+        source: SRC-024
+        stance: 温和支持自然 — 不催孩子翻 / 坐 / 爬 / 走的时间表,部分跟 Pikler 共鸣。
+      - school: 鲍秀兰
+        source: SRC-009
+        stance: 支持训练 — 婴儿体操 / 抓握训练 / 撑坐;跟 Pikler 派 8 派立场严重对立。
+      - school: 中国主流
+        stance: '"4 月翻 / 6 月坐 / 9 月爬 / 12 月走" 训练表 + 80% 家庭曾用学步车。跟 Pikler 派全面对立。'
+glossary_refs:
+  - G-PERSON-Pikler
+  - G-PERSON-Gerber
+  - G-TERM-pflege-vs-spiel
+  - G-TERM-quality-time
+
+citation:
+  book_title_de: "Friedliche Babys – zufriedene Mütter"
+  book_title_zh: "和平的婴儿 — 满足的母亲"
+  authors:
+    - Emmi Pikler
+  publisher_de: HERDER (HERDER / SPEKTRUM Band 4141)
+  year: 1969
+  location: "Ch4 + Ch7 全书反复"
+  source_id: SRC-026
+
+unit_ids: []
+related_cards:
+  - C-S2-347  # Gerber 全注意才叫共度(本卷源头)
+  - C-S3-352  # Gerber 护理时全注意,玩时观察(德文源)
+  - C-S0-167  # Magda 7 大育儿原则
+  - C-S1-353  # Lansbury 尿布换 = 连接仪式
+  - C-S1-406  # Gerber 动他之前先告知
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04
+
+citation_suspect: true
+citation_followup_needed: '回原书 Pikler 1969 Friedliche Babys 反查具体页 — F1 维度 10 已知问题'

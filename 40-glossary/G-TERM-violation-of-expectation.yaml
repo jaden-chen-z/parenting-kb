@@ -1,0 +1,71 @@
+glossary_id: G-TERM-violation-of-expectation
+type: term
+display_name: 违背期望范式 (violation-of-expectation)
+
+full_name_zh: 违背期望 / VOE 范式
+full_name_en: Violation-of-Expectation Paradigm / VOE
+
+one_liner: |
+  Spelke / Baillargeon 发明的婴儿研究方法 — 用"看的时间"测婴儿是否惊讶。
+  比 Piaget 的"找物体"测灵敏 4-5 个月。
+
+detail: |
+  ## 定义
+  实验设计:
+  - 给婴儿看 2 个事件:可能事件 + 不可能事件
+  - 婴儿盯"不可能事件"显著更久 = 觉得"奇怪"
+  - 不需要协调动作 = 测"心知道"
+
+  ## 经典应用
+  - Baillargeon 1985 吊桥(4 月物体永久)
+  - Wynn 1992 5 月 1+1=2(数概念)
+  - Spelke/Kellman 1983 物体一致性(4 月)
+  - Hespos 2001 物体相互排斥
+
+  ## 优势 vs Piaget 找物体测试
+  - 婴儿"心里"懂的 → 看的时间反映
+  - 不需要"找/拿/动" 协调动作能力
+  - 灵敏度提前 4-5 个月
+
+  ## 局限(Cohen-Cashon 综述)
+  - 测"区分"不一定测"概念"
+  - 婴儿盯久不一定"惊讶" — 可能只知觉差异
+  - 解读需谨慎
+
+  ## 在本知识库中
+  - SRC-028 Lerner V2 Ch5 综述方法学
+  - C-S2-1138 习惯化方法
+  - C-S3-1140 Baillargeon 吊桥
+  - C-S3-1144 Wynn 5 月加法
+
+  ## 中国家长意义
+  - 看到"科学研究证明婴儿懂 X"先想:用 VOE 还是 Piaget 测?
+  - VOE 早期 = 心里懂
+  - Piaget 测试 = 行动协调
+
+key_facts:
+  - Spelke/Baillargeon 发明
+  - 用"看的时间"测心知道
+  - 比 Piaget 找物体早 4-5 月
+  - 婴儿研究黄金范式之一
+
+related_glossary:
+  - G-PERSON-Spelke
+  - G-PERSON-Baillargeon
+  - G-PERSON-Wynn
+  - G-TERM-baby-scientist
+  - G-TERM-object-permanence
+
+related_cards:
+  - C-S3-1140
+  - C-S3-1144
+  - C-S2-1138
+
+sources:
+  - source_id: SRC-028
+  - external: Spelke 1985 / Baillargeon 1985 / Wikipedia Violation of Expectation
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

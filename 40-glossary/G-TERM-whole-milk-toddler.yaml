@@ -1,0 +1,67 @@
+glossary_id: G-TERM-whole-milk-toddler
+type: term
+display_name: 幼儿全脂牛奶 (whole milk for toddlers)
+
+full_name_en: Whole Cow's Milk for Toddlers (12-24 months)
+full_name_zh: 12-24 月全脂牛奶建议
+
+one_liner: |
+  AAP 明确建议 1-2 岁宝宝喝**全脂**(约 3.25% 脂肪)鲜牛奶,不要低脂或脱脂。中国家长常被减肥潮流误导。
+
+detail: |
+  ## 定义
+  美国儿科学会(AAP)与 AAPD 共同建议:**12-24 月**幼儿
+  从配方奶/母乳过渡到鲜奶时,**必须选择全脂(whole milk,
+  乳脂含量约 3.25%)**,不要低脂(2%/1%)或脱脂(skim)。
+
+  ## 核心理由
+  - **大脑髓鞘化高速期**:1-2 岁是神经髓鞘形成关键期,
+    髓鞘以脂类为主要原料,膳食脂肪缺失会影响认知发育。
+  - 牛奶脂肪 + 脂溶性维生素 A/D/E/K 是日常重要来源,
+    低脂奶在去除脂肪同时损失这些维生素。
+  - 这阶段总热量约 1000-1300 kcal,脂肪应占 30-40%,
+    全脂奶 480ml 提供约 16g 脂肪,是核心来源之一。
+
+  ## 量的边界
+  - **每日 480-720 ml**(2-3 杯),不超过 720 ml。
+  - 超量挤占其他食物 + 阻碍铁吸收 → **缺铁性贫血**
+    (见 G-TERM-iron-deficiency-anemia)。
+  - 用学饮杯不用奶瓶喝(防奶瓶龋,见 G-TERM-baby-bottle-tooth-decay)。
+
+  ## 2 岁后调整
+  - **24 月起**可换 2% 低脂奶;5 岁后可换 1% 或脱脂。
+  - 过渡时机依生长曲线和肥胖风险评估个体化决定。
+
+  ## 中国家长常见误区
+  1. **减肥潮流**:大人怕胖给娃喝低脂,娃脑发育原料不足。
+  2. **植物奶替代**:杏仁奶/燕麦奶/豆奶蛋白和脂肪谱不匹配,
+     不能替代牛奶(过敏除外用强化配方)。
+  3. **生牛奶**:未经巴氏消毒,李斯特菌/沙门氏菌风险。
+  4. **过量喝奶**:每日 1000ml+ 排斥固体食物,几月后查出贫血。
+
+key_facts:
+  - 12-24 月 AAP 强制全脂(3.25% 脂肪)
+  - 每日 480-720 ml,不超 720
+  - 大脑髓鞘化原料,低脂影响认知
+  - 24 月可换 2%,5 岁可换脱脂
+  - 不可用植物奶替代
+
+related_glossary:
+  - G-ABBR-AAP
+  - G-TERM-baby-bottle-tooth-decay
+  - G-TERM-iron-deficiency-anemia
+  - G-TERM-weaning-table
+
+related_cards:
+  - C-S5-2147      # 1 岁起换全脂牛奶
+  - C-S5-2145      # 断奶 1 岁前后
+  - C-S5-2154      # 1 岁后食欲变小
+
+sources:
+  - source_id: SRC-040
+  - external: "AAP Policy Statement: Fatty Acid Recommendations (2008) / AAP HealthyChildren.org Whole Milk"
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

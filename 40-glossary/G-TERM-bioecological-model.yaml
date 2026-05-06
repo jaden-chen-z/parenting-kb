@@ -1,0 +1,27 @@
+glossary_id: G-TERM-bioecological-model
+type: term
+display_name: "生态系统模型 / bioecological model"
+
+name_en: "bioecological model"
+name_zh: "生态系统模型"
+
+description: |
+  Bronfenbrenner 5 系统:micro / meso / exo / macro / chrono。
+
+one_liner: |
+  生态系统模型(bioecological model)— Bronfenbrenner 5 系统:micro / meso / exo / macro / chrono。
+
+key_facts:
+  - "Lerner V1 元理论卷核心术语"
+  - "学派:Lerner V1 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

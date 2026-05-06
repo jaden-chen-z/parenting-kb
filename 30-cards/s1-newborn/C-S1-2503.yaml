@@ -1,0 +1,55 @@
+card_id: C-S1-2503
+stages: [S1]
+tags: []
+
+front:
+  title: 乳头疼痛/皲裂 7 步处理
+  hook: 第一周离乳率最高的元凶
+
+back:
+  why_matters: |
+    乳头疼痛是产后第一周妈妈放弃母乳的**头号原因**(海蒂数据)。
+    根本原因 90% 是**含接姿势不对**(只含乳头没含乳晕)。
+    痛 = 信号灯,不是"忍忍就好"。皲裂 = 真伤,继续硬喂会感染演变乳腺炎(C-S1-2504 关联)。
+    海蒂强调:**先调含接，调好后疼痛 24-48 小时缓解;调不好就找哺乳顾问**。
+  what_to_do:
+    - 调含接:宝宝嘴张大如打哈欠时塞入,乳晕含进至少 2.5 cm
+    - 喂完后:挤几滴自己的母乳涂乳头(天然抗菌,自然风干)
+    - 用纯羊毛脂(Lanolin)厚涂,不用洗就能喂下顿
+    - 哺乳前热敷 + 哺乳间冷敷(冷冻圆白菜叶贴胸有效)
+    - 换哺乳姿势:皲裂面避开宝宝下颚(用橄榄球抱替交叉)
+    - 每次哺乳从**不痛**那一边开始(疼侧已激活泌乳)
+    - 用乳头保护罩仅是过渡,长期会减少奶量
+  failure_mode: |
+    疼忍着继续 → 24 小时内皲裂出血 → 1 周乳腺炎。
+    用肥皂/酒精消毒乳头 → 洗掉天然保护脂,加重皲裂。
+    呕吐物带血以为宝宝出血 → 其实是吸到妈妈伤口的血,先排查自己乳头。
+    皲裂 + 发烧 → 已是乳腺炎,立即就医(看 C-S1-2504)。
+  evidence_level: B
+
+glossary_refs: []
+
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors:
+    - Heidi Murkoff
+    - Sharon Mazel
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh:
+    - 莫夏迪
+    - 张敏
+  location: "第 3 章母乳喂养 · 乳头疼痛专题"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards: []
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

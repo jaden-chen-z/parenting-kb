@@ -1,0 +1,36 @@
+card_id: C-S0-2157
+stages: [S0]
+tags: [postpartum, mom, contraception]
+front:
+  title: 哺乳期可服黄体酮避孕药
+  hook: 含雌激素的不行
+back:
+  why_matters: |
+    前情:哺乳妈妈想避孕但担心影响乳汁。
+    复合型避孕药含雌激素会抑制泌乳,海蒂不建议哺乳期用;但单一黄体酮"小药丸"哺乳期可放心用,不影响乳量。代价是必须每天同一时间吃,稍有延误就要补救措施。
+  what_to_do:
+    - 哺乳期选黄体酮避孕药(俗称小药丸)
+    - 每天固定时间吃误差别超过 3 小时
+    - 漏服或腹泻呕吐需用避孕套兜底
+    - 复合型避孕药等断奶后再考虑
+    - 半年到一年让医生体检一次
+  failure_mode: 哺乳期吃含雌激素的药导致奶量下降,或忘了每天定点吃黄体酮意外怀孕。
+  evidence_level: B
+glossary_refs: [G-TERM-postpartum-recovery]
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors: ["Heidi Murkoff", "Sharon Mazel"]
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh: ["莫夏迪", "张敏"]
+  location: "第 23 章 《妈妈的第一年》, 页 690-691"
+  source_id: "SRC-040"
+related_cards: [C-S0-2156]
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

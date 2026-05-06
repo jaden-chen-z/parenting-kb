@@ -1,0 +1,28 @@
+glossary_id: G-TERM-identity-formation
+type: term
+display_name: "身份形成 / identity formation"
+
+name_en: "identity formation"
+name_zh: "身份形成"
+
+description: |
+  Spencer 命题 — identity 不是天生标签,是孩子主动应对环境的产物。
+  父母言行进入娃 identity 建构素材。
+
+one_liner: |
+  身份形成(identity formation)— Spencer 命题 — identity 不是天生标签,是孩子主动应对环境的产物。
+
+key_facts:
+  - "Lerner V1 元理论卷核心术语"
+  - "学派:Lerner V1 综述派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

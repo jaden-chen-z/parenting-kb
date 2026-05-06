@@ -1,0 +1,80 @@
+card_id: C-S4-703
+stages: [S4]
+tags: [potty, toilet_training, matsuda, japan]
+
+front:
+  title: "便盆超 1 分钟就抱起"
+  hook: "妈妈精神决定成败"
+
+back:
+  why_matters: |
+    松田 §216 给 7-8 月排便训练硬指标：
+    1. 7-8 月吃代乳食后大便像成人，便盆比尿布省事;
+    2. **便盆超 1 分钟就抱起** — 婴儿不舒服会哭;
+    3. 是否成功"完全在于母亲精神作用";
+    4. 排尿间隔长的婴儿吃奶后 / 醒后试一次;
+    5. 排尿间隔短的婴儿强训只是"妈妈神经症";
+    6. 即使夜里多次醒来换尿布也培养不出"通知"能力。
+    立场比鲍秀兰 9 月起更早一点(7-8 月可试)，
+    比 Brazelton "孩子主导"早，但都强调不强制。
+
+  what_to_do:
+    - 7-8 月起观察大便规律
+    - 醒后 / 吃奶后试便盆
+    - 上便盆超 1 分钟没尿就抱起
+    - 不每隔 1 小时定时坐
+    - 可试过滤式尿布 — 湿了不冷孩子还能睡
+
+  failure_mode: |
+    妈妈每天每隔 1 小时坐便盆 + 夜里 2-3 次起 — 自己神经衰弱。
+    或反方向：完全不试 → 1 岁了还离不开尿布。
+    松田中道：7-8 月观察规律 + 大便定时可便盆 + 小便随缘。
+    "决定权在妈妈，不在孩子的发育" — 全靠妈妈情绪稳。
+
+  evidence_level: B
+
+  positions:
+    issue: 如厕训练何时开始 · 谁主导 · 什么方法
+    views:
+      - school: Lillard(蒙氏)
+        source: SRC-016
+        stance: 12-18 月敏感期介入。反对长期纸尿裤拖延,孩子主导探索如厕,环境提供小马桶。
+      - school: AAP / 主流
+        source: SRC-006
+        stance: 18 月-3 岁。等待神经括约肌成熟与孩子表达意愿,避免提前训练造成抗拒。
+      - school: 鲍秀兰
+        source: SRC-009
+        stance: 9 月起坐盆训练,25-30 月用语言表达替代动作信号。早期建立排便规律。
+      - school: Brazelton
+        source: SRC-010
+        stance: 24 月以后多数孩子才准备好,孩子主导,称 toilet learning 而非 training。反对 EC 出生训练。
+      - school: 松田道雄
+        source: SRC-024
+        stance: 4-5 月把屎把尿是错的;7-8 月可试便盆(每次 1 分钟为限);1.5 岁夏天撤尿布最佳。
+      - school: Pikler / Magda / Lansbury
+        source: SRC-026/022/019
+        stance: 不训练 — 等 24-30 月孩子自己准备好;"学如厕"而非"训练"。反对绑 / 揍 / 久坐 / 太早 4 大错。
+      - school: 中国传统
+        stance: 把屎把尿(EC) + 3 岁前完成,以家长信号为主;中医认为憋尿伤肾。
+glossary_refs:
+  - G-PERSON-Matsuda
+
+citation:
+  book_title_zh: "定本育儿百科"
+  authors:
+    - 松田道雄
+  publisher_ja: 岩波书店
+  year_first_edition: 1967
+  location: "§216 排便训练 / §241 排便训练"
+  source_id: SRC-024
+
+unit_ids: []
+related_cards:
+  - C-S3-701  # 松田 4 月把屎把尿是错的(同源对照)
+  - C-S5-012  # 鲍秀兰 9 月起坐盆训练
+  - C-S7-018  # Brazelton 厕所训练孩子主导
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

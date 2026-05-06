@@ -1,0 +1,74 @@
+card_id: C-S8-220
+stages: [S8]
+tags: [shonkoff, nrc, neighborhood, violence, lead, china_high_freq]
+
+front:
+  title: "邻里只在极差时才伤"
+  hook: "暴力 + 铅是真杀手"
+
+back:
+  why_matters: |
+    NRC 综述 Ch 12 给"邻里效应"科学校准 — 反"必住学区房"焦虑:
+    **NRC 综述 4 大邻里影响理论**:
+    1. **stress theory 应激说**:暴力 / 铅 / 噪音 → 慢性应激
+    2. **social organization 社会组织说**:邻居互信 / 共同价值 → 监督娃
+    3. **institutional 机构说**:学校 / 警察 / 公园质量
+    4. **epidemic 传播说**:同伴影响传播问题行为
+    **数据**(NRC):
+    - 普通家庭:**邻里只解释 2-4% 行为差异** — 远低于家庭 90%+
+    - 即"完美邻里"对普通家庭娃影响有限
+    - **但极端邻里**(高暴力 / 高贫困)→ 显著负面
+    **极端邻里 2 大真风险**:
+    1. **暴力暴露**:1/4 城市青少年看过谋杀;1/10 城市儿童 6 岁前见暴力
+       - 创伤后应激 + 攻击 + 行为问题 ↑
+    2. **铅中毒**:老房子 + 铅油漆 + 含铅汽油遗留 → 注意力 + 智商问题
+       - 高贫困 + 内城邻里 → 铅中毒 9 倍 odds
+    **Moving to Opportunity 实验**:
+    - 把家庭从高贫困区搬到低贫困区
+    - 男孩行为问题大幅下降
+    - 青少年暴力犯罪显著降
+    **NRC 立场**:
+    - 家庭 > 邻里(普通情境)
+    - 但极差邻里(暴力 / 铅 / 严重贫困)→ 真伤孩子
+    - "学区房" 关注点应是:**避免极差邻里** > 追"最好邻里"
+    **对中国家长**:
+    - 别为"必上某名校"花光积蓄买学区房
+    - 真正避免:暴力高发区 / 老房子(铅) / 极端贫困区
+    - 普通中产社区已足够
+    - 一线大城市铅风险低 — 不必特别担心
+  what_to_do:
+    - 避极端邻里就够
+    - 别迷"最好学区"
+    - 警觉老房子铅
+    - 普通社区足够
+    - 别为学区掏空积蓄
+  failure_mode: |
+    "为娃必买学区房 — 掏空积蓄" — 邻里只解释 2-4% 差异 — 不值得。
+    "我家在普通区 — 娃完了" — 错,普通邻里跟最好邻里差异极小。
+    家庭张力高(因经济压力)+ 学区房 → 反而比普通区 + 经济宽松伤害大。
+  evidence_level: A
+
+glossary_refs:
+  - G-PERSON-Shonkoff
+  - G-TERM-NRC
+  - G-TERM-cortisol
+
+citation:
+  book_title_en: "From Neurons to Neighborhoods"
+  authors: ["Jack P. Shonkoff", "Deborah A. Phillips"]
+  org: "NRC/IOM"
+  year_en: 2000
+  location: "Ch 12 · Neighborhood effects + Moving to Opportunity"
+  source_id: SRC-025
+
+unit_ids: []
+related_cards:
+  - C-S8-211    # Shonkoff 贫困应激(本卷)
+  - C-S3-809    # Shonkoff cortisol(本卷)
+  - C-S8-218    # Shonkoff 工作类型(本卷)
+  - C-S0-517    # 松田 不焦虑育儿 SRC-024
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,134 @@
+source_id: SRC-017
+total_cards: 15
+intrinsic_issues:
+  - card_id: C-S5-290
+    issue_type: wrong_evidence_level
+    severity: P1
+    detail: 标 A 但内容是中国家庭场景应用 + 单源(Bowlby)案例外推,非 Tier 1 共识对齐
+    suggested_fix: 降到 B
+  - card_id: C-S5-290
+    issue_type: missing_glossary_refs
+    severity: P2
+    detail: failure_mode 出现"焦虑型依恋"但 glossary_refs 未列 G-TERM-anxious-attachment
+    suggested_fix: glossary_refs 加 G-TERM-anxious-attachment
+  - card_id: C-S5-290
+    issue_type: broken_related_ref
+    severity: P2
+    detail: why_matters inline 引用 C-S6-293,但 related_cards 未列
+    suggested_fix: related_cards 加 C-S6-293
+  - card_id: C-S6-293
+    issue_type: broken_related_ref
+    severity: P2
+    detail: failure_mode inline 引用 C-S7-238,但 related_cards 未列
+    suggested_fix: related_cards 加 C-S7-238
+  - card_id: C-S6-294
+    issue_type: wrong_evidence_level
+    severity: P1
+    detail: 标 A 但是 Bowlby 单源案例对比 + 理论立场,非 Tier 1 共识
+    suggested_fix: 降到 B
+  - card_id: C-S6-294
+    issue_type: missing_glossary_refs
+    severity: P2
+    detail: why_matters 出现"次级依恋"+ failure_mode 出现"焦虑型依恋",glossary_refs 未含
+    suggested_fix: 加 G-TERM-anxious-attachment
+  - card_id: C-S6-294
+    issue_type: broken_related_ref
+    severity: P2
+    detail: C-S5-290 已 inline 引用本卡,但本卡 related_cards 未反链 C-S5-290
+    suggested_fix: related_cards 加 C-S5-290
+  - card_id: C-S7-237
+    issue_type: wrong_evidence_level
+    severity: P1
+    detail: 标 A 但是 Bowlby 单源临床案例(温蒂),非 Tier 1 共识
+    suggested_fix: 降到 B
+  - card_id: C-S7-238
+    issue_type: wrong_evidence_level
+    severity: P1
+    detail: 标 A 但是 Bowlby 单源单案例(劳拉),非 Tier 1 共识
+    suggested_fix: 降到 B
+  - card_id: C-S7-238
+    issue_type: missing_glossary_refs
+    severity: P2
+    detail: why_matters 提"强迫性自我依赖""强迫性照顾他人",glossary_refs 缺
+    suggested_fix: 加 G-TERM-compulsive-self-reliance / G-TERM-compulsive-caregiving
+  - card_id: C-S7-239
+    issue_type: wrong_evidence_level
+    severity: P1
+    detail: 标 A 但是 Bowlby 单源单案例(帕特里克),非 Tier 1 共识
+    suggested_fix: 降到 B
+  - card_id: C-S7-240
+    issue_type: wrong_evidence_level
+    severity: P1
+    detail: 标 A 但是 Bowlby 多案例归纳 + 单源理论,非 Tier 1 共识
+    suggested_fix: 降到 B
+  - card_id: C-S7-240
+    issue_type: missing_glossary_refs
+    severity: P2
+    detail: why_matters 出现"防御性情感隔离",glossary_refs 未列
+    suggested_fix: 加 G-TERM-detachment 或 G-TERM-emotional-detachment
+  - card_id: C-S7-240
+    issue_type: broken_related_ref
+    severity: P2
+    detail: C-S7-244 已 inline 引用本卡,本卡未反链 C-S7-244
+    suggested_fix: related_cards 加 C-S7-244
+  - card_id: C-S7-241
+    issue_type: wrong_evidence_level
+    severity: P1
+    detail: 标 A 但是 Bowlby 单源临床案例(温蒂/温妮),非 Tier 1 共识
+    suggested_fix: 降到 B
+  - card_id: C-S7-242
+    issue_type: wrong_evidence_level
+    severity: P1
+    detail: 标 A 但是 Bowlby 一家之言的理论框架(4 阶段),非 Tier 1 共识
+    suggested_fix: 降到 B
+  - card_id: C-S7-242
+    issue_type: hook_descriptive
+    severity: P2
+    detail: hook"麻木 渴望 解组 重组"纯阶段列表,非情绪/反直觉钩子
+    suggested_fix: 改为反直觉句,如"哀伤要 1 年起步"
+  - card_id: C-S7-243
+    issue_type: hook_descriptive
+    severity: P2
+    detail: hook"揪头发 抠鼻子 抱旧物"纯症状列表
+    suggested_fix: 改为如"哀伤藏在身体里"
+  - card_id: C-S7-245
+    issue_type: wrong_evidence_level
+    severity: P1
+    detail: 标 A 但是 Bowlby 单源临床案例,非 Tier 1 共识
+    suggested_fix: 降到 B
+  - card_id: C-S7-247
+    issue_type: wrong_evidence_level
+    severity: P1
+    detail: 标 A 但是中国家庭场景的 Bowlby 原则外推应用,非 Tier 1 共识
+    suggested_fix: 降到 B
+intra_source_dedups:
+  - cluster: [C-S7-237, C-S7-241, C-S7-247]
+    level: L3
+    action: mutual_link
+    reason: 三张都是"如何跟孩子谈死亡"不同切面,可加固互链
+  - cluster: [C-S5-290, C-S6-294]
+    level: L3
+    action: mutual_link
+    reason: 交接过渡协议 + 替代人稳定性,需双向 related
+  - cluster: [C-S7-238, C-S7-243]
+    level: L3
+    action: mutual_link
+    reason: 心理层 + 身体小细节信号,同主题不同维度
+  - cluster: [C-S7-240, C-S7-244]
+    level: L3
+    action: mutual_link
+    reason: 244 是 240 在二宝场景的应用,需 240 反链
+  - cluster: [C-S7-242, C-S7-246]
+    level: L3
+    action: mutual_link
+    reason: 4 阶段健康基线 + 病理阈值,概念互补
+  - cluster: [C-S6-295, C-S7-237]
+    level: L3
+    action: mutual_link
+    reason: 小丧失是大丧失练习场,主题相邻
+totals_per_issue: {wrong_evidence_level: 10, missing_glossary_refs: 3, broken_related_ref: 4, hook_descriptive: 2}
+notes: |
+  最大系统性问题:10/15 卡 evidence_level 标 A 但仅 Bowlby 单源临床案例支撑,违反 §10.7。建议批量降 B。
+  其次:related_cards 缺反向链接(C-S5-290 / C-S6-293 / C-S6-294 / C-S7-240)。
+  glossary_refs 漏标:强迫性自我依赖 / 焦虑型依恋 / 防御性情感隔离 / 次级依恋。
+  无 L1/L2 dedup,主题分布合理。

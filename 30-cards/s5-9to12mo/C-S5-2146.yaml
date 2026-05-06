@@ -1,0 +1,64 @@
+card_id: C-S5-2146
+stages: [S5]
+tags: [safety, mainstream, feeding, tooth]
+
+front:
+  title: 1 岁戒奶瓶防龋齿
+  hook: 含瓶睡=烂牙
+
+back:
+  why_matters: |
+    AAP 和 AAPD 都建议 12-15 月戒奶瓶,最晚不超过 18 月。前情:S5 已开始长门牙。奶瓶含睡或长时间叼着喝,奶里乳糖在牙面发酵产酸,造成"奶瓶龋"——上门牙根部环形腐烂,严重要全麻补牙。同时奶瓶吸吮姿势会影响颌骨发育和咬合。
+  what_to_do:
+    - 1 岁起白天用学饮杯代替奶瓶
+    - 绝不让娃叼奶瓶睡觉
+    - 喝奶后用纱布或牙刷清洁牙面
+    - 1 岁后只在过渡期用奶瓶
+  failure_mode: |
+    嫌孩子用杯子撒得到处都是,继续用奶瓶到 2-3 岁,门牙烂光全麻补牙,妈妈被牙医劝说才悔改。
+  evidence_level: B
+
+  positions:
+    issue: 戒奶瓶何时进行 · 是否用 sippy 过渡 · 夜奶持续多久
+    views:
+      - school: AAP
+        source: SRC-006
+        stance: 12-18 月戒奶瓶,sippy 杯作过渡;延迟戒会增加奶瓶龋齿与肥胖风险。
+      - school: Lillard(蒙氏)
+        source: SRC-016
+        stance: 9-10 月戒奶瓶,反对 sippy(本质是"伪奶瓶",延长吸吮反射 + 影响牙列)。
+      - school: Brazelton
+        source: SRC-010
+        stance: 反对僵硬时间线,跟孩子节奏决定;依赖型娃可晚戒,主导型娃自然提前。
+      - school: 海蒂
+        source: SRC-040
+        stance: 1 岁戒奶瓶防龋齿;比 AAP 12-18 月略早,比 Lillard 9-10 月略晚,落在主流大众派中道。
+      - school: 中国传统
+        stance: 夜奶持续到 2 岁,白天奶瓶可至 3 岁,不强求时间表。
+glossary_refs: [G-TERM-baby-bottle-tooth-decay]
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors:
+    - Heidi Murkoff
+    - Sharon Mazel
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh:
+    - 莫夏迪
+    - 张敏
+  location: "第 12 章第 12 个月, 页 502-505"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards:
+  - C-S5-2145
+  - C-S5-2147
+
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

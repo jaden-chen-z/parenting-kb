@@ -1,0 +1,32 @@
+glossary_id: G-PERSON-Shanahan
+type: person
+display_name: "Shanahan(迈克尔·沙纳汉)"
+
+full_name_en: "Michael J. Shanahan"
+full_name_zh: "迈克尔·沙纳汉"
+
+position: |
+  University of North Carolina Chapel Hill 社会学教授
+
+contribution: |
+  life course + Elder 共著
+
+one_liner: |
+  迈克尔·沙纳汉 — life course + Elder 共著
+
+key_facts:
+  - "本卷章节:Ch 12"
+  - "Lerner V1 命中:80+ 次"
+  - "学派:Lerner V1 生命历程派"
+
+related_glossary: []
+related_cards: []
+
+sources:
+  - source_id: SRC-030
+    chapter: "Ch 12"
+
+language: zh
+status: complete
+created: 2026-05-04
+updated: 2026-05-04

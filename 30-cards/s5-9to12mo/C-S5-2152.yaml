@@ -1,0 +1,44 @@
+card_id: C-S5-2152
+stages: [S5]
+tags: [mainstream, sleep, philosophy, controversy]
+
+front:
+  title: 睡前焦虑温和应对
+  hook: 不冷漠也不拖
+
+back:
+  why_matters: |
+    9-15 月分离焦虑高峰,睡前往往是最难一关:抱起就笑放下就哭、半夜频繁醒。前情:S4 已建立睡眠仪式。海蒂书建议两条腿走路:既不能"哭到累为止"的纯 CIO 冷漠法、也不能没原则地无限抱睡,而是用渐进式方法——拍拍坐旁边、逐次缩短陪伴、给安抚物。
+  what_to_do:
+    - 固定睡前流程让娃可预期
+    - 留安抚物(小毯子小玩偶)陪睡
+    - 哭时先观察 2-3 分钟再回应
+    - 回应只拍不抱起减少强化
+  failure_mode: |
+    极端化:要么"狠心训练"完全不回应造成依恋损伤,要么妥协抱睡到 3 岁还不能独立入睡,父母崩溃。
+  evidence_level: A
+
+glossary_refs: [G-TERM-separation-anxiety, G-TERM-object-permanence, G-TERM-self-soothing]
+citation:
+  book_title_en: "What to Expect the First Year"
+  book_title_zh: "海蒂育儿大百科 0-1岁"
+  authors:
+    - Heidi Murkoff
+    - Sharon Mazel
+  publisher_en: "Workman Publishing"
+  publisher_zh: "南海出版公司(新经典发行)"
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh:
+    - 莫夏迪
+    - 张敏
+  location: "第 11 章第 11 个月, 页 446-450"
+  source_id: SRC-040
+
+unit_ids: []
+related_cards: [C-S5-2144, C-S5-2153]
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

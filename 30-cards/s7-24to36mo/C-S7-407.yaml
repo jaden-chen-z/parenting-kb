@@ -1,0 +1,56 @@
+card_id: C-S7-407
+stages: [S7]
+tags: [parenting, self-care]
+
+front:
+  title: "你不必完美"
+  hook: "出错了改就是教育"
+
+back:
+  why_matters: |
+    Magda Ch8 收官小节:**You Don't Have to Be Perfect**。
+    不完美的爸妈反而是健康榜样:
+    孩子学到"出错没关系" + "怎么修补"。
+    Magda 反 "为孩子牺牲一切" 父母 —
+    长期焦虑 / 内疚 / 自我消耗 → 孩子学到"妈妈不快乐都因我"。
+    跟 Davies C-S6-138 父母先照顾自己一致 + Bowlby V2 reflective parent 一致。
+
+  what_to_do:
+    - 出错后修补,不"内疚补偿一周"
+    - 累了告诉孩子:"妈妈今天累,陪不了"
+    - 有自己时间 — 不全为孩子
+    - 不跟其他爸妈攀比 / 不打卡式参与
+    - 把"我不完美"变成"我也在学"的家庭文化
+
+  failure_mode: |
+    "我不能让他看到我不完美 / 我必须 24 小时全在" → 自己崩溃 + 孩子学到"做完美才被爱"。
+    Magda 原话:"不必完美,要真实"。
+
+  evidence_level: B
+
+glossary_refs:
+  - G-PERSON-Gerber
+  - G-TERM-RIE
+  - G-TERM-respectful-parenting
+
+citation:
+  book_title_en: "Your Self-Confident Baby"
+  book_title_zh: "自信的宝宝"
+  authors:
+    - Magda Gerber
+    - Allison Johnson
+  publisher_en: John Wiley & Sons
+  year: 1998
+  location: "Ch8 You Don't Have to Be Perfect(收官小节)"
+  source_id: SRC-022
+
+unit_ids: []
+related_cards:
+  - C-S6-138  # Davies 父母先照顾自己
+  - C-S7-407  # Magda 好父母不必完美(本卷)
+  - C-S7-034  # Bowlby V2 reflective parent
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03

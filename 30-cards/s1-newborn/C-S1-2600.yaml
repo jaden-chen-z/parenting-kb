@@ -1,0 +1,47 @@
+card_id: C-S1-2600
+stages: [S1]
+tags: [safety, allergy, mom, controversy, mainstream]
+front:
+  title: 婴儿润肤乳含花生油警告(过敏隐藏路径)
+  hook: 给宝宝抹的润肤霜可能让他对花生过敏 — 海蒂藏在沐浴用品 sidebar 里的反常识警告。
+back:
+  why_matters: |
+    Phase B+C 已盖 LEAP 早引入(C-S3-247x 系列)+ 食物花生 1 岁可吃。
+    但海蒂在 Part 1 sidebar(p.47)单独警告:含花生油的婴儿润肤乳/沐浴露会通过肌肤接触致敏,反而提高 2 岁时花生过敏风险。
+    机制(海蒂引研究):肌肤接触致敏(经表皮路径)+ 没经口免疫耐受 = 高风险特别针对皮肤已破损/湿疹宝宝。
+    美国生产的婴儿润肤乳大多不含花生油,但:
+    - 进口产品(欧洲、东南亚)可能含
+    - 非"婴儿专用"的家用润肤乳常含
+    - 中国母婴市场标签不严,代购产品常无中文成分表与 Phase D L3 节(LEAP)平行的另一条预防策略,中国家长几乎完全不知。
+  what_to_do:
+    - 买婴儿润肤乳前检查成分表:peanut oil/arachis oil(花生油学名)/groundnut oil 都不要
+    - 优先选标注"无致敏原(allergen-free)"或"低敏(hypoallergenic)"的婴儿专用线
+    - 已有湿疹宝宝特别注意,湿疹皮肤致敏风险更高
+    - 不要用大人润肤乳/橄榄油/各种"民间偏方油"给宝宝抹
+    - 与 LEAP 策略并行:皮肤避免花生暴露 + 4-6 月经口早引入花生稀释品
+  failure_mode: |
+    常见错误:
+    - 觉得"天然植物油就安全"→ 海蒂明确警告这是反过来的:皮肤暴露反致敏
+    - 看到代购欧美产品就信任 → 必须看成分表
+    - 用花生油给婴儿按摩(印度/广东沿海传统)→ 双重风险:致敏 + 抑制经口耐受
+    - 湿疹宝宝随便抹各种"湿疹药膏"含坚果油 → 严重风险
+  evidence_level: A
+glossary_refs: [G-TERM-allergy-introduction, G-TERM-LEAP-trial]
+citation:
+  publisher_en: "Workman Publishing"
+  source_id: SRC-040
+  book_title_en: What to Expect the First Year
+  book_title_zh: 海蒂育儿大百科 0-1 岁
+  authors: ["Heidi Murkoff", "Sharon Mazel"]
+  publisher_zh: 南海出版公司
+  year: 1989
+  year_2nd_ed: 2010
+  year_zh: 2014
+  translator_zh: [莫夏迪, 张敏]
+  chapter: Part 1 Ch 2 婴儿用品 sidebar"远离坚果"
+  page_zh: 47
+related_cards: []
+language: zh
+status: draft
+created: 2026-05-04
+updated: 2026-05-04

@@ -1,0 +1,76 @@
+card_id: C-S7-127
+stages: [S7]
+tags: [cognitive_science, brain_science, synaptic_pruning]
+
+front:
+  title: 3 岁脑突触是成人 2 倍
+  hook: 突触修剪不是损失
+
+back:
+  why_matters: |
+    Gopnik 引用的脑科学数据(Huttenlocher 1979 + Chugani 1990s):
+    - 出生:每个神经元约 2500 突触
+    - 2-3 岁:每个神经元约 15000 突触(成人 2 倍)
+    - 3 岁脑活跃度 = 成人 2 倍(燃烧葡萄糖率)
+    - 3-10 岁:维持高活跃度
+    - 18 岁:回到成人水平机制:**用进废退** — 经常被刺激的连接保留,反之被修剪。
+    Gopnik 关键反驳:
+    - "修剪 = 失去能力" — 错。这是**特化**,不是损失
+    - "0-3 岁不学就脑细胞死了" — 错。剪掉的是冗余连接,不是细胞
+    - 老鼠"丰富环境"实验:**enriched = 自然环境**,不是超量刺激
+    - 真正伤害是**严重剥夺**(孤儿院 / 隔离 / 虐待)
+    对中国家长意义:
+    - 不必焦虑"突触修剪 = 我没刺激够" — 自然家庭环境已经够
+    - 真正损害大脑的是:**虐待 / 严重忽略 / 长期焦虑环境**
+    - 0-3 岁陪伴质量 > 早教课时数
+    - 不去 Mozart CD,去公园 30 分钟更有用一句话:**修剪不是损失,是设计**。
+  what_to_do:
+    - 不焦虑"突触修剪损失" — 是大脑特化的设计
+    - 给宝宝**自然环境 + 真人互动**(就是丰富环境)
+    - 避免严重剥夺(长期一个人 / 看屏 / 焦虑环境)
+    - 0-3 岁主要任务:安全 + 互动 + 真实物体
+  failure_mode: |
+    "突触修剪了我没及时刺激" — 错。修剪是设计,不是损失。
+    买昂贵早教器材"防止脑细胞死" — 错。剪的是连接,不是细胞。
+    长期把宝宝交给屏幕 — 真正的大脑剥夺。
+  evidence_level: A
+
+  positions:
+    issue: 0-3 岁是否需要主动教学 · 早教班 · 闪卡 · Mozart 效应
+    views:
+      - school: Brazelton
+        source: SRC-010
+        stance: 3 岁前不教读写。Erikson 框架下情感发展优先于认知训练。
+      - school: Gopnik
+        source: SRC-015
+        stance: Mozart 效应是骗局;闪卡无效;教越多越拖累自主探索;突触修剪是优化非损失。
+      - school: 蒙氏(Lillard/Davies)
+        source: SRC-014/016
+        stance: 反对主动教学。提供 prepared environment + 观察 + 不打扰,孩子主导探索节奏。
+      - school: 中国主流
+        stance: 早教班 / 闪卡 / 双语早教 / Mozart 胎教 / "赢在起跑线" — 商业产业链已成熟。
+glossary_refs:
+  - G-TERM-synaptic-pruning
+  - G-TERM-critical-period
+  - G-TERM-perceptual-narrowing
+  - G-PERSON-Kuhl
+
+citation:
+  book_title_en: "The Scientist in the Crib"
+  book_title_zh: "摇篮里的科学家"
+  authors: ["Alison Gopnik", "Andrew N. Meltzoff", "Patricia K. Kuhl"]
+  publisher_en: William Morrow
+  year: 1999
+  location: "Chapter 6 · How Brains Get Built (synaptic pruning data)"
+  source_id: SRC-015
+
+unit_ids: []
+related_cards:
+  - C-S7-125       # 反早教
+  - C-S4-184       # 6-12 月知觉重组(修剪一例)
+  - C-S6-031       # AAP 0-2 岁不看屏
+
+language: zh
+status: draft
+created: 2026-05-03
+updated: 2026-05-03
