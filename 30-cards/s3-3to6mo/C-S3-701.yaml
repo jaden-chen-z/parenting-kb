@@ -8,7 +8,7 @@ front:
 
 back:
   why_matters: |
-    松田 §170 直接拍掉中国老人 "3 月把屎把尿":
+    松田 直接拍掉中国老人 "3 月把屎把尿":
     1. 婴儿最早 1 周岁后才能告诉大人要小便；
     2. 一般 1.5-2 岁才不用尿布；
     3. 4 月教按时排便毫无意义；
@@ -59,6 +59,7 @@ back:
         stance: 把屎把尿(EC) + 3 岁前完成,以家长信号为主;中医认为憋尿伤肾。
 glossary_refs:
   - G-PERSON-Matsuda
+  - G-PERSON-Brazelton
 
 citation:
   book_title_zh: "定本育儿百科"

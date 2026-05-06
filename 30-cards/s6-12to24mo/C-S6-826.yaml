@@ -8,7 +8,7 @@ front:
 
 back:
   why_matters: |
-    ⚠️ **2026 修订**:松田 §348 (1967) 写"高于 38°C 用退热塞剂",
+    ⚠️ **2026 修订**:松田 (1967) 写"高于 38°C 用退热塞剂",
     但现代 AAP 2011/2016 指南**不推荐用退热药预防热惊复发**(退热不能阻止再次抽搐,
     主要是缓解不适)。剂型上现代多用口服布洛芬/对乙酰氨基酚,塞剂是日本传统优先。
     本卡 what_to_do 已按现代指南改写。
@@ -47,6 +47,7 @@ back:
 glossary_refs:
   - G-PERSON-Matsuda
   - G-TERM-febrile-convulsion
+  - G-ABBR-AAP
 
 citation:
   book_title_zh: "定本育儿百科"

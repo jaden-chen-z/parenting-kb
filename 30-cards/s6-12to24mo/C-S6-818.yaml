@@ -8,7 +8,7 @@ front:
 
 back:
   why_matters: |
-    松田 §331 给"出去买个东西就回来"妈妈一记警钟：
+    松田 给"出去买个东西就回来"妈妈一记警钟：
     1. 1 岁孩子最怕事，惊吓后久缓不过来;
     2. 哄睡后出门买东西，孩子醒来发现没人 → 大哭;
     3. **持续 10-15 分钟 = 终身不离妈半步** — 上厕所都跟着哭;
@@ -37,6 +37,7 @@ glossary_refs:
   - G-PERSON-Matsuda
   - G-TERM-attachment
   - G-PERSON-Bowlby
+  - G-PERSON-Davies
 
 citation:
   book_title_zh: "定本育儿百科"

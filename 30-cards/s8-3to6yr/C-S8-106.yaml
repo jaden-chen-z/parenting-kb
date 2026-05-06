@@ -8,7 +8,7 @@ front:
 
 back:
   why_matters: |
-    松田 §423 给"独生子女 3 岁不会跟同龄玩"妈妈具体处方:
+    松田 给"独生子女 3 岁不会跟同龄玩"妈妈具体处方:
     1. 在家养的 3 岁娃 — 邻居娃来玩就抢玩具是正常;
     2. 不知道借玩具 / 人家拿就要回;
     3. 4 岁左右就能跟朋友玩 — **现在不用强迫**;
@@ -36,6 +36,8 @@ back:
 
 glossary_refs:
   - G-PERSON-Matsuda
+  - G-PERSON-Lansbury
+  - G-PERSON-Brazelton
 
 citation:
   book_title_zh: "定本育儿百科"

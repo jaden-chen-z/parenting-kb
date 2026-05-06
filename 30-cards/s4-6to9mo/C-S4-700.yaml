@@ -8,7 +8,7 @@ front:
 
 back:
   why_matters: |
-    松田 §258 给"母婴同睡"分龄立场，跟 AAP 强对立：
+    松田 给"母婴同睡"分龄立场，跟 AAP 强对立：
     1. 不满 3 月禁同床(防母乳房压迫窒息);
     2. 8 月后同床 OK — 寒冷季节抱回被窝最实用;
     3. "西方过 3 月分房"是西洋立场，
@@ -54,6 +54,9 @@ back:
 glossary_refs:
   - G-PERSON-Matsuda
   - G-TERM-bedsharing-japan
+  - G-PERSON-Brazelton
+  - G-ABBR-AAP
+  - G-ABBR-SIDS
 
 citation:
   book_title_zh: "定本育儿百科"

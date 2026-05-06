@@ -8,7 +8,7 @@ front:
 
 back:
   why_matters: |
-    松田 §324 给 1-1.5 岁吃饭核心立场：
+    松田 给 1-1.5 岁吃饭核心立场：
     1. 1.5 岁能拿筷子的发育早，多数用勺;
     2. 主动拿勺要保护积极性 —
        即使弄一桌也不抢回来;
@@ -37,6 +37,7 @@ back:
 
 glossary_refs:
   - G-PERSON-Matsuda
+  - G-PERSON-Brazelton
 
 citation:
   book_title_zh: "定本育儿百科"

@@ -8,7 +8,7 @@ front:
 
 back:
   why_matters: |
-    松田 §340 + §341 给"我家娃不说话不会走"妈妈红旗判断:
+    松田 给"我家娃不说话不会走"妈妈红旗判断:
     1. **不会说话**:
        - 1 周岁过 3-4 月还不会"嗯嗯""不不"先不慌;
        - 关键:**听力是否正常**(叫名字回头);
@@ -42,6 +42,7 @@ back:
 
 glossary_refs:
   - G-PERSON-Matsuda
+  - G-ABBR-AAP
 
 citation:
   book_title_zh: "定本育儿百科"

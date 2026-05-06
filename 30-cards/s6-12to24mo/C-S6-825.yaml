@@ -8,7 +8,7 @@ front:
 
 back:
   why_matters: |
-    松田 §338 + §339 + §319 + §395 跨段反复立场 — 中国家长最高频痛点:
+    松田 跨段反复立场 — 中国家长最高频痛点:
     1. **孩子不吃饭原因**:**多半是妈妈强制**(吃完才能离开饭桌);
     2. **没有"必须吃多少" 标准** — 看体重增加,5g/天就 OK;
     3. 半碗饭 + 牛奶 + 鸡蛋足够;
@@ -37,6 +37,8 @@ back:
 
 glossary_refs:
   - G-PERSON-Matsuda
+  - G-PERSON-Lansbury
+  - G-PERSON-Brazelton
 
 citation:
   book_title_zh: "定本育儿百科"

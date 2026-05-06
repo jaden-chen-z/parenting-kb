@@ -8,7 +8,7 @@ front:
 
 back:
   why_matters: |
-    松田 §404 给"娃哭闹自己撞地板"妈妈核心规则:
+    松田 给"娃哭闹自己撞地板"妈妈核心规则:
     1. 1.5 岁起倔强孩子发明"撞头战术";
     2. 趴地板上哐哐撞 / 仰卧用后脑撞 — 都有;
     3. 跟癫痫区别: 不直直倒下,
@@ -37,6 +37,7 @@ back:
 
 glossary_refs:
   - G-PERSON-Matsuda
+  - G-PERSON-Brazelton
 
 citation:
   book_title_zh: "定本育儿百科"

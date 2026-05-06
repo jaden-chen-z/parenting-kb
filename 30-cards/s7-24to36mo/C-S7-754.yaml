@@ -8,7 +8,7 @@ front:
 
 back:
   why_matters: |
-    松田 §385 给"为什么孩子不会自己做"妈妈核心反思:
+    松田 给"为什么孩子不会自己做"妈妈核心反思:
     1. 孩子不会自己做不是能力问题, **是大人没让他做**;
     2. 妈妈做事麻利等不得 → 直接帮脱;
     3. 妈妈嫌穿不整齐 → 重新穿一次;
@@ -36,6 +36,7 @@ back:
 
 glossary_refs:
   - G-PERSON-Matsuda
+  - G-PERSON-Brazelton
 
 citation:
   book_title_zh: "定本育儿百科"

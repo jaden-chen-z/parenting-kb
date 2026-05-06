@@ -8,7 +8,7 @@ front:
 
 back:
   why_matters: |
-    前情:松田道雄 §387(1980)在《育儿百科》对 1.5-2 岁的"反抗"现象提出尖锐立场:
+    前情:松田道雄(1980)在《育儿百科》对 1.5-2 岁的"反抗"现象提出尖锐立场:
     **"反抗期"不是生理发展,是教养出来的标签** — 给孩子贴"叛逆"标签等于先认定他错。
 
     **松田核心立场**:
@@ -58,6 +58,11 @@ glossary_refs:
   - G-PERSON-Erikson
   - G-TERM-autonomy
   - G-TERM-jiyu-kukan
+  - G-PERSON-Gerber
+  - G-PERSON-Brazelton
+  - G-PERSON-Bowlby
+  - G-PERSON-Lerner
+  - G-TERM-RIE
 
 citation:
   book_title_zh: "定本育儿百科"

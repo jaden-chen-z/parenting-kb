@@ -8,7 +8,7 @@ front:
 
 back:
   why_matters: |
-    松田 §172 强反"西方反对背婴儿"派：
+    松田 强反"西方反对背婴儿"派：
     1. 背婴儿国家(日 / 中 / 非)婴儿髋关节脱位明显少;
     2. 抱一个 + 提尿布袋遇车没法躲，背着+腾双手是最安全外出方式;
     3. 4 月后脖子立直就能背(必须用宽底背带);
@@ -34,6 +34,9 @@ back:
 
 glossary_refs:
   - G-PERSON-Matsuda
+  - G-ABBR-AAP
+  - G-ABBR-WHO
+  - G-TERM-RIE
 
 citation:
   book_title_zh: "定本育儿百科"

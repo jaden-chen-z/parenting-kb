@@ -8,7 +8,7 @@ front:
 
 back:
   why_matters: |
-    松田 §504 反"性别角色刻板"派(1967 年立场前卫):
+    松田 反"性别角色刻板"派(1967 年立场前卫):
     1. "像男孩样" / "像女孩样" 都是大人强加;
     2. 男孩弱 / 女孩好动都不是病;
     3. 重要是孩子做自己 — 不为符合性别期待委屈;
@@ -36,6 +36,8 @@ back:
 
 glossary_refs:
   - G-PERSON-Matsuda
+  - G-PERSON-Lansbury
+  - G-PERSON-Brazelton
 
 citation:
   book_title_zh: "定本育儿百科"

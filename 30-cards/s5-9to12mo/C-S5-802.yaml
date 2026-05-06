@@ -8,7 +8,7 @@ front:
 
 back:
   why_matters: |
-    松田 §308 给"宝宝怎么哄都不睡"妈妈具体处方:
+    松田 给"宝宝怎么哄都不睡"妈妈具体处方:
     1. 入睡难易是天性 — 训练改不了;
     2. **核心办法:让宝宝十分疲倦后再进被窝** —
        白天多户外 + 临睡前洗澡;
@@ -37,6 +37,9 @@ back:
 
 glossary_refs:
   - G-PERSON-Matsuda
+  - G-PERSON-Karp
+  - G-PERSON-Lansbury
+  - G-TERM-five-s
 
 citation:
   book_title_zh: "定本育儿百科"

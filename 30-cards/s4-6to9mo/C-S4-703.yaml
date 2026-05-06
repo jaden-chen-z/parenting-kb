@@ -8,7 +8,7 @@ front:
 
 back:
   why_matters: |
-    松田 §216 给 7-8 月排便训练硬指标：
+    松田 给 7-8 月排便训练硬指标：
     1. 7-8 月吃代乳食后大便像成人，便盆比尿布省事;
     2. **便盆超 1 分钟就抱起** — 婴儿不舒服会哭;
     3. 是否成功"完全在于母亲精神作用";
@@ -58,6 +58,7 @@ back:
         stance: 把屎把尿(EC) + 3 岁前完成,以家长信号为主;中医认为憋尿伤肾。
 glossary_refs:
   - G-PERSON-Matsuda
+  - G-PERSON-Brazelton
 
 citation:
   book_title_zh: "定本育儿百科"

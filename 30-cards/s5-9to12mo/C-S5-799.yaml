@@ -8,7 +8,7 @@ front:
 
 back:
   why_matters: |
-    松田 §295 给"我家娃不会说话"妈妈一刀直击：
+    松田 给"我家娃不会说话"妈妈一刀直击：
     1. 不教不会说 — 会说话不是自动的;
     2. 必须面对面,看母亲口形;
     3. 发音清楚准确，"演口技不动嘴"不行;
@@ -35,6 +35,8 @@ back:
 
 glossary_refs:
   - G-PERSON-Matsuda
+  - G-PERSON-Lansbury
+  - G-PERSON-Brazelton
 
 citation:
   book_title_zh: "定本育儿百科"

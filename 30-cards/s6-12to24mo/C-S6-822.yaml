@@ -8,7 +8,7 @@ front:
 
 back:
   why_matters: |
-    松田 §378 给"母子分离"硬规则:
+    松田 给"母子分离"硬规则:
     1. 1.5 岁开始送托孩子很难离开妈;
     2. 硬塞给保育员就离开 — 孩子会一刻不停缠保育员;
     3. **母子分离需要准备期**(2-3 周);
@@ -38,6 +38,8 @@ back:
 
 glossary_refs:
   - G-PERSON-Matsuda
+  - G-PERSON-Brazelton
+  - G-PERSON-Bowlby
 
 citation:
   book_title_zh: "定本育儿百科"

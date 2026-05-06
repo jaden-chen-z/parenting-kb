@@ -8,7 +8,7 @@ front:
 
 back:
   why_matters: |
-    松田 §33 第二节明确反对"营养主义"喂奶：
+    松田 第二节明确反对"营养主义"喂奶：
     母乳是连接母婴的纽带 — 在最近距离看孩子的脸、
     抚摸肌肤、读他高兴 / 不高兴 / 身体状况。
     "用枕头支着奶瓶让孩子吃" = 非人类喂奶方法。
@@ -33,6 +33,8 @@ back:
 
 glossary_refs:
   - G-PERSON-Matsuda
+  - G-PERSON-Brazelton
+  - G-TERM-RIE
 
 citation:
   book_title_zh: "定本育儿百科"

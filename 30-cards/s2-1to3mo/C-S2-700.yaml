@@ -8,7 +8,7 @@ front:
 
 back:
   why_matters: |
-    松田 §99 + §126 给"婴儿体操"具体操作(日式核心动作):
+    松田 给"婴儿体操"具体操作(日式核心动作):
     1. 1-2 月吃奶 1 小时后情绪好时做;
     2. **腿部体操**:屈曲膝关节 + 伸曲腿,
        一边唱"屈伸"歌一边做;
@@ -37,6 +37,8 @@ back:
 
 glossary_refs:
   - G-PERSON-Matsuda
+  - G-PERSON-Karp
+  - G-TERM-five-s
 
 citation:
   book_title_zh: "定本育儿百科"

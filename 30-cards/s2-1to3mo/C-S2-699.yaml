@@ -8,7 +8,7 @@ front:
 
 back:
   why_matters: |
-    松田 §117 给上班妈妈直接立场：
+    松田 给上班妈妈直接立场：
     1. 双职工家庭需夫妻双方齐心维护，
        保育园不只是为母亲服务的；
     2. 接送 / 病儿接走不该全是妈妈，
@@ -35,6 +35,8 @@ back:
 
 glossary_refs:
   - G-PERSON-Matsuda
+  - G-PERSON-Brazelton
+  - G-PERSON-Davies
 
 citation:
   book_title_zh: "定本育儿百科"

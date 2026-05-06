@@ -8,7 +8,7 @@ front:
 
 back:
   why_matters: |
-    ⚠️ **2026 修订**:松田 §159 (1967) 原文含两处现代证据不支持的建议:
+    ⚠️ **2026 修订**:松田 (1967) 原文含两处现代证据不支持的建议:
     "灌肠"(对正常婴儿不推荐,有黏膜损伤风险)+ "母亲停喝牛奶"(乳糖不通过母乳,
     现代证据不支持)。本卡 what_to_do 已删除 + 改为可疑过敏咨询儿科。
 
@@ -38,6 +38,8 @@ back:
 
 glossary_refs:
   - G-PERSON-Matsuda
+  - G-PERSON-Karp
+  - G-PERSON-Brazelton
 
 citation:
   book_title_zh: "定本育儿百科"

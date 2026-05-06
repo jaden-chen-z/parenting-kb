@@ -8,7 +8,7 @@ front:
 
 back:
   why_matters: |
-    松田 §332 给 1 岁起的玩耍场所核心规则：
+    松田 给 1 岁起的玩耍场所核心规则：
     1. 1-1.5 岁的玩耍是"发现自身天分"的过程;
     2. 大全身用力的玩具最受欢迎(秋千 / 滑梯 / 推车 / 皮球);
     3. 想象力靠积木 + 蜡笔 + 娃娃;
@@ -36,6 +36,7 @@ back:
 
 glossary_refs:
   - G-PERSON-Matsuda
+  - G-PERSON-Lansbury
 
 citation:
   book_title_zh: "定本育儿百科"

@@ -8,7 +8,7 @@ front:
 
 back:
   why_matters: |
-    松田 §273 给职场妈妈最人性化的立场：
+    松田 给职场妈妈最人性化的立场：
     1. 9 月还断不了母乳的婴儿不必硬断;
     2. 只要不影响代乳食品就喂;
     3. 整天缠着不吃饭才考虑停;
@@ -37,6 +37,8 @@ back:
 
 glossary_refs:
   - G-PERSON-Matsuda
+  - G-ABBR-AAP
+  - G-ABBR-WHO
 
 citation:
   book_title_zh: "定本育儿百科"

@@ -8,7 +8,7 @@ front:
 
 back:
   why_matters: |
-    松田 §424 给"3 年还是 2 年幼儿园"立场:
+    松田 给"3 年还是 2 年幼儿园"立场:
     1. 现代街上车多 → 孩子不能远去玩 → 失去"街头朋友";
     2. 独生子女 = 跟妈妈玩 = 跟朋友玩快乐差远了;
     3. 跟同龄朋友:平等 + 竞争 → 学人与人交往;
@@ -35,6 +35,7 @@ back:
 
 glossary_refs:
   - G-PERSON-Matsuda
+  - G-PERSON-Brazelton
 
 citation:
   book_title_zh: "定本育儿百科"

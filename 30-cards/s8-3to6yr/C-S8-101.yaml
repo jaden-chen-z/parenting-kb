@@ -8,7 +8,7 @@ front:
 
 back:
   why_matters: |
-    松田 §428 给"3-4 岁能不能看电视"硬立场:
+    松田 给"3-4 岁能不能看电视"硬立场:
     1. **每天 4 小时看电视 = 对家庭教育的放弃**;
     2. 电视播孩子容易接受的成型内容 → 不用脑 → 长成无创造力 / 无积极性的人;
     3. 电视商人用演员的夸大 / 奉承 / 逗笑 / 卖名 → 让人不知道节制力 / 羞耻心;
@@ -37,6 +37,8 @@ back:
 
 glossary_refs:
   - G-PERSON-Matsuda
+  - G-PERSON-Lansbury
+  - G-PERSON-Brazelton
 
 citation:
   book_title_zh: "定本育儿百科"

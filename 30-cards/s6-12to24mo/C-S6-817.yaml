@@ -8,7 +8,7 @@ front:
 
 back:
   why_matters: |
-    松田 §330 给"什么时候能斥责"硬规则：
+    松田 给"什么时候能斥责"硬规则：
     1. 1 岁孩子斥责只用于专制止瞬间危险行为;
     2. 例:扔餐具 / 走近取暖炉 / 拿打火机 — 这种瞬间;
     3. 不能按"母亲意图"斥责孩子 — 因为
@@ -36,6 +36,8 @@ back:
 
 glossary_refs:
   - G-PERSON-Matsuda
+  - G-PERSON-Lansbury
+  - G-PERSON-Brazelton
 
 citation:
   book_title_zh: "定本育儿百科"

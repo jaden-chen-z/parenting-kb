@@ -8,7 +8,7 @@ front:
 
 back:
   why_matters: |
-    松田 §283 给"我家娃 9 月就特别倔"的妈妈定心丸：
+    松田 给"我家娃 9 月就特别倔"的妈妈定心丸：
     1. 抢打火机后不松手哭 = 自我主见强;
     2. 是天生气质，不是你教坏的;
     3. 不是病，不要吃镇静剂;
@@ -37,6 +37,8 @@ back:
 
 glossary_refs:
   - G-PERSON-Matsuda
+  - G-PERSON-Lansbury
+  - G-PERSON-Brazelton
 
 citation:
   book_title_zh: "定本育儿百科"

@@ -8,7 +8,7 @@ front:
 
 back:
   why_matters: |
-    松田 §259 立场跟现库主流(Davies / Brazelton / 蒙氏)对立：
+    松田 立场跟现库主流(Davies / Brazelton / 蒙氏)对立：
     1. 8 月后婴儿吃奶时一只手抓毛巾 / 蹭被褥;
     2. 别让喜好集中在特定毛巾 — 经常调换;
     3. 一旦养成"宠物癖"(lovey)：
@@ -52,6 +52,9 @@ back:
 glossary_refs:
   - G-PERSON-Matsuda
   - G-TERM-lovey
+  - G-PERSON-Lansbury
+  - G-PERSON-Brazelton
+  - G-PERSON-Davies
 
 citation:
   book_title_zh: "定本育儿百科"

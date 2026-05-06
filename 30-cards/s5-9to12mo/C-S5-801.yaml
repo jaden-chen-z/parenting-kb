@@ -8,7 +8,7 @@ front:
 
 back:
   why_matters: |
-    松田 §291(10-11 月制止婴儿做不该做的事情)给硬规则:
+    松田(10-11 月制止婴儿做不该做的事情)给硬规则:
     1. 9-10 月起婴儿能听懂"不能";
     2. 但不能讲道理 — 注意力短;
     3. 危险动作(碰取暖炉 / 拿打火机)要严厉但简短;
@@ -35,6 +35,8 @@ back:
 
 glossary_refs:
   - G-PERSON-Matsuda
+  - G-PERSON-Lansbury
+  - G-TERM-RIE
 
 citation:
   book_title_zh: "定本育儿百科"

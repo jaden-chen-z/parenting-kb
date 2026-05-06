@@ -8,7 +8,7 @@ front:
 
 back:
   why_matters: |
-    松田 §329 给"1 岁孩子在地上打滚"妈妈核心规则：
+    松田 给"1 岁孩子在地上打滚"妈妈核心规则：
     1. 1 岁的打滚是天生情感发泄方式 — 不是病；
     2. **第 1 次最关键** — 妈妈一旦屈服，
        孩子学会"打滚 = 支配父母"；
@@ -39,6 +39,8 @@ back:
 
 glossary_refs:
   - G-PERSON-Matsuda
+  - G-PERSON-Lansbury
+  - G-PERSON-Brazelton
 
 citation:
   book_title_zh: "定本育儿百科"
