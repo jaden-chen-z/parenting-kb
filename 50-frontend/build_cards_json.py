@@ -55,6 +55,25 @@ STAGE_EN = {
 TAG_PRIORITY = ["red_flag", "safety", "controversy", "philosophy"]
 
 
+def has_list_markers(text):
+    """检测文本是否含 markdown 列表标记(行首 `1. ` / `- ` / `* ` 等)。
+    用于决定是否在折叠空白时保留换行 — 列表必须保留换行才能阅读。
+    """
+    return bool(re.search(r"(?m)^\s*(?:\d+[.)]\s|[-*+]\s)", text))
+
+
+def normalize_paragraph(p):
+    """归一化单段文本:
+    - 含列表标记 → 保留 `\n`(只清掉行尾空白和重复空格)
+    - 纯散文 → 折叠 `\n` 为空格(老行为,避免句句换行)
+    """
+    p = p.strip()
+    if has_list_markers(p):
+        lines = [re.sub(r"  +", " ", line.rstrip()) for line in p.split("\n")]
+        return "\n".join(lines)
+    return re.sub(r"\s+", " ", p.replace("\n", " "))
+
+
 def split_lede_body(text):
     """把 why_matters 的多行文本拆成 lede(一句话) + body[](后续段落)。
 
@@ -62,14 +81,17 @@ def split_lede_body(text):
     1. 优先按段落空行拆;
     2. 单段文本按 Chinese 句号 。 拆,首句作 lede,余下分组成 body 段落;
     3. 极短文本(<60 字)整体作 lede,body 为空。
+
+    换行处理:含列表标记的段落保留 `\n`(前端 whiteSpace: pre-wrap 渲染),
+    纯散文段落折叠 `\n` 为空格(避免句句换行)。
     """
     if not text:
         return "", []
     text = text.strip()
 
-    # 段落级拆分(空行分段)
+    # 段落级拆分(空行分段),每段独立归一化
     paragraphs = [
-        p.strip().replace("\n", " ").replace("  ", " ")
+        normalize_paragraph(p)
         for p in re.split(r"\n\s*\n", text)
         if p.strip()
     ]
@@ -91,20 +113,21 @@ def split_lede_body(text):
     if len(sentences) <= 1:
         return single, []
     if len(sentences) == 2:
-        return sentences[0], [sentences[1]]
+        # 句子层面再归一化:lede 含列表保留 \n,body 纯散文则折叠
+        return normalize_paragraph(sentences[0]), [normalize_paragraph(sentences[1])]
 
     # 多句子:首 1 句作 lede,余下每 2-3 句一段
-    lede = sentences[0]
+    lede = normalize_paragraph(sentences[0])
     rest = sentences[1:]
     body = []
     chunk = []
     for s in rest:
         chunk.append(s)
         if len(chunk) >= 2:
-            body.append("".join(chunk))
+            body.append(normalize_paragraph("".join(chunk)))
             chunk = []
     if chunk:
-        body.append("".join(chunk))
+        body.append(normalize_paragraph("".join(chunk)))
     return lede, body
 
 

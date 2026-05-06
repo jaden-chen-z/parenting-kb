@@ -262,13 +262,16 @@ function Card({ data, total, color, glossaryById, onTermClick, isFavorited, onTo
           {data.front.title}
         </h1>
 
-        {/* lede —— 首段，drop cap 风格的开场 */}
+        {/* lede —— 首段，drop cap 风格的开场
+            whiteSpace: pre-wrap — build_cards_json.py 在含列表标记时保留 \n;
+                                   纯散文段不含 \n,无视觉影响。 */}
         <p style={{
           margin: '22px 0 0',
           fontFamily: "'Noto Serif SC', 'Source Han Serif SC', Georgia, serif",
           fontSize: 15,
           lineHeight: 1.85,
           color: ink,
+          whiteSpace: 'pre-wrap',
           /* 不用 text-wrap: pretty — 它为避免寡行会把中间行也提前换,中文里看着右边一片留白 */
         }}>
           {parseRichText(data.back.lede, ink, richCtx)}
@@ -322,6 +325,7 @@ function Card({ data, total, color, glossaryById, onTermClick, isFavorited, onTo
             fontSize: 14.5,
             lineHeight: 1.85,
             color: ink,
+            whiteSpace: 'pre-wrap',
             /* 不用 text-wrap: pretty,理由同 lede */
           }}>
             {parseRichText(para, ink, richCtx)}
@@ -403,6 +407,7 @@ function Card({ data, total, color, glossaryById, onTermClick, isFavorited, onTo
             lineHeight: 1.85,
             color: ink70,
             fontStyle: 'italic',
+            whiteSpace: 'pre-wrap',
           }}>
             {parseRichText(data.back.fail, ink, richCtx)}
           </div>
