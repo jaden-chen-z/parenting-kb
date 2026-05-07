@@ -67,7 +67,7 @@
     { color: CARD_COLORS[2], cx: 195, cy: 210, w: 230, h: 320, rot: 4 },
   ];
 
-  function FolderSVG({ instanceId = 'fa' }) {
+  function FolderSVG({ instanceId = 'fa', onAreaClick }) {
     const back = folderBackPath();
     const front = folderFrontPath();
     const PAD = 30;
@@ -109,6 +109,10 @@
           <clipPath id={`fc-${instanceId}`}><path d={front} /></clipPath>
         </defs>
 
+        {/* 整个 painted 区域包一层 g 接 onClick — 任意子 path/rect(visiblePainted)被命中,
+            事件冒泡到 g 触发 React onClick。这样不依赖外层 button 接收事件,绕开
+            iOS Safari 对 pointer-events:none 元素 click 不可靠的 quirk */}
+        <g onClick={onAreaClick} style={{ cursor: onAreaClick ? 'pointer' : 'default' }}>
         <ellipse cx={W / 2 + 10} cy={H + earH + 14} rx={W * 0.42} ry={14}
                  fill="rgba(0,0,0,0.32)" opacity="0.5" />
 
@@ -152,6 +156,7 @@
                  C ${W * 0.35} ${FRONT_TOP - 18}, ${W * 0.7} ${FRONT_TOP - 8}, ${xR} ${FRONT_TOP + 6}`}
               fill="none" stroke="rgba(60,40,18,0.32)" strokeWidth="1.4" />
         <path d={front} fill="none" stroke="rgba(60,40,18,0.22)" strokeWidth="1" />
+        </g>{/* end onClick g */}
       </svg>
     );
   }
@@ -161,11 +166,10 @@
     // 保持文件夹宽高比（自然 ~520x680 → 容器宽: 高 ≈ 1 : 1.31）
     const height = Math.round(width * 0.83);
     return (
-      <button
-        onClick={() => { location.href = 'Favorites.html'; }}
+      <div
+        role="link"
         aria-label="打开收藏夹"
         style={{
-          all: 'unset',
           position: 'absolute',
           left: `${left}%`,
           top: top,
@@ -174,17 +178,15 @@
           marginLeft: -width / 2,
           transform: `rotate(${rot}deg)`,
           transformOrigin: 'center center',
-          cursor: 'pointer',
           zIndex: 50,
           filter: 'drop-shadow(0 8px 14px rgba(60,40,20,0.28))',
-          /* button 自己不接收事件 — 让 hit test 落到内部 SVG 的 path/rect 上(visiblePainted),
-             这样按钮的矩形透明区点不到,只有彩色文件夹 + 卡片形状才能触发 onClick。
-             事件从 path/rect 冒泡到 button 仍会触发 React onClick(pointer-events 不影响冒泡) */
+          /* div wrapper 自己不接收事件 — 矩形透明四角穿透到下层。
+             onClick 不挂这里,挂在 SVG 内的 g 上,直接命中 painted 区域时触发。 */
           pointerEvents: 'none',
         }}
       >
-        <FolderSVG instanceId="fav" />
-      </button>
+        <FolderSVG instanceId="fav" onAreaClick={() => { location.href = 'Favorites.html'; }} />
+      </div>
     );
   }
 

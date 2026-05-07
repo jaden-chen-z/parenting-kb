@@ -356,6 +356,7 @@ function FoldersPage() {
       />
 
       {/* 收藏夹素材锚点 wrapper: 跟 folder stack 同 maxWidth 居中,让 favLeft% 在手机/电脑下相对卡片中心位置一致 */}
+      {/* z-index 必须高于 SwipeStackItem(100+ idx) — 否则文件夹堆遮挡收藏夹素材的 hit test */}
       <div style={{
         position: 'absolute',
         top: 0,
@@ -364,7 +365,7 @@ function FoldersPage() {
         width: '100%',
         maxWidth: 420,
         height: 0,
-        zIndex: 50,
+        zIndex: 200,
       }}>
         {/* 收藏夹素材:位置 / 大小 / 旋转 可在 Tweaks 中调 */}
         <FolderAsset left={t.favLeft} top={t.favTop} width={t.favWidth} rot={t.favRot} />
