@@ -10,7 +10,7 @@
 // Cache key 剥掉 ?t= / ?v= query string —— cards.jsx 用 ?t=Date.now() 绕 iOS 缓存,
 // 但同样会让 SW miss。SW 内部统一用 path-only cache key,实际请求保持原 URL。
 
-const CACHE_NAME = 'pkb-v2';
+const CACHE_NAME = 'pkb-v3';
 
 self.addEventListener('install', () => self.skipWaiting());
 
@@ -22,10 +22,12 @@ self.addEventListener('activate', (event) => {
   );
 });
 
-// 把 URL 的 query 剥掉,做稳定 cache key(?t=xxx 也能命中)
+// Cache key 只剥 ?t= (cards.json/glossary.json 的 Date.now() 时间戳 cache buster),
+// 保留 ?v=(jsx 显式版本号 — v23 vs v24 是不同代码,必须区分)。
+// 没区分会让 SW 在改 jsx 后还命中旧版本,部署完用户拿不到新代码。
 function cacheKey(url) {
   const u = new URL(url);
-  u.search = '';
+  u.searchParams.delete('t');
   u.hash = '';
   return new Request(u.toString());
 }
