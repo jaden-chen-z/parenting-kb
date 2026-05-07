@@ -1,9 +1,15 @@
 glossary_id: G-TERM-lifespan-theory
 type: term
-display_name: "生命周期理论 / lifespan developmental theory"
+display_name: "终身发展理论 (lifespan)"
 
 name_en: "lifespan developmental theory"
 name_zh: "生命周期理论"
+
+aliases:
+  - lifespan
+  - lifespan theory
+  - 终身发展
+  - 终身发展理论
 
 description: |
   Baltes 框架 — 一辈子可塑发展,反早期决定论 + 反关键期论。

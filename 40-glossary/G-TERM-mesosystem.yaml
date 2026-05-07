@@ -1,9 +1,15 @@
 glossary_id: G-TERM-mesosystem
 type: term
-display_name: "中观系统 / mesosystem"
+display_name: "中观系统 (mesosystem)"
 
 name_en: "mesosystem"
 name_zh: "中观系统"
+
+aliases:
+  - mesosystem
+  - 中观系统
+  - 中系统
+  - meso 系统
 
 description: |
   Bronfenbrenner 第 2 层 — 两个 microsystem 之间的关系(家 ↔ 学校)。

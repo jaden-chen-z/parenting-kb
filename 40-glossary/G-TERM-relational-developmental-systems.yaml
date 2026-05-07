@@ -1,9 +1,15 @@
 glossary_id: G-TERM-relational-developmental-systems
 type: term
-display_name: "关系发展系统 / relational developmental systems (RDS)"
+display_name: "关系-发展系统 (RDS)"
 
 name_en: "relational developmental systems (RDS)"
 name_zh: "关系发展系统"
+
+aliases:
+  - relational developmental systems
+  - RDS
+  - 关系-发展系统
+  - 关系发展系统
 
 description: |
   Lerner-Overton 综合框架 — 当代发展心理学元统合(2006+):

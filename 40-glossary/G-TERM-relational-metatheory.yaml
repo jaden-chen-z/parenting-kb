@@ -1,9 +1,14 @@
 glossary_id: G-TERM-relational-metatheory
 type: term
-display_name: "关系元理论 / relational metatheory"
+display_name: "关系式元理论 (relational metatheory)"
 
 name_en: "relational metatheory"
 name_zh: "关系元理论"
+
+aliases:
+  - relational metatheory
+  - 关系式元理论
+  - 关系元理论
 
 description: |
   Overton 提出 — 当代发展心理学元立场。看两端 mutually constituting(互相塑造),不是非此即彼。

@@ -1,9 +1,15 @@
 glossary_id: G-TERM-microsystem
 type: term
-display_name: "微观系统 / microsystem"
+display_name: "微观系统 (microsystem)"
 
 name_en: "microsystem"
 name_zh: "微观系统"
+
+aliases:
+  - microsystem
+  - 微观系统
+  - 微系统
+  - micro 系统
 
 description: |
   Bronfenbrenner 第 1 层 — 父母 / 同胞 / 老师 直接互动环境。

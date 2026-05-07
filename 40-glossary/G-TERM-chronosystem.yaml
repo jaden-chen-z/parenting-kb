@@ -1,9 +1,16 @@
 glossary_id: G-TERM-chronosystem
 type: term
-display_name: "时观系统 / chronosystem"
+display_name: "时观系统 (chronosystem)"
 
 name_en: "chronosystem"
 name_zh: "时观系统"
+
+aliases:
+  - chronosystem
+  - 时观系统
+  - 时系统
+  - 时间系统
+  - chrono 系统
 
 description: |
   Bronfenbrenner 第 5 层 — 历史时段 + 个人发展时间双重维度。

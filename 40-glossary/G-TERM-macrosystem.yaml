@@ -1,9 +1,15 @@
 glossary_id: G-TERM-macrosystem
 type: term
-display_name: "宏观系统 / macrosystem"
+display_name: "宏观系统 (macrosystem)"
 
 name_en: "macrosystem"
 name_zh: "宏观系统"
+
+aliases:
+  - macrosystem
+  - 宏观系统
+  - 宏系统
+  - macro 系统
 
 description: |
   Bronfenbrenner 第 4 层 — 文化 / 经济 / 政治 / 价值观。

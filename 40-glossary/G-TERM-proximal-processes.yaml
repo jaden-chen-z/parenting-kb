@@ -1,9 +1,14 @@
 glossary_id: G-TERM-proximal-processes
 type: term
-display_name: "近端互动 / proximal processes"
+display_name: "近端过程 (proximal processes)"
 
 name_en: "proximal processes"
 name_zh: "近端互动"
+
+aliases:
+  - proximal processes
+  - proximal process
+  - 近端过程
 
 description: |
   Bronfenbrenner 概念 — 父母跟娃每天反复互动的具体活动是发展引擎。

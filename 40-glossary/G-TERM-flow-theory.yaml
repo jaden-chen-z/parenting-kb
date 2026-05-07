@@ -1,9 +1,15 @@
 glossary_id: G-TERM-flow-theory
 type: term
-display_name: "心流理论 / flow theory"
+display_name: "心流理论 (flow theory)"
 
 name_en: "flow theory"
 name_zh: "心流理论"
+
+aliases:
+  - flow theory
+  - 心流理论
+  - 心流
+  - flow
 
 description: |
   Csikszentmihalyi 提出 — 活动本身就是奖励的状态(intrinsic motivation)。

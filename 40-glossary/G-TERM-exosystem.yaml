@@ -1,9 +1,15 @@
 glossary_id: G-TERM-exosystem
 type: term
-display_name: "外观系统 / exosystem"
+display_name: "外观系统 (exosystem)"
 
 name_en: "exosystem"
 name_zh: "外观系统"
+
+aliases:
+  - exosystem
+  - 外观系统
+  - 外系统
+  - exo 系统
 
 description: |
   Bronfenbrenner 第 3 层 — 父母工作 / 政策 / 媒体 间接影响娃的环境。

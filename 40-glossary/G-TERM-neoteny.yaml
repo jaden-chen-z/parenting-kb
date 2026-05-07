@@ -1,9 +1,14 @@
 glossary_id: G-TERM-neoteny
 type: term
-display_name: "幼态延续 / neoteny"
+display_name: "幼态延续 (neoteny)"
 
 name_en: "neoteny"
 name_zh: "幼态延续"
+
+aliases:
+  - neoteny
+  - 幼态延续
+  - 童年期延长
 
 description: |
   Csikszentmihalyi 借生物学概念 — 人保留幼年特性进入成年(玩 / 好奇 / 学习能力)。
