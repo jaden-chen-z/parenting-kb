@@ -165,10 +165,12 @@
   function FolderAsset({ left = 50, top = 30, width = 240, rot = 8 } = {}) {
     // 保持文件夹宽高比（自然 ~520x680 → 容器宽: 高 ≈ 1 : 1.31）
     const height = Math.round(width * 0.83);
+    const openFavorites = () => { location.href = 'Favorites.html'; };
     return (
       <div
         role="link"
         aria-label="打开收藏夹"
+        onClick={openFavorites}
         style={{
           position: 'absolute',
           left: `${left}%`,
@@ -180,12 +182,11 @@
           transformOrigin: 'center center',
           zIndex: 50,
           filter: 'drop-shadow(0 8px 14px rgba(60,40,20,0.28))',
-          /* div wrapper 自己不接收事件 — 矩形透明四角穿透到下层。
-             onClick 不挂这里,挂在 SVG 内的 g 上,直接命中 painted 区域时触发。 */
-          pointerEvents: 'none',
+          cursor: 'pointer',
+          pointerEvents: 'auto',
         }}
       >
-        <FolderSVG instanceId="fav" onAreaClick={() => { location.href = 'Favorites.html'; }} />
+        <FolderSVG instanceId="fav" />
       </div>
     );
   }
