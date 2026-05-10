@@ -170,7 +170,6 @@
       <div
         role="link"
         aria-label="打开收藏夹"
-        onClick={openFavorites}
         style={{
           position: 'absolute',
           left: `${left}%`,
@@ -182,11 +181,13 @@
           transformOrigin: 'center center',
           zIndex: 50,
           filter: 'drop-shadow(0 8px 14px rgba(60,40,20,0.28))',
-          cursor: 'pointer',
-          pointerEvents: 'auto',
+          /* div 自己不接收事件 — 矩形透明四角穿透到下层(登出按钮 / 文件夹堆),
+             只有 SVG 内 painted 区(纸夹 + 卡片 + 描边)被点中触发 onClick。
+             onClick 挂在 SVG 内的 <g> 上,事件从子 path 冒泡上来。 */
+          pointerEvents: 'none',
         }}
       >
-        <FolderSVG instanceId="fav" />
+        <FolderSVG instanceId="fav" onAreaClick={openFavorites} />
       </div>
     );
   }

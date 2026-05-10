@@ -114,35 +114,38 @@ function App() {
           <button className="add" onClick={onAdd} disabled={busy || !users}>+ 添加成员</button>
         </div>
 
-        {usersErr && (
-          <div className="row err">载入失败:{String(usersErr.message)}</div>
-        )}
-        {users && users.length === 0 && (
-          <div className="row empty">暂无成员,点击"添加成员"创建第一个</div>
-        )}
-        {users && users.map((u, i) => {
-          const email = (u.email || '').trim().toLowerCase();
-          const seen = sumSeenFromProgress(allProgress[email]);
-          return (
-            <div className="row" key={email}>
-              <span className="idx">{String(i + 1).padStart(2, '0')}</span>
-              <div className="info">
-                <div className="email">{u.email}</div>
-                {u.name && <div className="name">{u.name}</div>}
+        {/* 用户多了这里独立滚,head 和 footer 锁定 */}
+        <div className="card-list">
+          {usersErr && (
+            <div className="row err">载入失败:{String(usersErr.message)}</div>
+          )}
+          {users && users.length === 0 && (
+            <div className="row empty">暂无成员,点击"添加成员"创建第一个</div>
+          )}
+          {users && users.map((u, i) => {
+            const email = (u.email || '').trim().toLowerCase();
+            const seen = sumSeenFromProgress(allProgress[email]);
+            return (
+              <div className="row" key={email}>
+                <span className="idx">{String(i + 1).padStart(2, '0')}</span>
+                <div className="info">
+                  <div className="email">{u.email}</div>
+                  {u.name && <div className="name">{u.name}</div>}
+                </div>
+                <div className="seen">
+                  {seen == null
+                    ? <span className="dim">— 张</span>
+                    : <span>{seen} <small>张已读</small></span>}
+                </div>
+                <button className="del" onClick={() => onDelete(email)} disabled={busy}>✕</button>
               </div>
-              <div className="seen">
-                {seen == null
-                  ? <span className="dim">— 张</span>
-                  : <span>{seen} <small>张已读</small></span>}
-              </div>
-              <button className="del" onClick={() => onDelete(email)} disabled={busy}>✕</button>
-            </div>
-          );
-        })}
+            );
+          })}
 
-        {flash && (
-          <div className={'flash ' + flash.kind}>{flash.msg}</div>
-        )}
+          {flash && (
+            <div className={'flash ' + flash.kind}>{flash.msg}</div>
+          )}
+        </div>
 
         <div className="footer-note">
           * 已读张数从服务器进度数据汇总,跨设备实时反映该成员的最远阅读位置。

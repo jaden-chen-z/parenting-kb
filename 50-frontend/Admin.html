@@ -93,8 +93,15 @@
   .add:hover:not([disabled]) { background: rgba(122,42,42,0.08); }
   .add[disabled] { opacity: 0.5; cursor: default; }
 
+  /* 列表区域:独立滚,head 和 footer 固定 */
+  .card-list {
+    flex: 1;
+    min-height: 0;
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+
   /* 单行 */
-  .card { overflow-y: auto; }
   .row {
     padding: 12px 18px;
     display: grid;
@@ -183,6 +190,6 @@
 
 <script src="vendor/react.production.min.js"></script>
 <script src="vendor/react-dom.production.min.js"></script>
-<script src="admin.js?v=3"></script>
+<script src="admin.js?v=4"></script>
 <script>if("serviceWorker" in navigator)addEventListener("load",()=>navigator.serviceWorker.register("/sw.js"));</script></body>
 </html>
