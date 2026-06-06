@@ -168,9 +168,6 @@
     const openFavorites = () => { location.href = 'Favorites.html'; };
     return (
       <div
-        role="link"
-        aria-label="打开收藏夹"
-        onClick={openFavorites}
         style={{
           position: 'absolute',
           left: `${left}%`,
@@ -182,14 +179,32 @@
           transformOrigin: 'center center',
           zIndex: 50,
           filter: 'drop-shadow(0 8px 14px rgba(60,40,20,0.28))',
-          cursor: 'pointer',
-          /* div 接收 click — iOS Safari 上 SVG <g> 的 onClick 不可靠,div onClick 最稳。
-             wrapper(folders.jsx)z-index 已设 50:登出按钮 z:60 / 文件夹堆 z:100+
-             都更高,在视觉重叠区自动接管事件,收藏夹只在自己独占的露出区接收。 */
-          pointerEvents: 'auto',
+          /* 外层只负责定位+视觉,不接收点击 —— 旋转矩形透明四角放行,事件穿透,
+             避免覆盖到登出按钮 / 文件夹堆 */
+          pointerEvents: 'none',
         }}
       >
         <FolderSVG instanceId="fav" />
+        {/* 命中区:只覆盖中央文件夹主体,四周内缩。
+            ⚠️ 旋转 -160°(≈180° 翻转)→ CSS 方向跟屏幕反:
+              屏幕左 ← right / 屏幕下 ← top / 屏幕右 ← left / 屏幕上(登出侧) ← bottom
+            当前 inset: top/right=0%、left/bottom=20%
+              → 屏幕坐标系下:左 + 下扩到边,右 + 上(登出侧)各内缩 20%
+            如果 rot 变了或视觉跟期望不符,把 top↔bottom / left↔right 对调。 */}
+        <div
+          role="link"
+          aria-label="打开收藏夹"
+          onClick={openFavorites}
+          style={{
+            position: 'absolute',
+            top: '0%',
+            bottom: '20%',
+            left: '20%',
+            right: '0%',
+            pointerEvents: 'auto',
+            cursor: 'pointer',
+          }}
+        />
       </div>
     );
   }
