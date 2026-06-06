@@ -170,6 +170,7 @@
       <div
         role="link"
         aria-label="打开收藏夹"
+        onClick={openFavorites}
         style={{
           position: 'absolute',
           left: `${left}%`,
@@ -181,13 +182,14 @@
           transformOrigin: 'center center',
           zIndex: 50,
           filter: 'drop-shadow(0 8px 14px rgba(60,40,20,0.28))',
-          /* div 自己不接收事件 — 矩形透明四角穿透到下层(登出按钮 / 文件夹堆),
-             只有 SVG 内 painted 区(纸夹 + 卡片 + 描边)被点中触发 onClick。
-             onClick 挂在 SVG 内的 <g> 上,事件从子 path 冒泡上来。 */
-          pointerEvents: 'none',
+          cursor: 'pointer',
+          /* div 接收 click — iOS Safari 上 SVG <g> 的 onClick 不可靠,div onClick 最稳。
+             wrapper(folders.jsx)z-index 已设 50:登出按钮 z:60 / 文件夹堆 z:100+
+             都更高,在视觉重叠区自动接管事件,收藏夹只在自己独占的露出区接收。 */
+          pointerEvents: 'auto',
         }}
       >
-        <FolderSVG instanceId="fav" onAreaClick={openFavorites} />
+        <FolderSVG instanceId="fav" />
       </div>
     );
   }

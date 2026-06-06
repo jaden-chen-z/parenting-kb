@@ -356,7 +356,11 @@ function FoldersPage() {
       />
 
       {/* 收藏夹素材锚点 wrapper: 跟 folder stack 同 maxWidth 居中,让 favLeft% 在手机/电脑下相对卡片中心位置一致 */}
-      {/* z-index 必须高于 SwipeStackItem(100+ idx) — 否则文件夹堆遮挡收藏夹素材的 hit test */}
+      {/* z-index = 50,低于 SwipeStackItem(100+ idx)和登出按钮(60)。
+          视觉重叠区由 z 更高的元素自然接管 hit-test:
+          - 登出按钮覆盖区 → 登出接收 click
+          - 文件夹堆视觉延伸到收藏夹素材的部分 → 文件夹堆接收 touch
+          - 剩下露出的纸夹形 / 卡片视觉区 → 收藏夹 div 接收 click */}
       <div style={{
         position: 'absolute',
         top: 0,
@@ -365,7 +369,7 @@ function FoldersPage() {
         width: '100%',
         maxWidth: 420,
         height: 0,
-        zIndex: 200,
+        zIndex: 50,
       }}>
         {/* 收藏夹素材:位置 / 大小 / 旋转 可在 Tweaks 中调 */}
         <FolderAsset left={t.favLeft} top={t.favTop} width={t.favWidth} rot={t.favRot} />
